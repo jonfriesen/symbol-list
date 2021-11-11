@@ -1,0 +1,24 @@
+name: Update (daily @ 2am)
+on:
+  schedule:
+  - cron: '0 2 * * *'
+jobs:
+  manual-archive:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install Go
+      uses: actions/setup-go@v2
+
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Retrieve new records
+      run: go run cmd/retrieve/main.go
+
+    - name: Commit
+      run: |
+        git config --global user.name 'archive bot'
+        git config --global user.email 'jonfriesen@users.noreply.github.com'
+        git add data/*
+        git commit -m "Automated report"
+        git push

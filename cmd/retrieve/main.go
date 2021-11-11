@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"os"
 	"sync"
 	"time"
 
@@ -9,6 +10,7 @@ import (
 	"github.com/jonfriesen/symbol-list/internal/model"
 	"github.com/jonfriesen/symbol-list/internal/sources/nasdaq"
 	"github.com/jonfriesen/symbol-list/internal/sources/tsx"
+	"github.com/pkg/errors"
 	"golang.org/x/sync/errgroup"
 )
 
@@ -91,7 +93,17 @@ func main() {
 
 	fmt.Printf("Found %d securities\n", len(securities))
 
+	err = os.MkdirAll("data", os.ModePerm)
+	if err != nil {
+		fmt.Println(errors.Wrap(err, "failed to create directory"))
+		return
+	}
+
 	fName := time.Now().Format("2006-01-02")
 
-	export.JSON("data/"+fName, securities)
+	err = export.JSON("data/"+fName, securities)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
 }
