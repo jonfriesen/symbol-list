@@ -1,6 +1,9 @@
 {
 	"name": "symbol-list",
 	"version": "0.0.1",
+	"engines": {
+		"node": ">=16.9.0"
+	},
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
