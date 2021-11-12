@@ -3,7 +3,7 @@
 	let fileDate = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getUTCDate();
 
 	// Use yesterdays archive if it's too early for todays
-	if (today.getUTCHours() < 3) {
+	if (today.getUTCHours() < 2) {
 		const yesterday = new Date(today);
 		yesterday.setDate(yesterday.getUTCDate() - 1);
 		fileDate =
