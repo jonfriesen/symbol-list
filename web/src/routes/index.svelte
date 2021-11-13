@@ -59,8 +59,58 @@
 	</div>
 </div>
 
-<div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-	<!-- todo content -->
+<div class="bg-gray-900">
+  <div class="max-w-7xl mx-auto py-8 px-4 sm:py-10 sm:px-6 lg:px-8">
+    <div class="lg:max-w-2xl lg:mx-auto lg:text-center">
+      <h2 class="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">
+        Frequently asked questions
+      </h2>
+      <p class="mt-4 text-gray-400">Hopefully these answer your questions, feel free to reach out on twitter <a class="font-semibold text-gray-300 hover:text-gray-200" href="https://twitter.com/jonfriesen" target="_blank">@jonfriesen</a></p>
+			
+    </div>
+    <div class="mt-20">
+      <dl class="space-y-10 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-10">
+				<div>
+          <dt class="font-semibold text-white">
+            Why was this project created?
+          </dt>
+          <dd class="mt-3 text-gray-400">
+            Finding reliable and accurate bulk symbols lists that didn't break the bank was a huge challenge. I've written a few small tools to help me manage my portfolio and analyze the market. One of the public projects is <a class="font-semibold text-gray-300 hover:text-gray-200" href="https://buythe.top" target="_blank">🤖 buy the top bot</a> which uses these symbols to return stock data in Telegram channels.
+          </dd>
+        </div>
+        <div>
+          <dt class="font-semibold text-white">
+            Where does this data come from?
+          </dt>
+          <dd class="mt-3 text-gray-400">
+            In it's current iteration this data is pulled directly from the nasdaq and tsx exchanges. Fortunately, the nasdaq includes a full list of other listed symbols which includes the NYSE. Here are the sources:
+						<ul class="list-inside list-disc">
+							<li><a class="font-semibold text-gray-300 hover:text-gray-200" href="ftp://ftp.nasdaqtrader.com/symboldirectory/nasdaqlisted.txt" target="_blank">nasdaq symbols (ftp)</a></li>
+							<li><a class="font-semibold text-gray-300 hover:text-gray-200" href="ftp://ftp.nasdaqtrader.com/symboldirectory/otherlisted.txt" target="_blank">nyse (and other) symbols (ftp)</a></li>
+							<li><a class="font-semibold text-gray-300 hover:text-gray-200" href="https://www.tsx.com/json/company-directory/search/tsx/^*" target="_blank">tsx</a></li>
+							<li><a class="font-semibold text-gray-300 hover:text-gray-200" href="https://www.tsx.com/json/company-directory/search/tsxv/^*" target="_blank">tsxv</a></li>
+						</ul>
+          </dd>
+        </div>
+				<div>
+          <dt class="font-semibold text-white">
+            How does it work?
+          </dt>
+          <dd class="mt-3 text-gray-400">
+            The data is pulled from the exchanges and compiled into a single JSON file. The data is then stored in a public GitHub repository. The data is updated daily using a scheduled GitHub Action workflow. Once the action to get the latest symbol list is run, the new data is commited to the same repository. One new commits a DigitalOcean App Platform triggers and builds the static site with the latest dataset.
+          </dd>
+        </div>
+				<div>
+          <dt class="font-semibold text-white">
+            Who are you?
+          </dt>
+          <dd class="mt-3 text-gray-400">
+            👋&nbsp; I'm <a class="font-semibold text-gray-300 hover:text-gray-200" href="https://jonfriesen.ca" target="_blank">Jon!</a> I'm a software engineer who mainly works on cloud platform as a service products.
+          </dd>
+        </div>
+      </dl>
+    </div>
+  </div>
 </div>
 
 <footer class="bg-gray-800 h-screen">
