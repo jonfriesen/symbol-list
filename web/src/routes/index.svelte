@@ -47,22 +47,36 @@
 		</h2>
 		<p class="mt-4 text-lg leading-6 text-gray-200">
 			NASDAQ, NYSE, TSX, & TSXV symbol lists pulled and compiled every night directly from the
-			exchanges.
+			exchanges. As well as Cryptocurrencies from CryptoCompare.
 		</p>
 		<a
 			href="/data/daily-symbol-list.json"
 			download="symbol-list-{fileDate}.json"
-			class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md transition-all duration-500 text-gray-200 bg-white hover:bg-gray-50 sm:w-auto bg-gradient-to-br hover:from-green-400 hover:to-blue-500 from-pink-600 via-pink-500 to-yellow-500 "
+			class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md transition-all duration-500 text-gray-200 bg-white sm:w-auto bg-gradient-to-br hover:from-green-400 hover:to-blue-500 from-pink-600 via-pink-500 to-yellow-500 "
 		>
 			Download JSON dataset ({fileDate})
 		</a>
 		<a
 			href="/data/daily-symbol-list.csv"
 			download="symbol-list-{fileDate}.csv"
-			class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md transition-all duration-500 text-gray-200 bg-white hover:bg-gray-50 sm:w-auto bg-gradient-to-br hover:from-green-400 hover:to-blue-500 from-pink-600 via-pink-500 to-yellow-500 "
+			class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md transition-all duration-500 text-gray-200 bg-white sm:w-auto bg-gradient-to-br hover:from-green-400 hover:to-blue-500 from-pink-600 via-pink-500 to-yellow-500 "
 		>
 			Download CSV dataset ({fileDate})
 		</a>
+		<a
+		href="/data/daily-crypto-symbol-list.json"
+		download="crypto-symbol-list-{fileDate}.json"
+		class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md transition-all duration-500 text-gray-200 bg-white sm:w-auto bg-gradient-to-br from-green-400 to-blue-500 hover:from-pink-600 hover:via-pink-500 hover:to-yellow-500"
+	>
+		Download Crypto JSON dataset ({fileDate})
+	</a>
+	<a
+		href="/data/daily-crypto-symbol-list.csv"
+		download="crypto-symbol-list-{fileDate}.csv"
+		class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md transition-all duration-500 text-gray-200 bg-white sm:w-auto bg-gradient-to-br from-green-400 to-blue-500 hover:from-pink-600 hover:via-pink-500 hover:to-yellow-500"
+	>
+		Download Crypto CSV dataset ({fileDate})
+	</a>
 	</div>
 </div>
 
@@ -90,12 +104,13 @@
             Where does this data come from?
           </dt>
           <dd class="mt-3 text-gray-400">
-            In it's current iteration this data is pulled directly from the nasdaq and tsx exchanges. Fortunately, the nasdaq includes a full list of other listed symbols which includes the NYSE. Here are the sources:
+            In it's current iteration this data is pulled directly from the nasdaq and tsx exchanges. Fortunately, the nasdaq includes a full list of other listed symbols which includes the NYSE. Cryptocurrencies are provided by cryptocompare. Here are the sources:
 						<ul class="list-inside list-disc">
 							<li><a class="font-semibold text-gray-300 hover:text-gray-200" href="ftp://ftp.nasdaqtrader.com/symboldirectory/nasdaqlisted.txt" target="_blank">nasdaq symbols (ftp)</a></li>
 							<li><a class="font-semibold text-gray-300 hover:text-gray-200" href="ftp://ftp.nasdaqtrader.com/symboldirectory/otherlisted.txt" target="_blank">nyse (and other) symbols (ftp)</a></li>
 							<li><a class="font-semibold text-gray-300 hover:text-gray-200" href="https://www.tsx.com/json/company-directory/search/tsx/^*" target="_blank">tsx</a></li>
 							<li><a class="font-semibold text-gray-300 hover:text-gray-200" href="https://www.tsx.com/json/company-directory/search/tsxv/^*" target="_blank">tsxv</a></li>
+							<li><a class="font-semibold text-gray-300 hover:text-gray-200" href="https://cryptocompare.com" target="_blank">cryptocompare</a></li>
 						</ul>
           </dd>
         </div>
