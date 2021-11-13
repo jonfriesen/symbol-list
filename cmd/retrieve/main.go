@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"os"
 	"sync"
 	"time"
@@ -10,7 +11,6 @@ import (
 	"github.com/jonfriesen/symbol-list/internal/model"
 	"github.com/jonfriesen/symbol-list/internal/sources/nasdaq"
 	"github.com/jonfriesen/symbol-list/internal/sources/tsx"
-	"github.com/pkg/errors"
 	"golang.org/x/sync/errgroup"
 )
 
@@ -26,7 +26,6 @@ func main() {
 		nasdaqClient := nasdaq.New()
 		ls, err := nasdaqClient.GetListedSymbols()
 		if err != nil {
-			fmt.Println(err)
 			return err
 		}
 
@@ -42,7 +41,6 @@ func main() {
 		nasdaqClient := nasdaq.New()
 		os, err := nasdaqClient.GetOtherSymbols()
 		if err != nil {
-			fmt.Println(err)
 			return err
 		}
 
@@ -58,7 +56,6 @@ func main() {
 		tsxClient := tsx.New()
 		tsx, err := tsxClient.GetSymbols()
 		if err != nil {
-			fmt.Println(err)
 			return err
 		}
 
@@ -74,7 +71,6 @@ func main() {
 		tsxClient := tsx.New()
 		tsxv, err := tsxClient.GetVentureSymbols()
 		if err != nil {
-			fmt.Println(err)
 			return err
 		}
 
@@ -87,16 +83,14 @@ func main() {
 
 	err := eg.Wait()
 	if err != nil {
-		fmt.Println(err)
-		return
+		log.Fatalln(err)
 	}
 
 	fmt.Printf("Found %d securities\n", len(securities))
 
 	err = os.MkdirAll("data", os.ModePerm)
 	if err != nil {
-		fmt.Println(errors.Wrap(err, "failed to create directory"))
-		return
+		log.Fatalln("failed to create directory", err)
 	}
 
 	fName := time.Now().Format("2006-01-02")
@@ -108,13 +102,11 @@ func main() {
 
 	err = export.JSON("data/"+fName, col)
 	if err != nil {
-		fmt.Println(err)
-		return
+		log.Fatalln(err)
 	}
 
 	err = export.CSV("data/"+fName, col)
 	if err != nil {
-		fmt.Println(err)
-		return
+		log.Fatalln(err)
 	}
 }
