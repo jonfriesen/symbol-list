@@ -6,11 +6,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/jonfriesen/symbol-list/internal/model"
 	"github.com/pkg/errors"
 )
 
-func JSON(filePath string, data *model.Export) error {
+func JSON(filePath string, data interface{}) error {
 	file, err := json.MarshalIndent(data, "", " ")
 	if err != nil {
 		return errors.Wrap(err, "failed to marshal data")
@@ -24,7 +23,12 @@ func JSON(filePath string, data *model.Export) error {
 	return nil
 }
 
-func CSV(filePath string, data *model.Export) error {
+type Export interface {
+	CSVHeader() []string
+	Data() [][]string
+}
+
+func CSV(filePath string, data Export) error {
 	csvfile, err := os.Create(filePath + ".csv")
 	if err != nil {
 		return errors.Wrap(err, "failed creating file")
@@ -38,8 +42,8 @@ func CSV(filePath string, data *model.Export) error {
 		return errors.Wrap(err, "failed writing header")
 	}
 
-	for _, row := range data.Data {
-		err = csvwriter.Write(row.Row())
+	for _, row := range data.Data() {
+		err = csvwriter.Write(row)
 		if err != nil {
 			return errors.Wrap(err, "failed writing csv file")
 		}

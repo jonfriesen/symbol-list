@@ -9,6 +9,7 @@ import (
 
 	"github.com/jonfriesen/symbol-list/internal/export"
 	"github.com/jonfriesen/symbol-list/internal/model"
+	"github.com/jonfriesen/symbol-list/internal/sources/crypto"
 	"github.com/jonfriesen/symbol-list/internal/sources/nasdaq"
 	"github.com/jonfriesen/symbol-list/internal/sources/tsx"
 	"golang.org/x/sync/errgroup"
@@ -20,6 +21,9 @@ func main() {
 
 	var securitiesMutext sync.Mutex
 	var securities []*model.Security
+
+	var cryptoMutext sync.Mutex
+	var cryptoCurrencies []*model.Crypto
 
 	eg.Go(func() error {
 		fmt.Println("Retrieving Nasdaq listed securities")
@@ -81,12 +85,28 @@ func main() {
 		return nil
 	})
 
+	eg.Go(func() error {
+		fmt.Println("Retrieving Cryptocurrencies")
+		cryptoClient := crypto.New()
+		c, err := cryptoClient.GetSymbols()
+		if err != nil {
+			return err
+		}
+
+		cryptoMutext.Lock()
+		cryptoCurrencies = append(cryptoCurrencies, c...)
+		cryptoMutext.Unlock()
+
+		return nil
+	})
+
 	err := eg.Wait()
 	if err != nil {
 		log.Fatalln(err)
 	}
 
 	fmt.Printf("Found %d securities\n", len(securities))
+	fmt.Printf("Found %d cryptocurrencies\n", len(cryptoCurrencies))
 
 	err = os.MkdirAll("data", os.ModePerm)
 	if err != nil {
@@ -95,9 +115,9 @@ func main() {
 
 	fName := time.Now().Format("2006-01-02")
 
-	col := &model.Export{
-		Date: fName,
-		Data: securities,
+	col := &model.SecurityExport{
+		Date:       fName,
+		Securities: securities,
 	}
 
 	err = export.JSON("data/"+fName, col)
@@ -106,6 +126,21 @@ func main() {
 	}
 
 	err = export.CSV("data/"+fName, col)
+	if err != nil {
+		log.Fatalln(err)
+	}
+
+	cryptoCol := &model.CryptoExport{
+		Date:       fName,
+		Currencies: cryptoCurrencies,
+	}
+
+	err = export.JSON("data/"+fName+"-crypto", cryptoCol)
+	if err != nil {
+		log.Fatalln(err)
+	}
+
+	err = export.CSV("data/"+fName+"-crypto", cryptoCol)
 	if err != nil {
 		log.Fatalln(err)
 	}
