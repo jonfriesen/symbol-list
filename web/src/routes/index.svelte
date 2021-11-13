@@ -17,12 +17,12 @@
 			class="w-full py-6 flex items-center justify-end border-b border-indigo-500 lg:border-none"
 		>
 			<a
-			href="https://github.com/jonfriesen/symbol-list/tree/main/data"
-			target="_blank"
-			class="inline-flex  py-2 px-4 items-center justify-center border border-transparent rounded-md text-base font-medium text-indigo-200 hover:bg-indigo-400 "
-		>
-			Archive
-		</a>
+				href="https://github.com/jonfriesen/symbol-list/tree/main/data"
+				target="_blank"
+				class="inline-flex  py-2 px-4 items-center justify-center border border-transparent rounded-md text-base font-medium text-indigo-200 hover:bg-indigo-400 "
+			>
+				Archive
+			</a>
 			<div class="space-x-4">
 				<a
 					href="https://github.com/jonfriesen/symbol-list"
@@ -36,7 +36,6 @@
 					/>
 				</a>
 			</div>
-			
 		</div>
 	</nav>
 </header>
@@ -67,14 +66,14 @@
 
 <footer class="bg-white">
 	<div
-		class="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8"
+		class="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8 text-sm"
 	>
-		<div class="flex mt-8 md:mt-0 md:order-1 text-gray-400">
-			&copy; 2021
+		<div class="flex order-1 text-gray-400">
+			Sponsored by
 			<a href="https://planetside.co" target="_blank" class="px-4">
-				<img class="h-4 mt-1" src="/images/logo.svg" alt="Planetside Software logo" />
+				<img class="h-4 " src="/images/logo.svg" alt="Planetside Software logo" />
 			</a>
-			All rights reserved.
 		</div>
+		<div class="flex mt-8 md:mt-0  text-gray-400">&copy; 2021 Jon Friesen All rights reserved.</div>
 	</div>
 </footer>
