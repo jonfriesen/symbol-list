@@ -14,10 +14,16 @@
 <header class="bg-indigo-700">
 	<nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" aria-label="Top">
 		<div
-			class="w-full py-6 flex items-center justify-between border-b border-indigo-500 lg:border-none"
+			class="w-full py-6 flex items-center justify-end border-b border-indigo-500 lg:border-none"
 		>
-			<div class="flex items-center" />
-			<div class="ml-10 space-x-4">
+			<a
+			href="https://github.com/jonfriesen/symbol-list/tree/main/data"
+			target="_blank"
+			class="inline-flex  py-2 px-4 items-center justify-center border border-transparent rounded-md text-base font-medium text-indigo-200 hover:bg-indigo-400 "
+		>
+			Archive
+		</a>
+			<div class="space-x-4">
 				<a
 					href="https://github.com/jonfriesen/symbol-list"
 					target="_blank"
@@ -30,6 +36,7 @@
 					/>
 				</a>
 			</div>
+			
 		</div>
 	</nav>
 </header>
@@ -45,18 +52,11 @@
 			exchanges.
 		</p>
 		<a
-			href="/data/{fileDate}.json"
+			href="/data/daily-symbol-list.json"
 			download="symbol-list.json"
 			class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-indigo-50 sm:w-auto"
 		>
-			Download JSON dataset
-		</a>
-		<a
-			href="https://github.com/jonfriesen/symbol-list/tree/main/data"
-			target="_blank"
-			class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-indigo-50 sm:w-auto"
-		>
-			Archive
+			Download JSON dataset ({fileDate})
 		</a>
 	</div>
 </div>
