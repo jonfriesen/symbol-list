@@ -101,7 +101,18 @@ func main() {
 
 	fName := time.Now().Format("2006-01-02")
 
-	err = export.JSON("data/"+fName, securities)
+	col := &model.Export{
+		Date: fName,
+		Data: securities,
+	}
+
+	err = export.JSON("data/"+fName, col)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	err = export.CSV("data/"+fName, col)
 	if err != nil {
 		fmt.Println(err)
 		return
