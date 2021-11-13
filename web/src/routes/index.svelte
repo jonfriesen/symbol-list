@@ -51,10 +51,17 @@
 		</p>
 		<a
 			href="/data/daily-symbol-list.json"
-			download="symbol-list.json"
+			download="symbol-list-{fileDate}.json"
 			class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md transition-all duration-500 text-gray-200 bg-white hover:bg-gray-50 sm:w-auto bg-gradient-to-br hover:from-green-400 hover:to-blue-500 from-pink-600 via-pink-500 to-yellow-500 "
 		>
 			Download JSON dataset ({fileDate})
+		</a>
+		<a
+			href="/data/daily-symbol-list.csv"
+			download="symbol-list-{fileDate}.csv"
+			class="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md transition-all duration-500 text-gray-200 bg-white hover:bg-gray-50 sm:w-auto bg-gradient-to-br hover:from-green-400 hover:to-blue-500 from-pink-600 via-pink-500 to-yellow-500 "
+		>
+			Download CSV dataset ({fileDate})
 		</a>
 	</div>
 </div>
@@ -97,7 +104,7 @@
             How does it work?
           </dt>
           <dd class="mt-3 text-gray-400">
-            The data is pulled from the exchanges and compiled into a single JSON file. The data is then stored in a public GitHub repository. The data is updated daily using a scheduled GitHub Action workflow. Once the action to get the latest symbol list is run, the new data is commited to the same repository. One new commits a DigitalOcean App Platform triggers and builds the static site with the latest dataset.
+            The data is pulled from the exchanges and compiled into a single JSON & CSV file. The data is then stored in a public GitHub repository. The data is updated daily using a scheduled GitHub Action workflow. Once the action to get the latest symbol list is run, the new data is commited to the same repository. One new commits a DigitalOcean App Platform triggers and builds the static site with the latest dataset.
           </dd>
         </div>
 				<div>
