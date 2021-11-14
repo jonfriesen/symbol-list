@@ -67,7 +67,7 @@
 							/>
 						</svg>
 						<span class="pl-2">
-							Dataset Downloads ({fileDate})
+							Datasets ({fileDate})
 						</span>
 					</legend>
 					<div class="flex justify-center space-x-4 p-8">
