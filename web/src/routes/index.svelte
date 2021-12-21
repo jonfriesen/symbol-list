@@ -9,6 +9,12 @@
 		fileDate =
 			yesterday.getFullYear() + '-' + (yesterday.getMonth() + 1) + '-' + yesterday.getDate();
 	}
+
+	let dateFromEnv = import.meta.env.VITE_DATA_DATE
+	if (!!dateFromEnv && dateFromEnv !== '') {
+		fileDate = dateFromEnv
+	}
+
 </script>
 
 <div>
