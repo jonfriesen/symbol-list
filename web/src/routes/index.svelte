@@ -22,7 +22,7 @@
 		<nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" aria-label="Top">
 			<div class="w-full py-6 flex items-center justify-end border-none">
 				<a
-					href="https://github.com/jonfriesen/symbol-list/tree/main/data"
+					href="https://github.com/jonfriesen/symbol-list-data/tree/main/data"
 					target="_blank"
 					class="inline-flex  py-2 px-4 items-center justify-center border border-transparent rounded-md text-base font-medium transition duration-500 text-gray-200 hover:bg-gray-400 "
 				>

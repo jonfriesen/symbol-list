@@ -1,7 +1,7 @@
-name: Update (daily @ 2am)
+name: Update (mon-friday @ 11am utc (6am est))
 on:
   schedule:
-  - cron: '0 2 * * *'
+  - cron: '0 11 * * 1-5'
 jobs:
   manual-archive:
     runs-on: ubuntu-latest
@@ -9,16 +9,49 @@ jobs:
     - name: Install Go
       uses: actions/setup-go@v2
 
-    - name: Checkout Code
+    - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Retrieve new records
-      run: go run cmd/retrieve/main.go
+    - name: Checkout data repository
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.PUSH_TOKEN }}
+        repository: jonfriesen/symbol-list-data
+        path: './symbol-list-data'
+        fetch-depth: 0
 
-    - name: Commit
+    - name: Set git user configs
       run: |
         git config --global user.name 'archive bot'
         git config --global user.email 'jonfriesen@users.noreply.github.com'
+
+    - name: Retrieve new records
+      run: go run cmd/retrieve/main.go -dir=symbol-list-data/data
+
+    - name: Commit to data repository
+      env:
+          GIT_USERNAME: action
+          GIT_EMAIL: action@github.com
+          REPO_PATH: symbol-list-data
+      run: |
+        cd ${{ env.REPO_PATH }}
+        git config --local user.name "${{ env.GIT_USERNAME }}"
+        git config --local user.email "${{ env.GIT_EMAIL }}"
         git add data/*
-        git commit -m "Automated report"
+        git commit -m "Archive built in `date +"%Y-%m-%d %H:%M"`"
+        git push
+
+    - name: Copy new data to web assets
+      run: |
+        echo VITE_DATA_DATE=$(ls -tr symbol-list-data/data | grep -E '[0-9]\.json$' | tail -n 1 | sed 's/\.[^.]*$//') > web/.env
+        cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\.json$' | tail -n 1) web/static/data/daily-symbol-list.json
+        cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\.csv$' | tail -n 1) web/static/data/daily-symbol-list.csv
+        cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\-crypto\.json$' | tail -n 1) web/static/data/daily-crypto-symbol-list.json
+        cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\-crypto\.csv$' | tail -n 1) web/static/data/daily-crypto-symbol-list.csv
+
+    - name: Commit new web assets
+      run: |
+        git add -f web/.env
+        git add -f web/static/data
+        git commit -m "Archive built in `date +"%Y-%m-%d %H:%M"`"
         git push
