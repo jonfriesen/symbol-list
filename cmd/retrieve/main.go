@@ -1,9 +1,11 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"log"
 	"os"
+	"path"
 	"sync"
 	"time"
 
@@ -16,6 +18,9 @@ import (
 )
 
 func main() {
+
+	saveDir := flag.String("dir", "data/", "Directory to save data files.")
+	flag.Parse()
 
 	eg := errgroup.Group{}
 
@@ -108,7 +113,7 @@ func main() {
 	fmt.Printf("Found %d securities\n", len(securities))
 	fmt.Printf("Found %d cryptocurrencies\n", len(cryptoCurrencies))
 
-	err = os.MkdirAll("data", os.ModePerm)
+	err = os.MkdirAll(*saveDir, os.ModePerm)
 	if err != nil {
 		log.Fatalln("failed to create directory", err)
 	}
@@ -120,12 +125,12 @@ func main() {
 		Securities: securities,
 	}
 
-	err = export.JSON("data/"+fName, col)
+	err = export.JSON(path.Join(*saveDir, fName), col)
 	if err != nil {
 		log.Fatalln(err)
 	}
 
-	err = export.CSV("data/"+fName, col)
+	err = export.CSV(path.Join(*saveDir, fName), col)
 	if err != nil {
 		log.Fatalln(err)
 	}
@@ -135,12 +140,12 @@ func main() {
 		Currencies: cryptoCurrencies,
 	}
 
-	err = export.JSON("data/"+fName+"-crypto", cryptoCol)
+	err = export.JSON(path.Join(*saveDir, fName)+"-crypto", cryptoCol)
 	if err != nil {
 		log.Fatalln(err)
 	}
 
-	err = export.CSV("data/"+fName+"-crypto", cryptoCol)
+	err = export.CSV(path.Join(*saveDir, fName)+"-crypto", cryptoCol)
 	if err != nil {
 		log.Fatalln(err)
 	}
