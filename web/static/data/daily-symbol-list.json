@@ -1,5 +1,5 @@
 {
- "date": "2021-12-28",
+ "date": "2021-12-29",
  "data": [
   {
    "symbol": "ONE",
@@ -8526,6 +8526,18 @@
     {
      "name": "Harfang Exploration Inc.",
      "symbol": "HAR"
+    }
+   ]
+  },
+  {
+   "symbol": "MONY.P",
+   "name": "Harmony Acquisitions Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MONY.P.V",
+   "instruments": [
+    {
+     "name": "Harmony Acquisitions Corp.",
+     "symbol": "MONY.P"
     }
    ]
   },
@@ -17914,6 +17926,18 @@
    ]
   },
   {
+   "symbol": "TGS",
+   "name": "TGS Esports Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TGS.V",
+   "instruments": [
+    {
+     "name": "TGS Esports Inc.",
+     "symbol": "TGS"
+    }
+   ]
+  },
+  {
    "symbol": "FLWR",
    "name": "The Flowr Corporation",
    "exchange": "TSXV",
@@ -19758,6 +19782,18 @@
     {
      "name": "Western Pacific Trust Company",
      "symbol": "WP"
+    }
+   ]
+  },
+  {
+   "symbol": "WRY",
+   "name": "Western Troy Capital Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WRY.V",
+   "instruments": [
+    {
+     "name": "Western Troy Capital Resources Inc.",
+     "symbol": "WRY"
     }
    ]
   },
@@ -51116,13 +51152,13 @@
   {
    "symbol": "CMPO",
    "name": "CompoSecure, Inc.  - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CMPO"
   },
   {
    "symbol": "CMPOW",
    "name": "CompoSecure, Inc.  - Warrant",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CMPOW"
   },
   {
@@ -53110,12 +53146,6 @@
    "name": "Dermata Therapeutics, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DRMAW"
-  },
-  {
-   "symbol": "DRNA",
-   "name": "Dicerna Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DRNA"
   },
   {
    "symbol": "DRRX",
@@ -55612,6 +55642,12 @@
    "name": "Finch Therapeutics Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FNCH"
+  },
+  {
+   "symbol": "FNGR",
+   "name": "FingerMotion, Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FNGR"
   },
   {
    "symbol": "FNHC",
@@ -76206,6 +76242,12 @@
    "yahoo_symbol": "WTFCP"
   },
   {
+   "symbol": "WTMAU",
+   "name": "Welsbach Technology Metals Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTMAU"
+  },
+  {
    "symbol": "WTRH",
    "name": "Waitr Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -81150,12 +81192,6 @@
    "yahoo_symbol": "CCCS"
   },
   {
-   "symbol": "CCCS.W",
-   "name": "CCC Intelligent Solutions Holdings Inc. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CCCS.W"
-  },
-  {
    "symbol": "CCF",
    "name": "Chase Corporation Common Stock",
    "exchange": "NYSE MKT",
@@ -81196,6 +81232,12 @@
    "name": "Clear Channel Outdoor Holdings, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CCO"
+  },
+  {
+   "symbol": "CCRD",
+   "name": "CoreCard Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCRD"
   },
   {
    "symbol": "CCS",
@@ -82258,12 +82300,6 @@
    "name": "ConocoPhillips Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "COP"
-  },
-  {
-   "symbol": "COR",
-   "name": "CoreSite Realty Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "COR"
   },
   {
    "symbol": "CORR",
@@ -87180,6 +87216,12 @@
    "yahoo_symbol": "GRBK"
   },
   {
+   "symbol": "GRBK$A",
+   "name": "Green Brick Partners, Inc. Depositary Shares (each representing a 1/1000th fractional interest in a share of 5.75% Series A Cumulative Perpetual Preferred Stock)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRBK$A"
+  },
+  {
    "symbol": "GRC",
    "name": "Gorman-Rupp Company (The) Common Stock",
    "exchange": "NYSE",
@@ -88696,12 +88738,6 @@
    "name": "Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock, $0.01 par value per share",
    "exchange": "NYSE",
    "yahoo_symbol": "INN$F"
-  },
-  {
-   "symbol": "INS",
-   "name": "Intelligent Systems Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "INS"
   },
   {
    "symbol": "INSI",
