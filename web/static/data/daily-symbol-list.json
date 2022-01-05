@@ -1,5 +1,5 @@
 {
- "date": "2022-01-04",
+ "date": "2022-01-05",
  "data": [
   {
    "symbol": "AACG",
@@ -10484,6 +10484,12 @@
    "yahoo_symbol": "FCNCA"
   },
   {
+   "symbol": "FCNCO",
+   "name": "First Citizens BancShares, Inc. - 5.625% Non-Cumulative Perpetual Preferred Stock, Series C",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FCNCO"
+  },
+  {
    "symbol": "FCNCP",
    "name": "First Citizens BancShares, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 5.375% Non-Cumulative Perpetual Preferred Stock, Series A",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -19088,12 +19094,6 @@
    "yahoo_symbol": "MGIC"
   },
   {
-   "symbol": "MGLN",
-   "name": "Magellan Health, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MGLN"
-  },
-  {
    "symbol": "MGNI",
    "name": "Magnite, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -23655,7 +23655,7 @@
   },
   {
    "symbol": "PRSO",
-   "name": "Peraso, Inc. - Common Stock",
+   "name": "Peraso Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PRSO"
   },
@@ -65728,6 +65728,18 @@
    ]
   },
   {
+   "symbol": "HCH",
+   "name": "Hot Chili Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HCH.V",
+   "instruments": [
+    {
+     "name": "Hot Chili Limited",
+     "symbol": "HCH"
+    }
+   ]
+  },
+  {
    "symbol": "HPQ",
    "name": "HPQ-Silicon Resources Inc.",
    "exchange": "TSXV",
@@ -67216,18 +67228,6 @@
     {
      "name": "Labrador Technologies Inc.",
      "symbol": "LTX"
-    }
-   ]
-  },
-  {
-   "symbol": "LCC.P",
-   "name": "Lamaska Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LCC.P.V",
-   "instruments": [
-    {
-     "name": "Lamaska Capital Corp.",
-     "symbol": "LCC.P"
     }
    ]
   },
@@ -75152,6 +75152,18 @@
    ]
   },
   {
+   "symbol": "TORC",
+   "name": "TinOne Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TORC.V",
+   "instruments": [
+    {
+     "name": "Tinone Resources Inc.",
+     "symbol": "TORC"
+    }
+   ]
+  },
+  {
    "symbol": "TTS",
    "name": "Tintina Mines Ltd.",
    "exchange": "TSXV",
@@ -78252,10 +78264,6 @@
     {
      "name": "Apollo Hlthcare Cl B",
      "symbol": "AHC"
-    },
-    {
-     "name": "Apollo Hlthcare Wt",
-     "symbol": "AHC.WT"
     }
    ]
   },
@@ -96468,6 +96476,18 @@
     {
      "name": "Pretium Resources J",
      "symbol": "PVG"
+    }
+   ]
+  },
+  {
+   "symbol": "PMZ.UN",
+   "name": "Primaris Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "PMZ.UN.TO",
+   "instruments": [
+    {
+     "name": "Primaris REIT A Un",
+     "symbol": "PMZ.UN"
     }
    ]
   },

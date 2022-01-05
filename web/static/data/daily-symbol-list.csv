@@ -1746,6 +1746,7 @@ FCEF,First Trust CEF Income Opportunity ETF,NASDAQ Global MarketSM,FCEF
 FCEL,"FuelCell Energy, Inc. - Common Stock",NASDAQ Global MarketSM,FCEL
 FCFS,"FirstCash Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,FCFS
 FCNCA,"First Citizens BancShares, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,FCNCA
+FCNCO,"First Citizens BancShares, Inc. - 5.625% Non-Cumulative Perpetual Preferred Stock, Series C",NASDAQ Global Select MarketSM,FCNCO
 FCNCP,"First Citizens BancShares, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 5.375% Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ Global Select MarketSM,FCNCP
 FCRD,"First Eagle Alternative Capital BDC, Inc. - Common Stock",NASDAQ Global Select MarketSM,FCRD
 FCUV,Focus Universal Inc. - Common Stock,NASDAQ Capital Market,FCUV
@@ -3180,7 +3181,6 @@ MFIN,Medallion Financial Corp. - Common Stock,NASDAQ Global Select MarketSM,MFIN
 MGEE,MGE Energy Inc. - Common Stock,NASDAQ Global Select MarketSM,MGEE
 MGI,"Moneygram International, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGI
 MGIC,Magic Software Enterprises Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,MGIC
-MGLN,"Magellan Health, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGLN
 MGNI,"Magnite, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGNI
 MGNX,"MacroGenics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGNX
 MGPI,"MGP Ingredients, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGPI
@@ -3941,7 +3941,7 @@ PRPH,"ProPhase Labs, Inc. - Common Stock",NASDAQ Capital Market,PRPH
 PRPL,"Purple Innovation, Inc. - Common Stock",NASDAQ Global Select MarketSM,PRPL
 PRPO,"Precipio, Inc. - Common Stock",NASDAQ Capital Market,PRPO
 PRQR,ProQR Therapeutics N.V. - Ordinary Shares,NASDAQ Global MarketSM,PRQR
-PRSO,"Peraso, Inc. - Common Stock",NASDAQ Capital Market,PRSO
+PRSO,Peraso Inc. - Common Stock,NASDAQ Capital Market,PRSO
 PRSR,Prospector Capital Corp. - Class A Ordinary Shares,NASDAQ Capital Market,PRSR
 PRSRU,Prospector Capital Corp. - Unit,NASDAQ Capital Market,PRSRU
 PRSRW,Prospector Capital Corp. - Warrants,NASDAQ Capital Market,PRSRW
@@ -10204,6 +10204,7 @@ HTE.P,Hoist Capital Corp.,TSXV,HTE.P.V,Hoist Capital Corp.,HTE.P
 HSC.P,Holly Street Capital Ltd.,TSXV,HSC.P.V,Holly Street Capital Ltd.,HSC.P
 TUF,Honey Badger Silver Inc.,TSXV,TUF.V,Honey Badger Silver Inc.,TUF
 HVI.P,Hopefield Ventures Inc.,TSXV,HVI.P.V,Hopefield Ventures Inc.,HVI.P
+HCH,Hot Chili Limited,TSXV,HCH.V,Hot Chili Limited,HCH
 HPQ,HPQ-Silicon Resources Inc.,TSXV,HPQ.V,HPQ-Silicon Resources Inc.,HPQ
 HTC,HTC Purenergy Inc.,TSXV,HTC.V,HTC Purenergy Inc,HTC
 HUD,Hudson Resources Inc.,TSXV,HUD.V,Hudson Resources Inc.,HUD
@@ -10326,7 +10327,6 @@ KUU,Kuuhubb Inc.,TSXV,KUU.V,Kuuhubb Inc.,KUU
 KWE,KWESST Micro Systems Inc.,TSXV,KWE.V,KWESST Micro Systems Inc.,KWE,Kwesst Micro Systems Inc. wt 29Apr2023,KWE.WT
 LAB,Labrador Gold Corp.,TSXV,LAB.V,Labrador Gold Corp.,LAB
 LTX,Labrador Technologies Inc.,TSXV,LTX.V,Labrador Technologies Inc.,LTX
-LCC.P,Lamaska Capital Corp.,TSXV,LCC.P.V,Lamaska Capital Corp.,LCC.P
 LRT.DB.G,Lanesborough Real Estate Investment Trust,TSXV,LRT.DB.G.V,Lanesborough Real Estate Investment Trust db30jun2022,LRT.DB.G,Lanesborough Real Estate Investment Trust,LRT.UN
 LRA,Lara Exploration Ltd.,TSXV,LRA.V,Lara Exploration Ltd.,LRA
 LSX,LaSalle Exploration Corp.,TSXV,LSX.V,LaSalle Exploration Corp.,LSX
@@ -10972,6 +10972,7 @@ TBR,Timberline Resources Corporation,TSXV,TBR.V,Timberline Resources Corporation
 TCA,Timia Capital Corp.,TSXV,TCA.V,Timia Capital Corp.,TCA,Timia Capital Corp Pref A,TCA.PR.A
 TK,Tinka Resources Limited,TSXV,TK.V,Tinka Resources Limited,TK
 TTD,Tinkerine Studios Ltd.,TSXV,TTD.V,Tinkerine Studios Ltd.,TTD
+TORC,TinOne Resources Inc.,TSXV,TORC.V,Tinone Resources Inc.,TORC
 TTS,Tintina Mines Ltd.,TSXV,TTS.V,Tintina Mines Ltd,TTS
 TRC,Tisdale Resources Corp.,TSXV,TRC.V,Tisdale Resources Corp.,TRC
 TLA,Titan Logix Corp.,TSXV,TLA.V,Titan Logix Corp,TLA
@@ -11215,7 +11216,7 @@ AND,Andlauer Healthcare Group Inc.,TSX,AND.TO,AndlauerHlthcr GrpSV,AND
 ADW.A,Andrew Peller Limited/Andrew Peller Limitee,TSX,ADW.A.TO,Andrew Peller A NV,ADW.A,Andrew Peller Ltd. B,ADW.B
 APY,Anglo Pacific Group PLC,TSX,APY.TO,Anglo Pacific Ord,APY
 ATE,Antibe Therapeutics Inc.,TSX,ATE.TO,Antibe Therapeutic J,ATE
-AHC,Apollo Healthcare Corp.,TSX,AHC.TO,Apollo Hlthcare Cl B,AHC,Apollo Hlthcare Wt,AHC.WT
+AHC,Apollo Healthcare Corp.,TSX,AHC.TO,Apollo Hlthcare Cl B,AHC
 APLI,Appili Therapeutics Inc.,TSX,APLI.TO,Appili Therapeutcs J,APLI
 APS,Aptose Biosciences Inc.,TSX,APS.TO,Aptose Biosciences,APS
 ARX,ARC Resources Ltd.,TSX,ARX.TO,ARC Resources Ltd.,ARX
@@ -12527,6 +12528,7 @@ PD,Precision Drilling Corporation,TSX,PD.TO,Precision Drill Corp,PD
 PBH,Premium Brands Holdings Corporation,TSX,PBH.TO,Premium Brands Hldgs,PBH,Premium Brand 4.65Db,PBH.DB.G,Premium Brand 4.2 Db,PBH.DB.H
 PIC.A,Premium Income Corporation,TSX,PIC.A.TO,Premium Income Cl A,PIC.A,Premium Income Pr,PIC.PR.A
 PVG,Pretium Resources Inc.,TSX,PVG.TO,Pretium Resources J,PVG
+PMZ.UN,Primaris Real Estate Investment Trust,TSX,PMZ.UN.TO,Primaris REIT A Un,PMZ.UN
 PDV,Prime Dividend Corp.,TSX,PDV.TO,Prime Dividend Cl A ,PDV,Prime Dividend Pr,PDV.PR.A
 PRMW,Primo Water Corporation,TSX,PRMW.TO,Primo Water Corp.,PRMW
 PRV.UN,PRO Real Estate Investment Trust,TSX,PRV.UN.TO,PRO Real Est Tr Un,PRV.UN
