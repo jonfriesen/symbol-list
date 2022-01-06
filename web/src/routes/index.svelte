@@ -225,7 +225,7 @@
 				</a>
 			</div>
 			<div class="flex mt-8 md:mt-0  text-gray-200">
-				&copy; 2021 Jon Friesen All rights reserved.
+				&copy; 2022 Jon Friesen All rights reserved.
 			</div>
 		</div>
 	</footer>
