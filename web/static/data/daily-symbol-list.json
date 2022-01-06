@@ -1,5 +1,5 @@
 {
- "date": "2022-01-05",
+ "date": "2022-01-06",
  "data": [
   {
    "symbol": "AACG",
@@ -1886,6 +1886,18 @@
    "yahoo_symbol": "APACW"
   },
   {
+   "symbol": "APCX",
+   "name": "AppTech Payments Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APCX"
+  },
+  {
+   "symbol": "APCXW",
+   "name": "AppTech Payments Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APCXW"
+  },
+  {
    "symbol": "APDN",
    "name": "Applied DNA Sciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -3168,6 +3180,12 @@
    "name": "Aytu BioPharma, Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AYTU"
+  },
+  {
+   "symbol": "AZ",
+   "name": "A2Z Smart Technologies Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZ"
   },
   {
    "symbol": "AZN",
@@ -6204,6 +6222,12 @@
    "name": "Cingulate Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CINGW"
+  },
+  {
+   "symbol": "CITEU",
+   "name": "Cartica Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CITEU"
   },
   {
    "symbol": "CIVB",
@@ -22503,7 +22527,7 @@
   },
   {
    "symbol": "PCOM",
-   "name": "Points International, Ltd. - Common Shares",
+   "name": "Points.com Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PCOM"
   },
@@ -25388,10 +25412,22 @@
    "yahoo_symbol": "ROCK"
   },
   {
+   "symbol": "ROCL",
+   "name": "Roth CH Acquisition V Co. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCL"
+  },
+  {
    "symbol": "ROCLU",
    "name": "Roth CH Acquisition V Co. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ROCLU"
+  },
+  {
+   "symbol": "ROCLW",
+   "name": "Roth CH Acquisition V Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCLW"
   },
   {
    "symbol": "ROCR",
@@ -55658,24 +55694,6 @@
    "yahoo_symbol": "VOYA$B"
   },
   {
-   "symbol": "VPCC",
-   "name": "VPC Impact Acquisition Holdings III, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VPCC"
-  },
-  {
-   "symbol": "VPCC.U",
-   "name": "VPC Impact Acquisition Holdings III, Inc. Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VPCC.U"
-  },
-  {
-   "symbol": "VPCC.W",
-   "name": "VPC Impact Acquisition Holdings III, Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VPCC.W"
-  },
-  {
    "symbol": "VPG",
    "name": "Vishay Precision Group, Inc. Common Stock",
    "exchange": "NYSE",
@@ -78672,18 +78690,6 @@
    ]
   },
   {
-   "symbol": "AZZ",
-   "name": "Azarga Uranium Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AZZ.TO",
-   "instruments": [
-    {
-     "name": "Azarga Uranium A J",
-     "symbol": "AZZ"
-    }
-   ]
-  },
-  {
    "symbol": "BTO",
    "name": "B2Gold Corp.",
    "exchange": "TSX",
@@ -96209,7 +96215,7 @@
   },
   {
    "symbol": "PTS",
-   "name": "Points International Ltd.",
+   "name": "Points.com Inc.",
    "exchange": "TSX",
    "yahoo_symbol": "PTS.TO",
    "instruments": [
@@ -97533,7 +97539,7 @@
   },
   {
    "symbol": "RS",
-   "name": "Real Estate \u0026 E-Commerce Split Corp.",
+   "name": "Real Estate Split Corp.",
    "exchange": "TSX",
    "yahoo_symbol": "RS.TO",
    "instruments": [

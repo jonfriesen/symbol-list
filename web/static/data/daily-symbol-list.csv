@@ -313,6 +313,8 @@ APA,APA Corporation - Common Stock,NASDAQ Global Select MarketSM,APA
 APAC,StoneBridge Acquisition Corporation - Class A Ordinary Shares,NASDAQ Capital Market,APAC
 APACU,StoneBridge Acquisition Corporation - Unit,NASDAQ Capital Market,APACU
 APACW,StoneBridge Acquisition Corporation - Warrant,NASDAQ Capital Market,APACW
+APCX,AppTech Payments Corp. - Common stock,NASDAQ Capital Market,APCX
+APCXW,AppTech Payments Corp. - Warrant,NASDAQ Capital Market,APCXW
 APDN,"Applied DNA Sciences, Inc. - Common Stock",NASDAQ Capital Market,APDN
 APEI,"American Public Education, Inc. - Common Stock",NASDAQ Global Select MarketSM,APEI
 APEN,"Apollo Endosurgery, Inc. - Common Stock",NASDAQ Global MarketSM,APEN
@@ -527,6 +529,7 @@ AY,Atlantica Sustainable Infrastructure plc - Ordinary Shares,NASDAQ Global Sele
 AYLA,"Ayala Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,AYLA
 AYRO,"AYRO, Inc. - Common Stock",NASDAQ Capital Market,AYRO
 AYTU,"Aytu BioPharma, Inc.  - Common Stock",NASDAQ Capital Market,AYTU
+AZ,A2Z Smart Technologies Corp. - Common Shares,NASDAQ Capital Market,AZ
 AZN,AstraZeneca PLC - American Depositary Shares,NASDAQ Global Select MarketSM,AZN
 AZPN,"Aspen Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,AZPN
 AZTA,"Azenta, Inc. - Common Stock",NASDAQ Global Select MarketSM,AZTA
@@ -1033,6 +1036,7 @@ CIL,VictoryShares International Volatility Wtd ETF,NASDAQ Global MarketSM,CIL
 CINF,Cincinnati Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,CINF
 CING,Cingulate Inc. - Common Stock,NASDAQ Capital Market,CING
 CINGW,Cingulate Inc. - Warrants,NASDAQ Capital Market,CINGW
+CITEU,Cartica Acquisition Corp - Unit,NASDAQ Global MarketSM,CITEU
 CIVB,"Civista Bancshares, Inc.  - Common Stock",NASDAQ Capital Market,CIVB
 CIZ,VictoryShares Developed Enhanced Volatility Wtd ETF,NASDAQ Global MarketSM,CIZ
 CIZN,Citizens Holding Company - Common Stock,NASDAQ Global MarketSM,CIZN
@@ -3749,7 +3753,7 @@ PCCT,Perception Capital Corp. II - Class A Ordinary Shares,NASDAQ Global MarketS
 PCCTU,Perception Capital Corp. II - Units,NASDAQ Global MarketSM,PCCTU
 PCCTW,Perception Capital Corp. II - Warrants,NASDAQ Global MarketSM,PCCTW
 PCH,PotlatchDeltic Corporation - Common Stock,NASDAQ Global Select MarketSM,PCH
-PCOM,"Points International, Ltd. - Common Shares",NASDAQ Capital Market,PCOM
+PCOM,Points.com Inc. - Common Shares,NASDAQ Capital Market,PCOM
 PCRX,"Pacira BioSciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,PCRX
 PCSA,"Processa Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,PCSA
 PCSB,PCSB Financial Corporation - Common Stock,NASDAQ Capital Market,PCSB
@@ -4230,7 +4234,9 @@ ROCG,Roth CH Acquisition IV Co. - Common Stock,NASDAQ Capital Market,ROCG
 ROCGU,Roth CH Acquisition IV Co. - Unit,NASDAQ Capital Market,ROCGU
 ROCGW,Roth CH Acquisition IV Co. - Warrant,NASDAQ Capital Market,ROCGW
 ROCK,"Gibraltar Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,ROCK
+ROCL,Roth CH Acquisition V Co. - Common Stock,NASDAQ Global MarketSM,ROCL
 ROCLU,Roth CH Acquisition V Co. - Unit,NASDAQ Global MarketSM,ROCLU
+ROCLW,Roth CH Acquisition V Co. - Warrant,NASDAQ Global MarketSM,ROCLW
 ROCR,Roth CH Acquisition III Co. - Common stock,NASDAQ Capital Market,ROCR
 ROCRU,Roth CH Acquisition III Co. - Unit,NASDAQ Capital Market,ROCRU
 ROCRW,Roth CH Acquisition III Co. - Warrant,NASDAQ Capital Market,ROCRW
@@ -9275,9 +9281,6 @@ VOC,VOC Energy Trust Units of Beneficial Interest,NYSE,VOC
 VOLT,"Volt Information Sciences, Inc. Common Stock",NYSE MKT,VOLT
 VOYA,"Voya Financial, Inc. Common Stock",NYSE,VOYA
 VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",NYSE,VOYA$B
-VPCC,"VPC Impact Acquisition Holdings III, Inc. Class A Common Stock",NYSE,VPCC
-VPCC.U,"VPC Impact Acquisition Holdings III, Inc. Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant",NYSE,VPCC.U
-VPCC.W,"VPC Impact Acquisition Holdings III, Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share",NYSE,VPCC.W
 VPG,"Vishay Precision Group, Inc. Common Stock",NYSE,VPG
 VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),NYSE,VPV
 VRE,"Veris Residential, Inc. Common Stock",NYSE,VRE
@@ -11246,7 +11249,6 @@ AVP,Avcorp Industries Inc.,TSX,AVP.TO,Avcorp Industries,AVP
 AVCN,Avicanna Inc.,TSX,AVCN.TO,Avicanna Inc. J,AVCN
 ASM,Avino Silver & Gold Mines Ltd.,TSX,ASM.TO,Avino Silver & Gld J,ASM
 AYA,Aya Gold & Silver Inc.,TSX,AYA.TO,Aya Gold & Silvr J,AYA
-AZZ,Azarga Uranium Corp.,TSX,AZZ.TO,Azarga Uranium A J,AZZ
 BTO,B2Gold Corp.,TSX,BTO.TO,B2Gold Corp.,BTO
 BDGI,Badger Infrastructure Solutions Ltd.,TSX,BDGI.TO,Badger Infras Solutn,BDGI
 BLDP,Ballard Power Systems Inc.,TSX,BLDP.TO,Ballard Power Sys,BLDP
@@ -12514,7 +12516,7 @@ PIPE,Pipestone Energy Corp.,TSX,PIPE.TO,Pipestone Energy J,PIPE
 PZA,Pizza Pizza Royalty Corp.,TSX,PZA.TO,Pizza Pizza Royalty,PZA
 PTM,Platinum Group Metals Ltd.,TSX,PTM.TO,Platinum Grp Metal J,PTM
 PLZ.DB.E,Plaza Retail REIT,TSX,PLZ.DB.E.TO,Plaza RetailTr 5.1Db,PLZ.DB.E,Plaza Retail REIT Un,PLZ.UN
-PTS,Points International Ltd.,TSX,PTS.TO,Points Int'l Ltd. J,PTS
+PTS,Points.com Inc.,TSX,PTS.TO,Points Int'l Ltd. J,PTS
 PIF,Polaris Infrastructure Inc.,TSX,PIF.TO,Polaris Infras J,PIF,Polaris Infras J Deb,PIF.DB
 PBL,Pollard Banknote Limited,TSX,PBL.TO,Pollard Banknote Ltd,PBL
 POM,Polymet Mining Corp.,TSX,POM.TO,Polymet Mining J,POM
@@ -12604,7 +12606,7 @@ RQO,RBC Target 2026 Corporate Bond Index ETF,TSX,RQO.TO,RBC Targt26Corp Bond,RQO
 RQP,RBC Target 2027 Corporate Bond Index ETF,TSX,RQP.TO,RBC Targt27Corp Bond,RQP
 RUBH,RBC U.S. Banks Yield (CAD Hedged) Index ETF,TSX,RUBH.TO,RBC USBanksYld CA-Hg,RUBH
 RUBY,RBC U.S. Banks Yield Index ETF,TSX,RUBY.TO,RBC US Banks Yld CAD,RUBY,RBC US Banks Yld USF,RUBY.U
-RS,Real Estate & E-Commerce Split Corp.,TSX,RS.TO,Rl Est&E-Comm Splt A,RS,Rl Est&E-CommSplt Pr,RS.PR.A
+RS,Real Estate Split Corp.,TSX,RS.TO,Rl Est&E-Comm Splt A,RS,Rl Est&E-CommSplt Pr,RS.PR.A
 REAL,Real Matters Inc.,TSX,REAL.TO,Real Matters Inc.,REAL
 RECP,Recipe Unlimited Corporation,TSX,RECP.TO,Recipe Unlimited SV,RECP
 RDL,Redline Communications Group Inc.,TSX,RDL.TO,Redline Commun Grp J,RDL
