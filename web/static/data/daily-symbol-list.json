@@ -1,5 +1,5 @@
 {
- "date": "2022-01-06",
+ "date": "2022-01-07",
  "data": [
   {
    "symbol": "AACG",
@@ -7940,6 +7940,18 @@
    "yahoo_symbol": "DATSW"
   },
   {
+   "symbol": "DAVE",
+   "name": "Dave Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAVE"
+  },
+  {
+   "symbol": "DAVEW",
+   "name": "Dave Inc.  - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAVEW"
+  },
+  {
    "symbol": "DAWN",
    "name": "Day One Biopharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -10476,12 +10488,6 @@
    "name": "First Community Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FCCO"
-  },
-  {
-   "symbol": "FCCY",
-   "name": "1st Constitution Bancorp (NJ) - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FCCY"
   },
   {
    "symbol": "FCEF",
@@ -16494,12 +16500,6 @@
    "name": "Coffee Holding Co., Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JVA"
-  },
-  {
-   "symbol": "JWACU",
-   "name": "Jupiter Wellness Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JWACU"
   },
   {
    "symbol": "JWEL",
@@ -26150,6 +26150,12 @@
    "yahoo_symbol": "SCPS"
   },
   {
+   "symbol": "SCRMU",
+   "name": "Screaming Eagle Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCRMU"
+  },
+  {
    "symbol": "SCSC",
    "name": "ScanSource, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -26444,6 +26450,12 @@
    "yahoo_symbol": "SGLBW"
   },
   {
+   "symbol": "SGLY",
+   "name": "Singularity Future Technology Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGLY"
+  },
+  {
    "symbol": "SGMA",
    "name": "SigmaTron International, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -26694,12 +26706,6 @@
    "name": "Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SIMO"
-  },
-  {
-   "symbol": "SINO",
-   "name": "Sino-Global Shipping America, Ltd. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SINO"
   },
   {
    "symbol": "SINT",
@@ -38582,6 +38588,12 @@
    "yahoo_symbol": "CX"
   },
   {
+   "symbol": "CXAC.U",
+   "name": "C5 Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXAC.U"
+  },
+  {
    "symbol": "CXE",
    "name": "MFS High Income Municipal Trust Common Stock",
    "exchange": "NYSE",
@@ -47870,10 +47882,22 @@
    "yahoo_symbol": "NET"
   },
   {
+   "symbol": "NETC",
+   "name": "Nabors Energy Transition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NETC"
+  },
+  {
    "symbol": "NETC.U",
    "name": "Nabors Energy Transition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "NETC.U"
+  },
+  {
+   "symbol": "NETC.W",
+   "name": "Nabors Energy Transition Corp. Warrants, exercisable for one share of Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NETC.W"
   },
   {
    "symbol": "NETI",
@@ -68822,18 +68846,6 @@
    ]
   },
   {
-   "symbol": "MSMJ.P",
-   "name": "MJ Innovation Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MSMJ.P.V",
-   "instruments": [
-    {
-     "name": "MJ Innovation Capital Corp.",
-     "symbol": "MSMJ.P"
-    }
-   ]
-  },
-  {
    "symbol": "MKA",
    "name": "Mkango Resources Ltd.",
    "exchange": "TSXV",
@@ -70470,6 +70482,18 @@
     {
      "name": "Ostrom Climate Solutions Inc.",
      "symbol": "COO"
+    }
+   ]
+  },
+  {
+   "symbol": "OZ",
+   "name": "Outback Goldfields Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OZ.V",
+   "instruments": [
+    {
+     "name": "Outback Goldfields Corp.",
+     "symbol": "OZ"
     }
    ]
   },
@@ -73950,6 +73974,22 @@
     {
      "name": "Spanish Mountain Gold Ltd",
      "symbol": "SPA"
+    }
+   ]
+  },
+  {
+   "symbol": "SPRQ",
+   "name": "SPARQ Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPRQ.V",
+   "instruments": [
+    {
+     "name": "SPARQ Corp.",
+     "symbol": "SPRQ"
+    },
+    {
+     "name": "SPARQ Corp. wt 31DEC2023",
+     "symbol": "SPRQ.WT"
     }
    ]
   },
@@ -96220,7 +96260,7 @@
    "yahoo_symbol": "PTS.TO",
    "instruments": [
     {
-     "name": "Points Int'l Ltd. J",
+     "name": "Points.com Inc. J",
      "symbol": "PTS"
     }
    ]
@@ -97544,11 +97584,11 @@
    "yahoo_symbol": "RS.TO",
    "instruments": [
     {
-     "name": "Rl Est\u0026E-Comm Splt A",
+     "name": "Rl Estate Split Cl A",
      "symbol": "RS"
     },
     {
-     "name": "Rl Est\u0026E-CommSplt Pr",
+     "name": "Rl Estate Split Pr",
      "symbol": "RS.PR.A"
     }
    ]

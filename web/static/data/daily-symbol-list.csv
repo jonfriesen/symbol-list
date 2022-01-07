@@ -1322,6 +1322,8 @@ DAPP,VanEck Digital Transformation ETF,NASDAQ Global MarketSM,DAPP
 DARE,"Dare Bioscience, Inc. - Common Stock",NASDAQ Capital Market,DARE
 DATS,"DatChat, Inc. - Common Stock",NASDAQ Capital Market,DATS
 DATSW,"DatChat, Inc. - Series A Warrant",NASDAQ Capital Market,DATSW
+DAVE,Dave Inc.  - Class A Common Stock,NASDAQ Global MarketSM,DAVE
+DAVEW,Dave Inc.  - Warrants,NASDAQ Global MarketSM,DAVEW
 DAWN,"Day One Biopharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,DAWN
 DAX,Global X DAX Germany ETF,NASDAQ Global MarketSM,DAX
 DBGI,"Digital Brands Group, Inc. - Common Stock",NASDAQ Capital Market,DBGI
@@ -1745,7 +1747,6 @@ FCAL,First Trust California Municipal High income ETF,NASDAQ Global MarketSM,FCA
 FCAP,"First Capital, Inc. - Common Stock",NASDAQ Capital Market,FCAP
 FCBC,"First Community Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,FCBC
 FCCO,First Community Corporation - Common Stock,NASDAQ Capital Market,FCCO
-FCCY,1st Constitution Bancorp (NJ) - Common Stock,NASDAQ Global MarketSM,FCCY
 FCEF,First Trust CEF Income Opportunity ETF,NASDAQ Global MarketSM,FCEF
 FCEL,"FuelCell Energy, Inc. - Common Stock",NASDAQ Global MarketSM,FCEL
 FCFS,"FirstCash Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,FCFS
@@ -2748,7 +2749,6 @@ JUGGW,Jaws Juggernaut Acquisition Corporation - Warrant,NASDAQ Capital Market,JU
 JUPW,"Jupiter Wellness, Inc. - Common Stock",NASDAQ Capital Market,JUPW
 JUPWW,"Jupiter Wellness, Inc. - Warrant",NASDAQ Capital Market,JUPWW
 JVA,"Coffee Holding Co., Inc. - Common Stock",NASDAQ Capital Market,JVA
-JWACU,Jupiter Wellness Acquisition Corp. - Unit,NASDAQ Global MarketSM,JWACU
 JWEL,Jowell Global Ltd. - Ordinary Shares,NASDAQ Capital Market,JWEL
 JYAC,Jiya Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,JYAC
 JYNT,The Joint Corp. - Common Stock,NASDAQ Capital Market,JYNT
@@ -4357,6 +4357,7 @@ SCOR,"comScore, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCOR
 SCPH,scPharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,SCPH
 SCPL,SciPlay Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,SCPL
 SCPS,Scopus BioPharma Inc. - Common Stock,NASDAQ Global MarketSM,SCPS
+SCRMU,Screaming Eagle Acquisition Corp. - Unit,NASDAQ Global MarketSM,SCRMU
 SCSC,"ScanSource, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCSC
 SCVL,"Shoe Carnival, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCVL
 SCWX,SecureWorks Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,SCWX
@@ -4406,6 +4407,7 @@ SGIIU,Seaport Global Acquisition II Corp. - Unit,NASDAQ Global MarketSM,SGIIU
 SGIIW,Seaport Global Acquisition II Corp. - Warrants,NASDAQ Global MarketSM,SGIIW
 SGLB,"Sigma Labs, Inc. - Common Stock",NASDAQ Capital Market,SGLB
 SGLBW,"Sigma Labs, Inc. - Warrant",NASDAQ Capital Market,SGLBW
+SGLY,Singularity Future Technology Ltd. - Common Stock,NASDAQ Capital Market,SGLY
 SGMA,"SigmaTron International, Inc. - Common Stock",NASDAQ Capital Market,SGMA
 SGML,Sigma Lithium Corporation - common shares,NASDAQ Capital Market,SGML
 SGMO,"Sangamo Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,SGMO
@@ -4448,7 +4450,6 @@ SIGIP,"Selective Insurance Group, Inc. - Depositary Shares, each representing a 
 SILC,Silicom Ltd - Ordinary Shares,NASDAQ Global Select MarketSM,SILC
 SILK,"Silk Road Medical, Inc. - Common Stock",NASDAQ Global Select MarketSM,SILK
 SIMO,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",NASDAQ Global Select MarketSM,SIMO
-SINO,"Sino-Global Shipping America, Ltd. - Common Stock",NASDAQ Capital Market,SINO
 SINT,"SiNtx Technologies, Inc. - Common Stock",NASDAQ Capital Market,SINT
 SIOX,Sio Gene Therapies Inc. - Common Stock,NASDAQ Global Select MarketSM,SIOX
 SIRI,Sirius XM Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,SIRI
@@ -6429,6 +6430,7 @@ CWH,"Camping World Holdings, Inc. Class A Commom Stock",NYSE,CWH
 CWK,Cushman & Wakefield plc Ordinary Shares,NYSE,CWK
 CWT,California Water Service Group Common Stock,NYSE,CWT
 CX,"Cemex, S.A.B. de C.V. Sponsored ADR",NYSE,CX
+CXAC.U,"C5 Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",NYSE,CXAC.U
 CXE,MFS High Income Municipal Trust Common Stock,NYSE,CXE
 CXH,MFS Investment Grade Municipal Trust Common Stock,NYSE,CXH
 CXM,"Sprinklr, Inc. Class A Common Stock",NYSE,CXM
@@ -7977,7 +7979,9 @@ NEN,New England Realty Associates Limited Partnership Class A Depositary Receipt
 NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",NYSE,NEP
 NES,"Nuverra Environmental Solutions, Inc. Common Stock",NYSE MKT,NES
 NET,"Cloudflare, Inc. Class A Common Stock",NYSE,NET
+NETC,Nabors Energy Transition Corp. Class A Common Stock,NYSE,NETC
 NETC.U,"Nabors Energy Transition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant",NYSE,NETC.U
+NETC.W,"Nabors Energy Transition Corp. Warrants, exercisable for one share of Class A Common Stock",NYSE,NETC.W
 NETI,Eneti Inc. Common Stock,NYSE,NETI
 NEU,NewMarket Corp Common Stock,NYSE,NEU
 NEV,Nuveen Enhanced Municipal Value Fund Common Shares of Beneficial Interest,NYSE,NEV
@@ -10456,7 +10460,6 @@ MNTO,Minto Metals Corp.,TSXV,MNTO.V,Minto Metals Corp.,MNTO
 MRZ,Mirasol Resources Ltd.,TSXV,MRZ.V,Mirasol Resources Ltd.,MRZ
 MRS,Mission Ready Solutions Inc.,TSXV,MRS.V,Mission Ready Solutions Inc.,MRS
 MIZA.P,Miza III Ventures Inc.,TSXV,MIZA.P.V,Miza III Ventures Inc.,MIZA.P
-MSMJ.P,MJ Innovation Capital Corp.,TSXV,MSMJ.P.V,MJ Innovation Capital Corp.,MSMJ.P
 MKA,Mkango Resources Ltd.,TSXV,MKA.V,Mkango Resources Ltd.,MKA
 MOS,Mobi724 Global Solutions Inc.,TSXV,MOS.V,MOBI724 Global Solutions Inc.,MOS
 MBO,Mobio Technologies Inc.,TSXV,MBO.V,Mobio Technologies Inc.,MBO
@@ -10592,6 +10595,7 @@ OSI,Osino Resources Corp.,TSXV,OSI.V,Osino Resources Corp.,OSI
 ODV,Osisko Development Corp.,TSXV,ODV.V,Osisko Development Corp.,ODV,Osisko Development Corp. wt 01dec2023,ODV.WT
 OM,Osisko Metals Incorporated,TSXV,OM.V,Osisko Metals Incorporated,OM
 COO,Ostrom  Climate Solutions Inc.,TSXV,COO.V,Ostrom Climate Solutions Inc.,COO
+OZ,Outback Goldfields Corp.,TSXV,OZ.V,Outback Goldfields Corp.,OZ
 OCG,Outcrop Silver & Gold Corporation,TSXV,OCG.V,Outcrop Silver & Gold Corporation,OCG
 OAM,OverActive Media Corp.,TSXV,OAM.V,OverActive Media Corp.,OAM
 PGLD,P2 Gold Inc.,TSXV,PGLD.V,P2 Gold Inc.,PGLD
@@ -10878,6 +10882,7 @@ SSV,Southern Silver Exploration Corp.,TSXV,SSV.V,Southern Silver Exploration Cor
 SML,Southstone Minerals Limited,TSXV,SML.V,Southstone Minerals Limited,SML
 SQG,Spackman Equities Group Inc.,TSXV,SQG.V,Spackman Equities Group Inc.,SQG
 SPA,Spanish Mountain Gold Ltd.,TSXV,SPA.V,Spanish Mountain Gold Ltd,SPA
+SPRQ,SPARQ Corp.,TSXV,SPRQ.V,SPARQ Corp.,SPRQ,SPARQ Corp. wt 31DEC2023,SPRQ.WT
 SAY,Sparta Capital Ltd.,TSXV,SAY.V,Sparta Capital Ltd.,SAY
 SRI,Sparton Resources Inc.,TSXV,SRI.V,Sparton Resources Inc,SRI
 SPC,SPC Nickel Corp.,TSXV,SPC.V,SPC Nickel Corp.,SPC
@@ -12516,7 +12521,7 @@ PIPE,Pipestone Energy Corp.,TSX,PIPE.TO,Pipestone Energy J,PIPE
 PZA,Pizza Pizza Royalty Corp.,TSX,PZA.TO,Pizza Pizza Royalty,PZA
 PTM,Platinum Group Metals Ltd.,TSX,PTM.TO,Platinum Grp Metal J,PTM
 PLZ.DB.E,Plaza Retail REIT,TSX,PLZ.DB.E.TO,Plaza RetailTr 5.1Db,PLZ.DB.E,Plaza Retail REIT Un,PLZ.UN
-PTS,Points.com Inc.,TSX,PTS.TO,Points Int'l Ltd. J,PTS
+PTS,Points.com Inc.,TSX,PTS.TO,Points.com Inc. J,PTS
 PIF,Polaris Infrastructure Inc.,TSX,PIF.TO,Polaris Infras J,PIF,Polaris Infras J Deb,PIF.DB
 PBL,Pollard Banknote Limited,TSX,PBL.TO,Pollard Banknote Ltd,PBL
 POM,Polymet Mining Corp.,TSX,POM.TO,Polymet Mining J,POM
@@ -12606,7 +12611,7 @@ RQO,RBC Target 2026 Corporate Bond Index ETF,TSX,RQO.TO,RBC Targt26Corp Bond,RQO
 RQP,RBC Target 2027 Corporate Bond Index ETF,TSX,RQP.TO,RBC Targt27Corp Bond,RQP
 RUBH,RBC U.S. Banks Yield (CAD Hedged) Index ETF,TSX,RUBH.TO,RBC USBanksYld CA-Hg,RUBH
 RUBY,RBC U.S. Banks Yield Index ETF,TSX,RUBY.TO,RBC US Banks Yld CAD,RUBY,RBC US Banks Yld USF,RUBY.U
-RS,Real Estate Split Corp.,TSX,RS.TO,Rl Est&E-Comm Splt A,RS,Rl Est&E-CommSplt Pr,RS.PR.A
+RS,Real Estate Split Corp.,TSX,RS.TO,Rl Estate Split Cl A,RS,Rl Estate Split Pr,RS.PR.A
 REAL,Real Matters Inc.,TSX,REAL.TO,Real Matters Inc.,REAL
 RECP,Recipe Unlimited Corporation,TSX,RECP.TO,Recipe Unlimited SV,RECP
 RDL,Redline Communications Group Inc.,TSX,RDL.TO,Redline Commun Grp J,RDL
