@@ -1,5 +1,5 @@
 {
- "date": "2022-01-07",
+ "date": "2022-01-10",
  "data": [
   {
    "symbol": "AACG",
@@ -1614,6 +1614,12 @@
    "name": "Amkor Technology, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AMKR"
+  },
+  {
+   "symbol": "AMLX",
+   "name": "Amylyx Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMLX"
   },
   {
    "symbol": "AMNB",
@@ -6206,6 +6212,12 @@
    "yahoo_symbol": "CIL"
   },
   {
+   "symbol": "CINC",
+   "name": "CinCor Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CINC"
+  },
+  {
    "symbol": "CINF",
    "name": "Cincinnati Financial Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -9638,12 +9650,6 @@
    "yahoo_symbol": "ENVX"
   },
   {
-   "symbol": "ENVXW",
-   "name": "Enovix Corporation - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ENVXW"
-  },
-  {
    "symbol": "ENZL",
    "name": "iShares MSCI New Zealand ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -11978,12 +11984,6 @@
    "yahoo_symbol": "FWRG"
   },
   {
-   "symbol": "FXCOU",
-   "name": "Financial Strategies Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FXCOU"
-  },
-  {
    "symbol": "FXNC",
    "name": "First National Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -14312,6 +14312,12 @@
    "yahoo_symbol": "HOTH"
   },
   {
+   "symbol": "HOUR",
+   "name": "Hour Loop, Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HOUR"
+  },
+  {
    "symbol": "HOVNP",
    "name": "Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -16502,6 +16508,18 @@
    "yahoo_symbol": "JVA"
   },
   {
+   "symbol": "JWAC",
+   "name": "Jupiter Wellness Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JWAC"
+  },
+  {
+   "symbol": "JWACR",
+   "name": "Jupiter Wellness Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JWACR"
+  },
+  {
    "symbol": "JWEL",
    "name": "Jowell Global Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -17486,10 +17504,22 @@
    "yahoo_symbol": "LEXXW"
   },
   {
+   "symbol": "LFAC",
+   "name": "LF Capital Acquisition Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFAC"
+  },
+  {
    "symbol": "LFACU",
    "name": "LF Capital Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LFACU"
+  },
+  {
+   "symbol": "LFACW",
+   "name": "LF Capital Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFACW"
   },
   {
    "symbol": "LFMD",
@@ -29990,6 +30020,12 @@
    "yahoo_symbol": "UMBF"
   },
   {
+   "symbol": "UMMA",
+   "name": "Wahed Dow Jones Islamic World ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UMMA"
+  },
+  {
    "symbol": "UMPQ",
    "name": "Umpqua Holdings Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -30320,6 +30356,12 @@
    "yahoo_symbol": "VBNK"
   },
   {
+   "symbol": "VBOCU",
+   "name": "Viscogliosi Brothers Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBOCU"
+  },
+  {
    "symbol": "VBTX",
    "name": "Veritex Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -30642,6 +30684,12 @@
    "name": "Vanguard International Dividend Appreciation ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VIGI"
+  },
+  {
+   "symbol": "VIGL",
+   "name": "Vigil Neuroscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VIGL"
   },
   {
    "symbol": "VII",
@@ -31694,12 +31742,6 @@
    "yahoo_symbol": "WLFC"
   },
   {
-   "symbol": "WLTW",
-   "name": "Willis Towers Watson Public Limited Company - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WLTW"
-  },
-  {
    "symbol": "WMG",
    "name": "Warner Music Group Corp. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -31842,6 +31884,12 @@
    "name": "Waitr Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WTRH"
+  },
+  {
+   "symbol": "WTW",
+   "name": "Willis Towers Watson Public Limited Company - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WTW"
   },
   {
    "symbol": "WULF",
@@ -44078,10 +44126,22 @@
    "yahoo_symbol": "IFF"
   },
   {
+   "symbol": "IFIN",
+   "name": "InFinT Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFIN"
+  },
+  {
    "symbol": "IFIN.U",
    "name": "InFinT Acquisition Corporation Units,each consisting of one Class A ordinary share and one-half of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "IFIN.U"
+  },
+  {
+   "symbol": "IFIN.W",
+   "name": "InFinT Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per whole share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFIN.W"
   },
   {
    "symbol": "IFN",
@@ -47978,10 +48038,22 @@
    "yahoo_symbol": "NFJ"
   },
   {
+   "symbol": "NFNT",
+   "name": "Infinite Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NFNT"
+  },
+  {
    "symbol": "NFNT.U",
    "name": "Infinite Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "NFNT.U"
+  },
+  {
+   "symbol": "NFNT.W",
+   "name": "Infinite Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NFNT.W"
   },
   {
    "symbol": "NFYS",
@@ -53450,10 +53522,22 @@
    "yahoo_symbol": "SU"
   },
   {
+   "symbol": "SUAC",
+   "name": "ShoulderUp Technology Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUAC"
+  },
+  {
    "symbol": "SUAC.U",
    "name": "ShoulderUp Technology Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "SUAC.U"
+  },
+  {
+   "symbol": "SUAC.W",
+   "name": "ShoulderUp Technology Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUAC.W"
   },
   {
    "symbol": "SUI",
