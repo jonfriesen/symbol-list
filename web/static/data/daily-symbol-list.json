@@ -1,5 +1,5 @@
 {
- "date": "2022-01-11",
+ "date": "2022-01-12",
  "data": [
   {
    "symbol": "AACG",
@@ -4398,6 +4398,12 @@
    "name": "Brookfield Property Partners L.P. - 6.50% Class A Cumulative Redeemable Perpetual Preferred Units",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BPYPP"
+  },
+  {
+   "symbol": "BRACU",
+   "name": "Broad Capital Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRACU"
   },
   {
    "symbol": "BRAG",
@@ -10706,10 +10712,28 @@
    "yahoo_symbol": "FEX"
   },
   {
+   "symbol": "FEXD",
+   "name": "Fintech Ecosystem Development Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXD"
+  },
+  {
+   "symbol": "FEXDR",
+   "name": "Fintech Ecosystem Development Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXDR"
+  },
+  {
    "symbol": "FEXDU",
    "name": "Fintech Ecosystem Development Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FEXDU"
+  },
+  {
+   "symbol": "FEXDW",
+   "name": "Fintech Ecosystem Development Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXDW"
   },
   {
    "symbol": "FFBC",
@@ -21330,6 +21354,12 @@
    "name": "Nyxoah SA - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NYXH"
+  },
+  {
+   "symbol": "NZRO",
+   "name": "Strategy Shares Halt Climate Change ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NZRO"
   },
   {
    "symbol": "OAS",
@@ -38180,6 +38210,18 @@
    ]
   },
   {
+   "symbol": "EDM",
+   "name": "EDM Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EDM.V",
+   "instruments": [
+    {
+     "name": "EDM Resources Inc.",
+     "symbol": "EDM"
+    }
+   ]
+  },
+  {
    "symbol": "EGT",
    "name": "Eguana Technologies Inc.",
    "exchange": "TSXV",
@@ -39120,6 +39162,18 @@
     {
      "name": "Firm Capital Property Trust",
      "symbol": "FCD.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "FGCC.P",
+   "name": "First and Goal Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FGCC.P.V",
+   "instruments": [
+    {
+     "name": "First and Goal Capital Corp.",
+     "symbol": "FGCC.P"
     }
    ]
   },
@@ -48052,6 +48106,18 @@
    ]
   },
   {
+   "symbol": "REYG",
+   "name": "Reyna Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REYG.V",
+   "instruments": [
+    {
+     "name": "Reyna Gold Corp.",
+     "symbol": "REYG"
+    }
+   ]
+  },
+  {
    "symbol": "RSLV",
    "name": "Reyna Silver Corp.",
    "exchange": "TSXV",
@@ -48852,18 +48918,6 @@
     {
      "name": "Scottie Resources Corp.",
      "symbol": "SCOT"
-    }
-   ]
-  },
-  {
-   "symbol": "SZM",
-   "name": "ScoZinc Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SZM.V",
-   "instruments": [
-    {
-     "name": "ScoZinc Mining Ltd.",
-     "symbol": "SZM"
     }
    ]
   },
@@ -76024,6 +76078,12 @@
    "yahoo_symbol": "VCV"
   },
   {
+   "symbol": "VCXB.U",
+   "name": "10X Capital Venture Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VCXB.U"
+  },
+  {
    "symbol": "VEC",
    "name": "Vectrus, Inc. Common Stock",
    "exchange": "NYSE",
@@ -78490,18 +78550,6 @@
     {
      "name": "Antibe Therapeutic J",
      "symbol": "ATE"
-    }
-   ]
-  },
-  {
-   "symbol": "AHC",
-   "name": "Apollo Healthcare Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AHC.TO",
-   "instruments": [
-    {
-     "name": "Apollo Hlthcare Cl B",
-     "symbol": "AHC"
     }
    ]
   },
