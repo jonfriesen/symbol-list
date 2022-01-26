@@ -1,5 +1,5 @@
 {
- "date": "2022-01-25",
+ "date": "2022-01-26",
  "data": [
   {
    "symbol": "AACG",
@@ -5313,7 +5313,7 @@
   },
   {
    "symbol": "CARZ",
-   "name": "First Trust NASDAQ Global Auto Index Fund",
+   "name": "First Trust S-Network Future Vehicles \u0026 Technology ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CARZ"
   },
@@ -5900,18 +5900,6 @@
    "yahoo_symbol": "CFFSU"
   },
   {
-   "symbol": "CFFVU",
-   "name": "CF Acquisition Corp. V - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CFFVU"
-  },
-  {
-   "symbol": "CFFVW",
-   "name": "CF Acquisition Corp. V - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CFFVW"
-  },
-  {
    "symbol": "CFIV",
    "name": "CF Acquisition Corp. IV - Class A common stock",
    "exchange": "NASDAQ Capital Market",
@@ -5958,12 +5946,6 @@
    "name": "CFSB Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CFSB"
-  },
-  {
-   "symbol": "CFV",
-   "name": "CF Acquisition Corp. V - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CFV"
   },
   {
    "symbol": "CFVI",
@@ -10964,6 +10946,18 @@
    "yahoo_symbol": "FGFPP"
   },
   {
+   "symbol": "FGI",
+   "name": "FGI Industries Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FGI"
+  },
+  {
+   "symbol": "FGIWW",
+   "name": "FGI Industries Ltd. - warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FGIWW"
+  },
+  {
    "symbol": "FGM",
    "name": "First Trust Germany AlphaDEX Fund",
    "exchange": "NASDAQ Global MarketSM",
@@ -12030,12 +12024,6 @@
    "name": "FinTech Acquisition Corp. VI - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FTVIW"
-  },
-  {
-   "symbol": "FTXD",
-   "name": "First Trust Nasdaq Retail ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FTXD"
   },
   {
    "symbol": "FTXG",
@@ -16262,6 +16250,12 @@
    "yahoo_symbol": "ISHG"
   },
   {
+   "symbol": "ISHP",
+   "name": "First Trust S-Network E-Commerce ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISHP"
+  },
+  {
    "symbol": "ISIG",
    "name": "Insignia Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -17390,6 +17384,12 @@
    "yahoo_symbol": "KXIN"
   },
   {
+   "symbol": "KYCHU",
+   "name": "Keyarch Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KYCHU"
+  },
+  {
    "symbol": "KYMR",
    "name": "Kymera Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -17478,6 +17478,12 @@
    "name": "nLIGHT, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LASR"
+  },
+  {
+   "symbol": "LATGU",
+   "name": "LatAmGrowth SPAC - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATGU"
   },
   {
    "symbol": "LAUR",
@@ -27674,6 +27680,12 @@
    "yahoo_symbol": "SOFI"
   },
   {
+   "symbol": "SOFO",
+   "name": "Sonic Foundry, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOFO"
+  },
+  {
    "symbol": "SOGU",
    "name": "The Short De-SPAC ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -36104,6 +36116,12 @@
    "yahoo_symbol": "BIPH"
   },
   {
+   "symbol": "BIPI",
+   "name": "BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIPI"
+  },
+  {
    "symbol": "BIT",
    "name": "BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -40110,6 +40128,12 @@
    "name": "Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031",
    "exchange": "NYSE",
    "yahoo_symbol": "ECCC"
+  },
+  {
+   "symbol": "ECCV",
+   "name": "Eagle Point Credit Company Inc. 5.375% Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECCV"
   },
   {
    "symbol": "ECCW",
@@ -46440,12 +46464,6 @@
    "name": "Li-Cycle Holdings Corp. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "LICY"
-  },
-  {
-   "symbol": "LICY.W",
-   "name": "Li-Cycle Holdings Corp. Redeemable Warrants, each whole warrant exercisable for one Common Share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LICY.W"
   },
   {
    "symbol": "LII",
@@ -53210,6 +53228,18 @@
    "yahoo_symbol": "SKY"
   },
   {
+   "symbol": "SKYH",
+   "name": "Sky Harbour Group Corporation Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SKYH"
+  },
+  {
+   "symbol": "SKYH.W",
+   "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SKYH.W"
+  },
+  {
    "symbol": "SLAC",
    "name": "Social Leverage Acquisition Corp I Class A Common Stock",
    "exchange": "NYSE",
@@ -53544,6 +53574,12 @@
    "name": "Special Opportunities Fund, Inc Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SPE"
+  },
+  {
+   "symbol": "SPE$C",
+   "name": "Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, Series C",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPE$C"
   },
   {
    "symbol": "SPG",
@@ -57308,24 +57344,6 @@
    "yahoo_symbol": "YRD"
   },
   {
-   "symbol": "YSAC",
-   "name": "Yellowstone Acquisition Company Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "YSAC"
-  },
-  {
-   "symbol": "YSAC.U",
-   "name": "Yellowstone Acquisition Company Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "YSAC.U"
-  },
-  {
-   "symbol": "YSAC.W",
-   "name": "Yellowstone Acquisition Company Warrants to purchase Class A common stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "YSAC.W"
-  },
-  {
    "symbol": "YSG",
    "name": "Yatsen Holding Limited American Depositary Shares, each representing four Class A ordinary shares",
    "exchange": "NYSE",
@@ -58970,6 +58988,18 @@
     {
      "name": "Aston Bay Holdings Ltd.",
      "symbol": "BAY"
+    }
+   ]
+  },
+  {
+   "symbol": "ASTR",
+   "name": "Astra Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ASTR.V",
+   "instruments": [
+    {
+     "name": "Astra Exploration Inc.",
+     "symbol": "ASTR"
     }
    ]
   },
@@ -69454,18 +69484,6 @@
    ]
   },
   {
-   "symbol": "MCC.P",
-   "name": "Momentous Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MCC.P.V",
-   "instruments": [
-    {
-     "name": "Momentous Capital Corp.",
-     "symbol": "MCC.P"
-    }
-   ]
-  },
-  {
    "symbol": "MMN",
    "name": "Monarca Minerals Inc.",
    "exchange": "TSXV",
@@ -74902,26 +74920,6 @@
    ]
   },
   {
-   "symbol": "SVI",
-   "name": "StorageVault Canada Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SVI.V",
-   "instruments": [
-    {
-     "name": "Storagevault Canada Inc",
-     "symbol": "SVI"
-    },
-    {
-     "name": "Storagevault Canada Inc.db 31jan2026",
-     "symbol": "SVI.DB"
-    },
-    {
-     "name": "Storagevault Canada Inc. db 30Sept2026",
-     "symbol": "SVI.DB.B"
-    }
-   ]
-  },
-  {
    "symbol": "SB",
    "name": "Stratabound Minerals Corp.",
    "exchange": "TSXV",
@@ -80246,6 +80244,10 @@
     {
      "name": "BMO Balanced ETF CAD",
      "symbol": "ZBAL"
+    },
+    {
+     "name": "BMO Balanced Fix% Un",
+     "symbol": "ZBAL.T"
     }
    ]
   },
@@ -80354,6 +80356,10 @@
     {
      "name": "BMO Coverd CallCdnBk",
      "symbol": "ZWB"
+    },
+    {
+     "name": "BMO CoverCallCdnBkUS",
+     "symbol": "ZWB.U"
     }
    ]
   },
@@ -80830,6 +80836,10 @@
     {
      "name": "BMO Laddered Pr Indx",
      "symbol": "ZPR"
+    },
+    {
+     "name": "BMO Ladder Pr Idx US",
+     "symbol": "ZPR.U"
     }
    ]
   },
@@ -81030,6 +81040,10 @@
     {
      "name": "BMO Monthly Incm Un",
      "symbol": "ZMI"
+    },
+    {
+     "name": "BMO Monthly Incm USD",
+     "symbol": "ZMI.U"
     }
    ]
   },
@@ -83350,15 +83364,11 @@
    ]
   },
   {
-   "symbol": "CHE.DB.C",
+   "symbol": "CHE.DB.D",
    "name": "Chemtrade Logistics Income Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "CHE.DB.C.TO",
+   "yahoo_symbol": "CHE.DB.D.TO",
    "instruments": [
-    {
-     "name": "Chemtrade Lgst 5% Db",
-     "symbol": "CHE.DB.C"
-    },
     {
      "name": "Chemtrade Lgst4.75Db",
      "symbol": "CHE.DB.D"
@@ -87598,6 +87608,10 @@
     {
      "name": "Firm Cap Mtg 5% Deb ",
      "symbol": "FC.DB.K"
+    },
+    {
+     "name": "Firm Cap Mtg 5% L Db",
+     "symbol": "FC.DB.L"
     }
    ]
   },
@@ -99530,6 +99544,26 @@
    ]
   },
   {
+   "symbol": "SVI",
+   "name": "StorageVault Canada Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SVI.TO",
+   "instruments": [
+    {
+     "name": "StorageVault Cda J",
+     "symbol": "SVI"
+    },
+    {
+     "name": "StorageVault 5.75 Db",
+     "symbol": "SVI.DB"
+    },
+    {
+     "name": "StorageVault 5.5 Deb",
+     "symbol": "SVI.DB.B"
+    }
+   ]
+  },
+  {
    "symbol": "SMC",
    "name": "Sulliden Mining Capital Inc.",
    "exchange": "TSX",
@@ -101718,6 +101752,22 @@
     {
      "name": "Vermilion Energy Inc",
      "symbol": "VET"
+    }
+   ]
+  },
+  {
+   "symbol": "VBNK",
+   "name": "VersaBank",
+   "exchange": "TSX",
+   "yahoo_symbol": "VBNK.TO",
+   "instruments": [
+    {
+     "name": "VersaBank J",
+     "symbol": "VBNK"
+    },
+    {
+     "name": "VersaBank Pr 1 J",
+     "symbol": "VBNK.PR.A"
     }
    ]
   },
