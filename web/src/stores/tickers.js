@@ -68,7 +68,7 @@ const searchFn = (v, symbols, limit = 5) => {
 			{
 				name: 'data.name',
 				weight: 0.3
-			},
+			}
 		]
 	};
 

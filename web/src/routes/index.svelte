@@ -1,7 +1,7 @@
 <script>
 	import SearchBar from '$lib/SearchBar.svelte';
 	import SearchResultItem from '$lib/SearchResultItem.svelte';
-	import { stocks, crypto, symbols, count, search } from '../stores/tickers';
+	import { count, search } from '../stores/tickers';
 
 	const today = new Date();
 	let fileDate = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getUTCDate();
@@ -122,13 +122,17 @@
 			<div class="lg:max-w-2xl lg:mx-auto lg:text-center mb-4">
 				<h2 class="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">Search</h2>
 				<p class="mt-4 text-gray-400">
-					Search for a stock or cryptocurrency by symbol or name.
+					Search {Number($count).toLocaleString()} stocks or cryptocurrencies by symbol or name.
 				</p>
 			</div>
 			<SearchBar />
 			<div class="mt-4 grid grid-cols-1 gap-3">
 				{#each $search as record}
-					<SearchResultItem type="{record.item.type}" symbol="{record.item.data.symbol}" name="{record.item.data.name}" />
+					<SearchResultItem
+						type={record.item.type}
+						symbol={record.item.data.symbol}
+						name={record.item.data.name}
+					/>
 				{/each}
 			</div>
 		</div>
