@@ -1,5 +1,5 @@
 {
- "date": "2022-02-22",
+ "date": "2022-02-23",
  "data": [
   {
    "symbol": "AACG",
@@ -1512,12 +1512,6 @@
    "name": "Altimmune, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ALT"
-  },
-  {
-   "symbol": "ALTM",
-   "name": "Altus Midstream Company - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALTM"
   },
   {
    "symbol": "ALTO",
@@ -13280,10 +13274,22 @@
    "yahoo_symbol": "GMDA"
   },
   {
+   "symbol": "GMFI",
+   "name": "Aetherium Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GMFI"
+  },
+  {
    "symbol": "GMFIU",
    "name": "Aetherium Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GMFIU"
+  },
+  {
+   "symbol": "GMFIW",
+   "name": "Aetherium Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GMFIW"
   },
   {
    "symbol": "GMTX",
@@ -17412,6 +17418,12 @@
    "name": "Kinnate Biopharma Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "KNTE"
+  },
+  {
+   "symbol": "KNTK",
+   "name": "Kinetik Holdings Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KNTK"
   },
   {
    "symbol": "KOD",
@@ -29664,6 +29676,12 @@
    "name": "Target Global Acquisition I Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TGAAW"
+  },
+  {
+   "symbol": "TGAN",
+   "name": "Transphorm, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TGAN"
   },
   {
    "symbol": "TGLS",
@@ -89712,6 +89730,10 @@
     {
      "name": "Giga Metals Corporation wt ex 23apr2024",
      "symbol": "GIGA.WT"
+    },
+    {
+     "name": "Giga Metals Corporation wt 08FEB2025",
+     "symbol": "GIGA.WT.A"
     }
    ]
   },
