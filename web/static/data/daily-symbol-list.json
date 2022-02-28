@@ -1,5 +1,5 @@
 {
- "date": "2022-02-25",
+ "date": "2022-02-28",
  "data": [
   {
    "symbol": "AACG",
@@ -1408,7 +1408,7 @@
   {
    "symbol": "ALNA",
    "name": "Allena Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ALNA"
   },
   {
@@ -6488,10 +6488,22 @@
    "yahoo_symbol": "CISO"
   },
   {
+   "symbol": "CITE",
+   "name": "Cartica Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CITE"
+  },
+  {
    "symbol": "CITEU",
    "name": "Cartica Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CITEU"
+  },
+  {
+   "symbol": "CITEW",
+   "name": "Cartica Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CITEW"
   },
   {
    "symbol": "CIVB",
@@ -10904,12 +10916,6 @@
    "yahoo_symbol": "FDBC"
   },
   {
-   "symbol": "FDIV",
-   "name": "First Trust Strategic Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FDIV"
-  },
-  {
    "symbol": "FDMT",
    "name": "4D Molecular Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -11130,6 +11136,12 @@
    "name": "First Trust Germany AlphaDEX Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FGM"
+  },
+  {
+   "symbol": "FGMCU",
+   "name": "FG Merger Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMCU"
   },
   {
    "symbol": "FHB",
@@ -13820,6 +13832,12 @@
    "yahoo_symbol": "GSMGW"
   },
   {
+   "symbol": "GSRMU",
+   "name": "GSR II Meteora Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRMU"
+  },
+  {
    "symbol": "GT",
    "name": "The Goodyear Tire \u0026 Rubber Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -14544,6 +14562,12 @@
    "name": "Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HIMX"
+  },
+  {
+   "symbol": "HISF",
+   "name": "First Trust High Income Strategic Focus ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HISF"
   },
   {
    "symbol": "HITI",
@@ -16746,6 +16770,12 @@
    "name": "IX Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IXAQW"
+  },
+  {
+   "symbol": "IXHL",
+   "name": "Incannex Healthcare Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IXHL"
   },
   {
    "symbol": "IXUS",
@@ -29247,7 +29277,7 @@
   },
   {
    "symbol": "TANH",
-   "name": "Tantech Holdings Ltd. - Common Stock",
+   "name": "Tantech Holdings Ltd. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TANH"
   },
@@ -39572,10 +39602,22 @@
    "yahoo_symbol": "CX"
   },
   {
+   "symbol": "CXAC",
+   "name": "C5 Acquisition Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXAC"
+  },
+  {
    "symbol": "CXAC.U",
    "name": "C5 Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "CXAC.U"
+  },
+  {
+   "symbol": "CXAC.W",
+   "name": "C5 Acquisition Corporation Public warrants, each whole public warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXAC.W"
   },
   {
    "symbol": "CXE",
@@ -40626,12 +40668,6 @@
    "name": "Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ECC$D"
-  },
-  {
-   "symbol": "ECCB",
-   "name": "Eagle Point Credit Company Inc. 7.75% Series B Term Preferred Stock due 2026",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ECCB"
   },
   {
    "symbol": "ECCC",
@@ -43238,12 +43274,6 @@
    "yahoo_symbol": "GGZ"
   },
   {
-   "symbol": "GGZ$A",
-   "name": "Gabelli Global Small and Mid Cap Value Trust (The) 5.450% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GGZ$A"
-  },
-  {
    "symbol": "GHC",
    "name": "Graham Holdings Company Common Stock",
    "exchange": "NYSE",
@@ -45264,12 +45294,6 @@
    "name": "Informatica Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "INFA"
-  },
-  {
-   "symbol": "INFO",
-   "name": "IHS Markit Ltd. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "INFO"
   },
   {
    "symbol": "INFU",
@@ -48012,18 +48036,6 @@
    "name": "Western Asset Municipal Partners Fund, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MNP"
-  },
-  {
-   "symbol": "MNR",
-   "name": "Monmouth Real Estate Investment Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MNR"
-  },
-  {
-   "symbol": "MNR$C",
-   "name": "Monmouth Real Estate Investment Corporation 6.125% Series C Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MNR$C"
   },
   {
    "symbol": "MNRL",
@@ -53324,6 +53336,18 @@
    "yahoo_symbol": "SE"
   },
   {
+   "symbol": "SEAL$A",
+   "name": "Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEAL$A"
+  },
+  {
+   "symbol": "SEAL$B",
+   "name": "Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEAL$B"
+  },
+  {
    "symbol": "SEAS",
    "name": "SeaWorld Entertainment, Inc. Common Stock",
    "exchange": "NYSE",
@@ -55080,18 +55104,6 @@
    "name": "TEGNA Inc",
    "exchange": "NYSE",
    "yahoo_symbol": "TGNA"
-  },
-  {
-   "symbol": "TGP$A",
-   "name": "Teekay LNG Partners L.P. 9.00% Series A Cumulative Redeemable Perpetual Preferred Units, representing limited partner interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TGP$A"
-  },
-  {
-   "symbol": "TGP$B",
-   "name": "Teekay LNG Partners L.P. 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units, representing limited partner interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TGP$B"
   },
   {
    "symbol": "TGR.U",
@@ -66078,18 +66090,6 @@
     {
      "name": "Great Atlantic Resources Corp.",
      "symbol": "GR"
-    }
-   ]
-  },
-  {
-   "symbol": "GBR",
-   "name": "Great Bear Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GBR.V",
-   "instruments": [
-    {
-     "name": "Great Bear Resources Ltd.",
-     "symbol": "GBR"
     }
    ]
   },
@@ -79938,10 +79938,6 @@
     {
      "name": "Bank of Montreal",
      "symbol": "BMO"
-    },
-    {
-     "name": "Bk of Mon Pr Ser 38",
-     "symbol": "BMO.PR.B"
     },
     {
      "name": "Bk of Mon Pr Ser 40",
@@ -96166,6 +96162,18 @@
     {
      "name": "Mullen Group Ltd Deb",
      "symbol": "MTL.DB"
+    }
+   ]
+  },
+  {
+   "symbol": "CBNK",
+   "name": "Mulvihill Canadian Bank Enhanced Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBNK.TO",
+   "instruments": [
+    {
+     "name": "Mulvihill CdnBnk Yld",
+     "symbol": "CBNK"
     }
    ]
   },
