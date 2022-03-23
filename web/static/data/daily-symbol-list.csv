@@ -603,7 +603,6 @@ BCSAW,Blockchain Coinvestors Acquisition Corp. I - Warrant,NASDAQ Global MarketS
 BCTX,BriaCell Therapeutics Corp. - Common Shares,NASDAQ Capital Market,BCTX
 BCTXW,BriaCell Therapeutics Corp. - Warrant,NASDAQ Capital Market,BCTXW
 BCYC,Bicycle Therapeutics plc - American Depositary Shares,NASDAQ Global Select MarketSM,BCYC
-BDSI,"BioDelivery Sciences International, Inc. - Common Stock",NASDAQ Global Select MarketSM,BDSI
 BDSX,"Biodesix, Inc. - Common Stock",NASDAQ Global MarketSM,BDSX
 BDTX,"Black Diamond Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,BDTX
 BEAM,Beam Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,BEAM
@@ -2157,6 +2156,7 @@ GGAA,Genesis Growth Tech Acquisition Corp. - Class A Ordinary Shares,NASDAQ Glob
 GGAAU,Genesis Growth Tech Acquisition Corp. - Unit,NASDAQ Global MarketSM,GGAAU
 GGAAW,Genesis Growth Tech Acquisition Corp. - Warrant,NASDAQ Global MarketSM,GGAAW
 GGAL,"Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying",NASDAQ Capital Market,GGAL
+GGE,Green Giant Inc. - Common Stock,NASDAQ Capital Market,GGE
 GGGV,G3 VRM Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,GGGV
 GGGVR,G3 VRM Acquisition Corp. - Rights,NASDAQ Capital Market,GGGVR
 GGGVU,"G3 VRM Acquisition Corp. - Units, each consisting one share of Class A Common stock and one right.",NASDAQ Capital Market,GGGVU
@@ -2429,7 +2429,6 @@ HFFG,HF Foods Group Inc. - Common Stock,NASDAQ Capital Market,HFFG
 HFWA,Heritage Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,HFWA
 HGBL,Heritage Global Inc. - Common Stock,NASDAQ Capital Market,HGBL
 HGEN,"Humanigen, Inc. - Common Stock",NASDAQ Capital Market,HGEN
-HGSH,"China HGS Real Estate, Inc. - Common Stock",NASDAQ Capital Market,HGSH
 HHGC,HHG Capital Corporation - Ordinary Shares,NASDAQ Capital Market,HHGC
 HHGCR,HHG Capital Corporation - Rights,NASDAQ Capital Market,HHGCR
 HHGCU,HHG Capital Corporation - Units,NASDAQ Capital Market,HHGCU
@@ -5603,6 +5602,7 @@ ZSAN,Zosano Pharma Corporation - Common Stock,NASDAQ Capital Market,ZSAN
 ZT,Zimmer Energy Transition Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,ZT
 ZTAQU,"Zimmer Energy Transition Acquisition Corp. - Units, consisting of one share of Class A common stock and one-third of one warrant",NASDAQ Global MarketSM,ZTAQU
 ZTAQW,Zimmer Energy Transition Acquisition Corp. - Warrants,NASDAQ Global MarketSM,ZTAQW
+ZTEK,Zentek Ltd. - common stock,NASDAQ Capital Market,ZTEK
 ZUMZ,Zumiez Inc. - Common Stock,NASDAQ Global Select MarketSM,ZUMZ
 ZVO,Zovio Inc. - Common Stock,NASDAQ Global Select MarketSM,ZVO
 ZWRK,Z-Work Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,ZWRK
@@ -6082,6 +6082,7 @@ BDL,"Flanigan's Enterprises, Inc. Common Stock",NYSE MKT,BDL
 BDN,Brandywine Realty Trust Common Stock,NYSE,BDN
 BDR,"Blonder Tongue Laboratories, Inc. Common Stock",NYSE MKT,BDR
 BDX,"Becton, Dickinson and Company Common Stock",NYSE,BDX
+BDX.V,"Becton, Dickinson and Company Common Stock When-Issued",NYSE,BDX.V
 BDXB,"Becton, Dickinson and Company Depositary Shares, each Representing a 1/20th Interest in a Share of 6.00% Mandatory Convertible Preferred Stock, Series B",NYSE,BDXB
 BE,Bloom Energy Corporation Class A Common Stock,NYSE,BE
 BEDU,"Bright Scholar Education Holdings Limited American Depositary Shares, each  representing one Class A Ordinary Share",NYSE,BEDU
@@ -10158,7 +10159,6 @@ EW,East West Petroleum Corp.,TSXV,EW.V,East West Petroleum Corp,EW
 ETF,Eastfield Resources Ltd.,TSXV,ETF.V,Eastfield Resources Ltd.,ETF
 EAST,EastWest Bioscience Inc.,TSXV,EAST.V,EastWest Bioscience Inc.,EAST
 EBM,Eastwood Bio-Medical Canada Inc.,TSXV,EBM.V,Eastwood Bio-Medical Canada Inc.,EBM
-ECCT.P,ECC Ventures 3 Corp.,TSXV,ECCT.P.V,ECC Ventures 3 Corp.,ECCT.P
 ECCF.P,ECC Ventures 4 Corp.,TSXV,ECCF.P.V,ECC Ventures 4 Corp.,ECCF.P
 ECCV.P,ECC Ventures 5 Corp.,TSXV,ECCV.P.V,ECC Ventures 5 Corp.,ECCV.P
 ECCS.P,ECC Ventures 6 Corp.,TSXV,ECCS.P.V,ECC Ventures 6 Corp.,ECCS.P
@@ -10386,6 +10386,7 @@ GPV,GreenPower Motor Company Inc.,TSXV,GPV.V,GreenPower Motor Company Inc.,GPV
 JTR,GreenSpace Brands Inc.,TSXV,JTR.V,GreenSpace Brands Inc.,JTR
 GRDM,Grid Metals Corp.,TSXV,GRDM.V,Grid Metals Corp.,GRDM
 GZD,Grizzly Discoveries Inc.,TSXV,GZD.V,Grizzly Discoveries Inc.,GZD
+GRVA.P,Grosvenor CPC I Inc.,TSXV,GRVA.P.V,Grosvenor CPC I Inc.,GRVA.P
 GVR,Grosvenor Resource Corporation,TSXV,GVR.V,Grosvenor Resource Corporation,GVR
 ZNG,Group Eleven Resources Corp.,TSXV,ZNG.V,Group Eleven Resources Corp.,ZNG
 PGE,Group Ten Metals Inc.,TSXV,PGE.V,Group Ten Metals Inc.,PGE
@@ -10859,6 +10860,7 @@ PEGA,Pegasus Resources Inc.,TSXV,PEGA.V,Pegasus Resources Inc.,PEGA
 PX,Pelangio Exploration Inc.,TSXV,PX.V,Pelangio Exploration Inc.,PX
 PEM.P,Penbar Capital Ltd.,TSXV,PEM.P.V,Penbar Capital Ltd.,PEM.P
 PTF,Pender Growth Fund Inc.,TSXV,PTF.V,Pender Growth Fund Inc.,PTF
+PCP.P,Pender Street Capital Corp.,TSXV,PCP.P.V,Pender Street Capital Corp.,PCP.P
 PNN,Pennine Petroleum Corporation,TSXV,PNN.V,Pennine Petroleum Corporation,PNN
 PCL.P,Perihelion Capital Ltd.,TSXV,PCL.P.V,Perihelion Capital Ltd.,PCL.P
 PINK,"Perimeter Medical Imaging AI, Inc.",TSXV,PINK.V,"Perimeter Medical Imaging AI, Inc.",PINK
@@ -11116,6 +11118,7 @@ SPA,Spanish Mountain Gold Ltd.,TSXV,SPA.V,Spanish Mountain Gold Ltd,SPA
 SPRQ,SPARQ Corp.,TSXV,SPRQ.V,SPARQ Corp.,SPRQ,SPARQ Corp. wt 31DEC2023,SPRQ.WT
 SAY,Sparta Capital Ltd.,TSXV,SAY.V,Sparta Capital Ltd.,SAY
 SRI,Sparton Resources Inc.,TSXV,SRI.V,Sparton Resources Inc,SRI
+SPRX,Sparx Technology Inc.,TSXV,SPRX.V,Sparx Technology Inc.,SPRX
 SPC,SPC Nickel Corp.,TSXV,SPC.V,SPC Nickel Corp.,SPC
 SSA,Spectra Products Inc.,TSXV,SSA.V,Spectra Products Inc.,SSA
 SEV,Spectra7 Microsystems Inc.,TSXV,SEV.V,Spectra7 Microsystems Inc.,SEV

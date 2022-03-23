@@ -1,5 +1,5 @@
 {
- "date": "2022-03-22",
+ "date": "2022-03-23",
  "data": [
   {
    "symbol": "AACG",
@@ -3624,12 +3624,6 @@
    "name": "Bicycle Therapeutics plc - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BCYC"
-  },
-  {
-   "symbol": "BDSI",
-   "name": "BioDelivery Sciences International, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BDSI"
   },
   {
    "symbol": "BDSX",
@@ -12950,6 +12944,12 @@
    "yahoo_symbol": "GGAL"
   },
   {
+   "symbol": "GGE",
+   "name": "Green Giant Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GGE"
+  },
+  {
    "symbol": "GGGV",
    "name": "G3 VRM Acquisition Corp. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -14580,12 +14580,6 @@
    "name": "Humanigen, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HGEN"
-  },
-  {
-   "symbol": "HGSH",
-   "name": "China HGS Real Estate, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HGSH"
   },
   {
    "symbol": "HHGC",
@@ -33626,6 +33620,12 @@
    "yahoo_symbol": "ZTAQW"
   },
   {
+   "symbol": "ZTEK",
+   "name": "Zentek Ltd. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZTEK"
+  },
+  {
    "symbol": "ZUMZ",
    "name": "Zumiez Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -36498,6 +36498,12 @@
    "name": "Becton, Dickinson and Company Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BDX"
+  },
+  {
+   "symbol": "BDX.V",
+   "name": "Becton, Dickinson and Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BDX.V"
   },
   {
    "symbol": "BDXB",
@@ -63704,18 +63710,6 @@
    ]
   },
   {
-   "symbol": "ECCT.P",
-   "name": "ECC Ventures 3 Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ECCT.P.V",
-   "instruments": [
-    {
-     "name": "ECC Ventures 3 Corp.",
-     "symbol": "ECCT.P"
-    }
-   ]
-  },
-  {
    "symbol": "ECCF.P",
    "name": "ECC Ventures 4 Corp.",
    "exchange": "TSXV",
@@ -66488,6 +66482,18 @@
     {
      "name": "Grizzly Discoveries Inc.",
      "symbol": "GZD"
+    }
+   ]
+  },
+  {
+   "symbol": "GRVA.P",
+   "name": "Grosvenor CPC I Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GRVA.P.V",
+   "instruments": [
+    {
+     "name": "Grosvenor CPC I Inc.",
+     "symbol": "GRVA.P"
     }
    ]
   },
@@ -72296,6 +72302,18 @@
    ]
   },
   {
+   "symbol": "PCP.P",
+   "name": "Pender Street Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCP.P.V",
+   "instruments": [
+    {
+     "name": "Pender Street Capital Corp.",
+     "symbol": "PCP.P"
+    }
+   ]
+  },
+  {
    "symbol": "PNN",
    "name": "Pennine Petroleum Corporation",
    "exchange": "TSXV",
@@ -75440,6 +75458,18 @@
     {
      "name": "Sparton Resources Inc",
      "symbol": "SRI"
+    }
+   ]
+  },
+  {
+   "symbol": "SPRX",
+   "name": "Sparx Technology Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPRX.V",
+   "instruments": [
+    {
+     "name": "Sparx Technology Inc.",
+     "symbol": "SPRX"
     }
    ]
   },
