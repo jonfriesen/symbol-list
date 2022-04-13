@@ -1,5 +1,5 @@
 {
- "date": "2022-04-12",
+ "date": "2022-04-13",
  "data": [
   {
    "symbol": "ONE",
@@ -10490,6 +10490,18 @@
    ]
   },
   {
+   "symbol": "LGC",
+   "name": "Lavras Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LGC.V",
+   "instruments": [
+    {
+     "name": "Lavras Gold Corp.",
+     "symbol": "LGC"
+    }
+   ]
+  },
+  {
    "symbol": "LDB.P",
    "name": "LDB Capital Corp.",
    "exchange": "TSXV",
@@ -12878,18 +12890,6 @@
     {
      "name": "Norden Crown Metals Corporation",
      "symbol": "NOCR"
-    }
-   ]
-  },
-  {
-   "symbol": "NOT",
-   "name": "Noront Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NOT.V",
-   "instruments": [
-    {
-     "name": "Noront Resources Ltd.",
-     "symbol": "NOT"
     }
    ]
   },
@@ -18270,6 +18270,18 @@
     {
      "name": "Think Research Corporation",
      "symbol": "THNK"
+    }
+   ]
+  },
+  {
+   "symbol": "TTI",
+   "name": "Thiogenesis Therapeutics, Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TTI.V",
+   "instruments": [
+    {
+     "name": "Thiogenesis Therapeutics, Corp.",
+     "symbol": "TTI"
     }
    ]
   },
@@ -28216,6 +28228,12 @@
    "name": "Creative Realities, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CREXW"
+  },
+  {
+   "symbol": "CRGE",
+   "name": "Charge Enterprises, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRGE"
   },
   {
    "symbol": "CRIS",
@@ -58958,6 +58976,10 @@
      "symbol": "BEP.PR.O"
     },
     {
+     "name": "Brookfield RenewPr18",
+     "symbol": "BEP.PR.R"
+    },
+    {
      "name": "Brookfld Renew LP Un",
      "symbol": "BEP.UN"
     }
@@ -86264,6 +86286,12 @@
    "name": "New Oriental Education \u0026 Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)",
    "exchange": "NYSE",
    "yahoo_symbol": "EDU"
+  },
+  {
+   "symbol": "EE",
+   "name": "Excelerate Energy, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EE"
   },
   {
    "symbol": "EEA",
