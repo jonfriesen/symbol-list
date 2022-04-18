@@ -1,5 +1,5 @@
 {
- "date": "2022-04-15",
+ "date": "2022-04-18",
  "data": [
   {
    "symbol": "AACG",
@@ -17622,12 +17622,6 @@
    "name": "KL Acquisition Corp - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KLAQW"
-  },
-  {
-   "symbol": "KLDO",
-   "name": "Kaleido Biosciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KLDO"
   },
   {
    "symbol": "KLIC",
@@ -40370,12 +40364,6 @@
    "yahoo_symbol": "DHR"
   },
   {
-   "symbol": "DHR$A",
-   "name": "Danaher Corporation 4.75% Mandatory Convertible Preferred Stock, Series A",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DHR$A"
-  },
-  {
    "symbol": "DHR$B",
    "name": "Danaher Corporation 5.00% Mandatory Convertible Preferred Stock, Series B",
    "exchange": "NYSE",
@@ -43440,12 +43428,6 @@
    "name": "Global Indemnity Group, LLC Class A Common Stock (DE)",
    "exchange": "NYSE",
    "yahoo_symbol": "GBLI"
-  },
-  {
-   "symbol": "GBLL",
-   "name": "Global Indemnity Group, LLC 7.875% Subordinated Notes due 2047",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GBLL"
   },
   {
    "symbol": "GBR",
@@ -61888,6 +61870,10 @@
     {
      "name": "Carebook Technologies Inc.",
      "symbol": "CRBK"
+    },
+    {
+     "name": "Carebook Technologies Inc. rt ex 12may2022",
+     "symbol": "CRBK.RT"
     }
    ]
   },
@@ -79492,6 +79478,10 @@
     {
      "name": "Ag Growth Intl 5% DB",
      "symbol": "AFN.DB.I"
+    },
+    {
+     "name": "Ag Growth Intl 5.2Db",
+     "symbol": "AFN.DB.J"
     }
    ]
   },
@@ -103404,6 +103394,10 @@
     {
      "name": "Western Energy Serv",
      "symbol": "WRG"
+    },
+    {
+     "name": "Western Energy Rt",
+     "symbol": "WRG.RT"
     }
    ]
   },
