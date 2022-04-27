@@ -1,5 +1,5 @@
 {
- "date": "2022-04-26",
+ "date": "2022-04-27",
  "data": [
   {
    "symbol": "AACG",
@@ -1182,6 +1182,12 @@
    "name": "AIkido Pharma Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AIKI"
+  },
+  {
+   "symbol": "AIMAU",
+   "name": "Aimfinity Investment Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIMAU"
   },
   {
    "symbol": "AIMC",
@@ -12222,6 +12228,30 @@
    "name": "First Trust Indxx Global Agriculture ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FTAG"
+  },
+  {
+   "symbol": "FTAI",
+   "name": "Fortress Transportation and Infrastructure Investors LLC - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTAI"
+  },
+  {
+   "symbol": "FTAIN",
+   "name": "Fortress Transportation and Infrastructure Investors LLC - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTAIN"
+  },
+  {
+   "symbol": "FTAIO",
+   "name": "Fortress Transportation and Infrastructure Investors LLC - 8.00% Fixed-to-Floating Rate Series B Cumulative Perpetual Redeemable Preferred Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTAIO"
+  },
+  {
+   "symbol": "FTAIP",
+   "name": "Fortress Transportation and Infrastructure Investors LLC - 8.25% Fixed-to-Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTAIP"
   },
   {
    "symbol": "FTC",
@@ -57123,7 +57153,7 @@
   },
   {
    "symbol": "VIST",
-   "name": "Vista Oil \u0026 Gas, S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value",
+   "name": "Vista Energy S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value",
    "exchange": "NYSE",
    "yahoo_symbol": "VIST"
   },
@@ -75964,6 +75994,18 @@
    ]
   },
   {
+   "symbol": "SCRS.P",
+   "name": "St Charles Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCRS.P.V",
+   "instruments": [
+    {
+     "name": "St Charles Resources Inc.",
+     "symbol": "SCRS.P"
+    }
+   ]
+  },
+  {
    "symbol": "LORD",
    "name": "St. James Gold Corp.",
    "exchange": "TSXV",
@@ -84909,7 +84951,7 @@
   },
   {
    "symbol": "CIC",
-   "name": "CI Canadian Banks Income Class ETF",
+   "name": "CI Canadian Banks Covered Call Income Class ETF",
    "exchange": "TSX",
    "yahoo_symbol": "CIC.TO",
    "instruments": [
@@ -85665,7 +85707,7 @@
   },
   {
    "symbol": "FLI",
-   "name": "CI U.S. \u0026 Canada LifeCo Income ETF",
+   "name": "CI U.S. \u0026 Canada Lifeco Covered Call ETF",
    "exchange": "TSX",
    "yahoo_symbol": "FLI.TO",
    "instruments": [
@@ -98164,10 +98206,6 @@
     {
      "name": "Petrus Resources J",
      "symbol": "PRQ"
-    },
-    {
-     "name": "Petrus ResourcesJ Rt",
-     "symbol": "PRQ.RT"
     }
    ]
   },
