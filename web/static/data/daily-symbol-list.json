@@ -1,5 +1,5 @@
 {
- "date": "2022-05-02",
+ "date": "2022-05-03",
  "data": [
   {
    "symbol": "BTCQ",
@@ -334,10 +334,6 @@
     {
      "name": "Ag Growth Int'l Inc.",
      "symbol": "AFN"
-    },
-    {
-     "name": "AG Growth Intl 4.5Db",
-     "symbol": "AFN.DB.E"
     },
     {
      "name": "Ag Growth Intl 5.4Db",
@@ -4516,10 +4512,6 @@
      "symbol": "BEP.PR.G"
     },
     {
-     "name": "Brookfield RenewPr11",
-     "symbol": "BEP.PR.K"
-    },
-    {
      "name": "Brookfield RenewPr13",
      "symbol": "BEP.PR.M"
     },
@@ -5866,6 +5858,18 @@
    ]
   },
   {
+   "symbol": "CBCX",
+   "name": "CI Galaxy Blockchain ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBCX.TO",
+   "instruments": [
+    {
+     "name": "CI Galaxy Blkchn Un",
+     "symbol": "CBCX"
+    }
+   ]
+  },
+  {
    "symbol": "ETHX.B",
    "name": "CI Galaxy Ethereum ETF",
    "exchange": "TSX",
@@ -5878,6 +5882,18 @@
     {
      "name": "CI GalxyEthermUS UH",
      "symbol": "ETHX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CMVX",
+   "name": "CI Galaxy Metaverse ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMVX.TO",
+   "instruments": [
+    {
+     "name": "CI Galaxy Metavrs Un",
+     "symbol": "CMVX"
     }
    ]
   },
@@ -15682,18 +15698,6 @@
    ]
   },
   {
-   "symbol": "JOSE",
-   "name": "Josemaria Resources Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "JOSE.TO",
-   "instruments": [
-    {
-     "name": "Josemaria Res Inc. J",
-     "symbol": "JOSE"
-    }
-   ]
-  },
-  {
    "symbol": "JOY",
    "name": "Journey Energy Inc.",
    "exchange": "TSX",
@@ -18150,6 +18154,10 @@
     {
      "name": "Nighthawk Gold J",
      "symbol": "NHK"
+    },
+    {
+     "name": "Nighthawk Gold J Wt",
+     "symbol": "NHK.WT"
     }
    ]
   },
@@ -28278,6 +28286,18 @@
    ]
   },
   {
+   "symbol": "CH",
+   "name": "Charbone Hydrogen Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CH.V",
+   "instruments": [
+    {
+     "name": "Charbone Hydrogen Corporation",
+     "symbol": "CH"
+    }
+   ]
+  },
+  {
    "symbol": "NZP",
    "name": "Chatham Rock Phosphate Limited",
    "exchange": "TSXV",
@@ -28442,18 +28462,6 @@
     {
      "name": "Clear Blue Technologies International Inc.",
      "symbol": "CBLU"
-    }
-   ]
-  },
-  {
-   "symbol": "CLI",
-   "name": "Clearford Water Systems Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CLI.V",
-   "instruments": [
-    {
-     "name": "Clearford Water Systems Inc.",
-     "symbol": "CLI"
     }
    ]
   },
@@ -54874,18 +54882,6 @@
    "yahoo_symbol": "EBTC"
   },
   {
-   "symbol": "ECOL",
-   "name": "US Ecology, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ECOL"
-  },
-  {
-   "symbol": "ECOLW",
-   "name": "US Ecology, Inc. - warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ECOLW"
-  },
-  {
    "symbol": "ECOR",
    "name": "electroCore, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -67294,10 +67290,22 @@
    "yahoo_symbol": "NTWK"
   },
   {
+   "symbol": "NUBI",
+   "name": "Nubia Brand International Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUBI"
+  },
+  {
    "symbol": "NUBIU",
    "name": "Nubia Brand International Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NUBIU"
+  },
+  {
+   "symbol": "NUBIW",
+   "name": "Nubia Brand International Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUBIW"
   },
   {
    "symbol": "NURO",
@@ -74764,12 +74772,6 @@
    "yahoo_symbol": "SUSL"
   },
   {
-   "symbol": "SV",
-   "name": "Spring Valley Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SV"
-  },
-  {
    "symbol": "SVA",
    "name": "Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -74842,18 +74844,6 @@
    "yahoo_symbol": "SVRA"
   },
   {
-   "symbol": "SVSVU",
-   "name": "Spring Valley Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SVSVU"
-  },
-  {
-   "symbol": "SVSVW",
-   "name": "Spring Valley Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SVSVW"
-  },
-  {
    "symbol": "SVVC",
    "name": "Firsthand Technology Value Fund, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -74888,6 +74878,12 @@
    "name": "Smith \u0026 Wesson Brands, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SWBI"
+  },
+  {
+   "symbol": "SWEB",
+   "name": "AXS Short China Internet ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWEB"
   },
   {
    "symbol": "SWET",
@@ -75122,6 +75118,12 @@
    "name": "Protara Therapeutics, Inc.  - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TARA"
+  },
+  {
+   "symbol": "TARK",
+   "name": "AXS 2X Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TARK"
   },
   {
    "symbol": "TARS",
@@ -85030,12 +85032,6 @@
    "yahoo_symbol": "CRM"
   },
   {
-   "symbol": "CROC",
-   "name": "ProShares UltraShort Australian Dollar",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "CROC"
-  },
-  {
    "symbol": "CRS",
    "name": "Carpenter Technology Corporation Common Stock",
    "exchange": "NYSE",
@@ -87512,12 +87508,6 @@
    "name": "Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",
    "exchange": "NYSE",
    "yahoo_symbol": "ETY"
-  },
-  {
-   "symbol": "EUFX",
-   "name": "ProShares Short Euro",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "EUFX"
   },
   {
    "symbol": "EURN",
@@ -90566,12 +90556,6 @@
    "name": "Hunt Companies Acquisition Corp. I Warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
    "exchange": "NYSE",
    "yahoo_symbol": "HTAQ.W"
-  },
-  {
-   "symbol": "HTBX",
-   "name": "Heat Biologics, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "HTBX"
   },
   {
    "symbol": "HTD",
@@ -94954,6 +94938,12 @@
    "yahoo_symbol": "NHS.R"
   },
   {
+   "symbol": "NHWK",
+   "name": "NightHawk Biosciences, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHWK"
+  },
+  {
    "symbol": "NI",
    "name": "NiSource Inc Common Stock",
    "exchange": "NYSE",
@@ -98938,6 +98928,12 @@
    "yahoo_symbol": "SAR"
   },
   {
+   "symbol": "SAT",
+   "name": "Saratoga Investment Corp 6.00% Notes due 2027",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAT"
+  },
+  {
    "symbol": "SAVE",
    "name": "Spirit Airlines, Inc. Common Stock",
    "exchange": "NYSE",
@@ -99752,6 +99748,18 @@
    "name": "Standard Motor Products, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SMP"
+  },
+  {
+   "symbol": "SMR",
+   "name": "NuScale Power Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMR"
+  },
+  {
+   "symbol": "SMR.W",
+   "name": "NuScale Power Corporation Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMR.W"
   },
   {
    "symbol": "SMRT",
