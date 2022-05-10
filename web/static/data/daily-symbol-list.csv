@@ -158,7 +158,6 @@ AAZ,Azincourt Energy Corp.,TSXV,AAZ.V,Azincourt Energy Corp.,AAZ
 AZT,Aztec Minerals Corp.,TSXV,AZT.V,Aztec Minerals Corp.,AZT
 AMZ,Azucar Minerals Ltd.,TSXV,AMZ.V,Azucar Minerals Ltd.,AMZ
 BP,Backstageplay Inc.,TSXV,BP.V,Backstageplay Inc.,BP
-YVR.P,Badger Capital Corp.,TSXV,YVR.P.V,Badger Capital Corp.,YVR.P
 BIG,Bald Eagle Gold Corp.,TSXV,BIG.V,Bald Eagle Gold Corp.,BIG
 BLTC.P,Baltic I Acquisition Corp.,TSXV,BLTC.P.V,Baltic I Acquisition Corp.,BLTC.P
 BNXA,Banxa Holdings Inc.,TSXV,BNXA.V,Banxa Holdings Inc.,BNXA
@@ -386,7 +385,7 @@ DM,Datametrex AI Limited,TSXV,DM.V,Datametrex AI Limited,DM
 DUR.P,Daura Capital Corp.,TSXV,DUR.P.V,Daura Capital Corp.,DUR.P
 DPCC.P,Deal Pro Capital Corp.,TSXV,DPCC.P.V,Deal Pro Capital Corp.,DPCC.P
 DEC,Decade Resources Ltd.,TSXV,DEC.V,Decade Resources Ltd,DEC
-DB,Decibel Cannabis Company Inc.,TSXV,DB.V,Decibel Cannabis Company Inc.,DB,Decibel Cannabis Company Inc. db 10May2022,DB.DB,Decibel Cannabis Company Inc. wt 15may2022,DB.WT,Decibel Cannabis Company Inc. wt. A 16Sept2024,DB.WT.A
+DB,Decibel Cannabis Company Inc.,TSXV,DB.V,Decibel Cannabis Company Inc.,DB,Decibel Cannabis Company Inc. wt 15may2022,DB.WT,Decibel Cannabis Company Inc. wt. A 16Sept2024,DB.WT.A
 DE,Decisive Dividend Corporation,TSXV,DE.V,Decisive Dividend Corporation,DE
 DKL,Decklar Resources Inc.,TSXV,DKL.V,Decklar Resources Inc.,DKL
 DSM,Deep-South Resources Inc.,TSXV,DSM.V,Deep-South Resources Inc.,DSM
@@ -1611,6 +1610,7 @@ VZLA,Vizsla Silver Corp.,TSXV,VZLA.V,Vizsla Silver Corp.,VZLA,Vizsla Silver Corp
 VOL,Volatus Aerospace Corp.,TSXV,VOL.V,Volatus Aerospace Corp.,VOL,Volatus Aerospace Corp. wt 22Dec2023,VOL.WT
 VG,Volcanic Gold Mines Inc,TSXV,VG.V,Volcanic Gold Mines Inc.,VG
 VCT,Volt Carbon Technologies Inc.,TSXV,VCT.V,Volt Carbon Technologies Inc.,VCT
+VMS,Vortex Metals Inc.,TSXV,VMS.V,Vortex Metals Inc.,VMS
 VOTI,Voti Detection Inc.,TSXV,VOTI.V,Voti Detection Inc.,VOTI
 VOX,Vox Royalty Corp.,TSXV,VOX.V,Vox Royalty Corp.,VOX
 VXTR,Voxtur Analytics Corp.,TSXV,VXTR.V,Voxtur Analytics Corp.,VXTR
@@ -2069,7 +2069,7 @@ CDAY,Ceridian HCM Holding Inc.,TSX,CDAY.TO,Ceridian HCM Hldg J,CDAY
 CEU,CES Energy Solutions Corp.,TSX,CEU.TO,CES Energy Solutn,CEU
 GIB.A,CGI Inc.,TSX,GIB.A.TO,CGI Inc. Cl A SV,GIB.A
 CIA,Champion Iron Limited,TSX,CIA.TO,Champion Iron Ord J,CIA
-CWEB,"Charlotte's Web Holdings, Inc.",TSX,CWEB.TO,Charlotte's Web Hldg,CWEB,Charlott's Web 2Y Wt,CWEB.WR,Charlott's Web 22 Wt,CWEB.WS
+CWEB,"Charlotte's Web Holdings, Inc.",TSX,CWEB.TO,Charlotte's Web Hldg,CWEB,Charlott's Web 2Y Wt,CWEB.WR
 CSH.UN,Chartwell Retirement Residences,TSX,CSH.UN.TO,Chartwell Retire Un,CSH.UN
 CHE.DB.D,Chemtrade Logistics Income Fund,TSX,CHE.DB.D.TO,Chemtrade Lgst4.75Db,CHE.DB.D,Chemtrade Lgst6.5Deb,CHE.DB.E,Chemtrade Lgst 8.5Db,CHE.DB.F,Chemtrade Lgst6.25Db,CHE.DB.G,Chemtrade Logistc Un,CHE.UN
 CHW,Chesswood Group Limited,TSX,CHW.TO,Chesswood Group Ltd.,CHW
@@ -8314,7 +8314,7 @@ SQFTP,"Presidio Property Trust, Inc. - 9.375% Series D Cumulative Redeemable Per
 SQFTW,"Presidio Property Trust, Inc. - Series A Common Stock Purchase Warrants",NASDAQ Capital Market,SQFTW
 SQL,SeqLL Inc. - Common stock,NASDAQ Capital Market,SQL
 SQLLW,SeqLL Inc. - Warrant,NASDAQ Capital Market,SQLLW
-SQLV,Legg Mason Small-Cap Quality Value ETF,NASDAQ Global MarketSM,SQLV
+SQLV,Royce Quant Small-Cap Quality Value ETF,NASDAQ Global MarketSM,SQLV
 SQQQ,ProShares UltraPro Short QQQ,NASDAQ Global MarketSM,SQQQ
 SRAD,Sportradar Group AG - Class A Ordinary Shares,NASDAQ Global Select MarketSM,SRAD
 SRAX,"SRAX, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SRAX
@@ -9132,9 +9132,6 @@ ZKIN,"ZK International Group Co., Ltd - Ordinary Share",NASDAQ Capital Market,ZK
 ZLAB,Zai Lab Limited - American Depositary Shares,NASDAQ Global MarketSM,ZLAB
 ZM,"Zoom Video Communications, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ZM
 ZNGA,Zynga Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,ZNGA
-ZNTE,Zanite Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,ZNTE
-ZNTEU,Zanite Acquisition Corp. - Unit,NASDAQ Capital Market,ZNTEU
-ZNTEW,Zanite Acquisition Corp. - Warrant,NASDAQ Capital Market,ZNTEW
 ZNTL,"Zentalis Pharmaceuticals, Inc. - common stock",NASDAQ Global MarketSM,ZNTL
 ZS,"Zscaler, Inc. - Common Stock",NASDAQ Global Select MarketSM,ZS
 ZSAN,Zosano Pharma Corporation - Common Stock,NASDAQ Capital Market,ZSAN
@@ -9572,6 +9569,7 @@ BACA.W,"Berenson Acquisition Corp. I Warrants, each whole warrant exercisable fo
 BAH,Booz Allen Hamilton Holding Corporation Common Stock,NYSE,BAH
 BAK,Braskem SA ADR,NYSE,BAK
 BAL,iPathA Series B Bloomberg Cotton Subindex Total Return ETN,NYSE ARCA,BAL
+BALL,Ball Corporation Common Stock,NYSE,BALL
 BALY,Bally's Corporation Common Stock,NYSE,BALY
 BAM,Brookfield Asset Management Inc. Common Stock,NYSE,BAM
 BAMH,"Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080",NYSE,BAMH
@@ -9711,7 +9709,6 @@ BLD,TopBuild Corp. Common Stock,NYSE,BLD
 BLDR,"Builders FirstSource, Inc. Common Stock",NYSE,BLDR
 BLE,BlackRock Municipal Income Trust II,NYSE,BLE
 BLK,"BlackRock, Inc. Common Stock",NYSE,BLK
-BLL,Ball Corporation Common Stock,NYSE,BLL
 BLND,"Blend Labs, Inc. Class A Common Stock",NYSE,BLND
 BLUA,BlueRiver Acquisition Corp. Class A Ordinary Shares,NYSE,BLUA
 BLUA.U,"BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary shares",NYSE,BLUA.U
@@ -9908,7 +9905,6 @@ CEE,"The Central and Eastern Europe Fund, Inc. (The) Common Stock",NYSE,CEE
 CEI,"Camber Energy, Inc. Common Stock",NYSE MKT,CEI
 CEIX,CONSOL Energy Inc. Common Stock ,NYSE,CEIX
 CELG.R,Bristol-Myers Squibb Company Celegne Contingent Value Rights,NYSE,CELG.R
-CELP,"Cypress Environmental Partners, L.P. Common Units representing limited partner interests",NYSE,CELP
 CEM,ClearBridge MLP and Midstream Fund Inc. Common Stock,NYSE,CEM
 CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund,NYSE,CEN
 CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),NYSE,CEPU
@@ -10521,6 +10517,8 @@ EVC,Entravision Communications Corporation Common Stock,NYSE,EVC
 EVE,EVe Mobility Acquisition Corp Class A Ordinary Shares,NYSE,EVE
 EVE.U,"EVe Mobility Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant(",NYSE,EVE.U
 EVE.W,"EVe Mobility Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,EVE.W
+EVEX,"Eve Holding, Inc. Common Stock",NYSE,EVEX
+EVEX.W,"Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",NYSE,EVEX.W
 EVF,Eaton Vance Senior Income Trust Common Stock,NYSE,EVF
 EVG,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,NYSE,EVG
 EVH,"Evolent Health, Inc Class A Common Stock",NYSE,EVH
@@ -10826,6 +10824,7 @@ GLTA.W,"Galata Acquisition Corp. Warrants, each whole warrant exercisable for on
 GLU,Gabelli Global Utility Common Shares of Beneficial Ownership,NYSE MKT,GLU
 GLU$A,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,NYSE MKT,GLU$A
 GLU$B,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,NYSE MKT,GLU$B
+GLU.V,"The Gabelli Global Utility and Income Trust Rights (expiring June 23, 2022) Rights when issued",NYSE MKT,GLU.V
 GLV,Clough Global Dividend and Income Fund Common Shares of beneficial interest,NYSE MKT,GLV
 GLW,Corning Incorporated Common Stock,NYSE,GLW
 GM,General Motors Company Common Stock,NYSE,GM

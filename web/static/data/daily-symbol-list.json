@@ -1,5 +1,5 @@
 {
- "date": "2022-05-09",
+ "date": "2022-05-10",
  "data": [
   {
    "symbol": "ONE",
@@ -1938,18 +1938,6 @@
     {
      "name": "Backstageplay Inc.",
      "symbol": "BP"
-    }
-   ]
-  },
-  {
-   "symbol": "YVR.P",
-   "name": "Badger Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "YVR.P.V",
-   "instruments": [
-    {
-     "name": "Badger Capital Corp.",
-     "symbol": "YVR.P"
     }
    ]
   },
@@ -4702,10 +4690,6 @@
     {
      "name": "Decibel Cannabis Company Inc.",
      "symbol": "DB"
-    },
-    {
-     "name": "Decibel Cannabis Company Inc. db 10May2022",
-     "symbol": "DB.DB"
     },
     {
      "name": "Decibel Cannabis Company Inc. wt 15may2022",
@@ -19738,6 +19722,18 @@
    ]
   },
   {
+   "symbol": "VMS",
+   "name": "Vortex Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VMS.V",
+   "instruments": [
+    {
+     "name": "Vortex Metals Inc.",
+     "symbol": "VMS"
+    }
+   ]
+  },
+  {
    "symbol": "VOTI",
    "name": "Voti Detection Inc.",
    "exchange": "TSXV",
@@ -26194,10 +26190,6 @@
     {
      "name": "Charlott's Web 2Y Wt",
      "symbol": "CWEB.WR"
-    },
-    {
-     "name": "Charlott's Web 22 Wt",
-     "symbol": "CWEB.WS"
     }
    ]
   },
@@ -74403,7 +74395,7 @@
   },
   {
    "symbol": "SQLV",
-   "name": "Legg Mason Small-Cap Quality Value ETF",
+   "name": "Royce Quant Small-Cap Quality Value ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SQLV"
   },
@@ -79310,24 +79302,6 @@
    "yahoo_symbol": "ZNGA"
   },
   {
-   "symbol": "ZNTE",
-   "name": "Zanite Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZNTE"
-  },
-  {
-   "symbol": "ZNTEU",
-   "name": "Zanite Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZNTEU"
-  },
-  {
-   "symbol": "ZNTEW",
-   "name": "Zanite Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZNTEW"
-  },
-  {
    "symbol": "ZNTL",
    "name": "Zentalis Pharmaceuticals, Inc. - common stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -81950,6 +81924,12 @@
    "yahoo_symbol": "BAL"
   },
   {
+   "symbol": "BALL",
+   "name": "Ball Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BALL"
+  },
+  {
    "symbol": "BALY",
    "name": "Bally's Corporation Common Stock",
    "exchange": "NYSE",
@@ -82782,12 +82762,6 @@
    "name": "BlackRock, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BLK"
-  },
-  {
-   "symbol": "BLL",
-   "name": "Ball Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BLL"
   },
   {
    "symbol": "BLND",
@@ -83964,12 +83938,6 @@
    "name": "Bristol-Myers Squibb Company Celegne Contingent Value Rights",
    "exchange": "NYSE",
    "yahoo_symbol": "CELG.R"
-  },
-  {
-   "symbol": "CELP",
-   "name": "Cypress Environmental Partners, L.P. Common Units representing limited partner interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CELP"
   },
   {
    "symbol": "CEM",
@@ -87644,6 +87612,18 @@
    "yahoo_symbol": "EVE.W"
   },
   {
+   "symbol": "EVEX",
+   "name": "Eve Holding, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVEX"
+  },
+  {
+   "symbol": "EVEX.W",
+   "name": "Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVEX.W"
+  },
+  {
    "symbol": "EVF",
    "name": "Eaton Vance Senior Income Trust Common Stock",
    "exchange": "NYSE",
@@ -89472,6 +89452,12 @@
    "name": "The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "GLU$B"
+  },
+  {
+   "symbol": "GLU.V",
+   "name": "The Gabelli Global Utility and Income Trust Rights (expiring June 23, 2022) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GLU.V"
   },
   {
    "symbol": "GLV",
