@@ -1,5 +1,5 @@
 {
- "date": "2022-05-24",
+ "date": "2022-05-25",
  "data": [
   {
    "symbol": "BTCQ",
@@ -8974,38 +8974,6 @@
     {
      "name": "Evolve MetaversCA Hg",
      "symbol": "MESH"
-    }
-   ]
-  },
-  {
-   "symbol": "FIVE",
-   "name": "Evolve S\u0026P 500 CleanBeta Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FIVE.TO",
-   "instruments": [
-    {
-     "name": "EvolvS\u0026P500ClnBCA Hg",
-     "symbol": "FIVE"
-    },
-    {
-     "name": "EvolvS\u0026P500ClnBCA UH",
-     "symbol": "FIVE.B"
-    },
-    {
-     "name": "EvolvS\u0026P500ClnB UHUS",
-     "symbol": "FIVE.U"
-    }
-   ]
-  },
-  {
-   "symbol": "SIXT",
-   "name": "Evolve S\u0026P/TSX 60 CleanBeta Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "SIXT.TO",
-   "instruments": [
-    {
-     "name": "EvolvS\u0026PTSX60ClnCAUh",
-     "symbol": "SIXT"
     }
    ]
   },
@@ -31578,18 +31546,6 @@
    ]
   },
   {
-   "symbol": "GTR",
-   "name": "Gatling Exploration Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GTR.V",
-   "instruments": [
-    {
-     "name": "Gatling Exploration Inc.",
-     "symbol": "GTR"
-    }
-   ]
-  },
-  {
    "symbol": "GBLT",
    "name": "GBLT Corp.",
    "exchange": "TSXV",
@@ -34534,14 +34490,14 @@
    ]
   },
   {
-   "symbol": "KAPA.P",
-   "name": "KAPA Capital Inc.",
+   "symbol": "KAPA",
+   "name": "Kapa Gold Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "KAPA.P.V",
+   "yahoo_symbol": "KAPA.V",
    "instruments": [
     {
-     "name": "Kapa Capital Inc.",
-     "symbol": "KAPA.P"
+     "name": "Kapa Gold Inc.",
+     "symbol": "KAPA"
     }
    ]
   },
@@ -37986,18 +37942,6 @@
     {
      "name": "Orca Energy Group Inc. ser B",
      "symbol": "ORC.B"
-    }
-   ]
-  },
-  {
-   "symbol": "ORG",
-   "name": "Orca Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ORG.V",
-   "instruments": [
-    {
-     "name": "Orca Gold Inc.",
-     "symbol": "ORG"
     }
    ]
   },
@@ -48098,12 +48042,6 @@
    "name": "Astronics Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ATRO"
-  },
-  {
-   "symbol": "ATRS",
-   "name": "Antares Pharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATRS"
   },
   {
    "symbol": "ATSG",
@@ -61180,12 +61118,6 @@
    "yahoo_symbol": "IIIV"
   },
   {
-   "symbol": "IIN",
-   "name": "IntriCon Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IIN"
-  },
-  {
    "symbol": "IINN",
    "name": "Inspira Technologies Oxy B.H.N. Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -64360,6 +64292,12 @@
    "yahoo_symbol": "LRMR"
   },
   {
+   "symbol": "LSAK",
+   "name": "Lesaka Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSAK"
+  },
+  {
    "symbol": "LSBK",
    "name": "Lake Shore Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -65386,6 +65324,12 @@
    "yahoo_symbol": "MHUA"
   },
   {
+   "symbol": "MICS",
+   "name": "The Singing Machine Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MICS"
+  },
+  {
    "symbol": "MICT",
    "name": "MICT, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -66050,6 +65994,12 @@
    "name": "MSP Recovery, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MSPR"
+  },
+  {
+   "symbol": "MSPRV",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPRV"
   },
   {
    "symbol": "MSPRZ",
@@ -76526,12 +76476,6 @@
    "name": "Universal Electronics Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "UEIC"
-  },
-  {
-   "symbol": "UEPS",
-   "name": "Net 1 UEPS Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "UEPS"
   },
   {
    "symbol": "UFCS",

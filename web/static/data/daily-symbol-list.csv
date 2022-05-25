@@ -622,8 +622,6 @@ LIFE,Evolve Global Healthcare Enhanced Yield Fund,TSX,LIFE.TO,Evolve GlbHlthYldH
 BASE,Evolve Global Materials & Mining Enhanced Yield Index ETF,TSX,BASE.TO,Evolve GlbMatMin Heg,BASE,EvolveGlbMatMinUnheg,BASE.B
 EDGE,Evolve Innovation Index Fund,TSX,EDGE.TO,Evolve Innovation Un,EDGE,Evolve InnovUS Unheg,EDGE.U
 MESH,Evolve Metaverse ETF,TSX,MESH.TO,Evolve MetaversCA Hg,MESH
-FIVE,Evolve S&P 500 CleanBeta Fund,TSX,FIVE.TO,EvolvS&P500ClnBCA Hg,FIVE,EvolvS&P500ClnBCA UH,FIVE.B,EvolvS&P500ClnB UHUS,FIVE.U
-SIXT,Evolve S&P/TSX 60 CleanBeta Fund,TSX,SIXT.TO,EvolvS&PTSX60ClnCAUh,SIXT
 CALL,Evolve US Banks Enhanced Yield Fund,TSX,CALL.TO,Evolve USBkEnhanc Hg,CALL,Evolve USBkEnhYldUhg,CALL.B,Evolve USBkEnhnUhgUS,CALL.U
 EXN,Excellon Resources Inc.,TSX,EXN.TO,Excellon Resources J,EXN
 MIN,Excelsior Mining Corp.,TSX,MIN.TO,Excelsior Mining J,MIN,Excelsior Mng J Wt,MIN.WT
@@ -2351,7 +2349,6 @@ GWM,Galway Metals Inc.,TSXV,GWM.V,Galway Metals Inc.,GWM
 GGAU,Gambier Gold Corp.,TSXV,GGAU.V,Gambier Gold Corp.,GGAU
 GGI,Garibaldi Resources Corp.,TSXV,GGI.V,Garibaldi Resources Corp.,GGI
 GSI,Gatekeeper Systems Inc.,TSXV,GSI.V,Gatekeeper Systems Inc.,GSI
-GTR,Gatling Exploration Inc.,TSXV,GTR.V,Gatling Exploration Inc.,GTR
 GBLT,GBLT Corp.,TSXV,GBLT.V,GBLT Corp.,GBLT
 GCCC,GCC Global Capital Corporation,TSXV,GCCC.V,GCC Global Capital Corporation,GCCC
 GKO,Geekco Technologies Corporation,TSXV,GKO.V,Geekco Technologies Corporation,GKO
@@ -2592,7 +2589,7 @@ KZD,Kaizen Discovery Inc.,TSXV,KZD.V,Kaizen Discovery Inc.,KZD
 KALO,Kalo Gold Corp.,TSXV,KALO.V,Kalo Gold Corp.,KALO
 KAC.P,Kalon Acquisition Corp.,TSXV,KAC.P.V,Kalon Acquisition Corp.,KAC.P
 KNE,Kane Biotech Inc.,TSXV,KNE.V,Kane Biotech Inc.,KNE
-KAPA.P,KAPA Capital Inc.,TSXV,KAPA.P.V,Kapa Capital Inc.,KAPA.P
+KAPA,Kapa Gold Inc.,TSXV,KAPA.V,Kapa Gold Inc.,KAPA
 FUND,Katipult Technology Corp.,TSXV,FUND.V,Katipult Technology Corp.,FUND
 KDA,KDA Group Inc.,TSXV,KDA.V,KDA Group Inc.,KDA
 KKL.P,Kelly Ventures Ltd.,TSXV,KKL.P.V,Kelly Ventures Ltd.,KKL.P
@@ -2874,7 +2871,6 @@ OPV,Optimum Ventures Ltd.,TSXV,OPV.V,Optimum Ventures Ltd.,OPV
 OOR,Opus One Gold Corporation,TSXV,OOR.V,Opus One Gold Corporation,OOR
 OG,ORAGIN Foods Inc.,TSXV,OG.V,ORAGIN Foods Inc.,OG
 ORC.A,Orca Energy Group Inc.,TSXV,ORC.A.V,Orca Energy Group Inc. ser A,ORC.A,Orca Energy Group Inc. ser B,ORC.B
-ORG,Orca Gold Inc.,TSXV,ORG.V,Orca Gold Inc.,ORG
 ORX,Orefinders Resources Inc.,TSXV,ORX.V,Orefinders Resources Inc.,ORX
 ORS,Orestone Mining Corp.,TSXV,ORS.V,Orestone Mining Corp.,ORS
 REX,Orex Minerals Inc.,TSXV,REX.V,Orex Minerals Inc.,REX
@@ -3947,7 +3943,6 @@ ATRA,"Atara Biotherapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,
 ATRC,"AtriCure, Inc. - Common Stock",NASDAQ Global MarketSM,ATRC
 ATRI,Atrion Corporation - Common Stock,NASDAQ Global Select MarketSM,ATRI
 ATRO,Astronics Corporation - Common Stock,NASDAQ Global Select MarketSM,ATRO
-ATRS,"Antares Pharma, Inc. - Common Stock",NASDAQ Capital Market,ATRS
 ATSG,"Air Transport Services Group, Inc - Common Stock",NASDAQ Global Select MarketSM,ATSG
 ATVC,Tribe Capital Growth Corp I - Class A common stock,NASDAQ Capital Market,ATVC
 ATVCU,Tribe Capital Growth Corp I - Units,NASDAQ Capital Market,ATVCU
@@ -6127,7 +6122,6 @@ IIII,INSU Acquisition Corp. III - Class A Common Stock,NASDAQ Capital Market,III
 IIIIU,INSU Acquisition Corp. III - Unit,NASDAQ Capital Market,IIIIU
 IIIIW,INSU Acquisition Corp. III - Warrant,NASDAQ Capital Market,IIIIW
 IIIV,"i3 Verticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,IIIV
-IIN,IntriCon Corporation - Common Stock,NASDAQ Global MarketSM,IIN
 IINN,Inspira Technologies Oxy B.H.N. Ltd. - Ordinary Shares,NASDAQ Capital Market,IINN
 IINNW,Inspira Technologies Oxy B.H.N. Ltd. - Warrant,NASDAQ Capital Market,IINNW
 IIVI,II-VI Incorporated - Common Stock,NASDAQ Global Select MarketSM,IIVI
@@ -6657,6 +6651,7 @@ LRCX,Lam Research Corporation - Common Stock,NASDAQ Global Select MarketSM,LRCX
 LRFC,Logan Ridge Finance Corporation - Common Stock,NASDAQ Global Select MarketSM,LRFC
 LRGE,ClearBridge Large Cap Growth ESG ETF,NASDAQ Global MarketSM,LRGE
 LRMR,"Larimar Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,LRMR
+LSAK,"Lesaka Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,LSAK
 LSBK,"Lake Shore Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,LSBK
 LSCC,Lattice Semiconductor Corporation - Common Stock,NASDAQ Global Select MarketSM,LSCC
 LSEA,Landsea Homes Corporation - Common Stock,NASDAQ Capital Market,LSEA
@@ -6828,6 +6823,7 @@ MGTX,MeiraGTx Holdings plc - Ordinary Shares,NASDAQ Global Select MarketSM,MGTX
 MGYR,"Magyar Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,MGYR
 MHLD,"Maiden Holdings, Ltd. - Common Stock",NASDAQ Capital Market,MHLD
 MHUA,"Meihua International Medical Technologies Co., Ltd. - Ordinary Shares",NASDAQ Global MarketSM,MHUA
+MICS,"The Singing Machine Company, Inc. - Common Stock",NASDAQ Capital Market,MICS
 MICT,"MICT, Inc. - Common Stock",NASDAQ Capital Market,MICT
 MIDD,The Middleby Corporation - Common Stock,NASDAQ Global Select MarketSM,MIDD
 MIGI,Mawson Infrastructure Group Inc. - Common Stock,NASDAQ Capital Market,MIGI
@@ -6939,6 +6935,7 @@ MSEX,Middlesex Water Company - Common Stock,NASDAQ Global Select MarketSM,MSEX
 MSFT,Microsoft Corporation - Common Stock,NASDAQ Global Select MarketSM,MSFT
 MSGM,Motorsport Games Inc. - Class A Common Stock,NASDAQ Capital Market,MSGM
 MSPR,"MSP Recovery, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MSPR
+MSPRV,"MSP Recovery, Inc. - Warrant",NASDAQ Global MarketSM,MSPRV
 MSPRZ,"MSP Recovery, Inc. - Warrant",NASDAQ Global MarketSM,MSPRZ
 MSSAU,Metal Sky Star Acquisition Corporation - Unit,NASDAQ Global MarketSM,MSSAU
 MSTR,MicroStrategy Incorporated - Class A Common Stock,NASDAQ Global Select MarketSM,MSTR
@@ -8685,7 +8682,6 @@ UCTT,"Ultra Clean Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,U
 UCYB,ProShares Ultra Nasdaq Cybersecurity ETF,NASDAQ Global MarketSM,UCYB
 UDMY,"Udemy, Inc. - Common Stock",NASDAQ Global Select MarketSM,UDMY
 UEIC,Universal Electronics Inc. - Common Stock,NASDAQ Global Select MarketSM,UEIC
-UEPS,"Net 1 UEPS Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,UEPS
 UFCS,"United Fire Group, Inc - Common Stock",NASDAQ Global Select MarketSM,UFCS
 UFO,Procure Space ETF,NASDAQ Global MarketSM,UFO
 UFPI,"UFP Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,UFPI
