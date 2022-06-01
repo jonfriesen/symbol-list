@@ -1,5 +1,5 @@
 {
- "date": "2022-05-31",
+ "date": "2022-06-01",
  "data": [
   {
    "symbol": "AACG",
@@ -2588,10 +2588,28 @@
    "yahoo_symbol": "ASCAW"
   },
   {
+   "symbol": "ASCB",
+   "name": "A SPAC II Acquisition Corp. - Ordinary Shares, Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCB"
+  },
+  {
+   "symbol": "ASCBR",
+   "name": "A SPAC II Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCBR"
+  },
+  {
    "symbol": "ASCBU",
    "name": "A SPAC II Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ASCBU"
+  },
+  {
+   "symbol": "ASCBW",
+   "name": "A SPAC II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCBW"
   },
   {
    "symbol": "ASET",
@@ -3522,6 +3540,12 @@
    "name": "Brookline Capital Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BCACW"
+  },
+  {
+   "symbol": "BCAN",
+   "name": "BYND Cannasoft Enterprises Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCAN"
   },
   {
    "symbol": "BCBP",
@@ -6968,12 +6992,6 @@
    "yahoo_symbol": "CMMB"
   },
   {
-   "symbol": "CMPI",
-   "name": "Checkmate Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMPI"
-  },
-  {
    "symbol": "CMPO",
    "name": "CompoSecure, Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -8576,10 +8594,22 @@
    "yahoo_symbol": "DDOG"
   },
   {
+   "symbol": "DECA",
+   "name": "Denali Capital Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DECA"
+  },
+  {
    "symbol": "DECAU",
    "name": "Denali Capital Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DECAU"
+  },
+  {
+   "symbol": "DECAW",
+   "name": "Denali Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DECAW"
   },
   {
    "symbol": "DEMZ",
@@ -20864,10 +20894,10 @@
    "yahoo_symbol": "MSPR"
   },
   {
-   "symbol": "MSPRV",
+   "symbol": "MSPRW",
    "name": "MSP Recovery, Inc. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSPRV"
+   "yahoo_symbol": "MSPRW"
   },
   {
    "symbol": "MSPRZ",
@@ -20876,10 +20906,28 @@
    "yahoo_symbol": "MSPRZ"
   },
   {
+   "symbol": "MSSA",
+   "name": "Metal Sky Star Acquisition Corporation - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSSA"
+  },
+  {
+   "symbol": "MSSAR",
+   "name": "Metal Sky Star Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSSAR"
+  },
+  {
    "symbol": "MSSAU",
    "name": "Metal Sky Star Acquisition Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MSSAU"
+  },
+  {
+   "symbol": "MSSAW",
+   "name": "Metal Sky Star Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSSAW"
   },
   {
    "symbol": "MSTR",
@@ -40334,12 +40382,6 @@
    "yahoo_symbol": "DCP$C"
   },
   {
-   "symbol": "DCUE",
-   "name": "Dominion Energy, Inc. 2019 Series A Corporate Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DCUE"
-  },
-  {
    "symbol": "DD",
    "name": "DuPont de Nemours, Inc. Common Stock",
    "exchange": "NYSE",
@@ -50546,24 +50588,6 @@
    "yahoo_symbol": "OC"
   },
   {
-   "symbol": "OCA",
-   "name": "Omnichannel Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OCA"
-  },
-  {
-   "symbol": "OCA.U",
-   "name": "Omnichannel Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OCA.U"
-  },
-  {
-   "symbol": "OCA.W",
-   "name": "Omnichannel Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OCA.W"
-  },
-  {
    "symbol": "OCFT",
    "name": "OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing three ordinary shares",
    "exchange": "NYSE",
@@ -53094,6 +53118,18 @@
    "name": "Raymond James Financial, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RJF"
+  },
+  {
+   "symbol": "RJF$A",
+   "name": "Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.75% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RJF$A"
+  },
+  {
+   "symbol": "RJF$B",
+   "name": "Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RJF$B"
   },
   {
    "symbol": "RJI",
@@ -59742,6 +59778,10 @@
     {
      "name": "Aurora Cannabis J",
      "symbol": "ACB"
+    },
+    {
+     "name": "AuroraCanbsJ WSWt US",
+     "symbol": "ACB.WS.U"
     },
     {
      "name": "AuroraCanbsJ 40Wt US",
@@ -80742,10 +80782,6 @@
     {
      "name": "TC Energy Corp Pr 6",
      "symbol": "TRP.PR.I"
-    },
-    {
-     "name": "TC ENERGY Corp Pr 15",
-     "symbol": "TRP.PR.K"
     }
    ]
   },
