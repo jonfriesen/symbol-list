@@ -1,5 +1,5 @@
 {
- "date": "2022-06-03",
+ "date": "2022-06-06",
  "data": [
   {
    "symbol": "BTCQ",
@@ -35118,18 +35118,6 @@
    ]
   },
   {
-   "symbol": "LXE",
-   "name": "Leucrotta Exploration Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LXE.V",
-   "instruments": [
-    {
-     "name": "Leucrotta Exploration Inc.",
-     "symbol": "LXE"
-    }
-   ]
-  },
-  {
    "symbol": "JUMP",
    "name": "LevelJump Healthcare Corp.",
    "exchange": "TSXV",
@@ -46054,10 +46042,22 @@
    "yahoo_symbol": "AFAQW"
   },
   {
+   "symbol": "AFAR",
+   "name": "Aura FAT Projects Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFAR"
+  },
+  {
    "symbol": "AFARU",
    "name": "Aura FAT Projects Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AFARU"
+  },
+  {
+   "symbol": "AFARW",
+   "name": "Aura FAT Projects Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFARW"
   },
   {
    "symbol": "AFBI",
@@ -53536,6 +53536,12 @@
    "yahoo_symbol": "CYXT"
   },
   {
+   "symbol": "CZFS",
+   "name": "Citizens Financial Services, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CZFS"
+  },
+  {
    "symbol": "CZNC",
    "name": "Citizens \u0026 Northern Corp - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -56810,18 +56816,6 @@
    "name": "Full House Resorts, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FLL"
-  },
-  {
-   "symbol": "FLMN",
-   "name": "Falcon Minerals Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLMN"
-  },
-  {
-   "symbol": "FLMNW",
-   "name": "Falcon Minerals Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLMNW"
   },
   {
    "symbol": "FLN",
@@ -74578,6 +74572,12 @@
    "yahoo_symbol": "STOK"
   },
   {
+   "symbol": "STR",
+   "name": "Sitio Royalties Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STR"
+  },
+  {
    "symbol": "STRA",
    "name": "Strategic Education, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -74594,6 +74594,12 @@
    "name": "Sarcos Technology and Robotics Corporation - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "STRCW"
+  },
+  {
+   "symbol": "STRDW",
+   "name": "Sitio Royalties Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STRDW"
   },
   {
    "symbol": "STRL",
@@ -74810,6 +74816,18 @@
    "name": "Savara, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SVRA"
+  },
+  {
+   "symbol": "SVRE",
+   "name": "SaverOne 2014 Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVRE"
+  },
+  {
+   "symbol": "SVREW",
+   "name": "SaverOne 2014 Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVREW"
   },
   {
    "symbol": "SVVC",
@@ -86806,6 +86824,12 @@
    "yahoo_symbol": "EMR"
   },
   {
+   "symbol": "EMWP",
+   "name": "Eros Media World PLC A Ordinary Shares, GBP 0.30 par value",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EMWP"
+  },
+  {
    "symbol": "EMX",
    "name": "EMX Royalty Corporation Common Shares (Canada)",
    "exchange": "NYSE MKT",
@@ -87212,12 +87236,6 @@
    "name": "ESCO Technologies Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ESE"
-  },
-  {
-   "symbol": "ESGC",
-   "name": "Eros STX Global Corporation A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ESGC"
   },
   {
    "symbol": "ESI",
@@ -94658,12 +94676,6 @@
    "name": "NewMarket Corp Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "NEU"
-  },
-  {
-   "symbol": "NEV",
-   "name": "Nuveen Enhanced Municipal Value Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NEV"
   },
   {
    "symbol": "NEWP",

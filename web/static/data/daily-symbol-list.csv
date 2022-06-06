@@ -2641,7 +2641,6 @@ LPS,Legend Power Systems Inc.,TSXV,LPS.V,Legend Power Systems Inc,LPS,Legend Pow
 LHI,Lendified Holdings Inc.,TSXV,LHI.V,Lendified Holdings Inc.,LHI
 LTV,LeoNovus Inc.,TSXV,LTV.V,Leonovus Inc.,LTV,Leonovus Inc. wt. 06May2024,LTV.WT
 LET,Letho Resources Corp.,TSXV,LET.V,Letho Resources Corp.,LET
-LXE,Leucrotta Exploration Inc.,TSXV,LXE.V,Leucrotta Exploration Inc.,LXE
 JUMP,LevelJump Healthcare Corp.,TSXV,JUMP.V,Leveljump Healthcare Corp.,JUMP,LevelJump Healthcare Corp. wt. 14Dec2023,JUMP.WT
 LVX,Leviathan Gold Ltd.,TSXV,LVX.V,Leviathan Gold Ltd.,LVX
 LXG,Lexagene Holdings Inc.,TSXV,LXG.V,Lexagene Holdings Inc.,LXG
@@ -3606,7 +3605,9 @@ AFACW,Arena Fortify Acquisition Corp. - Warrant,NASDAQ Global MarketSM,AFACW
 AFAQ,AF Acquisition Corp. - Common Stock,NASDAQ Capital Market,AFAQ
 AFAQU,AF Acquisition Corp. - Units,NASDAQ Capital Market,AFAQU
 AFAQW,AF Acquisition Corp. - Warrants,NASDAQ Capital Market,AFAQW
+AFAR,Aura FAT Projects Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,AFAR
 AFARU,Aura FAT Projects Acquisition Corp - Unit,NASDAQ Global MarketSM,AFARU
+AFARW,Aura FAT Projects Acquisition Corp - Warrant,NASDAQ Global MarketSM,AFARW
 AFBI,"Affinity Bancshares, Inc. - Common Stock",NASDAQ Capital Market,AFBI
 AFCG,"AFC Gamma, Inc. - Common Stock",NASDAQ Global MarketSM,AFCG
 AFIB,"Acutus Medical, Inc. - Common Stock",NASDAQ Global Select MarketSM,AFIB
@@ -4853,6 +4854,7 @@ CYTHW,"Cyclo Therapeutics, Inc. - Warrant",NASDAQ Capital Market,CYTHW
 CYTK,"Cytokinetics, Incorporated - Common Stock",NASDAQ Global Select MarketSM,CYTK
 CYTO,Altamira Therapeutics Ltd. - Common Shares,NASDAQ Capital Market,CYTO
 CYXT,"Cyxtera Technologies, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CYXT
+CZFS,"Citizens Financial Services, Inc. - Common Stock",NASDAQ Capital Market,CZFS
 CZNC,Citizens & Northern Corp - Common Stock,NASDAQ Capital Market,CZNC
 CZR,"Caesars Entertainment, Inc. - Common Stock",NASDAQ Global Select MarketSM,CZR
 CZWI,"Citizens Community Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,CZWI
@@ -5399,8 +5401,6 @@ FLGC,Flora Growth Corp. - Common Stock,NASDAQ Capital Market,FLGC
 FLGT,"Fulgent Genetics, Inc. - Common Stock",NASDAQ Global MarketSM,FLGT
 FLIC,The First of Long Island Corporation - Common Stock,NASDAQ Capital Market,FLIC
 FLL,"Full House Resorts, Inc. - Common Stock",NASDAQ Capital Market,FLL
-FLMN,Falcon Minerals Corporation - Class A Common Stock,NASDAQ Capital Market,FLMN
-FLMNW,Falcon Minerals Corporation - Warrant,NASDAQ Capital Market,FLMNW
 FLN,First Trust Latin America AlphaDEX Fund,NASDAQ Global MarketSM,FLN
 FLNC,"Fluence Energy, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,FLNC
 FLNT,"Fluent, Inc. - Common Stock",NASDAQ Global MarketSM,FLNT
@@ -8360,9 +8360,11 @@ STKS,"The ONE Group Hospitality, Inc. - Common Stock",NASDAQ Capital Market,STKS
 STLD,"Steel Dynamics, Inc. - Common Stock",NASDAQ Global Select MarketSM,STLD
 STNE,StoneCo Ltd. - Class A Common Share,NASDAQ Global Select MarketSM,STNE
 STOK,"Stoke Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,STOK
+STR,Sitio Royalties Corp. - Class A Common Stock,NASDAQ Capital Market,STR
 STRA,"Strategic Education, Inc. - Common Stock",NASDAQ Global Select MarketSM,STRA
 STRC,Sarcos Technology and Robotics Corporation - Common stock,NASDAQ Global MarketSM,STRC
 STRCW,Sarcos Technology and Robotics Corporation - Warrant,NASDAQ Global MarketSM,STRCW
+STRDW,Sitio Royalties Corp. - Warrant,NASDAQ Capital Market,STRDW
 STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ Global Select MarketSM,STRL
 STRM,"Streamline Health Solutions, Inc. - Common Stock",NASDAQ Capital Market,STRM
 STRN,"Stran & Company, Inc. - Common Stock",NASDAQ Capital Market,STRN
@@ -8399,6 +8401,8 @@ SVNA,7 Acquisition Corporation - Class A Ordinary Shares,NASDAQ Global MarketSM,
 SVNAU,7 Acquisition Corporation - Unit,NASDAQ Global MarketSM,SVNAU
 SVNAW,7 Acquisition Corporation - Warrant,NASDAQ Global MarketSM,SVNAW
 SVRA,"Savara, Inc. - Common Stock",NASDAQ Global Select MarketSM,SVRA
+SVRE,SaverOne 2014 Ltd. - American Depositary Shares,NASDAQ Capital Market,SVRE
+SVREW,SaverOne 2014 Ltd. - Warrant,NASDAQ Capital Market,SVREW
 SVVC,"Firsthand Technology Value Fund, Inc. - Common Stock",NASDAQ Global Select MarketSM,SVVC
 SWAG,Software Acquisition Group Inc. III - Class A Common Stock,NASDAQ Capital Market,SWAG
 SWAGU,Software Acquisition Group Inc. III - Unit,NASDAQ Capital Market,SWAGU
@@ -10398,6 +10402,7 @@ EMN,Eastman Chemical Company Common Stock,NYSE,EMN
 EMO,ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock,NYSE,EMO
 EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066",NYSE,EMP
 EMR,Emerson Electric Company Common Stock,NYSE,EMR
+EMWP,"Eros Media World PLC A Ordinary Shares, GBP 0.30 par value",NYSE,EMWP
 EMX,EMX Royalty Corporation Common Shares (Canada),NYSE MKT,EMX
 ENB,Enbridge Inc Common Stock,NYSE,ENB
 ENBA,Enbridge Inc 6.375% Fixed-to-Floating Rate Subordinated Notes Series 2018-B due 2078,NYSE,ENBA
@@ -10466,7 +10471,6 @@ ES,Eversource Energy (D/B/A) Common Stock,NYSE,ES
 ESAB,ESAB Corporation Common Stock,NYSE,ESAB
 ESBA,"Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests",NYSE ARCA,ESBA
 ESE,ESCO Technologies Inc. Common Stock,NYSE,ESE
-ESGC,Eros STX Global Corporation A Ordinary Shares,NYSE,ESGC
 ESI,Element Solutions Inc. Common Stock,NYSE,ESI
 ESM,ESM Acquisition Corporation Class A Ordinary Shares,NYSE,ESM
 ESM.U,ESM Acquisition Corporation Unit,NYSE,ESM.U
@@ -11707,7 +11711,6 @@ NETC.U,"Nabors Energy Transition Corp. Units, each consisting of one share of Cl
 NETC.W,"Nabors Energy Transition Corp. Warrants, exercisable for one share of Class A Common Stock",NYSE,NETC.W
 NETI,Eneti Inc. Common Stock,NYSE,NETI
 NEU,NewMarket Corp Common Stock,NYSE,NEU
-NEV,Nuveen Enhanced Municipal Value Fund Common Shares of Beneficial Interest,NYSE,NEV
 NEWP,New Pacific Metals Corp. Common Shares,NYSE MKT,NEWP
 NEWR,"New Relic, Inc. Common Stock",NYSE,NEWR
 NEX,NexTier Oilfield Solutions Inc. Common Stock,NYSE,NEX
