@@ -1,5 +1,5 @@
 {
- "date": "2022-06-09",
+ "date": "2022-06-10",
  "data": [
   {
    "symbol": "BTCQ",
@@ -8562,6 +8562,26 @@
    ]
   },
   {
+   "symbol": "EQB",
+   "name": "EQB Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQB.TO",
+   "instruments": [
+    {
+     "name": "EQB Inc.",
+     "symbol": "EQB"
+    },
+    {
+     "name": "EQB Inc. Pr 3",
+     "symbol": "EQB.PR.C"
+    },
+    {
+     "name": "EQB Inc. Rec",
+     "symbol": "EQB.R"
+    }
+   ]
+  },
+  {
    "symbol": "EQX",
    "name": "Equinox Gold Corp.",
    "exchange": "TSX",
@@ -8570,26 +8590,6 @@
     {
      "name": "Equinox Gold Corp. J",
      "symbol": "EQX"
-    }
-   ]
-  },
-  {
-   "symbol": "EQB",
-   "name": "Equitable Group Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "EQB.TO",
-   "instruments": [
-    {
-     "name": "Equitable Group Inc.",
-     "symbol": "EQB"
-    },
-    {
-     "name": "Equitable Grp Pr 3",
-     "symbol": "EQB.PR.C"
-    },
-    {
-     "name": "Equitable Group Rec",
-     "symbol": "EQB.R"
     }
    ]
   },
@@ -16166,10 +16166,6 @@
     {
      "name": "LXRandCo, Inc. J B",
      "symbol": "LXR"
-    },
-    {
-     "name": "LXRandCo, Inc. J Wt",
-     "symbol": "LXR.WT"
     }
    ]
   },
@@ -19490,6 +19486,10 @@
     {
      "name": "Premium Brand 4.2 Db",
      "symbol": "PBH.DB.H"
+    },
+    {
+     "name": "Premium Brand 5.4 Db",
+     "symbol": "PBH.DB.I"
     }
    ]
   },
@@ -26162,6 +26162,18 @@
    ]
   },
   {
+   "symbol": "ACAP.P",
+   "name": "Atlas One Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACAP.P.V",
+   "instruments": [
+    {
+     "name": "Atlas One Capital Corporation",
+     "symbol": "ACAP.P"
+    }
+   ]
+  },
+  {
    "symbol": "SALT",
    "name": "Atlas Salt Inc.",
    "exchange": "TSXV",
@@ -27954,6 +27966,18 @@
     {
      "name": "Carbeeza Inc.",
      "symbol": "AUTO"
+    }
+   ]
+  },
+  {
+   "symbol": "CT.P",
+   "name": "CarbonTech Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CT.P.V",
+   "instruments": [
+    {
+     "name": "CarbonTech Capital Corp.",
+     "symbol": "CT.P"
     }
    ]
   },
@@ -40774,6 +40798,10 @@
     {
      "name": "Saturn Oil \u0026 Gas Inc.",
      "symbol": "SOIL"
+    },
+    {
+     "name": "Saturn Oil \u0026 Gas Inc. sub receipts",
+     "symbol": "SOIL.R"
     },
     {
      "name": "Saturn Oil \u0026 Gas Inc. wt 04Jun2023",
@@ -58552,24 +58580,6 @@
    "name": "Gladstone Capital Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GLAD"
-  },
-  {
-   "symbol": "GLAQ",
-   "name": "Globis Acquisition Corp. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLAQ"
-  },
-  {
-   "symbol": "GLAQU",
-   "name": "Globis Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLAQU"
-  },
-  {
-   "symbol": "GLAQW",
-   "name": "Globis Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLAQW"
   },
   {
    "symbol": "GLBE",
@@ -92774,19 +92784,19 @@
   {
    "symbol": "LNFA",
    "name": "L\u0026amp;F Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "LNFA"
   },
   {
    "symbol": "LNFA.U",
    "name": "L\u0026amp;F Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "LNFA.U"
   },
   {
    "symbol": "LNFA.W",
    "name": "L\u0026amp;F Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "LNFA.W"
   },
   {
@@ -100504,24 +100514,6 @@
    "name": "TransAlta Corporation Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "TAC"
-  },
-  {
-   "symbol": "TACA",
-   "name": "Trepont Acquisition Corp I Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TACA"
-  },
-  {
-   "symbol": "TACA.U",
-   "name": "Trepont Acquisition Corp I Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TACA.U"
-  },
-  {
-   "symbol": "TACA.W",
-   "name": "Trepont Acquisition Corp I Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TACA.W"
   },
   {
    "symbol": "TAK",
