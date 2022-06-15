@@ -1,5 +1,5 @@
 {
- "date": "2022-06-14",
+ "date": "2022-06-15",
  "data": [
   {
    "symbol": "ONE",
@@ -418,18 +418,6 @@
     {
      "name": "African Energy Metals Inc.",
      "symbol": "CUCO"
-    }
-   ]
-  },
-  {
-   "symbol": "AGG",
-   "name": "African Gold Group, Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AGG.V",
-   "instruments": [
-    {
-     "name": "African Gold Group, Inc.",
-     "symbol": "AGG"
     }
    ]
   },
@@ -1422,6 +1410,18 @@
     {
      "name": "Armor Minerals Inc.",
      "symbol": "A"
+    }
+   ]
+  },
+  {
+   "symbol": "ARK",
+   "name": "Arras Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARK.V",
+   "instruments": [
+    {
+     "name": "Arras Minerals Corp.",
+     "symbol": "ARK"
     }
    ]
   },
@@ -12134,6 +12134,22 @@
    ]
   },
   {
+   "symbol": "MONT",
+   "name": "Montfort Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MONT.V",
+   "instruments": [
+    {
+     "name": "Montfort Capital Corp.",
+     "symbol": "MONT"
+    },
+    {
+     "name": "Montfort Capital Corp. Preferred A",
+     "symbol": "MONT.PR.A"
+    }
+   ]
+  },
+  {
    "symbol": "MMY",
    "name": "Monument Mining Limited",
    "exchange": "TSXV",
@@ -12818,6 +12834,18 @@
    ]
   },
   {
+   "symbol": "NIO",
+   "name": "Nio Strategic Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NIO.V",
+   "instruments": [
+    {
+     "name": "Nio Strategic Metals Inc.",
+     "symbol": "NIO"
+    }
+   ]
+  },
+  {
    "symbol": "NBY",
    "name": "Niobay Metals Inc.",
    "exchange": "TSXV",
@@ -12826,18 +12854,6 @@
     {
      "name": "Niobay Metals Inc.",
      "symbol": "NBY"
-    }
-   ]
-  },
-  {
-   "symbol": "NIO",
-   "name": "Niocan Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NIO.V",
-   "instruments": [
-    {
-     "name": "Niocan Inc.",
-     "symbol": "NIO"
     }
    ]
   },
@@ -18350,22 +18366,6 @@
    ]
   },
   {
-   "symbol": "TCA",
-   "name": "Timia Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TCA.V",
-   "instruments": [
-    {
-     "name": "Timia Capital Corp.",
-     "symbol": "TCA"
-    },
-    {
-     "name": "Timia Capital Corp Pref A",
-     "symbol": "TCA.PR.A"
-    }
-   ]
-  },
-  {
    "symbol": "TK",
    "name": "Tinka Resources Limited",
    "exchange": "TSXV",
@@ -18594,6 +18594,18 @@
     {
      "name": "Totally Hip Technologies Inc.",
      "symbol": "THP"
+    }
+   ]
+  },
+  {
+   "symbol": "TRE",
+   "name": "Toubani Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TRE.V",
+   "instruments": [
+    {
+     "name": "Toubani Resources Inc.",
+     "symbol": "TRE"
     }
    ]
   },
@@ -72572,6 +72584,18 @@
    "yahoo_symbol": "SBGI"
   },
   {
+   "symbol": "SBIG",
+   "name": "SpringBig Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SBIG"
+  },
+  {
+   "symbol": "SBIGW",
+   "name": "SpringBig Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SBIGW"
+  },
+  {
    "symbol": "SBLK",
    "name": "Star Bulk Carriers Corp. - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72786,6 +72810,12 @@
    "name": "Shoe Carnival, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SCVL"
+  },
+  {
+   "symbol": "SCWO",
+   "name": "374Water Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCWO"
   },
   {
    "symbol": "SCWX",
@@ -75300,24 +75330,6 @@
    "name": "TuanChe Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TC"
-  },
-  {
-   "symbol": "TCAC",
-   "name": "Tuatara Capital Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCAC"
-  },
-  {
-   "symbol": "TCACU",
-   "name": "Tuatara Capital Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCACU"
-  },
-  {
-   "symbol": "TCACW",
-   "name": "Tuatara Capital Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCACW"
   },
   {
    "symbol": "TCBC",

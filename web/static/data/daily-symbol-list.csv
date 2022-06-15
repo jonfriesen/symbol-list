@@ -34,7 +34,6 @@ AFF,Affinity Metals Corp.,TSXV,AFF.V,Affinity Metals Corp.,AFF
 AFR,AFR NuVenture Resources Inc.,TSXV,AFR.V,AFR NuVenture Resources Inc.,AFR
 AFE,Africa Energy Corp.,TSXV,AFE.V,Africa Energy Corp.,AFE
 CUCO,African Energy Metals Inc.,TSXV,CUCO.V,African Energy Metals Inc.,CUCO
-AGG,"African Gold Group, Inc.",TSXV,AGG.V,"African Gold Group, Inc.",AGG
 AAG,Aftermath Silver Ltd.,TSXV,AAG.V,Aftermath Silver Ltd.,AAG
 AGL,Aguila Copper Corp.,TSXV,AGL.V,Aguila Copper Corp.,AGL
 AIME.P,AIM5 Ventures Inc.,TSXV,AIME.P.V,AIM5 Ventures Inc.,AIME.P
@@ -116,6 +115,7 @@ AMC,Arizona Metals Corp.,TSXV,AMC.V,Arizona Metals Corp.,AMC
 AZS,Arizona Silver Exploration Inc.,TSXV,AZS.V,Arizona Silver Exploration Inc.,AZS
 ARD,Armada Data Corporation,TSXV,ARD.V,Armada Data Corporation,ARD
 A,Armor Minerals Inc.,TSXV,A.V,Armor Minerals Inc.,A
+ARK,Arras Minerals Corp.,TSXV,ARK.V,Arras Minerals Corp.,ARK
 AXL,Arrow Exploration Corp.,TSXV,AXL.V,Arrow Exploration Corp.,AXL
 ARTG,Artemis Gold Inc.,TSXV,ARTG.V,Artemis Gold Inc.,ARTG
 ABZ,AsiaBaseMetals Inc.,TSXV,ABZ.V,ASIABASEMETALS INC.,ABZ
@@ -991,6 +991,7 @@ MONA.P,Monarch West Ventures Inc.,TSXV,MONA.P.V,Monarch West Ventures Inc.,MONA.
 YAK,Mongolia Growth Group Ltd.,TSXV,YAK.V,Mongolia Growth Group Ltd.,YAK
 MAU,Montage Gold Corp.,TSXV,MAU.V,Montage Gold Corp.,MAU
 MON,Montero Mining and Exploration Ltd.,TSXV,MON.V,Montero Mining And Exploration Ltd.,MON
+MONT,Montfort Capital Corp.,TSXV,MONT.V,Montfort Capital Corp.,MONT,Montfort Capital Corp. Preferred A,MONT.PR.A
 MMY,Monument Mining Limited,TSXV,MMY.V,Monument Mining Limited,MMY
 MNRL,Monumental Minerals Corp.,TSXV,MNRL.V,Monumental Minerals Corp.,MNRL
 MOO.P,Moon River Capital Ltd.,TSXV,MOO.P.V,Moon River Capital Ltd.,MOO.P
@@ -1047,8 +1048,8 @@ NKL,Nickel 28 Capital Corp.,TSXV,NKL.V,Nickel 28 Capital Corp.,NKL
 NNX,Nickel North Exploration Corp.,TSXV,NNX.V,Nickel North Exploration Corp.,NNX
 NICL,Nickel Rock Resources Inc.,TSXV,NICL.V,Nickel Rock Resources Inc.,NICL
 NIM,Nicola Mining Inc.,TSXV,NIM.V,Nicola Mining Inc.,NIM
+NIO,Nio Strategic Metals Inc.,TSXV,NIO.V,Nio Strategic Metals Inc.,NIO
 NBY,Niobay Metals Inc.,TSXV,NBY.V,Niobay Metals Inc.,NBY
-NIO,Niocan Inc.,TSXV,NIO.V,Niocan Inc.,NIO
 NBLC,Nobel Resources Corp.,TSXV,NBLC.V,Nobel Resources Corp.,NBLC
 NIR,Noble Iron Inc.,TSXV,NIR.V,Noble Iron Inc.,NIR
 NOB,Noble Mineral Exploration Inc.,TSXV,NOB.V,Noble Mineral Exploration Inc.,NOB
@@ -1497,7 +1498,6 @@ AWE,Thunderstruck Resources Ltd.,TSXV,AWE.V,Thunderstruck Resources Ltd.,AWE
 TSLV,Tier One Silver Inc.,TSXV,TSLV.V,Tier One Silver Inc.,TSLV
 TIL,Till Capital Corporation,TSXV,TIL.V,Till Capital Corporation,TIL
 TBR,Timberline Resources Corporation,TSXV,TBR.V,Timberline Resources Corporation,TBR
-TCA,Timia Capital Corp.,TSXV,TCA.V,Timia Capital Corp.,TCA,Timia Capital Corp Pref A,TCA.PR.A
 TK,Tinka Resources Limited,TSXV,TK.V,Tinka Resources Limited,TK
 TTD,Tinkerine Studios Ltd.,TSXV,TTD.V,Tinkerine Studios Ltd.,TTD
 TORC,TinOne Resources Inc.,TSXV,TORC.V,Tinone Resources Inc.,TORC
@@ -1517,6 +1517,7 @@ TORR,Torrent Capital Ltd.,TSXV,TORR.V,Torrent Capital Ltd.,TORR
 TOH,Total Helium Ltd.,TSXV,TOH.V,Total Helium Ltd.,TOH,Total Helium Ltd. wt 08nov2026,TOH.WT
 TTZ,Total Telcom Inc.,TSXV,TTZ.V,Total Telcom Inc.,TTZ
 THP,Totally Hip Technologies Inc.,TSXV,THP.V,Totally Hip Technologies Inc.,THP
+TRE,Toubani Resources Inc.,TSXV,TRE.V,Toubani Resources Inc.,TRE
 TWR,Tower Resources Ltd.,TSXV,TWR.V,Tower Resources Ltd.,TWR
 TKX,Trackx Holdings Inc.,TSXV,TKX.V,Trackx Holdings Inc.,TKX
 TBLZ.P,Trail Blazer Capital Corp.,TSXV,TBLZ.P.V,Trail Blazer Capital Corp.,TBLZ.P
@@ -8019,6 +8020,8 @@ SBFG,"SB Financial Group, Inc. - Common Stock",NASDAQ Capital Market,SBFG
 SBFM,Sunshine Biopharma Inc. - Common stock,NASDAQ Capital Market,SBFM
 SBFMW,Sunshine Biopharma Inc. - Warrant,NASDAQ Capital Market,SBFMW
 SBGI,"Sinclair Broadcast Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SBGI
+SBIG,"SpringBig Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,SBIG
+SBIGW,"SpringBig Holdings, Inc. - Warrant",NASDAQ Global MarketSM,SBIGW
 SBLK,Star Bulk Carriers Corp. - Common Shares,NASDAQ Global Select MarketSM,SBLK
 SBNY,Signature Bank - Common Stock,NASDAQ Global Select MarketSM,SBNY
 SBNYP,"Signature Bank - Depositary shares, each representing a 1/40th ownership interest in a share of 5.000% Noncumulative Perpetual Series A Preferred Stock",NASDAQ Global Select MarketSM,SBNYP
@@ -8055,6 +8058,7 @@ SCRMW,Screaming Eagle Acquisition Corp. - Warrant,NASDAQ Global MarketSM,SCRMW
 SCSC,"ScanSource, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCSC
 SCTL,"Societal CDMO, Inc. - Common Stock",NASDAQ Capital Market,SCTL
 SCVL,"Shoe Carnival, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCVL
+SCWO,374Water Inc. - common stock,NASDAQ Capital Market,SCWO
 SCWX,SecureWorks Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,SCWX
 SCYX,"SCYNEXIS, Inc. - Common Stock",NASDAQ Global MarketSM,SCYX
 SCZ,iShares MSCI EAFE Small-Cap ETF,NASDAQ Global MarketSM,SCZ
@@ -8474,9 +8478,6 @@ TBSA,TB SA Acquisition Corp - Class A ordinary share,NASDAQ Capital Market,TBSA
 TBSAU,TB SA Acquisition Corp - Unit,NASDAQ Capital Market,TBSAU
 TBSAW,TB SA Acquisition Corp - Warrant,NASDAQ Capital Market,TBSAW
 TC,TuanChe Limited - American Depositary Shares,NASDAQ Capital Market,TC
-TCAC,Tuatara Capital Acquisition Corporation - Class A Ordinary Shares,NASDAQ Capital Market,TCAC
-TCACU,Tuatara Capital Acquisition Corporation - Unit,NASDAQ Capital Market,TCACU
-TCACW,Tuatara Capital Acquisition Corporation - Warrant,NASDAQ Capital Market,TCACW
 TCBC,"TC Bancshares, Inc. - Common Stock",NASDAQ Capital Market,TCBC
 TCBI,"Texas Capital Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,TCBI
 TCBIO,"Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",NASDAQ Global Select MarketSM,TCBIO
