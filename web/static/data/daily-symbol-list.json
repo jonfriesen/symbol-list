@@ -1,5 +1,5 @@
 {
- "date": "2022-06-23",
+ "date": "2022-06-24",
  "data": [
   {
    "symbol": "ONE",
@@ -27732,7 +27732,7 @@
    "yahoo_symbol": "CDR.TO",
    "instruments": [
     {
-     "name": "Condor Petroleum J",
+     "name": "Condor Energies J",
      "symbol": "CDR"
     }
    ]
@@ -51672,10 +51672,22 @@
    "yahoo_symbol": "CHDN"
   },
   {
+   "symbol": "CHEA",
+   "name": "Chenghe Acquisition Co. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHEA"
+  },
+  {
    "symbol": "CHEAU",
    "name": "Chenghe Acquisition Co. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CHEAU"
+  },
+  {
+   "symbol": "CHEAW",
+   "name": "Chenghe Acquisition Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHEAW"
   },
   {
    "symbol": "CHEF",
@@ -58590,24 +58602,6 @@
    "yahoo_symbol": "GGMCW"
   },
   {
-   "symbol": "GGPI",
-   "name": "Gores Guggenheim, Inc. Unit - Class A common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GGPI"
-  },
-  {
-   "symbol": "GGPIU",
-   "name": "Gores Guggenheim, Inc. Unit - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GGPIU"
-  },
-  {
-   "symbol": "GGPIW",
-   "name": "Gores Guggenheim, Inc. Unit - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GGPIW"
-  },
-  {
    "symbol": "GGR",
    "name": "Gogoro Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61864,6 +61858,12 @@
    "name": "The Intergroup Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INTG"
+  },
+  {
+   "symbol": "INTR",
+   "name": "Inter \u0026 Co. Inc. - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INTR"
   },
   {
    "symbol": "INTU",
@@ -69532,6 +69532,18 @@
    "name": "Progress Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PGRWW"
+  },
+  {
+   "symbol": "PGY",
+   "name": "Pagaya Technologies Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PGY"
+  },
+  {
+   "symbol": "PGYWW",
+   "name": "Pagaya Technologies Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PGYWW"
   },
   {
    "symbol": "PHAR",
@@ -81022,12 +81034,6 @@
    "name": "Alpha Pro Tech, Ltd. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "APT"
-  },
-  {
-   "symbol": "APTS",
-   "name": "Preferred Apartment Communities, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APTS"
   },
   {
    "symbol": "APTV",
