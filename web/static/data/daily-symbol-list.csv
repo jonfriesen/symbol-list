@@ -670,7 +670,7 @@ FCMH,Fidelity U.S. Momentum Currency Neutral Index ETF,TSX,FCMH.TO,FidelityUS Mo
 FCMO,Fidelity U.S. Momentum Index ETF,TSX,FCMO.TO,Fidelity US Moment L,FCMO,Fidelity US MomentUS,FCMO.U
 FCVH,Fidelity U.S. Value Currency Neutral Index ETF,TSX,FCVH.TO,Fidelity USValCurNeu,FCVH
 FCUV,Fidelity U.S. Value Index ETF,TSX,FCUV.TO,Fidelity US Val L Un,FCUV,Fidelity US Val L US,FCUV.U
-FTRP,Field Trip Health Ltd.,TSX,FTRP.TO,Field Trip Health J,FTRP,Field Trip Hlth J Wt,FTRP.WT
+FTRP,Field Trip Health Ltd.,TSX,FTRP.TO,Field Trip Health J,FTRP
 FSZ,Fiera Capital Corporation,TSX,FSZ.TO,Fiera Capital A SV,FSZ,Fiera Capital 5.6 Db,FSZ.DB.A
 FIL,Filo Mining Corp.,TSX,FIL.TO,Filo Mining Corp. J,FIL
 FTN,Financial 15 Split Corp.,TSX,FTN.TO,Financial 15 Splt A,FTN,Financial 15 Splt Pr,FTN.PR.A
@@ -1449,6 +1449,7 @@ PYR,PyroGenesis Canada Inc.,TSX,PYR.TO,PyroGenesis Cda J,PYR
 QFOR,Q4 Inc.,TSX,QFOR.TO,Q4 Inc. J,QFOR
 QTRH,Quarterhill Inc.,TSX,QTRH.TO,Quarterhill Inc.,QTRH,Quarterhill Inc Deb,QTRH.DB
 QBR.A,Quebecor Inc.,TSX,QBR.A.TO,Quebecor Inc Cl A MV,QBR.A,Quebecor Inc Cl B SV,QBR.B
+QRC,Queen's Road Capital Investment Ltd.,TSX,QRC.TO,Queen's Rd Cap Inv J,QRC
 QEC,Questerre Energy Corporation,TSX,QEC.TO,Questerre Corp. J,QEC
 RAV.UN,Ravensource Fund,TSX,RAV.UN.TO,Ravensource Fund Un,RAV.UN
 RLB,RBC 1-5 Year Laddered Canadian Bond ETF,TSX,RLB.TO,RBC 1-5Yr LadCdn Bnd,RLB
@@ -1819,6 +1820,7 @@ AIMF.P,AIM6 Ventures Inc.,TSXV,AIMF.P.V,AIM6 Ventures Inc.,AIMF.P
 AIP.U,AIP Realty Trust,TSXV,AIP.U.V,AIP Realty Trust,AIP.U
 IQ,AirIQ Inc.,TSXV,IQ.V,AirIQ Inc,IQ
 AML,Akwaaba Mining Ltd.,TSXV,AML.V,Akwaaba Mining Ltd.,AML
+ALBT.P,Albatros Acquisition Corporation Inc.,TSXV,ALBT.P.V,Albatros Acquisition Corporation Inc.,ALBT.P
 ALDE,Aldebaran Resources Inc.,TSXV,ALDE.V,Aldebaran Resources Inc.,ALDE
 ANZ,Alianza Minerals Ltd.,TSXV,ANZ.V,Alianza Minerals Ltd.,ANZ
 AUAU,Allegiant Gold Ltd.,TSXV,AUAU.V,Allegiant Gold Ltd.,AUAU
@@ -2712,7 +2714,7 @@ MAX,MAX Resource Corp.,TSXV,MAX.V,MAX Resource Corp.,MAX
 MFA.P,Mayfair Acquisition Corporation,TSXV,MFA.P.V,Mayfair Acquisition Corporation,MFA.P
 MFG,Mayfair Gold Corp.,TSXV,MFG.V,Mayfair Gold Corp.,MFG
 MCS,McChip Resources Inc.,TSXV,MCS.V,McChip Resources Inc,MCS
-MCLD,mCloud Technologies Corp.,TSXV,MCLD.V,mCloud Technologies Corp.,MCLD,Mcloud Technologies Corp. wt 6Jul2022,MCLD.WS,Mcloud Technologies Corp wt 14Jan2025,MCLD.WT
+MCLD,mCloud Technologies Corp.,TSXV,MCLD.V,mCloud Technologies Corp.,MCLD,Mcloud Technologies Corp wt 14Jan2025,MCLD.WT
 MCX,MCX Technologies Corporation,TSXV,MCX.V,MCX Technologies Corporation,MCX
 MDL,Medallion Resources Ltd.,TSXV,MDL.V,Medallion Resources Ltd.,MDL
 MED,Medgold Resources Corp.,TSXV,MED.V,Medgold Resources Corp.,MED
@@ -3006,7 +3008,6 @@ QRO,Quadro Resources Ltd.,TSXV,QRO.V,Quadro Resources Ltd.,QRO
 QNC,Quantum Emotion Corp.,TSXV,QNC.V,Quantum Emotion Corp.,QNC
 QZM,Quartz Mountain Resources Ltd.,TSXV,QZM.V,Quartz Mountain Resources Ltd.,QZM
 QPM,Quebec Precious Metals Corporation,TSXV,QPM.V,Quebec Precious Metals Corporation,QPM
-QRC,Queen's Road Capital Investment Ltd.,TSXV,QRC.V,Queen's Road Capital Investment Ltd.,QRC,Queen's Road Capital Investment Ltd. Reg D,QRC.S
 OZAU,Queensland Gold Hills Corp.,TSXV,OZAU.V,Queensland Gold Hills Corp.,OZAU
 QPT,Quest PharmaTech Inc.,TSXV,QPT.V,Quest Pharmatech Inc.,QPT
 QST,Questor Technology Inc.,TSXV,QST.V,Questor Technology Inc.,QST
@@ -11469,6 +11470,7 @@ MAIN,Main Street Capital Corporation Common Stock,NYSE,MAIN
 MAN,ManpowerGroup Common Stock,NYSE,MAN
 MANU,Manchester United Ltd. Class A Ordinary Shares,NYSE,MANU
 MAS,Masco Corporation Common Stock,NYSE,MAS
+MATV,"Mativ Holdings, Inc. Common Stock",NYSE,MATV
 MATX,"Matson, Inc. Common Stock",NYSE,MATX
 MAV,"Pioneer Municipal High Income Advantage Fund, Inc.",NYSE,MAV
 MAX,"MediaAlpha, Inc. Class A Common Stock",NYSE,MAX
@@ -11810,7 +11812,6 @@ NOMD,Nomad Foods Limited Ordinary Shares,NYSE,NOMD
 NOV,NOV Inc. Common Stock,NYSE,NOV
 NOVA,Sunnova Energy International Inc. Common Stock,NYSE,NOVA
 NOW,"ServiceNow, Inc. Common Stock",NYSE,NOW
-NP,"Neenah, Inc. Common Stock",NYSE,NP
 NPCT,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,NYSE,NPCT
 NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares,NYSE,NPFD
 NPK,"National Presto Industries, Inc. Common Stock",NYSE,NPK
@@ -12684,7 +12685,6 @@ SVT,"Servotronics, Inc. Common Stock",NYSE MKT,SVT
 SWCH,"Switch, Inc. Class A Common Stock",NYSE,SWCH
 SWI,SolarWinds Corporation Common Stock,NYSE,SWI
 SWK,"Stanley Black & Decker, Inc. Common Stock",NYSE,SWK
-SWM,"Schweitzer-Mauduit International, Inc. Common Stock",NYSE,SWM
 SWN,Southwestern Energy Company Common Stock,NYSE,SWN
 SWT,"Stanley Black & Decker, Inc. Corporate Unit",NYSE,SWT
 SWX,"Southwest Gas Holdings, Inc. Common Stock (DE)",NYSE,SWX

@@ -1,5 +1,5 @@
 {
- "date": "2022-07-05",
+ "date": "2022-07-06",
  "data": [
   {
    "symbol": "BTCQ",
@@ -9666,10 +9666,6 @@
     {
      "name": "Field Trip Health J",
      "symbol": "FTRP"
-    },
-    {
-     "name": "Field Trip Hlth J Wt",
-     "symbol": "FTRP.WT"
     }
    ]
   },
@@ -20122,6 +20118,18 @@
    ]
   },
   {
+   "symbol": "QRC",
+   "name": "Queen's Road Capital Investment Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "QRC.TO",
+   "instruments": [
+    {
+     "name": "Queen's Rd Cap Inv J",
+     "symbol": "QRC"
+    }
+   ]
+  },
+  {
    "symbol": "QEC",
    "name": "Questerre Energy Corporation",
    "exchange": "TSX",
@@ -25050,6 +25058,18 @@
     {
      "name": "Akwaaba Mining Ltd.",
      "symbol": "AML"
+    }
+   ]
+  },
+  {
+   "symbol": "ALBT.P",
+   "name": "Albatros Acquisition Corporation Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALBT.P.V",
+   "instruments": [
+    {
+     "name": "Albatros Acquisition Corporation Inc.",
+     "symbol": "ALBT.P"
     }
    ]
   },
@@ -35984,10 +36004,6 @@
      "symbol": "MCLD"
     },
     {
-     "name": "Mcloud Technologies Corp. wt 6Jul2022",
-     "symbol": "MCLD.WS"
-    },
-    {
      "name": "Mcloud Technologies Corp wt 14Jan2025",
      "symbol": "MCLD.WT"
     }
@@ -39566,22 +39582,6 @@
     {
      "name": "Quebec Precious Metals Corporation",
      "symbol": "QPM"
-    }
-   ]
-  },
-  {
-   "symbol": "QRC",
-   "name": "Queen's Road Capital Investment Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "QRC.V",
-   "instruments": [
-    {
-     "name": "Queen's Road Capital Investment Ltd.",
-     "symbol": "QRC"
-    },
-    {
-     "name": "Queen's Road Capital Investment Ltd. Reg D",
-     "symbol": "QRC.S"
     }
    ]
   },
@@ -93276,6 +93276,12 @@
    "yahoo_symbol": "MAS"
   },
   {
+   "symbol": "MATV",
+   "name": "Mativ Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MATV"
+  },
+  {
    "symbol": "MATX",
    "name": "Matson, Inc. Common Stock",
    "exchange": "NYSE",
@@ -95320,12 +95326,6 @@
    "name": "ServiceNow, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "NOW"
-  },
-  {
-   "symbol": "NP",
-   "name": "Neenah, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NP"
   },
   {
    "symbol": "NPCT",
@@ -100564,12 +100564,6 @@
    "name": "Stanley Black \u0026 Decker, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SWK"
-  },
-  {
-   "symbol": "SWM",
-   "name": "Schweitzer-Mauduit International, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SWM"
   },
   {
    "symbol": "SWN",
