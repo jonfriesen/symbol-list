@@ -1,5 +1,5 @@
 {
- "date": "2022-07-28",
+ "date": "2022-07-29",
  "data": [
   {
    "symbol": "BTCQ",
@@ -54882,6 +54882,12 @@
    "yahoo_symbol": "EBTC"
   },
   {
+   "symbol": "ECBK",
+   "name": "ECB Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ECBK"
+  },
+  {
    "symbol": "ECOR",
    "name": "electroCore, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -65472,18 +65478,6 @@
    "yahoo_symbol": "MIGI"
   },
   {
-   "symbol": "MILE",
-   "name": "Metromile, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MILE"
-  },
-  {
-   "symbol": "MILEW",
-   "name": "Metromile, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MILEW"
-  },
-  {
    "symbol": "MILN",
    "name": "Global X Millennial Consumer ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -66712,6 +66706,18 @@
    "name": "Neonode Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NEON"
+  },
+  {
+   "symbol": "NEOV",
+   "name": "NeoVolta Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEOV"
+  },
+  {
+   "symbol": "NEOVW",
+   "name": "NeoVolta Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEOVW"
   },
   {
    "symbol": "NEPH",
@@ -102790,12 +102796,6 @@
    "name": "Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",
    "exchange": "NYSE",
    "yahoo_symbol": "WBS$G"
-  },
-  {
-   "symbol": "WBT",
-   "name": "Welbilt, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WBT"
   },
   {
    "symbol": "WBX",
