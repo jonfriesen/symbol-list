@@ -1,5 +1,5 @@
 {
- "date": "2022-08-02",
+ "date": "2022-08-03",
  "data": [
   {
    "symbol": "ONE",
@@ -18566,18 +18566,6 @@
     {
      "name": "Titan Logix Corp",
      "symbol": "TLA"
-    }
-   ]
-  },
-  {
-   "symbol": "TTR",
-   "name": "Titanium Transportation Group Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TTR.V",
-   "instruments": [
-    {
-     "name": "Titanium Transportation Group Inc.",
-     "symbol": "TTR"
     }
    ]
   },
@@ -43618,6 +43606,18 @@
    ]
   },
   {
+   "symbol": "TTNM",
+   "name": "Titanium Transportation Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TTNM.TO",
+   "instruments": [
+    {
+     "name": "Titanium Trans Grp J",
+     "symbol": "TTNM"
+    }
+   ]
+  },
+  {
    "symbol": "X",
    "name": "TMX Group Limited",
    "exchange": "TSX",
@@ -44652,7 +44652,7 @@
    "yahoo_symbol": "NPK.TO",
    "instruments": [
     {
-     "name": "Verde Agritech Plc J",
+     "name": "Verde Agritech Ltd J",
      "symbol": "NPK"
     }
    ]
@@ -50523,7 +50523,7 @@
   },
   {
    "symbol": "BWMX",
-   "name": "Betterware de Mexico, S.A.B de C.V. - Ordinary Shares",
+   "name": "Betterware de Mexico, S.A.P.I. de C.V. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BWMX"
   },
@@ -65480,12 +65480,6 @@
    "yahoo_symbol": "MITAW"
   },
   {
-   "symbol": "MITC",
-   "name": "MeaTech 3D Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MITC"
-  },
-  {
    "symbol": "MITK",
    "name": "Mitek Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -74658,6 +74652,12 @@
    "name": "Neuronetics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "STIM"
+  },
+  {
+   "symbol": "STKH",
+   "name": "Steakholder Foods Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STKH"
   },
   {
    "symbol": "STKL",
@@ -86636,6 +86636,12 @@
    "yahoo_symbol": "EFR"
   },
   {
+   "symbol": "EFSH",
+   "name": "1847 Holdings LLC Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EFSH"
+  },
+  {
    "symbol": "EFT",
    "name": "Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -89496,12 +89502,6 @@
    "name": "GO Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "GOAC.U"
-  },
-  {
-   "symbol": "GOAC.W",
-   "name": "GO Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GOAC.W"
   },
   {
    "symbol": "GOF",
@@ -94250,12 +94250,6 @@
    "yahoo_symbol": "MTNB"
   },
   {
-   "symbol": "MTOR",
-   "name": "Meritor, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTOR"
-  },
-  {
    "symbol": "MTR",
    "name": "Mesa Royalty Trust Common Stock",
    "exchange": "NYSE",
@@ -95234,12 +95228,6 @@
    "yahoo_symbol": "NPO"
   },
   {
-   "symbol": "NPTN",
-   "name": "NeoPhotonics Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NPTN"
-  },
-  {
    "symbol": "NPV",
    "name": "Nuveen Virginia Quality Municipal Income Fund Common Stock",
    "exchange": "NYSE",
@@ -95304,12 +95292,6 @@
    "name": "Energy Vault Holdings, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "NRGV"
-  },
-  {
-   "symbol": "NRGV.W",
-   "name": "Energy Vault Holdings, Inc. Redeemable warrants, each whole warrant exercisable for shares of Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NRGV.W"
   },
   {
    "symbol": "NRGX",
@@ -97884,12 +97866,6 @@
    "name": "RedBall Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "RBAC.U"
-  },
-  {
-   "symbol": "RBAC.W",
-   "name": "RedBall Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RBAC.W"
   },
   {
    "symbol": "RBLX",
