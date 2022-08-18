@@ -1,5 +1,5 @@
 {
- "date": "2022-08-17",
+ "date": "2022-08-18",
  "data": [
   {
    "symbol": "ONE",
@@ -822,18 +822,6 @@
     {
      "name": "Alturas Minerals Corp",
      "symbol": "ALT"
-    }
-   ]
-  },
-  {
-   "symbol": "ALTS",
-   "name": "Altus Strategies Plc",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ALTS.V",
-   "instruments": [
-    {
-     "name": "Altus Strategies PLC",
-     "symbol": "ALTS"
     }
    ]
   },
@@ -6370,6 +6358,18 @@
     {
      "name": "Fidelity Minerals Corp.",
      "symbol": "FMN"
+    }
+   ]
+  },
+  {
+   "symbol": "FTHW",
+   "name": "Field Trip Health \u0026 Wellness Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FTHW.V",
+   "instruments": [
+    {
+     "name": "Field Trip Health \u0026 Wellness Ltd.",
+     "symbol": "FTHW"
     }
    ]
   },
@@ -13062,18 +13062,6 @@
    ]
   },
   {
-   "symbol": "NAN",
-   "name": "North American Nickel Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NAN.V",
-   "instruments": [
-    {
-     "name": "North American Nickel Inc.",
-     "symbol": "NAN"
-    }
-   ]
-  },
-  {
    "symbol": "NAR",
    "name": "North Arrow Minerals Inc.",
    "exchange": "TSXV",
@@ -14750,6 +14738,18 @@
     {
      "name": "Premier Health of America Inc.",
      "symbol": "PHA"
+    }
+   ]
+  },
+  {
+   "symbol": "PNRL",
+   "name": "Premium Nickel Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PNRL.V",
+   "instruments": [
+    {
+     "name": "Premium Nickel Resources Ltd.",
+     "symbol": "PNRL"
     }
    ]
   },
@@ -16631,12 +16631,12 @@
   },
   {
    "symbol": "SNYB",
-   "name": "ShinyBud Corp.",
+   "name": "Shiny Health \u0026 Wellness Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "SNYB.V",
    "instruments": [
     {
-     "name": "ShinyBud Corp.",
+     "name": "Shiny Health \u0026 Wellness Corp.",
      "symbol": "SNYB"
     }
    ]
@@ -41344,7 +41344,7 @@
    "yahoo_symbol": "REUN.TO",
    "instruments": [
     {
-     "name": "Field Trip Health J",
+     "name": "Reunion Neuros Inc J",
      "symbol": "REUN"
     }
    ]
@@ -47032,6 +47032,12 @@
    "yahoo_symbol": "AMGN"
   },
   {
+   "symbol": "AMID",
+   "name": "Argent Mid Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMID"
+  },
+  {
    "symbol": "AMKR",
    "name": "Amkor Technology, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -49364,18 +49370,6 @@
    "name": "Global X Blockchain ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BKCH"
-  },
-  {
-   "symbol": "BKEP",
-   "name": "Blueknight Energy Partners L.P. - Common Units representing Limited Partner Interests",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKEP"
-  },
-  {
-   "symbol": "BKEPP",
-   "name": "Blueknight Energy Partners L.P. - Series A Preferred Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKEPP"
   },
   {
    "symbol": "BKNG",
@@ -66042,7 +66036,7 @@
   {
    "symbol": "MRKR",
    "name": "Marker Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MRKR"
   },
   {
@@ -76226,12 +76220,6 @@
    "name": "Tempest Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TPST"
-  },
-  {
-   "symbol": "TPTX",
-   "name": "Turning Point Therapeutics, Inc. - Common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TPTX"
   },
   {
    "symbol": "TQQQ",
@@ -87026,12 +87014,6 @@
    "name": "Emerson Electric Company Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "EMR"
-  },
-  {
-   "symbol": "EMWP",
-   "name": "Eros Media World PLC A Ordinary Shares, GBP 0.30 par value",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EMWP"
   },
   {
    "symbol": "EMX",

@@ -67,7 +67,6 @@ ARH,Altima Resources Ltd.,TSXV,ARH.V,Altima Resources Ltd.,ARH
 ALTN.P,Altina Capital Corp.,TSXV,ALTN.P.V,Altina Capital Corp.,ALTN.P
 APN,Altiplano Metals Inc.,TSXV,APN.V,Altiplano Metals Inc.,APN
 ALT,Alturas Minerals Corp.,TSXV,ALT.V,Alturas Minerals Corp,ALT
-ALTS,Altus Strategies Plc,TSXV,ALTS.V,Altus Strategies PLC,ALTS
 ALV,Alvopetro Energy Ltd.,TSXV,ALV.V,Alvopetro Energy Ltd.,ALV
 AL,ALX Resources Corp.,TSXV,AL.V,ALX Resources Corp.,AL
 AHR,Amarc Resources Ltd.,TSXV,AHR.V,Amarc Resources Ltd.,AHR
@@ -523,6 +522,7 @@ FO,Falcon Oil & Gas Ltd.,TSXV,FO.V,Falcon Oil & Gas Ltd ,FO
 FNC,Fancamp Exploration Ltd.,TSXV,FNC.V,Fancamp Exploration Ltd.,FNC
 FRS.P,Farstarcap Investment Corp.,TSXV,FRS.P.V,Farstarcap Investment Corp.,FRS.P
 FMN,Fidelity Minerals Corp.,TSXV,FMN.V,Fidelity Minerals Corp.,FMN
+FTHW,Field Trip Health & Wellness Ltd.,TSXV,FTHW.V,Field Trip Health & Wellness Ltd.,FTHW
 FFC.P,Fife Capital Corp.,TSXV,FFC.P.V,Fife Capital Corp.,FFC.P
 FDI,Findev Inc.,TSXV,FDI.V,Findev Inc.,FDI
 FYL,Finlay Minerals Ltd.,TSXV,FYL.V,Finlay Minerals Ltd,FYL
@@ -1068,7 +1068,6 @@ NORA,Norra Metals Corp.,TSXV,NORA.V,Norra Metals Corp.,NORA
 NORR,Norrland Gold Corp.,TSXV,NORR.V,Norrland Gold Corp.,NORR
 NOC,Norseman Silver Inc.,TSXV,NOC.V,Norseman Silver Inc.,NOC
 NVT,Nortec Minerals Corp.,TSXV,NVT.V,Nortec Minerals Corp,NVT
-NAN,North American Nickel Inc.,TSXV,NAN.V,North American Nickel Inc.,NAN
 NAR,North Arrow Minerals Inc.,TSXV,NAR.V,North Arrow Minerals Inc.,NAR
 NPR,North Peak Resources Ltd.,TSXV,NPR.V,North Peak Resources Ltd.,NPR
 NGC,Northern Graphite Corporation,TSXV,NGC.V,Northern Graphite Corporation,NGC
@@ -1206,6 +1205,7 @@ PPX,PPX Mining Corp.,TSXV,PPX.V,PPX Mining Corp.,PPX
 PRG,Precipitate Gold Corp.,TSXV,PRG.V,Precipitate Gold Corp.,PRG
 PDH,Premier Diversified Holdings Inc.,TSXV,PDH.V,Premier Diversified Holdings Inc.,PDH
 PHA,Premier Health of America Inc.,TSXV,PHA.V,Premier Health of America Inc.,PHA
+PNRL,Premium Nickel Resources Ltd.,TSXV,PNRL.V,Premium Nickel Resources Ltd.,PNRL
 PMR,Prime Meridian Resources Corp.,TSXV,PMR.V,Prime Meridian Resources Corp,PMR
 PRYM,Prime Mining Corp.,TSXV,PRYM.V,Prime Mining Corp.,PRYM
 PTEC,Principal Technologies Inc.,TSXV,PTEC.V,Principal Technologies Inc.,PTEC
@@ -1359,7 +1359,7 @@ SJR.A,Shaw Communications Inc.,TSXV,SJR.A.V,Shaw Communications Inc. cl A Part,S
 SHLL.P,Shellron Capital Ltd.,TSXV,SHLL.P.V,Shellron Capital Ltd.,SHLL.P
 SHRP,Sherpa II Holdings Corp.,TSXV,SHRP.V,Sherpa II Holdings Corp.,SHRP
 RENT.P,Shine Box Capital Corp.,TSXV,RENT.P.V,Shine Box Capital Corp.,RENT.P
-SNYB,ShinyBud Corp.,TSXV,SNYB.V,ShinyBud Corp.,SNYB
+SNYB,Shiny Health & Wellness Corp.,TSXV,SNYB.V,Shiny Health & Wellness Corp.,SNYB
 SSSS.P,Shooting Star Acquisition Corp.,TSXV,SSSS.P.V,Shooting Star Acquisition Corp.,SSSS.P
 SIE,Sienna Resources Inc.,TSXV,SIE.V,Sienna Resources Inc.,SIE
 SM,Sierra Madre Gold and Silver Ltd.,TSXV,SM.V,Sierra Madre Gold and Silver Ltd.,SM
@@ -3182,7 +3182,7 @@ RFP,Resolute Forest Products Inc.,TSX,RFP.TO,Resolute Forest Prod,RFP
 QSR,Restaurant Brands International Inc.,TSX,QSR.TO,Restaurant Brnd Intl,QSR
 QSP.UN,Restaurant Brands International Limited Partnership,TSX,QSP.UN.TO,Restaurant BrndLP Un,QSP.UN
 RVX,Resverlogix Corp.,TSX,RVX.TO,Resverlogix Corp. J,RVX,Riverlogix J A Wt,RVX.WT.A
-REUN,Reunion Neuroscience Inc.,TSX,REUN.TO,Field Trip Health J,REUN
+REUN,Reunion Neuroscience Inc.,TSX,REUN.TO,Reunion Neuros Inc J,REUN
 RCG,RF Capital Group Inc.,TSX,RCG.TO,RF Capital Group Inc,RCG,RF Cap Grp Ser B Pr,RCG.PR.B
 RPI.UN,Richards Packaging Income Fund,TSX,RPI.UN.TO,Richards Pckng Un,RPI.UN
 RCH,Richelieu Hardware Ltd.,TSX,RCH.TO,Richelieu Hardware,RCH
@@ -3767,6 +3767,7 @@ AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ Global Select MarketSM,
 AMED,Amedisys Inc - Common Stock,NASDAQ Global Select MarketSM,AMED
 AMEH,"Apollo Medical Holdings, Inc. - Common Stock",NASDAQ Capital Market,AMEH
 AMGN,Amgen Inc. - Common Stock,NASDAQ Global Select MarketSM,AMGN
+AMID,Argent Mid Cap ETF,NASDAQ Global MarketSM,AMID
 AMKR,"Amkor Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMKR
 AMLX,"Amylyx Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMLX
 AMNB,"American National Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMNB
@@ -4156,8 +4157,6 @@ BJK,VanEck Gaming ETF,NASDAQ Global MarketSM,BJK
 BJRI,"BJ's Restaurants, Inc. - Common Stock",NASDAQ Global Select MarketSM,BJRI
 BKCC,BlackRock Capital Investment Corporation - Common Stock,NASDAQ Global Select MarketSM,BKCC
 BKCH,Global X Blockchain ETF,NASDAQ Global MarketSM,BKCH
-BKEP,Blueknight Energy Partners L.P. - Common Units representing Limited Partner Interests,NASDAQ Global MarketSM,BKEP
-BKEPP,Blueknight Energy Partners L.P. - Series A Preferred Units,NASDAQ Global MarketSM,BKEPP
 BKNG,Booking Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,BKNG
 BKR,Baker Hughes Company - Common Stock,NASDAQ Global Select MarketSM,BKR
 BKSC,Bank of South Carolina Corp. - Common Stock,NASDAQ Capital Market,BKSC
@@ -6935,7 +6934,7 @@ MRCC,Monroe Capital Corporation - Common Stock,NASDAQ Global Select MarketSM,MRC
 MRCY,Mercury Systems Inc - Common Stock,NASDAQ Global Select MarketSM,MRCY
 MREO,Mereo BioPharma Group plc - American Depositary Shares,NASDAQ Global MarketSM,MREO
 MRIN,Marin Software Incorporated - Common Stock,NASDAQ Global MarketSM,MRIN
-MRKR,"Marker Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,MRKR
+MRKR,"Marker Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,MRKR
 MRM,MEDIROM Healthcare Technologies Inc. - American Depositary Share,NASDAQ Capital Market,MRM
 MRNA,"Moderna, Inc. - Common Stock",NASDAQ Global Select MarketSM,MRNA
 MRNS,"Marinus Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,MRNS
@@ -8633,7 +8632,6 @@ TPBAW,TPB Acquisition Corporation I - Warrant,NASDAQ Capital Market,TPBAW
 TPG,TPG Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,TPG
 TPIC,"TPI Composites, Inc. - Common Stock",NASDAQ Global MarketSM,TPIC
 TPST,"Tempest Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,TPST
-TPTX,"Turning Point Therapeutics, Inc. - Common stock",NASDAQ Global Select MarketSM,TPTX
 TQQQ,ProShares UltraPro QQQ,NASDAQ Global MarketSM,TQQQ
 TRDA,"Entrada Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TRDA
 TREE,"LendingTree, Inc. - Common Stock",NASDAQ Global Select MarketSM,TREE
@@ -10433,7 +10431,6 @@ EMN,Eastman Chemical Company Common Stock,NYSE,EMN
 EMO,ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock,NYSE,EMO
 EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066",NYSE,EMP
 EMR,Emerson Electric Company Common Stock,NYSE,EMR
-EMWP,"Eros Media World PLC A Ordinary Shares, GBP 0.30 par value",NYSE,EMWP
 EMX,EMX Royalty Corporation Common Shares (Canada),NYSE MKT,EMX
 ENB,Enbridge Inc Common Stock,NYSE,ENB
 ENBA,Enbridge Inc 6.375% Fixed-to-Floating Rate Subordinated Notes Series 2018-B due 2078,NYSE,ENBA
