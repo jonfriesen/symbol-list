@@ -1,5 +1,5 @@
 {
- "date": "2022-08-26",
+ "date": "2022-08-29",
  "data": [
   {
    "symbol": "AACG",
@@ -16736,18 +16736,6 @@
    "yahoo_symbol": "ISIG"
   },
   {
-   "symbol": "ISLE",
-   "name": "Isleworth Healthcare Acquisition Corporation - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ISLE"
-  },
-  {
-   "symbol": "ISLEW",
-   "name": "Isleworth Healthcare Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ISLEW"
-  },
-  {
    "symbol": "ISO",
    "name": "IsoPlexis Corporation - common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -17150,6 +17138,18 @@
    "yahoo_symbol": "JEPQ"
   },
   {
+   "symbol": "JFBR",
+   "name": "Jeffs' Brands Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JFBR"
+  },
+  {
+   "symbol": "JFBRW",
+   "name": "Jeffs' Brands Ltd - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JFBRW"
+  },
+  {
    "symbol": "JFIN",
    "name": "Jiayin Group Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -17376,6 +17376,12 @@
    "name": "The Joint Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JYNT"
+  },
+  {
+   "symbol": "JZ",
+   "name": "Jianzhi Education Technology Group Company Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "JZ"
   },
   {
    "symbol": "JZXN",
@@ -22892,6 +22898,18 @@
    "yahoo_symbol": "ONEW"
   },
   {
+   "symbol": "ONFO",
+   "name": "Onfolio Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONFO"
+  },
+  {
+   "symbol": "ONFOW",
+   "name": "Onfolio Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONFOW"
+  },
+  {
    "symbol": "ONTX",
    "name": "Onconova Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -25454,6 +25472,12 @@
    "yahoo_symbol": "PXLW"
   },
   {
+   "symbol": "PXMD",
+   "name": "PaxMedica, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXMD"
+  },
+  {
    "symbol": "PXS",
    "name": "Pyxis Tankers Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -27042,24 +27066,6 @@
    "name": "Ruth's Hospitality Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "RUTH"
-  },
-  {
-   "symbol": "RVAC",
-   "name": "Riverview Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RVAC"
-  },
-  {
-   "symbol": "RVACU",
-   "name": "Riverview Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RVACU"
-  },
-  {
-   "symbol": "RVACW",
-   "name": "Riverview Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RVACW"
   },
   {
    "symbol": "RVLP",
@@ -31482,12 +31488,6 @@
    "name": "VictoryShares ESG Core Plus Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UBND"
-  },
-  {
-   "symbol": "UBOH",
-   "name": "United Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UBOH"
   },
   {
    "symbol": "UBSI",
@@ -46395,7 +46395,7 @@
   },
   {
    "symbol": "J",
-   "name": "Jacobs Engineering Group Inc. Common Stock",
+   "name": "Jacobs Solutions Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "J"
   },
@@ -61706,6 +61706,18 @@
    ]
   },
   {
+   "symbol": "CEC",
+   "name": "Canasia Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CEC.V",
+   "instruments": [
+    {
+     "name": "Canasia Energy Corp.",
+     "symbol": "CEC"
+    }
+   ]
+  },
+  {
    "symbol": "CLZ",
    "name": "Canasil Resources Inc.",
    "exchange": "TSXV",
@@ -62554,6 +62566,18 @@
     {
      "name": "Coho Collective Kitchens Inc.",
      "symbol": "COHO"
+    }
+   ]
+  },
+  {
+   "symbol": "CBI",
+   "name": "Colibri Resource Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CBI.V",
+   "instruments": [
+    {
+     "name": "Colibri Resource Corporation",
+     "symbol": "CBI"
     }
    ]
   },
@@ -72430,18 +72454,6 @@
    ]
   },
   {
-   "symbol": "POE",
-   "name": "Pan Orient Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "POE.V",
-   "instruments": [
-    {
-     "name": "Pan Orient Energy Corp.",
-     "symbol": "POE"
-    }
-   ]
-  },
-  {
    "symbol": "PUC",
    "name": "Pancontinental Resources Corporation",
    "exchange": "TSXV",
@@ -74655,12 +74667,12 @@
   },
   {
    "symbol": "RUG",
-   "name": "Rugby Mining Limited",
+   "name": "Rugby Resources Ltd.",
    "exchange": "TSXV",
    "yahoo_symbol": "RUG.V",
    "instruments": [
     {
-     "name": "Rugby Mining Limited",
+     "name": "Rugby Resources Ltd.",
      "symbol": "RUG"
     }
    ]
