@@ -1,5 +1,5 @@
 {
- "date": "2022-08-30",
+ "date": "2022-08-31",
  "data": [
   {
    "symbol": "BTCQ",
@@ -23350,6 +23350,18 @@
     {
      "name": "US Financial15 Pr 12",
      "symbol": "FTU.PR.B"
+    }
+   ]
+  },
+  {
+   "symbol": "HISU.U",
+   "name": "US High Interest Savings Account Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "HISU.U.TO",
+   "instruments": [
+    {
+     "name": "US HiIntrstSvgUNH US",
+     "symbol": "HISU.U"
     }
    ]
   },
@@ -53038,18 +53050,6 @@
    "yahoo_symbol": "CRWS"
   },
   {
-   "symbol": "CRXT",
-   "name": "Clarus Therapeutics Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRXT"
-  },
-  {
-   "symbol": "CRXTW",
-   "name": "Clarus Therapeutics Holdings, Inc. - Warrant 9/9/2026",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRXTW"
-  },
-  {
    "symbol": "CRZN",
    "name": "Corazon Capital V838 Monoceros Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -55001,7 +55001,7 @@
   },
   {
    "symbol": "EEIQ",
-   "name": "Elite Education Group International Ltd. - Common Stock",
+   "name": "EpicQuest Education Group International Limited - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EEIQ"
   },
@@ -56006,18 +56006,6 @@
    "name": "Eyenovia, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EYEN"
-  },
-  {
-   "symbol": "EYES",
-   "name": "Second Sight Medical Products, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EYES"
-  },
-  {
-   "symbol": "EYESW",
-   "name": "Second Sight Medical Products, Inc. - Warrants expiring 3/14/2024",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EYESW"
   },
   {
    "symbol": "EYPT",
@@ -60272,6 +60260,12 @@
    "name": "Werewolf Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HOWL"
+  },
+  {
+   "symbol": "HPCO",
+   "name": "Hempacco Co., Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPCO"
   },
   {
    "symbol": "HPK",
@@ -77200,6 +77194,18 @@
    "yahoo_symbol": "VALU"
   },
   {
+   "symbol": "VANI",
+   "name": "Vivani Medical, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VANI"
+  },
+  {
+   "symbol": "VANIW",
+   "name": "Vivani Medical, Inc.  - Warrants expiring 3/14/2024",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VANIW"
+  },
+  {
    "symbol": "VAQC",
    "name": "Vector Acquisition Corporation II - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -78306,7 +78312,7 @@
   {
    "symbol": "VYNE",
    "name": "VYNE Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VYNE"
   },
   {
@@ -96052,10 +96058,10 @@
    "yahoo_symbol": "OPP$B"
   },
   {
-   "symbol": "OPP.V",
+   "symbol": "OPP.R",
    "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "OPP.V"
+   "yahoo_symbol": "OPP.R"
   },
   {
    "symbol": "OPTT",

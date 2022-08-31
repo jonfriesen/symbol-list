@@ -1685,6 +1685,7 @@ UNC,United Corporations Limited,TSX,UNC.TO,United Corporations,UNC,United Corp 1
 URE,Ur-Energy Inc.,TSX,URE.TO,Ur-Energy Inc. J,URE
 URB,Urbana Corporation,TSX,URB.TO,Urbana Corporation,URB,Urbana Corp. Cl A NV,URB.A
 FTU,US Financial 15 Split Corp.,TSX,FTU.TO,US Financial 15 Cl A,FTU,US Financial15 Pr 12,FTU.PR.B
+HISU.U,US High Interest Savings Account Fund,TSX,HISU.U.TO,US HiIntrstSvgUNH US,HISU.U
 VPH,Valeo Pharma Inc.,TSX,VPH.TO,Valeo Pharma J Cl A ,VPH,Valeo Pharma J 12%Db,VPH.DB,Valeo Pharma J Wt A,VPH.WT.A
 VLE,Valeura Energy Inc.,TSX,VLE.TO,Valeura Energy Inc J,VLE
 VEQT,Vanguard All-Equity ETF Portfolio,TSX,VEQT.TO,Vanguard AllEqPortfl,VEQT
@@ -4771,8 +4772,6 @@ CRVL,CorVel Corp. - Common Stock,NASDAQ Global Select MarketSM,CRVL
 CRVS,"Corvus Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,CRVS
 CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CRWD
 CRWS,"Crown Crafts, Inc. - Common Stock",NASDAQ Capital Market,CRWS
-CRXT,"Clarus Therapeutics Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,CRXT
-CRXTW,"Clarus Therapeutics Holdings, Inc. - Warrant 9/9/2026",NASDAQ Global MarketSM,CRXTW
 CRZN,Corazon Capital V838 Monoceros Corp - Class A Ordinary Shares,NASDAQ Capital Market,CRZN
 CRZNU,Corazon Capital V838 Monoceros Corp - Unit,NASDAQ Capital Market,CRZNU
 CRZNW,Corazon Capital V838 Monoceros Corp - Warrant,NASDAQ Capital Market,CRZNW
@@ -5098,7 +5097,7 @@ EDTXW,EdtechX Holdings Acquisition Corp. II - Warrant,NASDAQ Capital Market,EDTX
 EDUC,Educational Development Corporation - Common Stock,NASDAQ Global MarketSM,EDUC
 EDUT,Global X Education ETF,NASDAQ Global MarketSM,EDUT
 EEFT,"Euronet Worldwide, Inc. - Common Stock",NASDAQ Global Select MarketSM,EEFT
-EEIQ,Elite Education Group International Ltd. - Common Stock,NASDAQ Capital Market,EEIQ
+EEIQ,EpicQuest Education Group International Limited - Common Stock,NASDAQ Capital Market,EEIQ
 EEMA,iShares MSCI Emerging Markets Asia ETF,NASDAQ Global MarketSM,EEMA
 EFAS,Global X MSCI SuperDividend EAFE ETF,NASDAQ Global MarketSM,EFAS
 EFOI,"Energy Focus, Inc. - Common Stock",NASDAQ Capital Market,EFOI
@@ -5266,8 +5265,6 @@ EXPO,"Exponent, Inc. - Common Stock",NASDAQ Global Select MarketSM,EXPO
 EXTR,"Extreme Networks, Inc. - Common Stock",NASDAQ Global Select MarketSM,EXTR
 EYE,"National Vision Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,EYE
 EYEN,"Eyenovia, Inc. - Common Stock",NASDAQ Capital Market,EYEN
-EYES,"Second Sight Medical Products, Inc. - Common Stock",NASDAQ Capital Market,EYES
-EYESW,"Second Sight Medical Products, Inc. - Warrants expiring 3/14/2024",NASDAQ Capital Market,EYESW
 EYPT,"EyePoint Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,EYPT
 EZFL,"EzFill Holdings, Inc. - Common Stock",NASDAQ Capital Market,EZFL
 EZGO,EZGO Technologies Ltd. - Ordinary Shares,NASDAQ Capital Market,EZGO
@@ -5977,6 +5974,7 @@ HOTH,"Hoth Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,HOTH
 HOUR,"Hour Loop, Inc. - common stock",NASDAQ Capital Market,HOUR
 HOVNP,Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock,NASDAQ Global MarketSM,HOVNP
 HOWL,"Werewolf Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,HOWL
+HPCO,"Hempacco Co., Inc. - Common Stock",NASDAQ Capital Market,HPCO
 HPK,"HighPeak Energy, Inc. - Common Stock",NASDAQ Global MarketSM,HPK
 HPKEW,"HighPeak Energy, Inc. - Warrant",NASDAQ Global MarketSM,HPKEW
 HPLT,Home Plate Acquisition Corporation - Class A Common Stock,NASDAQ Global MarketSM,HPLT
@@ -8798,6 +8796,8 @@ VABK,Virginia National Bankshares Corporation - Common Stock,NASDAQ Capital Mark
 VACC,Vaccitech plc - American Depositary Shares,NASDAQ Global MarketSM,VACC
 VALN,Valneva SE - American Depositary Shares,NASDAQ Global Select MarketSM,VALN
 VALU,"Value Line, Inc. - Common Stock",NASDAQ Capital Market,VALU
+VANI,"Vivani Medical, Inc.  - Common Stock",NASDAQ Capital Market,VANI
+VANIW,"Vivani Medical, Inc.  - Warrants expiring 3/14/2024",NASDAQ Capital Market,VANIW
 VAQC,Vector Acquisition Corporation II - Class A Ordinary Shares,NASDAQ Capital Market,VAQC
 VAXX,"Vaxxinity, Inc. - Class A Common Stock",NASDAQ Global MarketSM,VAXX
 VBB,Valkyrie Balance Sheet Opportunities ETF,NASDAQ Global MarketSM,VBB
@@ -8982,7 +8982,7 @@ VXRT,"Vaxart, Inc. - Common Stock",NASDAQ Capital Market,VXRT
 VXUS,Vanguard Total International Stock ETF,NASDAQ Global MarketSM,VXUS
 VYGR,"Voyager Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,VYGR
 VYMI,Vanguard International High Dividend Yield ETF,NASDAQ Global MarketSM,VYMI
-VYNE,VYNE Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,VYNE
+VYNE,VYNE Therapeutics Inc. - Common Stock,NASDAQ Capital Market,VYNE
 VYNT,"Vyant Bio, Inc. - Common Stock",NASDAQ Capital Market,VYNT
 WABC,Westamerica Bancorporation - Common Stock,NASDAQ Global Select MarketSM,WABC
 WAFD,"Washington Federal, Inc. - Common Stock",NASDAQ Global Select MarketSM,WAFD
@@ -11940,7 +11940,7 @@ OPFI.W,OppFi Inc. Warrants,NYSE,OPFI.W
 OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",NYSE,OPP
 OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock",NYSE,OPP$A
 OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock",NYSE,OPP$B
-OPP.V,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights",NYSE,OPP.V
+OPP.R,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights",NYSE,OPP.R
 OPTT,"Ocean Power Technologies, Inc. Common Stock",NYSE MKT,OPTT
 OPY,"Oppenheimer Holdings, Inc. Class A Common Stock (DE)",NYSE,OPY
 OR,Osisko Gold Royalties Ltd Common Shares,NYSE,OR
