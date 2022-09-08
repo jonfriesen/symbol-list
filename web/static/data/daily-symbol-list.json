@@ -1,5 +1,5 @@
 {
- "date": "2022-09-07",
+ "date": "2022-09-08",
  "data": [
   {
    "symbol": "ONE",
@@ -4842,6 +4842,22 @@
    ]
   },
   {
+   "symbol": "DHB",
+   "name": "Delivra Health Brands Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DHB.V",
+   "instruments": [
+    {
+     "name": "Delivra Health Brands Inc.",
+     "symbol": "DHB"
+    },
+    {
+     "name": "Delivra Health Brands Inc. WTS 17MAR2024",
+     "symbol": "DHB.WT"
+    }
+   ]
+  },
+  {
    "symbol": "LOTA",
    "name": "Delota Corp.",
    "exchange": "TSXV",
@@ -6202,6 +6218,18 @@
     {
      "name": "Evergreen Gaming Corporation",
      "symbol": "TNA"
+    }
+   ]
+  },
+  {
+   "symbol": "EPF",
+   "name": "Everyday People Financial Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EPF.V",
+   "instruments": [
+    {
+     "name": "Everyday People Financial Corp.",
+     "symbol": "EPF"
     }
    ]
   },
@@ -7722,18 +7750,6 @@
    ]
   },
   {
-   "symbol": "GOE",
-   "name": "Goldeneye Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GOE.V",
-   "instruments": [
-    {
-     "name": "Goldeneye Resources Corp.",
-     "symbol": "GOE"
-    }
-   ]
-  },
-  {
    "symbol": "GDX",
    "name": "Goldex Resources Corporation",
    "exchange": "TSXV",
@@ -8570,22 +8586,6 @@
     {
      "name": "Harvest Gold Corp.",
      "symbol": "HVG"
-    }
-   ]
-  },
-  {
-   "symbol": "HVT",
-   "name": "Harvest One Cannabis Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HVT.V",
-   "instruments": [
-    {
-     "name": "Harvest One Cannabis Inc.",
-     "symbol": "HVT"
-    },
-    {
-     "name": "Harvest One Cannabis Inc. wt. 17Mar2024",
-     "symbol": "HVT.WT"
     }
    ]
   },
@@ -9926,18 +9926,6 @@
     {
      "name": "Just Kitchen Holdings  Corp.",
      "symbol": "JK"
-    }
-   ]
-  },
-  {
-   "symbol": "JST.P",
-   "name": "Justify Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JST.P.V",
-   "instruments": [
-    {
-     "name": "Justify Capital Corp",
-     "symbol": "JST.P"
     }
    ]
   },
@@ -15158,10 +15146,6 @@
     {
      "name": "Quipt Home Medical Corp.",
      "symbol": "QIPT"
-    },
-    {
-     "name": "Quipt Home Medical Corp. db 07Mar2024",
-     "symbol": "QIPT.DB.A"
     }
    ]
   },
@@ -17462,18 +17446,6 @@
     {
      "name": "Spot Coffee (Canada) Ltd.",
      "symbol": "SPP"
-    }
-   ]
-  },
-  {
-   "symbol": "SHL",
-   "name": "Spruce Ridge Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SHL.V",
-   "instruments": [
-    {
-     "name": "Spruce Ridge Resources Ltd. ",
-     "symbol": "SHL"
     }
    ]
   },
@@ -46732,12 +46704,6 @@
    "yahoo_symbol": "ALLT"
   },
   {
-   "symbol": "ALNA",
-   "name": "Allena Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALNA"
-  },
-  {
    "symbol": "ALNY",
    "name": "Alnylam Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -47134,10 +47100,22 @@
    "yahoo_symbol": "AMYT"
   },
   {
+   "symbol": "AMZD",
+   "name": "Direxion Daily AMZN Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMZD"
+  },
+  {
    "symbol": "AMZN",
    "name": "Amazon.com, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AMZN"
+  },
+  {
+   "symbol": "AMZU",
+   "name": "Direxion Daily AMZN Bull 1.5X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMZU"
   },
   {
    "symbol": "ANAB",
@@ -48782,12 +48760,6 @@
    "name": "VanEck Biotech ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BBH"
-  },
-  {
-   "symbol": "BBI",
-   "name": "Brickell Biotech, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BBI"
   },
   {
    "symbol": "BBIG",
@@ -52508,6 +52480,12 @@
    "name": "Cogent Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "COGT"
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COHR"
   },
   {
    "symbol": "COHU",
@@ -57298,6 +57276,12 @@
    "yahoo_symbol": "FRSX"
   },
   {
+   "symbol": "FRTX",
+   "name": "Fresh Track Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRTX"
+  },
+  {
    "symbol": "FRW",
    "name": "PWP Forward Acquisition Corp. I - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -58340,6 +58324,18 @@
    "name": "Green Giant Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GGE"
+  },
+  {
+   "symbol": "GGLL",
+   "name": "Direxion Daily GOOGL Bull 1.5X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GGLL"
+  },
+  {
+   "symbol": "GGLS",
+   "name": "Direxion Daily GOOGL Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GGLS"
   },
   {
    "symbol": "GGMC",
@@ -61144,14 +61140,8 @@
    "yahoo_symbol": "IINNW"
   },
   {
-   "symbol": "IIVI",
-   "name": "II-VI Incorporated - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IIVI"
-  },
-  {
    "symbol": "IIVIP",
-   "name": "II-VI Incorporated - 6.00% Series A Mandatory Convertible Preferred Stock",
+   "name": "Coherent Corp. - 6.00% Series A Mandatory Convertible Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IIVIP"
   },
@@ -66070,10 +66060,22 @@
    "yahoo_symbol": "MSEX"
   },
   {
+   "symbol": "MSFD",
+   "name": "Direxion Daily MSFT Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSFD"
+  },
+  {
    "symbol": "MSFT",
    "name": "Microsoft Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MSFT"
+  },
+  {
+   "symbol": "MSFU",
+   "name": "Direxion Daily MSFT Bull 1.5X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSFU"
   },
   {
    "symbol": "MSGM",
@@ -66476,12 +66478,6 @@
    "name": "Navient Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "NAVI"
-  },
-  {
-   "symbol": "NBEV",
-   "name": "NewAge, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NBEV"
   },
   {
    "symbol": "NBIX",
@@ -70652,12 +70648,6 @@
    "name": "Perella Weinberg Partners - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PWP"
-  },
-  {
-   "symbol": "PWPPW",
-   "name": "Perella Weinberg Partners - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PWPPW"
   },
   {
    "symbol": "PWUP",
@@ -75908,6 +75898,12 @@
    "name": "Alpha Teknova, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TKNO"
+  },
+  {
+   "symbol": "TLF",
+   "name": "Tandy Leather Factory, Inc. - common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLF"
   },
   {
    "symbol": "TLGY",
