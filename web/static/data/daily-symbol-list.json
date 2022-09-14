@@ -1,5 +1,5 @@
 {
- "date": "2022-09-13",
+ "date": "2022-09-14",
  "data": [
   {
    "symbol": "ONE",
@@ -40342,6 +40342,18 @@
    ]
   },
   {
+   "symbol": "MNY",
+   "name": "Purpose Cash Management Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MNY.TO",
+   "instruments": [
+    {
+     "name": "Purpose Cash Mgt Un",
+     "symbol": "MNY"
+    }
+   ]
+  },
+  {
    "symbol": "PRP",
    "name": "Purpose Conservative Income Fund",
    "exchange": "TSX",
@@ -45727,7 +45739,7 @@
   },
   {
    "symbol": "ACWI",
-   "name": "iShares MSCI ACWI Index Fund",
+   "name": "iShares MSCI ACWI ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ACWI"
   },
@@ -58579,7 +58591,7 @@
   },
   {
    "symbol": "GLDI",
-   "name": "Credit Suisse Gold Shares Covered Call Exchange Traded Notes",
+   "name": "Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GLDI"
   },
@@ -60114,12 +60126,6 @@
    "yahoo_symbol": "HMST"
   },
   {
-   "symbol": "HMTV",
-   "name": "Hemisphere Media Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HMTV"
-  },
-  {
    "symbol": "HNDL",
    "name": "Strategy Shares Nasdaq 7HANDL Index ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -61003,7 +61009,7 @@
   },
   {
    "symbol": "IFGL",
-   "name": "iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund",
+   "name": "iShares International Developed Real Estate ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IFGL"
   },
@@ -61477,7 +61483,7 @@
   },
   {
    "symbol": "INDY",
-   "name": "iShares S\u0026P India Nifty 50 Index Fund",
+   "name": "iShares India 50 ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "INDY"
   },
@@ -73747,7 +73753,7 @@
   },
   {
    "symbol": "SLVO",
-   "name": "Credit Suisse Silver Shares Covered Call Exchange Traded Notes",
+   "name": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SLVO"
   },
@@ -78169,7 +78175,7 @@
   },
   {
    "symbol": "VTIP",
-   "name": "Vanguard Short-Term Inflation-Protected Securities Index Fund",
+   "name": "Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VTIP"
   },
@@ -78690,6 +78696,18 @@
    "yahoo_symbol": "WLDN"
   },
   {
+   "symbol": "WLDS",
+   "name": "Wearable Devices Ltd. - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WLDS"
+  },
+  {
+   "symbol": "WLDSW",
+   "name": "Wearable Devices Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WLDSW"
+  },
+  {
    "symbol": "WLFC",
    "name": "Willis Lease Finance Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -78727,7 +78745,7 @@
   },
   {
    "symbol": "WOOD",
-   "name": "iShares S\u0026P Global Timber \u0026 Forestry Index Fund",
+   "name": "iShares Global Timber \u0026 Forestry ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WOOD"
   },
@@ -89656,12 +89674,6 @@
    "name": "Graphic Packaging Holding Company",
    "exchange": "NYSE",
    "yahoo_symbol": "GPK"
-  },
-  {
-   "symbol": "GPL",
-   "name": "Great Panther Mining Limited Ordinary Shares (Canada)",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GPL"
   },
   {
    "symbol": "GPMT",

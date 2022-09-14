@@ -3110,6 +3110,7 @@ PBI,Purpose Best Ideas Fund,TSX,PBI.TO,Purpose Best Ideas,PBI,Purpose Best NnCur
 BTCC,Purpose Bitcoin ETF,TSX,BTCC.TO,Purpose BitcnCA CrHg,BTCC,Purpose BitcnCA NCHg,BTCC.B,PurposeBitcnCA CrbHg,BTCC.J,Purpose BitcnUS NCHg,BTCC.U
 BTCY,Purpose Bitcoin Yield ETF,TSX,BTCY.TO,Purpose Btcn Yld Un,BTCY,Purpose BtcnYldNC HG,BTCY.B,PurposeBtcnYldNCH US,BTCY.U
 BNC,Purpose Canadian Financial Income Fund,TSX,BNC.TO,Purpose Cdn Fin Incm,BNC
+MNY,Purpose Cash Management Fund,TSX,MNY.TO,Purpose Cash Mgt Un,MNY
 PRP,Purpose Conservative Income Fund,TSX,PRP.TO,Purpose Conserv Incm,PRP
 PDF,Purpose Core Dividend Fund,TSX,PDF.TO,Purpose Core Div Fnd,PDF
 CROP,Purpose Credit Opportunities Fund,TSX,CROP.TO,Purpose CreditOpp Un,CROP
@@ -3552,7 +3553,7 @@ ACST,"Acasti Pharma, Inc.  - Class A Common Stock",NASDAQ Capital Market,ACST
 ACT,"Enact Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ACT
 ACTG,Acacia Research Corporation - Common Stock,NASDAQ Global Select MarketSM,ACTG
 ACVA,ACV Auctions Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,ACVA
-ACWI,iShares MSCI ACWI Index Fund,NASDAQ Global MarketSM,ACWI
+ACWI,iShares MSCI ACWI ETF,NASDAQ Global MarketSM,ACWI
 ACWX,iShares MSCI ACWI ex US Index Fund,NASDAQ Global MarketSM,ACWX
 ACXP,"Acurx Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,ACXP
 ADAG,"Adagene Inc. - ADS, each representing 1.25 ordinary shares",NASDAQ Global MarketSM,ADAG
@@ -5694,7 +5695,7 @@ GLBLW,Cartesian Growth Corporation - Warrant,NASDAQ Capital Market,GLBLW
 GLBS,Globus Maritime Limited - Common Stock,NASDAQ Capital Market,GLBS
 GLBZ,Glen Burnie Bancorp - Common Stock,NASDAQ Capital Market,GLBZ
 GLDD,Great Lakes Dredge & Dock Corporation - Common Stock,NASDAQ Global Select MarketSM,GLDD
-GLDI,Credit Suisse Gold Shares Covered Call Exchange Traded Notes,NASDAQ Global MarketSM,GLDI
+GLDI,"Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",NASDAQ Global MarketSM,GLDI
 GLEE,Gladstone Acquisition Corp. - Common Stock,NASDAQ Capital Market,GLEE
 GLEEU,Gladstone Acquisition Corp. - Unit,NASDAQ Capital Market,GLEEU
 GLEEW,Gladstone Acquisition Corp. - Warrant,NASDAQ Capital Market,GLEEW
@@ -5950,7 +5951,6 @@ HMCOW,HumanCo Acquisition Corp. - Warrant,NASDAQ Capital Market,HMCOW
 HMNF,"HMN Financial, Inc. - Common Stock",NASDAQ Global MarketSM,HMNF
 HMPT,Home Point Capital Inc. - Common Stock,NASDAQ Global Select MarketSM,HMPT
 HMST,"HomeStreet, Inc. - Common Stock",NASDAQ Global Select MarketSM,HMST
-HMTV,"Hemisphere Media Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,HMTV
 HNDL,Strategy Shares Nasdaq 7HANDL Index ETF,NASDAQ Global MarketSM,HNDL
 HNNA,"Hennessy Advisors, Inc. - Common Stock",NASDAQ Global MarketSM,HNNA
 HNNAZ,"Hennessy Advisors, Inc. - 4.875% Notes due 2026",NASDAQ Global MarketSM,HNNAZ
@@ -6098,7 +6098,7 @@ IEP,Icahn Enterprises L.P. - Depositary units,NASDAQ Global Select MarketSM,IEP
 IESC,"IES Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,IESC
 IEUS,iShares MSCI Europe Small-Cap ETF,NASDAQ Global MarketSM,IEUS
 IFBD,"Infobird Co., Ltd - Ordinary Shares",NASDAQ Capital Market,IFBD
-IFGL,iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund,NASDAQ Global MarketSM,IFGL
+IFGL,iShares International Developed Real Estate ETF,NASDAQ Global MarketSM,IFGL
 IFRX,InflaRx N.V. - Common Stock,NASDAQ Global Select MarketSM,IFRX
 IFV,First Trust Dorsey Wright International Focus 5 ETF,NASDAQ Global MarketSM,IFV
 IGAC,IG Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,IGAC
@@ -6177,7 +6177,7 @@ INDI,"indie Semiconductor, Inc. - Class A Common Stock",NASDAQ Capital Market,IN
 INDIW,"indie Semiconductor, Inc. - Warrant",NASDAQ Capital Market,INDIW
 INDP,"Indaptus Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,INDP
 INDT,"INDUS Realty Trust, Inc. - Common Stock",NASDAQ Global MarketSM,INDT
-INDY,iShares S&P India Nifty 50 Index Fund,NASDAQ Global MarketSM,INDY
+INDY,iShares India 50 ETF,NASDAQ Global MarketSM,INDY
 INFI,"Infinity Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,INFI
 INFN,Infinera Corporation - Common Stock,NASDAQ Global Select MarketSM,INFN
 INGN,"Inogen, Inc - Common Stock",NASDAQ Global Select MarketSM,INGN
@@ -8222,7 +8222,7 @@ SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,NASDAQ Global MarketSM
 SLRC,SLR Investment Corp. - Common Stock,NASDAQ Global Select MarketSM,SLRC
 SLRX,"Salarius Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,SLRX
 SLS,"SELLAS Life Sciences Group, Inc.  - Common Stock",NASDAQ Capital Market,SLS
-SLVO,Credit Suisse Silver Shares Covered Call Exchange Traded Notes,NASDAQ Global MarketSM,SLVO
+SLVO,"Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",NASDAQ Global MarketSM,SLVO
 SLVR,SilverSPAC Inc. - Class A Ordinary Share,NASDAQ Capital Market,SLVR
 SLVRU,SilverSPAC Inc. - Unit,NASDAQ Capital Market,SLVRU
 SLVRW,SilverSPAC Inc. - Warrant,NASDAQ Capital Market,SLVRW
@@ -8959,7 +8959,7 @@ VTAQW,Ventoux CCM Acquisition Corp. - Warrant,NASDAQ Capital Market,VTAQW
 VTC,Vanguard Total Corporate Bond ETF,NASDAQ Global MarketSM,VTC
 VTGN,"VistaGen Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,VTGN
 VTHR,Vanguard Russell 3000 ETF,NASDAQ Global MarketSM,VTHR
-VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,NASDAQ Global MarketSM,VTIP
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares,NASDAQ Global MarketSM,VTIP
 VTIQ,VectoIQ Acquisition Corp. II - Class A Common Stock,NASDAQ Capital Market,VTIQ
 VTIQU,VectoIQ Acquisition Corp. II - Unit,NASDAQ Capital Market,VTIQU
 VTIQW,VectoIQ Acquisition Corp. II - Warrant,NASDAQ Capital Market,VTIQW
@@ -9046,13 +9046,15 @@ WKME,WalkMe Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,WKME
 WKSP,"Worksport, Ltd. - Common Stock",NASDAQ Capital Market,WKSP
 WKSPW,"Worksport, Ltd. - Warrant",NASDAQ Capital Market,WKSPW
 WLDN,"Willdan Group, Inc. - Common Stock",NASDAQ Global MarketSM,WLDN
+WLDS,Wearable Devices Ltd. - Ordinary Share,NASDAQ Capital Market,WLDS
+WLDSW,Wearable Devices Ltd. - Warrant,NASDAQ Capital Market,WLDSW
 WLFC,Willis Lease Finance Corporation - Common Stock,NASDAQ Global MarketSM,WLFC
 WMG,Warner Music Group Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,WMG
 WMPN,William Penn Bancorporation - Common Stock,NASDAQ Capital Market,WMPN
 WNDY,Global X Wind Energy ETF,NASDAQ Global MarketSM,WNDY
 WNEB,"Western New England Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,WNEB
 WNW,Meiwu Technology Company Limited - Ordinary Shares,NASDAQ Capital Market,WNW
-WOOD,iShares S&P Global Timber & Forestry Index Fund,NASDAQ Global MarketSM,WOOD
+WOOD,iShares Global Timber & Forestry ETF,NASDAQ Global MarketSM,WOOD
 WOOF,"Petco Health and Wellness Company, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,WOOF
 WORX,SCWorx Corp. - Common Stock,NASDAQ Capital Market,WORX
 WPRT,Westport Fuel Systems Inc - Common Shares,NASDAQ Global Select MarketSM,WPRT
@@ -10874,7 +10876,6 @@ GPC,Genuine Parts Company Common Stock,NYSE,GPC
 GPI,"Group 1 Automotive, Inc. Common Stock",NYSE,GPI
 GPJA,"Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077",NYSE,GPJA
 GPK,Graphic Packaging Holding Company,NYSE,GPK
-GPL,Great Panther Mining Limited Ordinary Shares (Canada),NYSE MKT,GPL
 GPMT,Granite Point Mortgage Trust Inc. Common Stock,NYSE,GPMT
 GPMT$A,Granite Point Mortgage Trust Inc. 7.00% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,GPMT$A
 GPN,Global Payments Inc. Common Stock,NYSE,GPN
