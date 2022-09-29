@@ -1,5 +1,5 @@
 {
- "date": "2022-09-28",
+ "date": "2022-09-29",
  "data": [
   {
    "symbol": "ONE",
@@ -4474,6 +4474,18 @@
     {
      "name": "Cranstown Capital Corp.",
      "symbol": "CRAN.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CEQ",
+   "name": "Criterium Energy Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CEQ.V",
+   "instruments": [
+    {
+     "name": "Criterium Energy Ltd.",
+     "symbol": "CEQ"
     }
    ]
   },
@@ -17050,18 +17062,6 @@
    ]
   },
   {
-   "symbol": "SFT",
-   "name": "Softrock Minerals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SFT.V",
-   "instruments": [
-    {
-     "name": "Softrock Minerals Ltd",
-     "symbol": "SFT"
-    }
-   ]
-  },
-  {
    "symbol": "SIC",
    "name": "Sokoman Minerals Corp.",
    "exchange": "TSXV",
@@ -21748,7 +21748,7 @@
    "yahoo_symbol": "ARIS.TO",
    "instruments": [
     {
-     "name": "Aris Gold Corp J",
+     "name": "Aris Mng Corp.",
      "symbol": "ARIS"
     },
     {
@@ -33758,15 +33758,11 @@
    ]
   },
   {
-   "symbol": "IBG",
+   "symbol": "IBG.DB.E",
    "name": "IBI Group Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "IBG.TO",
+   "yahoo_symbol": "IBG.DB.E.TO",
    "instruments": [
-    {
-     "name": "IBI Group Inc.",
-     "symbol": "IBG"
-    },
     {
      "name": "IBI Group 6.50% Deb",
      "symbol": "IBG.DB.E"
@@ -46876,6 +46872,12 @@
    "yahoo_symbol": "ALPP"
   },
   {
+   "symbol": "ALPS",
+   "name": "Alpine Summit Energy Partners, Inc. - Class A Subordinate Voting Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALPS"
+  },
+  {
    "symbol": "ALR",
    "name": "AlerisLife Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
@@ -48060,7 +48062,7 @@
   {
    "symbol": "ASLN",
    "name": "ASLAN Pharmaceuticals Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ASLN"
   },
   {
@@ -66976,24 +66978,6 @@
    "yahoo_symbol": "NKTX"
   },
   {
-   "symbol": "NLIT",
-   "name": "Northern Lights Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NLIT"
-  },
-  {
-   "symbol": "NLITU",
-   "name": "Northern Lights Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NLITU"
-  },
-  {
-   "symbol": "NLITW",
-   "name": "Northern Lights Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NLITW"
-  },
-  {
    "symbol": "NLOK",
    "name": "NortonLifeLock Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73414,6 +73398,18 @@
    "yahoo_symbol": "SHEN"
   },
   {
+   "symbol": "SHFS",
+   "name": "SHF Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHFS"
+  },
+  {
+   "symbol": "SHFSW",
+   "name": "SHF Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHFSW"
+  },
+  {
    "symbol": "SHIP",
    "name": "Seanergy Maritime Holdings Corp - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -73730,24 +73726,6 @@
    "name": "Slam Corp. - warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SLAMW"
-  },
-  {
-   "symbol": "SLCR",
-   "name": "Silver Crest Acquisition Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLCR"
-  },
-  {
-   "symbol": "SLCRU",
-   "name": "Silver Crest Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLCRU"
-  },
-  {
-   "symbol": "SLCRW",
-   "name": "Silver Crest Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLCRW"
   },
   {
    "symbol": "SLDB",
@@ -92806,6 +92784,12 @@
    "yahoo_symbol": "LGL"
   },
   {
+   "symbol": "LGL.V",
+   "name": "LGL Group, Inc. (The) Common Stock Ex-Distribution When Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGL.V"
+  },
+  {
    "symbol": "LGL.W",
    "name": "LGL Group, Inc. (The) Warrants",
    "exchange": "NYSE MKT",
@@ -94094,6 +94078,12 @@
    "name": "MPLX LP Common Units Representing Limited Partner Interests",
    "exchange": "NYSE",
    "yahoo_symbol": "MPLX"
+  },
+  {
+   "symbol": "MPTI.V",
+   "name": "M-tron Industries, Inc. Common Stock When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MPTI.V"
   },
   {
    "symbol": "MPV",

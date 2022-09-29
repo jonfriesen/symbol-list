@@ -368,6 +368,7 @@ CRTS,Cortus Metals Inc.,TSXV,CRTS.V,Cortus Metals Inc.,CRTS
 CTH,CoTec Holdings Corp.,TSXV,CTH.V,CoTec Holdings Corp.,CTH
 COV,Covalon Technologies Ltd.,TSXV,COV.V,Covalon Technologies Ltd.,COV
 CRAN.P,Cranstown Capital Corp,TSXV,CRAN.P.V,Cranstown Capital Corp.,CRAN.P
+CEQ,Criterium Energy Ltd.,TSXV,CEQ.V,Criterium Energy Ltd.,CEQ
 CRE,Critical Elements Lithium Corporation,TSXV,CRE.V,Critical Elements Lithium Corporation,CRE
 CRSS.P,Crossover Acquisitions Inc.,TSXV,CRSS.P.V,Crossover Acquisitions Inc.,CRSS.P
 CWV,Crown Point Energy Inc.,TSXV,CWV.V,Crown Point Energy Inc.,CWV
@@ -1394,7 +1395,6 @@ SMAR.P,Smartset Services Inc.,TSXV,SMAR.P.V,Smartset Services Inc.,SMAR.P
 SMTH.P,Smithe Resources Corp.,TSXV,SMTH.P.V,Smithe Resources Corp.,SMTH.P
 SMRV,Smooth Rock Ventures Corp.,TSXV,SMRV.V,Smooth Rock Ventures Corp.,SMRV
 SPN,Snipp Interactive Inc.,TSXV,SPN.V,Snipp Interactive Inc.,SPN
-SFT,Softrock Minerals Ltd.,TSXV,SFT.V,Softrock Minerals Ltd,SFT
 SIC,Sokoman Minerals Corp.,TSXV,SIC.V,Sokoman Minerals Corp.,SIC
 SOLR,Solar Alliance Energy Inc.,TSXV,SOLR.V,Solar Alliance Energy Inc.,SOLR
 SVS,Solarvest BioEnergy Inc.,TSXV,SVS.V,Solarvest BioEnergy Inc,SVS
@@ -1766,7 +1766,7 @@ APLI,Appili Therapeutics Inc.,TSX,APLI.TO,Appili Therapeutcs J,APLI
 APS,Aptose Biosciences Inc.,TSX,APS.TO,Aptose Biosciences,APS
 ARX,ARC Resources Ltd.,TSX,ARX.TO,ARC Resources Ltd.,ARX
 AR,Argonaut Gold Inc.,TSX,AR.TO,Argonaut Gold Inc. J,AR,Argonaut Gld J Db US,AR.DB.U
-ARIS,Aris Mining Corporation,TSX,ARIS.TO,Aris Gold Corp J,ARIS,Aris Mng Corp A Wt,ARIS.WT.A,Aris Mng Corp B Wt,ARIS.WT.B
+ARIS,Aris Mining Corporation,TSX,ARIS.TO,Aris Mng Corp.,ARIS,Aris Mng Corp A Wt,ARIS.WT.A,Aris Mng Corp B Wt,ARIS.WT.B
 ATZ,Aritzia Inc.,TSX,ATZ.TO,Aritzia Inc. SV,ATZ
 ASCU,Arizona Sonoran Copper Company Inc.,TSX,ASCU.TO,Arizona Sonoran J,ASCU
 RATE,Arrow EC Income Advantage Alternative Fund,TSX,RATE.TO,Arrow EC IncmAdvanUn,RATE
@@ -2618,7 +2618,7 @@ ILGB,IA Clarington Loomis Global Multisector Bond Fund,TSX,ILGB.TO,IA ClaringtLo
 ISIF,IA Clarington Strategic Income Fund,TSX,ISIF.TO,IA ClaringtnStrtegic,ISIF
 IAG,iA Financial Corporation Inc.,TSX,IAG.TO,iA Financial Corp.,IAG
 IMG,IAMGOLD Corporation,TSX,IMG.TO,Iamgold Corporation,IMG
-IBG,IBI Group Inc.,TSX,IBG.TO,IBI Group Inc.,IBG,IBI Group 6.50% Deb,IBG.DB.E
+IBG.DB.E,IBI Group Inc.,TSX,IBG.DB.E.TO,IBI Group 6.50% Deb,IBG.DB.E
 IFA,iFabric Corp.,TSX,IFA.TO,iFabric Corp. J,IFA
 IGM,IGM Financial Inc.,TSX,IGM.TO,IGM Financial Inc.,IGM
 III,Imperial Metals Corporation,TSX,III.TO,Imperial Metals Corp,III
@@ -3736,6 +3736,7 @@ ALPAU,Alpha Healthcare Acquisition Corp. III - Units,NASDAQ Capital Market,ALPAU
 ALPAW,Alpha Healthcare Acquisition Corp. III - Warrant,NASDAQ Capital Market,ALPAW
 ALPN,"Alpine Immune Sciences, Inc. - Common Stock",NASDAQ Global MarketSM,ALPN
 ALPP,"Alpine 4 Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market,ALPP
+ALPS,"Alpine Summit Energy Partners, Inc. - Class A Subordinate Voting Shares",NASDAQ Global MarketSM,ALPS
 ALR,AlerisLife Inc. - Common Shares,NASDAQ Capital Market,ALR
 ALRM,"Alarm.com Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALRM
 ALRN,"Aileron Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,ALRN
@@ -3933,7 +3934,7 @@ ASCBU,A SPAC II Acquisition Corp. - Unit,NASDAQ Global MarketSM,ASCBU
 ASCBW,A SPAC II Acquisition Corp. - Warrant,NASDAQ Global MarketSM,ASCBW
 ASET,FlexShares Real Assets Allocation Index Fund,NASDAQ Global MarketSM,ASET
 ASLE,AerSale Corporation - Common Stock,NASDAQ Capital Market,ASLE
-ASLN,ASLAN Pharmaceuticals Limited - American Depositary Shares,NASDAQ Global MarketSM,ASLN
+ASLN,ASLAN Pharmaceuticals Limited - American Depositary Shares,NASDAQ Capital Market,ASLN
 ASMB,"Assembly Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,ASMB
 ASML,ASML Holding N.V. - New York Registry Shares,NASDAQ Global Select MarketSM,ASML
 ASND,Ascendis Pharma A/S - American Depositary Shares,NASDAQ Global Select MarketSM,ASND
@@ -7086,9 +7087,6 @@ NKLA,Nikola Corporation - Common Stock,NASDAQ Global Select MarketSM,NKLA
 NKSH,"National Bankshares, Inc. - Common Stock",NASDAQ Capital Market,NKSH
 NKTR,Nektar Therapeutics - Common Stock,NASDAQ Global Select MarketSM,NKTR
 NKTX,"Nkarta, Inc. - Common Stock",NASDAQ Global Select MarketSM,NKTX
-NLIT,Northern Lights Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,NLIT
-NLITU,Northern Lights Acquisition Corp. - Units,NASDAQ Capital Market,NLITU
-NLITW,Northern Lights Acquisition Corp. - Warrants,NASDAQ Capital Market,NLITW
 NLOK,NortonLifeLock Inc. - Common Stock,NASDAQ Global Select MarketSM,NLOK
 NLSP,NLS Pharmaceutics Ltd. - Common Shares,NASDAQ Capital Market,NLSP
 NLSPW,NLS Pharmaceutics Ltd. - Warrant,NASDAQ Capital Market,NLSPW
@@ -8159,6 +8157,8 @@ SHCAW,Spindletop Health Acquisition Corp. - Warrant,NASDAQ Global MarketSM,SHCAW
 SHCR,"Sharecare, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SHCR
 SHCRW,"Sharecare, Inc. - Warrant",NASDAQ Global Select MarketSM,SHCRW
 SHEN,Shenandoah Telecommunications Co - Common Stock,NASDAQ Global Select MarketSM,SHEN
+SHFS,"SHF Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market,SHFS
+SHFSW,"SHF Holdings, Inc. - Warrants",NASDAQ Capital Market,SHFSW
 SHIP,Seanergy Maritime Holdings Corp - Common Stock,NASDAQ Capital Market,SHIP
 SHLS,"Shoals Technologies Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SHLS
 SHOO,"Steven Madden, Ltd. - Common Stock",NASDAQ Global Select MarketSM,SHOO
@@ -8212,9 +8212,6 @@ SLAB,"Silicon Laboratories, Inc. - Common Stock",NASDAQ Global Select MarketSM,S
 SLAM,Slam Corp. - Class A Ordinary Share,NASDAQ Capital Market,SLAM
 SLAMU,Slam Corp. - Unit,NASDAQ Capital Market,SLAMU
 SLAMW,Slam Corp. - warrant,NASDAQ Capital Market,SLAMW
-SLCR,Silver Crest Acquisition Corporation - Class A Ordinary Share,NASDAQ Capital Market,SLCR
-SLCRU,Silver Crest Acquisition Corporation - Unit,NASDAQ Capital Market,SLCRU
-SLCRW,Silver Crest Acquisition Corporation - Warrant,NASDAQ Capital Market,SLCRW
 SLDB,Solid Biosciences Inc. - Common Stock,NASDAQ Global Select MarketSM,SLDB
 SLDP,"Solid Power, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SLDP
 SLDPW,"Solid Power, Inc. - Warrant",NASDAQ Global Select MarketSM,SLDPW
@@ -11391,6 +11388,7 @@ LGF.A,Lions Gate Entertainment Corporation Class A Voting Shares,NYSE,LGF.A
 LGF.B,Lions Gate Entertainment Corporation Class B Non-Voting Shares,NYSE,LGF.B
 LGI,Lazard Global Total Return and Income Fund Common Stock,NYSE,LGI
 LGL,"LGL Group, Inc. (The) Common Stock",NYSE MKT,LGL
+LGL.V,"LGL Group, Inc. (The) Common Stock Ex-Distribution When Issued",NYSE MKT,LGL.V
 LGL.W,"LGL Group, Inc. (The) Warrants",NYSE MKT,LGL.W
 LGV,Longview Acquisition Corp. II Class A Common Stock,NYSE,LGV
 LGV.U,"Longview Acquisition Corp. II Units, each consisting of one share of Class A Common Stock and one-fifth of one redeemable Warrant",NYSE,LGV.U
@@ -11606,6 +11604,7 @@ MPC,Marathon Petroleum Corporation Common Stock,NYSE,MPC
 MPLN,MultiPlan Corporation Class A Common Stock,NYSE,MPLN
 MPLN.W,MultiPlan Corporation Warrants,NYSE,MPLN.W
 MPLX,MPLX LP Common Units Representing Limited Partner Interests,NYSE,MPLX
+MPTI.V,"M-tron Industries, Inc. Common Stock When-Issued",NYSE MKT,MPTI.V
 MPV,Barings Participation Investors Common Stock,NYSE,MPV
 MPW,"Medical Properties Trust, Inc. common stock",NYSE,MPW
 MPX,Marine Products Corporation Common Stock,NYSE,MPX
