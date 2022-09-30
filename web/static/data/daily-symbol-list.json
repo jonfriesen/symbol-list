@@ -1,5 +1,5 @@
 {
- "date": "2022-09-29",
+ "date": "2022-09-30",
  "data": [
   {
    "symbol": "ONE",
@@ -20107,12 +20107,12 @@
   },
   {
    "symbol": "WEB",
-   "name": "Westbridge Energy Corporation",
+   "name": "Westbridge Renewable Energy Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "WEB.V",
    "instruments": [
     {
-     "name": "Westbridge Energy Corporation",
+     "name": "Westbridge Renewable Energy Corp.",
      "symbol": "WEB"
     }
    ]
@@ -45254,18 +45254,6 @@
    ]
   },
   {
-   "symbol": "XBC",
-   "name": "Xebec Adsorption Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "XBC.TO",
-   "instruments": [
-    {
-     "name": "Xebec Adsorption Inc",
-     "symbol": "XBC"
-    }
-   ]
-  },
-  {
    "symbol": "XTG",
    "name": "Xtra-Gold Resources Corp.",
    "exchange": "TSX",
@@ -48586,12 +48574,6 @@
    "name": "Broadcom Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AVGO"
-  },
-  {
-   "symbol": "AVGOP",
-   "name": "Broadcom Inc. - 8.00% Mandatory Convertible Preferred Stock, Series A",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AVGOP"
   },
   {
    "symbol": "AVGR",
@@ -65628,12 +65610,6 @@
    "yahoo_symbol": "MKTW"
   },
   {
-   "symbol": "MKTWW",
-   "name": "MarketWise, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MKTWW"
-  },
-  {
    "symbol": "MKTX",
    "name": "MarketAxess Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -75864,6 +75840,18 @@
    "yahoo_symbol": "THCAW"
   },
   {
+   "symbol": "THCH",
+   "name": "TH International Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "THCH"
+  },
+  {
+   "symbol": "THCHW",
+   "name": "TH International Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "THCHW"
+  },
+  {
    "symbol": "THCP",
    "name": "Thunder Bridge Capital Partners IV, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -79396,12 +79384,6 @@
    "name": "Ziff Davis, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ZD"
-  },
-  {
-   "symbol": "ZEAL",
-   "name": "Zealand Pharma A/S - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ZEAL"
   },
   {
    "symbol": "ZENV",
@@ -86194,6 +86176,12 @@
    "name": "dMY Technology Group, Inc. VI Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
    "exchange": "NYSE",
    "yahoo_symbol": "DMYS.W"
+  },
+  {
+   "symbol": "DMYY.U",
+   "name": "dMY Squared Technology Group, Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DMYY.U"
   },
   {
    "symbol": "DNA",
@@ -94705,7 +94693,7 @@
   },
   {
    "symbol": "NE",
-   "name": "Noble Corporation plc Ordinary Shares",
+   "name": "Noble Corporation plc A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "NE"
   },
