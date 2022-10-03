@@ -1,5 +1,5 @@
 {
- "date": "2022-09-30",
+ "date": "2022-10-03",
  "data": [
   {
    "symbol": "ONE",
@@ -882,18 +882,6 @@
     {
      "name": "American Lithium Corp. wt. 11May2024",
      "symbol": "LI.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "AMY",
-   "name": "American Manganese Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMY.V",
-   "instruments": [
-    {
-     "name": "American Manganese Inc",
-     "symbol": "AMY"
     }
    ]
   },
@@ -8458,10 +8446,6 @@
     {
      "name": "Hampton Financial Corporation",
      "symbol": "HFC"
-    },
-    {
-     "name": "Hampton Financial Corporation Preferred Shares A",
-     "symbol": "HFC.PR.A"
     }
    ]
   },
@@ -15438,6 +15422,18 @@
    ]
   },
   {
+   "symbol": "AMY",
+   "name": "Recylico Battery Materials Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMY.V",
+   "instruments": [
+    {
+     "name": "Recylico Battery Materials Inc.",
+     "symbol": "AMY"
+    }
+   ]
+  },
+  {
    "symbol": "RPX",
    "name": "Red Pine Exploration Inc.",
    "exchange": "TSXV",
@@ -21538,10 +21534,6 @@
     {
      "name": "AltaGas Ltd Sr H Pr",
      "symbol": "ALA.PR.H"
-    },
-    {
-     "name": "AltaGas Ltd C Pr USF",
-     "symbol": "ALA.PR.U"
     }
    ]
   },
@@ -21798,15 +21790,11 @@
    ]
   },
   {
-   "symbol": "AX.PR.A",
+   "symbol": "AX.PR.E",
    "name": "Artis Real Estate Investment Trust",
    "exchange": "TSX",
-   "yahoo_symbol": "AX.PR.A.TO",
+   "yahoo_symbol": "AX.PR.E.TO",
    "instruments": [
-    {
-     "name": "Artis REIT Ser A Pr",
-     "symbol": "AX.PR.A"
-    },
     {
      "name": "Artis REIT Ser E Pr",
      "symbol": "AX.PR.E"
@@ -22870,14 +22858,6 @@
     {
      "name": "Birchcliff Energy",
      "symbol": "BIR"
-    },
-    {
-     "name": "Birchcliff Engy Pr A",
-     "symbol": "BIR.PR.A"
-    },
-    {
-     "name": "Birchcliff Engy Pr C",
-     "symbol": "BIR.PR.C"
     }
    ]
   },
@@ -25978,10 +25958,6 @@
     {
      "name": "Capital Pwr Ser 5 Pr",
      "symbol": "CPX.PR.E"
-    },
-    {
-     "name": "Capital Pwr Ser 9 Pr",
-     "symbol": "CPX.PR.I"
     },
     {
      "name": "Capital Pwr Sr 11 Pr",
@@ -45486,12 +45462,6 @@
    "yahoo_symbol": "ABST"
   },
   {
-   "symbol": "ABTX",
-   "name": "Allegiance Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ABTX"
-  },
-  {
    "symbol": "ABUS",
    "name": "Arbutus Biopharma Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -45852,10 +45822,10 @@
    "yahoo_symbol": "ADBE"
   },
   {
-   "symbol": "ADEAV",
-   "name": "Xperi Holding Corporation - Common Stock Ex-distribution When Issued",
+   "symbol": "ADEA",
+   "name": "Adeia Inc.  - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ADEAV"
+   "yahoo_symbol": "ADEA"
   },
   {
    "symbol": "ADER",
@@ -51018,12 +50988,6 @@
    "yahoo_symbol": "CBSH"
   },
   {
-   "symbol": "CBTX",
-   "name": "CBTX, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CBTX"
-  },
-  {
    "symbol": "CCAI",
    "name": "Cascadia Acquisition Corp. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -53370,12 +53334,6 @@
    "yahoo_symbol": "CTXR"
   },
   {
-   "symbol": "CTXS",
-   "name": "Citrix Systems, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CTXS"
-  },
-  {
    "symbol": "CUBA",
    "name": "The Herzfeld Caribbean Basin Fund, Inc. - Closed End FUnd",
    "exchange": "NASDAQ Capital Market",
@@ -54148,6 +54106,12 @@
    "name": "DISH Network Corporation - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DISH"
+  },
+  {
+   "symbol": "DIVD",
+   "name": "Altrius Global Dividend ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DIVD"
   },
   {
    "symbol": "DJCO",
@@ -55230,10 +55194,28 @@
    "yahoo_symbol": "EMCF"
   },
   {
+   "symbol": "EMCG",
+   "name": "Embrace Change Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMCG"
+  },
+  {
+   "symbol": "EMCGR",
+   "name": "Embrace Change Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMCGR"
+  },
+  {
    "symbol": "EMCGU",
    "name": "Embrace Change Acquisition Corp - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "EMCGU"
+  },
+  {
+   "symbol": "EMCGW",
+   "name": "Embrace Change Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMCGW"
   },
   {
    "symbol": "EMIF",
@@ -63378,6 +63360,12 @@
    "yahoo_symbol": "LARK"
   },
   {
+   "symbol": "LASE",
+   "name": "Laser Photonics Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LASE"
+  },
+  {
    "symbol": "LASR",
    "name": "nLIGHT, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -64882,6 +64870,12 @@
    "name": "Matthews International Corporation - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MATW"
+  },
+  {
+   "symbol": "MAXI",
+   "name": "Simplify Bitcoin Strategy PLUS Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAXI"
   },
   {
    "symbol": "MAXN",
@@ -66988,24 +66982,6 @@
    "name": "NMI Holdings Inc - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NMIH"
-  },
-  {
-   "symbol": "NMMC",
-   "name": "North Mountain Merger Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NMMC"
-  },
-  {
-   "symbol": "NMMCU",
-   "name": "North Mountain Merger Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NMMCU"
-  },
-  {
-   "symbol": "NMMCW",
-   "name": "North Mountain Merger Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NMMCW"
   },
   {
    "symbol": "NMRD",
@@ -70968,6 +70944,12 @@
    "yahoo_symbol": "QNST"
   },
   {
+   "symbol": "QOMOU",
+   "name": "Qomolangma Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QOMOU"
+  },
+  {
    "symbol": "QQC",
    "name": "Simplify Nasdaq 100 PLUS Convexity ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -74772,6 +74754,12 @@
    "yahoo_symbol": "STCN"
   },
   {
+   "symbol": "STEL",
+   "name": "Stellar Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STEL"
+  },
+  {
    "symbol": "STEP",
    "name": "StepStone Group Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -75613,7 +75601,7 @@
   },
   {
    "symbol": "TEAM",
-   "name": "Atlassian Corporation Plc - Class A Ordinary Shares",
+   "name": "Atlassian Corporation  - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TEAM"
   },
@@ -79192,12 +79180,6 @@
    "name": "XPEL, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "XPEL"
-  },
-  {
-   "symbol": "XPER",
-   "name": "Xperi Holding Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "XPER"
   },
   {
    "symbol": "XPON",
@@ -84865,7 +84847,7 @@
   },
   {
    "symbol": "COE",
-   "name": "China Online Education Group American depositary shares, each representing 15 Class A ordinary shares",
+   "name": "51Talk Online Education Group American depositary shares, each representing 15 Class A ordinary shares",
    "exchange": "NYSE",
    "yahoo_symbol": "COE"
   },
@@ -86338,12 +86320,6 @@
    "name": "DRDGOLD Limited American Depositary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "DRD"
-  },
-  {
-   "symbol": "DRE",
-   "name": "Duke Realty Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DRE"
   },
   {
    "symbol": "DRH",
@@ -88436,7 +88412,7 @@
   {
    "symbol": "FOXO.W",
    "name": "FOXO Technologies Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "FOXO.W"
   },
   {
@@ -90258,12 +90234,6 @@
    "yahoo_symbol": "HIGA.U"
   },
   {
-   "symbol": "HIGA.W",
-   "name": "H.I.G. Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HIGA.W"
-  },
-  {
    "symbol": "HII",
    "name": "Huntington Ingalls Industries, Inc. Common Stock",
    "exchange": "NYSE",
@@ -90430,12 +90400,6 @@
    "name": "Harmony Gold Mining Company Limited",
    "exchange": "NYSE",
    "yahoo_symbol": "HMY"
-  },
-  {
-   "symbol": "HNGR",
-   "name": "Hanger, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HNGR"
   },
   {
    "symbol": "HNI",
@@ -100849,7 +100813,7 @@
   },
   {
    "symbol": "TFSA",
-   "name": "Terra Income Fund VI 7.00% Notes due 2026",
+   "name": "Terra Income Fund 6, LLC 7.00% Notes due 2026",
    "exchange": "NYSE",
    "yahoo_symbol": "TFSA"
   },
@@ -103446,10 +103410,10 @@
    "yahoo_symbol": "XOM"
   },
   {
-   "symbol": "XPER.V",
-   "name": "Xperi Inc. Common Stock When Issued",
+   "symbol": "XPER",
+   "name": "Xperi Inc. Common Stock ",
    "exchange": "NYSE",
-   "yahoo_symbol": "XPER.V"
+   "yahoo_symbol": "XPER"
   },
   {
    "symbol": "XPEV",
