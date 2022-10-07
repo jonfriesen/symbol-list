@@ -1,5 +1,5 @@
 {
- "date": "2022-10-06",
+ "date": "2022-10-07",
  "data": [
   {
    "symbol": "BTCQ",
@@ -8220,7 +8220,7 @@
    "yahoo_symbol": "ECOR.TO",
    "instruments": [
     {
-     "name": "Anglo Pacific Ord",
+     "name": "Ecora Resources Ord",
      "symbol": "ECOR"
     }
    ]
@@ -8298,10 +8298,6 @@
     {
      "name": "Else Nutrition J",
      "symbol": "BABY"
-    },
-    {
-     "name": "Else NutritionJ 20Wt",
-     "symbol": "BABY.WT"
     },
     {
      "name": "Else NutritionJ 21Wt",
@@ -29842,18 +29838,6 @@
     {
      "name": "E3 Lithium Ltd.",
      "symbol": "ETL"
-    }
-   ]
-  },
-  {
-   "symbol": "EGA",
-   "name": "Eagle Graphite Incorporated",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EGA.V",
-   "instruments": [
-    {
-     "name": "Eagle Graphite Incorporated",
-     "symbol": "EGA"
     }
    ]
   },
@@ -51740,7 +51724,7 @@
   {
    "symbol": "CIDM",
    "name": "Cinedigm Corp - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CIDM"
   },
   {
@@ -52148,7 +52132,7 @@
   {
    "symbol": "CLXT",
    "name": "Calyxt, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CLXT"
   },
   {
@@ -77432,7 +77416,7 @@
   {
    "symbol": "VEON",
    "name": "VEON Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VEON"
   },
   {
@@ -81600,24 +81584,6 @@
    "yahoo_symbol": "AVAL"
   },
   {
-   "symbol": "AVAN",
-   "name": "Avanti Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AVAN"
-  },
-  {
-   "symbol": "AVAN.U",
-   "name": "Avanti Acquisition Corp. Units, each consisting of one Class A ordinary share, and redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AVAN.U"
-  },
-  {
-   "symbol": "AVAN.W",
-   "name": "Avanti Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AVAN.W"
-  },
-  {
    "symbol": "AVB",
    "name": "AvalonBay Communities, Inc. Common Stock",
    "exchange": "NYSE",
@@ -84682,12 +84648,6 @@
    "name": "Cohen \u0026 Steers Inc Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CNS"
-  },
-  {
-   "symbol": "CNVY",
-   "name": "Convey Health Solutions Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CNVY"
   },
   {
    "symbol": "CNX",
@@ -88818,12 +88778,6 @@
    "yahoo_symbol": "GBCI"
   },
   {
-   "symbol": "GBL",
-   "name": "Gamco Investors, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GBL"
-  },
-  {
    "symbol": "GBLI",
    "name": "Global Indemnity Group, LLC Class A Common Stock (DE)",
    "exchange": "NYSE",
@@ -92622,12 +92576,6 @@
    "yahoo_symbol": "LGL"
   },
   {
-   "symbol": "LGL.V",
-   "name": "LGL Group, Inc. (The) Common Stock Ex-Distribution When Issued",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LGL.V"
-  },
-  {
    "symbol": "LGL.W",
    "name": "LGL Group, Inc. (The) Warrants",
    "exchange": "NYSE MKT",
@@ -93918,10 +93866,10 @@
    "yahoo_symbol": "MPLX"
   },
   {
-   "symbol": "MPTI.V",
-   "name": "M-tron Industries, Inc. Common Stock When-Issued",
+   "symbol": "MPTI",
+   "name": "M-tron Industries, Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "MPTI.V"
+   "yahoo_symbol": "MPTI"
   },
   {
    "symbol": "MPV",
@@ -98656,6 +98604,12 @@
    "name": "Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",
    "exchange": "NYSE",
    "yahoo_symbol": "RZB"
+  },
+  {
+   "symbol": "RZC",
+   "name": "Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RZC"
   },
   {
    "symbol": "S",
