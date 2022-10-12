@@ -1,5 +1,5 @@
 {
- "date": "2022-10-11",
+ "date": "2022-10-12",
  "data": [
   {
    "symbol": "ONE",
@@ -83564,12 +83564,6 @@
    "yahoo_symbol": "CANO.W"
   },
   {
-   "symbol": "CAPD",
-   "name": "iPath Shiller CAPE ETN",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "CAPD"
-  },
-  {
    "symbol": "CAPL",
    "name": "CrossAmerica Partners LP Common Units representing limited partner interests",
    "exchange": "NYSE",
@@ -94850,12 +94844,6 @@
    "yahoo_symbol": "NLS"
   },
   {
-   "symbol": "NLSN",
-   "name": "Nielsen N.V. Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NLSN"
-  },
-  {
    "symbol": "NLY",
    "name": "Annaly Capital Management Inc. Common Stock",
    "exchange": "NYSE",
@@ -98126,6 +98114,12 @@
    "yahoo_symbol": "RIV$A"
   },
   {
+   "symbol": "RIV.V",
+   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring November 8, 2022)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RIV.V"
+  },
+  {
    "symbol": "RJA",
    "name": "AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product",
    "exchange": "NYSE ARCA",
@@ -98508,6 +98502,12 @@
    "name": "Riskified Ltd. Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "RSKD"
+  },
+  {
+   "symbol": "RTO",
+   "name": "Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RTO"
   },
   {
    "symbol": "RTX",
@@ -100934,12 +100934,6 @@
    "yahoo_symbol": "TMST"
   },
   {
-   "symbol": "TMX",
-   "name": "Terminix Global Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TMX"
-  },
-  {
    "symbol": "TNC",
    "name": "Tennant Company Common Stock",
    "exchange": "NYSE",
@@ -101416,19 +101410,19 @@
   {
    "symbol": "TWND",
    "name": "Tailwind Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "TWND"
   },
   {
    "symbol": "TWND.U",
    "name": "Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "TWND.U"
   },
   {
    "symbol": "TWND.W",
    "name": "Tailwind Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "TWND.W"
   },
   {
