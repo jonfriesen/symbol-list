@@ -1,5 +1,5 @@
 {
- "date": "2022-10-24",
+ "date": "2022-10-25",
  "data": [
   {
    "symbol": "ONE",
@@ -18150,18 +18150,6 @@
    ]
   },
   {
-   "symbol": "FLWR",
-   "name": "The Flowr Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FLWR.V",
-   "instruments": [
-    {
-     "name": "The Flowr Corporation",
-     "symbol": "FLWR"
-    }
-   ]
-  },
-  {
    "symbol": "MUSH",
    "name": "The Good Shroom Co Inc.",
    "exchange": "TSXV",
@@ -32258,6 +32246,18 @@
    ]
   },
   {
+   "symbol": "HBFE",
+   "name": "Harvest Brand Leaders Enhanced Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBFE.TO",
+   "instruments": [
+    {
+     "name": "Harvest BrandLeadr A",
+     "symbol": "HBFE"
+    }
+   ]
+  },
+  {
    "symbol": "HBF",
    "name": "Harvest Brand Leaders Plus Income ETF",
    "exchange": "TSX",
@@ -32274,6 +32274,18 @@
     {
      "name": "HarvestBrndLdr+US Un",
      "symbol": "HBF.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HLFE",
+   "name": "Harvest Canadian Equity Enhanced Income Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HLFE.TO",
+   "instruments": [
+    {
+     "name": "Harvest CdnEq Incm A",
+     "symbol": "HLFE"
     }
    ]
   },
@@ -32330,6 +32342,18 @@
    ]
   },
   {
+   "symbol": "HUTE",
+   "name": "Harvest Equal Weight Global Utilities Enhanced Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HUTE.TO",
+   "instruments": [
+    {
+     "name": "Harvest EqlWG Util A",
+     "symbol": "HUTE"
+    }
+   ]
+  },
+  {
    "symbol": "HUTL",
    "name": "Harvest Equal Weight Global Utilities Income ETF",
    "exchange": "TSX",
@@ -32378,6 +32402,18 @@
    ]
   },
   {
+   "symbol": "HHLE",
+   "name": "Harvest Healthcare Leaders Enhanced Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHLE.TO",
+   "instruments": [
+    {
+     "name": "Harvest HlthcrIncm A",
+     "symbol": "HHLE"
+    }
+   ]
+  },
+  {
    "symbol": "HHL",
    "name": "Harvest Healthcare Leaders Income ETF",
    "exchange": "TSX",
@@ -32394,6 +32430,18 @@
     {
      "name": "HarvestHealthcare US",
      "symbol": "HHL.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HTAE",
+   "name": "Harvest Tech Achievers Enhanced Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HTAE.TO",
+   "instruments": [
+    {
+     "name": "Harvest TechAchiev A",
+     "symbol": "HTAE"
     }
    ]
   },
@@ -46672,18 +46720,6 @@
    "name": "Alector, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ALEC"
-  },
-  {
-   "symbol": "ALF",
-   "name": "ALFI, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALF"
-  },
-  {
-   "symbol": "ALFIW",
-   "name": "ALFI, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALFIW"
   },
   {
    "symbol": "ALGM",
@@ -63678,24 +63714,6 @@
    "yahoo_symbol": "LFST"
   },
   {
-   "symbol": "LFTR",
-   "name": "Lefteris Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LFTR"
-  },
-  {
-   "symbol": "LFTRU",
-   "name": "Lefteris Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LFTRU"
-  },
-  {
-   "symbol": "LFTRW",
-   "name": "Lefteris Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LFTRW"
-  },
-  {
    "symbol": "LFUS",
    "name": "Littelfuse, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -79146,12 +79164,6 @@
    "yahoo_symbol": "XRX"
   },
   {
-   "symbol": "XSPA",
-   "name": "XpresSpa Group, Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XSPA"
-  },
-  {
    "symbol": "XT",
    "name": "iShares Exponential Technologies ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -79162,6 +79174,12 @@
    "name": "XTL Biopharmaceuticals Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "XTLB"
+  },
+  {
+   "symbol": "XWEL",
+   "name": "XWELL, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XWEL"
   },
   {
    "symbol": "XXII",
@@ -86928,24 +86946,6 @@
    "yahoo_symbol": "ENOV"
   },
   {
-   "symbol": "ENPC",
-   "name": "Executive Network Partnering Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ENPC"
-  },
-  {
-   "symbol": "ENPC.U",
-   "name": "Executive Network Partnering Corporation Units, each consisting of one share of Class A common stock, and one-quarter of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ENPC.U"
-  },
-  {
-   "symbol": "ENPC.W",
-   "name": "Executive Network Partnering Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ENPC.W"
-  },
-  {
    "symbol": "ENR",
    "name": "Energizer Holdings, Inc. Common Stock",
    "exchange": "NYSE",
@@ -89590,6 +89590,18 @@
    "name": "iPath Series B Carbon Exchange-Traded Notes",
    "exchange": "NYSE ARCA",
    "yahoo_symbol": "GRN"
+  },
+  {
+   "symbol": "GRNT",
+   "name": "Granite Ridge Resources, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRNT"
+  },
+  {
+   "symbol": "GRNT.W",
+   "name": "Granite Ridge Resources, Inc. Warrants to purchase Common Stock, each whole warrant exercisable for one share of common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRNT.W"
   },
   {
    "symbol": "GROV",
@@ -100762,12 +100774,6 @@
    "name": "The Music Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "TMAC.U"
-  },
-  {
-   "symbol": "TMAC.W",
-   "name": "The Music Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TMAC.W"
   },
   {
    "symbol": "TMBR",
