@@ -400,6 +400,7 @@ LOTA,Delota Corp.,TSXV,LOTA.V,Delota Corp.,LOTA
 DELX,DelphX Capital Markets Inc.,TSXV,DELX.V,DelphX Capital Markets Inc.,DELX
 DLTA,Delta Resources Limited,TSXV,DLTA.V,Delta Resources Limited,DLTA
 DSLV,Denarius Metals Corp.,TSXV,DSLV.V,Denarius Metals Corp.,DSLV,Denarius Metals Corp. wt 17Mar2026,DSLV.WT
+DBC.P,Departure Bay Capital Corp.,TSXV,DBC.P.V,Departure Bay Capital Corp.,DBC.P
 DAU,Desert Gold Ventures Inc.,TSXV,DAU.V,Desert Gold Ventures Inc.,DAU
 DME,Desert Mountain Energy Corp.,TSXV,DME.V,Desert Mountain Energy Corp.,DME
 DSY,Destiny Media Technologies Inc.,TSXV,DSY.V,Destiny Media Technologies Inc.,DSY
@@ -4457,6 +4458,8 @@ CDAQ,Compass Digital Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global M
 CDAQU,Compass Digital Acquisition Corp. - Unit,NASDAQ Global MarketSM,CDAQU
 CDAQW,Compass Digital Acquisition Corp. - Warrant,NASDAQ Global MarketSM,CDAQW
 CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,NASDAQ Global MarketSM,CDC
+CDIO,Cardio Diagnostics Holdings Inc. - Common stock,NASDAQ Capital Market,CDIO
+CDIOW,Cardio Diagnostics Holdings Inc. - Warrant,NASDAQ Capital Market,CDIOW
 CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,NASDAQ Global MarketSM,CDL
 CDLX,"Cardlytics, Inc. - Common Stock",NASDAQ Global MarketSM,CDLX
 CDMO,"Avid Bioservices, Inc. - Common Stock",NASDAQ Capital Market,CDMO
@@ -4544,7 +4547,7 @@ CHKEZ,Chesapeake Energy Corporation - Class B Warrants,NASDAQ Capital Market,CHK
 CHKP,Check Point Software Technologies Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CHKP
 CHMG,Chemung Financial Corp  - Common Stock,NASDAQ Global Select MarketSM,CHMG
 CHNA,Loncar China BioPharma ETF,NASDAQ Global MarketSM,CHNA
-CHNR,"China Natural Resources, Inc. - Common Stock",NASDAQ Capital Market,CHNR
+CHNR,"China Natural Resources, Inc. - Common Shares",NASDAQ Capital Market,CHNR
 CHRD,Chord Energy Corporation - Common Stock,NASDAQ Global Select MarketSM,CHRD
 CHRS,"Coherus BioSciences, Inc. - Common Stock",NASDAQ Global MarketSM,CHRS
 CHRW,"C.H. Robinson Worldwide, Inc. - Common Stock",NASDAQ Global Select MarketSM,CHRW
@@ -6555,6 +6558,7 @@ LGHLW,Lion Group Holding Ltd. - Warrant,NASDAQ Capital Market,LGHLW
 LGIH,"LGI Homes, Inc. - Common Stock",NASDAQ Global Select MarketSM,LGIH
 LGMK,"LogicMark, Inc. - Common Stock",NASDAQ Capital Market,LGMK
 LGND,Ligand Pharmaceuticals Incorporated - Common Stock,NASDAQ Global MarketSM,LGND
+LGNDV,Ligand Pharmaceuticals Incorporated - Common Stock Ex-distribution When Issued,NASDAQ Global MarketSM,LGNDV
 LGO,Largo Inc. - Common Shares,NASDAQ Global Select MarketSM,LGO
 LGST,Semper Paratus Acquisition Corporation - Class A Ordinary Shares,NASDAQ Global MarketSM,LGST
 LGSTU,Semper Paratus Acquisition Corporation - Unit,NASDAQ Global MarketSM,LGSTU
@@ -6710,10 +6714,6 @@ LYRA,"Lyra Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,LYRA
 LYT,Lytus Technologies Holdings PTV. Ltd. - Common Shares,NASDAQ Capital Market,LYT
 LYTS,LSI Industries Inc. - Common Stock,NASDAQ Global Select MarketSM,LYTS
 LZ,"LegalZoom.com, Inc. - Common Stock",NASDAQ Global Select MarketSM,LZ
-MAAQ,Mana Capital Acquisition Corp. - Common stock,NASDAQ Global MarketSM,MAAQ
-MAAQR,Mana Capital Acquisition Corp. - Rights,NASDAQ Global MarketSM,MAAQR
-MAAQU,Mana Capital Acquisition Corp. - Unit,NASDAQ Global MarketSM,MAAQU
-MAAQW,Mana Capital Acquisition Corp. - Warrant,NASDAQ Global MarketSM,MAAQW
 MACA,Moringa Acquisition Corp - Class A Ordinary Shares,NASDAQ Capital Market,MACA
 MACAU,Moringa Acquisition Corp - Units,NASDAQ Capital Market,MACAU
 MACAW,Moringa Acquisition Corp - Warrant,NASDAQ Capital Market,MACAW
@@ -7209,6 +7209,7 @@ NYXH,Nyxoah SA - Ordinary Shares,NASDAQ Global MarketSM,NYXH
 NZAC,SPDR MSCI ACWI Climate Paris Aligned ETF,NASDAQ Global MarketSM,NZAC
 NZRO,Strategy Shares Halt Climate Change ETF,NASDAQ Global MarketSM,NZRO
 NZUS,SPDR MSCI USA Climate Paris Aligned ETF,NASDAQ Global MarketSM,NZUS
+OABIV,"OmniAb, Inc. - Common Stock",NASDAQ Global MarketSM,OABIV
 OB,Outbrain Inc. - Common Stock,NASDAQ Global Select MarketSM,OB
 OBLG,Oblong Inc. - Common Stock,NASDAQ Capital Market,OBLG
 OBNK,"Origin Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,OBNK
@@ -10365,7 +10366,6 @@ EEX,"Emerald Holding, Inc. Common Stock",NYSE,EEX
 EFC,Ellington Financial Inc. Common Stock ,NYSE,EFC
 EFC$A,Ellington Financial Inc. 6.750% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,EFC$A
 EFC$B,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,NYSE,EFC$B
-EFL,Eaton Vance Floating-Rate 2022 Target Term Trust Common Shares of Beneficial Interest,NYSE,EFL
 EFR,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,NYSE,EFR
 EFSH,1847 Holdings LLC Common Shares,NYSE MKT,EFSH
 EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,NYSE,EFT
@@ -12420,7 +12420,6 @@ SF$C,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000t
 SF$D,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 4.50% Non-Cumulative Preferred Stock, Series D",NYSE,SF$D
 SFB,Stifel Financial Corporation 5.20% Senior Notes due 2047,NYSE,SFB
 SFBS,"ServisFirst Bancshares, Inc. Common Stock",NYSE,SFBS
-SFE,"Safeguard Scientifics, Inc. New Common Stock",NYSE,SFE
 SFL,SFL Corporation Ltd,NYSE,SFL
 SG,"Sweetgreen, Inc. Class A Common Stock",NYSE,SG
 SGFY,"Signify Health, Inc. Class A Common Stock",NYSE,SGFY

@@ -1,5 +1,5 @@
 {
- "date": "2022-10-25",
+ "date": "2022-10-26",
  "data": [
   {
    "symbol": "ONE",
@@ -4870,6 +4870,18 @@
     {
      "name": "Denarius Metals Corp. wt 17Mar2026",
      "symbol": "DSLV.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "DBC.P",
+   "name": "Departure Bay Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DBC.P.V",
+   "instruments": [
+    {
+     "name": "Departure Bay Capital Corp.",
+     "symbol": "DBC.P"
     }
    ]
   },
@@ -51186,6 +51198,18 @@
    "yahoo_symbol": "CDC"
   },
   {
+   "symbol": "CDIO",
+   "name": "Cardio Diagnostics Holdings Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CDIO"
+  },
+  {
+   "symbol": "CDIOW",
+   "name": "Cardio Diagnostics Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CDIOW"
+  },
+  {
    "symbol": "CDL",
    "name": "VictoryShares US Large Cap High Div Volatility Wtd ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -51709,7 +51733,7 @@
   },
   {
    "symbol": "CHNR",
-   "name": "China Natural Resources, Inc. - Common Stock",
+   "name": "China Natural Resources, Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CHNR"
   },
@@ -63774,6 +63798,12 @@
    "yahoo_symbol": "LGND"
   },
   {
+   "symbol": "LGNDV",
+   "name": "Ligand Pharmaceuticals Incorporated - Common Stock Ex-distribution When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGNDV"
+  },
+  {
    "symbol": "LGO",
    "name": "Largo Inc. - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -64702,30 +64732,6 @@
    "name": "LegalZoom.com, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LZ"
-  },
-  {
-   "symbol": "MAAQ",
-   "name": "Mana Capital Acquisition Corp. - Common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAAQ"
-  },
-  {
-   "symbol": "MAAQR",
-   "name": "Mana Capital Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAAQR"
-  },
-  {
-   "symbol": "MAAQU",
-   "name": "Mana Capital Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAAQU"
-  },
-  {
-   "symbol": "MAAQW",
-   "name": "Mana Capital Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAAQW"
   },
   {
    "symbol": "MACA",
@@ -67696,6 +67702,12 @@
    "name": "SPDR MSCI USA Climate Paris Aligned ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NZUS"
+  },
+  {
+   "symbol": "OABIV",
+   "name": "OmniAb, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OABIV"
   },
   {
    "symbol": "OB",
@@ -86634,12 +86646,6 @@
    "yahoo_symbol": "EFC$B"
   },
   {
-   "symbol": "EFL",
-   "name": "Eaton Vance Floating-Rate 2022 Target Term Trust Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EFL"
-  },
-  {
    "symbol": "EFR",
    "name": "Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -98962,12 +98968,6 @@
    "name": "ServisFirst Bancshares, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SFBS"
-  },
-  {
-   "symbol": "SFE",
-   "name": "Safeguard Scientifics, Inc. New Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SFE"
   },
   {
    "symbol": "SFL",
