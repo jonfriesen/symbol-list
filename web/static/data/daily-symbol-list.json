@@ -1,5 +1,5 @@
 {
- "date": "2022-11-09",
+ "date": "2022-11-10",
  "data": [
   {
    "symbol": "ONE",
@@ -7054,6 +7054,18 @@
    ]
   },
   {
+   "symbol": "GXY.P",
+   "name": "Galaxy Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GXY.P.V",
+   "instruments": [
+    {
+     "name": "Galaxy Ventures Inc.",
+     "symbol": "GXY.P"
+    }
+   ]
+  },
+  {
    "symbol": "GGO",
    "name": "Galleon Gold Corp.",
    "exchange": "TSXV",
@@ -7686,6 +7698,18 @@
     {
      "name": "Golden Sky Minerals Corp.",
      "symbol": "AUEN"
+    }
+   ]
+  },
+  {
+   "symbol": "GCV.P",
+   "name": "Golden Star Capital Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GCV.P.V",
+   "instruments": [
+    {
+     "name": "Golden Star Capital Ventures Inc.",
+     "symbol": "GCV.P"
     }
    ]
   },
@@ -21914,18 +21938,6 @@
     {
      "name": "Avant Brands J Wt",
      "symbol": "AVNT.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "AVP",
-   "name": "Avcorp Industries Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AVP.TO",
-   "instruments": [
-    {
-     "name": "Avcorp Industries",
-     "symbol": "AVP"
     }
    ]
   },
@@ -70450,6 +70462,12 @@
    "yahoo_symbol": "ALBO"
   },
   {
+   "symbol": "ALBT",
+   "name": "Avalon GloboCare Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALBT"
+  },
+  {
    "symbol": "ALCO",
    "name": "Alico, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72290,12 +72308,6 @@
    "name": "AeroVironment, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AVAV"
-  },
-  {
-   "symbol": "AVCO",
-   "name": "Avalon GloboCare Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AVCO"
   },
   {
    "symbol": "AVCT",
@@ -81185,7 +81197,7 @@
   },
   {
    "symbol": "FTAI",
-   "name": "Fortress Transportation and Infrastructure Investors LLC - Class A Common Stock",
+   "name": "Fortress Transportation and Infrastructure Investors LLC - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FTAI"
   },
@@ -100462,6 +100474,12 @@
    "yahoo_symbol": "UHAL"
   },
   {
+   "symbol": "UHALB",
+   "name": "Amerco - Series N Non-Voting Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UHALB"
+  },
+  {
    "symbol": "UIHC",
    "name": "United Insurance Holdings Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -103124,12 +103142,6 @@
    "name": "Zumiez Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ZUMZ"
-  },
-  {
-   "symbol": "ZVO",
-   "name": "Zovio Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZVO"
   },
   {
    "symbol": "ZWRK",
