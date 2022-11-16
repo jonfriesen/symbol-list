@@ -1,5 +1,5 @@
 {
- "date": "2022-11-15",
+ "date": "2022-11-16",
  "data": [
   {
    "symbol": "ONE",
@@ -5974,18 +5974,6 @@
     {
      "name": "Environmental Waste International Inc.",
      "symbol": "EWS"
-    }
-   ]
-  },
-  {
-   "symbol": "ENW",
-   "name": "EnWave Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ENW.V",
-   "instruments": [
-    {
-     "name": "EnWave Corporation",
-     "symbol": "ENW"
     }
    ]
   },
@@ -31571,7 +31559,7 @@
   },
   {
    "symbol": "GIVX",
-   "name": "Givex Information Technology Group Limited",
+   "name": "Givex Corp.",
    "exchange": "TSX",
    "yahoo_symbol": "GIVX.TO",
    "instruments": [
@@ -39624,10 +39612,6 @@
      "symbol": "PPL.PF.A"
     },
     {
-     "name": "Pembina Pipe Pr 23",
-     "symbol": "PPL.PF.C"
-    },
-    {
      "name": "Pembina Pipe Pr 25",
      "symbol": "PPL.PF.E"
     },
@@ -45844,6 +45828,12 @@
    "name": "Aclaris Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ACRS"
+  },
+  {
+   "symbol": "ACRV",
+   "name": "Acrivon Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACRV"
   },
   {
    "symbol": "ACRX",
@@ -52320,6 +52310,12 @@
    "yahoo_symbol": "CMMB"
   },
   {
+   "symbol": "CMND",
+   "name": "Clearmind Medicine Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CMND"
+  },
+  {
    "symbol": "CMPO",
    "name": "CompoSecure, Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -55066,6 +55062,12 @@
    "name": "Eagle Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EGBN"
+  },
+  {
+   "symbol": "EGHT",
+   "name": "8x8 Inc - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EGHT"
   },
   {
    "symbol": "EGIO",
@@ -67644,6 +67646,12 @@
    "yahoo_symbol": "OB"
   },
   {
+   "symbol": "OBIL",
+   "name": "US Treasury 12 Month Bill ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBIL"
+  },
+  {
    "symbol": "OBLG",
    "name": "Oblong Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -79590,12 +79598,6 @@
    "yahoo_symbol": "AAQC.U"
   },
   {
-   "symbol": "AAQC.W",
-   "name": "Accelerate Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAQC.W"
-  },
-  {
    "symbol": "AAT",
    "name": "American Assets Trust, Inc. Common Stock",
    "exchange": "NYSE",
@@ -88542,18 +88544,6 @@
    "yahoo_symbol": "GAM$B"
   },
   {
-   "symbol": "GAPA",
-   "name": "G\u0026P Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GAPA"
-  },
-  {
-   "symbol": "GAPA.U",
-   "name": "G\u0026P Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GAPA.U"
-  },
-  {
    "symbol": "GAQ",
    "name": "Generation Asia I Acquisition Limited Class A Ordinary Shares",
    "exchange": "NYSE",
@@ -92380,12 +92370,6 @@
    "name": "Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "LHC.U"
-  },
-  {
-   "symbol": "LHC.W",
-   "name": "Leo Holdings Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LHC.W"
   },
   {
    "symbol": "LHX",
@@ -100924,12 +100908,6 @@
    "name": "TCW Special Purpose Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "TSPQ.U"
-  },
-  {
-   "symbol": "TSPQ.W",
-   "name": "TCW Special Purpose Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TSPQ.W"
   },
   {
    "symbol": "TSQ",
