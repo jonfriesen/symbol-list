@@ -1,5 +1,5 @@
 {
- "date": "2022-11-16",
+ "date": "2022-11-17",
  "data": [
   {
    "symbol": "ONE",
@@ -5974,6 +5974,18 @@
     {
      "name": "Environmental Waste International Inc.",
      "symbol": "EWS"
+    }
+   ]
+  },
+  {
+   "symbol": "ENW",
+   "name": "EnWave Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ENW.V",
+   "instruments": [
+    {
+     "name": "EnWave Corporation",
+     "symbol": "ENW"
     }
    ]
   },
@@ -14494,6 +14506,18 @@
    ]
   },
   {
+   "symbol": "POC.P",
+   "name": "POCML 7 Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "POC.P.V",
+   "instruments": [
+    {
+     "name": "POCML 7 INC.",
+     "symbol": "POC.P"
+    }
+   ]
+  },
+  {
    "symbol": "PTK",
    "name": "POET Technologies Inc.",
    "exchange": "TSXV",
@@ -22958,6 +22982,42 @@
     {
      "name": "BMO All-Eqty CAD Un",
      "symbol": "ZEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "ARKG",
+   "name": "BMO ARK Genomic Revolution Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARKG.TO",
+   "instruments": [
+    {
+     "name": "BMO ARK GenomicRvltn",
+     "symbol": "ARKG"
+    }
+   ]
+  },
+  {
+   "symbol": "ARKK",
+   "name": "BMO ARK Innovation Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARKK.TO",
+   "instruments": [
+    {
+     "name": "BMO ARK Innovatn Un",
+     "symbol": "ARKK"
+    }
+   ]
+  },
+  {
+   "symbol": "ARKW",
+   "name": "BMO ARK Next Generation Internet Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARKW.TO",
+   "instruments": [
+    {
+     "name": "BMO ARK NxtGenIntrnt",
+     "symbol": "ARKW"
     }
    ]
   },
@@ -31564,7 +31624,7 @@
    "yahoo_symbol": "GIVX.TO",
    "instruments": [
     {
-     "name": "Givex Info Tech Grp",
+     "name": "Givex Corp.",
      "symbol": "GIVX"
     }
    ]
@@ -39776,7 +39836,7 @@
    "yahoo_symbol": "PFIA.TO",
    "instruments": [
     {
-     "name": "Picton MahoneyIncome",
+     "name": "Picton Mahoney Incm",
      "symbol": "PFIA"
     }
    ]
@@ -47499,7 +47559,7 @@
   },
   {
    "symbol": "APLD",
-   "name": "Applied Blockchain, Inc. - Common Stock",
+   "name": "Applied Digital Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "APLD"
   },
@@ -64202,12 +64262,6 @@
    "yahoo_symbol": "LOCO"
   },
   {
-   "symbol": "LOGC",
-   "name": "LogicBio Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LOGC"
-  },
-  {
    "symbol": "LOGI",
    "name": "Logitech International S.A. - Registered Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -65496,12 +65550,6 @@
    "name": "Mitek Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MITK"
-  },
-  {
-   "symbol": "MITO",
-   "name": "Stealth BioTherapeutics Corp. - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MITO"
   },
   {
    "symbol": "MKSI",
@@ -69834,6 +69882,12 @@
    "name": "Predictive Oncology Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "POAI"
+  },
+  {
+   "symbol": "POCI",
+   "name": "Precision Optics Corporation, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "POCI"
   },
   {
    "symbol": "PODD",
@@ -87898,19 +87952,19 @@
   {
    "symbol": "FLAG",
    "name": "First Light Acquisition Group, Inc. Class A Common Stock",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "FLAG"
   },
   {
    "symbol": "FLAG.U",
    "name": "First Light Acquisition Group, Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "FLAG.U"
   },
   {
    "symbol": "FLAG.W",
    "name": "First Light Acquisition Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "FLAG.W"
   },
   {
@@ -100182,12 +100236,6 @@
    "name": "Tellurian Inc. 8.25% Senior Notes due 2028",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "TELZ"
-  },
-  {
-   "symbol": "TEN",
-   "name": "Tenneco Inc. Class A Voting Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TEN"
   },
   {
    "symbol": "TEO",

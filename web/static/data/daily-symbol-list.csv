@@ -490,6 +490,7 @@ EGM,Engold Mines Ltd.,TSXV,EGM.V,Engold Mines Ltd.,EGM
 NLTA,Enlighta Inc.,TSXV,NLTA.V,Enlighta Inc.,NLTA
 ENTG,Entourage Health Corp.,TSXV,ENTG.V,Entourage Health Corp.,ENTG,Entourage Health Corp. wt. 12Mar2023,ENTG.WT.A
 EWS,Environmental Waste International Inc.,TSXV,EWS.V,Environmental Waste International Inc.,EWS
+ENW,EnWave Corporation,TSXV,ENW.V,EnWave Corporation,ENW
 EQ,EQ Inc.,TSXV,EQ.V,EQ Inc.,EQ
 EQTY,Equity Metals Corporation,TSXV,EQTY.V,Equity Metals Corporation,EQTY
 EV,Erin Ventures Inc.,TSXV,EV.V,Erin Ventures Inc.,EV
@@ -1185,6 +1186,7 @@ DEAL,Playgon Games Inc.,TSXV,DEAL.V,Playgon Games Inc.,DEAL
 PMKR,Playmaker Capital Inc.,TSXV,PMKR.V,Playmaker Capital Inc.,PMKR
 PLRB,Pluribus Technologies Corp.,TSXV,PLRB.V,Pluribus Technologies Corp.,PLRB
 PLUR,Plurilock Security Inc.,TSXV,PLUR.V,Plurilock Security Inc.,PLUR
+POC.P,POCML 7 Inc.,TSXV,POC.P.V,POCML 7 INC.,POC.P
 PTK,POET Technologies Inc.,TSXV,PTK.V,POET Technologies Inc.,PTK
 POND,Pond Technologies Holdings Inc.,TSXV,POND.V,Pond Technologies Holdings Inc.,POND
 HULK,Pontus Protein Ltd.,TSXV,HULK.V,Pontus Protein Ltd.,HULK
@@ -1851,6 +1853,9 @@ BLB.UN,Bloom Select Income Fund,TSX,BLB.UN.TO,Bloom Select Incm Un,BLB.UN
 RBN.UN,Blue Ribbon Income Fund,TSX,RBN.UN.TO,Blue Ribbon Incm Un,RBN.UN
 ZAG,BMO Aggregate Bond Index ETF,TSX,ZAG.TO,BMO AggregateBnd ETF,ZAG
 ZEQT,BMO All-Equity ETF,TSX,ZEQT.TO,BMO All-Eqty CAD Un,ZEQT
+ARKG,BMO ARK Genomic Revolution Fund,TSX,ARKG.TO,BMO ARK GenomicRvltn,ARKG
+ARKK,BMO ARK Innovation Fund,TSX,ARKK.TO,BMO ARK Innovatn Un,ARKK
+ARKW,BMO ARK Next Generation Internet Fund,TSX,ARKW.TO,BMO ARK NxtGenIntrnt,ARKW
 ZESG,BMO Balanced ESG ETF,TSX,ZESG.TO,BMO BalanceESG CA Un,ZESG
 ZBAL,BMO Balanced ETF,TSX,ZBAL.TO,BMO Balanced ETF CAD,ZBAL,BMO Balanced Fix% Un,ZBAL.T
 ZBBB,BMO BBB Corporate Bond Index ETF,TSX,ZBBB.TO,BMO BBB CorpBndCADUn,ZBBB
@@ -2453,7 +2458,7 @@ WN,George Weston Limited,TSX,WN.TO,Weston George,WN,Weston George 1 Pr,WN.PR.A,W
 GFL,GFL Environmental Inc.,TSX,GFL.TO,GFL Environment SV,GFL
 GEI,Gibson Energy Inc.,TSX,GEI.TO,Gibson Energy Inc,GEI
 GIL,Gildan Activewear Inc.,TSX,GIL.TO,Gildan Activewear,GIL
-GIVX,Givex Corp.,TSX,GIVX.TO,Givex Info Tech Grp,GIVX
+GIVX,Givex Corp.,TSX,GIVX.TO,Givex Corp.,GIVX
 GVC,Glacier Media Inc.,TSX,GVC.TO,Glacier Media Inc. J,GVC
 GLG,GLG Life Tech Corporation,TSX,GLG.TO,GLG Life Tech Corp J,GLG
 GLO,Global Atomic Corporation,TSX,GLO.TO,Global Atomic Corp J,GLO
@@ -3074,7 +3079,7 @@ PHX,PHX Energy Services Corp.,TSX,PHX.TO,PHX Energy Services,PHX
 PFAE,Picton Mahoney Fortified Active Extension Alternative Fund,TSX,PFAE.TO,Picton MahoneyActive,PFAE
 PFAA,Picton Mahoney Fortified Alpha Alternative Fund,TSX,PFAA.TO,Picton MhnyFortAltUn,PFAA
 PFCB,Picton Mahoney Fortified Core Bond Fund,TSX,PFCB.TO,Picton MhnyFortCrBnd,PFCB
-PFIA,Picton Mahoney Fortified Income Alternative Fund,TSX,PFIA.TO,Picton MahoneyIncome,PFIA
+PFIA,Picton Mahoney Fortified Income Alternative Fund,TSX,PFIA.TO,Picton Mahoney Incm,PFIA
 PFLS,Picton Mahoney Fortified Long Short Alternative Fund,TSX,PFLS.TO,PictonMahony LnShAlt,PFLS
 PFMN,Picton Mahoney Fortified Market Neutral Alternative Fund,TSX,PFMN.TO,Picton MahoneyMktNeu,PFMN
 PFMS,Picton Mahoney Fortified Multi-Strategy Alternative Fund,TSX,PFMS.TO,PictonMahnyMult-Stgy,PFMS
@@ -3837,7 +3842,7 @@ APEN,"Apollo Endosurgery, Inc. - Common Stock",NASDAQ Global MarketSM,APEN
 APGN,"Apexigen, Inc. - Common Stock",NASDAQ Capital Market,APGN
 APGNW,"Apexigen, Inc. - Warrant",NASDAQ Capital Market,APGNW
 API,"Agora, Inc. - ADS",NASDAQ Global Select MarketSM,API
-APLD,"Applied Blockchain, Inc. - Common Stock",NASDAQ Global Select MarketSM,APLD
+APLD,Applied Digital Corporation - Common Stock,NASDAQ Global Select MarketSM,APLD
 APLS,"Apellis Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,APLS
 APLT,"Applied Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,APLT
 APM,Aptorum Group Limited - Class A Ordinary Shares,NASDAQ Global MarketSM,APM
@@ -6621,7 +6626,6 @@ LNW,"Light & Wonder, Inc.  - Common Stock",NASDAQ Global Select MarketSM,LNW
 LOAN,"Manhattan Bridge Capital, Inc - Common Stock",NASDAQ Capital Market,LOAN
 LOB,"Live Oak Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,LOB
 LOCO,"El Pollo Loco Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,LOCO
-LOGC,"LogicBio Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,LOGC
 LOGI,Logitech International S.A. - Registered Shares,NASDAQ Global Select MarketSM,LOGI
 LOOP,"Loop Industries, Inc. - Common Stock",NASDAQ Global MarketSM,LOOP
 LOPE,"Grand Canyon Education, Inc. - Common Stock",NASDAQ Global Select MarketSM,LOPE
@@ -6837,7 +6841,6 @@ MITA,Coliseum Acquisition Corp. - Class A Ordinary Share,NASDAQ Capital Market,M
 MITAU,Coliseum Acquisition Corp. - Unit,NASDAQ Capital Market,MITAU
 MITAW,Coliseum Acquisition Corp. - Warrant,NASDAQ Capital Market,MITAW
 MITK,"Mitek Systems, Inc. - Common Stock",NASDAQ Capital Market,MITK
-MITO,Stealth BioTherapeutics Corp. - American Depositary Shares,NASDAQ Global MarketSM,MITO
 MKSI,"MKS Instruments, Inc. - Common Stock",NASDAQ Global Select MarketSM,MKSI
 MKTW,"MarketWise, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MKTW
 MKTX,"MarketAxess Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MKTX
@@ -7560,6 +7563,7 @@ PNRG,PrimeEnergy Resources Corporation - Common Stock,NASDAQ Capital Market,PNRG
 PNT,POINT Biopharma Global Inc.  - Common Stock,NASDAQ Capital Market,PNT
 PNTG,"The Pennant Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,PNTG
 POAI,Predictive Oncology Inc. - Common Stock,NASDAQ Capital Market,POAI
+POCI,"Precision Optics Corporation, Inc. - Common stock",NASDAQ Capital Market,POCI
 PODD,Insulet Corporation - Common Stock,NASDAQ Global Select MarketSM,PODD
 POET,POET Technologies Inc. - Common Shares,NASDAQ Capital Market,POET
 POLA,"Polar Power, Inc. - Common Stock",NASDAQ Capital Market,POLA
@@ -10570,9 +10574,9 @@ FIS,"Fidelity National Information Services, Inc. Common Stock",NYSE,FIS
 FISK,"Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests",NYSE ARCA,FISK
 FIX,"Comfort Systems USA, Inc. Common Stock",NYSE,FIX
 FL,"Foot Locker, Inc.",NYSE,FL
-FLAG,"First Light Acquisition Group, Inc. Class A Common Stock",NYSE,FLAG
-FLAG.U,"First Light Acquisition Group, Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",NYSE,FLAG.U
-FLAG.W,"First Light Acquisition Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE,FLAG.W
+FLAG,"First Light Acquisition Group, Inc. Class A Common Stock",NYSE MKT,FLAG
+FLAG.U,"First Light Acquisition Group, Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",NYSE MKT,FLAG.U
+FLAG.W,"First Light Acquisition Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE MKT,FLAG.W
 FLC,Flaherty & Crumrine Total Return Fund Inc Common Stock,NYSE,FLC
 FLME,Flame Acquisition Corp. Class A Common Stock,NYSE,FLME
 FLME.U,"Flame Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-half of one Warrant",NYSE,FLME.U
@@ -12618,7 +12622,6 @@ TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock",NYSE,TEI
 TEL,TE Connectivity Ltd. New Switzerland Registered Shares,NYSE,TEL
 TELL,Tellurian Inc. Common Stock,NYSE MKT,TELL
 TELZ,Tellurian Inc. 8.25% Senior Notes due 2028,NYSE MKT,TELZ
-TEN,Tenneco Inc. Class A Voting Common Stock,NYSE,TEN
 TEO,Telecom Argentina SA,NYSE,TEO
 TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,NYSE,TEVA
 TEX,Terex Corporation Common Stock,NYSE,TEX
