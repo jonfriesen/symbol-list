@@ -1,5 +1,5 @@
 {
- "date": "2022-11-17",
+ "date": "2022-11-18",
  "data": [
   {
    "symbol": "ONE",
@@ -55610,6 +55610,12 @@
    "yahoo_symbol": "ERESW"
   },
   {
+   "symbol": "ERET",
+   "name": "iShares Environmentally Aware Real Estate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ERET"
+  },
+  {
    "symbol": "ERIC",
    "name": "Ericsson - American Depositary Shares each representing 1 underlying Class B share",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -55788,6 +55794,18 @@
    "name": "Eucrates Biomedical Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EUCRW"
+  },
+  {
+   "symbol": "EUDA",
+   "name": "Euda Health Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EUDA"
+  },
+  {
+   "symbol": "EUDAW",
+   "name": "Euda Health Holdings Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EUDAW"
   },
   {
    "symbol": "EUFN",
@@ -57434,18 +57452,6 @@
    "yahoo_symbol": "FSLR"
   },
   {
-   "symbol": "FSRD",
-   "name": "Fast Radius, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSRD"
-  },
-  {
-   "symbol": "FSRDW",
-   "name": "Fast Radius, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSRDW"
-  },
-  {
    "symbol": "FSRX",
    "name": "FinServ Acquisition Corp. II - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -58948,7 +58954,7 @@
   {
    "symbol": "GOCO",
    "name": "GoHealth, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GOCO"
   },
   {
@@ -63426,30 +63432,6 @@
    "name": "Laureate Education, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LAUR"
-  },
-  {
-   "symbol": "LAX",
-   "name": "8i Acquisition 2 Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LAX"
-  },
-  {
-   "symbol": "LAXXR",
-   "name": "8i Acquisition 2 Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LAXXR"
-  },
-  {
-   "symbol": "LAXXU",
-   "name": "8i Acquisition 2 Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LAXXU"
-  },
-  {
-   "symbol": "LAXXW",
-   "name": "8i Acquisition 2 Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LAXXW"
   },
   {
    "symbol": "LAZR",
@@ -89486,6 +89468,18 @@
    "yahoo_symbol": "GRN"
   },
   {
+   "symbol": "GRND",
+   "name": "Grindr Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRND"
+  },
+  {
+   "symbol": "GRND.W",
+   "name": "Grindr Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRND.W"
+  },
+  {
    "symbol": "GRNT",
    "name": "Granite Ridge Resources, Inc. Common Stock",
    "exchange": "NYSE",
@@ -90522,12 +90516,6 @@
    "name": "IAA, Inc. Common Stock ",
    "exchange": "NYSE",
    "yahoo_symbol": "IAA"
-  },
-  {
-   "symbol": "IACC",
-   "name": "ION Acquisition Corp 3 Ltd. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IACC"
   },
   {
    "symbol": "IAE",
@@ -95148,12 +95136,6 @@
    "name": "Network-1 Technologies, Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "NTIP"
-  },
-  {
-   "symbol": "NTP",
-   "name": "Nam Tai Property Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NTP"
   },
   {
    "symbol": "NTR",
@@ -100434,24 +100416,6 @@
    "name": "TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ",
    "exchange": "NYSE",
    "yahoo_symbol": "TIMB"
-  },
-  {
-   "symbol": "TINV",
-   "name": "Tiga Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TINV"
-  },
-  {
-   "symbol": "TINV.U",
-   "name": "Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TINV.U"
-  },
-  {
-   "symbol": "TINV.W",
-   "name": "Tiga Acquisition Corp. Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TINV.W"
   },
   {
    "symbol": "TISI",

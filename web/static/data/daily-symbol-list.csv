@@ -5184,6 +5184,7 @@ ERAS,"Erasca, Inc. - Common Stock",NASDAQ Global Select MarketSM,ERAS
 ERES,East Resources Acquisition Company - Class A Common Stock,NASDAQ Capital Market,ERES
 ERESU,East Resources Acquisition Company - Unit,NASDAQ Capital Market,ERESU
 ERESW,East Resources Acquisition Company - Warrant,NASDAQ Capital Market,ERESW
+ERET,iShares Environmentally Aware Real Estate ETF,NASDAQ Global MarketSM,ERET
 ERIC,Ericsson - American Depositary Shares each representing 1 underlying Class B share,NASDAQ Global Select MarketSM,ERIC
 ERIE,Erie Indemnity Company - Class A Common Stock,NASDAQ Global Select MarketSM,ERIE
 ERII,"Energy Recovery, Inc. - Common Stock",NASDAQ Global Select MarketSM,ERII
@@ -5214,6 +5215,8 @@ ETSY,"Etsy, Inc. - Common Stock",NASDAQ Global Select MarketSM,ETSY
 EUCR,Eucrates Biomedical Acquisition Corp. - Ordinary Shares,NASDAQ Capital Market,EUCR
 EUCRU,Eucrates Biomedical Acquisition Corp. - Unit,NASDAQ Capital Market,EUCRU
 EUCRW,Eucrates Biomedical Acquisition Corp. - Warrant,NASDAQ Capital Market,EUCRW
+EUDA,Euda Health Holdings Limited - Ordinary Shares,NASDAQ Capital Market,EUDA
+EUDAW,Euda Health Holdings Limited - Warrant,NASDAQ Capital Market,EUDAW
 EUFN,iShares MSCI Europe Financials Sector Index Fund,NASDAQ Global MarketSM,EUFN
 EVAX,Evaxion Biotech A/S - American Depositary Share,NASDAQ Capital Market,EVAX
 EVBG,"Everbridge, Inc. - Common Stock",NASDAQ Global MarketSM,EVBG
@@ -5488,8 +5491,6 @@ FSBW,"FS Bancorp, Inc. - Common Stock",NASDAQ Capital Market,FSBW
 FSEA,First Seacoast Bancorp - Common Stock,NASDAQ Capital Market,FSEA
 FSFG,"First Savings Financial Group, Inc. - Common Stock",NASDAQ Capital Market,FSFG
 FSLR,"First Solar, Inc. - Common Stock",NASDAQ Global Select MarketSM,FSLR
-FSRD,"Fast Radius, Inc. - Class A Common Stock",NASDAQ Global MarketSM,FSRD
-FSRDW,"Fast Radius, Inc. - Warrants",NASDAQ Global MarketSM,FSRDW
 FSRX,FinServ Acquisition Corp. II - Class A Common Stock,NASDAQ Capital Market,FSRX
 FSRXU,FinServ Acquisition Corp. II - Unit,NASDAQ Capital Market,FSRXU
 FSRXW,FinServ Acquisition Corp. II - Warrant,NASDAQ Capital Market,FSRXW
@@ -5740,7 +5741,7 @@ GNTX,Gentex Corporation - Common Stock,NASDAQ Global Select MarketSM,GNTX
 GNTY,"Guaranty Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,GNTY
 GNUS,"Genius Brands International, Inc. - Common Stock",NASDAQ Capital Market,GNUS
 GO,Grocery Outlet Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,GO
-GOCO,"GoHealth, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,GOCO
+GOCO,"GoHealth, Inc. - Class A Common Stock",NASDAQ Capital Market,GOCO
 GOEV,Canoo Inc.  - Class A Common Stock,NASDAQ Global Select MarketSM,GOEV
 GOEVW,Canoo Inc.  - Warrant,NASDAQ Global Select MarketSM,GOEVW
 GOGL,Golden Ocean Group Limited - Common Stock,NASDAQ Global Select MarketSM,GOGL
@@ -6487,10 +6488,6 @@ LATG,LatAmGrowth SPAC - Class A Ordinary Shares,NASDAQ Global MarketSM,LATG
 LATGU,LatAmGrowth SPAC - Units,NASDAQ Global MarketSM,LATGU
 LATGW,LatAmGrowth SPAC - Warrants,NASDAQ Global MarketSM,LATGW
 LAUR,"Laureate Education, Inc. - Common Stock",NASDAQ Global Select MarketSM,LAUR
-LAX,8i Acquisition 2 Corp. - Ordinary Shares,NASDAQ Global MarketSM,LAX
-LAXXR,8i Acquisition 2 Corp. - Rights,NASDAQ Global MarketSM,LAXXR
-LAXXU,8i Acquisition 2 Corp. - Unit,NASDAQ Global MarketSM,LAXXU
-LAXXW,8i Acquisition 2 Corp. - Warrant,NASDAQ Global MarketSM,LAXXW
 LAZR,"Luminar Technologies, Inc.  - Class A Common Stock",NASDAQ Global Select MarketSM,LAZR
 LAZY,"Lazydays Holdings, Inc. - Common Stock",NASDAQ Capital Market,LAZY
 LBAI,"Lakeland Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,LBAI
@@ -10830,6 +10827,8 @@ GRF,"Eagle Capital Growth Fund, Inc. Common Stock",NYSE MKT,GRF
 GRFX,"Graphex Group Limited American Depositary Shares, each American Depositary Share representing 20 Ordinary Shares",NYSE MKT,GRFX
 GRMN,Garmin Ltd. Common Stock (Switzerland),NYSE,GRMN
 GRN,iPath Series B Carbon Exchange-Traded Notes,NYSE ARCA,GRN
+GRND,Grindr Inc. Common Stock,NYSE,GRND
+GRND.W,"Grindr Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",NYSE,GRND.W
 GRNT,"Granite Ridge Resources, Inc. Common Stock",NYSE,GRNT
 GRNT.W,"Granite Ridge Resources, Inc. Warrants to purchase Common Stock, each whole warrant exercisable for one share of common stock at an exercise price of $11.50 per share",NYSE,GRNT.W
 GROV,"Grove Collaborative Holdings, Inc. Class A Common Stock",NYSE,GROV
@@ -11003,7 +11002,6 @@ HZON,Horizon Acquisition Corporation II Class A Ordinary Shares,NYSE,HZON
 HZON.U,"Horizon Acquisition Corporation II Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",NYSE,HZON.U
 HZON.W,"Horizon Acquisition Corporation II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,HZON.W
 IAA,"IAA, Inc. Common Stock ",NYSE,IAA
-IACC,ION Acquisition Corp 3 Ltd. Class A Ordinary Shares,NYSE,IACC
 IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest,NYSE,IAE
 IAF,"abrdn Australia Equity Fund, Inc. Common Stock",NYSE MKT,IAF
 IAG,Iamgold Corporation Ordinary Shares,NYSE,IAG
@@ -11774,7 +11772,6 @@ NTEST.B,NYSE Tick Pilot Test Sym-G2,NYSE,NTEST.B
 NTEST.C,Tick Pilot Test C Common Stock,NYSE,NTEST.C
 NTG,"Tortoise Midstream Energy Fund, Inc. Common Stock",NYSE,NTG
 NTIP,"Network-1 Technologies, Inc. Common Stock",NYSE MKT,NTIP
-NTP,Nam Tai Property Inc. Common Stock,NYSE,NTP
 NTR,Nutrien Ltd. Common Shares,NYSE,NTR
 NTST,NetSTREIT Corp. Common Stock,NYSE,NTST
 NTZ,"Natuzzi, S.p.A.",NYSE,NTZ
@@ -12655,9 +12652,6 @@ THR,"Thermon Group Holdings, Inc. Common Stock",NYSE,THR
 THS,"Treehouse Foods, Inc. Common Stock",NYSE,THS
 THW,Tekla World Healthcare Fund Shares of Beneficial Interest,NYSE,THW
 TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,NYSE,TIMB
-TINV,Tiga Acquisition Corp. Class A Ordinary Shares,NYSE,TINV
-TINV.U,"Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warrant",NYSE,TINV.U
-TINV.W,"Tiga Acquisition Corp. Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",NYSE,TINV.W
 TISI,"Team, Inc. Common Stock",NYSE,TISI
 TIXT,TELUS International (Cda) Inc. Subordinate Voting Shares,NYSE,TIXT
 TJX,"TJX Companies, Inc. (The) Common Stock",NYSE,TJX
