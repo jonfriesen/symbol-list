@@ -1,5 +1,5 @@
 {
- "date": "2022-11-23",
+ "date": "2022-11-24",
  "data": [
   {
    "symbol": "ONE",
@@ -21846,18 +21846,6 @@
    ]
   },
   {
-   "symbol": "ATA",
-   "name": "ATS Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "ATA.TO",
-   "instruments": [
-    {
-     "name": "ATS Automation Tool",
-     "symbol": "ATA"
-    }
-   ]
-  },
-  {
    "symbol": "G",
    "name": "Augusta Gold Corp.",
    "exchange": "TSX",
@@ -38002,6 +37990,10 @@
     {
      "name": "MCAN Mortgage Corp.",
      "symbol": "MKP"
+    },
+    {
+     "name": "MCAN Mortgage Rt",
+     "symbol": "MKP.RT.A"
     }
    ]
   },
@@ -66404,6 +66396,18 @@
    "name": "Natural Alternatives International, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NAII"
+  },
+  {
+   "symbol": "NAMS",
+   "name": "NewAmsterdam Pharma Company N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAMS"
+  },
+  {
+   "symbol": "NAMSW",
+   "name": "NewAmsterdam Pharma Company N.V. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAMSW"
   },
   {
    "symbol": "NAOV",
