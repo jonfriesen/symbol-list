@@ -1,5 +1,5 @@
 {
- "date": "2022-11-24",
+ "date": "2022-11-25",
  "data": [
   {
    "symbol": "ONE",
@@ -2862,10 +2862,6 @@
     {
      "name": "Builders Capital Mortgage Corp.",
      "symbol": "BCF"
-    },
-    {
-     "name": "Builders Capital Mortgage Corp. rt 25nov2022",
-     "symbol": "BCF.RT"
     }
    ]
   },
@@ -9006,6 +9002,18 @@
    ]
   },
   {
+   "symbol": "NURS.P",
+   "name": "Hydreight Technologies Inc",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NURS.P.V",
+   "instruments": [
+    {
+     "name": "Hydreight Technologies Inc.",
+     "symbol": "NURS.P"
+    }
+   ]
+  },
+  {
    "symbol": "IMA",
    "name": "I-Minerals Inc.",
    "exchange": "TSXV",
@@ -13518,18 +13526,6 @@
    ]
   },
   {
-   "symbol": "OG",
-   "name": "ORAGIN Foods Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OG.V",
-   "instruments": [
-    {
-     "name": "ORAGIN Foods Inc.",
-     "symbol": "OG"
-    }
-   ]
-  },
-  {
    "symbol": "ORC.A",
    "name": "Orca Energy Group Inc.",
    "exchange": "TSXV",
@@ -14154,18 +14150,6 @@
     {
      "name": "Pentagon I Capital Corp",
      "symbol": "PNTI.P"
-    }
-   ]
-  },
-  {
-   "symbol": "PCL.P",
-   "name": "Perihelion Capital Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PCL.P.V",
-   "instruments": [
-    {
-     "name": "Perihelion Capital Ltd.",
-     "symbol": "PCL.P"
     }
    ]
   },
@@ -53590,7 +53574,7 @@
   {
    "symbol": "CYCN",
    "name": "Cyclerion Therapeutics, Inc. - Common Stock ",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CYCN"
   },
   {
@@ -62612,12 +62596,6 @@
    "yahoo_symbol": "JXJT"
   },
   {
-   "symbol": "JYAC",
-   "name": "Jiya Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JYAC"
-  },
-  {
    "symbol": "JYNT",
    "name": "The Joint Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -64804,7 +64782,7 @@
   {
    "symbol": "MBIO",
    "name": "Mustang Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MBIO"
   },
   {
@@ -82530,6 +82508,12 @@
    "name": "Brookdale Senior Living Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BKD"
+  },
+  {
+   "symbol": "BKDT",
+   "name": "Brookdale Senior Living Inc. 7.00% Tangible Equity Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKDT"
   },
   {
    "symbol": "BKE",
