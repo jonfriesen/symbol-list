@@ -1,5 +1,5 @@
 {
- "date": "2022-11-25",
+ "date": "2022-11-28",
  "data": [
   {
    "symbol": "ONE",
@@ -9194,18 +9194,6 @@
     {
      "name": "IMining Technologies Inc.",
      "symbol": "IMIN"
-    }
-   ]
-  },
-  {
-   "symbol": "IPA",
-   "name": "Immunoprecise Antibodies Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IPA.V",
-   "instruments": [
-    {
-     "name": "Immunoprecise Antibodies Ltd.",
-     "symbol": "IPA"
     }
    ]
   },
@@ -21826,6 +21814,18 @@
     {
      "name": "Atrium Mtg 5.1% Deb",
      "symbol": "AI.DB.G"
+    }
+   ]
+  },
+  {
+   "symbol": "ATS",
+   "name": "ATS Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATS.TO",
+   "instruments": [
+    {
+     "name": "ATS Corporation",
+     "symbol": "ATS"
     }
    ]
   },
@@ -70828,10 +70828,28 @@
    "yahoo_symbol": "QNST"
   },
   {
+   "symbol": "QOMO",
+   "name": "Qomolangma Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QOMO"
+  },
+  {
+   "symbol": "QOMOR",
+   "name": "Qomolangma Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QOMOR"
+  },
+  {
    "symbol": "QOMOU",
    "name": "Qomolangma Acquisition Corp. - Unit",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QOMOU"
+  },
+  {
+   "symbol": "QOMOW",
+   "name": "Qomolangma Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QOMOW"
   },
   {
    "symbol": "QQC",
@@ -91196,12 +91214,6 @@
    "name": "JELD-WEN Holding, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "JELD"
-  },
-  {
-   "symbol": "JEMD",
-   "name": "Nuveen Emerging Markets Debt 2022 Target Term Fund Common Shares of Beneficial Interest, $0.01 par value per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JEMD"
   },
   {
    "symbol": "JEQ",
