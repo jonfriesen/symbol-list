@@ -1,5 +1,5 @@
 {
- "date": "2022-11-29",
+ "date": "2022-11-30",
  "data": [
   {
    "symbol": "ONE",
@@ -5758,6 +5758,10 @@
     {
      "name": "Emerge Commerce Ltd.",
      "symbol": "ECOM"
+    },
+    {
+     "name": "Emerge Commerce Ltd. wt 24Nov2025",
+     "symbol": "ECOM.WT"
     }
    ]
   },
@@ -21686,6 +21690,18 @@
     {
      "name": "Arizona Sonoran J",
      "symbol": "ASCU"
+    }
+   ]
+  },
+  {
+   "symbol": "ACAA",
+   "name": "Arrow Canadian Advantage Alternative Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "ACAA.TO",
+   "instruments": [
+    {
+     "name": "Arrow CdnAdvanCl ETF",
+     "symbol": "ACAA"
     }
    ]
   },
@@ -51852,7 +51868,7 @@
   {
    "symbol": "CIH",
    "name": "China Index Holdings Limited - American Depository Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CIH"
   },
   {
@@ -54442,6 +54458,12 @@
    "yahoo_symbol": "DRRX"
   },
   {
+   "symbol": "DRS",
+   "name": "Leonardo DRS, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DRS"
+  },
+  {
    "symbol": "DRTS",
    "name": "Alpha Tau Medical Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -55514,12 +55536,6 @@
    "name": "Equinix, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "EQIX"
-  },
-  {
-   "symbol": "EQOS",
-   "name": "EQONEX LIMITED - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EQOS"
   },
   {
    "symbol": "EQRR",
@@ -57240,7 +57256,7 @@
   {
    "symbol": "FRLN",
    "name": "Freeline Therapeutics Holdings plc - ADSs",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FRLN"
   },
   {
@@ -69352,24 +69368,6 @@
    "yahoo_symbol": "PHCF"
   },
   {
-   "symbol": "PHIC",
-   "name": "Population Health Investment Co., Inc. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PHIC"
-  },
-  {
-   "symbol": "PHICU",
-   "name": "Population Health Investment Co., Inc. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PHICU"
-  },
-  {
-   "symbol": "PHICW",
-   "name": "Population Health Investment Co., Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PHICW"
-  },
-  {
    "symbol": "PHIO",
    "name": "Phio Pharmaceuticals Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -70394,24 +70392,6 @@
    "name": "Invesco DWA Healthcare Momentum ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PTH"
-  },
-  {
-   "symbol": "PTIC",
-   "name": "PropTech Investment Corporation II - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTIC"
-  },
-  {
-   "symbol": "PTICU",
-   "name": "PropTech Investment Corporation II - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTICU"
-  },
-  {
-   "symbol": "PTICW",
-   "name": "PropTech Investment Corporation II - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTICW"
   },
   {
    "symbol": "PTIX",
@@ -73028,6 +73008,18 @@
    "name": "Simmons First National Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SFNC"
+  },
+  {
+   "symbol": "SFR",
+   "name": "Appreciate Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SFR"
+  },
+  {
+   "symbol": "SFRWW",
+   "name": "Appreciate Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SFRWW"
   },
   {
    "symbol": "SFST",
@@ -98272,18 +98264,6 @@
    "yahoo_symbol": "SBI"
   },
   {
-   "symbol": "SBII",
-   "name": "Sandbridge X2 Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBII"
-  },
-  {
-   "symbol": "SBII.U",
-   "name": "Sandbridge X2 Corp. Unit",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBII.U"
-  },
-  {
    "symbol": "SBOW",
    "name": "SilverBow Resorces, Inc. Common Stock",
    "exchange": "NYSE",
@@ -102364,12 +102344,6 @@
    "yahoo_symbol": "WPCA.U"
   },
   {
-   "symbol": "WPCA.W",
-   "name": "Warburg Pincus Capital Corporation IA Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WPCA.W"
-  },
-  {
    "symbol": "WPCB",
    "name": "Warburg Pincus Capital Corporation IB Class A Ordinary Shares",
    "exchange": "NYSE",
@@ -102380,12 +102354,6 @@
    "name": "Warburg Pincus Capital Corporation IB Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "WPCB.U"
-  },
-  {
-   "symbol": "WPCB.W",
-   "name": "Warburg Pincus Capital Corporation IB Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WPCB.W"
   },
   {
    "symbol": "WPM",
