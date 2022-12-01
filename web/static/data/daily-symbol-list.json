@@ -1,5 +1,5 @@
 {
- "date": "2022-11-30",
+ "date": "2022-12-01",
  "data": [
   {
    "symbol": "ONE",
@@ -9006,14 +9006,14 @@
    ]
   },
   {
-   "symbol": "NURS.P",
+   "symbol": "NURS",
    "name": "Hydreight Technologies Inc",
    "exchange": "TSXV",
-   "yahoo_symbol": "NURS.P.V",
+   "yahoo_symbol": "NURS.V",
    "instruments": [
     {
      "name": "Hydreight Technologies Inc.",
-     "symbol": "NURS.P"
+     "symbol": "NURS"
     }
    ]
   },
@@ -25090,6 +25090,18 @@
    ]
   },
   {
+   "symbol": "NBAM",
+   "name": "Brookfield Asset Management Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBAM.TO",
+   "instruments": [
+    {
+     "name": "Brookfld AstMgt A WI",
+     "symbol": "NBAM"
+    }
+   ]
+  },
+  {
    "symbol": "BAMR",
    "name": "Brookfield Asset Management Reinsurance Partners Ltd.",
    "exchange": "TSX",
@@ -25122,6 +25134,18 @@
     {
      "name": "Brookfield Bus LP Un",
      "symbol": "BBU.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "BN",
+   "name": "Brookfield Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "BN.TO",
+   "instruments": [
+    {
+     "name": "Brookfield Corp A WI",
+     "symbol": "BN"
     }
    ]
   },
@@ -39286,10 +39310,6 @@
     {
      "name": "NXT Energy Solutn J",
      "symbol": "SFD"
-    },
-    {
-     "name": "NXT Enrgy SolutnJ Rt",
-     "symbol": "SFD.RT"
     }
    ]
   },
@@ -39630,18 +39650,6 @@
     {
      "name": "Pason Systems Inc.",
      "symbol": "PSI"
-    }
-   ]
-  },
-  {
-   "symbol": "PAT",
-   "name": "Patriot One Technologies Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "PAT.TO",
-   "instruments": [
-    {
-     "name": "Patriot One Tech J",
-     "symbol": "PAT"
     }
    ]
   },
@@ -40650,10 +40658,6 @@
     {
      "name": "Purpose EthrCA NC Hg",
      "symbol": "ETHH.B"
-    },
-    {
-     "name": "PurposeEthrCA HGCrbn",
-     "symbol": "ETHH.J"
     },
     {
      "name": "Purpose EthrUS$NC Hg",
@@ -46238,12 +46242,6 @@
    "yahoo_symbol": "AERC"
   },
   {
-   "symbol": "AESE",
-   "name": "Allied Esports Entertainment, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AESE"
-  },
-  {
    "symbol": "AEY",
    "name": "ADDvantage Technologies Group, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -46362,6 +46360,12 @@
    "name": "Afya Limited - Class A Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AFYA"
+  },
+  {
+   "symbol": "AGAE",
+   "name": "Allied Gaming \u0026 Entertainment Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGAE"
   },
   {
    "symbol": "AGBA",
@@ -64034,24 +64038,6 @@
    "yahoo_symbol": "LKQ"
   },
   {
-   "symbol": "LMACA",
-   "name": "Liberty Media Acquisition Corporation - Series A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LMACA"
-  },
-  {
-   "symbol": "LMACU",
-   "name": "Liberty Media Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LMACU"
-  },
-  {
-   "symbol": "LMACW",
-   "name": "Liberty Media Acquisition Corporation - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LMACW"
-  },
-  {
    "symbol": "LMAT",
    "name": "LeMaitre Vascular, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -76304,24 +76290,6 @@
    "yahoo_symbol": "TSHA"
   },
   {
-   "symbol": "TSIB",
-   "name": "Tishman Speyer Innovation Corp. II - Class A common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TSIB"
-  },
-  {
-   "symbol": "TSIBU",
-   "name": "Tishman Speyer Innovation Corp. II - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TSIBU"
-  },
-  {
-   "symbol": "TSIBW",
-   "name": "Tishman Speyer Innovation Corp. II - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TSIBW"
-  },
-  {
    "symbol": "TSL",
    "name": "GraniteShares 1.25x Long Tesla Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -81776,6 +81744,12 @@
    "yahoo_symbol": "BAM"
   },
   {
+   "symbol": "BAM.V",
+   "name": "Brookfield Asset Management Inc Class A Limited Voting Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BAM.V"
+  },
+  {
    "symbol": "BAMH",
    "name": "Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080",
    "exchange": "NYSE",
@@ -82728,6 +82702,12 @@
    "name": "Bristol-Myers Squibb Company Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BMY"
+  },
+  {
+   "symbol": "BN.V",
+   "name": "Brookfield Corporation Class A Limited Voting Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BN.V"
   },
   {
    "symbol": "BNED",
@@ -84822,18 +84802,6 @@
    "name": "Cross Timbers Royalty Trust Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CRT"
-  },
-  {
-   "symbol": "CRU",
-   "name": "Crucible Acquisition Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CRU"
-  },
-  {
-   "symbol": "CRU.U",
-   "name": "Crucible Acquisition Corporation Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CRU.U"
   },
   {
    "symbol": "CS",
@@ -87476,12 +87444,6 @@
    "yahoo_symbol": "FAX"
   },
   {
-   "symbol": "FBC",
-   "name": "Flagstar Bancorp, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FBC"
-  },
-  {
    "symbol": "FBGX",
    "name": "UBS AG FI Enhanced Large Cap Growth ETN",
    "exchange": "NYSE ARCA",
@@ -87674,10 +87636,10 @@
    "yahoo_symbol": "FFC"
   },
   {
-   "symbol": "FG.V",
-   "name": "F\u0026G Annuities \u0026 Life, Inc. Common Stock When-Issued",
+   "symbol": "FG",
+   "name": "F\u0026G Annuities \u0026 Life, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "FG.V"
+   "yahoo_symbol": "FG"
   },
   {
    "symbol": "FGB",
@@ -87948,12 +87910,6 @@
    "name": "FNF Group of Fidelity National Financial, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FNF"
-  },
-  {
-   "symbol": "FNF.V",
-   "name": "Fidelity National Financial, Inc. FNF Group Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FNF.V"
   },
   {
    "symbol": "FNGD",
@@ -95762,12 +95718,6 @@
    "yahoo_symbol": "PBF"
   },
   {
-   "symbol": "PBFX",
-   "name": "PBF Logistics LP Common Units representing limited partner interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PBFX"
-  },
-  {
    "symbol": "PBH",
    "name": "Prestige Consumer Healthcare Inc. Common Stock",
    "exchange": "NYSE",
@@ -95904,12 +95854,6 @@
    "name": "Periphas Capital Partnering Corporation CAPS, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "PCPC.U"
-  },
-  {
-   "symbol": "PCPC.W",
-   "name": "Periphas Capital Partnering Corporation Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PCPC.W"
   },
   {
    "symbol": "PCQ",
@@ -97368,18 +97312,6 @@
    "name": "D/B/A Royal Caribbean Cruises Ltd. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RCL"
-  },
-  {
-   "symbol": "RCOR",
-   "name": "Renovacor, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "RCOR"
-  },
-  {
-   "symbol": "RCOR.W",
-   "name": "Renovacor, Inc. Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "RCOR.W"
   },
   {
    "symbol": "RCS",
