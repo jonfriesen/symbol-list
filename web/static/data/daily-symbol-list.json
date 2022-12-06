@@ -1,5 +1,5 @@
 {
- "date": "2022-12-05",
+ "date": "2022-12-06",
  "data": [
   {
    "symbol": "ONE",
@@ -9198,18 +9198,6 @@
     {
      "name": "iMetal Resources Inc.",
      "symbol": "IMR"
-    }
-   ]
-  },
-  {
-   "symbol": "IMIN",
-   "name": "iMining Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IMIN.V",
-   "instruments": [
-    {
-     "name": "IMining Technologies Inc.",
-     "symbol": "IMIN"
     }
    ]
   },
@@ -27706,18 +27694,6 @@
    ]
   },
   {
-   "symbol": "CSM",
-   "name": "ClearStream Energy Services Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CSM.TO",
-   "instruments": [
-    {
-     "name": "ClearStream Energy",
-     "symbol": "CSM"
-    }
-   ]
-  },
-  {
    "symbol": "CCS.PR.C",
    "name": "Co-operators General Insurance Company",
    "exchange": "TSX",
@@ -31054,6 +31030,18 @@
    ]
   },
   {
+   "symbol": "FLNT",
+   "name": "FLINT Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLNT.TO",
+   "instruments": [
+    {
+     "name": "ClearStream Energy",
+     "symbol": "FLNT"
+    }
+   ]
+  },
+  {
    "symbol": "FLOW",
    "name": "Flow Beverage Corp.",
    "exchange": "TSX",
@@ -31278,18 +31266,6 @@
     {
      "name": "Franklin CoreBalActv",
      "symbol": "FLBA"
-    }
-   ]
-  },
-  {
-   "symbol": "FLEM",
-   "name": "Franklin Emerging Markets Multifactor Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FLEM.TO",
-   "instruments": [
-    {
-     "name": "Franklin EmrgMktMlti",
-     "symbol": "FLEM"
     }
    ]
   },
@@ -84236,12 +84212,6 @@
    "yahoo_symbol": "CND.U"
   },
   {
-   "symbol": "CND.W",
-   "name": "Concord Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CND.W"
-  },
-  {
    "symbol": "CNDA",
    "name": "Concord Acquisition Corp II Class A Common Stock",
    "exchange": "NYSE",
@@ -99564,12 +99534,6 @@
    "name": "Servotronics, Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "SVT"
-  },
-  {
-   "symbol": "SWCH",
-   "name": "Switch, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SWCH"
   },
   {
    "symbol": "SWI",
