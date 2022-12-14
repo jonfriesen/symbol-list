@@ -1,5 +1,5 @@
 {
- "date": "2022-12-13",
+ "date": "2022-12-14",
  "data": [
   {
    "symbol": "ONE",
@@ -8830,6 +8830,18 @@
    ]
   },
   {
+   "symbol": "ESPN",
+   "name": "Hispania Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESPN.V",
+   "instruments": [
+    {
+     "name": "Hispania Resources Inc.",
+     "symbol": "ESPN"
+    }
+   ]
+  },
+  {
    "symbol": "HIVE",
    "name": "Hive Blockchain Technologies Ltd.",
    "exchange": "TSXV",
@@ -11598,18 +11610,6 @@
     {
      "name": "Meraki Acquisition One, Inc.",
      "symbol": "MRKI.P"
-    }
-   ]
-  },
-  {
-   "symbol": "ESPN",
-   "name": "Merida Minerals Holdings Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ESPN.V",
-   "instruments": [
-    {
-     "name": "Merida Minerals Holdings Inc.",
-     "symbol": "ESPN"
     }
    ]
   },
@@ -24954,18 +24954,6 @@
    ]
   },
   {
-   "symbol": "BAMR",
-   "name": "Brookfield Asset Management Reinsurance Partners Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "BAMR.TO",
-   "instruments": [
-    {
-     "name": "Brookfld MgtReinsrLV",
-     "symbol": "BAMR"
-    }
-   ]
-  },
-  {
    "symbol": "BBUC",
    "name": "Brookfield Business Corporation",
    "exchange": "TSX",
@@ -25226,6 +25214,18 @@
     {
      "name": "Brookfld Pty Pr 1 US",
      "symbol": "BPS.PR.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BNRE",
+   "name": "Brookfield Reinsurance Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BNRE.TO",
+   "instruments": [
+    {
+     "name": "Brookfld MgtReinsrLV",
+     "symbol": "BNRE"
     }
    ]
   },
@@ -48730,6 +48730,12 @@
    "yahoo_symbol": "AZYO"
   },
   {
+   "symbol": "BABX",
+   "name": "GraniteShares 1.75x Long BABA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BABX"
+  },
+  {
    "symbol": "BACK",
    "name": "IMAC Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -56036,6 +56042,12 @@
    "name": "First Business Financial Services, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FBIZ"
+  },
+  {
+   "symbol": "FBL",
+   "name": "GraniteShares 1.5x Long Meta Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBL"
   },
   {
    "symbol": "FBMS",
@@ -63556,12 +63568,6 @@
    "yahoo_symbol": "LGVN"
   },
   {
-   "symbol": "LHAA",
-   "name": "Lerer Hippeau Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LHAA"
-  },
-  {
    "symbol": "LHCG",
    "name": "LHC Group - common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63890,12 +63896,6 @@
    "name": "Manhattan Bridge Capital, Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LOAN"
-  },
-  {
-   "symbol": "LOB",
-   "name": "Live Oak Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LOB"
   },
   {
    "symbol": "LOCO",
@@ -66986,6 +66986,12 @@
    "name": "NVIDIA Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "NVDA"
+  },
+  {
+   "symbol": "NVDL",
+   "name": "GraniteShares 1.5x Long NVDA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVDL"
   },
   {
    "symbol": "NVDS",
@@ -75546,7 +75552,7 @@
   {
    "symbol": "TLSA",
    "name": "Tiziana Life Sciences Ltd - Common Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TLSA"
   },
   {
@@ -76986,7 +76992,7 @@
   {
    "symbol": "VERO",
    "name": "Venus Concept Inc.  - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VERO"
   },
   {
@@ -81334,12 +81340,6 @@
    "yahoo_symbol": "BAM"
   },
   {
-   "symbol": "BAMR",
-   "name": "Brookfield Asset Management Reinsurance Partners Ltd. Class A Exchangeable Limited Voting Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BAMR"
-  },
-  {
    "symbol": "BANC",
    "name": "Banc of California, Inc. Common Stock",
    "exchange": "NYSE",
@@ -82316,6 +82316,12 @@
    "name": "Broadstone Net Lease, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BNL"
+  },
+  {
+   "symbol": "BNRE",
+   "name": "Brookfield Reinsurance Ltd. Class A Exchangeable Limited Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNRE"
   },
   {
    "symbol": "BNS",
@@ -86402,18 +86408,6 @@
    "name": "Essential Properties Realty Trust, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "EPRT"
-  },
-  {
-   "symbol": "EPWR",
-   "name": "Empowerment \u0026 Inclusion Capital I Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EPWR"
-  },
-  {
-   "symbol": "EPWR.U",
-   "name": "Empowerment \u0026 Inclusion Capital I Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EPWR.U"
   },
   {
    "symbol": "EQC",
@@ -91826,6 +91820,12 @@
    "name": "Lindsay Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LNN"
+  },
+  {
+   "symbol": "LOB",
+   "name": "Live Oak Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOB"
   },
   {
    "symbol": "LOCC",
@@ -101366,12 +101366,6 @@
    "name": "Waverley Capital Acquisition Corp. 1 Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
    "exchange": "NYSE",
    "yahoo_symbol": "WAVC.W"
-  },
-  {
-   "symbol": "WBEV",
-   "name": "Winc, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "WBEV"
   },
   {
    "symbol": "WBS",
