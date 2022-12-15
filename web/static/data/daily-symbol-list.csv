@@ -313,6 +313,7 @@ CH,Charbone Hydrogen Corporation,TSXV,CH.V,Charbone Hydrogen Corporation,CH
 NZP,Chatham Rock Phosphate Limited,TSXV,NZP.V,Chatham Rock Phosphate Limited,NZP
 CKG,Chesapeake Gold Corp.,TSXV,CKG.V,Chesapeake Gold Corp.,CKG
 CBG,Chibougamau Independent Mines Inc.,TSXV,CBG.V,Chibougamau Independent Mines Inc.,CBG
+CCIC.P,Chicane Capital I Corp.,TSXV,CCIC.P.V,Chicane Capital I Corp.,CCIC.P
 CRI,Churchill Resources Inc.,TSXV,CRI.V,Churchill Resources Inc.,CRI
 CMC,Cielo Waste Solutions Corp.,TSXV,CMC.V,Cielo Waste Solutions Corp.,CMC,Cielo Waste Solutions Corp. wt 08jul2027,CMC.WT
 CAC.P,Cinaport Acquisition Corp. III,TSXV,CAC.P.V,Cinaport Acquisition Corp. III,CAC.P
@@ -351,7 +352,6 @@ CN,Condor Resources Inc.,TSXV,CN.V,Condor Resources Inc,CN
 CQR,Conquest Resources Limited,TSXV,CQR.V,Conquest Resources Limited,CQR
 FFP,Consolidated Firstfund Capital Corp.,TSXV,FFP.V,Cons Firstfund Capital Corp.,FFP
 CUR,Consolidated Uranium Inc.,TSXV,CUR.V,Consolidated Uranium Inc.,CUR
-WCC,Consolidated Woodjam Copper Corp.,TSXV,WCC.V,Consolidated Woodjam Copper Corp.,WCC
 C,Contact Gold Corp.,TSXV,C.V,Contact Gold Corp.,C
 CNS,Contagious Gaming Inc.,TSXV,CNS.V,Contagious Gaming Inc.,CNS
 CPAU,Copaur Minerals Inc.,TSXV,CPAU.V,Copaur Minerals Inc.,CPAU
@@ -901,6 +901,7 @@ NHP,Lumiera Health Inc.,TSXV,NHP.V,Lumiera Health Inc.,NHP
 LUM,Lumina Gold Corp.,TSXV,LUM.V,Lumina Gold Corp.,LUM
 LR,Luminex Resources Corp.,TSXV,LR.V,Luminex Resources Corp.,LR
 LPK,Lupaka Gold Corp.,TSXV,LPK.V,Lupaka Gold Corp.,LPK
+LCX,Lycos Energy Inc.,TSXV,LCX.V,Lycos Energy Inc.,LCX
 MCT.P,M3 Capital Corp.,TSXV,MCT.P.V,M3 Capital Corp.,MCT.P
 MT,M3 Metals Corp.,TSXV,MT.V,M3 Metals Corp.,MT
 MMS,Macarthur Minerals Limited,TSXV,MMS.V,Macarthur Minerals Limited,MMS
@@ -1320,7 +1321,6 @@ FISH,Sailfish Royalty Corp.,TSXV,FISH.V,Sailfish Royalty Corp.,FISH
 SRL,Salazar Resources Limited,TSXV,SRL.V,Salazar Resources Limited,SRL
 SGMD,Salona Global Medical Device Corporation,TSXV,SGMD.V,Salona Global Medical Device Corporation,SGMD
 SME,Sama Resources Inc./Ressources Sama Inc.,TSXV,SME.V,Sama Resources Inc./Ressources Sama Inc.,SME
-SCD,Samoth Oilfield Inc.,TSXV,SCD.V,Samoth Oilfield Inc.,SCD
 SSS.P,Samurai Capital Corp.,TSXV,SSS.P.V,Samurai Capital Corp.,SSS.P
 SLG,San Lorenzo Gold Corp.,TSXV,SLG.V,San Lorenzo Gold Corp.,SLG
 STA,Sanatana Resources Inc.,TSXV,STA.V,Sanatana Resources Inc.,STA
@@ -2012,7 +2012,7 @@ BIP.PR.A,Brookfield Infrastructure Partners L.P.,TSX,BIP.PR.A.TO,Brookfield Infr
 BPO.PR.A,Brookfield Office Properties Inc.,TSX,BPO.PR.A.TO,Brookfld Office PrAA,BPO.PR.A,Brookfld Office PrCC,BPO.PR.C,Brookfld Office PrEE,BPO.PR.E,Brookfld Office PrGG,BPO.PR.G,Brookfld Office PrII,BPO.PR.I,Brookfld Office Pr N,BPO.PR.N,Brookfld Office Pr P,BPO.PR.P,Brookfld Office Pr R,BPO.PR.R,Brookfld Office Pr T,BPO.PR.T,Brookfld Office Pr W,BPO.PR.W,Brookfld Office Pr V,BPO.PR.X,Brookfld Office Pr Y,BPO.PR.Y
 BPYP.PR.A,Brookfield Property Preferred L.P.,TSX,BPYP.PR.A.TO,Brookfld PptyPref Un,BPYP.PR.A
 BPS.PR.A,Brookfield Property Split Corp.,TSX,BPS.PR.A.TO,Brookfld Ppty Pr 2,BPS.PR.A,Brookfld Ppty Pr 3,BPS.PR.B,Brookfld Ppty Pr 4,BPS.PR.C,Brookfld Pty Pr 1 US,BPS.PR.U
-BNRE,Brookfield Reinsurance Ltd.,TSX,BNRE.TO,Brookfld MgtReinsrLV,BNRE
+BNRE,Brookfield Reinsurance Ltd.,TSX,BNRE.TO,Brookfld ReinsurLV A,BNRE
 BEPC,Brookfield Renewable Corporation,TSX,BEPC.TO,Brookfld RenewA ExSV,BEPC
 BEP.PR.G,Brookfield Renewable Partners L.P.,TSX,BEP.PR.G.TO,Brookfield Renew Pr7,BEP.PR.G,Brookfield RenewPr13,BEP.PR.M,Brookfield RenewPr15,BEP.PR.O,Brookfield RenewPr18,BEP.PR.R,Brookfld Renew LP Un,BEP.UN
 BRF.PR.A,Brookfield Renewable Power Preferred Equity Inc.,TSX,BRF.PR.A.TO,Brookfld Renew Pr 1,BRF.PR.A,Brookfld Renew Pr 2,BRF.PR.B,Brookfld Renew Pr 3,BRF.PR.C,Brookfld Renew Pr 5,BRF.PR.E,Brookfld Renew Pr 6,BRF.PR.F
@@ -4598,11 +4598,11 @@ CLRCU,ClimateRock - Unit,NASDAQ Global MarketSM,CLRCU
 CLRCW,ClimateRock - Warrant,NASDAQ Global MarketSM,CLRCW
 CLRG,IQ Chaikin U.S. Large Cap ETF,NASDAQ Global MarketSM,CLRG
 CLRO,"ClearOne, Inc. - Common Stock",NASDAQ Capital Market,CLRO
-CLSA,Cabana Target Leading Sector Aggressive ETF,NASDAQ Global Select MarketSM,CLSA
-CLSC,Cabana Target Leading Sector Conservative ETF,NASDAQ Global Select MarketSM,CLSC
+CLSA,Cabana Target Leading Sector Aggressive ETF,NASDAQ Global MarketSM,CLSA
+CLSC,Cabana Target Leading Sector Conservative ETF,NASDAQ Global MarketSM,CLSC
 CLSD,"Clearside Biomedical, Inc. - Common Stock",NASDAQ Global MarketSM,CLSD
 CLSK,"CleanSpark, Inc. - Common Stock",NASDAQ Capital Market,CLSK
-CLSM,Cabana Target Leading Sector Moderate ETF,NASDAQ Global Select MarketSM,CLSM
+CLSM,Cabana Target Leading Sector Moderate ETF,NASDAQ Global MarketSM,CLSM
 CLST,"Catalyst Bancorp, Inc. - common stock",NASDAQ Capital Market,CLST
 CLVR,Clever Leaves Holdings Inc. - Common Shares,NASDAQ Capital Market,CLVR
 CLVRW,Clever Leaves Holdings Inc. - Warrant,NASDAQ Capital Market,CLVRW
@@ -5889,9 +5889,6 @@ HIMX,"Himax Technologies, Inc. - American depositary shares, each of which repre
 HISF,First Trust High Income Strategic Focus ETF,NASDAQ Global MarketSM,HISF
 HITI,High Tide Inc. - Common Shares,NASDAQ Capital Market,HITI
 HIVE,Hive Blockchain Technologies Ltd. - Common Shares,NASDAQ Capital Market,HIVE
-HLAH,"Hamilton Lane Alliance Holdings I, Inc. - Class A Common Stock",NASDAQ Capital Market,HLAH
-HLAHU,"Hamilton Lane Alliance Holdings I, Inc. - Unit",NASDAQ Capital Market,HLAHU
-HLAHW,"Hamilton Lane Alliance Holdings I, Inc. - Warrant",NASDAQ Capital Market,HLAHW
 HLAL,Wahed FTSE USA Shariah ETF,NASDAQ Global MarketSM,HLAL
 HLBZ,"Helbiz, Inc. - Class A Common Stock",NASDAQ Capital Market,HLBZ
 HLBZW,"Helbiz, Inc. - Warrant",NASDAQ Capital Market,HLBZW
@@ -6302,9 +6299,6 @@ JMSB,"John Marshall Bancorp, Inc. - Common Stock",NASDAQ Capital Market,JMSB
 JNCE,"Jounce Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,JNCE
 JOAN,"JOANN, Inc. - common stock",NASDAQ Global MarketSM,JOAN
 JOET,Virtus Terranova U.S. Quality Momentum ETF,NASDAQ Global MarketSM,JOET
-JOFF,JOFF Fintech Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,JOFF
-JOFFU,JOFF Fintech Acquisition Corp. - Unit,NASDAQ Capital Market,JOFFU
-JOFFW,JOFF Fintech Acquisition Corp. - Warrant,NASDAQ Capital Market,JOFFW
 JOUT,Johnson Outdoors Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,JOUT
 JRSH,"Jerash Holdings (US), Inc. - Common Stock",NASDAQ Capital Market,JRSH
 JRVR,"James River Group Holdings, Ltd. - Common Shares",NASDAQ Global Select MarketSM,JRVR
@@ -6433,7 +6427,7 @@ KYMR,"Kymera Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,KYMR
 KZIA,Kazia Therapeutics Limited - American Depositary Shares,NASDAQ Capital Market,KZIA
 KZR,"Kezar Life Sciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,KZR
 LAB,Standard BioTools Inc. - Common Stock,NASDAQ Global Select MarketSM,LAB
-LABP,"Landos Biopharma, Inc. - Common Stock",NASDAQ Global MarketSM,LABP
+LABP,"Landos Biopharma, Inc. - Common Stock",NASDAQ Capital Market,LABP
 LAKE,"Lakeland Industries, Inc. - Common Stock",NASDAQ Global MarketSM,LAKE
 LAMR,Lamar Advertising Company - Class A Common Stock,NASDAQ Global Select MarketSM,LAMR
 LANC,Lancaster Colony Corporation - Common Stock,NASDAQ Global Select MarketSM,LANC
@@ -7725,6 +7719,7 @@ RANI,"Rani Therapeutics Holdings, Inc. - Class A Common Stock",NASDAQ Global Mar
 RAPT,"RAPT Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,RAPT
 RARE,Ultragenyx Pharmaceutical Inc. - Common Stock,NASDAQ Global Select MarketSM,RARE
 RAVE,"Rave Restaurant Group, Inc. - Common Stock",NASDAQ Capital Market,RAVE
+RAYA,Erayak Power Solution Group Inc. - Class A Ordinary Shares,NASDAQ Capital Market,RAYA
 RAYS,Global X Solar ETF,NASDAQ Global MarketSM,RAYS
 RBB,RBB Bancorp - Common Stock,NASDAQ Global Select MarketSM,RBB
 RBBN,Ribbon Communications Inc.  - Common Stock,NASDAQ Global Select MarketSM,RBBN
@@ -9295,8 +9290,6 @@ AMN,AMN Healthcare Services Inc AMN Healthcare Services Inc,NYSE,AMN
 AMOV,"America Movil, S.A.B. de C.V. Class A American Depositary Shares",NYSE,AMOV
 AMP,"Ameriprise Financial, Inc. Common Stock",NYSE,AMP
 AMPE,"Ampio Pharmaceuticals, Inc.",NYSE MKT,AMPE
-AMPI,"Advanced Merger Partners, Inc. Class A Common Stock",NYSE,AMPI
-AMPI.U,"Advanced Merger Partners, Inc. Units, each consisting of one share of Class A common stock and one-sixth of one redeemable warrant",NYSE,AMPI.U
 AMPS,"Altus Power, Inc. Class A Common Stock",NYSE,AMPS
 AMPX,"Amprius Technologies, Inc. Common Stock",NYSE,AMPX
 AMPX.W,"Amprius Technologies, Inc. Warrants to purchase one share of Common Stock at an exercise price of $11.50 per share",NYSE,AMPX.W
@@ -9933,7 +9926,7 @@ CODI,D/B/A Compass Diversified Holdings Shares of Beneficial Interest,NYSE,CODI
 CODI$A,Compass Diversified Holdings 7.250% Series A Preferred Shares representing beneficial interest in Compass Diversified Holdings,NYSE,CODI$A
 CODI$B,Compass Diversified Holdings 7.875% Series B Fixed-to-Floating Rate Cumulative Preferred Shares representing beneficial interests in Compass Diversified Holdings,NYSE,CODI$B
 CODI$C,Compass Diversified Holdings 7.875% Series C Cumulative Preferred Shares,NYSE,CODI$C
-COE,"51Talk Online Education Group American depositary shares, each representing 15 Class A ordinary shares",NYSE,COE
+COE,"51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",NYSE,COE
 COF,Capital One Financial Corporation Common Stock,NYSE,COF
 COF$I,"Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer",NYSE,COF$I
 COF$J,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non- Cumulative Perpetual Preferred Stock, Series J",NYSE,COF$J
@@ -10426,8 +10419,7 @@ FATH,Fathom Digital Manufacturing Corporation Class A Common Stock,NYSE,FATH
 FATH.W,"Fathom Digital Manufacturing Corporation Warrants, each whole warrant exercisable for one Class A Common Stock at an exercise price of $11.50 per share",NYSE,FATH.W
 FAX,"abrdn Asia-Pacific Income Fund, Inc. Common Stock",NYSE MKT,FAX
 FBGX,UBS AG FI Enhanced Large Cap Growth ETN,NYSE ARCA,FBGX
-FBHS,"Fortune Brands Home & Security, Inc. Common Stock",NYSE,FBHS
-FBIN.V,"Fortune Brands Home & Security, Inc. Common Stock When-Issued",NYSE,FBIN.V
+FBIN,"Fortune Brands Innovations, Inc. Common Stock",NYSE,FBIN
 FBK,FB Financial Corporation Common Stock,NYSE,FBK
 FBP,First BanCorp. New Common Stock,NYSE,FBP
 FBRT,"Franklin BSP Realty Trust, Inc. Common Stock",NYSE,FBRT
@@ -10958,7 +10950,6 @@ IIPR,"Innovative Industrial Properties, Inc. Common Stock",NYSE,IIPR
 IIPR$A,"Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock",NYSE,IIPR$A
 IMAX,Imax Corporation Common Stock,NYSE,IMAX
 IMH,"Impac Mortgage Holdings, Inc. Common Stock ",NYSE MKT,IMH
-IMLP,iPath S&P MLP ETN,BATS,IMLP
 IMO,Imperial Oil Limited Common Stock,NYSE MKT,IMO
 INAQ,Insight Acquisition Corp. Class A Common Stock,NYSE,INAQ
 INAQ.U,Insight Acquisition Corp. Units,NYSE,INAQ.U
@@ -11094,8 +11085,6 @@ JWSM.U,"Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ord
 JWSM.W,"Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,JWSM.W
 JXN,Jackson Financial Inc. Class A Common Stock ,NYSE,JXN
 K,Kellogg Company Common Stock,NYSE,K
-KAHC,KKR Acquisition Holdings I Corp. Class A Common Stock,NYSE,KAHC
-KAHC.U,"KKR Acquisition Holdings I Corp. Units, each consisting of one share of Class A Common Stock and one-fourth of one redeemable warrant",NYSE,KAHC.U
 KAI,Kadant Inc Common Stock,NYSE,KAI
 KAMN,Kaman Corporation Common Stock,NYSE,KAMN
 KAR,"KAR Auction Services, Inc Common Stock",NYSE,KAR
@@ -11176,6 +11165,8 @@ L,Loews Corporation Common Stock,NYSE,L
 LAC,Lithium Americas Corp. Common Shares,NYSE,LAC
 LAD,"Lithia Motors, Inc. Common Stock",NYSE,LAD
 LADR,Ladder Capital Corp Class A Common Stock,NYSE,LADR
+LANV,Lanvin Group Holdings Limited Ordinary Shares,NYSE,LANV
+LANV.W,"Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",NYSE,LANV.W
 LAW,"CS Disco, Inc. Common Stock",NYSE,LAW
 LAZ,"Lazard LTD. Lazard, LTD. Class A Common Stock",NYSE,LAZ
 LBRT,Liberty Energy Inc. Class A common stock,NYSE,LBRT
@@ -11208,9 +11199,6 @@ LGF.B,Lions Gate Entertainment Corporation Class B Non-Voting Shares,NYSE,LGF.B
 LGI,Lazard Global Total Return and Income Fund Common Stock,NYSE,LGI
 LGL,"LGL Group, Inc. (The) Common Stock",NYSE MKT,LGL
 LGL.W,"LGL Group, Inc. (The) Warrants",NYSE MKT,LGL.W
-LGV,Longview Acquisition Corp. II Class A Common Stock,NYSE,LGV
-LGV.U,"Longview Acquisition Corp. II Units, each consisting of one share of Class A Common Stock and one-fifth of one redeemable Warrant",NYSE,LGV.U
-LGV.W,"Longview Acquisition Corp. II Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share",NYSE,LGV.W
 LH,Laboratory Corporation of America Holdings Common Stock,NYSE,LH
 LHC,Leo Holdings Corp. II Class A Ordinary Shares,NYSE,LHC
 LHC.U,"Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,LHC.U
@@ -11288,7 +11276,7 @@ MAXR,Maxar Technologies Inc.,NYSE,MAXR
 MBAC,M3-Brigade Acquisition II Corp. Class A Common Stock,NYSE,MBAC
 MBAC.U,"M3-Brigade Acquisition II Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant",NYSE,MBAC.U
 MBAC.W,"M3-Brigade Acquisition II Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",NYSE,MBAC.W
-MBC.V,"MasterBrand, Inc. Common Stock When-Issued",NYSE,MBC.V
+MBC,"MasterBrand, Inc. Common Stock",NYSE,MBC
 MBI,MBIA Inc. Common Stock,NYSE,MBI
 MBSC,M3-Brigade Acquisition III Corp. Class A Common Stock,NYSE,MBSC
 MBSC.U,M3-Brigade Acquisition III Corp. Units,NYSE,MBSC.U
@@ -11820,8 +11808,6 @@ PCK,Pimco California Municipal Income Fund II Common Shares of Beneficial Intere
 PCM,"PCM Fund, Inc. Common Stock",NYSE,PCM
 PCN,Pimco Corporate & Income Strategy Fund Common Stock,NYSE,PCN
 PCOR,"Procore Technologies, Inc. Common Stock",NYSE,PCOR
-PCPC,Periphas Capital Partnering Corporation Class A Common Stock,NYSE,PCPC
-PCPC.U,"Periphas Capital Partnering Corporation CAPS, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant",NYSE,PCPC.U
 PCQ,PIMCO California Municipal Income Fund Common Stock,NYSE,PCQ
 PD,"PagerDuty, Inc. Common Stock",NYSE,PD
 PDI,PIMCO Dynamic Income Fund Common Stock,NYSE,PDI
@@ -12010,9 +11996,6 @@ PTN,"Palatin Technologies, Inc. Common Stock",NYSE MKT,PTN
 PTY,Pimco Corporate & Income Opportunity Fund,NYSE,PTY
 PUK,Prudential Public Limited Company Common Stock,NYSE,PUK
 PUMP,ProPetro Holding Corp. Common Stock,NYSE,PUMP
-PV,Primavera Capital Acquisition Corporation Class A Ordinary Shares,NYSE,PV
-PV.U,"Primavera Capital Acquisition Corporation Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,PV.U
-PV.W,"Primavera Capital Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,PV.W
 PVH,PVH Corp. Common Stock,NYSE,PVH
 PVL,Permianville Royalty Trust Trust Units ,NYSE,PVL
 PW,Power REIT (MD) Common Stock,NYSE MKT,PW
@@ -12183,7 +12166,6 @@ RYAM,Rayonier Advanced Materials Inc. Common Stock,NYSE,RYAM
 RYAN,"Ryan Specialty Holdings, Inc. Class A Common Stock",NYSE,RYAN
 RYI,Ryerson Holding Corporation Common Stock,NYSE,RYI
 RYN,Rayonier Inc. REIT Common Stock,NYSE,RYN
-RZA,"Reinsurance Group of America, Incorporated 6.20% Fixed-to-Floating Rate Subordinated Debentures due 2042",NYSE,RZA
 RZB,"Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",NYSE,RZB
 RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",NYSE,RZC
 S,"SentinelOne, Inc. Class A Common Stock",NYSE,S
@@ -12432,8 +12414,6 @@ STR.W,Sitio Royalties Corp. Warrant,NYSE MKT,STR.W
 STRE,"Supernova Partners Acquisition Company III, Ltd. Class A Ordinary Shares",NYSE,STRE
 STRE.U,"Supernova Partners Acquisition Company III, Ltd. Units",NYSE,STRE.U
 STRE.W,"Supernova Partners Acquisition Company III, Ltd. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,STRE.W
-STRY,"Starry Group Holdings, Inc. Class A Common Stock",NYSE,STRY
-STRY.W,"Starry Group Holdings, Inc. Warrants, each warrant exercisable for 1.2415 shares of Class A common stock at $9.13",NYSE,STRY.W
 STT,State Street Corporation Common Stock,NYSE,STT
 STT$D,State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D,NYSE,STT$D
 STT$G,"State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative",NYSE,STT$G

@@ -1,5 +1,5 @@
 {
- "date": "2022-12-14",
+ "date": "2022-12-15",
  "data": [
   {
    "symbol": "ONE",
@@ -3814,6 +3814,18 @@
    ]
   },
   {
+   "symbol": "CCIC.P",
+   "name": "Chicane Capital I Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCIC.P.V",
+   "instruments": [
+    {
+     "name": "Chicane Capital I Corp.",
+     "symbol": "CCIC.P"
+    }
+   ]
+  },
+  {
    "symbol": "CRI",
    "name": "Churchill Resources Inc.",
    "exchange": "TSXV",
@@ -4270,18 +4282,6 @@
     {
      "name": "Consolidated Uranium Inc.",
      "symbol": "CUR"
-    }
-   ]
-  },
-  {
-   "symbol": "WCC",
-   "name": "Consolidated Woodjam Copper Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WCC.V",
-   "instruments": [
-    {
-     "name": "Consolidated Woodjam Copper Corp.",
-     "symbol": "WCC"
     }
    ]
   },
@@ -11014,6 +11014,18 @@
    ]
   },
   {
+   "symbol": "LCX",
+   "name": "Lycos Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LCX.V",
+   "instruments": [
+    {
+     "name": "Lycos Energy Inc.",
+     "symbol": "LCX"
+    }
+   ]
+  },
+  {
    "symbol": "MCT.P",
    "name": "M3 Capital Corp.",
    "exchange": "TSXV",
@@ -16134,18 +16146,6 @@
     {
      "name": "Sama Resources Inc./Ressources Sama Inc.",
      "symbol": "SME"
-    }
-   ]
-  },
-  {
-   "symbol": "SCD",
-   "name": "Samoth Oilfield Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SCD.V",
-   "instruments": [
-    {
-     "name": "Samoth Oilfield Inc.",
-     "symbol": "SCD"
     }
    ]
   },
@@ -25224,7 +25224,7 @@
    "yahoo_symbol": "BNRE.TO",
    "instruments": [
     {
-     "name": "Brookfld MgtReinsrLV",
+     "name": "Brookfld ReinsurLV A",
      "symbol": "BNRE"
     }
    ]
@@ -52032,13 +52032,13 @@
   {
    "symbol": "CLSA",
    "name": "Cabana Target Leading Sector Aggressive ETF",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CLSA"
   },
   {
    "symbol": "CLSC",
    "name": "Cabana Target Leading Sector Conservative ETF",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CLSC"
   },
   {
@@ -52056,7 +52056,7 @@
   {
    "symbol": "CLSM",
    "name": "Cabana Target Leading Sector Moderate ETF",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CLSM"
   },
   {
@@ -59776,24 +59776,6 @@
    "yahoo_symbol": "HIVE"
   },
   {
-   "symbol": "HLAH",
-   "name": "Hamilton Lane Alliance Holdings I, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HLAH"
-  },
-  {
-   "symbol": "HLAHU",
-   "name": "Hamilton Lane Alliance Holdings I, Inc. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HLAHU"
-  },
-  {
-   "symbol": "HLAHW",
-   "name": "Hamilton Lane Alliance Holdings I, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HLAHW"
-  },
-  {
    "symbol": "HLAL",
    "name": "Wahed FTSE USA Shariah ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -62254,24 +62236,6 @@
    "yahoo_symbol": "JOET"
   },
   {
-   "symbol": "JOFF",
-   "name": "JOFF Fintech Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JOFF"
-  },
-  {
-   "symbol": "JOFFU",
-   "name": "JOFF Fintech Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JOFFU"
-  },
-  {
-   "symbol": "JOFFW",
-   "name": "JOFF Fintech Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JOFFW"
-  },
-  {
    "symbol": "JOUT",
    "name": "Johnson Outdoors Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63042,7 +63006,7 @@
   {
    "symbol": "LABP",
    "name": "Landos Biopharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LABP"
   },
   {
@@ -70790,6 +70754,12 @@
    "name": "Rave Restaurant Group, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RAVE"
+  },
+  {
+   "symbol": "RAYA",
+   "name": "Erayak Power Solution Group Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RAYA"
   },
   {
    "symbol": "RAYS",
@@ -80212,18 +80182,6 @@
    "yahoo_symbol": "AMPE"
   },
   {
-   "symbol": "AMPI",
-   "name": "Advanced Merger Partners, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AMPI"
-  },
-  {
-   "symbol": "AMPI.U",
-   "name": "Advanced Merger Partners, Inc. Units, each consisting of one share of Class A common stock and one-sixth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AMPI.U"
-  },
-  {
    "symbol": "AMPS",
    "name": "Altus Power, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -84041,7 +83999,7 @@
   },
   {
    "symbol": "COE",
-   "name": "51Talk Online Education Group American depositary shares, each representing 15 Class A ordinary shares",
+   "name": "51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",
    "exchange": "NYSE",
    "yahoo_symbol": "COE"
   },
@@ -86998,16 +86956,10 @@
    "yahoo_symbol": "FBGX"
   },
   {
-   "symbol": "FBHS",
-   "name": "Fortune Brands Home \u0026 Security, Inc. Common Stock",
+   "symbol": "FBIN",
+   "name": "Fortune Brands Innovations, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "FBHS"
-  },
-  {
-   "symbol": "FBIN.V",
-   "name": "Fortune Brands Home \u0026 Security, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FBIN.V"
+   "yahoo_symbol": "FBIN"
   },
   {
    "symbol": "FBK",
@@ -90190,12 +90142,6 @@
    "yahoo_symbol": "IMH"
   },
   {
-   "symbol": "IMLP",
-   "name": "iPath S\u0026P MLP ETN",
-   "exchange": "BATS",
-   "yahoo_symbol": "IMLP"
-  },
-  {
    "symbol": "IMO",
    "name": "Imperial Oil Limited Common Stock",
    "exchange": "NYSE MKT",
@@ -91006,18 +90952,6 @@
    "yahoo_symbol": "K"
   },
   {
-   "symbol": "KAHC",
-   "name": "KKR Acquisition Holdings I Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KAHC"
-  },
-  {
-   "symbol": "KAHC.U",
-   "name": "KKR Acquisition Holdings I Corp. Units, each consisting of one share of Class A Common Stock and one-fourth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KAHC.U"
-  },
-  {
    "symbol": "KAI",
    "name": "Kadant Inc Common Stock",
    "exchange": "NYSE",
@@ -91498,6 +91432,18 @@
    "yahoo_symbol": "LADR"
   },
   {
+   "symbol": "LANV",
+   "name": "Lanvin Group Holdings Limited Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LANV"
+  },
+  {
+   "symbol": "LANV.W",
+   "name": "Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LANV.W"
+  },
+  {
    "symbol": "LAW",
    "name": "CS Disco, Inc. Common Stock",
    "exchange": "NYSE",
@@ -91688,24 +91634,6 @@
    "name": "LGL Group, Inc. (The) Warrants",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "LGL.W"
-  },
-  {
-   "symbol": "LGV",
-   "name": "Longview Acquisition Corp. II Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LGV"
-  },
-  {
-   "symbol": "LGV.U",
-   "name": "Longview Acquisition Corp. II Units, each consisting of one share of Class A Common Stock and one-fifth of one redeemable Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LGV.U"
-  },
-  {
-   "symbol": "LGV.W",
-   "name": "Longview Acquisition Corp. II Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LGV.W"
   },
   {
    "symbol": "LH",
@@ -92170,10 +92098,10 @@
    "yahoo_symbol": "MBAC.W"
   },
   {
-   "symbol": "MBC.V",
-   "name": "MasterBrand, Inc. Common Stock When-Issued",
+   "symbol": "MBC",
+   "name": "MasterBrand, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MBC.V"
+   "yahoo_symbol": "MBC"
   },
   {
    "symbol": "MBI",
@@ -95362,18 +95290,6 @@
    "yahoo_symbol": "PCOR"
   },
   {
-   "symbol": "PCPC",
-   "name": "Periphas Capital Partnering Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PCPC"
-  },
-  {
-   "symbol": "PCPC.U",
-   "name": "Periphas Capital Partnering Corporation CAPS, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PCPC.U"
-  },
-  {
    "symbol": "PCQ",
    "name": "PIMCO California Municipal Income Fund Common Stock",
    "exchange": "NYSE",
@@ -96502,24 +96418,6 @@
    "yahoo_symbol": "PUMP"
   },
   {
-   "symbol": "PV",
-   "name": "Primavera Capital Acquisition Corporation Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PV"
-  },
-  {
-   "symbol": "PV.U",
-   "name": "Primavera Capital Acquisition Corporation Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PV.U"
-  },
-  {
-   "symbol": "PV.W",
-   "name": "Primavera Capital Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PV.W"
-  },
-  {
    "symbol": "PVH",
    "name": "PVH Corp. Common Stock",
    "exchange": "NYSE",
@@ -97538,12 +97436,6 @@
    "name": "Rayonier Inc. REIT Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RYN"
-  },
-  {
-   "symbol": "RZA",
-   "name": "Reinsurance Group of America, Incorporated 6.20% Fixed-to-Floating Rate Subordinated Debentures due 2042",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RZA"
   },
   {
    "symbol": "RZB",
@@ -99032,18 +98924,6 @@
    "name": "Supernova Partners Acquisition Company III, Ltd. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
    "exchange": "NYSE",
    "yahoo_symbol": "STRE.W"
-  },
-  {
-   "symbol": "STRY",
-   "name": "Starry Group Holdings, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "STRY"
-  },
-  {
-   "symbol": "STRY.W",
-   "name": "Starry Group Holdings, Inc. Warrants, each warrant exercisable for 1.2415 shares of Class A common stock at $9.13",
-   "exchange": "NYSE",
-   "yahoo_symbol": "STRY.W"
   },
   {
    "symbol": "STT",
