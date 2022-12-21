@@ -1,5 +1,5 @@
 {
- "date": "2022-12-20",
+ "date": "2022-12-21",
  "data": [
   {
    "symbol": "ONE",
@@ -238,6 +238,18 @@
     {
      "name": "AD4 Capital Corp",
      "symbol": "ADJ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ADC.P",
+   "name": "Adagio Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADC.P.V",
+   "instruments": [
+    {
+     "name": "Adagio Capital Inc.",
+     "symbol": "ADC.P"
     }
    ]
   },
@@ -18358,6 +18370,18 @@
    ]
   },
   {
+   "symbol": "TLC.P",
+   "name": "Timeless Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TLC.P.V",
+   "instruments": [
+    {
+     "name": "Timeless Capital Corp.",
+     "symbol": "TLC.P"
+    }
+   ]
+  },
+  {
    "symbol": "TK",
    "name": "Tinka Resources Limited",
    "exchange": "TSXV",
@@ -28384,10 +28408,6 @@
      "symbol": "DIV"
     },
     {
-     "name": "Divers Rylty 5.25 Db",
-     "symbol": "DIV.DB"
-    },
-    {
      "name": "Divers Rylty 6% Deb",
      "symbol": "DIV.DB.A"
     }
@@ -37878,10 +37898,6 @@
     {
      "name": "MCAN Mortgage Corp.",
      "symbol": "MKP"
-    },
-    {
-     "name": "MCAN Mortgage Rt",
-     "symbol": "MKP.RT.A"
     }
    ]
   },
@@ -45270,10 +45286,6 @@
     {
      "name": "Yellow Pages Limited",
      "symbol": "Y"
-    },
-    {
-     "name": "Yellow Pages Ltd. Wt",
-     "symbol": "Y.WT"
     }
    ]
   },
@@ -47684,24 +47696,6 @@
    "yahoo_symbol": "AREC"
   },
   {
-   "symbol": "ARGU",
-   "name": "Argus Capital Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARGU"
-  },
-  {
-   "symbol": "ARGUU",
-   "name": "Argus Capital Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARGUU"
-  },
-  {
-   "symbol": "ARGUW",
-   "name": "Argus Capital Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARGUW"
-  },
-  {
    "symbol": "ARGX",
    "name": "argenx SE - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48228,6 +48222,12 @@
    "name": "Ames National Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ATLO"
+  },
+  {
+   "symbol": "ATMVU",
+   "name": "AlphaVest Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMVU"
   },
   {
    "symbol": "ATNF",
@@ -52028,12 +52028,6 @@
    "yahoo_symbol": "CLVRW"
   },
   {
-   "symbol": "CLVS",
-   "name": "Clovis Oncology, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CLVS"
-  },
-  {
    "symbol": "CLWT",
    "name": "Euro Tech Holdings Company Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -52400,24 +52394,6 @@
    "yahoo_symbol": "COLB"
   },
   {
-   "symbol": "COLI",
-   "name": "Colicity Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COLI"
-  },
-  {
-   "symbol": "COLIU",
-   "name": "Colicity Inc. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COLIU"
-  },
-  {
-   "symbol": "COLIW",
-   "name": "Colicity Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COLIW"
-  },
-  {
    "symbol": "COLL",
    "name": "Collegium Pharmaceutical, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -52548,24 +52524,6 @@
    "name": "Coupa Software Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "COUP"
-  },
-  {
-   "symbol": "COVA",
-   "name": "COVA Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COVA"
-  },
-  {
-   "symbol": "COVAU",
-   "name": "COVA Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COVAU"
-  },
-  {
-   "symbol": "COVAW",
-   "name": "COVA Acquisition Corp. - Warrants to purchase Class A ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COVAW"
   },
   {
    "symbol": "COWN",
@@ -59656,25 +59614,25 @@
   {
    "symbol": "HMAC",
    "name": "Hainan Manaslu Acquisition Corp. - Ordinary shares",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HMAC"
   },
   {
    "symbol": "HMACR",
    "name": "Hainan Manaslu Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HMACR"
   },
   {
    "symbol": "HMACU",
    "name": "Hainan Manaslu Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HMACU"
   },
   {
    "symbol": "HMACW",
    "name": "Hainan Manaslu Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HMACW"
   },
   {
@@ -63468,6 +63426,12 @@
    "name": "Lionheart III Corp - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LIONW"
+  },
+  {
+   "symbol": "LIPO",
+   "name": "Lipella Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIPO"
   },
   {
    "symbol": "LIQT",
@@ -71696,24 +71660,6 @@
    "yahoo_symbol": "RXDX"
   },
   {
-   "symbol": "RXRA",
-   "name": "RXR Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RXRA"
-  },
-  {
-   "symbol": "RXRAU",
-   "name": "RXR Acquisition Corp. - Unit consisting of 1 share Class A common and 1/5th redeemable warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RXRAU"
-  },
-  {
-   "symbol": "RXRAW",
-   "name": "RXR Acquisition Corp. - Warrants to purchase Class A common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RXRAW"
-  },
-  {
    "symbol": "RXRX",
    "name": "Recursion Pharmaceuticals, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -76640,24 +76586,6 @@
    "yahoo_symbol": "VEEE"
   },
   {
-   "symbol": "VELO",
-   "name": "Velocity Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VELO"
-  },
-  {
-   "symbol": "VELOU",
-   "name": "Velocity Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VELOU"
-  },
-  {
-   "symbol": "VELOW",
-   "name": "Velocity Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VELOW"
-  },
-  {
    "symbol": "VEON",
    "name": "VEON Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -78680,12 +78608,6 @@
    "yahoo_symbol": "ZVSA"
   },
   {
-   "symbol": "ZVSAW",
-   "name": "ZyVersa Therapeutics, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZVSAW"
-  },
-  {
    "symbol": "ZYME",
    "name": "Zymeworks Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -79302,12 +79224,6 @@
    "name": "African Gold Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
    "exchange": "NYSE",
    "yahoo_symbol": "AGAC.W"
-  },
-  {
-   "symbol": "AGCB",
-   "name": "Altimeter Growth Corp. 2 Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AGCB"
   },
   {
    "symbol": "AGCO",
@@ -87014,24 +86930,6 @@
    "yahoo_symbol": "FLT"
   },
   {
-   "symbol": "FLYA",
-   "name": "SOAR Technology Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FLYA"
-  },
-  {
-   "symbol": "FLYA.U",
-   "name": "SOAR Technology Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FLYA.U"
-  },
-  {
-   "symbol": "FLYA.W",
-   "name": "SOAR Technology Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FLYA.W"
-  },
-  {
    "symbol": "FMC",
    "name": "FMC Corporation Common Stock",
    "exchange": "NYSE",
@@ -91278,6 +91176,12 @@
    "name": "The Lion Electric Company Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "LEV"
+  },
+  {
+   "symbol": "LEV.A",
+   "name": "The Lion Electric Company Warrants to purchase common shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LEV.A"
   },
   {
    "symbol": "LEV.W",
@@ -96884,12 +96788,6 @@
    "yahoo_symbol": "RNR$G"
   },
   {
-   "symbol": "RODI",
-   "name": "iPath Return on Disability ETN",
-   "exchange": "BATS",
-   "yahoo_symbol": "RODI"
-  },
-  {
    "symbol": "ROG",
    "name": "Rogers Corporation Common Stock",
    "exchange": "NYSE",
@@ -101154,12 +101052,6 @@
    "name": "Western Asset Inflation-Linked Income Fund",
    "exchange": "NYSE",
    "yahoo_symbol": "WIA"
-  },
-  {
-   "symbol": "WIL",
-   "name": "iPath Women in Leadership ETN",
-   "exchange": "BATS",
-   "yahoo_symbol": "WIL"
   },
   {
    "symbol": "WIT",

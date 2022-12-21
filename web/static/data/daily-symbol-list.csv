@@ -19,6 +19,7 @@ ACST,Acasti Pharma Inc.,TSXV,ACST.V,Acasti Pharma Inc.,ACST
 AXE,Acceleware Ltd.,TSXV,AXE.V,Acceleware Ltd.,AXE
 AKR,Ackroo Inc.,TSXV,AKR.V,Ackroo Inc.,AKR
 ADJ.P,AD4 Capital Corp.,TSXV,ADJ.P.V,AD4 Capital Corp,ADJ.P
+ADC.P,Adagio Capital Inc.,TSXV,ADC.P.V,Adagio Capital Inc.,ADC.P
 ADZ,Adamera Minerals Corp.,TSXV,ADZ.V,Adamera Minerals Corp.,ADZ
 ADE,Adex Mining Inc.,TSXV,ADE.V,Adex Mining Inc,ADE
 RABI,AdRabbit Limited,TSXV,RABI.V,AdRabbit Limited,RABI
@@ -1501,6 +1502,7 @@ AWE,Thunderstruck Resources Ltd.,TSXV,AWE.V,Thunderstruck Resources Ltd.,AWE
 TSLV,Tier One Silver Inc.,TSXV,TSLV.V,Tier One Silver Inc.,TSLV
 TIL,Till Capital Corporation,TSXV,TIL.V,Till Capital Corporation,TIL
 TBR,Timberline Resources Corporation,TSXV,TBR.V,Timberline Resources Corporation,TBR
+TLC.P,Timeless Capital Corp.,TSXV,TLC.P.V,Timeless Capital Corp.,TLC.P
 TK,Tinka Resources Limited,TSXV,TK.V,Tinka Resources Limited,TK
 TTD,Tinkerine Studios Ltd.,TSXV,TTD.V,Tinkerine Studios Ltd.,TTD
 TORC,TinOne Resources Inc.,TSXV,TORC.V,Tinone Resources Inc.,TORC
@@ -2233,7 +2235,7 @@ DSAE,Desjardins SocieTerra American Equity ETF,TSX,DSAE.TO,DesjardnSocieTerAmEq,
 DXT,Dexterra Group Inc.,TSX,DXT.TO,Dexterra Group Inc J,DXT
 CARE,Dialogue Health Technologies Inc.,TSX,CARE.TO,Dialogue Hlth Tech J,CARE
 DRT,DIRTT Environmental Solutions Ltd.,TSX,DRT.TO,DIRTT Env Solution J,DRT,DIRTT Env SolutnJ Db,DRT.DB,DIRTT EnvSolJ 6.25Db,DRT.DB.A
-DIV,Diversified Royalty Corp.,TSX,DIV.TO,Divers Rylty Corp.,DIV,Divers Rylty 5.25 Db,DIV.DB,Divers Rylty 6% Deb,DIV.DB.A
+DIV,Diversified Royalty Corp.,TSX,DIV.TO,Divers Rylty Corp.,DIV,Divers Rylty 6% Deb,DIV.DB.A
 DFN,Dividend 15 Split Corp.,TSX,DFN.TO,Dividend 15 Splt A,DFN,Dividend 15 Splt Pr,DFN.PR.A
 DF,Dividend 15 Split Corp. II,TSX,DF.TO,Dividend 15Split 2 A,DF,Dividend 15Splt 2 Pr,DF.PR.A
 DGS,Dividend Growth Split Corp.,TSX,DGS.TO,Div Growth Splt Cl A,DGS,Div Growth Split Pr,DGS.PR.A
@@ -2934,7 +2936,7 @@ MMX,Maverix Metals Inc.,TSX,MMX.TO,Maverix Metals Inc.,MMX
 MAW,Mawson Gold Limited,TSX,MAW.TO,Mawson Gold Ltd. J,MAW
 MAXR,Maxar Technologies Inc.,TSX,MAXR.TO,Maxar Technologies,MAXR
 MXG,Maxim Power Corp.,TSX,MXG.TO,Maxim Power Corp.,MXG
-MKP,MCAN Mortgage Corporation,TSX,MKP.TO,MCAN Mortgage Corp.,MKP,MCAN Mortgage Rt,MKP.RT.A
+MKP,MCAN Mortgage Corporation,TSX,MKP.TO,MCAN Mortgage Corp.,MKP
 MCB,McCoy Global Inc.,TSX,MCB.TO,McCoy Global Inc.,MCB
 MUX,McEwen Mining Inc.,TSX,MUX.TO,McEwen Mining Inc. J,MUX
 DRDR,MCI Onehealth Technologies Inc.,TSX,DRDR.TO,MCI Onehealth J SV A,DRDR
@@ -3475,7 +3477,7 @@ XTG,Xtra-Gold Resources Corp.,TSX,XTG.TO,Xtra-Gold Resource J,XTG
 XTRA,Xtract One Technologies Inc.,TSX,XTRA.TO,Xtract One Tech J,XTRA
 YRI,Yamana Gold Inc.,TSX,YRI.TO,Yamana Gold Inc.,YRI
 YGR,Yangarra Resources Ltd.,TSX,YGR.TO,Yangarra Res Ltd.,YGR
-Y,Yellow Pages Limited,TSX,Y.TO,Yellow Pages Limited,Y,Yellow Pages Ltd. Wt,Y.WT
+Y,Yellow Pages Limited,TSX,Y.TO,Yellow Pages Limited,Y
 YRB,Yorbeau Resources Inc.,TSX,YRB.TO,Yorbeau Resources J,YRB
 AACG,"ATA Creativity Global - American Depositary Shares, each representing two common shares",NASDAQ Global MarketSM,AACG
 AACI,Armada Acquisition Corp. I - Common Stock,NASDAQ Global MarketSM,AACI
@@ -3876,9 +3878,6 @@ ARDX,"Ardelyx, Inc. - Common Stock",NASDAQ Global MarketSM,ARDX
 AREB,"American Rebel Holdings, Inc. - Common Stock",NASDAQ Capital Market,AREB
 AREBW,"American Rebel Holdings, Inc. - warrants",NASDAQ Capital Market,AREBW
 AREC,American Resources Corporation - Class A Common Stock,NASDAQ Capital Market,AREC
-ARGU,Argus Capital Corp. - Class A Common Stock,NASDAQ Global MarketSM,ARGU
-ARGUU,Argus Capital Corp. - Unit,NASDAQ Global MarketSM,ARGUU
-ARGUW,Argus Capital Corp. - Warrant,NASDAQ Global MarketSM,ARGUW
 ARGX,argenx SE - American Depositary Shares,NASDAQ Global Select MarketSM,ARGX
 ARHS,"Arhaus, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ARHS
 ARIZ,Arisz Acquisition Corp. - Common Stock,NASDAQ Global MarketSM,ARIZ
@@ -3967,6 +3966,7 @@ ATLC,Atlanticus Holdings Corporation - Common Stock,NASDAQ Global Select MarketS
 ATLCL,Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026,NASDAQ Global MarketSM,ATLCL
 ATLCP,"Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",NASDAQ Global Select MarketSM,ATLCP
 ATLO,Ames National Corporation - Common Stock,NASDAQ Capital Market,ATLO
+ATMVU,AlphaVest Acquisition Corp - Unit,NASDAQ Global MarketSM,ATMVU
 ATNF,180 Life Sciences Corp. - Common Stock,NASDAQ Capital Market,ATNF
 ATNFW,180 Life Sciences Corp. - Warrant,NASDAQ Capital Market,ATNFW
 ATNI,"ATN International, Inc. - Common Stock",NASDAQ Global Select MarketSM,ATNI
@@ -4600,7 +4600,6 @@ CLSM,Cabana Target Leading Sector Moderate ETF,NASDAQ Global MarketSM,CLSM
 CLST,"Catalyst Bancorp, Inc. - common stock",NASDAQ Capital Market,CLST
 CLVR,Clever Leaves Holdings Inc. - Common Shares,NASDAQ Capital Market,CLVR
 CLVRW,Clever Leaves Holdings Inc. - Warrant,NASDAQ Capital Market,CLVRW
-CLVS,"Clovis Oncology, Inc. - Common Stock",NASDAQ Global Select MarketSM,CLVS
 CLWT,Euro Tech Holdings Company Limited - Ordinary Shares,NASDAQ Capital Market,CLWT
 CLXT,"Calyxt, Inc. - Common Stock",NASDAQ Capital Market,CLXT
 CMAX,"CareMax, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CMAX
@@ -4662,9 +4661,6 @@ COHU,"Cohu, Inc. - Common Stock",NASDAQ Global Select MarketSM,COHU
 COIN,"Coinbase Global, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,COIN
 COKE,"Coca-Cola Consolidated, Inc. - Common Stock",NASDAQ Global Select MarketSM,COKE
 COLB,"Columbia Banking System, Inc. - Common Stock",NASDAQ Global Select MarketSM,COLB
-COLI,Colicity Inc. - Class A Common Stock,NASDAQ Capital Market,COLI
-COLIU,Colicity Inc. - Units,NASDAQ Capital Market,COLIU
-COLIW,Colicity Inc. - Warrant,NASDAQ Capital Market,COLIW
 COLL,"Collegium Pharmaceutical, Inc. - Common Stock",NASDAQ Global Select MarketSM,COLL
 COLM,Columbia Sportswear Company - Common Stock,NASDAQ Global Select MarketSM,COLM
 COMM,"CommScope Holding Company, Inc. - Common Stock",NASDAQ Global Select MarketSM,COMM
@@ -4687,9 +4683,6 @@ CORZW,"Core Scientific, Inc. - Warrant",NASDAQ Global Select MarketSM,CORZW
 COSM,Cosmos Health Inc. - Common Stock,NASDAQ Capital Market,COSM
 COST,Costco Wholesale Corporation - Common Stock,NASDAQ Global Select MarketSM,COST
 COUP,Coupa Software Incorporated - Common Stock,NASDAQ Global Select MarketSM,COUP
-COVA,COVA Acquisition Corp. - Class A Ordinary Share,NASDAQ Capital Market,COVA
-COVAU,COVA Acquisition Corp. - Unit,NASDAQ Capital Market,COVAU
-COVAW,COVA Acquisition Corp. - Warrants to purchase Class A ordinary shares,NASDAQ Capital Market,COVAW
 COWN,Cowen Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,COWN
 COWNL,Cowen Inc. - 7.75% Senior Notes due 2033,NASDAQ Global Select MarketSM,COWNL
 CPAA,Conyers Park III Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,CPAA
@@ -5871,10 +5864,10 @@ HLMN,Hillman Solutions Corp. - Common Stock,NASDAQ Global MarketSM,HLMN
 HLNE,Hamilton Lane Incorporated - Class A Common Stock,NASDAQ Global Select MarketSM,HLNE
 HLTH,Cue Health Inc. - Common Stock,NASDAQ Global Select MarketSM,HLTH
 HLVX,"HilleVax, Inc. - Common Stock",NASDAQ Global Select MarketSM,HLVX
-HMAC,Hainan Manaslu Acquisition Corp. - Ordinary shares,NASDAQ Capital Market,HMAC
-HMACR,Hainan Manaslu Acquisition Corp. - Right,NASDAQ Capital Market,HMACR
-HMACU,Hainan Manaslu Acquisition Corp. - Unit,NASDAQ Capital Market,HMACU
-HMACW,Hainan Manaslu Acquisition Corp. - Warrant,NASDAQ Capital Market,HMACW
+HMAC,Hainan Manaslu Acquisition Corp. - Ordinary shares,NASDAQ Global MarketSM,HMAC
+HMACR,Hainan Manaslu Acquisition Corp. - Right,NASDAQ Global MarketSM,HMACR
+HMACU,Hainan Manaslu Acquisition Corp. - Unit,NASDAQ Global MarketSM,HMACU
+HMACW,Hainan Manaslu Acquisition Corp. - Warrant,NASDAQ Global MarketSM,HMACW
 HMNF,"HMN Financial, Inc. - Common Stock",NASDAQ Global MarketSM,HMNF
 HMPT,Home Point Capital Inc. - Common Stock,NASDAQ Global Select MarketSM,HMPT
 HMST,"HomeStreet, Inc. - Common Stock",NASDAQ Global Select MarketSM,HMST
@@ -6507,6 +6500,7 @@ LINK,"Interlink Electronics, Inc. - Common Stock",NASDAQ Capital Market,LINK
 LION,Lionheart III Corp - Class A Common Stock,NASDAQ Global MarketSM,LION
 LIONU,Lionheart III Corp - Unit,NASDAQ Global MarketSM,LIONU
 LIONW,Lionheart III Corp - Warrant,NASDAQ Global MarketSM,LIONW
+LIPO,Lipella Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,LIPO
 LIQT,"LiqTech International, Inc. - Common Stock",NASDAQ Capital Market,LIQT
 LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,LITE
 LITM,Snow Lake Resources Ltd. - Common Shares,NASDAQ Capital Market,LITM
@@ -7878,9 +7872,6 @@ RWODR,Redwoods Acquisition Corp. - Rights,NASDAQ Global MarketSM,RWODR
 RWODU,Redwoods Acquisition Corp. - Unit,NASDAQ Global MarketSM,RWODU
 RWODW,Redwoods Acquisition Corp. - Warrants,NASDAQ Global MarketSM,RWODW
 RXDX,"Prometheus Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,RXDX
-RXRA,RXR Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,RXRA
-RXRAU,RXR Acquisition Corp. - Unit consisting of 1 share Class A common and 1/5th redeemable warrant,NASDAQ Capital Market,RXRAU
-RXRAW,RXR Acquisition Corp. - Warrants to purchase Class A common stock,NASDAQ Capital Market,RXRAW
 RXRX,"Recursion Pharmaceuticals, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RXRX
 RXST,"RxSight, Inc. - Common Stock",NASDAQ Global MarketSM,RXST
 RXT,"Rackspace Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,RXT
@@ -8702,9 +8693,6 @@ VECO,Veeco Instruments Inc. - Common Stock,NASDAQ Global Select MarketSM,VECO
 VECT,VectivBio Holding AG - Ordinary Shares,NASDAQ Global Select MarketSM,VECT
 VEDU,Visionary Education Technology Holdings Group Inc. - Common Shares,NASDAQ Capital Market,VEDU
 VEEE,Twin Vee PowerCats Co. - Common Stock,NASDAQ Capital Market,VEEE
-VELO,Velocity Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,VELO
-VELOU,Velocity Acquisition Corp. - Units,NASDAQ Capital Market,VELOU
-VELOW,Velocity Acquisition Corp. - Warrant,NASDAQ Capital Market,VELOW
 VEON,VEON Ltd. - American Depositary Shares,NASDAQ Capital Market,VEON
 VERA,"Vera Therapeutics, Inc. - Class A Common Stock",NASDAQ Global MarketSM,VERA
 VERB,"Verb Technology Company, Inc. - Common Stock",NASDAQ Capital Market,VERB
@@ -9042,7 +9030,6 @@ ZTAQW,Zimmer Energy Transition Acquisition Corp. - Warrants,NASDAQ Global Market
 ZTEK,Zentek Ltd. - common stock,NASDAQ Capital Market,ZTEK
 ZUMZ,Zumiez Inc. - Common Stock,NASDAQ Global Select MarketSM,ZUMZ
 ZVSA,"ZyVersa Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,ZVSA
-ZVSAW,"ZyVersa Therapeutics, Inc. - Warrants",NASDAQ Global MarketSM,ZVSAW
 ZYME,Zymeworks Inc. - Common Stock,NASDAQ Global Select MarketSM,ZYME
 ZYNE,"Zynerba Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,ZYNE
 ZYXI,"Zynex, Inc. - Common Stock",NASDAQ Global Select MarketSM,ZYXI
@@ -9146,7 +9133,6 @@ AG,First Majestic Silver Corp. Ordinary Shares (Canada),NYSE,AG
 AGAC,African Gold Acquisition Corporation Class A Ordinary Shares,NYSE,AGAC
 AGAC.U,"African Gold Acquisition Corporation Units, each consisting of one Class A ordinary share and three-quarters of one redeemable warrant",NYSE,AGAC.U
 AGAC.W,"African Gold Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,AGAC.W
-AGCB,Altimeter Growth Corp. 2 Class A Ordinary Shares,NYSE,AGCB
 AGCO,AGCO Corporation Common Stock,NYSE,AGCO
 AGD,abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest,NYSE,AGD
 AGE,"AgeX Therapeutics, Inc. Common Stock",NYSE MKT,AGE
@@ -10431,9 +10417,6 @@ FLO,"Flowers Foods, Inc. Common Stock",NYSE,FLO
 FLR,Fluor Corporation Common Stock,NYSE,FLR
 FLS,Flowserve Corporation Common Stock,NYSE,FLS
 FLT,"FleetCor Technologies, Inc. Common Stock",NYSE,FLT
-FLYA,SOAR Technology Acquisition Corp. Class A Ordinary Shares,NYSE,FLYA
-FLYA.U,"SOAR Technology Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,FLYA.U
-FLYA.W,"SOAR Technology Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",NYSE,FLYA.W
 FMC,FMC Corporation Common Stock,NYSE,FMC
 FMN,Federated Hermes Premier Municipal Income Fund,NYSE,FMN
 FMS,Fresenius Medical Care AG Common Stock,NYSE,FMS
@@ -11142,6 +11125,7 @@ LEN.B,Lennar Corporation Class B,NYSE,LEN.B
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock",NYSE,LEO
 LEU,Centrus Energy Corp. Class A Common Stock,NYSE MKT,LEU
 LEV,The Lion Electric Company Common Shares,NYSE,LEV
+LEV.A,The Lion Electric Company Warrants to purchase common shares,NYSE,LEV.A
 LEV.W,"The Lion Electric Company Redeemable Warrants, each whole warrant entitles the holder to purchase one Common Share at a price of $11.50 per share",NYSE,LEV.W
 LEVI,Levi Strauss & Co Class A Common Stock,NYSE,LEVI
 LFG,Archaea Energy Inc. Class A Common Stock,NYSE,LFG
@@ -12076,7 +12060,6 @@ RNP,"Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares",NYSE
 RNR,RenaissanceRe Holdings Ltd. Common Stock,NYSE,RNR
 RNR$F,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Series F Preference Share",NYSE,RNR$F
 RNR$G,"RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1,000th interest in a share of 4.20% Series G Preference Shares",NYSE,RNR$G
-RODI,iPath Return on Disability ETN,BATS,RODI
 ROG,Rogers Corporation Common Stock,NYSE,ROG
 ROK,"Rockwell Automation, Inc. Common Stock",NYSE,ROK
 ROL,"Rollins, Inc. Common Stock",NYSE,ROL
@@ -12788,7 +12771,6 @@ WHD,"Cactus, Inc. Class A Common Stock",NYSE,WHD
 WHG,Westwood Holdings Group Inc Common Stock,NYSE,WHG
 WHR,Whirlpool Corporation Common Stock,NYSE,WHR
 WIA,Western Asset Inflation-Linked Income Fund,NYSE,WIA
-WIL,iPath Women in Leadership ETN,BATS,WIL
 WIT,Wipro Limited Common Stock,NYSE,WIT
 WIW,Western Asset Inflation-Linked Opportunities & Income Fund,NYSE,WIW
 WK,Workiva Inc. Class A Common Stock,NYSE,WK
