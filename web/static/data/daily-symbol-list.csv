@@ -432,7 +432,7 @@ DAQ.P,Dominus Acquisition Corp.,TSXV,DAQ.P.V,Dominus Acquisition Corp.,DAQ.P
 DCMC,Dore Copper Mining Corp.,TSXV,DCMC.V,Dore Copper Mining Corp.,DCMC
 DBG,Doubleview Gold Corp.,TSXV,DBG.V,Doubleview Gold Corp.,DBG
 DRAX.P,Draxos Capital Corp.,TSXV,DRAX.P.V,Draxos Capital Corp.,DRAX.P
-FLT,Drone Delivery Canada Corp.,TSXV,FLT.V,Drone Delivery Canada Corp.,FLT,Drone Delivery Canada Corp.  wt 22Dec2022,FLT.WT.B
+FLT,Drone Delivery Canada Corp.,TSXV,FLT.V,Drone Delivery Canada Corp.,FLT
 DVX.P,Drummond Ventures Corp.,TSXV,DVX.P.V,Drummond Ventures Corp.,DVX.P
 DGO,Durango Resources Inc.,TSXV,DGO.V,Durango Resources Inc.,DGO
 DXX,DXStorm.com Inc.,TSXV,DXX.V,DXStorm.com Inc,DXX
@@ -470,7 +470,7 @@ ELEC,Electric Royalties Ltd.,TSXV,ELEC.V,Electric Royalties Ltd.,ELEC
 ECU,Element 29 Resources Inc.,TSXV,ECU.V,Element 29 Resources Inc.,ECU
 ELM,Element Lifestyle Retirement Inc.,TSXV,ELM.V,Element Lifestyle Retirement Inc.,ELM
 ELE,Elemental Altus Royalties Corp.,TSXV,ELE.V,Elemental Altus Royalties Corp.,ELE
-ELVT,Elevation Gold Mining Corporation,TSXV,ELVT.V,Elevation Gold Mining Corporation,ELVT,Elevation Gold Mining Corporation wt 14Jan2023,ELVT.WT
+ELVT,Elevation Gold Mining Corporation,TSXV,ELVT.V,Elevation Gold Mining Corporation,ELVT,Elevation Gold Mining Corporation wt 14Jan2023,ELVT.WT,Elevation Gold Mining Corporation wts 24Mar2027,ELVT.WT.A
 ELO,Eloro Resources Ltd.,TSXV,ELO.V,Eloro Resources Ltd.,ELO
 ELC,Elysee Development Corp.,TSXV,ELC.V,Elysee Development Corp.,ELC
 ECOM,Emerge Commerce Ltd.,TSXV,ECOM.V,Emerge Commerce Ltd.,ECOM,Emerge Commerce Ltd. wt 24Nov2025,ECOM.WT
@@ -1594,6 +1594,7 @@ VTX,Vertex Resource Group Ltd.,TSXV,VTX.V,Vertex Resource Group Ltd.,VTX
 VERT,Vertical Exploration Inc.,TSXV,VERT.V,Vertical Exploration Inc.,VERT
 VCC.P,Veteran Capital Corp.,TSXV,VCC.P.V,Veteran Capital Corp.,VCC.P
 VMC,Vicinity Motor Corp.,TSXV,VMC.V,Vicinity Motor Corp.,VMC
+VOC.P,Victory Opportunities 1 Corp.,TSXV,VOC.P.V,Victory Opportunities 1 Corp.,VOC.P
 VIO,Vior Inc.,TSXV,VIO.V,Vior Inc.,VIO
 VIP,VIP Entertainment Technologies Inc.,TSXV,VIP.V,VIP Entertainment Technologies Inc.,VIP
 VUI,Virginia Energy Resources Inc.,TSXV,VUI.V,Virginia Energy Resources Inc.,VUI
@@ -3671,7 +3672,6 @@ AIBBR,AIB Acquisition Corporation - Right,NASDAQ Global MarketSM,AIBBR
 AIBBU,AIB Acquisition Corporation - Unit,NASDAQ Global MarketSM,AIBBU
 AIH,Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares,NASDAQ Global MarketSM,AIH
 AIHS,Senmiao Technology Limited - Common Stock,NASDAQ Capital Market,AIHS
-AIKI,AIkido Pharma Inc. - Common Stock,NASDAQ Capital Market,AIKI
 AIMAU,Aimfinity Investment Corp. I - Unit,NASDAQ Global MarketSM,AIMAU
 AIMAW,Aimfinity Investment Corp. I - Warrant,NASDAQ Global MarketSM,AIMAW
 AIMBU,Aimfinity Investment Corp. I - Subunit,NASDAQ Global MarketSM,AIMBU
@@ -4838,9 +4838,6 @@ DALI,First Trust Dorsey Wright DALI 1 ETF,NASDAQ Global MarketSM,DALI
 DALN,DallasNews Corporation - Series A Common Stock,NASDAQ Capital Market,DALN
 DALS,DA32 Life Science Tech Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,DALS
 DAM,VanEck Digital Assets Mining ETF,NASDAQ Global MarketSM,DAM
-DAOO,Crypto 1 Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,DAOO
-DAOOU,Crypto 1 Acquisition Corp - Unit,NASDAQ Global MarketSM,DAOOU
-DAOOW,Crypto 1 Acquisition Corp - Warrants,NASDAQ Global MarketSM,DAOOW
 DAPP,VanEck Digital Transformation ETF,NASDAQ Global MarketSM,DAPP
 DARE,"Dare Bioscience, Inc. - Common Stock",NASDAQ Capital Market,DARE
 DATS,"DatChat, Inc. - Common Stock",NASDAQ Capital Market,DATS
@@ -4940,6 +4937,7 @@ DNLI,Denali Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,DNLI
 DNUT,"Krispy Kreme, Inc. - Common Stock",NASDAQ Global Select MarketSM,DNUT
 DOCU,"DocuSign, Inc. - Common Stock",NASDAQ Global Select MarketSM,DOCU
 DOGZ,Dogness (International) Corporation - Class A Common Stock,NASDAQ Global MarketSM,DOGZ
+DOMH,Dominari Holdings Inc. - Common Stock,NASDAQ Capital Market,DOMH
 DOMO,"Domo, Inc. - Class B Common Stock",NASDAQ Global MarketSM,DOMO
 DOOO,BRP Inc. - Common Subordinate Voting Shares,NASDAQ Global Select MarketSM,DOOO
 DORM,"Dorman Products, Inc. - Common Stock",NASDAQ Global Select MarketSM,DORM
@@ -5040,6 +5038,8 @@ ECBK,"ECB Bancorp, Inc. - Common Stock",NASDAQ Capital Market,ECBK
 ECOR,"electroCore, Inc. - Common Stock",NASDAQ Capital Market,ECOR
 ECOW,Pacer Emerging Markets Cash Cows 100 ETF,NASDAQ Global MarketSM,ECOW
 ECPG,Encore Capital Group Inc - Common Stock,NASDAQ Global Select MarketSM,ECPG
+ECX,ECARX Holdings Inc. - Class A Ordinary shares,NASDAQ Global MarketSM,ECX
+ECXWW,ECARX Holdings Inc. - Warrants,NASDAQ Capital Market,ECXWW
 EDAP,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",NASDAQ Global MarketSM,EDAP
 EDBL,Edible Garden AG Incorporated - Common Stock,NASDAQ Capital Market,EDBL
 EDBLW,Edible Garden AG Incorporated - Warrant,NASDAQ Capital Market,EDBLW
@@ -5669,9 +5669,6 @@ GMGI,"Golden Matrix Group, Inc. - Common Stock",NASDAQ Capital Market,GMGI
 GMTX,"Gemini Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,GMTX
 GMVD,G Medical Innovations Holdings Ltd. - Ordinary Shares,NASDAQ Capital Market,GMVD
 GMVDW,G Medical Innovations Holdings Ltd. - Warrants,NASDAQ Capital Market,GMVDW
-GNAC,Group Nine Acquisition Corp. - Class A Common stock,NASDAQ Capital Market,GNAC
-GNACU,Group Nine Acquisition Corp. - Unit,NASDAQ Capital Market,GNACU
-GNACW,Group Nine Acquisition Corp. - Warrant,NASDAQ Capital Market,GNACW
 GNFT,GENFIT S.A. - American Depositary Shares,NASDAQ Global Select MarketSM,GNFT
 GNLN,"Greenlane Holdings, Inc. - Class A Common Stock",NASDAQ Global MarketSM,GNLN
 GNMA,iShares GNMA Bond ETF,NASDAQ Global MarketSM,GNMA
@@ -5800,12 +5797,6 @@ HCDI,"Harbor Custom Development, Inc. - Common Stock",NASDAQ Capital Market,HCDI
 HCDIP,"Harbor Custom Development, Inc. - 8.0% Series A Cumulative Convertible Preferred Stock, no par value",NASDAQ Capital Market,HCDIP
 HCDIW,"Harbor Custom Development, Inc. - Warrant",NASDAQ Capital Market,HCDIW
 HCDIZ,"Harbor Custom Development, Inc. - Warrant",NASDAQ Capital Market,HCDIZ
-HCIC,Hennessy Capital Investment Corp. V  - Class A Common Stock,NASDAQ Capital Market,HCIC
-HCICU,Hennessy Capital Investment Corp. V  - Unit,NASDAQ Capital Market,HCICU
-HCICW,Hennessy Capital Investment Corp. V  - Warrant,NASDAQ Capital Market,HCICW
-HCII,Hudson Executive Investment Corp. II - Class A common stock,NASDAQ Capital Market,HCII
-HCIIU,Hudson Executive Investment Corp. II - Unit,NASDAQ Capital Market,HCIIU
-HCIIW,Hudson Executive Investment Corp. II - Warrant,NASDAQ Capital Market,HCIIW
 HCKT,"The Hackett Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,HCKT
 HCM,HUTCHMED (China) Limited - American Depositary Shares,NASDAQ Global Select MarketSM,HCM
 HCMA,HCM Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,HCMA
@@ -5848,9 +5839,6 @@ HHS,"Harte-Hanks, Inc. - Common Stock",NASDAQ Global MarketSM,HHS
 HIBB,"Hibbett, Inc. - Common Stock",NASDAQ Global Select MarketSM,HIBB
 HIFS,Hingham Institution for Savings - Common Stock,NASDAQ Global MarketSM,HIFS
 HIHO,Highway Holdings Limited - Common Stock,NASDAQ Capital Market,HIHO
-HIII,Hudson Executive Investment Corp. III - Class A Common Stock,NASDAQ Capital Market,HIII
-HIIIU,Hudson Executive Investment Corp. III - Unit,NASDAQ Capital Market,HIIIU
-HIIIW,Hudson Executive Investment Corp. III - Warrant,NASDAQ Capital Market,HIIIW
 HILS,"Hillstream BioPharma, Inc. - Common Stock",NASDAQ Capital Market,HILS
 HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",NASDAQ Global Select MarketSM,HIMX
 HISF,First Trust High Income Strategic Focus ETF,NASDAQ Global MarketSM,HISF
@@ -5907,6 +5895,7 @@ HQY,"HealthEquity, Inc. - Common Stock",NASDAQ Global Select MarketSM,HQY
 HRMY,"Harmony Biosciences Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,HRMY
 HROW,"Harrow Health, Inc. - Common Stock",NASDAQ Global MarketSM,HROW
 HROWL,"Harrow Health, Inc. - 8.625% senior notes due 2026",NASDAQ Global MarketSM,HROWL
+HROWM,"Harrow Health, Inc. - 11.875% Senior Notes due 2027",NASDAQ Global MarketSM,HROWM
 HRTX,"Heron Therapeutics, Inc.   - Common Stock",NASDAQ Capital Market,HRTX
 HRZN,Horizon Technology Finance Corporation - Common Stock,NASDAQ Global Select MarketSM,HRZN
 HSAQ,Health Sciences Acquisitions Corporation 2 - Ordinary Shares,NASDAQ Capital Market,HSAQ
@@ -6039,9 +6028,6 @@ IGTAW,Inception Growth Acquisition Limited - Warrants,NASDAQ Global MarketSM,IGT
 IHRT,"iHeartMedia, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,IHRT
 IHYF,Invesco High Yield Bond Factor ETF,NASDAQ Global MarketSM,IHYF
 III,"Information Services Group, Inc. - Common Stock",NASDAQ Global MarketSM,III
-IIII,INSU Acquisition Corp. III - Class A Common Stock,NASDAQ Capital Market,IIII
-IIIIU,INSU Acquisition Corp. III - Unit,NASDAQ Capital Market,IIIIU
-IIIIW,INSU Acquisition Corp. III - Warrant,NASDAQ Capital Market,IIIIW
 IIIV,"i3 Verticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,IIIV
 IINN,Inspira Technologies Oxy B.H.N. Ltd. - Ordinary Shares,NASDAQ Capital Market,IINN
 IINNW,Inspira Technologies Oxy B.H.N. Ltd. - Warrant,NASDAQ Capital Market,IINNW
@@ -7179,9 +7165,8 @@ ONVO,"Organovo Holdings, Inc. - Common Stock",NASDAQ Capital Market,ONVO
 ONYX,Onyx Acquisition Co. I - Class A Ordinary Shares,NASDAQ Global MarketSM,ONYX
 ONYXU,Onyx Acquisition Co. I - Unit,NASDAQ Global MarketSM,ONYXU
 ONYXW,Onyx Acquisition Co. I - Warrant,NASDAQ Global MarketSM,ONYXW
-OP,OceanPal Inc. - ordinary shares,NASDAQ Capital Market,OP
+OP,OceanPal Inc. - Common Stock,NASDAQ Capital Market,OP
 OPAL,OPAL Fuels Inc. - Class A Common Stock,NASDAQ Capital Market,OPAL
-OPALW,OPAL Fuels Inc. - Warrant,NASDAQ Capital Market,OPALW
 OPBK,OP Bancorp - Common Stock,NASDAQ Global MarketSM,OPBK
 OPCH,"Option Care Health, Inc. - Common Stock",NASDAQ Global Select MarketSM,OPCH
 OPEN,Opendoor Technologies Inc  - Common Stock,NASDAQ Global Select MarketSM,OPEN
@@ -7934,9 +7919,6 @@ SCLXW,Scilex Holding Company - Warrant,NASDAQ Capital Market,SCLXW
 SCMA,Seaport Calibre Materials Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,SCMA
 SCMAU,Seaport Calibre Materials Acquisition Corp. - Unit,NASDAQ Global MarketSM,SCMAU
 SCMAW,Seaport Calibre Materials Acquisition Corp. - Warrant,NASDAQ Global MarketSM,SCMAW
-SCOA,ScION Tech Growth I - Class A Ordinary Shares,NASDAQ Capital Market,SCOA
-SCOAU,ScION Tech Growth I - Unit,NASDAQ Capital Market,SCOAU
-SCOAW,ScION Tech Growth I - Warrant,NASDAQ Capital Market,SCOAW
 SCOB,ScION Tech Growth II - Class A Ordinary Shares,NASDAQ Capital Market,SCOB
 SCOBU,ScION Tech Growth II - Units,NASDAQ Capital Market,SCOBU
 SCOBW,ScION Tech Growth II - Warrants,NASDAQ Capital Market,SCOBW
@@ -8022,9 +8004,6 @@ SHIP,Seanergy Maritime Holdings Corp - Common Stock,NASDAQ Capital Market,SHIP
 SHLS,"Shoals Technologies Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SHLS
 SHOO,"Steven Madden, Ltd. - Common Stock",NASDAQ Global Select MarketSM,SHOO
 SHPH,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",NASDAQ Capital Market,SHPH
-SHQA,Shelter Acquisition Corporation I - Class A Common Stock,NASDAQ Capital Market,SHQA
-SHQAU,"Shelter Acquisition Corporation I - Units, each consisting of One Class A Common Stock and one-third of one warrant.",NASDAQ Capital Market,SHQAU
-SHQAW,Shelter Acquisition Corporation I - Warrants,NASDAQ Capital Market,SHQAW
 SHUA,SHUAA Partners Acquisition Corp I - Class A Ordinary Share,NASDAQ Global MarketSM,SHUA
 SHUAU,SHUAA Partners Acquisition Corp I - Unit,NASDAQ Global MarketSM,SHUAU
 SHUAW,SHUAA Partners Acquisition Corp I - Warrant,NASDAQ Global MarketSM,SHUAW
@@ -10264,8 +10243,6 @@ EQC$D,Equity Commonwealth 6.50% Pfd Conv Shs Ser D,NYSE,EQC$D
 EQH,"Equitable Holdings, Inc. Common Stock",NYSE,EQH
 EQH$A,"Equitable Holdings, Inc. Depositary Shares",NYSE,EQH$A
 EQH$C,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series C",NYSE,EQH$C
-EQHA,EQ Health Acquisition Corp. Class A Common Stock,NYSE,EQHA
-EQHA.U,"EQ Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",NYSE,EQHA.U
 EQNR,Equinor ASA,NYSE,EQNR
 EQR,Equity Residential Common Shares of Beneficial Interest,NYSE,EQR
 EQS,"Equus Total Return, Inc. Common Stock",NYSE,EQS
@@ -10738,7 +10715,6 @@ HIE,Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest,N
 HIG,"Hartford Financial Services Group, Inc. (The) Common Stock",NYSE,HIG
 HIG$G,"Hartford Financial Services Group, Inc. (The) Depositary Shares each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series G, $0.01 par value",NYSE,HIG$G
 HII,"Huntington Ingalls Industries, Inc. Common Stock",NYSE,HII
-HIL,"Hill International, Inc. Common Stock",NYSE,HIL
 HIMS,"Hims & Hers Health, Inc. Class A Common Stock",NYSE,HIMS
 HIO,"Western Asset High Income Opportunity Fund, Inc. Common Stock",NYSE,HIO
 HIPO,Hippo Holdings Inc. Common Stock,NYSE,HIPO

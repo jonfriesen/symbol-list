@@ -1,5 +1,5 @@
 {
- "date": "2022-12-21",
+ "date": "2022-12-22",
  "data": [
   {
    "symbol": "ONE",
@@ -5270,10 +5270,6 @@
     {
      "name": "Drone Delivery Canada Corp.",
      "symbol": "FLT"
-    },
-    {
-     "name": "Drone Delivery Canada Corp.  wt 22Dec2022",
-     "symbol": "FLT.WT.B"
     }
    ]
   },
@@ -5734,6 +5730,10 @@
     {
      "name": "Elevation Gold Mining Corporation wt 14Jan2023",
      "symbol": "ELVT.WT"
+    },
+    {
+     "name": "Elevation Gold Mining Corporation wts 24Mar2027",
+     "symbol": "ELVT.WT.A"
     }
    ]
   },
@@ -19482,6 +19482,18 @@
     {
      "name": "Vicinity Motor Corp.",
      "symbol": "VMC"
+    }
+   ]
+  },
+  {
+   "symbol": "VOC.P",
+   "name": "Victory Opportunities 1 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOC.P.V",
+   "instruments": [
+    {
+     "name": "Victory Opportunities 1 Corp.",
+     "symbol": "VOC.P"
     }
    ]
   },
@@ -46454,12 +46466,6 @@
    "yahoo_symbol": "AIHS"
   },
   {
-   "symbol": "AIKI",
-   "name": "AIkido Pharma Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AIKI"
-  },
-  {
    "symbol": "AIMAU",
    "name": "Aimfinity Investment Corp. I - Unit",
    "exchange": "NASDAQ Global MarketSM",
@@ -53456,24 +53462,6 @@
    "yahoo_symbol": "DAM"
   },
   {
-   "symbol": "DAOO",
-   "name": "Crypto 1 Acquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DAOO"
-  },
-  {
-   "symbol": "DAOOU",
-   "name": "Crypto 1 Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DAOOU"
-  },
-  {
-   "symbol": "DAOOW",
-   "name": "Crypto 1 Acquisition Corp - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DAOOW"
-  },
-  {
    "symbol": "DAPP",
    "name": "VanEck Digital Transformation ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -54066,6 +54054,12 @@
    "name": "Dogness (International) Corporation - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DOGZ"
+  },
+  {
+   "symbol": "DOMH",
+   "name": "Dominari Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DOMH"
   },
   {
    "symbol": "DOMO",
@@ -54666,6 +54660,18 @@
    "name": "Encore Capital Group Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ECPG"
+  },
+  {
+   "symbol": "ECX",
+   "name": "ECARX Holdings Inc. - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ECX"
+  },
+  {
+   "symbol": "ECXWW",
+   "name": "ECARX Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ECXWW"
   },
   {
    "symbol": "EDAP",
@@ -58442,24 +58448,6 @@
    "yahoo_symbol": "GMVDW"
   },
   {
-   "symbol": "GNAC",
-   "name": "Group Nine Acquisition Corp. - Class A Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GNAC"
-  },
-  {
-   "symbol": "GNACU",
-   "name": "Group Nine Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GNACU"
-  },
-  {
-   "symbol": "GNACW",
-   "name": "Group Nine Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GNACW"
-  },
-  {
    "symbol": "GNFT",
    "name": "GENFIT S.A. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -59228,42 +59216,6 @@
    "yahoo_symbol": "HCDIZ"
   },
   {
-   "symbol": "HCIC",
-   "name": "Hennessy Capital Investment Corp. V  - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCIC"
-  },
-  {
-   "symbol": "HCICU",
-   "name": "Hennessy Capital Investment Corp. V  - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCICU"
-  },
-  {
-   "symbol": "HCICW",
-   "name": "Hennessy Capital Investment Corp. V  - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCICW"
-  },
-  {
-   "symbol": "HCII",
-   "name": "Hudson Executive Investment Corp. II - Class A common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCII"
-  },
-  {
-   "symbol": "HCIIU",
-   "name": "Hudson Executive Investment Corp. II - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCIIU"
-  },
-  {
-   "symbol": "HCIIW",
-   "name": "Hudson Executive Investment Corp. II - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCIIW"
-  },
-  {
    "symbol": "HCKT",
    "name": "The Hackett Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -59514,24 +59466,6 @@
    "name": "Highway Holdings Limited - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HIHO"
-  },
-  {
-   "symbol": "HIII",
-   "name": "Hudson Executive Investment Corp. III - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HIII"
-  },
-  {
-   "symbol": "HIIIU",
-   "name": "Hudson Executive Investment Corp. III - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HIIIU"
-  },
-  {
-   "symbol": "HIIIW",
-   "name": "Hudson Executive Investment Corp. III - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HIIIW"
   },
   {
    "symbol": "HILS",
@@ -59868,6 +59802,12 @@
    "name": "Harrow Health, Inc. - 8.625% senior notes due 2026",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HROWL"
+  },
+  {
+   "symbol": "HROWM",
+   "name": "Harrow Health, Inc. - 11.875% Senior Notes due 2027",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HROWM"
   },
   {
    "symbol": "HRTX",
@@ -60660,24 +60600,6 @@
    "name": "Information Services Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "III"
-  },
-  {
-   "symbol": "IIII",
-   "name": "INSU Acquisition Corp. III - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IIII"
-  },
-  {
-   "symbol": "IIIIU",
-   "name": "INSU Acquisition Corp. III - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IIIIU"
-  },
-  {
-   "symbol": "IIIIW",
-   "name": "INSU Acquisition Corp. III - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IIIIW"
   },
   {
    "symbol": "IIIV",
@@ -67503,7 +67425,7 @@
   },
   {
    "symbol": "OP",
-   "name": "OceanPal Inc. - ordinary shares",
+   "name": "OceanPal Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OP"
   },
@@ -67512,12 +67434,6 @@
    "name": "OPAL Fuels Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OPAL"
-  },
-  {
-   "symbol": "OPALW",
-   "name": "OPAL Fuels Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OPALW"
   },
   {
    "symbol": "OPBK",
@@ -72032,24 +71948,6 @@
    "yahoo_symbol": "SCMAW"
   },
   {
-   "symbol": "SCOA",
-   "name": "ScION Tech Growth I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SCOA"
-  },
-  {
-   "symbol": "SCOAU",
-   "name": "ScION Tech Growth I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SCOAU"
-  },
-  {
-   "symbol": "SCOAW",
-   "name": "ScION Tech Growth I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SCOAW"
-  },
-  {
    "symbol": "SCOB",
    "name": "ScION Tech Growth II - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -72558,24 +72456,6 @@
    "name": "Shuttle Pharmaceuticals Holdings, Inc. - common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SHPH"
-  },
-  {
-   "symbol": "SHQA",
-   "name": "Shelter Acquisition Corporation I - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHQA"
-  },
-  {
-   "symbol": "SHQAU",
-   "name": "Shelter Acquisition Corporation I - Units, each consisting of One Class A Common Stock and one-third of one warrant.",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHQAU"
-  },
-  {
-   "symbol": "SHQAW",
-   "name": "Shelter Acquisition Corporation I - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHQAW"
   },
   {
    "symbol": "SHUA",
@@ -86012,18 +85892,6 @@
    "yahoo_symbol": "EQH$C"
   },
   {
-   "symbol": "EQHA",
-   "name": "EQ Health Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQHA"
-  },
-  {
-   "symbol": "EQHA.U",
-   "name": "EQ Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQHA.U"
-  },
-  {
    "symbol": "EQNR",
    "name": "Equinor ASA",
    "exchange": "NYSE",
@@ -88854,12 +88722,6 @@
    "name": "Huntington Ingalls Industries, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "HII"
-  },
-  {
-   "symbol": "HIL",
-   "name": "Hill International, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HIL"
   },
   {
    "symbol": "HIMS",
