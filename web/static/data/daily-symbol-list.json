@@ -1,5 +1,5 @@
 {
- "date": "2022-12-22",
+ "date": "2022-12-23",
  "data": [
   {
    "symbol": "ONE",
@@ -3630,6 +3630,18 @@
     {
      "name": "Ceapro Inc.",
      "symbol": "CZO"
+    }
+   ]
+  },
+  {
+   "symbol": "CES.P",
+   "name": "Celestial Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CES.P.V",
+   "instruments": [
+    {
+     "name": "Celestial Acquisition Corp.",
+     "symbol": "CES.P"
     }
    ]
   },
@@ -13032,7 +13044,7 @@
    "yahoo_symbol": "NVT.V",
    "instruments": [
     {
-     "name": "Nortec Minerals Corp",
+     "name": "Nortec Minerals Corp.",
      "symbol": "NVT"
     }
    ]
@@ -45452,12 +45464,6 @@
    "yahoo_symbol": "ABIO"
   },
   {
-   "symbol": "ABMD",
-   "name": "ABIOMED, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ABMD"
-  },
-  {
    "symbol": "ABNB",
    "name": "Airbnb, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -46146,24 +46152,6 @@
    "name": "Aeterna Zentaris Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AEZS"
-  },
-  {
-   "symbol": "AFAQ",
-   "name": "AF Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AFAQ"
-  },
-  {
-   "symbol": "AFAQU",
-   "name": "AF Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AFAQU"
-  },
-  {
-   "symbol": "AFAQW",
-   "name": "AF Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AFAQW"
   },
   {
    "symbol": "AFAR",
@@ -51242,12 +51230,6 @@
    "yahoo_symbol": "CEVA"
   },
   {
-   "symbol": "CEY",
-   "name": "VictoryShares Emerging Market High Div Volatility Wtd ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CEY"
-  },
-  {
    "symbol": "CFA",
    "name": "VictoryShares US 500 Volatility Wtd ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -52530,6 +52512,12 @@
    "name": "Coupa Software Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "COUP"
+  },
+  {
+   "symbol": "COWG",
+   "name": "Pacer US Large Cap Cash Cows Growth Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COWG"
   },
   {
    "symbol": "COWN",
@@ -53832,24 +53820,6 @@
    "name": "DICE Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DICE"
-  },
-  {
-   "symbol": "DILA",
-   "name": "DILA Capital Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DILA"
-  },
-  {
-   "symbol": "DILAU",
-   "name": "DILA Capital Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DILAU"
-  },
-  {
-   "symbol": "DILAW",
-   "name": "DILA Capital Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DILAW"
   },
   {
    "symbol": "DIOD",
@@ -59162,24 +59132,6 @@
    "yahoo_symbol": "HBT"
   },
   {
-   "symbol": "HCAR",
-   "name": "Healthcare Services Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCAR"
-  },
-  {
-   "symbol": "HCARU",
-   "name": "Healthcare Services Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCARU"
-  },
-  {
-   "symbol": "HCARW",
-   "name": "Healthcare Services Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCARW"
-  },
-  {
    "symbol": "HCAT",
    "name": "Health Catalyst, Inc - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -59868,6 +59820,12 @@
    "name": "Hudson Global, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HSON"
+  },
+  {
+   "symbol": "HSPOU",
+   "name": "Horizon Space Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPOU"
   },
   {
    "symbol": "HST",
@@ -67682,12 +67640,6 @@
    "yahoo_symbol": "OTEX"
   },
   {
-   "symbol": "OTIC",
-   "name": "Otonomy, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OTIC"
-  },
-  {
    "symbol": "OTLK",
    "name": "Outlook Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -69506,24 +69458,6 @@
    "yahoo_symbol": "PRVB"
   },
   {
-   "symbol": "PSAG",
-   "name": "Property Solutions Acquisition Corporation II - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PSAG"
-  },
-  {
-   "symbol": "PSAGU",
-   "name": "Property Solutions Acquisition Corporation II - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PSAGU"
-  },
-  {
-   "symbol": "PSAGW",
-   "name": "Property Solutions Acquisition Corporation II - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PSAGW"
-  },
-  {
    "symbol": "PSC",
    "name": "Principal U.S. Small-Cap Multi-Factor ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -71166,12 +71100,6 @@
    "name": "ReNew Energy Global plc - Class A Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "RNW"
-  },
-  {
-   "symbol": "RNWK",
-   "name": "RealNetworks, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RNWK"
   },
   {
    "symbol": "RNWWW",
@@ -91056,12 +90984,6 @@
    "name": "Levi Strauss \u0026 Co Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LEVI"
-  },
-  {
-   "symbol": "LFG",
-   "name": "Archaea Energy Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LFG"
   },
   {
    "symbol": "LFT",
