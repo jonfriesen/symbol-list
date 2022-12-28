@@ -1,5 +1,5 @@
 {
- "date": "2022-12-27",
+ "date": "2022-12-28",
  "data": [
   {
    "symbol": "ONE",
@@ -2154,18 +2154,6 @@
     {
      "name": "Bear Creek Mining Corporation",
      "symbol": "BCM"
-    }
-   ]
-  },
-  {
-   "symbol": "BRZ",
-   "name": "Bearing Lithium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BRZ.V",
-   "instruments": [
-    {
-     "name": "Bearing Lithium Corp.",
-     "symbol": "BRZ"
     }
    ]
   },
@@ -6218,18 +6206,6 @@
    ]
   },
   {
-   "symbol": "TNA",
-   "name": "Evergreen Gaming Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TNA.V",
-   "instruments": [
-    {
-     "name": "Evergreen Gaming Corporation",
-     "symbol": "TNA"
-    }
-   ]
-  },
-  {
    "symbol": "ELL",
    "name": "Everybody Loves Languages Corp.",
    "exchange": "TSXV",
@@ -7226,6 +7202,18 @@
     {
      "name": "General Assembly Holdings Limited",
      "symbol": "GA"
+    }
+   ]
+  },
+  {
+   "symbol": "GEN",
+   "name": "Generation Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GEN.V",
+   "instruments": [
+    {
+     "name": "Generation Gold Corp.",
+     "symbol": "GEN"
     }
    ]
   },
@@ -9858,18 +9846,6 @@
     {
      "name": "Jesmond Capital Ltd.",
      "symbol": "JES.P"
-    }
-   ]
-  },
-  {
-   "symbol": "SARG.P",
-   "name": "Jessy Ventures Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SARG.P.V",
-   "instruments": [
-    {
-     "name": "Jessy Ventures Corp.",
-     "symbol": "SARG.P"
     }
    ]
   },
@@ -44070,18 +44046,6 @@
    ]
   },
   {
-   "symbol": "TRL",
-   "name": "Trilogy International Partners Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "TRL.TO",
-   "instruments": [
-    {
-     "name": "Trilogy Intl PartnrJ",
-     "symbol": "TRL"
-    }
-   ]
-  },
-  {
    "symbol": "TMQ",
    "name": "Trilogy Metals Inc.",
    "exchange": "TSX",
@@ -57308,24 +57272,6 @@
    "yahoo_symbol": "FTSM"
   },
   {
-   "symbol": "FTVI",
-   "name": "FinTech Acquisition Corp. VI - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTVI"
-  },
-  {
-   "symbol": "FTVIU",
-   "name": "FinTech Acquisition Corp. VI - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTVIU"
-  },
-  {
-   "symbol": "FTVIW",
-   "name": "FinTech Acquisition Corp. VI - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTVIW"
-  },
-  {
    "symbol": "FTXG",
    "name": "First Trust Nasdaq Food \u0026 Beverage ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -57458,12 +57404,6 @@
    "yahoo_symbol": "FWONK"
   },
   {
-   "symbol": "FWP",
-   "name": "Forward Pharma A/S - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FWP"
-  },
-  {
    "symbol": "FWRD",
    "name": "Forward Air Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -57528,24 +57468,6 @@
    "name": "German American Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GABC"
-  },
-  {
-   "symbol": "GACQ",
-   "name": "Global Consumer Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GACQ"
-  },
-  {
-   "symbol": "GACQU",
-   "name": "Global Consumer Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GACQU"
-  },
-  {
-   "symbol": "GACQW",
-   "name": "Global Consumer Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GACQW"
   },
   {
    "symbol": "GAIA",
@@ -67202,12 +67124,6 @@
    "yahoo_symbol": "OMCL"
   },
   {
-   "symbol": "OMEG",
-   "name": "Omega Alpha SPAC - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OMEG"
-  },
-  {
    "symbol": "OMER",
    "name": "Omeros Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -72284,24 +72200,6 @@
    "yahoo_symbol": "SHC"
   },
   {
-   "symbol": "SHCA",
-   "name": "Spindletop Health Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHCA"
-  },
-  {
-   "symbol": "SHCAU",
-   "name": "Spindletop Health Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHCAU"
-  },
-  {
-   "symbol": "SHCAW",
-   "name": "Spindletop Health Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHCAW"
-  },
-  {
    "symbol": "SHCR",
    "name": "Sharecare, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72594,6 +72492,24 @@
    "name": "Silicon Laboratories, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SLAB"
+  },
+  {
+   "symbol": "SLAC",
+   "name": "Social Leverage Acquisition Corp I - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLAC"
+  },
+  {
+   "symbol": "SLACU",
+   "name": "Social Leverage Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLACU"
+  },
+  {
+   "symbol": "SLACW",
+   "name": "Social Leverage Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLACW"
   },
   {
    "symbol": "SLAM",
@@ -73392,24 +73308,6 @@
    "name": "Sprout Social, Inc - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SPT"
-  },
-  {
-   "symbol": "SPTK",
-   "name": "SportsTek Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPTK"
-  },
-  {
-   "symbol": "SPTKU",
-   "name": "SportsTek Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPTKU"
-  },
-  {
-   "symbol": "SPTKW",
-   "name": "SportsTek Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPTKW"
   },
   {
    "symbol": "SPTN",
@@ -86126,12 +86024,6 @@
    "yahoo_symbol": "EVR"
   },
   {
-   "symbol": "EVRG",
-   "name": "Evergy, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EVRG"
-  },
-  {
    "symbol": "EVRI",
    "name": "Everi Holdings Inc. Common Stock",
    "exchange": "NYSE",
@@ -89000,18 +88892,6 @@
    "yahoo_symbol": "HUBS"
   },
   {
-   "symbol": "HUGS",
-   "name": "USHG Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HUGS"
-  },
-  {
-   "symbol": "HUGS.U",
-   "name": "USHG Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-third of one Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HUGS.U"
-  },
-  {
    "symbol": "HUM",
    "name": "Humana Inc. Common Stock",
    "exchange": "NYSE",
@@ -90924,12 +90804,6 @@
    "name": "Levi Strauss \u0026 Co Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LEVI"
-  },
-  {
-   "symbol": "LFG",
-   "name": "Archaea Energy Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LFG"
   },
   {
    "symbol": "LFT",
