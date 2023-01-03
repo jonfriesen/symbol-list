@@ -1,5 +1,5 @@
 {
- "date": "2023-01-02",
+ "date": "2023-01-03",
  "data": [
   {
    "symbol": "ONE",
@@ -15642,6 +15642,18 @@
    ]
   },
   {
+   "symbol": "LITT",
+   "name": "Right Season Investments Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LITT.V",
+   "instruments": [
+    {
+     "name": "Right Season Investments Corp.",
+     "symbol": "LITT"
+    }
+   ]
+  },
+  {
    "symbol": "RLYG",
    "name": "Riley Gold Corp.",
    "exchange": "TSXV",
@@ -15734,18 +15746,6 @@
     {
      "name": "RJK Explorations Ltd.",
      "symbol": "RJX.A"
-    }
-   ]
-  },
-  {
-   "symbol": "LITT",
-   "name": "Roadman Investments Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LITT.V",
-   "instruments": [
-    {
-     "name": "Roadman Investments Corp.",
-     "symbol": "LITT"
     }
    ]
   },
@@ -17147,16 +17147,16 @@
   },
   {
    "symbol": "SPRQ",
-   "name": "SPARQ Corp.",
+   "name": "Sparq Systems Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "SPRQ.V",
    "instruments": [
     {
-     "name": "SPARQ Corp.",
+     "name": "Sparq Systems Inc.",
      "symbol": "SPRQ"
     },
     {
-     "name": "SPARQ Corp. wt 31DEC2023",
+     "name": "Sparq Systems Inc. wt 31Dec2023",
      "symbol": "SPRQ.WT"
     }
    ]
@@ -52392,18 +52392,6 @@
    "yahoo_symbol": "CORT"
   },
   {
-   "symbol": "CORZ",
-   "name": "Core Scientific, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CORZ"
-  },
-  {
-   "symbol": "CORZW",
-   "name": "Core Scientific, Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CORZW"
-  },
-  {
    "symbol": "COSM",
    "name": "Cosmos Health Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -54874,12 +54862,6 @@
    "name": "WisdomTree Emerging Markets Corporate Bond Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "EMCB"
-  },
-  {
-   "symbol": "EMCF",
-   "name": "Emclaire Financial Corp - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EMCF"
   },
   {
    "symbol": "EMCG",
@@ -61914,24 +61896,6 @@
    "yahoo_symbol": "KAIIW"
   },
   {
-   "symbol": "KAIR",
-   "name": "Kairos Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KAIR"
-  },
-  {
-   "symbol": "KAIRU",
-   "name": "Kairos Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KAIRU"
-  },
-  {
-   "symbol": "KAIRW",
-   "name": "Kairos Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KAIRW"
-  },
-  {
    "symbol": "KAL",
    "name": "Kalera Public Limited Company - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -63084,6 +63048,24 @@
    "yahoo_symbol": "LIFE"
   },
   {
+   "symbol": "LIFW",
+   "name": "MSP Recovery, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIFW"
+  },
+  {
+   "symbol": "LIFWW",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIFWW"
+  },
+  {
+   "symbol": "LIFWZ",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIFWZ"
+  },
+  {
    "symbol": "LILA",
    "name": "Liberty Latin America Ltd. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63232,24 +63214,6 @@
    "name": "LIZHI INC. - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LIZI"
-  },
-  {
-   "symbol": "LJAQ",
-   "name": "LightJump Acquisition Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LJAQ"
-  },
-  {
-   "symbol": "LJAQU",
-   "name": "LightJump Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LJAQU"
-  },
-  {
-   "symbol": "LJAQW",
-   "name": "LightJump Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LJAQW"
   },
   {
    "symbol": "LKCO",
@@ -64267,7 +64231,7 @@
   },
   {
    "symbol": "MDRX",
-   "name": "Allscripts Healthcare Solutions, Inc. - common stock",
+   "name": "Veradigm Inc. - common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MDRX"
   },
@@ -65212,24 +65176,6 @@
    "name": "Motorsport Games Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MSGM"
-  },
-  {
-   "symbol": "MSPR",
-   "name": "MSP Recovery, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSPR"
-  },
-  {
-   "symbol": "MSPRW",
-   "name": "MSP Recovery, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSPRW"
-  },
-  {
-   "symbol": "MSPRZ",
-   "name": "MSP Recovery, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSPRZ"
   },
   {
    "symbol": "MSSA",
@@ -67944,12 +67890,6 @@
    "yahoo_symbol": "PCSA"
   },
   {
-   "symbol": "PCSB",
-   "name": "PCSB Financial Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PCSB"
-  },
-  {
    "symbol": "PCT",
    "name": "PureCycle Technologies, Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
@@ -70012,12 +69952,6 @@
    "name": "QualTek Services Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QTEKW"
-  },
-  {
-   "symbol": "QTNT",
-   "name": "Quotient Limited - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QTNT"
   },
   {
    "symbol": "QTR",
@@ -75312,12 +75246,6 @@
    "yahoo_symbol": "TTWO"
   },
   {
-   "symbol": "TUEM",
-   "name": "Tuesday Morning Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TUEM"
-  },
-  {
    "symbol": "TUG",
    "name": "STF Tactical Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -80148,6 +80076,18 @@
    "yahoo_symbol": "AUD"
   },
   {
+   "symbol": "AULT",
+   "name": "Ault Alliance, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AULT"
+  },
+  {
+   "symbol": "AULT$D",
+   "name": "Ault Alliance, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AULT$D"
+  },
+  {
    "symbol": "AUMN",
    "name": "Golden Minerals Company Common Stock",
    "exchange": "NYSE MKT",
@@ -83551,13 +83491,13 @@
   },
   {
    "symbol": "CTA$A",
-   "name": "E.I. du Pont de Nemours and Company Preferred Stock",
+   "name": "EIDP, Inc. Preferred Stock $3.50 Series",
    "exchange": "NYSE",
    "yahoo_symbol": "CTA$A"
   },
   {
    "symbol": "CTA$B",
-   "name": "E.I. du Pont de Nemours and Company Preferred Stock",
+   "name": "EIDP, Inc. Preferred Stock $4.50 Series",
    "exchange": "NYSE",
    "yahoo_symbol": "CTA$B"
   },
@@ -84658,30 +84598,6 @@
    "name": "Dril-Quip, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "DRQ"
-  },
-  {
-   "symbol": "DS",
-   "name": "Drive Shack Inc.",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DS"
-  },
-  {
-   "symbol": "DS$B",
-   "name": "Drive Shack Inc. Preferred Series B",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DS$B"
-  },
-  {
-   "symbol": "DS$C",
-   "name": "Drive Shack Inc. Preferred Series C",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DS$C"
-  },
-  {
-   "symbol": "DS$D",
-   "name": "Drive Shack Inc. Pfd Ser D",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DS$D"
   },
   {
    "symbol": "DSAQ",
@@ -86719,7 +86635,7 @@
   },
   {
    "symbol": "FRO",
-   "name": "Frontline Ltd. Ordinary Shares",
+   "name": "Frontline Plc Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "FRO"
   },
@@ -88512,12 +88428,6 @@
    "yahoo_symbol": "HMC"
   },
   {
-   "symbol": "HMLP$A",
-   "name": "Hoegh LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HMLP$A"
-  },
-  {
    "symbol": "HMN",
    "name": "Horace Mann Educators Corporation Common Stock",
    "exchange": "NYSE",
@@ -90193,7 +90103,7 @@
   },
   {
    "symbol": "KIM",
-   "name": "Kimco Realty Corporation Common Stock",
+   "name": "Kimco Realty Corporation (HC) Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "KIM"
   },
@@ -92878,18 +92788,6 @@
    "name": "Virtus Equity \u0026 Convertible Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "NIE"
-  },
-  {
-   "symbol": "NILE",
-   "name": "BitNile Holdings, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NILE"
-  },
-  {
-   "symbol": "NILE$D",
-   "name": "BitNile Holdings, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NILE$D"
   },
   {
    "symbol": "NIM",

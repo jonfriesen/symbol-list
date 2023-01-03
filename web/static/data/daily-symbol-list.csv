@@ -1280,6 +1280,7 @@ RYE,Rhyolite Resources Ltd.,TSXV,RYE.V,Rhyolite Resources Ltd,RYE
 RMD,Richmond Minerals Inc.,TSXV,RMD.V,Richmond Minerals Inc.,RMD
 RDG,Ridgeline Minerals Corp.,TSXV,RDG.V,Ridgeline Minerals Corp.,RDG
 RMI,Ridgestone Mining Inc.,TSXV,RMI.V,Ridgestone Mining Inc.,RMI
+LITT,Right Season Investments Corp.,TSXV,LITT.V,Right Season Investments Corp.,LITT
 RLYG,Riley Gold Corp.,TSXV,RLYG.V,Riley Gold Corp.,RLYG
 RYO,Rio Silver Inc.,TSXV,RYO.V,Rio Silver Inc,RYO
 RIO,Rio2 Limited,TSXV,RIO.V,Rio2 Limited,RIO
@@ -1288,7 +1289,6 @@ RRI,Riverside Resources Inc.,TSXV,RRI.V,Riverside Resources Inc.,RRI
 RAC.P,Riverwalk Acquisition Corp.,TSXV,RAC.P.V,Riverwalk Acquisition Corp.,RAC.P
 RIWI,RIWI Corp.,TSXV,RIWI.V,RIWI Corp.,RIWI
 RJX.A,RJK Explorations Ltd.,TSXV,RJX.A.V,RJK Explorations Ltd.,RJX.A
-LITT,Roadman Investments Corp.,TSXV,LITT.V,Roadman Investments Corp.,LITT
 RBX,Robex Resources Inc.,TSXV,RBX.V,Robex Resources Inc.,RBX
 RCT,Rochester Resources Ltd.,TSXV,RCT.V,Rochester Resources Ltd.,RCT
 RCK,Rock Tech Lithium Inc.,TSXV,RCK.V,Rock Tech Lithium Inc.,RCK,Rock Tech Lithium Inc. wt 19aug2025,RCK.WT
@@ -1402,7 +1402,7 @@ SSV,Southern Silver Exploration Corp.,TSXV,SSV.V,Southern Silver Exploration Cor
 SML,Southstone Minerals Limited,TSXV,SML.V,Southstone Minerals Limited,SML
 SQG,Spackman Equities Group Inc.,TSXV,SQG.V,Spackman Equities Group Inc.,SQG
 SPA,Spanish Mountain Gold Ltd.,TSXV,SPA.V,Spanish Mountain Gold Ltd,SPA
-SPRQ,SPARQ Corp.,TSXV,SPRQ.V,SPARQ Corp.,SPRQ,SPARQ Corp. wt 31DEC2023,SPRQ.WT
+SPRQ,Sparq Systems Inc.,TSXV,SPRQ.V,Sparq Systems Inc.,SPRQ,Sparq Systems Inc. wt 31Dec2023,SPRQ.WT
 SAY,Sparta Capital Ltd.,TSXV,SAY.V,Sparta Capital Ltd.,SAY
 SRI,Sparton Resources Inc.,TSXV,SRI.V,Sparton Resources Inc,SRI
 SPRX,Sparx Technology Inc.,TSXV,SPRX.V,Sparx Technology Inc.,SPRX
@@ -4664,8 +4664,6 @@ COOLU,Corner Growth Acquisition Corp. - Unit,NASDAQ Capital Market,COOLU
 COOLW,Corner Growth Acquisition Corp. - Warrant,NASDAQ Capital Market,COOLW
 COOP,Mr. Cooper Group Inc. - Common Stock,NASDAQ Capital Market,COOP
 CORT,Corcept Therapeutics Incorporated - Common Stock,NASDAQ Capital Market,CORT
-CORZ,"Core Scientific, Inc. - Common Stock",NASDAQ Global Select MarketSM,CORZ
-CORZW,"Core Scientific, Inc. - Warrant",NASDAQ Global Select MarketSM,CORZW
 COSM,Cosmos Health Inc. - Common Stock,NASDAQ Capital Market,COSM
 COST,Costco Wholesale Corporation - Common Stock,NASDAQ Global Select MarketSM,COST
 COUP,Coupa Software Incorporated - Common Stock,NASDAQ Global Select MarketSM,COUP
@@ -5078,7 +5076,6 @@ EMBC,Embecta Corp. - Common Stock,NASDAQ Global Select MarketSM,EMBC
 EMBK,"Embark Technology, Inc. - Common Stock",NASDAQ Global MarketSM,EMBK
 EMBKW,"Embark Technology, Inc. - Warrant",NASDAQ Global MarketSM,EMBKW
 EMCB,WisdomTree Emerging Markets Corporate Bond Fund,NASDAQ Global MarketSM,EMCB
-EMCF,Emclaire Financial Corp - Common Stock,NASDAQ Capital Market,EMCF
 EMCG,Embrace Change Acquisition Corp - Ordinary Shares,NASDAQ Global MarketSM,EMCG
 EMCGR,Embrace Change Acquisition Corp - Rights,NASDAQ Global MarketSM,EMCGR
 EMCGU,Embrace Change Acquisition Corp - Units,NASDAQ Global MarketSM,EMCGU
@@ -6251,9 +6248,6 @@ KACLW,Kairous Acquisition Corp. Limited - Warrants,NASDAQ Global MarketSM,KACLW
 KAII,Kismet Acquisition Two Corp. - Class A Ordinary Shares,NASDAQ Capital Market,KAII
 KAIIU,Kismet Acquisition Two Corp. - Unit,NASDAQ Capital Market,KAIIU
 KAIIW,Kismet Acquisition Two Corp. - Warrant,NASDAQ Capital Market,KAIIW
-KAIR,Kairos Acquisition Corp. - Class A Ordinary Shares,NASDAQ Capital Market,KAIR
-KAIRU,Kairos Acquisition Corp. - Unit,NASDAQ Capital Market,KAIRU
-KAIRW,Kairos Acquisition Corp. - Warrant,NASDAQ Capital Market,KAIRW
 KAL,Kalera Public Limited Company - Ordinary Shares,NASDAQ Capital Market,KAL
 KALA,"Kala Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,KALA
 KALU,Kaiser Aluminum Corporation - Common Stock,NASDAQ Global Select MarketSM,KALU
@@ -6446,6 +6440,9 @@ LIBYW,Liberty Resources Acquisition Corp. - Warrant,NASDAQ Global MarketSM,LIBYW
 LIDR,"AEye, Inc. - Class A Common Stock",NASDAQ Capital Market,LIDR
 LIDRW,"AEye, Inc. - Warrant",NASDAQ Capital Market,LIDRW
 LIFE,"aTyr Pharma, Inc. - Common Stock",NASDAQ Capital Market,LIFE
+LIFW,"MSP Recovery, Inc. - Class A Common Stock",NASDAQ Global MarketSM,LIFW
+LIFWW,"MSP Recovery, Inc. - Warrant",NASDAQ Global MarketSM,LIFWW
+LIFWZ,"MSP Recovery, Inc. - Warrant",NASDAQ Global MarketSM,LIFWZ
 LILA,Liberty Latin America Ltd. - Class A Common Stock,NASDAQ Global Select MarketSM,LILA
 LILAK,Liberty Latin America Ltd. - Class C Common Stock,NASDAQ Global Select MarketSM,LILAK
 LILM,Lilium N.V. - Class A Ordinary Shares,NASDAQ Global Select MarketSM,LILM
@@ -6471,9 +6468,6 @@ LIVN,LivaNova PLC - Ordinary Shares,NASDAQ Global Select MarketSM,LIVN
 LIXT,"Lixte Biotechnology Holdings, Inc. - Common Stock",NASDAQ Capital Market,LIXT
 LIXTW,"Lixte Biotechnology Holdings, Inc. - Warrants",NASDAQ Capital Market,LIXTW
 LIZI,LIZHI INC. - American Depositary Shares,NASDAQ Global MarketSM,LIZI
-LJAQ,LightJump Acquisition Corporation - Common Stock,NASDAQ Capital Market,LJAQ
-LJAQU,LightJump Acquisition Corporation - Unit,NASDAQ Capital Market,LJAQU
-LJAQW,LightJump Acquisition Corporation - Warrant,NASDAQ Capital Market,LJAQW
 LKCO,Luokung Technology Corp - Ordinary Shares,NASDAQ Capital Market,LKCO
 LKFN,Lakeland Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,LKFN
 LKQ,LKQ Corporation - Common Stock,NASDAQ Global Select MarketSM,LKQ
@@ -6643,7 +6637,7 @@ MDLZ,"Mondelez International, Inc. - Class A Common Stock",NASDAQ Global Select 
 MDNA,Medicenna Therapeutics Corp. - Common Shares,NASDAQ Capital Market,MDNA
 MDRR,"Medalist Diversified REIT, Inc. - Common Stock",NASDAQ Capital Market,MDRR
 MDRRP,"Medalist Diversified REIT, Inc. - Series A Cumulative Redeemable Preferred Stock",NASDAQ Capital Market,MDRRP
-MDRX,"Allscripts Healthcare Solutions, Inc. - common stock",NASDAQ Global Select MarketSM,MDRX
+MDRX,Veradigm Inc. - common stock,NASDAQ Global Select MarketSM,MDRX
 MDVL,"MedAvail Holdings, Inc.  - Common Stock",NASDAQ Capital Market,MDVL
 MDWD,MediWound Ltd. - Ordinary Shares,NASDAQ Global MarketSM,MDWD
 MDWT,Midwest Holding Inc. - Common Stock,NASDAQ Capital Market,MDWT
@@ -6801,9 +6795,6 @@ MSFD,Direxion Daily MSFT Bear 1X Shares,NASDAQ Global MarketSM,MSFD
 MSFT,Microsoft Corporation - Common Stock,NASDAQ Global Select MarketSM,MSFT
 MSFU,Direxion Daily MSFT Bull 1.5X Shares,NASDAQ Global MarketSM,MSFU
 MSGM,Motorsport Games Inc. - Class A Common Stock,NASDAQ Capital Market,MSGM
-MSPR,"MSP Recovery, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MSPR
-MSPRW,"MSP Recovery, Inc. - Warrant",NASDAQ Global MarketSM,MSPRW
-MSPRZ,"MSP Recovery, Inc. - Warrant",NASDAQ Global MarketSM,MSPRZ
 MSSA,Metal Sky Star Acquisition Corporation - Ordinary shares,NASDAQ Global MarketSM,MSSA
 MSSAR,Metal Sky Star Acquisition Corporation - Right,NASDAQ Global MarketSM,MSSAR
 MSSAU,Metal Sky Star Acquisition Corporation - Unit,NASDAQ Global MarketSM,MSSAU
@@ -7256,7 +7247,6 @@ PCCTW,Perception Capital Corp. II - Warrants,NASDAQ Global MarketSM,PCCTW
 PCH,PotlatchDeltic Corporation - Common Stock,NASDAQ Global Select MarketSM,PCH
 PCRX,"Pacira BioSciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,PCRX
 PCSA,"Processa Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,PCSA
-PCSB,PCSB Financial Corporation - Common Stock,NASDAQ Capital Market,PCSB
 PCT,"PureCycle Technologies, Inc. - Common stock",NASDAQ Capital Market,PCT
 PCTI,"PCTEL, Inc. - Common Stock",NASDAQ Global Select MarketSM,PCTI
 PCTTU,"PureCycle Technologies, Inc. - Unit",NASDAQ Capital Market,PCTTU
@@ -7601,7 +7591,6 @@ QSIAW,Quantum-Si Incorporated - Warrant,NASDAQ Global MarketSM,QSIAW
 QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,NASDAQ Global MarketSM,QTEC
 QTEK,QualTek Services Inc. - Common stock,NASDAQ Capital Market,QTEK
 QTEKW,QualTek Services Inc. - Warrant,NASDAQ Capital Market,QTEKW
-QTNT,Quotient Limited - Ordinary Shares,NASDAQ Global MarketSM,QTNT
 QTR,Global X NASDAQ 100 Tail Risk ETF,NASDAQ Global MarketSM,QTR
 QTRX,Quanterix Corporation - Common Stock,NASDAQ Global MarketSM,QTRX
 QTT,Qutoutiao Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,QTT
@@ -8484,7 +8473,6 @@ TTNP,"Titan Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,TTNP
 TTOO,"T2 Biosystems, Inc. - Common Stock",NASDAQ Capital Market,TTOO
 TTSH,"Tile Shop Holdings, Inc. - Common Stock",NASDAQ Capital Market,TTSH
 TTWO,"Take-Two Interactive Software, Inc. - Common Stock",NASDAQ Global Select MarketSM,TTWO
-TUEM,Tuesday Morning Corp. - Common Stock,NASDAQ Capital Market,TUEM
 TUG,STF Tactical Growth ETF,NASDAQ Global MarketSM,TUG
 TUGN,STF Tactical Growth & Income ETF,NASDAQ Global MarketSM,TUGN
 TUR,iShares MSCI Turkey ETF,NASDAQ Global MarketSM,TUR
@@ -9290,6 +9278,8 @@ ATTO,Atento S.A. Ordinary Shares,NYSE,ATTO
 ATUS,"Altice USA, Inc. Class A Common Stock",NYSE,ATUS
 AU,AngloGold Ashanti Limited Common Stock,NYSE,AU
 AUD,Audacy Common Stock,NYSE,AUD
+AULT,"Ault Alliance, Inc. Common Stock",NYSE MKT,AULT
+AULT$D,"Ault Alliance, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",NYSE MKT,AULT$D
 AUMN,Golden Minerals Company Common Stock,NYSE MKT,AUMN
 AUST,Austin Gold Corp. Common Shares,NYSE MKT,AUST
 AUY,Yamana Gold Inc. Ordinary Shares (Canada),NYSE,AUY
@@ -9857,8 +9847,8 @@ CSTA.U,"Constellation Acquisition Corp I Units, each consisting of one Class A o
 CSTA.W,"Constellation Acquisition Corp I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,CSTA.W
 CSTM,Constellium SE Ordinary Shares (France),NYSE,CSTM
 CSV,"Carriage Services, Inc. Common Stock",NYSE,CSV
-CTA$A,E.I. du Pont de Nemours and Company Preferred Stock,NYSE,CTA$A
-CTA$B,E.I. du Pont de Nemours and Company Preferred Stock,NYSE,CTA$B
+CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series",NYSE,CTA$A
+CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series",NYSE,CTA$B
 CTBB,Qwest Corporation 6.5% Notes due 2056,NYSE,CTBB
 CTDD,Qwest Corporation 6.75% Notes due 2057,NYSE,CTDD
 CTEST,NYSE Test One Common Stock,NYSE,CTEST
@@ -10042,10 +10032,6 @@ DRH,Diamondrock Hospitality Company Common Stock,NYSE,DRH
 DRH$A,Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock,NYSE,DRH$A
 DRI,"Darden Restaurants, Inc. Common Stock",NYSE,DRI
 DRQ,"Dril-Quip, Inc. Common Stock",NYSE,DRQ
-DS,Drive Shack Inc.,NYSE,DS
-DS$B,Drive Shack Inc. Preferred Series B,NYSE,DS$B
-DS$C,Drive Shack Inc. Preferred Series C,NYSE,DS$C
-DS$D,Drive Shack Inc. Pfd Ser D,NYSE,DS$D
 DSAQ,Direct Selling Acquisition Corp. Class A Common Stock,NYSE,DSAQ
 DSAQ.U,"Direct Selling Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of redeemable warrant",NYSE,DSAQ.U
 DSL,DoubleLine Income Solutions Fund Common Shares of Beneficial Interests,NYSE,DSL
@@ -10385,7 +10371,7 @@ FRD,Friedman Industries Inc. Common Stock,NYSE MKT,FRD
 FREY,FREYR Battery Ordinary Shares,NYSE,FREY
 FREY.W,"FREYR Battery Warrants, each whole warrant exercisable to purchase one Ordinary Share at an exercise price of $11.50 per share",NYSE,FREY.W
 FRGE,"Forge Global Holdings, Inc. Common Stock",NYSE,FRGE
-FRO,Frontline Ltd. Ordinary Shares,NYSE,FRO
+FRO,Frontline Plc Ordinary Shares,NYSE,FRO
 FRT,Federal Realty Investment Trust Common Stock,NYSE,FRT
 FRT$C,"Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share",NYSE,FRT$C
 FRXB,Forest Road Acquisition Corp. II Class A Common Stock,NYSE,FRXB
@@ -10684,7 +10670,6 @@ HMA,Heartland Media Acquisition Corp. Class A Common Stock,NYSE,HMA
 HMA.U,"Heartland Media Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",NYSE,HMA.U
 HMA.W,"Heartland Media Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE,HMA.W
 HMC,"Honda Motor Company, Ltd. Common Stock",NYSE,HMC
-HMLP$A,Hoegh LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units,NYSE,HMLP$A
 HMN,Horace Mann Educators Corporation Common Stock,NYSE,HMN
 HMY,Harmony Gold Mining Company Limited,NYSE,HMY
 HNI,HNI Corporation Common Stock,NYSE,HNI
@@ -10964,7 +10949,7 @@ KF,"Korea Fund, Inc. (The) New Common Stock",NYSE,KF
 KFS,"Kingsway Financial Services, Inc. Common Stock (DE)",NYSE,KFS
 KFY,Korn Ferry Common Stock,NYSE,KFY
 KGC,Kinross Gold Corporation Common Stock,NYSE,KGC
-KIM,Kimco Realty Corporation Common Stock,NYSE,KIM
+KIM,Kimco Realty Corporation (HC) Common Stock,NYSE,KIM
 KIM$L,"Kimco Realty Corporation Class L Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",NYSE,KIM$L
 KIM$M,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",NYSE,KIM$M
 KIND,"Nextdoor Holdings, Inc. Class A Common Stock",NYSE,KIND
@@ -11412,8 +11397,6 @@ NIB,iPath Bloomberg Cocoa Subindex Total Return SM IndexETN,NYSE ARCA,NIB
 NIC,Nicolet Bankshares Inc. Common Stock,NYSE,NIC
 NID,Nuveen Intermediate Duration Municipal Term Fund Common Shares of Beneficial Interest,NYSE,NID
 NIE,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest,NYSE,NIE
-NILE,"BitNile Holdings, Inc. Common Stock",NYSE MKT,NILE
-NILE$D,"BitNile Holdings, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",NYSE MKT,NILE$D
 NIM,Nuveen Select Maturities Municipal Fund Common Stock,NYSE,NIM
 NIMC,"NiSource, Inc Series A Corporate Units",NYSE,NIMC
 NINE,"Nine Energy Service, Inc. Common Stock",NYSE,NINE
