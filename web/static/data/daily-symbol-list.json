@@ -1,5 +1,5 @@
 {
- "date": "2023-01-06",
+ "date": "2023-01-09",
  "data": [
   {
    "symbol": "ONE",
@@ -8918,6 +8918,18 @@
    ]
   },
   {
+   "symbol": "HVII.P",
+   "name": "Hopefield Ventures Two Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HVII.P.V",
+   "instruments": [
+    {
+     "name": "Hopefield Ventures Two Inc.",
+     "symbol": "HVII.P"
+    }
+   ]
+  },
+  {
    "symbol": "HCU",
    "name": "Horizon Copper Corp.",
    "exchange": "TSXV",
@@ -14934,6 +14946,18 @@
    ]
   },
   {
+   "symbol": "QTWO",
+   "name": "Q2 Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "QTWO.V",
+   "instruments": [
+    {
+     "name": "Q2 Metals Corp.",
+     "symbol": "QTWO"
+    }
+   ]
+  },
+  {
    "symbol": "QCCU",
    "name": "QC Copper and Gold Inc.",
    "exchange": "TSXV",
@@ -15014,18 +15038,6 @@
     {
      "name": "Quebec Precious Metals Corporation",
      "symbol": "QPM"
-    }
-   ]
-  },
-  {
-   "symbol": "OZAU",
-   "name": "Queensland Gold Hills Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OZAU.V",
-   "instruments": [
-    {
-     "name": "Queensland Gold Hills Corp.",
-     "symbol": "OZAU"
     }
    ]
   },
@@ -54002,24 +54014,6 @@
    "yahoo_symbol": "DPRO"
   },
   {
-   "symbol": "DRAY",
-   "name": "Macondray Capital Acquisition Corp. I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DRAY"
-  },
-  {
-   "symbol": "DRAYU",
-   "name": "Macondray Capital Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DRAYU"
-  },
-  {
-   "symbol": "DRAYW",
-   "name": "Macondray Capital Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DRAYW"
-  },
-  {
    "symbol": "DRCT",
    "name": "Direct Digital Holdings, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67408,13 +67402,13 @@
   {
    "symbol": "OTMO",
    "name": "Otonomo Technologies Ltd. - Ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OTMO"
   },
   {
    "symbol": "OTMOW",
    "name": "Otonomo Technologies Ltd. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OTMOW"
   },
   {
@@ -90800,12 +90794,6 @@
    "yahoo_symbol": "LPG"
   },
   {
-   "symbol": "LPI",
-   "name": "Laredo Petroleum, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LPI"
-  },
-  {
    "symbol": "LPL",
    "name": "LG Display Co, Ltd AMERICAN DEPOSITORY SHARES",
    "exchange": "NYSE",
@@ -91452,12 +91440,6 @@
    "name": "Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $15.00",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "MIMO.B"
-  },
-  {
-   "symbol": "MIMO.C",
-   "name": "Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $17.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MIMO.C"
   },
   {
    "symbol": "MIMO.W",
@@ -99954,6 +99936,12 @@
    "name": "VTEX Class A Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "VTEX"
+  },
+  {
+   "symbol": "VTLE",
+   "name": "Vital Energy, Inc. Common Stock, par value $0.01 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VTLE"
   },
   {
    "symbol": "VTN",
