@@ -1,5 +1,5 @@
 {
- "date": "2023-01-09",
+ "date": "2023-01-10",
  "data": [
   {
    "symbol": "ONE",
@@ -2682,18 +2682,6 @@
     {
      "name": "Bonterra Resources Inc.",
      "symbol": "BTR"
-    }
-   ]
-  },
-  {
-   "symbol": "BDGC",
-   "name": "Boundary Gold and Copper Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BDGC.V",
-   "instruments": [
-    {
-     "name": "Boundary Gold and Copper Mining Ltd.",
-     "symbol": "BDGC"
     }
    ]
   },
@@ -12430,18 +12418,6 @@
    ]
   },
   {
-   "symbol": "NDA",
-   "name": "Neptune Digital Assets Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NDA.V",
-   "instruments": [
-    {
-     "name": "Neptune Digital Assets Corp.",
-     "symbol": "NDA"
-    }
-   ]
-  },
-  {
    "symbol": "NGEN",
    "name": "NervGen Pharma Corp.",
    "exchange": "TSXV",
@@ -13482,18 +13458,6 @@
    ]
   },
   {
-   "symbol": "OPW",
-   "name": "Opawica Explorations Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OPW.V",
-   "instruments": [
-    {
-     "name": "Opawica Explorations Inc.",
-     "symbol": "OPW"
-    }
-   ]
-  },
-  {
    "symbol": "OPEN.P",
    "name": "OpenSesame Acquisition Corp.",
    "exchange": "TSXV",
@@ -14266,18 +14230,6 @@
     {
      "name": "PetroTal Corp.",
      "symbol": "TAL"
-    }
-   ]
-  },
-  {
-   "symbol": "PQE",
-   "name": "Petroteq Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PQE.V",
-   "instruments": [
-    {
-     "name": "Petroteq Energy Inc.",
-     "symbol": "PQE"
     }
    ]
   },
@@ -19850,18 +19802,6 @@
     {
      "name": "Water Ways Technologies Inc.",
      "symbol": "WWT"
-    }
-   ]
-  },
-  {
-   "symbol": "WEE",
-   "name": "Wavefront Technology Solutions Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WEE.V",
-   "instruments": [
-    {
-     "name": "Wavefront Technology Solutions Inc",
-     "symbol": "WEE"
     }
    ]
   },
@@ -29806,6 +29746,34 @@
     {
      "name": "Evolve MetaversCA Hg",
      "symbol": "MESH"
+    }
+   ]
+  },
+  {
+   "symbol": "ESPX",
+   "name": "Evolve S\u0026P 500® Enhanced Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ESPX.TO",
+   "instruments": [
+    {
+     "name": "Evolve 500EnhcYld HG",
+     "symbol": "ESPX"
+    },
+    {
+     "name": "Evolve 500EnhcYld UH",
+     "symbol": "ESPX.B"
+    }
+   ]
+  },
+  {
+   "symbol": "ETSX",
+   "name": "Evolve S\u0026P/TSX 60 Enhanced Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ETSX.TO",
+   "instruments": [
+    {
+     "name": "Evolve 60EnhcYld UH",
+     "symbol": "ETSX"
     }
    ]
   },
@@ -50834,16 +50802,28 @@
    "yahoo_symbol": "CCEP"
   },
   {
+   "symbol": "CCLD",
+   "name": "CareCloud, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCLD"
+  },
+  {
+   "symbol": "CCLDO",
+   "name": "CareCloud, Inc. - 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCLDO"
+  },
+  {
+   "symbol": "CCLDP",
+   "name": "CareCloud, Inc. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCLDP"
+  },
+  {
    "symbol": "CCLP",
    "name": "CSI Compressco LP - common units",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CCLP"
-  },
-  {
-   "symbol": "CCNC",
-   "name": "Code Chain New Continent Limited - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CCNC"
   },
   {
    "symbol": "CCNE",
@@ -57594,6 +57574,12 @@
    "name": "GlucoTrack, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GCTK"
+  },
+  {
+   "symbol": "GDC",
+   "name": "GD Culture Group Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDC"
   },
   {
    "symbol": "GDEN",
@@ -65216,24 +65202,6 @@
    "yahoo_symbol": "MTACW"
   },
   {
-   "symbol": "MTBC",
-   "name": "CareCloud, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MTBC"
-  },
-  {
-   "symbol": "MTBCO",
-   "name": "CareCloud, Inc. - 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MTBCO"
-  },
-  {
-   "symbol": "MTBCP",
-   "name": "CareCloud, Inc. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MTBCP"
-  },
-  {
    "symbol": "MTC",
    "name": "MMTec, Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
@@ -68454,18 +68422,6 @@
    "name": "Parke Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PKBK"
-  },
-  {
-   "symbol": "PKBO",
-   "name": "Peak Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PKBO"
-  },
-  {
-   "symbol": "PKBOW",
-   "name": "Peak Bio, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PKBOW"
   },
   {
    "symbol": "PKOH",
@@ -72570,18 +72526,6 @@
    "name": "Smart for Life, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SMFL"
-  },
-  {
-   "symbol": "SMFR",
-   "name": "Sema4 Holdings Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SMFR"
-  },
-  {
-   "symbol": "SMFRW",
-   "name": "Sema4 Holdings Corp. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SMFRW"
   },
   {
    "symbol": "SMH",
@@ -77142,6 +77086,18 @@
    "name": "WisdomTree U.S. Growth \u0026 Momentum Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WGRO"
+  },
+  {
+   "symbol": "WGS",
+   "name": "GeneDx Holdings Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WGS"
+  },
+  {
+   "symbol": "WGSWW",
+   "name": "GeneDx Holdings Corp. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WGSWW"
   },
   {
    "symbol": "WHF",
@@ -89126,12 +89082,6 @@
    "yahoo_symbol": "INAQ.U"
   },
   {
-   "symbol": "INAQ.W",
-   "name": "Insight Acquisition Corp. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "INAQ.W"
-  },
-  {
    "symbol": "INDO",
    "name": "Indonesia Energy Corporation Limited Ordinary Shares",
    "exchange": "NYSE MKT",
@@ -89562,6 +89512,12 @@
    "name": "Jefferies Financial Group Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "JEF"
+  },
+  {
+   "symbol": "JEF.V",
+   "name": "Jefferies Financial Group Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JEF.V"
   },
   {
    "symbol": "JELD",
@@ -99960,6 +99916,12 @@
    "name": "Ventas, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VTR"
+  },
+  {
+   "symbol": "VTS.V",
+   "name": "Vitesse Energy, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VTS.V"
   },
   {
    "symbol": "VVI",
