@@ -1,5 +1,5 @@
 {
- "date": "2023-01-12",
+ "date": "2023-01-13",
  "data": [
   {
    "symbol": "ONE",
@@ -14695,12 +14695,12 @@
   },
   {
    "symbol": "PRB",
-   "name": "Probe Metals Inc.",
+   "name": "Probe Gold Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "PRB.V",
    "instruments": [
     {
-     "name": "Probe Metals Inc.",
+     "name": "Probe Gold Inc.",
      "symbol": "PRB"
     }
    ]
@@ -33878,18 +33878,6 @@
    ]
   },
   {
-   "symbol": "INQ",
-   "name": "INSCAPE Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "INQ.TO",
-   "instruments": [
-    {
-     "name": "INSCAPE Corp Cl B SV",
-     "symbol": "INQ"
-    }
-   ]
-  },
-  {
    "symbol": "IFC",
    "name": "Intact Financial Corporation",
    "exchange": "TSX",
@@ -51798,6 +51786,12 @@
    "yahoo_symbol": "CLNNW"
   },
   {
+   "symbol": "CLOA",
+   "name": "BlackRock AAA CLO ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLOA"
+  },
+  {
    "symbol": "CLOE",
    "name": "Clover Leaf Capital Corp. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -55066,24 +55060,6 @@
    "name": "Eos Energy Enterprises, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EOSEW"
-  },
-  {
-   "symbol": "EPHY",
-   "name": "Epiphany Technology Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EPHY"
-  },
-  {
-   "symbol": "EPHYU",
-   "name": "Epiphany Technology Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EPHYU"
-  },
-  {
-   "symbol": "EPHYW",
-   "name": "Epiphany Technology Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EPHYW"
   },
   {
    "symbol": "EPIX",
@@ -67560,24 +67536,6 @@
    "yahoo_symbol": "PACWP"
   },
   {
-   "symbol": "PACX",
-   "name": "Pioneer Merger Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PACX"
-  },
-  {
-   "symbol": "PACXU",
-   "name": "Pioneer Merger Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PACXU"
-  },
-  {
-   "symbol": "PACXW",
-   "name": "Pioneer Merger Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PACXW"
-  },
-  {
    "symbol": "PAGP",
    "name": "Plains GP Holdings, L.P. - Class A Shares representing limited partner interests",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68760,12 +68718,6 @@
    "yahoo_symbol": "POTX"
   },
   {
-   "symbol": "POW",
-   "name": "Powered Brands - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "POW"
-  },
-  {
    "symbol": "POWI",
    "name": "Power Integrations, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68776,18 +68728,6 @@
    "name": "Powell Industries, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "POWL"
-  },
-  {
-   "symbol": "POWRU",
-   "name": "Powered Brands - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "POWRU"
-  },
-  {
-   "symbol": "POWRW",
-   "name": "Powered Brands - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "POWRW"
   },
   {
    "symbol": "POWW",
@@ -73702,12 +73642,6 @@
    "name": "Latham Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SWIM"
-  },
-  {
-   "symbol": "SWIR",
-   "name": "Sierra Wireless, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SWIR"
   },
   {
    "symbol": "SWKH",

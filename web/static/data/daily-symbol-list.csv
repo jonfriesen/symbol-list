@@ -1202,7 +1202,7 @@ PNRL,Premium Nickel Resources Ltd.,TSXV,PNRL.V,Premium Nickel Resources Ltd.,PNR
 PMR,Prime Meridian Resources Corp.,TSXV,PMR.V,Prime Meridian Resources Corp,PMR
 PRYM,Prime Mining Corp.,TSXV,PRYM.V,Prime Mining Corp.,PRYM
 PMX,ProAm Explorations Corporation,TSXV,PMX.V,ProAm Explorations Corporation,PMX
-PRB,Probe Metals Inc.,TSXV,PRB.V,Probe Metals Inc.,PRB
+PRB,Probe Gold Inc.,TSXV,PRB.V,Probe Gold Inc.,PRB
 PGV,Prodigy Ventures Inc.,TSXV,PGV.V,Prodigy Ventures Inc.,PGV
 PLAN,Progressive Planet Solutions Inc.,TSXV,PLAN.V,Progressive Planet Solutions Inc.,PLAN
 PFM,ProntoForms Corporation,TSXV,PFM.V,ProntoForms Corporation,PFM
@@ -2629,7 +2629,6 @@ ISV,Information Services Corporation,TSX,ISV.TO,Info Serv Corp. A LV,ISV
 INE,Innergex Renewable Energy Inc.,TSX,INE.TO,Innergex Renew Engy,INE,Innergex Renew4.75Db,INE.DB.B,Innergex Renew4.65Db,INE.DB.C,Innergex Renew Pr A,INE.PR.A,Innergex Renew Pr C,INE.PR.C
 INO.UN,Inovalis Real Estate Investment Trust,TSX,INO.UN.TO,Inovalis REIT Un,INO.UN
 IPO,InPlay Oil Corp.,TSX,IPO.TO,InPlay Oil Corp. J,IPO
-INQ,INSCAPE Corporation,TSX,INQ.TO,INSCAPE Corp Cl B SV,INQ
 IFC,Intact Financial Corporation,TSX,IFC.TO,Intact Fin Corp.,IFC,Intact Fin A Ser 1,IFC.PR.A,Intact Fin A Ser 3,IFC.PR.C,Intact Fin A Ser 5,IFC.PR.E,Intact Fin A Sr 6 Pr,IFC.PR.F,Intact Fin A Sr 7 Pr,IFC.PR.G,Intact Fin A Ser 9,IFC.PR.I,Intact Fin A Ser 11 ,IFC.PR.K
 IGX,IntelGenx Technologies Corp.,TSX,IGX.TO,IntelGenx Tech J,IGX,IntelGenx Tech J Wt,IGX.WT
 IPCI,IntelliPharmaCeutics International Inc.,TSX,IPCI.TO,IntelliPharma Intl J,IPCI
@@ -4568,6 +4567,7 @@ CLMT,"Calumet Specialty Products Partners, L.P. - Common units representing limi
 CLNE,Clean Energy Fuels Corp. - Common Stock,NASDAQ Global Select MarketSM,CLNE
 CLNN,Clene Inc. - Common Stock,NASDAQ Capital Market,CLNN
 CLNNW,Clene Inc. - Warrant,NASDAQ Capital Market,CLNNW
+CLOA,BlackRock AAA CLO ETF,NASDAQ Global MarketSM,CLOA
 CLOE,Clover Leaf Capital Corp. - Class A Common Stock,NASDAQ Capital Market,CLOE
 CLOER,Clover Leaf Capital Corp. - Rights,NASDAQ Capital Market,CLOER
 CLOEU,Clover Leaf Capital Corp. - Unit,NASDAQ Capital Market,CLOEU
@@ -5113,9 +5113,6 @@ ENZL,iShares MSCI New Zealand ETF,NASDAQ Global MarketSM,ENZL
 EOLS,"Evolus, Inc. - Common Stock",NASDAQ Global MarketSM,EOLS
 EOSE,"Eos Energy Enterprises, Inc. - Common Stock",NASDAQ Capital Market,EOSE
 EOSEW,"Eos Energy Enterprises, Inc. - Warrant",NASDAQ Capital Market,EOSEW
-EPHY,Epiphany Technology Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,EPHY
-EPHYU,Epiphany Technology Acquisition Corp. - Unit,NASDAQ Capital Market,EPHYU
-EPHYW,Epiphany Technology Acquisition Corp. - Warrant,NASDAQ Capital Market,EPHYW
 EPIX,ESSA Pharma Inc. - Common Stock,NASDAQ Capital Market,EPIX
 EPOW,"Sunrise New Energy Co., Ltd - Ordinary Shares",NASDAQ Capital Market,EPOW
 EPSN,Epsilon Energy Ltd. - Common Shares,NASDAQ Global MarketSM,EPSN
@@ -7195,9 +7192,6 @@ PABU,iShares Paris-Aligned Climate MSCI USA ETF,NASDAQ Global MarketSM,PABU
 PACB,"Pacific Biosciences of California, Inc. - Common Stock",NASDAQ Global Select MarketSM,PACB
 PACW,PacWest Bancorp - Common Stock,NASDAQ Global Select MarketSM,PACW
 PACWP,"PacWest Bancorp - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ Global Select MarketSM,PACWP
-PACX,Pioneer Merger Corp. - Class A Ordinary Share,NASDAQ Capital Market,PACX
-PACXU,Pioneer Merger Corp. - Unit,NASDAQ Capital Market,PACXU
-PACXW,Pioneer Merger Corp. - Warrant,NASDAQ Capital Market,PACXW
 PAGP,"Plains GP Holdings, L.P. - Class A Shares representing limited partner interests",NASDAQ Global Select MarketSM,PAGP
 PAHC,Phibro Animal Health Corporation - Class A Common Stock,NASDAQ Global MarketSM,PAHC
 PALI,"Palisade Bio, Inc. - Common Stock",NASDAQ Capital Market,PALI
@@ -7395,11 +7389,8 @@ PONOU,Pono Capital Corp - Unit,NASDAQ Capital Market,PONOU
 PONOW,Pono Capital Corp - Warrant,NASDAQ Capital Market,PONOW
 POOL,Pool Corporation - Common Stock,NASDAQ Global Select MarketSM,POOL
 POTX,Global X Cannabis ETF,NASDAQ Global MarketSM,POTX
-POW,Powered Brands - Class A Ordinary Shares,NASDAQ Capital Market,POW
 POWI,"Power Integrations, Inc. - Common Stock",NASDAQ Global Select MarketSM,POWI
 POWL,"Powell Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,POWL
-POWRU,Powered Brands - Units,NASDAQ Capital Market,POWRU
-POWRW,Powered Brands - Warrants,NASDAQ Capital Market,POWRW
 POWW,"AMMO, Inc. - Common Stock",NASDAQ Capital Market,POWW
 POWWP,"AMMO, Inc. - 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ Capital Market,POWWP
 PPBI,Pacific Premier Bancorp Inc - Common Stock,NASDAQ Global Select MarketSM,PPBI
@@ -8219,7 +8210,6 @@ SWAV,"ShockWave Medical, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWAV
 SWBI,"Smith & Wesson Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWBI
 SWEB,AXS Short China Internet ETF,NASDAQ Global MarketSM,SWEB
 SWIM,"Latham Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWIM
-SWIR,"Sierra Wireless, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWIR
 SWKH,SWK Holdings Corporation - Common Stock,NASDAQ Capital Market,SWKH
 SWKS,"Skyworks Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWKS
 SWSS,Springwater Special Situations Corp. - Common stock,NASDAQ Capital Market,SWSS
