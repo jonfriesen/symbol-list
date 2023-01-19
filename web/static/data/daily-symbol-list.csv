@@ -226,7 +226,6 @@ BRCB.P,Brachium2 Capital Corp.,TSXV,BRCB.P.V,Brachium2 Capital Corp.,BRCB.P
 BHLI,Bradda Head Lithium Limited,TSXV,BHLI.V,Bradda Head Lithium Limited,BHLI
 BES,Braille Energy Systems Inc.,TSXV,BES.V,Braille Energy Systems Inc.,BES
 BVA,Bravada Gold Corporation,TSXV,BVA.V,Bravada Gold Corporation,BVA
-BHT,Braveheart Resources Inc.,TSXV,BHT.V,Braveheart Resources Inc.,BHT
 BRVO,Bravo Mining Corp.,TSXV,BRVO.V,Bravo Mining Corp.,BRVO
 BRG,Brigadier Gold Limited,TSXV,BRG.V,Brigadier Gold Limited,BRG
 BBB,Brixton Metals Corporation,TSXV,BBB.V,Brixton Metals Corporation,BBB
@@ -253,6 +252,7 @@ CONE,Canada One Mining Corp.,TSXV,CONE.V,Canada One Mining Corp.,CONE
 LL,Canada Rare Earth Corp.,TSXV,LL.V,Canada Rare Earth Corp.,LL
 CCW,Canada Silver Cobalt Works Inc.,TSXV,CCW.V,Canada Silver Cobalt Works Inc.,CCW
 CANB,CanadaBis Capital Inc.,TSXV,CANB.V,Canadabis Capital Inc.,CANB
+CCMI,Canadian Critical Minerals Inc.,TSXV,CCMI.V,Canadian Critical Minerals Inc.,CCMI
 NET.UN,Canadian Net Real Estate Investment Trust,TSXV,NET.UN.V,Canadian Net Real Estate Investment Trust,NET.UN
 CNRI,Canadian North Resources Inc.,TSXV,CNRI.V,Canadian North Resources Inc.,CNRI
 CPS,Canadian Premium Sand Inc.,TSXV,CPS.V,Canadian Premium Sand Inc.,CPS
@@ -1418,7 +1418,7 @@ SCRS.P,St Charles Resources Inc.,TSXV,SCRS.P.V,St Charles Resources Inc.,SCRS.P
 SDCI.P,St. Davids Capital Inc.,TSXV,SDCI.P.V,St. Davids Capital Inc.,SDCI.P
 LORD,St. James Gold Corp.,TSXV,LORD.V,St. James Gold Corp.,LORD
 SRC,Stakeholder Gold Corp.,TSXV,SRC.V,Stakeholder Gold Corp.,SRC
-STUD,Stallion Gold Corp.,TSXV,STUD.V,Stallion Gold Corp.,STUD
+STUD,Stallion Discoveries Corp.,TSXV,STUD.V,Stallion Discoveries Corp.,STUD
 SDI,Stampede Drilling Inc.,TSXV,SDI.V,Stampede Drilling Inc.,SDI
 STMP,Stamper Oil & Gas Corp.,TSXV,STMP.V,Stamper Oil & Gas Corp.,STMP
 SLI,Standard Lithium Ltd.,TSXV,SLI.V,Standard Lithium Ltd.,SLI
@@ -2801,7 +2801,6 @@ XBM,iShares S&P/TSX Global Base Metals Index ETF,TSX,XBM.TO,iShr SP/TSXGblBseMtl
 XGD,iShares S&P/TSX Global Gold Index ETF,TSX,XGD.TO,iShares S&P/TSX Gold,XGD
 XPF,iShares S&P/TSX North American Preferred Stock Index ETF (CAD-Hedged),TSX,XPF.TO,iShr S&PTSX NA PrStk,XPF
 XCS,iShares S&P/TSX SmallCap Index ETF,TSX,XCS.TO,IShare SP/TSX SmlCap,XCS
-CSD,iShares Short Duration High Income ETF (CAD-Hedged),TSX,CSD.TO,iShr ShDuratn HighUn,CSD
 XSQ,iShares Short Term High Quality Canadian Bond Index ETF,TSX,XSQ.TO,iShares ST CdnBnd Un,XSQ
 XSI,iShares Short Term Strategic Fixed Income ETF,TSX,XSI.TO,iShr ST StratgFxd Un,XSI
 SVR,iShares Silver Bullion ETF,TSX,SVR.TO,iShr Sil Bul Hdgd Un,SVR,iShr Sil Bul Nn-Hdgd,SVR.C
@@ -3350,7 +3349,6 @@ TBP,Tetra Bio-Pharma Inc.,TSX,TBP.TO,Tetra Bio-Pharma J,TBP,Tetra Bio-PharmJ WtB
 TFII,TFI International Inc.,TSX,TFII.TO,TFI International ,TFII
 QETH.U,The Ether Fund,TSX,QETH.U.TO,The EtherFnd A Un US,QETH.U,The EtherFnd A C$ Un,QETH.UN
 REAX,The Real Brokerage Inc.,TSX,REAX.TO,The Real Brokerage J,REAX
-VLNS,The Valens Company Inc.,TSX,VLNS.TO,Valens Co Inc.,VLNS
 TH,Theratechnologies Inc.,TSX,TH.TO,Theratechnologies,TH,Theratechnlgy Nte US,TH.DB.U
 THNC,Thinkific Labs Inc.,TSX,THNC.TO,Thinkific Labs J SV,THNC
 TRI,Thomson Reuters Corporation,TSX,TRI.TO,Thomson Reuters Corp,TRI,Thomson Reuter Pr II,TRI.PR.B
@@ -3661,7 +3659,7 @@ AIA,iShares Asia 50 ETF,NASDAQ Global MarketSM,AIA
 AIB,AIB Acquisition Corporation - Class A Ordinary Shares,NASDAQ Global MarketSM,AIB
 AIBBR,AIB Acquisition Corporation - Right,NASDAQ Global MarketSM,AIBBR
 AIBBU,AIB Acquisition Corporation - Unit,NASDAQ Global MarketSM,AIBBU
-AIH,Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares,NASDAQ Global MarketSM,AIH
+AIH,Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares,NASDAQ Capital Market,AIH
 AIHS,Senmiao Technology Limited - Common Stock,NASDAQ Capital Market,AIHS
 AIMAU,Aimfinity Investment Corp. I - Unit,NASDAQ Global MarketSM,AIMAU
 AIMAW,Aimfinity Investment Corp. I - Warrant,NASDAQ Global MarketSM,AIMAW
@@ -4601,7 +4599,6 @@ CMCAW,Capitalworks Emerging Markets Acquisition Corp - Warrant,NASDAQ Global Mar
 CMCO,Columbus McKinnon Corporation - Common Stock,NASDAQ Global Select MarketSM,CMCO
 CMCSA,Comcast Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,CMCSA
 CMCT,Creative Media & Community Trust Corporation - Common Stock,NASDAQ Global MarketSM,CMCT
-CMCTP,Creative Media & Community Trust Corporation - Series L Preferred Stock,NASDAQ Global MarketSM,CMCTP
 CME,CME Group Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,CME
 CMLS,Cumulus Media Inc. - Class A Common Stock,NASDAQ Global MarketSM,CMLS
 CMMB,Chemomab Therapeutics Ltd.  - American Depositary Shares,NASDAQ Capital Market,CMMB
@@ -6876,9 +6873,9 @@ NEPT,Neptune Wellness Solutions Inc. - Ordinary Shares,NASDAQ Capital Market,NEP
 NERV,"Minerva Neurosciences, Inc - Common Stock",NASDAQ Capital Market,NERV
 NESR,National Energy Services Reunited Corp. - Ordinary Shares,NASDAQ Capital Market,NESR
 NESRW,National Energy Services Reunited Corp. - Warrant,NASDAQ Capital Market,NESRW
-NEWT,Newtek Business Services Corp. - Common Stock,NASDAQ Global MarketSM,NEWT
-NEWTL,Newtek Business Services Corp. - 5.75% Notes due 2024,NASDAQ Global MarketSM,NEWTL
-NEWTZ,Newtek Business Services Corp. - 5.50% Notes Due 2026,NASDAQ Global MarketSM,NEWTZ
+NEWT,"NewtekOne, Inc. - Common Stock",NASDAQ Global MarketSM,NEWT
+NEWTL,"NewtekOne, Inc. - 5.75% Notes due 2024",NASDAQ Global MarketSM,NEWTL
+NEWTZ,"NewtekOne, Inc. - 5.50% Notes Due 2026",NASDAQ Global MarketSM,NEWTZ
 NEXI,"NexImmune, Inc. - Common Stock",NASDAQ Global MarketSM,NEXI
 NEXT,NextDecade Corporation - Common Stock,NASDAQ Capital Market,NEXT
 NFBK,"Northfield Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,NFBK
@@ -8628,7 +8625,6 @@ VIRT,"Virtu Financial, Inc. - Class A Common Stock",NASDAQ Global Select MarketS
 VIRX,"Viracta Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,VIRX
 VISL,"Vislink Technologies, Inc. - Common Stock",NASDAQ Capital Market,VISL
 VITL,"Vital Farms, Inc. - Common Stock",NASDAQ Global MarketSM,VITL
-VIVE,"Viveve Medical, Inc. - Common Stock",NASDAQ Capital Market,VIVE
 VIVK,"Vivakor, Inc. - Common Stock",NASDAQ Capital Market,VIVK
 VIVO,Meridian Bioscience Inc. - Common Stock,NASDAQ Global Select MarketSM,VIVO
 VJET,voxeljet AG - American Depositary Shares,NASDAQ Capital Market,VJET
@@ -10921,6 +10917,7 @@ KIM$L,"Kimco Realty Corporation Class L Depositary Shares, each of which represe
 KIM$M,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",NYSE,KIM$M
 KIND,"Nextdoor Holdings, Inc. Class A Common Stock",NYSE,KIND
 KIO,KKR Income Opportunities Fund Common Shares,NYSE,KIO
+KIO.V,"KKR Income Opportunities Fund Rights (expiring February 16, 2023) Rights when issued",NYSE,KIO.V
 KIQ,Kelso Technologies Inc Ordinary Shares,NYSE MKT,KIQ
 KKR,KKR & Co. Inc. Common Stock,NYSE,KKR
 KKR$C,KKR & Co. Inc. 6.00% Series C Mandatory Convertible Preferred Stock,NYSE,KKR$C
@@ -11184,7 +11181,6 @@ MMP,Magellan Midstream Partners L.P. Limited Partnership,NYSE,MMP
 MMS,"Maximus, Inc. Common Stock",NYSE,MMS
 MMT,MFS Multimarket Income Trust Common Stock,NYSE,MMT
 MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock",NYSE,MMU
-MMX,Maverix Metals Inc. Common Shares,NYSE MKT,MMX
 MNK,Mallinckrodt plc Ordinary Shares,NYSE MKT,MNK
 MNP,"Western Asset Municipal Partners Fund, Inc. Common Stock",NYSE,MNP
 MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",NYSE,MNSO
@@ -11751,7 +11747,6 @@ PRPC.U,"CC Neuberger Principal Holdings III Units, each consisting of one Class 
 PRPC.W,"CC Neuberger Principal Holdings III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,PRPC.W
 PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",NYSE,PRS
 PRT,PermRock Royalty Trust Trust Units,NYSE,PRT
-PRTY,Party City Holdco Inc. Common Stock,NYSE,PRTY
 PRU,"Prudential Financial, Inc. Common Stock",NYSE,PRU
 PSA,Public Storage Common Stock,NYSE,PSA
 PSA$F,"Public Storage Depositary Shares Each Representing 1/1,000 of a 5.15% Cumulative Preferred Share of Beneficial Interest, Series F, par value $0.01 per share",NYSE,PSA$F

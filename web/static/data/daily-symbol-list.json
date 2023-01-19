@@ -1,5 +1,5 @@
 {
- "date": "2023-01-18",
+ "date": "2023-01-19",
  "data": [
   {
    "symbol": "ONE",
@@ -2758,18 +2758,6 @@
    ]
   },
   {
-   "symbol": "BHT",
-   "name": "Braveheart Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BHT.V",
-   "instruments": [
-    {
-     "name": "Braveheart Resources Inc.",
-     "symbol": "BHT"
-    }
-   ]
-  },
-  {
    "symbol": "BRVO",
    "name": "Bravo Mining Corp.",
    "exchange": "TSXV",
@@ -3082,6 +3070,18 @@
     {
      "name": "Canadabis Capital Inc.",
      "symbol": "CANB"
+    }
+   ]
+  },
+  {
+   "symbol": "CCMI",
+   "name": "Canadian Critical Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCMI.V",
+   "instruments": [
+    {
+     "name": "Canadian Critical Minerals Inc.",
+     "symbol": "CCMI"
     }
    ]
   },
@@ -17339,12 +17339,12 @@
   },
   {
    "symbol": "STUD",
-   "name": "Stallion Gold Corp.",
+   "name": "Stallion Discoveries Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "STUD.V",
    "instruments": [
     {
-     "name": "Stallion Gold Corp.",
+     "name": "Stallion Discoveries Corp.",
      "symbol": "STUD"
     }
    ]
@@ -36130,18 +36130,6 @@
    ]
   },
   {
-   "symbol": "CSD",
-   "name": "iShares Short Duration High Income ETF (CAD-Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "CSD.TO",
-   "instruments": [
-    {
-     "name": "iShr ShDuratn HighUn",
-     "symbol": "CSD"
-    }
-   ]
-  },
-  {
    "symbol": "XSQ",
    "name": "iShares Short Term High Quality Canadian Bond Index ETF",
    "exchange": "TSX",
@@ -43542,18 +43530,6 @@
    ]
   },
   {
-   "symbol": "VLNS",
-   "name": "The Valens Company Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "VLNS.TO",
-   "instruments": [
-    {
-     "name": "Valens Co Inc.",
-     "symbol": "VLNS"
-    }
-   ]
-  },
-  {
    "symbol": "TH",
    "name": "Theratechnologies Inc.",
    "exchange": "TSX",
@@ -46354,7 +46330,7 @@
   {
    "symbol": "AIH",
    "name": "Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AIH"
   },
   {
@@ -51990,12 +51966,6 @@
    "name": "Creative Media \u0026 Community Trust Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CMCT"
-  },
-  {
-   "symbol": "CMCTP",
-   "name": "Creative Media \u0026 Community Trust Corporation - Series L Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMCTP"
   },
   {
    "symbol": "CME",
@@ -65643,19 +65613,19 @@
   },
   {
    "symbol": "NEWT",
-   "name": "Newtek Business Services Corp. - Common Stock",
+   "name": "NewtekOne, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NEWT"
   },
   {
    "symbol": "NEWTL",
-   "name": "Newtek Business Services Corp. - 5.75% Notes due 2024",
+   "name": "NewtekOne, Inc. - 5.75% Notes due 2024",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NEWTL"
   },
   {
    "symbol": "NEWTZ",
-   "name": "Newtek Business Services Corp. - 5.50% Notes Due 2026",
+   "name": "NewtekOne, Inc. - 5.50% Notes Due 2026",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NEWTZ"
   },
@@ -76152,12 +76122,6 @@
    "name": "Vital Farms, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VITL"
-  },
-  {
-   "symbol": "VIVE",
-   "name": "Viveve Medical, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VIVE"
   },
   {
    "symbol": "VIVK",
@@ -89912,6 +89876,12 @@
    "yahoo_symbol": "KIO"
   },
   {
+   "symbol": "KIO.V",
+   "name": "KKR Income Opportunities Fund Rights (expiring February 16, 2023) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KIO.V"
+  },
+  {
    "symbol": "KIQ",
    "name": "Kelso Technologies Inc Ordinary Shares",
    "exchange": "NYSE MKT",
@@ -91488,12 +91458,6 @@
    "name": "Western Asset Managed Municipals Fund, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MMU"
-  },
-  {
-   "symbol": "MMX",
-   "name": "Maverix Metals Inc. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MMX"
   },
   {
    "symbol": "MNK",
@@ -94890,12 +94854,6 @@
    "name": "PermRock Royalty Trust Trust Units",
    "exchange": "NYSE",
    "yahoo_symbol": "PRT"
-  },
-  {
-   "symbol": "PRTY",
-   "name": "Party City Holdco Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRTY"
   },
   {
    "symbol": "PRU",
