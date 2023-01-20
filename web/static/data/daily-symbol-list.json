@@ -1,5 +1,5 @@
 {
- "date": "2023-01-19",
+ "date": "2023-01-20",
  "data": [
   {
    "symbol": "ONE",
@@ -12282,18 +12282,6 @@
    ]
   },
   {
-   "symbol": "MCG",
-   "name": "Mountain China Resorts (Holding) Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MCG.V",
-   "instruments": [
-    {
-     "name": "Mountain China Resorts (Holding) Limited",
-     "symbol": "MCG"
-    }
-   ]
-  },
-  {
    "symbol": "MLY",
    "name": "Multi-Metal Development Corporation",
    "exchange": "TSXV",
@@ -18078,18 +18066,6 @@
     {
      "name": "The Planting Hope Company Inc.",
      "symbol": "MYLK"
-    }
-   ]
-  },
-  {
-   "symbol": "VERY",
-   "name": "The Very Good Food Company Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VERY.V",
-   "instruments": [
-    {
-     "name": "The Very Good Food Company Inc.",
-     "symbol": "VERY"
     }
    ]
   },
@@ -48092,10 +48068,28 @@
    "yahoo_symbol": "ATLX"
   },
   {
+   "symbol": "ATMC",
+   "name": "AlphaTime Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMC"
+  },
+  {
+   "symbol": "ATMCR",
+   "name": "AlphaTime Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMCR"
+  },
+  {
    "symbol": "ATMCU",
    "name": "AlphaTime Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ATMCU"
+  },
+  {
+   "symbol": "ATMCW",
+   "name": "AlphaTime Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMCW"
   },
   {
    "symbol": "ATMVU",
@@ -48326,18 +48320,6 @@
    "yahoo_symbol": "AVAV"
   },
   {
-   "symbol": "AVCT",
-   "name": "American Virtual Cloud Technologies, Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AVCT"
-  },
-  {
-   "symbol": "AVCTW",
-   "name": "American Virtual Cloud Technologies, Inc.  - Warrant expiring 4/7/2020",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AVCTW"
-  },
-  {
    "symbol": "AVDL",
    "name": "Avadel Pharmaceuticals plc - American Depositary Shares each representing one Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
@@ -48348,12 +48330,6 @@
    "name": "AvidXchange Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AVDX"
-  },
-  {
-   "symbol": "AVEO",
-   "name": "AVEO Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AVEO"
   },
   {
    "symbol": "AVGO",
@@ -48510,12 +48486,6 @@
    "name": "Atlantica Sustainable Infrastructure plc - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AY"
-  },
-  {
-   "symbol": "AYLA",
-   "name": "Ayala Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AYLA"
   },
   {
    "symbol": "AYRO",
@@ -56847,7 +56817,7 @@
   },
   {
    "symbol": "FSEA",
-   "name": "First Seacoast Bancorp - Common Stock",
+   "name": "First Seacoast Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FSEA"
   },
@@ -82466,12 +82436,6 @@
    "yahoo_symbol": "CIX"
   },
   {
-   "symbol": "CIXX",
-   "name": "CI Financial Corp. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CIXX"
-  },
-  {
    "symbol": "CKX",
    "name": "CKX Lands, Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -93273,7 +93237,7 @@
   },
   {
    "symbol": "NYC",
-   "name": "New York City REIT, Inc. Class A Common Stock",
+   "name": "American Strategic Investment Co. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "NYC"
   },

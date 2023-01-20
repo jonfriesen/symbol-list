@@ -1005,7 +1005,6 @@ MOO.P,Moon River Capital Ltd.,TSXV,MOO.P.V,Moon River Capital Ltd.,MOO.P
 MVY,Moovly Media Inc.,TSXV,MVY.V,Moovly Media Inc.,MVY
 MOX,Morien Resources Corp.,TSXV,MOX.V,Morien Resources Corp.,MOX
 MTB,Mountain Boy Minerals Ltd.,TSXV,MTB.V,Mountain Boy Minerals Ltd.,MTB
-MCG,Mountain China Resorts (Holding) Limited,TSXV,MCG.V,Mountain China Resorts (Holding) Limited,MCG
 MLY,Multi-Metal Development Corporation,TSXV,MLY.V,Multi-Metal Development Ltd.,MLY
 MUN,Mundoro Capital Inc.,TSXV,MUN.V,Mundoro Capital Inc.,MUN
 MUR,Murchison Minerals Ltd.,TSXV,MUR.V,Murchison Minerals Ltd.,MUR
@@ -1479,7 +1478,6 @@ HMPG,"The Hempshire Group, Corp.",TSXV,HMPG.V,"The Hempshire Group, Inc.",HMPG
 BOAT,The Limestone Boat Company Limited,TSXV,BOAT.V,The Limestone Boat Company Limited,BOAT
 MIT,The Mint Corporation,TSXV,MIT.V,The Mint Corporation,MIT
 MYLK,The Planting Hope Company Inc.,TSXV,MYLK.V,The Planting Hope Company Inc.,MYLK
-VERY,The Very Good Food Company Inc.,TSXV,VERY.V,The Very Good Food Company Inc.,VERY
 WLCO,The Well Told Company Inc.,TSXV,WLCO.V,The Well Told Company Inc.,WLCO
 WED,The Westaim Corporation,TSXV,WED.V,The Westaim Corporation,WED,The Westaim Corporation Preferred A,WED.PR.A
 WI,The Western Investment Company of Canada Limited,TSXV,WI.V,The Western Investment Company of Canada Limted,WI
@@ -3953,7 +3951,10 @@ ATLCL,Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026,NASDAQ Glob
 ATLCP,"Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",NASDAQ Global Select MarketSM,ATLCP
 ATLO,Ames National Corporation - Common Stock,NASDAQ Capital Market,ATLO
 ATLX,Atlas Lithium Corporation - Common Stock,NASDAQ Capital Market,ATLX
+ATMC,AlphaTime Acquisition Corp - Ordinary Shares,NASDAQ Global MarketSM,ATMC
+ATMCR,AlphaTime Acquisition Corp - Right,NASDAQ Global MarketSM,ATMCR
 ATMCU,AlphaTime Acquisition Corp - Unit,NASDAQ Global MarketSM,ATMCU
+ATMCW,AlphaTime Acquisition Corp - Warrant,NASDAQ Global MarketSM,ATMCW
 ATMVU,AlphaVest Acquisition Corp - Unit,NASDAQ Global MarketSM,ATMVU
 ATNF,180 Life Sciences Corp. - Common Stock,NASDAQ Capital Market,ATNF
 ATNFW,180 Life Sciences Corp. - Warrant,NASDAQ Capital Market,ATNFW
@@ -3992,11 +3993,8 @@ AVACU,Avalon Acquisition Inc. - Units,NASDAQ Global MarketSM,AVACU
 AVACW,Avalon Acquisition Inc. - Warrant,NASDAQ Global MarketSM,AVACW
 AVAH,Aveanna Healthcare Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,AVAH
 AVAV,"AeroVironment, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVAV
-AVCT,"American Virtual Cloud Technologies, Inc.  - Common Stock",NASDAQ Capital Market,AVCT
-AVCTW,"American Virtual Cloud Technologies, Inc.  - Warrant expiring 4/7/2020",NASDAQ Capital Market,AVCTW
 AVDL,Avadel Pharmaceuticals plc - American Depositary Shares each representing one Ordinary Share,NASDAQ Global MarketSM,AVDL
 AVDX,"AvidXchange Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVDX
-AVEO,"AVEO Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,AVEO
 AVGO,Broadcom Inc. - Common Stock,NASDAQ Global Select MarketSM,AVGO
 AVGR,"Avinger, Inc. - Common Stock",NASDAQ Capital Market,AVGR
 AVHI,Achari Ventures Holdings Corp. I - Common Stock,NASDAQ Global MarketSM,AVHI
@@ -4023,7 +4021,6 @@ AXON,"Axon Enterprise, Inc. - Common Stock",NASDAQ Global Select MarketSM,AXON
 AXSM,"Axsome Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,AXSM
 AXTI,AXT Inc - Common Stock,NASDAQ Global Select MarketSM,AXTI
 AY,Atlantica Sustainable Infrastructure plc - Ordinary Shares,NASDAQ Global Select MarketSM,AY
-AYLA,"Ayala Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,AYLA
 AYRO,"AYRO, Inc. - Common Stock",NASDAQ Capital Market,AYRO
 AYTU,"Aytu BioPharma, Inc.  - Common Stock",NASDAQ Capital Market,AYTU
 AZ,A2Z Smart Technologies Corp. - Common Shares,NASDAQ Capital Market,AZ
@@ -5412,7 +5409,7 @@ FRTX,"Fresh Track Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,FRTX
 FRZA,"Forza X1, Inc. - Common Stock",NASDAQ Capital Market,FRZA
 FSBC,Five Star Bancorp - Common Stock,NASDAQ Global Select MarketSM,FSBC
 FSBW,"FS Bancorp, Inc. - Common Stock",NASDAQ Capital Market,FSBW
-FSEA,First Seacoast Bancorp - Common Stock,NASDAQ Capital Market,FSEA
+FSEA,"First Seacoast Bancorp, Inc. - Common Stock",NASDAQ Capital Market,FSEA
 FSFG,"First Savings Financial Group, Inc. - Common Stock",NASDAQ Capital Market,FSFG
 FSLR,"First Solar, Inc. - Common Stock",NASDAQ Global Select MarketSM,FSLR
 FSRX,FinServ Acquisition Corp. II - Class A Common Stock,NASDAQ Capital Market,FSRX
@@ -9682,7 +9679,6 @@ CION,CION Investment Corporation Common Stock,NYSE,CION
 CIR,"CIRCOR International, Inc. Common Stock",NYSE,CIR
 CIVI,"Civitas Resources, Inc. Common Stock",NYSE,CIVI
 CIX,CompX International Inc. Common Stock,NYSE MKT,CIX
-CIXX,CI Financial Corp. Common Shares,NYSE,CIXX
 CKX,"CKX Lands, Inc. Common Stock",NYSE MKT,CKX
 CL,Colgate-Palmolive Company Common Stock,NYSE,CL
 CLAA,Colonnade Acquisition Corp. II Class A Ordinary Shares,NYSE,CLAA
@@ -11483,7 +11479,7 @@ NXJ,Nuveen New Jersey Qualified Municipal Fund ,NYSE,NXJ
 NXN,Nuveen New York Select Tax-Free Income Portfolio Common Stock,NYSE,NXN
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,NYSE,NXP
 NXRT,"NexPoint Residential Trust, Inc. Common Stock",NYSE,NXRT
-NYC,"New York City REIT, Inc. Class A Common Stock",NYSE,NYC
+NYC,American Strategic Investment Co. Class A Common Stock,NYSE,NYC
 NYCB,"New York Community Bancorp, Inc. Common Stock",NYSE,NYCB
 NYCB$A,"New York Community Bancorp, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",NYSE,NYCB$A
 NYCB$U,"New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)",NYSE,NYCB$U
