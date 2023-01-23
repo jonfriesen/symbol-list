@@ -1,5 +1,5 @@
 {
- "date": "2023-01-20",
+ "date": "2023-01-23",
  "data": [
   {
    "symbol": "ONE",
@@ -27386,6 +27386,18 @@
    ]
   },
   {
+   "symbol": "CSBI",
+   "name": "CIBC Canadian Short-Term Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSBI.TO",
+   "instruments": [
+    {
+     "name": "CIBC Cdn ST Bond Idx",
+     "symbol": "CSBI"
+    }
+   ]
+  },
+  {
    "symbol": "CCNS",
    "name": "CIBC Conservative Fixed Income Pool",
    "exchange": "TSX",
@@ -27502,6 +27514,18 @@
     {
      "name": "CIBC US Eqty Indx Un",
      "symbol": "CUEI"
+    }
+   ]
+  },
+  {
+   "symbol": "CUEH",
+   "name": "CIBC U.S. Equity Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUEH.TO",
+   "instruments": [
+    {
+     "name": "CIBC US EqIdx CA-Heg",
+     "symbol": "CUEH"
     }
    ]
   },
@@ -27724,7 +27748,7 @@
      "symbol": "CSU"
     },
     {
-     "name": "Constellation Deb 1",
+     "name": "Constellation Sr1 Db",
      "symbol": "CSU.DB"
     }
    ]
@@ -32034,6 +32058,18 @@
     {
      "name": "Hamilton CadBkRev Un",
      "symbol": "HCA"
+    }
+   ]
+  },
+  {
+   "symbol": "HMAX",
+   "name": "Hamilton Canadian Financials Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HMAX.TO",
+   "instruments": [
+    {
+     "name": "Hamilton CdnFinMax E",
+     "symbol": "HMAX"
     }
    ]
   },
@@ -45902,24 +45938,6 @@
    "yahoo_symbol": "ADXN"
   },
   {
-   "symbol": "AEAC",
-   "name": "Authentic Equity Acquisition Corp. - Class A ordinary share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAC"
-  },
-  {
-   "symbol": "AEACU",
-   "name": "Authentic Equity Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEACU"
-  },
-  {
-   "symbol": "AEACW",
-   "name": "Authentic Equity Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEACW"
-  },
-  {
    "symbol": "AEAE",
    "name": "AltEnergy Acquisition Corp. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -53066,6 +53084,12 @@
    "yahoo_symbol": "CVGW"
   },
   {
+   "symbol": "CVKD",
+   "name": "Cadrenal Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CVKD"
+  },
+  {
    "symbol": "CVLG",
    "name": "Covenant Logistics Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -54018,12 +54042,6 @@
    "name": "Viant Technology Inc. - common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DSP"
-  },
-  {
-   "symbol": "DSPC",
-   "name": "AXS De-SPAC ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DSPC"
   },
   {
    "symbol": "DSWL",
@@ -75140,24 +75158,6 @@
    "yahoo_symbol": "TZOO"
   },
   {
-   "symbol": "TZPS",
-   "name": "TZP Strategies Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TZPS"
-  },
-  {
-   "symbol": "TZPSU",
-   "name": "TZP Strategies Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TZPSU"
-  },
-  {
-   "symbol": "TZPSW",
-   "name": "TZP Strategies Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TZPSW"
-  },
-  {
    "symbol": "UAE",
    "name": "iShares MSCI UAE ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -75918,12 +75918,6 @@
    "name": "Village Farms International, Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VFF"
-  },
-  {
-   "symbol": "VGFC",
-   "name": "The Very Good Food Company Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VGFC"
   },
   {
    "symbol": "VGIT",
@@ -85484,6 +85478,12 @@
    "yahoo_symbol": "ETY"
   },
   {
+   "symbol": "EU",
+   "name": "enCore Energy Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EU"
+  },
+  {
    "symbol": "EURN",
    "name": "Euronav NV Ordinary Shares",
    "exchange": "NYSE",
@@ -86826,12 +86826,6 @@
    "name": "Genius Sports Limited Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "GENI"
-  },
-  {
-   "symbol": "GENI.W",
-   "name": "Genius Sports Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share each at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GENI.W"
   },
   {
    "symbol": "GEO",
@@ -95982,6 +95976,12 @@
    "name": "Redwood Trust, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RWT"
+  },
+  {
+   "symbol": "RWT$A",
+   "name": "Redwood Trust, Inc. 10.00% Series A Fixed-Rate Reset Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RWT$A"
   },
   {
    "symbol": "RXO",

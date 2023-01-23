@@ -2156,6 +2156,7 @@ CACB,CIBC Active Investment Grade Corporate Bond ETF,TSX,CACB.TO,CIBC ActvInvCor
 CAFR,CIBC Active Investment Grade Floating Rate Bond ETF,TSX,CAFR.TO,CIBC ActvInvFltgBond,CAFR
 CCBI,CIBC Canadian Bond Index ETF,TSX,CCBI.TO,CIBC Cdn Bond ETF Un,CCBI
 CCEI,CIBC Canadian Equity Index ETF,TSX,CCEI.TO,CIBC Cdn Equity Un,CCEI
+CSBI,CIBC Canadian Short-Term Bond Index ETF,TSX,CSBI.TO,CIBC Cdn ST Bond Idx,CSBI
 CCNS,CIBC Conservative Fixed Income Pool,TSX,CCNS.TO,CIBC ConservFixdIncm,CCNS
 CCRE,CIBC Core Fixed Income Pool,TSX,CCRE.TO,CIBC CoreFixdIncm Un,CCRE
 CPLS,CIBC Core Plus Fixed Income Pool,TSX,CPLS.TO,CIBC Core+Fixed Incm,CPLS
@@ -2166,6 +2167,7 @@ CGLO,CIBC Global Growth ETF,TSX,CGLO.TO,CIBC Glbl Growth Un,CGLO
 CINT,CIBC International Equity ETF,TSX,CINT.TO,CIBC Int'l Equity Un,CINT
 CIEI,CIBC International Equity Index ETF,TSX,CIEI.TO,CIBC Int'l Eq Idx Un,CIEI
 CUEI,CIBC U.S. Equity Index ETF,TSX,CUEI.TO,CIBC US Eqty Indx Un,CUEI
+CUEH,CIBC U.S. Equity Index ETF (CAD-Hedged),TSX,CUEH.TO,CIBC US EqIdx CA-Heg,CUEH
 MBA,CIBT Education Group Inc.,TSX,MBA.TO,CIBT Education Grp J,MBA
 CGX,Cineplex Inc.,TSX,CGX.TO,Cineplex Inc.,CGX,Cineplex Inc. Deb,CGX.DB.B
 CPH,Cipher Pharmaceuticals Inc.,TSX,CPH.TO,Cipher Pharma J,CPH
@@ -2182,7 +2184,7 @@ CMG,Computer Modelling Group Ltd.,TSX,CMG.TO,Computer Modelling J,CMG
 CDR,Condor Energies Inc.,TSX,CDR.TO,Condor Energies J,CDR
 COG,Condor Gold plc,TSX,COG.TO,Condor Gold plc J,COG
 CFF,Conifex Timber Inc.,TSX,CFF.TO,Conifex Timber Inc.,CFF
-CSU,Constellation Software Inc.,TSX,CSU.TO,Constellation Softwr,CSU,Constellation Deb 1,CSU.DB
+CSU,Constellation Software Inc.,TSX,CSU.TO,Constellation Softwr,CSU,Constellation Sr1 Db,CSU.DB
 CTS,Converge Technology Solutions Corp.,TSX,CTS.TO,Converge TechSoltn J,CTS
 CMMC,Copper Mountain Mining Corporation,TSX,CMMC.TO,Copper Mountain J,CMMC
 CPLF,Copperleaf Technologies Inc.,TSX,CPLF.TO,Copperleaf Tech J,CPLF
@@ -2488,6 +2490,7 @@ HEO,H2O Innovation Inc.,TSX,HEO.TO,H2O Innovation Inc.,HEO
 HAI,Haivision Systems Inc.,TSX,HAI.TO,Haivision Systems,HAI
 HBA,Hamilton Australian Bank Equal-Weight Index ETF,TSX,HBA.TO,Hamilton AusBk=Wgt E,HBA
 HCA,Hamilton Canadian Bank Mean Reversion Index ETF,TSX,HCA.TO,Hamilton CadBkRev Un,HCA
+HMAX,Hamilton Canadian Financials Yield Maximizer ETF,TSX,HMAX.TO,Hamilton CdnFinMax E,HMAX
 HCAL,Hamilton Enhanced Canadian Bank ETF,TSX,HCAL.TO,Hamilton EnhanCA Bk,HCAL
 HFIN,Hamilton Enhanced Canadian Financials ETF,TSX,HFIN.TO,Hamilton EnhanCA Fin,HFIN
 HDIV,Hamilton Enhanced Multi-Sector Covered Call ETF,TSX,HDIV.TO,HamiltonEnhnMltSecCl,HDIV
@@ -3590,9 +3593,6 @@ ADV,Advantage Solutions Inc.  - Class A Common Stock,NASDAQ Global Select Market
 ADVM,"Adverum Biotechnologies, Inc. - Common Stock",NASDAQ Global MarketSM,ADVM
 ADVWW,Advantage Solutions Inc.  - Warrant,NASDAQ Global Select MarketSM,ADVWW
 ADXN,Addex Therapeutics Ltd - American Depositary Shares,NASDAQ Capital Market,ADXN
-AEAC,Authentic Equity Acquisition Corp. - Class A ordinary share,NASDAQ Capital Market,AEAC
-AEACU,Authentic Equity Acquisition Corp. - Unit,NASDAQ Capital Market,AEACU
-AEACW,Authentic Equity Acquisition Corp. - Warrant,NASDAQ Capital Market,AEACW
 AEAE,AltEnergy Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,AEAE
 AEAEU,AltEnergy Acquisition Corp. - Unit,NASDAQ Global MarketSM,AEAEU
 AEAEW,AltEnergy Acquisition Corp. - Warrant,NASDAQ Global MarketSM,AEAEW
@@ -4784,6 +4784,7 @@ CVCO,"Cavco Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVCO
 CVCY,Central Valley Community Bancorp - Common Stock,NASDAQ Capital Market,CVCY
 CVGI,"Commercial Vehicle Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVGI
 CVGW,"Calavo Growers, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVGW
+CVKD,"Cadrenal Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CVKD
 CVLG,"Covenant Logistics Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CVLG
 CVLT,"Commvault Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVLT
 CVLY,"Codorus Valley Bancorp, Inc - Common Stock",NASDAQ Global MarketSM,CVLY
@@ -4943,7 +4944,6 @@ DSGR,"Distribution Solutions Group, Inc. - Common Stock",NASDAQ Global Select Ma
 DSGX,The Descartes Systems Group Inc. - Common Stock,NASDAQ Global Select MarketSM,DSGX
 DSKE,"Daseke, Inc. - Common Stock",NASDAQ Capital Market,DSKE
 DSP,Viant Technology Inc. - common stock,NASDAQ Global Select MarketSM,DSP
-DSPC,AXS De-SPAC ETF,NASDAQ Global MarketSM,DSPC
 DSWL,"Deswell Industries, Inc. - Common Shares",NASDAQ Global MarketSM,DSWL
 DTEA,DAVIDsTEA Inc. - Common Stock,NASDAQ Global MarketSM,DTEA
 DTIL,"Precision BioSciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,DTIL
@@ -8463,9 +8463,6 @@ TXRH,"Texas Roadhouse, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXRH
 TYDE,"Cryptyde, Inc. - Common Stock",NASDAQ Capital Market,TYDE
 TYRA,"Tyra Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,TYRA
 TZOO,Travelzoo - Common Stock,NASDAQ Global Select MarketSM,TZOO
-TZPS,TZP Strategies Acquisition Corp. - Class A Ordinary Share,NASDAQ Capital Market,TZPS
-TZPSU,TZP Strategies Acquisition Corp. - Unit,NASDAQ Capital Market,TZPSU
-TZPSW,TZP Strategies Acquisition Corp. - Warrant,NASDAQ Capital Market,TZPSW
 UAE,iShares MSCI UAE ETF,NASDAQ Global MarketSM,UAE
 UAL,"United Airlines Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,UAL
 UBCP,"United Bancorp, Inc. - Common Stock",NASDAQ Capital Market,UBCP
@@ -8593,7 +8590,6 @@ VERX,"Vertex, Inc. - Class A Common Stock",NASDAQ Global MarketSM,VERX
 VERY,"Vericity, Inc. - Common Stock",NASDAQ Capital Market,VERY
 VEV,Vicinity Motor Corp. - Common Stock,NASDAQ Capital Market,VEV
 VFF,"Village Farms International, Inc. - Common Shares",NASDAQ Capital Market,VFF
-VGFC,The Very Good Food Company Inc. - Common Shares,NASDAQ Capital Market,VGFC
 VGIT,Vanguard Intermediate-Term Treasury ETF,NASDAQ Global MarketSM,VGIT
 VGLT,Vanguard Long-Treasury ETF,NASDAQ Global MarketSM,VGLT
 VGSH,Vanguard Short-Term Treasury ETF,NASDAQ Global MarketSM,VGSH
@@ -10187,6 +10183,7 @@ ETWO,"E2open Parent Holdings, Inc.Class A Common Stock",NYSE,ETWO
 ETWO.W,"E2open Parent Holdings, Inc. Warrants",NYSE,ETWO.W
 ETX,Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest,NYSE,ETX
 ETY,"Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",NYSE,ETY
+EU,enCore Energy Corp. Common Shares,NYSE MKT,EU
 EURN,Euronav NV Ordinary Shares,NYSE,EURN
 EVA,Enviva Inc. Common Stock,NYSE,EVA
 EVBN,"Evans Bancorp, Inc. Common Stock",NYSE MKT,EVBN
@@ -10411,7 +10408,6 @@ GEHI,"Gravitas Education Holdings, Inc. American depositary shares, each represe
 GEL,"Genesis Energy, L.P. Common Units",NYSE,GEL
 GENC,"Gencor Industries, Inc. Common Stock",NYSE MKT,GENC
 GENI,Genius Sports Limited Ordinary Shares,NYSE,GENI
-GENI.W,"Genius Sports Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share each at an exercise price of $11.50 per share",NYSE,GENI.W
 GEO,Geo Group Inc (The) REIT,NYSE,GEO
 GER,Goldman Sachs MLP Energy Renaissance Fund,NYSE,GER
 GES,"Guess?, Inc. Common Stock",NYSE,GES
@@ -11937,6 +11933,7 @@ RVLV,"Revolve Group, Inc. Class A Common Stock",NYSE,RVLV
 RVP,"Retractable Technologies, Inc. Common Stock",NYSE MKT,RVP
 RVT,"Royce Value Trust, Inc. Common Stock",NYSE,RVT
 RWT,"Redwood Trust, Inc. Common Stock",NYSE,RWT
+RWT$A,"Redwood Trust, Inc. 10.00% Series A Fixed-Rate Reset Cumulative Redeemable Preferred Stock",NYSE,RWT$A
 RXO,"RXO, Inc. Common Stock",NYSE,RXO
 RY,Royal Bank Of Canada Common Stock,NYSE,RY
 RY$T,"Royal Bank Of Canada 6.750% Fixed Rate/Floating Rate Noncumulative First Preferred Shares, Series C-2",NYSE,RY$T
