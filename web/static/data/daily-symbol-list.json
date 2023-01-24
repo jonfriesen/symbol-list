@@ -1,5 +1,5 @@
 {
- "date": "2023-01-23",
+ "date": "2023-01-24",
  "data": [
   {
    "symbol": "ONE",
@@ -26734,6 +26734,22 @@
    ]
   },
   {
+   "symbol": "CGDV",
+   "name": "CI Global Minimum Downside Volatility Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGDV.TO",
+   "instruments": [
+    {
+     "name": "CI GlbMinDwnVoltyHEG",
+     "symbol": "CGDV"
+    },
+    {
+     "name": "CI GlbMinDwnVolty UH",
+     "symbol": "CGDV.B"
+    }
+   ]
+  },
+  {
    "symbol": "CGRA",
    "name": "CI Global Real Asset Private Pool",
    "exchange": "TSX",
@@ -27170,6 +27186,22 @@
     {
      "name": "CI US\u0026CA LifecoCv HG",
      "symbol": "FLI"
+    }
+   ]
+  },
+  {
+   "symbol": "CUDV",
+   "name": "CI U.S. Minimum Downside Volatility Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUDV.TO",
+   "instruments": [
+    {
+     "name": "CI US MinDwnsVoltyHG",
+     "symbol": "CUDV"
+    },
+    {
+     "name": "CI US MinDwnsVoltyUH",
+     "symbol": "CUDV.B"
     }
    ]
   },
@@ -37798,18 +37830,6 @@
    ]
   },
   {
-   "symbol": "MMX",
-   "name": "Maverix Metals Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMX.TO",
-   "instruments": [
-    {
-     "name": "Maverix Metals Inc.",
-     "symbol": "MMX"
-    }
-   ]
-  },
-  {
    "symbol": "MAW",
    "name": "Mawson Gold Limited",
    "exchange": "TSX",
@@ -47514,24 +47534,6 @@
    "name": "Arco Platform Limited - Class A Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ARCE"
-  },
-  {
-   "symbol": "ARCK",
-   "name": "Arbor Rapha Capital Bioholdings Corp. I - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARCK"
-  },
-  {
-   "symbol": "ARCKU",
-   "name": "Arbor Rapha Capital Bioholdings Corp. I - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARCKU"
-  },
-  {
-   "symbol": "ARCKW",
-   "name": "Arbor Rapha Capital Bioholdings Corp. I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARCKW"
   },
   {
    "symbol": "ARCT",
@@ -73952,12 +73954,6 @@
    "yahoo_symbol": "TCBX"
   },
   {
-   "symbol": "TCDA",
-   "name": "Tricida, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TCDA"
-  },
-  {
    "symbol": "TCFC",
    "name": "The Community Financial Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -74476,7 +74472,7 @@
   {
    "symbol": "TLIS",
    "name": "Talis Biomedical Corporation - common stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TLIS"
   },
   {
@@ -89834,10 +89830,10 @@
    "yahoo_symbol": "KIO"
   },
   {
-   "symbol": "KIO.V",
-   "name": "KKR Income Opportunities Fund Rights (expiring February 16, 2023) Rights when issued",
+   "symbol": "KIO.R",
+   "name": "KKR Income Opportunities Fund Rights (expiring February 16, 2023) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "KIO.V"
+   "yahoo_symbol": "KIO.R"
   },
   {
    "symbol": "KIQ",
@@ -98616,12 +98612,6 @@
    "name": "Tetra Technologies, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TTI"
-  },
-  {
-   "symbol": "TTM",
-   "name": "Tata Motors Ltd Tata Motors Limited",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TTM"
   },
   {
    "symbol": "TTP",

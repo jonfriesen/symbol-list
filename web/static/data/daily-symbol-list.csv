@@ -2110,6 +2110,7 @@ CGHY,CI Global High Yield Credit Private Pool,TSX,CGHY.TO,CI HiYldCredPriv C$,CG
 CINF,CI Global Infrastructure Private Pool,TSX,CINF.TO,CI GlbInfrasPrivPl$C,CINF
 CGIN,CI Global Investment Grade ETF,TSX,CGIN.TO,CI Glbl InvestGrd CA,CGIN,CI GlbInvestGrdHg US,CGIN.U
 LONG,CI Global Longevity Economy Fund,TSX,LONG.TO,CI GlbLongevtyEconC$,LONG
+CGDV,CI Global Minimum Downside Volatility Index ETF,TSX,CGDV.TO,CI GlbMinDwnVoltyHEG,CGDV,CI GlbMinDwnVolty UH,CGDV.B
 CGRA,CI Global Real Asset Private Pool,TSX,CGRA.TO,CI GlbRlAsetPrivPlC$,CGRA
 CGRE,CI Global REIT Private Pool,TSX,CGRE.TO,CI Glb REIT PrivPlC$,CGRE
 CGRN,CI Global Sustainable Infrastructure Fund,TSX,CGRN.TO,CI Glb SustInfras C$,CGRN,CI SustInfras HgUS$,CGRN.U
@@ -2140,6 +2141,7 @@ FPR,CI Preferred Share ETF,TSX,FPR.TO,CI Preferred Shr Un,FPR
 FGB,CI Short Term Government Bond Index Class ETF,TSX,FGB.TO,CI ST GovtBondCl ETF,FGB
 TXF,CI Tech Giants Covered Call ETF,TSX,TXF.TO,CI TechGntCovrCallHG,TXF,CI TechGiaCovCalUnHg,TXF.B,CI TechGiantCvClHgUS,TXF.U
 FLI,CI U.S. & Canada Lifeco Covered Call ETF,TSX,FLI.TO,CI US&CA LifecoCv HG,FLI
+CUDV,CI U.S. Minimum Downside Volatility Index ETF,TSX,CUDV.TO,CI US MinDwnsVoltyHG,CUDV,CI US MinDwnsVoltyUH,CUDV.B
 SID,CI U.S. Trendleaders Index ETF,TSX,SID.TO,CI US TrendLeadrs HG,SID
 DGRC,CI WisdomTree Canada Quality Dividend Growth Index ETF,TSX,DGRC.TO,CI WisdomCA QualDvNH,DGRC
 EMV.B,CI WisdomTree Emerging Markets Dividend Index ETF,TSX,EMV.B.TO,CI Wisdom3EmrgMktDiv,EMV.B
@@ -2929,7 +2931,6 @@ MOZ,Marathon Gold Corporation,TSX,MOZ.TO,Marathon Gold Corp J,MOZ
 MARI,Marimaca Copper Corp.,TSX,MARI.TO,Marimaca Copper J,MARI
 MRE,Martinrea International Inc.,TSX,MRE.TO,Martinrea Int'l Inc.,MRE
 MAV,MAV Beauty Brands Inc.,TSX,MAV.TO,MAV Beauty Brands,MAV
-MMX,Maverix Metals Inc.,TSX,MMX.TO,Maverix Metals Inc.,MMX
 MAW,Mawson Gold Limited,TSX,MAW.TO,Mawson Gold Ltd. J,MAW
 MAXR,Maxar Technologies Inc.,TSX,MAXR.TO,Maxar Technologies,MAXR
 MXG,Maxim Power Corp.,TSX,MXG.TO,Maxim Power Corp.,MXG
@@ -3856,9 +3857,6 @@ ARBKL,Argo Blockchain plc - 8.75% Senior Notes due 2026,NASDAQ Global MarketSM,A
 ARCB,ArcBest Corporation - Common Stock,NASDAQ Global Select MarketSM,ARCB
 ARCC,Ares Capital Corporation - Closed End Fund,NASDAQ Global Select MarketSM,ARCC
 ARCE,Arco Platform Limited - Class A Common Shares,NASDAQ Global Select MarketSM,ARCE
-ARCK,Arbor Rapha Capital Bioholdings Corp. I - Class A Common Stock,NASDAQ Global MarketSM,ARCK
-ARCKU,Arbor Rapha Capital Bioholdings Corp. I - Units,NASDAQ Global MarketSM,ARCKU
-ARCKW,Arbor Rapha Capital Bioholdings Corp. I - Warrants,NASDAQ Global MarketSM,ARCKW
 ARCT,Arcturus Therapeutics Holdings Inc. - Common Stock,NASDAQ Global MarketSM,ARCT
 ARDS,Aridis Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,ARDS
 ARDX,"Ardelyx, Inc. - Common Stock",NASDAQ Global MarketSM,ARDX
@@ -8262,7 +8260,6 @@ TCBP,TC BioPharm (Holdings) plc - American Depositary Shares,NASDAQ Capital Mark
 TCBPW,TC BioPharm (Holdings) plc - Warrants,NASDAQ Capital Market,TCBPW
 TCBS,"Texas Community Bancshares, Inc. - Common Stock",NASDAQ Capital Market,TCBS
 TCBX,"Third Coast Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,TCBX
-TCDA,"Tricida, Inc. - Common Stock",NASDAQ Global Select MarketSM,TCDA
 TCFC,The Community Financial Corporation - Common Stock,NASDAQ Capital Market,TCFC
 TCHI,iShares MSCI China Multisector Tech ETF,NASDAQ Global MarketSM,TCHI
 TCMD,"Tactile Systems Technology, Inc. - Common Stock",NASDAQ Global MarketSM,TCMD
@@ -8349,7 +8346,7 @@ TLF,"Tandy Leather Factory, Inc. - common stock",NASDAQ Capital Market,TLF
 TLGY,TLGY Acquisition Corporation - Class A Ordinary Share,NASDAQ Global MarketSM,TLGY
 TLGYU,TLGY Acquisition Corporation - Unit,NASDAQ Global MarketSM,TLGYU
 TLGYW,TLGY Acquisition Corporation - Warrant,NASDAQ Global MarketSM,TLGYW
-TLIS,Talis Biomedical Corporation - common stock,NASDAQ Global MarketSM,TLIS
+TLIS,Talis Biomedical Corporation - common stock,NASDAQ Capital Market,TLIS
 TLRY,"Tilray Brands, Inc. - Class 2 Common Stock",NASDAQ Global Select MarketSM,TLRY
 TLS,Telos Corporation - Common Stock,NASDAQ Global MarketSM,TLS
 TLSA,Tiziana Life Sciences Ltd - Common Shares,NASDAQ Capital Market,TLSA
@@ -10909,7 +10906,7 @@ KIM$L,"Kimco Realty Corporation Class L Depositary Shares, each of which represe
 KIM$M,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",NYSE,KIM$M
 KIND,"Nextdoor Holdings, Inc. Class A Common Stock",NYSE,KIND
 KIO,KKR Income Opportunities Fund Common Shares,NYSE,KIO
-KIO.V,"KKR Income Opportunities Fund Rights (expiring February 16, 2023) Rights when issued",NYSE,KIO.V
+KIO.R,"KKR Income Opportunities Fund Rights (expiring February 16, 2023) Rights",NYSE,KIO.R
 KIQ,Kelso Technologies Inc Ordinary Shares,NYSE MKT,KIQ
 KKR,KKR & Co. Inc. Common Stock,NYSE,KKR
 KKR$C,KKR & Co. Inc. 6.00% Series C Mandatory Convertible Preferred Stock,NYSE,KKR$C
@@ -12373,7 +12370,6 @@ TT,Trane Technologies plc,NYSE,TT
 TTC,Toro Company (The) Common Stock,NYSE,TTC
 TTE,TotalEnergies SE,NYSE,TTE
 TTI,"Tetra Technologies, Inc. Common Stock",NYSE,TTI
-TTM,Tata Motors Ltd Tata Motors Limited,NYSE,TTM
 TTP,"Tortoise Pipeline & Energy Fund, Inc. Common Stock",NYSE,TTP
 TU,Telus Corporation Ordinary Shares,NYSE,TU
 TUP,Tupperware Brands Corporation Common Stock,NYSE,TUP
