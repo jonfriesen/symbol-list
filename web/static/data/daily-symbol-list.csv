@@ -513,6 +513,7 @@ EPF,Everyday People Financial Corp.,TSXV,EPF.V,Everyday People Financial Corp.,E
 EVOC.P,Evocati Capital Resources Inc.,TSXV,EVOC.P.V,Evocati Capital Resources Inc.,EVOC.P
 XCAP.P,Exelerate Capital Corp.,TSXV,XCAP.P.V,Exelerate Capital Corp.,XCAP.P
 EXG,ExGen Resources Inc.,TSXV,EXG.V,ExGen Resources Inc.,EXG
+FUU,F3 Uranium Corp.,TSXV,FUU.V,F3 Uranium Corp.,FUU
 FBF,Fab-Form Industries Ltd.,TSXV,FBF.V,Fab-Form Industries Ltd.,FBF
 FCO,Fabled Silver Gold Corp.,TSXV,FCO.V,Fabled Silver Gold Corp.,FCO
 FINV.P,Faction Investment Group Corp.,TSXV,FINV.P.V,Faction Investment Group Corp.,FINV.P
@@ -536,7 +537,6 @@ FGCC.P,First and Goal Capital Corp.,TSXV,FGCC.P.V,First and Goal Capital Corp.,F
 HELI,First Helium Inc.,TSXV,HELI.V,First Helium Inc.,HELI
 FHYD,First Hydrogen Corp.,TSXV,FHYD.V,First Hydrogen Corp.,FHYD
 AAA.P,First Tidal Acquisition Corp.,TSXV,AAA.P.V,First Tidal Acquisition Corp.,AAA.P
-FUU,Fission 3.0 Corp.,TSXV,FUU.V,Fission 3.0 Corp.,FUU
 FEX,Fjordland Exploration Inc.,TSXV,FEX.V,Fjordland Exploration Inc.,FEX
 FONC.P,Florence One Capital Inc.,TSXV,FONC.P.V,Florence One Capital Inc.,FONC.P
 FW,Flow Capital Corp.,TSXV,FW.V,Flow Capital Corp.,FW
@@ -3044,7 +3044,7 @@ OPS,Opsens Inc.,TSX,OPS.TO,Opsens Inc. J,OPS
 OPT,Optiva Inc.,TSX,OPT.TO,Optiva Inc. J,OPT
 OGD,Orbit Garant Drilling Inc.,TSX,OGD.TO,Orbit Garant Drill,OGD
 OREA,Orea Mining Corp.,TSX,OREA.TO,Orea Mining Corp J,OREA
-ORE,Orezone Gold Corporation,TSX,ORE.TO,Orezone Gold Corp J,ORE,Orezone Gold J Wt,ORE.WT
+ORE,Orezone Gold Corporation,TSX,ORE.TO,Orezone Gold Corp J,ORE
 OGI,Organigram Holdings Inc.,TSX,OGI.TO,Organigram Hldgs J,OGI
 OLA,Orla Mining Ltd,TSX,OLA.TO,Orla Mining Ltd. J,OLA
 ORV,Orvana Minerals Corp.,TSX,ORV.TO,Orvana Minerals J,ORV
@@ -4975,7 +4975,7 @@ DUO,Fangdd Network Group Ltd. - American Depositary Shares,NASDAQ Global MarketS
 DUOL,"Duolingo, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,DUOL
 DUOT,"Duos Technologies Group, Inc. - Common Stock",NASDAQ Capital Market,DUOT
 DVAL,BrandywineGLOBAL - Dynamic US Large Cap Value ETF,NASDAQ Global MarketSM,DVAL
-DVAX,Dynavax Technologies Corporation - Common Stock,NASDAQ Capital Market,DVAX
+DVAX,Dynavax Technologies Corporation - Common Stock,NASDAQ Global Select MarketSM,DVAX
 DVLU,First Trust Dorsey Wright Momentum & Value ETF,NASDAQ Global MarketSM,DVLU
 DVOL,First Trust Dorsey Wright Momentum & Low Volatility ETF,NASDAQ Global MarketSM,DVOL
 DVY,iShares Select Dividend ETF,NASDAQ Global MarketSM,DVY
@@ -6627,6 +6627,7 @@ MDXH,MDxHealth SA - American Depositary Shares,NASDAQ Capital Market,MDXH
 ME,23andMe Holding Co. - Common Stock,NASDAQ Global Select MarketSM,ME
 MEDP,"Medpace Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MEDP
 MEDS,"TRxADE HEALTH, Inc. - Common Stock",NASDAQ Capital Market,MEDS
+MEDX,Horizon Kinetics Medical ETF,NASDAQ Global MarketSM,MEDX
 MEGL,Magic Empire Global Limited - Ordinary Shares,NASDAQ Capital Market,MEGL
 MEIP,"MEI Pharma, Inc. - Common Stock",NASDAQ Capital Market,MEIP
 MEKA,MELI Kaszek Pioneer Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,MEKA
@@ -8069,6 +8070,7 @@ SOVO,"Sovos Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,SOVO
 SOXQ,Invesco PHLX Semiconductor ETF,NASDAQ Global MarketSM,SOXQ
 SOXX,iShares Semiconductor ETF,NASDAQ Global MarketSM,SOXX
 SP,SP Plus Corporation - Common Stock,NASDAQ Global Select MarketSM,SP
+SPAQ,Horizon Kinetics SPAC Active ETF,NASDAQ Global MarketSM,SPAQ
 SPBC,Simplify U.S. Equity PLUS GBTC ETF,NASDAQ Global MarketSM,SPBC
 SPC,CrossingBridge Pre-Merger SPAC ETF,NASDAQ Global MarketSM,SPC
 SPCB,"SuperCom, Ltd. - Ordinary Shares",NASDAQ Capital Market,SPCB
@@ -10201,7 +10203,6 @@ EW,Edwards Lifesciences Corporation Common Stock,NYSE,EW
 EXD,Eaton Vance Tax-Managed Buy-Write Strategy Fund Common Shares of Beneficial Interest,NYSE,EXD
 EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest,NYSE,EXG
 EXK,Endeavour Silver Corporation Ordinary Shares (Canada),NYSE,EXK
-EXN,Excellon Resources Inc. Common Shares,NYSE MKT,EXN
 EXP,Eagle Materials Inc Common Stock,NYSE,EXP
 EXPR,"Express, Inc. Common Stock",NYSE,EXPR
 EXR,Extra Space Storage Inc Common Stock,NYSE,EXR
@@ -11102,7 +11103,6 @@ MFA$C,"MFA Financial, Inc. 6.50% Series C Fixed-to-Floating Rate Cumulative Rede
 MFC,Manulife Financial Corporation Common Stock,NYSE,MFC
 MFD,Macquarie First Trust Global Common Stock,NYSE,MFD
 MFG,"Mizuho Financial Group, Inc. Sponosred ADR (Japan)",NYSE,MFG
-MFGP,Micro Focus Intl PLC ADS each representing One Ord Sh,NYSE,MFGP
 MFM,MFS Municipal Income Trust Common Stock,NYSE,MFM
 MFV,MFS Special Value Trust Common Stock,NYSE,MFV
 MG,Mistras Group Inc Common Stock,NYSE,MG

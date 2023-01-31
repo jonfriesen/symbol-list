@@ -1,5 +1,5 @@
 {
- "date": "2023-01-30",
+ "date": "2023-01-31",
  "data": [
   {
    "symbol": "ONE",
@@ -6250,6 +6250,18 @@
    ]
   },
   {
+   "symbol": "FUU",
+   "name": "F3 Uranium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FUU.V",
+   "instruments": [
+    {
+     "name": "F3 Uranium Corp.",
+     "symbol": "FUU"
+    }
+   ]
+  },
+  {
    "symbol": "FBF",
    "name": "Fab-Form Industries Ltd.",
    "exchange": "TSXV",
@@ -6530,18 +6542,6 @@
     {
      "name": "First Tidal Acquisition Corp.",
      "symbol": "AAA.P"
-    }
-   ]
-  },
-  {
-   "symbol": "FUU",
-   "name": "Fission 3.0 Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FUU.V",
-   "instruments": [
-    {
-     "name": "Fission 3.0 Corp.",
-     "symbol": "FUU"
     }
    ]
   },
@@ -39326,10 +39326,6 @@
     {
      "name": "Orezone Gold Corp J",
      "symbol": "ORE"
-    },
-    {
-     "name": "Orezone Gold J Wt",
-     "symbol": "ORE.WT"
     }
    ]
   },
@@ -54290,7 +54286,7 @@
   {
    "symbol": "DVAX",
    "name": "Dynavax Technologies Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DVAX"
   },
   {
@@ -64200,6 +64196,12 @@
    "yahoo_symbol": "MEDS"
   },
   {
+   "symbol": "MEDX",
+   "name": "Horizon Kinetics Medical ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEDX"
+  },
+  {
    "symbol": "MEGL",
    "name": "Magic Empire Global Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -72850,6 +72852,12 @@
    "name": "SP Plus Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SP"
+  },
+  {
+   "symbol": "SPAQ",
+   "name": "Horizon Kinetics SPAC Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPAQ"
   },
   {
    "symbol": "SPBC",
@@ -85644,12 +85652,6 @@
    "yahoo_symbol": "EXK"
   },
   {
-   "symbol": "EXN",
-   "name": "Excellon Resources Inc. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "EXN"
-  },
-  {
    "symbol": "EXP",
    "name": "Eagle Materials Inc Common Stock",
    "exchange": "NYSE",
@@ -91048,12 +91050,6 @@
    "name": "Mizuho Financial Group, Inc. Sponosred ADR (Japan)",
    "exchange": "NYSE",
    "yahoo_symbol": "MFG"
-  },
-  {
-   "symbol": "MFGP",
-   "name": "Micro Focus Intl PLC ADS each representing One Ord Sh",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MFGP"
   },
   {
    "symbol": "MFM",
