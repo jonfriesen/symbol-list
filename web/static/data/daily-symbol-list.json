@@ -1,5 +1,5 @@
 {
- "date": "2023-02-03",
+ "date": "2023-02-06",
  "data": [
   {
    "symbol": "ONE",
@@ -8686,10 +8686,6 @@
     {
      "name": "High Tide Inc. wt 22Feb2024",
      "symbol": "HITI.WR"
-    },
-    {
-     "name": "High Tide Inc. wt. 06Feb2023",
-     "symbol": "HITI.WT"
     }
    ]
   },
@@ -13426,6 +13422,18 @@
     {
      "name": "OOOOO Entertainment Commerce Limited",
      "symbol": "OOOO"
+    }
+   ]
+  },
+  {
+   "symbol": "OPW",
+   "name": "Opawica Explorations Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPW.V",
+   "instruments": [
+    {
+     "name": "Opawica Explorations Inc.",
+     "symbol": "OPW"
     }
    ]
   },
@@ -47982,6 +47990,12 @@
    "yahoo_symbol": "ASRV"
   },
   {
+   "symbol": "ASST",
+   "name": "Asset Entities Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASST"
+  },
+  {
    "symbol": "ASTC",
    "name": "Astrotech Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -48546,6 +48560,18 @@
    "yahoo_symbol": "AWH"
   },
   {
+   "symbol": "AWIN",
+   "name": "AERWINS Technology Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AWIN"
+  },
+  {
+   "symbol": "AWINW",
+   "name": "AERWINS Technology Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AWINW"
+  },
+  {
    "symbol": "AWRE",
    "name": "Aware, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -48697,7 +48723,7 @@
   },
   {
    "symbol": "BANX",
-   "name": "ArrowMark Financial Corp. - Common Stock",
+   "name": "ArrowMark Financial Corp. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BANX"
   },
@@ -49243,7 +49269,7 @@
   },
   {
    "symbol": "BKCC",
-   "name": "BlackRock Capital Investment Corporation - Common Stock",
+   "name": "BlackRock Capital Investment Corporation - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BKCC"
   },
@@ -50815,7 +50841,7 @@
   },
   {
    "symbol": "CCD",
-   "name": "Calamos Dynamic Convertible \u0026 Income Fund - Common Shares",
+   "name": "Calamos Dynamic Convertible \u0026 Income Fund - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CCD"
   },
@@ -51307,7 +51333,7 @@
   },
   {
    "symbol": "CGBD",
-   "name": "Carlyle Secured Lending, Inc. - Common Stock",
+   "name": "Carlyle Secured Lending, Inc. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CGBD"
   },
@@ -51343,7 +51369,7 @@
   },
   {
    "symbol": "CGO",
-   "name": "Calamos Global Total Return Fund - Common Stock",
+   "name": "Calamos Global Total Return Fund - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CGO"
   },
@@ -51421,7 +51447,7 @@
   },
   {
    "symbol": "CHI",
-   "name": "Calamos Convertible Opportunities and Income Fund - Common Stock",
+   "name": "Calamos Convertible Opportunities and Income Fund - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CHI"
   },
@@ -51535,7 +51561,7 @@
   },
   {
    "symbol": "CHW",
-   "name": "Calamos Global Dynamic Income Fund - Common Stock",
+   "name": "Calamos Global Dynamic Income Fund - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CHW"
   },
@@ -51547,7 +51573,7 @@
   },
   {
    "symbol": "CHY",
-   "name": "Calamos Convertible and High Income Fund - Common Stock",
+   "name": "Calamos Convertible and High Income Fund - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CHY"
   },
@@ -52174,12 +52200,6 @@
    "name": "Canna-Global Acquisition Corp - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CNGLW"
-  },
-  {
-   "symbol": "CNNB",
-   "name": "Cincinnati Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNNB"
   },
   {
    "symbol": "CNOB",
@@ -52909,7 +52929,7 @@
   },
   {
    "symbol": "CSQ",
-   "name": "Calamos Strategic Total Return Fund - Common Stock",
+   "name": "Calamos Strategic Total Return Fund - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CSQ"
   },
@@ -53083,7 +53103,7 @@
   },
   {
    "symbol": "CUBA",
-   "name": "The Herzfeld Caribbean Basin Fund, Inc. - Closed End FUnd",
+   "name": "The Herzfeld Caribbean Basin Fund, Inc. - Closed End Fund",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CUBA"
   },
@@ -54355,7 +54375,7 @@
   },
   {
    "symbol": "DXR",
-   "name": "Daxor Corporation - Common Stock",
+   "name": "Daxor Corporation - Closed End Fund",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DXR"
   },
@@ -55861,7 +55881,7 @@
   },
   {
    "symbol": "FCRD",
-   "name": "First Eagle Alternative Capital BDC, Inc. - Common Stock",
+   "name": "First Eagle Alternative Capital BDC, Inc. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FCRD"
   },
@@ -55915,7 +55935,7 @@
   },
   {
    "symbol": "FDUS",
-   "name": "Fidus Investment Corporation - Common Stock",
+   "name": "Fidus Investment Corporation - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FDUS"
   },
@@ -57439,7 +57459,7 @@
   },
   {
    "symbol": "GBDC",
-   "name": "Golub Capital BDC, Inc. - Common Stock",
+   "name": "Golub Capital BDC, Inc. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GBDC"
   },
@@ -57601,7 +57621,7 @@
   },
   {
    "symbol": "GECC",
-   "name": "Great Elm Capital Corp. - Common Stock",
+   "name": "Great Elm Capital Corp. - Closed End Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GECC"
   },
@@ -57901,7 +57921,7 @@
   },
   {
    "symbol": "GLAD",
-   "name": "Gladstone Capital Corporation - Common Stock",
+   "name": "Gladstone Capital Corporation - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GLAD"
   },
@@ -58288,6 +58308,12 @@
    "name": "Global Partner Acquisition Corp II - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GPACW"
+  },
+  {
+   "symbol": "GPCR",
+   "name": "Structure Therapeutics Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPCR"
   },
   {
    "symbol": "GPP",
@@ -64879,7 +64905,7 @@
   },
   {
    "symbol": "MRCC",
-   "name": "Monroe Capital Corporation - Common Stock",
+   "name": "Monroe Capital Corporation - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MRCC"
   },
@@ -66595,7 +66621,7 @@
   },
   {
    "symbol": "OCCI",
-   "name": "OFS Credit Company, Inc. - Common Stock",
+   "name": "OFS Credit Company, Inc. - Closed End Fund",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OCCI"
   },
@@ -66637,7 +66663,7 @@
   },
   {
    "symbol": "OCSL",
-   "name": "Oaktree Specialty Lending Corporation - Common Stock",
+   "name": "Oaktree Specialty Lending Corporation - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OCSL"
   },
@@ -66703,7 +66729,7 @@
   },
   {
    "symbol": "OFS",
-   "name": "OFS Capital Corporation - Common Stock",
+   "name": "OFS Capital Corporation - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OFS"
   },
@@ -67327,7 +67353,7 @@
   },
   {
    "symbol": "OXLC",
-   "name": "Oxford Lane Capital Corp. - Common Stock",
+   "name": "Oxford Lane Capital Corp. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OXLC"
   },
@@ -68604,24 +68630,6 @@
    "yahoo_symbol": "POLA"
   },
   {
-   "symbol": "PONO",
-   "name": "Pono Capital Corp - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PONO"
-  },
-  {
-   "symbol": "PONOU",
-   "name": "Pono Capital Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PONOU"
-  },
-  {
-   "symbol": "PONOW",
-   "name": "Pono Capital Corp - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PONOW"
-  },
-  {
    "symbol": "POOL",
    "name": "Pool Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69055,7 +69063,7 @@
   },
   {
    "symbol": "PSEC",
-   "name": "Prospect Capital Corporation - Common Stock",
+   "name": "Prospect Capital Corporation - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PSEC"
   },
@@ -69181,7 +69189,7 @@
   },
   {
    "symbol": "PTMN",
-   "name": "Portman Ridge Finance Corporation - Common stock",
+   "name": "Portman Ridge Finance Corporation - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PTMN"
   },
@@ -69847,7 +69855,7 @@
   },
   {
    "symbol": "RAND",
-   "name": "Rand Capital Corporation - Common Stock",
+   "name": "Rand Capital Corporation - Closed End Fund",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RAND"
   },
@@ -72295,7 +72303,7 @@
   },
   {
    "symbol": "SLRC",
-   "name": "SLR Investment Corp. - Common Stock",
+   "name": "SLR Investment Corp. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SLRC"
   },
@@ -73123,7 +73131,7 @@
   },
   {
    "symbol": "SSSS",
-   "name": "SuRo Capital Corp. - Common Stock",
+   "name": "SuRo Capital Corp. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SSSS"
   },
@@ -73507,7 +73515,7 @@
   },
   {
    "symbol": "SVVC",
-   "name": "Firsthand Technology Value Fund, Inc. - Common Stock",
+   "name": "Firsthand Technology Value Fund, Inc. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SVVC"
   },
@@ -73837,7 +73845,7 @@
   },
   {
    "symbol": "TBLD",
-   "name": "Thornburg Income Builder Opportunities Trust - Common Stock",
+   "name": "Thornburg Income Builder Opportunities Trust - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TBLD"
   },
@@ -73969,7 +73977,7 @@
   },
   {
    "symbol": "TCPC",
-   "name": "BlackRock TCP Capital Corp. - Common Stock",
+   "name": "BlackRock TCP Capital Corp. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TCPC"
   },
@@ -74983,7 +74991,7 @@
   },
   {
    "symbol": "TURN",
-   "name": "180 Degree Capital Corp. - Common Stock",
+   "name": "180 Degree Capital Corp. - Closed End Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TURN"
   },
@@ -76867,7 +76875,7 @@
   },
   {
    "symbol": "WHF",
-   "name": "WhiteHorse Finance, Inc. - Common Stock",
+   "name": "WhiteHorse Finance, Inc. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WHF"
   },
@@ -80086,12 +80094,6 @@
    "name": "Berenson Acquisition Corp. I Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "BACA.U"
-  },
-  {
-   "symbol": "BACA.W",
-   "name": "Berenson Acquisition Corp. I Warrants, each whole warrant exercisable for one share of class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BACA.W"
   },
   {
    "symbol": "BAH",
@@ -91458,6 +91460,12 @@
    "yahoo_symbol": "MPTI"
   },
   {
+   "symbol": "MPU",
+   "name": "Mega Matrix Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MPU"
+  },
+  {
    "symbol": "MPV",
    "name": "Barings Participation Investors Common Stock",
    "exchange": "NYSE",
@@ -91702,12 +91710,6 @@
    "name": "Meritage Homes Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MTH"
-  },
-  {
-   "symbol": "MTMT",
-   "name": "Mega Matrix Corp. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MTMT"
   },
   {
    "symbol": "MTN",
