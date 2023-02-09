@@ -1,5 +1,5 @@
 {
- "date": "2023-02-08",
+ "date": "2023-02-09",
  "data": [
   {
    "symbol": "ONE",
@@ -10431,12 +10431,12 @@
   },
   {
    "symbol": "LTX",
-   "name": "Labrador Technologies Inc.",
+   "name": "Labrador Resources Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "LTX.V",
    "instruments": [
     {
-     "name": "Labrador Technologies Inc.",
+     "name": "Labrador Resources Inc.",
      "symbol": "LTX"
     }
    ]
@@ -65162,12 +65162,6 @@
    "yahoo_symbol": "MTCH"
   },
   {
-   "symbol": "MTCR",
-   "name": "Metacrine, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MTCR"
-  },
-  {
    "symbol": "MTEK",
    "name": "Maris-Tech Ltd. - ordinary shares",
    "exchange": "NASDAQ Capital Market",
@@ -69804,12 +69798,6 @@
    "name": "QuickLogic Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QUIK"
-  },
-  {
-   "symbol": "QUMU",
-   "name": "Qumu Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QUMU"
   },
   {
    "symbol": "QURE",
@@ -84686,6 +84674,12 @@
    "yahoo_symbol": "EFC$B"
   },
   {
+   "symbol": "EFC$C",
+   "name": "Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EFC$C"
+  },
+  {
    "symbol": "EFR",
    "name": "Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -87630,18 +87624,6 @@
    "name": "G Squared Ascend II Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
    "exchange": "NYSE",
    "yahoo_symbol": "GSQB.W"
-  },
-  {
-   "symbol": "GSQD",
-   "name": "G Squared Ascend I Inc. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GSQD"
-  },
-  {
-   "symbol": "GSQD.U",
-   "name": "G Squared Ascend I Inc. Units, each consisting of one Class A ordinary share and one-fifth of one Warrant to acquire one Class A ordinary share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GSQD.U"
   },
   {
    "symbol": "GTE",
@@ -96927,7 +96909,7 @@
   },
   {
    "symbol": "SOL",
-   "name": "Renesola Ltd. American Depsitary Shares (Each representing 10 shares)",
+   "name": "Emeren Group Ltd American Depositary Shares, each representing 10 shares",
    "exchange": "NYSE",
    "yahoo_symbol": "SOL"
   },
