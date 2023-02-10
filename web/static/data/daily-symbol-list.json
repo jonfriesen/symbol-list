@@ -1,5 +1,5 @@
 {
- "date": "2023-02-09",
+ "date": "2023-02-10",
  "data": [
   {
    "symbol": "ONE",
@@ -1806,6 +1806,10 @@
     {
      "name": "Avanti Helium Corp. wt 24oct2024",
      "symbol": "AVN.WT"
+    },
+    {
+     "name": "Avanti Helium Corp. wt 6Feb2025",
+     "symbol": "AVN.WT.A"
     }
    ]
   },
@@ -5918,18 +5922,6 @@
     {
      "name": "Engold Mines Ltd.",
      "symbol": "EGM"
-    }
-   ]
-  },
-  {
-   "symbol": "NLTA",
-   "name": "Enlighta Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NLTA.V",
-   "instruments": [
-    {
-     "name": "Enlighta Inc.",
-     "symbol": "NLTA"
     }
    ]
   },
@@ -16290,6 +16282,18 @@
    ]
   },
   {
+   "symbol": "SKAL.P",
+   "name": "Scaling Capital 1 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SKAL.P.V",
+   "instruments": [
+    {
+     "name": "Scaling Capital 1 Corp.",
+     "symbol": "SKAL.P"
+    }
+   ]
+  },
+  {
    "symbol": "SGN",
    "name": "Scorpio Gold Corporation",
    "exchange": "TSXV",
@@ -16978,18 +16982,6 @@
     {
      "name": "Sonor Investments Limited 9% cum red 1st prf",
      "symbol": "SNI.PR.A"
-    }
-   ]
-  },
-  {
-   "symbol": "SOC",
-   "name": "Sonora Gold \u0026 Silver Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SOC.V",
-   "instruments": [
-    {
-     "name": "Sonora Gold \u0026 Silver Corp",
-     "symbol": "SOC"
     }
    ]
   },
@@ -46940,24 +46932,6 @@
    "yahoo_symbol": "AMBA"
   },
   {
-   "symbol": "AMCI",
-   "name": "AMCI Acquisition Corp. II - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMCI"
-  },
-  {
-   "symbol": "AMCIU",
-   "name": "AMCI Acquisition Corp. II - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMCIU"
-  },
-  {
-   "symbol": "AMCIW",
-   "name": "AMCI Acquisition Corp. II - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMCIW"
-  },
-  {
    "symbol": "AMCX",
    "name": "AMC Networks Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -59528,6 +59502,12 @@
    "yahoo_symbol": "HRZN"
   },
   {
+   "symbol": "HSAI",
+   "name": "Hesai Group - American Depositary Share, each ADS represents one Class B ordinary share",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HSAI"
+  },
+  {
    "symbol": "HSCS",
    "name": "Heart Test Laboratories, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -63236,6 +63216,18 @@
    "yahoo_symbol": "LNW"
   },
   {
+   "symbol": "LNZA",
+   "name": "LanzaTech Global, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LNZA"
+  },
+  {
+   "symbol": "LNZAW",
+   "name": "LanzaTech Global, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LNZAW"
+  },
+  {
    "symbol": "LOAN",
    "name": "Manhattan Bridge Capital, Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -63372,6 +63364,12 @@
    "name": "Lattice Semiconductor Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LSCC"
+  },
+  {
+   "symbol": "LSDI",
+   "name": "Lucy Scientific Discovery Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSDI"
   },
   {
    "symbol": "LSEA",
@@ -66482,6 +66480,12 @@
    "yahoo_symbol": "NXST"
   },
   {
+   "symbol": "NXT",
+   "name": "Nextracker Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NXT"
+  },
+  {
    "symbol": "NXTC",
    "name": "NextCure, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -67821,7 +67825,7 @@
   },
   {
    "symbol": "PDD",
-   "name": "Pinduoduo Inc. - American Depositary Shares",
+   "name": "PDD Holdings Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PDD"
   },
