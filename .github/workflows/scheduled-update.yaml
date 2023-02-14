@@ -46,8 +46,10 @@ jobs:
         echo VITE_DATA_DATE=$(ls -tr symbol-list-data/data | grep -E '[0-9]\.json$' | tail -n 1 | sed 's/\.[^.]*$//') > web/.env
         cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\.json$' | tail -n 1) web/static/data/daily-symbol-list.json
         cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\.csv$' | tail -n 1) web/static/data/daily-symbol-list.csv
+        cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\-diff.json$' | tail -n 1) web/static/data/daily-symbol-diff-list.json
         cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\-crypto\.json$' | tail -n 1) web/static/data/daily-crypto-symbol-list.json
         cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\-crypto\.csv$' | tail -n 1) web/static/data/daily-crypto-symbol-list.csv
+        cp -rf symbol-list-data/data/$(ls -tr symbol-list-data/data | grep -E '[0-9]\-diff-crypto\.json$' | tail -n 1) web/static/data/daily-crypto-symbol-diff-list.json
 
     - name: Commit new web assets
       run: |
