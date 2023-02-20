@@ -1,18 +1,52 @@
 {
  "added": [
   {
-   "symbol": "UMAMI",
-   "name": "Umami (UMAMI)",
-   "built_on": "ARBIRTUM"
+   "symbol": "FLIC",
+   "name": "Skaflic (FLIC)"
   },
   {
-   "symbol": "SARCO",
-   "name": "Sarcophagus (SARCO)",
+   "symbol": "EUROE",
+   "name": "EUROe Stablecoin (EUROE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "CREDITS",
-   "name": "Credits (CREDITS)"
+   "symbol": "HDX",
+   "name": "HydraDX (HDX)"
+  },
+  {
+   "symbol": "MADOG",
+   "name": "MarvelDoge (MADOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VELA",
+   "name": "Vela Token (VELA)",
+   "built_on": "ARBITRUM"
+  },
+  {
+   "symbol": "AMKT",
+   "name": "Alongside Crypto Market Index (AMKT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VERSE",
+   "name": "Verse (VERSE)"
+  },
+  {
+   "symbol": "HEARTR",
+   "name": "Heart Rate (HEARTR)"
+  },
+  {
+   "symbol": "GFT",
+   "name": "Gifto (GFT)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GTO",
+   "name": "GIFTO (GTO)",
+   "built_on": "ETH"
   }
  ]
 }
