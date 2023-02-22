@@ -1,82 +1,138 @@
 {
  "added": [
   {
-   "symbol": "CUTL",
-   "name": "CI Utilities Giants Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CUTL.TO",
+   "symbol": "ABM",
+   "name": "Aben Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ABM.V",
    "instruments": [
     {
-     "name": "CI Util GianCall Heg",
-     "symbol": "CUTL"
-    },
-    {
-     "name": "CI Util GianCal Unhg",
-     "symbol": "CUTL.B"
+     "name": "Aben Minerals Ltd.",
+     "symbol": "ABM"
     }
    ]
   },
   {
-   "symbol": "CATX",
-   "name": "Perspective Therapeutics, Inc. Common Stock",
+   "symbol": "BONE",
+   "name": "Boron One Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BONE.V",
+   "instruments": [
+    {
+     "name": "Boron One Holdings Inc.",
+     "symbol": "BONE"
+    }
+   ]
+  },
+  {
+   "symbol": "GODB.P",
+   "name": "Goodbridge Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GODB.P.V",
+   "instruments": [
+    {
+     "name": "Goodbridge Capital Corp.",
+     "symbol": "GODB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CTRMV",
+   "name": "Castor Maritime Inc. - Common Shares Ex-Distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTRMV"
+  },
+  {
+   "symbol": "ETAO",
+   "name": "Etao International Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETAO"
+  },
+  {
+   "symbol": "TOROV",
+   "name": "Toro Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOROV"
+  },
+  {
+   "symbol": "STRW",
+   "name": "Strawberry Fields REIT, Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "CATX"
+   "yahoo_symbol": "STRW"
   }
  ],
  "removed": [
   {
-   "symbol": "MCAER",
-   "name": "Mountain Crest Acquisition Corp. III - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCAER"
-  },
-  {
-   "symbol": "WEBR",
-   "name": "Weber Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WEBR"
-  },
-  {
-   "symbol": "MCAEU",
-   "name": "Mountain Crest Acquisition Corp. III - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCAEU"
-  },
-  {
-   "symbol": "MCAE",
-   "name": "Mountain Crest Acquisition Corp. III - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCAE"
-  },
-  {
-   "symbol": "MSACW",
-   "name": "Medicus Sciences Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSACW"
-  },
-  {
-   "symbol": "TWY",
-   "name": "Twyford Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TWY.V",
+   "symbol": "SMU.UN",
+   "name": "Summit Industrial Income REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMU.UN.TO",
    "instruments": [
     {
-     "name": "Twyford Ventures Inc",
-     "symbol": "TWY"
+     "name": "Summit Ind REIT Un J",
+     "symbol": "SMU.UN"
     }
    ]
   },
   {
-   "symbol": "MSAC",
-   "name": "Medicus Sciences Acquisition Corp. - Class A Ordinary Share",
+   "symbol": "NVSA",
+   "name": "New Vista Acquisition Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSAC"
+   "yahoo_symbol": "NVSA"
   },
   {
-   "symbol": "ISR",
-   "name": "IsoRay, Inc. Common Stock (DE)",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ISR"
+   "symbol": "LGAC",
+   "name": "Lazard Growth Acquisition Corp. I - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGAC"
+  },
+  {
+   "symbol": "NVSAW",
+   "name": "New Vista Acquisition Corp - Redeemable Warrant to purchase Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVSAW"
+  },
+  {
+   "symbol": "NVSAU",
+   "name": "New Vista Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVSAU"
+  },
+  {
+   "symbol": "LGACU",
+   "name": "Lazard Growth Acquisition Corp. I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGACU"
+  },
+  {
+   "symbol": "EV",
+   "name": "Erin Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EV.V",
+   "instruments": [
+    {
+     "name": "Erin Ventures Inc.",
+     "symbol": "EV"
+    }
+   ]
+  },
+  {
+   "symbol": "ABN",
+   "name": "Aben Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ABN.V",
+   "instruments": [
+    {
+     "name": "Aben Resources Ltd.",
+     "symbol": "ABN"
+    }
+   ]
+  },
+  {
+   "symbol": "LGACW",
+   "name": "Lazard Growth Acquisition Corp. I - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGACW"
   }
  ]
 }

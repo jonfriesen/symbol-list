@@ -1,5 +1,5 @@
 {
- "date": "2023-02-21",
+ "date": "2023-02-22",
  "data": [
   {
    "symbol": "ONE",
@@ -182,14 +182,14 @@
    ]
   },
   {
-   "symbol": "ABN",
-   "name": "Aben Resources Ltd.",
+   "symbol": "ABM",
+   "name": "Aben Minerals Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ABN.V",
+   "yahoo_symbol": "ABM.V",
    "instruments": [
     {
-     "name": "Aben Resources Ltd.",
-     "symbol": "ABN"
+     "name": "Aben Minerals Ltd.",
+     "symbol": "ABM"
     }
    ]
   },
@@ -2674,6 +2674,18 @@
     {
      "name": "Bonterra Resources Inc.",
      "symbol": "BTR"
+    }
+   ]
+  },
+  {
+   "symbol": "BONE",
+   "name": "Boron One Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BONE.V",
+   "instruments": [
+    {
+     "name": "Boron One Holdings Inc.",
+     "symbol": "BONE"
     }
    ]
   },
@@ -6014,18 +6026,6 @@
    ]
   },
   {
-   "symbol": "EV",
-   "name": "Erin Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EV.V",
-   "instruments": [
-    {
-     "name": "Erin Ventures Inc.",
-     "symbol": "EV"
-    }
-   ]
-  },
-  {
    "symbol": "ERC",
    "name": "Eros Resources Corp.",
    "exchange": "TSXV",
@@ -7878,6 +7878,18 @@
     {
      "name": "Good2Go4 Corp.",
      "symbol": "GFOR.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GODB.P",
+   "name": "Goodbridge Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GODB.P.V",
+   "instruments": [
+    {
+     "name": "Goodbridge Capital Corp.",
+     "symbol": "GODB.P"
     }
    ]
   },
@@ -42734,18 +42746,6 @@
    ]
   },
   {
-   "symbol": "SMU.UN",
-   "name": "Summit Industrial Income REIT",
-   "exchange": "TSX",
-   "yahoo_symbol": "SMU.UN.TO",
-   "instruments": [
-    {
-     "name": "Summit Ind REIT Un J",
-     "symbol": "SMU.UN"
-    }
-   ]
-  },
-  {
    "symbol": "SLF",
    "name": "Sun Life Financial Inc.",
    "exchange": "TSX",
@@ -53106,6 +53106,12 @@
    "yahoo_symbol": "CTRM"
   },
   {
+   "symbol": "CTRMV",
+   "name": "Castor Maritime Inc. - Common Shares Ex-Distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTRMV"
+  },
+  {
    "symbol": "CTRN",
    "name": "Citi Trends, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -55354,6 +55360,12 @@
    "name": "Establishment Labs Holdings Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ESTA"
+  },
+  {
+   "symbol": "ETAO",
+   "name": "Etao International Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETAO"
   },
   {
    "symbol": "ETNB",
@@ -62760,24 +62772,6 @@
    "yahoo_symbol": "LFVN"
   },
   {
-   "symbol": "LGAC",
-   "name": "Lazard Growth Acquisition Corp. I - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGAC"
-  },
-  {
-   "symbol": "LGACU",
-   "name": "Lazard Growth Acquisition Corp. I - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGACU"
-  },
-  {
-   "symbol": "LGACW",
-   "name": "Lazard Growth Acquisition Corp. I - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGACW"
-  },
-  {
    "symbol": "LGHL",
    "name": "Lion Group Holding Ltd. - American Depositary Share",
    "exchange": "NASDAQ Capital Market",
@@ -66316,24 +66310,6 @@
    "name": "Novo Integrated Sciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NVOS"
-  },
-  {
-   "symbol": "NVSA",
-   "name": "New Vista Acquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVSA"
-  },
-  {
-   "symbol": "NVSAU",
-   "name": "New Vista Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVSAU"
-  },
-  {
-   "symbol": "NVSAW",
-   "name": "New Vista Acquisition Corp - Redeemable Warrant to purchase Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVSAW"
   },
   {
    "symbol": "NVTS",
@@ -74614,6 +74590,12 @@
    "name": "TOP Ships Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TOPS"
+  },
+  {
+   "symbol": "TOROV",
+   "name": "Toro Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOROV"
   },
   {
    "symbol": "TOUR",
@@ -97264,6 +97246,12 @@
    "name": "Supernova Partners Acquisition Company III, Ltd. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
    "exchange": "NYSE",
    "yahoo_symbol": "STRE.W"
+  },
+  {
+   "symbol": "STRW",
+   "name": "Strawberry Fields REIT, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "STRW"
   },
   {
    "symbol": "STT",

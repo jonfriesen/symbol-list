@@ -14,7 +14,7 @@ ACCB.P,Aardvark 2 Capital Corp.,TSXV,ACCB.P.V,Aardvark 2 Capital Corp.,ACCB.P
 AME,Abacus Mining & Exploration Corporation,TSXV,AME.V,Abacus Mining & Exploration Corporation,AME
 ABA,Abasca Resources Inc.,TSXV,ABA.V,Abasca Resources Inc.,ABA
 ABI,Abcourt Mines Inc.,TSXV,ABI.V,Abcourt Mines Inc.,ABI
-ABN,Aben Resources Ltd.,TSXV,ABN.V,Aben Resources Ltd.,ABN
+ABM,Aben Minerals Ltd.,TSXV,ABM.V,Aben Minerals Ltd.,ABM
 ABRA,AbraSilver Resource Corp.,TSXV,ABRA.V,AbraSilver Resource Corp.,ABRA
 ACST,Acasti Pharma Inc.,TSXV,ACST.V,Acasti Pharma Inc.,ACST
 AXE,Acceleware Ltd.,TSXV,AXE.V,Acceleware Ltd.,AXE
@@ -219,6 +219,7 @@ BOLD.P,Bold Capital Enterprises Ltd.,TSXV,BOLD.P.V,Bold Capital Enterprises Ltd.
 BOL,Bold Ventures Inc.,TSXV,BOL.V,Bold Ventures Inc.,BOL
 BNZ,Bonanza Mining Corporation,TSXV,BNZ.V,Bonanza Mining Corporation,BNZ
 BTR,BonTerra Resources Inc.,TSXV,BTR.V,Bonterra Resources Inc.,BTR
+BONE,Boron One Holdings Inc.,TSXV,BONE.V,Boron One Holdings Inc.,BONE
 BLCC.P,Bow Lake Capital Corp.,TSXV,BLCC.P.V,Bow Lake Capital Corp.,BLCC.P
 BQE,BQE Water Inc.,TSXV,BQE.V,BQE Water Inc.,BQE
 BRCB.P,Brachium2 Capital Corp.,TSXV,BRCB.P.V,Brachium2 Capital Corp.,BRCB.P
@@ -493,7 +494,6 @@ ENW,EnWave Corporation,TSXV,ENW.V,EnWave Corporation,ENW
 EON,EON Lithium Corp.,TSXV,EON.V,EON Lithium Corp.,EON
 EQ,EQ Inc.,TSXV,EQ.V,EQ Inc.,EQ
 EQTY,Equity Metals Corporation,TSXV,EQTY.V,Equity Metals Corporation,EQTY
-EV,Erin Ventures Inc.,TSXV,EV.V,Erin Ventures Inc.,EV
 ERC,Eros Resources Corp.,TSXV,ERC.V,Eros Resources Corp.,ERC
 ESE,ESE Entertainment Inc.,TSXV,ESE.V,ESE Entertainment Inc.,ESE
 ESGO.P,ESG Capital 1 Inc.,TSXV,ESGO.P.V,ESG Capital 1 Inc.,ESGO.P
@@ -646,6 +646,7 @@ GOT,Goliath Resources Limited,TSXV,GOT.V,Goliath Resources Limited,GOT
 GOOD,Good Gamer Entertainment Inc.,TSXV,GOOD.V,Good Gamer Entertainment Inc.,GOOD
 GDNP,Good Natured Products Inc.,TSXV,GDNP.V,Good Natured Products Inc.,GDNP,Good Natured Products Inc. db 31Oct2026,GDNP.DB
 GFOR.P,Good2Go4 Corp.,TSXV,GFOR.P.V,Good2Go4 Corp.,GFOR.P
+GODB.P,Goodbridge Capital Corp.,TSXV,GODB.P.V,Goodbridge Capital Corp.,GODB.P
 GSS,Gossan Resources Limited,TSXV,GSS.V,Gossan Resources Limited,GSS
 GHM.P,Gotham Resource Corp.,TSXV,GHM.P.V,Gotham Resource Corp.,GHM.P
 GXU,GoviEx Uranium Inc.,TSXV,GXU.V,Goviex Uranium Inc.,GXU
@@ -3290,7 +3291,6 @@ STGO,Steppe Gold Ltd.,TSX,STGO.TO,Steppe Gold Ltd. J,STGO
 RAY.A,Stingray Group Inc.,TSX,RAY.A.TO,Stingray Group SV,RAY.A,Stingray Vary SV,RAY.B
 SVI,StorageVault Canada Inc.,TSX,SVI.TO,StorageVault Cda,SVI,StorageVault 5.75 Db,SVI.DB,StorageVault 5.5 Deb,SVI.DB.B,StorageVault 5% Deb,SVI.DB.C
 SMC,Sulliden Mining Capital Inc.,TSX,SMC.TO,Sulliden Mng Cap J,SMC
-SMU.UN,Summit Industrial Income REIT,TSX,SMU.UN.TO,Summit Ind REIT Un J,SMU.UN
 SLF,Sun Life Financial Inc.,TSX,SLF.TO,Sun Life Fin Inc.,SLF,Sun Life Fin Ser3 Pr,SLF.PR.C,Sun Life Fin Ser4 Pr,SLF.PR.D,Sun Life Fin Ser5 Pr,SLF.PR.E,Sun Life Fin Sr8R Pr,SLF.PR.G,Sun Life Fin 10R Pr,SLF.PR.H,Sun Life Fin 9QR Pr,SLF.PR.J,Sun Life Fin 11QR Pr,SLF.PR.K
 SU,Suncor Energy Inc.,TSX,SU.TO,Suncor Energy Inc.,SU
 SOY,"SunOpta, Inc.",TSX,SOY.TO,"SunOpta, Inc.",SOY
@@ -4769,6 +4769,7 @@ CTKB,"Cytek Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,CTKB
 CTLP,"Cantaloupe, Inc. - Common Stock",NASDAQ Global Select MarketSM,CTLP
 CTMX,"CytomX Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,CTMX
 CTRM,Castor Maritime Inc. - Common Shares,NASDAQ Capital Market,CTRM
+CTRMV,Castor Maritime Inc. - Common Shares Ex-Distribution When Issued,NASDAQ Capital Market,CTRMV
 CTRN,"Citi Trends, Inc. - Common Stock",NASDAQ Global Select MarketSM,CTRN
 CTSH,Cognizant Technology Solutions Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,CTSH
 CTSO,Cytosorbents Corporation - Common Stock,NASDAQ Capital Market,CTSO
@@ -5144,6 +5145,7 @@ ESPR,"Esperion Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,ESPR
 ESQ,"Esquire Financial Holdings, Inc. - Common Stock",NASDAQ Capital Market,ESQ
 ESSA,"ESSA Bancorp, Inc. - common stock",NASDAQ Global Select MarketSM,ESSA
 ESTA,Establishment Labs Holdings Inc. - Common Shares,NASDAQ Capital Market,ESTA
+ETAO,"Etao International Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,ETAO
 ETNB,"89bio, Inc. - Common Stock",NASDAQ Global MarketSM,ETNB
 ETON,"Eton Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,ETON
 ETSY,"Etsy, Inc. - Common Stock",NASDAQ Global Select MarketSM,ETSY
@@ -6378,9 +6380,6 @@ LFMDP,"LifeMD, Inc. - 8.875% Series A Cumulative Perpetual Preferred Stock",NASD
 LFST,"LifeStance Health Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,LFST
 LFUS,"Littelfuse, Inc. - Common Stock",NASDAQ Global Select MarketSM,LFUS
 LFVN,Lifevantage Corporation - Common Stock,NASDAQ Capital Market,LFVN
-LGAC,Lazard Growth Acquisition Corp. I - Ordinary Shares,NASDAQ Capital Market,LGAC
-LGACU,Lazard Growth Acquisition Corp. I - Units,NASDAQ Capital Market,LGACU
-LGACW,Lazard Growth Acquisition Corp. I - Warrants,NASDAQ Capital Market,LGACW
 LGHL,Lion Group Holding Ltd. - American Depositary Share,NASDAQ Capital Market,LGHL
 LGHLW,Lion Group Holding Ltd. - Warrant,NASDAQ Capital Market,LGHLW
 LGIH,"LGI Homes, Inc. - Common Stock",NASDAQ Global Select MarketSM,LGIH
@@ -6971,9 +6970,6 @@ NVMI,Nova Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,NVMI
 NVNO,enVVeno Medical Corporation - Common Stock,NASDAQ Capital Market,NVNO
 NVNOW,enVVeno Medical Corporation - Warrants,NASDAQ Capital Market,NVNOW
 NVOS,"Novo Integrated Sciences, Inc. - Common Stock",NASDAQ Capital Market,NVOS
-NVSA,New Vista Acquisition Corp - Class A Ordinary Shares,NASDAQ Capital Market,NVSA
-NVSAU,New Vista Acquisition Corp - Unit,NASDAQ Capital Market,NVSAU
-NVSAW,New Vista Acquisition Corp - Redeemable Warrant to purchase Class A Ordinary Shares,NASDAQ Capital Market,NVSAW
 NVTS,Navitas Semiconductor Corporation - Common Stock,NASDAQ Global MarketSM,NVTS
 NVVE,Nuvve Holding Corp. - Common Stock,NASDAQ Capital Market,NVVE
 NVVEW,Nuvve Holding Corp. - Warrant,NASDAQ Capital Market,NVVEW
@@ -8354,6 +8350,7 @@ TOIIW,"The Oncology Institute, Inc. - Warrant",NASDAQ Capital Market,TOIIW
 TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",NASDAQ Capital Market,TOMZ
 TOP,TOP Financial Group Limited - Ordinary Shares,NASDAQ Capital Market,TOP
 TOPS,TOP Ships Inc. - Common Stock,NASDAQ Capital Market,TOPS
+TOROV,Toro Corp. - Common stock,NASDAQ Capital Market,TOROV
 TOUR,Tuniu Corporation - American Depositary Shares,NASDAQ Global MarketSM,TOUR
 TOWN,Towne Bank - Common Stock,NASDAQ Global Select MarketSM,TOWN
 TPBA,TPB Acquisition Corporation I - Class A Ordinary Share,NASDAQ Capital Market,TPBA
@@ -12129,6 +12126,7 @@ STR.W,Sitio Royalties Corp. Warrant,NYSE MKT,STR.W
 STRE,"Supernova Partners Acquisition Company III, Ltd. Class A Ordinary Shares",NYSE,STRE
 STRE.U,"Supernova Partners Acquisition Company III, Ltd. Units",NYSE,STRE.U
 STRE.W,"Supernova Partners Acquisition Company III, Ltd. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,STRE.W
+STRW,"Strawberry Fields REIT, Inc. Common Stock",NYSE MKT,STRW
 STT,State Street Corporation Common Stock,NYSE,STT
 STT$D,State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D,NYSE,STT$D
 STT$G,"State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative",NYSE,STT$G
