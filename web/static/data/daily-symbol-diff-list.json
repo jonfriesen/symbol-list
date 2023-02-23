@@ -1,138 +1,134 @@
 {
  "added": [
   {
-   "symbol": "ABM",
-   "name": "Aben Minerals Ltd.",
+   "symbol": "FMAC.P",
+   "name": "Fraser Mackenzie Accelerator Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ABM.V",
+   "yahoo_symbol": "FMAC.P.V",
    "instruments": [
     {
-     "name": "Aben Minerals Ltd.",
-     "symbol": "ABM"
+     "name": "Fraser Mackenzie Accelerator Corp.",
+     "symbol": "FMAC.P"
     }
    ]
   },
   {
-   "symbol": "BONE",
-   "name": "Boron One Holdings Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BONE.V",
+   "symbol": "IIAE",
+   "name": "Invesco S\u0026P International Developed Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIAE.TO",
    "instruments": [
     {
-     "name": "Boron One Holdings Inc.",
-     "symbol": "BONE"
+     "name": "InvescoS\u0026P IntlDevDv",
+     "symbol": "IIAE"
+    },
+    {
+     "name": "InvescoS\u0026PIntDevDvHg",
+     "symbol": "IIAE.F"
     }
    ]
   },
   {
-   "symbol": "GODB.P",
-   "name": "Goodbridge Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GODB.P.V",
+   "symbol": "IUAE",
+   "name": "Invesco S\u0026P US Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUAE.TO",
    "instruments": [
     {
-     "name": "Goodbridge Capital Corp.",
-     "symbol": "GODB.P"
+     "name": "InvescoS\u0026P USDvArist",
+     "symbol": "IUAE"
+    },
+    {
+     "name": "InvescoS\u0026P USDvArisH",
+     "symbol": "IUAE.F"
     }
    ]
   },
   {
-   "symbol": "CTRMV",
-   "name": "Castor Maritime Inc. - Common Shares Ex-Distribution When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CTRMV"
+   "symbol": "ICAE",
+   "name": "Invesco S\u0026P/TSX Canadian Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ICAE.TO",
+   "instruments": [
+    {
+     "name": "InvscoS\u0026PTSXCdnDvESG",
+     "symbol": "ICAE"
+    }
+   ]
   },
   {
-   "symbol": "ETAO",
-   "name": "Etao International Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ETAO"
+   "symbol": "QYLE",
+   "name": "Global X Nasdaq 100 ESG Covered Call ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QYLE"
   },
   {
-   "symbol": "TOROV",
-   "name": "Toro Corp. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TOROV"
+   "symbol": "BTE",
+   "name": "Baytex Energy Corp Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BTE"
   },
   {
-   "symbol": "STRW",
-   "name": "Strawberry Fields REIT, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "STRW"
+   "symbol": "COHR",
+   "name": "Coherent Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COHR"
   }
  ],
  "removed": [
   {
-   "symbol": "SMU.UN",
-   "name": "Summit Industrial Income REIT",
-   "exchange": "TSX",
-   "yahoo_symbol": "SMU.UN.TO",
-   "instruments": [
-    {
-     "name": "Summit Ind REIT Un J",
-     "symbol": "SMU.UN"
-    }
-   ]
+   "symbol": "LHCG",
+   "name": "LHC Group - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LHCG"
   },
   {
-   "symbol": "NVSA",
-   "name": "New Vista Acquisition Corp - Class A Ordinary Shares",
+   "symbol": "PAYA",
+   "name": "Paya Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVSA"
+   "yahoo_symbol": "PAYA"
   },
   {
-   "symbol": "LGAC",
-   "name": "Lazard Growth Acquisition Corp. I - Ordinary Shares",
+   "symbol": "SRNE",
+   "name": "Sorrento Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGAC"
+   "yahoo_symbol": "SRNE"
   },
   {
-   "symbol": "NVSAW",
-   "name": "New Vista Acquisition Corp - Redeemable Warrant to purchase Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVSAW"
+   "symbol": "COHR",
+   "name": "Coherent Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COHR"
   },
   {
-   "symbol": "NVSAU",
-   "name": "New Vista Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVSAU"
+   "symbol": "IIVIP",
+   "name": "Coherent Corp. - 6.00% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IIVIP"
   },
   {
-   "symbol": "LGACU",
-   "name": "Lazard Growth Acquisition Corp. I - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGACU"
-  },
-  {
-   "symbol": "EV",
-   "name": "Erin Ventures Inc.",
+   "symbol": "GNT",
+   "name": "Gentor Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "EV.V",
+   "yahoo_symbol": "GNT.V",
    "instruments": [
     {
-     "name": "Erin Ventures Inc.",
-     "symbol": "EV"
+     "name": "Gentor Resources Inc.",
+     "symbol": "GNT"
     }
    ]
   },
   {
-   "symbol": "ABN",
-   "name": "Aben Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ABN.V",
-   "instruments": [
-    {
-     "name": "Aben Resources Ltd.",
-     "symbol": "ABN"
-    }
-   ]
+   "symbol": "ONEM",
+   "name": "1Life Healthcare, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ONEM"
   },
   {
-   "symbol": "LGACW",
-   "name": "Lazard Growth Acquisition Corp. I - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGACW"
+   "symbol": "ZGN.W",
+   "name": "Ermenegildo Zegna N.V. Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ZGN.W"
   }
  ]
 }

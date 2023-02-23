@@ -558,6 +558,7 @@ FUN.P,Fountainhall Capital Corp.,TSXV,FUN.P.V,Fountainhall Capital Corp.,FUN.P
 AROW.P,Four Arrows Capital Corp.,TSXV,AROW.P.V,Four Arrows Capital Corp.,AROW.P
 FP,FP Newspapers Inc.,TSXV,FP.V,FP Newspapers Inc.,FP
 FPX,FPX Nickel Corp.,TSXV,FPX.V,FPX Nickel Corp.,FPX
+FMAC.P,Fraser Mackenzie Accelerator Corp.,TSXV,FMAC.P.V,Fraser Mackenzie Accelerator Corp.,FMAC.P
 FRED,Fredonia Mining Inc.,TSXV,FRED.V,Fredonia Mining Inc.,FRED
 FMAN,Freeman Gold Corp.,TSXV,FMAN.V,Freeman Gold Corp.,FMAN,Freeman Gold Corp. wt. 29Nov2026,FMAN.WT.U
 FRI,Freeport Resources Inc.,TSXV,FRI.V,Freeport Resources Inc.,FRI
@@ -593,7 +594,6 @@ REBL.P,Genesis Acquisition Corp.,TSXV,REBL.P.V,Genesis Acquisition Corp.,REBL.P
 GENI,Genius Metals Inc.,TSXV,GENI.V,Genius Metals Inc.,GENI
 GENX,Genix Pharmaceuticals Corporation,TSXV,GENX.V,Genix Pharmaceuticals Corporation,GENX
 GSP,Gensource Potash Corporation,TSXV,GSP.V,Gensource Potash Corporation,GSP
-GNT,Gentor Resources Inc.,TSXV,GNT.V,Gentor Resources Inc.,GNT
 GMA,Geomega Resources Inc.,TSXV,GMA.V,Geomega Resources Inc,GMA
 GTC,Getty Copper Inc.,TSXV,GTC.V,Getty Copper Inc.,GTC
 GFG,GFG Resources Inc.,TSXV,GFG.V,GFG Resources Inc.,GFG
@@ -1174,7 +1174,7 @@ PINE.U,Pine Trail Real Estate Investment Trust,TSXV,PINE.U.V,Pine Trail Real Est
 PTE,Pioneering Technology Corp.,TSXV,PTE.V,Pioneering Technology Corp,PTE
 PVT,Pivotree Inc.,TSXV,PVT.V,Pivotree Inc.,PVT
 PJX,PJX Resources Inc.,TSXV,PJX.V,PJX Resources Inc.,PJX
-PXI,Planet Ventures inc.,TSXV,PXI.V,Planet Ventures Inc.,PXI
+PXI,Planet Ventures inc.,TSXV,PXI.V,Planet Ventures Inc.,PXI,Planet Ventures Inc. rt ex 23mar2023,PXI.RT
 XOX.P,Planet X Capital Corp.,TSXV,XOX.P.V,Planet X Capital Corp.,XOX.P
 PLXX.P,Planet X II Capital Corp.,TSXV,PLXX.P.V,Planet X II Capital Corp.,PLXX.P
 PTFY,"Plantify Foods, Inc.",TSXV,PTFY.V,"Plantify Foods, Inc.",PTFY
@@ -2617,7 +2617,7 @@ HBM,Hudbay Minerals Inc.,TSX,HBM.TO,Hudbay Minerals Inc.,HBM
 HUT,Hut 8 Mining Corp.,TSX,HUT.TO,Hut 8 Mining Corp J,HUT,Hut 8 Mining J A Wt,HUT.WT.A
 H,Hydro One Limited,TSX,H.TO,Hydro One Limited,H
 IAU,i-80 Gold Corp.,TSX,IAU.TO,i-80 Gold Corp. J,IAU
-ITE,i3 Energy plc,TSX,ITE.TO,i3 Energy plc J Ord,ITE
+ITE,i3 Energy plc,TSX,ITE.TO,i3 Energy plc Ord,ITE
 ICPB,IA Clarington Core Plus Bond Fund,TSX,ICPB.TO,IA ClaringtnCore Fnd,ICPB
 IFRF,IA Clarington Floating Rate Income Fund,TSX,IFRF.TO,IA ClaringtonFltg Un,IFRF
 IGAF,IA Clarington Loomis Global Allocation Fund,TSX,IGAF.TO,IA Claringtn LoomGlb,IGAF
@@ -2637,7 +2637,7 @@ IAF.PR.B,Industrial Alliance Insurance and Financial Services Inc.,TSX,IAF.PR.B.
 ISV,Information Services Corporation,TSX,ISV.TO,Info Serv Corp. A LV,ISV
 INE,Innergex Renewable Energy Inc.,TSX,INE.TO,Innergex Renew Engy,INE,Innergex Renew4.75Db,INE.DB.B,Innergex Renew4.65Db,INE.DB.C,Innergex Renew Pr A,INE.PR.A,Innergex Renew Pr C,INE.PR.C
 INO.UN,Inovalis Real Estate Investment Trust,TSX,INO.UN.TO,Inovalis REIT Un,INO.UN
-IPO,InPlay Oil Corp.,TSX,IPO.TO,InPlay Oil Corp. J,IPO
+IPO,InPlay Oil Corp.,TSX,IPO.TO,InPlay Oil Corp.,IPO
 IFC,Intact Financial Corporation,TSX,IFC.TO,Intact Fin Corp.,IFC,Intact Fin A Ser 1,IFC.PR.A,Intact Fin A Ser 3,IFC.PR.C,Intact Fin A Ser 5,IFC.PR.E,Intact Fin A Sr 6 Pr,IFC.PR.F,Intact Fin A Sr 7 Pr,IFC.PR.G,Intact Fin A Ser 9,IFC.PR.I,Intact Fin A Ser 11 ,IFC.PR.K
 IGX,IntelGenx Technologies Corp.,TSX,IGX.TO,IntelGenx Tech J,IGX
 IPCI,IntelliPharmaCeutics International Inc.,TSX,IPCI.TO,IntelliPharma Intl J,IPCI
@@ -2674,12 +2674,15 @@ ESG,Invesco S&P 500 ESG Index ETF,TSX,ESG.TO,Invesco S&P500ESG Un,ESG,InvescoS&P
 ISTE,Invesco S&P 500 ESG Tilt Index ETF,TSX,ISTE.TO,InvescoS&P500 Tlt CA,ISTE,InvescoS&P500 T CaHg,ISTE.F
 ULV.C,Invesco S&P 500 Low Volatility Index ETF,TSX,ULV.C.TO,Invesco 500LowVol CA,ULV.C,Invesco500LowVolCAHg,ULV.F,Invesco 500LowVol US,ULV.U
 ELV,Invesco S&P Emerging Markets Low Volatility Index ETF,TSX,ELV.TO,Invesco S&P EmrgMkts,ELV
+IIAE,Invesco S&P International Developed Dividend Aristocrats ESG Index ETF,TSX,IIAE.TO,InvescoS&P IntlDevDv,IIAE,InvescoS&PIntDevDvHg,IIAE.F
 IICE,Invesco S&P International Developed ESG Index ETF,TSX,IICE.TO,InvscoS&PIntlDvESGCa,IICE,InvscoS&PIntDvESGCaH,IICE.F
 IITE,Invesco S&P International Developed ESG Tilt Index ETF,TSX,IITE.TO,InvscoSPIntDvESGTlCa,IITE,InvscoSPIntDvESGTlCH,IITE.F
 ILV,Invesco S&P International Developed Low Volatility Index ETF,TSX,ILV.TO,InvescoS&PIntl LwVol,ILV,InvescoS&PIntlDvVlCA,ILV.F
+IUAE,Invesco S&P US Dividend Aristocrats ESG Index ETF,TSX,IUAE.TO,InvescoS&P USDvArist,IUAE,InvescoS&P USDvArisH,IUAE.F
 IUCE,Invesco S&P US Total Market ESG Index ETF,TSX,IUCE.TO,InvscoSP USMktESG CA,IUCE,InvscoSP USMktESG CH,IUCE.F
 IUTE,Invesco S&P US Total Market ESG Tilt Index ETF,TSX,IUTE.TO,InvscoSP USMktESGTlC,IUTE,InvscoSP USMktESGTlH,IUTE.F
 IXTE,Invesco S&P/TSX 60 ESG Tilt Index ETF,TSX,IXTE.TO,Invesco SPTSX60TltCA,IXTE
+ICAE,Invesco S&P/TSX Canadian Dividend Aristocrats ESG Index ETF,TSX,ICAE.TO,InvscoS&PTSXCdnDvESG,ICAE
 ESGC,Invesco S&P/TSX Composite ESG Index ETF,TSX,ESGC.TO,Invesco S&PTSXComESG,ESGC
 ICTE,Invesco S&P/TSX Composite ESG Tilt Index ETF,TSX,ICTE.TO,InvscoSP/TSXCmpESGTl,ICTE
 TLV,Invesco S&P/TSX Composite Low Volatility Index ETF,TSX,TLV.TO,InvescoCompVltlty Un,TLV
@@ -3075,7 +3078,7 @@ PMT,Perpetual Energy Inc.,TSX,PMT.TO,Perpetual Energy Inc,PMT
 PRU,Perseus Mining Limited,TSX,PRU.TO,Perseus Mining Ord J,PRU
 PET,Pet Valu Holdings Ltd.,TSX,PET.TO,Pet Valu Hldgs J,PET
 TAL,PetroTal Corp.,TSX,TAL.TO,PetroTal Corp. J,TAL
-PRQ,Petrus Resources Ltd.,TSX,PRQ.TO,Petrus Resources J,PRQ
+PRQ,Petrus Resources Ltd.,TSX,PRQ.TO,Petrus Resources,PRQ
 PEY,Peyto Exploration & Development Corp.,TSX,PEY.TO,Peyto Expl & Dev ,PEY
 PHX,PHX Energy Services Corp.,TSX,PHX.TO,PHX Energy Services,PHX
 PFAE,Picton Mahoney Fortified Active Extension Alternative Fund,TSX,PFAE.TO,Picton MahoneyActive,PFAE
@@ -3098,9 +3101,9 @@ PMIF,PIMCO Monthly Income Fund (Canada),TSX,PMIF.TO,PIMCO MthlyIncmETFUn,PMIF,PI
 PIX.UN,PIMCO Multi-Sector Income Fund,TSX,PIX.UN.TO,PIMCO MultiSecIncm A,PIX.UN
 PTI.UN,PIMCO Tactical Income Fund,TSX,PTI.UN.TO,PIMCO Tact Incm A Un,PTI.UN
 PTO.UN,PIMCO Tactical Income Opportunities Fund,TSX,PTO.UN.TO,PIMCO Tact IncmOpp A,PTO.UN
-PNE,Pine Cliff Energy Ltd.,TSX,PNE.TO,Pine Cliff Energy J,PNE
+PNE,Pine Cliff Energy Ltd.,TSX,PNE.TO,Pine Cliff Energy,PNE
 PNP,Pinetree Capital Ltd.,TSX,PNP.TO,Pinetree Capital J,PNP
-PIPE,Pipestone Energy Corp.,TSX,PIPE.TO,Pipestone Energy J,PIPE
+PIPE,Pipestone Energy Corp.,TSX,PIPE.TO,Pipestone Energy,PIPE
 PZA,Pizza Pizza Royalty Corp.,TSX,PZA.TO,Pizza Pizza Royalty,PZA
 PTM,Platinum Group Metals Ltd.,TSX,PTM.TO,Platinum Grp Metal J,PTM
 PLZ.DB.E,Plaza Retail REIT,TSX,PLZ.DB.E.TO,Plaza RetailTr 5.1Db,PLZ.DB.E,Plaza Retail REIT Un,PLZ.UN
@@ -3267,7 +3270,7 @@ SFI,Solution Financial Inc.,TSX,SFI.TO,Solution Financial J,SFI
 SHLE,Source Energy Services Ltd.,TSX,SHLE.TO,Source Energy Serv J,SHLE
 SGQ,SouthGobi Resources Ltd.,TSX,SGQ.TO,SouthGobi Res Ltd J,SGQ
 SPG,Spark Power Group Inc.,TSX,SPG.TO,Spark Power Group J,SPG,Spark Power Grp J Wt,SPG.WT
-SDE,Spartan Delta Corp.,TSX,SDE.TO,Spartan Delta J,SDE
+SDE,Spartan Delta Corp.,TSX,SDE.TO,Spartan Delta Corp.,SDE
 EDT,Spectral Medical Inc.,TSX,EDT.TO,Spectral Medical Inc,EDT
 TOY,Spin Master Corp.,TSX,TOY.TO,Spin Master Corp SV,TOY
 SII,Sprott Inc.,TSX,SII.TO,Sprott Inc.,SII
@@ -3309,7 +3312,7 @@ TBL,Taiga Building Products Ltd.,TSX,TBL.TO,Taiga Building Prod,TBL
 TAIG,Taiga Motors Corporation,TSX,TAIG.TO,Taiga Motors Corp J,TAIG,Taiga Motors J Wt,TAIG.WT
 TSK,Talisker Resources Ltd.,TSX,TSK.TO,Talisker Res Ltd J,TSK
 TLO,Talon Metals Corp.,TSX,TLO.TO,Talon Metals Corp. J,TLO
-TVE,Tamarack Valley Energy Ltd.,TSX,TVE.TO,Tamarack Vall Engy J,TVE
+TVE,Tamarack Valley Energy Ltd.,TSX,TVE.TO,Tamarack Valley Engy,TVE
 GRID,Tantalus Systems Holding Inc.,TSX,GRID.TO,Tantalus Sys Hldg J,GRID
 TKO,Taseko Mines Limited,TSX,TKO.TO,Taseko Mines Ltd.,TKO
 TRP,TC Energy Corporation,TSX,TRP.TO,TC Energy Corp,TRP,TC Energy Corp Pr 1,TRP.PR.A,TC Energy Corp Pr 3 ,TRP.PR.B,TC Energy Corp Pr 5,TRP.PR.C,TC Energy Corp Pr 7,TRP.PR.D,TC Energy Corp Pr 9,TRP.PR.E,TC Energy Corp Pr 2,TRP.PR.F,TC Energy Corp Pr 11,TRP.PR.G,TC Energy Corp Pr 4,TRP.PR.H,TC Energy Corp Pr 6,TRP.PR.I
@@ -3610,7 +3613,7 @@ ADXN,Addex Therapeutics Ltd - American Depositary Shares,NASDAQ Capital Market,A
 AEAE,AltEnergy Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,AEAE
 AEAEU,AltEnergy Acquisition Corp. - Unit,NASDAQ Global MarketSM,AEAEU
 AEAEW,AltEnergy Acquisition Corp. - Warrant,NASDAQ Global MarketSM,AEAEW
-AEHL,Antelope Enterprise Holdings Limited - Common Stock,NASDAQ Capital Market,AEHL
+AEHL,Antelope Enterprise Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,AEHL
 AEHR,Aehr Test Systems - Common Stock,NASDAQ Capital Market,AEHR
 AEI,Alset Inc. - Common Stock,NASDAQ Capital Market,AEI
 AEIS,"Advanced Energy Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,AEIS
@@ -4646,7 +4649,6 @@ COEP,"Coeptis Therapeutics Holdings, Inc. - Common Stock",NASDAQ Global MarketSM
 COEPW,"Coeptis Therapeutics Holdings, Inc. - Warrants",NASDAQ Global MarketSM,COEPW
 COFS,"ChoiceOne Financial Services, Inc. - Common Stock",NASDAQ Capital Market,COFS
 COGT,"Cogent Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,COGT
-COHR,Coherent Corp. - Common Stock,NASDAQ Global Select MarketSM,COHR
 COHU,"Cohu, Inc. - Common Stock",NASDAQ Global Select MarketSM,COHU
 COIN,"Coinbase Global, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,COIN
 COKE,"Coca-Cola Consolidated, Inc. - Common Stock",NASDAQ Global Select MarketSM,COKE
@@ -5977,7 +5979,6 @@ III,"Information Services Group, Inc. - Common Stock",NASDAQ Global MarketSM,III
 IIIV,"i3 Verticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,IIIV
 IINN,Inspira Technologies Oxy B.H.N. Ltd. - Ordinary Shares,NASDAQ Capital Market,IINN
 IINNW,Inspira Technologies Oxy B.H.N. Ltd. - Warrant,NASDAQ Capital Market,IINNW
-IIVIP,Coherent Corp. - 6.00% Series A Mandatory Convertible Preferred Stock,NASDAQ Global Select MarketSM,IIVIP
 IJT,iShares S&P Small-Cap 600 Growth ETF,NASDAQ Global MarketSM,IJT
 IKNA,"Ikena Oncology, Inc. - Common Stock",NASDAQ Global MarketSM,IKNA
 IKT,"Inhibikase Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,IKT
@@ -6393,7 +6394,6 @@ LGVC,LAMF Global Ventures Corp. I - Class A Ordinary Shares,NASDAQ Global Market
 LGVCU,LAMF Global Ventures Corp. I - Unit,NASDAQ Global MarketSM,LGVCU
 LGVCW,LAMF Global Ventures Corp. I - Warrant,NASDAQ Global MarketSM,LGVCW
 LGVN,Longeveron Inc. - common stock,NASDAQ Capital Market,LGVN
-LHCG,LHC Group - common stock,NASDAQ Global Select MarketSM,LHCG
 LHDX,"Lucira Health, Inc. - Common Stock",NASDAQ Global Select MarketSM,LHDX
 LI,Li Auto Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,LI
 LIAN,LianBio - American Depositary Shares,NASDAQ Global MarketSM,LIAN
@@ -7077,7 +7077,6 @@ ONCS,OncoSec Medical Incorporated - Common Stock,NASDAQ Capital Market,ONCS
 ONCT,"Oncternal Therapeutics, Inc.  - Common Stock",NASDAQ Capital Market,ONCT
 ONCY,Oncolytics Biotech Inc. - Common Shares,NASDAQ Capital Market,ONCY
 ONDS,Ondas Holdings Inc. - Common Stock,NASDAQ Capital Market,ONDS
-ONEM,"1Life Healthcare, Inc. - Common Stock",NASDAQ Global Select MarketSM,ONEM
 ONEQ,Fidelity Nasdaq Composite Index ETF,NASDAQ Global MarketSM,ONEQ
 ONEW,OneWater Marine Inc. - Class A Common Stock,NASDAQ Global MarketSM,ONEW
 ONFO,Onfolio Holdings Inc. - Common Stock,NASDAQ Capital Market,ONFO
@@ -7184,7 +7183,6 @@ PATK,"Patrick Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,PAT
 PAVM,PAVmed Inc. - Common Stock,NASDAQ Capital Market,PAVM
 PAVMZ,PAVmed Inc. - Series Z Warrant,NASDAQ Capital Market,PAVMZ
 PAX,Patria Investments Limited - Class A Common Shares,NASDAQ Global Select MarketSM,PAX
-PAYA,Paya Holdings Inc. - Common Stock,NASDAQ Capital Market,PAYA
 PAYO,Payoneer Global Inc. - Common Stock,NASDAQ Global MarketSM,PAYO
 PAYOW,Payoneer Global Inc. - Warrant,NASDAQ Global MarketSM,PAYOW
 PAYS,"Paysign, Inc. - Common Stock",NASDAQ Capital Market,PAYS
@@ -7548,6 +7546,7 @@ QUBT,Quantum Computing Inc. - Common Stock,NASDAQ Capital Market,QUBT
 QUIK,QuickLogic Corporation - Common Stock,NASDAQ Capital Market,QUIK
 QURE,uniQure N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,QURE
 QYLD,Global X NASDAQ-100 Covered Call ETF,NASDAQ Global MarketSM,QYLD
+QYLE,Global X Nasdaq 100 ESG Covered Call ETF,NASDAQ Global MarketSM,QYLE
 QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,NASDAQ Global MarketSM,QYLG
 RACY,Relativity Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,RACY
 RACYU,Relativity Acquisition Corp. - Unit,NASDAQ Global MarketSM,RACYU
@@ -8087,7 +8086,6 @@ SRCL,"Stericycle, Inc. - Common Stock",NASDAQ Global Select MarketSM,SRCL
 SRDX,"Surmodics, Inc. - Common Stock",NASDAQ Global Select MarketSM,SRDX
 SRET,Global X SuperDividend REIT ETF,NASDAQ Global MarketSM,SRET
 SRGA,"Surgalign Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SRGA
-SRNE,"Sorrento Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,SRNE
 SRPT,"Sarepta Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,SRPT
 SRRK,Scholar Rock Holding Corporation - Common Stock,NASDAQ Global Select MarketSM,SRRK
 SRTS,"Sensus Healthcare, Inc. - Common Stock",NASDAQ Capital Market,SRTS
@@ -9485,6 +9483,7 @@ BSX,Boston Scientific Corporation Common Stock,NYSE,BSX
 BSX$A,"Boston Scientific Corporation 5.50% Mandatory Convertible Preferred Stock, Series A",NYSE,BSX$A
 BTA,BlackRock Long-Term Municipal Advantage Trust BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest,NYSE,BTA
 BTCM,BIT Mining Limited ADS,NYSE,BTCM
+BTE,Baytex Energy Corp Common Shares,NYSE,BTE
 BTG,B2Gold Corp Common shares (Canada),NYSE MKT,BTG
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR",NYSE,BTI
 BTO,John Hancock Financial Opportunities Fund Common Stock,NYSE,BTO
@@ -9619,7 +9618,7 @@ CHRB,"Charah Solutions, Inc. 8.50% Senior Notes due 2026",NYSE,CHRB
 CHS,"Chico's FAS, Inc. Common Stock",NYSE,CHS
 CHT,"Chunghwa Telecom Co., Ltd.",NYSE,CHT
 CHWY,"Chewy, Inc. Class A Common Stock",NYSE,CHWY
-CI,Cigna Corporation Common Stock,NYSE,CI
+CI,The Cigna Group Common Stock,NYSE,CI
 CIA,"Citizens, Inc. Class A Common Stock ($1.00 Par)",NYSE,CIA
 CIAN,"Cian PLC American Depositary Shares, each representing one Ordinary Share",NYSE,CIAN
 CIB,BanColombia S.A. Common Stock,NYSE,CIB
@@ -9717,6 +9716,7 @@ COF$K,"Capital One Financial Corporation Depositary Shares, Each Representing a 
 COF$L,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L",NYSE,COF$L
 COF$N,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N",NYSE,COF$N
 COHN,Cohen & Company Inc.,NYSE MKT,COHN
+COHR,Coherent Corp. Common Stock,NYSE,COHR
 COLD,"Americold Realty Trust, Inc. Common Stock",NYSE,COLD
 COMP,"Compass, Inc. Class A Common Stock",NYSE,COMP
 COO,"The Cooper Companies, Inc. Common Stock",NYSE,COO
@@ -12647,7 +12647,6 @@ ZEV,"Lightning eMotors, Inc Common Stock",NYSE,ZEV
 ZEV.W,"Lightning eMotors, Inc. Warrants",NYSE,ZEV.W
 ZEXIT,IEX Test Company Test Symbol Two for IEX,IEXG,ZEXIT
 ZGN,Ermenegildo Zegna N.V. Ordinary Shares,NYSE,ZGN
-ZGN.W,"Ermenegildo Zegna N.V. Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50 per share",NYSE,ZGN.W
 ZH,Zhihu Inc. American Depositary Shares (every two of each representing one Class A ordinary share),NYSE,ZH
 ZIEXT,IEX Test Company Test Symbol One for IEX,IEXG,ZIEXT
 ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,NYSE,ZIM

@@ -1,5 +1,5 @@
 {
- "date": "2023-02-22",
+ "date": "2023-02-23",
  "data": [
   {
    "symbol": "ONE",
@@ -6802,6 +6802,18 @@
    ]
   },
   {
+   "symbol": "FMAC.P",
+   "name": "Fraser Mackenzie Accelerator Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FMAC.P.V",
+   "instruments": [
+    {
+     "name": "Fraser Mackenzie Accelerator Corp.",
+     "symbol": "FMAC.P"
+    }
+   ]
+  },
+  {
    "symbol": "FRED",
    "name": "Fredonia Mining Inc.",
    "exchange": "TSXV",
@@ -7226,18 +7238,6 @@
     {
      "name": "Gensource Potash Corporation",
      "symbol": "GSP"
-    }
-   ]
-  },
-  {
-   "symbol": "GNT",
-   "name": "Gentor Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GNT.V",
-   "instruments": [
-    {
-     "name": "Gentor Resources Inc.",
-     "symbol": "GNT"
     }
    ]
   },
@@ -14362,6 +14362,10 @@
     {
      "name": "Planet Ventures Inc.",
      "symbol": "PXI"
+    },
+    {
+     "name": "Planet Ventures Inc. rt ex 23mar2023",
+     "symbol": "PXI.RT"
     }
    ]
   },
@@ -33752,7 +33756,7 @@
    "yahoo_symbol": "ITE.TO",
    "instruments": [
     {
-     "name": "i3 Energy plc J Ord",
+     "name": "i3 Energy plc Ord",
      "symbol": "ITE"
     }
    ]
@@ -34012,7 +34016,7 @@
    "yahoo_symbol": "IPO.TO",
    "instruments": [
     {
-     "name": "InPlay Oil Corp. J",
+     "name": "InPlay Oil Corp.",
      "symbol": "IPO"
     }
    ]
@@ -34546,6 +34550,22 @@
    ]
   },
   {
+   "symbol": "IIAE",
+   "name": "Invesco S\u0026P International Developed Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIAE.TO",
+   "instruments": [
+    {
+     "name": "InvescoS\u0026P IntlDevDv",
+     "symbol": "IIAE"
+    },
+    {
+     "name": "InvescoS\u0026PIntDevDvHg",
+     "symbol": "IIAE.F"
+    }
+   ]
+  },
+  {
    "symbol": "IICE",
    "name": "Invesco S\u0026P International Developed ESG Index ETF",
    "exchange": "TSX",
@@ -34594,6 +34614,22 @@
    ]
   },
   {
+   "symbol": "IUAE",
+   "name": "Invesco S\u0026P US Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUAE.TO",
+   "instruments": [
+    {
+     "name": "InvescoS\u0026P USDvArist",
+     "symbol": "IUAE"
+    },
+    {
+     "name": "InvescoS\u0026P USDvArisH",
+     "symbol": "IUAE.F"
+    }
+   ]
+  },
+  {
    "symbol": "IUCE",
    "name": "Invesco S\u0026P US Total Market ESG Index ETF",
    "exchange": "TSX",
@@ -34634,6 +34670,18 @@
     {
      "name": "Invesco SPTSX60TltCA",
      "symbol": "IXTE"
+    }
+   ]
+  },
+  {
+   "symbol": "ICAE",
+   "name": "Invesco S\u0026P/TSX Canadian Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ICAE.TO",
+   "instruments": [
+    {
+     "name": "InvscoS\u0026PTSXCdnDvESG",
+     "symbol": "ICAE"
     }
    ]
   },
@@ -39776,7 +39824,7 @@
    "yahoo_symbol": "PRQ.TO",
    "instruments": [
     {
-     "name": "Petrus Resources J",
+     "name": "Petrus Resources",
      "symbol": "PRQ"
     }
    ]
@@ -40056,7 +40104,7 @@
    "yahoo_symbol": "PNE.TO",
    "instruments": [
     {
-     "name": "Pine Cliff Energy J",
+     "name": "Pine Cliff Energy",
      "symbol": "PNE"
     }
    ]
@@ -40080,7 +40128,7 @@
    "yahoo_symbol": "PIPE.TO",
    "instruments": [
     {
-     "name": "Pipestone Energy J",
+     "name": "Pipestone Energy",
      "symbol": "PIPE"
     }
    ]
@@ -42416,7 +42464,7 @@
    "yahoo_symbol": "SDE.TO",
    "instruments": [
     {
-     "name": "Spartan Delta J",
+     "name": "Spartan Delta Corp.",
      "symbol": "SDE"
     }
    ]
@@ -43008,7 +43056,7 @@
    "yahoo_symbol": "TVE.TO",
    "instruments": [
     {
-     "name": "Tamarack Vall Engy J",
+     "name": "Tamarack Valley Engy",
      "symbol": "TVE"
     }
    ]
@@ -46153,7 +46201,7 @@
   },
   {
    "symbol": "AEHL",
-   "name": "Antelope Enterprise Holdings Limited - Common Stock",
+   "name": "Antelope Enterprise Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AEHL"
   },
@@ -52366,12 +52414,6 @@
    "name": "Cogent Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "COGT"
-  },
-  {
-   "symbol": "COHR",
-   "name": "Coherent Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "COHR"
   },
   {
    "symbol": "COHU",
@@ -60354,12 +60396,6 @@
    "yahoo_symbol": "IINNW"
   },
   {
-   "symbol": "IIVIP",
-   "name": "Coherent Corp. - 6.00% Series A Mandatory Convertible Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IIVIP"
-  },
-  {
    "symbol": "IJT",
    "name": "iShares S\u0026P Small-Cap 600 Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -62848,12 +62884,6 @@
    "name": "Longeveron Inc. - common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LGVN"
-  },
-  {
-   "symbol": "LHCG",
-   "name": "LHC Group - common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LHCG"
   },
   {
    "symbol": "LHDX",
@@ -66954,12 +66984,6 @@
    "yahoo_symbol": "ONDS"
   },
   {
-   "symbol": "ONEM",
-   "name": "1Life Healthcare, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ONEM"
-  },
-  {
    "symbol": "ONEQ",
    "name": "Fidelity Nasdaq Composite Index ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -67594,12 +67618,6 @@
    "name": "Patria Investments Limited - Class A Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PAX"
-  },
-  {
-   "symbol": "PAYA",
-   "name": "Paya Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PAYA"
   },
   {
    "symbol": "PAYO",
@@ -69778,6 +69796,12 @@
    "name": "Global X NASDAQ-100 Covered Call ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QYLD"
+  },
+  {
+   "symbol": "QYLE",
+   "name": "Global X Nasdaq 100 ESG Covered Call ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QYLE"
   },
   {
    "symbol": "QYLG",
@@ -73012,12 +73036,6 @@
    "name": "Surgalign Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SRGA"
-  },
-  {
-   "symbol": "SRNE",
-   "name": "Sorrento Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SRNE"
   },
   {
    "symbol": "SRPT",
@@ -81402,6 +81420,12 @@
    "yahoo_symbol": "BTCM"
   },
   {
+   "symbol": "BTE",
+   "name": "Baytex Energy Corp Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BTE"
+  },
+  {
    "symbol": "BTG",
    "name": "B2Gold Corp Common shares (Canada)",
    "exchange": "NYSE MKT",
@@ -82207,7 +82231,7 @@
   },
   {
    "symbol": "CI",
-   "name": "Cigna Corporation Common Stock",
+   "name": "The Cigna Group Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CI"
   },
@@ -82792,6 +82816,12 @@
    "name": "Cohen \u0026 Company Inc.",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "COHN"
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COHR"
   },
   {
    "symbol": "COLD",
@@ -100372,12 +100402,6 @@
    "name": "Ermenegildo Zegna N.V. Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "ZGN"
-  },
-  {
-   "symbol": "ZGN.W",
-   "name": "Ermenegildo Zegna N.V. Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ZGN.W"
   },
   {
    "symbol": "ZH",
