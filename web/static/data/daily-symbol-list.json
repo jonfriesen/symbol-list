@@ -1,5 +1,5 @@
 {
- "date": "2023-02-23",
+ "date": "2023-02-24",
  "data": [
   {
    "symbol": "ONE",
@@ -31426,18 +31426,6 @@
    ]
   },
   {
-   "symbol": "FRII",
-   "name": "Freshii Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "FRII.TO",
-   "instruments": [
-    {
-     "name": "Freshii Inc. Cl A SV",
-     "symbol": "FRII"
-    }
-   ]
-  },
-  {
    "symbol": "FEC",
    "name": "Frontera Energy Corporation",
    "exchange": "TSX",
@@ -38158,10 +38146,6 @@
     {
      "name": "Medexus Pharma J Deb",
      "symbol": "MDP.DB"
-    },
-    {
-     "name": "Medexus Pharma J Wt",
-     "symbol": "MDP.WT"
     }
    ]
   },
@@ -54894,6 +54878,12 @@
    "yahoo_symbol": "ELTK"
   },
   {
+   "symbol": "ELVN",
+   "name": "Enliven Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ELVN"
+  },
+  {
    "symbol": "ELYM",
    "name": "Eliem Therapeutics, Inc - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -57052,24 +57042,6 @@
    "name": "First Trust Large Cap Value AlphaDEX Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FTA"
-  },
-  {
-   "symbol": "FTAA",
-   "name": "FTAC Athena Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTAA"
-  },
-  {
-   "symbol": "FTAAU",
-   "name": "FTAC Athena Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTAAU"
-  },
-  {
-   "symbol": "FTAAW",
-   "name": "FTAC Athena Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTAAW"
   },
   {
    "symbol": "FTAG",
@@ -60562,12 +60534,6 @@
    "name": "Imperial Petroleum Inc. - 8.75% Series A Cumulative Redeemable Perpetual Preferred Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "IMPPP"
-  },
-  {
-   "symbol": "IMRA",
-   "name": "IMARA Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IMRA"
   },
   {
    "symbol": "IMRN",
@@ -88732,6 +88698,12 @@
    "name": "Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "IIPR$A"
+  },
+  {
+   "symbol": "IIVI",
+   "name": "Coherent Corp. 6.00% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IIVI"
   },
   {
    "symbol": "IMAX",
