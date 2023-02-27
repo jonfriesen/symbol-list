@@ -1,5 +1,5 @@
 {
- "date": "2023-02-24",
+ "date": "2023-02-27",
  "data": [
   {
    "symbol": "ONE",
@@ -16598,6 +16598,10 @@
     {
      "name": "Silver Mountain Resources Inc. wt 02FEB2024",
      "symbol": "AGMR.WT"
+    },
+    {
+     "name": "Silver Mountain Resources Inc. wts A 09Feb2026",
+     "symbol": "AGMR.WT.A"
     }
    ]
   },
@@ -18326,6 +18330,18 @@
    ]
   },
   {
+   "symbol": "TIN",
+   "name": "Tincorp Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TIN.V",
+   "instruments": [
+    {
+     "name": "Tincorp Metals Inc.",
+     "symbol": "TIN"
+    }
+   ]
+  },
+  {
    "symbol": "TK",
    "name": "Tinka Resources Limited",
    "exchange": "TSXV",
@@ -20030,18 +20046,6 @@
     {
      "name": "White Gold Corp.",
      "symbol": "WGO"
-    }
-   ]
-  },
-  {
-   "symbol": "WHG",
-   "name": "Whitehorse Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WHG.V",
-   "instruments": [
-    {
-     "name": "Whitehorse Gold Corp.",
-     "symbol": "WHG"
     }
    ]
   },
@@ -27630,6 +27634,18 @@
    ]
   },
   {
+   "symbol": "CIEH",
+   "name": "CIBC International Equity Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CIEH.TO",
+   "instruments": [
+    {
+     "name": "CIBC Intl Eq CA-Hegd",
+     "symbol": "CIEH"
+    }
+   ]
+  },
+  {
    "symbol": "CUEI",
    "name": "CIBC U.S. Equity Index ETF",
    "exchange": "TSX",
@@ -31686,18 +31702,6 @@
    ]
   },
   {
-   "symbol": "GWR",
-   "name": "Global Water Resources, Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "GWR.TO",
-   "instruments": [
-    {
-     "name": "Global Water Res",
-     "symbol": "GWR"
-    }
-   ]
-  },
-  {
    "symbol": "GMX",
    "name": "Globex Mining Enterprises Inc.",
    "exchange": "TSX",
@@ -32298,6 +32302,22 @@
     {
      "name": "HamiltonUS M/S FinUS",
      "symbol": "HUM.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HHRS",
+   "name": "Hammerhead Energy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHRS.TO",
+   "instruments": [
+    {
+     "name": "Hammerhead Engy J A",
+     "symbol": "HHRS"
+    },
+    {
+     "name": "Hammerhead Engy J Wt",
+     "symbol": "HHRS.WT"
     }
    ]
   },
@@ -51722,12 +51742,6 @@
    "yahoo_symbol": "CIL"
   },
   {
-   "symbol": "CINC",
-   "name": "CinCor Pharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CINC"
-  },
-  {
    "symbol": "CINF",
    "name": "Cincinnati Financial Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -52590,24 +52604,6 @@
    "name": "Conyers Park III Acquisition Corp. - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CPAAW"
-  },
-  {
-   "symbol": "CPAQ",
-   "name": "Counter Press Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CPAQ"
-  },
-  {
-   "symbol": "CPAQU",
-   "name": "Counter Press Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CPAQU"
-  },
-  {
-   "symbol": "CPAQW",
-   "name": "Counter Press Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CPAQW"
   },
   {
    "symbol": "CPHC",
@@ -53598,24 +53594,6 @@
    "name": "Deciphera Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DCPH"
-  },
-  {
-   "symbol": "DCRD",
-   "name": "Decarbonization Plus Acquisition Corporation IV - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DCRD"
-  },
-  {
-   "symbol": "DCRDU",
-   "name": "Decarbonization Plus Acquisition Corporation IV - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DCRDU"
-  },
-  {
-   "symbol": "DCRDW",
-   "name": "Decarbonization Plus Acquisition Corporation IV - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DCRDW"
   },
   {
    "symbol": "DCT",
@@ -61784,24 +61762,6 @@
    "yahoo_symbol": "KACLW"
   },
   {
-   "symbol": "KAII",
-   "name": "Kismet Acquisition Two Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KAII"
-  },
-  {
-   "symbol": "KAIIU",
-   "name": "Kismet Acquisition Two Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KAIIU"
-  },
-  {
-   "symbol": "KAIIW",
-   "name": "Kismet Acquisition Two Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KAIIW"
-  },
-  {
    "symbol": "KAL",
    "name": "Kalera Public Limited Company - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -64392,12 +64352,6 @@
    "name": "The Singing Machine Company, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MICS"
-  },
-  {
-   "symbol": "MICT",
-   "name": "MICT, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MICT"
   },
   {
    "symbol": "MIDD",
@@ -69476,6 +69430,24 @@
    "yahoo_symbol": "QDEL"
   },
   {
+   "symbol": "QDRO",
+   "name": "Quadro Acquisition One Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QDRO"
+  },
+  {
+   "symbol": "QDROU",
+   "name": "Quadro Acquisition One Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QDROU"
+  },
+  {
+   "symbol": "QDROW",
+   "name": "Quadro Acquisition One Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QDROW"
+  },
+  {
    "symbol": "QFIN",
    "name": "360 DigiTech, Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69924,12 +69896,6 @@
    "name": "Avita Medical, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RCEL"
-  },
-  {
-   "symbol": "RCII",
-   "name": "Rent-A-Center Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RCII"
   },
   {
    "symbol": "RCKT",
@@ -74324,6 +74290,12 @@
    "yahoo_symbol": "TILE"
   },
   {
+   "symbol": "TIO",
+   "name": "Tingo Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIO"
+  },
+  {
    "symbol": "TIOA",
    "name": "Tio Tech A - Class A Ordinary Share",
    "exchange": "NASDAQ Capital Market",
@@ -75348,6 +75320,12 @@
    "name": "Urban One, Inc.  - Class D Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "UONEK"
+  },
+  {
+   "symbol": "UPBD",
+   "name": "Upbound Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UPBD"
   },
   {
    "symbol": "UPC",
@@ -79058,24 +79036,6 @@
    "yahoo_symbol": "AN"
   },
   {
-   "symbol": "ANAC",
-   "name": "Arctos NorthStar Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ANAC"
-  },
-  {
-   "symbol": "ANAC.U",
-   "name": "Arctos NorthStar Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ANAC.U"
-  },
-  {
-   "symbol": "ANAC.W",
-   "name": "Arctos NorthStar Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ANAC.W"
-  },
-  {
    "symbol": "ANET",
    "name": "Arista Networks, Inc. Common Stock",
    "exchange": "NYSE",
@@ -80667,7 +80627,7 @@
   },
   {
    "symbol": "BILL",
-   "name": "Bill.com Holdings, Inc. Common Stock",
+   "name": "BILL Holdings, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BILL"
   },
