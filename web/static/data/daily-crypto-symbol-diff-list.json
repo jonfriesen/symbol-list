@@ -1,168 +1,253 @@
 {
  "added": [
   {
-   "symbol": "STATER",
-   "name": "Stater (STATER)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MTS",
-   "name": "Metastrike (MTS)",
+   "symbol": "ZPTC",
+   "name": "Zeptacoin (ZPTC)",
    "built_on": "BNB"
   },
   {
-   "symbol": "SHIRYOINU",
-   "name": "Shiryo-Inu (SHIRYOINU)",
+   "symbol": "DIONE",
+   "name": "Dione (DIONE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "CLH",
-   "name": "ClearDAO (CLH)",
+   "symbol": "YAE",
+   "name": "Cryptonovae (YAE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "1ART",
-   "name": "ArtWallet (1ART)",
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token (ACM)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "LKC",
+   "name": "LuckyCoin (LKC)",
    "built_on": "BNB"
   },
   {
-   "symbol": "WQT",
-   "name": "Work Quest (WQT)",
+   "symbol": "HNTR",
+   "name": "Hunter (HNTR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CPO",
+   "name": "Cryptopolis (CPO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OKS",
+   "name": "Oikos (OKS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AAC",
+   "name": "Double-A Chain (AAC)",
    "built_on": "ETH"
   },
   {
-   "symbol": "VERA",
-   "name": "Vera (VERA)",
+   "symbol": "BABYTK",
+   "name": "Baby Tiger King (BABYTK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SMTY",
+   "name": "Smoothy (SMTY)",
    "built_on": "ETH"
   },
   {
-   "symbol": "ENVION",
-   "name": "Envion (ENVION)"
-  },
-  {
-   "symbol": "ETHA",
-   "name": "ETHA Lend (ETHA)",
+   "symbol": "IXS",
+   "name": "IX Swap (IXS)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "PEL",
+   "name": "Propel Token (PEL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEHUB",
+   "name": "DeHub (DEHUB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPACEPI",
+   "name": "SpacePi (SPACEPI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOT",
+   "name": "Bot Planet (BOT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SAO",
+   "name": "Sator (SAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANJI",
+   "name": "Anji (ANJI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "NCASH",
+   "name": "Nucleus Vision (NCASH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARCONA",
+   "name": "Arcona (ARCONA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KOI",
+   "name": "Koi Network (KOI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BPX",
+   "name": "Black Phoenix (BPX)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "OLY",
+   "name": "Olyseum (OLY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WAXE",
+   "name": "WAXE (WAXE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATS",
+   "name": "Atlas DEX (ATS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OCC",
+   "name": "OccamFi (OCC)",
    "built_on": "ETH"
   },
   {
    "symbol": "GETH",
    "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "IQN",
-   "name": "IQeon (IQN)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GART",
-   "name": "Griffin Art (GART)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "QANX",
-   "name": "QANplatform (QANX)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "TFI",
-   "name": "TrustFi Network Token (TFI)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "GAME",
-   "name": "Gamestarter (GAME)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "WNK",
-   "name": "The Winkyverse (WNK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "KART",
-   "name": "Dragon Kart (KART)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "VOLTOLD",
-   "name": "Volt Inu (Old) (VOLTOLD)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BRN",
-   "name": "BRN Metaverse (BRN)",
-   "built_on": "BNB"
   }
  ],
  "removed": [
   {
-   "symbol": "TFI",
-   "name": "TrustFi Network Token (TFI)"
+   "symbol": "KOI",
+   "name": "Koi Network (KOI)"
   },
   {
-   "symbol": "IQN",
-   "name": "IQeon (IQN)"
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token (ACM)"
   },
   {
-   "symbol": "SHIRYOINU",
-   "name": "Shiryo-Inu (SHIRYOINU)"
+   "symbol": "NCASH",
+   "name": "Nucleus Vision (NCASH)"
   },
   {
-   "symbol": "BRN",
-   "name": "BRN Metaverse (BRN)"
+   "symbol": "DEHUB",
+   "name": "DeHub (DEHUB)"
   },
   {
-   "symbol": "GAME",
-   "name": "Gamestarter (GAME)"
+   "symbol": "OCC",
+   "name": "OccamFi (OCC)"
   },
   {
-   "symbol": "WNK",
-   "name": "The Winkyverse (WNK)"
+   "symbol": "PEL",
+   "name": "Propel Token (PEL)"
   },
   {
-   "symbol": "GART",
-   "name": "Griffin Art (GART)"
+   "symbol": "BPX",
+   "name": "Black Phoenix (BPX)"
   },
   {
-   "symbol": "KART",
-   "name": "Dragon Kart (KART)"
+   "symbol": "IXS",
+   "name": "IX Swap (IXS)"
   },
   {
-   "symbol": "CLH",
-   "name": "ClearDAO (CLH)"
+   "symbol": "AAC",
+   "name": "Double-A Chain (AAC)"
   },
   {
-   "symbol": "WQT",
-   "name": "Work Quest (WQT)"
+   "symbol": "SMTY",
+   "name": "Smoothy (SMTY)"
   },
   {
-   "symbol": "QANX",
-   "name": "QANplatform (QANX)"
+   "symbol": "BABYTK",
+   "name": "Baby Tiger King (BABYTK)"
   },
   {
-   "symbol": "VERA",
-   "name": "Vera (VERA)"
+   "symbol": "YAE",
+   "name": "Cryptonovae (YAE)"
   },
   {
-   "symbol": "1ART",
-   "name": "ArtWallet (1ART)"
+   "symbol": "HNTR",
+   "name": "Hunter (HNTR)"
   },
   {
-   "symbol": "MTS",
-   "name": "Metastrike (MTS)"
+   "symbol": "BOT",
+   "name": "Bot Planet (BOT)"
   },
   {
-   "symbol": "ETHA",
-   "name": "ETHA Lend (ETHA)"
+   "symbol": "CPO",
+   "name": "Cryptopolis (CPO)"
+  },
+  {
+   "symbol": "ZPTC",
+   "name": "Zeptacoin (ZPTC)"
+  },
+  {
+   "symbol": "LKC",
+   "name": "LuckyCoin (LKC)"
+  },
+  {
+   "symbol": "DIONE",
+   "name": "Dione (DIONE)"
+  },
+  {
+   "symbol": "OKS",
+   "name": "Oikos (OKS)"
+  },
+  {
+   "symbol": "SAO",
+   "name": "Sator (SAO)"
+  },
+  {
+   "symbol": "SPACEPI",
+   "name": "SpacePi (SPACEPI)"
+  },
+  {
+   "symbol": "WAXE",
+   "name": "WAXE (WAXE)"
+  },
+  {
+   "symbol": "ATS",
+   "name": "Atlas DEX (ATS)"
+  },
+  {
+   "symbol": "ANJI",
+   "name": "Anji (ANJI)"
+  },
+  {
+   "symbol": "ARCONA",
+   "name": "Arcona (ARCONA)"
+  },
+  {
+   "symbol": "OLY",
+   "name": "Olyseum (OLY)"
   }
  ]
 }

@@ -287,6 +287,7 @@ CRBK,Carebook Technologies Inc.,TSXV,CRBK.V,Carebook Technologies Inc.,CRBK
 CSPN,"CareSpan Health, Inc.",TSXV,CSPN.V,"CareSpan Health, Inc.",CSPN
 CRB,Cariboo Rose Resources Ltd.,TSXV,CRB.V,Cariboo Rose Resources Ltd,CRB
 CGD,Carlin Gold Corporation,TSXV,CGD.V,Carlin Gold Corporation,CGD
+RUSH,Carolina Rush Corporation,TSXV,RUSH.V,Carolina Rush Corporation,RUSH
 ECR,Cartier Resources Inc.,TSXV,ECR.V,Cartier Resources Inc,ECR
 CASA,CASA Minerals Inc.,TSXV,CASA.V,CASA Minerals Inc.,CASA
 CCD,Cascadero Copper Corporation,TSXV,CCD.V,Cascadero Copper Corporation,CCD
@@ -1135,7 +1136,6 @@ PALI,Palisades Goldcorp Ltd.,TSXV,PALI.V,Palisades Goldcorp Ltd.,PALI
 PDM,Palladium One Mining Inc.,TSXV,PDM.V,Palladium One Mining Inc.,PDM
 PNN,Pambili Natural Resources Corporation,TSXV,PNN.V,Pambili Natural Resources Corporation,PNN
 PGZ,Pan Global Resources Inc.,TSXV,PGZ.V,Pan Global Resources Inc.,PGZ
-PUC,Pancontinental Resources Corporation,TSXV,PUC.V,Pancontinental Resources Corporation,PUC
 PAN,Pangolin Diamonds Corp.,TSXV,PAN.V,Pangolin Diamonds Corp.,PAN
 PANO.P,Panorama Capital Corp.,TSXV,PANO.P.V,Panorama Capital Corp.,PANO.P
 PML,Panoro Minerals Ltd.,TSXV,PML.V,Panoro Minerals Ltd.,PML
@@ -1327,7 +1327,7 @@ SWA,Sarama Resources Ltd.,TSXV,SWA.V,Sarama Resources Ltd.,SWA
 MSCL,Satellos Bioscience Inc.,TSXV,MSCL.V,Satellos Bioscience Inc.,MSCL
 SATO,SATO Technologies Corp.,TSXV,SATO.V,SATO Technologies Corp.,SATO
 BUD,Satori Resources Inc.,TSXV,BUD.V,Satori Resources Inc.,BUD
-SOIL,Saturn Oil & Gas Inc.,TSXV,SOIL.V,Saturn Oil & Gas Inc.,SOIL,Saturn Oil & Gas Inc. Sub Receipts,SOIL.R,Saturn Oil & Gas Inc. wt 04Jun2023,SOIL.WT,Saturn Oil & Gas Inc. wt 10Mar2025,SOIL.WT.A,Saturn Oil & Gas Inc. wt 07Jul2023,SOIL.WT.B
+SOIL,Saturn Oil & Gas Inc.,TSXV,SOIL.V,Saturn Oil & Gas Inc.,SOIL,Saturn Oil & Gas Inc. wt 04Jun2023,SOIL.WT,Saturn Oil & Gas Inc. wt 10Mar2025,SOIL.WT.A,Saturn Oil & Gas Inc. wt 07Jul2023,SOIL.WT.B
 SAC.P,Savanna Capital Corp.,TSXV,SAC.P.V,Savanna Capital Corp.,SAC.P
 SRE,Saville Resources Inc.,TSXV,SRE.V,Saville Resources Inc.,SRE
 SAWC.P,Sayward Capital Corp.,TSXV,SAWC.P.V,Sayward Capital Corp.,SAWC.P
@@ -4297,6 +4297,7 @@ BSMS,Invesco BulletShares 2028 Municipal Bond ETF,NASDAQ Global MarketSM,BSMS
 BSMT,Invesco BulletShares 2029 Municipal Bond ETF,NASDAQ Global MarketSM,BSMT
 BSMU,Invesco BulletShares 2030 Municipal Bond ETF,NASDAQ Global MarketSM,BSMU
 BSMV,Invesco BulletShares 2031 Municipal Bond ETF,NASDAQ Global MarketSM,BSMV
+BSMW,Invesco BulletShares 2032 Municipal Bond ETF,NASDAQ Global MarketSM,BSMW
 BSQR,BSQUARE Corporation - Common Stock,NASDAQ Capital Market,BSQR
 BSRR,Sierra Bancorp - Common Stock,NASDAQ Global Select MarketSM,BSRR
 BSVN,Bank7 Corp. - Common stock,NASDAQ Global Select MarketSM,BSVN
@@ -4672,8 +4673,6 @@ CORT,Corcept Therapeutics Incorporated - Common Stock,NASDAQ Capital Market,CORT
 COSM,Cosmos Health Inc. - Common Stock,NASDAQ Capital Market,COSM
 COST,Costco Wholesale Corporation - Common Stock,NASDAQ Global Select MarketSM,COST
 COWG,Pacer US Large Cap Cash Cows Growth Leaders ETF,NASDAQ Global MarketSM,COWG
-COWN,Cowen Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,COWN
-COWNL,Cowen Inc. - 7.75% Senior Notes due 2033,NASDAQ Global Select MarketSM,COWNL
 COYA,"Coya Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,COYA
 CPAA,Conyers Park III Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,CPAA
 CPAAU,Conyers Park III Acquisition Corp. - Unit,NASDAQ Capital Market,CPAAU
@@ -5865,6 +5864,9 @@ HTOO,Fusion Fuel Green PLC - Ordinary Shares,NASDAQ Global MarketSM,HTOO
 HTOOW,Fusion Fuel Green PLC - Warrant,NASDAQ Global MarketSM,HTOOW
 HTZ,"Hertz Global Holdings, Inc - Common Stock",NASDAQ Global Select MarketSM,HTZ
 HTZWW,"Hertz Global Holdings, Inc - Warrant",NASDAQ Global Select MarketSM,HTZWW
+HUBC,Hub Cyber Security Ltd. - Ordinary Shares,NASDAQ Global MarketSM,HUBC
+HUBCW,Hub Cyber Security Ltd. - Warrant expiring 2/27/28,NASDAQ Capital Market,HUBCW
+HUBCZ,Hub Cyber Security Ltd. - warrant type 2,NASDAQ Global MarketSM,HUBCZ
 HUBG,"Hub Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,HUBG
 HUDA,Hudson Acquisition I Corp. - Common Stock,NASDAQ Global MarketSM,HUDA
 HUDAR,Hudson Acquisition I Corp. - Right,NASDAQ Global MarketSM,HUDAR
@@ -6502,6 +6504,8 @@ LVOXW,"LiveVox Holdings, Inc. - Warrant",NASDAQ Global Select MarketSM,LVOXW
 LVRA,Levere Holdings Corp. - Class A Ordinary Shares,NASDAQ Capital Market,LVRA
 LVRAU,Levere Holdings Corp. - Unit,NASDAQ Capital Market,LVRAU
 LVRAW,Levere Holdings Corp. - Warrant,NASDAQ Capital Market,LVRAW
+LVRO,Lavoro Limited - Class A Ordinary Shares,NASDAQ Global MarketSM,LVRO
+LVROW,Lavoro Limited - Warrant,NASDAQ Global MarketSM,LVROW
 LVTX,LAVA Therapeutics N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,LVTX
 LWAY,"Lifeway Foods, Inc. - Common Stock",NASDAQ Global MarketSM,LWAY
 LWLG,"Lightwave Logic, Inc. - Common Stock",NASDAQ Capital Market,LWLG
@@ -7941,8 +7945,6 @@ SLMBP,"SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B"
 SLN,Silence Therapeutics Plc - American Depository Share,NASDAQ Global MarketSM,SLN
 SLNA,Selina Hospitality PLC - Ordinary Shares,NASDAQ Global MarketSM,SLNA
 SLNAW,Selina Hospitality PLC - Warrant,NASDAQ Capital Market,SLNAW
-SLND,"Southland Holdings, Inc. - Common Stock",NASDAQ Capital Market,SLND
-SLNDW,"Southland Holdings, Inc. - Warrants",NASDAQ Capital Market,SLNDW
 SLNG,"Stabilis Solutions, Inc. - Common Stock",NASDAQ Capital Market,SLNG
 SLNH,"Soluna Holdings, Inc. - Common Stock",NASDAQ Capital Market,SLNH
 SLNHP,"Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock",NASDAQ Capital Market,SLNHP
@@ -8452,7 +8454,6 @@ ULTA,"Ulta Beauty, Inc. - Common Stock",NASDAQ Global Select MarketSM,ULTA
 ULVM,VictoryShares US Value Momentum ETF,NASDAQ Global MarketSM,ULVM
 UMBF,UMB Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,UMBF
 UMMA,Wahed Dow Jones Islamic World ETF,NASDAQ Global MarketSM,UMMA
-UMPQ,Umpqua Holdings Corporation - Common Stock,NASDAQ Global Select MarketSM,UMPQ
 UNAM,Unico American Corporation - Common Stock,NASDAQ Global MarketSM,UNAM
 UNB,"Union Bankshares, Inc. - Common Stock",NASDAQ Global MarketSM,UNB
 UNCY,"Unicycive Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,UNCY
@@ -8514,7 +8515,7 @@ VAQC,Vector Acquisition Corporation II - Class A Ordinary Shares,NASDAQ Capital 
 VAXX,"Vaxxinity, Inc. - Class A Common Stock",NASDAQ Global MarketSM,VAXX
 VBFC,Village Bank and Trust Financial Corp. - Common Stock,NASDAQ Capital Market,VBFC
 VBIV,"VBI Vaccines, Inc. - Ordinary Shares",NASDAQ Capital Market,VBIV
-VBLT,Vascular Biogenics Ltd. - Ordinary Shares,NASDAQ Global MarketSM,VBLT
+VBLT,Vascular Biogenics Ltd. - Ordinary Shares,NASDAQ Capital Market,VBLT
 VBNK,VersaBank - Common Shares,NASDAQ Global Select MarketSM,VBNK
 VBOC,Viscogliosi Brothers Acquisition Corp - Common Stock,NASDAQ Global MarketSM,VBOC
 VBOCU,Viscogliosi Brothers Acquisition Corp - Unit,NASDAQ Global MarketSM,VBOCU
@@ -9352,7 +9353,7 @@ BIO.B,"Bio-Rad Laboratories, Inc. Class B  Common Stock",NYSE,BIO.B
 BIP,Brookfield Infrastructure Partners LP Limited Partnership Units,NYSE,BIP
 BIP$A,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",NYSE,BIP$A
 BIP$B,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",NYSE,BIP$B
-BIPC,Brookfield Infrastructure Partners LP Class A Subordinate Voting Shares ,NYSE,BIPC
+BIPC,Brookfield Infrastructure Corporation ,NYSE,BIPC
 BIPH,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,NYSE,BIPH
 BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,NYSE,BIPI
 BIT,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,NYSE,BIT
@@ -10636,9 +10637,6 @@ IAF,"abrdn Australia Equity Fund, Inc. Common Stock",NYSE MKT,IAF
 IAG,Iamgold Corporation Ordinary Shares,NYSE,IAG
 IAUX,i-80 Gold Corp. Common Shares,NYSE MKT,IAUX
 IBA,"Industrias Bachoco, S.A.B. de C.V. Common Stock",NYSE,IBA
-IBER,Ibere Pharmaceuticals Class A Ordinary Shares,NYSE,IBER
-IBER.U,"Ibere Pharmaceuticals Units, each consisting of one Class A ordinary share and one-half of one Redeemable Warrant",NYSE,IBER.U
-IBER.W,"Ibere Pharmaceuticals Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",NYSE,IBER.W
 IBIO,"iBio, Inc. Common Stock",NYSE MKT,IBIO
 IBM,International Business Machines Corporation Common Stock,NYSE,IBM
 IBN,ICICI Bank Limited Common Stock,NYSE,IBN
@@ -10938,7 +10936,7 @@ LHC.U,"Leo Holdings Corp. II Units, each consisting of one Class A ordinary shar
 LHX,"L3Harris Technologies, Inc. Common Stock",NYSE,LHX
 LICY,Li-Cycle Holdings Corp. Common Shares,NYSE,LICY
 LII,"Lennox International, Inc. Common Stock",NYSE,LII
-LIN,Linde plc Ordinary Share,NYSE,LIN
+LIN,Linde plc Ordinary Shares,NYSE,LIN
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing 2 ordinary shares",NYSE,LITB
 LL,"LL Flooring Holdings, Inc. Common Stock",NYSE,LL
 LLAP,Terran Orbital Corporation Common Stock,NYSE,LLAP
@@ -12002,6 +12000,8 @@ SLG,SL Green Realty Corp Common Stock,NYSE,SLG
 SLG$I,SL Green Realty Corporation Preferred Series I,NYSE,SLG$I
 SLGN,Silgan Holdings Inc. Common Stock,NYSE,SLGN
 SLI,Standard Lithium Ltd. Common Shares,NYSE MKT,SLI
+SLND,"Southland Holdings, Inc. Common Stock",NYSE MKT,SLND
+SLND.W,"Southland Holdings, Inc. Warrants",NYSE MKT,SLND.W
 SLQT,"SelectQuote, Inc. Common Stock",NYSE,SLQT
 SLVM,Sylvamo Corporation Common Stock,NYSE,SLVM
 SM,SM Energy Company Common Stock,NYSE,SM

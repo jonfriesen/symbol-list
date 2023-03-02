@@ -1,168 +1,138 @@
 {
  "added": [
   {
-   "symbol": "LSL",
-   "name": "LSL Pharma Group Inc.",
+   "symbol": "RUSH",
+   "name": "Carolina Rush Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "LSL.V",
+   "yahoo_symbol": "RUSH.V",
    "instruments": [
     {
-     "name": "LSL Pharma Group Inc.",
-     "symbol": "LSL"
+     "name": "Carolina Rush Corporation",
+     "symbol": "RUSH"
     }
    ]
   },
   {
-   "symbol": "BMR",
-   "name": "Beamr Imaging Ltd. - Ordinary Share",
+   "symbol": "BSMW",
+   "name": "Invesco BulletShares 2032 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSMW"
+  },
+  {
+   "symbol": "HUBC",
+   "name": "Hub Cyber Security Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUBC"
+  },
+  {
+   "symbol": "HUBCW",
+   "name": "Hub Cyber Security Ltd. - Warrant expiring 2/27/28",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BMR"
+   "yahoo_symbol": "HUBCW"
   },
   {
-   "symbol": "ISRL",
-   "name": "Israel Acquisitions Corp - Class A Ordinary Shares",
+   "symbol": "HUBCZ",
+   "name": "Hub Cyber Security Ltd. - warrant type 2",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ISRL"
+   "yahoo_symbol": "HUBCZ"
   },
   {
-   "symbol": "ISRLW",
-   "name": "Israel Acquisitions Corp - Warrant",
+   "symbol": "LVRO",
+   "name": "Lavoro Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ISRLW"
+   "yahoo_symbol": "LVRO"
   },
   {
-   "symbol": "ZVRA",
-   "name": "Zevra Therapeutics, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ZVRA"
+   "symbol": "LVROW",
+   "name": "Lavoro Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVROW"
   },
   {
-   "symbol": "NSTB",
-   "name": "Northern Star Investment Corp. II Class A Common stock",
+   "symbol": "VBLT",
+   "name": "Vascular Biogenics Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBLT"
+  },
+  {
+   "symbol": "SLND",
+   "name": "Southland Holdings, Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "NSTB"
+   "yahoo_symbol": "SLND"
   },
   {
-   "symbol": "NSTB.U",
-   "name": "Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
+   "symbol": "SLND.W",
+   "name": "Southland Holdings, Inc. Warrants",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "NSTB.U"
-  },
-  {
-   "symbol": "NSTB.W",
-   "name": "Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NSTB.W"
+   "yahoo_symbol": "SLND.W"
   }
  ],
  "removed": [
   {
-   "symbol": "NSTB",
-   "name": "Northern Star Investment Corp. II Class A Common stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NSTB"
-  },
-  {
-   "symbol": "TPBAW",
-   "name": "TPB Acquisition Corporation I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TPBAW"
-  },
-  {
-   "symbol": "NEE$P",
-   "name": "NextEra Energy, Inc. 5.279% Corporate Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NEE$P"
-  },
-  {
-   "symbol": "PICC.U",
-   "name": "Pivotal Investment Corporation III Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PICC.U"
-  },
-  {
-   "symbol": "RFP",
-   "name": "Resolute Forest Products Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RFP"
-  },
-  {
-   "symbol": "RNERU",
-   "name": "Mount Rainier Acquisition Corp. - Unit",
+   "symbol": "VBLT",
+   "name": "Vascular Biogenics Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNERU"
+   "yahoo_symbol": "VBLT"
   },
   {
-   "symbol": "CGP",
-   "name": "Cornerstone Capital Resources Inc.",
+   "symbol": "COWNL",
+   "name": "Cowen Inc. - 7.75% Senior Notes due 2033",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COWNL"
+  },
+  {
+   "symbol": "COWN",
+   "name": "Cowen Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COWN"
+  },
+  {
+   "symbol": "IBER.U",
+   "name": "Ibere Pharmaceuticals Units, each consisting of one Class A ordinary share and one-half of one Redeemable Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IBER.U"
+  },
+  {
+   "symbol": "UMPQ",
+   "name": "Umpqua Holdings Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UMPQ"
+  },
+  {
+   "symbol": "SLND",
+   "name": "Southland Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLND"
+  },
+  {
+   "symbol": "PUC",
+   "name": "Pancontinental Resources Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "CGP.V",
+   "yahoo_symbol": "PUC.V",
    "instruments": [
     {
-     "name": "Cornerstone Capital Resources Inc.",
-     "symbol": "CGP"
+     "name": "Pancontinental Resources Corporation",
+     "symbol": "PUC"
     }
    ]
   },
   {
-   "symbol": "COUP",
-   "name": "Coupa Software Incorporated - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "COUP"
-  },
-  {
-   "symbol": "PICC",
-   "name": "Pivotal Investment Corporation III Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PICC"
-  },
-  {
-   "symbol": "TPBAU",
-   "name": "TPB Acquisition Corporation I - Unit",
+   "symbol": "SLNDW",
+   "name": "Southland Holdings, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TPBAU"
+   "yahoo_symbol": "SLNDW"
   },
   {
-   "symbol": "NSTB.W",
-   "name": "Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share",
+   "symbol": "IBER",
+   "name": "Ibere Pharmaceuticals Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "NSTB.W"
+   "yahoo_symbol": "IBER"
   },
   {
-   "symbol": "PME",
-   "name": "Pingtan Marine Enterprise Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PME"
-  },
-  {
-   "symbol": "KMPH",
-   "name": "KemPharm, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KMPH"
-  },
-  {
-   "symbol": "NSTB.U",
-   "name": "Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
+   "symbol": "IBER.W",
+   "name": "Ibere Pharmaceuticals Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
    "exchange": "NYSE",
-   "yahoo_symbol": "NSTB.U"
-  },
-  {
-   "symbol": "RNERW",
-   "name": "Mount Rainier Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNERW"
-  },
-  {
-   "symbol": "RNER",
-   "name": "Mount Rainier Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNER"
-  },
-  {
-   "symbol": "TPBA",
-   "name": "TPB Acquisition Corporation I - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TPBA"
+   "yahoo_symbol": "IBER.W"
   }
  ]
 }
