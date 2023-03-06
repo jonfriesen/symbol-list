@@ -1,201 +1,117 @@
 {
  "added": [
   {
-   "symbol": "KIRBYRELOADED",
-   "name": "Kirby Reloaded (KIRBYRELOADED)"
-  },
-  {
-   "symbol": "PBTC35A",
-   "name": "pBTC35A (PBTC35A)",
+   "symbol": "TOK",
+   "name": "Tokenplace (TOK)",
    "built_on": "ETH"
   },
   {
-   "symbol": "F2C",
-   "name": "Ftribe Fighters (F2C)",
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CRBN",
+   "name": "Carbon (CRBN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RET",
+   "name": "RealTract (RET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPHRI",
+   "name": "Spherium (SPHRI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STBU",
+   "name": "Stobox Token (STBU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SKILL",
+   "name": "CryptoBlades (SKILL)",
    "built_on": "BNB"
   },
   {
-   "symbol": "BCMC",
-   "name": "Blockchain Monster Hunt (BCMC)",
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "DRCT",
+   "name": "Ally Direct (DRCT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "NAFT",
-   "name": "Nafter (NAFT)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "OPIUM",
-   "name": "Opium (OPIUM)",
+   "symbol": "LINU",
+   "name": "Luna Inu (LINU)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GRAIL",
-   "name": "Camelot Token (GRAIL)",
-   "built_on": "ARBITRUM"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "CSM",
-   "name": "Crust Shadow (CSM)",
+   "symbol": "FANC",
+   "name": "fanC (FANC)",
    "built_on": "ETH"
   },
   {
-   "symbol": "USDT",
-   "name": "Tether (USDT)",
-   "built_on": "OMNI"
-  },
-  {
-   "symbol": "APY",
-   "name": "APY.Finance (APY)",
+   "symbol": "MILK2",
+   "name": "Spaceswap MILK2 (MILK2)",
    "built_on": "ETH"
   },
   {
-   "symbol": "CONSENTIUM",
-   "name": "Consentium (CONSENTIUM)"
-  },
-  {
-   "symbol": "LTO",
-   "name": "LTO Network (LTO)"
-  },
-  {
-   "symbol": "MBL",
-   "name": "MovieBloc (MBL)"
-  },
-  {
-   "symbol": "GODE",
-   "name": "Gode Chain (GODE)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "HE",
-   "name": "Heroes \u0026 Empires (HE)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "VAB",
-   "name": "Vabble (VAB)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MMC",
-   "name": "Monopoly Millionaire Control (MMC)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MVI",
-   "name": "Metaverse Index (MVI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ATD",
-   "name": "A2DAO (ATD)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BITSPACE",
-   "name": "Bitspace (BITSPACE)"
-  },
-  {
-   "symbol": "MMAPS",
-   "name": "MapMetrics (MMAPS)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "ZLK",
-   "name": "Zenlink Network (ZLK)",
-   "built_on": "MOVR"
+   "symbol": "TONCOIN",
+   "name": "The Open Network (TONCOIN)"
   }
  ],
  "removed": [
   {
-   "symbol": "HE",
-   "name": "Heroes \u0026 Empires (HE)"
+   "symbol": "TOK",
+   "name": "Tokenplace (TOK)"
   },
   {
-   "symbol": "CSM",
-   "name": "Consentium (CSM)"
+   "symbol": "LINU",
+   "name": "Luna Inu (LINU)"
   },
   {
-   "symbol": "OPIUM",
-   "name": "Opium (OPIUM)"
+   "symbol": "SKILL",
+   "name": "CryptoBlades (SKILL)"
   },
   {
-   "symbol": "BCMC",
-   "name": "Blockchain Monster Hunt (BCMC)"
+   "symbol": "MILK2",
+   "name": "Spaceswap MILK2 (MILK2)"
   },
   {
-   "symbol": "$KIRBYRELOADED",
-   "name": "Kirby Reloaded ($KIRBYRELOADED)"
+   "symbol": "SPHRI",
+   "name": "Spherium (SPHRI)"
   },
   {
-   "symbol": "GODE",
-   "name": "Gode Chain (GODE)"
+   "symbol": "FANC",
+   "name": "fanC (FANC)"
   },
   {
-   "symbol": "USDT",
-   "name": "Tether (USDT)",
+   "symbol": "CRBN",
+   "name": "Carbon (CRBN)"
+  },
+  {
+   "symbol": "RET",
+   "name": "RealTract (RET)"
+  },
+  {
+   "symbol": "TONCOIN",
+   "name": "The Open Network (TONCOIN)",
    "built_on": "ETH"
   },
   {
-   "symbol": "MBL",
-   "name": "MovieBloc (MBL)",
-   "built_on": "ETH"
+   "symbol": "STBU",
+   "name": "Stobox Token (STBU)"
   },
   {
-   "symbol": "VAB",
-   "name": "Vabble (VAB)"
-  },
-  {
-   "symbol": "ZLK",
-   "name": "Zenlink Network (ZLK)"
-  },
-  {
-   "symbol": "LTO",
-   "name": "LTO Network (LTO)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "F2C",
-   "name": "Ftribe Fighters (F2C)"
-  },
-  {
-   "symbol": "NAFT",
-   "name": "Nafter (NAFT)"
-  },
-  {
-   "symbol": "MVI",
-   "name": "Metaverse Index (MVI)"
-  },
-  {
-   "symbol": "MMC",
-   "name": "Monopoly Millionaire Control (MMC)"
-  },
-  {
-   "symbol": "APY",
-   "name": "APY.Finance (APY)"
-  },
-  {
-   "symbol": "pBTC35A",
-   "name": "pBTC35A (pBTC35A)"
-  },
-  {
-   "symbol": "ATD",
-   "name": "A2DAO (ATD)"
+   "symbol": "DRCT",
+   "name": "Ally Direct (DRCT)"
   }
  ]
 }
