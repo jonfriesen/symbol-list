@@ -1,5 +1,5 @@
 {
- "date": "2023-03-06",
+ "date": "2023-03-07",
  "data": [
   {
    "symbol": "ONE",
@@ -2122,6 +2122,18 @@
     {
      "name": "Bayhorse Silver Inc.",
      "symbol": "BHS"
+    }
+   ]
+  },
+  {
+   "symbol": "BM",
+   "name": "BC Moly Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BM.V",
+   "instruments": [
+    {
+     "name": "BC Moly Ltd.",
+     "symbol": "BM"
     }
    ]
   },
@@ -13198,6 +13210,10 @@
     {
      "name": "NowVertical Group Inc. 05Oct2025",
      "symbol": "NOW.WT.A"
+    },
+    {
+     "name": "NowVertical Group Inc. wt 28Feb2026",
+     "symbol": "NOW.WT.B"
     }
    ]
   },
@@ -26220,6 +26236,10 @@
      "symbol": "CHE.DB.G"
     },
     {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
      "name": "Chemtrade Logistc Un",
      "symbol": "CHE.UN"
     }
@@ -28090,10 +28110,6 @@
     {
      "name": "D-Box Tech Inc. A J",
      "symbol": "DBO"
-    },
-    {
-     "name": "D-Box Tech Inc. J Wt",
-     "symbol": "DBO.WT"
     }
    ]
   },
@@ -38190,10 +38206,6 @@
     {
      "name": "MediPharm LabsCorp J",
      "symbol": "LABS"
-    },
-    {
-     "name": "MediPharm Labs J Wt",
-     "symbol": "LABS.WT"
     }
    ]
   },
@@ -52202,12 +52214,6 @@
    "yahoo_symbol": "CMTL"
   },
   {
-   "symbol": "CNCE",
-   "name": "Concert Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNCE"
-  },
-  {
    "symbol": "CNCR",
    "name": "Loncar Cancer Immunotherapy ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -53256,6 +53262,12 @@
    "name": "Casella Waste Systems, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CWST"
+  },
+  {
+   "symbol": "CXAIV",
+   "name": "CXApp Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CXAIV"
   },
   {
    "symbol": "CXDO",
@@ -57692,12 +57704,6 @@
    "yahoo_symbol": "GERN"
   },
   {
-   "symbol": "GET",
-   "name": "Getnet Adquirencia e Servicos para Meios de Pagamento S.A. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GET"
-  },
-  {
    "symbol": "GEVO",
    "name": "Gevo, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -58152,12 +58158,6 @@
    "name": "Gentex Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GNTX"
-  },
-  {
-   "symbol": "GNTY",
-   "name": "Guaranty Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GNTY"
   },
   {
    "symbol": "GNUS",
@@ -58788,6 +58788,12 @@
    "name": "Huntington Bancshares Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HBAN"
+  },
+  {
+   "symbol": "HBANL",
+   "name": "Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HBANL"
   },
   {
    "symbol": "HBANM",
@@ -60690,6 +60696,12 @@
    "name": "Inpixon  - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INPX"
+  },
+  {
+   "symbol": "INPXV",
+   "name": "Inpixon  - Common Stock Ex-distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INPXV"
   },
   {
    "symbol": "INSE",
@@ -70764,12 +70776,6 @@
    "name": "The Necessity Retail REIT, Inc. - 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "RTLPP"
-  },
-  {
-   "symbol": "RUBY",
-   "name": "Rubius Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RUBY"
   },
   {
    "symbol": "RUM",
@@ -81566,12 +81572,6 @@
    "yahoo_symbol": "CAH"
   },
   {
-   "symbol": "CAJ",
-   "name": "Canon, Inc. American Depositary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CAJ"
-  },
-  {
    "symbol": "CAL",
    "name": "Caleres, Inc. Common Stock",
    "exchange": "NYSE",
@@ -87086,6 +87086,12 @@
    "yahoo_symbol": "GNT$A"
   },
   {
+   "symbol": "GNTY",
+   "name": "Guaranty Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GNTY"
+  },
+  {
    "symbol": "GNW",
    "name": "Genworth Financial Inc Common Stock",
    "exchange": "NYSE",
@@ -88440,6 +88446,12 @@
    "name": "CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "IGR"
+  },
+  {
+   "symbol": "IGR.V",
+   "name": "CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IGR.V"
   },
   {
    "symbol": "IGT",
@@ -90168,24 +90180,6 @@
    "name": "Comstock Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "LODE"
-  },
-  {
-   "symbol": "LOKM",
-   "name": "Live Oak Mobility Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LOKM"
-  },
-  {
-   "symbol": "LOKM.U",
-   "name": "Live Oak Mobility Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-fifth of one warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LOKM.U"
-  },
-  {
-   "symbol": "LOKM.W",
-   "name": "Live Oak Mobility Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LOKM.W"
   },
   {
    "symbol": "LOMA",

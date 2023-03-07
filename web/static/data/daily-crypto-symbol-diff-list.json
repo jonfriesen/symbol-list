@@ -1,117 +1,302 @@
 {
  "added": [
   {
-   "symbol": "TOK",
-   "name": "Tokenplace (TOK)",
+   "symbol": "COVER",
+   "name": "Cover Protocol (COVER)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "CRBN",
-   "name": "Carbon (CRBN)",
+   "symbol": "HMQ",
+   "name": "Humaniq (HMQ)",
    "built_on": "ETH"
   },
   {
-   "symbol": "RET",
-   "name": "RealTract (RET)",
+   "symbol": "DTR",
+   "name": "Dotori (DTR)",
    "built_on": "ETH"
   },
   {
-   "symbol": "SPHRI",
-   "name": "Spherium (SPHRI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "STBU",
-   "name": "Stobox Token (STBU)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SKILL",
-   "name": "CryptoBlades (SKILL)",
+   "symbol": "MSWAP",
+   "name": "MoneySwap (MSWAP)",
    "built_on": "BNB"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "DRCT",
-   "name": "Ally Direct (DRCT)",
+   "symbol": "GUILD",
+   "name": "BlockchainSpace (GUILD)",
    "built_on": "ETH"
   },
   {
-   "symbol": "LINU",
-   "name": "Luna Inu (LINU)",
+   "symbol": "BAC",
+   "name": "Basis Cash (BAC)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "MATH",
+   "name": "MATH (MATH)"
+  },
+  {
+   "symbol": "KDG",
+   "name": "Kingdom Game 4.0 (KDG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JADE",
+   "name": "Jade Protocol (JADE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TPY",
+   "name": "Thrupenny (TPY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SQUID",
+   "name": "Squid Game (SQUID)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MNZ",
+   "name": "Menzy (MNZ)",
+   "built_on": "BNB"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "FANC",
-   "name": "fanC (FANC)",
+   "symbol": "ERRORCOIN",
+   "name": "ErrorCoin (ERRORCOIN)"
+  },
+  {
+   "symbol": "PINU",
+   "name": "Piccolo Inu (PINU)",
    "built_on": "ETH"
   },
   {
-   "symbol": "MILK2",
-   "name": "Spaceswap MILK2 (MILK2)",
+   "symbol": "LAND",
+   "name": "Landshare (LAND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DYNAMICTRADING",
+   "name": "Dynamic Trading Rights (DYNAMICTRADING)"
+  },
+  {
+   "symbol": "ERR",
+   "name": "Coinerr (ERR)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PLSPAD",
+   "name": "PulsePad (PLSPAD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MNY",
+   "name": "MoonieNFT (MNY)",
    "built_on": "ETH"
   },
   {
-   "symbol": "TONCOIN",
-   "name": "The Open Network (TONCOIN)"
+   "symbol": "DNXC",
+   "name": "DinoX (DNXC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REVA",
+   "name": "Revault Network (REVA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VRO",
+   "name": "VeraOne (VRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PARMA",
+   "name": "PARMA Fan Token (PARMA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOULS",
+   "name": "Soulsaver (SOULS)"
+  },
+  {
+   "symbol": "PATH",
+   "name": "PathDAO (PATH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NMX",
+   "name": "Nominex Token (NMX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AIT",
+   "name": "AIChain Token (AIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FTRB",
+   "name": "Faith Tribe (FTRB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRIV",
+   "name": "DRIVEZ (DRIV)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BLY",
+   "name": "Blocery (BLY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XWIN",
+   "name": "xWIN Finance (XWIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SUNNY",
+   "name": "Sunny Aggregator (SUNNY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NCDT",
+   "name": "Nuco.Cloud (NCDT)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "TOK",
-   "name": "Tokenplace (TOK)"
+   "symbol": "ERR",
+   "name": "ErrorCoin (ERR)"
   },
   {
-   "symbol": "LINU",
-   "name": "Luna Inu (LINU)"
+   "symbol": "HMQ",
+   "name": "Humaniq (HMQ)"
   },
   {
-   "symbol": "SKILL",
-   "name": "CryptoBlades (SKILL)"
+   "symbol": "PATH",
+   "name": "PathDAO (PATH)"
   },
   {
-   "symbol": "MILK2",
-   "name": "Spaceswap MILK2 (MILK2)"
+   "symbol": "PLSPAD",
+   "name": "PulsePad (PLSPAD)"
   },
   {
-   "symbol": "SPHRI",
-   "name": "Spherium (SPHRI)"
+   "symbol": "SUNNY",
+   "name": "Sunny Aggregator (SUNNY)"
   },
   {
-   "symbol": "FANC",
-   "name": "fanC (FANC)"
+   "symbol": "VRO",
+   "name": "VeraOne (VRO)"
   },
   {
-   "symbol": "CRBN",
-   "name": "Carbon (CRBN)"
+   "symbol": "GUILD",
+   "name": "BlockchainSpace (GUILD)"
   },
   {
-   "symbol": "RET",
-   "name": "RealTract (RET)"
+   "symbol": "MNZ",
+   "name": "Menzy (MNZ)"
   },
   {
-   "symbol": "TONCOIN",
-   "name": "The Open Network (TONCOIN)",
+   "symbol": "MSWAP",
+   "name": "MoneySwap (MSWAP)"
+  },
+  {
+   "symbol": "TPY",
+   "name": "Thrupenny (TPY)"
+  },
+  {
+   "symbol": "NMX",
+   "name": "Nominex Token (NMX)"
+  },
+  {
+   "symbol": "BAC",
+   "name": "Basis Cash (BAC)"
+  },
+  {
+   "symbol": "AIT",
+   "name": "AIChain Token (AIT)"
+  },
+  {
+   "symbol": "XWIN",
+   "name": "xWIN Finance (XWIN)"
+  },
+  {
+   "symbol": "LAND",
+   "name": "Landshare (LAND)"
+  },
+  {
+   "symbol": "DTR",
+   "name": "Dynamic Trading Rights (DTR)"
+  },
+  {
+   "symbol": "NCDT",
+   "name": "Nuco.Cloud (NCDT)"
+  },
+  {
+   "symbol": "DRIV",
+   "name": "DRIVEZ (DRIV)"
+  },
+  {
+   "symbol": "MATH",
+   "name": "MATH (MATH)",
    "built_on": "ETH"
   },
   {
-   "symbol": "STBU",
-   "name": "Stobox Token (STBU)"
+   "symbol": "COVER",
+   "name": "Cover Protocol (COVER)"
   },
   {
-   "symbol": "DRCT",
-   "name": "Ally Direct (DRCT)"
+   "symbol": "FTRB",
+   "name": "Faith Tribe (FTRB)"
+  },
+  {
+   "symbol": "MNY",
+   "name": "MoonieNFT (MNY)"
+  },
+  {
+   "symbol": "DNXC",
+   "name": "DinoX (DNXC)"
+  },
+  {
+   "symbol": "SQUID",
+   "name": "Squid Game (SQUID)"
+  },
+  {
+   "symbol": "BLY",
+   "name": "Blocery (BLY)"
+  },
+  {
+   "symbol": "JADE",
+   "name": "Jade Protocol (JADE)"
+  },
+  {
+   "symbol": "KDG",
+   "name": "Kingdom Game 4.0 (KDG)"
+  },
+  {
+   "symbol": "PINU",
+   "name": "Piccolo Inu (PINU)"
+  },
+  {
+   "symbol": "PARMA",
+   "name": "PARMA Fan Token (PARMA)"
+  },
+  {
+   "symbol": "REVA",
+   "name": "Revault Network (REVA)"
   }
  ]
 }
