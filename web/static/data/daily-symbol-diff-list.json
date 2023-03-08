@@ -1,96 +1,126 @@
 {
  "added": [
   {
-   "symbol": "BM",
-   "name": "BC Moly Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BM.V",
-   "instruments": [
-    {
-     "name": "BC Moly Ltd.",
-     "symbol": "BM"
-    }
-   ]
+   "symbol": "CARM",
+   "name": "Carisma Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CARM"
   },
   {
-   "symbol": "CXAIV",
-   "name": "CXApp Inc. - Common Stock When Issued",
+   "symbol": "TORO",
+   "name": "Toro Corp. - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CXAIV"
+   "yahoo_symbol": "TORO"
   },
   {
-   "symbol": "HBANL",
-   "name": "Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HBANL"
+   "symbol": "XBIL",
+   "name": "US Treasury 6 Month Bill ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XBIL"
   },
   {
-   "symbol": "INPXV",
-   "name": "Inpixon  - Common Stock Ex-distribution When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "INPXV"
-  },
-  {
-   "symbol": "GNTY",
-   "name": "Guaranty Bancshares, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GNTY"
-  },
-  {
-   "symbol": "IGR.V",
-   "name": "CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IGR.V"
+   "symbol": "PLM.V",
+   "name": "Polymet Mining Corp. Rights (expiring April 4, 2023) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLM.V"
   }
  ],
  "removed": [
   {
-   "symbol": "LOKM",
-   "name": "Live Oak Mobility Acquisition Corp. Class A Common Stock",
+   "symbol": "FPAC.U",
+   "name": "Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "LOKM"
+   "yahoo_symbol": "FPAC.U"
   },
   {
-   "symbol": "CNCE",
-   "name": "Concert Pharmaceuticals, Inc. - Common Stock",
+   "symbol": "HERAW",
+   "name": "FTAC Hera Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HERAW"
+  },
+  {
+   "symbol": "FRSGU",
+   "name": "First Reserve Sustainable Growth Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRSGU"
+  },
+  {
+   "symbol": "LION",
+   "name": "Lionheart III Corp - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNCE"
+   "yahoo_symbol": "LION"
   },
   {
-   "symbol": "CAJ",
-   "name": "Canon, Inc. American Depositary Shares",
+   "symbol": "LIONW",
+   "name": "Lionheart III Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIONW"
+  },
+  {
+   "symbol": "MGR",
+   "name": "Magna Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MGR.V",
+   "instruments": [
+    {
+     "name": "Magna Gold Corp.",
+     "symbol": "MGR"
+    }
+   ]
+  },
+  {
+   "symbol": "HERA",
+   "name": "FTAC Hera Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HERA"
+  },
+  {
+   "symbol": "SESN",
+   "name": "Sesen Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SESN"
+  },
+  {
+   "symbol": "HERAU",
+   "name": "FTAC Hera Acquisition Corp. - Units, each consisting of one share of Class A common stock and one fourth of one warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HERAU"
+  },
+  {
+   "symbol": "TOROV",
+   "name": "Toro Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOROV"
+  },
+  {
+   "symbol": "CTRMV",
+   "name": "Castor Maritime Inc. - Common Shares Ex-Distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTRMV"
+  },
+  {
+   "symbol": "LIONU",
+   "name": "Lionheart III Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIONU"
+  },
+  {
+   "symbol": "FPAC",
+   "name": "Far Peak Acquisition Corporation Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "CAJ"
+   "yahoo_symbol": "FPAC"
   },
   {
-   "symbol": "GET",
-   "name": "Getnet Adquirencia e Servicos para Meios de Pagamento S.A. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GET"
+   "symbol": "FRSGW",
+   "name": "First Reserve Sustainable Growth Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRSGW"
   },
   {
-   "symbol": "GNTY",
-   "name": "Guaranty Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GNTY"
-  },
-  {
-   "symbol": "LOKM.W",
-   "name": "Live Oak Mobility Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LOKM.W"
-  },
-  {
-   "symbol": "RUBY",
-   "name": "Rubius Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RUBY"
-  },
-  {
-   "symbol": "LOKM.U",
-   "name": "Live Oak Mobility Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-fifth of one warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LOKM.U"
+   "symbol": "FRSG",
+   "name": "First Reserve Sustainable Growth Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRSG"
   }
  ]
 }

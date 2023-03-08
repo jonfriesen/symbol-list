@@ -1,5 +1,5 @@
 {
- "date": "2023-03-07",
+ "date": "2023-03-08",
  "data": [
   {
    "symbol": "ONE",
@@ -11054,18 +11054,6 @@
     {
      "name": "Madoro Metals Corp.",
      "symbol": "MDM"
-    }
-   ]
-  },
-  {
-   "symbol": "MGR",
-   "name": "Magna Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MGR.V",
-   "instruments": [
-    {
-     "name": "Magna Gold Corp.",
-     "symbol": "MGR"
     }
    ]
   },
@@ -38528,6 +38516,10 @@
      "symbol": "MRG.DB.A"
     },
     {
+     "name": "Morgaurd NA Rl 6% Db",
+     "symbol": "MRG.DB.B"
+    },
+    {
      "name": "Morguard NA REIT UN",
      "symbol": "MRG.UN"
     }
@@ -50762,6 +50754,12 @@
    "yahoo_symbol": "CARG"
   },
   {
+   "symbol": "CARM",
+   "name": "Carisma Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CARM"
+  },
+  {
    "symbol": "CARV",
    "name": "Carver Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -53082,12 +53080,6 @@
    "name": "Castor Maritime Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CTRM"
-  },
-  {
-   "symbol": "CTRMV",
-   "name": "Castor Maritime Inc. - Common Shares Ex-Distribution When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CTRMV"
   },
   {
    "symbol": "CTRN",
@@ -56834,24 +56826,6 @@
    "yahoo_symbol": "FRPT"
   },
   {
-   "symbol": "FRSG",
-   "name": "First Reserve Sustainable Growth Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRSG"
-  },
-  {
-   "symbol": "FRSGU",
-   "name": "First Reserve Sustainable Growth Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRSGU"
-  },
-  {
-   "symbol": "FRSGW",
-   "name": "First Reserve Sustainable Growth Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRSGW"
-  },
-  {
    "symbol": "FRSH",
    "name": "Freshworks Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58992,24 +58966,6 @@
    "name": "D-Market Electronic Services \u0026 Trading - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HEPS"
-  },
-  {
-   "symbol": "HERA",
-   "name": "FTAC Hera Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HERA"
-  },
-  {
-   "symbol": "HERAU",
-   "name": "FTAC Hera Acquisition Corp. - Units, each consisting of one share of Class A common stock and one fourth of one warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HERAU"
-  },
-  {
-   "symbol": "HERAW",
-   "name": "FTAC Hera Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HERAW"
   },
   {
    "symbol": "HERD",
@@ -62898,24 +62854,6 @@
    "name": "Interlink Electronics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LINK"
-  },
-  {
-   "symbol": "LION",
-   "name": "Lionheart III Corp - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LION"
-  },
-  {
-   "symbol": "LIONU",
-   "name": "Lionheart III Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LIONU"
-  },
-  {
-   "symbol": "LIONW",
-   "name": "Lionheart III Corp - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LIONW"
   },
   {
    "symbol": "LIPO",
@@ -71510,12 +71448,6 @@
    "yahoo_symbol": "SERA"
   },
   {
-   "symbol": "SESN",
-   "name": "Sesen Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SESN"
-  },
-  {
    "symbol": "SETM",
    "name": "Sprott Energy Transition Materials ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -74474,10 +74406,10 @@
    "yahoo_symbol": "TOPS"
   },
   {
-   "symbol": "TOROV",
+   "symbol": "TORO",
    "name": "Toro Corp. - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TOROV"
+   "yahoo_symbol": "TORO"
   },
   {
    "symbol": "TOUR",
@@ -77124,6 +77056,12 @@
    "name": "Beyond Air, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "XAIR"
+  },
+  {
+   "symbol": "XBIL",
+   "name": "US Treasury 6 Month Bill ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XBIL"
   },
   {
    "symbol": "XBIO",
@@ -85994,18 +85932,6 @@
    "yahoo_symbol": "FOXO.W"
   },
   {
-   "symbol": "FPAC",
-   "name": "Far Peak Acquisition Corporation Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FPAC"
-  },
-  {
-   "symbol": "FPAC.U",
-   "name": "Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FPAC.U"
-  },
-  {
    "symbol": "FPF",
    "name": "First Trust Intermediate Duration Preferred \u0026 Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -94056,6 +93982,12 @@
    "name": "Polymet Mining Corporation Ordinary Shares (Canada)",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "PLM"
+  },
+  {
+   "symbol": "PLM.V",
+   "name": "Polymet Mining Corp. Rights (expiring April 4, 2023) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLM.V"
   },
   {
    "symbol": "PLNT",
