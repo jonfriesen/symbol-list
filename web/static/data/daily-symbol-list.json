@@ -1,5 +1,5 @@
 {
- "date": "2023-03-08",
+ "date": "2023-03-09",
  "data": [
   {
    "symbol": "ONE",
@@ -6110,6 +6110,18 @@
    ]
   },
   {
+   "symbol": "EBCD.P",
+   "name": "Eureka Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EBCD.P.V",
+   "instruments": [
+    {
+     "name": "Eureka Capital Corp.",
+     "symbol": "EBCD.P"
+    }
+   ]
+  },
+  {
    "symbol": "EMN",
    "name": "Euro Manganese Inc.",
    "exchange": "TSXV",
@@ -11882,18 +11894,6 @@
    ]
   },
   {
-   "symbol": "MIMI",
-   "name": "Mimi's Rock Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MIMI.V",
-   "instruments": [
-    {
-     "name": "Mimi's Rock Corp.",
-     "symbol": "MIMI"
-    }
-   ]
-  },
-  {
    "symbol": "MSP",
    "name": "Minaean SP Construction Corp.",
    "exchange": "TSXV",
@@ -13118,6 +13118,18 @@
     {
      "name": "Northstar Clean Technologies Inc. wt 22Jun2023",
      "symbol": "ROOF.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "BET",
+   "name": "NorthStar Gaming Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BET.V",
+   "instruments": [
+    {
+     "name": "Northstar Gaming Holdings Inc.",
+     "symbol": "BET"
     }
    ]
   },
@@ -36986,6 +36998,18 @@
    ]
   },
   {
+   "symbol": "LIRC",
+   "name": "Lithium Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LIRC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Royalty J WI",
+     "symbol": "LIRC"
+    }
+   ]
+  },
+  {
    "symbol": "L",
    "name": "Loblaw Companies Limited",
    "exchange": "TSX",
@@ -40194,6 +40218,10 @@
     {
      "name": "Polymet Mining J",
      "symbol": "POM"
+    },
+    {
+     "name": "Polymet Mining J Rt",
+     "symbol": "POM.RT"
     }
    ]
   },
@@ -45074,18 +45102,6 @@
     {
      "name": "Waste Connections",
      "symbol": "WCN"
-    }
-   ]
-  },
-  {
-   "symbol": "WBR",
-   "name": "Waterloo Brewing Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "WBR.TO",
-   "instruments": [
-    {
-     "name": "Waterloo Brewing Ltd",
-     "symbol": "WBR"
     }
    ]
   },
@@ -54086,7 +54102,7 @@
   {
    "symbol": "DRTT",
    "name": "DIRTT Environmental Solutions Ltd. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DRTT"
   },
   {
@@ -72252,6 +72268,18 @@
    "yahoo_symbol": "SMTI"
   },
   {
+   "symbol": "SMX",
+   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMX"
+  },
+  {
+   "symbol": "SMXWW",
+   "name": "SMX (Security Matters) Public Limited Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMXWW"
+  },
+  {
    "symbol": "SNAL",
    "name": "Snail, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -72790,12 +72818,6 @@
    "name": "Sportradar Group AG - Class A Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SRAD"
-  },
-  {
-   "symbol": "SRAX",
-   "name": "SRAX, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SRAX"
   },
   {
    "symbol": "SRCE",
@@ -78106,6 +78128,12 @@
    "name": "The AES Corporation Corporate Units",
    "exchange": "NYSE",
    "yahoo_symbol": "AESC"
+  },
+  {
+   "symbol": "AESI",
+   "name": "Atlas Energy Solutions Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AESI"
   },
   {
    "symbol": "AEVA",

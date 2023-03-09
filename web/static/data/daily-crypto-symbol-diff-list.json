@@ -1,72 +1,28 @@
 {
  "added": [
   {
-   "symbol": "CPD",
-   "name": "CoinsPaid (CPD)",
+   "symbol": "HUSL",
+   "name": "Hustle Token (HUSL)",
    "built_on": "ETH"
   },
   {
-   "symbol": "SWFL",
-   "name": "Swapfolio (SWFL)",
+   "symbol": "ASIA",
+   "name": "Asia Coin (ASIA)",
    "built_on": "ETH"
   },
   {
-   "symbol": "RBIS",
-   "name": "ArbiSmart (RBIS)",
+   "symbol": "ENTC",
+   "name": "EnterButton (ENTC)",
    "built_on": "ETH"
   },
   {
-   "symbol": "AXIS",
-   "name": "Axis DeFi (AXIS)",
-   "built_on": "ETH"
+   "symbol": "RIN",
+   "name": "Aldrin (RIN)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "RDX",
-   "name": "Redux Protocol (RDX)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "FORTHB",
-   "name": "ForthBox (FORTHB)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "FBX",
-   "name": "Finance Blocks (FBX)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "FARA",
-   "name": "FaraLand (FARA)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "SYNC",
-   "name": "Sync Network (SYNC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ZORA",
-   "name": "Zoracles (ZORA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SLICE",
-   "name": "Tranche Finance (SLICE)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "URQA",
-   "name": "UREEQA (URQA)",
+   "symbol": "BXX",
+   "name": "Baanx (BXX)",
    "built_on": "ETH"
   },
   {
@@ -74,59 +30,52 @@
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "QRX",
-   "name": "QuiverX (QRX)",
+   "symbol": "SALE",
+   "name": "DxSale Network (SALE)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "FLZ",
+   "name": "Fellaz (FLZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "SLICE",
-   "name": "Tranche Finance (SLICE)"
+   "symbol": "FLZ",
+   "name": "Fellaz (FLZ)"
   },
   {
-   "symbol": "AXIS",
-   "name": "Axis DeFi (AXIS)"
+   "symbol": "SALE",
+   "name": "DxSale Network (SALE)"
   },
   {
-   "symbol": "SWFL",
-   "name": "Swapfolio (SWFL)"
+   "symbol": "ENTC",
+   "name": "EnterButton (ENTC)"
   },
   {
-   "symbol": "FBX",
-   "name": "ForthBox (FBX)"
+   "symbol": "RIN",
+   "name": "Aldrin (RIN)"
   },
   {
-   "symbol": "CPD",
-   "name": "CoinsPaid (CPD)"
+   "symbol": "BXX",
+   "name": "Baanx (BXX)"
   },
   {
-   "symbol": "SYNC",
-   "name": "Sync Network (SYNC)"
+   "symbol": "HUSL",
+   "name": "Hustle Token (HUSL)"
   },
   {
-   "symbol": "FARA",
-   "name": "FaraLand (FARA)"
-  },
-  {
-   "symbol": "RDX",
-   "name": "Redux Protocol (RDX)"
-  },
-  {
-   "symbol": "ZORA",
-   "name": "Zoracles (ZORA)"
-  },
-  {
-   "symbol": "QRX",
-   "name": "QuiverX (QRX)"
-  },
-  {
-   "symbol": "RBIS",
-   "name": "ArbiSmart (RBIS)"
-  },
-  {
-   "symbol": "URQA",
-   "name": "UREEQA (URQA)"
+   "symbol": "ASIA",
+   "name": "Asia Coin (ASIA)"
   }
  ]
 }

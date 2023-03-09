@@ -1,126 +1,102 @@
 {
  "added": [
   {
-   "symbol": "CARM",
-   "name": "Carisma Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CARM"
-  },
-  {
-   "symbol": "TORO",
-   "name": "Toro Corp. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TORO"
-  },
-  {
-   "symbol": "XBIL",
-   "name": "US Treasury 6 Month Bill ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XBIL"
-  },
-  {
-   "symbol": "PLM.V",
-   "name": "Polymet Mining Corp. Rights (expiring April 4, 2023) Rights when issued",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PLM.V"
-  }
- ],
- "removed": [
-  {
-   "symbol": "FPAC.U",
-   "name": "Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FPAC.U"
-  },
-  {
-   "symbol": "HERAW",
-   "name": "FTAC Hera Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HERAW"
-  },
-  {
-   "symbol": "FRSGU",
-   "name": "First Reserve Sustainable Growth Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRSGU"
-  },
-  {
-   "symbol": "LION",
-   "name": "Lionheart III Corp - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LION"
-  },
-  {
-   "symbol": "LIONW",
-   "name": "Lionheart III Corp - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LIONW"
-  },
-  {
-   "symbol": "MGR",
-   "name": "Magna Gold Corp.",
+   "symbol": "EBCD.P",
+   "name": "Eureka Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MGR.V",
+   "yahoo_symbol": "EBCD.P.V",
    "instruments": [
     {
-     "name": "Magna Gold Corp.",
-     "symbol": "MGR"
+     "name": "Eureka Capital Corp.",
+     "symbol": "EBCD.P"
     }
    ]
   },
   {
-   "symbol": "HERA",
-   "name": "FTAC Hera Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HERA"
+   "symbol": "BET",
+   "name": "NorthStar Gaming Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BET.V",
+   "instruments": [
+    {
+     "name": "Northstar Gaming Holdings Inc.",
+     "symbol": "BET"
+    }
+   ]
   },
   {
-   "symbol": "SESN",
-   "name": "Sesen Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SESN"
+   "symbol": "LIRC",
+   "name": "Lithium Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LIRC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Royalty J WI",
+     "symbol": "LIRC"
+    }
+   ]
   },
   {
-   "symbol": "HERAU",
-   "name": "FTAC Hera Acquisition Corp. - Units, each consisting of one share of Class A common stock and one fourth of one warrant",
+   "symbol": "DRTT",
+   "name": "DIRTT Environmental Solutions Ltd. - Common Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HERAU"
+   "yahoo_symbol": "DRTT"
   },
   {
-   "symbol": "TOROV",
-   "name": "Toro Corp. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TOROV"
-  },
-  {
-   "symbol": "CTRMV",
-   "name": "Castor Maritime Inc. - Common Shares Ex-Distribution When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CTRMV"
-  },
-  {
-   "symbol": "LIONU",
-   "name": "Lionheart III Corp - Unit",
+   "symbol": "SMX",
+   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LIONU"
+   "yahoo_symbol": "SMX"
   },
   {
-   "symbol": "FPAC",
-   "name": "Far Peak Acquisition Corporation Class A Ordinary Shares",
+   "symbol": "SMXWW",
+   "name": "SMX (Security Matters) Public Limited Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMXWW"
+  },
+  {
+   "symbol": "AESI",
+   "name": "Atlas Energy Solutions Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "FPAC"
+   "yahoo_symbol": "AESI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MIMI",
+   "name": "Mimi's Rock Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MIMI.V",
+   "instruments": [
+    {
+     "name": "Mimi's Rock Corp.",
+     "symbol": "MIMI"
+    }
+   ]
   },
   {
-   "symbol": "FRSGW",
-   "name": "First Reserve Sustainable Growth Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRSGW"
+   "symbol": "SRAX",
+   "name": "SRAX, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SRAX"
   },
   {
-   "symbol": "FRSG",
-   "name": "First Reserve Sustainable Growth Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRSG"
+   "symbol": "WBR",
+   "name": "Waterloo Brewing Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "WBR.TO",
+   "instruments": [
+    {
+     "name": "Waterloo Brewing Ltd",
+     "symbol": "WBR"
+    }
+   ]
+  },
+  {
+   "symbol": "DRTT",
+   "name": "DIRTT Environmental Solutions Ltd. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DRTT"
   }
  ]
 }
