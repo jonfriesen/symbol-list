@@ -1,102 +1,156 @@
 {
  "added": [
   {
-   "symbol": "EBCD.P",
-   "name": "Eureka Capital Corp.",
+   "symbol": "PVIS",
+   "name": "Parvis Invest Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "EBCD.P.V",
+   "yahoo_symbol": "PVIS.V",
    "instruments": [
     {
-     "name": "Eureka Capital Corp.",
-     "symbol": "EBCD.P"
+     "name": "Parvis Invest Inc.",
+     "symbol": "PVIS"
     }
    ]
   },
   {
-   "symbol": "BET",
-   "name": "NorthStar Gaming Holdings Inc.",
+   "symbol": "TOTC.P",
+   "name": "Totec Resources Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "BET.V",
+   "yahoo_symbol": "TOTC.P.V",
    "instruments": [
     {
-     "name": "Northstar Gaming Holdings Inc.",
-     "symbol": "BET"
+     "name": "Totec Resources Ltd.",
+     "symbol": "TOTC.P"
     }
    ]
   },
   {
-   "symbol": "LIRC",
-   "name": "Lithium Royalty Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "LIRC.TO",
-   "instruments": [
-    {
-     "name": "Lithium Royalty J WI",
-     "symbol": "LIRC"
-    }
-   ]
-  },
-  {
-   "symbol": "DRTT",
-   "name": "DIRTT Environmental Solutions Ltd. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DRTT"
-  },
-  {
-   "symbol": "SMX",
-   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
+   "symbol": "AIXI",
+   "name": "XIAO-I Corporation - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMX"
+   "yahoo_symbol": "AIXI"
   },
   {
-   "symbol": "SMXWW",
-   "name": "SMX (Security Matters) Public Limited Company - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SMXWW"
-  },
-  {
-   "symbol": "AESI",
-   "name": "Atlas Energy Solutions Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AESI"
+   "symbol": "LMND.W",
+   "name": "Lemonade, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LMND.W"
   }
  ],
  "removed": [
   {
-   "symbol": "MIMI",
-   "name": "Mimi's Rock Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MIMI.V",
-   "instruments": [
-    {
-     "name": "Mimi's Rock Corp.",
-     "symbol": "MIMI"
-    }
-   ]
+   "symbol": "MYOV",
+   "name": "Myovant Sciences Ltd. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MYOV"
   },
   {
-   "symbol": "SRAX",
-   "name": "SRAX, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SRAX"
+   "symbol": "WPCB.U",
+   "name": "Warburg Pincus Capital Corporation IB Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPCB.U"
   },
   {
-   "symbol": "WBR",
-   "name": "Waterloo Brewing Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "WBR.TO",
-   "instruments": [
-    {
-     "name": "Waterloo Brewing Ltd",
-     "symbol": "WBR"
-    }
-   ]
+   "symbol": "ESM.U",
+   "name": "ESM Acquisition Corporation Unit",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ESM.U"
   },
   {
-   "symbol": "DRTT",
-   "name": "DIRTT Environmental Solutions Ltd. - Common Shares",
+   "symbol": "ESM.W",
+   "name": "ESM Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ESM.W"
+  },
+  {
+   "symbol": "WPCB",
+   "name": "Warburg Pincus Capital Corporation IB Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPCB"
+  },
+  {
+   "symbol": "SVFB",
+   "name": "SVF Investment Corp. 2 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVFB"
+  },
+  {
+   "symbol": "ESM",
+   "name": "ESM Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ESM"
+  },
+  {
+   "symbol": "WPCA.U",
+   "name": "Warburg Pincus Capital Corporation IA Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPCA.U"
+  },
+  {
+   "symbol": "FCRD",
+   "name": "First Eagle Alternative Capital BDC, Inc. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DRTT"
+   "yahoo_symbol": "FCRD"
+  },
+  {
+   "symbol": "FSTX",
+   "name": "F-star Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSTX"
+  },
+  {
+   "symbol": "GII.P",
+   "name": "Gravitas II Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GII.P.V",
+   "instruments": [
+    {
+     "name": "Gravitas II Capital Corp.",
+     "symbol": "GII.P"
+    }
+   ]
+  },
+  {
+   "symbol": "RTI",
+   "name": "Radient Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RTI.V",
+   "instruments": [
+    {
+     "name": "Radient Technologies Inc.",
+     "symbol": "RTI"
+    }
+   ]
+  },
+  {
+   "symbol": "VVNT",
+   "name": "Vivint Smart Home, Inc. ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VVNT"
+  },
+  {
+   "symbol": "GMN",
+   "name": "GobiMin Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GMN.V",
+   "instruments": [
+    {
+     "name": "GobiMin Inc.",
+     "symbol": "GMN"
+    }
+   ]
+  },
+  {
+   "symbol": "WPCA",
+   "name": "Warburg Pincus Capital Corporation IA Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPCA"
+  },
+  {
+   "symbol": "TMDI",
+   "name": "Titan Medical Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TMDI"
   }
  ]
 }
