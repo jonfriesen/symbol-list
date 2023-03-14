@@ -1,5 +1,5 @@
 {
- "date": "2023-03-13",
+ "date": "2023-03-14",
  "data": [
   {
    "symbol": "ONE",
@@ -31890,18 +31890,6 @@
    ]
   },
   {
-   "symbol": "GTMS",
-   "name": "Greenbrook TMS Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "GTMS.TO",
-   "instruments": [
-    {
-     "name": "Greenbrook TMS Inc J",
-     "symbol": "GTMS"
-    }
-   ]
-  },
-  {
    "symbol": "GFP",
    "name": "GreenFirst Forest Products Inc.",
    "exchange": "TSX",
@@ -36962,18 +36950,6 @@
     {
      "name": "Lithium Americas J",
      "symbol": "LAC"
-    }
-   ]
-  },
-  {
-   "symbol": "LIRC",
-   "name": "Lithium Royalty Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "LIRC.TO",
-   "instruments": [
-    {
-     "name": "Lithium Royalty J WI",
-     "symbol": "LIRC"
     }
    ]
   },
@@ -50258,6 +50234,12 @@
    "yahoo_symbol": "BSVN"
   },
   {
+   "symbol": "BSVO",
+   "name": "EA Bridgeway Omni Small-Cap Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSVO"
+  },
+  {
    "symbol": "BSY",
    "name": "Bentley Systems, Incorporated - Class B Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58674,12 +58656,6 @@
    "name": "Halozyme Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HALO"
-  },
-  {
-   "symbol": "HAPP",
-   "name": "Happiness Development Group Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HAPP"
   },
   {
    "symbol": "HARP",
@@ -67358,6 +67334,12 @@
    "yahoo_symbol": "PAVMZ"
   },
   {
+   "symbol": "PAVS",
+   "name": "Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PAVS"
+  },
+  {
    "symbol": "PAX",
    "name": "Patria Investments Limited - Class A Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73560,24 +73542,6 @@
    "name": "Theravance Biopharma, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TBPH"
-  },
-  {
-   "symbol": "TBSA",
-   "name": "TB SA Acquisition Corp - Class A ordinary share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TBSA"
-  },
-  {
-   "symbol": "TBSAU",
-   "name": "TB SA Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TBSAU"
-  },
-  {
-   "symbol": "TBSAW",
-   "name": "TB SA Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TBSAW"
   },
   {
    "symbol": "TC",
@@ -88226,10 +88190,10 @@
    "yahoo_symbol": "IGR"
   },
   {
-   "symbol": "IGR.V",
-   "name": "CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights when issued",
+   "symbol": "IGR.R",
+   "name": "CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "IGR.V"
+   "yahoo_symbol": "IGR.R"
   },
   {
    "symbol": "IGT",
@@ -89086,19 +89050,19 @@
   {
    "symbol": "JWSM",
    "name": "Jaws Mustang Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "JWSM"
   },
   {
    "symbol": "JWSM.U",
    "name": "Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "JWSM.U"
   },
   {
    "symbol": "JWSM.W",
    "name": "Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "JWSM.W"
   },
   {

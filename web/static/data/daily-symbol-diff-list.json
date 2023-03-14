@@ -1,168 +1,114 @@
 {
  "added": [
   {
-   "symbol": "BACA",
-   "name": "Berenson Acquisition Corp. I Class A Common Stock",
+   "symbol": "BSVO",
+   "name": "EA Bridgeway Omni Small-Cap Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSVO"
+  },
+  {
+   "symbol": "PAVS",
+   "name": "Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PAVS"
+  },
+  {
+   "symbol": "IGR.R",
+   "name": "CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IGR.R"
+  },
+  {
+   "symbol": "JWSM",
+   "name": "Jaws Mustang Acquisition Corp. Class A Ordinary Shares",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "BACA"
+   "yahoo_symbol": "JWSM"
+  },
+  {
+   "symbol": "JWSM.U",
+   "name": "Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JWSM.U"
+  },
+  {
+   "symbol": "JWSM.W",
+   "name": "Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JWSM.W"
   }
  ],
  "removed": [
   {
-   "symbol": "PDOT",
-   "name": "Peridot Acquisition Corp. II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PDOT"
-  },
-  {
-   "symbol": "PTOC",
-   "name": "Pine Technology Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTOC"
-  },
-  {
-   "symbol": "HORI",
-   "name": "Emerging Markets Horizon Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HORI"
-  },
-  {
-   "symbol": "CLAA.U",
-   "name": "Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CLAA.U"
-  },
-  {
-   "symbol": "AGGR",
-   "name": "Agile Growth Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGGR"
-  },
-  {
-   "symbol": "PDOT.U",
-   "name": "Peridot Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PDOT.U"
-  },
-  {
-   "symbol": "ACQR",
-   "name": "Independence Holdings Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACQR"
-  },
-  {
-   "symbol": "BACA.U",
-   "name": "Berenson Acquisition Corp. I Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BACA.U"
-  },
-  {
-   "symbol": "DEX",
-   "name": "Delaware Enhanced Global Dividend Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DEX"
-  },
-  {
-   "symbol": "DDF",
-   "name": "Delaware Investments Dividend \u0026 Income Fund, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DDF"
-  },
-  {
-   "symbol": "AGGRU",
-   "name": "Agile Growth Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGGRU"
-  },
-  {
-   "symbol": "WMG",
-   "name": "Western Magnesium Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WMG.V",
+   "symbol": "GTMS",
+   "name": "Greenbrook TMS Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GTMS.TO",
    "instruments": [
     {
-     "name": "Western Magnesium Corporation",
-     "symbol": "WMG"
+     "name": "Greenbrook TMS Inc J",
+     "symbol": "GTMS"
     }
    ]
   },
   {
-   "symbol": "PTOCU",
-   "name": "Pine Technology Acquisition Corp. - Unit",
+   "symbol": "HAPP",
+   "name": "Happiness Development Group Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTOCU"
+   "yahoo_symbol": "HAPP"
   },
   {
-   "symbol": "AGGRW",
-   "name": "Agile Growth Corp. - Warrant",
+   "symbol": "TBSAU",
+   "name": "TB SA Acquisition Corp - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGGRW"
+   "yahoo_symbol": "TBSAU"
   },
   {
-   "symbol": "PDOT.W",
-   "name": "Peridot Acquisition Corp. II Redeemable warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "symbol": "JWSM.W",
+   "name": "Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
    "exchange": "NYSE",
-   "yahoo_symbol": "PDOT.W"
+   "yahoo_symbol": "JWSM.W"
   },
   {
-   "symbol": "MGU",
-   "name": "Macquarie Global Infrastructure Total Return Fund Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MGU"
-  },
-  {
-   "symbol": "CLAA",
-   "name": "Colonnade Acquisition Corp. II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CLAA"
-  },
-  {
-   "symbol": "ACQRW",
-   "name": "Independence Holdings Corp. - Warrant",
+   "symbol": "TBSAW",
+   "name": "TB SA Acquisition Corp - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACQRW"
+   "yahoo_symbol": "TBSAW"
   },
   {
-   "symbol": "CLAA.W",
-   "name": "Colonnade Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CLAA.W"
-  },
-  {
-   "symbol": "PTOCW",
-   "name": "Pine Technology Acquisition Corp. - Warrant",
+   "symbol": "TBSA",
+   "name": "TB SA Acquisition Corp - Class A ordinary share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTOCW"
+   "yahoo_symbol": "TBSA"
   },
   {
-   "symbol": "HORIW",
-   "name": "Emerging Markets Horizon Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HORIW"
-  },
-  {
-   "symbol": "ACQRU",
-   "name": "Independence Holdings Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACQRU"
-  },
-  {
-   "symbol": "BACA",
-   "name": "Berenson Acquisition Corp. I Class A Common Stock",
+   "symbol": "JWSM.U",
+   "name": "Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "BACA"
+   "yahoo_symbol": "JWSM.U"
   },
   {
-   "symbol": "HORIU",
-   "name": "Emerging Markets Horizon Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HORIU"
-  },
-  {
-   "symbol": "IVH",
-   "name": "Delaware Ivy High Income Opportunities Fund",
+   "symbol": "JWSM",
+   "name": "Jaws Mustang Acquisition Corp. Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "IVH"
+   "yahoo_symbol": "JWSM"
+  },
+  {
+   "symbol": "IGR.V",
+   "name": "CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IGR.V"
+  },
+  {
+   "symbol": "LIRC",
+   "name": "Lithium Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LIRC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Royalty J WI",
+     "symbol": "LIRC"
+    }
+   ]
   }
  ]
 }

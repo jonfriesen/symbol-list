@@ -2475,7 +2475,6 @@ FOOD,Goodfood Market Corp.,TSX,FOOD.TO,Goodfood Market J,FOOD,Goodfood Mkt J Deb
 GTE,Gran Tierra Energy Inc.,TSX,GTE.TO,Gran Tierra Energy J,GTE
 GRT.UN,Granite Real Estate Investment Trust,TSX,GRT.UN.TO,Granite Rl Est Tr Un,GRT.UN
 GWO,Great-West Lifeco Inc.,TSX,GWO.TO,Great-West Lifeco,GWO,Gt-West Lifeco Pr G,GWO.PR.G,Gt-West Lifeco Pr H ,GWO.PR.H,Gt-West Lifeco Pr I,GWO.PR.I,Gt-West Lifeco Pr L,GWO.PR.L,Gt-West Lifeco Pr M,GWO.PR.M,Gt-West Lifeco Pr N,GWO.PR.N,Gt-West Lifeco Pr P,GWO.PR.P,Gt-West Lifeco Pr Q,GWO.PR.Q,Gt-West Lifeco Pr R,GWO.PR.R,Gt-West Lifeco Pr S,GWO.PR.S,Gt-West Lifeco Pr T,GWO.PR.T,Gt-West Lifeco Pr Y,GWO.PR.Y
-GTMS,Greenbrook TMS Inc.,TSX,GTMS.TO,Greenbrook TMS Inc J,GTMS
 GFP,GreenFirst Forest Products Inc.,TSX,GFP.TO,Green1st ForestProdJ,GFP
 GRN,Greenlane Renewables Inc.,TSX,GRN.TO,Greenlane Renew J,GRN
 GCBD,Guardian Canadian Bond ETF,TSX,GCBD.TO,Guardian Cdn Bond Un,GCBD
@@ -2865,7 +2864,6 @@ LSPD,Lightspeed Commerce Inc.,TSX,LSPD.TO,Lightspeed Commrc SV,LSPD
 LNR,Linamar Corporation,TSX,LNR.TO,Linamar Corporation,LNR
 LEV,Lion Electric Company (The),TSX,LEV.TO,Lion Electric Co J,LEV,Lion ElectricCo J Wt,LEV.WT,Lion Elect Co J A Wt,LEV.WT.A
 LAC,Lithium Americas Corp.,TSX,LAC.TO,Lithium Americas J,LAC
-LIRC,Lithium Royalty Corp.,TSX,LIRC.TO,Lithium Royalty J WI,LIRC
 L,Loblaw Companies Limited,TSX,L.TO,Loblaw Companies Ltd,L,Loblaw Co. Ser B Pr,L.PR.B
 LGT.A,Logistec Corporation,TSX,LGT.A.TO,Logistec Corp. A MV ,LGT.A,Logistec Corp Cl B,LGT.B
 LN,Loncor Gold Inc.,TSX,LN.TO,Loncor Gold Inc. J,LN
@@ -4293,6 +4291,7 @@ BSMW,Invesco BulletShares 2032 Municipal Bond ETF,NASDAQ Global MarketSM,BSMW
 BSQR,BSQUARE Corporation - Common Stock,NASDAQ Capital Market,BSQR
 BSRR,Sierra Bancorp - Common Stock,NASDAQ Global Select MarketSM,BSRR
 BSVN,Bank7 Corp. - Common stock,NASDAQ Global Select MarketSM,BSVN
+BSVO,EA Bridgeway Omni Small-Cap Value ETF,NASDAQ Global MarketSM,BSVO
 BSY,"Bentley Systems, Incorporated - Class B Common Stock",NASDAQ Global Select MarketSM,BSY
 BTAI,"BioXcel Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,BTAI
 BTB,Bit Brother Limited - Class A Ordinary Shares,NASDAQ Capital Market,BTB
@@ -5696,7 +5695,6 @@ HAIAW,Healthcare AI Acquisition Corp. - Warrants,NASDAQ Global MarketSM,HAIAW
 HAIN,"The Hain Celestial Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,HAIN
 HALL,"Hallmark Financial Services, Inc. - Common Stock",NASDAQ Global MarketSM,HALL
 HALO,"Halozyme Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,HALO
-HAPP,Happiness Development Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,HAPP
 HARP,"Harpoon Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,HARP
 HAS,"Hasbro, Inc. - Common Stock",NASDAQ Global Select MarketSM,HAS
 HAYN,"Haynes International, Inc. - Common Stock",NASDAQ Global Select MarketSM,HAYN
@@ -7143,6 +7141,7 @@ PATI,"Patriot Transportation Holding, Inc. - Common Stock",NASDAQ Global Select 
 PATK,"Patrick Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,PATK
 PAVM,PAVmed Inc. - Common Stock,NASDAQ Capital Market,PAVM
 PAVMZ,PAVmed Inc. - Series Z Warrant,NASDAQ Capital Market,PAVMZ
+PAVS,Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,PAVS
 PAX,Patria Investments Limited - Class A Common Shares,NASDAQ Global Select MarketSM,PAX
 PAYO,Payoneer Global Inc. - Common Stock,NASDAQ Global MarketSM,PAYO
 PAYOW,Payoneer Global Inc. - Warrant,NASDAQ Global MarketSM,PAYOW
@@ -8177,9 +8176,6 @@ TBLT,"ToughBuilt Industries, Inc. - Common Stock",NASDAQ Capital Market,TBLT
 TBLTW,"ToughBuilt Industries, Inc. - Warrant",NASDAQ Capital Market,TBLTW
 TBNK,Territorial Bancorp Inc. - Common Stock,NASDAQ Global Select MarketSM,TBNK
 TBPH,"Theravance Biopharma, Inc. - Ordinary Shares",NASDAQ Global MarketSM,TBPH
-TBSA,TB SA Acquisition Corp - Class A ordinary share,NASDAQ Capital Market,TBSA
-TBSAU,TB SA Acquisition Corp - Unit,NASDAQ Capital Market,TBSAU
-TBSAW,TB SA Acquisition Corp - Warrant,NASDAQ Capital Market,TBSAW
 TC,TuanChe Limited - American Depositary Shares,NASDAQ Capital Market,TC
 TCBC,"TC Bancshares, Inc. - Common Stock",NASDAQ Capital Market,TCBC
 TCBI,"Texas Capital Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,TCBI
@@ -10621,7 +10617,7 @@ IGC,India Globalization Capital Inc. Common Stock,NYSE MKT,IGC
 IGD,Voya Global Equity Dividend and Premium Opportunity Fund,NYSE,IGD
 IGI,Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock,NYSE,IGI
 IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,NYSE,IGR
-IGR.V,"CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights when issued",NYSE,IGR.V
+IGR.R,"CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights",NYSE,IGR.R
 IGT,International Game Technology Ordinary Shares,NYSE,IGT
 IGZ,IGZ (Listing Market NYSE Arca Network B F) Common Stock,NYSE ARCA,IGZ
 IH,"iHuman Inc. American depositary shares, each representing five Class A ordinary shares",NYSE,IH
@@ -10764,9 +10760,9 @@ JUN,Juniper II Corp. Class A Common Stock,NYSE,JUN
 JUN.U,"Juniper II Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",NYSE,JUN.U
 JUN.W,"Juniper II Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",NYSE,JUN.W
 JWN,"Nordstrom, Inc. Common Stock",NYSE,JWN
-JWSM,Jaws Mustang Acquisition Corp. Class A Ordinary Shares,NYSE,JWSM
-JWSM.U,"Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",NYSE,JWSM.U
-JWSM.W,"Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,JWSM.W
+JWSM,Jaws Mustang Acquisition Corp. Class A Ordinary Shares,NYSE MKT,JWSM
+JWSM.U,"Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",NYSE MKT,JWSM.U
+JWSM.W,"Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE MKT,JWSM.W
 JXN,Jackson Financial Inc. Class A Common Stock ,NYSE,JXN
 K,Kellogg Company Common Stock,NYSE,K
 KAI,Kadant Inc Common Stock,NYSE,KAI
