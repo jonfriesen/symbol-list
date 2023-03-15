@@ -101,7 +101,6 @@ ACS,Archon Minerals Limited,TSXV,ACS.V,Archon Minerals Ltd.,ACS
 ACP,Arcpacific Resources Corp.,TSXV,ACP.V,Arcpacific Resources Corp.,ACP
 ARC,ARCpoint Inc.,TSXV,ARC.V,ARCpoint Inc.,ARC
 ADD,Arctic Star Exploration Corp.,TSXV,ADD.V,Arctic Star Exploration Corp.,ADD
-ADG,Arcus Development Group Inc.,TSXV,ADG.V,Arcus Development Group Inc,ADG
 AWX,Arcwest Exploration Inc.,TSXV,AWX.V,Arcwest Exploration Inc.,AWX
 AN,Arena Minerals Inc.,TSXV,AN.V,Arena Minerals Inc.,AN
 LIT,Argentina Lithium & Energy Corp.,TSXV,LIT.V,Argentina Lithium & Energy Corp.,LIT
@@ -437,7 +436,6 @@ FLT,Drone Delivery Canada Corp.,TSXV,FLT.V,Drone Delivery Canada Corp.,FLT
 DVX.P,Drummond Ventures Corp.,TSXV,DVX.P.V,Drummond Ventures Corp.,DVX.P
 DGO,Durango Resources Inc.,TSXV,DGO.V,Durango Resources Inc.,DGO
 DXX,DXStorm.com Inc.,TSXV,DXX.V,DXStorm.com Inc,DXX
-DTG,Dynamic Technologies Group Inc.,TSXV,DTG.V,Dynamic Technologies Group Inc.,DTG
 DYG,Dynasty Gold Corp.,TSXV,DYG.V,Dynasty Gold Corp.,DYG
 REE,E-Tech Resources Inc.,TSXV,REE.V,E-Tech Resources Inc.,REE
 ETU,E2Gold Inc.,TSXV,ETU.V,E2Gold Inc.,ETU
@@ -2864,6 +2862,7 @@ LSPD,Lightspeed Commerce Inc.,TSX,LSPD.TO,Lightspeed Commrc SV,LSPD
 LNR,Linamar Corporation,TSX,LNR.TO,Linamar Corporation,LNR
 LEV,Lion Electric Company (The),TSX,LEV.TO,Lion Electric Co J,LEV,Lion ElectricCo J Wt,LEV.WT,Lion Elect Co J A Wt,LEV.WT.A
 LAC,Lithium Americas Corp.,TSX,LAC.TO,Lithium Americas J,LAC
+LIRC,Lithium Royalty Corp.,TSX,LIRC.TO,Lithium Royalty J WI,LIRC
 L,Loblaw Companies Limited,TSX,L.TO,Loblaw Companies Ltd,L,Loblaw Co. Ser B Pr,L.PR.B
 LGT.A,Logistec Corporation,TSX,LGT.A.TO,Logistec Corp. A MV ,LGT.A,Logistec Corp Cl B,LGT.B
 LN,Loncor Gold Inc.,TSX,LN.TO,Loncor Gold Inc. J,LN
@@ -3502,7 +3501,7 @@ AAPD,Direxion Daily AAPL Bear 1X Shares,NASDAQ Global MarketSM,AAPD
 AAPL,Apple Inc. - Common Stock,NASDAQ Global Select MarketSM,AAPL
 AAPU,Direxion Daily AAPL Bull 1.5X Shares,NASDAQ Global MarketSM,AAPU
 AAWW,Atlas Air Worldwide Holdings - Common Stock,NASDAQ Global Select MarketSM,AAWW
-AAXJ,iShares MSCI All Country Asia ex Japan Index Fund,NASDAQ Global MarketSM,AAXJ
+AAXJ,iShares MSCI All Country Asia ex Japan ETF,NASDAQ Global MarketSM,AAXJ
 ABCB,Ameris Bancorp - Common Stock,NASDAQ Global Select MarketSM,ABCB
 ABCL,AbCellera Biologics Inc. - Common Shares,NASDAQ Global Select MarketSM,ABCL
 ABCM,Abcam plc - American Depositary Shares,NASDAQ Global Select MarketSM,ABCM
@@ -4650,7 +4649,7 @@ COMS,ComSovereign Holding Corp. - Common Stock,NASDAQ Capital Market,COMS
 COMSP,ComSovereign Holding Corp. - 9.25% Series A Cumulative Redeemable Perpetual Preferred Stock,NASDAQ Capital Market,COMSP
 COMSW,ComSovereign Holding Corp. - Warrants,NASDAQ Capital Market,COMSW
 COMT,iShares GSCI Commodity Dynamic Roll Strategy ETF,NASDAQ Global MarketSM,COMT
-CONL,GraniteShares 1.5x Long Coinbase Daily ETF,NASDAQ Global MarketSM,CONL
+CONL,GraniteShares 1.5x COIN Daily ETF,NASDAQ Global MarketSM,CONL
 CONN,"Conn's, Inc. - Common Stock",NASDAQ Global Select MarketSM,CONN
 CONX,CONX Corp. - Class A Common Stock,NASDAQ Capital Market,CONX
 CONXU,CONX Corp. - Unit,NASDAQ Capital Market,CONXU
@@ -4784,7 +4783,8 @@ CWBC,Community West Bancshares - Common Stock,NASDAQ Global MarketSM,CWBC
 CWBR,"CohBar, Inc. - Common Stock",NASDAQ Capital Market,CWBR
 CWCO,Consolidated Water Co. Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CWCO
 CWST,"Casella Waste Systems, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CWST
-CXAIV,CXApp Inc. - Common Stock When Issued,NASDAQ Capital Market,CXAIV
+CXAI,CXApp Inc. - Class A Common Stock,NASDAQ Capital Market,CXAI
+CXAIW,CXApp Inc. - Warrant,NASDAQ Capital Market,CXAIW
 CXDO,"Crexendo, Inc. - Common Stock",NASDAQ Capital Market,CXDO
 CXSE,WisdomTree China ex-State-Owned Enterprises Fund,NASDAQ Global MarketSM,CXSE
 CYAD,Celyad Oncology SA - American Depositary Shares,NASDAQ Global MarketSM,CYAD
@@ -5052,7 +5052,7 @@ EMCG,Embrace Change Acquisition Corp - Ordinary Shares,NASDAQ Global MarketSM,EM
 EMCGR,Embrace Change Acquisition Corp - Rights,NASDAQ Global MarketSM,EMCGR
 EMCGU,Embrace Change Acquisition Corp - Units,NASDAQ Global MarketSM,EMCGU
 EMCGW,Embrace Change Acquisition Corp - Warrants,NASDAQ Global MarketSM,EMCGW
-EMIF,iShares S&P Emerging Markets Infrastructure Index Fund,NASDAQ Global MarketSM,EMIF
+EMIF,iShares Emerging Markets Infrastructure ETF,NASDAQ Global MarketSM,EMIF
 EMKR,EMCORE Corporation - Common Stock,NASDAQ Global MarketSM,EMKR
 EML,Eastern Company (The) - Common Stock,NASDAQ Global MarketSM,EML
 EMLD,FTAC Emerald Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,EMLD
@@ -5134,7 +5134,7 @@ EUCRU,Eucrates Biomedical Acquisition Corp. - Unit,NASDAQ Capital Market,EUCRU
 EUCRW,Eucrates Biomedical Acquisition Corp. - Warrant,NASDAQ Capital Market,EUCRW
 EUDA,Euda Health Holdings Limited - Ordinary Shares,NASDAQ Capital Market,EUDA
 EUDAW,Euda Health Holdings Limited - Warrant,NASDAQ Capital Market,EUDAW
-EUFN,iShares MSCI Europe Financials Sector Index Fund,NASDAQ Global MarketSM,EUFN
+EUFN,iShares MSCI Europe Financials ETF,NASDAQ Global MarketSM,EUFN
 EVAX,Evaxion Biotech A/S - American Depositary Share,NASDAQ Capital Market,EVAX
 EVBG,"Everbridge, Inc. - Common Stock",NASDAQ Global MarketSM,EVBG
 EVCM,EverCommerce Inc. - Common Stock,NASDAQ Global Select MarketSM,EVCM
@@ -5904,7 +5904,7 @@ ICCM,IceCure Medical Ltd. - Ordinary Shares,NASDAQ Capital Market,ICCM
 ICFI,"ICF International, Inc. - Common Stock",NASDAQ Global Select MarketSM,ICFI
 ICHR,Ichor Holdings - Ordinary Shares,NASDAQ Global Select MarketSM,ICHR
 ICLK,iClick Interactive Asia Group Limited - American Depositary Shares,NASDAQ Global MarketSM,ICLK
-ICLN,iShares S&P Global Clean Energy Index Fund,NASDAQ Global MarketSM,ICLN
+ICLN,iShares Global Clean Energy ETF,NASDAQ Global MarketSM,ICLN
 ICLR,ICON plc - Ordinary Shares,NASDAQ Global Select MarketSM,ICLR
 ICMB,"Investcorp Credit Management BDC, Inc. - Common Stock",NASDAQ Global Select MarketSM,ICMB
 ICPT,"Intercept Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ICPT
@@ -6011,7 +6011,6 @@ INNV,InnovAge Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,INNV
 INO,"Inovio Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,INO
 INOD,Innodata Inc. - Common Stock,NASDAQ Global MarketSM,INOD
 INPX,Inpixon  - Common Stock,NASDAQ Capital Market,INPX
-INPXV,Inpixon  - Common Stock Ex-distribution When Issued,NASDAQ Capital Market,INPXV
 INSE,"Inspired Entertainment, Inc. - Common Stock",NASDAQ Capital Market,INSE
 INSG,Inseego Corp. - Common Stock,NASDAQ Global Select MarketSM,INSG
 INSM,Insmed Incorporated - Common Stock,NASDAQ Global Select MarketSM,INSM
@@ -6215,9 +6214,6 @@ KFRC,"Kforce, Inc. - Common Stock",NASDAQ Global Select MarketSM,KFRC
 KHC,The Kraft Heinz Company - Common Stock,NASDAQ Global Select MarketSM,KHC
 KIDS,OrthoPediatrics Corp. - Common Stock,NASDAQ Global MarketSM,KIDS
 KINS,"Kingstone Companies, Inc - Common Stock",NASDAQ Capital Market,KINS
-KINZ,KINS Technology Group Inc. - Class A Common Stock,NASDAQ Capital Market,KINZ
-KINZU,KINS Technology Group Inc. - Unit,NASDAQ Capital Market,KINZU
-KINZW,KINS Technology Group Inc. - Warrant,NASDAQ Capital Market,KINZW
 KIRK,"Kirkland's, Inc. - Common Stock",NASDAQ Global Select MarketSM,KIRK
 KITT,"Nauticus Robotics, Inc. - Common stock",NASDAQ Capital Market,KITT
 KITTW,"Nauticus Robotics, Inc. - Warrant",NASDAQ Capital Market,KITTW
@@ -6326,9 +6322,6 @@ LE,"Lands' End, Inc. - Common Stock",NASDAQ Capital Market,LE
 LECO,"Lincoln Electric Holdings, Inc. - Common Shares",NASDAQ Global Select MarketSM,LECO
 LEDS,SemiLEDS Corporation - Common Stock,NASDAQ Capital Market,LEDS
 LEE,"Lee Enterprises, Incorporated - Common Stock",NASDAQ Global Select MarketSM,LEE
-LEGA,"Lead Edge Growth Opportunities, Ltd - Class A Ordinary Shares",NASDAQ Capital Market,LEGA
-LEGAU,"Lead Edge Growth Opportunities, Ltd - Units",NASDAQ Capital Market,LEGAU
-LEGAW,"Lead Edge Growth Opportunities, Ltd - Warrant",NASDAQ Capital Market,LEGAW
 LEGH,Legacy Housing Corporation - Common Stock,NASDAQ Global Select MarketSM,LEGH
 LEGN,Legend Biotech Corporation - American Depositary Shares,NASDAQ Global Select MarketSM,LEGN
 LEGR,First Trust Indxx Innovative Transaction & Process ETF,NASDAQ Global MarketSM,LEGR
@@ -6504,6 +6497,8 @@ MAR,Marriott International - Class A Common Stock,NASDAQ Global Select MarketSM,
 MARA,"Marathon Digital Holdings, Inc. - Common Stock",NASDAQ Capital Market,MARA
 MARK,"Remark Holdings, Inc. - Common Stock",NASDAQ Capital Market,MARK
 MARPS,Marine Petroleum Trust - Units of Beneficial Interest,NASDAQ Capital Market,MARPS
+MARX,Mars Acquisition Corp. - Ordinary Shares,NASDAQ Global MarketSM,MARX
+MARXR,Mars Acquisition Corp. - Rights,NASDAQ Global MarketSM,MARXR
 MARXU,Mars Acquisition Corp. - Unit,NASDAQ Global MarketSM,MARXU
 MASI,Masimo Corporation - Common Stock,NASDAQ Global Select MarketSM,MASI
 MASS,908 Devices Inc. - Common Stock,NASDAQ Global MarketSM,MASS
@@ -10313,7 +10308,6 @@ GF,"New Germany Fund, Inc. (The) Common Stock",NYSE,GF
 GFF,Griffon Corporation Common Stock,NYSE,GFF
 GFI,Gold Fields Limited American Depositary Shares,NYSE,GFI
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value",NYSE,GFL
-GFLU,GFL Environmental Inc. Tangible Equity Units,NYSE,GFLU
 GFOR,Graf Acquisition Corp. IV Common Stock,NYSE,GFOR
 GFOR.U,Graf Acquisition Corp. IV Units,NYSE,GFOR.U
 GFOR.W,Graf Acquisition Corp. IV Warrants,NYSE,GFOR.W
@@ -11547,7 +11541,7 @@ PLAG,Planet Green Holdings Corp. Common Stock,NYSE MKT,PLAG
 PLD,"Prologis, Inc. Common Stock",NYSE,PLD
 PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),NYSE MKT,PLG
 PLM,Polymet Mining Corporation Ordinary Shares (Canada),NYSE MKT,PLM
-PLM.V,"Polymet Mining Corp. Rights (expiring April 4, 2023) Rights when issued",NYSE MKT,PLM.V
+PLM.R,"Polymet Mining Corp. Rights (expiring April 4, 2023) Rights",NYSE MKT,PLM.R
 PLNT,"Planet Fitness, Inc. Common Stock",NYSE,PLNT
 PLOW,"Douglas Dynamics, Inc. Common Stock",NYSE,PLOW
 PLTR,Palantir Technologies Inc. Class A Common Stock,NYSE,PLTR
@@ -11670,7 +11664,7 @@ QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",NYSE,QVCC
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",NYSE,QVCD
 R,"Ryder System, Inc. Common Stock",NYSE,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,RA
-RAAS,"Cloopen Group Holding Limited American Depositary Shares, each representing two Class A Ordinary Shares",NYSE,RAAS
+RAAS,Cloopen Group Holding Limited American Depositary Shares (each representing six (6) Class A Ordinary Shares),NYSE,RAAS
 RACE,Ferrari N.V. Common Shares,NYSE,RACE
 RAD,Rite Aid Corporation Common Stock,NYSE,RAD
 RAMP,"LiveRamp Holdings, Inc. Common Stock",NYSE,RAMP
