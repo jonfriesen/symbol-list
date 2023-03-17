@@ -1,102 +1,102 @@
 {
  "added": [
   {
-   "symbol": "IZM",
-   "name": "ICZOOM Group Inc. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IZM"
+   "symbol": "FTAIM",
+   "name": "FTAI Aviation Ltd. - 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTAIM"
   },
   {
-   "symbol": "OPXS",
-   "name": "Optex Systems Holdings, Inc. - Common Stock",
+   "symbol": "ICG",
+   "name": "Intchains Group Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OPXS"
+   "yahoo_symbol": "ICG"
   },
   {
-   "symbol": "OTRK",
-   "name": "Ontrak, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OTRK"
-  },
-  {
-   "symbol": "OTRKP",
-   "name": "Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OTRKP"
+   "symbol": "CLCO",
+   "name": "Cool Company Ltd. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLCO"
   }
  ],
  "removed": [
   {
-   "symbol": "OTRK",
-   "name": "Ontrak, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OTRK"
+   "symbol": "MRV",
+   "name": "Nuvo Pharmaceuticals Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MRV.TO",
+   "instruments": [
+    {
+     "name": "Nuvo Pharmaceuticals",
+     "symbol": "MRV"
+    }
+   ]
   },
   {
-   "symbol": "FTPAU",
-   "name": "FTAC Parnassus Acquisition Corp. - Unit",
+   "symbol": "KSICW",
+   "name": "Kadem Sustainable Impact Corporation - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTPAU"
+   "yahoo_symbol": "KSICW"
   },
   {
-   "symbol": "FRON",
-   "name": "Frontier Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRON"
-  },
-  {
-   "symbol": "FRONW",
-   "name": "Frontier Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRONW"
-  },
-  {
-   "symbol": "FRONU",
-   "name": "Frontier Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRONU"
-  },
-  {
-   "symbol": "AMOV",
-   "name": "America Movil, S.A.B. de C.V. Class A American Depositary Shares",
+   "symbol": "AMAM",
+   "name": "Ambrx Biopharma Inc. American Depositary Shares (each representing seven Ordinary Shares)",
    "exchange": "NYSE",
-   "yahoo_symbol": "AMOV"
+   "yahoo_symbol": "AMAM"
   },
   {
-   "symbol": "GWIIW",
-   "name": "Good Works II Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GWIIW"
-  },
-  {
-   "symbol": "CIAN",
-   "name": "Cian PLC American Depositary Shares, each representing one Ordinary Share",
+   "symbol": "BGSX.U",
+   "name": "Build Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "CIAN"
+   "yahoo_symbol": "BGSX.U"
   },
   {
-   "symbol": "GWII",
-   "name": "Good Works II Acquisition Corp. - Common Stock",
+   "symbol": "SMIH",
+   "name": "Summit Healthcare Acquisition Corp. - Class A Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GWII"
+   "yahoo_symbol": "SMIH"
   },
   {
-   "symbol": "OTRKP",
-   "name": "Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OTRKP"
-  },
-  {
-   "symbol": "FTPA",
-   "name": "FTAC Parnassus Acquisition Corp. - Class A Common Stock",
+   "symbol": "SMIHW",
+   "name": "Summit Healthcare Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTPA"
+   "yahoo_symbol": "SMIHW"
   },
   {
-   "symbol": "FTPAW",
-   "name": "FTAC Parnassus Acquisition Corp. - Warrant",
+   "symbol": "BGSX",
+   "name": "Build Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BGSX"
+  },
+  {
+   "symbol": "KSICU",
+   "name": "Kadem Sustainable Impact Corporation - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTPAW"
+   "yahoo_symbol": "KSICU"
+  },
+  {
+   "symbol": "KSI",
+   "name": "Kadem Sustainable Impact Corporation - Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KSI"
+  },
+  {
+   "symbol": "SMIHU",
+   "name": "Summit Healthcare Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMIHU"
+  },
+  {
+   "symbol": "IMA",
+   "name": "I-Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMA.V",
+   "instruments": [
+    {
+     "name": "I-Minerals Inc.",
+     "symbol": "IMA"
+    }
+   ]
   }
  ]
 }

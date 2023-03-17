@@ -1,57 +1,37 @@
 {
  "added": [
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "ANC",
+   "name": "Anchor Protocol (ANC)",
+   "built_on": "LUNC"
   },
   {
-   "symbol": "WING",
-   "name": "Wing Finance (WING)",
-   "built_on": "ONT"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "REEF",
-   "name": "Reef (REEF)"
+   "symbol": "MARGINLESS",
+   "name": "Marginless (MARGINLESS)"
   },
   {
-   "symbol": "AERGO",
-   "name": "AERGO (AERGO)"
+   "symbol": "INSTAMINE",
+   "name": "Instamine Nuggets (INSTAMINE)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
   },
   {
    "symbol": "G",
    "name": "GRN Grid (G)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MIR",
-   "name": "Mirror Protocol (MIR)",
-   "built_on": "LUNC"
   }
  ],
  "removed": [
   {
-   "symbol": "REEF",
-   "name": "Reef (REEF)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "AERGO",
-   "name": "AERGO (AERGO)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MIR",
-   "name": "Mirror Protocol (MIR)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "WING",
-   "name": "Wing Finance (WING)"
+   "symbol": "ANC",
+   "name": "Anchor Protocol (ANC)"
   }
  ]
 }
