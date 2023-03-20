@@ -1,37 +1,41 @@
 {
  "added": [
   {
-   "symbol": "ANC",
-   "name": "Anchor Protocol (ANC)",
-   "built_on": "LUNC"
+   "symbol": "WIZ",
+   "name": "WIZ Protocol (WIZ)",
+   "built_on": "ETH"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "MARGINLESS",
-   "name": "Marginless (MARGINLESS)"
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "INSTAMINE",
-   "name": "Instamine Nuggets (INSTAMINE)"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
+   "symbol": "TRB",
+   "name": "Tellor (TRB)",
    "built_on": "ETH"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "CROWDWIZ",
+   "name": "Crowdwiz (CROWDWIZ)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "ANC",
-   "name": "Anchor Protocol (ANC)"
+   "symbol": "TRB",
+   "name": "Tellor (TRB)"
+  },
+  {
+   "symbol": "WIZ",
+   "name": "Crowdwiz (WIZ)"
   }
  ]
 }
