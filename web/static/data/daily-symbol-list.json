@@ -1,5 +1,5 @@
 {
- "date": "2023-03-21",
+ "date": "2023-03-22",
  "data": [
   {
    "symbol": "ONE",
@@ -518,6 +518,18 @@
    ]
   },
   {
+   "symbol": "AEMC",
+   "name": "Alaska Energy Metals Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AEMC.V",
+   "instruments": [
+    {
+     "name": "Alaska Energy Metals Corporation",
+     "symbol": "AEMC"
+    }
+   ]
+  },
+  {
    "symbol": "ALBT.P",
    "name": "Albatros Acquisition Corporation Inc.",
    "exchange": "TSXV",
@@ -806,6 +818,18 @@
     {
      "name": "ALX Resources Corp.",
      "symbol": "AL"
+    }
+   ]
+  },
+  {
+   "symbol": "AMR",
+   "name": "AM Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMR.V",
+   "instruments": [
+    {
+     "name": "AM Resources Corp.",
+     "symbol": "AMR"
     }
    ]
   },
@@ -11806,18 +11830,6 @@
    ]
   },
   {
-   "symbol": "MRO",
-   "name": "Millrock Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MRO.V",
-   "instruments": [
-    {
-     "name": "Millrock Resources Inc",
-     "symbol": "MRO"
-    }
-   ]
-  },
-  {
    "symbol": "MIM",
    "name": "MiMedia Holdings Inc.",
    "exchange": "TSXV",
@@ -12202,18 +12214,6 @@
     {
      "name": "Mountain Boy Minerals Ltd.",
      "symbol": "MTB"
-    }
-   ]
-  },
-  {
-   "symbol": "MLY",
-   "name": "Multi-Metal Development Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MLY.V",
-   "instruments": [
-    {
-     "name": "Multi-Metal Development Ltd.",
-     "symbol": "MLY"
     }
    ]
   },
@@ -49090,6 +49090,12 @@
    "yahoo_symbol": "BIDU"
   },
   {
+   "symbol": "BIGB",
+   "name": "Roundhill BIG Bank ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIGB"
+  },
+  {
    "symbol": "BIGC",
    "name": "BigCommerce Holdings, Inc. - Series 1 Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -49346,12 +49352,6 @@
    "name": "Blue Foundry Bancorp - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BLFY"
-  },
-  {
-   "symbol": "BLI",
-   "name": "Berkeley Lights, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BLI"
   },
   {
    "symbol": "BLIN",
@@ -50681,7 +50681,7 @@
   },
   {
    "symbol": "CASI",
-   "name": "CASI Pharmaceuticals, Inc. - Common Stock",
+   "name": "CASI Pharmaceuticals, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CASI"
   },
@@ -51086,6 +51086,12 @@
    "name": "Celsius Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CELH"
+  },
+  {
+   "symbol": "CELL",
+   "name": "PhenomeX Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CELL"
   },
   {
    "symbol": "CELU",
@@ -60838,12 +60844,6 @@
    "yahoo_symbol": "ISIG"
   },
   {
-   "symbol": "ISO",
-   "name": "IsoPlexis Corporation - common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ISO"
-  },
-  {
    "symbol": "ISPC",
    "name": "iSpecimen Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -64000,6 +64000,12 @@
    "yahoo_symbol": "MGRC"
   },
   {
+   "symbol": "MGRX",
+   "name": "Mangoceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGRX"
+  },
+  {
    "symbol": "MGTA",
    "name": "Magenta Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -65020,6 +65026,12 @@
    "yahoo_symbol": "NAVI"
   },
   {
+   "symbol": "NB",
+   "name": "NioCorp Developments Ltd. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NB"
+  },
+  {
    "symbol": "NBIX",
    "name": "Neurocrine Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -65348,6 +65360,12 @@
    "name": "Nicholas Financial, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "NICK"
+  },
+  {
+   "symbol": "NIOBW",
+   "name": "NioCorp Developments Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIOBW"
   },
   {
    "symbol": "NISN",
@@ -66506,6 +66524,12 @@
    "name": "Omega Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OMGA"
+  },
+  {
+   "symbol": "OMH",
+   "name": "Ohmyhome Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OMH"
   },
   {
    "symbol": "OMIC",
@@ -77312,6 +77336,18 @@
    "name": "Zumiez Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ZUMZ"
+  },
+  {
+   "symbol": "ZURA",
+   "name": "Zura Bio Limited - Class A Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZURA"
+  },
+  {
+   "symbol": "ZURAW",
+   "name": "Zura Bio Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZURAW"
   },
   {
    "symbol": "ZVRA",
@@ -88844,6 +88880,12 @@
    "name": "Jackson Financial Inc. Class A Common Stock ",
    "exchange": "NYSE",
    "yahoo_symbol": "JXN"
+  },
+  {
+   "symbol": "JXN$A",
+   "name": "Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JXN$A"
   },
   {
    "symbol": "K",

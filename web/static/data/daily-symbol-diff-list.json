@@ -1,156 +1,120 @@
 {
  "added": [
   {
-   "symbol": "LUCA",
-   "name": "Luca Mining Corp.",
+   "symbol": "AEMC",
+   "name": "Alaska Energy Metals Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "LUCA.V",
+   "yahoo_symbol": "AEMC.V",
    "instruments": [
     {
-     "name": "Luca Mining Corp.",
-     "symbol": "LUCA"
+     "name": "Alaska Energy Metals Corporation",
+     "symbol": "AEMC"
     }
    ]
   },
   {
-   "symbol": "SAGE",
-   "name": "Sage Potash Corp.",
+   "symbol": "AMR",
+   "name": "AM Resources Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SAGE.V",
+   "yahoo_symbol": "AMR.V",
    "instruments": [
     {
-     "name": "Sage Potash Corp.",
-     "symbol": "SAGE"
+     "name": "AM Resources Corp.",
+     "symbol": "AMR"
     }
    ]
   },
   {
-   "symbol": "SDCU",
-   "name": "Sonoran Desert Copper Corporation.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SDCU.V",
-   "instruments": [
-    {
-     "name": "Sonoran Desert Copper Corporation.",
-     "symbol": "SDCU"
-    }
-   ]
-  },
-  {
-   "symbol": "BNMV",
-   "name": "BitNile Metaverse, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNMV"
-  },
-  {
-   "symbol": "CALC",
-   "name": "CalciMedica, Inc. - Common Stock",
+   "symbol": "BIGB",
+   "name": "Roundhill BIG Bank ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CALC"
+   "yahoo_symbol": "BIGB"
+  },
+  {
+   "symbol": "CELL",
+   "name": "PhenomeX Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CELL"
+  },
+  {
+   "symbol": "MGRX",
+   "name": "Mangoceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGRX"
+  },
+  {
+   "symbol": "NB",
+   "name": "NioCorp Developments Ltd. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NB"
+  },
+  {
+   "symbol": "NIOBW",
+   "name": "NioCorp Developments Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIOBW"
+  },
+  {
+   "symbol": "OMH",
+   "name": "Ohmyhome Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OMH"
+  },
+  {
+   "symbol": "ZURA",
+   "name": "Zura Bio Limited - Class A Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZURA"
+  },
+  {
+   "symbol": "ZURAW",
+   "name": "Zura Bio Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZURAW"
+  },
+  {
+   "symbol": "JXN$A",
+   "name": "Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JXN$A"
   }
  ],
  "removed": [
   {
-   "symbol": "VPCB",
-   "name": "VPC Impact Acquisition Holdings II - Class A ordinary shre",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VPCB"
-  },
-  {
-   "symbol": "GRAY",
-   "name": "Graybug Vision, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRAY"
-  },
-  {
-   "symbol": "LYLT",
-   "name": "Loyalty Ventures Inc. - Common Stock",
+   "symbol": "BLI",
+   "name": "Berkeley Lights, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LYLT"
+   "yahoo_symbol": "BLI"
   },
   {
-   "symbol": "PMR",
-   "name": "Prime Meridian Resources Corp.",
+   "symbol": "MRO",
+   "name": "Millrock Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PMR.V",
+   "yahoo_symbol": "MRO.V",
    "instruments": [
     {
-     "name": "Prime Meridian Resources Corp",
-     "symbol": "PMR"
+     "name": "Millrock Resources Inc",
+     "symbol": "MRO"
     }
    ]
   },
   {
-   "symbol": "ZEST",
-   "name": "Ecoark Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZEST"
+   "symbol": "ISO",
+   "name": "IsoPlexis Corporation - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ISO"
   },
   {
-   "symbol": "VPCBW",
-   "name": "VPC Impact Acquisition Holdings II - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VPCBW"
-  },
-  {
-   "symbol": "JATT.W",
-   "name": "JATT Acquisition Corp Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JATT.W"
-  },
-  {
-   "symbol": "AYM",
-   "name": "Atalaya Mining plc",
-   "exchange": "TSX",
-   "yahoo_symbol": "AYM.TO",
-   "instruments": [
-    {
-     "name": "Atalaya Mining Ord J",
-     "symbol": "AYM"
-    }
-   ]
-  },
-  {
-   "symbol": "JATT",
-   "name": "JATT Acquisition Corp Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JATT"
-  },
-  {
-   "symbol": "JATT.U",
-   "name": "JATT Acquisition Corp Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JATT.U"
-  },
-  {
-   "symbol": "ATLY",
-   "name": "Altaley Mining Corporation",
+   "symbol": "MLY",
+   "name": "Multi-Metal Development Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ATLY.V",
+   "yahoo_symbol": "MLY.V",
    "instruments": [
     {
-     "name": "Altaley Mining Corporation",
-     "symbol": "ATLY"
+     "name": "Multi-Metal Development Ltd.",
+     "symbol": "MLY"
     }
    ]
-  },
-  {
-   "symbol": "ALR",
-   "name": "AlerisLife Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALR"
-  },
-  {
-   "symbol": "VPCBU",
-   "name": "VPC Impact Acquisition Holdings II - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VPCBU"
-  },
-  {
-   "symbol": "IAA",
-   "name": "IAA, Inc. Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IAA"
   }
  ]
 }

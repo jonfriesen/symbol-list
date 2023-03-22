@@ -42,6 +42,7 @@ AIMF.P,AIM6 Ventures Inc.,TSXV,AIMF.P.V,AIM6 Ventures Inc.,AIMF.P
 AIP.U,AIP Realty Trust,TSXV,AIP.U.V,AIP Realty Trust,AIP.U
 IQ,AirIQ Inc.,TSXV,IQ.V,AirIQ Inc,IQ
 AML,Akwaaba Mining Ltd.,TSXV,AML.V,Akwaaba Mining Ltd.,AML
+AEMC,Alaska Energy Metals Corporation,TSXV,AEMC.V,Alaska Energy Metals Corporation,AEMC
 ALBT.P,Albatros Acquisition Corporation Inc.,TSXV,ALBT.P.V,Albatros Acquisition Corporation Inc.,ALBT.P
 ALDE,Aldebaran Resources Inc.,TSXV,ALDE.V,Aldebaran Resources Inc.,ALDE
 ANZ,Alianza Minerals Ltd.,TSXV,ANZ.V,Alianza Minerals Ltd.,ANZ
@@ -66,6 +67,7 @@ APN,Altiplano Metals Inc.,TSXV,APN.V,Altiplano Metals Inc.,APN
 ALT,Alturas Minerals Corp.,TSXV,ALT.V,Alturas Minerals Corp,ALT
 ALV,Alvopetro Energy Ltd.,TSXV,ALV.V,Alvopetro Energy Ltd.,ALV
 AL,ALX Resources Corp.,TSXV,AL.V,ALX Resources Corp.,AL
+AMR,AM Resources Corp.,TSXV,AMR.V,AM Resources Corp.,AMR
 AHR,Amarc Resources Ltd.,TSXV,AHR.V,Amarc Resources Ltd.,AHR
 AMRQ,Amaroq Minerals Ltd.,TSXV,AMRQ.V,Amaroq Minerals Ltd.,AMRQ
 MEGO.P,Amego Capital Corp.,TSXV,MEGO.P.V,Amego Capital Corp.,MEGO.P
@@ -966,7 +968,6 @@ MVM,MillenMin Ventures Inc.,TSXV,MVM.V,MillenMin Ventures Inc,MVM
 MLP,Millennial Potash Corp.,TSXV,MLP.V,Millennial Potash Corp.,MLP
 MPM,Millennial Precious Metals Corp.,TSXV,MPM.V,Millennial Precious Metals Corp.,MPM,Millennial Precious Metals Corp. wt 16Jun2024,MPM.WT
 MSC,Millennium Silver Corp.,TSXV,MSC.V,Millennium Silver Corp.,MSC
-MRO,Millrock Resources Inc.,TSXV,MRO.V,Millrock Resources Inc,MRO
 MIM,MiMedia Holdings Inc.,TSXV,MIM.V,MiMedia Holdings Inc,MIM
 MSP,Minaean SP Construction Corp.,TSXV,MSP.V,Minaean SP Construction Corp.,MSP
 MGG,Minaurum Gold Inc.,TSXV,MGG.V,Minaurum Gold Inc.,MGG
@@ -999,7 +1000,6 @@ MOO.P,Moon River Capital Ltd.,TSXV,MOO.P.V,Moon River Capital Ltd.,MOO.P
 MVY,Moovly Media Inc.,TSXV,MVY.V,Moovly Media Inc.,MVY
 MOX,Morien Resources Corp.,TSXV,MOX.V,Morien Resources Corp.,MOX
 MTB,Mountain Boy Minerals Ltd.,TSXV,MTB.V,Mountain Boy Minerals Ltd.,MTB
-MLY,Multi-Metal Development Ltd.,TSXV,MLY.V,Multi-Metal Development Ltd.,MLY
 MUN,Mundoro Capital Inc.,TSXV,MUN.V,Mundoro Capital Inc.,MUN
 MUR,Murchison Minerals Ltd.,TSXV,MUR.V,Murchison Minerals Ltd.,MUR
 MGRO,MustGrow Biologics Corp.,TSXV,MGRO.V,MustGrow Biologics Corp.,MGRO
@@ -4106,6 +4106,7 @@ BIAFW,"bioAffinity Technologies, Inc. - Warrant",NASDAQ Capital Market,BIAFW
 BIB,ProShares Ultra Nasdaq Biotechnology,NASDAQ Global MarketSM,BIB
 BICK,First Trust BICK Index Fund,NASDAQ Global MarketSM,BICK
 BIDU,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",NASDAQ Global Select MarketSM,BIDU
+BIGB,Roundhill BIG Bank ETF,NASDAQ Global MarketSM,BIGB
 BIGC,"BigCommerce Holdings, Inc. - Series 1 Common Stock",NASDAQ Global MarketSM,BIGC
 BIIB,Biogen Inc. - Common Stock,NASDAQ Global Select MarketSM,BIIB
 BILI,Bilibili Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,BILI
@@ -4149,7 +4150,6 @@ BLEUU,bleuacacia ltd - Units,NASDAQ Global MarketSM,BLEUU
 BLEUW,bleuacacia ltd - Warrants,NASDAQ Global MarketSM,BLEUW
 BLFS,"BioLife Solutions, Inc. - Common Stock",NASDAQ Capital Market,BLFS
 BLFY,Blue Foundry Bancorp - Common Stock,NASDAQ Global Select MarketSM,BLFY
-BLI,"Berkeley Lights, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLI
 BLIN,"Bridgeline Digital, Inc. - Common Stock",NASDAQ Capital Market,BLIN
 BLKB,"Blackbaud, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLKB
 BLLD,JPMorgan Sustainable Infrastructure ETF,NASDAQ Global MarketSM,BLLD
@@ -4371,7 +4371,7 @@ CARV,"Carver Bancorp, Inc. - Common Stock",NASDAQ Capital Market,CARV
 CARZ,First Trust S-Network Future Vehicles & Technology ETF,NASDAQ Global MarketSM,CARZ
 CASA,"Casa Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,CASA
 CASH,"Pathward Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,CASH
-CASI,"CASI Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,CASI
+CASI,"CASI Pharmaceuticals, Inc. - Ordinary Shares",NASDAQ Capital Market,CASI
 CASS,"Cass Information Systems, Inc - Common Stock",NASDAQ Global Select MarketSM,CASS
 CASY,"Caseys General Stores, Inc. - Common Stock",NASDAQ Global Select MarketSM,CASY
 CATC,Cambridge Bancorp - Common Stock,NASDAQ Capital Market,CATC
@@ -4439,6 +4439,7 @@ CEFA,Global X S&P Catholic Values Developed ex-U.S. ETF,NASDAQ Global MarketSM,C
 CEG,Constellation Energy Corporation - Common Stock,NASDAQ Global Select MarketSM,CEG
 CELC,Celcuity Inc. - Common Stock,NASDAQ Capital Market,CELC
 CELH,"Celsius Holdings, Inc. - Common Stock",NASDAQ Capital Market,CELH
+CELL,PhenomeX Inc. - Common Stock,NASDAQ Global Select MarketSM,CELL
 CELU,Celularity Inc. - Class A Common Stock,NASDAQ Capital Market,CELU
 CELUW,Celularity Inc. - Warrant,NASDAQ Capital Market,CELUW
 CELZ,"Creative Medical Technology Holdings, Inc. - Common Stock",NASDAQ Capital Market,CELZ
@@ -6064,7 +6065,6 @@ ISEM,Invesco RAFI Strategic Emerging Markets ETF,NASDAQ Global MarketSM,ISEM
 ISHG,iShares 1-3 Year International Treasury Bond ETF,NASDAQ Global MarketSM,ISHG
 ISHP,First Trust S-Network E-Commerce ETF,NASDAQ Global MarketSM,ISHP
 ISIG,"Insignia Systems, Inc. - Common Stock",NASDAQ Capital Market,ISIG
-ISO,IsoPlexis Corporation - common stock,NASDAQ Global Select MarketSM,ISO
 ISPC,iSpecimen Inc. - Common Stock,NASDAQ Capital Market,ISPC
 ISPO,Inspirato Incorporated - Class A Common Stock,NASDAQ Global MarketSM,ISPO
 ISPOW,Inspirato Incorporated - Warrant,NASDAQ Global MarketSM,ISPOW
@@ -6591,6 +6591,7 @@ MGNX,"MacroGenics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGNX
 MGOL,MGO Global Inc. - Common Stock,NASDAQ Capital Market,MGOL
 MGPI,"MGP Ingredients, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGPI
 MGRC,McGrath RentCorp - Common Stock,NASDAQ Global Select MarketSM,MGRC
+MGRX,"Mangoceuticals, Inc. - Common Stock",NASDAQ Capital Market,MGRX
 MGTA,"Magenta Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,MGTA
 MGTX,MeiraGTx Holdings plc - Ordinary Shares,NASDAQ Global Select MarketSM,MGTX
 MGYR,"Magyar Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,MGYR
@@ -6761,6 +6762,7 @@ NATI,National Instruments Corporation - Common Stock,NASDAQ Global Select Market
 NATR,"Nature's Sunshine Products, Inc. - Common Stock",NASDAQ Capital Market,NATR
 NAUT,"Nautilus Biotechnology, Inc. - Common Stock",NASDAQ Global Select MarketSM,NAUT
 NAVI,Navient Corporation - Common Stock,NASDAQ Global Select MarketSM,NAVI
+NB,NioCorp Developments Ltd. - Common Stock,NASDAQ Global MarketSM,NB
 NBIX,"Neurocrine Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,NBIX
 NBN,Northeast Bank - Common Stock,NASDAQ Global MarketSM,NBN
 NBRV,Nabriva Therapeutics plc - Ordinary Shares,NASDAQ Capital Market,NBRV
@@ -6816,6 +6818,7 @@ NHICW,NewHold Investment Corp. II - Warrant,NASDAQ Global MarketSM,NHICW
 NHTC,Natural Health Trends Corp. - Commn Stock,NASDAQ Capital Market,NHTC
 NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,NASDAQ Global Select MarketSM,NICE
 NICK,"Nicholas Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,NICK
+NIOBW,NioCorp Developments Ltd. - Warrant,NASDAQ Capital Market,NIOBW
 NISN,"NiSun Intl Enterprise Development Group Co, Ltd - Class A Common Shares",NASDAQ Capital Market,NISN
 NIU,Niu Technologies - American Depositary Shares,NASDAQ Global MarketSM,NIU
 NKEL,AXS 2X NKE Bull Daily ETF,NASDAQ Global MarketSM,NKEL
@@ -7009,6 +7012,7 @@ OMCL,"Omnicell, Inc. - Common Stock",NASDAQ Global Select MarketSM,OMCL
 OMER,Omeros Corporation - Common Stock,NASDAQ Global MarketSM,OMER
 OMEX,"Odyssey Marine Exploration, Inc. - Common Stock",NASDAQ Capital Market,OMEX
 OMGA,"Omega Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,OMGA
+OMH,Ohmyhome Limited - Ordinary Shares,NASDAQ Capital Market,OMH
 OMIC,"Singular Genomics Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,OMIC
 OMQS,OMNIQ Corp. - Common Stock,NASDAQ Capital Market,OMQS
 ON,ON Semiconductor Corporation - Common Stock,NASDAQ Global Select MarketSM,ON
@@ -8810,6 +8814,8 @@ ZTAQU,"Zimmer Energy Transition Acquisition Corp. - Units, consisting of one sha
 ZTAQW,Zimmer Energy Transition Acquisition Corp. - Warrants,NASDAQ Global MarketSM,ZTAQW
 ZTEK,Zentek Ltd. - common stock,NASDAQ Capital Market,ZTEK
 ZUMZ,Zumiez Inc. - Common Stock,NASDAQ Global Select MarketSM,ZUMZ
+ZURA,Zura Bio Limited - Class A Ordinary shares,NASDAQ Capital Market,ZURA
+ZURAW,Zura Bio Limited - Warrant,NASDAQ Capital Market,ZURAW
 ZVRA,"Zevra Therapeutics, Inc.  - Common Stock",NASDAQ Global Select MarketSM,ZVRA
 ZVSA,"ZyVersa Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,ZVSA
 ZYME,Zymeworks Inc. - Common Stock,NASDAQ Global Select MarketSM,ZYME
@@ -10732,6 +10738,7 @@ JWSM,Jaws Mustang Acquisition Corp. Class A Ordinary Shares,NYSE MKT,JWSM
 JWSM.U,"Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",NYSE MKT,JWSM.U
 JWSM.W,"Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE MKT,JWSM.W
 JXN,Jackson Financial Inc. Class A Common Stock ,NYSE,JXN
+JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",NYSE,JXN$A
 K,Kellogg Company Common Stock,NYSE,K
 KAI,Kadant Inc Common Stock,NYSE,KAI
 KAMN,Kaman Corporation Common Stock,NYSE,KAMN
