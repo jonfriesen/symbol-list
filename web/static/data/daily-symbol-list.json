@@ -1,5 +1,5 @@
 {
- "date": "2023-03-22",
+ "date": "2023-03-23",
  "data": [
   {
    "symbol": "ONE",
@@ -3407,12 +3407,12 @@
   },
   {
    "symbol": "CAPT",
-   "name": "Capitan Mining Inc.",
+   "name": "Capitan Silver Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "CAPT.V",
    "instruments": [
     {
-     "name": "Capitan Mining Inc.",
+     "name": "Capitan Silver Corp.",
      "symbol": "CAPT"
     }
    ]
@@ -14290,10 +14290,6 @@
     {
      "name": "Planet Ventures Inc.",
      "symbol": "PXI"
-    },
-    {
-     "name": "Planet Ventures Inc. rt ex 23mar2023",
-     "symbol": "PXI.RT"
     }
    ]
   },
@@ -60407,19 +60403,19 @@
   },
   {
    "symbol": "INKA",
-   "name": "KludeIn I Acquisition Corp. - Class A Common Stock",
+   "name": "Near Intelligence, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INKA"
   },
   {
    "symbol": "INKAU",
-   "name": "KludeIn I Acquisition Corp. - Unit",
+   "name": "Near Intelligence, Inc. - Unit",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INKAU"
   },
   {
    "symbol": "INKAW",
-   "name": "KludeIn I Acquisition Corp. - Warrant",
+   "name": "Near Intelligence, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INKAW"
   },
@@ -65362,6 +65358,12 @@
    "yahoo_symbol": "NICK"
   },
   {
+   "symbol": "NIKL",
+   "name": "Sprott Nickel Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIKL"
+  },
+  {
    "symbol": "NIOBW",
    "name": "NioCorp Developments Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
@@ -66212,12 +66214,6 @@
    "name": "Origin Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OBNK"
-  },
-  {
-   "symbol": "OBSV",
-   "name": "ObsEva SA - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OBSV"
   },
   {
    "symbol": "OBT",
@@ -69382,12 +69378,6 @@
    "yahoo_symbol": "QTRX"
   },
   {
-   "symbol": "QTT",
-   "name": "Qutoutiao Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "QTT"
-  },
-  {
    "symbol": "QUBT",
    "name": "Quantum Computing Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -71594,12 +71584,6 @@
    "name": "SiNtx Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SINT"
-  },
-  {
-   "symbol": "SIOX",
-   "name": "Sio Gene Therapies Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SIOX"
   },
   {
    "symbol": "SIRI",
