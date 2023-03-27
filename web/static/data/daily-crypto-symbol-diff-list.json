@@ -1,107 +1,48 @@
 {
  "added": [
   {
-   "symbol": "GRAIL",
-   "name": "Camelot Token (GRAIL)",
-   "built_on": "ARB"
+   "symbol": "AETHERV2",
+   "name": "AetherV2 (AETHERV2)"
   },
   {
-   "symbol": "GMX",
-   "name": "GMX (GMX)",
-   "built_on": "ARB"
+   "symbol": "ARTEQ",
+   "name": "artèQ (ARTEQ)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "MOON",
-   "name": "r/CryptoCurrency Moons (MOON)",
-   "built_on": "ARB"
+   "symbol": "NITROG",
+   "name": "Nitro (NITROG)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "NSBT",
+   "name": "Neutrino Token (NSBT)",
+   "built_on": "WAVES"
   },
   {
-   "symbol": "UMAMI",
-   "name": "Umami (UMAMI)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "VELA",
-   "name": "Vela Token (VELA)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "DBL",
-   "name": "Doubloon (DBL)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "JONES",
-   "name": "Jones DAO (JONES)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "ARBIT",
-   "name": "Arbit Coin (ARBIT)"
-  },
-  {
-   "symbol": "RDNT",
-   "name": "Radiant Capital (RDNT)",
-   "built_on": "ARB"
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
   },
   {
    "symbol": "BANK",
    "name": "Float Protocol (BANK)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "JONES",
-   "name": "Jones DAO (JONES)",
-   "built_on": "ARBITRUM"
+   "symbol": "NSBT",
+   "name": "Neutrino Token (NSBT)"
   },
   {
-   "symbol": "GMX",
-   "name": "GMX (GMX)",
-   "built_on": "ARBITRUM"
-  },
-  {
-   "symbol": "DBL",
-   "name": "Doubloon (DBL)",
-   "built_on": "ARBITRUM"
-  },
-  {
-   "symbol": "MOON",
-   "name": "r/CryptoCurrency Moons (MOON)",
-   "built_on": "ARBITRUM"
-  },
-  {
-   "symbol": "RDNT",
-   "name": "Radiant Capital (RDNT)",
-   "built_on": "ARBITRUM"
-  },
-  {
-   "symbol": "VELA",
-   "name": "Vela Token (VELA)",
-   "built_on": "ARBITRUM"
-  },
-  {
-   "symbol": "ARB",
-   "name": "Arbit Coin (ARB)"
-  },
-  {
-   "symbol": "GRAIL",
-   "name": "Camelot Token (GRAIL)",
-   "built_on": "ARBITRUM"
-  },
-  {
-   "symbol": "UMAMI",
-   "name": "Umami (UMAMI)",
-   "built_on": "ARBITRUM"
+   "symbol": "ATH",
+   "name": "AetherV2 (ATH)"
   }
  ]
 }
