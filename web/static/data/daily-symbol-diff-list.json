@@ -1,108 +1,138 @@
 {
  "added": [
   {
-   "symbol": "CHAA",
-   "name": "Catcha Investment Corp. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CHAA"
+   "symbol": "NLII.P",
+   "name": "NL2 Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NLII.P.V",
+   "instruments": [
+    {
+     "name": "NL2 Capital Inc.",
+     "symbol": "NLII.P"
+    }
+   ]
+  },
+  {
+   "symbol": "TMTCU",
+   "name": "TMT Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTCU"
+  },
+  {
+   "symbol": "UFIV",
+   "name": "US Treasury 5 Year Note ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UFIV"
+  },
+  {
+   "symbol": "UNAM",
+   "name": "Unico American Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UNAM"
+  },
+  {
+   "symbol": "USVN",
+   "name": "US Treasury 7 Year Note ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USVN"
+  },
+  {
+   "symbol": "UTHY",
+   "name": "US Treasury 30 Year Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTHY"
+  },
+  {
+   "symbol": "UTRE",
+   "name": "US Treasury 3 Year Note ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTRE"
+  },
+  {
+   "symbol": "UTWY",
+   "name": "US Treasury 20 Year Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTWY"
+  },
+  {
+   "symbol": "YGF",
+   "name": "YanGuFang International Group Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YGF"
+  },
+  {
+   "symbol": "ZJYL",
+   "name": "JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZJYL"
+  },
+  {
+   "symbol": "CR.V",
+   "name": "Crane Company Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CR.V"
+  },
+  {
+   "symbol": "CXT.V",
+   "name": "Crane NXT, Co. Common Stock Ex-Distribution When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXT.V"
+  },
+  {
+   "symbol": "SAFE.V",
+   "name": "Safehold Inc. New Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAFE.V"
   }
  ],
  "removed": [
   {
-   "symbol": "SBNY",
-   "name": "Signature Bank - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SBNY"
+   "symbol": "TETCW",
+   "name": "Tech and Energy Transition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TETCW"
   },
   {
-   "symbol": "CRYP",
-   "name": "Purpose Crypto Opportunities ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CRYP.TO",
-   "instruments": [
-    {
-     "name": "Purpose CrypOppor Un",
-     "symbol": "CRYP"
-    },
-    {
-     "name": "PurposeCrypOpCA NCHg",
-     "symbol": "CRYP.B"
-    },
-    {
-     "name": "PurposeCrypOpNC HgUS",
-     "symbol": "CRYP.U"
-    }
-   ]
+   "symbol": "TETC",
+   "name": "Tech and Energy Transition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TETC"
   },
   {
-   "symbol": "ACST",
-   "name": "Acasti Pharma Inc.",
+   "symbol": "TETCU",
+   "name": "Tech and Energy Transition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TETCU"
+  },
+  {
+   "symbol": "PHCF",
+   "name": "Puhui Wealth Investment Management Co., Ltd.  - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PHCF"
+  },
+  {
+   "symbol": "SGFY",
+   "name": "Signify Health, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SGFY"
+  },
+  {
+   "symbol": "UNAM",
+   "name": "Unico American Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UNAM"
+  },
+  {
+   "symbol": "SN",
+   "name": "Sennen Potash Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "ACST.V",
+   "yahoo_symbol": "SN.V",
    "instruments": [
     {
-     "name": "Acasti Pharma Inc.",
-     "symbol": "ACST"
+     "name": "Sennen Potash Corporation",
+     "symbol": "SN"
     }
    ]
-  },
-  {
-   "symbol": "SIVB",
-   "name": "SVB Financial Group - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SIVB"
-  },
-  {
-   "symbol": "PUD",
-   "name": "Purpose US Dividend Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "PUD.TO",
-   "instruments": [
-    {
-     "name": "Purpose US DivETF Un",
-     "symbol": "PUD"
-    },
-    {
-     "name": "Purpose US Div NnCur",
-     "symbol": "PUD.B"
-    }
-   ]
-  },
-  {
-   "symbol": "SIVBP",
-   "name": "SVB Financial Group - Depositary Shs each representing a 1/40th interest in a share of 5.25% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SIVBP"
-  },
-  {
-   "symbol": "ATCO",
-   "name": "Atlas Corp. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ATCO"
-  },
-  {
-   "symbol": "AIMC",
-   "name": "Altra Industrial Motion Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AIMC"
-  },
-  {
-   "symbol": "SBNYP",
-   "name": "Signature Bank - Depositary shares, each representing a 1/40th ownership interest in a share of 5.000% Noncumulative Perpetual Series A Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SBNYP"
-  },
-  {
-   "symbol": "CHAA.U",
-   "name": "Catcha Investment Corp. Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CHAA.U"
-  },
-  {
-   "symbol": "CHAA",
-   "name": "Catcha Investment Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CHAA"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2023-03-28",
+ "date": "2023-03-29",
  "data": [
   {
    "symbol": "ONE",
@@ -12822,6 +12822,18 @@
    ]
   },
   {
+   "symbol": "NLII.P",
+   "name": "NL2 Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NLII.P.V",
+   "instruments": [
+    {
+     "name": "NL2 Capital Inc.",
+     "symbol": "NLII.P"
+    }
+   ]
+  },
+  {
    "symbol": "NOAL",
    "name": "NOA Lithium Brines Inc",
    "exchange": "TSXV",
@@ -16294,18 +16306,6 @@
     {
      "name": "Select Sands Corp.",
      "symbol": "SNS"
-    }
-   ]
-  },
-  {
-   "symbol": "SN",
-   "name": "Sennen Potash Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SN.V",
-   "instruments": [
-    {
-     "name": "Sennen Potash Corporation",
-     "symbol": "SN"
     }
    ]
   },
@@ -67696,12 +67696,6 @@
    "yahoo_symbol": "PHAT"
   },
   {
-   "symbol": "PHCF",
-   "name": "Puhui Wealth Investment Management Co., Ltd.  - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PHCF"
-  },
-  {
    "symbol": "PHIO",
    "name": "Phio Pharmaceuticals Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -73486,24 +73480,6 @@
    "yahoo_symbol": "TESS"
   },
   {
-   "symbol": "TETC",
-   "name": "Tech and Energy Transition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TETC"
-  },
-  {
-   "symbol": "TETCU",
-   "name": "Tech and Energy Transition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TETCU"
-  },
-  {
-   "symbol": "TETCW",
-   "name": "Tech and Energy Transition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TETCW"
-  },
-  {
    "symbol": "TETE",
    "name": "Technology \u0026 Telecommunication Acquisition Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -73886,6 +73862,12 @@
    "name": "Tempo Automation Holdings, Inc. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TMPOW"
+  },
+  {
+   "symbol": "TMTCU",
+   "name": "TMT Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTCU"
   },
   {
    "symbol": "TMUS",
@@ -74572,6 +74554,12 @@
    "yahoo_symbol": "UFCS"
   },
   {
+   "symbol": "UFIV",
+   "name": "US Treasury 5 Year Note ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UFIV"
+  },
+  {
    "symbol": "UFO",
    "name": "Procure Space ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -74676,7 +74664,7 @@
   {
    "symbol": "UNAM",
    "name": "Unico American Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "UNAM"
   },
   {
@@ -74908,6 +74896,12 @@
    "yahoo_symbol": "USVM"
   },
   {
+   "symbol": "USVN",
+   "name": "US Treasury 7 Year Note ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USVN"
+  },
+  {
    "symbol": "USXF",
    "name": "iShares ESG Advanced MSCI USA ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -74944,6 +74938,12 @@
    "yahoo_symbol": "UTHR"
   },
   {
+   "symbol": "UTHY",
+   "name": "US Treasury 30 Year Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTHY"
+  },
+  {
    "symbol": "UTMD",
    "name": "Utah Medical Products, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -74954,6 +74954,12 @@
    "name": "UTime Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "UTME"
+  },
+  {
+   "symbol": "UTRE",
+   "name": "US Treasury 3 Year Note ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTRE"
   },
   {
    "symbol": "UTRS",
@@ -74972,6 +74978,12 @@
    "name": "US Treasury 2 Year Note ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UTWO"
+  },
+  {
+   "symbol": "UTWY",
+   "name": "US Treasury 20 Year Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTWY"
   },
   {
    "symbol": "UVSP",
@@ -76870,6 +76882,12 @@
    "yahoo_symbol": "YELL"
   },
   {
+   "symbol": "YGF",
+   "name": "YanGuFang International Group Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YGF"
+  },
+  {
    "symbol": "YGMZ",
    "name": "MingZhu Logistics Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -77102,6 +77120,12 @@
    "name": "Zivo Bioscience, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZIVOW"
+  },
+  {
+   "symbol": "ZJYL",
+   "name": "JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZJYL"
   },
   {
    "symbol": "ZKIN",
@@ -82306,6 +82330,12 @@
    "yahoo_symbol": "CR"
   },
   {
+   "symbol": "CR.V",
+   "name": "Crane Company Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CR.V"
+  },
+  {
    "symbol": "CRBG",
    "name": "Corebridge Financial Inc. Common Stock",
    "exchange": "NYSE",
@@ -82814,6 +82844,12 @@
    "name": "Sprinklr, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CXM"
+  },
+  {
+   "symbol": "CXT.V",
+   "name": "Crane NXT, Co. Common Stock Ex-Distribution When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXT.V"
   },
   {
    "symbol": "CXW",
@@ -94966,6 +95002,12 @@
    "yahoo_symbol": "SAFE"
   },
   {
+   "symbol": "SAFE.V",
+   "name": "Safehold Inc. New Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAFE.V"
+  },
+  {
    "symbol": "SAH",
    "name": "Sonic Automotive, Inc. Common Stock",
    "exchange": "NYSE",
@@ -95426,12 +95468,6 @@
    "name": "Sweetgreen, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SG"
-  },
-  {
-   "symbol": "SGFY",
-   "name": "Signify Health, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SGFY"
   },
   {
    "symbol": "SGG",
