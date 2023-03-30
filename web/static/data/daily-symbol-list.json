@@ -1,5 +1,5 @@
 {
- "date": "2023-03-29",
+ "date": "2023-03-30",
  "data": [
   {
    "symbol": "ONE",
@@ -12191,12 +12191,12 @@
   },
   {
    "symbol": "MTB",
-   "name": "Mountain Boy Minerals Ltd.",
+   "name": "MTB Metals Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "MTB.V",
    "instruments": [
     {
-     "name": "Mountain Boy Minerals Ltd.",
+     "name": "MTB Metals Corp.",
      "symbol": "MTB"
     }
    ]
@@ -29638,26 +29638,6 @@
    ]
   },
   {
-   "symbol": "TECE",
-   "name": "Evolve Enhanced FANGMA Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TECE.TO",
-   "instruments": [
-    {
-     "name": "Evolve EnhFANGM CaHg",
-     "symbol": "TECE"
-    },
-    {
-     "name": "EvolveEnhFANGM CaUHg",
-     "symbol": "TECE.B"
-    },
-    {
-     "name": "EvolveEnhFANGM USUHg",
-     "symbol": "TECE.U"
-    }
-   ]
-  },
-  {
    "symbol": "EBNK",
    "name": "Evolve European Banks Enhanced Yield ETF",
    "exchange": "TSX",
@@ -46230,7 +46210,7 @@
   {
    "symbol": "AHG",
    "name": "Akso Health Group - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AHG"
   },
   {
@@ -50506,12 +50486,6 @@
    "yahoo_symbol": "CALB"
   },
   {
-   "symbol": "CALC",
-   "name": "CalciMedica, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CALC"
-  },
-  {
    "symbol": "CALM",
    "name": "Cal-Maine Foods, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53636,12 +53610,6 @@
    "name": "DISH Network Corporation - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DISH"
-  },
-  {
-   "symbol": "DISTU",
-   "name": "Distoken Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DISTU"
   },
   {
    "symbol": "DIVD",
@@ -58900,6 +58868,12 @@
    "yahoo_symbol": "HLNE"
   },
   {
+   "symbol": "HLP",
+   "name": "Hongli Group Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HLP"
+  },
+  {
    "symbol": "HLTH",
    "name": "Cue Health Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61210,24 +61184,6 @@
    "yahoo_symbol": "JKHY"
   },
   {
-   "symbol": "JMAC",
-   "name": "Maxpro Capital Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JMAC"
-  },
-  {
-   "symbol": "JMACU",
-   "name": "Maxpro Capital Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JMACU"
-  },
-  {
-   "symbol": "JMACW",
-   "name": "Maxpro Capital Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JMACW"
-  },
-  {
    "symbol": "JMSB",
    "name": "John Marshall Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -62586,7 +62542,7 @@
   {
    "symbol": "LIZI",
    "name": "LIZHI INC. - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LIZI"
   },
   {
@@ -64496,24 +64452,6 @@
    "name": "Midland States Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MSBIP"
-  },
-  {
-   "symbol": "MSDA",
-   "name": "MSD Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSDA"
-  },
-  {
-   "symbol": "MSDAU",
-   "name": "MSD Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSDAU"
-  },
-  {
-   "symbol": "MSDAW",
-   "name": "MSD Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSDAW"
   },
   {
    "symbol": "MSEX",
@@ -73226,6 +73164,12 @@
    "name": "ToughBuilt Industries, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TBLTW"
+  },
+  {
+   "symbol": "TBMCU",
+   "name": "Trailblazer Merger Corporation I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMCU"
   },
   {
    "symbol": "TBNK",
