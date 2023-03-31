@@ -405,7 +405,7 @@ DLTA,Delta Resources Limited,TSXV,DLTA.V,Delta Resources Limited,DLTA
 DSLV,Denarius Metals Corp.,TSXV,DSLV.V,Denarius Metals Corp.,DSLV,Denarius Metals Corp. wt 17Mar2026,DSLV.WT
 DBC.P,Departure Bay Capital Corp.,TSXV,DBC.P.V,Departure Bay Capital Corp.,DBC.P
 DAU,Desert Gold Ventures Inc.,TSXV,DAU.V,Desert Gold Ventures Inc.,DAU
-DME,Desert Mountain Energy Corp.,TSXV,DME.V,Desert Mountain Energy Corp.,DME
+DME,Desert Mountain Energy Corp.,TSXV,DME.V,Desert Mountain Energy Corp.,DME,Desert Mountain Energy Corp. wt 24Mar2025,DME.WT
 DSY,Destiny Media Technologies Inc.,TSXV,DSY.V,Destiny Media Technologies Inc.,DSY
 FARM,Deveron Corp.,TSXV,FARM.V,Deveron Corp.,FARM,Deveron Corp. wt 25feb2024,FARM.WT
 GSD,Devonian Health Group Inc.,TSXV,GSD.V,Devonian Health Group Inc.,GSD
@@ -838,6 +838,7 @@ KIP,Kiplin Metals Inc.,TSXV,KIP.V,Kiplin Metals Inc.,KIP
 KLX,Klimat X Developments Inc.,TSXV,KLX.V,Klimat X Developments Inc.,KLX
 KG,Klondike Gold Corp.,TSXV,KG.V,Klondike Gold Corp,KG
 KS,Klondike Silver Corp.,TSXV,KS.V,Klondike Silver Corp.,KS
+KRI,Kobo Resources Inc.,TSXV,KRI.V,Kobo Resources Inc.,KRI
 KDK,Kodiak Copper Corp.,TSXV,KDK.V,Kodiak Copper Corp.,KDK
 KTN,Kootenay Silver Inc.,TSXV,KTN.V,Kootenay Silver Inc.,KTN
 KORE,Kore Mining Ltd.,TSXV,KORE.V,Kore Mining Ltd.,KORE
@@ -957,7 +958,6 @@ MZN,Metallum Resources Inc.,TSXV,MZN.V,Metallum Resources Inc.,MZN
 MET,Metalore Resources Limited,TSXV,MET.V,Metalore Resources Limited,MET
 MQM,Metalquest Mining Inc.,TSXV,MQM.V,Metalquest Mining Inc.,MQM
 MEK,Metals Creek Resources Corp.,TSXV,MEK.V,Metals Creek Resources Corp.,MEK
-MTR.P,Meteorite Capital Inc.,TSXV,MTR.P.V,Meteorite Capital Inc.,MTR.P
 MEX,Mexican Gold Mining Corp.,TSXV,MEX.V,Mexican Gold Mining Corp.,MEX,Mexican Gold Mining Corp. wt 15July2024,MEX.WT
 MCCP.P,Michichi Capital Corp.,TSXV,MCCP.P.V,Michichi Capital Corp.,MCCP.P
 MD,Midland Exploration Inc.,TSXV,MD.V,Midland Exploration Inc,MD
@@ -3576,7 +3576,6 @@ ADOCR,Edoc Acquisition Corp. - Right,NASDAQ Capital Market,ADOCR
 ADOCW,Edoc Acquisition Corp. - Warrant,NASDAQ Capital Market,ADOCW
 ADP,"Automatic Data Processing, Inc. - Common Stock",NASDAQ Global Select MarketSM,ADP
 ADPT,Adaptive Biotechnologies Corporation - Common Stock,NASDAQ Global Select MarketSM,ADPT
-ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,NASDAQ Global MarketSM,ADRE
 ADSE,ADS-TEC ENERGY PLC - Ordinary Shares,NASDAQ Capital Market,ADSE
 ADSEW,ADS-TEC ENERGY PLC - Warrant,NASDAQ Capital Market,ADSEW
 ADSK,"Autodesk, Inc. - Common Stock",NASDAQ Global Select MarketSM,ADSK
@@ -3798,6 +3797,8 @@ APGN,"Apexigen, Inc. - Common Stock",NASDAQ Capital Market,APGN
 APGNW,"Apexigen, Inc. - Warrant",NASDAQ Capital Market,APGNW
 API,"Agora, Inc. - ADS",NASDAQ Global Select MarketSM,API
 APLD,Applied Digital Corporation - Common Stock,NASDAQ Global Select MarketSM,APLD
+APLM,Apollomics Inc. - Class A Ordinary Shares,NASDAQ Capital Market,APLM
+APLMW,Apollomics Inc. - Warrant,NASDAQ Capital Market,APLMW
 APLS,"Apellis Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,APLS
 APLT,"Applied Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,APLT
 APM,Aptorum Group Limited - Class A Ordinary Shares,NASDAQ Global MarketSM,APM
@@ -3900,7 +3901,6 @@ ASPAU,"Abri SPAC I, Inc. - Unit",NASDAQ Capital Market,ASPAU
 ASPAW,"Abri SPAC I, Inc. - Warrant",NASDAQ Capital Market,ASPAW
 ASPI,ASP Isotopes Inc. - Common Stock,NASDAQ Capital Market,ASPI
 ASPS,Altisource Portfolio Solutions S.A. - Common Stock,NASDAQ Global Select MarketSM,ASPS
-ASPU,Aspen Group Inc. - Common Stock,NASDAQ Global MarketSM,ASPU
 ASRT,"Assertio Holdings, Inc. - Common Stock",NASDAQ Capital Market,ASRT
 ASRV,AmeriServ Financial Inc. - Common Stock,NASDAQ Global MarketSM,ASRV
 ASST,Asset Entities Inc. - Class B Common Stock,NASDAQ Capital Market,ASST
@@ -4245,7 +4245,6 @@ BRTX,"BioRestorative Therapies, Inc. - Common Stock",NASDAQ Capital Market,BRTX
 BRY,Berry Corporation (bry) - Common Stock,NASDAQ Global Select MarketSM,BRY
 BRZE,"Braze, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,BRZE
 BSBK,Bogota Financial Corp. - Common Stock,NASDAQ Capital Market,BSBK
-BSCE,Invesco BulletShares 2023 USD Emerging Markets Debt ETF,NASDAQ Global MarketSM,BSCE
 BSCN,Invesco BulletShares 2023 Corporate Bond ETF,NASDAQ Global MarketSM,BSCN
 BSCO,Invesco BulletShares 2024 Corporate Bond ETF,NASDAQ Global MarketSM,BSCO
 BSCP,Invesco BulletShares 2025 Corporate Bond ETF,NASDAQ Global MarketSM,BSCP
@@ -4256,7 +4255,6 @@ BSCT,Invesco BulletShares 2029 Corporate Bond ETF,NASDAQ Global MarketSM,BSCT
 BSCU,Invesco BulletShares 2030 Corporate Bond ETF,NASDAQ Global MarketSM,BSCU
 BSCV,Invesco BulletShares 2031 Corporate Bond ETF,NASDAQ Global MarketSM,BSCV
 BSCW,Invesco BulletShares 2032 Corporate Bond ETF,NASDAQ Global MarketSM,BSCW
-BSDE,Invesco BulletShares 2024 USD Emerging Markets Debt ETF,NASDAQ Global MarketSM,BSDE
 BSET,"Bassett Furniture Industries, Incorporated - Common Stock",NASDAQ Global Select MarketSM,BSET
 BSFC,Blue Star Foods Corp. - common stock,NASDAQ Capital Market,BSFC
 BSGA,Blue Safari Group Acquisition Corp. - Class A Ordinary Share,NASDAQ Capital Market,BSGA
@@ -4510,6 +4508,7 @@ CHSCM,"CHS Inc - Class B Reset Rate Cumulative Redeemable Preferred Stock, Serie
 CHSCN,CHS Inc - Preferred Class B Series 2 Reset Rate,NASDAQ Global Select MarketSM,CHSCN
 CHSCO,CHS Inc - Class B Cumulative Redeemable Preferred Stock,NASDAQ Global Select MarketSM,CHSCO
 CHSCP,CHS Inc - 8%  Cumulative Redeemable Preferred Stock,NASDAQ Global Select MarketSM,CHSCP
+CHSN,Chanson International Holding - Class A Ordinary Shares,NASDAQ Capital Market,CHSN
 CHTR,"Charter Communications, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CHTR
 CHUY,"Chuy's Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,CHUY
 CHW,Calamos Global Dynamic Income Fund - Closed End Fund,NASDAQ Global Select MarketSM,CHW
@@ -4828,7 +4827,6 @@ DCGO,DocGo Inc. - Common Stock,NASDAQ Capital Market,DCGO
 DCOM,"Dime Community Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,DCOM
 DCOMP,"Dime Community Bancshares, Inc. - Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ Global Select MarketSM,DCOMP
 DCPH,"Deciphera Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,DCPH
-DCT,"Duck Creek Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,DCT
 DCTH,"Delcath Systems, Inc. - Common Stock",NASDAQ Capital Market,DCTH
 DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares",NASDAQ Global Select MarketSM,DDI
 DDIV,First Trust Dorsey Wright Momentum & Dividend ETF,NASDAQ Global MarketSM,DDIV
@@ -4860,9 +4858,6 @@ DHCAU,DHC Acquisition Corp. - Unit,NASDAQ Capital Market,DHCAU
 DHCAW,DHC Acquisition Corp. - Warrant,NASDAQ Capital Market,DHCAW
 DHCNI,Diversified Healthcare Trust  - 5.625% Senior Notes due 2042,NASDAQ Global Select MarketSM,DHCNI
 DHCNL,Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046,NASDAQ Global Select MarketSM,DHCNL
-DHHC,DiamondHead Holdings Corp. - Class A Common Stock,NASDAQ Capital Market,DHHC
-DHHCU,DiamondHead Holdings Corp. - Unit,NASDAQ Capital Market,DHHCU
-DHHCW,DiamondHead Holdings Corp. - Warrant,NASDAQ Capital Market,DHHCW
 DHIL,"Diamond Hill Investment Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,DHIL
 DIBS,"1stdibs.com, Inc. - Common Stock",NASDAQ Global MarketSM,DIBS
 DICE,"DICE Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,DICE
@@ -4871,6 +4866,9 @@ DISA,Disruptive Acquisition Corporation I - Class A Ordinary Shares,NASDAQ Capit
 DISAU,Disruptive Acquisition Corporation I - Unit,NASDAQ Capital Market,DISAU
 DISAW,Disruptive Acquisition Corporation I - Warrant,NASDAQ Capital Market,DISAW
 DISH,DISH Network Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,DISH
+DIST,Distoken Acquisition Corporation - Ordinary Shares,NASDAQ Global MarketSM,DIST
+DISTR,Distoken Acquisition Corporation - Right,NASDAQ Global MarketSM,DISTR
+DISTW,Distoken Acquisition Corporation - Warrant,NASDAQ Global MarketSM,DISTW
 DIVD,Altrius Global Dividend ETF,NASDAQ Global MarketSM,DIVD
 DJCO,Daily Journal Corp. (S.C.) - Common Stock,NASDAQ Capital Market,DJCO
 DKDCA,Data Knights Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,DKDCA
@@ -4968,6 +4966,7 @@ DXYN,"The Dixie Group, Inc. - Common Stock",NASDAQ Global MarketSM,DXYN
 DYAI,"Dyadic International, Inc. - Common Stock",NASDAQ Capital Market,DYAI
 DYN,"Dyne Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,DYN
 DYNT,Dynatronics Corporation - Common Stock,NASDAQ Capital Market,DYNT
+DYTA,SGI Dynamic Tactical ETF,NASDAQ Global MarketSM,DYTA
 DZSI,DZS Inc. - Common Stock,NASDAQ Capital Market,DZSI
 EA,Electronic Arts Inc. - Common Stock,NASDAQ Global Select MarketSM,EA
 EAC,Edify Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,EAC
@@ -5120,6 +5119,7 @@ ESQ,"Esquire Financial Holdings, Inc. - Common Stock",NASDAQ Capital Market,ESQ
 ESSA,"ESSA Bancorp, Inc. - common stock",NASDAQ Global Select MarketSM,ESSA
 ESTA,Establishment Labs Holdings Inc. - Common Shares,NASDAQ Capital Market,ESTA
 ETAO,"Etao International Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,ETAO
+ETEC,iShares Breakthrough Environmental Solutions ETF,NASDAQ Global MarketSM,ETEC
 ETNB,"89bio, Inc. - Common Stock",NASDAQ Global MarketSM,ETNB
 ETON,"Eton Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,ETON
 ETSY,"Etsy, Inc. - Common Stock",NASDAQ Global Select MarketSM,ETSY
@@ -5742,8 +5742,6 @@ HISF,First Trust High Income Strategic Focus ETF,NASDAQ Global MarketSM,HISF
 HITI,High Tide Inc. - Common Shares,NASDAQ Capital Market,HITI
 HIVE,Hive Blockchain Technologies Ltd. - Common Shares,NASDAQ Capital Market,HIVE
 HLAL,Wahed FTSE USA Shariah ETF,NASDAQ Global MarketSM,HLAL
-HLBZ,"Helbiz, Inc. - Class A Common Stock",NASDAQ Capital Market,HLBZ
-HLBZW,"Helbiz, Inc. - Warrant",NASDAQ Capital Market,HLBZW
 HLIT,Harmonic Inc. - Common Stock,NASDAQ Global Select MarketSM,HLIT
 HLMN,Hillman Solutions Corp. - Common Stock,NASDAQ Global MarketSM,HLMN
 HLNE,Hamilton Lane Incorporated - Class A Common Stock,NASDAQ Global Select MarketSM,HLNE
@@ -5901,7 +5899,6 @@ IDAI,T Stamp Inc. - Class A Common Stock,NASDAQ Capital Market,IDAI
 IDBA,IDEX Biometrics ASA - American Depositary Shares,NASDAQ Capital Market,IDBA
 IDCC,"InterDigital, Inc. - Common Stock",NASDAQ Global Select MarketSM,IDCC
 IDEX,"Ideanomics, Inc. - Common Stock",NASDAQ Capital Market,IDEX
-IDLB,Invesco FTSE International Low Beta Equal Weight ETF,NASDAQ Global MarketSM,IDLB
 IDN,"Intellicheck, Inc. - Common Stock",NASDAQ Global MarketSM,IDN
 IDXX,"IDEXX Laboratories, Inc. - Common Stock",NASDAQ Global Select MarketSM,IDXX
 IDYA,"IDEAYA Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,IDYA
@@ -6049,9 +6046,7 @@ IRON,"Disc Medicine, Inc. - Common Stock",NASDAQ Global MarketSM,IRON
 IROQ,"IF Bancorp, Inc. - Common Stock",NASDAQ Capital Market,IROQ
 IRTC,"iRhythm Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,IRTC
 IRWD,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,IRWD
-ISDX,Invesco RAFI Strategic Developed ex-US ETF,NASDAQ Global MarketSM,ISDX
 ISEE,"IVERIC bio, Inc. - Common Stock",NASDAQ Global Select MarketSM,ISEE
-ISEM,Invesco RAFI Strategic Emerging Markets ETF,NASDAQ Global MarketSM,ISEM
 ISHG,iShares 1-3 Year International Treasury Bond ETF,NASDAQ Global MarketSM,ISHG
 ISHP,First Trust S-Network E-Commerce ETF,NASDAQ Global MarketSM,ISHP
 ISIG,"Insignia Systems, Inc. - Common Stock",NASDAQ Capital Market,ISIG
@@ -6079,7 +6074,6 @@ ITRN,Ituran Location and Control Ltd. - Ordinary Shares,NASDAQ Global Select Mar
 IUS,Invesco RAFI Strategic US ETF,NASDAQ Global MarketSM,IUS
 IUSB,iShares Core Total USD Bond Market ETF,NASDAQ Global MarketSM,IUSB
 IUSG,iShares Core S&P U.S. Growth ETF,NASDAQ Global MarketSM,IUSG
-IUSS,Invesco RAFI Strategic US Small Company ETF,NASDAQ Global MarketSM,IUSS
 IUSV,iShares Core S&P U.S. Value ETF,NASDAQ Global MarketSM,IUSV
 IVA,Inventiva S.A. - American Depository Shares,NASDAQ Global MarketSM,IVA
 IVAC,"Intevac, Inc. - Common Stock",NASDAQ Global Select MarketSM,IVAC
@@ -6516,6 +6510,8 @@ MCHX,"Marchex, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,MCHX
 MCLD,mCloud Technologies Corp. - Common Shares,NASDAQ Capital Market,MCLD
 MCLDP,mCloud Technologies Corp. - 9.0% Series A Cumulative Perpetual Preferred Shares,NASDAQ Capital Market,MCLDP
 MCLDW,mCloud Technologies Corp. - Warrants,NASDAQ Capital Market,MCLDW
+MCOM,micromobility.com Inc. - Class A Common Stock,NASDAQ Capital Market,MCOM
+MCOMW,micromobility.com Inc. - Warrant,NASDAQ Capital Market,MCOMW
 MCRB,"Seres Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCRB
 MCRI,"Monarch Casino & Resort, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCRI
 MCSE,Martin Currie Sustainable International Equity ETF,NASDAQ Global MarketSM,MCSE
@@ -8021,7 +8017,7 @@ STEL,"Stellar Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,STEL
 STEP,StepStone Group Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,STEP
 STER,Sterling Check Corp. - Common Stock,NASDAQ Global Select MarketSM,STER
 STGW,Stagwell Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,STGW
-STHOV,Star Holdings - Shares of Beneficial Interest,NASDAQ Global MarketSM,STHOV
+STHO,Star Holdings - Shares of Beneficial Interest,NASDAQ Global MarketSM,STHO
 STIM,"Neuronetics, Inc. - Common Stock",NASDAQ Global MarketSM,STIM
 STIX,"Semantix, Inc. - Ordinary Shares",NASDAQ Global MarketSM,STIX
 STIXW,"Semantix, Inc. - Warrant",NASDAQ Global MarketSM,STIXW
@@ -8358,6 +8354,8 @@ UFPI,"UFP Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,UFPI
 UFPT,"UFP Technologies, Inc. - Common Stock",NASDAQ Capital Market,UFPT
 UG,"United-Guardian, Inc. - Common Stock",NASDAQ Global MarketSM,UG
 UGRO,"urban-gro, Inc. - Common Stock",NASDAQ Capital Market,UGRO
+UHG,"United Homes Group, Inc - Class A Common Stock",NASDAQ Global MarketSM,UHG
+UHGWW,"United Homes Group, Inc - Warrant",NASDAQ Capital Market,UHGWW
 UIHC,United Insurance Holdings Corp. - Common Stock,NASDAQ Capital Market,UIHC
 UITB,VictoryShares USAA Core Intermediate-Term Bond ETF,NASDAQ Global MarketSM,UITB
 UIVM,VictoryShares International Value Momentum ETF,NASDAQ Global MarketSM,UIVM
@@ -8403,7 +8401,6 @@ USEA,United Maritime Corporation - Common Stock,NASDAQ Capital Market,USEA
 USEG,U.S. Energy Corp. - Common Stock,NASDAQ Capital Market,USEG
 USIG,iShares Broad USD Investment Grade Corporate Bond ETF,NASDAQ Global MarketSM,USIG
 USIO,"Usio, Inc. - Common Stock",NASDAQ Global MarketSM,USIO
-USLB,Invesco Russell 1000 Low Beta Equal Weight ETF,NASDAQ Global MarketSM,USLB
 USLM,"United States Lime & Minerals, Inc. - Common Stock",NASDAQ Global Select MarketSM,USLM
 USMC,Principal U.S. Mega-Cap ETF,NASDAQ Global MarketSM,USMC
 USOI,Credit Suisse X-Links Crude Oil Shares Covered Call ETN,NASDAQ Global MarketSM,USOI
@@ -10502,6 +10499,7 @@ HRT,HireRight Holdings Corporation Common Stock,NYSE,HRT
 HRTG,"Heritage Insurance Holdings, Inc. Common Stock",NYSE,HRTG
 HSBC,"HSBC Holdings, plc. Common Stock",NYSE,HSBC
 HSC,Harsco Corporation Common Stock,NYSE,HSC
+HSHP,Himalaya Shipping Ltd. Common Shares,NYSE,HSHP
 HSY,The Hershey Company Common Stock,NYSE,HSY
 HT,Hersha Hospitality Trust Class A Common Shares of Beneficial Interest,NYSE,HT
 HT$C,Hersha Hospitality Trust 6.875% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE,HT$C
@@ -10567,7 +10565,7 @@ IFIN.W,"InFinT Acquisition Corporation Warrants, each whole warrant exercisable 
 IFN,"India Fund, Inc. (The) Common Stock",NYSE,IFN
 IFS,Intercorp Financial Services Inc. Common Shares,NYSE,IFS
 IGA,Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest,NYSE,IGA
-IGC,India Globalization Capital Inc. Common Stock,NYSE MKT,IGC
+IGC,"IGC Pharma, Inc. Common Stock",NYSE MKT,IGC
 IGD,Voya Global Equity Dividend and Premium Opportunity Fund,NYSE,IGD
 IGI,Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock,NYSE,IGI
 IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,NYSE,IGR
@@ -11759,8 +11757,7 @@ SA,"Seabridge Gold, Inc. Ordinary Shares (Canada)",NYSE,SA
 SACC,Sachem Capital Corp. 6.875% Notes due 2024,NYSE MKT,SACC
 SACH,Sachem Capital Corp. Common Shares,NYSE MKT,SACH
 SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,NYSE MKT,SACH$A
-SAFE,Safehold Inc. Common Stock,NYSE,SAFE
-SAFE.V,Safehold Inc. New Common Stock When Issued,NYSE,SAFE.V
+SAFE,Safehold Inc. New Common Stock ,NYSE,SAFE
 SAH,"Sonic Automotive, Inc. Common Stock",NYSE,SAH
 SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION Common Stock,NYSE,SAIC
 SAJ,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,SAJ
@@ -11972,10 +11969,6 @@ SSU.W,"SIGNA Sports United N.V. Redeemable Warrants, each whole warrant exercisa
 SSY,"SunLink Health Systems, Inc. Common Stock",NYSE MKT,SSY
 ST,Sensata Technologies Holding plc Ordinary Shares,NYSE,ST
 STAG,"Stag Industrial, Inc. Common Stock",NYSE,STAG
-STAR,iStar Inc. Common Stock,NYSE,STAR
-STAR$D,iStar Inc. Series D Cumulative Redeemable Preferred Stock,NYSE,STAR$D
-STAR$G,iStar Inc. Series G Cumulative Redeemable Preferred Stock,NYSE,STAR$G
-STAR$I,iStar Inc. Series I Cumulative Redeemable Preferred Stock,NYSE,STAR$I
 STC,Stewart Information Services Corporation Common Stock,NYSE,STC
 STE,STERIS plc (Ireland) Ordinary Shares,NYSE,STE
 STEM,"Stem, Inc. Class A Common Stock",NYSE,STEM
@@ -12324,8 +12317,6 @@ VLN.W,"Valens Semiconductor Ltd. Warrants, each warrant to purchase one-half of 
 VLO,Valero Energy Corporation Common Stock,NYSE,VLO
 VLRS,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates",NYSE,VLRS
 VLT,Invesco High Income Trust II,NYSE,VLT
-VLTA,"Volta, Inc. Class A Common Stock",NYSE,VLTA
-VLTA.W,Volta Inc. Warrants,NYSE,VLTA.W
 VMC,Vulcan Materials Company (Holding Company) Common Stock,NYSE,VMC
 VMI,"Valmont Industries, Inc. Common Stock",NYSE,VMI
 VMO,Invesco Municipal Opportunity Trust Common Stock,NYSE,VMO
