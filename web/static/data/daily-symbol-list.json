@@ -1,5 +1,5 @@
 {
- "date": "2023-03-31",
+ "date": "2023-04-03",
  "data": [
   {
    "symbol": "ONE",
@@ -17014,6 +17014,18 @@
    ]
   },
   {
+   "symbol": "SPSA.P",
+   "name": "SP Strategic Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPSA.P.V",
+   "instruments": [
+    {
+     "name": "SP Strategic Acquisition Corp.",
+     "symbol": "SPSA.P"
+    }
+   ]
+  },
+  {
    "symbol": "SQG",
    "name": "Spackman Equities Group Inc.",
    "exchange": "TSXV",
@@ -17878,18 +17890,6 @@
     {
      "name": "Terra Firma Capital Corporation",
      "symbol": "TII"
-    }
-   ]
-  },
-  {
-   "symbol": "TZR",
-   "name": "Terrace Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TZR.V",
-   "instruments": [
-    {
-     "name": "Terrace Energy Corp.",
-     "symbol": "TZR"
     }
    ]
   },
@@ -26594,18 +26594,6 @@
    ]
   },
   {
-   "symbol": "CGBN",
-   "name": "CI Global Bond Currency Neutral Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CGBN.TO",
-   "instruments": [
-    {
-     "name": "CI Glb BndCurNeutrC$",
-     "symbol": "CGBN"
-    }
-   ]
-  },
-  {
    "symbol": "CLML",
    "name": "CI Global Climate Leaders Fund",
    "exchange": "TSX",
@@ -26998,54 +26986,6 @@
     {
      "name": "CI MSCI CAQualCl ETF",
      "symbol": "FQC"
-    }
-   ]
-  },
-  {
-   "symbol": "RWE",
-   "name": "CI MSCI Europe Low Risk Weighted ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RWE.TO",
-   "instruments": [
-    {
-     "name": "CI MSCI EU LwRskWgHG",
-     "symbol": "RWE"
-    },
-    {
-     "name": "CI MSCI EU LwRskUnhg",
-     "symbol": "RWE.B"
-    }
-   ]
-  },
-  {
-   "symbol": "RWX",
-   "name": "CI MSCI International Low Risk Weighted ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RWX.TO",
-   "instruments": [
-    {
-     "name": "CI MSCI IntlLwRskHeg",
-     "symbol": "RWX"
-    },
-    {
-     "name": "CI MSCIIntlLwRskUnHg",
-     "symbol": "RWX.B"
-    }
-   ]
-  },
-  {
-   "symbol": "RWW",
-   "name": "CI MSCI World Low Risk Weighted ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RWW.TO",
-   "instruments": [
-    {
-     "name": "CI MSCI WrldLwRsk HG",
-     "symbol": "RWW"
-    },
-    {
-     "name": "CI MSCI WrldLwRsUnhg",
-     "symbol": "RWW.B"
     }
    ]
   },
@@ -33822,10 +33762,6 @@
     {
      "name": "Indstrl AlliancePr B",
      "symbol": "IAF.PR.B"
-    },
-    {
-     "name": "Indstrl AlliancePr I",
-     "symbol": "IAF.PR.I"
     }
    ]
   },
@@ -39986,15 +39922,11 @@
    ]
   },
   {
-   "symbol": "PLZ.DB.E",
+   "symbol": "PLZ.UN",
    "name": "Plaza Retail REIT",
    "exchange": "TSX",
-   "yahoo_symbol": "PLZ.DB.E.TO",
+   "yahoo_symbol": "PLZ.UN.TO",
    "instruments": [
-    {
-     "name": "Plaza RetailTr 5.1Db",
-     "symbol": "PLZ.DB.E"
-    },
     {
      "name": "Plaza Retail REIT Un",
      "symbol": "PLZ.UN"
@@ -46084,12 +46016,6 @@
    "name": "Agenus Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AGEN"
-  },
-  {
-   "symbol": "AGFS",
-   "name": "AgroFresh Solutions, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AGFS"
   },
   {
    "symbol": "AGFY",
@@ -54096,12 +54022,6 @@
    "yahoo_symbol": "DWAW"
   },
   {
-   "symbol": "DWEQ",
-   "name": "AdvisorShares Dorsey Wright Alpha Equal Weight ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DWEQ"
-  },
-  {
    "symbol": "DWMC",
    "name": "AdvisorShares Dorsey Wright Micro-Cap ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58834,6 +58754,12 @@
    "name": "Hive Blockchain Technologies Ltd. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HIVE"
+  },
+  {
+   "symbol": "HKIT",
+   "name": "Hitek Global Inc. - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HKIT"
   },
   {
    "symbol": "HLAL",
@@ -69240,24 +69166,6 @@
    "yahoo_symbol": "RAIN"
   },
   {
-   "symbol": "RAM",
-   "name": "Aries I Acquisition Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RAM"
-  },
-  {
-   "symbol": "RAMMU",
-   "name": "Aries I Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RAMMU"
-  },
-  {
-   "symbol": "RAMMW",
-   "name": "Aries I Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RAMMW"
-  },
-  {
    "symbol": "RAND",
    "name": "Rand Capital Corporation - Closed End Fund",
    "exchange": "NASDAQ Capital Market",
@@ -71068,6 +70976,12 @@
    "name": "Shift Technologies, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SFT"
+  },
+  {
+   "symbol": "SFWL",
+   "name": "Shengfeng Development Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SFWL"
   },
   {
    "symbol": "SGA",
@@ -72940,6 +72854,12 @@
    "name": "Syros Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SYRS"
+  },
+  {
+   "symbol": "SYT",
+   "name": "SYLA Technologies Co., Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYT"
   },
   {
    "symbol": "SYTA",
@@ -79060,12 +78980,6 @@
    "name": "Austin Gold Corp. Common Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "AUST"
-  },
-  {
-   "symbol": "AUY",
-   "name": "Yamana Gold Inc. Ordinary Shares (Canada)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AUY"
   },
   {
    "symbol": "AVA",
@@ -90912,6 +90826,12 @@
    "yahoo_symbol": "MWA"
   },
   {
+   "symbol": "MWG",
+   "name": "Multi Ways Holdings Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MWG"
+  },
+  {
    "symbol": "MX",
    "name": "Magnachip Semiconductor Corporation Common Stock",
    "exchange": "NYSE",
@@ -94512,12 +94432,6 @@
    "yahoo_symbol": "RJF"
   },
   {
-   "symbol": "RJF$A",
-   "name": "Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.75% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RJF$A"
-  },
-  {
    "symbol": "RJF$B",
    "name": "Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",
    "exchange": "NYSE",
@@ -96139,7 +96053,7 @@
   },
   {
    "symbol": "SRV",
-   "name": "Cushing MLP \u0026 Infrastructure Total Return Fund",
+   "name": "NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "SRV"
   },

@@ -1391,6 +1391,7 @@ SMP,Southern Empire Resources Corp.,TSXV,SMP.V,Southern Empire Resources Corp.,S
 SOU,Southern Energy Corp.,TSXV,SOU.V,Southern Energy Corp.,SOU
 SSV,Southern Silver Exploration Corp.,TSXV,SSV.V,Southern Silver Exploration Corp,SSV
 SML,Southstone Minerals Limited,TSXV,SML.V,Southstone Minerals Limited,SML
+SPSA.P,SP Strategic Acquisition Corp.,TSXV,SPSA.P.V,SP Strategic Acquisition Corp.,SPSA.P
 SQG,Spackman Equities Group Inc.,TSXV,SQG.V,Spackman Equities Group Inc.,SQG
 SPA,Spanish Mountain Gold Ltd.,TSXV,SPA.V,Spanish Mountain Gold Ltd,SPA
 SPRQ,Sparq Systems Inc.,TSXV,SPRQ.V,Sparq Systems Inc.,SPRQ,Sparq Systems Inc. wt 31Dec2023,SPRQ.WT
@@ -1462,7 +1463,6 @@ TMRR,Tempus Resources Ltd.,TSXV,TMRR.V,Tempus Resources Ltd.,TMRR
 TPC,Tenth Avenue Petroleum Corp.,TSXV,TPC.V,Tenth Avenue Petroleum Corp.,TPC
 TRA,Teras Resources Inc.,TSXV,TRA.V,Teras Resources Inc.,TRA
 TII,Terra Firma Capital Corporation,TSXV,TII.V,Terra Firma Capital Corporation,TII
-TZR,Terrace Energy Corp.,TSXV,TZR.V,Terrace Energy Corp.,TZR
 TES,Tesoro Minerals Corp.,TSXV,TES.V,Tesoro Minerals Corp.,TES
 TPL,Tethys Petroleum Limited,TSXV,TPL.V,Tethys Petroleum Limited,TPL
 TUO,Teuton Resources Corp.,TSXV,TUO.V,Teuton Resources Corp,TUO
@@ -2098,7 +2098,6 @@ CMVX,CI Galaxy Metaverse ETF,TSX,CMVX.TO,CI Galaxy Metavrs Un,CMVX
 CMCX.B,CI Galaxy Multi-Crypto ETF,TSX,CMCX.B.TO,CI Galxy MltCrypC$UH,CMCX.B,CI GalxyMltCrypUH US,CMCX.U
 CINV,CI Global Alpha Innovation ETF,TSX,CINV.TO,CI Glb AlphaInnov CA,CINV,CI Glb AlphaInnov US,CINV.U
 CGAA,CI Global Asset Allocation Private Pool,TSX,CGAA.TO,CI GlbAsstAlloc C$Sr,CGAA
-CGBN,CI Global Bond Currency Neutral Fund,TSX,CGBN.TO,CI Glb BndCurNeutrC$,CGBN
 CLML,CI Global Climate Leaders Fund,TSX,CLML.TO,CI GlbClimate Ldr C$,CLML,CI GlbClimateLdrHgUS,CLML.U
 FSF,CI Global Financial Sector ETF,TSX,FSF.TO,CI Glbl Fin Sectr Un,FSF
 CGRB,CI Global Green Bond Fund,TSX,CGRB.TO,CI Glbl GreenBond C$,CGRB,CI GlbGreenBnd HgUS$,CGRB.U
@@ -2126,9 +2125,6 @@ QXM,CI Morningstar National Bank Québec Index ETF,TSX,QXM.TO,CI Mornstar NatBk 
 YXM,CI Morningstar US Momentum Index ETF,TSX,YXM.TO,CI Morn US Moment HG,YXM,CI Morn US MomntUnhg,YXM.B
 XXM,CI Morningstar US Value Index ETF,TSX,XXM.TO,CI Mornstr US Val HG,XXM,CI Mornstr USValUnhg,XXM.B
 FQC,CI MSCI Canada Quality Index Class ETF,TSX,FQC.TO,CI MSCI CAQualCl ETF,FQC
-RWE,CI MSCI Europe Low Risk Weighted ETF,TSX,RWE.TO,CI MSCI EU LwRskWgHG,RWE,CI MSCI EU LwRskUnhg,RWE.B
-RWX,CI MSCI International Low Risk Weighted ETF,TSX,RWX.TO,CI MSCI IntlLwRskHeg,RWX,CI MSCIIntlLwRskUnHg,RWX.B
-RWW,CI MSCI World Low Risk Weighted ETF,TSX,RWW.TO,CI MSCI WrldLwRsk HG,RWW,CI MSCI WrldLwRsUnhg,RWW.B
 CMAG,CI Munro Alternative Global Growth Fund,TSX,CMAG.TO,CI MunroAltGlbGrowC$,CMAG,CI MunroAlGlbGroUSHg,CMAG.U
 CMGG,CI Munro Global Growth Equity Fund,TSX,CMGG.TO,CI Munro GrowthEq C$,CMGG,CI MunroGrwthEqUS Hg,CMGG.U
 ONEQ,CI ONE Global Equity ETF,TSX,ONEQ.TO,CI One GlblEq ETF Un,ONEQ
@@ -2624,7 +2620,7 @@ IMO,Imperial Oil Limited,TSX,IMO.TO,Imperial Oil Ltd.,IMO
 IMV,IMV Inc.,TSX,IMV.TO,IMV Inc. J,IMV
 INC.UN,Income Financial Trust,TSX,INC.UN.TO,Income Fin Tr Un,INC.UN
 IDG,Indigo Books & Music Inc.,TSX,IDG.TO,Indigo Books & Music,IDG
-IAF.PR.B,Industrial Alliance Insurance and Financial Services Inc.,TSX,IAF.PR.B.TO,Indstrl AlliancePr B,IAF.PR.B,Indstrl AlliancePr I,IAF.PR.I
+IAF.PR.B,Industrial Alliance Insurance and Financial Services Inc.,TSX,IAF.PR.B.TO,Indstrl AlliancePr B,IAF.PR.B
 ISV,Information Services Corporation,TSX,ISV.TO,Info Serv Corp. A LV,ISV
 INE,Innergex Renewable Energy Inc.,TSX,INE.TO,Innergex Renew Engy,INE,Innergex Renew4.75Db,INE.DB.B,Innergex Renew4.65Db,INE.DB.C,Innergex Renew Pr A,INE.PR.A,Innergex Renew Pr C,INE.PR.C
 INO.UN,Inovalis Real Estate Investment Trust,TSX,INO.UN.TO,Inovalis REIT Un,INO.UN
@@ -3094,7 +3090,7 @@ PNP,Pinetree Capital Ltd.,TSX,PNP.TO,Pinetree Capital J,PNP
 PIPE,Pipestone Energy Corp.,TSX,PIPE.TO,Pipestone Energy,PIPE
 PZA,Pizza Pizza Royalty Corp.,TSX,PZA.TO,Pizza Pizza Royalty,PZA
 PTM,Platinum Group Metals Ltd.,TSX,PTM.TO,Platinum Grp Metal J,PTM
-PLZ.DB.E,Plaza Retail REIT,TSX,PLZ.DB.E.TO,Plaza RetailTr 5.1Db,PLZ.DB.E,Plaza Retail REIT Un,PLZ.UN
+PLZ.UN,Plaza Retail REIT,TSX,PLZ.UN.TO,Plaza Retail REIT Un,PLZ.UN
 PIF,Polaris Renewable Energy Inc.,TSX,PIF.TO,Polaris Renew Engy J,PIF
 PBL,Pollard Banknote Limited,TSX,PBL.TO,Pollard Banknote Ltd,PBL
 POM,Polymet Mining Corp.,TSX,POM.TO,Polymet Mining J,POM,Polymet Mining J Rt,POM.RT
@@ -3616,7 +3612,6 @@ AGAE,Allied Gaming & Entertainment Inc. - Common Stock,NASDAQ Capital Market,AGA
 AGBA,AGBA Group Holding Limited - Ordinary Share,NASDAQ Capital Market,AGBA
 AGBAW,AGBA Group Holding Limited - Warrant,NASDAQ Capital Market,AGBAW
 AGEN,Agenus Inc. - Common Stock,NASDAQ Capital Market,AGEN
-AGFS,"AgroFresh Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,AGFS
 AGFY,Agrify Corporation - Common Stock,NASDAQ Capital Market,AGFY
 AGIL,"AgileThought, Inc. - Class A Common Stock",NASDAQ Capital Market,AGIL
 AGILW,"AgileThought, Inc. - Warrant",NASDAQ Capital Market,AGILW
@@ -4951,7 +4946,6 @@ DWACU,Digital World Acquisition Corp. - Units,NASDAQ Global MarketSM,DWACU
 DWACW,Digital World Acquisition Corp. - Warrants,NASDAQ Global MarketSM,DWACW
 DWAS,Invesco DWA SmallCap Momentum ETF,NASDAQ Global MarketSM,DWAS
 DWAW,AdvisorShares Dorsey Wright FSM All Cap World ETF,NASDAQ Global MarketSM,DWAW
-DWEQ,AdvisorShares Dorsey Wright Alpha Equal Weight ETF,NASDAQ Global MarketSM,DWEQ
 DWMC,AdvisorShares Dorsey Wright Micro-Cap ETF,NASDAQ Global MarketSM,DWMC
 DWSH,AdvisorShares Dorsey Wright Short ETF,NASDAQ Global MarketSM,DWSH
 DWSN,Dawson Geophysical Company - Common Stock,NASDAQ Global Select MarketSM,DWSN
@@ -5741,6 +5735,7 @@ HIMX,"Himax Technologies, Inc. - American depositary shares, each of which repre
 HISF,First Trust High Income Strategic Focus ETF,NASDAQ Global MarketSM,HISF
 HITI,High Tide Inc. - Common Shares,NASDAQ Capital Market,HITI
 HIVE,Hive Blockchain Technologies Ltd. - Common Shares,NASDAQ Capital Market,HIVE
+HKIT,Hitek Global Inc. - Ordinary Share,NASDAQ Capital Market,HKIT
 HLAL,Wahed FTSE USA Shariah ETF,NASDAQ Global MarketSM,HLAL
 HLIT,Harmonic Inc. - Common Stock,NASDAQ Global Select MarketSM,HLIT
 HLMN,Hillman Solutions Corp. - Common Stock,NASDAQ Global MarketSM,HLMN
@@ -7475,9 +7470,6 @@ RACYW,Relativity Acquisition Corp. - Warrant,NASDAQ Global MarketSM,RACYW
 RADI,"Radius Global Infrastructure, Inc. - Common Stock",NASDAQ Global MarketSM,RADI
 RAIL,"Freightcar America, Inc. - Common Stock",NASDAQ Global Select MarketSM,RAIL
 RAIN,Rain Oncology Inc. - Common Stock,NASDAQ Global Select MarketSM,RAIN
-RAM,Aries I Acquisition Corporation - Class A Ordinary Share,NASDAQ Capital Market,RAM
-RAMMU,Aries I Acquisition Corporation - Unit,NASDAQ Capital Market,RAMMU
-RAMMW,Aries I Acquisition Corporation - Warrant,NASDAQ Capital Market,RAMMW
 RAND,Rand Capital Corporation - Closed End Fund,NASDAQ Capital Market,RAND
 RANI,"Rani Therapeutics Holdings, Inc. - Class A Common Stock",NASDAQ Global MarketSM,RANI
 RAPT,"RAPT Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,RAPT
@@ -7780,6 +7772,7 @@ SFR,"Appreciate Holdings, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SF
 SFRWW,"Appreciate Holdings, Inc. - Warrant",NASDAQ Capital Market,SFRWW
 SFST,"Southern First Bancshares, Inc. - Common Stock",NASDAQ Global MarketSM,SFST
 SFT,"Shift Technologies, Inc. - Class A Common Stock",NASDAQ Capital Market,SFT
+SFWL,Shengfeng Development Limited - Class A Ordinary Shares,NASDAQ Capital Market,SFWL
 SGA,"Saga Communications, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SGA
 SGBX,Safe & Green Holdings Corp. - Common Stock,NASDAQ Capital Market,SGBX
 SGC,"Superior Group of Companies, Inc. - Common Stock",NASDAQ Global MarketSM,SGC
@@ -8092,6 +8085,7 @@ SYNA,Synaptics Incorporated - Common Stock,NASDAQ Global Select MarketSM,SYNA
 SYNH,"Syneos Health, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SYNH
 SYPR,"Sypris Solutions, Inc. - Common Stock",NASDAQ Global MarketSM,SYPR
 SYRS,"Syros Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,SYRS
+SYT,"SYLA Technologies Co., Ltd. - American Depositary Shares",NASDAQ Capital Market,SYT
 SYTA,"Siyata Mobile, Inc. - Common Shares",NASDAQ Capital Market,SYTA
 SYTAW,"Siyata Mobile, Inc. - Warrant",NASDAQ Capital Market,SYTAW
 SZZL,Sizzle Acquisition Corp. - Common stock,NASDAQ Global MarketSM,SZZL
@@ -9112,7 +9106,6 @@ AULT,"Ault Alliance, Inc. Common Stock",NYSE MKT,AULT
 AULT$D,"Ault Alliance, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",NYSE MKT,AULT$D
 AUMN,Golden Minerals Company Common Stock,NYSE MKT,AUMN
 AUST,Austin Gold Corp. Common Shares,NYSE MKT,AUST
-AUY,Yamana Gold Inc. Ordinary Shares (Canada),NYSE,AUY
 AVA,Avista Corporation Common Stock,NYSE,AVA
 AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),NYSE,AVAL
 AVB,"AvalonBay Communities, Inc. Common Stock",NYSE,AVB
@@ -11087,6 +11080,7 @@ MVF,"Blackrock MuniVest Fund, Inc. Common Stock",NYSE,MVF
 MVO,MV Oil Trust Units of Beneficial Interests,NYSE,MVO
 MVT,"Blackrock MuniVest Fund II, Inc.  Common Stock",NYSE,MVT
 MWA,MUELLER WATER PRODUCTS Common Stock,NYSE,MWA
+MWG,Multi Ways Holdings Limited Ordinary Shares,NYSE MKT,MWG
 MX,Magnachip Semiconductor Corporation Common Stock,NYSE,MX
 MXC,Mexco Energy Corporation Common Stock,NYSE MKT,MXC
 MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock",NYSE,MXE
@@ -11687,7 +11681,6 @@ RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred St
 RJAC,Jackson Acquisition Company Class A Common Stock,NYSE,RJAC
 RJAC.U,"Jackson Acquisition Company Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",NYSE,RJAC.U
 RJF,"Raymond James Financial, Inc. Common Stock",NYSE,RJF
-RJF$A,"Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.75% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock",NYSE,RJF$A
 RJF$B,"Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NYSE,RJF$B
 RKT,"Rocket Companies, Inc. Class A Common Stock",NYSE,RKT
 RL,Ralph Lauren Corporation Common Stock,NYSE,RL
@@ -11958,7 +11951,7 @@ SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred 
 SRI,"Stoneridge, Inc. Common Stock",NYSE,SRI
 SRL,Scully Royalty Ltd.,NYSE,SRL
 SRT,"StarTek, Inc. Common Stock",NYSE,SRT
-SRV,Cushing MLP & Infrastructure Total Return Fund,NYSE,SRV
+SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NYSE,SRV
 SSD,"Simpson Manufacturing Company, Inc. Common Stock",NYSE,SSD
 SSL,Sasol Ltd. American Depositary Shares,NYSE,SSL
 SST,"System1, Inc. Class A Common Stock",NYSE,SST
