@@ -1,19 +1,22 @@
 {
  "added": [
   {
-   "symbol": "JP",
-   "name": "JP (JP)",
+   "symbol": "JASMY",
+   "name": "JasmyCoin (JASMY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUI",
+   "name": "Sui (SUI)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "EPX",
+   "name": "Ellipsis X (EPX)",
    "built_on": "BNB"
-  },
-  {
-   "symbol": "ALPHAC",
-   "name": "Alpha Coin (ALPHAC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
   },
   {
    "symbol": "G",
@@ -21,34 +24,19 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "FINU",
-   "name": "Formula Inu (FINU)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MARLEY",
-   "name": "Marley Token (MARLEY)"
-  },
-  {
    "symbol": "DOG",
    "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "NXRA",
-   "name": "AllianceBlock Nexera (NXRA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DAMEX",
-   "name": "DAMEX (DAMEX)",
    "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "FINU",
-   "name": "Fire Inu (FINU)"
+   "symbol": "EPX",
+   "name": "Ellipsis X (EPX)"
+  },
+  {
+   "symbol": "JASMY",
+   "name": "JasmyCoin (JASMY)"
   }
  ]
 }

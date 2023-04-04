@@ -389,6 +389,7 @@ DCX.P,Dash Capital Corp.,TSXV,DCX.P.V,Dash Capital Corp.,DCX.P
 DAC,Datable Technology Corporation,TSXV,DAC.V,Datable Technology Corporation,DAC
 DM,Datametrex AI Limited,TSXV,DM.V,Datametrex AI Limited,DM
 DUR.P,Daura Capital Corp.,TSXV,DUR.P.V,Daura Capital Corp.,DUR.P
+DTEA,DAVIDsTEA Inc.,TSXV,DTEA.V,DAVIDsTEA Inc.,DTEA
 DPCC.P,Deal Pro Capital Corp.,TSXV,DPCC.P.V,Deal Pro Capital Corp.,DPCC.P
 DEC,Decade Resources Ltd.,TSXV,DEC.V,Decade Resources Ltd.,DEC
 DB,Decibel Cannabis Company Inc.,TSXV,DB.V,Decibel Cannabis Company Inc.,DB,Decibel Cannabis Company Inc. wt. A 16Sept2024,DB.WT.A
@@ -1245,6 +1246,7 @@ LUCK,Real Luck Group Ltd.,TSXV,LUCK.V,Real Luck Group Ltd.,LUCK
 RLP,Realia Properties Inc.,TSXV,RLP.V,Realia Properties Inc.,RLP,Realia Properties Inc. db. 30Sept2025,RLP.DB.B
 RGI,Reco International Group Inc.,TSXV,RGI.V,Reco International Group Inc.,RGI
 RECO,Reconnaissance Energy Africa Ltd.,TSXV,RECO.V,Reconnaissance Energy Africa Ltd.,RECO,Reconnaissance Energy Africa Ltd. wt 27May2024,RECO.WT.A
+REC,Record Resources Inc.,TSXV,REC.V,Record Resources Inc.,REC
 AMY,Recylico Battery Materials Inc.,TSXV,AMY.V,Recylico Battery Materials Inc.,AMY
 RPX,Red Pine Exploration Inc.,TSXV,RPX.V,Red Pine Exploration Inc.,RPX
 KUT,Redishred Capital Corp.,TSXV,KUT.V,Redishred Capital Corp.,KUT
@@ -1346,7 +1348,6 @@ SIE,Sienna Resources Inc.,TSXV,SIE.V,Sienna Resources Inc.,SIE
 SM,Sierra Madre Gold and Silver Ltd.,TSXV,SM.V,Sierra Madre Gold and Silver Ltd.,SM
 SGML,Sigma Lithium Corporation,TSXV,SGML.V,Sigma Lithium Corporation,SGML
 SGU,Signature Resources Ltd.,TSXV,SGU.V,Signature Resources Ltd.,SGU
-SLK,Silk Road Energy Inc.,TSXV,SLK.V,Silk Road Energy Inc.,SLK
 SBMI,Silver Bullet Mines Corp.,TSXV,SBMI.V,Silver Bullet Mines Corp.,SBMI
 SVG,Silver Grail Resources Ltd.,TSXV,SVG.V,Silver Grail Resources Ltd.,SVG
 AGMR,Silver Mountain Resources Inc.,TSXV,AGMR.V,Silver Mountain Resources Inc.,AGMR,Silver Mountain Resources Inc. wt 02FEB2024,AGMR.WT,Silver Mountain Resources Inc. wts A 09Feb2026,AGMR.WT.A
@@ -2483,6 +2484,7 @@ HR.UN,H&R Real Estate Investment Trust,TSX,HR.UN.TO,H&R Real Estate Un,HR.UN
 HEO,H2O Innovation Inc.,TSX,HEO.TO,H2O Innovation Inc.,HEO
 HAI,Haivision Systems Inc.,TSX,HAI.TO,Haivision Systems,HAI
 HBA,Hamilton Australian Bank Equal-Weight Index ETF,TSX,HBA.TO,Hamilton AusBk=Wgt E,HBA
+HEB,Hamilton Canadian Bank Equal-Weight Index ETF,TSX,HEB.TO,Hamilton Cdn Bk=Wgt,HEB
 HCA,Hamilton Canadian Bank Mean Reversion Index ETF,TSX,HCA.TO,Hamilton CadBkRev Un,HCA
 HMAX,Hamilton Canadian Financials Yield Maximizer ETF,TSX,HMAX.TO,Hamilton CdnFinMax E,HMAX
 HCAL,Hamilton Enhanced Canadian Bank ETF,TSX,HCAL.TO,Hamilton EnhanCA Bk,HCAL
@@ -3468,7 +3470,6 @@ WSP,WSP Global Inc.,TSX,WSP.TO,WSP Global Inc.,WSP
 XAM,Xanadu Mines Ltd.,TSX,XAM.TO,Xanadu Mines J Ord,XAM
 XTG,Xtra-Gold Resources Corp.,TSX,XTG.TO,Xtra-Gold Resource J,XTG
 XTRA,Xtract One Technologies Inc.,TSX,XTRA.TO,Xtract One Tech J,XTRA
-YRI,Yamana Gold Inc.,TSX,YRI.TO,Yamana Gold Inc.,YRI
 YGR,Yangarra Resources Ltd.,TSX,YGR.TO,Yangarra Res Ltd.,YGR
 Y,Yellow Pages Limited,TSX,Y.TO,Yellow Pages Limited,Y
 YRB,Yorbeau Resources Inc.,TSX,YRB.TO,Yorbeau Resources J,YRB
@@ -6949,6 +6950,7 @@ OCGN,"Ocugen, Inc. - Common Stock",NASDAQ Capital Market,OCGN
 OCS,Oculis Holding AG - Ordinary shares,NASDAQ Global MarketSM,OCS
 OCSAW,Oculis Holding AG - Warrants,NASDAQ Global MarketSM,OCSAW
 OCSL,Oaktree Specialty Lending Corporation - Closed End Fund,NASDAQ Global Select MarketSM,OCSL
+OCTO,Eightco Holdings Inc. - Common Stock,NASDAQ Capital Market,OCTO
 OCUL,"Ocular Therapeutix, Inc. - Common Stock",NASDAQ Global MarketSM,OCUL
 OCUP,"Ocuphire Pharma, Inc. - Common Stock",NASDAQ Capital Market,OCUP
 OCX,Oncocyte Corporation - Common Stock,NASDAQ Capital Market,OCX
@@ -7302,7 +7304,6 @@ PRFT,"Perficient, Inc. - Common Stock",NASDAQ Global Select MarketSM,PRFT
 PRFX,PainReform Ltd. - Ordinary Shares,NASDAQ Capital Market,PRFX
 PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,NASDAQ Global MarketSM,PRFZ
 PRGS,Progress Software Corporation - Common Stock,NASDAQ Global Select MarketSM,PRGS
-PRIM,Primoris Services Corporation - Common Stock,NASDAQ Global Select MarketSM,PRIM
 PRLD,Prelude Therapeutics Incorporated - Common Stock,NASDAQ Global Select MarketSM,PRLD
 PRLH,Pearl Holdings Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,PRLH
 PRLHU,Pearl Holdings Acquisition Corp - Unit,NASDAQ Global MarketSM,PRLHU
@@ -7360,7 +7361,9 @@ PTEN,"Patterson-UTI Energy, Inc. - Common Stock",NASDAQ Global Select MarketSM,P
 PTF,Invesco DWA Technology Momentum ETF,NASDAQ Global MarketSM,PTF
 PTGX,"Protagonist Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,PTGX
 PTH,Invesco DWA Healthcare Momentum ETF,NASDAQ Global MarketSM,PTH
+PTHR,"Pono Capital Three, Inc. - Class A Ordinary Shares",NASDAQ Global MarketSM,PTHR
 PTHRU,"Pono Capital Three, Inc. - Unit",NASDAQ Global MarketSM,PTHRU
+PTHRW,"Pono Capital Three, Inc. - Warrant",NASDAQ Global MarketSM,PTHRW
 PTIX,"Protagenic Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,PTIX
 PTIXW,"Protagenic Therapeutics, Inc. - Warrant",NASDAQ Capital Market,PTIXW
 PTLO,Portillo's Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,PTLO
@@ -7801,6 +7804,7 @@ SHFS,"SHF Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market,SHFS
 SHFSW,"SHF Holdings, Inc. - Warrants",NASDAQ Capital Market,SHFSW
 SHIP,Seanergy Maritime Holdings Corp - Common Stock,NASDAQ Capital Market,SHIP
 SHLS,"Shoals Technologies Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SHLS
+SHLT,SHL Telemedicine Ltd - American Depositary Shares,NASDAQ Capital Market,SHLT
 SHOO,"Steven Madden, Ltd. - Common Stock",NASDAQ Global Select MarketSM,SHOO
 SHPH,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",NASDAQ Capital Market,SHPH
 SHUA,SHUAA Partners Acquisition Corp I - Class A Ordinary Share,NASDAQ Global MarketSM,SHUA
@@ -8322,7 +8326,6 @@ TXG,"10x Genomics, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXG
 TXMD,"TherapeuticsMD, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXMD
 TXN,Texas Instruments Incorporated - Common Stock,NASDAQ Global Select MarketSM,TXN
 TXRH,"Texas Roadhouse, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXRH
-TYDE,"Cryptyde, Inc. - Common Stock",NASDAQ Capital Market,TYDE
 TYRA,"Tyra Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,TYRA
 TZOO,Travelzoo - Common Stock,NASDAQ Global Select MarketSM,TZOO
 UAE,iShares MSCI UAE ETF,NASDAQ Global MarketSM,UAE
@@ -9213,7 +9216,7 @@ BEPC,Brookfield Renewable Corporation Class A Subordinate Voting Shares ,NYSE,BE
 BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,NYSE,BEPH
 BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,NYSE,BEPI
 BERY,"Berry Global Group, Inc. Common Stock",NYSE,BERY
-BEST,"BEST Inc. American Depositary Shares, each representing five Class A Ordinary Share",NYSE,BEST
+BEST,"BEST Inc. American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",NYSE,BEST
 BF.A,Brown Forman Inc Class A Common Stock,NYSE,BF.A
 BF.B,Brown Forman Inc Class B Common Stock,NYSE,BF.B
 BFAC,Battery Future Acquisition Corp. Class A Ordinary Shares,NYSE,BFAC
@@ -9335,7 +9338,6 @@ BOOT,"Boot Barn Holdings, Inc. Common Stock",NYSE,BOOT
 BORR,Borr Drilling Limited Common Shares,NYSE,BORR
 BOWL,Bowlero Corp. Class A Common Stock,NYSE,BOWL
 BOX,"Box, Inc. Class A Common Stock",NYSE,BOX
-BOXD,"Boxed, Inc. Common Stock",NYSE,BOXD
 BP,BP p.l.c. Common Stock,NYSE,BP
 BPT,BP Prudhoe Bay Royalty Trust Common Stock,NYSE,BPT
 BQ,"Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares",NYSE,BQ
@@ -9504,7 +9506,6 @@ CHMI$A,Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Red
 CHMI$B,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,CHMI$B
 CHN,"China Fund, Inc. (The) Common Stock",NYSE,CHN
 CHPT,"ChargePoint Holdings, Inc. Common Stock",NYSE,CHPT
-CHRA,"Charah Solutions, Inc. Common Stock",NYSE,CHRA
 CHRB,"Charah Solutions, Inc. 8.50% Senior Notes due 2026",NYSE,CHRB
 CHS,"Chico's FAS, Inc. Common Stock",NYSE,CHS
 CHT,"Chunghwa Telecom Co., Ltd.",NYSE,CHT
@@ -9637,8 +9638,7 @@ CPUH,Compute Health Acquisition Corp. Class A Common Stock,NYSE,CPUH
 CPUH.U,"Compute Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant",NYSE,CPUH.U
 CPUH.W,"Compute Health Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",NYSE,CPUH.W
 CQP,"Cheniere Energy Partners, LP Cheniere Energy Partners, LP Common Units",NYSE MKT,CQP
-CR,"Crane Holdings, Co. Common Stock",NYSE,CR
-CR.V,Crane Company Common Stock When Issued,NYSE,CR.V
+CR,Crane Company Common Stock,NYSE,CR
 CRBG,Corebridge Financial Inc. Common Stock,NYSE,CRBG
 CRC,California Resources Corporation Common Stock,NYSE,CRC
 CRD.A,Crawford & Company Common Stock,NYSE,CRD.A
@@ -9724,7 +9724,7 @@ CXAC.W,"C5 Acquisition Corporation Public warrants, each whole public warrant ex
 CXE,MFS High Income Municipal Trust Common Stock,NYSE,CXE
 CXH,MFS Investment Grade Municipal Trust Common Stock,NYSE,CXH
 CXM,"Sprinklr, Inc. Class A Common Stock",NYSE,CXM
-CXT.V,"Crane NXT, Co. Common Stock Ex-Distribution When-Issued",NYSE,CXT.V
+CXT,"Crane NXT, Co. Common Stock",NYSE,CXT
 CXW,"CoreCivic, Inc. Common Stock",NYSE,CXW
 CYBN,Cybin Inc. Common Shares,NYSE MKT,CYBN
 CYD,China Yuchai International Limited Common Stock,NYSE,CYD
@@ -11486,7 +11486,6 @@ PLAG,Planet Green Holdings Corp. Common Stock,NYSE MKT,PLAG
 PLD,"Prologis, Inc. Common Stock",NYSE,PLD
 PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),NYSE MKT,PLG
 PLM,Polymet Mining Corporation Ordinary Shares (Canada),NYSE MKT,PLM
-PLM.R,"Polymet Mining Corp. Rights (expiring April 4, 2023) Rights",NYSE MKT,PLM.R
 PLNT,"Planet Fitness, Inc. Common Stock",NYSE,PLNT
 PLOW,"Douglas Dynamics, Inc. Common Stock",NYSE,PLOW
 PLTR,Palantir Technologies Inc. Class A Common Stock,NYSE,PLTR
@@ -11538,6 +11537,7 @@ PRIF$I,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028
 PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028",NYSE,PRIF$J
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",NYSE,PRIF$K
 PRIF$L,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",NYSE,PRIF$L
+PRIM,Primoris Services Corporation Common Stock,NYSE,PRIM
 PRK,Park National Corporation Common Stock,NYSE MKT,PRK
 PRLB,"Proto Labs, Inc. Common stock",NYSE,PRLB
 PRM,"Perimeter Solutions, SA Ordinary Shares",NYSE,PRM
@@ -11859,7 +11859,6 @@ SITC$A,SITE Centers Corp. 6.375% Class A Preferred Shares,NYSE,SITC$A
 SITE,"SiteOne Landscape Supply, Inc. Common Stock",NYSE,SITE
 SIX,Six Flags Entertainment Corporation New Common Stock,NYSE,SIX
 SJM,J.M. Smucker Company (The) New Common Stock,NYSE,SJM
-SJR,Shaw Communications Inc. Common Stock,NYSE,SJR
 SJT,San Juan Basin Royalty Trust Common Stock,NYSE,SJT
 SJW,SJW Group Common Stock (DE),NYSE,SJW
 SKE,Skeena Resources Limited Common Shares,NYSE,SKE
@@ -12178,8 +12177,6 @@ TVE,Tennessee Valley Authority,NYSE,TVE
 TWI,"Titan International, Inc. (DE) Common Stock",NYSE,TWI
 TWLO,Twilio Inc. Class A Common Stock,NYSE,TWLO
 TWN,"Taiwan Fund, Inc. (The) Common Stock",NYSE,TWN
-TWNI,Tailwind International Acquisition Corp. Class A Ordinary Shares,NYSE,TWNI
-TWNI.U,"Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,TWNI.U
 TWO,Two Harbors Investment Corp,NYSE,TWO
 TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),NYSE,TWO$A
 TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,TWO$B

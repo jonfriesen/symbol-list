@@ -1,184 +1,162 @@
 {
  "added": [
   {
-   "symbol": "SPSA.P",
-   "name": "SP Strategic Acquisition Corp.",
+   "symbol": "DTEA",
+   "name": "DAVIDsTEA Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SPSA.P.V",
+   "yahoo_symbol": "DTEA.V",
    "instruments": [
     {
-     "name": "SP Strategic Acquisition Corp.",
-     "symbol": "SPSA.P"
+     "name": "DAVIDsTEA Inc.",
+     "symbol": "DTEA"
     }
    ]
   },
   {
-   "symbol": "PLZ.UN",
-   "name": "Plaza Retail REIT",
+   "symbol": "REC",
+   "name": "Record Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REC.V",
+   "instruments": [
+    {
+     "name": "Record Resources Inc.",
+     "symbol": "REC"
+    }
+   ]
+  },
+  {
+   "symbol": "HEB",
+   "name": "Hamilton Canadian Bank Equal-Weight Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "PLZ.UN.TO",
+   "yahoo_symbol": "HEB.TO",
    "instruments": [
     {
-     "name": "Plaza Retail REIT Un",
-     "symbol": "PLZ.UN"
+     "name": "Hamilton Cdn Bk=Wgt",
+     "symbol": "HEB"
     }
    ]
   },
   {
-   "symbol": "HKIT",
-   "name": "Hitek Global Inc. - Ordinary Share",
+   "symbol": "OCTO",
+   "name": "Eightco Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HKIT"
+   "yahoo_symbol": "OCTO"
   },
   {
-   "symbol": "SFWL",
-   "name": "Shengfeng Development Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SFWL"
+   "symbol": "PTHR",
+   "name": "Pono Capital Three, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTHR"
   },
   {
-   "symbol": "SYT",
-   "name": "SYLA Technologies Co., Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SYT"
+   "symbol": "PTHRW",
+   "name": "Pono Capital Three, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTHRW"
   },
   {
-   "symbol": "MWG",
-   "name": "Multi Ways Holdings Limited Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MWG"
+   "symbol": "SHLT",
+   "name": "SHL Telemedicine Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHLT"
+  },
+  {
+   "symbol": "CXT",
+   "name": "Crane NXT, Co. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXT"
+  },
+  {
+   "symbol": "PRIM",
+   "name": "Primoris Services Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRIM"
   }
  ],
  "removed": [
   {
-   "symbol": "PLZ.DB.E",
-   "name": "Plaza Retail REIT",
-   "exchange": "TSX",
-   "yahoo_symbol": "PLZ.DB.E.TO",
-   "instruments": [
-    {
-     "name": "Plaza RetailTr 5.1Db",
-     "symbol": "PLZ.DB.E"
-    },
-    {
-     "name": "Plaza Retail REIT Un",
-     "symbol": "PLZ.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "RWX",
-   "name": "CI MSCI International Low Risk Weighted ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RWX.TO",
-   "instruments": [
-    {
-     "name": "CI MSCI IntlLwRskHeg",
-     "symbol": "RWX"
-    },
-    {
-     "name": "CI MSCIIntlLwRskUnHg",
-     "symbol": "RWX.B"
-    }
-   ]
-  },
-  {
-   "symbol": "DWEQ",
-   "name": "AdvisorShares Dorsey Wright Alpha Equal Weight ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DWEQ"
-  },
-  {
-   "symbol": "AGFS",
-   "name": "AgroFresh Solutions, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AGFS"
-  },
-  {
-   "symbol": "RAMMW",
-   "name": "Aries I Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RAMMW"
-  },
-  {
-   "symbol": "RJF$A",
-   "name": "Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.75% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock",
+   "symbol": "SJR",
+   "name": "Shaw Communications Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "RJF$A"
+   "yahoo_symbol": "SJR"
   },
   {
-   "symbol": "CGBN",
-   "name": "CI Global Bond Currency Neutral Fund",
+   "symbol": "TWNI.U",
+   "name": "Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWNI.U"
+  },
+  {
+   "symbol": "PLM.R",
+   "name": "Polymet Mining Corp. Rights (expiring April 4, 2023) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLM.R"
+  },
+  {
+   "symbol": "YRI",
+   "name": "Yamana Gold Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "CGBN.TO",
+   "yahoo_symbol": "YRI.TO",
    "instruments": [
     {
-     "name": "CI Glb BndCurNeutrC$",
-     "symbol": "CGBN"
+     "name": "Yamana Gold Inc.",
+     "symbol": "YRI"
     }
    ]
   },
   {
-   "symbol": "RAMMU",
-   "name": "Aries I Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RAMMU"
+   "symbol": "CHRA",
+   "name": "Charah Solutions, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CHRA"
   },
   {
-   "symbol": "TZR",
-   "name": "Terrace Energy Corp.",
+   "symbol": "CR.V",
+   "name": "Crane Company Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CR.V"
+  },
+  {
+   "symbol": "CXT.V",
+   "name": "Crane NXT, Co. Common Stock Ex-Distribution When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXT.V"
+  },
+  {
+   "symbol": "SLK",
+   "name": "Silk Road Energy Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TZR.V",
+   "yahoo_symbol": "SLK.V",
    "instruments": [
     {
-     "name": "Terrace Energy Corp.",
-     "symbol": "TZR"
+     "name": "Silk Road Energy Inc.",
+     "symbol": "SLK"
     }
    ]
   },
   {
-   "symbol": "RAM",
-   "name": "Aries I Acquisition Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RAM"
+   "symbol": "PRIM",
+   "name": "Primoris Services Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PRIM"
   },
   {
-   "symbol": "RWW",
-   "name": "CI MSCI World Low Risk Weighted ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RWW.TO",
-   "instruments": [
-    {
-     "name": "CI MSCI WrldLwRsk HG",
-     "symbol": "RWW"
-    },
-    {
-     "name": "CI MSCI WrldLwRsUnhg",
-     "symbol": "RWW.B"
-    }
-   ]
-  },
-  {
-   "symbol": "AUY",
-   "name": "Yamana Gold Inc. Ordinary Shares (Canada)",
+   "symbol": "TWNI",
+   "name": "Tailwind International Acquisition Corp. Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "AUY"
+   "yahoo_symbol": "TWNI"
   },
   {
-   "symbol": "RWE",
-   "name": "CI MSCI Europe Low Risk Weighted ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RWE.TO",
-   "instruments": [
-    {
-     "name": "CI MSCI EU LwRskWgHG",
-     "symbol": "RWE"
-    },
-    {
-     "name": "CI MSCI EU LwRskUnhg",
-     "symbol": "RWE.B"
-    }
-   ]
+   "symbol": "BOXD",
+   "name": "Boxed, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOXD"
+  },
+  {
+   "symbol": "TYDE",
+   "name": "Cryptyde, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TYDE"
   }
  ]
 }

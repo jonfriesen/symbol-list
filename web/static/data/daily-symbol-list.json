@@ -1,5 +1,5 @@
 {
- "date": "2023-04-03",
+ "date": "2023-04-04",
  "data": [
   {
    "symbol": "ONE",
@@ -4730,6 +4730,18 @@
     {
      "name": "Daura Capital Corp.",
      "symbol": "DUR.P"
+    }
+   ]
+  },
+  {
+   "symbol": "DTEA",
+   "name": "DAVIDsTEA Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DTEA.V",
+   "instruments": [
+    {
+     "name": "DAVIDsTEA Inc.",
+     "symbol": "DTEA"
     }
    ]
   },
@@ -15214,6 +15226,18 @@
    ]
   },
   {
+   "symbol": "REC",
+   "name": "Record Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REC.V",
+   "instruments": [
+    {
+     "name": "Record Resources Inc.",
+     "symbol": "REC"
+    }
+   ]
+  },
+  {
    "symbol": "AMY",
    "name": "Recylico Battery Materials Inc.",
    "exchange": "TSXV",
@@ -16454,18 +16478,6 @@
     {
      "name": "Signature Resources Ltd.",
      "symbol": "SGU"
-    }
-   ]
-  },
-  {
-   "symbol": "SLK",
-   "name": "Silk Road Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SLK.V",
-   "instruments": [
-    {
-     "name": "Silk Road Energy Inc.",
-     "symbol": "SLK"
     }
    ]
   },
@@ -31986,6 +31998,18 @@
    ]
   },
   {
+   "symbol": "HEB",
+   "name": "Hamilton Canadian Bank Equal-Weight Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEB.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Cdn Bk=Wgt",
+     "symbol": "HEB"
+    }
+   ]
+  },
+  {
    "symbol": "HCA",
    "name": "Hamilton Canadian Bank Mean Reversion Index ETF",
    "exchange": "TSX",
@@ -45126,18 +45150,6 @@
     {
      "name": "Xtract One Tech J",
      "symbol": "XTRA"
-    }
-   ]
-  },
-  {
-   "symbol": "YRI",
-   "name": "Yamana Gold Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "YRI.TO",
-   "instruments": [
-    {
-     "name": "Yamana Gold Inc.",
-     "symbol": "YRI"
     }
    ]
   },
@@ -66040,6 +66052,12 @@
    "yahoo_symbol": "OCSL"
   },
   {
+   "symbol": "OCTO",
+   "name": "Eightco Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCTO"
+  },
+  {
    "symbol": "OCUL",
    "name": "Ocular Therapeutix, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -68158,12 +68176,6 @@
    "yahoo_symbol": "PRGS"
   },
   {
-   "symbol": "PRIM",
-   "name": "Primoris Services Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PRIM"
-  },
-  {
    "symbol": "PRLD",
    "name": "Prelude Therapeutics Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68506,10 +68518,22 @@
    "yahoo_symbol": "PTH"
   },
   {
+   "symbol": "PTHR",
+   "name": "Pono Capital Three, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTHR"
+  },
+  {
    "symbol": "PTHRU",
    "name": "Pono Capital Three, Inc. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PTHRU"
+  },
+  {
+   "symbol": "PTHRW",
+   "name": "Pono Capital Three, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTHRW"
   },
   {
    "symbol": "PTIX",
@@ -71150,6 +71174,12 @@
    "name": "Shoals Technologies Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SHLS"
+  },
+  {
+   "symbol": "SHLT",
+   "name": "SHL Telemedicine Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHLT"
   },
   {
    "symbol": "SHOO",
@@ -74276,12 +74306,6 @@
    "name": "Texas Roadhouse, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TXRH"
-  },
-  {
-   "symbol": "TYDE",
-   "name": "Cryptyde, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TYDE"
   },
   {
    "symbol": "TYRA",
@@ -79625,7 +79649,7 @@
   },
   {
    "symbol": "BEST",
-   "name": "BEST Inc. American Depositary Shares, each representing five Class A Ordinary Share",
+   "name": "BEST Inc. American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "BEST"
   },
@@ -80354,12 +80378,6 @@
    "name": "Box, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BOX"
-  },
-  {
-   "symbol": "BOXD",
-   "name": "Boxed, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BOXD"
   },
   {
    "symbol": "BP",
@@ -81370,12 +81388,6 @@
    "yahoo_symbol": "CHPT"
   },
   {
-   "symbol": "CHRA",
-   "name": "Charah Solutions, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CHRA"
-  },
-  {
    "symbol": "CHRB",
    "name": "Charah Solutions, Inc. 8.50% Senior Notes due 2026",
    "exchange": "NYSE",
@@ -82169,15 +82181,9 @@
   },
   {
    "symbol": "CR",
-   "name": "Crane Holdings, Co. Common Stock",
+   "name": "Crane Company Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CR"
-  },
-  {
-   "symbol": "CR.V",
-   "name": "Crane Company Common Stock When Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CR.V"
   },
   {
    "symbol": "CRBG",
@@ -82690,10 +82696,10 @@
    "yahoo_symbol": "CXM"
   },
   {
-   "symbol": "CXT.V",
-   "name": "Crane NXT, Co. Common Stock Ex-Distribution When-Issued",
+   "symbol": "CXT",
+   "name": "Crane NXT, Co. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CXT.V"
+   "yahoo_symbol": "CXT"
   },
   {
    "symbol": "CXW",
@@ -93262,12 +93268,6 @@
    "yahoo_symbol": "PLM"
   },
   {
-   "symbol": "PLM.R",
-   "name": "Polymet Mining Corp. Rights (expiring April 4, 2023) Rights",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PLM.R"
-  },
-  {
    "symbol": "PLNT",
    "name": "Planet Fitness, Inc. Common Stock",
    "exchange": "NYSE",
@@ -93572,6 +93572,12 @@
    "name": "Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",
    "exchange": "NYSE",
    "yahoo_symbol": "PRIF$L"
+  },
+  {
+   "symbol": "PRIM",
+   "name": "Primoris Services Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRIM"
   },
   {
    "symbol": "PRK",
@@ -95500,12 +95506,6 @@
    "yahoo_symbol": "SJM"
   },
   {
-   "symbol": "SJR",
-   "name": "Shaw Communications Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SJR"
-  },
-  {
    "symbol": "SJT",
    "name": "San Juan Basin Royalty Trust Common Stock",
    "exchange": "NYSE",
@@ -97412,18 +97412,6 @@
    "name": "Taiwan Fund, Inc. (The) Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TWN"
-  },
-  {
-   "symbol": "TWNI",
-   "name": "Tailwind International Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TWNI"
-  },
-  {
-   "symbol": "TWNI.U",
-   "name": "Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TWNI.U"
   },
   {
    "symbol": "TWO",
