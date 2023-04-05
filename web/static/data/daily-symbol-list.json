@@ -1,5 +1,5 @@
 {
- "date": "2023-04-04",
+ "date": "2023-04-05",
  "data": [
   {
    "symbol": "ONE",
@@ -8182,6 +8182,18 @@
    ]
   },
   {
+   "symbol": "CELL",
+   "name": "Grid Battery Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CELL.V",
+   "instruments": [
+    {
+     "name": "Grid Battery Metals Inc.",
+     "symbol": "CELL"
+    }
+   ]
+  },
+  {
    "symbol": "GRDM",
    "name": "Grid Metals Corp.",
    "exchange": "TSXV",
@@ -12326,6 +12338,18 @@
    ]
   },
   {
+   "symbol": "NDA",
+   "name": "Neptune Digital Assets Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NDA.V",
+   "instruments": [
+    {
+     "name": "Neptune Digital Assets Corp.",
+     "symbol": "NDA"
+    }
+   ]
+  },
+  {
    "symbol": "NGEN",
    "name": "NervGen Pharma Corp.",
    "exchange": "TSXV",
@@ -12786,18 +12810,6 @@
     {
      "name": "Nickel North Exploration Corp.",
      "symbol": "NNX"
-    }
-   ]
-  },
-  {
-   "symbol": "NICL",
-   "name": "Nickel Rock Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NICL.V",
-   "instruments": [
-    {
-     "name": "Nickel Rock Resources Inc.",
-     "symbol": "NICL"
     }
    ]
   },
@@ -15483,12 +15495,12 @@
   },
   {
    "symbol": "REVV",
-   "name": "ReVolve Renewable Power Corp.",
+   "name": "Revolve Renewable Power Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "REVV.V",
    "instruments": [
     {
-     "name": "ReVolve Renewable Power Corp.",
+     "name": "Revolve Renewable Power Corp.",
      "symbol": "REVV"
     }
    ]
@@ -16358,18 +16370,6 @@
     {
      "name": "ShaMaran Petroleum Corp",
      "symbol": "SNM"
-    }
-   ]
-  },
-  {
-   "symbol": "SJR.A",
-   "name": "Shaw Communications Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SJR.A.V",
-   "instruments": [
-    {
-     "name": "Shaw Communications Inc. cl A Part",
-     "symbol": "SJR.A"
     }
    ]
   },
@@ -28906,6 +28906,10 @@
     {
      "name": "Eastern Platinum J",
      "symbol": "ELR"
+    },
+    {
+     "name": "Eastrn Platinum J Rt",
+     "symbol": "ELR.RT"
     }
    ]
   },
@@ -38026,6 +38030,10 @@
     {
      "name": "MediPharm LabsCorp J",
      "symbol": "LABS"
+    },
+    {
+     "name": "MediPharm Labs J Wt",
+     "symbol": "LABS.WT.B"
     }
    ]
   },
@@ -39990,10 +39998,6 @@
     {
      "name": "Polymet Mining J",
      "symbol": "POM"
-    },
-    {
-     "name": "Polymet Mining J Rt",
-     "symbol": "POM.RT"
     }
    ]
   },
@@ -41850,18 +41854,6 @@
     {
      "name": "Sernova Corp. J",
      "symbol": "SVA"
-    }
-   ]
-  },
-  {
-   "symbol": "SJR.B",
-   "name": "Shaw Communications Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SJR.B.TO",
-   "instruments": [
-    {
-     "name": "Shaw Comm Cl B NV",
-     "symbol": "SJR.B"
     }
    ]
   },
@@ -44758,22 +44750,6 @@
    ]
   },
   {
-   "symbol": "VIVO",
-   "name": "VIVO Cannabis Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "VIVO.TO",
-   "instruments": [
-    {
-     "name": "VIVO Cannabis Inc. J",
-     "symbol": "VIVO"
-    },
-    {
-     "name": "VIVO Cannabis J Wt",
-     "symbol": "VIVO.WT"
-    }
-   ]
-  },
-  {
    "symbol": "VMH.U",
    "name": "VM Hotel Acquisition Corp.",
    "exchange": "TSX",
@@ -47078,12 +47054,6 @@
    "name": "American Public Education, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "APEI"
-  },
-  {
-   "symbol": "APEN",
-   "name": "Apollo Endosurgery, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "APEN"
   },
   {
    "symbol": "APGN",
@@ -50750,12 +50720,6 @@
    "name": "Chindata Group Holdings Limited - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CD"
-  },
-  {
-   "symbol": "CDAK",
-   "name": "Codiak BioSciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CDAK"
   },
   {
    "symbol": "CDAQ",
@@ -60646,6 +60610,12 @@
    "yahoo_symbol": "ISPOW"
   },
   {
+   "symbol": "ISPR",
+   "name": "Ispire Technology Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ISPR"
+  },
+  {
    "symbol": "ISRG",
    "name": "Intuitive Surgical, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63704,6 +63674,12 @@
    "name": "Magic Software Enterprises Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MGIC"
+  },
+  {
+   "symbol": "MGIH",
+   "name": "Millennium Group International Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGIH"
   },
   {
    "symbol": "MGNI",
@@ -79481,7 +79457,7 @@
   },
   {
    "symbol": "BCAT",
-   "name": "BlackRock Capital Allocation Trust Common Shares of Beneficial Interest",
+   "name": "BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "BCAT"
   },
@@ -79907,7 +79883,7 @@
   },
   {
    "symbol": "BIGZ",
-   "name": "BlackRock Innovation and Growth Trust Common Shares of Beneficial Interest",
+   "name": "BlackRock Innovation and Growth Term Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "BIGZ"
   },
@@ -80177,7 +80153,7 @@
   },
   {
    "symbol": "BMEZ",
-   "name": "BlackRock Health Sciences Trust II Common Shares of Beneficial Interest",
+   "name": "BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "BMEZ"
   },
@@ -80591,7 +80567,7 @@
   },
   {
    "symbol": "BSTZ",
-   "name": "BlackRock Science and Technology Trust II Common Shares of Beneficial Interest",
+   "name": "BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "BSTZ"
   },
@@ -81386,12 +81362,6 @@
    "name": "ChargePoint Holdings, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CHPT"
-  },
-  {
-   "symbol": "CHRB",
-   "name": "Charah Solutions, Inc. 8.50% Senior Notes due 2026",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CHRB"
   },
   {
    "symbol": "CHS",
@@ -83651,7 +83621,7 @@
   },
   {
    "symbol": "ECAT",
-   "name": "BlackRock ESG Capital Allocation Trust Common Shares of Beneficial Interest",
+   "name": "BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "ECAT"
   },

@@ -671,6 +671,7 @@ VGN,Greencastle Resources Ltd.,TSXV,VGN.V,Greencastle Resources Ltd.,VGN
 GPV,GreenPower Motor Company Inc.,TSXV,GPV.V,GreenPower Motor Company Inc.,GPV
 JTR,GreenSpace Brands Inc.,TSXV,JTR.V,GreenSpace Brands Inc.,JTR
 WOLF,Grey Wolf Animal Health Corp.,TSXV,WOLF.V,Grey Wolf Animal Health Corp.,WOLF
+CELL,Grid Battery Metals Inc.,TSXV,CELL.V,Grid Battery Metals Inc.,CELL
 GRDM,Grid Metals Corp.,TSXV,GRDM.V,Grid Metals Corp.,GRDM
 GZD,Grizzly Discoveries Inc.,TSXV,GZD.V,Grizzly Discoveries Inc.,GZD
 GRVA.P,Grosvenor CPC I Inc.,TSXV,GRVA.P.V,Grosvenor CPC I Inc.,GRVA.P
@@ -1009,6 +1010,7 @@ NSCI,Nanalysis Scientific Corp.,TSXV,NSCI.V,Nanalysis Scientific Corp.,NSCI
 NSP,Naturally Splendid Enterprises Ltd.,TSXV,NSP.V,Naturally Splendid Enterprises Ltd.,NSP
 NAQ.P,Navigator Acquisition Corp.,TSXV,NAQ.P.V,Navigator Acquisition Corp.,NAQ.P
 NBM,NEO Battery Materials Ltd.,TSXV,NBM.V,NEO Battery Materials Ltd.,NBM
+NDA,Neptune Digital Assets Corp.,TSXV,NDA.V,Neptune Digital Assets Corp.,NDA
 NGEN,NervGen Pharma Corp.,TSXV,NGEN.V,Nervgen Pharma Corp.,NGEN
 NTE,Network Media Group Inc.,TSXV,NTE.V,Network Media Group Inc.,NTE
 NPTH,Neupath Health Inc.,TSXV,NPTH.V,Neupath Health Inc.,NPTH
@@ -1047,7 +1049,6 @@ NGEX,NGEx Minerals Ltd.,TSXV,NGEX.V,NGEx Minerals Ltd.,NGEX
 NICN,NICAN Limited,TSXV,NICN.V,NICAN Limited,NICN
 NKL,Nickel 28 Capital Corp.,TSXV,NKL.V,Nickel 28 Capital Corp.,NKL
 NNX,Nickel North Exploration Corp.,TSXV,NNX.V,Nickel North Exploration Corp.,NNX
-NICL,Nickel Rock Resources Inc.,TSXV,NICL.V,Nickel Rock Resources Inc.,NICL
 NIM,Nicola Mining Inc.,TSXV,NIM.V,Nicola Mining Inc.,NIM
 NIO,Nio Strategic Metals Inc.,TSXV,NIO.V,Nio Strategic Metals Inc.,NIO
 NBY,Niobay Metals Inc.,TSXV,NBY.V,Niobay Metals Inc.,NBY
@@ -1267,7 +1268,7 @@ RAU,Resouro Gold Inc.,TSXV,RAU.V,Resouro Gold Inc.,RAU
 RGD,Reunion Gold Corporation,TSXV,RGD.V,Reunion Gold Corporation,RGD
 RVG,Revival Gold Inc.,TSXV,RVG.V,Revival Gold Inc.,RVG
 REVO,RevoluGROUP Canada Inc.,TSXV,REVO.V,RevoluGROUP Canada Inc.,REVO
-REVV,ReVolve Renewable Power Corp.,TSXV,REVV.V,ReVolve Renewable Power Corp.,REVV
+REVV,Revolve Renewable Power Corp.,TSXV,REVV.V,Revolve Renewable Power Corp.,REVV
 REYG,Reyna Gold Corp.,TSXV,REYG.V,Reyna Gold Corp.,REYG
 RSLV,Reyna Silver Corp.,TSXV,RSLV.V,Reyna Silver Corp.,RSLV
 RYE,Rhyolite Resources Ltd.,TSXV,RYE.V,Rhyolite Resources Ltd,RYE
@@ -1338,7 +1339,6 @@ SGZ,Sego Resources Inc.,TSXV,SGZ.V,Sego Resources Inc,SGZ
 SNS,Select Sands Corp.,TSXV,SNS.V,Select Sands Corp.,SNS
 SEVN.P,Seven Oaks Capital Corp.,TSXV,SEVN.P.V,Seven Oaks Capital Corp.,SEVN.P
 SNM,ShaMaran Petroleum Corp.,TSXV,SNM.V,ShaMaran Petroleum Corp,SNM
-SJR.A,Shaw Communications Inc.,TSXV,SJR.A.V,Shaw Communications Inc. cl A Part,SJR.A
 SHLL.P,Shellron Capital Ltd.,TSXV,SHLL.P.V,Shellron Capital Ltd.,SHLL.P
 SHRP,Sherpa II Holdings Corp.,TSXV,SHRP.V,Sherpa II Holdings Corp.,SHRP
 RENT.P,Shine Box Capital Corp.,TSXV,RENT.P.V,Shine Box Capital Corp.,RENT.P
@@ -2271,7 +2271,7 @@ EINC,E Automotive Inc.,TSX,EINC.TO,E Automotive Inc. J,EINC
 ENS,E Split Corp.,TSX,ENS.TO,E Split Corp. Cl A,ENS,E Split Corp. Pr,ENS.PR.A
 ELF,E-L Financial Corporation Limited,TSX,ELF.TO,E-L Financial Corp.,ELF,E-L Financial 1st Pr,ELF.PR.F,E-L Financl 4.75 Pr2,ELF.PR.G,E-L Financl 5.5 Pr 3,ELF.PR.H
 EAGR,East Side Games Group Inc.,TSX,EAGR.TO,East Side Games J,EAGR
-ELR,Eastern Platinum Limited,TSX,ELR.TO,Eastern Platinum J,ELR
+ELR,Eastern Platinum Limited,TSX,ELR.TO,Eastern Platinum J,ELR,Eastrn Platinum J Rt,ELR.RT
 ECN,ECN Capital Corp.,TSX,ECN.TO,ECN Capital Corp.,ECN,ECN Capital Corp Deb,ECN.DB,ECN Capital 6% Deb,ECN.DB.A,ECN Capital 6.25 Deb,ECN.DB.B,ECN Capital 6.25% Pr,ECN.PR.C
 EVT,Economic Investment Trust Limited,TSX,EVT.TO,Economic Investment,EVT
 ECOR,Ecora Resources plc,TSX,ECOR.TO,Ecora Resources Ord,ECOR
@@ -2946,7 +2946,7 @@ MDP,Medexus Pharmaceuticals Inc.,TSX,MDP.TO,Medexus Pharma J,MDP,Medexus Pharma 
 MVP,MediaValet Inc.,TSX,MVP.TO,MediaValet Inc. J,MVP
 DR,Medical Facilities Corporation,TSX,DR.TO,Medical Facilities,DR
 MDNA,Medicenna Therapeutics Corp.,TSX,MDNA.TO,Medicenna Therapeu J,MDNA
-LABS,MediPharm Labs Corp.,TSX,LABS.TO,MediPharm LabsCorp J,LABS
+LABS,MediPharm Labs Corp.,TSX,LABS.TO,MediPharm LabsCorp J,LABS,MediPharm Labs J Wt,LABS.WT.B
 MEG,MEG Energy Corp.,TSX,MEG.TO,MEG Energy Corp.,MEG
 MGA,Mega Uranium Ltd.,TSX,MGA.TO,Mega Uranium Ltd. J,MGA
 MRD,Melcor Developments Ltd.,TSX,MRD.TO,Melcor Developments,MRD
@@ -3095,7 +3095,7 @@ PTM,Platinum Group Metals Ltd.,TSX,PTM.TO,Platinum Grp Metal J,PTM
 PLZ.UN,Plaza Retail REIT,TSX,PLZ.UN.TO,Plaza Retail REIT Un,PLZ.UN
 PIF,Polaris Renewable Energy Inc.,TSX,PIF.TO,Polaris Renew Engy J,PIF
 PBL,Pollard Banknote Limited,TSX,PBL.TO,Pollard Banknote Ltd,PBL
-POM,Polymet Mining Corp.,TSX,POM.TO,Polymet Mining J,POM,Polymet Mining J Rt,POM.RT
+POM,Polymet Mining Corp.,TSX,POM.TO,Polymet Mining J,POM
 PNC.A,Postmedia Network Canada Corp.,TSX,PNC.A.TO,Postmedia Ntwrk C J,PNC.A,Postmedia Ntwrk VV J,PNC.B
 POW,Power Corporation of Canada,TSX,POW.TO,Power Corp of Cda SV,POW,Power Corp 5.6% Pr A,POW.PR.A,Power Corp 5.35% Pr,POW.PR.B,Power Corp 5.80% Pr,POW.PR.C,Power Corp 5.00% Pr,POW.PR.D,Power Corp Part. Pr,POW.PR.E,Power Corp 5.6% Pr G,POW.PR.G
 PWF.PF.A,Power Financial Corporation,TSX,PWF.PF.A.TO,Power Fin 4.5% Pr 23,PWF.PF.A,Power Financial Pr A,PWF.PR.A,Power Financial Pr D,PWF.PR.E,Power Fin 5.25% Pr E,PWF.PR.F,Power Fin 5.90% Pr F,PWF.PR.G,Power Fin 5.75% Pr H,PWF.PR.H,Power Fin 4.95% Pr K,PWF.PR.K,Power Fin 5.10% Pr L,PWF.PR.L,Power Fin 5.80% Pr O,PWF.PR.O,Power Fin 4.40% Pr P,PWF.PR.P,Power Financial Pr Q,PWF.PR.Q,Power Fin 5.50% Pr R,PWF.PR.R,Power Fin 4.80% Pr S,PWF.PR.S,Power Fin 4.20% Pr T,PWF.PR.T,Power Fin 5.15% Pr V,PWF.PR.Z
@@ -3226,7 +3226,6 @@ PME,Sentry Select Primary Metals Corp.,TSX,PME.TO,Sentry Prime Metal A,PME
 SEC,Senvest Capital Inc.,TSX,SEC.TO,Senvest Capital Inc,SEC
 SBI,Serabi Gold plc,TSX,SBI.TO,Serabi Gld plc Ord J,SBI
 SVA,Sernova Corp.,TSX,SVA.TO,Sernova Corp. J,SVA
-SJR.B,Shaw Communications Inc.,TSX,SJR.B.TO,Shaw Comm Cl B NV,SJR.B
 SCL,Shawcor Ltd.,TSX,SCL.TO,Shawcor Ltd.,SCL
 S,Sherritt International Corporation,TSX,S.TO,Sherritt Int'l Corp,S
 SHOP,Shopify Inc.,TSX,SHOP.TO,Shopify Inc A SV,SHOP
@@ -3440,7 +3439,6 @@ VMD,"Viemed Healthcare, Inc.",TSX,VMD.TO,Viemed Healthcare,VMD
 VQS,VIQ Solutions Inc.,TSX,VQS.TO,VIQ Solutions Inc. J,VQS
 VGZ,Vista Gold Corp.,TSX,VGZ.TO,Vista Gold Corp,VGZ
 VHI,Vitalhub Corp.,TSX,VHI.TO,Vitalhub Corp. J,VHI
-VIVO,VIVO Cannabis Inc.,TSX,VIVO.TO,VIVO Cannabis Inc. J,VIVO,VIVO Cannabis J Wt,VIVO.WT
 VMH.U,VM Hotel Acquisition Corp.,TSX,VMH.U.TO,VM Htl AcquisJ RV US,VMH.U,VM Htl AcquisJ US Wt,VMH.WT.U
 WJX,Wajax Corporation,TSX,WJX.TO,Wajax Corporation,WJX,Wajax Corp. Deb,WJX.DB
 WFC,Wall Financial Corporation,TSX,WFC.TO,Wall Financial Corp,WFC
@@ -3788,7 +3786,6 @@ APCX,AppTech Payments Corp. - Common stock,NASDAQ Capital Market,APCX
 APCXW,AppTech Payments Corp. - Warrant,NASDAQ Capital Market,APCXW
 APDN,"Applied DNA Sciences, Inc. - Common Stock",NASDAQ Capital Market,APDN
 APEI,"American Public Education, Inc. - Common Stock",NASDAQ Global Select MarketSM,APEI
-APEN,"Apollo Endosurgery, Inc. - Common Stock",NASDAQ Global MarketSM,APEN
 APGN,"Apexigen, Inc. - Common Stock",NASDAQ Capital Market,APGN
 APGNW,"Apexigen, Inc. - Warrant",NASDAQ Capital Market,APGNW
 API,"Agora, Inc. - ADS",NASDAQ Global Select MarketSM,API
@@ -4400,7 +4397,6 @@ CCTS,Cactus Acquisition Corp. 1 Limited - Class A Ordinary Share,NASDAQ Global M
 CCTSU,Cactus Acquisition Corp. 1 Limited - Unit,NASDAQ Global MarketSM,CCTSU
 CCTSW,Cactus Acquisition Corp. 1 Limited - Warrant,NASDAQ Global MarketSM,CCTSW
 CD,Chindata Group Holdings Limited - American Depositary Shares,NASDAQ Global Select MarketSM,CD
-CDAK,"Codiak BioSciences, Inc. - Common Stock",NASDAQ Global MarketSM,CDAK
 CDAQ,Compass Digital Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,CDAQ
 CDAQU,Compass Digital Acquisition Corp. - Unit,NASDAQ Global MarketSM,CDAQU
 CDAQW,Compass Digital Acquisition Corp. - Warrant,NASDAQ Global MarketSM,CDAQW
@@ -6049,6 +6045,7 @@ ISIG,"Insignia Systems, Inc. - Common Stock",NASDAQ Capital Market,ISIG
 ISPC,iSpecimen Inc. - Common Stock,NASDAQ Capital Market,ISPC
 ISPO,Inspirato Incorporated - Class A Common Stock,NASDAQ Global MarketSM,ISPO
 ISPOW,Inspirato Incorporated - Warrant,NASDAQ Global MarketSM,ISPOW
+ISPR,Ispire Technology Inc. - Common Stock,NASDAQ Capital Market,ISPR
 ISRG,"Intuitive Surgical, Inc. - Common Stock",NASDAQ Global Select MarketSM,ISRG
 ISRL,Israel Acquisitions Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,ISRL
 ISRLU,Israel Acquisitions Corp - Unit,NASDAQ Global MarketSM,ISRLU
@@ -6559,6 +6556,7 @@ MGAM,Mobile Global Esports Inc. - Common Stock,NASDAQ Capital Market,MGAM
 MGEE,MGE Energy Inc. - Common Stock,NASDAQ Global Select MarketSM,MGEE
 MGI,"Moneygram International, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGI
 MGIC,Magic Software Enterprises Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,MGIC
+MGIH,Millennium Group International Holdings Limited - Ordinary Shares,NASDAQ Capital Market,MGIH
 MGNI,"Magnite, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGNI
 MGNX,"MacroGenics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGNX
 MGOL,MGO Global Inc. - Common Stock,NASDAQ Capital Market,MGOL
@@ -9188,7 +9186,7 @@ BC,Brunswick Corporation Common Stock,NYSE,BC
 BC$A,Brunswick Corporation 6.500% Senior Notes due 2048,NYSE,BC$A
 BC$B,Brunswick Corporation 6.625% Senior Notes due 2049,NYSE,BC$B
 BC$C,Brunswick Corporation 6.375% Notes due 2049,NYSE,BC$C
-BCAT,BlackRock Capital Allocation Trust Common Shares of Beneficial Interest,NYSE,BCAT
+BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,NYSE,BCAT
 BCC,"Boise Cascade, L.L.C. Common Stock",NYSE,BCC
 BCE,"BCE, Inc. Common Stock",NYSE,BCE
 BCH,Banco De Chile Banco De Chile ADS,NYSE,BCH
@@ -9259,7 +9257,7 @@ BHR$D,"Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock, 
 BHV,BlackRock Virginia Municipal Bond Trust,NYSE,BHV
 BHVN,Biohaven Ltd. Common Shares ,NYSE,BHVN
 BIG,"Big Lots, Inc. Common Stock",NYSE,BIG
-BIGZ,BlackRock Innovation and Growth Trust Common Shares of Beneficial Interest,NYSE,BIGZ
+BIGZ,BlackRock Innovation and Growth Term Trust Common Shares of Beneficial Interest,NYSE,BIGZ
 BILL,"BILL Holdings, Inc. Common Stock",NYSE,BILL
 BIO,"Bio-Rad Laboratories, Inc. Class A Common Stock",NYSE,BIO
 BIO.B,"Bio-Rad Laboratories, Inc. Class B  Common Stock",NYSE,BIO.B
@@ -9304,7 +9302,7 @@ BMAC,Black Mountain Acquisition Corp. Class A Common Stock,NYSE,BMAC
 BMAC.U,"Black Mountain Acquisition Corp. Units, each consisting of one share of Class A common stock and three quarters of one warrant",NYSE,BMAC.U
 BMAC.W,"Black Mountain Acquisition Corp. Warrants, exercisable for one share of Class A Common Stock",NYSE,BMAC.W
 BME,Blackrock Health Sciences Trust,NYSE,BME
-BMEZ,BlackRock Health Sciences Trust II Common Shares of Beneficial Interest,NYSE,BMEZ
+BMEZ,BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest,NYSE,BMEZ
 BMI,"Badger Meter, Inc. Common Stock",NYSE,BMI
 BML$G,"Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a share of Floating Rate Non-Cumulative Preferred Stock , Series 1)",NYSE,BML$G
 BML$H,"Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 2)",NYSE,BML$H
@@ -9373,7 +9371,7 @@ BSL,Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial I
 BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests",NYSE,BSM
 BSMX,"Banco Santander Mexico, S.A., Institucion de Banca Multiple, Grupo Financiero Santander Mexico",NYSE,BSMX
 BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest,NYSE,BST
-BSTZ,BlackRock Science and Technology Trust II Common Shares of Beneficial Interest,NYSE,BSTZ
+BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,NYSE,BSTZ
 BSX,Boston Scientific Corporation Common Stock,NYSE,BSX
 BSX$A,"Boston Scientific Corporation 5.50% Mandatory Convertible Preferred Stock, Series A",NYSE,BSX$A
 BTA,BlackRock Long-Term Municipal Advantage Trust BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest,NYSE,BTA
@@ -9506,7 +9504,6 @@ CHMI$A,Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Red
 CHMI$B,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,CHMI$B
 CHN,"China Fund, Inc. (The) Common Stock",NYSE,CHN
 CHPT,"ChargePoint Holdings, Inc. Common Stock",NYSE,CHPT
-CHRB,"Charah Solutions, Inc. 8.50% Senior Notes due 2026",NYSE,CHRB
 CHS,"Chico's FAS, Inc. Common Stock",NYSE,CHS
 CHT,"Chunghwa Telecom Co., Ltd.",NYSE,CHT
 CHWY,"Chewy, Inc. Class A Common Stock",NYSE,CHWY
@@ -9883,7 +9880,7 @@ EBR,Centrais Electricas Brasileiras S A American Depositary Shares (Each represe
 EBR.B,Centrais Electricas Brasileiras S.A.- Eletrobr?!s American Depositary Shares (Each representing one Preferred Share),NYSE,EBR.B
 EBS,"Emergent Biosolutions, Inc. Common Stock",NYSE,EBS
 EC,Ecopetrol S.A. American Depositary Shares,NYSE,EC
-ECAT,BlackRock ESG Capital Allocation Trust Common Shares of Beneficial Interest,NYSE,ECAT
+ECAT,BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest,NYSE,ECAT
 ECC,Eagle Point Credit Company Inc. Common Stock,NYSE,ECC
 ECC$D,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,NYSE,ECC$D
 ECCC,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,NYSE,ECCC
