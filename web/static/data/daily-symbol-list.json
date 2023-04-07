@@ -1,5 +1,5 @@
 {
- "date": "2023-04-05",
+ "date": "2023-04-07",
  "data": [
   {
    "symbol": "ONE",
@@ -47296,6 +47296,12 @@
    "yahoo_symbol": "ARAY"
   },
   {
+   "symbol": "ARBB",
+   "name": "ARB IOT Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBB"
+  },
+  {
    "symbol": "ARBE",
    "name": "Arbe Robotics Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -59492,6 +59498,12 @@
    "name": "International Bancshares Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IBOC"
+  },
+  {
+   "symbol": "IBOT",
+   "name": "VanEck Robotics ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBOT"
   },
   {
    "symbol": "IBRX",
@@ -83176,24 +83188,6 @@
    "yahoo_symbol": "DMS.W"
   },
   {
-   "symbol": "DMYS",
-   "name": "dMY Technology Group, Inc. VI Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DMYS"
-  },
-  {
-   "symbol": "DMYS.U",
-   "name": "dMY Technology Group, Inc. VI Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DMYS.U"
-  },
-  {
-   "symbol": "DMYS.W",
-   "name": "dMY Technology Group, Inc. VI Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DMYS.W"
-  },
-  {
    "symbol": "DMYY",
    "name": "dMY Squared Technology Group, Inc. Class A Common Stock",
    "exchange": "NYSE MKT",
@@ -87692,12 +87686,6 @@
    "name": "CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "IGR"
-  },
-  {
-   "symbol": "IGR.R",
-   "name": "CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IGR.R"
   },
   {
    "symbol": "IGT",
