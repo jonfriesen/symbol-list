@@ -1,23 +1,9 @@
 {
  "added": [
   {
-   "symbol": "FASTSWAP",
-   "name": "Fastswap (FASTSWAP)",
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GAS",
-   "name": "Gas (GAS)",
-   "built_on": "NEO"
-  },
-  {
-   "symbol": "QUICKOLD",
-   "name": "Quickswap (QUICKOLD)"
   },
   {
    "symbol": "BANK",
@@ -25,14 +11,9 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "GAS",
-   "name": "Gas (GAS)"
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
   }
  ]
 }
