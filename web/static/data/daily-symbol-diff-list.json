@@ -1,58 +1,96 @@
 {
+ "added": [
+  {
+   "symbol": "HRIF",
+   "name": "Harvest Diversified Equity Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HRIF.TO",
+   "instruments": [
+    {
+     "name": "Harvest Divers Eq Un",
+     "symbol": "HRIF"
+    }
+   ]
+  },
+  {
+   "symbol": "TRVI",
+   "name": "Harvest Travel \u0026 Leisure Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TRVI.TO",
+   "instruments": [
+    {
+     "name": "Harvest Trav \u0026 Leisr",
+     "symbol": "TRVI"
+    }
+   ]
+  },
+  {
+   "symbol": "ASTR",
+   "name": "Astra Space, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASTR"
+  },
+  {
+   "symbol": "BIGT",
+   "name": "Roundhill BIG Tech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIGT"
+  },
+  {
+   "symbol": "LZRD",
+   "name": "Parabla Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LZRD"
+  }
+ ],
  "removed": [
   {
-   "symbol": "REVEW",
-   "name": "Alpine Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "REVEW"
-  },
-  {
-   "symbol": "NORA",
-   "name": "Norra Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NORA.V",
+   "symbol": "MAGT",
+   "name": "Magnet Forensics Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAGT.TO",
    "instruments": [
     {
-     "name": "Norra Metals Corp.",
-     "symbol": "NORA"
+     "name": "Magnet Forensics SV",
+     "symbol": "MAGT"
     }
    ]
   },
   {
-   "symbol": "REVEU",
-   "name": "Alpine Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "REVEU"
+   "symbol": "ASTR",
+   "name": "Astra Space, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ASTR"
   },
   {
-   "symbol": "KVSC",
-   "name": "Khosla Ventures Acquisition Co. III - Class A Common Stock",
+   "symbol": "NVCN",
+   "name": "Neovasc Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KVSC"
+   "yahoo_symbol": "NVCN"
   },
   {
-   "symbol": "REVE",
-   "name": "Alpine Acquisition Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "REVE"
-  },
-  {
-   "symbol": "TKX",
-   "name": "Trackx Holdings Inc.",
+   "symbol": "JTR",
+   "name": "GreenSpace Brands Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TKX.V",
+   "yahoo_symbol": "JTR.V",
    "instruments": [
     {
-     "name": "Trackx Holdings Inc.",
-     "symbol": "TKX"
+     "name": "GreenSpace Brands Inc.",
+     "symbol": "JTR"
     }
    ]
   },
   {
-   "symbol": "GLS",
-   "name": "Gelesis Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GLS"
+   "symbol": "XAG",
+   "name": "Xtierra Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XAG.V",
+   "instruments": [
+    {
+     "name": "Xtierra Inc",
+     "symbol": "XAG"
+    }
+   ]
   }
  ]
 }
