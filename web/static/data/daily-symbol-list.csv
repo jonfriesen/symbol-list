@@ -2524,6 +2524,7 @@ HWO,High Arctic Energy Services Inc.,TSX,HWO.TO,High Arctic Engy Inc,HWO
 HLF,High Liner Foods Incorporated,TSX,HLF.TO,High Liner Foods Inc,HLF
 HLS,HLS Therapeutics Inc.,TSX,HLS.TO,HLS Therapeutics J,HLS
 HCG,Home Capital Group Inc.,TSX,HCG.TO,Home Capital Group,HCG
+UBIL.U,Horizons 0-3 Month U.S. T-Bill ETF,TSX,UBIL.U.TO,Horizons 0-3MoTbl US,UBIL.U
 HARC,Horizons Absolute Return Global Currency ETF,TSX,HARC.TO,Horizons AbsolGlbCur,HARC
 HAD,Horizons Active Cdn Bond ETF,TSX,HAD.TO,Horizon ActvCdnBndUn,HAD
 HAL,Horizons Active Cdn Dividend ETF,TSX,HAL.TO,Horizons Cdn Div E,HAL
@@ -2997,7 +2998,6 @@ NUBF,NBI Unconstrained Fixed Income ETF,TSX,NUBF.TO,NBI Unconstr FxdIncm,NUBF
 NCG,NCM Core Global,TSX,NCG.TO,NCM Core Glb ETF Ser,NCG
 NBLY,Neighbourly Pharmacy Inc.,TSX,NBLY.TO,Neighbourly Pharm J,NBLY
 NEO,Neo Performance Materials Inc.,TSX,NEO.TO,Neo Perform Material,NEO
-NVCN,Neovasc Inc.,TSX,NVCN.TO,Neovasc Inc. J,NVCN
 NCU,Nevada Copper Corp.,TSX,NCU.TO,Nevada Copper Corp J,NCU,Nevada Copper J B Wt,NCU.WT.B
 NGD,New Gold Inc.,TSX,NGD.TO,New Gold Inc.,NGD
 NUAG,New Pacific Metals Corp.,TSX,NUAG.TO,New Pacific Metals J,NUAG
@@ -3743,7 +3743,6 @@ AMTI,Applied Molecular Transport Inc. - common stock,NASDAQ Global Select Market
 AMTX,"Aemetis, Inc - Common Stock",NASDAQ Global MarketSM,AMTX
 AMV,"Atlis Motor Vehicles, Inc. - Class A Common Stock",NASDAQ Global MarketSM,AMV
 AMWD,American Woodmark Corporation - Common Stock,NASDAQ Global Select MarketSM,AMWD
-AMYT,Amryt Pharma plc - American Depositary Shares,NASDAQ Global Select MarketSM,AMYT
 AMZD,Direxion Daily AMZN Bear 1X Shares,NASDAQ Global MarketSM,AMZD
 AMZN,"Amazon.com, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMZN
 AMZU,Direxion Daily AMZN Bull 1.5X Shares,NASDAQ Global MarketSM,AMZU
@@ -5469,6 +5468,7 @@ GDC,GD Culture Group Limited - Common Stock,NASDAQ Capital Market,GDC
 GDEN,"Golden Entertainment, Inc. - Common Stock",NASDAQ Global MarketSM,GDEN
 GDEV,Nexters Inc. - Ordinary Shares,NASDAQ Global MarketSM,GDEV
 GDEVW,Nexters Inc. - Warrant,NASDAQ Global MarketSM,GDEVW
+GDHG,Golden Heaven Group Holdings Ltd.  - Ordinary shares,NASDAQ Capital Market,GDHG
 GDNR,Gardiner Healthcare Acquisitions Corp. - Common Stock,NASDAQ Global MarketSM,GDNR
 GDNRU,Gardiner Healthcare Acquisitions Corp. - Unit,NASDAQ Global MarketSM,GDNRU
 GDNRW,Gardiner Healthcare Acquisitions Corp. - Warrant,NASDAQ Global MarketSM,GDNRW
@@ -5483,9 +5483,6 @@ GECC,Great Elm Capital Corp. - Closed End Fund,NASDAQ Global MarketSM,GECC
 GECCM,Great Elm Capital Corp. - 6.75% Notes Due 2025,NASDAQ Global MarketSM,GECCM
 GECCN,Great Elm Capital Corp. - Notes,NASDAQ Global MarketSM,GECCN
 GECCO,Great Elm Capital Corp. - 5.875% Notes due 2026,NASDAQ Global MarketSM,GECCO
-GEEX,Games & Esports Experience Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,GEEX
-GEEXU,Games & Esports Experience Acquisition Corp. - Units,NASDAQ Global MarketSM,GEEXU
-GEEXW,Games & Esports Experience Acquisition Corp. - Warrants,NASDAQ Global MarketSM,GEEXW
 GEG,"Great Elm Group, Inc.  - Common Stock",NASDAQ Global Select MarketSM,GEG
 GEGGL,"Great Elm Group, Inc.  - 7.25% Notes due 2027",NASDAQ Global MarketSM,GEGGL
 GEHC,GE HealthCare Technologies Inc. - Common Stock,NASDAQ Global Select MarketSM,GEHC
@@ -6581,6 +6578,7 @@ MITA,Coliseum Acquisition Corp. - Class A Ordinary Share,NASDAQ Capital Market,M
 MITAU,Coliseum Acquisition Corp. - Unit,NASDAQ Capital Market,MITAU
 MITAW,Coliseum Acquisition Corp. - Warrant,NASDAQ Capital Market,MITAW
 MITK,"Mitek Systems, Inc. - Common Stock",NASDAQ Capital Market,MITK
+MKAM,MKAM ETF,NASDAQ Global MarketSM,MKAM
 MKSI,"MKS Instruments, Inc. - Common Stock",NASDAQ Global Select MarketSM,MKSI
 MKTW,"MarketWise, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MKTW
 MKTX,"MarketAxess Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MKTX
@@ -7241,7 +7239,6 @@ PLUG,"Plug Power, Inc. - Common Stock",NASDAQ Capital Market,PLUG
 PLUR,Pluri Inc. - Common Stock,NASDAQ Global MarketSM,PLUR
 PLUS,ePlus inc. - Common Stock,NASDAQ Global Select MarketSM,PLUS
 PLW,Invesco 1-30 Laddered Treasury ETF,NASDAQ Global MarketSM,PLW
-PLXP,PLx Pharma Inc. - Common Stock,NASDAQ Capital Market,PLXP
 PLXS,Plexus Corp. - Common Stock,NASDAQ Global Select MarketSM,PLXS
 PLYA,Playa Hotels & Resorts N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,PLYA
 PMCB,"PharmaCyte  Biotech, Inc. - Common Stock",NASDAQ Capital Market,PMCB
@@ -8517,8 +8514,6 @@ VONE,Vanguard Russell 1000 ETF,NASDAQ Global MarketSM,VONE
 VONG,Vanguard Russell 1000 Growth ETF,NASDAQ Global MarketSM,VONG
 VONV,Vanguard Russell 1000 Value ETF,NASDAQ Global MarketSM,VONV
 VOR,Vor Biopharma Inc. - Common Stock,NASDAQ Global Select MarketSM,VOR
-VORB,"Virgin Orbit Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,VORB
-VORBW,"Virgin Orbit Holdings, Inc. - Warrant",NASDAQ Global MarketSM,VORBW
 VOXR,Vox Royalty Corp. - common stock,NASDAQ Capital Market,VOXR
 VOXX,VOXX International Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,VOXX
 VPN,Global X Data Center REITs & Digital Infrastructure ETF,NASDAQ Global MarketSM,VPN
@@ -11463,6 +11458,7 @@ PK,Park Hotels & Resorts Inc. Common Stock ,NYSE,PK
 PKE,Park Aerospace Corp. Common Stock,NYSE,PKE
 PKG,Packaging Corporation of America Common Stock,NYSE,PKG
 PKI,"PerkinElmer, Inc. Common Stock",NYSE,PKI
+PKST,Peakstone Realty Trust Common Shares,NYSE,PKST
 PKX,POSCO Holdings Inc. American Depositary Shares (Each representing 1/4th of a share of Common Stock),NYSE,PKX
 PL,Planet Labs PBC Class A Common Stock,NYSE,PL
 PL.W,"Planet Labs PBC Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share",NYSE,PL.W

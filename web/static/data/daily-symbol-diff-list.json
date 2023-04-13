@@ -1,94 +1,88 @@
 {
  "added": [
   {
-   "symbol": "HRIF",
-   "name": "Harvest Diversified Equity Income ETF",
+   "symbol": "UBIL.U",
+   "name": "Horizons 0-3 Month U.S. T-Bill ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "HRIF.TO",
+   "yahoo_symbol": "UBIL.U.TO",
    "instruments": [
     {
-     "name": "Harvest Divers Eq Un",
-     "symbol": "HRIF"
+     "name": "Horizons 0-3MoTbl US",
+     "symbol": "UBIL.U"
     }
    ]
   },
   {
-   "symbol": "TRVI",
-   "name": "Harvest Travel \u0026 Leisure Income ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TRVI.TO",
-   "instruments": [
-    {
-     "name": "Harvest Trav \u0026 Leisr",
-     "symbol": "TRVI"
-    }
-   ]
-  },
-  {
-   "symbol": "ASTR",
-   "name": "Astra Space, Inc. - Class A Common Stock",
+   "symbol": "GDHG",
+   "name": "Golden Heaven Group Holdings Ltd.  - Ordinary shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASTR"
+   "yahoo_symbol": "GDHG"
   },
   {
-   "symbol": "BIGT",
-   "name": "Roundhill BIG Tech ETF",
+   "symbol": "MKAM",
+   "name": "MKAM ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BIGT"
+   "yahoo_symbol": "MKAM"
   },
   {
-   "symbol": "LZRD",
-   "name": "Parabla Innovation ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LZRD"
+   "symbol": "PKST",
+   "name": "Peakstone Realty Trust Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PKST"
   }
  ],
  "removed": [
   {
-   "symbol": "MAGT",
-   "name": "Magnet Forensics Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MAGT.TO",
-   "instruments": [
-    {
-     "name": "Magnet Forensics SV",
-     "symbol": "MAGT"
-    }
-   ]
+   "symbol": "GEEXW",
+   "name": "Games \u0026 Esports Experience Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEEXW"
   },
   {
-   "symbol": "ASTR",
-   "name": "Astra Space, Inc. - Class A Common Stock",
+   "symbol": "GEEXU",
+   "name": "Games \u0026 Esports Experience Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEEXU"
+  },
+  {
+   "symbol": "VORB",
+   "name": "Virgin Orbit Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VORB"
+  },
+  {
+   "symbol": "PLXP",
+   "name": "PLx Pharma Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLXP"
+  },
+  {
+   "symbol": "AMYT",
+   "name": "Amryt Pharma plc - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ASTR"
+   "yahoo_symbol": "AMYT"
+  },
+  {
+   "symbol": "GEEX",
+   "name": "Games \u0026 Esports Experience Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEEX"
+  },
+  {
+   "symbol": "VORBW",
+   "name": "Virgin Orbit Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VORBW"
   },
   {
    "symbol": "NVCN",
-   "name": "Neovasc Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVCN"
-  },
-  {
-   "symbol": "JTR",
-   "name": "GreenSpace Brands Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JTR.V",
+   "name": "Neovasc Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVCN.TO",
    "instruments": [
     {
-     "name": "GreenSpace Brands Inc.",
-     "symbol": "JTR"
-    }
-   ]
-  },
-  {
-   "symbol": "XAG",
-   "name": "Xtierra Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "XAG.V",
-   "instruments": [
-    {
-     "name": "Xtierra Inc",
-     "symbol": "XAG"
+     "name": "Neovasc Inc. J",
+     "symbol": "NVCN"
     }
    ]
   }

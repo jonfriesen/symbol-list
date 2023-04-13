@@ -1,5 +1,5 @@
 {
- "date": "2023-04-12",
+ "date": "2023-04-13",
  "data": [
   {
    "symbol": "ONE",
@@ -32534,6 +32534,18 @@
    ]
   },
   {
+   "symbol": "UBIL.U",
+   "name": "Horizons 0-3 Month U.S. T-Bill ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UBIL.U.TO",
+   "instruments": [
+    {
+     "name": "Horizons 0-3MoTbl US",
+     "symbol": "UBIL.U"
+    }
+   ]
+  },
+  {
    "symbol": "HARC",
    "name": "Horizons Absolute Return Global Currency ETF",
    "exchange": "TSX",
@@ -38670,18 +38682,6 @@
     {
      "name": "Neo Perform Material",
      "symbol": "NEO"
-    }
-   ]
-  },
-  {
-   "symbol": "NVCN",
-   "name": "Neovasc Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NVCN.TO",
-   "instruments": [
-    {
-     "name": "Neovasc Inc. J",
-     "symbol": "NVCN"
     }
    ]
   },
@@ -46768,12 +46768,6 @@
    "name": "American Woodmark Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AMWD"
-  },
-  {
-   "symbol": "AMYT",
-   "name": "Amryt Pharma plc - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AMYT"
   },
   {
    "symbol": "AMZD",
@@ -57126,6 +57120,12 @@
    "yahoo_symbol": "GDEVW"
   },
   {
+   "symbol": "GDHG",
+   "name": "Golden Heaven Group Holdings Ltd.  - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDHG"
+  },
+  {
    "symbol": "GDNR",
    "name": "Gardiner Healthcare Acquisitions Corp. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -57208,24 +57208,6 @@
    "name": "Great Elm Capital Corp. - 5.875% Notes due 2026",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GECCO"
-  },
-  {
-   "symbol": "GEEX",
-   "name": "Games \u0026 Esports Experience Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GEEX"
-  },
-  {
-   "symbol": "GEEXU",
-   "name": "Games \u0026 Esports Experience Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GEEXU"
-  },
-  {
-   "symbol": "GEEXW",
-   "name": "Games \u0026 Esports Experience Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GEEXW"
   },
   {
    "symbol": "GEG",
@@ -63798,6 +63780,12 @@
    "yahoo_symbol": "MITK"
   },
   {
+   "symbol": "MKAM",
+   "name": "MKAM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MKAM"
+  },
+  {
    "symbol": "MKSI",
    "name": "MKS Instruments, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -67756,12 +67744,6 @@
    "name": "Invesco 1-30 Laddered Treasury ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PLW"
-  },
-  {
-   "symbol": "PLXP",
-   "name": "PLx Pharma Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLXP"
   },
   {
    "symbol": "PLXS",
@@ -75412,18 +75394,6 @@
    "name": "Vor Biopharma Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VOR"
-  },
-  {
-   "symbol": "VORB",
-   "name": "Virgin Orbit Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VORB"
-  },
-  {
-   "symbol": "VORBW",
-   "name": "Virgin Orbit Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VORBW"
   },
   {
    "symbol": "VOXR",
@@ -93088,6 +93058,12 @@
    "name": "PerkinElmer, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "PKI"
+  },
+  {
+   "symbol": "PKST",
+   "name": "Peakstone Realty Trust Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PKST"
   },
   {
    "symbol": "PKX",

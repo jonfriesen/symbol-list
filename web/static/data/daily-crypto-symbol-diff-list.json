@@ -1,38 +1,18 @@
 {
  "added": [
   {
-   "symbol": "STORJ",
-   "name": "Storj (STORJ)",
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
   },
   {
-   "symbol": "MDXH",
-   "name": "Mdex (HECO) (MDXH)",
-   "built_on": "HT"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "PARAW",
-   "name": "Para (PARAW)",
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "STORJ",
-   "name": "Storj (STORJ)"
   }
  ]
 }
