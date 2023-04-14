@@ -1,90 +1,78 @@
 {
  "added": [
   {
-   "symbol": "UBIL.U",
-   "name": "Horizons 0-3 Month U.S. T-Bill ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "UBIL.U.TO",
+   "symbol": "FIVD.P",
+   "name": "5D Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FIVD.P.V",
    "instruments": [
     {
-     "name": "Horizons 0-3MoTbl US",
-     "symbol": "UBIL.U"
+     "name": "5D Acquisition Corp.",
+     "symbol": "FIVD.P"
     }
    ]
   },
   {
-   "symbol": "GDHG",
-   "name": "Golden Heaven Group Holdings Ltd.  - Ordinary shares",
+   "symbol": "OKAI",
+   "name": "EvokAI Creative Labs Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OKAI.V",
+   "instruments": [
+    {
+     "name": "EvokAI Creative Labs Inc.",
+     "symbol": "OKAI"
+    }
+   ]
+  },
+  {
+   "symbol": "ERYP",
+   "name": "Erytech Pharma S.A. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GDHG"
+   "yahoo_symbol": "ERYP"
   },
   {
-   "symbol": "MKAM",
-   "name": "MKAM ETF",
+   "symbol": "PTEC",
+   "name": "Global X PropTech ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MKAM"
+   "yahoo_symbol": "PTEC"
   },
   {
-   "symbol": "PKST",
-   "name": "Peakstone Realty Trust Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PKST"
+   "symbol": "VCIG",
+   "name": "VCI Global Limited - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VCIG"
   }
  ],
  "removed": [
   {
-   "symbol": "GEEXW",
-   "name": "Games \u0026 Esports Experience Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GEEXW"
-  },
-  {
-   "symbol": "GEEXU",
-   "name": "Games \u0026 Esports Experience Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GEEXU"
-  },
-  {
-   "symbol": "VORB",
-   "name": "Virgin Orbit Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VORB"
-  },
-  {
-   "symbol": "PLXP",
-   "name": "PLx Pharma Inc. - Common Stock",
+   "symbol": "BSGAR",
+   "name": "Blue Safari Group Acquisition Corp. - Right",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLXP"
+   "yahoo_symbol": "BSGAR"
   },
   {
-   "symbol": "AMYT",
-   "name": "Amryt Pharma plc - American Depositary Shares",
+   "symbol": "ERYP",
+   "name": "Erytech Pharma S.A. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AMYT"
+   "yahoo_symbol": "ERYP"
   },
   {
-   "symbol": "GEEX",
-   "name": "Games \u0026 Esports Experience Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GEEX"
+   "symbol": "BSGA",
+   "name": "Blue Safari Group Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSGA"
   },
   {
-   "symbol": "VORBW",
-   "name": "Virgin Orbit Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VORBW"
+   "symbol": "BSGAU",
+   "name": "Blue Safari Group Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSGAU"
   },
   {
-   "symbol": "NVCN",
-   "name": "Neovasc Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NVCN.TO",
-   "instruments": [
-    {
-     "name": "Neovasc Inc. J",
-     "symbol": "NVCN"
-    }
-   ]
+   "symbol": "TCVA",
+   "name": "TCV Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCVA"
   }
  ]
 }

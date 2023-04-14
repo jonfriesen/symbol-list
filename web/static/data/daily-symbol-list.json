@@ -1,5 +1,5 @@
 {
- "date": "2023-04-13",
+ "date": "2023-04-14",
  "data": [
   {
    "symbol": "ONE",
@@ -46,6 +46,18 @@
     {
      "name": "49 North Resources Inc.",
      "symbol": "FNR"
+    }
+   ]
+  },
+  {
+   "symbol": "FIVD.P",
+   "name": "5D Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FIVD.P.V",
+   "instruments": [
+    {
+     "name": "5D Acquisition Corp.",
+     "symbol": "FIVD.P"
     }
    ]
   },
@@ -6198,6 +6210,18 @@
     {
      "name": "Evocati Capital Resources Inc.",
      "symbol": "EVOC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "OKAI",
+   "name": "EvokAI Creative Labs Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OKAI.V",
+   "instruments": [
+    {
+     "name": "EvokAI Creative Labs Inc.",
+     "symbol": "OKAI"
     }
    ]
   },
@@ -40406,6 +40430,18 @@
    ]
   },
   {
+   "symbol": "CLMT",
+   "name": "Purpose Energy Transition Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLMT.TO",
+   "instruments": [
+    {
+     "name": "PurposeGlb ClimateOp",
+     "symbol": "CLMT"
+    }
+   ]
+  },
+  {
    "symbol": "PDIV",
    "name": "Purpose Enhanced Dividend Fund",
    "exchange": "TSX",
@@ -40490,18 +40526,6 @@
     {
      "name": "Purpose Gbl Bnd Fund",
      "symbol": "BND"
-    }
-   ]
-  },
-  {
-   "symbol": "CLMT",
-   "name": "Purpose Global Climate Opportunities Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CLMT.TO",
-   "instruments": [
-    {
-     "name": "PurposeGlb ClimateOp",
-     "symbol": "CLMT"
     }
    ]
   },
@@ -49794,24 +49818,6 @@
    "yahoo_symbol": "BSFC"
   },
   {
-   "symbol": "BSGA",
-   "name": "Blue Safari Group Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BSGA"
-  },
-  {
-   "symbol": "BSGAR",
-   "name": "Blue Safari Group Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BSGAR"
-  },
-  {
-   "symbol": "BSGAU",
-   "name": "Blue Safari Group Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BSGAU"
-  },
-  {
    "symbol": "BSGM",
    "name": "BioSig Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -54830,7 +54836,7 @@
   {
    "symbol": "ERYP",
    "name": "Erytech Pharma S.A. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ERYP"
   },
   {
@@ -68412,6 +68418,12 @@
    "yahoo_symbol": "PTE"
   },
   {
+   "symbol": "PTEC",
+   "name": "Global X PropTech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTEC"
+  },
+  {
    "symbol": "PTEN",
    "name": "Patterson-UTI Energy, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73122,12 +73134,6 @@
    "yahoo_symbol": "TCRX"
   },
   {
-   "symbol": "TCVA",
-   "name": "TCV Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCVA"
-  },
-  {
    "symbol": "TCX",
    "name": "Tucows Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -74872,6 +74878,12 @@
    "name": "Vericel Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VCEL"
+  },
+  {
+   "symbol": "VCIG",
+   "name": "VCI Global Limited - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VCIG"
   },
   {
    "symbol": "VCIT",

@@ -3,6 +3,7 @@ ONE,01 Communique Laboratory Inc.,TSXV,ONE.V,01 Communique Laboratory Inc.,ONE
 EFF,1844 Resources Inc.,TSXV,EFF.V,1844 Resources Inc.,EFF
 AUMB,1911 Gold Corporation,TSXV,AUMB.V,1911 Gold Corporation,AUMB
 FNR,49 North Resources Inc.,TSXV,FNR.V,49 North Resources Inc.,FNR
+FIVD.P,5D Acquisition Corp.,TSXV,FIVD.P.V,5D Acquisition Corp.,FIVD.P
 ALAB.P,A-Labs Capital II Corp.,TSXV,ALAB.P.V,A-Labs Capital II Corp.,ALAB.P
 ALBA.P,A-Labs Capital V Corp.,TSXV,ALBA.P.V,A-Labs Capital V Corp.,ALBA.P
 AIS,A.I.S. Resources Limited,TSXV,AIS.V,A.I.S. Resources Limited,AIS
@@ -509,6 +510,7 @@ EVER,Evergold Corp.,TSXV,EVER.V,Evergold Corp.,EVER
 ELL,Everybody Loves Languages Corp.,TSXV,ELL.V,Everybody Loves Languages Corp.,ELL
 EPF,Everyday People Financial Corp.,TSXV,EPF.V,Everyday People Financial Corp.,EPF
 EVOC.P,Evocati Capital Resources Inc.,TSXV,EVOC.P.V,Evocati Capital Resources Inc.,EVOC.P
+OKAI,EvokAI Creative Labs Inc.,TSXV,OKAI.V,EvokAI Creative Labs Inc.,OKAI
 XCAP.P,Exelerate Capital Corp.,TSXV,XCAP.P.V,Exelerate Capital Corp.,XCAP.P
 EXG,ExGen Resources Inc.,TSXV,EXG.V,ExGen Resources Inc.,EXG
 FUU,F3 Uranium Corp.,TSXV,FUU.V,F3 Uranium Corp.,FUU
@@ -3119,13 +3121,13 @@ PRP,Purpose Conservative Income Fund,TSX,PRP.TO,Purpose Conserv Incm,PRP
 PDF,Purpose Core Dividend Fund,TSX,PDF.TO,Purpose Core Div Fnd,PDF
 CROP,Purpose Credit Opportunities Fund,TSX,CROP.TO,Purpose CreditOpp Un,CROP,PurposeCredOppNCH US,CROP.U
 PRA,Purpose Diversified Real Asset Fund,TSX,PRA.TO,Purpose DiversRl Ast,PRA
+CLMT,Purpose Energy Transition Fund,TSX,CLMT.TO,PurposeGlb ClimateOp,CLMT
 PDIV,Purpose Enhanced Dividend Fund,TSX,PDIV.TO,Purpose EnhncDiv ETF,PDIV
 PAYF,Purpose Enhanced Premium Yield Fund,TSX,PAYF.TO,Purpose EnhncPremYld,PAYF
 ETHH,Purpose Ether ETF,TSX,ETHH.TO,Purpose EthrCA CurHg,ETHH,Purpose EthrCA NC Hg,ETHH.B,Purpose EthrUS$NC Hg,ETHH.U
 ETHY,Purpose Ether Yield ETF,TSX,ETHY.TO,Purpose Ether Yld Un,ETHY,Purpose EthrYld ncHg,ETHY.B,PurposeEthrYldncHgUS,ETHY.U
 IGB,Purpose Global Bond Class,TSX,IGB.TO,Purpose Glbl Bond Cl,IGB
 BND,Purpose Global Bond Fund,TSX,BND.TO,Purpose Gbl Bnd Fund,BND
-CLMT,Purpose Global Climate Opportunities Fund,TSX,CLMT.TO,PurposeGlb ClimateOp,CLMT
 FLX,Purpose Global Flexible Credit Fund,TSX,FLX.TO,Purpose GlbFlxCredUn,FLX,PurposeGlbFlxCrCA Un,FLX.B,PurposeGlbflxNCHG US,FLX.U
 PINV,Purpose Global Innovators Fund,TSX,PINV.TO,Purpose GlblInnovatr,PINV
 KILO,Purpose Gold Bullion Fund,TSX,KILO.TO,Purpose Gold Bul Un,KILO,Purpose Gld Nn-curHg,KILO.B,PurposeGldUS$nnCurHg,KILO.U
@@ -4247,9 +4249,6 @@ BSCV,Invesco BulletShares 2031 Corporate Bond ETF,NASDAQ Global MarketSM,BSCV
 BSCW,Invesco BulletShares 2032 Corporate Bond ETF,NASDAQ Global MarketSM,BSCW
 BSET,"Bassett Furniture Industries, Incorporated - Common Stock",NASDAQ Global Select MarketSM,BSET
 BSFC,Blue Star Foods Corp. - common stock,NASDAQ Capital Market,BSFC
-BSGA,Blue Safari Group Acquisition Corp. - Class A Ordinary Share,NASDAQ Capital Market,BSGA
-BSGAR,Blue Safari Group Acquisition Corp. - Right,NASDAQ Capital Market,BSGAR
-BSGAU,Blue Safari Group Acquisition Corp. - Unit,NASDAQ Capital Market,BSGAU
 BSGM,"BioSig Technologies, Inc. - Common Stock",NASDAQ Capital Market,BSGM
 BSJN,Invesco BulletShares 2023 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJN
 BSJO,Invesco BulletShares 2024 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJO
@@ -5086,7 +5085,7 @@ ERIC,Ericsson - American Depositary Shares each representing 1 underlying Class 
 ERIE,Erie Indemnity Company - Class A Common Stock,NASDAQ Global Select MarketSM,ERIE
 ERII,"Energy Recovery, Inc. - Common Stock",NASDAQ Global Select MarketSM,ERII
 ERNA,Eterna Therapeutics Inc. - Common Stock,NASDAQ Capital Market,ERNA
-ERYP,Erytech Pharma S.A. - American Depositary Shares,NASDAQ Global Select MarketSM,ERYP
+ERYP,Erytech Pharma S.A. - American Depositary Shares,NASDAQ Capital Market,ERYP
 ESAC,ESGEN Acquisition Corporation - Class A Ordinary Shares,NASDAQ Global MarketSM,ESAC
 ESACU,ESGEN Acquisition Corporation - Unit,NASDAQ Global MarketSM,ESACU
 ESACW,ESGEN Acquisition Corporation - Warrants,NASDAQ Global MarketSM,ESACW
@@ -7350,6 +7349,7 @@ PT,Pintec Technology Holdings Limited - American Depositary Shares,NASDAQ Global
 PTC,PTC Inc. - Common Stock,NASDAQ Global Select MarketSM,PTC
 PTCT,"PTC Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,PTCT
 PTE,"PolarityTE, Inc. - Common Stock",NASDAQ Capital Market,PTE
+PTEC,Global X PropTech ETF,NASDAQ Global MarketSM,PTEC
 PTEN,"Patterson-UTI Energy, Inc. - Common Stock",NASDAQ Global Select MarketSM,PTEN
 PTF,Invesco DWA Technology Momentum ETF,NASDAQ Global MarketSM,PTF
 PTGX,"Protagonist Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,PTGX
@@ -8135,7 +8135,6 @@ TCPC,BlackRock TCP Capital Corp. - Closed End Fund,NASDAQ Global Select MarketSM
 TCRR,TCR2 Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,TCRR
 TCRT,"Alaunos Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,TCRT
 TCRX,"TScan Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TCRX
-TCVA,TCV Acquisition Corp. - Class A Ordinary Shares,NASDAQ Capital Market,TCVA
 TCX,Tucows Inc. - Common Stock,NASDAQ Capital Market,TCX
 TDIV,First Trust NASDAQ Technology Dividend Index Fund,NASDAQ Global MarketSM,TDIV
 TDSA,Cabana Target Drawdown 5 ETF,NASDAQ Global MarketSM,TDSA
@@ -8427,6 +8426,7 @@ VBOCW,Viscogliosi Brothers Acquisition Corp - Warrant,NASDAQ Global MarketSM,VBO
 VBTX,"Veritex Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,VBTX
 VC,Visteon Corporation - Common Stock,NASDAQ Global Select MarketSM,VC
 VCEL,Vericel Corporation - Common Stock,NASDAQ Global MarketSM,VCEL
+VCIG,VCI Global Limited - Ordinary Share,NASDAQ Capital Market,VCIG
 VCIT,Vanguard Intermediate-Term Corporate Bond ETF,NASDAQ Global MarketSM,VCIT
 VCLT,Vanguard Long-Term Corporate Bond ETF,NASDAQ Global MarketSM,VCLT
 VCNX,"Vaccinex, Inc. - Common Stock",NASDAQ Capital Market,VCNX
