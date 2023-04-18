@@ -354,7 +354,7 @@ CM,Canadian Imperial Bank Of Commerce,TSX,CM.TO,Cdn Imperial Bank,CM,Cdn Imp Bk 
 LFE,Canadian Life Companies Split Corp.,TSX,LFE.TO,Cdn Life Co Split A,LFE,Cdn Life CoSplt Pr12,LFE.PR.B
 CNR,Canadian National Railway Company,TSX,CNR.TO,Cdn Nat'l Railway,CNR
 CNQ,Canadian Natural Resources Limited,TSX,CNQ.TO,Canadian Natural Res,CNQ
-CP,Canadian Pacific Railway Limited,TSX,CP.TO,Cdn Pacific Railway,CP
+CP,Canadian Pacific Kansas City Limited,TSX,CP.TO,Cdn Pacific Railway,CP
 CTC,"Canadian Tire Corporation, Limited",TSX,CTC.TO,Canadian Tire Corp,CTC,Canadian Tire A NV,CTC.A
 CU,Canadian Utilities Limited,TSX,CU.TO,Cdn Utilities A NV,CU,Cdn Util 2nd Pr Y,CU.PR.C,Cdn Util 2nd Pr AA,CU.PR.D,Cdn Util 2nd Pr BB,CU.PR.E,Cdn Util 2nd Pr CC,CU.PR.F,Cdn Util 2nd Pr DD,CU.PR.G,Cdn Util 2nd Pr EE,CU.PR.H,Cdn Util 2nd Pr FF,CU.PR.I,Cdn Util 2nd Pr HH,CU.PR.J,Cdn Utilities Cl B,CU.X
 CWB,Canadian Western Bank,TSX,CWB.TO,Cdn Wstrn Bank,CWB,Cdn Wstrn Bk Sr 5 Pr,CWB.PR.B,Cdn Wstrn Bk Sr 9 Pr,CWB.PR.D
@@ -850,6 +850,7 @@ HWO,High Arctic Energy Services Inc.,TSX,HWO.TO,High Arctic Engy Inc,HWO
 HLF,High Liner Foods Incorporated,TSX,HLF.TO,High Liner Foods Inc,HLF
 HLS,HLS Therapeutics Inc.,TSX,HLS.TO,HLS Therapeutics J,HLS
 HCG,Home Capital Group Inc.,TSX,HCG.TO,Home Capital Group,HCG
+CBIL,Horizons 0-3 Month T-Bill ETF,TSX,CBIL.TO,Horizons 0-3Mon T-bl,CBIL
 UBIL.U,Horizons 0-3 Month U.S. T-Bill ETF,TSX,UBIL.U.TO,Horizons 0-3MoTbl US,UBIL.U
 HARC,Horizons Absolute Return Global Currency ETF,TSX,HARC.TO,Horizons AbsolGlbCur,HARC
 HAD,Horizons Active Cdn Bond ETF,TSX,HAD.TO,Horizon ActvCdnBndUn,HAD
@@ -964,20 +965,15 @@ IIP.UN,InterRent Real Estate Investment Trust,TSX,IIP.UN.TO,InterRent REIT J Un,
 PFL,Invesco 1-3 Year Laddered Floating Rate Note Index ETF,TSX,PFL.TO,Invesco 1-3YrLadFltg,PFL
 PSB,Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF,TSX,PSB.TO,Invesco1-5CorpBnd Un,PSB
 PDC,Invesco Canadian Dividend Index ETF,TSX,PDC.TO,Invesco Cdn Div Un,PDC
-PPS,Invesco Canadian Preferred Share Index ETF,TSX,PPS.TO,Invesco Cdn Pr Un,PPS
 BESG,Invesco ESG Canadian Core Plus Bond ETF,TSX,BESG.TO,InvescoESG CA CorBnd,BESG
 IWBE,Invesco ESG Global Bond ETF,TSX,IWBE.TO,InvescoESG GlbBnd CA,IWBE
 QQCE,Invesco ESG NASDAQ 100 Index ETF,TSX,QQCE.TO,Invesco NSDQ100IDXCA,QQCE,InvescNSDQ100IdxCAHG,QQCE.F
 QQJE,Invesco ESG NASDAQ Next Gen 100 Index ETF,TSX,QQJE.TO,InvescoNSDQNxGn100CA,QQJE,InvescoNSDQNG100CAHg,QQJE.F
 PXC,Invesco FTSE RAFI Canadian Index ETF,TSX,PXC.TO,Invesco FTSE RAFICdn,PXC
-PZC,Invesco FTSE RAFI Canadian Small-Mid Index ETF,TSX,PZC.TO,InvscoFTSE CA Sml-Md,PZC
 PZW,Invesco FTSE RAFI Global Small-Mid ETF,TSX,PZW.TO,Invesc FTSERAF GlbCA,PZW,Invesco FTSE Sml-Md ,PZW.F,InvescoFTSERAF GlbUS,PZW.U
-PXG,Invesco FTSE RAFI Global+ Index ETF,TSX,PXG.TO,Invesco FTSE Glb+ETF,PXG,Invesco FTSE Glb+ US,PXG.U
 PXU.F,Invesco FTSE RAFI U.S. Index ETF,TSX,PXU.F.TO,InvescoFTSE US CA-Hg,PXU.F
 PXS,Invesco FTSE RAFI U.S. Index ETF II,TSX,PXS.TO,InvescFTSE USFnd2 CA,PXS,Invesco FTSE ETF2 US,PXS.U
 PFH.F,Invesco Fundamental High Yield Corporate Bond Index ETF,TSX,PFH.F.TO,Invesco CorpBndCA$Hg,PFH.F
-PSY,Invesco Global Shareholder Yield ETF,TSX,PSY.TO,Invesco GlbShrhldrCA,PSY,Invesco GlbShrhldrUS,PSY.U
-USB,Invesco LadderRite U.S. 0-5 Year Corporate Bond Index ETF,TSX,USB.TO,InvescoLddrRtUS0-5Yr,USB,InvescoLddrRtO-5YrUS,USB.U
 PLV,Invesco Low Volatility Portfolio ETF,TSX,PLV.TO,Invesco LowVolPortfl,PLV
 QQEQ,Invesco NASDAQ 100 Equal Weight Index ETF,TSX,QQEQ.TO,Invesco NASDQ100=Wgt,QQEQ,Invesco NASDQ100=Heg,QQEQ.F
 QQC,Invesco NASDAQ 100 Index ETF,TSX,QQC.TO,Invesco NASDAQ100 C$,QQC,Invesco NASDQ100 Heg,QQC.F
@@ -986,11 +982,9 @@ EQL,Invesco S&P 500 Equal Weight Index ETF,TSX,EQL.TO,Invesco S&P500 EqWgt,EQL,I
 ESG,Invesco S&P 500 ESG Index ETF,TSX,ESG.TO,Invesco S&P500ESG Un,ESG,InvescoS&P500ESG Heg,ESG.F
 ISTE,Invesco S&P 500 ESG Tilt Index ETF,TSX,ISTE.TO,InvescoS&P500 Tlt CA,ISTE,InvescoS&P500 T CaHg,ISTE.F
 ULV.C,Invesco S&P 500 Low Volatility Index ETF,TSX,ULV.C.TO,Invesco 500LowVol CA,ULV.C,Invesco500LowVolCAHg,ULV.F,Invesco 500LowVol US,ULV.U
-ELV,Invesco S&P Emerging Markets Low Volatility Index ETF,TSX,ELV.TO,Invesco S&P EmrgMkts,ELV
 IIAE,Invesco S&P International Developed Dividend Aristocrats ESG Index ETF,TSX,IIAE.TO,InvescoS&P IntlDevDv,IIAE,InvescoS&PIntDevDvHg,IIAE.F
 IICE,Invesco S&P International Developed ESG Index ETF,TSX,IICE.TO,InvscoS&PIntlDvESGCa,IICE,InvscoS&PIntDvESGCaH,IICE.F
 IITE,Invesco S&P International Developed ESG Tilt Index ETF,TSX,IITE.TO,InvscoSPIntDvESGTlCa,IITE,InvscoSPIntDvESGTlCH,IITE.F
-ILV,Invesco S&P International Developed Low Volatility Index ETF,TSX,ILV.TO,InvescoS&PIntl LwVol,ILV,InvescoS&PIntlDvVlCA,ILV.F
 IUAE,Invesco S&P US Dividend Aristocrats ESG Index ETF,TSX,IUAE.TO,InvescoS&P USDvArist,IUAE,InvescoS&P USDvArisH,IUAE.F
 IUCE,Invesco S&P US Total Market ESG Index ETF,TSX,IUCE.TO,InvscoSP USMktESG CA,IUCE,InvscoSP USMktESG CH,IUCE.F
 IUTE,Invesco S&P US Total Market ESG Tilt Index ETF,TSX,IUTE.TO,InvscoSP USMktESGTlC,IUTE,InvscoSP USMktESGTlH,IUTE.F
@@ -999,8 +993,6 @@ ICAE,Invesco S&P/TSX Canadian Dividend Aristocrats ESG Index ETF,TSX,ICAE.TO,Inv
 ESGC,Invesco S&P/TSX Composite ESG Index ETF,TSX,ESGC.TO,Invesco S&PTSXComESG,ESGC
 ICTE,Invesco S&P/TSX Composite ESG Tilt Index ETF,TSX,ICTE.TO,InvscoSP/TSXCmpESGTl,ICTE
 TLV,Invesco S&P/TSX Composite Low Volatility Index ETF,TSX,TLV.TO,InvescoCompVltlty Un,TLV
-REIT,Invesco S&P/TSX REIT Income Index ETF,TSX,REIT.TO,Invesco REIT Incm CA,REIT
-BKL.C,Invesco Senior Loan Index ETF,TSX,BKL.C.TO,Invesco SeniorLoanCA,BKL.C,Invesco SnrLoanCAheg,BKL.F,Invesco SeniorLoanUS,BKL.U
 IVQ,Invesque Inc.,TSX,IVQ.TO,Invesque Inc.,IVQ,Invesque 7% Deb USF,IVQ.DB.U,Invesque 6% Deb USF,IVQ.DB.V,Invesque Inc. USF,IVQ.U
 XSTP,iShares 0-5 Year TIPS Bond Index ETF,TSX,XSTP.TO,iShr 0-5YrTipsBndCAD,XSTP,iShr 0-5YrTipsBndUSD,XSTP.U
 XSTH,iShares 0-5 Year TIPS Bond Index ETF (CAD-Hedged),TSX,XSTH.TO,iShr0-5YrTipsBndCA-H,XSTH
@@ -2006,7 +1998,6 @@ BTV,Bluerush Inc.,TSXV,BTV.V,Bluerush Inc.,BTV
 BSR,Bluestone Resources Inc.,TSXV,BSR.V,Bluestone Resources Inc.,BSR
 BLM,BluMetric Environmental Inc.,TSXV,BLM.V,BluMetric Environmental Inc.,BLM
 BMEX,BMEX Gold Inc.,TSXV,BMEX.V,BMEX Gold Inc.,BMEX
-BMGB.P,BMGB Capital Corp.,TSXV,BMGB.P.V,BMGB Capital Corp.,BMGB.P
 BWLK,Boardwalktech Software Corp.,TSXV,BWLK.V,Boardwalktech Software Corp.,BWLK
 BOCA,Bocana Resources Corp.,TSXV,BOCA.V,Bocana Resources Corp.,BOCA
 BOLD.P,Bold Capital Enterprises Ltd.,TSXV,BOLD.P.V,Bold Capital Enterprises Ltd.,BOLD.P
@@ -2497,7 +2488,7 @@ MONY.P,Harmony Acquisitions Corp.,TSXV,MONY.P.V,Harmony Acquisitions Corp.,MONY.
 HVG,Harvest Gold Corp.,TSXV,HVG.V,Harvest Gold Corp.,HVG
 HEC.P,Haviland Enviro Corp.,TSXV,HEC.P.V,Haviland Enviro Corp.,HEC.P
 HAW.P,HAW Capital 2 Corp.,TSXV,HAW.P.V,Haw Capital 2 Corp.,HAW.P
-HAWK,Hawkeye Gold & Diamond Inc.,TSXV,HAWK.V,Hawkeye Gold & Diamond Inc,HAWK
+HAWK,Hawkeye Gold & Diamond Inc.,TSXV,HAWK.V,Hawkeye Gold & Diamond Inc.,HAWK
 HSTR,Heliostar Metals Ltd.,TSXV,HSTR.V,Heliostar Metals Ltd.,HSTR
 HX,HeliosX Lithium & Technologies Corp.,TSXV,HX.V,HeliosX Lithium & Technologies Corp.,HX
 HEVI,Helium Evolution Incorporated,TSXV,HEVI.V,Helium Evolution Incorporated,HEVI
@@ -2688,7 +2679,6 @@ LSL,LSL Pharma Group Inc.,TSXV,LSL.V,LSL Pharma Group Inc.,LSL
 LUCA,Luca Mining Corp.,TSXV,LUCA.V,Luca Mining Corp.,LUCA
 LOU,Lucero Energy Corp.,TSXV,LOU.V,Lucero Energy Corp.,LOU
 LKY,Lucky Minerals Inc.,TSXV,LKY.V,Lucky Minerals Inc.,LKY
-NHP,Lumiera Health Inc.,TSXV,NHP.V,Lumiera Health Inc.,NHP
 LUM,Lumina Gold Corp.,TSXV,LUM.V,Lumina Gold Corp.,LUM
 LMN,Lumine Group Inc.,TSXV,LMN.V,Lumine Group Inc.,LMN
 LR,Luminex Resources Corp.,TSXV,LR.V,Luminex Resources Corp.,LR
@@ -2802,6 +2792,7 @@ NMI,Namibia Critical Metals Inc.,TSXV,NMI.V,Namibia Critical Metals Inc.,NMI
 CTZ,Namsys Inc.,TSXV,CTZ.V,Namsys Inc.,CTZ
 NSCI,Nanalysis Scientific Corp.,TSXV,NSCI.V,Nanalysis Scientific Corp.,NSCI
 NSP,Naturally Splendid Enterprises Ltd.,TSXV,NSP.V,Naturally Splendid Enterprises Ltd.,NSP
+NAV,NAVCO Pharmaceuticals Inc.,TSXV,NAV.V,NAVCO Pharmaceuticals Inc.,NAV
 NAQ.P,Navigator Acquisition Corp.,TSXV,NAQ.P.V,Navigator Acquisition Corp.,NAQ.P
 NBM,NEO Battery Materials Ltd.,TSXV,NBM.V,NEO Battery Materials Ltd.,NBM
 NDA,Neptune Digital Assets Corp.,TSXV,NDA.V,Neptune Digital Assets Corp.,NDA
@@ -3184,6 +3175,7 @@ STS,South Star Battery Metals Corp.,TSXV,STS.V,South Star Battery Metals Corp.,S
 SMP,Southern Empire Resources Corp.,TSXV,SMP.V,Southern Empire Resources Corp.,SMP
 SOU,Southern Energy Corp.,TSXV,SOU.V,Southern Energy Corp.,SOU
 SSV,Southern Silver Exploration Corp.,TSXV,SSV.V,Southern Silver Exploration Corp,SSV
+SGQ,SouthGobi Resources Ltd,TSXV,SGQ.V,SouthGobi Resources Ltd.,SGQ
 SML,Southstone Minerals Limited,TSXV,SML.V,Southstone Minerals Limited,SML
 SPSA.P,SP Strategic Acquisition Corp.,TSXV,SPSA.P.V,SP Strategic Acquisition Corp.,SPSA.P
 SQG,Spackman Equities Group Inc.,TSXV,SQG.V,Spackman Equities Group Inc.,SQG
@@ -4507,7 +4499,6 @@ CIDM,Cinedigm Corp - Class A Common Stock,NASDAQ Capital Market,CIDM
 CIFR,Cipher Mining Inc. - Common Stock,NASDAQ Global Select MarketSM,CIFR
 CIFRW,Cipher Mining Inc. - Warrant,NASDAQ Global Select MarketSM,CIFRW
 CIGI,Colliers International Group Inc.  - Subordinate Voting Shares,NASDAQ Global Select MarketSM,CIGI
-CIH,China Index Holdings Limited - American Depository Shares,NASDAQ Capital Market,CIH
 CIIG,"CIIG Capital Partners II, Inc. - Class A Common Stock",NASDAQ Global MarketSM,CIIG
 CIIGU,"CIIG Capital Partners II, Inc. - Unit",NASDAQ Global MarketSM,CIIGU
 CIIGW,"CIIG Capital Partners II, Inc. - Warrant",NASDAQ Global MarketSM,CIIGW
@@ -7073,7 +7064,6 @@ OZK,Bank OZK - Common Stock,NASDAQ Global Select MarketSM,OZK
 OZKAP,Bank OZK - 4.625% Series A Non-Cumulative Perpetual Preferred Stock,NASDAQ Global Select MarketSM,OZKAP
 OZON,"Ozon Holdings PLC - ADS, each ADS representing one ordinary share",NASDAQ Global Select MarketSM,OZON
 PAA,"Plains All American Pipeline, L.P. - Common Units representing Limited Partner Interests",NASDAQ Global Select MarketSM,PAA
-PAAS,Pan American Silver Corp. - Common Stock,NASDAQ Global Select MarketSM,PAAS
 PABU,iShares Paris-Aligned Climate MSCI USA ETF,NASDAQ Global MarketSM,PABU
 PACB,"Pacific Biosciences of California, Inc. - Common Stock",NASDAQ Global Select MarketSM,PACB
 PACW,PacWest Bancorp - Common Stock,NASDAQ Global Select MarketSM,PACW
@@ -9603,7 +9593,7 @@ CORS.W,"Corsair Partnering Corporation Redeemable warrants, each whole warrant e
 COTY,Coty Inc. Class A Common Stock,NYSE,COTY
 COUR,"Coursera, Inc. Common Stock",NYSE,COUR
 COW,iPathA Series B Bloomberg Livestock Subindex Total Return ETN,NYSE ARCA,COW
-CP,Canadian Pacific Railway Limited Common Stock,NYSE,CP
+CP,Canadian Pacific Kansas City Limited Common Shares,NYSE,CP
 CPA,"Copa Holdings, S.A. Copa Holdings, S.A. Class A Common Stock",NYSE,CPA
 CPAC,Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five Common Shares),NYSE,CPAC
 CPB,Campbell Soup Company Common Stock,NYSE,CPB
@@ -11343,6 +11333,7 @@ OXM,"Oxford Industries, Inc. Common Stock",NYSE,OXM
 OXY,Occidental Petroleum Corporation Common Stock,NYSE,OXY
 OXY.W,Occidental Petroleum Corporation Warrants ,NYSE,OXY.W
 OZ,"Belpointe PREP, LLC Class A Units",NYSE MKT,OZ
+PAAS,Pan American Silver Corp. Common Stock,NYSE,PAAS
 PAC,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)",NYSE,PAC
 PACI,PROOF Acquisition Corp I Class A Common Stock,NYSE,PACI
 PACI.U,"PROOF Acquisition Corp I Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-half of one redeemable warrant",NYSE,PACI.U
@@ -12089,6 +12080,7 @@ TOST,"Toast, Inc. Class A Common Stock",NYSE,TOST
 TOVX,"Theriva Biologics, Inc. Common Stock",NYSE MKT,TOVX
 TPB,"Turning Point Brands, Inc. Common Stock",NYSE,TPB
 TPC,Tutor Perini Corporation Common Stock,NYSE,TPC
+TPET,Trio Petroleum Corp. Common Stock,NYSE MKT,TPET
 TPH,"Tri Pointe Homes, Inc. Common Stock",NYSE,TPH
 TPHS,Trinity Place Holdings Inc. Common Stock,NYSE MKT,TPHS
 TPL,Texas Pacific Land Corporation Common Stock,NYSE,TPL

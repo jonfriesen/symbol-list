@@ -1,13 +1,40 @@
 {
  "added": [
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "DARA",
+   "name": "Immutable (DARA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CSTC",
+   "name": "CryptosTribe (CSTC)"
+  },
+  {
+   "symbol": "QUICKOLD",
+   "name": "Quickswap (QUICKOLD)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "QUICK",
+   "name": "Quickswap (QUICK)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "QUICK",
+   "name": "Quickswap (QUICK)",
    "built_on": "ETH"
   },
   {
@@ -15,8 +42,8 @@
    "name": "Immutable (DARA)"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "QUICKOLD",
+   "name": "Quickswap (QUICKOLD)"
   }
  ]
 }
