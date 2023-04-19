@@ -1,49 +1,30 @@
 {
  "added": [
   {
-   "symbol": "DARA",
-   "name": "Immutable (DARA)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "CSTC",
-   "name": "CryptosTribe (CSTC)"
-  },
-  {
-   "symbol": "QUICKOLD",
-   "name": "Quickswap (QUICKOLD)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "QUICK",
-   "name": "Quickswap (QUICK)"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "XNO",
+   "name": "Xeno Token (XNO)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "QUICK",
-   "name": "Quickswap (QUICK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DARA",
-   "name": "Immutable (DARA)"
-  },
-  {
-   "symbol": "QUICKOLD",
-   "name": "Quickswap (QUICKOLD)"
+   "symbol": "XNO",
+   "name": "Xeno Token (XNO)"
   }
  ]
 }
