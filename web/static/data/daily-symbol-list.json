@@ -1,5 +1,5 @@
 {
- "date": "2023-04-19",
+ "date": "2023-04-20",
  "data": [
   {
    "symbol": "ONE",
@@ -794,6 +794,18 @@
     {
      "name": "Alturas Minerals Corp",
      "symbol": "ALT"
+    }
+   ]
+  },
+  {
+   "symbol": "AUUA",
+   "name": "Aluula Composites Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUUA.V",
+   "instruments": [
+    {
+     "name": "Aluula Composites Inc.",
+     "symbol": "AUUA"
     }
    ]
   },
@@ -2050,18 +2062,6 @@
     {
      "name": "Baselode Energy Corp.",
      "symbol": "FIND"
-    }
-   ]
-  },
-  {
-   "symbol": "BASQ.P",
-   "name": "Bastion Square Partners Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BASQ.P.V",
-   "instruments": [
-    {
-     "name": "Bastion Square Partners Inc.",
-     "symbol": "BASQ.P"
     }
    ]
   },
@@ -15474,6 +15474,18 @@
    ]
   },
   {
+   "symbol": "OWN",
+   "name": "Rex Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OWN.V",
+   "instruments": [
+    {
+     "name": "Rex Resources Corp.",
+     "symbol": "OWN"
+    }
+   ]
+  },
+  {
    "symbol": "REYG",
    "name": "Reyna Gold Corp.",
    "exchange": "TSXV",
@@ -18290,6 +18302,18 @@
    ]
   },
   {
+   "symbol": "TINY",
+   "name": "Tiny Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TINY.V",
+   "instruments": [
+    {
+     "name": "Tiny Ltd.",
+     "symbol": "TINY"
+    }
+   ]
+  },
+  {
    "symbol": "TCEC",
    "name": "Tisdale Clean Energy Corp.",
    "exchange": "TSXV",
@@ -19698,18 +19722,6 @@
     {
      "name": "Wealth Minerals Ltd",
      "symbol": "WML"
-    }
-   ]
-  },
-  {
-   "symbol": "WE",
-   "name": "Wecommerce Holdings Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WE.V",
-   "instruments": [
-    {
-     "name": "WeCommerce Holdings Ltd.",
-     "symbol": "WE"
     }
    ]
   },
@@ -27442,18 +27454,6 @@
    ]
   },
   {
-   "symbol": "MBA",
-   "name": "CIBT Education Group Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MBA.TO",
-   "instruments": [
-    {
-     "name": "CIBT Education Grp J",
-     "symbol": "MBA"
-    }
-   ]
-  },
-  {
    "symbol": "CGX",
    "name": "Cineplex Inc.",
    "exchange": "TSX",
@@ -31462,6 +31462,18 @@
     {
      "name": "Glbl DivGrowSplit Pr",
      "symbol": "GDV.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "GEC",
+   "name": "Global Education Communities Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GEC.TO",
+   "instruments": [
+    {
+     "name": "CIBT Education Grp J",
+     "symbol": "GEC"
     }
    ]
   },
@@ -47630,12 +47642,6 @@
    "name": "Atlas Corp. - 7.125% Notes due 2027",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ATCOL"
-  },
-  {
-   "symbol": "ATCX",
-   "name": "Atlas Technical Consultants, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATCX"
   },
   {
    "symbol": "ATEC",
@@ -88742,12 +88748,6 @@
    "name": "LendingClub Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LC"
-  },
-  {
-   "symbol": "LCI",
-   "name": "Lannett Co Inc Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LCI"
   },
   {
    "symbol": "LCII",
