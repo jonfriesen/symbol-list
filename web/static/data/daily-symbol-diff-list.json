@@ -1,84 +1,144 @@
 {
  "added": [
   {
-   "symbol": "LFLY",
-   "name": "Leafly Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LFLY"
+   "symbol": "CYBE",
+   "name": "CyberCatch Holdings, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CYBE.V",
+   "instruments": [
+    {
+     "name": "CyberCatch Holdings, Inc.",
+     "symbol": "CYBE"
+    }
+   ]
   },
   {
-   "symbol": "LFLYW",
-   "name": "Leafly Holdings, Inc. - Warrant",
+   "symbol": "CRIS",
+   "name": "Curis, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LFLYW"
+   "yahoo_symbol": "CRIS"
   },
   {
-   "symbol": "UCAR",
-   "name": "U Power Limited - Ordinary Shares",
+   "symbol": "GRI",
+   "name": "GRI Bio, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UCAR"
+   "yahoo_symbol": "GRI"
   },
   {
-   "symbol": "USGO",
-   "name": "U.S. GoldMining Inc. - Common stock",
+   "symbol": "IMBI",
+   "name": "iMedia Brands, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "USGO"
+   "yahoo_symbol": "IMBI"
   },
   {
-   "symbol": "USGOW",
-   "name": "U.S. GoldMining Inc. - Warrant",
+   "symbol": "JYD",
+   "name": "Jayud Global Logistics Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "USGOW"
+   "yahoo_symbol": "JYD"
   },
   {
-   "symbol": "WLGS",
-   "name": "Wang \u0026 Lee Group, Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WLGS"
-  },
-  {
-   "symbol": "AACT.U",
-   "name": "Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "symbol": "SAZ",
+   "name": "Saratoga Investment Corp 8.50% Notes due 2028",
    "exchange": "NYSE",
-   "yahoo_symbol": "AACT.U"
-  },
-  {
-   "symbol": "SPHR",
-   "name": "Sphere Entertainment Co. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SPHR"
+   "yahoo_symbol": "SAZ"
   }
  ],
  "removed": [
   {
-   "symbol": "DTLA$",
-   "name": "Brookfield DTLA Inc. 7.625% Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DTLA$"
+   "symbol": "SBB",
+   "name": "Sabina Gold \u0026 Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBB.TO",
+   "instruments": [
+    {
+     "name": "Sabina Gld \u0026 Slvr J",
+     "symbol": "SBB"
+    }
+   ]
   },
   {
-   "symbol": "LFLYW",
-   "name": "Leafly Holdings, Inc. - Warrant",
+   "symbol": "IMBI",
+   "name": "iMedia Brands, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LFLYW"
+   "yahoo_symbol": "IMBI"
   },
   {
-   "symbol": "SPHR.V",
-   "name": "Sphere Entertainment Co. Class A Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SPHR.V"
+   "symbol": "TIOA",
+   "name": "Tio Tech A - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIOA"
   },
   {
-   "symbol": "MSGE.V",
-   "name": "Madison Square Garden Entertainment Corp. Class A Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MSGE.V"
+   "symbol": "VLON",
+   "name": "Vallon Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VLON"
   },
   {
-   "symbol": "LFLY",
-   "name": "Leafly Holdings, Inc. - Common Stock",
+   "symbol": "TIOAU",
+   "name": "Tio Tech A - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIOAU"
+  },
+  {
+   "symbol": "BUF",
+   "name": "Buffalo Coal Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BUF.V",
+   "instruments": [
+    {
+     "name": "Buffalo Coal Corp.",
+     "symbol": "BUF"
+    }
+   ]
+  },
+  {
+   "symbol": "AN",
+   "name": "Arena Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AN.V",
+   "instruments": [
+    {
+     "name": "Arena Minerals Inc.",
+     "symbol": "AN"
+    }
+   ]
+  },
+  {
+   "symbol": "CRIS",
+   "name": "Curis, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LFLY"
+   "yahoo_symbol": "CRIS"
+  },
+  {
+   "symbol": "TIG",
+   "name": "Trean Insurance Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TIG"
+  },
+  {
+   "symbol": "IBA",
+   "name": "Industrias Bachoco, S.A.B. de C.V. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IBA"
+  },
+  {
+   "symbol": "HVI.P",
+   "name": "Hopefield Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HVI.P.V",
+   "instruments": [
+    {
+     "name": "Hopefield Ventures Inc.",
+     "symbol": "HVI.P"
+    }
+   ]
+  },
+  {
+   "symbol": "TIOAW",
+   "name": "Tio Tech A - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIOAW"
   }
  ]
 }
