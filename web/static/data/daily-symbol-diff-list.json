@@ -1,144 +1,78 @@
 {
  "added": [
   {
-   "symbol": "CYBE",
-   "name": "CyberCatch Holdings, Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CYBE.V",
-   "instruments": [
-    {
-     "name": "CyberCatch Holdings, Inc.",
-     "symbol": "CYBE"
-    }
-   ]
-  },
-  {
-   "symbol": "CRIS",
-   "name": "Curis, Inc. - Common Stock",
+   "symbol": "FFIE",
+   "name": "Faraday Future Intelligent Electric Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CRIS"
+   "yahoo_symbol": "FFIE"
   },
   {
-   "symbol": "GRI",
-   "name": "GRI Bio, Inc. - Common Stock",
+   "symbol": "FFIEW",
+   "name": "Faraday Future Intelligent Electric Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GRI"
-  },
-  {
-   "symbol": "IMBI",
-   "name": "iMedia Brands, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IMBI"
-  },
-  {
-   "symbol": "JYD",
-   "name": "Jayud Global Logistics Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JYD"
-  },
-  {
-   "symbol": "SAZ",
-   "name": "Saratoga Investment Corp 8.50% Notes due 2028",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SAZ"
+   "yahoo_symbol": "FFIEW"
   }
  ],
  "removed": [
   {
-   "symbol": "SBB",
-   "name": "Sabina Gold \u0026 Silver Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SBB.TO",
-   "instruments": [
-    {
-     "name": "Sabina Gld \u0026 Slvr J",
-     "symbol": "SBB"
-    }
-   ]
-  },
-  {
-   "symbol": "IMBI",
-   "name": "iMedia Brands, Inc. - Class A Common Stock",
+   "symbol": "FFIE",
+   "name": "Faraday Future Intelligent Electric Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IMBI"
+   "yahoo_symbol": "FFIE"
   },
   {
-   "symbol": "TIOA",
-   "name": "Tio Tech A - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TIOA"
-  },
-  {
-   "symbol": "VLON",
-   "name": "Vallon Pharmaceuticals Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VLON"
-  },
-  {
-   "symbol": "TIOAU",
-   "name": "Tio Tech A - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TIOAU"
-  },
-  {
-   "symbol": "BUF",
-   "name": "Buffalo Coal Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BUF.V",
-   "instruments": [
-    {
-     "name": "Buffalo Coal Corp.",
-     "symbol": "BUF"
-    }
-   ]
-  },
-  {
-   "symbol": "AN",
-   "name": "Arena Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AN.V",
-   "instruments": [
-    {
-     "name": "Arena Minerals Inc.",
-     "symbol": "AN"
-    }
-   ]
-  },
-  {
-   "symbol": "CRIS",
-   "name": "Curis, Inc. - Common Stock",
+   "symbol": "DAM",
+   "name": "VanEck Digital Assets Mining ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRIS"
+   "yahoo_symbol": "DAM"
   },
   {
-   "symbol": "TIG",
-   "name": "Trean Insurance Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TIG"
-  },
-  {
-   "symbol": "IBA",
-   "name": "Industrias Bachoco, S.A.B. de C.V. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IBA"
-  },
-  {
-   "symbol": "HVI.P",
-   "name": "Hopefield Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HVI.P.V",
-   "instruments": [
-    {
-     "name": "Hopefield Ventures Inc.",
-     "symbol": "HVI.P"
-    }
-   ]
-  },
-  {
-   "symbol": "TIOAW",
-   "name": "Tio Tech A - Warrants",
+   "symbol": "IPVI",
+   "name": "InterPrivate IV InfraTech Partners Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TIOAW"
+   "yahoo_symbol": "IPVI"
+  },
+  {
+   "symbol": "BMAQ",
+   "name": "Blockchain Moon Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAQ"
+  },
+  {
+   "symbol": "IPVIW",
+   "name": "InterPrivate IV InfraTech Partners Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPVIW"
+  },
+  {
+   "symbol": "BMAQU",
+   "name": "Blockchain Moon Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAQU"
+  },
+  {
+   "symbol": "FFIEW",
+   "name": "Faraday Future Intelligent Electric Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FFIEW"
+  },
+  {
+   "symbol": "BMAQR",
+   "name": "Blockchain Moon Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAQR"
+  },
+  {
+   "symbol": "IPVIU",
+   "name": "InterPrivate IV InfraTech Partners Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPVIU"
+  },
+  {
+   "symbol": "BMAQW",
+   "name": "Blockchain Moon Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAQW"
   }
  ]
 }
