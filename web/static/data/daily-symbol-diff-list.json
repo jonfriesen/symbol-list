@@ -1,60 +1,144 @@
 {
  "added": [
   {
-   "symbol": "NEXI",
-   "name": "NexImmune, Inc. - Common Stock",
+   "symbol": "MNU.U",
+   "name": "Purpose USD Cash Management Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MNU.U.TO",
+   "instruments": [
+    {
+     "name": "PurposeCshMgtNC HgUS",
+     "symbol": "MNU.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TUEX",
+   "name": "TD Active U.S. Enhanced Dividend CAD Hedged ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TUEX.TO",
+   "instruments": [
+    {
+     "name": "TD ActvUS EnhncDivHg",
+     "symbol": "TUEX"
+    }
+   ]
+  },
+  {
+   "symbol": "TBNK",
+   "name": "TD Canadian Bank Dividend Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBNK.TO",
+   "instruments": [
+    {
+     "name": "TD Cdn Bank Div Un",
+     "symbol": "TBNK"
+    }
+   ]
+  },
+  {
+   "symbol": "TECX",
+   "name": "TD Global Technology Leaders CAD Hedged Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TECX.TO",
+   "instruments": [
+    {
+     "name": "TD Glb TechLdr CA Hg",
+     "symbol": "TECX"
+    }
+   ]
+  },
+  {
+   "symbol": "VLT",
+   "name": "Volt Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VLT.V",
+   "instruments": [
+    {
+     "name": "Volt Lithium Corp.",
+     "symbol": "VLT"
+    }
+   ]
+  },
+  {
+   "symbol": "BHRB",
+   "name": "Burke \u0026 Herbert Financial Services Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NEXI"
+   "yahoo_symbol": "BHRB"
+  },
+  {
+   "symbol": "GIA",
+   "name": "GigCapital 5, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIA"
+  },
+  {
+   "symbol": "NLTX",
+   "name": "Neoleukin Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NLTX"
   }
  ],
  "removed": [
   {
-   "symbol": "HZON.W",
-   "name": "Horizon Acquisition Corporation II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "symbol": "EUCRW",
+   "name": "Eucrates Biomedical Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EUCRW"
+  },
+  {
+   "symbol": "NLTX",
+   "name": "Neoleukin Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NLTX"
+  },
+  {
+   "symbol": "EUCR",
+   "name": "Eucrates Biomedical Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EUCR"
+  },
+  {
+   "symbol": "IQMD",
+   "name": "Intelligent Medicine Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IQMD"
+  },
+  {
+   "symbol": "IMH",
+   "name": "Impac Mortgage Holdings, Inc. Common Stock ",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "HZON.W"
+   "yahoo_symbol": "IMH"
   },
   {
-   "symbol": "NHICW",
-   "name": "NewHold Investment Corp. II - Warrant",
+   "symbol": "IQMDW",
+   "name": "Intelligent Medicine Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NHICW"
+   "yahoo_symbol": "IQMDW"
   },
   {
-   "symbol": "AMBC.W",
-   "name": "Ambac Financial Group, Inc. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AMBC.W"
+   "symbol": "EUCRU",
+   "name": "Eucrates Biomedical Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EUCRU"
   },
   {
-   "symbol": "HZON.U",
-   "name": "Horizon Acquisition Corporation II Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "HZON.U"
+   "symbol": "CPR",
+   "name": "Allied Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CPR.V",
+   "instruments": [
+    {
+     "name": "Allied Copper Corp.",
+     "symbol": "CPR"
+    }
+   ]
   },
   {
-   "symbol": "HZON",
-   "name": "Horizon Acquisition Corporation II Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "HZON"
-  },
-  {
-   "symbol": "NEXI",
-   "name": "NexImmune, Inc. - Common Stock",
+   "symbol": "IQMDU",
+   "name": "Intelligent Medicine Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NEXI"
-  },
-  {
-   "symbol": "NHICU",
-   "name": "NewHold Investment Corp. II - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NHICU"
-  },
-  {
-   "symbol": "NHIC",
-   "name": "NewHold Investment Corp. II - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NHIC"
+   "yahoo_symbol": "IQMDU"
   }
  ]
 }
