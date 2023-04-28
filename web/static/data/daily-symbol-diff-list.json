@@ -1,144 +1,60 @@
 {
  "added": [
   {
-   "symbol": "MNU.U",
-   "name": "Purpose USD Cash Management Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "MNU.U.TO",
-   "instruments": [
-    {
-     "name": "PurposeCshMgtNC HgUS",
-     "symbol": "MNU.U"
-    }
-   ]
+   "symbol": "SBXC",
+   "name": "SilverBox Corp III Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXC"
   },
   {
-   "symbol": "TUEX",
-   "name": "TD Active U.S. Enhanced Dividend CAD Hedged ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TUEX.TO",
-   "instruments": [
-    {
-     "name": "TD ActvUS EnhncDivHg",
-     "symbol": "TUEX"
-    }
-   ]
-  },
-  {
-   "symbol": "TBNK",
-   "name": "TD Canadian Bank Dividend Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TBNK.TO",
-   "instruments": [
-    {
-     "name": "TD Cdn Bank Div Un",
-     "symbol": "TBNK"
-    }
-   ]
-  },
-  {
-   "symbol": "TECX",
-   "name": "TD Global Technology Leaders CAD Hedged Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TECX.TO",
-   "instruments": [
-    {
-     "name": "TD Glb TechLdr CA Hg",
-     "symbol": "TECX"
-    }
-   ]
-  },
-  {
-   "symbol": "VLT",
-   "name": "Volt Lithium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VLT.V",
-   "instruments": [
-    {
-     "name": "Volt Lithium Corp.",
-     "symbol": "VLT"
-    }
-   ]
-  },
-  {
-   "symbol": "BHRB",
-   "name": "Burke \u0026 Herbert Financial Services Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BHRB"
-  },
-  {
-   "symbol": "GIA",
-   "name": "GigCapital 5, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GIA"
-  },
-  {
-   "symbol": "NLTX",
-   "name": "Neoleukin Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NLTX"
+   "symbol": "SBXC.W",
+   "name": "SilverBox Corp III Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXC.W"
   }
  ],
  "removed": [
   {
-   "symbol": "EUCRW",
-   "name": "Eucrates Biomedical Acquisition Corp. - Warrant",
+   "symbol": "NESRW",
+   "name": "National Energy Services Reunited Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EUCRW"
+   "yahoo_symbol": "NESRW"
   },
   {
-   "symbol": "NLTX",
-   "name": "Neoleukin Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NLTX"
-  },
-  {
-   "symbol": "EUCR",
-   "name": "Eucrates Biomedical Acquisition Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EUCR"
-  },
-  {
-   "symbol": "IQMD",
-   "name": "Intelligent Medicine Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IQMD"
-  },
-  {
-   "symbol": "IMH",
-   "name": "Impac Mortgage Holdings, Inc. Common Stock ",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "IMH"
-  },
-  {
-   "symbol": "IQMDW",
-   "name": "Intelligent Medicine Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IQMDW"
-  },
-  {
-   "symbol": "EUCRU",
-   "name": "Eucrates Biomedical Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EUCRU"
-  },
-  {
-   "symbol": "CPR",
-   "name": "Allied Copper Corp.",
+   "symbol": "ESTW",
+   "name": "Eastower Wireless Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CPR.V",
+   "yahoo_symbol": "ESTW.V",
    "instruments": [
     {
-     "name": "Allied Copper Corp.",
-     "symbol": "CPR"
+     "name": "Eastower Wireless Inc.",
+     "symbol": "ESTW"
     }
    ]
   },
   {
-   "symbol": "IQMDU",
-   "name": "Intelligent Medicine Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IQMDU"
+   "symbol": "PRVB",
+   "name": "Provention Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PRVB"
+  },
+  {
+   "symbol": "CEMI",
+   "name": "Chembio Diagnostics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CEMI"
+  },
+  {
+   "symbol": "NESR",
+   "name": "National Energy Services Reunited Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NESR"
+  },
+  {
+   "symbol": "CSII",
+   "name": "Cardiovascular Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSII"
   }
  ]
 }
