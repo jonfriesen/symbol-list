@@ -1,5 +1,5 @@
 {
- "date": "2023-04-28",
+ "date": "2023-05-01",
  "data": [
   {
    "symbol": "ONE",
@@ -610,22 +610,6 @@
     {
      "name": "Aloro Mining Corp.",
      "symbol": "AORO"
-    }
-   ]
-  },
-  {
-   "symbol": "ACOG",
-   "name": "Alpha Cognition Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ACOG.V",
-   "instruments": [
-    {
-     "name": "Alpha Cognition Inc.",
-     "symbol": "ACOG"
-    },
-    {
-     "name": "Alpha Cognition Inc. wt 01Oct2023",
-     "symbol": "ACOG.WT"
     }
    ]
   },
@@ -5966,18 +5950,6 @@
    ]
   },
   {
-   "symbol": "ESGO.P",
-   "name": "ESG Capital 1 Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ESGO.P.V",
-   "instruments": [
-    {
-     "name": "ESG Capital 1 Inc.",
-     "symbol": "ESGO.P"
-    }
-   ]
-  },
-  {
    "symbol": "ESGW",
    "name": "ESG Global Impact Capital Inc.",
    "exchange": "TSXV",
@@ -6070,6 +6042,18 @@
     {
      "name": "European Electric Metals Inc.",
      "symbol": "EVX"
+    }
+   ]
+  },
+  {
+   "symbol": "FIN",
+   "name": "European Energy Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FIN.V",
+   "instruments": [
+    {
+     "name": "European Energy Metals Corp.",
+     "symbol": "FIN"
     }
    ]
   },
@@ -6890,6 +6874,18 @@
     {
      "name": "FuelPositive Corporation",
      "symbol": "NHHH"
+    }
+   ]
+  },
+  {
+   "symbol": "FCLI",
+   "name": "Full Circle Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCLI.V",
+   "instruments": [
+    {
+     "name": "Full Circle Lithium Corp.",
+     "symbol": "FCLI"
     }
    ]
   },
@@ -8718,18 +8714,6 @@
    ]
   },
   {
-   "symbol": "HILO",
-   "name": "Hilo Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HILO.V",
-   "instruments": [
-    {
-     "name": "Hilo Mining Ltd.",
-     "symbol": "HILO"
-    }
-   ]
-  },
-  {
    "symbol": "HIRE",
    "name": "Hire Technologies Inc.",
    "exchange": "TSXV",
@@ -10304,8 +10288,8 @@
      "symbol": "KWE"
     },
     {
-     "name": "Kwesst Micro Systems Inc. wt 29Apr2023",
-     "symbol": "KWE.WT"
+     "name": "Kwesst Micro Systems Inc. wt 01May2028",
+     "symbol": "KWE.WT.U"
     }
    ]
   },
@@ -32402,22 +32386,6 @@
    ]
   },
   {
-   "symbol": "CBD.U",
-   "name": "HempFusion Wellness Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CBD.U.TO",
-   "instruments": [
-    {
-     "name": "HempFusion Well J US",
-     "symbol": "CBD.U"
-    },
-    {
-     "name": "HempFusionJ US IPOWt",
-     "symbol": "CBD.WT.V"
-    }
-   ]
-  },
-  {
    "symbol": "HRX",
    "name": "Heroux-Devtek Inc.",
    "exchange": "TSX",
@@ -51186,24 +51154,6 @@
    "yahoo_symbol": "CIGI"
   },
   {
-   "symbol": "CIIG",
-   "name": "CIIG Capital Partners II, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CIIG"
-  },
-  {
-   "symbol": "CIIGU",
-   "name": "CIIG Capital Partners II, Inc. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CIIGU"
-  },
-  {
-   "symbol": "CIIGW",
-   "name": "CIIG Capital Partners II, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CIIGW"
-  },
-  {
    "symbol": "CIL",
    "name": "VictoryShares International Volatility Wtd ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -66168,24 +66118,6 @@
    "yahoo_symbol": "ORGS"
   },
   {
-   "symbol": "ORIA",
-   "name": "Orion Biotech Opportunities Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ORIA"
-  },
-  {
-   "symbol": "ORIAU",
-   "name": "Orion Biotech Opportunities Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ORIAU"
-  },
-  {
-   "symbol": "ORIAW",
-   "name": "Orion Biotech Opportunities Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ORIAW"
-  },
-  {
    "symbol": "ORIC",
    "name": "Oric Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68574,18 +68506,6 @@
    "yahoo_symbol": "QOMOW"
   },
   {
-   "symbol": "QQC",
-   "name": "Simplify Nasdaq 100 PLUS Convexity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QQC"
-  },
-  {
-   "symbol": "QQD",
-   "name": "Simplify Nasdaq 100 PLUS Downside Convexity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QQD"
-  },
-  {
    "symbol": "QQEW",
    "name": "First Trust NASDAQ-100 Equal Weighted Index Fund",
    "exchange": "NASDAQ Global MarketSM",
@@ -68780,19 +68700,19 @@
   {
    "symbol": "RACY",
    "name": "Relativity Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RACY"
   },
   {
    "symbol": "RACYU",
    "name": "Relativity Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RACYU"
   },
   {
    "symbol": "RACYW",
    "name": "Relativity Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RACYW"
   },
   {
@@ -70972,24 +70892,6 @@
    "name": "Skyward Specialty Insurance Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SKWD"
-  },
-  {
-   "symbol": "SKYA",
-   "name": "Skydeck Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SKYA"
-  },
-  {
-   "symbol": "SKYAU",
-   "name": "Skydeck Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SKYAU"
-  },
-  {
-   "symbol": "SKYAW",
-   "name": "Skydeck Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SKYAW"
   },
   {
    "symbol": "SKYT",
@@ -73528,6 +73430,12 @@
    "name": "Tremor International Ltd. - American Depository Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TRMR"
+  },
+  {
+   "symbol": "TRNR",
+   "name": "Interactive Strength Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRNR"
   },
   {
    "symbol": "TRNS",
@@ -87588,10 +87496,10 @@
    "yahoo_symbol": "IT"
   },
   {
-   "symbol": "ITCB",
-   "name": "Itau CorpBanca American Depositary Shares (each representing 1,500 shares of Common Stock, no par value)",
+   "symbol": "ITCL",
+   "name": "Banco Itau Chile American Depositary Shares (each representing 1,500 shares of Common Stock)",
    "exchange": "NYSE",
-   "yahoo_symbol": "ITCB"
+   "yahoo_symbol": "ITCL"
   },
   {
    "symbol": "ITGR",
