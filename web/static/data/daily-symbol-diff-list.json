@@ -1,96 +1,138 @@
 {
  "added": [
   {
-   "symbol": "TMTC",
-   "name": "TMT Acquisition Corp - Ordinary Shares",
+   "symbol": "CAFG",
+   "name": "Pacer US Small Cap Cash Cows Growth Leaders ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TMTC"
+   "yahoo_symbol": "CAFG"
   },
   {
-   "symbol": "TMTCR",
-   "name": "TMT Acquisition Corp - Rights",
+   "symbol": "GODNU",
+   "name": "Golden Star Acquisition Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TMTCR"
+   "yahoo_symbol": "GODNU"
   },
   {
-   "symbol": "ZAPP",
-   "name": "Zapp Electric Vehicles Group Limited - Ordinary shares",
+   "symbol": "INAQ",
+   "name": "Insight Acquisition Corp. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZAPP"
+   "yahoo_symbol": "INAQ"
   },
   {
-   "symbol": "ZAPPW",
-   "name": "Zapp Electric Vehicles Group Limited - Warrant",
+   "symbol": "INAQU",
+   "name": "Insight Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INAQU"
+  },
+  {
+   "symbol": "INAQW",
+   "name": "Insight Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZAPPW"
+   "yahoo_symbol": "INAQW"
+  },
+  {
+   "symbol": "MREO",
+   "name": "Mereo BioPharma Group plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MREO"
+  },
+  {
+   "symbol": "ONCR",
+   "name": "Oncorus, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONCR"
   }
  ],
  "removed": [
   {
-   "symbol": "CHEKZ",
-   "name": "Check-Cap Ltd. - Series C Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CHEKZ"
-  },
-  {
-   "symbol": "IMV",
-   "name": "IMV Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "IMV.TO",
-   "instruments": [
-    {
-     "name": "IMV Inc. J",
-     "symbol": "IMV"
-    }
-   ]
-  },
-  {
-   "symbol": "INAQ.U",
-   "name": "Insight Acquisition Corp. Units",
+   "symbol": "FRC$J",
+   "name": "FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.70% Noncumulative Perpetual Series J Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "INAQ.U"
+   "yahoo_symbol": "FRC$J"
   },
   {
-   "symbol": "TRAQ.W",
-   "name": "Trine II Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "symbol": "BBBY",
+   "name": "Bed Bath \u0026 Beyond Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BBBY"
+  },
+  {
+   "symbol": "FRC$K",
+   "name": "FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.125% Noncumulative Perpetual Series K Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "TRAQ.W"
+   "yahoo_symbol": "FRC$K"
   },
   {
-   "symbol": "TRAQ",
-   "name": "Trine II Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TRAQ"
-  },
-  {
-   "symbol": "OSH",
-   "name": "Oak Street Health, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OSH"
-  },
-  {
-   "symbol": "LMST",
-   "name": "Limestone Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LMST"
-  },
-  {
-   "symbol": "INAQ",
-   "name": "Insight Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "INAQ"
-  },
-  {
-   "symbol": "IBIT",
-   "name": "Defiance Daily Short Digitizing the Economy ETF",
+   "symbol": "ONCR",
+   "name": "Oncorus, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IBIT"
+   "yahoo_symbol": "ONCR"
   },
   {
-   "symbol": "TRAQ.U",
-   "name": "Trine II Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",
+   "symbol": "MAXR",
+   "name": "Maxar Technologies Inc.",
    "exchange": "NYSE",
-   "yahoo_symbol": "TRAQ.U"
+   "yahoo_symbol": "MAXR"
+  },
+  {
+   "symbol": "FRC",
+   "name": "FIRST REPUBLIC BANK Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRC"
+  },
+  {
+   "symbol": "MREO",
+   "name": "Mereo BioPharma Group plc - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MREO"
+  },
+  {
+   "symbol": "FRC$N",
+   "name": "First Republic Bank Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.500% Noncumulative Perpetual Series N Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRC$N"
+  },
+  {
+   "symbol": "FRC$I",
+   "name": "FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.50% Noncumulative Perpetual Series I Preferred Stock, par value $0.01 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRC$I"
+  },
+  {
+   "symbol": "ADALU",
+   "name": "Anthemis Digital Acquisitions I Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADALU"
+  },
+  {
+   "symbol": "ADAL",
+   "name": "Anthemis Digital Acquisitions I Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADAL"
+  },
+  {
+   "symbol": "ADALW",
+   "name": "Anthemis Digital Acquisitions I Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADALW"
+  },
+  {
+   "symbol": "FRC$M",
+   "name": "FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 4.000% Noncumulative Perpetual Series M Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRC$M"
+  },
+  {
+   "symbol": "FRC$H",
+   "name": "FIRST REPUBLIC BANK Depositary Shares, each representing a 1/40th interest in a share of 5.125% Noncumulative Perpetual Series H Preferred Stock, par value $0.01 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRC$H"
+  },
+  {
+   "symbol": "FRC$L",
+   "name": "FIRST REPUBLIC BANK Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.250% Noncumulative Perpetual Series L Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRC$L"
   }
  ]
 }
