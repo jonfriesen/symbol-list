@@ -1,126 +1,120 @@
 {
  "added": [
   {
-   "symbol": "OSIX",
-   "name": "Oceansix Future Paths Ltd.",
+   "symbol": "ALDD.P",
+   "name": "ALDD Ventures Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "OSIX.V",
+   "yahoo_symbol": "ALDD.P.V",
    "instruments": [
     {
-     "name": "Oceansix Future Paths Ltd.",
-     "symbol": "OSIX"
+     "name": "ALDD Ventures Corp.",
+     "symbol": "ALDD.P"
     }
    ]
   },
   {
-   "symbol": "KVUE",
-   "name": "Kenvue Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KVUE"
+   "symbol": "ZLTO",
+   "name": "BULGOLD Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZLTO.V",
+   "instruments": [
+    {
+     "name": "BULGOLD Inc.",
+     "symbol": "ZLTO"
+    }
+   ]
   },
   {
-   "symbol": "CGEN",
-   "name": "Compugen Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGEN"
+   "symbol": "CGC",
+   "name": "Canadian Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CGC.V",
+   "instruments": [
+    {
+     "name": "Canadian Gold Corp.",
+     "symbol": "CGC"
+    }
+   ]
   },
   {
-   "symbol": "EVGN",
-   "name": "Evogene Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EVGN"
+   "symbol": "SGD",
+   "name": "Snowline Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGD.V",
+   "instruments": [
+    {
+     "name": "Snowline Gold Corp.",
+     "symbol": "SGD"
+    }
+   ]
   },
   {
-   "symbol": "LPTX",
-   "name": "Leap Therapeutics, Inc. - Common Stock",
+   "symbol": "EGLX",
+   "name": "Enthusiast Gaming Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LPTX"
-  },
-  {
-   "symbol": "SPPI",
-   "name": "Spectrum Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPPI"
-  },
-  {
-   "symbol": "UTRS",
-   "name": "Minerva Surgical, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UTRS"
-  },
-  {
-   "symbol": "ZYNE",
-   "name": "Zynerba Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZYNE"
+   "yahoo_symbol": "EGLX"
   }
  ],
  "removed": [
   {
-   "symbol": "VLATU",
-   "name": "Valor Latitude Acquisition Corp. - Unit",
+   "symbol": "BRIV",
+   "name": "B. Riley Principal 250 Merger Corp. - Class A common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VLATU"
+   "yahoo_symbol": "BRIV"
   },
   {
-   "symbol": "VLATW",
-   "name": "Valor Latitude Acquisition Corp. - Warrant",
+   "symbol": "BRIVU",
+   "name": "B. Riley Principal 250 Merger Corp. - Units",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VLATW"
+   "yahoo_symbol": "BRIVU"
   },
   {
-   "symbol": "UTRS",
-   "name": "Minerva Surgical, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UTRS"
+   "symbol": "JNCE",
+   "name": "Jounce Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "JNCE"
   },
   {
-   "symbol": "LPTX",
-   "name": "Leap Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LPTX"
-  },
-  {
-   "symbol": "VLAT",
-   "name": "Valor Latitude Acquisition Corp. - Class A Ordinary Shares",
+   "symbol": "BRIVW",
+   "name": "B. Riley Principal 250 Merger Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VLAT"
+   "yahoo_symbol": "BRIVW"
   },
   {
-   "symbol": "AKMY",
-   "name": "K.B. Recycling Industries Ltd.",
+   "symbol": "BUD",
+   "name": "Satori Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AKMY.V",
+   "yahoo_symbol": "BUD.V",
    "instruments": [
     {
-     "name": "K.B. Recycling Industries Ltd.",
-     "symbol": "AKMY"
+     "name": "Satori Resources Inc.",
+     "symbol": "BUD"
     }
    ]
   },
   {
-   "symbol": "CGEN",
-   "name": "Compugen Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CGEN"
+   "symbol": "BSMX",
+   "name": "Banco Santander Mexico, S.A., Institucion de Banca Multiple, Grupo Financiero Santander Mexico",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSMX"
   },
   {
-   "symbol": "EVGN",
-   "name": "Evogene Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVGN"
+   "symbol": "SCRS",
+   "name": "St Charles Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCRS.V",
+   "instruments": [
+    {
+     "name": "St Charles Resources Inc.",
+     "symbol": "SCRS"
+    }
+   ]
   },
   {
-   "symbol": "ZYNE",
-   "name": "Zynerba Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZYNE"
-  },
-  {
-   "symbol": "SPPI",
-   "name": "Spectrum Pharmaceuticals, Inc. - Common Stock",
+   "symbol": "EGLX",
+   "name": "Enthusiast Gaming Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SPPI"
+   "yahoo_symbol": "EGLX"
   }
  ]
 }
