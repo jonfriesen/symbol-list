@@ -1,120 +1,76 @@
 {
  "added": [
   {
-   "symbol": "ALDD.P",
-   "name": "ALDD Ventures Corp.",
+   "symbol": "MPM.WT",
+   "name": "Millennial Precious Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ALDD.P.V",
+   "yahoo_symbol": "MPM.WT.V",
    "instruments": [
     {
-     "name": "ALDD Ventures Corp.",
-     "symbol": "ALDD.P"
+     "name": "Millennial Precious Metals Corp. wt 16Jun2024",
+     "symbol": "MPM.WT"
     }
    ]
   },
   {
-   "symbol": "ZLTO",
-   "name": "BULGOLD Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ZLTO.V",
-   "instruments": [
-    {
-     "name": "BULGOLD Inc.",
-     "symbol": "ZLTO"
-    }
-   ]
+   "symbol": "ALCYU",
+   "name": "Alchemy Investments Acquisition Corp 1 - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALCYU"
   },
   {
-   "symbol": "CGC",
-   "name": "Canadian Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CGC.V",
-   "instruments": [
-    {
-     "name": "Canadian Gold Corp.",
-     "symbol": "CGC"
-    }
-   ]
+   "symbol": "SLRN",
+   "name": "ACELYRIN, INC. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SLRN"
   },
   {
-   "symbol": "SGD",
-   "name": "Snowline Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SGD.V",
-   "instruments": [
-    {
-     "name": "Snowline Gold Corp.",
-     "symbol": "SGD"
-    }
-   ]
-  },
-  {
-   "symbol": "EGLX",
-   "name": "Enthusiast Gaming Holdings Inc. - Common Stock",
+   "symbol": "TPCS",
+   "name": "TechPrecision Corporation - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EGLX"
+   "yahoo_symbol": "TPCS"
+  },
+  {
+   "symbol": "VSTM",
+   "name": "Verastem, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSTM"
   }
  ],
  "removed": [
   {
-   "symbol": "BRIV",
-   "name": "B. Riley Principal 250 Merger Corp. - Class A common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BRIV"
+   "symbol": "VSTM",
+   "name": "Verastem, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSTM"
   },
   {
-   "symbol": "BRIVU",
-   "name": "B. Riley Principal 250 Merger Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BRIVU"
-  },
-  {
-   "symbol": "JNCE",
-   "name": "Jounce Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "JNCE"
-  },
-  {
-   "symbol": "BRIVW",
-   "name": "B. Riley Principal 250 Merger Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BRIVW"
-  },
-  {
-   "symbol": "BUD",
-   "name": "Satori Resources Inc.",
+   "symbol": "HTC",
+   "name": "HTC Purenergy Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "BUD.V",
+   "yahoo_symbol": "HTC.V",
    "instruments": [
     {
-     "name": "Satori Resources Inc.",
-     "symbol": "BUD"
+     "name": "HTC Purenergy Inc",
+     "symbol": "HTC"
     }
    ]
   },
   {
-   "symbol": "BSMX",
-   "name": "Banco Santander Mexico, S.A., Institucion de Banca Multiple, Grupo Financiero Santander Mexico",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BSMX"
-  },
-  {
-   "symbol": "SCRS",
-   "name": "St Charles Resources Inc.",
+   "symbol": "MPM",
+   "name": "Millennial Precious Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SCRS.V",
+   "yahoo_symbol": "MPM.V",
    "instruments": [
     {
-     "name": "St Charles Resources Inc.",
-     "symbol": "SCRS"
+     "name": "Millennial Precious Metals Corp.",
+     "symbol": "MPM"
+    },
+    {
+     "name": "Millennial Precious Metals Corp. wt 16Jun2024",
+     "symbol": "MPM.WT"
     }
    ]
-  },
-  {
-   "symbol": "EGLX",
-   "name": "Enthusiast Gaming Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EGLX"
   }
  ]
 }

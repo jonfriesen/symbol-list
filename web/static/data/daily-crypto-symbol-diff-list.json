@@ -1,26 +1,13 @@
 {
  "added": [
   {
-   "symbol": "CRADLE",
-   "name": "Cradle of Sins (CRADLE)",
-   "built_on": "BNB"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "ZKBOB",
-   "name": "BOB (ZKBOB)"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "MONG",
+   "name": "MongCoin (MONG)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "DROPS",
-   "name": "Drops (DROPS)"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
   },
   {
    "symbol": "G",
@@ -28,20 +15,19 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "OCTA",
-   "name": "OctaSpace (OCTA)"
+   "symbol": "DONTBUYMEME",
+   "name": "Meme (DONTBUYMEME)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "DOP",
-   "name": "Drops (DOP)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BOB",
-   "name": "BOB (BOB)",
-   "built_on": "MATIC"
+   "symbol": "MEME",
+   "name": "Meme (MEME)"
   }
  ]
 }
