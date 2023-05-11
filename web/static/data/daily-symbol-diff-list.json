@@ -1,334 +1,142 @@
 {
  "added": [
   {
-   "symbol": "RGQL",
-   "name": "RBC Target 2024 Government Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RGQL.TO",
-   "instruments": [
-    {
-     "name": "RBC Target24 GovtBnd",
-     "symbol": "RGQL"
-    }
-   ]
+   "symbol": "REE",
+   "name": "REE Automotive Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "REE"
   },
   {
-   "symbol": "RGQN",
-   "name": "RBC Target 2025 Government Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RGQN.TO",
-   "instruments": [
-    {
-     "name": "RBC Targt25 GovtBond",
-     "symbol": "RGQN"
-    }
-   ]
+   "symbol": "ROSE",
+   "name": "Rose Hill Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROSE"
   },
   {
-   "symbol": "RGQO",
-   "name": "RBC Target 2026 Government Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RGQO.TO",
-   "instruments": [
-    {
-     "name": "RBC Targt26 GovtBond",
-     "symbol": "RGQO"
-    }
-   ]
+   "symbol": "ROSEU",
+   "name": "Rose Hill Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROSEU"
   },
   {
-   "symbol": "RGQP",
-   "name": "RBC Target 2027 Government Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RGQP.TO",
-   "instruments": [
-    {
-     "name": "RBC Targt27 GovtBond",
-     "symbol": "RGQP"
-    }
-   ]
-  },
+   "symbol": "ROSEW",
+   "name": "Rose Hill Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROSEW"
+  }
+ ],
+ "removed": [
   {
-   "symbol": "RGQQ",
-   "name": "RBC Target 2028 Government Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RGQQ.TO",
-   "instruments": [
-    {
-     "name": "RBC Targt28 GovtBond",
-     "symbol": "RGQQ"
-    }
-   ]
-  },
-  {
-   "symbol": "RGQR",
-   "name": "RBC Target 2029 Government Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RGQR.TO",
-   "instruments": [
-    {
-     "name": "RBC Targt29 GovtBond",
-     "symbol": "RGQR"
-    }
-   ]
-  },
-  {
-   "symbol": "KLDC",
-   "name": "Kirkland Lake Discoveries Corp.",
+   "symbol": "NXH",
+   "name": "Next Hydrogen Solutions Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "KLDC.V",
+   "yahoo_symbol": "NXH.V",
    "instruments": [
     {
-     "name": "Kirkland Lake Discoveries Corp.",
-     "symbol": "KLDC"
+     "name": "Next Hydrogen Solutions Inc.",
+     "symbol": "NXH"
     }
    ]
   },
   {
-   "symbol": "SBIG",
-   "name": "SpringBig Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SBIG"
+   "symbol": "SCZ",
+   "name": "Santacruz Silver Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCZ.V",
+   "instruments": [
+    {
+     "name": "Santacruz Silver Mining Ltd.",
+     "symbol": "SCZ"
+    }
+   ]
   },
   {
-   "symbol": "SBIGW",
-   "name": "SpringBig Holdings, Inc. - Warrant",
+   "symbol": "IMV",
+   "name": "IMV Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SBIGW"
+   "yahoo_symbol": "IMV"
+  },
+  {
+   "symbol": "ROSEU",
+   "name": "Rose Hill Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROSEU"
+  },
+  {
+   "symbol": "TAU",
+   "name": "Thesis Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TAU.V",
+   "instruments": [
+    {
+     "name": "Thesis Gold Inc.",
+     "symbol": "TAU"
+    }
+   ]
   },
   {
    "symbol": "SGE",
    "name": "Strong Global Entertainment, Inc. Class A Common Voting Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "SGE"
-  }
- ],
- "removed": [
+  },
   {
-   "symbol": "SLHG",
-   "name": "Skylight Health Group Inc.",
+   "symbol": "AUL",
+   "name": "Aurelius Minerals Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SLHG.V",
+   "yahoo_symbol": "AUL.V",
    "instruments": [
     {
-     "name": "Skylight Health Group Inc.",
-     "symbol": "SLHG"
+     "name": "Aurelius Minerals Inc.",
+     "symbol": "AUL"
     }
    ]
   },
   {
-   "symbol": "MIT",
-   "name": "The Mint Corporation",
+   "symbol": "RLP",
+   "name": "Realia Properties Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MIT.V",
+   "yahoo_symbol": "RLP.V",
    "instruments": [
     {
-     "name": "The Mint Corporation",
-     "symbol": "MIT"
-    }
-   ]
-  },
-  {
-   "symbol": "EKG",
-   "name": "CardioComm Solutions, Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EKG.V",
-   "instruments": [
-    {
-     "name": "CardioComm Solutions, Inc.",
-     "symbol": "EKG"
-    }
-   ]
-  },
-  {
-   "symbol": "SBIG",
-   "name": "SpringBig Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SBIG"
-  },
-  {
-   "symbol": "WLCO",
-   "name": "The Well Told Company Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WLCO.V",
-   "instruments": [
-    {
-     "name": "The Well Told Company Inc.",
-     "symbol": "WLCO"
-    }
-   ]
-  },
-  {
-   "symbol": "WAR",
-   "name": "Warrior Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WAR.V",
-   "instruments": [
-    {
-     "name": "Warrior Gold Inc.",
-     "symbol": "WAR"
-    }
-   ]
-  },
-  {
-   "symbol": "PGRWW",
-   "name": "Progress Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PGRWW"
-  },
-  {
-   "symbol": "GVCIW",
-   "name": "Green Visor Financial Technology Acquisition Corp. I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GVCIW"
-  },
-  {
-   "symbol": "PGRWU",
-   "name": "Progress Acquisition Corp. - Units.",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PGRWU"
-  },
-  {
-   "symbol": "SVNA",
-   "name": "7 Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVNA"
-  },
-  {
-   "symbol": "AMR",
-   "name": "AM Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMR.V",
-   "instruments": [
-    {
-     "name": "AM Resources Corp.",
-     "symbol": "AMR"
-    }
-   ]
-  },
-  {
-   "symbol": "HIRE",
-   "name": "Hire Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HIRE.V",
-   "instruments": [
-    {
-     "name": "Hire Technologies Inc.",
-     "symbol": "HIRE"
-    }
-   ]
-  },
-  {
-   "symbol": "GVCI",
-   "name": "Green Visor Financial Technology Acquisition Corp. I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GVCI"
-  },
-  {
-   "symbol": "GVCIU",
-   "name": "Green Visor Financial Technology Acquisition Corp. I - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GVCIU"
-  },
-  {
-   "symbol": "SBIGW",
-   "name": "SpringBig Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SBIGW"
-  },
-  {
-   "symbol": "KHRN",
-   "name": "Khiron Life Sciences Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KHRN.V",
-   "instruments": [
-    {
-     "name": "Khiron Life Sciences Corp.",
-     "symbol": "KHRN"
+     "name": "Realia Properties Inc.",
+     "symbol": "RLP"
     },
     {
-     "name": "Khiron Life Scicence Corp. wt 26Nov2025",
-     "symbol": "KHRN.WT"
+     "name": "Realia Properties Inc. db. 30Sept2025",
+     "symbol": "RLP.DB.B"
     }
    ]
   },
   {
-   "symbol": "RIWI",
-   "name": "RIWI Corp.",
+   "symbol": "VDKA",
+   "name": "Forbidden Spirits Distilling Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "RIWI.V",
+   "yahoo_symbol": "VDKA.V",
    "instruments": [
     {
-     "name": "RIWI Corp.",
-     "symbol": "RIWI"
+     "name": "Forbidden Spirits Distilling Corp.",
+     "symbol": "VDKA"
     }
    ]
   },
   {
-   "symbol": "BXR",
-   "name": "Blue River Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BXR.V",
-   "instruments": [
-    {
-     "name": "Blue River Resources Ltd.",
-     "symbol": "BXR"
-    }
-   ]
-  },
-  {
-   "symbol": "HMRK",
-   "name": "Highmark Interactive Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HMRK.V",
-   "instruments": [
-    {
-     "name": "Highmark Interactive Inc.",
-     "symbol": "HMRK"
-    }
-   ]
-  },
-  {
-   "symbol": "SVNAU",
-   "name": "7 Acquisition Corporation - Unit",
+   "symbol": "ROSEW",
+   "name": "Rose Hill Acquisition Corporation - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVNAU"
+   "yahoo_symbol": "ROSEW"
   },
   {
-   "symbol": "PGRW",
-   "name": "Progress Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PGRW"
-  },
-  {
-   "symbol": "MTC",
-   "name": "MetalCorp Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MTC.V",
-   "instruments": [
-    {
-     "name": "MetalCorp Limited",
-     "symbol": "MTC"
-    }
-   ]
-  },
-  {
-   "symbol": "SVNAW",
-   "name": "7 Acquisition Corporation - Warrant",
+   "symbol": "REE",
+   "name": "REE Automotive Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVNAW"
+   "yahoo_symbol": "REE"
   },
   {
-   "symbol": "FGC",
-   "name": "Frontline Gold Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FGC.V",
-   "instruments": [
-    {
-     "name": "Frontline Gold Corporation",
-     "symbol": "FGC"
-    }
-   ]
+   "symbol": "ROSE",
+   "name": "Rose Hill Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROSE"
   }
  ]
 }
