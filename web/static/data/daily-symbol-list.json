@@ -1,5 +1,5 @@
 {
- "date": "2023-05-12",
+ "date": "2023-05-15",
  "data": [
   {
    "symbol": "ONE",
@@ -1214,18 +1214,6 @@
    ]
   },
   {
-   "symbol": "ACP",
-   "name": "Arcpacific Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ACP.V",
-   "instruments": [
-    {
-     "name": "Arcpacific Resources Corp.",
-     "symbol": "ACP"
-    }
-   ]
-  },
-  {
    "symbol": "ARC",
    "name": "ARCpoint Inc.",
    "exchange": "TSXV",
@@ -1738,6 +1726,18 @@
     {
      "name": "Avante Logixx Inc.",
      "symbol": "XX"
+    }
+   ]
+  },
+  {
+   "symbol": "AVA",
+   "name": "Avante Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AVA.V",
+   "instruments": [
+    {
+     "name": "Avante Mining Corp.",
+     "symbol": "AVA"
     }
    ]
   },
@@ -10498,6 +10498,10 @@
     {
      "name": "Lion One Metals Limited",
      "symbol": "LIO"
+    },
+    {
+     "name": "Lion One Metals Limited wt 11Nov2025",
+     "symbol": "LIO.WT"
     }
    ]
   },
@@ -12410,6 +12414,18 @@
    ]
   },
   {
+   "symbol": "NWX",
+   "name": "Newport Exploration Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NWX.V",
+   "instruments": [
+    {
+     "name": "Newport Exploration Ltd.",
+     "symbol": "NWX"
+    }
+   ]
+  },
+  {
    "symbol": "NRG",
    "name": "Newrange Gold Corp.",
    "exchange": "TSXV",
@@ -12526,26 +12542,6 @@
     {
      "name": "Nexus Gold Corp.",
      "symbol": "NXS"
-    }
-   ]
-  },
-  {
-   "symbol": "GASX",
-   "name": "NG Energy International Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GASX.V",
-   "instruments": [
-    {
-     "name": "NG Energy International Corp.",
-     "symbol": "GASX"
-    },
-    {
-     "name": "NG Energy International Corp. db 20May2027",
-     "symbol": "GASX.DB"
-    },
-    {
-     "name": "NG Energy International Corp. wt 20May2027",
-     "symbol": "GASX.WT.A"
     }
    ]
   },
@@ -14922,6 +14918,10 @@
     {
      "name": "Razor Energy Corp.",
      "symbol": "RZE"
+    },
+    {
+     "name": "Razor Energy Corp. rt ex 07June2023",
+     "symbol": "RZE.RT"
     }
    ]
   },
@@ -15990,18 +15990,6 @@
     {
      "name": "Scaling Capital 1 Corp.",
      "symbol": "SKAL.P"
-    }
-   ]
-  },
-  {
-   "symbol": "SGN",
-   "name": "Scorpio Gold Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SGN.V",
-   "instruments": [
-    {
-     "name": "Scorpio Gold Corporation",
-     "symbol": "SGN"
     }
    ]
   },
@@ -46370,12 +46358,6 @@
    "yahoo_symbol": "AMTX"
   },
   {
-   "symbol": "AMV",
-   "name": "Atlis Motor Vehicles, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMV"
-  },
-  {
    "symbol": "AMWD",
    "name": "American Woodmark Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48906,24 +48888,6 @@
    "name": "BitNile Metaverse, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BNMV"
-  },
-  {
-   "symbol": "BNNR",
-   "name": "Banner Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNNR"
-  },
-  {
-   "symbol": "BNNRU",
-   "name": "Banner Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNNRU"
-  },
-  {
-   "symbol": "BNNRW",
-   "name": "Banner Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNNRW"
   },
   {
    "symbol": "BNOX",
@@ -55712,10 +55676,22 @@
    "yahoo_symbol": "FORD"
   },
   {
+   "symbol": "FORL",
+   "name": "Four Leaf Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORL"
+  },
+  {
    "symbol": "FORLU",
    "name": "Four Leaf Acquisition Corporation - Unit",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FORLU"
+  },
+  {
+   "symbol": "FORLW",
+   "name": "Four Leaf Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORLW"
   },
   {
    "symbol": "FORM",
@@ -62216,24 +62192,6 @@
    "yahoo_symbol": "LUXH"
   },
   {
-   "symbol": "LVAC",
-   "name": "LAVA Medtech Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVAC"
-  },
-  {
-   "symbol": "LVACU",
-   "name": "LAVA Medtech Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVACU"
-  },
-  {
-   "symbol": "LVACW",
-   "name": "LAVA Medtech Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVACW"
-  },
-  {
    "symbol": "LVHD",
    "name": "Franklin U.S. Low Volatility High Dividend Index ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -65166,6 +65124,12 @@
    "name": "NextPlay Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NXTP"
+  },
+  {
+   "symbol": "NXU",
+   "name": "Nxu, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXU"
   },
   {
    "symbol": "NYAX",
@@ -71834,12 +71798,6 @@
    "yahoo_symbol": "STXV"
   },
   {
-   "symbol": "SUMO",
-   "name": "Sumo Logic, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SUMO"
-  },
-  {
    "symbol": "SUNW",
    "name": "Sunworks, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -72300,12 +72258,6 @@
    "name": "ToughBuilt Industries, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TBLTW"
-  },
-  {
-   "symbol": "TBMCU",
-   "name": "Trailblazer Merger Corporation I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TBMCU"
   },
   {
    "symbol": "TBNK",
@@ -75060,12 +75012,6 @@
    "name": "VYNE Therapeutics Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VYNE"
-  },
-  {
-   "symbol": "VYNT",
-   "name": "Vyant Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VYNT"
   },
   {
    "symbol": "WABC",
@@ -87645,7 +87591,7 @@
   },
   {
    "symbol": "KAR",
-   "name": "KAR Auction Services, Inc Common Stock",
+   "name": "OPENLANE, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "KAR"
   },
@@ -90495,7 +90441,7 @@
   },
   {
    "symbol": "NML",
-   "name": "Neuberger Berman MLP and Energy Income Fund Inc. Common Stock",
+   "name": "Neuberger Berman Energy Infrastructure and Income Fund Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "NML"
   },

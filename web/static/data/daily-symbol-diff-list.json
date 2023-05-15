@@ -1,31 +1,17 @@
 {
  "added": [
   {
-   "symbol": "AUNK.P",
-   "name": "Ankh II Capital Inc.",
+   "symbol": "AVA",
+   "name": "Avante Mining Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AUNK.P.V",
+   "yahoo_symbol": "AVA.V",
    "instruments": [
     {
-     "name": "Ankh II Capital Inc.",
-     "symbol": "AUNK.P"
+     "name": "Avante Mining Corp.",
+     "symbol": "AVA"
     }
    ]
   },
-  {
-   "symbol": "BCAL",
-   "name": "Southern California Bancorp - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BCAL"
-  },
-  {
-   "symbol": "BDGS",
-   "name": "Bridges Capital Tactical ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BDGS"
-  }
- ],
- "removed": [
   {
    "symbol": "NWX",
    "name": "Newport Exploration Ltd.",
@@ -39,70 +25,128 @@
    ]
   },
   {
-   "symbol": "CORE",
-   "name": "Paycore Minerals Inc.",
+   "symbol": "FORL",
+   "name": "Four Leaf Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORL"
+  },
+  {
+   "symbol": "FORLW",
+   "name": "Four Leaf Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORLW"
+  },
+  {
+   "symbol": "NXU",
+   "name": "Nxu, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LVACW",
+   "name": "LAVA Medtech Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVACW"
+  },
+  {
+   "symbol": "GASX",
+   "name": "NG Energy International Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CORE.V",
+   "yahoo_symbol": "GASX.V",
    "instruments": [
     {
-     "name": "Paycore Minerals Inc.",
-     "symbol": "CORE"
+     "name": "NG Energy International Corp.",
+     "symbol": "GASX"
+    },
+    {
+     "name": "NG Energy International Corp. db 20May2027",
+     "symbol": "GASX.DB"
+    },
+    {
+     "name": "NG Energy International Corp. wt 20May2027",
+     "symbol": "GASX.WT.A"
     }
    ]
   },
   {
-   "symbol": "TRE",
-   "name": "Toubani Resources Inc.",
+   "symbol": "BNNRU",
+   "name": "Banner Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNNRU"
+  },
+  {
+   "symbol": "SGN",
+   "name": "Scorpio Gold Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "TRE.V",
+   "yahoo_symbol": "SGN.V",
    "instruments": [
     {
-     "name": "Toubani Resources Inc.",
-     "symbol": "TRE"
+     "name": "Scorpio Gold Corporation",
+     "symbol": "SGN"
     }
    ]
   },
   {
-   "symbol": "PER",
-   "name": "Peruvian Metals Corp.",
+   "symbol": "LVACU",
+   "name": "LAVA Medtech Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVACU"
+  },
+  {
+   "symbol": "BNNR",
+   "name": "Banner Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNNR"
+  },
+  {
+   "symbol": "TBMCU",
+   "name": "Trailblazer Merger Corporation I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMCU"
+  },
+  {
+   "symbol": "VYNT",
+   "name": "Vyant Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VYNT"
+  },
+  {
+   "symbol": "AMV",
+   "name": "Atlis Motor Vehicles, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMV"
+  },
+  {
+   "symbol": "ACP",
+   "name": "Arcpacific Resources Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PER.V",
+   "yahoo_symbol": "ACP.V",
    "instruments": [
     {
-     "name": "Peruvian Metals Corp.",
-     "symbol": "PER"
+     "name": "Arcpacific Resources Corp.",
+     "symbol": "ACP"
     }
    ]
   },
   {
-   "symbol": "SI",
-   "name": "Silvergate Capital Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SI"
+   "symbol": "BNNRW",
+   "name": "Banner Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNNRW"
   },
   {
-   "symbol": "AMI",
-   "name": "Athabasca Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMI.V",
-   "instruments": [
-    {
-     "name": "Athabasca Minerals Inc",
-     "symbol": "AMI"
-    }
-   ]
+   "symbol": "LVAC",
+   "name": "LAVA Medtech Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVAC"
   },
   {
-   "symbol": "MIMO.W",
-   "name": "Airspan Networks Holdings Inc. Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MIMO.W"
-  },
-  {
-   "symbol": "SI$A",
-   "name": "Silvergate Capital Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 5.375% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SI$A"
+   "symbol": "SUMO",
+   "name": "Sumo Logic, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SUMO"
   }
  ]
 }
