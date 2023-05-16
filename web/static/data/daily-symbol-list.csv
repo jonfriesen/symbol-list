@@ -458,6 +458,7 @@ EGR,EGR Exploration Ltd.,TSXV,EGR.V,EGR Exploration Ltd.,EGR
 EGT,Eguana Technologies Inc.,TSXV,EGT.V,Eguana Technologies Inc.,EGT
 ERA,Elcora Advanced Materials Corp.,TSXV,ERA.V,Elcora Advanced Materials Corp.,ERA
 ELBM,Electra Battery Materials Corporation,TSXV,ELBM.V,Electra Battery Materials Corporation,ELBM
+EML,Electric Metals (USA) Limited,TSXV,EML.V,Electric Metals (USA) Limited,EML
 ELEC,Electric Royalties Ltd.,TSXV,ELEC.V,Electric Royalties Ltd.,ELEC
 ECU,Element 29 Resources Inc.,TSXV,ECU.V,Element 29 Resources Inc.,ECU
 ELM,Element Lifestyle Retirement Inc.,TSXV,ELM.V,Element Lifestyle Retirement Inc.,ELM
@@ -1002,7 +1003,6 @@ NPTH,Neupath Health Inc.,TSXV,NPTH.V,Neupath Health Inc.,NPTH
 NU,NeutriSci International Inc.,TSXV,NU.V,NeutriSci International Inc.,NU
 NGE,Nevada Exploration Inc.,TSXV,NGE.V,Nevada Exploration Inc.,NGE
 NKG,Nevada King Gold Corp.,TSXV,NKG.V,Nevada King Gold Corp.,NKG
-NSC,Nevada Silver Corporation,TSXV,NSC.V,Nevada Silver Corporation,NSC
 NEV,Nevada Sunrise Metals Corporation,TSXV,NEV.V,Nevada Sunrise Metals Corporation,NEV
 NZN,Nevada Zinc Corporation,TSXV,NZN.V,Nevada Zinc Corporation,NZN
 NAU,Nevgold Corp.,TSXV,NAU.V,Nevgold Corp.,NAU
@@ -1468,7 +1468,6 @@ TBR,Timberline Resources Corporation,TSXV,TBR.V,Timberline Resources Corporation
 TLC.P,Timeless Capital Corp.,TSXV,TLC.P.V,Timeless Capital Corp.,TLC.P
 TIN,Tincorp Metals Inc.,TSXV,TIN.V,Tincorp Metals Inc.,TIN
 TK,Tinka Resources Limited,TSXV,TK.V,Tinka Resources Limited,TK
-TTD,Tinkerine Studios Ltd.,TSXV,TTD.V,Tinkerine Studios Ltd.,TTD
 TORC,TinOne Resources Inc.,TSXV,TORC.V,Tinone Resources Inc.,TORC
 TTS,Tintina Mines Ltd.,TSXV,TTS.V,Tintina Mines Ltd,TTS
 TINY,Tiny Ltd.,TSXV,TINY.V,Tiny Ltd.,TINY
@@ -4726,7 +4725,7 @@ CYAN,Cyanotech Corporation - Common Stock,NASDAQ Capital Market,CYAN
 CYBR,CyberArk Software Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CYBR
 CYCC,"Cyclacel Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,CYCC
 CYCCP,"Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock",NASDAQ Capital Market,CYCCP
-CYCN,"Cyclerion Therapeutics, Inc. - Common Stock ",NASDAQ Capital Market,CYCN
+CYCN,"Cyclerion Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CYCN
 CYN,Cyngn Inc. - Common stock,NASDAQ Capital Market,CYN
 CYRX,"CryoPort, Inc. - Common Stock",NASDAQ Capital Market,CYRX
 CYT,"Cyteir Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,CYT
@@ -6013,9 +6012,9 @@ IVCAW,Investcorp India Acquisition Corp. - Warrant,NASDAQ Global MarketSM,IVCAW
 IVCB,Investcorp Europe Acquisition Corp I - Class A Ordinary Shares,NASDAQ Global MarketSM,IVCB
 IVCBU,Investcorp Europe Acquisition Corp I - Unit,NASDAQ Global MarketSM,IVCBU
 IVCBW,Investcorp Europe Acquisition Corp I - Warrant,NASDAQ Global MarketSM,IVCBW
-IVCP,Swiftmerge Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,IVCP
-IVCPU,Swiftmerge Acquisition Corp. - Unit,NASDAQ Global MarketSM,IVCPU
-IVCPW,Swiftmerge Acquisition Corp. - Warrants,NASDAQ Global MarketSM,IVCPW
+IVCP,Swiftmerge Acquisition Corp. - Class A Ordinary Share,NASDAQ Capital Market,IVCP
+IVCPU,Swiftmerge Acquisition Corp. - Unit,NASDAQ Capital Market,IVCPU
+IVCPW,Swiftmerge Acquisition Corp. - Warrants,NASDAQ Capital Market,IVCPW
 IVDA,"Iveda Solutions, Inc. - Common Stock",NASDAQ Capital Market,IVDA
 IVDAW,"Iveda Solutions, Inc. - Warrant",NASDAQ Capital Market,IVDAW
 IVEG,iShares Emergent Food and AgTech Multisector ETF,NASDAQ Global MarketSM,IVEG
@@ -7998,7 +7997,6 @@ SYTAW,"Siyata Mobile, Inc. - Warrant",NASDAQ Capital Market,SYTAW
 SZZL,Sizzle Acquisition Corp. - Common stock,NASDAQ Global MarketSM,SZZL
 SZZLU,Sizzle Acquisition Corp. - Unit,NASDAQ Global MarketSM,SZZLU
 SZZLW,Sizzle Acquisition Corp. - Warrant,NASDAQ Global MarketSM,SZZLW
-TA,TravelCenters of America Inc.  - Common Stock,NASDAQ Global Select MarketSM,TA
 TACT,TransAct Technologies Incorporated - Common Stock,NASDAQ Global MarketSM,TACT
 TAIT,Taitron Components Incorporated - Class A Common Stock,NASDAQ Capital Market,TAIT
 TALK,"Talkspace, Inc. - Common Stock",NASDAQ Global Select MarketSM,TALK
@@ -8027,6 +8025,8 @@ TBLAW,Taboola.com Ltd. - Warrant,NASDAQ Global Select MarketSM,TBLAW
 TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,NASDAQ Global Select MarketSM,TBLD
 TBLT,"ToughBuilt Industries, Inc. - Common Stock",NASDAQ Capital Market,TBLT
 TBLTW,"ToughBuilt Industries, Inc. - Warrant",NASDAQ Capital Market,TBLTW
+TBMC,Trailblazer Merger Corporation I - Class A Common Stock,NASDAQ Global MarketSM,TBMC
+TBMCR,Trailblazer Merger Corporation I - Rights,NASDAQ Global MarketSM,TBMCR
 TBNK,Territorial Bancorp Inc. - Common Stock,NASDAQ Global Select MarketSM,TBNK
 TBPH,"Theravance Biopharma, Inc. - Ordinary Shares",NASDAQ Global MarketSM,TBPH
 TC,TuanChe Limited - American Depositary Shares,NASDAQ Capital Market,TC
@@ -8414,9 +8414,6 @@ VMCAU,Valuence Merger Corp. I - Unit,NASDAQ Global MarketSM,VMCAU
 VMCAW,Valuence Merger Corp. I - Warrant,NASDAQ Global MarketSM,VMCAW
 VMD,"Viemed Healthcare, Inc. - Common Shares",NASDAQ Capital Market,VMD
 VMEO,"Vimeo, Inc. - Common Stock",NASDAQ Global Select MarketSM,VMEO
-VMGA,VMG Consumer Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,VMGA
-VMGAU,VMG Consumer Acquisition Corp. - Unit,NASDAQ Global MarketSM,VMGAU
-VMGAW,VMG Consumer Acquisition Corp. - Warrant,NASDAQ Global MarketSM,VMGAW
 VNDA,Vanda Pharmaceuticals Inc. - Common Stock,NASDAQ Global MarketSM,VNDA
 VNET,"VNET Group, Inc. - American Depositary Shares",NASDAQ Global Select MarketSM,VNET
 VNOM,Viper Energy Partners LP - Common Unit,NASDAQ Global Select MarketSM,VNOM
@@ -11346,7 +11343,6 @@ PJT,PJT Partners Inc. Class A Common Stock,NYSE,PJT
 PK,Park Hotels & Resorts Inc. Common Stock ,NYSE,PK
 PKE,Park Aerospace Corp. Common Stock,NYSE,PKE
 PKG,Packaging Corporation of America Common Stock,NYSE,PKG
-PKI,"PerkinElmer, Inc. Common Stock",NYSE,PKI
 PKST,Peakstone Realty Trust Common Shares,NYSE,PKST
 PKX,POSCO Holdings Inc. American Depositary Shares (Each representing 1/4th of a share of Common Stock),NYSE,PKX
 PL,Planet Labs PBC Class A Common Stock,NYSE,PL
@@ -11603,6 +11599,7 @@ RTX,Raytheon Technologies Corporation Common Stock,NYSE,RTX
 RVLV,"Revolve Group, Inc. Class A Common Stock",NYSE,RVLV
 RVP,"Retractable Technologies, Inc. Common Stock",NYSE MKT,RVP
 RVT,"Royce Value Trust, Inc. Common Stock",NYSE,RVT
+RVTY,"Revvity, Inc. Common Stock",NYSE,RVTY
 RWT,"Redwood Trust, Inc. Common Stock",NYSE,RWT
 RWT$A,"Redwood Trust, Inc. 10.00% Series A Fixed-Rate Reset Cumulative Redeemable Preferred Stock",NYSE,RWT$A
 RXO,"RXO, Inc. Common Stock",NYSE,RXO
@@ -11700,6 +11697,7 @@ SFB,Stifel Financial Corporation 5.20% Senior Notes due 2047,NYSE,SFB
 SFBS,"ServisFirst Bancshares, Inc. Common Stock",NYSE,SFBS
 SFL,SFL Corporation Ltd,NYSE,SFL
 SG,"Sweetgreen, Inc. Class A Common Stock",NYSE,SG
+SGE,"Strong Global Entertainment, Inc. Class A Common Voting Shares",NYSE MKT,SGE
 SGG,iPathA Series B Bloomberg Sugar Subindex Total Return ETN,NYSE ARCA,SGG
 SGHC,Super Group (SGHC) Limited Ordinary Shares,NYSE,SGHC
 SGU,Star Group L.P. Common Stock,NYSE,SGU
@@ -12184,7 +12182,6 @@ VNO$N,"Vornado Realty Trust 5.25% Series N Cumulative Redeemable Preferred Share
 VNO$O,"Vornado Realty Trust 4.45% Series O Cumulative Redeemable Preferred Shares, Liquidation Preference $25.00 Per Share",NYSE,VNO$O
 VNRX,VolitionRX Limited Common Stock,NYSE MKT,VNRX
 VNT,Vontier Corporation Common Stock ,NYSE,VNT
-VNTR,Venator Materials PLC Ordinary Shares,NYSE,VNTR
 VOC,VOC Energy Trust Units of Beneficial Interest,NYSE,VOC
 VOYA,"Voya Financial, Inc. Common Stock",NYSE,VOYA
 VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",NYSE,VOYA$B

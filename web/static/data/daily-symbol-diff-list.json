@@ -1,152 +1,138 @@
 {
  "added": [
   {
-   "symbol": "AVA",
-   "name": "Avante Mining Corp.",
+   "symbol": "EML",
+   "name": "Electric Metals (USA) Limited",
    "exchange": "TSXV",
-   "yahoo_symbol": "AVA.V",
+   "yahoo_symbol": "EML.V",
    "instruments": [
     {
-     "name": "Avante Mining Corp.",
-     "symbol": "AVA"
+     "name": "Electric Metals (USA) Limited",
+     "symbol": "EML"
     }
    ]
   },
   {
-   "symbol": "NWX",
-   "name": "Newport Exploration Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NWX.V",
-   "instruments": [
-    {
-     "name": "Newport Exploration Ltd.",
-     "symbol": "NWX"
-    }
-   ]
+   "symbol": "IVCP",
+   "name": "Swiftmerge Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVCP"
   },
   {
-   "symbol": "FORL",
-   "name": "Four Leaf Acquisition Corporation - Class A Common Stock",
+   "symbol": "IVCPU",
+   "name": "Swiftmerge Acquisition Corp. - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FORL"
+   "yahoo_symbol": "IVCPU"
   },
   {
-   "symbol": "FORLW",
-   "name": "Four Leaf Acquisition Corporation - Warrants",
+   "symbol": "IVCPW",
+   "name": "Swiftmerge Acquisition Corp. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FORLW"
+   "yahoo_symbol": "IVCPW"
   },
   {
-   "symbol": "NXU",
-   "name": "Nxu, Inc.  - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NXU"
+   "symbol": "TBMC",
+   "name": "Trailblazer Merger Corporation I - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMC"
+  },
+  {
+   "symbol": "TBMCR",
+   "name": "Trailblazer Merger Corporation I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMCR"
+  },
+  {
+   "symbol": "RVTY",
+   "name": "Revvity, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RVTY"
+  },
+  {
+   "symbol": "SGE",
+   "name": "Strong Global Entertainment, Inc. Class A Common Voting Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SGE"
   }
  ],
  "removed": [
   {
-   "symbol": "LVACW",
-   "name": "LAVA Medtech Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVACW"
-  },
-  {
-   "symbol": "GASX",
-   "name": "NG Energy International Corp.",
+   "symbol": "NSC",
+   "name": "Nevada Silver Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "GASX.V",
+   "yahoo_symbol": "NSC.V",
    "instruments": [
     {
-     "name": "NG Energy International Corp.",
-     "symbol": "GASX"
-    },
-    {
-     "name": "NG Energy International Corp. db 20May2027",
-     "symbol": "GASX.DB"
-    },
-    {
-     "name": "NG Energy International Corp. wt 20May2027",
-     "symbol": "GASX.WT.A"
+     "name": "Nevada Silver Corporation",
+     "symbol": "NSC"
     }
    ]
   },
   {
-   "symbol": "BNNRU",
-   "name": "Banner Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNNRU"
+   "symbol": "IVCPW",
+   "name": "Swiftmerge Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCPW"
   },
   {
-   "symbol": "SGN",
-   "name": "Scorpio Gold Corporation",
+   "symbol": "VMGAU",
+   "name": "VMG Consumer Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMGAU"
+  },
+  {
+   "symbol": "IVCP",
+   "name": "Swiftmerge Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCP"
+  },
+  {
+   "symbol": "VMGAW",
+   "name": "VMG Consumer Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMGAW"
+  },
+  {
+   "symbol": "PKI",
+   "name": "PerkinElmer, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PKI"
+  },
+  {
+   "symbol": "VMGA",
+   "name": "VMG Consumer Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMGA"
+  },
+  {
+   "symbol": "VNTR",
+   "name": "Venator Materials PLC Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VNTR"
+  },
+  {
+   "symbol": "TTD",
+   "name": "Tinkerine Studios Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SGN.V",
+   "yahoo_symbol": "TTD.V",
    "instruments": [
     {
-     "name": "Scorpio Gold Corporation",
-     "symbol": "SGN"
+     "name": "Tinkerine Studios Ltd.",
+     "symbol": "TTD"
     }
    ]
   },
   {
-   "symbol": "LVACU",
-   "name": "LAVA Medtech Acquisition Corp. - Unit",
+   "symbol": "IVCPU",
+   "name": "Swiftmerge Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVACU"
+   "yahoo_symbol": "IVCPU"
   },
   {
-   "symbol": "BNNR",
-   "name": "Banner Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNNR"
-  },
-  {
-   "symbol": "TBMCU",
-   "name": "Trailblazer Merger Corporation I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TBMCU"
-  },
-  {
-   "symbol": "VYNT",
-   "name": "Vyant Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VYNT"
-  },
-  {
-   "symbol": "AMV",
-   "name": "Atlis Motor Vehicles, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMV"
-  },
-  {
-   "symbol": "ACP",
-   "name": "Arcpacific Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ACP.V",
-   "instruments": [
-    {
-     "name": "Arcpacific Resources Corp.",
-     "symbol": "ACP"
-    }
-   ]
-  },
-  {
-   "symbol": "BNNRW",
-   "name": "Banner Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNNRW"
-  },
-  {
-   "symbol": "LVAC",
-   "name": "LAVA Medtech Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVAC"
-  },
-  {
-   "symbol": "SUMO",
-   "name": "Sumo Logic, Inc. - Common Stock",
+   "symbol": "TA",
+   "name": "TravelCenters of America Inc.  - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SUMO"
+   "yahoo_symbol": "TA"
   }
  ]
 }
