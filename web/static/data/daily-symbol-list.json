@@ -1,5 +1,5 @@
 {
- "date": "2023-05-16",
+ "date": "2023-05-17",
  "data": [
   {
    "symbol": "ONE",
@@ -310,18 +310,6 @@
     {
      "name": "Advance Lithium Corp.",
      "symbol": "AALI"
-    }
-   ]
-  },
-  {
-   "symbol": "APC",
-   "name": "Advanced Proteome Therapeutics Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "APC.V",
-   "instruments": [
-    {
-     "name": "Advanced Proteome Therapeutics Corporation",
-     "symbol": "APC"
     }
    ]
   },
@@ -4798,18 +4786,6 @@
     {
      "name": "Delivra Health Brands Inc. WTS 17MAR2024",
      "symbol": "DHB.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "LOTA",
-   "name": "Delota Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LOTA.V",
-   "instruments": [
-    {
-     "name": "Delota Corp.",
-     "symbol": "LOTA"
     }
    ]
   },
@@ -13890,18 +13866,6 @@
     {
      "name": "Perimeter Medical Imaging AI, Inc.",
      "symbol": "PINK"
-    }
-   ]
-  },
-  {
-   "symbol": "PRO",
-   "name": "Pershimex Resources Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PRO.V",
-   "instruments": [
-    {
-     "name": "Pershimex Resources Corporation",
-     "symbol": "PRO"
     }
    ]
   },
@@ -32534,18 +32498,6 @@
    ]
   },
   {
-   "symbol": "HEMC",
-   "name": "Horizons Emerging Markets Leaders ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEMC.TO",
-   "instruments": [
-    {
-     "name": "HoriznEmrgMktLd A Un",
-     "symbol": "HEMC"
-    }
-   ]
-  },
-  {
    "symbol": "HEWB",
    "name": "Horizons Equal Weight Canada Banks Index ETF",
    "exchange": "TSX",
@@ -37610,18 +37562,6 @@
    ]
   },
   {
-   "symbol": "HWF",
-   "name": "Middlefield Health \u0026 Wellness ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HWF.TO",
-   "instruments": [
-    {
-     "name": "Middlefield HealthUn",
-     "symbol": "HWF"
-    }
-   ]
-  },
-  {
    "symbol": "MHCD",
    "name": "Middlefield Healthcare Dividend ETF",
    "exchange": "TSX",
@@ -40830,6 +40770,10 @@
     {
      "name": "RBC US DivCovCall CA",
      "symbol": "RUDC"
+    },
+    {
+     "name": "RBC US DivCovCall US",
+     "symbol": "RUDC.U"
     }
    ]
   },
@@ -42138,18 +42082,6 @@
     {
      "name": "Surge Engy 6.75 Db 2",
      "symbol": "SGY.DB.A"
-    }
-   ]
-  },
-  {
-   "symbol": "AGR.UN",
-   "name": "Sustainable Agriculture \u0026 Wellness Dividend Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "AGR.UN.TO",
-   "instruments": [
-    {
-     "name": "Sustain Agri\u0026Wel Div",
-     "symbol": "AGR.UN"
     }
    ]
   },
@@ -44598,18 +44530,6 @@
     {
      "name": "WonderFi Tech J B Wt",
      "symbol": "WNDR.WT.B"
-    }
-   ]
-  },
-  {
-   "symbol": "WORK.UN",
-   "name": "Workplace Technology Dividend Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "WORK.UN.TO",
-   "instruments": [
-    {
-     "name": "Workplace TechDiv Un",
-     "symbol": "WORK.UN"
     }
    ]
   },
@@ -75333,7 +75253,7 @@
   },
   {
    "symbol": "WKEY",
-   "name": "WISeKey International Holding AG - American Depositary Shares",
+   "name": "WISeKey International Holding Ltd - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WKEY"
   },
@@ -78102,12 +78022,6 @@
    "name": "Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non-Cumulative Preferred Stock, Series A",
    "exchange": "NYSE",
    "yahoo_symbol": "AUB$A"
-  },
-  {
-   "symbol": "AUD",
-   "name": "Audacy Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AUD"
   },
   {
    "symbol": "AULT",
@@ -84354,12 +84268,6 @@
    "name": "FOXO Technologies Inc. Class A Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "FOXO"
-  },
-  {
-   "symbol": "FOXO.W",
-   "name": "FOXO Technologies Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "FOXO.W"
   },
   {
    "symbol": "FPF",
