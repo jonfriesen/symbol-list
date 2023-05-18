@@ -1,5 +1,5 @@
 {
- "date": "2023-05-17",
+ "date": "2023-05-18",
  "data": [
   {
    "symbol": "ONE",
@@ -1258,6 +1258,18 @@
     {
      "name": "Argentum Silver Corp",
      "symbol": "ASL"
+    }
+   ]
+  },
+  {
+   "symbol": "AROC.P",
+   "name": "Argo Opportunity Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AROC.P.V",
+   "instruments": [
+    {
+     "name": "Argo Opportunity Corp.",
+     "symbol": "AROC.P"
     }
    ]
   },
@@ -11786,18 +11798,6 @@
    ]
   },
   {
-   "symbol": "MNTO",
-   "name": "Minto Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MNTO.V",
-   "instruments": [
-    {
-     "name": "Minto Metals Corp.",
-     "symbol": "MNTO"
-    }
-   ]
-  },
-  {
    "symbol": "MRZ",
    "name": "Mirasol Resources Ltd.",
    "exchange": "TSXV",
@@ -13250,14 +13250,14 @@
    ]
   },
   {
-   "symbol": "ORX",
-   "name": "Orefinders Resources Inc.",
+   "symbol": "OCI",
+   "name": "Orecap Invest Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ORX.V",
+   "yahoo_symbol": "OCI.V",
    "instruments": [
     {
-     "name": "Orefinders Resources Inc.",
-     "symbol": "ORX"
+     "name": "Orecap Invest Corp.",
+     "symbol": "OCI"
     }
    ]
   },
@@ -15386,6 +15386,18 @@
     {
      "name": "Riverwalk Acquisition Corp.",
      "symbol": "RAC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "RIWI",
+   "name": "RIWI Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RIWI.V",
+   "instruments": [
+    {
+     "name": "RIWI Corp.",
+     "symbol": "RIWI"
     }
    ]
   },
@@ -40762,6 +40774,34 @@
    ]
   },
   {
+   "symbol": "RDBH",
+   "name": "RBC U.S. Discount Bond (CAD Hedged) ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RDBH.TO",
+   "instruments": [
+    {
+     "name": "RBC US DiscountBndHg",
+     "symbol": "RDBH"
+    }
+   ]
+  },
+  {
+   "symbol": "RUDB",
+   "name": "RBC U.S. Discount Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUDB.TO",
+   "instruments": [
+    {
+     "name": "RBC US Discount Bond",
+     "symbol": "RUDB"
+    },
+    {
+     "name": "RBC US DiscountBndUS",
+     "symbol": "RUDB.U"
+    }
+   ]
+  },
+  {
    "symbol": "RUDC",
    "name": "RBC U.S. Dividend Covered Call ETF",
    "exchange": "TSX",
@@ -48492,6 +48532,12 @@
    "yahoo_symbol": "BKCH"
   },
   {
+   "symbol": "BKIV",
+   "name": "BNY Mellon Innovators ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKIV"
+  },
+  {
    "symbol": "BKNG",
    "name": "Booking Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48508,6 +48554,12 @@
    "name": "Bank of South Carolina Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BKSC"
+  },
+  {
+   "symbol": "BKWO",
+   "name": "BNY Mellon Women's Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKWO"
   },
   {
    "symbol": "BKYI",
@@ -51656,7 +51708,7 @@
   {
    "symbol": "CPOP",
    "name": "Pop Culture Group Co., Ltd - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CPOP"
   },
   {
@@ -52300,6 +52352,12 @@
    "name": "Consolidated Water Co. Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CWCO"
+  },
+  {
+   "symbol": "CWD",
+   "name": "CaliberCos Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CWD"
   },
   {
    "symbol": "CWST",
@@ -56398,30 +56456,6 @@
    "name": "Generations Bancorp NY, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GBNY"
-  },
-  {
-   "symbol": "GBRG",
-   "name": "Goldenbridge Acquisition Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBRG"
-  },
-  {
-   "symbol": "GBRGR",
-   "name": "Goldenbridge Acquisition Limited - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBRGR"
-  },
-  {
-   "symbol": "GBRGU",
-   "name": "Goldenbridge Acquisition Limited - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBRGU"
-  },
-  {
-   "symbol": "GBRGW",
-   "name": "Goldenbridge Acquisition Limited - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBRGW"
   },
   {
    "symbol": "GCBC",
@@ -60679,7 +60713,7 @@
   },
   {
    "symbol": "KHC",
-   "name": "The Kraft Heinz Company - Common Stock",
+   "name": "Kraft Heinz Foods Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "KHC"
   },
@@ -69882,6 +69916,12 @@
    "yahoo_symbol": "SCZ"
   },
   {
+   "symbol": "SDA",
+   "name": "SunCar Technology Group Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDA"
+  },
+  {
    "symbol": "SDAC",
    "name": "Sustainable Development Acquisition I Corp. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -69898,6 +69938,12 @@
    "name": "Sustainable Development Acquisition I Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SDACW"
+  },
+  {
+   "symbol": "SDAWW",
+   "name": "SunCar Technology Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDAWW"
   },
   {
    "symbol": "SDC",
@@ -89514,12 +89560,6 @@
    "yahoo_symbol": "MTB$H"
   },
   {
-   "symbol": "MTCN",
-   "name": "ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTCN"
-  },
-  {
    "symbol": "MTD",
    "name": "Mettler-Toledo International, Inc. Common Stock",
    "exchange": "NYSE",
@@ -92842,12 +92882,6 @@
    "name": "Brookfield Real Assets Income Fund Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RA"
-  },
-  {
-   "symbol": "RAAS",
-   "name": "Cloopen Group Holding Limited American Depositary Shares (each representing six (6) Class A Ordinary Shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RAAS"
   },
   {
    "symbol": "RACE",

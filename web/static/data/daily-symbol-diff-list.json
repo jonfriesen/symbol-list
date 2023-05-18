@@ -1,100 +1,172 @@
 {
+ "added": [
+  {
+   "symbol": "AROC.P",
+   "name": "Argo Opportunity Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AROC.P.V",
+   "instruments": [
+    {
+     "name": "Argo Opportunity Corp.",
+     "symbol": "AROC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "OCI",
+   "name": "Orecap Invest Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OCI.V",
+   "instruments": [
+    {
+     "name": "Orecap Invest Corp.",
+     "symbol": "OCI"
+    }
+   ]
+  },
+  {
+   "symbol": "RIWI",
+   "name": "RIWI Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RIWI.V",
+   "instruments": [
+    {
+     "name": "RIWI Corp.",
+     "symbol": "RIWI"
+    }
+   ]
+  },
+  {
+   "symbol": "RDBH",
+   "name": "RBC U.S. Discount Bond (CAD Hedged) ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RDBH.TO",
+   "instruments": [
+    {
+     "name": "RBC US DiscountBndHg",
+     "symbol": "RDBH"
+    }
+   ]
+  },
+  {
+   "symbol": "RUDB",
+   "name": "RBC U.S. Discount Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUDB.TO",
+   "instruments": [
+    {
+     "name": "RBC US Discount Bond",
+     "symbol": "RUDB"
+    },
+    {
+     "name": "RBC US DiscountBndUS",
+     "symbol": "RUDB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BKIV",
+   "name": "BNY Mellon Innovators ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKIV"
+  },
+  {
+   "symbol": "BKWO",
+   "name": "BNY Mellon Women's Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKWO"
+  },
+  {
+   "symbol": "CPOP",
+   "name": "Pop Culture Group Co., Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CPOP"
+  },
+  {
+   "symbol": "CWD",
+   "name": "CaliberCos Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CWD"
+  },
+  {
+   "symbol": "SDA",
+   "name": "SunCar Technology Group Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDA"
+  },
+  {
+   "symbol": "SDAWW",
+   "name": "SunCar Technology Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDAWW"
+  }
+ ],
  "removed": [
   {
-   "symbol": "LOTA",
-   "name": "Delota Corp.",
+   "symbol": "ORX",
+   "name": "Orefinders Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "LOTA.V",
+   "yahoo_symbol": "ORX.V",
    "instruments": [
     {
-     "name": "Delota Corp.",
-     "symbol": "LOTA"
+     "name": "Orefinders Resources Inc.",
+     "symbol": "ORX"
     }
    ]
   },
   {
-   "symbol": "HEMC",
-   "name": "Horizons Emerging Markets Leaders ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEMC.TO",
-   "instruments": [
-    {
-     "name": "HoriznEmrgMktLd A Un",
-     "symbol": "HEMC"
-    }
-   ]
+   "symbol": "GBRGU",
+   "name": "Goldenbridge Acquisition Limited - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBRGU"
   },
   {
-   "symbol": "WORK.UN",
-   "name": "Workplace Technology Dividend Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "WORK.UN.TO",
-   "instruments": [
-    {
-     "name": "Workplace TechDiv Un",
-     "symbol": "WORK.UN"
-    }
-   ]
+   "symbol": "CPOP",
+   "name": "Pop Culture Group Co., Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPOP"
   },
   {
-   "symbol": "FOXO.W",
-   "name": "FOXO Technologies Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "FOXO.W"
-  },
-  {
-   "symbol": "HWF",
-   "name": "Middlefield Health \u0026 Wellness ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HWF.TO",
-   "instruments": [
-    {
-     "name": "Middlefield HealthUn",
-     "symbol": "HWF"
-    }
-   ]
-  },
-  {
-   "symbol": "AGR.UN",
-   "name": "Sustainable Agriculture \u0026 Wellness Dividend Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "AGR.UN.TO",
-   "instruments": [
-    {
-     "name": "Sustain Agri\u0026Wel Div",
-     "symbol": "AGR.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "APC",
-   "name": "Advanced Proteome Therapeutics Corporation",
+   "symbol": "MNTO",
+   "name": "Minto Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "APC.V",
+   "yahoo_symbol": "MNTO.V",
    "instruments": [
     {
-     "name": "Advanced Proteome Therapeutics Corporation",
-     "symbol": "APC"
+     "name": "Minto Metals Corp.",
+     "symbol": "MNTO"
     }
    ]
   },
   {
-   "symbol": "PRO",
-   "name": "Pershimex Resources Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PRO.V",
-   "instruments": [
-    {
-     "name": "Pershimex Resources Corporation",
-     "symbol": "PRO"
-    }
-   ]
-  },
-  {
-   "symbol": "AUD",
-   "name": "Audacy Common Stock",
+   "symbol": "RAAS",
+   "name": "Cloopen Group Holding Limited American Depositary Shares (each representing six (6) Class A Ordinary Shares)",
    "exchange": "NYSE",
-   "yahoo_symbol": "AUD"
+   "yahoo_symbol": "RAAS"
+  },
+  {
+   "symbol": "GBRG",
+   "name": "Goldenbridge Acquisition Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBRG"
+  },
+  {
+   "symbol": "GBRGW",
+   "name": "Goldenbridge Acquisition Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBRGW"
+  },
+  {
+   "symbol": "MTCN",
+   "name": "ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTCN"
+  },
+  {
+   "symbol": "GBRGR",
+   "name": "Goldenbridge Acquisition Limited - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBRGR"
   }
  ]
 }

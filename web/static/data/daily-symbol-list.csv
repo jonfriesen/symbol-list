@@ -103,6 +103,7 @@ ADD,Arctic Star Exploration Corp.,TSXV,ADD.V,Arctic Star Exploration Corp.,ADD
 AWX,Arcwest Exploration Inc.,TSXV,AWX.V,Arcwest Exploration Inc.,AWX
 LIT,Argentina Lithium & Energy Corp.,TSXV,LIT.V,Argentina Lithium & Energy Corp.,LIT
 ASL,Argentum Silver Corp.,TSXV,ASL.V,Argentum Silver Corp,ASL
+AROC.P,Argo Opportunity Corp.,TSXV,AROC.P.V,Argo Opportunity Corp.,AROC.P
 ART,ARHT Media Inc.,TSXV,ART.V,ARHT Media Inc.,ART,ARHT Media Inc. wt. 17Mar2024,ART.WT
 DAN,Arianne Phosphate Inc.,TSXV,DAN.V,Arianne Phosphate Inc.,DAN
 AZS,Arizona Silver Exploration Inc.,TSXV,AZS.V,Arizona Silver Exploration Inc.,AZS
@@ -965,7 +966,6 @@ MNLX,Miniluxe Holding Corp.,TSXV,MNLX.V,Miniluxe Holding Corp.,MNLX
 MINK,Mink Ventures Corporation,TSXV,MINK.V,Mink Ventures Corporation,MINK
 MCI,Minnova Corp.,TSXV,MCI.V,Minnova Corp.,MCI
 MSR,Minsud Resources Corp.,TSXV,MSR.V,Minsud Resources Corp.,MSR
-MNTO,Minto Metals Corp.,TSXV,MNTO.V,Minto Metals Corp.,MNTO
 MRZ,Mirasol Resources Ltd.,TSXV,MRZ.V,Mirasol Resources Ltd.,MRZ
 MRS,Mission Ready Solutions Inc.,TSXV,MRS.V,Mission Ready Solutions Inc.,MRS
 MIZA.P,Miza III Ventures Inc.,TSXV,MIZA.P.V,Miza III Ventures Inc.,MIZA.P
@@ -1085,7 +1085,7 @@ OPHR,Ophir Gold Corp.,TSXV,OPHR.V,Ophir Gold Corp.,OPHR
 OPV,Optimum Ventures Ltd.,TSXV,OPV.V,Optimum Ventures Ltd.,OPV
 OOR,Opus One Gold Corporation,TSXV,OOR.V,Opus One Gold Corporation,OOR
 ORC.A,Orca Energy Group Inc.,TSXV,ORC.A.V,Orca Energy Group Inc. ser A,ORC.A,Orca Energy Group Inc. ser B,ORC.B
-ORX,Orefinders Resources Inc.,TSXV,ORX.V,Orefinders Resources Inc.,ORX
+OCI,Orecap Invest Corp.,TSXV,OCI.V,Orecap Invest Corp.,OCI
 ORS,Orestone Mining Corp.,TSXV,ORS.V,Orestone Mining Corp.,ORS
 REX,Orex Minerals Inc.,TSXV,REX.V,Orex Minerals Inc.,REX
 ORM,Orford Mining Corporation,TSXV,ORM.V,Orford Mining Corporation,ORM
@@ -1260,6 +1260,7 @@ RIO,Rio2 Limited,TSXV,RIO.V,Rio2 Limited,RIO
 RVLY,Rivalry Corp.,TSXV,RVLY.V,Rivalry Corp.,RVLY
 RRI,Riverside Resources Inc.,TSXV,RRI.V,Riverside Resources Inc.,RRI
 RAC.P,Riverwalk Acquisition Corp.,TSXV,RAC.P.V,Riverwalk Acquisition Corp.,RAC.P
+RIWI,RIWI Corp.,TSXV,RIWI.V,RIWI Corp.,RIWI
 RJX.A,RJK Explorations Ltd.,TSXV,RJX.A.V,RJK Explorations Ltd.,RJX.A
 RBX,Robex Resources Inc.,TSXV,RBX.V,Robex Resources Inc.,RBX
 RCT,Rochester Resources Ltd.,TSXV,RCT.V,Rochester Resources Ltd.,RCT
@@ -3144,6 +3145,8 @@ RQR,RBC Target 2029 Corporate Bond Index ETF,TSX,RQR.TO,RBC Targt2029 CrpBnd,RQR
 RGQR,RBC Target 2029 Government Bond ETF,TSX,RGQR.TO,RBC Targt29 GovtBond,RGQR
 RUBH,RBC U.S. Banks Yield (CAD Hedged) Index ETF,TSX,RUBH.TO,RBC USBanksYld CA-Hg,RUBH
 RUBY,RBC U.S. Banks Yield Index ETF,TSX,RUBY.TO,RBC US Banks Yld CAD,RUBY,RBC US Banks Yld USF,RUBY.U
+RDBH,RBC U.S. Discount Bond (CAD Hedged) ETF,TSX,RDBH.TO,RBC US DiscountBndHg,RDBH
+RUDB,RBC U.S. Discount Bond ETF,TSX,RUDB.TO,RBC US Discount Bond,RUDB,RBC US DiscountBndUS,RUDB.U
 RUDC,RBC U.S. Dividend Covered Call ETF,TSX,RUDC.TO,RBC US DivCovCall CA,RUDC,RBC US DivCovCall US,RUDC.U
 RS,Real Estate Split Corp.,TSX,RS.TO,Rl Estate Split Cl A,RS,Rl Estate Split Pr,RS.PR.A
 REAL,Real Matters Inc.,TSX,REAL.TO,Real Matters Inc.,REAL
@@ -4073,9 +4076,11 @@ BJK,VanEck Gaming ETF,NASDAQ Global MarketSM,BJK
 BJRI,"BJ's Restaurants, Inc. - Common Stock",NASDAQ Global Select MarketSM,BJRI
 BKCC,BlackRock Capital Investment Corporation - Closed End Fund,NASDAQ Global Select MarketSM,BKCC
 BKCH,Global X Blockchain ETF,NASDAQ Global MarketSM,BKCH
+BKIV,BNY Mellon Innovators ETF,NASDAQ Global MarketSM,BKIV
 BKNG,Booking Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,BKNG
 BKR,Baker Hughes Company - Common Stock,NASDAQ Global Select MarketSM,BKR
 BKSC,Bank of South Carolina Corp. - Common Stock,NASDAQ Capital Market,BKSC
+BKWO,BNY Mellon Women's Opportunities ETF,NASDAQ Global MarketSM,BKWO
 BKYI,"BIO-key International, Inc. - Common Stock",NASDAQ Capital Market,BKYI
 BL,"BlackLine, Inc. - Common Stock",NASDAQ Global Select MarketSM,BL
 BLAC,Bellevue Life Sciences Acquisition Corp. - Common Stock,NASDAQ Capital Market,BLAC
@@ -4600,7 +4605,7 @@ CPAAW,Conyers Park III Acquisition Corp. - Warrants,NASDAQ Capital Market,CPAAW
 CPHC,Canterbury Park Holding Corporation - Common Stock,NASDAQ Global MarketSM,CPHC
 CPIX,Cumberland Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,CPIX
 CPLP,Capital Product Partners L.P. - common units representing limited partner interests,NASDAQ Global Select MarketSM,CPLP
-CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",NASDAQ Global MarketSM,CPOP
+CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",NASDAQ Capital Market,CPOP
 CPRT,"Copart, Inc. - Common Stock",NASDAQ Global Select MarketSM,CPRT
 CPRX,"Catalyst Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,CPRX
 CPSH,CPS Technologies Corp. - Common Stock,NASDAQ Capital Market,CPSH
@@ -4708,6 +4713,7 @@ CVV,CVD Equipment Corporation - Common Stock,NASDAQ Capital Market,CVV
 CWBC,Community West Bancshares - Common Stock,NASDAQ Global MarketSM,CWBC
 CWBR,"CohBar, Inc. - Common Stock",NASDAQ Capital Market,CWBR
 CWCO,Consolidated Water Co. Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CWCO
+CWD,CaliberCos Inc. - Class A Common Stock,NASDAQ Capital Market,CWD
 CWST,"Casella Waste Systems, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CWST
 CXAI,CXApp Inc. - Class A Common Stock,NASDAQ Capital Market,CXAI
 CXAIW,CXApp Inc. - Warrant,NASDAQ Capital Market,CXAIW
@@ -5391,10 +5397,6 @@ GBDC,"Golub Capital BDC, Inc. - Closed End Fund",NASDAQ Global Select MarketSM,G
 GBIO,Generation Bio Co. - Common stock,NASDAQ Global Select MarketSM,GBIO
 GBNH,Greenbrook TMS Inc. - Common Shares,NASDAQ Capital Market,GBNH
 GBNY,"Generations Bancorp NY, Inc. - Common Stock",NASDAQ Capital Market,GBNY
-GBRG,Goldenbridge Acquisition Limited - Ordinary Shares,NASDAQ Capital Market,GBRG
-GBRGR,Goldenbridge Acquisition Limited - Right,NASDAQ Capital Market,GBRGR
-GBRGU,Goldenbridge Acquisition Limited - Unit,NASDAQ Capital Market,GBRGU
-GBRGW,Goldenbridge Acquisition Limited - Warrant,NASDAQ Capital Market,GBRGW
 GCBC,"Greene County Bancorp, Inc. - Common Stock",NASDAQ Capital Market,GCBC
 GCMG,GCM Grosvenor Inc. - Class A Common Stock,NASDAQ Global MarketSM,GCMG
 GCMGW,GCM Grosvenor Inc. - Warrant,NASDAQ Global MarketSM,GCMGW
@@ -6104,7 +6106,7 @@ KERN,Akerna Corp. - Common Stock,NASDAQ Capital Market,KERN
 KERNW,Akerna Corp. - Warrant,NASDAQ Capital Market,KERNW
 KFFB,Kentucky First Federal Bancorp - Common Stock,NASDAQ Global MarketSM,KFFB
 KFRC,"Kforce, Inc. - Common Stock",NASDAQ Global Select MarketSM,KFRC
-KHC,The Kraft Heinz Company - Common Stock,NASDAQ Global Select MarketSM,KHC
+KHC,Kraft Heinz Foods Company - Common Stock,NASDAQ Global Select MarketSM,KHC
 KIDS,OrthoPediatrics Corp. - Common Stock,NASDAQ Global MarketSM,KIDS
 KINS,"Kingstone Companies, Inc - Common Stock",NASDAQ Capital Market,KINS
 KIRK,"Kirkland's, Inc. - Common Stock",NASDAQ Global Select MarketSM,KIRK
@@ -7638,9 +7640,11 @@ SCWO,374Water Inc. - common stock,NASDAQ Capital Market,SCWO
 SCWX,SecureWorks Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,SCWX
 SCYX,"SCYNEXIS, Inc. - Common Stock",NASDAQ Global MarketSM,SCYX
 SCZ,iShares MSCI EAFE Small-Cap ETF,NASDAQ Global MarketSM,SCZ
+SDA,SunCar Technology Group Inc. - Ordinary Shares,NASDAQ Capital Market,SDA
 SDAC,Sustainable Development Acquisition I Corp. - Class A Common Stock,NASDAQ Capital Market,SDAC
 SDACU,Sustainable Development Acquisition I Corp. - Unit,NASDAQ Capital Market,SDACU
 SDACW,Sustainable Development Acquisition I Corp. - Warrant,NASDAQ Capital Market,SDACW
+SDAWW,SunCar Technology Group Inc. - Warrant,NASDAQ Capital Market,SDAWW
 SDC,"SmileDirectClub, Inc. - Common Stock",NASDAQ Global Select MarketSM,SDC
 SDG,iShares MSCI Global Sustainable Development Goals ETF,NASDAQ Global MarketSM,SDG
 SDGR,"Schrodinger, Inc. - Common Stock",NASDAQ Global Select MarketSM,SDGR
@@ -10910,7 +10914,6 @@ MTAL.U,"Metals Acquisition Corp Units, each consisting of one Class A ordinary s
 MTAL.W,"Metals Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,MTAL.W
 MTB,M&T Bank Corporation Common Stock,NYSE,MTB
 MTB$H,"M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H",NYSE,MTB$H
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE,MTCN
 MTD,"Mettler-Toledo International, Inc. Common Stock",NYSE,MTD
 MTDR,Matador Resources Company Common Stock,NYSE,MTDR
 MTG,MGIC Investment Corporation Common Stock,NYSE,MTG
@@ -11465,7 +11468,6 @@ QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",NYSE,QVCC
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",NYSE,QVCD
 R,"Ryder System, Inc. Common Stock",NYSE,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,RA
-RAAS,Cloopen Group Holding Limited American Depositary Shares (each representing six (6) Class A Ordinary Shares),NYSE,RAAS
 RACE,Ferrari N.V. Common Shares,NYSE,RACE
 RAD,Rite Aid Corporation Common Stock,NYSE,RAD
 RAMP,"LiveRamp Holdings, Inc. Common Stock",NYSE,RAMP
