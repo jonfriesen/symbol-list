@@ -1,172 +1,114 @@
 {
  "added": [
   {
-   "symbol": "AROC.P",
-   "name": "Argo Opportunity Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AROC.P.V",
-   "instruments": [
-    {
-     "name": "Argo Opportunity Corp.",
-     "symbol": "AROC.P"
-    }
-   ]
-  },
-  {
-   "symbol": "OCI",
-   "name": "Orecap Invest Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OCI.V",
-   "instruments": [
-    {
-     "name": "Orecap Invest Corp.",
-     "symbol": "OCI"
-    }
-   ]
-  },
-  {
-   "symbol": "RIWI",
-   "name": "RIWI Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RIWI.V",
-   "instruments": [
-    {
-     "name": "RIWI Corp.",
-     "symbol": "RIWI"
-    }
-   ]
-  },
-  {
-   "symbol": "RDBH",
-   "name": "RBC U.S. Discount Bond (CAD Hedged) ETF",
+   "symbol": "ATCU",
+   "name": "Alta Copper Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "RDBH.TO",
+   "yahoo_symbol": "ATCU.TO",
    "instruments": [
     {
-     "name": "RBC US DiscountBndHg",
-     "symbol": "RDBH"
+     "name": "Candente Copper J",
+     "symbol": "ATCU"
     }
    ]
   },
   {
-   "symbol": "RUDB",
-   "name": "RBC U.S. Discount Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RUDB.TO",
-   "instruments": [
-    {
-     "name": "RBC US Discount Bond",
-     "symbol": "RUDB"
-    },
-    {
-     "name": "RBC US DiscountBndUS",
-     "symbol": "RUDB.U"
-    }
-   ]
-  },
-  {
-   "symbol": "BKIV",
-   "name": "BNY Mellon Innovators ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKIV"
-  },
-  {
-   "symbol": "BKWO",
-   "name": "BNY Mellon Women's Opportunities ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKWO"
-  },
-  {
-   "symbol": "CPOP",
-   "name": "Pop Culture Group Co., Ltd - Class A Ordinary Shares",
+   "symbol": "MGRM",
+   "name": "Monogram Orthopaedics Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CPOP"
+   "yahoo_symbol": "MGRM"
   },
   {
-   "symbol": "CWD",
-   "name": "CaliberCos Inc. - Class A Common Stock",
+   "symbol": "TALK",
+   "name": "Talkspace, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CWD"
+   "yahoo_symbol": "TALK"
   },
   {
-   "symbol": "SDA",
-   "name": "SunCar Technology Group Inc. - Ordinary Shares",
+   "symbol": "TALKW",
+   "name": "Talkspace, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SDA"
+   "yahoo_symbol": "TALKW"
   },
   {
-   "symbol": "SDAWW",
-   "name": "SunCar Technology Group Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SDAWW"
+   "symbol": "NHS.V",
+   "name": "Neuberger Berman High Yield Strategies Fund Rights (expiring June 21, 2023) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.V"
   }
  ],
  "removed": [
   {
-   "symbol": "ORX",
-   "name": "Orefinders Resources Inc.",
+   "symbol": "TVC",
+   "name": "Three Valley Copper Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ORX.V",
+   "yahoo_symbol": "TVC.V",
    "instruments": [
     {
-     "name": "Orefinders Resources Inc.",
-     "symbol": "ORX"
+     "name": "Three Valley Copper Corp.",
+     "symbol": "TVC"
     }
    ]
   },
   {
-   "symbol": "GBRGU",
-   "name": "Goldenbridge Acquisition Limited - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBRGU"
-  },
-  {
-   "symbol": "CPOP",
-   "name": "Pop Culture Group Co., Ltd - Class A Ordinary Shares",
+   "symbol": "CYAD",
+   "name": "Celyad Oncology SA - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CPOP"
+   "yahoo_symbol": "CYAD"
   },
   {
-   "symbol": "MNTO",
-   "name": "Minto Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MNTO.V",
+   "symbol": "AXAC",
+   "name": "AXIOS Sustainable Growth Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXAC"
+  },
+  {
+   "symbol": "TALK",
+   "name": "Talkspace, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TALK"
+  },
+  {
+   "symbol": "AXAC.W",
+   "name": "AXIOS Sustainable Growth Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXAC.W"
+  },
+  {
+   "symbol": "IDW",
+   "name": "IDW Media Holdings Class B Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IDW"
+  },
+  {
+   "symbol": "APTX",
+   "name": "Aptinyx Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APTX"
+  },
+  {
+   "symbol": "AXAC.R",
+   "name": "AXIOS Sustainable Growth Acquisition Corporation Rights to receive one-tenth (1/10) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXAC.R"
+  },
+  {
+   "symbol": "TALKW",
+   "name": "Talkspace, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TALKW"
+  },
+  {
+   "symbol": "DNT",
+   "name": "Candente Copper Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "DNT.TO",
    "instruments": [
     {
-     "name": "Minto Metals Corp.",
-     "symbol": "MNTO"
+     "name": "Candente Copper J",
+     "symbol": "DNT"
     }
    ]
-  },
-  {
-   "symbol": "RAAS",
-   "name": "Cloopen Group Holding Limited American Depositary Shares (each representing six (6) Class A Ordinary Shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RAAS"
-  },
-  {
-   "symbol": "GBRG",
-   "name": "Goldenbridge Acquisition Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBRG"
-  },
-  {
-   "symbol": "GBRGW",
-   "name": "Goldenbridge Acquisition Limited - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBRGW"
-  },
-  {
-   "symbol": "MTCN",
-   "name": "ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTCN"
-  },
-  {
-   "symbol": "GBRGR",
-   "name": "Goldenbridge Acquisition Limited - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBRGR"
   }
  ]
 }

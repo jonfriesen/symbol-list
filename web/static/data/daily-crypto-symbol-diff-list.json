@@ -1,21 +1,29 @@
 {
  "added": [
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "BORA",
+   "name": "BORA (BORA)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "CGPT",
-   "name": "ChainGPT (CGPT)",
-   "built_on": "BNB"
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
   },
   {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BORA",
+   "name": "BORA (BORA)"
   }
  ]
 }
