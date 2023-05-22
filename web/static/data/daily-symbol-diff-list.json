@@ -1,114 +1,108 @@
 {
  "added": [
   {
-   "symbol": "ATCU",
-   "name": "Alta Copper Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ATCU.TO",
-   "instruments": [
-    {
-     "name": "Candente Copper J",
-     "symbol": "ATCU"
-    }
-   ]
-  },
-  {
-   "symbol": "MGRM",
-   "name": "Monogram Orthopaedics Inc. - Common Stock",
+   "symbol": "ADVM",
+   "name": "Adverum Biotechnologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MGRM"
+   "yahoo_symbol": "ADVM"
   },
   {
-   "symbol": "TALK",
-   "name": "Talkspace, Inc. - Common Stock",
+   "symbol": "FRES",
+   "name": "Fresh2 Group Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TALK"
+   "yahoo_symbol": "FRES"
   },
   {
-   "symbol": "TALKW",
-   "name": "Talkspace, Inc. - Warrant",
+   "symbol": "LAESV",
+   "name": "SEALSQ Corp - Ordinary shares When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAESV"
+  },
+  {
+   "symbol": "OAKU",
+   "name": "Oak Woods Acquisition Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TALKW"
+   "yahoo_symbol": "OAKU"
   },
   {
-   "symbol": "NHS.V",
-   "name": "Neuberger Berman High Yield Strategies Fund Rights (expiring June 21, 2023) Rights when issued",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NHS.V"
+   "symbol": "OAKUR",
+   "name": "Oak Woods Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKUR"
+  },
+  {
+   "symbol": "OAKUW",
+   "name": "Oak Woods Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKUW"
+  },
+  {
+   "symbol": "WKEYV",
+   "name": "WISeKey International Holding Ltd - Ex-distribution When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WKEYV"
+  },
+  {
+   "symbol": "WWAC",
+   "name": "Worldwide Webb Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WWAC"
+  },
+  {
+   "symbol": "WWACU",
+   "name": "Worldwide Webb Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WWACU"
+  },
+  {
+   "symbol": "WWACW",
+   "name": "Worldwide Webb Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WWACW"
+  },
+  {
+   "symbol": "OBK",
+   "name": "Origin Bancorp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OBK"
   }
  ],
  "removed": [
   {
-   "symbol": "TVC",
-   "name": "Three Valley Copper Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TVC.V",
-   "instruments": [
-    {
-     "name": "Three Valley Copper Corp.",
-     "symbol": "TVC"
-    }
-   ]
-  },
-  {
-   "symbol": "CYAD",
-   "name": "Celyad Oncology SA - American Depositary Shares",
+   "symbol": "ADVM",
+   "name": "Adverum Biotechnologies, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CYAD"
+   "yahoo_symbol": "ADVM"
   },
   {
-   "symbol": "AXAC",
-   "name": "AXIOS Sustainable Growth Acquisition Corporation Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AXAC"
-  },
-  {
-   "symbol": "TALK",
-   "name": "Talkspace, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TALK"
-  },
-  {
-   "symbol": "AXAC.W",
-   "name": "AXIOS Sustainable Growth Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AXAC.W"
-  },
-  {
-   "symbol": "IDW",
-   "name": "IDW Media Holdings Class B Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "IDW"
-  },
-  {
-   "symbol": "APTX",
-   "name": "Aptinyx Inc. - Common Stock",
+   "symbol": "ANPC",
+   "name": "AnPac Bio-Medical Science Co., Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APTX"
+   "yahoo_symbol": "ANPC"
   },
   {
-   "symbol": "AXAC.R",
-   "name": "AXIOS Sustainable Growth Acquisition Corporation Rights to receive one-tenth (1/10) of one Class A ordinary share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AXAC.R"
+   "symbol": "WWACU",
+   "name": "Worldwide Webb Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WWACU"
   },
   {
-   "symbol": "TALKW",
-   "name": "Talkspace, Inc. - Warrant",
+   "symbol": "WWAC",
+   "name": "Worldwide Webb Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WWAC"
+  },
+  {
+   "symbol": "WWACW",
+   "name": "Worldwide Webb Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WWACW"
+  },
+  {
+   "symbol": "OBNK",
+   "name": "Origin Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TALKW"
-  },
-  {
-   "symbol": "DNT",
-   "name": "Candente Copper Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "DNT.TO",
-   "instruments": [
-    {
-     "name": "Candente Copper J",
-     "symbol": "DNT"
-    }
-   ]
+   "yahoo_symbol": "OBNK"
   }
  ]
 }

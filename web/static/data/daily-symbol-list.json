@@ -1,5 +1,5 @@
 {
- "date": "2023-05-19",
+ "date": "2023-05-22",
  "data": [
   {
    "symbol": "ONE",
@@ -45304,7 +45304,7 @@
   {
    "symbol": "ADVM",
    "name": "Adverum Biotechnologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ADVM"
   },
   {
@@ -46398,12 +46398,6 @@
    "name": "Annexon, Inc. - common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ANNX"
-  },
-  {
-   "symbol": "ANPC",
-   "name": "AnPac Bio-Medical Science Co., Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ANPC"
   },
   {
    "symbol": "ANSS",
@@ -55766,6 +55760,12 @@
    "yahoo_symbol": "FREQ"
   },
   {
+   "symbol": "FRES",
+   "name": "Fresh2 Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRES"
+  },
+  {
    "symbol": "FRG",
    "name": "Franchise Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -61046,6 +61046,12 @@
    "yahoo_symbol": "LABP"
   },
   {
+   "symbol": "LAESV",
+   "name": "SEALSQ Corp - Ordinary shares When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAESV"
+  },
+  {
    "symbol": "LAKE",
    "name": "Lakeland Industries, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -65138,10 +65144,28 @@
    "yahoo_symbol": "OABIW"
   },
   {
+   "symbol": "OAKU",
+   "name": "Oak Woods Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKU"
+  },
+  {
+   "symbol": "OAKUR",
+   "name": "Oak Woods Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKUR"
+  },
+  {
    "symbol": "OAKUU",
    "name": "Oak Woods Acquisition Corporation - Unit",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OAKUU"
+  },
+  {
+   "symbol": "OAKUW",
+   "name": "Oak Woods Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKUW"
   },
   {
    "symbol": "OB",
@@ -65166,12 +65190,6 @@
    "name": "Oblong Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OBLG"
-  },
-  {
-   "symbol": "OBNK",
-   "name": "Origin Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OBNK"
   },
   {
    "symbol": "OBT",
@@ -65391,7 +65409,7 @@
   },
   {
    "symbol": "OKYO",
-   "name": "OKYO Pharma Limited - American Depositary Shares",
+   "name": "OKYO Pharma Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OKYO"
   },
@@ -75290,6 +75308,12 @@
    "yahoo_symbol": "WKEY"
   },
   {
+   "symbol": "WKEYV",
+   "name": "WISeKey International Holding Ltd - Ex-distribution When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WKEYV"
+  },
+  {
    "symbol": "WKHS",
    "name": "Workhorse Group, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -75532,19 +75556,19 @@
   {
    "symbol": "WWAC",
    "name": "Worldwide Webb Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WWAC"
   },
   {
    "symbol": "WWACU",
    "name": "Worldwide Webb Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WWACU"
   },
   {
    "symbol": "WWACW",
    "name": "Worldwide Webb Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WWACW"
   },
   {
@@ -90990,6 +91014,12 @@
    "name": "Obsidian Energy Ltd. Common Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "OBE"
+  },
+  {
+   "symbol": "OBK",
+   "name": "Origin Bancorp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OBK"
   },
   {
    "symbol": "OC",
