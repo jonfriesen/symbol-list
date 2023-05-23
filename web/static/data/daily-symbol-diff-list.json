@@ -1,108 +1,132 @@
 {
  "added": [
   {
-   "symbol": "ADVM",
-   "name": "Adverum Biotechnologies, Inc. - Common Stock",
+   "symbol": "WHE",
+   "name": "Waroona Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WHE.V",
+   "instruments": [
+    {
+     "name": "Waroona Energy Inc.",
+     "symbol": "WHE"
+    }
+   ]
+  },
+  {
+   "symbol": "CBAL",
+   "name": "CI Balanced Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBAL.TO",
+   "instruments": [
+    {
+     "name": "CI Bal Asset ETF Un",
+     "symbol": "CBAL"
+    }
+   ]
+  },
+  {
+   "symbol": "CBGR",
+   "name": "CI Balanced Growth Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBGR.TO",
+   "instruments": [
+    {
+     "name": "CI Bal G Asst ETF Un",
+     "symbol": "CBGR"
+    }
+   ]
+  },
+  {
+   "symbol": "CBIN",
+   "name": "CI Balanced Income Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBIN.TO",
+   "instruments": [
+    {
+     "name": "CI Bal In Ast ETF Un",
+     "symbol": "CBIN"
+    }
+   ]
+  },
+  {
+   "symbol": "CCNV",
+   "name": "CI Conservative Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCNV.TO",
+   "instruments": [
+    {
+     "name": "CI Conserv AsstAlloc",
+     "symbol": "CCNV"
+    }
+   ]
+  },
+  {
+   "symbol": "CEQT",
+   "name": "CI Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEQT.TO",
+   "instruments": [
+    {
+     "name": "CI Eqty Asset Alloc",
+     "symbol": "CEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "CGRO",
+   "name": "CI Growth Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGRO.TO",
+   "instruments": [
+    {
+     "name": "CI Grwth AssetAlloc",
+     "symbol": "CGRO"
+    }
+   ]
+  },
+  {
+   "symbol": "CNVS",
+   "name": "Cineverse Corp. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADVM"
+   "yahoo_symbol": "CNVS"
   },
   {
-   "symbol": "FRES",
-   "name": "Fresh2 Group Limited - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRES"
-  },
-  {
-   "symbol": "LAESV",
-   "name": "SEALSQ Corp - Ordinary shares When Issued",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LAESV"
-  },
-  {
-   "symbol": "OAKU",
-   "name": "Oak Woods Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OAKU"
-  },
-  {
-   "symbol": "OAKUR",
-   "name": "Oak Woods Acquisition Corporation - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OAKUR"
-  },
-  {
-   "symbol": "OAKUW",
-   "name": "Oak Woods Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OAKUW"
-  },
-  {
-   "symbol": "WKEYV",
-   "name": "WISeKey International Holding Ltd - Ex-distribution When Issued",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WKEYV"
-  },
-  {
-   "symbol": "WWAC",
-   "name": "Worldwide Webb Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WWAC"
-  },
-  {
-   "symbol": "WWACU",
-   "name": "Worldwide Webb Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WWACU"
-  },
-  {
-   "symbol": "WWACW",
-   "name": "Worldwide Webb Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WWACW"
-  },
-  {
-   "symbol": "OBK",
-   "name": "Origin Bancorp, Inc. Common Stock",
+   "symbol": "EQBK",
+   "name": "Equity Bancshares, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "OBK"
+   "yahoo_symbol": "EQBK"
   }
  ],
  "removed": [
   {
-   "symbol": "ADVM",
-   "name": "Adverum Biotechnologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ADVM"
-  },
-  {
-   "symbol": "ANPC",
-   "name": "AnPac Bio-Medical Science Co., Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ANPC"
-  },
-  {
-   "symbol": "WWACU",
-   "name": "Worldwide Webb Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WWACU"
-  },
-  {
-   "symbol": "WWAC",
-   "name": "Worldwide Webb Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WWAC"
-  },
-  {
-   "symbol": "WWACW",
-   "name": "Worldwide Webb Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WWACW"
-  },
-  {
-   "symbol": "OBNK",
-   "name": "Origin Bancorp, Inc. - Common Stock",
+   "symbol": "EQBK",
+   "name": "Equity Bancshares, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OBNK"
+   "yahoo_symbol": "EQBK"
+  },
+  {
+   "symbol": "MZN",
+   "name": "Metallum Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MZN.V",
+   "instruments": [
+    {
+     "name": "Metallum Resources Inc.",
+     "symbol": "MZN"
+    }
+   ]
+  },
+  {
+   "symbol": "ABB",
+   "name": "ABB Ltd Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ABB"
+  },
+  {
+   "symbol": "CIDM",
+   "name": "Cinedigm Corp - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CIDM"
   }
  ]
 }

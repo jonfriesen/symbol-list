@@ -940,7 +940,6 @@ MTX,Metalex Ventures Ltd.,TSXV,MTX.V,Metalex Ventures Ltd,MTX
 MTA,Metalla Royalty & Streaming Ltd.,TSXV,MTA.V,Metalla Royalty & Streaming Ltd.,MTA
 MMG,Metallic Minerals Corp.,TSXV,MMG.V,Metallic Minerals Corp.,MMG
 MTS,Metallis Resources Inc.,TSXV,MTS.V,Metallis Resources Inc.,MTS
-MZN,Metallum Resources Inc.,TSXV,MZN.V,Metallum Resources Inc.,MZN
 MET,Metalore Resources Limited,TSXV,MET.V,Metalore Resources Limited,MET
 MQM,Metalquest Mining Inc.,TSXV,MQM.V,Metalquest Mining Inc.,MQM
 MEK,Metals Creek Resources Corp.,TSXV,MEK.V,Metals Creek Resources Corp.,MEK
@@ -1579,6 +1578,7 @@ VRR,VR Resources Ltd.,TSXV,VRR.V,VR Resources Ltd.,VRR
 VUL,Vulcan Minerals Inc.,TSXV,VUL.V,Vulcan Minerals Inc,VUL
 VVC,VVC Exploration Corporation,TSXV,VVC.V,VVC Exploration Corporation,VVC
 WRR,Walker River Resources Corp.,TSXV,WRR.V,Walker River Resources Corp.,WRR
+WHE,Waroona Energy Inc.,TSXV,WHE.V,Waroona Energy Inc.,WHE
 WRI,Waseco Resources Inc.,TSXV,WRI.V,Waseco Resources Inc,WRI
 WWT,Water Ways Technologies Inc.,TSXV,WWT.V,Water Ways Technologies Inc.,WWT
 WAVE,Waverley Pharma Inc.,TSXV,WAVE.V,Waverley Pharma Inc.,WAVE
@@ -1695,7 +1695,7 @@ AP.UN,Allied Properties Real Estate Investment Trust,TSX,AP.UN.TO,Allied Prop. R
 AKE,Allkem Limited,TSX,AKE.TO,Allkem Limited Ord J,AKE
 AMM,Almaden Minerals Ltd.,TSX,AMM.TO,Almaden Minerals,AMM
 AII,Almonty Industries Inc.,TSX,AII.TO,Almonty Industries J,AII
-ATCU,Alta Copper Corp.,TSX,ATCU.TO,Candente Copper J,ATCU
+ATCU,Alta Copper Corp.,TSX,ATCU.TO,Alta Copper Corp. J,ATCU
 ALA,AltaGas Ltd.,TSX,ALA.TO,AltaGas Ltd.,ALA,AltaGas Ltd Sr A Pr,ALA.PR.A,AltaGas Ltd Sr B Pr,ALA.PR.B,AltaGas Ltd Sr E Pr,ALA.PR.E,AltaGas Ltd Sr G Pr,ALA.PR.G,AltaGas Ltd Sr H Pr,ALA.PR.H
 ALS,Altius Minerals Corporation,TSX,ALS.TO,Altius Minerals Corp,ALS
 ARR,Altius Renewable Royalties Corp.,TSX,ARR.TO,Altius RenewRoylty J,ARR
@@ -2043,10 +2043,14 @@ CMDO,CI Alternative Diversified Opportunities Fund,TSX,CMDO.TO,CI AltDiversOppor
 CRED,CI Alternative Investment Grade Credit Fund,TSX,CRED.TO,CI AltInvest CredtC$,CRED,CI AltInvest CredtUS,CRED.U
 CNAO,CI Alternative North American Opportunities Fund,TSX,CNAO.TO,CI Alt NA OpporC$ Un,CNAO,CI Alt NA Oppor HgUS,CNAO.U
 CCOM,CI Auspice Broad Commodity Fund,TSX,CCOM.TO,CI Auspice Cmdty Heg,CCOM
+CBAL,CI Balanced Asset Allocation ETF,TSX,CBAL.TO,CI Bal Asset ETF Un,CBAL
+CBGR,CI Balanced Growth Asset Allocation ETF,TSX,CBGR.TO,CI Bal G Asst ETF Un,CBGR
+CBIN,CI Balanced Income Asset Allocation ETF,TSX,CBIN.TO,CI Bal In Ast ETF Un,CBIN
 CDNA,CI Bio-Revolution Index ETF,TSX,CDNA.TO,CI Bio-Revolution Un,CDNA
 CIC,CI Canadian Banks Covered Call Income Class ETF,TSX,CIC.TO,CI CdnBks CovCalIncm,CIC
 CXF,CI Canadian Convertible Bond ETF,TSX,CXF.TO,CI Cdn Conv Bond Un,CXF
 RIT,CI Canadian REIT ETF,TSX,RIT.TO,CI Canadian REIT Un,RIT
+CCNV,CI Conservative Asset Allocation ETF,TSX,CCNV.TO,CI Conserv AsstAlloc,CCNV
 CBUG,CI Digital Security Index ETF,TSX,CBUG.TO,CI Digital Sec Un,CBUG
 CCOR,CI DoubleLine Core Plus Fixed Income US$ Fund,TSX,CCOR.TO,CI DbleLnFixUS$HegC$,CCOR,CI DbleLnFixUS$UnhC$,CCOR.B,CI DbleLnFixUS$UnUSF,CCOR.U
 CINC,CI DoubleLine Income US$ Fund,TSX,CINC.TO,CI DbleLnUS$IncmC$Hg,CINC,CI DbleLnUS$IncmC$Uh,CINC.B,CI DbleLnUS$Incm USF,CINC.U
@@ -2055,6 +2059,7 @@ CIEM,CI Emerging Markets Alpha ETF,TSX,CIEM.TO,CI EmergMktAlphCA UH,CIEM,CI Emer
 NXF,CI Energy Giants Covered Call ETF,TSX,NXF.TO,CI EnergyGiantCovHeg,NXF,CI EngyGiant UnhegUn,NXF.B,CI EngyGiantCovHG US,NXF.U
 FGO,CI Enhanced Government Bond ETF,TSX,FGO.TO,CI EnhancGovtBnd Heg,FGO,CI EnhancGvtBndHG US,FGO.U
 FSB,CI Enhanced Short Duration Bond Fund,TSX,FSB.TO,CI Enhnc ShrtDur Bnd,FSB,CI EnhancShrtBnd US,FSB.U
+CEQT,CI Equity Asset Allocation ETF,TSX,CEQT.TO,CI Eqty Asset Alloc,CEQT
 CIX,CI Financial Corp.,TSX,CIX.TO,CI Financial Corp.,CIX
 CFRT,CI Floating Rate Income Fund,TSX,CFRT.TO,CI Fltg Rate Incm C$,CFRT
 BTCX.B,CI Galaxy Bitcoin ETF,TSX,BTCX.B.TO,CI GalBitcnCA ETF UH,BTCX.B,CI GalBitcnETF UH US,BTCX.U
@@ -2077,6 +2082,7 @@ CGRE,CI Global REIT Private Pool,TSX,CGRE.TO,CI Glb REIT PrivPlC$,CGRE
 CGRN,CI Global Sustainable Infrastructure Fund,TSX,CGRN.TO,CI Glb SustInfras C$,CGRN,CI SustInfras HgUS$,CGRN.U
 VALT,CI Gold Bullion Fund,TSX,VALT.TO,CI GoldBullionC$ Heg,VALT,CI GoldBullionC$Unhg,VALT.B,CI GoldBullion US Un,VALT.U
 CGXF,CI Gold+ Giants Covered Call ETF,TSX,CGXF.TO,CI Gld+GiantCovr Heg,CGXF,CI Gold+GiantCovr US,CGXF.U
+CGRO,CI Growth Asset Allocation ETF,TSX,CGRO.TO,CI Grwth AssetAlloc,CGRO
 FHI,CI Health Care Giants Covered Call ETF,TSX,FHI.TO,CI HealthCareCovr HG,FHI,CI HlthCr GiaCovUnHg,FHI.B,CI HlthCareCovrHegUS,FHI.U
 CSAV,CI High Interest Savings ETF,TSX,CSAV.TO,CI HiInterestSvgs Un,CSAV
 CHNA.B,CI ICBCCS S&P China 500 Index ETF,TSX,CHNA.B.TO,CI ICBCCS SPChi500NH,CHNA.B
@@ -3108,6 +3114,7 @@ QBR.A,Quebecor Inc.,TSX,QBR.A.TO,Quebecor Inc Cl A MV,QBR.A,Quebecor Inc Cl B SV
 QRC,Queen's Road Capital Investment Ltd.,TSX,QRC.TO,Queen's Rd Cap Inv J,QRC
 QEC,Questerre Energy Corporation,TSX,QEC.TO,Questerre Corp. J,QEC
 RAV.UN,Ravensource Fund,TSX,RAV.UN.TO,Ravensource Fund Un,RAV.UN
+RBA,"RB Global, Inc.",TSX,RBA.TO,Ritchie Bros Auction,RBA
 RLB,RBC 1-5 Year Laddered Canadian Bond ETF,TSX,RLB.TO,RBC 1-5Yr LadCdn Bnd,RLB
 RBO,RBC 1-5 Year Laddered Corporate Bond ETF,TSX,RBO.TO,RBC 1-5Yr LddCrp Bnd,RBO
 RBNK,RBC Canadian Bank Yield Index ETF,TSX,RBNK.TO,RBC CdnBnk Yld Indx,RBNK
@@ -3158,7 +3165,6 @@ RPI.UN,Richards Packaging Income Fund,TSX,RPI.UN.TO,Richards Pckng Un,RPI.UN
 RCH,Richelieu Hardware Ltd.,TSX,RCH.TO,Richelieu Hardware,RCH
 RIB.UN,Ridgewood Canadian Investment Grade Bond Fund,TSX,RIB.UN.TO,Ridgewood Cdn Bnd Un,RIB.UN
 REI.UN,RioCan Real Estate Investment Trust,TSX,REI.UN.TO,RioCan Rl Est Tr Un,REI.UN
-RBA,Ritchie Bros. Auctioneers Incorporated,TSX,RBA.TO,Ritchie Bros Auction,RBA
 RCI.A,Rogers Communications Inc.,TSX,RCI.A.TO,Rogers Comm Cl A,RCI.A,Rogers Comm Cl B NV,RCI.B
 RSI,Rogers Sugar Inc.,TSX,RSI.TO,Rogers Sugar Inc.,RSI,Rogers Sugar 5% Db 6,RSI.DB.E,Rogers Sugar 4.75Db7,RSI.DB.F
 ROOT,Roots Corporation,TSX,ROOT.TO,Roots Corporation,ROOT
@@ -4454,7 +4460,6 @@ CHX,ChampionX Corporation - Common Stock,NASDAQ Global Select MarketSM,CHX
 CHY,Calamos Convertible and High Income Fund - Closed End Fund,NASDAQ Global Select MarketSM,CHY
 CIBR,First Trust NASDAQ Cybersecurity ETF,NASDAQ Global MarketSM,CIBR
 CID,VictoryShares International High Div Volatility Wtd ETF,NASDAQ Global MarketSM,CID
-CIDM,Cinedigm Corp - Class A Common Stock,NASDAQ Capital Market,CIDM
 CIFR,Cipher Mining Inc. - Common Stock,NASDAQ Global Select MarketSM,CIFR
 CIFRW,Cipher Mining Inc. - Warrant,NASDAQ Global Select MarketSM,CIFRW
 CIGI,Colliers International Group Inc.  - Subordinate Voting Shares,NASDAQ Global Select MarketSM,CIGI
@@ -4463,7 +4468,7 @@ CINF,Cincinnati Financial Corporation - Common Stock,NASDAQ Global Select Market
 CING,Cingulate Inc. - Common Stock,NASDAQ Capital Market,CING
 CINGW,Cingulate Inc. - Warrants,NASDAQ Capital Market,CINGW
 CIRC,JPMorgan Sustainable Consumption ETF,NASDAQ Global MarketSM,CIRC
-CISO,Cerberus Cyber Sentinel Corporation - Common Stock,NASDAQ Capital Market,CISO
+CISO,"CISO Global, Inc. - Common Stock",NASDAQ Capital Market,CISO
 CITE,Cartica Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,CITE
 CITEU,Cartica Acquisition Corp - Unit,NASDAQ Global MarketSM,CITEU
 CITEW,Cartica Acquisition Corp - Warrant,NASDAQ Global MarketSM,CITEW
@@ -4559,6 +4564,7 @@ CNTB,Connect Biopharma Holdings Limited - American Depositary Shares,NASDAQ Glob
 CNTG,Centogene N.V. - Common Shares,NASDAQ Global MarketSM,CNTG
 CNTX,Context Therapeutics Inc. - Common Stock,NASDAQ Capital Market,CNTX
 CNTY,"Century Casinos, Inc. - Common Stock",NASDAQ Capital Market,CNTY
+CNVS,Cineverse Corp. - Class A Common Stock,NASDAQ Capital Market,CNVS
 CNXA,Connexa Sports Technologies Inc. - Common Stock,NASDAQ Capital Market,CNXA
 CNXC,Concentrix Corporation - Common Stock,NASDAQ Global Select MarketSM,CNXC
 CNXN,"PC Connection, Inc. - Common Stock",NASDAQ Global Select MarketSM,CNXN
@@ -5014,7 +5020,6 @@ EPIX,ESSA Pharma Inc. - Common Stock,NASDAQ Capital Market,EPIX
 EPOW,"Sunrise New Energy Co., Ltd - Ordinary Shares",NASDAQ Capital Market,EPOW
 EPSN,Epsilon Energy Ltd. - Common Shares,NASDAQ Global MarketSM,EPSN
 EQ,"Equillium, Inc. - Common Stock",NASDAQ Global MarketSM,EQ
-EQBK,"Equity Bancshares, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,EQBK
 EQIX,"Equinix, Inc. - Common Stock",NASDAQ Global Select MarketSM,EQIX
 EQRR,ProShares Equities for Rising Rates ETF,NASDAQ Global MarketSM,EQRR
 EQRX,"EQRx, Inc.  - Common Stock",NASDAQ Global MarketSM,EQRX
@@ -8708,7 +8713,6 @@ AAP,Advance Auto Parts Inc.,NYSE,AAP
 AAT,"American Assets Trust, Inc. Common Stock",NYSE,AAT
 AAU,"Almaden Minerals, Ltd. Common Shares",NYSE MKT,AAU
 AB,AllianceBernstein Holding L.P.  Units,NYSE,AB
-ABB,ABB Ltd Common Stock,NYSE,ABB
 ABBV,AbbVie Inc. Common Stock,NYSE,ABBV
 ABC,AmerisourceBergen Corporation Common Stock,NYSE,ABC
 ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share),NYSE,ABEV
@@ -9869,6 +9873,7 @@ EPR$C,EPR Properties 5.75% Series C Cumulative Convertible Preferred Shares,NYSE
 EPR$E,EPR Properties Series E Cumulative Conv Pfd Shs Ser E,NYSE,EPR$E
 EPR$G,EPR Properties 5.750% Series G Cumulative Redeemable Preferred Shares,NYSE,EPR$G
 EPRT,"Essential Properties Realty Trust, Inc. Common Stock",NYSE,EPRT
+EQBK,"Equity Bancshares, Inc. Class A Common Stock",NYSE,EQBK
 EQC,Equity Commonwealth Common Shares of Beneficial Interest,NYSE,EQC
 EQC$D,Equity Commonwealth 6.50% Pfd Conv Shs Ser D,NYSE,EQC$D
 EQH,"Equitable Holdings, Inc. Common Stock",NYSE,EQH
@@ -11471,7 +11476,7 @@ RA,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,RA
 RACE,Ferrari N.V. Common Shares,NYSE,RACE
 RAD,Rite Aid Corporation Common Stock,NYSE,RAD
 RAMP,"LiveRamp Holdings, Inc. Common Stock",NYSE,RAMP
-RBA,Ritchie Bros. Auctioneers Incorporated Common Stock,NYSE,RBA
+RBA,"RB Global, Inc. Common Stock",NYSE,RBA
 RBC,RBC Bearings Incorporated Common Stock,NYSE,RBC
 RBCP,RBC Bearings Incorporated 5.00% Series A Mandatory Convertible Preferred Stock,NYSE,RBCP
 RBLX,Roblox Corporation Class A Common Stock,NYSE,RBLX

@@ -1,5 +1,5 @@
 {
- "date": "2023-05-22",
+ "date": "2023-05-23",
  "data": [
   {
    "symbol": "ONE",
@@ -11482,18 +11482,6 @@
    ]
   },
   {
-   "symbol": "MZN",
-   "name": "Metallum Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MZN.V",
-   "instruments": [
-    {
-     "name": "Metallum Resources Inc.",
-     "symbol": "MZN"
-    }
-   ]
-  },
-  {
    "symbol": "MET",
    "name": "Metalore Resources Limited",
    "exchange": "TSXV",
@@ -19310,6 +19298,18 @@
    ]
   },
   {
+   "symbol": "WHE",
+   "name": "Waroona Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WHE.V",
+   "instruments": [
+    {
+     "name": "Waroona Energy Inc.",
+     "symbol": "WHE"
+    }
+   ]
+  },
+  {
    "symbol": "WRI",
    "name": "Waseco Resources Inc.",
    "exchange": "TSXV",
@@ -20836,7 +20836,7 @@
    "yahoo_symbol": "ATCU.TO",
    "instruments": [
     {
-     "name": "Candente Copper J",
+     "name": "Alta Copper Corp. J",
      "symbol": "ATCU"
     }
    ]
@@ -25862,6 +25862,42 @@
    ]
   },
   {
+   "symbol": "CBAL",
+   "name": "CI Balanced Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBAL.TO",
+   "instruments": [
+    {
+     "name": "CI Bal Asset ETF Un",
+     "symbol": "CBAL"
+    }
+   ]
+  },
+  {
+   "symbol": "CBGR",
+   "name": "CI Balanced Growth Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBGR.TO",
+   "instruments": [
+    {
+     "name": "CI Bal G Asst ETF Un",
+     "symbol": "CBGR"
+    }
+   ]
+  },
+  {
+   "symbol": "CBIN",
+   "name": "CI Balanced Income Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBIN.TO",
+   "instruments": [
+    {
+     "name": "CI Bal In Ast ETF Un",
+     "symbol": "CBIN"
+    }
+   ]
+  },
+  {
    "symbol": "CDNA",
    "name": "CI Bio-Revolution Index ETF",
    "exchange": "TSX",
@@ -25906,6 +25942,18 @@
     {
      "name": "CI Canadian REIT Un",
      "symbol": "RIT"
+    }
+   ]
+  },
+  {
+   "symbol": "CCNV",
+   "name": "CI Conservative Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCNV.TO",
+   "instruments": [
+    {
+     "name": "CI Conserv AsstAlloc",
+     "symbol": "CCNV"
     }
    ]
   },
@@ -26046,6 +26094,18 @@
     {
      "name": "CI EnhancShrtBnd US",
      "symbol": "FSB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CEQT",
+   "name": "CI Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEQT.TO",
+   "instruments": [
+    {
+     "name": "CI Eqty Asset Alloc",
+     "symbol": "CEQT"
     }
    ]
   },
@@ -26362,6 +26422,18 @@
     {
      "name": "CI Gold+GiantCovr US",
      "symbol": "CGXF.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CGRO",
+   "name": "CI Growth Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGRO.TO",
+   "instruments": [
+    {
+     "name": "CI Grwth AssetAlloc",
+     "symbol": "CGRO"
     }
    ]
   },
@@ -40298,6 +40370,18 @@
    ]
   },
   {
+   "symbol": "RBA",
+   "name": "RB Global, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RBA.TO",
+   "instruments": [
+    {
+     "name": "Ritchie Bros Auction",
+     "symbol": "RBA"
+    }
+   ]
+  },
+  {
    "symbol": "RLB",
    "name": "RBC 1-5 Year Laddered Canadian Bond ETF",
    "exchange": "TSX",
@@ -40950,18 +41034,6 @@
     {
      "name": "RioCan Rl Est Tr Un",
      "symbol": "REI.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "RBA",
-   "name": "Ritchie Bros. Auctioneers Incorporated",
-   "exchange": "TSX",
-   "yahoo_symbol": "RBA.TO",
-   "instruments": [
-    {
-     "name": "Ritchie Bros Auction",
-     "symbol": "RBA"
     }
    ]
   },
@@ -50798,12 +50870,6 @@
    "yahoo_symbol": "CID"
   },
   {
-   "symbol": "CIDM",
-   "name": "Cinedigm Corp - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CIDM"
-  },
-  {
    "symbol": "CIFR",
    "name": "Cipher Mining Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -50853,7 +50919,7 @@
   },
   {
    "symbol": "CISO",
-   "name": "Cerberus Cyber Sentinel Corporation - Common Stock",
+   "name": "CISO Global, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CISO"
   },
@@ -51426,6 +51492,12 @@
    "name": "Century Casinos, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CNTY"
+  },
+  {
+   "symbol": "CNVS",
+   "name": "Cineverse Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNVS"
   },
   {
    "symbol": "CNXA",
@@ -54156,12 +54228,6 @@
    "name": "Equillium, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "EQ"
-  },
-  {
-   "symbol": "EQBK",
-   "name": "Equity Bancshares, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EQBK"
   },
   {
    "symbol": "EQIX",
@@ -76322,12 +76388,6 @@
    "yahoo_symbol": "AB"
   },
   {
-   "symbol": "ABB",
-   "name": "ABB Ltd Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ABB"
-  },
-  {
    "symbol": "ABBV",
    "name": "AbbVie Inc. Common Stock",
    "exchange": "NYSE",
@@ -83286,6 +83346,12 @@
    "name": "Essential Properties Realty Trust, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "EPRT"
+  },
+  {
+   "symbol": "EQBK",
+   "name": "Equity Bancshares, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQBK"
   },
   {
    "symbol": "EQC",
@@ -92901,7 +92967,7 @@
   },
   {
    "symbol": "RBA",
-   "name": "Ritchie Bros. Auctioneers Incorporated Common Stock",
+   "name": "RB Global, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RBA"
   },
