@@ -1,132 +1,150 @@
 {
  "added": [
   {
-   "symbol": "WHE",
-   "name": "Waroona Energy Inc.",
+   "symbol": "HTC",
+   "name": "HTC Purenergy Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "WHE.V",
+   "yahoo_symbol": "HTC.V",
    "instruments": [
     {
-     "name": "Waroona Energy Inc.",
-     "symbol": "WHE"
+     "name": "HTC Purenergy Inc",
+     "symbol": "HTC"
     }
    ]
   },
   {
-   "symbol": "CBAL",
-   "name": "CI Balanced Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CBAL.TO",
+   "symbol": "LWR",
+   "name": "Lake Winn Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LWR.V",
    "instruments": [
     {
-     "name": "CI Bal Asset ETF Un",
-     "symbol": "CBAL"
+     "name": "Lake Winn Resources Corp.",
+     "symbol": "LWR"
     }
    ]
   },
   {
-   "symbol": "CBGR",
-   "name": "CI Balanced Growth Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CBGR.TO",
+   "symbol": "RRCC.P",
+   "name": "Raging Rhino Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RRCC.P.V",
    "instruments": [
     {
-     "name": "CI Bal G Asst ETF Un",
-     "symbol": "CBGR"
+     "name": "Raging Rhino Capital Corp.",
+     "symbol": "RRCC.P"
     }
    ]
   },
   {
-   "symbol": "CBIN",
-   "name": "CI Balanced Income Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CBIN.TO",
-   "instruments": [
-    {
-     "name": "CI Bal In Ast ETF Un",
-     "symbol": "CBIN"
-    }
-   ]
+   "symbol": "LAES",
+   "name": "SEALSQ Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAES"
   },
   {
-   "symbol": "CCNV",
-   "name": "CI Conservative Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CCNV.TO",
-   "instruments": [
-    {
-     "name": "CI Conserv AsstAlloc",
-     "symbol": "CCNV"
-    }
-   ]
-  },
-  {
-   "symbol": "CEQT",
-   "name": "CI Equity Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CEQT.TO",
-   "instruments": [
-    {
-     "name": "CI Eqty Asset Alloc",
-     "symbol": "CEQT"
-    }
-   ]
-  },
-  {
-   "symbol": "CGRO",
-   "name": "CI Growth Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CGRO.TO",
-   "instruments": [
-    {
-     "name": "CI Grwth AssetAlloc",
-     "symbol": "CGRO"
-    }
-   ]
-  },
-  {
-   "symbol": "CNVS",
-   "name": "Cineverse Corp. - Class A Common Stock",
+   "symbol": "SHUA",
+   "name": "SHUAA Partners Acquisition Corp I - Class A Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNVS"
+   "yahoo_symbol": "SHUA"
   },
   {
-   "symbol": "EQBK",
-   "name": "Equity Bancshares, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQBK"
+   "symbol": "SHUAU",
+   "name": "SHUAA Partners Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHUAU"
+  },
+  {
+   "symbol": "SHUAW",
+   "name": "SHUAA Partners Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHUAW"
+  },
+  {
+   "symbol": "TYGO",
+   "name": "Tigo Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TYGO"
+  },
+  {
+   "symbol": "TYGOW",
+   "name": "Tigo Energy, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TYGOW"
   }
  ],
  "removed": [
   {
-   "symbol": "EQBK",
-   "name": "Equity Bancshares, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EQBK"
+   "symbol": "WKEYV",
+   "name": "WISeKey International Holding Ltd - Ex-distribution When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WKEYV"
   },
   {
-   "symbol": "MZN",
-   "name": "Metallum Resources Inc.",
+   "symbol": "AQUA",
+   "name": "Evoqua Water Technologies Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AQUA"
+  },
+  {
+   "symbol": "NH",
+   "name": "NantHealth, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NH"
+  },
+  {
+   "symbol": "SHUAU",
+   "name": "SHUAA Partners Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHUAU"
+  },
+  {
+   "symbol": "ROCGU",
+   "name": "Roth CH Acquisition IV Co. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROCGU"
+  },
+  {
+   "symbol": "ROCGW",
+   "name": "Roth CH Acquisition IV Co. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROCGW"
+  },
+  {
+   "symbol": "ROCG",
+   "name": "Roth CH Acquisition IV Co. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROCG"
+  },
+  {
+   "symbol": "PAS",
+   "name": "Pascal Biosciences Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MZN.V",
+   "yahoo_symbol": "PAS.V",
    "instruments": [
     {
-     "name": "Metallum Resources Inc.",
-     "symbol": "MZN"
+     "name": "Pascal Biosciences Inc.",
+     "symbol": "PAS"
     }
    ]
   },
   {
-   "symbol": "ABB",
-   "name": "ABB Ltd Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ABB"
+   "symbol": "SHUAW",
+   "name": "SHUAA Partners Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHUAW"
   },
   {
-   "symbol": "CIDM",
-   "name": "Cinedigm Corp - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CIDM"
+   "symbol": "LAESV",
+   "name": "SEALSQ Corp - Ordinary shares When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAESV"
+  },
+  {
+   "symbol": "SHUA",
+   "name": "SHUAA Partners Acquisition Corp I - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHUA"
   }
  ]
 }
