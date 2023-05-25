@@ -1,150 +1,100 @@
 {
  "added": [
   {
-   "symbol": "HTC",
-   "name": "HTC Purenergy Inc.",
+   "symbol": "OXSQR",
+   "name": "Oxford Square Capital Corp. - Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXSQR"
+  },
+  {
+   "symbol": "ATS",
+   "name": "ATS Corporation Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATS"
+  },
+  {
+   "symbol": "KNF.V",
+   "name": "Knife Riv Holding Co. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KNF.V"
+  },
+  {
+   "symbol": "MDU.V",
+   "name": "MDU Resources Group, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MDU.V"
+  },
+  {
+   "symbol": "GTM.P",
+   "name": "G2M Cap Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "HTC.V",
+   "yahoo_symbol": "GTM.P.V",
    "instruments": [
     {
-     "name": "HTC Purenergy Inc",
-     "symbol": "HTC"
+     "name": "G2M Cap Corp.",
+     "symbol": "GTM.P"
     }
    ]
   },
   {
-   "symbol": "LWR",
-   "name": "Lake Winn Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LWR.V",
+   "symbol": "PRV.DB",
+   "name": "PRO Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRV.DB.TO",
    "instruments": [
     {
-     "name": "Lake Winn Resources Corp.",
-     "symbol": "LWR"
-    }
-   ]
-  },
-  {
-   "symbol": "RRCC.P",
-   "name": "Raging Rhino Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RRCC.P.V",
-   "instruments": [
+     "name": "PRO Real Est Tr Deb",
+     "symbol": "PRV.DB"
+    },
     {
-     "name": "Raging Rhino Capital Corp.",
-     "symbol": "RRCC.P"
+     "name": "PRO Real Est Tr Un",
+     "symbol": "PRV.UN"
     }
    ]
-  },
-  {
-   "symbol": "LAES",
-   "name": "SEALSQ Corp - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LAES"
-  },
-  {
-   "symbol": "SHUA",
-   "name": "SHUAA Partners Acquisition Corp I - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHUA"
-  },
-  {
-   "symbol": "SHUAU",
-   "name": "SHUAA Partners Acquisition Corp I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHUAU"
-  },
-  {
-   "symbol": "SHUAW",
-   "name": "SHUAA Partners Acquisition Corp I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHUAW"
-  },
-  {
-   "symbol": "TYGO",
-   "name": "Tigo Energy, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TYGO"
-  },
-  {
-   "symbol": "TYGOW",
-   "name": "Tigo Energy, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TYGOW"
   }
  ],
  "removed": [
   {
-   "symbol": "WKEYV",
-   "name": "WISeKey International Holding Ltd - Ex-distribution When Issued",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WKEYV"
-  },
-  {
-   "symbol": "AQUA",
-   "name": "Evoqua Water Technologies Corp. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AQUA"
-  },
-  {
-   "symbol": "NH",
-   "name": "NantHealth, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NH"
-  },
-  {
-   "symbol": "SHUAU",
-   "name": "SHUAA Partners Acquisition Corp I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHUAU"
-  },
-  {
-   "symbol": "ROCGU",
-   "name": "Roth CH Acquisition IV Co. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ROCGU"
-  },
-  {
-   "symbol": "ROCGW",
-   "name": "Roth CH Acquisition IV Co. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ROCGW"
-  },
-  {
-   "symbol": "ROCG",
-   "name": "Roth CH Acquisition IV Co. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ROCG"
-  },
-  {
-   "symbol": "PAS",
-   "name": "Pascal Biosciences Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PAS.V",
+   "symbol": "PRV.UN",
+   "name": "PRO Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRV.UN.TO",
    "instruments": [
     {
-     "name": "Pascal Biosciences Inc.",
-     "symbol": "PAS"
+     "name": "PRO Real Est Tr Un",
+     "symbol": "PRV.UN"
     }
    ]
   },
   {
-   "symbol": "SHUAW",
-   "name": "SHUAA Partners Acquisition Corp I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHUAW"
+   "symbol": "EINC",
+   "name": "E Automotive Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EINC.TO",
+   "instruments": [
+    {
+     "name": "E Automotive Inc. J",
+     "symbol": "EINC"
+    }
+   ]
   },
   {
-   "symbol": "LAESV",
-   "name": "SEALSQ Corp - Ordinary shares When Issued",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LAESV"
+   "symbol": "MTU",
+   "name": "Manitou Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MTU.V",
+   "instruments": [
+    {
+     "name": "Manitou Gold Inc",
+     "symbol": "MTU"
+    }
+   ]
   },
   {
-   "symbol": "SHUA",
-   "name": "SHUAA Partners Acquisition Corp I - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHUA"
+   "symbol": "ATNX",
+   "name": "Athenex, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ATNX"
   }
  ]
 }
