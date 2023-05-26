@@ -1,14 +1,22 @@
 {
  "added": [
   {
-   "symbol": "PLUTUS",
-   "name": "PlutusDAO (PLUTUS)",
-   "built_on": "ARB"
+   "symbol": "PANDOP",
+   "name": "PandoProject (PANDOP)"
   },
   {
-   "symbol": "ZKBOB",
-   "name": "BOB (ZKBOB)",
-   "built_on": "MATIC"
+   "symbol": "MEED",
+   "name": "Meeds DAO (MEED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOKR",
+   "name": "Polkalokr (LOKR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VNM",
+   "name": "Venom (VNM)"
   },
   {
    "symbol": "DOGETH",
@@ -19,18 +27,9 @@
    "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "DROPS",
-   "name": "Drops (DROPS)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "POLKER",
-   "name": "Polker (POLKER)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "PLS",
-   "name": "Pulsechain (PLS)"
+   "symbol": "DIMO",
+   "name": "DIMO (DIMO)",
+   "built_on": "MATIC"
   },
   {
    "symbol": "BANKETH",
@@ -39,20 +38,8 @@
  ],
  "removed": [
   {
-   "symbol": "ZKBOB",
-   "name": "BOB (ZKBOB)"
-  },
-  {
-   "symbol": "PLSC",
-   "name": "Pulsechain (PLSC)"
-  },
-  {
-   "symbol": "DROPS",
-   "name": "Drops (DROPS)"
-  },
-  {
-   "symbol": "POLKER",
-   "name": "Polker (POLKER)"
+   "symbol": "LKR",
+   "name": "Polkalokr (LKR)"
   }
  ]
 }
