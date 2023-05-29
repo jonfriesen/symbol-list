@@ -1,45 +1,42 @@
 {
  "added": [
   {
-   "symbol": "PANDOP",
-   "name": "PandoProject (PANDOP)"
+   "symbol": "PLQ",
+   "name": "Planq (PLQ)"
   },
   {
-   "symbol": "MEED",
-   "name": "Meeds DAO (MEED)",
+   "symbol": "VNM",
+   "name": "Venom (VNM)",
    "built_on": "ETH"
   },
   {
-   "symbol": "LOKR",
-   "name": "Polkalokr (LOKR)",
-   "built_on": "BNB"
+   "symbol": "PET",
+   "name": "Hello Pets (PET)",
+   "built_on": "ETH"
   },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
   {
    "symbol": "VNM",
    "name": "Venom (VNM)"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "DIMO",
-   "name": "DIMO (DIMO)",
-   "built_on": "MATIC"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "LKR",
-   "name": "Polkalokr (LKR)"
+   "symbol": "PET",
+   "name": "Battle Pets (PET)"
   }
  ]
 }
