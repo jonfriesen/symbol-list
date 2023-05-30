@@ -1,17 +1,8 @@
 {
  "added": [
   {
-   "symbol": "PLQ",
-   "name": "Planq (PLQ)"
-  },
-  {
-   "symbol": "VNM",
-   "name": "Venom (VNM)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "PET",
-   "name": "Hello Pets (PET)",
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
@@ -23,20 +14,6 @@
    "symbol": "G",
    "name": "GRN Grid (G)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "VNM",
-   "name": "Venom (VNM)"
-  },
-  {
-   "symbol": "PET",
-   "name": "Battle Pets (PET)"
   }
  ]
 }
