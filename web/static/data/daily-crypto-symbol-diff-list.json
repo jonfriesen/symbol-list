@@ -1,26 +1,32 @@
 {
  "added": [
   {
-   "symbol": "METFI",
-   "name": "MetFi (METFI)"
+   "symbol": "EYE",
+   "name": "MEDIA EYE (EYE)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "EYETOKEN",
-   "name": "EYE Token (EYETOKEN)"
+   "symbol": "PETT",
+   "name": "Pett Network (PETT)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
+   "symbol": "PRIME",
+   "name": "Echelon Prime (PRIME)",
    "built_on": "ETH"
   },
   {
-   "symbol": "CHERRY",
-   "name": "CherrySwap (CHERRY)",
-   "built_on": "OKT"
+   "symbol": "PORTU",
+   "name": "Portuma (PORTU)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "ANRX",
-   "name": "AnRKey X (ANRX)"
+   "symbol": "PRIMECHAIN",
+   "name": "PrimeChain (PRIMECHAIN)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
   },
   {
    "symbol": "G",
@@ -28,47 +34,33 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "TRDL",
-   "name": "Strudel Finance (TRDL)"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "B",
-   "name": "BankCoin (B)"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "BOBT",
+   "name": "BOB Token (BOBT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BASED",
-   "name": "Based Money (BASED)"
+   "symbol": "HOSKY",
+   "name": "Hosky (HOSKY)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "SNEK",
+   "name": "Snek (SNEK)",
+   "built_on": "ADA"
   }
  ],
  "removed": [
   {
-   "symbol": "ROPE",
-   "name": "Rope Token (ROPE)"
+   "symbol": "PRIME",
+   "name": "PrimeChain (PRIME)"
   },
   {
-   "symbol": "CHE",
-   "name": "CherrySwap (CHE)"
-  },
-  {
-   "symbol": "$TRDL",
-   "name": "Strudel Finance ($TRDL)"
-  },
-  {
-   "symbol": "$ANRX",
-   "name": "AnRKey X ($ANRX)"
-  },
-  {
-   "symbol": "$BASED",
-   "name": "Based Money ($BASED)"
-  },
-  {
-   "symbol": "B@",
-   "name": "BankCoin (B@)"
+   "symbol": "EYE",
+   "name": "MEDIA EYE (EYE)"
   }
  ]
 }
