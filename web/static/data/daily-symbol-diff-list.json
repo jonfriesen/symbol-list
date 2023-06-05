@@ -1,90 +1,48 @@
 {
  "added": [
   {
-   "symbol": "ELTX",
-   "name": "Elicio Therapeutics, Inc. - Common Stock",
+   "symbol": "CJET",
+   "name": "Chijet Motor Company, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ELTX"
+   "yahoo_symbol": "CJET"
   },
   {
-   "symbol": "XELB",
-   "name": "Xcel Brands, Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XELB"
+   "symbol": "GAINL",
+   "name": "Gladstone Investment Corporation - 8.00% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GAINL"
   }
  ],
  "removed": [
   {
-   "symbol": "JWACR",
-   "name": "Jupiter Wellness Acquisition Corp. - Right",
+   "symbol": "PHGE.W",
+   "name": "BiomX Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PHGE.W"
+  },
+  {
+   "symbol": "SPCM",
+   "name": "Sound Point Acquisition Corp I, Ltd - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JWACR"
+   "yahoo_symbol": "SPCM"
   },
   {
-   "symbol": "TCRR",
-   "name": "TCR2 Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TCRR"
-  },
-  {
-   "symbol": "TCEC",
-   "name": "Tisdale Clean Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TCEC.V",
-   "instruments": [
-    {
-     "name": "Tisdale Clean Energy Corp.",
-     "symbol": "TCEC"
-    }
-   ]
-  },
-  {
-   "symbol": "JWAC",
-   "name": "Jupiter Wellness Acquisition Corp. - Class A Common Stock",
+   "symbol": "SPCMU",
+   "name": "Sound Point Acquisition Corp I, Ltd - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JWAC"
+   "yahoo_symbol": "SPCMU"
   },
   {
-   "symbol": "QTEKW",
-   "name": "QualTek Services Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QTEKW"
+   "symbol": "EOCW.W",
+   "name": "Elliott Opportunity II Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EOCW.W"
   },
   {
-   "symbol": "ANGN",
-   "name": "Angion Biomedica Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ANGN"
-  },
-  {
-   "symbol": "XELB",
-   "name": "Xcel Brands, Inc - Common Stock",
+   "symbol": "SPCMW",
+   "name": "Sound Point Acquisition Corp I, Ltd - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XELB"
-  },
-  {
-   "symbol": "QTEK",
-   "name": "QualTek Services Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QTEK"
-  },
-  {
-   "symbol": "BLCM",
-   "name": "Bellicum Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLCM"
-  },
-  {
-   "symbol": "MGI",
-   "name": "Moneygram International, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MGI"
-  },
-  {
-   "symbol": "KBAL",
-   "name": "Kimball International, Inc. - Class B Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KBAL"
+   "yahoo_symbol": "SPCMW"
   }
  ]
 }

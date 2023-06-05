@@ -1,5 +1,5 @@
 {
- "date": "2023-06-02",
+ "date": "2023-06-05",
  "data": [
   {
    "symbol": "ONE",
@@ -15934,10 +15934,6 @@
     {
      "name": "Saturn Oil \u0026 Gas Inc.",
      "symbol": "SOIL"
-    },
-    {
-     "name": "Saturn Oil \u0026 Gas Inc. wt 04Jun2023",
-     "symbol": "SOIL.WT"
     },
     {
      "name": "Saturn Oil \u0026 Gas Inc. wt 10Mar2025",
@@ -38330,6 +38326,10 @@
     {
      "name": "NFI Group Inc 5% Deb",
      "symbol": "NFI.DB"
+    },
+    {
+     "name": "NFI Group Inc. Rec",
+     "symbol": "NFI.R"
     }
    ]
   },
@@ -50988,6 +50988,12 @@
    "yahoo_symbol": "CIZN"
   },
   {
+   "symbol": "CJET",
+   "name": "Chijet Motor Company, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CJET"
+  },
+  {
    "symbol": "CJJD",
    "name": "China Jo-Jo Drugstores, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -56406,6 +56412,12 @@
    "yahoo_symbol": "GAIN"
   },
   {
+   "symbol": "GAINL",
+   "name": "Gladstone Investment Corporation - 8.00% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GAINL"
+  },
+  {
    "symbol": "GAINN",
    "name": "Gladstone Investment Corporation - 5.00% Notes Due 2026",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -60757,7 +60769,7 @@
   },
   {
    "symbol": "KHC",
-   "name": "Kraft Heinz Foods Company - Common Stock",
+   "name": "The Kraft Heinz Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "KHC"
   },
@@ -71206,24 +71218,6 @@
    "name": "SuperCom, Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SPCB"
-  },
-  {
-   "symbol": "SPCM",
-   "name": "Sound Point Acquisition Corp I, Ltd - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPCM"
-  },
-  {
-   "symbol": "SPCMU",
-   "name": "Sound Point Acquisition Corp I, Ltd - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPCMU"
-  },
-  {
-   "symbol": "SPCMW",
-   "name": "Sound Point Acquisition Corp I, Ltd - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPCMW"
   },
   {
    "symbol": "SPCX",
@@ -83136,12 +83130,6 @@
    "yahoo_symbol": "EOCW.U"
   },
   {
-   "symbol": "EOCW.W",
-   "name": "Elliott Opportunity II Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EOCW.W"
-  },
-  {
    "symbol": "EOD",
    "name": "Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -91930,12 +91918,6 @@
    "name": "BiomX Inc. Units",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "PHGE.U"
-  },
-  {
-   "symbol": "PHGE.W",
-   "name": "BiomX Inc. Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PHGE.W"
   },
   {
    "symbol": "PHI",
