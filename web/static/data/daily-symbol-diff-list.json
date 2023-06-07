@@ -1,78 +1,88 @@
 {
  "added": [
   {
-   "symbol": "PYPD",
-   "name": "PolyPid Ltd. - Ordinary Shares",
+   "symbol": "FI",
+   "name": "Fiserv, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FI"
+  },
+  {
+   "symbol": "SYBX",
+   "name": "Synlogic, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PYPD"
+   "yahoo_symbol": "SYBX"
+  },
+  {
+   "symbol": "MATR",
+   "name": "Shawcor Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MATR.TO",
+   "instruments": [
+    {
+     "name": "Shawcor Ltd.",
+     "symbol": "MATR"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "DBD",
-   "name": "Diebold Nixdorf Incorporated Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DBD"
-  },
-  {
-   "symbol": "RGG",
-   "name": "React Gaming Group Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RGG.V",
+   "symbol": "SCL",
+   "name": "Shawcor Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCL.TO",
    "instruments": [
     {
-     "name": "React Gaming Group Inc.",
-     "symbol": "RGG"
+     "name": "Shawcor Ltd.",
+     "symbol": "SCL"
     }
    ]
   },
   {
-   "symbol": "BPAC",
-   "name": "Bullpen Parlay Acquisition Company - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BPAC"
+   "symbol": "FISV",
+   "name": "Fiserv, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FISV"
   },
   {
-   "symbol": "BPACU",
-   "name": "Bullpen Parlay Acquisition Company - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BPACU"
-  },
-  {
-   "symbol": "BPACW",
-   "name": "Bullpen Parlay Acquisition Company - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BPACW"
-  },
-  {
-   "symbol": "PYPD",
-   "name": "PolyPid Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PYPD"
-  },
-  {
-   "symbol": "VONE",
-   "name": "Voyager Metals Inc.",
+   "symbol": "MCLD",
+   "name": "mCloud Technologies Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "VONE.V",
+   "yahoo_symbol": "MCLD.V",
    "instruments": [
     {
-     "name": "Voyager Metals Inc.",
-     "symbol": "VONE"
+     "name": "mCloud Technologies Corp.",
+     "symbol": "MCLD"
+    },
+    {
+     "name": "Mcloud Technologies Corp wt 14Jan2025",
+     "symbol": "MCLD.WT"
     }
    ]
   },
   {
-   "symbol": "HULK",
-   "name": "Pontus Protein Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HULK.V",
+   "symbol": "SYBX",
+   "name": "Synlogic, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SYBX"
+  },
+  {
+   "symbol": "FAF",
+   "name": "Fire \u0026 Flower Holdings Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FAF.TO",
    "instruments": [
     {
-     "name": "Pontus Protein Ltd.",
-     "symbol": "HULK"
+     "name": "Fire \u0026 Flower Hldg J",
+     "symbol": "FAF"
     }
    ]
+  },
+  {
+   "symbol": "SNMP",
+   "name": "Evolve Transition Infrastructure LP Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SNMP"
   }
  ]
 }
