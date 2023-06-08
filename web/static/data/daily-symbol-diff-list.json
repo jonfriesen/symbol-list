@@ -1,88 +1,114 @@
 {
  "added": [
   {
-   "symbol": "FI",
-   "name": "Fiserv, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FI"
-  },
-  {
-   "symbol": "SYBX",
-   "name": "Synlogic, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SYBX"
-  },
-  {
-   "symbol": "MATR",
-   "name": "Shawcor Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MATR.TO",
+   "symbol": "CLIC",
+   "name": "Comet Lithium Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLIC.V",
    "instruments": [
     {
-     "name": "Shawcor Ltd.",
-     "symbol": "MATR"
+     "name": "Comet Lithium Corporation",
+     "symbol": "CLIC"
     }
    ]
   }
  ],
  "removed": [
   {
-   "symbol": "SCL",
-   "name": "Shawcor Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SCL.TO",
-   "instruments": [
-    {
-     "name": "Shawcor Ltd.",
-     "symbol": "SCL"
-    }
-   ]
-  },
-  {
-   "symbol": "FISV",
-   "name": "Fiserv, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FISV"
-  },
-  {
-   "symbol": "MCLD",
-   "name": "mCloud Technologies Corp.",
+   "symbol": "XTT",
+   "name": "X-Terra Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MCLD.V",
+   "yahoo_symbol": "XTT.V",
    "instruments": [
     {
-     "name": "mCloud Technologies Corp.",
-     "symbol": "MCLD"
-    },
-    {
-     "name": "Mcloud Technologies Corp wt 14Jan2025",
-     "symbol": "MCLD.WT"
+     "name": "X-Terra Resources Inc.",
+     "symbol": "XTT"
     }
    ]
   },
   {
-   "symbol": "SYBX",
-   "name": "Synlogic, Inc. - Common Stock",
+   "symbol": "AVAC",
+   "name": "Avalon Acquisition Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SYBX"
+   "yahoo_symbol": "AVAC"
   },
   {
-   "symbol": "FAF",
-   "name": "Fire \u0026 Flower Holdings Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "FAF.TO",
+   "symbol": "OZON",
+   "name": "Ozon Holdings PLC - ADS, each ADS representing one ordinary share",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OZON"
+  },
+  {
+   "symbol": "TIL",
+   "name": "Till Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TIL.V",
    "instruments": [
     {
-     "name": "Fire \u0026 Flower Hldg J",
-     "symbol": "FAF"
+     "name": "Till Capital Corporation",
+     "symbol": "TIL"
     }
    ]
   },
   {
-   "symbol": "SNMP",
-   "name": "Evolve Transition Infrastructure LP Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SNMP"
+   "symbol": "AVACU",
+   "name": "Avalon Acquisition Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVACU"
+  },
+  {
+   "symbol": "HHR",
+   "name": "HeadHunter Group PLC - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HHR"
+  },
+  {
+   "symbol": "BDOP",
+   "name": "Black Diamond Distressed Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BDOP.TO",
+   "instruments": [
+    {
+     "name": "BlackDiamnDstressOpp",
+     "symbol": "BDOP"
+    }
+   ]
+  },
+  {
+   "symbol": "STET",
+   "name": "ST Energy Transition I Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STET"
+  },
+  {
+   "symbol": "STET.U",
+   "name": "ST Energy Transition I Ltd. SAIL securities, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STET.U"
+  },
+  {
+   "symbol": "AVACW",
+   "name": "Avalon Acquisition Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVACW"
+  },
+  {
+   "symbol": "CO",
+   "name": "Global Cord Blood Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CO"
+  },
+  {
+   "symbol": "PSYF.P",
+   "name": "GHP Noetic Science-Psychedelic Pharma Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PSYF.P.V",
+   "instruments": [
+    {
+     "name": "GHP Noetic Science-Psychedelic Pharma Inc.",
+     "symbol": "PSYF.P"
+    }
+   ]
   }
  ]
 }
