@@ -1,114 +1,270 @@
 {
  "added": [
   {
-   "symbol": "CLIC",
-   "name": "Comet Lithium Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CLIC.V",
-   "instruments": [
-    {
-     "name": "Comet Lithium Corporation",
-     "symbol": "CLIC"
-    }
-   ]
+   "symbol": "NPWR",
+   "name": "NET Power Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NPWR"
+  },
+  {
+   "symbol": "NPWR.W",
+   "name": "NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NPWR.W"
+  },
+  {
+   "symbol": "BENF",
+   "name": "Beneficient - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BENF"
+  },
+  {
+   "symbol": "BENFW",
+   "name": "Beneficient - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BENFW"
+  },
+  {
+   "symbol": "LANDP",
+   "name": "Gladstone Land Corporation - 6.00% Series C Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LANDP"
+  },
+  {
+   "symbol": "RUNN",
+   "name": "Running Oak Efficient Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RUNN"
+  },
+  {
+   "symbol": "USCL",
+   "name": "iShares Climate Conscious \u0026 Transition MSCI USA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USCL"
   }
  ],
  "removed": [
   {
-   "symbol": "XTT",
-   "name": "X-Terra Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "XTT.V",
-   "instruments": [
-    {
-     "name": "X-Terra Resources Inc.",
-     "symbol": "XTT"
-    }
-   ]
+   "symbol": "GAZ",
+   "name": "Barclays Bank PLC iPath Series B Bloomberg Natural Gas Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "GAZ"
   },
   {
-   "symbol": "AVAC",
-   "name": "Avalon Acquisition Inc. - Class A Common Stock",
+   "symbol": "SCUA.U",
+   "name": "Sculptor Acquisition Corp I Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCUA.U"
+  },
+  {
+   "symbol": "JJP",
+   "name": "iPathA Series B Bloomberg Precious Metals Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJP"
+  },
+  {
+   "symbol": "RONI.U",
+   "name": "Rice Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RONI.U"
+  },
+  {
+   "symbol": "STSA",
+   "name": "Satsuma Pharmaceuticals, Inc. - Common stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVAC"
+   "yahoo_symbol": "STSA"
   },
   {
-   "symbol": "OZON",
-   "name": "Ozon Holdings PLC - ADS, each ADS representing one ordinary share",
+   "symbol": "WEJO",
+   "name": "Wejo Group Limited - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OZON"
+   "yahoo_symbol": "WEJO"
   },
   {
-   "symbol": "TIL",
-   "name": "Till Capital Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TIL.V",
-   "instruments": [
-    {
-     "name": "Till Capital Corporation",
-     "symbol": "TIL"
-    }
-   ]
+   "symbol": "JJE",
+   "name": "iPathA Series B Bloomberg Energy Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJE"
   },
   {
-   "symbol": "AVACU",
-   "name": "Avalon Acquisition Inc. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVACU"
+   "symbol": "SCUA.W",
+   "name": "Sculptor Acquisition Corp I Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCUA.W"
   },
   {
-   "symbol": "HHR",
-   "name": "HeadHunter Group PLC - American Depositary Shares",
+   "symbol": "JJG",
+   "name": "iPathA Series B Bloomberg Grains Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJG"
+  },
+  {
+   "symbol": "JJC",
+   "name": "iPathA Series B Bloomberg Copper Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJC"
+  },
+  {
+   "symbol": "JJN",
+   "name": "iPathA Series B Bloomberg Nickel Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJN"
+  },
+  {
+   "symbol": "GSP",
+   "name": "Barclays Bank PLC iPath Exchange Traded Notes due June 12, 2036 Linked to GSCI Total Return Index",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "GSP"
+  },
+  {
+   "symbol": "RONI",
+   "name": "Rice Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RONI"
+  },
+  {
+   "symbol": "PGM",
+   "name": "iPathA Series B Bloomberg Platinum Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "PGM"
+  },
+  {
+   "symbol": "COW",
+   "name": "iPathA Series B Bloomberg Livestock Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "COW"
+  },
+  {
+   "symbol": "SCUA",
+   "name": "Sculptor Acquisition Corp I Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCUA"
+  },
+  {
+   "symbol": "JJT",
+   "name": "iPathA Series B Bloomberg Tin Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJT"
+  },
+  {
+   "symbol": "RONI.W",
+   "name": "Rice Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RONI.W"
+  },
+  {
+   "symbol": "JJM",
+   "name": "iPathA Series B Bloomberg Industrial Metals Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJM"
+  },
+  {
+   "symbol": "NIB",
+   "name": "iPath Bloomberg Cocoa Subindex Total Return SM IndexETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "NIB"
+  },
+  {
+   "symbol": "JJS",
+   "name": "iPathA Series B Bloomberg Softs Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJS"
+  },
+  {
+   "symbol": "BAL",
+   "name": "iPathA Series B Bloomberg Cotton Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "BAL"
+  },
+  {
+   "symbol": "SGG",
+   "name": "iPathA Series B Bloomberg Sugar Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "SGG"
+  },
+  {
+   "symbol": "BCM",
+   "name": "iPath Pure Beta Broad Commodity ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "BCM"
+  },
+  {
+   "symbol": "JJU",
+   "name": "iPathA Series B Bloomberg Aluminum Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJU"
+  },
+  {
+   "symbol": "WEJOW",
+   "name": "Wejo Group Limited - Warrant",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HHR"
+   "yahoo_symbol": "WEJOW"
   },
   {
-   "symbol": "BDOP",
-   "name": "Black Diamond Distressed Opportunities Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "BDOP.TO",
-   "instruments": [
-    {
-     "name": "BlackDiamnDstressOpp",
-     "symbol": "BDOP"
-    }
-   ]
-  },
-  {
-   "symbol": "STET",
-   "name": "ST Energy Transition I Ltd. Class A Ordinary Shares",
+   "symbol": "MTVC",
+   "name": "Motive Capital Corp II Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "STET"
+   "yahoo_symbol": "MTVC"
   },
   {
-   "symbol": "STET.U",
-   "name": "ST Energy Transition I Ltd. SAIL securities, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "STET.U"
+   "symbol": "LD",
+   "name": "iPath Bloomberg Lead Subindex Total Return SM Index ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "LD"
   },
   {
-   "symbol": "AVACW",
-   "name": "Avalon Acquisition Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVACW"
-  },
-  {
-   "symbol": "CO",
-   "name": "Global Cord Blood Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CO"
-  },
-  {
-   "symbol": "PSYF.P",
-   "name": "GHP Noetic Science-Psychedelic Pharma Inc.",
+   "symbol": "SNYB",
+   "name": "Shiny Health \u0026 Wellness Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PSYF.P.V",
+   "yahoo_symbol": "SNYB.V",
    "instruments": [
     {
-     "name": "GHP Noetic Science-Psychedelic Pharma Inc.",
-     "symbol": "PSYF.P"
+     "name": "Shiny Health \u0026 Wellness Corp.",
+     "symbol": "SNYB"
     }
    ]
+  },
+  {
+   "symbol": "MTVC.W",
+   "name": "Motive Capital Corp II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTVC.W"
+  },
+  {
+   "symbol": "KO",
+   "name": "Kiaro Holdings Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KO.V",
+   "instruments": [
+    {
+     "name": "Kiaro Holdings Corp.",
+     "symbol": "KO"
+    }
+   ]
+  },
+  {
+   "symbol": "JJA",
+   "name": "iPathA Series B Bloomberg Agriculture Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JJA"
+  },
+  {
+   "symbol": "MTVC.U",
+   "name": "Motive Capital Corp II Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTVC.U"
+  },
+  {
+   "symbol": "JO",
+   "name": "iPathA Series B Bloomberg Coffee Subindex Total Return ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "JO"
+  },
+  {
+   "symbol": "OIL",
+   "name": "iPath Pure Beta Crude Oil ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "OIL"
   }
  ]
 }
