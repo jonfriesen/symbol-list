@@ -1,148 +1,84 @@
 {
  "added": [
   {
-   "symbol": "FOM",
-   "name": "Foran Mining Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "FOM.TO",
-   "instruments": [
-    {
-     "name": "Foran Mining Corp J",
-     "symbol": "FOM"
-    }
-   ]
+   "symbol": "COEP",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COEP"
   },
   {
-   "symbol": "AACT",
-   "name": "Ares Acquisition Corporation II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AACT"
+   "symbol": "COEPW",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COEPW"
   },
   {
-   "symbol": "AACT.W",
-   "name": "Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AACT.W"
+   "symbol": "FBOT",
+   "name": "Fidelity Disruptive Automation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBOT"
   },
   {
-   "symbol": "EVE",
-   "name": "EVe Mobility Acquisition Corp Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "EVE"
+   "symbol": "FDCF",
+   "name": "Fidelity Disruptive Communications ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDCF"
   },
   {
-   "symbol": "EVE.U",
-   "name": "EVe Mobility Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant(",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "EVE.U"
+   "symbol": "FDFF",
+   "name": "Fidelity Disruptive Finance ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDFF"
   },
   {
-   "symbol": "EVE.W",
-   "name": "EVe Mobility Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "EVE.W"
+   "symbol": "FDTX",
+   "name": "Fidelity Disruptive Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDTX"
   },
   {
-   "symbol": "STEL",
-   "name": "Stellar Bancorp, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "STEL"
+   "symbol": "FMED",
+   "name": "Fidelity Disruptive Medicine ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMED"
+  },
+  {
+   "symbol": "INDV",
+   "name": "Indivior PLC - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INDV"
   }
  ],
  "removed": [
   {
-   "symbol": "ATIP.W",
-   "name": "ATI Physical Therapy, Inc. Warrants",
+   "symbol": "COEPW",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COEPW"
+  },
+  {
+   "symbol": "COEP",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COEP"
+  },
+  {
+   "symbol": "RJAC",
+   "name": "Jackson Acquisition Company Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ATIP.W"
+   "yahoo_symbol": "RJAC"
   },
   {
-   "symbol": "EVE.W",
-   "name": "EVe Mobility Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EVE.W"
-  },
-  {
-   "symbol": "GROV.W",
-   "name": "Grove Collaborative Holdings, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GROV.W"
-  },
-  {
-   "symbol": "SNRHU",
-   "name": "Senior Connect Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SNRHU"
-  },
-  {
-   "symbol": "ABTC",
-   "name": "Accelerate Carbon-Negative Bitcoin ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ABTC.TO",
-   "instruments": [
-    {
-     "name": "AccelerateCarbnNegCA",
-     "symbol": "ABTC"
-    },
-    {
-     "name": "AccelerateCarbnNegUS",
-     "symbol": "ABTC.U"
-    }
-   ]
-  },
-  {
-   "symbol": "KSPN",
-   "name": "Kaspien Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KSPN"
-  },
-  {
-   "symbol": "EVE.U",
-   "name": "EVe Mobility Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant(",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EVE.U"
-  },
-  {
-   "symbol": "CS",
-   "name": "Credit Suisse Group American Depositary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CS"
-  },
-  {
-   "symbol": "SNRHW",
-   "name": "Senior Connect Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SNRHW"
-  },
-  {
-   "symbol": "SNRH",
-   "name": "Senior Connect Acquisition Corp. I - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SNRH"
-  },
-  {
-   "symbol": "FOM",
-   "name": "Foran Mining Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FOM.V",
-   "instruments": [
-    {
-     "name": "Foran Mining Corporation",
-     "symbol": "FOM"
-    }
-   ]
-  },
-  {
-   "symbol": "EVE",
-   "name": "EVe Mobility Acquisition Corp Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EVE"
-  },
-  {
-   "symbol": "STEL",
-   "name": "Stellar Bancorp, Inc. - Common Stock",
+   "symbol": "GTXAP",
+   "name": "Garrett Motion Inc. - Series A Cumulative Convertible Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "STEL"
+   "yahoo_symbol": "GTXAP"
+  },
+  {
+   "symbol": "RJAC.U",
+   "name": "Jackson Acquisition Company Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RJAC.U"
   }
  ]
 }
