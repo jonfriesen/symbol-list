@@ -1,5 +1,5 @@
 {
- "date": "2023-06-14",
+ "date": "2023-06-15",
  "data": [
   {
    "symbol": "ONE",
@@ -10366,10 +10366,6 @@
     {
      "name": "Legend Power Systems Inc.",
      "symbol": "LPS"
-    },
-    {
-     "name": "Legend Power Systems Inc. wt 15Jun2023",
-     "symbol": "LPS.WT.A"
     }
    ]
   },
@@ -13854,6 +13850,18 @@
    ]
   },
   {
+   "symbol": "PER",
+   "name": "Peruvian Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PER.V",
+   "instruments": [
+    {
+     "name": "Peruvian Metals Corp.",
+     "symbol": "PER"
+    }
+   ]
+  },
+  {
    "symbol": "PESO",
    "name": "Pesorama Inc.",
    "exchange": "TSXV",
@@ -15846,26 +15854,6 @@
     {
      "name": "SATO Technologies Corp.",
      "symbol": "SATO"
-    }
-   ]
-  },
-  {
-   "symbol": "SOIL",
-   "name": "Saturn Oil \u0026 Gas Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SOIL.V",
-   "instruments": [
-    {
-     "name": "Saturn Oil \u0026 Gas Inc.",
-     "symbol": "SOIL"
-    },
-    {
-     "name": "Saturn Oil \u0026 Gas Inc. wt 10Mar2025",
-     "symbol": "SOIL.WT.A"
-    },
-    {
-     "name": "Saturn Oil \u0026 Gas Inc. wt 07Jul2023",
-     "symbol": "SOIL.WT.B"
     }
    ]
   },
@@ -24302,6 +24290,18 @@
    ]
   },
   {
+   "symbol": "SPLT",
+   "name": "Brompton Split Corp. Preferred Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPLT.TO",
+   "instruments": [
+    {
+     "name": "Brompton SpltPref Un",
+     "symbol": "SPLT"
+    }
+   ]
+  },
+  {
    "symbol": "BREA",
    "name": "Brompton Sustainable Real Assets Dividend ETF",
    "exchange": "TSX",
@@ -31630,6 +31630,18 @@
     {
      "name": "HamiltonUS M/S FinUS",
      "symbol": "HUM.U"
+    }
+   ]
+  },
+  {
+   "symbol": "UMAX",
+   "name": "Hamilton Utilities Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UMAX.TO",
+   "instruments": [
+    {
+     "name": "Hamilton UtilYldMx E",
+     "symbol": "UMAX"
     }
    ]
   },
@@ -41194,6 +41206,26 @@
    ]
   },
   {
+   "symbol": "SOIL",
+   "name": "Saturn Oil \u0026 Gas Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOIL.TO",
+   "instruments": [
+    {
+     "name": "Saturn Oil \u0026 Gas Inc",
+     "symbol": "SOIL"
+    },
+    {
+     "name": "Saturn Oil\u0026Gas A Wt",
+     "symbol": "SOIL.WT.A"
+    },
+    {
+     "name": "Saturn Oil\u0026Gas B Wt",
+     "symbol": "SOIL.WT.B"
+    }
+   ]
+  },
+  {
    "symbol": "SIS",
    "name": "Savaria Corporation",
    "exchange": "TSX",
@@ -45067,7 +45099,7 @@
   },
   {
    "symbol": "ACWX",
-   "name": "iShares MSCI ACWI ex US Index Fund",
+   "name": "iShares MSCI ACWI ex U.S. ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ACWX"
   },
@@ -49722,6 +49754,12 @@
    "yahoo_symbol": "CALB"
   },
   {
+   "symbol": "CALC",
+   "name": "CalciMedica, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CALC"
+  },
+  {
    "symbol": "CALM",
    "name": "Cal-Maine Foods, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -49795,7 +49833,7 @@
   },
   {
    "symbol": "CARZ",
-   "name": "First Trust S-Network Future Vehicles \u0026 Technology ETF",
+   "name": "First Trust S-Network Electric \u0026 Future Vehicle Ecosystem ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CARZ"
   },
@@ -52368,12 +52406,6 @@
    "yahoo_symbol": "CYTO"
   },
   {
-   "symbol": "CYXT",
-   "name": "Cyxtera Technologies, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CYXT"
-  },
-  {
    "symbol": "CZFS",
    "name": "Citizens Financial Services, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -53233,7 +53265,7 @@
   },
   {
    "symbol": "DVAL",
-   "name": "BrandywineGLOBAL - Dynamic US Large Cap Value ETF",
+   "name": "BrandywineGLOBAL-Dynamic US Large Cap Value ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DVAL"
   },
@@ -53293,7 +53325,7 @@
   },
   {
    "symbol": "DWMC",
-   "name": "AdvisorShares Dorsey Wright Micro-Cap ETF",
+   "name": "AdvisorShares Dorsey Wright Small Company ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DWMC"
   },
@@ -54238,6 +54270,12 @@
    "name": "iShares ESG Aware MSCI USA ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ESGU"
+  },
+  {
+   "symbol": "ESHAU",
+   "name": "ESH Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESHAU"
   },
   {
    "symbol": "ESLT",
@@ -56041,7 +56079,7 @@
   },
   {
    "symbol": "FTSL",
-   "name": "First Trust Senior Loan Fund ETF",
+   "name": "First Trust Senior Loan Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FTSL"
   },
@@ -58386,12 +58424,6 @@
    "yahoo_symbol": "HTCR"
   },
   {
-   "symbol": "HTGM",
-   "name": "HTG Molecular Diagnostics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HTGM"
-  },
-  {
    "symbol": "HTHT",
    "name": "H World Group Limited - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58705,7 +58737,7 @@
   },
   {
    "symbol": "IBET",
-   "name": "iBET Sports Betting and Gaming ETF",
+   "name": "iBET Sports Betting \u0026 Gaming ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IBET"
   },
@@ -59101,7 +59133,7 @@
   },
   {
    "symbol": "IJT",
-   "name": "iShares S\u0026P Small-Cap 600 Growth ETF",
+   "name": "iShares S\u0026P SmallCap 600 Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IJT"
   },
@@ -61795,7 +61827,7 @@
   },
   {
    "symbol": "LPRO",
-   "name": "Open Lending Corporation - Class A Common Stock",
+   "name": "Open Lending Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LPRO"
   },
@@ -65904,12 +65936,6 @@
    "yahoo_symbol": "OXSQL"
   },
   {
-   "symbol": "OXSQR",
-   "name": "Oxford Square Capital Corp. - Right",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OXSQR"
-  },
-  {
    "symbol": "OXSQZ",
    "name": "Oxford Square Capital Corp. - 6.25% Notes due 2026",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68179,7 +68205,7 @@
   },
   {
    "symbol": "QYLD",
-   "name": "Global X NASDAQ-100 Covered Call ETF",
+   "name": "Global X NASDAQ 100 Covered Call ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QYLD"
   },
@@ -69250,12 +69276,6 @@
    "name": "Rush Enterprises, Inc. - Class B Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "RUSHB"
-  },
-  {
-   "symbol": "RUTH",
-   "name": "Ruth's Hospitality Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RUTH"
   },
   {
    "symbol": "RVLP",
@@ -70381,7 +70401,7 @@
   },
   {
    "symbol": "SKYU",
-   "name": "ProShares Ultra Nasdaq Cloud Computing ETF",
+   "name": "ProShares Ultra Cloud Computing",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SKYU"
   },
@@ -71053,7 +71073,7 @@
   },
   {
    "symbol": "SPCX",
-   "name": "The SPAC and New Issue ETF",
+   "name": "AXS SPAC and New Issue ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SPCX"
   },
@@ -72955,7 +72975,7 @@
   },
   {
    "symbol": "TSL",
-   "name": "GraniteShares 1.25x Long Tesla Daily ETF",
+   "name": "GraniteShares 1.25x Long TSLA Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TSL"
   },
@@ -73255,7 +73275,7 @@
   },
   {
    "symbol": "UBND",
-   "name": "VictoryShares Core Plus Intermediate Bond ETF",
+   "name": "VictoryShares ESG Core Plus Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UBND"
   },
@@ -73297,7 +73317,7 @@
   },
   {
    "symbol": "UCRD",
-   "name": "VictoryShares Corporate Bond ETF",
+   "name": "VictoryShares ESG Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UCRD"
   },
@@ -73309,7 +73329,7 @@
   },
   {
    "symbol": "UCYB",
-   "name": "ProShares Ultra Nasdaq Cybersecurity ETF",
+   "name": "ProShares Ultra Nasdaq Cybersecurity",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UCYB"
   },
@@ -73393,7 +73413,7 @@
   },
   {
    "symbol": "UITB",
-   "name": "VictoryShares Core Intermediate Bond ETF",
+   "name": "VictoryShares USAA Core Intermediate-Term Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UITB"
   },
@@ -73456,12 +73476,6 @@
    "name": "Wahed Dow Jones Islamic World ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UMMA"
-  },
-  {
-   "symbol": "UNAM",
-   "name": "Unico American Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UNAM"
   },
   {
    "symbol": "UNB",
@@ -73693,7 +73707,7 @@
   },
   {
    "symbol": "USTB",
-   "name": "VictoryShares Short-Term Bond ETF",
+   "name": "VictoryShares USAA Core Short-Term Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "USTB"
   },
@@ -74089,7 +74103,7 @@
   },
   {
    "symbol": "VGLT",
-   "name": "Vanguard Long-Treasury ETF",
+   "name": "Vanguard Long-Term Treasury ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VGLT"
   },
@@ -75397,7 +75411,7 @@
   },
   {
    "symbol": "XDNA",
-   "name": "Strategic CRISPR \u0026 Gene Editing Technology ETF",
+   "name": "Kelly CRISPR \u0026 Gene Editing Technology ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "XDNA"
   },
@@ -77392,12 +77406,6 @@
    "name": "Aptiv PLC Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "APTV"
-  },
-  {
-   "symbol": "APTV$A",
-   "name": "Aptiv PLC 5.50% Series A Mandatory Convertible Preferred Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APTV$A"
   },
   {
    "symbol": "AQN",
@@ -79824,6 +79832,12 @@
    "yahoo_symbol": "CATX"
   },
   {
+   "symbol": "CAVA",
+   "name": "CAVA Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CAVA"
+  },
+  {
    "symbol": "CB",
    "name": "Chubb Limited  Common Stock",
    "exchange": "NYSE",
@@ -81660,18 +81674,6 @@
    "yahoo_symbol": "DCO"
   },
   {
-   "symbol": "DCP",
-   "name": "DCP Midstream,  LP Common Units ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DCP"
-  },
-  {
-   "symbol": "DCP$B",
-   "name": "DCP Midstream LP 7.875% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DCP$B"
-  },
-  {
    "symbol": "DCP$C",
    "name": "DCP Midstream LP 7.95% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units",
    "exchange": "NYSE",
@@ -81994,12 +81996,6 @@
    "name": "Digital Media Solutions, Inc. Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "DMS"
-  },
-  {
-   "symbol": "DMS.W",
-   "name": "Digital Media Solutions, Inc. Warrants, ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DMS.W"
   },
   {
    "symbol": "DMYY",
@@ -85579,13 +85575,13 @@
   },
   {
    "symbol": "HFRO",
-   "name": "Highland Income Fund",
+   "name": "Highland Opportunities and Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "HFRO"
   },
   {
    "symbol": "HFRO$A",
-   "name": "Highland Income Fund 5.375% Series A Cumulative Preferred Shares",
+   "name": "Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "HFRO$A"
   },
@@ -90697,7 +90693,7 @@
   },
   {
    "symbol": "OEC",
-   "name": "Orion Engineered Carbons S.A Common Shares",
+   "name": "Orion S.A. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "OEC"
   },
@@ -97252,12 +97248,6 @@
    "name": "Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "WRAC.U"
-  },
-  {
-   "symbol": "WRAC.W",
-   "name": "Williams Rowland Acquisition Corp. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "WRAC.W"
   },
   {
    "symbol": "WRB",
