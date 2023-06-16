@@ -1,5 +1,5 @@
 {
- "date": "2023-06-15",
+ "date": "2023-06-16",
  "data": [
   {
    "symbol": "ONE",
@@ -1478,6 +1478,18 @@
     {
      "name": "ATEX Resources Inc.",
      "symbol": "ATX"
+    }
+   ]
+  },
+  {
+   "symbol": "AMI",
+   "name": "Athabasca Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMI.V",
+   "instruments": [
+    {
+     "name": "Athabasca Minerals Inc",
+     "symbol": "AMI"
     }
    ]
   },
@@ -11056,7 +11068,7 @@
    "yahoo_symbol": "DIA.V",
    "instruments": [
     {
-     "name": "Margaret Lake Diamonds Inc.",
+     "name": "Margaret Lake Diamonds Inc",
      "symbol": "DIA"
     }
    ]
@@ -15818,6 +15830,18 @@
     {
      "name": "Sandfire Resources America Inc.",
      "symbol": "SFR"
+    }
+   ]
+  },
+  {
+   "symbol": "SCZ",
+   "name": "Santacruz Silver Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCZ.V",
+   "instruments": [
+    {
+     "name": "Santacruz Silver Mining Ltd.",
+     "symbol": "SCZ"
     }
    ]
   },
@@ -28466,14 +28490,14 @@
    ]
   },
   {
-   "symbol": "EFL",
+   "symbol": "ELVA",
    "name": "Electrovaya Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "EFL.TO",
+   "yahoo_symbol": "ELVA.TO",
    "instruments": [
     {
      "name": "Electrovaya Inc.",
-     "symbol": "EFL"
+     "symbol": "ELVA"
     }
    ]
   },
@@ -33082,10 +33106,6 @@
     {
      "name": "Hut 8 Mining Corp J",
      "symbol": "HUT"
-    },
-    {
-     "name": "Hut 8 Mining J A Wt",
-     "symbol": "HUT.WT.A"
     }
    ]
   },
@@ -52052,6 +52072,12 @@
    "yahoo_symbol": "CSWC"
   },
   {
+   "symbol": "CSWCZ",
+   "name": "Capital Southwest Corporation - 7.75% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSWCZ"
+  },
+  {
    "symbol": "CSWI",
    "name": "CSW Industrials, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -52266,12 +52292,6 @@
    "name": "CVRx, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CVRX"
-  },
-  {
-   "symbol": "CVT",
-   "name": "Cvent Holding Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CVT"
   },
   {
    "symbol": "CVV",
@@ -61598,24 +61618,6 @@
    "yahoo_symbol": "LITP"
   },
   {
-   "symbol": "LITT",
-   "name": "Logistics Innovation Technologies Corp. - Class A Common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LITT"
-  },
-  {
-   "symbol": "LITTU",
-   "name": "Logistics Innovation Technologies Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LITTU"
-  },
-  {
-   "symbol": "LITTW",
-   "name": "Logistics Innovation Technologies Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LITTW"
-  },
-  {
    "symbol": "LIVB",
    "name": "LIV Capital Acquisition Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -61998,6 +62000,18 @@
    "name": "Lantronix, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LTRX"
+  },
+  {
+   "symbol": "LTRY",
+   "name": "Lottery.com, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTRY"
+  },
+  {
+   "symbol": "LTRYW",
+   "name": "Lottery.com, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTRYW"
   },
   {
    "symbol": "LUCD",
@@ -62748,12 +62762,6 @@
    "name": "MEI Pharma, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MEIP"
-  },
-  {
-   "symbol": "MEKA",
-   "name": "MELI Kaszek Pioneer Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MEKA"
   },
   {
    "symbol": "MELI",
@@ -67572,12 +67580,6 @@
    "name": "PTC Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PTCT"
-  },
-  {
-   "symbol": "PTE",
-   "name": "PolarityTE, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTE"
   },
   {
    "symbol": "PTEC",
@@ -72674,6 +72676,12 @@
    "yahoo_symbol": "TNON"
   },
   {
+   "symbol": "TNONW",
+   "name": "Tenon Medical, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TNONW"
+  },
+  {
    "symbol": "TNXP",
    "name": "Tonix Pharmaceuticals Holding Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -75932,24 +75940,6 @@
    "yahoo_symbol": "ZS"
   },
   {
-   "symbol": "ZT",
-   "name": "Zimmer Energy Transition Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZT"
-  },
-  {
-   "symbol": "ZTAQU",
-   "name": "Zimmer Energy Transition Acquisition Corp. - Units, consisting of one share of Class A common stock and one-third of one warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZTAQU"
-  },
-  {
-   "symbol": "ZTAQW",
-   "name": "Zimmer Energy Transition Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZTAQW"
-  },
-  {
    "symbol": "ZTEK",
    "name": "Zentek Ltd. - common stock",
    "exchange": "NASDAQ Capital Market",
@@ -78060,6 +78050,12 @@
    "name": "Azure Power Global Limited Equity Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "AZRE"
+  },
+  {
+   "symbol": "AZTR",
+   "name": "Azitra Inc Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AZTR"
   },
   {
    "symbol": "AZUL",
@@ -83780,12 +83776,6 @@
    "yahoo_symbol": "FICO"
   },
   {
-   "symbol": "FIEE",
-   "name": "UBS AG FI Enhanced Europe 50 ETN due February 12, 2026",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "FIEE"
-  },
-  {
    "symbol": "FIF",
    "name": "First Trust Energy Infrastructure Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -83796,12 +83786,6 @@
    "name": "FIGS, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FIGS"
-  },
-  {
-   "symbol": "FIHD",
-   "name": "UBS AG UBS AG FI Enhanced Global High Yield ETN due March 3, 2026",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "FIHD"
   },
   {
    "symbol": "FINS",
@@ -84986,12 +84970,6 @@
    "yahoo_symbol": "GNE"
   },
   {
-   "symbol": "GNE$A",
-   "name": "Genie Energy Ltd. Series 2012 - A Preferred Stock, $0.01 par value",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GNE$A"
-  },
-  {
    "symbol": "GNK",
    "name": "Genco Shipping \u0026 Trading Limited Ordinary Shares New (Marshall Islands)",
    "exchange": "NYSE",
@@ -85332,24 +85310,6 @@
    "name": "Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)",
    "exchange": "NYSE",
    "yahoo_symbol": "GSL$B"
-  },
-  {
-   "symbol": "GSQB",
-   "name": "G Squared Ascend II Inc. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GSQB"
-  },
-  {
-   "symbol": "GSQB.U",
-   "name": "G Squared Ascend II Inc. Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GSQB.U"
-  },
-  {
-   "symbol": "GSQB.W",
-   "name": "G Squared Ascend II Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GSQB.W"
   },
   {
    "symbol": "GTE",
@@ -86544,12 +86504,6 @@
    "name": "International Seaways, Inc. Common Stock ",
    "exchange": "NYSE",
    "yahoo_symbol": "INSW"
-  },
-  {
-   "symbol": "INT",
-   "name": "World Fuel Services Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "INT"
   },
   {
    "symbol": "INTT",
@@ -89169,19 +89123,13 @@
   },
   {
    "symbol": "MTAL",
-   "name": "Metals Acquisition Corp Class A Ordinary Shares",
+   "name": "Metals Acquisition Limited Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "MTAL"
   },
   {
-   "symbol": "MTAL.U",
-   "name": "Metals Acquisition Corp Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTAL.U"
-  },
-  {
    "symbol": "MTAL.W",
-   "name": "Metals Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "name": "Metals Acquisition Limited Warrants",
    "exchange": "NYSE",
    "yahoo_symbol": "MTAL.W"
   },
@@ -92352,12 +92300,6 @@
    "name": "PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "PYN"
-  },
-  {
-   "symbol": "PYPE",
-   "name": "ETRACS NYSE Pickens Core Midstream Index ETN due August 20, 2048",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "PYPE"
   },
   {
    "symbol": "PYT",
@@ -97104,6 +97046,12 @@
    "name": "Workiva Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "WK"
+  },
+  {
+   "symbol": "WKC",
+   "name": "World Kinect Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WKC"
   },
   {
    "symbol": "WLK",

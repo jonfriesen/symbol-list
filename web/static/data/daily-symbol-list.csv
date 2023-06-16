@@ -121,6 +121,7 @@ AST,Astron Connect Inc.,TSXV,AST.V,Astron Connect Inc.,AST
 ATC,ATAC Resources Ltd.,TSXV,ATC.V,ATAC Resources Ltd.,ATC
 ACOP,Atacama Copper Corporation,TSXV,ACOP.V,Atacama Copper Corporation,ACOP
 ATX,ATEX Resources Inc.,TSXV,ATX.V,ATEX Resources Inc.,ATX
+AMI,Athabasca Minerals Inc.,TSXV,AMI.V,Athabasca Minerals Inc,AMI
 AAT,ATI Airtest Technologies Inc.,TSXV,AAT.V,ATI Airtest Technologies Inc.,AAT
 ATY,Atico Mining Corporation,TSXV,ATY.V,Atico Mining Corporation,ATY
 AEP,Atlas Engineered Products Ltd.,TSXV,AEP.V,Atlas Engineered Products Ltd.,AEP
@@ -905,7 +906,7 @@ MNX,Manitex Capital Inc.,TSXV,MNX.V,Manitex Capital Inc.,MNX
 MNTR,Mantaro Precious Metals Corp.,TSXV,MNTR.V,Mantaro Precious Metals Corp.,MNTR
 MGM,Maple Gold Mines Ltd.,TSXV,MGM.V,Maple Gold Mines Ltd.,MGM
 MAP,Maple Peak Investments Inc.,TSXV,MAP.V,Maple Peak Investments Inc.,MAP
-DIA,Margaret Lake Diamonds Inc.,TSXV,DIA.V,Margaret Lake Diamonds Inc.,DIA
+DIA,Margaret Lake Diamonds Inc.,TSXV,DIA.V,Margaret Lake Diamonds Inc,DIA
 MAE,Maritime Resources Corp.,TSXV,MAE.V,Maritime Resources Corp,MAE
 MAH,Marksmen Energy Inc.,TSXV,MAH.V,Marksmen Energy Inc,MAH
 MTLO,Martello Technologies Group Inc.,TSXV,MTLO.V,Martello Technologies Group Inc.,MTLO
@@ -1296,6 +1297,7 @@ SSS.P,Samurai Capital Corp.,TSXV,SSS.P.V,Samurai Capital Corp.,SSS.P
 SLG,San Lorenzo Gold Corp.,TSXV,SLG.V,San Lorenzo Gold Corp.,SLG
 STA,Sanatana Resources Inc.,TSXV,STA.V,Sanatana Resources Inc.,STA
 SFR,Sandfire Resources America Inc.,TSXV,SFR.V,Sandfire Resources America Inc.,SFR
+SCZ,Santacruz Silver Mining Ltd.,TSXV,SCZ.V,Santacruz Silver Mining Ltd.,SCZ
 SWA,Sarama Resources Ltd.,TSXV,SWA.V,Sarama Resources Ltd.,SWA
 MSCL,Satellos Bioscience Inc.,TSXV,MSCL.V,Satellos Bioscience Inc.,MSCL
 SATO,SATO Technologies Corp.,TSXV,SATO.V,SATO Technologies Corp.,SATO
@@ -2238,7 +2240,7 @@ EVT,Economic Investment Trust Limited,TSX,EVT.TO,Economic Investment,EVT
 ECOR,Ecora Resources plc,TSX,ECOR.TO,Ecora Resources Ord,ECOR
 ECO,EcoSynthetix Inc.,TSX,ECO.TO,EcoSynthetix Inc. J,ECO
 ELD,Eldorado Gold Corporation,TSX,ELD.TO,Eldorado Gold Corp.,ELD
-EFL,Electrovaya Inc.,TSX,EFL.TO,Electrovaya Inc.,EFL
+ELVA,Electrovaya Inc.,TSX,ELVA.TO,Electrovaya Inc.,ELVA
 EFN,Element Fleet Management Corp.,TSX,EFN.TO,Element Fleet Mgt,EFN,Element Flt 4.25B Db,EFN.DB.B,Element Fleet Pr A,EFN.PR.A,Element Fleet Pr C,EFN.PR.C,Element Fleet Pr E,EFN.PR.E
 ELO,Eloro Resources Ltd.,TSX,ELO.TO,Eloro Resources J,ELO
 BABY,Else Nutrition Holdings Inc.,TSX,BABY.TO,Else Nutrition J,BABY,Else NutritionJ 21Wt,BABY.WT.A
@@ -2568,7 +2570,7 @@ HULC,Horizons US Large Cap Index ETF,TSX,HULC.TO,HorizonsUS LrgCapIdx,HULC,Horiz
 HSUV.U,Horizons USD Cash Maximizer ETF,TSX,HSUV.U.TO,HorizonsUSD CshMaxUS,HSUV.U
 HZM,Horizonte Minerals Plc.,TSX,HZM.TO,Horizonte Min Ord J,HZM
 HBM,Hudbay Minerals Inc.,TSX,HBM.TO,Hudbay Minerals Inc.,HBM
-HUT,Hut 8 Mining Corp.,TSX,HUT.TO,Hut 8 Mining Corp J,HUT,Hut 8 Mining J A Wt,HUT.WT.A
+HUT,Hut 8 Mining Corp.,TSX,HUT.TO,Hut 8 Mining Corp J,HUT
 H,Hydro One Limited,TSX,H.TO,Hydro One Limited,H
 IAU,i-80 Gold Corp.,TSX,IAU.TO,i-80 Gold Corp. J,IAU
 ITE,i3 Energy plc,TSX,ITE.TO,i3 Energy plc Ord,ITE
@@ -4666,6 +4668,7 @@ CSTE,Caesarstone Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CSTE
 CSTL,"Castle Biosciences, Inc. - Common stock",NASDAQ Global MarketSM,CSTL
 CSTR,"CapStar Financial Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,CSTR
 CSWC,Capital Southwest Corporation - Common Stock,NASDAQ Global Select MarketSM,CSWC
+CSWCZ,Capital Southwest Corporation - 7.75% Notes due 2028,NASDAQ Global Select MarketSM,CSWCZ
 CSWI,"CSW Industrials, Inc. - Common Stock",NASDAQ Global Select MarketSM,CSWI
 CSX,CSX Corporation - Common Stock,NASDAQ Global Select MarketSM,CSX
 CTAS,Cintas Corporation - Common Stock,NASDAQ Global Select MarketSM,CTAS
@@ -4702,7 +4705,6 @@ CVLG,"Covenant Logistics Group, Inc. - Class A Common Stock",NASDAQ Global Selec
 CVLT,"Commvault Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVLT
 CVLY,"Codorus Valley Bancorp, Inc - Common Stock",NASDAQ Global MarketSM,CVLY
 CVRX,"CVRx, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVRX
-CVT,Cvent Holding Corp. - Common Stock,NASDAQ Global MarketSM,CVT
 CVV,CVD Equipment Corporation - Common Stock,NASDAQ Capital Market,CVV
 CWBC,Community West Bancshares - Common Stock,NASDAQ Global MarketSM,CWBC
 CWBR,"CohBar, Inc. - Common Stock",NASDAQ Capital Market,CWBR
@@ -6257,9 +6259,6 @@ LIQT,"LiqTech International, Inc. - Common Stock",NASDAQ Capital Market,LIQT
 LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,LITE
 LITM,Snow Lake Resources Ltd. - Common Shares,NASDAQ Capital Market,LITM
 LITP,Sprott Lithium Miners ETF,NASDAQ Global MarketSM,LITP
-LITT,Logistics Innovation Technologies Corp. - Class A Common stock,NASDAQ Global MarketSM,LITT
-LITTU,Logistics Innovation Technologies Corp. - Units,NASDAQ Global MarketSM,LITTU
-LITTW,Logistics Innovation Technologies Corp. - Warrant,NASDAQ Global MarketSM,LITTW
 LIVB,LIV Capital Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,LIVB
 LIVBU,LIV Capital Acquisition Corp. II - Unit,NASDAQ Global MarketSM,LIVBU
 LIVBW,LIV Capital Acquisition Corp. II - Warrants,NASDAQ Global MarketSM,LIVBW
@@ -6324,6 +6323,8 @@ LTRN,Lantern Pharma Inc. - Common Stock,NASDAQ Capital Market,LTRN
 LTRPA,"Liberty TripAdvisor Holdings, Inc. - Series A Common Stock",NASDAQ Global Select MarketSM,LTRPA
 LTRPB,"Liberty TripAdvisor Holdings, Inc. - Series B Common Stock",NASDAQ Global Select MarketSM,LTRPB
 LTRX,"Lantronix, Inc. - Common Stock",NASDAQ Capital Market,LTRX
+LTRY,"Lottery.com, Inc. - Common Stock",NASDAQ Global MarketSM,LTRY
+LTRYW,"Lottery.com, Inc. - Warrant",NASDAQ Global MarketSM,LTRYW
 LUCD,Lucid Diagnostics Inc. - Common Stock,NASDAQ Global MarketSM,LUCD
 LUCY,"Innovative Eyewear, Inc. - Common Stock",NASDAQ Capital Market,LUCY
 LUCYW,"Innovative Eyewear, Inc. - Warrants",NASDAQ Capital Market,LUCYW
@@ -6449,7 +6450,6 @@ MEDS,"TRxADE HEALTH, Inc. - Common Stock",NASDAQ Capital Market,MEDS
 MEDX,Horizon Kinetics Medical ETF,NASDAQ Global MarketSM,MEDX
 MEGL,Magic Empire Global Limited - Ordinary Shares,NASDAQ Capital Market,MEGL
 MEIP,"MEI Pharma, Inc. - Common Stock",NASDAQ Capital Market,MEIP
-MEKA,MELI Kaszek Pioneer Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,MEKA
 MELI,"MercadoLibre, Inc. - Common Stock",NASDAQ Global Select MarketSM,MELI
 MEOA,Minority Equality Opportunities Acquisition Inc. - Class A Common Stock,NASDAQ Capital Market,MEOA
 MEOAU,Minority Equality Opportunities Acquisition Inc. - Units,NASDAQ Capital Market,MEOAU
@@ -7253,7 +7253,6 @@ PSTX,"Poseida Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,P
 PT,Pintec Technology Holdings Limited - American Depositary Shares,NASDAQ Global MarketSM,PT
 PTC,PTC Inc. - Common Stock,NASDAQ Global Select MarketSM,PTC
 PTCT,"PTC Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,PTCT
-PTE,"PolarityTE, Inc. - Common Stock",NASDAQ Capital Market,PTE
 PTEC,Global X PropTech ETF,NASDAQ Global MarketSM,PTEC
 PTEN,"Patterson-UTI Energy, Inc. - Common Stock",NASDAQ Global Select MarketSM,PTEN
 PTF,Invesco DWA Technology Momentum ETF,NASDAQ Global MarketSM,PTF
@@ -8103,6 +8102,7 @@ TMUS,"T-Mobile US, Inc. - Common Stock",NASDAQ Global Select MarketSM,TMUS
 TNDM,"Tandem Diabetes Care, Inc. - Common Stock",NASDAQ Global MarketSM,TNDM
 TNGX,"Tango Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TNGX
 TNON,"Tenon Medical, Inc. - Common Stock",NASDAQ Capital Market,TNON
+TNONW,"Tenon Medical, Inc. - Warrant",NASDAQ Capital Market,TNONW
 TNXP,Tonix Pharmaceuticals Holding Corp. - Common Stock,NASDAQ Capital Market,TNXP
 TNYA,"Tenaya Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,TNYA
 TOAC,Talon 1 Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,TOAC
@@ -8646,9 +8646,6 @@ ZLAB,Zai Lab Limited - American Depositary Shares,NASDAQ Global MarketSM,ZLAB
 ZM,"Zoom Video Communications, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ZM
 ZNTL,"Zentalis Pharmaceuticals, Inc. - common stock",NASDAQ Global MarketSM,ZNTL
 ZS,"Zscaler, Inc. - Common Stock",NASDAQ Global Select MarketSM,ZS
-ZT,Zimmer Energy Transition Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,ZT
-ZTAQU,"Zimmer Energy Transition Acquisition Corp. - Units, consisting of one share of Class A common stock and one-third of one warrant",NASDAQ Global MarketSM,ZTAQU
-ZTAQW,Zimmer Energy Transition Acquisition Corp. - Warrants,NASDAQ Global MarketSM,ZTAQW
 ZTEK,Zentek Ltd. - common stock,NASDAQ Capital Market,ZTEK
 ZUMZ,Zumiez Inc. - Common Stock,NASDAQ Global Select MarketSM,ZUMZ
 ZURA,Zura Bio Limited - Class A Ordinary shares,NASDAQ Capital Market,ZURA
@@ -9001,6 +8998,7 @@ AYX,"Alteryx, Inc. Class A Common Stock",NYSE,AYX
 AZEK,The AZEK Company Inc. Class A Common Stock,NYSE,AZEK
 AZO,"AutoZone, Inc. Common Stock",NYSE,AZO
 AZRE,Azure Power Global Limited Equity Shares,NYSE,AZRE
+AZTR,Azitra Inc Common Stock,NYSE MKT,AZTR
 AZUL,Azul S.A. American Depositary Shares (each representing three preferred shares),NYSE,AZUL
 AZZ,AZZ Inc.,NYSE,AZZ
 B,"Barnes Group, Inc. Common Stock",NYSE,B
@@ -9954,10 +9952,8 @@ FHN$E,"First Horizon Corporation Depositary Shares, each representing a 1/4,000t
 FHN$F,"First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",NYSE,FHN$F
 FI,"Fiserv, Inc. Common Stock",NYSE,FI
 FICO,Fair Isaac Corproation Common Stock,NYSE,FICO
-FIEE,"UBS AG FI Enhanced Europe 50 ETN due February 12, 2026",NYSE ARCA,FIEE
 FIF,First Trust Energy Infrastructure Fund Common Shares of Beneficial Interest,NYSE,FIF
 FIGS,"FIGS, Inc. Class A Common Stock",NYSE,FIGS
-FIHD,"UBS AG UBS AG FI Enhanced Global High Yield ETN due March 3, 2026",NYSE ARCA,FIHD
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,NYSE,FINS
 FINV,FinVolution Group American Depositary Shares,NYSE,FINV
 FIS,"Fidelity National Information Services, Inc. Common Stock",NYSE,FIS
@@ -10155,7 +10151,6 @@ GMRE,Global Medical REIT Inc. Common Stock,NYSE,GMRE
 GMRE$A,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,NYSE,GMRE$A
 GMS,GMS Inc. Common Stock,NYSE,GMS
 GNE,Genie Energy Ltd. Class B Common Stock Stock,NYSE,GNE
-GNE$A,"Genie Energy Ltd. Series 2012 - A Preferred Stock, $0.01 par value",NYSE,GNE$A
 GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),NYSE,GNK
 GNL,"Global Net Lease, Inc. Common Stock",NYSE,GNL
 GNL$A,"Global Net Lease, Inc. 7.25% Series A Cumulative Redeemable Preferred Stock, $0.01 par value per share",NYSE,GNL$A
@@ -10213,9 +10208,6 @@ GSBD,"Goldman Sachs BDC, Inc. Common Stock",NYSE,GSBD
 GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),NYSE,GSK
 GSL,Global Ship Lease Inc New Class A Common Shares,NYSE,GSL
 GSL$B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)",NYSE,GSL$B
-GSQB,G Squared Ascend II Inc. Class A Ordinary Shares,NYSE,GSQB
-GSQB.U,G Squared Ascend II Inc. Units,NYSE,GSQB.U
-GSQB.W,"G Squared Ascend II Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,GSQB.W
 GTE,Gran Tierra Energy Inc. Common Stock,NYSE MKT,GTE
 GTES,Gates Industrial Corporation plc Ordinary Shares,NYSE,GTES
 GTLS,"Chart Industries, Inc. Common Stock",NYSE,GTLS
@@ -10415,7 +10407,6 @@ INSI,Insight Select Income Fund,NYSE,INSI
 INSP,"Inspire Medical Systems, Inc. Common Stock",NYSE,INSP
 INST,"Instructure Holdings, Inc. Common Stock",NYSE,INST
 INSW,"International Seaways, Inc. Common Stock ",NYSE,INSW
-INT,World Fuel Services Corporation Common Stock,NYSE,INT
 INTT,inTest Corporation Common Stock,NYSE MKT,INTT
 INUV,"Inuvo, Inc.",NYSE MKT,INUV
 INVH,Invitation Homes Inc. Common Stock,NYSE,INVH
@@ -10852,9 +10843,8 @@ MSM,"MSC Industrial Direct Company, Inc. Common Stock",NYSE,MSM
 MSN,Emerson Radio Corporation Common Stock,NYSE MKT,MSN
 MT,Arcelor Mittal NY Registry Shares NEW,NYSE,MT
 MTA,Metalla Royalty & Streaming Ltd. Common Shares,NYSE MKT,MTA
-MTAL,Metals Acquisition Corp Class A Ordinary Shares,NYSE,MTAL
-MTAL.U,"Metals Acquisition Corp Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,MTAL.U
-MTAL.W,"Metals Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,MTAL.W
+MTAL,Metals Acquisition Limited Ordinary Shares,NYSE,MTAL
+MTAL.W,Metals Acquisition Limited Warrants,NYSE,MTAL.W
 MTB,M&T Bank Corporation Common Stock,NYSE,MTB
 MTB$H,"M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H",NYSE,MTB$H
 MTD,"Mettler-Toledo International, Inc. Common Stock",NYSE,MTD
@@ -11383,7 +11373,6 @@ PWSC,"PowerSchool Holdings, Inc. Class A Common Stock",NYSE,PWSC
 PX,"P10, Inc. Class A Common Stock",NYSE,PX
 PXD,Pioneer Natural Resources Company Common Stock,NYSE,PXD
 PYN,PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest,NYSE,PYN
-PYPE,"ETRACS NYSE Pickens Core Midstream Index ETN due August 20, 2048",NYSE ARCA,PYPE
 PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,PYT
 PZC,PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest,NYSE,PZC
 PZG,Paramount Gold Nevada Corp. Common Stock,NYSE MKT,PZG
@@ -12175,6 +12164,7 @@ WIA,Western Asset Inflation-Linked Income Fund,NYSE,WIA
 WIT,Wipro Limited Common Stock,NYSE,WIT
 WIW,Western Asset Inflation-Linked Opportunities & Income Fund,NYSE,WIW
 WK,Workiva Inc. Class A Common Stock,NYSE,WK
+WKC,World Kinect Corporation Common Stock,NYSE,WKC
 WLK,Westlake Corporation Common Stock,NYSE,WLK
 WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests,NYSE,WLKP
 WLMS,Williams Industrial Services Group Inc. Common Stock,NYSE MKT,WLMS

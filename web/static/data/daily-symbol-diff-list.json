@@ -1,160 +1,198 @@
 {
  "added": [
   {
-   "symbol": "PER",
-   "name": "Peruvian Metals Corp.",
+   "symbol": "AMI",
+   "name": "Athabasca Minerals Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PER.V",
+   "yahoo_symbol": "AMI.V",
    "instruments": [
     {
-     "name": "Peruvian Metals Corp.",
-     "symbol": "PER"
+     "name": "Athabasca Minerals Inc",
+     "symbol": "AMI"
     }
    ]
   },
   {
-   "symbol": "SPLT",
-   "name": "Brompton Split Corp. Preferred Share ETF",
+   "symbol": "SCZ",
+   "name": "Santacruz Silver Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCZ.V",
+   "instruments": [
+    {
+     "name": "Santacruz Silver Mining Ltd.",
+     "symbol": "SCZ"
+    }
+   ]
+  },
+  {
+   "symbol": "ELVA",
+   "name": "Electrovaya Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "SPLT.TO",
+   "yahoo_symbol": "ELVA.TO",
    "instruments": [
     {
-     "name": "Brompton SpltPref Un",
-     "symbol": "SPLT"
+     "name": "Electrovaya Inc.",
+     "symbol": "ELVA"
     }
    ]
   },
   {
-   "symbol": "UMAX",
-   "name": "Hamilton Utilities Yield Maximizer ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "UMAX.TO",
-   "instruments": [
-    {
-     "name": "Hamilton UtilYldMx E",
-     "symbol": "UMAX"
-    }
-   ]
+   "symbol": "CSWCZ",
+   "name": "Capital Southwest Corporation - 7.75% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSWCZ"
   },
   {
-   "symbol": "SOIL",
-   "name": "Saturn Oil \u0026 Gas Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SOIL.TO",
-   "instruments": [
-    {
-     "name": "Saturn Oil \u0026 Gas Inc",
-     "symbol": "SOIL"
-    },
-    {
-     "name": "Saturn Oil\u0026Gas A Wt",
-     "symbol": "SOIL.WT.A"
-    },
-    {
-     "name": "Saturn Oil\u0026Gas B Wt",
-     "symbol": "SOIL.WT.B"
-    }
-   ]
-  },
-  {
-   "symbol": "CALC",
-   "name": "CalciMedica, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CALC"
-  },
-  {
-   "symbol": "ESHAU",
-   "name": "ESH Acquisition Corp. - Unit",
+   "symbol": "LTRY",
+   "name": "Lottery.com, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ESHAU"
+   "yahoo_symbol": "LTRY"
   },
   {
-   "symbol": "CAVA",
-   "name": "CAVA Group, Inc. Common Stock",
+   "symbol": "LTRYW",
+   "name": "Lottery.com, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTRYW"
+  },
+  {
+   "symbol": "TNONW",
+   "name": "Tenon Medical, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TNONW"
+  },
+  {
+   "symbol": "AZTR",
+   "name": "Azitra Inc Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AZTR"
+  },
+  {
+   "symbol": "WKC",
+   "name": "World Kinect Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CAVA"
+   "yahoo_symbol": "WKC"
   }
  ],
  "removed": [
   {
-   "symbol": "CYXT",
-   "name": "Cyxtera Technologies, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CYXT"
+   "symbol": "CVT",
+   "name": "Cvent Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVT"
   },
   {
-   "symbol": "DCP$B",
-   "name": "DCP Midstream LP 7.875% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units",
+   "symbol": "LITT",
+   "name": "Logistics Innovation Technologies Corp. - Class A Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LITT"
+  },
+  {
+   "symbol": "LITTW",
+   "name": "Logistics Innovation Technologies Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LITTW"
+  },
+  {
+   "symbol": "FIEE",
+   "name": "UBS AG FI Enhanced Europe 50 ETN due February 12, 2026",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "FIEE"
+  },
+  {
+   "symbol": "MTAL.U",
+   "name": "Metals Acquisition Corp Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "DCP$B"
+   "yahoo_symbol": "MTAL.U"
   },
   {
-   "symbol": "SOIL",
-   "name": "Saturn Oil \u0026 Gas Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SOIL.V",
+   "symbol": "ZT",
+   "name": "Zimmer Energy Transition Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZT"
+  },
+  {
+   "symbol": "LITTU",
+   "name": "Logistics Innovation Technologies Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LITTU"
+  },
+  {
+   "symbol": "EFL",
+   "name": "Electrovaya Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EFL.TO",
    "instruments": [
     {
-     "name": "Saturn Oil \u0026 Gas Inc.",
-     "symbol": "SOIL"
-    },
-    {
-     "name": "Saturn Oil \u0026 Gas Inc. wt 10Mar2025",
-     "symbol": "SOIL.WT.A"
-    },
-    {
-     "name": "Saturn Oil \u0026 Gas Inc. wt 07Jul2023",
-     "symbol": "SOIL.WT.B"
+     "name": "Electrovaya Inc.",
+     "symbol": "EFL"
     }
    ]
   },
   {
-   "symbol": "DCP",
-   "name": "DCP Midstream,  LP Common Units ",
+   "symbol": "GNE$A",
+   "name": "Genie Energy Ltd. Series 2012 - A Preferred Stock, $0.01 par value",
    "exchange": "NYSE",
-   "yahoo_symbol": "DCP"
+   "yahoo_symbol": "GNE$A"
   },
   {
-   "symbol": "RUTH",
-   "name": "Ruth's Hospitality Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RUTH"
-  },
-  {
-   "symbol": "WRAC.W",
-   "name": "Williams Rowland Acquisition Corp. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "WRAC.W"
-  },
-  {
-   "symbol": "APTV$A",
-   "name": "Aptiv PLC 5.50% Series A Mandatory Convertible Preferred Shares",
+   "symbol": "INT",
+   "name": "World Fuel Services Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "APTV$A"
+   "yahoo_symbol": "INT"
   },
   {
-   "symbol": "HTGM",
-   "name": "HTG Molecular Diagnostics, Inc. - Common Stock",
+   "symbol": "FIHD",
+   "name": "UBS AG UBS AG FI Enhanced Global High Yield ETN due March 3, 2026",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "FIHD"
+  },
+  {
+   "symbol": "MEKA",
+   "name": "MELI Kaszek Pioneer Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEKA"
+  },
+  {
+   "symbol": "PYPE",
+   "name": "ETRACS NYSE Pickens Core Midstream Index ETN due August 20, 2048",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "PYPE"
+  },
+  {
+   "symbol": "GSQB.U",
+   "name": "G Squared Ascend II Inc. Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GSQB.U"
+  },
+  {
+   "symbol": "GSQB",
+   "name": "G Squared Ascend II Inc. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GSQB"
+  },
+  {
+   "symbol": "GSQB.W",
+   "name": "G Squared Ascend II Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GSQB.W"
+  },
+  {
+   "symbol": "PTE",
+   "name": "PolarityTE, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HTGM"
+   "yahoo_symbol": "PTE"
   },
   {
-   "symbol": "DMS.W",
-   "name": "Digital Media Solutions, Inc. Warrants, ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DMS.W"
+   "symbol": "ZTAQU",
+   "name": "Zimmer Energy Transition Acquisition Corp. - Units, consisting of one share of Class A common stock and one-third of one warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTAQU"
   },
   {
-   "symbol": "UNAM",
-   "name": "Unico American Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UNAM"
-  },
-  {
-   "symbol": "OXSQR",
-   "name": "Oxford Square Capital Corp. - Right",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OXSQR"
+   "symbol": "ZTAQW",
+   "name": "Zimmer Energy Transition Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTAQW"
   }
  ]
 }

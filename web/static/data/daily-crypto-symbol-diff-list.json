@@ -1,72 +1,54 @@
 {
  "added": [
   {
-   "symbol": "ID",
-   "name": "SPACE (ID)",
+   "symbol": "PRP",
+   "name": "Pepe Prime (PRP)",
    "built_on": "BNB"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "ETHERKING",
+   "name": "Ether Kingdoms Token (ETHERKING)"
+  },
+  {
+   "symbol": "RETH",
+   "name": "Rocket Pool ETH (RETH)",
    "built_on": "ETH"
   },
   {
-   "symbol": "HALO",
-   "name": "Halo Coin (HALO)",
-   "built_on": "BNB"
+   "symbol": "IMPT",
+   "name": "IMPT (IMPT)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "PRX",
-   "name": "Parex (PRX)",
-   "built_on": "BNB"
+   "symbol": "REALMS",
+   "name": "Realms of Ethernity (REALMS)"
+  },
+  {
+   "symbol": "LAELAPS",
+   "name": "Laelaps (LAELAPS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "WELL",
-   "name": "Moonwell (WELL)",
-   "built_on": "GLMR"
-  },
-  {
-   "symbol": "HALOPLATFORM",
-   "name": "Halo Platform (HALOPLATFORM)"
-  },
-  {
-   "symbol": "PRINTERIUM",
-   "name": "Printerium (PRINTERIUM)"
-  },
-  {
-   "symbol": "LMTOKEN",
-   "name": "LM Token (LMTOKEN)"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "HALO",
-   "name": "Halo Platform (HALO)"
+   "symbol": "RETH",
+   "name": "Realms of Ethernity (RETH)"
   },
   {
-   "symbol": "WELL",
-   "name": "Moonwell (WELL)"
-  },
-  {
-   "symbol": "ID",
-   "name": "SPACE (ID)"
-  },
-  {
-   "symbol": "PRP",
-   "name": "Papyrus (PRP)"
-  },
-  {
-   "symbol": "PRX",
-   "name": "Printerium (PRX)"
+   "symbol": "IMPT",
+   "name": "Ether Kingdoms Token (IMPT)"
   }
  ]
 }
