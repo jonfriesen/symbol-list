@@ -1,174 +1,168 @@
 {
  "added": [
   {
-   "symbol": "LH.V",
-   "name": "Laboratory Corporation of America Holdings Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LH.V"
-  },
-  {
-   "symbol": "NVRI",
-   "name": "Enviri Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NVRI"
-  },
-  {
-   "symbol": "TIL",
-   "name": "Till Capital Corporation",
+   "symbol": "CNJ.P",
+   "name": "CNJ Capital Investments Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TIL.V",
+   "yahoo_symbol": "CNJ.P.V",
    "instruments": [
     {
-     "name": "Till Capital Corporation",
-     "symbol": "TIL"
+     "name": "CNJ Capital Investments Inc.",
+     "symbol": "CNJ.P"
     }
    ]
+  },
+  {
+   "symbol": "DTWO",
+   "name": "D2 Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DTWO.V",
+   "instruments": [
+    {
+     "name": "D2 Lithium Corp.",
+     "symbol": "DTWO"
+    }
+   ]
+  },
+  {
+   "symbol": "QIPT",
+   "name": "Quipt Home Medical Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "QIPT.TO",
+   "instruments": [
+    {
+     "name": "Quipt Home Medical J",
+     "symbol": "QIPT"
+    }
+   ]
+  },
+  {
+   "symbol": "DTI",
+   "name": "Drilling Tools International Holdings, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTI"
+  },
+  {
+   "symbol": "FDIF",
+   "name": "Fidelity Disruptors ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDIF"
+  },
+  {
+   "symbol": "BSAQ",
+   "name": "Black Spade Acquisition Co Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ"
+  },
+  {
+   "symbol": "BSAQ.U",
+   "name": "Black Spade Acquisition Co Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ.U"
+  },
+  {
+   "symbol": "BSAQ.W",
+   "name": "Black Spade Acquisition Co Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ.W"
   }
  ],
  "removed": [
   {
-   "symbol": "TOACW",
-   "name": "Talon 1 Acquisition Corp. - Warrant",
+   "symbol": "ROCAU",
+   "name": "ROC Energy Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TOACW"
+   "yahoo_symbol": "ROCAU"
   },
   {
-   "symbol": "PFES",
-   "name": "AXS 2X PFE Bear Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PFES"
+   "symbol": "BSAQ",
+   "name": "Black Spade Acquisition Co Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSAQ"
   },
   {
-   "symbol": "HCNEU",
-   "name": "Jaws Hurricane Acquisition Corp. - Unit",
+   "symbol": "RNDM",
+   "name": "Developed International Equity Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNDM"
+  },
+  {
+   "symbol": "BSAQ.W",
+   "name": "Black Spade Acquisition Co Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSAQ.W"
+  },
+  {
+   "symbol": "PAC",
+   "name": "Pacton Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PAC.V",
+   "instruments": [
+    {
+     "name": "Pacton Gold Inc.",
+     "symbol": "PAC"
+    }
+   ]
+  },
+  {
+   "symbol": "QIPT",
+   "name": "Quipt Home Medical Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "QIPT.V",
+   "instruments": [
+    {
+     "name": "Quipt Home Medical Corp.",
+     "symbol": "QIPT"
+    }
+   ]
+  },
+  {
+   "symbol": "ONCR",
+   "name": "Oncorus, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCNEU"
+   "yahoo_symbol": "ONCR"
   },
   {
-   "symbol": "SOGU",
-   "name": "AXS Short De-SPAC Daily ETF",
+   "symbol": "ROCAR",
+   "name": "ROC Energy Acquisition Corp. - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SOGU"
+   "yahoo_symbol": "ROCAR"
   },
   {
-   "symbol": "RXDX",
-   "name": "Prometheus Biosciences, Inc. - Common Stock",
+   "symbol": "HX",
+   "name": "HeliosX Lithium \u0026 Technologies Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HX.V",
+   "instruments": [
+    {
+     "name": "HeliosX Lithium \u0026 Technologies Corp.",
+     "symbol": "HX"
+    }
+   ]
+  },
+  {
+   "symbol": "BSAQ.U",
+   "name": "Black Spade Acquisition Co Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSAQ.U"
+  },
+  {
+   "symbol": "ROCC",
+   "name": "Ranger Oil Corporation - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RXDX"
+   "yahoo_symbol": "ROCC"
   },
   {
-   "symbol": "TOACU",
-   "name": "Talon 1 Acquisition Corp. - Unit",
+   "symbol": "NHS.R",
+   "name": "Neuberger Berman High Yield Strategies Fund Rights (expiring June 21, 2023) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.R"
+  },
+  {
+   "symbol": "ROC",
+   "name": "ROC Energy Acquisition Corp. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TOACU"
-  },
-  {
-   "symbol": "AHRN",
-   "name": "Ahren Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AHRN"
-  },
-  {
-   "symbol": "SWEB",
-   "name": "AXS Short China Internet ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SWEB"
-  },
-  {
-   "symbol": "AHRNU",
-   "name": "Ahren Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AHRNU"
-  },
-  {
-   "symbol": "HCNEW",
-   "name": "Jaws Hurricane Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCNEW"
-  },
-  {
-   "symbol": "PFEL",
-   "name": "AXS 2X PFE Bull Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PFEL"
-  },
-  {
-   "symbol": "TOAC",
-   "name": "Talon 1 Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TOAC"
-  },
-  {
-   "symbol": "PYPS",
-   "name": "AXS 1.5X PYPL Bear Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PYPS"
-  },
-  {
-   "symbol": "OWLT.W",
-   "name": "Owlet, Inc. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OWLT.W"
-  },
-  {
-   "symbol": "HVBC",
-   "name": "HV Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HVBC"
-  },
-  {
-   "symbol": "HCNE",
-   "name": "Jaws Hurricane Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCNE"
-  },
-  {
-   "symbol": "HSC",
-   "name": "Harsco Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HSC"
-  },
-  {
-   "symbol": "NKEL",
-   "name": "AXS 2X NKE Bull Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NKEL"
-  },
-  {
-   "symbol": "AHRNW",
-   "name": "Ahren Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AHRNW"
-  },
-  {
-   "symbol": "MLACW",
-   "name": "Malacca Straits Acquisition Company Limited - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MLACW"
-  },
-  {
-   "symbol": "NKEQ",
-   "name": "AXS 2X NKE Bear Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NKEQ"
-  },
-  {
-   "symbol": "TSLI",
-   "name": "GraniteShares 1x Short TSLA Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSLI"
-  },
-  {
-   "symbol": "MLAC",
-   "name": "Malacca Straits Acquisition Company Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MLAC"
-  },
-  {
-   "symbol": "MLACU",
-   "name": "Malacca Straits Acquisition Company Limited - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MLACU"
+   "yahoo_symbol": "ROC"
   }
  ]
 }
