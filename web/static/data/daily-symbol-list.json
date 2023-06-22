@@ -1,5 +1,5 @@
 {
- "date": "2023-06-21",
+ "date": "2023-06-22",
  "data": [
   {
    "symbol": "ONE",
@@ -12802,10 +12802,6 @@
     {
      "name": "Northstar Clean Technologies Inc.",
      "symbol": "ROOF"
-    },
-    {
-     "name": "Northstar Clean Technologies Inc. wt 22Jun2023",
-     "symbol": "ROOF.WT"
     }
    ]
   },
@@ -27238,18 +27234,6 @@
    ]
   },
   {
-   "symbol": "CMMC",
-   "name": "Copper Mountain Mining Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "CMMC.TO",
-   "instruments": [
-    {
-     "name": "Copper Mountain J",
-     "symbol": "CMMC"
-    }
-   ]
-  },
-  {
    "symbol": "CPLF",
    "name": "Copperleaf Technologies Inc.",
    "exchange": "TSX",
@@ -33248,7 +33232,7 @@
    "yahoo_symbol": "ILLM.TO",
    "instruments": [
     {
-     "name": "AcuityAds Hldgs J",
+     "name": "illumin Holdings J",
      "symbol": "ILLM"
     }
    ]
@@ -39100,7 +39084,7 @@
    "yahoo_symbol": "PEA.TO",
    "instruments": [
     {
-     "name": "Pieridae Energy J",
+     "name": "Pieridae Energy",
      "symbol": "PEA"
     }
    ]
@@ -50818,10 +50802,10 @@
    "yahoo_symbol": "CISO"
   },
   {
-   "symbol": "CISSV",
-   "name": "C3is Inc. - Common Stock When Issued",
+   "symbol": "CISS",
+   "name": "C3is Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CISSV"
+   "yahoo_symbol": "CISS"
   },
   {
    "symbol": "CITE",
@@ -53177,7 +53161,7 @@
   },
   {
    "symbol": "DTI",
-   "name": "Drilling Tools International Holdings, Inc.  - Common Stock",
+   "name": "Drilling Tools International Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DTI"
   },
@@ -59308,12 +59292,6 @@
    "yahoo_symbol": "IMPPP"
   },
   {
-   "symbol": "IMPPV",
-   "name": "Imperial Petroleum Inc. - Ex-distribution When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IMPPV"
-  },
-  {
    "symbol": "IMRN",
    "name": "Immuron Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -62800,28 +62778,22 @@
    "yahoo_symbol": "META"
   },
   {
-   "symbol": "METBV",
-   "name": "Ramaco Resources, Inc. - Class B Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "METBV"
-  },
-  {
    "symbol": "METC",
-   "name": "Ramaco Resources, Inc. - Common Stock",
+   "name": "Ramaco Resources, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "METC"
+  },
+  {
+   "symbol": "METCB",
+   "name": "Ramaco Resources, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METCB"
   },
   {
    "symbol": "METCL",
    "name": "Ramaco Resources, Inc. - 9.00% Senior Notes due 2026",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "METCL"
-  },
-  {
-   "symbol": "METCV",
-   "name": "Ramaco Resources, Inc. - Class A Common Stock Ex-Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "METCV"
   },
   {
    "symbol": "METX",
@@ -89020,6 +88992,12 @@
    "yahoo_symbol": "MTB$H"
   },
   {
+   "symbol": "MTBL",
+   "name": "Moatable, Inc. American Depositary Share (each representing forty-five (45) Class A Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTBL"
+  },
+  {
    "symbol": "MTD",
    "name": "Mettler-Toledo International, Inc. Common Stock",
    "exchange": "NYSE",
@@ -92468,12 +92446,6 @@
    "name": "RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)",
    "exchange": "NYSE",
    "yahoo_symbol": "RELX"
-  },
-  {
-   "symbol": "RENN",
-   "name": "Renren Inc. American Depositary Shares, each representing fifteen Class A ordinary shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RENN"
   },
   {
    "symbol": "REPX",
