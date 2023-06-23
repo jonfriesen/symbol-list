@@ -803,6 +803,7 @@ KNC,K9 Gold Corp.,TSXV,KNC.V,K9 Gold Corp.,KNC
 KDSX,Kadestone Capital Corp.,TSXV,KDSX.V,Kadestone Capital Corp.,KDSX
 KRL,Kainantu Resources Ltd.,TSXV,KRL.V,Kainantu Resources Ltd.,KRL
 KZD,Kaizen Discovery Inc.,TSXV,KZD.V,Kaizen Discovery Inc.,KZD
+KALM.P,Kalma Capital Corp.,TSXV,KALM.P.V,Kalma Capital Corp.,KALM.P
 KALO,Kalo Gold Corp.,TSXV,KALO.V,Kalo Gold Corp.,KALO
 KAC.P,Kalon Acquisition Corp.,TSXV,KAC.P.V,Kalon Acquisition Corp.,KAC.P
 KNE,Kane Biotech Inc.,TSXV,KNE.V,Kane Biotech Inc.,KNE
@@ -1228,7 +1229,6 @@ REEM.P,Reem Capital Corp.,TSXV,REEM.P.V,Reem Capital Corp.,REEM.P
 GIII,ReGen III Corp.,TSXV,GIII.V,ReGen III Corp.,GIII
 RSMX,Regency Silver Corp.,TSXV,RSMX.V,Regency Silver Corp.,RSMX
 RPP,Regent Pacific Properties Inc.,TSXV,RPP.V,Regent Pacific Properties Inc,RPP
-RGX,Regenx Tech Corp.,TSXV,RGX.V,Regenx Tech Corp.,RGX
 REG,Regulus Resources Inc.,TSXV,REG.V,Regulus Resources Inc.,REG
 RET,Reitmans (Canada) Limited,TSXV,RET.V,Reitmans (Canada) Limited,RET,Reitmans (Canada) Limited Cl A,RET.A
 MYID,Reklaim Ltd.,TSXV,MYID.V,Reklaim Ltd.,MYID
@@ -1843,6 +1843,7 @@ ZEAT,BMO Global Agriculture ETF,TSX,ZEAT.TO,BMO Glbl Agri CAD Un,ZEAT
 COMM,BMO Global Communications Index ETF,TSX,COMM.TO,BMO Global Commun Un,COMM
 DISC,BMO Global Consumer Discretionary Hedged to CAD Index ETF,TSX,DISC.TO,BMO Glbl ConsmrDiscr,DISC
 STPL,BMO Global Consumer Staples Hedged to CAD Index ETF,TSX,STPL.TO,BMO Glbl Consmr Stpl,STPL
+ZWQT,BMO Global Enhanced Income Fund,TSX,ZWQT.TO,BMO Glbl Enhanc Incm,ZWQT
 ZWG,BMO Global High Dividend Covered Call ETF,TSX,ZWG.TO,BMO Glbl HiDivCovCal,ZWG
 ZGI,BMO Global Infrastructure Index ETF,TSX,ZGI.TO,BMO Gbl Infrastr ETF,ZGI
 ZGSB,BMO Global Strategic Bond Fund,TSX,ZGSB.TO,BMO Glb Stratgc Bond,ZGSB
@@ -1913,6 +1914,8 @@ ZFN,BMO SIA Focused North American Equity Fund,TSX,ZFN.TO,BMO SIA NA Eq ETF Un,Z
 ZMSB,BMO Sustainable Global Multi-Sector Bond Fund,TSX,ZMSB.TO,BMO Glb Mult-SctrBnd,ZMSB
 ZZZD,BMO Tactical Dividend ETF Fund,TSX,ZZZD.TO,BMO Tactical Div Un,ZZZD
 ZACE,BMO U.S. All Cap Equity Fund,TSX,ZACE.TO,BMO U.S. All Cap Eq,ZACE
+ZUGE,BMO U.S. Equity Growth MFR Fund,TSX,ZUGE.TO,BMO US Eqty GrowMFR,ZUGE
+ZUVE,BMO U.S. Equity Value MFR Fund,TSX,ZUVE.TO,BMO US Eqty Val MFR,ZUVE
 ZST,BMO Ultra Short-Term Bond ETF,TSX,ZST.TO,BMO Ultra ShrtBnd Un,ZST,BMO UltraSh BndAccum,ZST.L
 ZUS.U,BMO Ultra Short-Term US Bond ETF,TSX,ZUS.U.TO,BMO UltraST BndUS Un,ZUS.U,BMO UltST BndUS Acum,ZUS.V
 ZUAG,BMO US Aggregate Bond Index ETF,TSX,ZUAG.TO,BMO US Aggre Bond CA,ZUAG,BMO US Aggre Bnd Heg,ZUAG.F,BMO US Aggre Bond US,ZUAG.U
@@ -4851,7 +4854,7 @@ DSGX,The Descartes Systems Group Inc. - Common Stock,NASDAQ Global Select Market
 DSKE,"Daseke, Inc. - Common Stock",NASDAQ Capital Market,DSKE
 DSP,Viant Technology Inc. - common stock,NASDAQ Global Select MarketSM,DSP
 DSWL,"Deswell Industries, Inc. - Common Shares",NASDAQ Global MarketSM,DSWL
-DTI,Drilling Tools International Corp. - Common Stock,NASDAQ Capital Market,DTI
+DTI,Drilling Tools International Corporation  - Common Stock,NASDAQ Capital Market,DTI
 DTIL,"Precision BioSciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,DTIL
 DTOC,Digital Transformation Opportunities Corp. - Class A Common Stock,NASDAQ Capital Market,DTOC
 DTOCU,Digital Transformation Opportunities Corp. - Units,NASDAQ Capital Market,DTOCU
@@ -5405,8 +5408,8 @@ GCT,GigaCloud Technology Inc - Class A Ordinary Shares,NASDAQ Global MarketSM,GC
 GCTK,"GlucoTrack, Inc. - Common Stock",NASDAQ Capital Market,GCTK
 GDC,GD Culture Group Limited - Common Stock,NASDAQ Capital Market,GDC
 GDEN,"Golden Entertainment, Inc. - Common Stock",NASDAQ Global MarketSM,GDEN
-GDEV,Nexters Inc. - Ordinary Shares,NASDAQ Global MarketSM,GDEV
-GDEVW,Nexters Inc. - Warrant,NASDAQ Global MarketSM,GDEVW
+GDEV,GDEV Inc. - Ordinary Shares,NASDAQ Global MarketSM,GDEV
+GDEVW,GDEV Inc. - Warrant,NASDAQ Global MarketSM,GDEVW
 GDHG,Golden Heaven Group Holdings Ltd.  - Ordinary shares,NASDAQ Capital Market,GDHG
 GDNR,Gardiner Healthcare Acquisitions Corp. - Common Stock,NASDAQ Global MarketSM,GDNR
 GDNRU,Gardiner Healthcare Acquisitions Corp. - Unit,NASDAQ Global MarketSM,GDNRU
@@ -5638,7 +5641,6 @@ HEPS,D-Market Electronic Services & Trading - American Depositary Shares,NASDAQ 
 HERD,Pacer Cash Cows Fund of Funds ETF,NASDAQ Global MarketSM,HERD
 HERO,Global X Video Games & Esports ETF,NASDAQ Global MarketSM,HERO
 HEWG,iShares Currency Hedged MSCI Germany ETF,NASDAQ Global MarketSM,HEWG
-HEXO,HEXO Corp. - Common Shares,NASDAQ Capital Market,HEXO
 HFBL,"Home Federal Bancorp, Inc. of Louisiana - Common Stock",NASDAQ Capital Market,HFBL
 HFFG,HF Foods Group Inc. - Common Stock,NASDAQ Capital Market,HFFG
 HFWA,Heritage Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,HFWA
@@ -6054,9 +6056,6 @@ JSMD,Janus Henderson Small/Mid Cap Growth Alpha ETF,NASDAQ Global MarketSM,JSMD
 JSML,Janus Henderson Small Cap Growth Alpha ETF,NASDAQ Global MarketSM,JSML
 JSPR,"Jasper Therapeutics, Inc. - Class A Common Stock",NASDAQ Capital Market,JSPR
 JSPRW,"Jasper Therapeutics, Inc. - Warrant",NASDAQ Capital Market,JSPRW
-JUGG,Jaws Juggernaut Acquisition Corporation - Class A Ordinary Share,NASDAQ Capital Market,JUGG
-JUGGU,Jaws Juggernaut Acquisition Corporation - Unit,NASDAQ Capital Market,JUGGU
-JUGGW,Jaws Juggernaut Acquisition Corporation - Warrant,NASDAQ Capital Market,JUGGW
 JUPW,"Jupiter Wellness, Inc. - Common Stock",NASDAQ Capital Market,JUPW
 JUPWW,"Jupiter Wellness, Inc. - Warrant",NASDAQ Capital Market,JUPWW
 JVA,"Coffee Holding Co., Inc. - Common Stock",NASDAQ Capital Market,JVA
@@ -8314,6 +8313,7 @@ VERX,"Vertex, Inc. - Class A Common Stock",NASDAQ Global MarketSM,VERX
 VERY,"Vericity, Inc. - Common Stock",NASDAQ Capital Market,VERY
 VEV,Vicinity Motor Corp. - Common Stock,NASDAQ Capital Market,VEV
 VFF,"Village Farms International, Inc. - Common Shares",NASDAQ Capital Market,VFF
+VFLO,VictoryShares Free Cash Flow ETF,NASDAQ Global MarketSM,VFLO
 VGAS,"Verde Clean Fuels, Inc. - Class A Common Stock",NASDAQ Capital Market,VGAS
 VGASW,"Verde Clean Fuels, Inc. - Warrant",NASDAQ Capital Market,VGASW
 VGIT,Vanguard Intermediate-Term Treasury ETF,NASDAQ Global MarketSM,VGIT
@@ -10810,7 +10810,7 @@ MS$P,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share o
 MSA,MSA Safety Incorporated Common Stock,NYSE,MSA
 MSB,Mesabi Trust Common Stock,NYSE,MSB
 MSC,"Studio City International Holdings Limited American depositary shares, each representing four  Class A ordinary shares",NYSE,MSC
-MSCI,MSCI Inc Common Stock,NYSE,MSCI
+MSCI,MSCI Inc. Common Stock,NYSE,MSCI
 MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",NYSE,MSD
 MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,NYSE,MSGE
 MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),NYSE,MSGS
@@ -11874,7 +11874,7 @@ TRCA.U,"Twin Ridge Capital Acquisition Corp. Units, each consisting of one Class
 TRCA.W,"Twin Ridge Capital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,TRCA.W
 TREX,"Trex Company, Inc. Common Stock",NYSE,TREX
 TRGP,"Targa Resources, Inc. Common Stock",NYSE,TRGP
-TRI,Thomson Reuters Corp Ordinary Shares,NYSE,TRI
+TRI,Thomson Reuters Corp Common Shares,NYSE,TRI
 TRIS,Tristar Acquisition I Corp. Class A Ordinary Shares,NYSE,TRIS
 TRIS.U,"Tristar Acquisition I Corp. Units, each consisting of one Class A Ordinary Share and one-half of one Redeemable Warrant to purchase one Class A Ordinary Share",NYSE,TRIS.U
 TRIS.W,"Tristar Acquisition I Corp. Redeemable Warrants, each exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",NYSE,TRIS.W

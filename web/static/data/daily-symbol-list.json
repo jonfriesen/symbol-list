@@ -1,5 +1,5 @@
 {
- "date": "2023-06-22",
+ "date": "2023-06-23",
  "data": [
   {
    "symbol": "ONE",
@@ -9786,6 +9786,18 @@
    ]
   },
   {
+   "symbol": "KALM.P",
+   "name": "Kalma Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KALM.P.V",
+   "instruments": [
+    {
+     "name": "Kalma Capital Corp.",
+     "symbol": "KALM.P"
+    }
+   ]
+  },
+  {
    "symbol": "KALO",
    "name": "Kalo Gold Corp.",
    "exchange": "TSXV",
@@ -14982,18 +14994,6 @@
     {
      "name": "Regent Pacific Properties Inc",
      "symbol": "RPP"
-    }
-   ]
-  },
-  {
-   "symbol": "RGX",
-   "name": "Regenx Tech Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RGX.V",
-   "instruments": [
-    {
-     "name": "Regenx Tech Corp.",
-     "symbol": "RGX"
     }
    ]
   },
@@ -22806,6 +22806,18 @@
    ]
   },
   {
+   "symbol": "ZWQT",
+   "name": "BMO Global Enhanced Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZWQT.TO",
+   "instruments": [
+    {
+     "name": "BMO Glbl Enhanc Incm",
+     "symbol": "ZWQT"
+    }
+   ]
+  },
+  {
    "symbol": "ZWG",
    "name": "BMO Global High Dividend Covered Call ETF",
    "exchange": "TSX",
@@ -23734,6 +23746,30 @@
     {
      "name": "BMO U.S. All Cap Eq",
      "symbol": "ZACE"
+    }
+   ]
+  },
+  {
+   "symbol": "ZUGE",
+   "name": "BMO U.S. Equity Growth MFR Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZUGE.TO",
+   "instruments": [
+    {
+     "name": "BMO US Eqty GrowMFR",
+     "symbol": "ZUGE"
+    }
+   ]
+  },
+  {
+   "symbol": "ZUVE",
+   "name": "BMO U.S. Equity Value MFR Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZUVE.TO",
+   "instruments": [
+    {
+     "name": "BMO US Eqty Val MFR",
+     "symbol": "ZUVE"
     }
    ]
   },
@@ -53161,7 +53197,7 @@
   },
   {
    "symbol": "DTI",
-   "name": "Drilling Tools International Corp. - Common Stock",
+   "name": "Drilling Tools International Corporation  - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DTI"
   },
@@ -56485,13 +56521,13 @@
   },
   {
    "symbol": "GDEV",
-   "name": "Nexters Inc. - Ordinary Shares",
+   "name": "GDEV Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GDEV"
   },
   {
    "symbol": "GDEVW",
-   "name": "Nexters Inc. - Warrant",
+   "name": "GDEV Inc. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GDEVW"
   },
@@ -57880,12 +57916,6 @@
    "name": "iShares Currency Hedged MSCI Germany ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HEWG"
-  },
-  {
-   "symbol": "HEXO",
-   "name": "HEXO Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HEXO"
   },
   {
    "symbol": "HFBL",
@@ -60376,24 +60406,6 @@
    "name": "Jasper Therapeutics, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JSPRW"
-  },
-  {
-   "symbol": "JUGG",
-   "name": "Jaws Juggernaut Acquisition Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JUGG"
-  },
-  {
-   "symbol": "JUGGU",
-   "name": "Jaws Juggernaut Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JUGGU"
-  },
-  {
-   "symbol": "JUGGW",
-   "name": "Jaws Juggernaut Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JUGGW"
   },
   {
    "symbol": "JUPW",
@@ -73936,6 +73948,12 @@
    "name": "Village Farms International, Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VFF"
+  },
+  {
+   "symbol": "VFLO",
+   "name": "VictoryShares Free Cash Flow ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VFLO"
   },
   {
    "symbol": "VGAS",
@@ -88915,7 +88933,7 @@
   },
   {
    "symbol": "MSCI",
-   "name": "MSCI Inc Common Stock",
+   "name": "MSCI Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MSCI"
   },
@@ -95299,7 +95317,7 @@
   },
   {
    "symbol": "TRI",
-   "name": "Thomson Reuters Corp Ordinary Shares",
+   "name": "Thomson Reuters Corp Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "TRI"
   },

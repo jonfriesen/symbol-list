@@ -1,64 +1,76 @@
 {
  "added": [
   {
-   "symbol": "KUSA",
-   "name": "Kusa Inu (KUSA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "STRAY",
-   "name": "Stray Dog (STRAY)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "STEWIE",
-   "name": "Stewie Coin (STEWIE)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "UNLEASH",
-   "name": "UnleashClub (UNLEASH)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "UWU",
-   "name": "uwu (UWU)",
-   "built_on": "ETH"
+   "symbol": "QUANT",
+   "name": "Quant Finance (QUANT)"
   },
   {
    "symbol": "FXY",
-   "name": "Floxypay (FXY)"
+   "name": "Floxypay (FXY)",
+   "built_on": "MATIC"
   },
   {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "BULLS",
-   "name": "Bull Coin (BULLS)",
+   "symbol": "HOBO",
+   "name": "HOBO THE BEAR (HOBO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KWENTA",
+   "name": "Kwenta (KWENTA)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LITHO",
+   "name": "Lithosphere (LITHO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ASTRAFER",
+   "name": "Astrafer (ASTRAFER)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "X",
+   "name": "X Coin (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PAAL",
+   "name": "PAAL AI (PAAL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GPBP",
+   "name": "Genius Playboy Billionaire Philanthropist (GPBP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCAM",
+   "name": "Scam Coin (SCAM)",
    "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "STRAY",
-   "name": "Animal Token (STRAY)"
+   "symbol": "FXY",
+   "name": "Floxypay (FXY)"
   },
   {
-   "symbol": "STEWIE",
-   "name": "Stewie Coin (STEWIE)"
-  },
-  {
-   "symbol": "BULLS",
-   "name": "BullshitCoin (BULLS)"
+   "symbol": "LITHO",
+   "name": "Lithosphere (LITHO)"
   }
  ]
 }
