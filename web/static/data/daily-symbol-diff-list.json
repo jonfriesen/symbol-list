@@ -1,96 +1,114 @@
 {
  "added": [
   {
-   "symbol": "KALM.P",
-   "name": "Kalma Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KALM.P.V",
-   "instruments": [
-    {
-     "name": "Kalma Capital Corp.",
-     "symbol": "KALM.P"
-    }
-   ]
+   "symbol": "CSLM",
+   "name": "Consilium Acquisition Corp I, Ltd. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLM"
   },
   {
-   "symbol": "ZWQT",
-   "name": "BMO Global Enhanced Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZWQT.TO",
-   "instruments": [
-    {
-     "name": "BMO Glbl Enhanc Incm",
-     "symbol": "ZWQT"
-    }
-   ]
+   "symbol": "CSLMR",
+   "name": "Consilium Acquisition Corp I, Ltd. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMR"
   },
   {
-   "symbol": "ZUGE",
-   "name": "BMO U.S. Equity Growth MFR Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZUGE.TO",
-   "instruments": [
-    {
-     "name": "BMO US Eqty GrowMFR",
-     "symbol": "ZUGE"
-    }
-   ]
+   "symbol": "CSLMU",
+   "name": "Consilium Acquisition Corp I, Ltd. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMU"
   },
   {
-   "symbol": "ZUVE",
-   "name": "BMO U.S. Equity Value MFR Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZUVE.TO",
-   "instruments": [
-    {
-     "name": "BMO US Eqty Val MFR",
-     "symbol": "ZUVE"
-    }
-   ]
+   "symbol": "CSLMW",
+   "name": "Consilium Acquisition Corp I, Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMW"
   },
   {
-   "symbol": "VFLO",
-   "name": "VictoryShares Free Cash Flow ETF",
+   "symbol": "ICOP",
+   "name": "iShares Copper and Metals Mining ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VFLO"
+   "yahoo_symbol": "ICOP"
+  },
+  {
+   "symbol": "ILIT",
+   "name": "iShares Lithium Miners and Producers ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ILIT"
+  },
+  {
+   "symbol": "TOON",
+   "name": "Kartoon Studios, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TOON"
   }
  ],
  "removed": [
   {
-   "symbol": "JUGGU",
-   "name": "Jaws Juggernaut Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JUGGU"
+   "symbol": "CSLMW",
+   "name": "Consilium Acquisition Corp I, Ltd. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLMW"
   },
   {
-   "symbol": "JUGG",
-   "name": "Jaws Juggernaut Acquisition Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JUGG"
+   "symbol": "CSLM",
+   "name": "Consilium Acquisition Corp I, Ltd. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLM"
   },
   {
-   "symbol": "RGX",
-   "name": "Regenx Tech Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RGX.V",
-   "instruments": [
-    {
-     "name": "Regenx Tech Corp.",
-     "symbol": "RGX"
-    }
-   ]
+   "symbol": "ALTIW",
+   "name": "AlTi Global, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALTIW"
   },
   {
-   "symbol": "JUGGW",
-   "name": "Jaws Juggernaut Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JUGGW"
+   "symbol": "CSLMU",
+   "name": "Consilium Acquisition Corp I, Ltd. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLMU"
   },
   {
-   "symbol": "HEXO",
-   "name": "HEXO Corp. - Common Shares",
+   "symbol": "ONCS",
+   "name": "OncoSec Medical Incorporated - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HEXO"
+   "yahoo_symbol": "ONCS"
+  },
+  {
+   "symbol": "NIQ",
+   "name": "Nuveenn Intermediate Duration Quality Municipal Term Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NIQ"
+  },
+  {
+   "symbol": "FXCO",
+   "name": "Financial Strategies Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCO"
+  },
+  {
+   "symbol": "FXCOW",
+   "name": "Financial Strategies Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOW"
+  },
+  {
+   "symbol": "GNUS",
+   "name": "Genius Brands International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GNUS"
+  },
+  {
+   "symbol": "CSLMR",
+   "name": "Consilium Acquisition Corp I, Ltd. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLMR"
+  },
+  {
+   "symbol": "FXCOR",
+   "name": "Financial Strategies Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOR"
   }
  ]
 }
