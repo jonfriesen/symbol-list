@@ -1,114 +1,76 @@
 {
  "added": [
   {
-   "symbol": "CSLM",
-   "name": "Consilium Acquisition Corp I, Ltd. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSLM"
+   "symbol": "HEXO.WT.A",
+   "name": "HEXO Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEXO.WT.A.TO",
+   "instruments": [
+    {
+     "name": "HEXO Corp. A Wt ",
+     "symbol": "HEXO.WT.A"
+    }
+   ]
   },
   {
-   "symbol": "CSLMR",
-   "name": "Consilium Acquisition Corp I, Ltd. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSLMR"
-  },
-  {
-   "symbol": "CSLMU",
-   "name": "Consilium Acquisition Corp I, Ltd. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSLMU"
-  },
-  {
-   "symbol": "CSLMW",
-   "name": "Consilium Acquisition Corp I, Ltd. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSLMW"
-  },
-  {
-   "symbol": "ICOP",
-   "name": "iShares Copper and Metals Mining ETF",
+   "symbol": "ALCY",
+   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ICOP"
+   "yahoo_symbol": "ALCY"
   },
   {
-   "symbol": "ILIT",
-   "name": "iShares Lithium Miners and Producers ETF",
+   "symbol": "ALCYW",
+   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ILIT"
+   "yahoo_symbol": "ALCYW"
   },
   {
-   "symbol": "TOON",
-   "name": "Kartoon Studios, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "TOON"
+   "symbol": "ALLR",
+   "name": "Allarity Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALLR"
   }
  ],
  "removed": [
   {
-   "symbol": "CSLMW",
-   "name": "Consilium Acquisition Corp I, Ltd. - Warrant",
+   "symbol": "ALLR",
+   "name": "Allarity Therapeutics, Inc. - Common stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CSLMW"
+   "yahoo_symbol": "ALLR"
   },
   {
-   "symbol": "CSLM",
-   "name": "Consilium Acquisition Corp I, Ltd. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CSLM"
-  },
-  {
-   "symbol": "ALTIW",
-   "name": "AlTi Global, Inc. - Warrant",
+   "symbol": "THCHW",
+   "name": "TH International Limited - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALTIW"
+   "yahoo_symbol": "THCHW"
   },
   {
-   "symbol": "CSLMU",
-   "name": "Consilium Acquisition Corp I, Ltd. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CSLMU"
-  },
-  {
-   "symbol": "ONCS",
-   "name": "OncoSec Medical Incorporated - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ONCS"
-  },
-  {
-   "symbol": "NIQ",
-   "name": "Nuveenn Intermediate Duration Quality Municipal Term Fund Common Shares of Beneficial Interest",
+   "symbol": "UP.W",
+   "name": "Wheels Up Experience Inc. Warrants",
    "exchange": "NYSE",
-   "yahoo_symbol": "NIQ"
+   "yahoo_symbol": "UP.W"
   },
   {
-   "symbol": "FXCO",
-   "name": "Financial Strategies Acquisition Corp. - Class A Common Stock",
+   "symbol": "HEXO",
+   "name": "HEXO Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEXO.TO",
+   "instruments": [
+    {
+     "name": "HEXO Corp.",
+     "symbol": "HEXO"
+    },
+    {
+     "name": "HEXO Corp. A Wt ",
+     "symbol": "HEXO.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "CTIC",
+   "name": "CTI BioPharma Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FXCO"
-  },
-  {
-   "symbol": "FXCOW",
-   "name": "Financial Strategies Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FXCOW"
-  },
-  {
-   "symbol": "GNUS",
-   "name": "Genius Brands International, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GNUS"
-  },
-  {
-   "symbol": "CSLMR",
-   "name": "Consilium Acquisition Corp I, Ltd. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CSLMR"
-  },
-  {
-   "symbol": "FXCOR",
-   "name": "Financial Strategies Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FXCOR"
+   "yahoo_symbol": "CTIC"
   }
  ]
 }
