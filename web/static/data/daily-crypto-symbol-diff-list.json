@@ -1,33 +1,36 @@
 {
  "added": [
   {
-   "symbol": "FUMO",
-   "name": "Alien Milady Fumo (FUMO)",
+   "symbol": "TOX",
+   "name": "INTOverse (TOX)"
+  },
+  {
+   "symbol": "420CHAN",
+   "name": "420chan (420CHAN)",
    "built_on": "ETH"
   },
   {
-   "symbol": "SHS",
-   "name": "SHEESH (SHS)",
+   "symbol": "TOMI",
+   "name": "tomiNet (TOMI)",
    "built_on": "ETH"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "PEPE20",
+   "name": "Pepe 2.0 (PEPE20)",
    "built_on": "ETH"
   },
   {
-   "symbol": "HIPPO",
-   "name": "HIPPO (HIPPO)",
+   "symbol": "KUJI",
+   "name": "Kujira (KUJI)"
+  },
+  {
+   "symbol": "AKNC",
+   "name": "Aave KNC v1 (AKNC)",
    "built_on": "ETH"
   },
   {
-   "symbol": "ALINK",
-   "name": "Aave LINK v1 (ALINK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "9GAG",
-   "name": "9GAG (9GAG)",
+   "symbol": "X",
+   "name": "X Coin (X)",
    "built_on": "ETH"
   },
   {
@@ -36,12 +39,17 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "AUSDC",
+   "name": "Aave USDC v1 (AUSDC)",
+   "built_on": "ETH"
   }
  ]
 }

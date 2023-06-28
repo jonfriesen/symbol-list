@@ -1,5 +1,5 @@
 {
- "date": "2023-06-27",
+ "date": "2023-06-28",
  "data": [
   {
    "symbol": "ONE",
@@ -4266,6 +4266,18 @@
     {
      "name": "Cons Firstfund Capital Corp.",
      "symbol": "FFP"
+    }
+   ]
+  },
+  {
+   "symbol": "CLM",
+   "name": "Consolidated Lithium Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLM.V",
+   "instruments": [
+    {
+     "name": "Consolidated Lithium Metals Inc.",
+     "symbol": "CLM"
     }
    ]
   },
@@ -9642,18 +9654,6 @@
    ]
   },
   {
-   "symbol": "JOR",
-   "name": "Jourdan Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JOR.V",
-   "instruments": [
-    {
-     "name": "Jourdan Resources Inc",
-     "symbol": "JOR"
-    }
-   ]
-  },
-  {
    "symbol": "JUB",
    "name": "Jubilee Gold Exploration Ltd.",
    "exchange": "TSXV",
@@ -11282,6 +11282,18 @@
     {
      "name": "MCX Technologies Corporation",
      "symbol": "MCX"
+    }
+   ]
+  },
+  {
+   "symbol": "MDK.P",
+   "name": "MDK Acquisition Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MDK.P.V",
+   "instruments": [
+    {
+     "name": "MDK Acquisition Inc.",
+     "symbol": "MDK.P"
     }
    ]
   },
@@ -29934,12 +29946,16 @@
     {
      "name": "Fiera Capital 5.6 Db",
      "symbol": "FSZ.DB.A"
+    },
+    {
+     "name": "Fiera Capitl 8.25 Db",
+     "symbol": "FSZ.DB.B"
     }
    ]
   },
   {
    "symbol": "FIL",
-   "name": "Filo Mining Corp.",
+   "name": "Filo Corp",
    "exchange": "TSX",
    "yahoo_symbol": "FIL.TO",
    "instruments": [
@@ -60916,25 +60932,25 @@
   {
    "symbol": "KYCH",
    "name": "Keyarch Acquisition Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KYCH"
   },
   {
    "symbol": "KYCHR",
    "name": "Keyarch Acquisition Corporation - Rights",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KYCHR"
   },
   {
    "symbol": "KYCHU",
    "name": "Keyarch Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KYCHU"
   },
   {
    "symbol": "KYCHW",
    "name": "Keyarch Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KYCHW"
   },
   {
@@ -79412,6 +79428,12 @@
    "yahoo_symbol": "BWA"
   },
   {
+   "symbol": "BWA.V",
+   "name": "BorgWarner Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWA.V"
+  },
+  {
    "symbol": "BWG",
    "name": "BrandywineGLOBAL Global Income Opportunities Fund Inc.",
    "exchange": "NYSE",
@@ -89366,6 +89388,18 @@
    "yahoo_symbol": "NE"
   },
   {
+   "symbol": "NE.A",
+   "name": "Noble Corporation plc Tranche 2 Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NE.A"
+  },
+  {
+   "symbol": "NE.W",
+   "name": "Noble Corporation plc Tranche 1 Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NE.W"
+  },
+  {
    "symbol": "NEA",
    "name": "Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01",
    "exchange": "NYSE",
@@ -91374,6 +91408,12 @@
    "name": "PLDT Inc. Sponsored ADR",
    "exchange": "NYSE",
    "yahoo_symbol": "PHI"
+  },
+  {
+   "symbol": "PHIN.V",
+   "name": "PHINIA Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHIN.V"
   },
   {
    "symbol": "PHK",

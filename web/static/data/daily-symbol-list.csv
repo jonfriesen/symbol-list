@@ -351,6 +351,7 @@ CSL,Comstock Metals Ltd.,TSXV,CSL.V,Comstock Metals Ltd.,CSL
 CN,Condor Resources Inc.,TSXV,CN.V,Condor Resources Inc,CN
 CQR,Conquest Resources Limited,TSXV,CQR.V,Conquest Resources Limited,CQR
 FFP,Consolidated Firstfund Capital Corp.,TSXV,FFP.V,Cons Firstfund Capital Corp.,FFP
+CLM,Consolidated Lithium Metals Inc.,TSXV,CLM.V,Consolidated Lithium Metals Inc.,CLM
 CUR,Consolidated Uranium Inc.,TSXV,CUR.V,Consolidated Uranium Inc.,CUR
 C,Contact Gold Corp.,TSXV,C.V,Contact Gold Corp.,C
 CNS,Contagious Gaming Inc.,TSXV,CNS.V,Contagious Gaming Inc.,CNS
@@ -791,7 +792,6 @@ JTC,Jemtec Inc.,TSXV,JTC.V,Jemtec Inc.,JTC
 JEV,Jericho Energy Ventures Inc.,TSXV,JEV.V,Jericho Energy Ventures Inc.,JEV
 JRV,Jervois Global Limited,TSXV,JRV.V,Jervois Global Limited,JRV
 JES.P,Jesmond Capital Ltd.,TSXV,JES.P.V,Jesmond Capital Ltd.,JES.P
-JOR,Jourdan Resources Inc.,TSXV,JOR.V,Jourdan Resources Inc,JOR
 JUB,Jubilee Gold Exploration Ltd.,TSXV,JUB.V,Jubilee Gold Exploration Ltd,JUB
 JUGR,Juggernaut Exploration Ltd.,TSXV,JUGR.V,Juggernaut Exploration Ltd.,JUGR
 JEC,Jura Energy Corporation,TSXV,JEC.V,Jura Energy Corporation,JEC
@@ -925,6 +925,7 @@ MFG,Mayfair Gold Corp.,TSXV,MFG.V,Mayfair Gold Corp.,MFG
 MCS,McChip Resources Inc.,TSXV,MCS.V,McChip Resources Inc,MCS
 MCF,MCF Energy Ltd.,TSXV,MCF.V,MCF Energy Ltd.,MCF
 MCX,MCX Technologies Corporation,TSXV,MCX.V,MCX Technologies Corporation,MCX
+MDK.P,MDK Acquisition Inc.,TSXV,MDK.P.V,MDK Acquisition Inc.,MDK.P
 MDL,Medallion Resources Ltd.,TSXV,MDL.V,Medallion Resources Ltd.,MDL
 MED,Medgold Resources Corp.,TSXV,MED.V,Medgold Resources Corp.,MED
 MPH,Medicure Inc.,TSXV,MPH.V,Medicure Inc.,MPH
@@ -2332,8 +2333,8 @@ FCMH,Fidelity U.S. Momentum Currency Neutral Index ETF,TSX,FCMH.TO,FidelityUS Mo
 FCMO,Fidelity U.S. Momentum Index ETF,TSX,FCMO.TO,Fidelity US Moment L,FCMO,Fidelity US MomentUS,FCMO.U
 FCVH,Fidelity U.S. Value Currency Neutral Index ETF,TSX,FCVH.TO,Fidelity USValCurNeu,FCVH
 FCUV,Fidelity U.S. Value Index ETF,TSX,FCUV.TO,Fidelity US Val L Un,FCUV,Fidelity US Val L US,FCUV.U
-FSZ,Fiera Capital Corporation,TSX,FSZ.TO,Fiera Capital A SV,FSZ,Fiera Capital 5.6 Db,FSZ.DB.A
-FIL,Filo Mining Corp.,TSX,FIL.TO,Filo Mining Corp. J,FIL
+FSZ,Fiera Capital Corporation,TSX,FSZ.TO,Fiera Capital A SV,FSZ,Fiera Capital 5.6 Db,FSZ.DB.A,Fiera Capitl 8.25 Db,FSZ.DB.B
+FIL,Filo Corp,TSX,FIL.TO,Filo Mining Corp. J,FIL
 FTN,Financial 15 Split Corp.,TSX,FTN.TO,Financial 15 Splt A,FTN,Financial 15 Splt Pr,FTN.PR.A
 FTT,Finning International Inc.,TSX,FTT.TO,Finning Int'l Inc.,FTT
 FTG,Firan Technology Group Corporation,TSX,FTG.TO,Firan Tech Grp Corp.,FTG
@@ -6141,10 +6142,10 @@ KVSA,Khosla Ventures Acquisition Co. - Class A Common Stock,NASDAQ Capital Marke
 KWE,"KWESST Micro Systems Inc. - common stock, no R/S concurrent with offering",NASDAQ Capital Market,KWE
 KWESW,KWESST Micro Systems Inc. - warrant,NASDAQ Capital Market,KWESW
 KXIN,Kaixin Auto Holdings - Ordinary Shares,NASDAQ Capital Market,KXIN
-KYCH,Keyarch Acquisition Corporation - Ordinary Shares,NASDAQ Global MarketSM,KYCH
-KYCHR,Keyarch Acquisition Corporation - Rights,NASDAQ Global MarketSM,KYCHR
-KYCHU,Keyarch Acquisition Corporation - Unit,NASDAQ Global MarketSM,KYCHU
-KYCHW,Keyarch Acquisition Corporation - Warrant,NASDAQ Global MarketSM,KYCHW
+KYCH,Keyarch Acquisition Corporation - Ordinary Shares,NASDAQ Capital Market,KYCH
+KYCHR,Keyarch Acquisition Corporation - Rights,NASDAQ Capital Market,KYCHR
+KYCHU,Keyarch Acquisition Corporation - Unit,NASDAQ Capital Market,KYCHU
+KYCHW,Keyarch Acquisition Corporation - Warrant,NASDAQ Capital Market,KYCHW
 KYMR,"Kymera Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,KYMR
 KZIA,Kazia Therapeutics Limited - American Depositary Shares,NASDAQ Capital Market,KZIA
 KZR,"Kezar Life Sciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,KZR
@@ -9224,6 +9225,7 @@ BVN,Buenaventura Mining Company Inc.,NYSE,BVN
 BW,"Babcock & Wilcox Enterprises, Inc. Common Stock",NYSE,BW
 BW$A,"Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock",NYSE,BW$A
 BWA,BorgWarner Inc. Common Stock,NYSE,BWA
+BWA.V,BorgWarner Inc. Common Stock When-Issued,NYSE,BWA.V
 BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,NYSE,BWG
 BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",NYSE,BWNB
 BWSN,"Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026",NYSE,BWSN
@@ -10883,6 +10885,8 @@ NCZ$A,Virtus Convertible & Income Fund II 5.50% Series A Cumulative Preferred Sh
 NDMO,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,NYSE,NDMO
 NDP,"Tortoise Energy Independence Fund, Inc. Common Stock",NYSE,NDP
 NE,Noble Corporation plc A Ordinary Shares,NYSE,NE
+NE.A,Noble Corporation plc Tranche 2 Warrants,NYSE,NE.A
+NE.W,Noble Corporation plc Tranche 1 Warrants,NYSE,NE.W
 NEA,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,NYSE,NEA
 NEE,"NextEra Energy, Inc. Common Stock",NYSE,NEE
 NEE$N,"NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079",NYSE,NEE$N
@@ -11218,6 +11222,7 @@ PHG,Koninklijke Philips N.V. NY Registry Shares,NYSE,PHG
 PHGE,BiomX Inc. COmmon Stock,NYSE MKT,PHGE
 PHGE.U,BiomX Inc. Units,NYSE MKT,PHGE.U
 PHI,PLDT Inc. Sponsored ADR,NYSE,PHI
+PHIN.V,PHINIA Inc. Common Stock When-Issued,NYSE,PHIN.V
 PHK,Pimco High Income Fund Pimco High Income Fund,NYSE,PHK
 PHM,"PulteGroup, Inc. Common Stock",NYSE,PHM
 PHR,"Phreesia, Inc. Common Stock",NYSE,PHR

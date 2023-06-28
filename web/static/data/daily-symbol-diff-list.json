@@ -1,76 +1,114 @@
 {
  "added": [
   {
-   "symbol": "HEXO.WT.A",
-   "name": "HEXO Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEXO.WT.A.TO",
+   "symbol": "CLM",
+   "name": "Consolidated Lithium Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLM.V",
    "instruments": [
     {
-     "name": "HEXO Corp. A Wt ",
-     "symbol": "HEXO.WT.A"
+     "name": "Consolidated Lithium Metals Inc.",
+     "symbol": "CLM"
     }
    ]
   },
   {
-   "symbol": "ALCY",
-   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALCY"
+   "symbol": "MDK.P",
+   "name": "MDK Acquisition Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MDK.P.V",
+   "instruments": [
+    {
+     "name": "MDK Acquisition Inc.",
+     "symbol": "MDK.P"
+    }
+   ]
   },
   {
-   "symbol": "ALCYW",
-   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALCYW"
-  },
-  {
-   "symbol": "ALLR",
-   "name": "Allarity Therapeutics, Inc. - Common stock",
+   "symbol": "KYCH",
+   "name": "Keyarch Acquisition Corporation - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALLR"
+   "yahoo_symbol": "KYCH"
+  },
+  {
+   "symbol": "KYCHR",
+   "name": "Keyarch Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHR"
+  },
+  {
+   "symbol": "KYCHU",
+   "name": "Keyarch Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHU"
+  },
+  {
+   "symbol": "KYCHW",
+   "name": "Keyarch Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHW"
+  },
+  {
+   "symbol": "BWA.V",
+   "name": "BorgWarner Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWA.V"
+  },
+  {
+   "symbol": "NE.A",
+   "name": "Noble Corporation plc Tranche 2 Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NE.A"
+  },
+  {
+   "symbol": "NE.W",
+   "name": "Noble Corporation plc Tranche 1 Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NE.W"
+  },
+  {
+   "symbol": "PHIN.V",
+   "name": "PHINIA Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHIN.V"
   }
  ],
  "removed": [
   {
-   "symbol": "ALLR",
-   "name": "Allarity Therapeutics, Inc. - Common stock",
+   "symbol": "KYCHU",
+   "name": "Keyarch Acquisition Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALLR"
+   "yahoo_symbol": "KYCHU"
   },
   {
-   "symbol": "THCHW",
-   "name": "TH International Limited - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "THCHW"
-  },
-  {
-   "symbol": "UP.W",
-   "name": "Wheels Up Experience Inc. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "UP.W"
-  },
-  {
-   "symbol": "HEXO",
-   "name": "HEXO Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEXO.TO",
+   "symbol": "JOR",
+   "name": "Jourdan Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JOR.V",
    "instruments": [
     {
-     "name": "HEXO Corp.",
-     "symbol": "HEXO"
-    },
-    {
-     "name": "HEXO Corp. A Wt ",
-     "symbol": "HEXO.WT.A"
+     "name": "Jourdan Resources Inc",
+     "symbol": "JOR"
     }
    ]
   },
   {
-   "symbol": "CTIC",
-   "name": "CTI BioPharma Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CTIC"
+   "symbol": "KYCHW",
+   "name": "Keyarch Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KYCHW"
+  },
+  {
+   "symbol": "KYCHR",
+   "name": "Keyarch Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KYCHR"
+  },
+  {
+   "symbol": "KYCH",
+   "name": "Keyarch Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KYCH"
   }
  ]
 }
