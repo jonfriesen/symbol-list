@@ -1,31 +1,45 @@
 {
  "added": [
   {
-   "symbol": "TOX",
-   "name": "INTOverse (TOX)"
-  },
-  {
-   "symbol": "420CHAN",
-   "name": "420chan (420CHAN)",
+   "symbol": "MIRACLE",
+   "name": "MIRACLE (MIRACLE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "TOMI",
-   "name": "tomiNet (TOMI)",
+   "symbol": "AETH",
+   "name": "Aave ETH (AETH)",
    "built_on": "ETH"
   },
   {
-   "symbol": "PEPE20",
-   "name": "Pepe 2.0 (PEPE20)",
+   "symbol": "MAV",
+   "name": "Maverick Protocol (MAV)",
    "built_on": "ETH"
   },
   {
-   "symbol": "KUJI",
-   "name": "Kujira (KUJI)"
+   "symbol": "WPLS",
+   "name": "Wrapped Pulse (WPLS)"
   },
   {
-   "symbol": "AKNC",
-   "name": "Aave KNC v1 (AKNC)",
+   "symbol": "FAKE",
+   "name": "FAKE COIN (FAKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "POKEMON",
+   "name": "Pokemon (POKEMON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MULTIV",
+   "name": "Multiverse (MULTIV)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
@@ -34,22 +48,14 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
    "symbol": "GETH",
    "name": "Guarded Ether (GETH)"
-  },
+  }
+ ],
+ "removed": [
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "AUSDC",
-   "name": "Aave USDC v1 (AUSDC)",
-   "built_on": "ETH"
+   "symbol": "AETH",
+   "name": "Aave ETH (AETH)"
   }
  ]
 }
