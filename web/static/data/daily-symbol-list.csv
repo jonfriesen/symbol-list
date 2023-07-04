@@ -75,7 +75,6 @@ AE,American Eagle Gold Corp.,TSXV,AE.V,American Eagle Gold Corp.,AE
 LI,American Lithium Corp.,TSXV,LI.V,American Lithium Corp.,LI,American Lithium Corp. wt. 11May2024,LI.WT
 AMX,Amex Exploration Inc.,TSXV,AMX.V,Amex Exploration Inc.,AMX
 AMG.P,AMG Acquisition Corp,TSXV,AMG.P.V,AMG Acquisition Corp.,AMG.P
-XYZ,Anacortes Mining Corp.,TSXV,XYZ.V,Anacortes Mining Corp.,XYZ
 AAC.P,Anacott Acquisition Corporation,TSXV,AAC.P.V,Anacott Acquisition Corporation,AAC.P
 ALY,AnalytixInsight Inc.,TSXV,ALY.V,AnalytixInsight Inc.,ALY,AnalytixInsight Inc. wt 28Jun2024,ALY.WT
 APM,Andean Precious Metals Corp.,TSXV,APM.V,Andean Precious Metals Corp.,APM
@@ -588,6 +587,7 @@ GKO,Geekco Technologies Corporation,TSXV,GKO.V,Geekco Technologies Corporation,G
 GA,General Assembly Holdings Limited,TSXV,GA.V,General Assembly Holdings Limited,GA
 GEN,Generation Gold Corp.,TSXV,GEN.V,Generation Gold Corp.,GEN
 REBL.P,Genesis Acquisition Corp.,TSXV,REBL.P.V,Genesis Acquisition Corp.,REBL.P
+GNFI,Genifi Inc.,TSXV,GNFI.V,Genifi Inc.,GNFI
 GENI,Genius Metals Inc.,TSXV,GENI.V,Genius Metals Inc.,GENI
 GENX,Genix Pharmaceuticals Corporation,TSXV,GENX.V,Genix Pharmaceuticals Corporation,GENX
 GSP,Gensource Potash Corporation,TSXV,GSP.V,Gensource Potash Corporation,GSP
@@ -1176,7 +1176,6 @@ PNRL,Premium Nickel Resources Ltd.,TSXV,PNRL.V,Premium Nickel Resources Ltd.,PNR
 PRYM,Prime Mining Corp.,TSXV,PRYM.V,Prime Mining Corp.,PRYM
 PTEC,Principal Technologies Inc.,TSXV,PTEC.V,Principal Technologies Inc.,PTEC
 PMX,ProAm Explorations Corporation,TSXV,PMX.V,ProAm Explorations Corporation,PMX
-PGV,Prodigy Ventures Inc.,TSXV,PGV.V,Prodigy Ventures Inc.,PGV
 PLAN,Progressive Planet Solutions Inc.,TSXV,PLAN.V,Progressive Planet Solutions Inc.,PLAN
 PFM,ProntoForms Corporation,TSXV,PFM.V,ProntoForms Corporation,PFM
 PPP,Prospector Metals Corp.,TSXV,PPP.V,Prospector Metals Corp.,PPP
@@ -1414,7 +1413,6 @@ PEAK,Sun Peak Metals Corp.,TSXV,PEAK.V,Sun Peak Metals Corp.,PEAK
 SRES,Sun Residential Real Estate Investment Trust,TSXV,SRES.V,Sun Residential Real Estate Investment Trust,SRES
 SMN,Sun Summit Minerals Corp.,TSXV,SMN.V,Sun Summit Minerals Corp.,SMN
 SPZ,SuperBuzz Inc.,TSXV,SPZ.V,SuperBuzz Inc.,SPZ
-SGI,Superior Gold Inc.,TSXV,SGI.V,Superior Gold Inc.,SGI
 SUI,Superior Mining International Corporation,TSXV,SUI.V,Superior Mining International Corporation,SUI
 NILI,Surge Battery Metals Inc.,TSXV,NILI.V,Surge Battery Metals Inc.,NILI
 SURG,Surge Copper Corp.,TSXV,SURG.V,Surge Copper Corp.,SURG
@@ -2029,7 +2027,7 @@ GIB.A,CGI Inc.,TSX,GIB.A.TO,CGI Inc. Cl A SV,GIB.A
 CIA,Champion Iron Limited,TSX,CIA.TO,Champion Iron Ord J,CIA
 CWEB,"Charlotte's Web Holdings, Inc.",TSX,CWEB.TO,Charlotte's Web Hldg,CWEB
 CSH.UN,Chartwell Retirement Residences,TSX,CSH.UN.TO,Chartwell Retire Un,CSH.UN
-CHE.DB.D,Chemtrade Logistics Income Fund,TSX,CHE.DB.D.TO,Chemtrade Lgst4.75Db,CHE.DB.D,Chemtrade Lgst6.5Deb,CHE.DB.E,Chemtrade Lgst 8.5Db,CHE.DB.F,Chemtrade Lgst6.25Db,CHE.DB.G,Chemtrade Lgst 7% Db,CHE.DB.H,Chemtrade Logistc Un,CHE.UN
+CHE.DB.E,Chemtrade Logistics Income Fund,TSX,CHE.DB.E.TO,Chemtrade Lgst6.5Deb,CHE.DB.E,Chemtrade Lgst 8.5Db,CHE.DB.F,Chemtrade Lgst6.25Db,CHE.DB.G,Chemtrade Lgst 7% Db,CHE.DB.H,Chemtrade Logistc Un,CHE.UN
 CHW,Chesswood Group Limited,TSX,CHW.TO,Chesswood Group Ltd.,CHW
 CGG,China Gold International Resources Corp. Ltd.,TSX,CGG.TO,China Gld Intl Res J,CGG
 CHP.UN,Choice Properties Real Estate Investment Trust,TSX,CHP.UN.TO,Choice Ppty REIT Un,CHP.UN
@@ -2158,7 +2156,7 @@ CTX,Crescita Therapeutics Inc.,TSX,CTX.TO,Crescita Therpeutc J,CTX
 CR,Crew Energy Inc.,TSX,CR.TO,Crew Energy Inc.,CR
 CRR.UN,Crombie Real Estate Investment Trust,TSX,CRR.UN.TO,Crombie Real Est Un,CRR.UN
 CRON,Cronos Group Inc.,TSX,CRON.TO,Cronos Group Inc. J,CRON
-CRWN,Crown Capital Partners Inc.,TSX,CRWN.TO,Crown Cap Partners J,CRWN,Crown CapPart J 6%Db,CRWN.NT
+CRWN,Crown Capital Partners Inc.,TSX,CRWN.TO,Crown Cap Partners J,CRWN,Crown CapPartJ 10%Db,CRWN.NT
 CRT.UN,CT Real Estate Investment Trust,TSX,CRT.UN.TO,CT Rl Est Invest Un,CRT.UN
 CIU.PR.A,CU Inc.,TSX,CIU.PR.A.TO,CU Inc. Pr Ser 1,CIU.PR.A,CU Inc. Pr Ser 4,CIU.PR.C
 CUB,CubicFarm Systems Corp.,TSX,CUB.TO,CubicFarm Systems J,CUB,CubicFarm Sys J Deb,CUB.DB
@@ -3310,12 +3308,13 @@ T,TELUS Corporation,TSX,T.TO,TELUS Corporation,T
 TIXT,TELUS International (Cda) Inc.,TSX,TIXT.TO,TELUS Int'l (Cda) SV,TIXT
 TNZ,Tenaz Energy Corp.,TSX,TNZ.TO,Tenaz Energy Corp.,TNZ
 TGO,TeraGo Inc.,TSX,TGO.TO,TeraGo Inc.,TGO
+TSND,TerrAscend Corp.,TSX,TSND.TO,TerrAscend Corp. J,TSND
 TVK,TerraVest Industries Inc.,TSX,TVK.TO,TerraVest Industries,TVK
 TBP,Tetra Bio-Pharma Inc.,TSX,TBP.TO,Tetra Bio-Pharma J,TBP,Tetra Bio-PharmJ WtC,TBP.WT.C
 TFII,TFI International Inc.,TSX,TFII.TO,TFI International ,TFII
 QETH.U,The Ether Fund,TSX,QETH.U.TO,The EtherFnd A Un US,QETH.U,The EtherFnd A C$ Un,QETH.UN
 REAX,The Real Brokerage Inc.,TSX,REAX.TO,The Real Brokerage J,REAX
-TH,Theratechnologies Inc.,TSX,TH.TO,Theratechnologies,TH,Theratechnlgy Nte US,TH.DB.U
+TH,Theratechnologies Inc.,TSX,TH.TO,Theratechnologies,TH
 THNC,Thinkific Labs Inc.,TSX,THNC.TO,Thinkific Labs J SV,THNC
 TRI,Thomson Reuters Corporation,TSX,TRI.TO,Thomson Reuters Corp,TRI,Thomson Reuter Pr II,TRI.PR.B
 TWM,Tidewater Midstream and Infrastructure Ltd.,TSX,TWM.TO,Tidewater MdStrmInfr,TWM,Tidewater Midstrm Db,TWM.DB,Tidewater Midstrm Wt,TWM.WT
@@ -3345,7 +3344,7 @@ TCN,Tricon Residential Inc.,TSX,TCN.TO,Tricon Residential ,TCN
 TMQ,Trilogy Metals Inc.,TSX,TMQ.TO,Trilogy Metals Inc J,TMQ
 TFPM,Triple Flag Precious Metals Corp.,TSX,TFPM.TO,Triple Flag Precious,TFPM
 TSU,Trisura Group Ltd.,TSX,TSU.TO,Trisura Group J,TSU
-TLG,Troilus Gold Corp.,TSX,TLG.TO,Troilus Gold Corp J,TLG,Troilus Gold J Wt,TLG.WT
+TLG,Troilus Gold Corp.,TSX,TLG.TO,Troilus Gold Corp J,TLG
 TNT.UN,True North Commercial Real Estate Investment Trust,TSX,TNT.UN.TO,True NthCommrcl J Un,TNT.UN
 TNX,TRX Gold Corporation,TSX,TNX.TO,TRX Gold Corp J,TNX
 TC,Tucows Inc.,TSX,TC.TO,Tucows Inc.,TC

@@ -1,144 +1,126 @@
 {
  "added": [
   {
-   "symbol": "AENT",
-   "name": "Alliance Entertainment Holding Corporation - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AENT"
+   "symbol": "GNFI",
+   "name": "Genifi Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GNFI.V",
+   "instruments": [
+    {
+     "name": "Genifi Inc.",
+     "symbol": "GNFI"
+    }
+   ]
   },
   {
-   "symbol": "AENTW",
-   "name": "Alliance Entertainment Holding Corporation - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AENTW"
+   "symbol": "CHE.DB.E",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.E.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst6.5Deb",
+     "symbol": "CHE.DB.E"
+    },
+    {
+     "name": "Chemtrade Lgst 8.5Db",
+     "symbol": "CHE.DB.F"
+    },
+    {
+     "name": "Chemtrade Lgst6.25Db",
+     "symbol": "CHE.DB.G"
+    },
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
   },
   {
-   "symbol": "BGC",
-   "name": "BGC Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BGC"
-  },
-  {
-   "symbol": "BTM",
-   "name": "Bitcoin Depot Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BTM"
-  },
-  {
-   "symbol": "BTMWW",
-   "name": "Bitcoin Depot Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BTMWW"
-  },
-  {
-   "symbol": "FTRE",
-   "name": "Fortrea Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FTRE"
-  },
-  {
-   "symbol": "INTS",
-   "name": "Intensity Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "INTS"
+   "symbol": "TSND",
+   "name": "TerrAscend Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSND.TO",
+   "instruments": [
+    {
+     "name": "TerrAscend Corp. J",
+     "symbol": "TSND"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "EOCW",
-   "name": "Elliott Opportunity II Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EOCW"
+   "symbol": "XYZ",
+   "name": "Anacortes Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XYZ.V",
+   "instruments": [
+    {
+     "name": "Anacortes Mining Corp.",
+     "symbol": "XYZ"
+    }
+   ]
   },
   {
-   "symbol": "BNSO",
-   "name": "Bonso Electronics International, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNSO"
+   "symbol": "CHE.DB.D",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.D.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst4.75Db",
+     "symbol": "CHE.DB.D"
+    },
+    {
+     "name": "Chemtrade Lgst6.5Deb",
+     "symbol": "CHE.DB.E"
+    },
+    {
+     "name": "Chemtrade Lgst 8.5Db",
+     "symbol": "CHE.DB.F"
+    },
+    {
+     "name": "Chemtrade Lgst6.25Db",
+     "symbol": "CHE.DB.G"
+    },
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
   },
   {
-   "symbol": "LH.V",
-   "name": "Laboratory Corporation of America Holdings Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LH.V"
+   "symbol": "PGV",
+   "name": "Prodigy Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PGV.V",
+   "instruments": [
+    {
+     "name": "Prodigy Ventures Inc.",
+     "symbol": "PGV"
+    }
+   ]
   },
   {
-   "symbol": "BGCP",
-   "name": "BGC Partners, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BGCP"
-  },
-  {
-   "symbol": "GSRMR",
-   "name": "GSR II Meteora Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRMR"
-  },
-  {
-   "symbol": "EOCW.U",
-   "name": "Elliott Opportunity II Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EOCW.U"
-  },
-  {
-   "symbol": "USX",
-   "name": "U.S. Xpress Enterprises, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "USX"
-  },
-  {
-   "symbol": "DNAD",
-   "name": "Social Capital Suvretta Holdings Corp. IV - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DNAD"
-  },
-  {
-   "symbol": "GSRM",
-   "name": "GSR II Meteora Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRM"
-  },
-  {
-   "symbol": "GSRMU",
-   "name": "GSR II Meteora Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRMU"
-  },
-  {
-   "symbol": "SRGA",
-   "name": "Surgalign Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SRGA"
-  },
-  {
-   "symbol": "IIVI",
-   "name": "Coherent Corp. 6.00% Series A Mandatory Convertible Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IIVI"
-  },
-  {
-   "symbol": "TCFC",
-   "name": "The Community Financial Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCFC"
-  },
-  {
-   "symbol": "DNAB",
-   "name": "Social Capital Suvretta Holdings Corp. II - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DNAB"
-  },
-  {
-   "symbol": "GSRMW",
-   "name": "GSR II Meteora Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRMW"
-  },
-  {
-   "symbol": "FTREV",
-   "name": "Fortrea Holdings Inc. - Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FTREV"
+   "symbol": "SGI",
+   "name": "Superior Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGI.V",
+   "instruments": [
+    {
+     "name": "Superior Gold Inc.",
+     "symbol": "SGI"
+    }
+   ]
   }
  ]
 }

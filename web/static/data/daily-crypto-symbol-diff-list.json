@@ -1,38 +1,46 @@
 {
  "added": [
   {
-   "symbol": "ALPHA",
-   "name": "Alpha Finance Lab (ALPHA)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "PINO",
-   "name": "Pinocchu (PINO)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "SELF",
-   "name": "SELFCrypto (SELF)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "JARED",
-   "name": "Jared From Subway (JARED)",
+   "symbol": "CVAULT",
+   "name": "cVault.finance (CVAULT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "RAP",
-   "name": "Philosoraptor (RAP)",
+   "symbol": "WOO",
+   "name": "WOO Network (WOO)",
    "built_on": "ETH"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "LM",
+   "name": "LeisureMeta (LM)"
+  },
+  {
+   "symbol": "MULTIV",
+   "name": "Multiverse (MULTIV)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "CORE",
+   "name": "Coreum (CORE)"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DEEZ",
+   "name": "DEEZ NUTS (DEEZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BAD",
+   "name": "Bad Idea AI (BAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LMTOKEN",
+   "name": "LM Token (LMTOKEN)",
+   "built_on": "ETH"
   },
   {
    "symbol": "DOGETH",
@@ -42,16 +50,50 @@
    "symbol": "X",
    "name": "X Coin (X)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "COMBO",
+   "name": "Furucombo (COMBO)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "RAP",
-   "name": "Rapture (RAP)"
+   "symbol": "COMBO",
+   "name": "Furucombo (COMBO)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "ALPHA",
-   "name": "Alpha Finance Lab (ALPHA)",
+   "symbol": "LMTOKEN",
+   "name": "LM Token (LMTOKEN)"
+  },
+  {
+   "symbol": "PNP",
+   "name": "LogisticsX (PNP)"
+  },
+  {
+   "symbol": "WOO",
+   "name": "WOO Network (WOO)"
+  },
+  {
+   "symbol": "MULTIV",
+   "name": "Multiverse (MULTIV)"
+  },
+  {
+   "symbol": "LM",
+   "name": "LeisureMeta (LM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CVAULT",
+   "name": "cVault.finance (CVAULT)"
+  },
+  {
+   "symbol": "CORE",
+   "name": "Coreum (CORE)",
    "built_on": "ETH"
   }
  ]

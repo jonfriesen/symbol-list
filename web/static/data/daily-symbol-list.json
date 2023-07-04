@@ -1,5 +1,5 @@
 {
- "date": "2023-07-03",
+ "date": "2023-07-04",
  "data": [
   {
    "symbol": "ONE",
@@ -914,18 +914,6 @@
     {
      "name": "AMG Acquisition Corp.",
      "symbol": "AMG.P"
-    }
-   ]
-  },
-  {
-   "symbol": "XYZ",
-   "name": "Anacortes Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "XYZ.V",
-   "instruments": [
-    {
-     "name": "Anacortes Mining Corp.",
-     "symbol": "XYZ"
     }
    ]
   },
@@ -7158,6 +7146,18 @@
     {
      "name": "Genesis Acquisition Corp.",
      "symbol": "REBL.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GNFI",
+   "name": "Genifi Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GNFI.V",
+   "instruments": [
+    {
+     "name": "Genifi Inc.",
+     "symbol": "GNFI"
     }
    ]
   },
@@ -14358,18 +14358,6 @@
    ]
   },
   {
-   "symbol": "PGV",
-   "name": "Prodigy Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PGV.V",
-   "instruments": [
-    {
-     "name": "Prodigy Ventures Inc.",
-     "symbol": "PGV"
-    }
-   ]
-  },
-  {
    "symbol": "PLAN",
    "name": "Progressive Planet Solutions Inc.",
    "exchange": "TSXV",
@@ -17266,18 +17254,6 @@
     {
      "name": "SuperBuzz Inc.",
      "symbol": "SPZ"
-    }
-   ]
-  },
-  {
-   "symbol": "SGI",
-   "name": "Superior Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SGI.V",
-   "instruments": [
-    {
-     "name": "Superior Gold Inc.",
-     "symbol": "SGI"
     }
    ]
   },
@@ -25602,15 +25578,11 @@
    ]
   },
   {
-   "symbol": "CHE.DB.D",
+   "symbol": "CHE.DB.E",
    "name": "Chemtrade Logistics Income Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "CHE.DB.D.TO",
+   "yahoo_symbol": "CHE.DB.E.TO",
    "instruments": [
-    {
-     "name": "Chemtrade Lgst4.75Db",
-     "symbol": "CHE.DB.D"
-    },
     {
      "name": "Chemtrade Lgst6.5Deb",
      "symbol": "CHE.DB.E"
@@ -27404,7 +27376,7 @@
      "symbol": "CRWN"
     },
     {
-     "name": "Crown CapPart J 6%Db",
+     "name": "Crown CapPartJ 10%Db",
      "symbol": "CRWN.NT"
     }
    ]
@@ -42970,6 +42942,18 @@
    ]
   },
   {
+   "symbol": "TSND",
+   "name": "TerrAscend Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSND.TO",
+   "instruments": [
+    {
+     "name": "TerrAscend Corp. J",
+     "symbol": "TSND"
+    }
+   ]
+  },
+  {
    "symbol": "TVK",
    "name": "TerraVest Industries Inc.",
    "exchange": "TSX",
@@ -43046,10 +43030,6 @@
     {
      "name": "Theratechnologies",
      "symbol": "TH"
-    },
-    {
-     "name": "Theratechnlgy Nte US",
-     "symbol": "TH.DB.U"
     }
    ]
   },
@@ -43526,10 +43506,6 @@
     {
      "name": "Troilus Gold Corp J",
      "symbol": "TLG"
-    },
-    {
-     "name": "Troilus Gold J Wt",
-     "symbol": "TLG.WT"
     }
    ]
   },
