@@ -971,7 +971,6 @@ MRZ,Mirasol Resources Ltd.,TSXV,MRZ.V,Mirasol Resources Ltd.,MRZ
 MRS,Mission Ready Solutions Inc.,TSXV,MRS.V,Mission Ready Solutions Inc.,MRS
 MIZA.P,Miza III Ventures Inc.,TSXV,MIZA.P.V,Miza III Ventures Inc.,MIZA.P
 MKA,Mkango Resources Ltd.,TSXV,MKA.V,Mkango Resources Ltd.,MKA
-MOS,Mobi724 Global Solutions Inc.,TSXV,MOS.V,MOBI724 Global Solutions Inc.,MOS
 MBO,Mobio Technologies Inc.,TSXV,MBO.V,Mobio Technologies Inc.,MBO
 MMN,Monarca Minerals Inc.,TSXV,MMN.V,Monarca Minerals Inc.,MMN
 MONA.P,Monarch West Ventures Inc.,TSXV,MONA.P.V,Monarch West Ventures Inc.,MONA.P
@@ -1312,6 +1311,7 @@ SNM,ShaMaran Petroleum Corp.,TSXV,SNM.V,ShaMaran Petroleum Corp,SNM
 SHLL.P,Shellron Capital Ltd.,TSXV,SHLL.P.V,Shellron Capital Ltd.,SHLL.P
 SHRP,Sherpa II Holdings Corp.,TSXV,SHRP.V,Sherpa II Holdings Corp.,SHRP
 RENT.P,Shine Box Capital Corp.,TSXV,RENT.P.V,Shine Box Capital Corp.,RENT.P
+SNYB,Shiny Health & Wellness Corp.,TSXV,SNYB.V,Shiny Health & Wellness Corp.,SNYB
 SSSS.P,Shooting Star Acquisition Corp.,TSXV,SSSS.P.V,Shooting Star Acquisition Corp.,SSSS.P
 SIE,Sienna Resources Inc.,TSXV,SIE.V,Sienna Resources Inc.,SIE
 SM,Sierra Madre Gold and Silver Ltd.,TSXV,SM.V,Sierra Madre Gold and Silver Ltd.,SM
@@ -2039,7 +2039,7 @@ CNAO,CI Alternative North American Opportunities Fund,TSX,CNAO.TO,CI Alt NA Oppo
 CCOM,CI Auspice Broad Commodity Fund,TSX,CCOM.TO,CI Auspice Cmdty Heg,CCOM
 CBAL,CI Balanced Asset Allocation ETF,TSX,CBAL.TO,CI Bal Asset ETF Un,CBAL
 CBGR,CI Balanced Growth Asset Allocation ETF,TSX,CBGR.TO,CI Bal G Asst ETF Un,CBGR
-CBIN,CI Balanced Income Asset Allocation ETF,TSX,CBIN.TO,CI Bal In Ast ETF Un,CBIN
+CBIN,CI Balanced Income Asset Allocation ETF,TSX,CBIN.TO,CI Bal IncmAst Alloc,CBIN
 CDNA,CI Bio-Revolution Index ETF,TSX,CDNA.TO,CI Bio-Revolution Un,CDNA
 CIC,CI Canadian Banks Covered Call Income Class ETF,TSX,CIC.TO,CI CdnBks CovCalIncm,CIC
 CXF,CI Canadian Convertible Bond ETF,TSX,CXF.TO,CI Cdn Conv Bond Un,CXF
@@ -2199,7 +2199,7 @@ DGS,Dividend Growth Split Corp.,TSX,DGS.TO,Div Growth Splt Cl A,DGS,Div Growth S
 DS,Dividend Select 15 Corp.,TSX,DS.TO,Dividend Select 15Eq,DS
 DCBO,Docebo Inc.,TSX,DCBO.TO,Docebo Inc. J,DCBO
 DOL,Dollarama Inc.,TSX,DOL.TO,Dollarama Inc.,DOL
-DBM,Doman Building Materials Group Ltd.,TSX,DBM.TO,Doman Bldg Materials,DBM,Doman Bldg Materl Nt,DBM.NT
+DBM,Doman Building Materials Group Ltd.,TSX,DBM.TO,Doman Bldg Materials,DBM
 DLCG,Dominion Lending Centres Inc.,TSX,DLCG.TO,Dominion Lending J A,DLCG
 DII.A,Dorel Industries Inc.,TSX,DII.A.TO,Dorel Ind Inc A MV,DII.A,Dorel Ind Inc B SV,DII.B
 MPCT.DB,Dream Impact Trust,TSX,MPCT.DB.TO,Dream Impact 5.5 Deb,MPCT.DB,Dream Impact 5.75 Db,MPCT.DB.A,Dream Impact Tr Un,MPCT.UN
@@ -2283,7 +2283,7 @@ LIFE,Evolve Global Healthcare Enhanced Yield Fund,TSX,LIFE.TO,Evolve GlbHlthYldH
 BASE,Evolve Global Materials & Mining Enhanced Yield Index ETF,TSX,BASE.TO,Evolve GlbMatMin Heg,BASE,EvolveGlbMatMinUnheg,BASE.B
 EDGE,Evolve Innovation Index Fund,TSX,EDGE.TO,Evolve Innovation Un,EDGE,Evolve InnovUS Unheg,EDGE.U
 MESH,Evolve Metaverse ETF,TSX,MESH.TO,Evolve MetaversCA Hg,MESH
-ESPX,Evolve S&P 500® Enhanced Yield Fund,TSX,ESPX.TO,Evolve 500EnhcYld HG,ESPX,Evolve 500EnhcYld UH,ESPX.B
+ESPX,Evolve S&P 500® Enhanced Yield Fund,TSX,ESPX.TO,Evolve 500EnhcYld HG,ESPX,Evolve 500EnhcYld UH,ESPX.B,Evolve 500EnYldUH US,ESPX.U
 ETSX,Evolve S&P/TSX 60 Enhanced Yield Fund,TSX,ETSX.TO,Evolve 60EnhcYld UH,ETSX
 BILT,Evolve Slate Global Real Estate Enhanced Yield Fund,TSX,BILT.TO,EvolveSlt RlEstCA HG,BILT
 CALL,Evolve US Banks Enhanced Yield Fund,TSX,CALL.TO,Evolve USBkEnhanc Hg,CALL,Evolve USBkEnhYldUhg,CALL.B,Evolve USBkEnhnUhgUS,CALL.U
@@ -3457,6 +3457,8 @@ ABCL,AbCellera Biologics Inc. - Common Shares,NASDAQ Global Select MarketSM,ABCL
 ABCM,Abcam plc - American Depositary Shares,NASDAQ Global Select MarketSM,ABCM
 ABEO,Abeona Therapeutics Inc. - Common Stock,NASDAQ Capital Market,ABEO
 ABIO,"ARCA biopharma, Inc. - Common Stock",NASDAQ Capital Market,ABIO
+ABL,"Abacus Life, Inc. - Class A Common Stock",NASDAQ Capital Market,ABL
+ABLLW,"Abacus Life, Inc. - Warrant",NASDAQ Capital Market,ABLLW
 ABNB,"Airbnb, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ABNB
 ABOS,"Acumen Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ABOS
 ABSI,Absci Corporation - Common Stock,NASDAQ Global Select MarketSM,ABSI
@@ -5019,9 +5021,6 @@ EQRR,ProShares Equities for Rising Rates ETF,NASDAQ Global MarketSM,EQRR
 EQRX,"EQRx, Inc.  - Common Stock",NASDAQ Global MarketSM,EQRX
 EQRXW,"EQRx, Inc.  - Warrant",NASDAQ Global MarketSM,EQRXW
 ERAS,"Erasca, Inc. - Common Stock",NASDAQ Global Select MarketSM,ERAS
-ERES,East Resources Acquisition Company - Class A Common Stock,NASDAQ Capital Market,ERES
-ERESU,East Resources Acquisition Company - Unit,NASDAQ Capital Market,ERESU
-ERESW,East Resources Acquisition Company - Warrant,NASDAQ Capital Market,ERESW
 ERET,iShares Environmentally Aware Real Estate ETF,NASDAQ Global MarketSM,ERET
 ERIC,Ericsson - American Depositary Shares each representing 1 underlying Class B share,NASDAQ Global Select MarketSM,ERIC
 ERIE,Erie Indemnity Company - Class A Common Stock,NASDAQ Global Select MarketSM,ERIE
@@ -7762,7 +7761,7 @@ SNAX,"Stryve Foods, Inc. - Class A Common Stock",NASDAQ Capital Market,SNAX
 SNAXW,"Stryve Foods, Inc. - Warrant",NASDAQ Capital Market,SNAXW
 SNBR,Sleep Number Corporation - Common Stock,NASDAQ Global Select MarketSM,SNBR
 SNCE,"Science 37 Holdings, Inc. - Common Stock",NASDAQ Capital Market,SNCE
-SNCR,"Synchronoss Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,SNCR
+SNCR,"Synchronoss Technologies, Inc. - Common Stock",NASDAQ Capital Market,SNCR
 SNCRL,"Synchronoss Technologies, Inc. - 8.375% Senior Notes due 2026",NASDAQ Global MarketSM,SNCRL
 SNCY,"Sun Country Airlines Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SNCY
 SND,"Smart Sand, Inc. - Common Stock",NASDAQ Global Select MarketSM,SND
@@ -9220,7 +9219,6 @@ BVN,Buenaventura Mining Company Inc.,NYSE,BVN
 BW,"Babcock & Wilcox Enterprises, Inc. Common Stock",NYSE,BW
 BW$A,"Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock",NYSE,BW$A
 BWA,BorgWarner Inc. Common Stock,NYSE,BWA
-BWA.V,BorgWarner Inc. Common Stock When-Issued,NYSE,BWA.V
 BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,NYSE,BWG
 BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",NYSE,BWNB
 BWSN,"Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026",NYSE,BWSN
@@ -10159,7 +10157,6 @@ GRN,iPath Series B Carbon Exchange-Traded Notes,NYSE ARCA,GRN
 GRND,Grindr Inc. Common Stock,NYSE,GRND
 GRND.W,"Grindr Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",NYSE,GRND.W
 GRNT,"Granite Ridge Resources, Inc. Common Stock",NYSE,GRNT
-GRNT.W,"Granite Ridge Resources, Inc. Warrants to purchase Common Stock, each whole warrant exercisable for one share of common stock at an exercise price of $11.50 per share",NYSE,GRNT.W
 GROV,"Grove Collaborative Holdings, Inc. Class A Common Stock",NYSE,GROV
 GROY,Gold Royalty Corp. Common Shares,NYSE MKT,GROY
 GROY.W,"Gold Royalty Corp. Warrants, each warrant exercisable for one common share at an exercise price of $7.50",NYSE MKT,GROY.W
@@ -11215,7 +11212,7 @@ PHG,Koninklijke Philips N.V. NY Registry Shares,NYSE,PHG
 PHGE,BiomX Inc. COmmon Stock,NYSE MKT,PHGE
 PHGE.U,BiomX Inc. Units,NYSE MKT,PHGE.U
 PHI,PLDT Inc. Sponsored ADR,NYSE,PHI
-PHIN.V,PHINIA Inc. Common Stock When-Issued,NYSE,PHIN.V
+PHIN,PHINIA Inc. Common Stock,NYSE,PHIN
 PHK,Pimco High Income Fund Pimco High Income Fund,NYSE,PHK
 PHM,"PulteGroup, Inc. Common Stock",NYSE,PHM
 PHR,"Phreesia, Inc. Common Stock",NYSE,PHR
@@ -11680,7 +11677,6 @@ SQ,"Block, Inc. Class A Common Stock,",NYSE,SQ
 SQM,Sociedad Quimica y Minera S.A. Common Stock,NYSE,SQM
 SQNS,Sequans Communications S.A. American Depositary Shares,NYSE,SQNS
 SQSP,"Squarespace, Inc. Class A Common Stock",NYSE,SQSP
-SQZ,SQZ Biotechnologies Company Common Stock,NYSE,SQZ
 SR,Spire Inc. Common Stock,NYSE,SR
 SR$A,"Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock",NYSE,SR$A
 SRC,"Spirit Realty Capital, Inc. Common Stock",NYSE,SRC

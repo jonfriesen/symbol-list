@@ -1,5 +1,5 @@
 {
- "date": "2023-07-04",
+ "date": "2023-07-05",
  "data": [
   {
    "symbol": "ONE",
@@ -11846,18 +11846,6 @@
    ]
   },
   {
-   "symbol": "MOS",
-   "name": "Mobi724 Global Solutions Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MOS.V",
-   "instruments": [
-    {
-     "name": "MOBI724 Global Solutions Inc.",
-     "symbol": "MOS"
-    }
-   ]
-  },
-  {
    "symbol": "MBO",
    "name": "Mobio Technologies Inc.",
    "exchange": "TSXV",
@@ -16010,6 +15998,18 @@
     {
      "name": "Shine Box Capital Corp.",
      "symbol": "RENT.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SNYB",
+   "name": "Shiny Health \u0026 Wellness Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SNYB.V",
+   "instruments": [
+    {
+     "name": "Shiny Health \u0026 Wellness Corp.",
+     "symbol": "SNYB"
     }
    ]
   },
@@ -25768,7 +25768,7 @@
    "yahoo_symbol": "CBIN.TO",
    "instruments": [
     {
-     "name": "CI Bal In Ast ETF Un",
+     "name": "CI Bal IncmAst Alloc",
      "symbol": "CBIN"
     }
    ]
@@ -27934,10 +27934,6 @@
     {
      "name": "Doman Bldg Materials",
      "symbol": "DBM"
-    },
-    {
-     "name": "Doman Bldg Materl Nt",
-     "symbol": "DBM.NT"
     }
    ]
   },
@@ -29214,6 +29210,10 @@
     {
      "name": "Evolve 500EnhcYld UH",
      "symbol": "ESPX.B"
+    },
+    {
+     "name": "Evolve 500EnYldUH US",
+     "symbol": "ESPX.U"
     }
    ]
   },
@@ -44794,6 +44794,18 @@
    "yahoo_symbol": "ABIO"
   },
   {
+   "symbol": "ABL",
+   "name": "Abacus Life, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABL"
+  },
+  {
+   "symbol": "ABLLW",
+   "name": "Abacus Life, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABLLW"
+  },
+  {
    "symbol": "ABNB",
    "name": "Airbnb, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -54164,24 +54176,6 @@
    "name": "Erasca, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ERAS"
-  },
-  {
-   "symbol": "ERES",
-   "name": "East Resources Acquisition Company - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ERES"
-  },
-  {
-   "symbol": "ERESU",
-   "name": "East Resources Acquisition Company - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ERESU"
-  },
-  {
-   "symbol": "ERESW",
-   "name": "East Resources Acquisition Company - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ERESW"
   },
   {
    "symbol": "ERET",
@@ -70626,7 +70620,7 @@
   {
    "symbol": "SNCR",
    "name": "Synchronoss Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SNCR"
   },
   {
@@ -79372,12 +79366,6 @@
    "yahoo_symbol": "BWA"
   },
   {
-   "symbol": "BWA.V",
-   "name": "BorgWarner Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BWA.V"
-  },
-  {
    "symbol": "BWG",
    "name": "BrandywineGLOBAL Global Income Opportunities Fund Inc.",
    "exchange": "NYSE",
@@ -85004,12 +84992,6 @@
    "name": "Granite Ridge Resources, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "GRNT"
-  },
-  {
-   "symbol": "GRNT.W",
-   "name": "Granite Ridge Resources, Inc. Warrants to purchase Common Stock, each whole warrant exercisable for one share of common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GRNT.W"
   },
   {
    "symbol": "GROV",
@@ -91342,10 +91324,10 @@
    "yahoo_symbol": "PHI"
   },
   {
-   "symbol": "PHIN.V",
-   "name": "PHINIA Inc. Common Stock When-Issued",
+   "symbol": "PHIN",
+   "name": "PHINIA Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "PHIN.V"
+   "yahoo_symbol": "PHIN"
   },
   {
    "symbol": "PHK",
@@ -94130,12 +94112,6 @@
    "name": "Squarespace, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SQSP"
-  },
-  {
-   "symbol": "SQZ",
-   "name": "SQZ Biotechnologies Company Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SQZ"
   },
   {
    "symbol": "SR",

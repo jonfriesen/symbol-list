@@ -1,126 +1,102 @@
 {
  "added": [
   {
-   "symbol": "GNFI",
-   "name": "Genifi Inc.",
+   "symbol": "SNYB",
+   "name": "Shiny Health \u0026 Wellness Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GNFI.V",
+   "yahoo_symbol": "SNYB.V",
    "instruments": [
     {
-     "name": "Genifi Inc.",
-     "symbol": "GNFI"
+     "name": "Shiny Health \u0026 Wellness Corp.",
+     "symbol": "SNYB"
     }
    ]
   },
   {
-   "symbol": "CHE.DB.E",
-   "name": "Chemtrade Logistics Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CHE.DB.E.TO",
-   "instruments": [
-    {
-     "name": "Chemtrade Lgst6.5Deb",
-     "symbol": "CHE.DB.E"
-    },
-    {
-     "name": "Chemtrade Lgst 8.5Db",
-     "symbol": "CHE.DB.F"
-    },
-    {
-     "name": "Chemtrade Lgst6.25Db",
-     "symbol": "CHE.DB.G"
-    },
-    {
-     "name": "Chemtrade Lgst 7% Db",
-     "symbol": "CHE.DB.H"
-    },
-    {
-     "name": "Chemtrade Logistc Un",
-     "symbol": "CHE.UN"
-    }
-   ]
+   "symbol": "ABL",
+   "name": "Abacus Life, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABL"
   },
   {
-   "symbol": "TSND",
-   "name": "TerrAscend Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "TSND.TO",
-   "instruments": [
-    {
-     "name": "TerrAscend Corp. J",
-     "symbol": "TSND"
-    }
-   ]
+   "symbol": "ABLLW",
+   "name": "Abacus Life, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABLLW"
+  },
+  {
+   "symbol": "SNCR",
+   "name": "Synchronoss Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNCR"
+  },
+  {
+   "symbol": "PHIN",
+   "name": "PHINIA Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHIN"
   }
  ],
  "removed": [
   {
-   "symbol": "XYZ",
-   "name": "Anacortes Mining Corp.",
+   "symbol": "ERESU",
+   "name": "East Resources Acquisition Company - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERESU"
+  },
+  {
+   "symbol": "PHIN.V",
+   "name": "PHINIA Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHIN.V"
+  },
+  {
+   "symbol": "MOS",
+   "name": "Mobi724 Global Solutions Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "XYZ.V",
+   "yahoo_symbol": "MOS.V",
    "instruments": [
     {
-     "name": "Anacortes Mining Corp.",
-     "symbol": "XYZ"
+     "name": "MOBI724 Global Solutions Inc.",
+     "symbol": "MOS"
     }
    ]
   },
   {
-   "symbol": "CHE.DB.D",
-   "name": "Chemtrade Logistics Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CHE.DB.D.TO",
-   "instruments": [
-    {
-     "name": "Chemtrade Lgst4.75Db",
-     "symbol": "CHE.DB.D"
-    },
-    {
-     "name": "Chemtrade Lgst6.5Deb",
-     "symbol": "CHE.DB.E"
-    },
-    {
-     "name": "Chemtrade Lgst 8.5Db",
-     "symbol": "CHE.DB.F"
-    },
-    {
-     "name": "Chemtrade Lgst6.25Db",
-     "symbol": "CHE.DB.G"
-    },
-    {
-     "name": "Chemtrade Lgst 7% Db",
-     "symbol": "CHE.DB.H"
-    },
-    {
-     "name": "Chemtrade Logistc Un",
-     "symbol": "CHE.UN"
-    }
-   ]
+   "symbol": "SNCR",
+   "name": "Synchronoss Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNCR"
   },
   {
-   "symbol": "PGV",
-   "name": "Prodigy Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PGV.V",
-   "instruments": [
-    {
-     "name": "Prodigy Ventures Inc.",
-     "symbol": "PGV"
-    }
-   ]
+   "symbol": "GRNT.W",
+   "name": "Granite Ridge Resources, Inc. Warrants to purchase Common Stock, each whole warrant exercisable for one share of common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRNT.W"
   },
   {
-   "symbol": "SGI",
-   "name": "Superior Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SGI.V",
-   "instruments": [
-    {
-     "name": "Superior Gold Inc.",
-     "symbol": "SGI"
-    }
-   ]
+   "symbol": "ERES",
+   "name": "East Resources Acquisition Company - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERES"
+  },
+  {
+   "symbol": "BWA.V",
+   "name": "BorgWarner Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWA.V"
+  },
+  {
+   "symbol": "ERESW",
+   "name": "East Resources Acquisition Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERESW"
+  },
+  {
+   "symbol": "SQZ",
+   "name": "SQZ Biotechnologies Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SQZ"
   }
  ]
 }
