@@ -1,27 +1,28 @@
 {
  "added": [
   {
-   "symbol": "X",
-   "name": "X Coin (X)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "HZM",
-   "name": "HZM Coin (HZM)",
-   "built_on": "ETH"
-  },
-  {
    "symbol": "WOOO",
-   "name": "wooonen (WOOO)"
+   "name": "wooonen (WOOO)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "MAGICF",
-   "name": "MagicFox (MAGICF)",
-   "built_on": "BNB"
+   "symbol": "VELOD",
+   "name": "Velodrome Finance (VELOD)",
+   "built_on": "OP"
   },
   {
-   "symbol": "ETHERNITY",
-   "name": "Ethernity Chain (ETHERNITY)",
+   "symbol": "MBL",
+   "name": "MovieBloc (MBL)",
+   "built_on": "ONT"
+  },
+  {
+   "symbol": "LM",
+   "name": "LeisureMeta (LM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YUDI",
+   "name": "Yudi (YUDI)",
    "built_on": "ETH"
   },
   {
@@ -39,18 +40,32 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "VELOD",
-   "name": "Velodrome Finance (VELOD)"
+   "symbol": "SHROOMFOX",
+   "name": "Magic Shroom (SHROOMFOX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "X",
+   "name": "X Coin (X)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "HZM",
-   "name": "HZM Coin (HZM)"
+   "symbol": "MBL",
+   "name": "MovieBloc (MBL)"
   },
   {
-   "symbol": "ETHERNITY",
-   "name": "Ethernity Chain (ETHERNITY)"
+   "symbol": "WOOO",
+   "name": "wooonen (WOOO)"
+  },
+  {
+   "symbol": "VELOD",
+   "name": "Velodrome Finance (VELOD)"
+  },
+  {
+   "symbol": "LM",
+   "name": "LeisureMeta (LM)"
   }
  ]
 }
