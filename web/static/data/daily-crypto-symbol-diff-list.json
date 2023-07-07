@@ -1,71 +1,62 @@
 {
  "added": [
   {
-   "symbol": "WOOO",
-   "name": "wooonen (WOOO)",
+   "symbol": "BAMBOO",
+   "name": "BambooDeFi (BAMBOO)",
    "built_on": "ETH"
   },
   {
-   "symbol": "VELOD",
-   "name": "Velodrome Finance (VELOD)",
-   "built_on": "OP"
-  },
-  {
-   "symbol": "MBL",
-   "name": "MovieBloc (MBL)",
-   "built_on": "ONT"
-  },
-  {
-   "symbol": "LM",
-   "name": "LeisureMeta (LM)",
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
-   "symbol": "YUDI",
-   "name": "Yudi (YUDI)",
+   "symbol": "MMAI",
+   "name": "MetamonkeyAi (MMAI)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SHROOMFOX",
-   "name": "Magic Shroom (SHROOMFOX)",
-   "built_on": "BNB"
   },
   {
    "symbol": "X",
    "name": "X Coin (X)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GAYPEPE",
+   "name": "Gay Pepe (GAYPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEEPA",
+   "name": "Peepa (PEEPA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGE20",
+   "name": "Doge 2.0 (DOGE20)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MTB",
+   "name": "MetaBridge (MTB)",
+   "built_on": "BNB"
   }
  ],
  "removed": [
   {
-   "symbol": "MBL",
-   "name": "MovieBloc (MBL)"
+   "symbol": "MMAI",
+   "name": "MetamonkeyAi (MMAI)"
   },
   {
-   "symbol": "WOOO",
-   "name": "wooonen (WOOO)"
-  },
-  {
-   "symbol": "VELOD",
-   "name": "Velodrome Finance (VELOD)"
-  },
-  {
-   "symbol": "LM",
-   "name": "LeisureMeta (LM)"
+   "symbol": "BAMBOO",
+   "name": "BambooDeFi (BAMBOO)"
   }
  ]
 }
