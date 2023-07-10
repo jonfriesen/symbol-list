@@ -1,88 +1,134 @@
 {
  "added": [
   {
-   "symbol": "ELVA",
-   "name": "Electrovaya Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ELVA"
-  },
-  {
-   "symbol": "PWM",
-   "name": "Prestige Wealth Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PWM"
-  },
-  {
-   "symbol": "ROP",
-   "name": "Roper Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ROP"
-  },
-  {
-   "symbol": "TCRT",
-   "name": "Alaunos Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCRT"
-  }
- ],
- "removed": [
-  {
-   "symbol": "TCRT",
-   "name": "Alaunos Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TCRT"
-  },
-  {
-   "symbol": "CORS.W",
-   "name": "Corsair Partnering Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CORS.W"
-  },
-  {
-   "symbol": "CORS",
-   "name": "Corsair Partnering Corporation Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CORS"
-  },
-  {
-   "symbol": "MNC",
-   "name": "Magnetic North Acquisition Corp.",
+   "symbol": "BNXA",
+   "name": "Banxa Holdings Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MNC.V",
+   "yahoo_symbol": "BNXA.V",
    "instruments": [
     {
-     "name": "Magnetic North Acquisition Corp.",
-     "symbol": "MNC"
-    },
-    {
-     "name": "Magnetic North Acquisition Corp pref a",
-     "symbol": "MNC.PR.A"
+     "name": "Banxa Holdings Inc.",
+     "symbol": "BNXA"
     }
    ]
   },
   {
-   "symbol": "NYMX",
-   "name": "Nymox Pharmaceutical Corporation - Common Stock",
+   "symbol": "GASX",
+   "name": "NG Energy International Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GASX.V",
+   "instruments": [
+    {
+     "name": "NG Energy International Corp.",
+     "symbol": "GASX"
+    },
+    {
+     "name": "NG Energy International Corp. db 20May2027",
+     "symbol": "GASX.DB"
+    },
+    {
+     "name": "NG Energy International Corp. wt 20May2027",
+     "symbol": "GASX.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "ACAC",
+   "name": "Acri Capital Acquisition Corporation - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NYMX"
+   "yahoo_symbol": "ACAC"
   },
   {
-   "symbol": "TNP$D",
-   "name": "Tsakos Energy Navigation Ltd 8.75% Series D Cumulative Redeemable Perpetual Preferred Shares",
+   "symbol": "ACACU",
+   "name": "Acri Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACACU"
+  },
+  {
+   "symbol": "ACACW",
+   "name": "Acri Capital Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACACW"
+  },
+  {
+   "symbol": "SURF",
+   "name": "Surface Oncology, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SURF"
+  },
+  {
+   "symbol": "EG",
+   "name": "Everest Group, Ltd. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "TNP$D"
+   "yahoo_symbol": "EG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BTMDW",
+   "name": "Biote Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTMDW"
   },
   {
-   "symbol": "CORS.U",
-   "name": "Corsair Partnering Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CORS.U"
+   "symbol": "UVN",
+   "name": "Uravan Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UVN.V",
+   "instruments": [
+    {
+     "name": "Uravan Minerals Inc.",
+     "symbol": "UVN"
+    }
+   ]
   },
   {
-   "symbol": "RIDE",
-   "name": "Lordstown Motors Corp. - Class A Common Stock",
+   "symbol": "VECT",
+   "name": "VectivBio Holding AG - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RIDE"
+   "yahoo_symbol": "VECT"
+  },
+  {
+   "symbol": "ACACW",
+   "name": "Acri Capital Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACACW"
+  },
+  {
+   "symbol": "ACACU",
+   "name": "Acri Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACACU"
+  },
+  {
+   "symbol": "SURF",
+   "name": "Surface Oncology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SURF"
+  },
+  {
+   "symbol": "IMBIL",
+   "name": "iMedia Brands, Inc. - 8.5% Senior Notes Due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IMBIL"
+  },
+  {
+   "symbol": "IMBI",
+   "name": "iMedia Brands, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMBI"
+  },
+  {
+   "symbol": "ACAC",
+   "name": "Acri Capital Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAC"
+  },
+  {
+   "symbol": "RE",
+   "name": "Everest Re Group, Ltd. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RE"
   }
  ]
 }
