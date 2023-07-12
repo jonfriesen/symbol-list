@@ -11,14 +11,25 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
+   "symbol": "FOXV2",
+   "name": "FoxFinanceV2 (FOXV2)",
+   "built_on": "BNB"
   },
   {
    "symbol": "G",
    "name": "GRN Grid (G)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FOXV2",
+   "name": "FoxFinanceV2 (FOXV2)"
   }
  ]
 }

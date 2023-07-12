@@ -1,132 +1,122 @@
 {
  "added": [
   {
-   "symbol": "MEEC",
-   "name": "Midwest Energy Emissions Corp",
+   "symbol": "QQQT",
+   "name": "Evolve NASDAQ Technology Index Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQQT.TO",
+   "instruments": [
+    {
+     "name": "Evolve NAS Tech Heg",
+     "symbol": "QQQT"
+    },
+    {
+     "name": "Evolve NAS Tech Unhg",
+     "symbol": "QQQT.B"
+    },
+    {
+     "name": "EvolveNAS TechUnhgUS",
+     "symbol": "QQQT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "FXCO",
+   "name": "Financial Strategies Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCO"
+  },
+  {
+   "symbol": "FXCOR",
+   "name": "Financial Strategies Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOR"
+  },
+  {
+   "symbol": "FXCOW",
+   "name": "Financial Strategies Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOW"
+  },
+  {
+   "symbol": "EIRE.P",
+   "name": "Monaghan Capital Fund Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MEEC.V",
+   "yahoo_symbol": "EIRE.P.V",
    "instruments": [
     {
-     "name": "Midwest Energy Emissions Corp.",
-     "symbol": "MEEC"
+     "name": "Monaghan Capital Fund Ltd.",
+     "symbol": "EIRE.P"
     }
    ]
-  },
-  {
-   "symbol": "GCTB",
-   "name": "Guardian Ultra-Short Canadian T-Bill Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GCTB.TO",
-   "instruments": [
-    {
-     "name": "Guard Ult-Sh CdnT-bl",
-     "symbol": "GCTB"
-    }
-   ]
-  },
-  {
-   "symbol": "GUTB.U",
-   "name": "Guardian Ultra-Short U.S. T-Bill Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GUTB.U.TO",
-   "instruments": [
-    {
-     "name": "Guard Ult-Sh US T-Bl",
-     "symbol": "GUTB.U"
-    }
-   ]
-  },
-  {
-   "symbol": "MRT",
-   "name": "Marti Technologies, Inc. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MRT"
-  },
-  {
-   "symbol": "MRT.W",
-   "name": "Marti Technologies, Inc. Warrants, each whole warrant exercisable for one class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MRT.W"
   }
  ],
  "removed": [
   {
-   "symbol": "BWACU",
-   "name": "Better World Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BWACU"
-  },
-  {
-   "symbol": "GLTA",
-   "name": "Galata Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GLTA"
-  },
-  {
-   "symbol": "ATC",
-   "name": "ATAC Resources Ltd.",
+   "symbol": "TRIG.P",
+   "name": "Gravitas III Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ATC.V",
+   "yahoo_symbol": "TRIG.P.V",
    "instruments": [
     {
-     "name": "ATAC Resources Ltd.",
-     "symbol": "ATC"
+     "name": "Gravitas III Capital Corp.",
+     "symbol": "TRIG.P"
     }
    ]
   },
   {
-   "symbol": "CRECW",
-   "name": "Crescera Capital Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRECW"
+   "symbol": "ISEE",
+   "name": "IVERIC bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ISEE"
   },
   {
-   "symbol": "GLTA.W",
-   "name": "Galata Acquisition Corp. Warrants, each whole warrant exercisable for one class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GLTA.W"
-  },
-  {
-   "symbol": "CRECU",
-   "name": "Crescera Capital Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRECU"
-  },
-  {
-   "symbol": "GLTA.U",
-   "name": "Galata Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GLTA.U"
-  },
-  {
-   "symbol": "GPV",
-   "name": "GreenPower Motor Company Inc.",
+   "symbol": "ALPS.U",
+   "name": "Alpine Summit Energy Partners Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GPV.V",
+   "yahoo_symbol": "ALPS.U.V",
    "instruments": [
     {
-     "name": "GreenPower Motor Company Inc.",
-     "symbol": "GPV"
+     "name": "Alpine Summit Energy Partners, Inc.",
+     "symbol": "ALPS.U"
     }
    ]
   },
   {
-   "symbol": "BWAC",
-   "name": "Better World Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BWAC"
+   "symbol": "EDY",
+   "name": "Eddy Smart Home Solutions Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EDY.V",
+   "instruments": [
+    {
+     "name": "Eddy Smart Home Solutions Ltd.",
+     "symbol": "EDY"
+    }
+   ]
   },
   {
-   "symbol": "CREC",
-   "name": "Crescera Capital Acquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CREC"
+   "symbol": "HWKZ",
+   "name": "Hawks Acquisition Corp Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HWKZ"
   },
   {
-   "symbol": "BWACW",
-   "name": "Better World Acquisition Corp. - Warrants",
+   "symbol": "HWKZ.U",
+   "name": "Hawks Acquisition Corp Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HWKZ.U"
+  },
+  {
+   "symbol": "DOMA.W",
+   "name": "Doma Holdings, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DOMA.W"
+  },
+  {
+   "symbol": "TTCF",
+   "name": "Tattooed Chef, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BWACW"
+   "yahoo_symbol": "TTCF"
   }
  ]
 }
