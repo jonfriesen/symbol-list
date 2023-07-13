@@ -1,8 +1,8 @@
 {
  "added": [
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
+   "symbol": "ETHX",
+   "name": "Stader ETHx (ETHX)",
    "built_on": "ETH"
   },
   {
@@ -11,25 +11,21 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "FOXV2",
-   "name": "FoxFinanceV2 (FOXV2)",
-   "built_on": "BNB"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "MONKEYS",
+   "name": "Monkeys Token (MONKEYS)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
   {
-   "symbol": "FOXV2",
-   "name": "FoxFinanceV2 (FOXV2)"
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
   }
  ]
 }
