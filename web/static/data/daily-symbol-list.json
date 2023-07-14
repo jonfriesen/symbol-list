@@ -1,5 +1,5 @@
 {
- "date": "2023-07-13",
+ "date": "2023-07-14",
  "data": [
   {
    "symbol": "BTCQ",
@@ -1056,7 +1056,7 @@
    "yahoo_symbol": "ATH.TO",
    "instruments": [
     {
-     "name": "Athabasca Oil Corp J",
+     "name": "Athabasca Oil Corp",
      "symbol": "ATH"
     }
    ]
@@ -4888,7 +4888,7 @@
    "yahoo_symbol": "CNE.TO",
    "instruments": [
     {
-     "name": "Canacol Energy J",
+     "name": "Canacol Energy",
      "symbol": "CNE"
     }
    ]
@@ -5292,7 +5292,7 @@
    "yahoo_symbol": "CJ.TO",
    "instruments": [
     {
-     "name": "Cardinal Energy J",
+     "name": "Cardinal Energy",
      "symbol": "CJ"
     }
    ]
@@ -7768,7 +7768,7 @@
    "yahoo_symbol": "DXT.TO",
    "instruments": [
     {
-     "name": "Dexterra Group Inc J",
+     "name": "Dexterra Group Inc",
      "symbol": "DXT"
     }
    ]
@@ -11192,7 +11192,7 @@
    "yahoo_symbol": "GTE.TO",
    "instruments": [
     {
-     "name": "Gran Tierra Energy J",
+     "name": "Gran Tierra Energy",
      "symbol": "GTE"
     }
    ]
@@ -16008,7 +16008,7 @@
    "yahoo_symbol": "KEL.TO",
    "instruments": [
     {
-     "name": "Kelt Expl Ltd. J",
+     "name": "Kelt Expl Ltd.",
      "symbol": "KEL"
     }
    ]
@@ -16116,7 +16116,7 @@
    "yahoo_symbol": "KEI.TO",
    "instruments": [
     {
-     "name": "Kolibri Glb Energy J",
+     "name": "Kolibri Glb Energy",
      "symbol": "KEI"
     }
    ]
@@ -18848,7 +18848,7 @@
    "yahoo_symbol": "PXT.TO",
    "instruments": [
     {
-     "name": "Parex Resources J",
+     "name": "Parex Resources",
      "symbol": "PXT"
     }
    ]
@@ -20344,7 +20344,7 @@
    "yahoo_symbol": "QEC.TO",
    "instruments": [
     {
-     "name": "Questerre Corp. J",
+     "name": "Questerre Corp.",
      "symbol": "QEC"
     }
    ]
@@ -21392,7 +21392,7 @@
    "yahoo_symbol": "SES.TO",
    "instruments": [
     {
-     "name": "Secure Energy Serv J",
+     "name": "Secure Energy Serv",
      "symbol": "SES"
     }
    ]
@@ -22192,7 +22192,7 @@
    "yahoo_symbol": "SGY.TO",
    "instruments": [
     {
-     "name": "Surge Energy Inc. J",
+     "name": "Surge Energy Inc.",
      "symbol": "SGY"
     },
     {
@@ -24612,7 +24612,7 @@
    "yahoo_symbol": "WCP.TO",
    "instruments": [
     {
-     "name": "Whitecap Resources J",
+     "name": "Whitecap Resources",
      "symbol": "WCP"
     }
    ]
@@ -45622,7 +45622,7 @@
   {
    "symbol": "AGLE",
    "name": "Aeglea BioTherapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AGLE"
   },
   {
@@ -49874,6 +49874,12 @@
    "yahoo_symbol": "CALT"
   },
   {
+   "symbol": "CALY",
+   "name": "BlackRock Short-Term California Muni Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CALY"
+  },
+  {
    "symbol": "CAMP",
    "name": "CalAmp Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -50760,6 +50766,12 @@
    "name": "China Natural Resources, Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CHNR"
+  },
+  {
+   "symbol": "CHPS",
+   "name": "Xtrackers Semiconductor Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPS"
   },
   {
    "symbol": "CHRD",
@@ -67472,6 +67484,12 @@
    "yahoo_symbol": "PSTX"
   },
   {
+   "symbol": "PSWD",
+   "name": "Xtrackers Cybersecurity Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PSWD"
+  },
+  {
    "symbol": "PT",
    "name": "Pintec Technology Holdings Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -69552,24 +69570,6 @@
    "name": "Starbucks Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SBUX"
-  },
-  {
-   "symbol": "SCAQ",
-   "name": "Stratim Cloud Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SCAQ"
-  },
-  {
-   "symbol": "SCAQU",
-   "name": "Stratim Cloud Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SCAQU"
-  },
-  {
-   "symbol": "SCAQW",
-   "name": "Stratim Cloud Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SCAQW"
   },
   {
    "symbol": "SCHL",
@@ -73362,6 +73362,12 @@
    "name": "Universe Pharmaceuticals Inc - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UPC"
+  },
+  {
+   "symbol": "UPGR",
+   "name": "Xtrackers US Green Infrastructure Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UPGR"
   },
   {
    "symbol": "UPLD",
@@ -83271,7 +83277,7 @@
   },
   {
    "symbol": "FACT",
-   "name": "Freedom Acquisition I Corp. Class A Ordinary Shares",
+   "name": "Freedom Acquisition I Corp. Cl A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FACT"
   },
@@ -83283,7 +83289,7 @@
   },
   {
    "symbol": "FACT.W",
-   "name": "Freedom Acquisition I Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "name": "Freedom Acquisition I Corp. Warrants",
    "exchange": "NYSE",
    "yahoo_symbol": "FACT.W"
   },

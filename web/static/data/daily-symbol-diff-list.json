@@ -1,48 +1,60 @@
 {
  "added": [
   {
-   "symbol": "BOWNU",
-   "name": "Bowen Acquisition Corp - Unit",
+   "symbol": "AGLE",
+   "name": "Aeglea BioTherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGLE"
+  },
+  {
+   "symbol": "CALY",
+   "name": "BlackRock Short-Term California Muni Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOWNU"
+   "yahoo_symbol": "CALY"
   },
   {
-   "symbol": "SXTP",
-   "name": "60 Degrees Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SXTP"
+   "symbol": "CHPS",
+   "name": "Xtrackers Semiconductor Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPS"
   },
   {
-   "symbol": "SXTPW",
-   "name": "60 Degrees Pharmaceuticals, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SXTPW"
+   "symbol": "PSWD",
+   "name": "Xtrackers Cybersecurity Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PSWD"
+  },
+  {
+   "symbol": "UPGR",
+   "name": "Xtrackers US Green Infrastructure Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UPGR"
   }
  ],
  "removed": [
   {
-   "symbol": "MEOAW",
-   "name": "Minority Equality Opportunities Acquisition Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MEOAW"
+   "symbol": "AGLE",
+   "name": "Aeglea BioTherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGLE"
   },
   {
-   "symbol": "GLOP",
-   "name": "GasLog Partners LP Common Units representing limited partnership interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GLOP"
+   "symbol": "SCAQU",
+   "name": "Stratim Cloud Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCAQU"
   },
   {
-   "symbol": "MEOAU",
-   "name": "Minority Equality Opportunities Acquisition Inc. - Units",
+   "symbol": "SCAQ",
+   "name": "Stratim Cloud Acquisition Corp. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MEOAU"
+   "yahoo_symbol": "SCAQ"
   },
   {
-   "symbol": "MEOA",
-   "name": "Minority Equality Opportunities Acquisition Inc. - Class A Common Stock",
+   "symbol": "SCAQW",
+   "name": "Stratim Cloud Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MEOA"
+   "yahoo_symbol": "SCAQW"
   }
  ]
 }
