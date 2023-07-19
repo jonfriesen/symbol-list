@@ -1,13 +1,8 @@
 {
  "added": [
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "X",
+   "name": "AI-X (X)",
    "built_on": "ETH"
   },
   {
@@ -16,8 +11,13 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   }
  ]
 }
