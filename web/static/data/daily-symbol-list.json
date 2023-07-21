@@ -1,5 +1,5 @@
 {
- "date": "2023-07-20",
+ "date": "2023-07-21",
  "data": [
   {
    "symbol": "ONE",
@@ -706,18 +706,6 @@
     {
      "name": "Altan Nevada Minerals Limited",
      "symbol": "ANE"
-    }
-   ]
-  },
-  {
-   "symbol": "AMO",
-   "name": "Altan Rio Minerals Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMO.V",
-   "instruments": [
-    {
-     "name": "Altan Rio Minerals Limited",
-     "symbol": "AMO"
     }
    ]
   },
@@ -2442,6 +2430,18 @@
     {
      "name": "Blue Moon Metals Inc.",
      "symbol": "MOON"
+    }
+   ]
+  },
+  {
+   "symbol": "BGE",
+   "name": "Blue Sky Global Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BGE.V",
+   "instruments": [
+    {
+     "name": "Blue Sky Global Energy Corp.",
+     "symbol": "BGE"
     }
    ]
   },
@@ -7026,18 +7026,6 @@
    ]
   },
   {
-   "symbol": "GLW",
-   "name": "Galway Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GLW.V",
-   "instruments": [
-    {
-     "name": "Galway Gold Inc.",
-     "symbol": "GLW"
-    }
-   ]
-  },
-  {
    "symbol": "GWM",
    "name": "Galway Metals Inc.",
    "exchange": "TSXV",
@@ -7578,6 +7566,18 @@
    ]
   },
   {
+   "symbol": "GHML",
+   "name": "Golden Horse Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GHML.V",
+   "instruments": [
+    {
+     "name": "Golden Horse Minerals Limited",
+     "symbol": "GHML"
+    }
+   ]
+  },
+  {
    "symbol": "GDP",
    "name": "Golden Pursuit Resources Ltd.",
    "exchange": "TSXV",
@@ -8086,6 +8086,18 @@
     {
      "name": "Greencastle Resources Ltd.",
      "symbol": "VGN"
+    }
+   ]
+  },
+  {
+   "symbol": "GPV",
+   "name": "GreenPower Motor Company Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPV.V",
+   "instruments": [
+    {
+     "name": "GreenPower Motor Company Inc.",
+     "symbol": "GPV"
     }
    ]
   },
@@ -11790,18 +11802,6 @@
    ]
   },
   {
-   "symbol": "MRS",
-   "name": "Mission Ready Solutions Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MRS.V",
-   "instruments": [
-    {
-     "name": "Mission Ready Solutions Inc.",
-     "symbol": "MRS"
-    }
-   ]
-  },
-  {
    "symbol": "MIZA.P",
    "name": "Miza III Ventures Inc.",
    "exchange": "TSXV",
@@ -11894,6 +11894,18 @@
     {
      "name": "Montage Gold Corp.",
      "symbol": "MAU"
+    }
+   ]
+  },
+  {
+   "symbol": "MTK",
+   "name": "Montauk Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MTK.V",
+   "instruments": [
+    {
+     "name": "Montauk Metals Inc.",
+     "symbol": "MTK"
     }
    ]
   },
@@ -19078,18 +19090,6 @@
     {
      "name": "Vortex Metals Inc.",
      "symbol": "VMS"
-    }
-   ]
-  },
-  {
-   "symbol": "VXTR",
-   "name": "Voxtur Analytics Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VXTR.V",
-   "instruments": [
-    {
-     "name": "Voxtur Analytics Corp.",
-     "symbol": "VXTR"
     }
    ]
   },
@@ -46072,12 +46072,6 @@
    "yahoo_symbol": "ALPP"
   },
   {
-   "symbol": "ALPS",
-   "name": "Alpine Summit Energy Partners, Inc. - Class A Subordinate Voting Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALPS"
-  },
-  {
    "symbol": "ALRM",
    "name": "Alarm.com Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48322,6 +48316,12 @@
    "yahoo_symbol": "BGFV"
   },
   {
+   "symbol": "BGLC",
+   "name": "BioNexus Gene Lab Corp - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGLC"
+  },
+  {
    "symbol": "BGNE",
    "name": "BeiGene, Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48332,18 +48332,6 @@
    "name": "iShares USD Green Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BGRN"
-  },
-  {
-   "symbol": "BGRY",
-   "name": "Berkshire Grey, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BGRY"
-  },
-  {
-   "symbol": "BGRYW",
-   "name": "Berkshire Grey, Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BGRYW"
   },
   {
    "symbol": "BGXX",
@@ -54338,12 +54326,6 @@
    "name": "iShares ESG Aware MSCI USA ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ESGU"
-  },
-  {
-   "symbol": "ESHAU",
-   "name": "ESH Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ESHAU"
   },
   {
    "symbol": "ESLT",
@@ -69862,12 +69844,6 @@
    "yahoo_symbol": "SETM"
   },
   {
-   "symbol": "SEV",
-   "name": "Sono Group N.V. - Common Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SEV"
-  },
-  {
    "symbol": "SEVN",
    "name": "Seven Hills Realty Trust  - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -77508,19 +77484,19 @@
   {
    "symbol": "ATEK",
    "name": "Athena Technology Acquisition Corp. II Class A Common Stock",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "ATEK"
   },
   {
    "symbol": "ATEK.U",
    "name": "Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-half of one Redeemable Warrant",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "ATEK.U"
   },
   {
    "symbol": "ATEK.W",
    "name": "Athena Technology Acquisition Corp. II Redeemable Warrants",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "ATEK.W"
   },
   {

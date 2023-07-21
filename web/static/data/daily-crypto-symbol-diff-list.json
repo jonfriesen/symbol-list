@@ -1,20 +1,27 @@
 {
  "added": [
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "VNXAU",
+   "name": "VNX Gold (VNXAU)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
    "built_on": "ETH"
   }
  ]
