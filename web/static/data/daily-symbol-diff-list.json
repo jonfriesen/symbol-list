@@ -1,174 +1,108 @@
 {
  "added": [
   {
-   "symbol": "BGE",
-   "name": "Blue Sky Global Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BGE.V",
-   "instruments": [
-    {
-     "name": "Blue Sky Global Energy Corp.",
-     "symbol": "BGE"
-    }
-   ]
+   "symbol": "ESHA",
+   "name": "ESH Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESHA"
   },
   {
-   "symbol": "GHML",
-   "name": "Golden Horse Minerals Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GHML.V",
-   "instruments": [
-    {
-     "name": "Golden Horse Minerals Limited",
-     "symbol": "GHML"
-    }
-   ]
+   "symbol": "ESHAR",
+   "name": "ESH Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESHAR"
   },
   {
-   "symbol": "GPV",
-   "name": "GreenPower Motor Company Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GPV.V",
-   "instruments": [
-    {
-     "name": "GreenPower Motor Company Inc.",
-     "symbol": "GPV"
-    }
-   ]
+   "symbol": "TSBX",
+   "name": "Turnstone Biologics Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSBX"
   },
   {
-   "symbol": "MTK",
-   "name": "Montauk Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MTK.V",
-   "instruments": [
-    {
-     "name": "Montauk Metals Inc.",
-     "symbol": "MTK"
-    }
-   ]
-  },
-  {
-   "symbol": "BGLC",
-   "name": "BioNexus Gene Lab Corp - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BGLC"
-  },
-  {
-   "symbol": "ATEK",
-   "name": "Athena Technology Acquisition Corp. II Class A Common Stock",
+   "symbol": "AEON",
+   "name": "AEON Biopharma, Inc. Class A Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "ATEK"
+   "yahoo_symbol": "AEON"
   },
   {
-   "symbol": "ATEK.U",
-   "name": "Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-half of one Redeemable Warrant",
+   "symbol": "AEON.W",
+   "name": "AEON Biopharma, Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "ATEK.U"
-  },
-  {
-   "symbol": "ATEK.W",
-   "name": "Athena Technology Acquisition Corp. II Redeemable Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ATEK.W"
+   "yahoo_symbol": "AEON.W"
   }
  ],
  "removed": [
   {
-   "symbol": "BGRY",
-   "name": "Berkshire Grey, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BGRY"
-  },
-  {
-   "symbol": "ATEK",
-   "name": "Athena Technology Acquisition Corp. II Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ATEK"
-  },
-  {
-   "symbol": "AMO",
-   "name": "Altan Rio Minerals Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMO.V",
-   "instruments": [
-    {
-     "name": "Altan Rio Minerals Limited",
-     "symbol": "AMO"
-    }
-   ]
-  },
-  {
-   "symbol": "VXTR",
-   "name": "Voxtur Analytics Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VXTR.V",
-   "instruments": [
-    {
-     "name": "Voxtur Analytics Corp.",
-     "symbol": "VXTR"
-    }
-   ]
-  },
-  {
-   "symbol": "GLW",
-   "name": "Galway Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GLW.V",
-   "instruments": [
-    {
-     "name": "Galway Gold Inc.",
-     "symbol": "GLW"
-    }
-   ]
-  },
-  {
-   "symbol": "MRS",
-   "name": "Mission Ready Solutions Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MRS.V",
-   "instruments": [
-    {
-     "name": "Mission Ready Solutions Inc.",
-     "symbol": "MRS"
-    }
-   ]
-  },
-  {
-   "symbol": "SEV",
-   "name": "Sono Group N.V. - Common Shares",
+   "symbol": "ENTFU",
+   "name": "Enterprise 4.0 Technology Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SEV"
+   "yahoo_symbol": "ENTFU"
   },
   {
-   "symbol": "ATEK.W",
-   "name": "Athena Technology Acquisition Corp. II Redeemable Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ATEK.W"
-  },
-  {
-   "symbol": "ALPS",
-   "name": "Alpine Summit Energy Partners, Inc. - Class A Subordinate Voting Shares",
+   "symbol": "ENTF",
+   "name": "Enterprise 4.0 Technology Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALPS"
+   "yahoo_symbol": "ENTF"
   },
   {
-   "symbol": "ESHAU",
-   "name": "ESH Acquisition Corp. - Unit",
+   "symbol": "PMGMU",
+   "name": "Priveterra Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMGMU"
+  },
+  {
+   "symbol": "ENTFW",
+   "name": "Enterprise 4.0 Technology Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ESHAU"
+   "yahoo_symbol": "ENTFW"
   },
   {
-   "symbol": "BGRYW",
-   "name": "Berkshire Grey, Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BGRYW"
+   "symbol": "SDACU",
+   "name": "Sustainable Development Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDACU"
   },
   {
-   "symbol": "ATEK.U",
-   "name": "Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-half of one Redeemable Warrant",
+   "symbol": "PMN",
+   "name": "ProMIS Neurosciences Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PMN.TO",
+   "instruments": [
+    {
+     "name": "ProMIS Neurosci J",
+     "symbol": "PMN"
+    }
+   ]
+  },
+  {
+   "symbol": "ATTO",
+   "name": "Atento S.A. Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "ATEK.U"
+   "yahoo_symbol": "ATTO"
+  },
+  {
+   "symbol": "PMGMW",
+   "name": "Priveterra Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMGMW"
+  },
+  {
+   "symbol": "SDAC",
+   "name": "Sustainable Development Acquisition I Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDAC"
+  },
+  {
+   "symbol": "SDACW",
+   "name": "Sustainable Development Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDACW"
+  },
+  {
+   "symbol": "PMGM",
+   "name": "Priveterra Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMGM"
   }
  ]
 }
