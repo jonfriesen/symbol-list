@@ -141,6 +141,7 @@ AGLD,Austral Gold Limited,TSXV,AGLD.V,Austral Gold Limited,AGLD
 XX,Avante Corp.,TSXV,XX.V,Avante Corp.,XX
 AVA,Avante Mining Corp.,TSXV,AVA.V,Avante Mining Corp.,AVA
 AVN,Avanti Helium Corp.,TSXV,AVN.V,Avanti Helium Corp.,AVN,Avanti Helium Corp. wt 24oct2024,AVN.WT,Avanti Helium Corp. wt 6Feb2025,AVN.WT.A
+AVR,Avaron Mining Corp.,TSXV,AVR.V,Avaron Mining Corp.,AVR
 AVG,Avidian Gold Corp.,TSXV,AVG.V,Avidian Gold Corp.,AVG
 VIV,Avivagen Inc.,TSXV,VIV.V,Avivagen Inc.,VIV
 AVCR,Avricore Health Inc.,TSXV,AVCR.V,Avricore Health Inc.,AVCR
@@ -178,7 +179,6 @@ BEA,Belmont Resources Inc.,TSXV,BEA.V,Belmont Resources Inc.,BEA
 BMET,Bemetals Corp.,TSXV,BMET.V,Bemetals Corp.,BMET
 BNCH,Benchmark Metals Inc.,TSXV,BNCH.V,Benchmark Metals Inc.,BNCH
 BEX,Benton Resources Inc.,TSXV,BEX.V,Benton Resources Inc.,BEX
-BCC,Benz Capital Corp.,TSXV,BCC.V,Benz Capital Corp.,BCC
 BZ,Benz Mining Corp.,TSXV,BZ.V,Benz Mining Corp.,BZ
 BEW,BeWhere Holdings Inc.,TSXV,BEW.V,BeWhere Holdings Inc.,BEW
 BRAU,Big Ridge Gold Corp.,TSXV,BRAU.V,Big Ridge Gold Corp.,BRAU
@@ -1079,6 +1079,7 @@ OMG,Omai Gold Mines Corp.,TSXV,OMG.V,Omai Gold Mines Corp.,OMG
 OMM,Omineca Mining and Metals Ltd.,TSXV,OMM.V,Omineca Mining and Metals Ltd.,OMM
 OML,Omni-Lite Industries Canada Inc.,TSXV,OML.V,Omni-Lite Industries Canada Inc.,OML
 OSS,OneSoft Solutions Inc.,TSXV,OSS.V,OneSoft Solutions Inc.,OSS
+ONYX,Onyx Gold Corp.,TSXV,ONYX.V,Onyx Gold Corp,ONYX
 OOOO,OOOOO Entertainment Commerce Limited,TSXV,OOOO.V,OOOOO Entertainment Commerce Limited,OOOO
 OPW,Opawica Explorations Inc.,TSXV,OPW.V,Opawica Explorations Inc.,OPW
 OPEN.P,OpenSesame Acquisition Corp.,TSXV,OPEN.P.V,OpenSesame Acquisition Corp.,OPEN.P
@@ -2080,6 +2081,7 @@ CHNA.B,CI ICBCCS S&P China 500 Index ETF,TSX,CHNA.B.TO,CI ICBCCS SPChi500NH,CHNA
 FIG,CI Investment Grade Bond ETF,TSX,FIG.TO,CI Invest GrdBnd Heg,FIG,CI InvestGrdBndHG US,FIG.U
 CMAR,CI Marret Alternative Absolute Return Bond Fund,TSX,CMAR.TO,CI Marret RetBondC$,CMAR,CI MarretAltRetBndUS,CMAR.U
 CMEY,CI Marret Alternative Enhanced Yield Fund,TSX,CMEY.TO,CI MarretAltEnhYldC$,CMEY,CI MarretEnhanYld U$,CMEY.U
+CMNY,CI Money Market ETF,TSX,CMNY.TO,CI Money Mkt ETF Un,CMNY
 WXM,CI Morningstar Canada Momentum Index ETF,TSX,WXM.TO,CI MornstrCA MomntUn,WXM
 FXM,CI Morningstar Canada Value Index ETF,TSX,FXM.TO,CI Mornstr CA Val Un,FXM
 ZXM,CI Morningstar International Momentum Index ETF,TSX,ZXM.TO,CI MornstrIntlMomnHG,ZXM,CI MornstIntlMomUnhg,ZXM.B
@@ -2097,6 +2099,7 @@ FGB,CI Short Term Government Bond Index Class ETF,TSX,FGB.TO,CI ST GovtBondCl ET
 TXF,CI Tech Giants Covered Call ETF,TSX,TXF.TO,CI TechGntCovrCallHG,TXF,CI TechGiaCovCalUnHg,TXF.B,CI TechGiantCvClHgUS,TXF.U
 FLI,CI U.S. & Canada Lifeco Covered Call ETF,TSX,FLI.TO,CI US&CA LifecoCv HG,FLI
 CUDV,CI U.S. Minimum Downside Volatility Index ETF,TSX,CUDV.TO,CI US MinDwnsVoltyHG,CUDV,CI US MinDwnsVoltyUH,CUDV.B
+UMNY.U,CI U.S. Money Market ETF,TSX,UMNY.U.TO,CI US Money Mkt US,UMNY.U
 SID,CI U.S. Trendleaders Index ETF,TSX,SID.TO,CI US TrendLeadrs HG,SID
 CUTL,CI Utilities Giants Covered Call ETF,TSX,CUTL.TO,CI Util GianCall Heg,CUTL,CI Util GianCal Unhg,CUTL.B
 DGRC,CI WisdomTree Canada Quality Dividend Growth Index ETF,TSX,DGRC.TO,CI WisdomCA QualDvNH,DGRC
@@ -3325,7 +3328,7 @@ THNC,Thinkific Labs Inc.,TSX,THNC.TO,Thinkific Labs J SV,THNC
 TRI,Thomson Reuters Corporation,TSX,TRI.TO,Thomson Reuters Corp,TRI,Thomson Reuter Pr II,TRI.PR.B
 TWM,Tidewater Midstream and Infrastructure Ltd.,TSX,TWM.TO,Tidewater MdStrmInfr,TWM,Tidewater Midstrm Db,TWM.DB,Tidewater Midstrm Wt,TWM.WT
 LCFS,Tidewater Renewables Ltd.,TSX,LCFS.TO,Tidewater Renew,LCFS
-TLRY,"Tilray Brands, Inc.",TSX,TLRY.TO,Tilray Brands J Cl 2,TLRY
+TLRY,"Tilray Brands, Inc.",TSX,TLRY.TO,Tilray Brands J,TLRY
 TF,Timbercreek Financial Corp.,TSX,TF.TO,Timbercreek Fin Corp,TF,Timbercrk Fin 5.3 Db,TF.DB.C,Timbercrk Fin 5.25Db,TF.DB.D,Timbercrk Fin 5% Deb,TF.DB.E
 TMD,Titan Medical Inc.,TSX,TMD.TO,Titan Medical Inc. J,TMD
 TI,Titan Mining Corporation,TSX,TI.TO,Titan Mining Corp J,TI
@@ -5440,9 +5443,6 @@ GFGDU,The Growth for Good Acquisition Corporation - Unit,NASDAQ Global MarketSM,
 GFGDW,The Growth for Good Acquisition Corporation - Warrant,NASDAQ Global MarketSM,GFGDW
 GFGF,Guru Favorite Stocks ETF,NASDAQ Global MarketSM,GFGF
 GFS,GlobalFoundries Inc. - Ordinary Share,NASDAQ Global Select MarketSM,GFS
-GGAA,Genesis Growth Tech Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,GGAA
-GGAAU,Genesis Growth Tech Acquisition Corp. - Unit,NASDAQ Global MarketSM,GGAAU
-GGAAW,Genesis Growth Tech Acquisition Corp. - Warrant,NASDAQ Global MarketSM,GGAAW
 GGAL,"Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying",NASDAQ Capital Market,GGAL
 GGE,Green Giant Inc. - Common Stock,NASDAQ Capital Market,GGE
 GGLL,Direxion Daily GOOGL Bull 1.5X Shares,NASDAQ Global MarketSM,GGLL
@@ -5543,8 +5543,6 @@ GRI,"GRI Bio, Inc. - Common Stock",NASDAQ Capital Market,GRI
 GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,NASDAQ Global MarketSM,GRID
 GRIL,"Muscle Maker, Inc - Common Stock",NASDAQ Capital Market,GRIL
 GRIN,Grindrod Shipping Holdings Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,GRIN
-GRNA,"GreenLight Biosciences Holdings, PBC - Common Stock",NASDAQ Global MarketSM,GRNA
-GRNAW,"GreenLight Biosciences Holdings, PBC - Warrant",NASDAQ Global MarketSM,GRNAW
 GRNQ,Greenpro Capital Corp. - Common Stock,NASDAQ Capital Market,GRNQ
 GRNR,Global X Green Building ETF,NASDAQ Global MarketSM,GRNR
 GROM,Grom Social Enterprises Inc. - Common Stock,NASDAQ Capital Market,GROM
@@ -12099,7 +12097,6 @@ WK,Workiva Inc. Class A Common Stock,NYSE,WK
 WKC,World Kinect Corporation Common Stock,NYSE,WKC
 WLK,Westlake Corporation Common Stock,NYSE,WLK
 WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests,NYSE,WLKP
-WLMS,Williams Industrial Services Group Inc. Common Stock,NYSE MKT,WLMS
 WLY,"John Wiley & Sons, Inc. Common Stock",NYSE,WLY
 WLYB,"John Wiley & Sons, Inc. Common Stock",NYSE,WLYB
 WM,"Waste Management, Inc. Common Stock",NYSE,WM

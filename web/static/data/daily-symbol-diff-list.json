@@ -1,108 +1,102 @@
 {
  "added": [
   {
-   "symbol": "ESHA",
-   "name": "ESH Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ESHA"
-  },
-  {
-   "symbol": "ESHAR",
-   "name": "ESH Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ESHAR"
-  },
-  {
-   "symbol": "TSBX",
-   "name": "Turnstone Biologics Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSBX"
-  },
-  {
-   "symbol": "AEON",
-   "name": "AEON Biopharma, Inc. Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "AEON"
-  },
-  {
-   "symbol": "AEON.W",
-   "name": "AEON Biopharma, Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "AEON.W"
-  }
- ],
- "removed": [
-  {
-   "symbol": "ENTFU",
-   "name": "Enterprise 4.0 Technology Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ENTFU"
-  },
-  {
-   "symbol": "ENTF",
-   "name": "Enterprise 4.0 Technology Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ENTF"
-  },
-  {
-   "symbol": "PMGMU",
-   "name": "Priveterra Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PMGMU"
-  },
-  {
-   "symbol": "ENTFW",
-   "name": "Enterprise 4.0 Technology Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ENTFW"
-  },
-  {
-   "symbol": "SDACU",
-   "name": "Sustainable Development Acquisition I Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SDACU"
-  },
-  {
-   "symbol": "PMN",
-   "name": "ProMIS Neurosciences Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "PMN.TO",
+   "symbol": "AVR",
+   "name": "Avaron Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AVR.V",
    "instruments": [
     {
-     "name": "ProMIS Neurosci J",
-     "symbol": "PMN"
+     "name": "Avaron Mining Corp.",
+     "symbol": "AVR"
     }
    ]
   },
   {
-   "symbol": "ATTO",
-   "name": "Atento S.A. Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ATTO"
+   "symbol": "ONYX",
+   "name": "Onyx Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ONYX.V",
+   "instruments": [
+    {
+     "name": "Onyx Gold Corp",
+     "symbol": "ONYX"
+    }
+   ]
   },
   {
-   "symbol": "PMGMW",
-   "name": "Priveterra Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PMGMW"
+   "symbol": "CMNY",
+   "name": "CI Money Market ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMNY.TO",
+   "instruments": [
+    {
+     "name": "CI Money Mkt ETF Un",
+     "symbol": "CMNY"
+    }
+   ]
   },
   {
-   "symbol": "SDAC",
-   "name": "Sustainable Development Acquisition I Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SDAC"
+   "symbol": "UMNY.U",
+   "name": "CI U.S. Money Market ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UMNY.U.TO",
+   "instruments": [
+    {
+     "name": "CI US Money Mkt US",
+     "symbol": "UMNY.U"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GGAAW",
+   "name": "Genesis Growth Tech Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GGAAW"
   },
   {
-   "symbol": "SDACW",
-   "name": "Sustainable Development Acquisition I Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SDACW"
+   "symbol": "GGAAU",
+   "name": "Genesis Growth Tech Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GGAAU"
   },
   {
-   "symbol": "PMGM",
-   "name": "Priveterra Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PMGM"
+   "symbol": "GRNAW",
+   "name": "GreenLight Biosciences Holdings, PBC - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRNAW"
+  },
+  {
+   "symbol": "GRNA",
+   "name": "GreenLight Biosciences Holdings, PBC - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRNA"
+  },
+  {
+   "symbol": "GGAA",
+   "name": "Genesis Growth Tech Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GGAA"
+  },
+  {
+   "symbol": "WLMS",
+   "name": "Williams Industrial Services Group Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WLMS"
+  },
+  {
+   "symbol": "BCC",
+   "name": "Benz Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BCC.V",
+   "instruments": [
+    {
+     "name": "Benz Capital Corp.",
+     "symbol": "BCC"
+    }
+   ]
   }
  ]
 }
