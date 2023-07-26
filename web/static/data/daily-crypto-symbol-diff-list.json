@@ -1,23 +1,17 @@
 {
  "added": [
   {
-   "symbol": "FURU",
-   "name": "Furucombo (FURU)",
+   "symbol": "ALLIN",
+   "name": "All in (ALLIN)",
    "built_on": "ETH"
   },
   {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
   },
   {
-   "symbol": "COMBO",
-   "name": "COMBO (COMBO)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "WLD",
-   "name": "Worldcoin (WLD)",
+   "symbol": "MOG",
+   "name": "Mog Coin (MOG)",
    "built_on": "ETH"
   },
   {
@@ -26,18 +20,9 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "ACQ",
-   "name": "Acquire.Fi (ACQ)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "ARNM",
-   "name": "Arenum (ARNM)",
-   "built_on": "SOL"
   },
   {
    "symbol": "BANKETH",
@@ -46,13 +31,8 @@
  ],
  "removed": [
   {
-   "symbol": "COCOS",
-   "name": "COCOS BCX (COCOS)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "COMBO",
-   "name": "Furucombo (COMBO)"
+   "symbol": "MNT",
+   "name": "microNFT (MNT)"
   }
  ]
 }

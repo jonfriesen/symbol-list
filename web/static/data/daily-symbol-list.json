@@ -1,5 +1,5 @@
 {
- "date": "2023-07-25",
+ "date": "2023-07-26",
  "data": [
   {
    "symbol": "ONE",
@@ -20506,30 +20506,6 @@
     {
      "name": "Alaris Eq Part Tr Un",
      "symbol": "AD.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "AH",
-   "name": "Aleafia Health Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AH.TO",
-   "instruments": [
-    {
-     "name": "Aleafia Health J",
-     "symbol": "AH"
-    },
-    {
-     "name": "Aleafia Hlth J A Deb",
-     "symbol": "AH.DB.A"
-    },
-    {
-     "name": "Aleafia Hlth J B Deb",
-     "symbol": "AH.DB.B"
-    },
-    {
-     "name": "Aleafia Hlth J C Deb",
-     "symbol": "AH.DB.C"
     }
    ]
   },
@@ -53926,6 +53902,12 @@
    "yahoo_symbol": "ELVN"
   },
   {
+   "symbol": "ELWS",
+   "name": "Earlyworks Co., Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELWS"
+  },
+  {
    "symbol": "ELYM",
    "name": "Eliem Therapeutics, Inc - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -57916,12 +57898,6 @@
    "yahoo_symbol": "HGBL"
   },
   {
-   "symbol": "HGEN",
-   "name": "Humanigen, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HGEN"
-  },
-  {
    "symbol": "HHGC",
    "name": "HHG Capital Corporation - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -60334,6 +60310,12 @@
    "yahoo_symbol": "JMSB"
   },
   {
+   "symbol": "JNVR",
+   "name": "Janover Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JNVR"
+  },
+  {
    "symbol": "JOAN",
    "name": "JOANN, Inc. - common stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -60884,6 +60866,12 @@
    "name": "Kura Oncology, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "KURA"
+  },
+  {
+   "symbol": "KVACU",
+   "name": "Keen Vision Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KVACU"
   },
   {
    "symbol": "KVHI",
@@ -64264,12 +64252,6 @@
    "yahoo_symbol": "NMTC"
   },
   {
-   "symbol": "NMTR",
-   "name": "9 Meters Biopharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NMTR"
-  },
-  {
    "symbol": "NN",
    "name": "NextNav Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
@@ -64322,12 +64304,6 @@
    "name": "Inotiv, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NOTV"
-  },
-  {
-   "symbol": "NOVN",
-   "name": "Novan, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NOVN"
   },
   {
    "symbol": "NOVT",
@@ -72264,7 +72240,7 @@
   {
    "symbol": "TIL",
    "name": "Instil Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TIL"
   },
   {
@@ -72904,24 +72880,6 @@
    "yahoo_symbol": "TW"
   },
   {
-   "symbol": "TWCB",
-   "name": "Bilander Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TWCB"
-  },
-  {
-   "symbol": "TWCBU",
-   "name": "Bilander Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TWCBU"
-  },
-  {
-   "symbol": "TWCBW",
-   "name": "Bilander Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TWCBW"
-  },
-  {
    "symbol": "TWEB",
    "name": "SoFi Web 3 ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -73049,7 +73007,7 @@
   },
   {
    "symbol": "UBND",
-   "name": "VictoryShares ESG Core Plus Bond ETF",
+   "name": "VictoryShares Core Plus Intermediate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UBND"
   },
@@ -73091,7 +73049,7 @@
   },
   {
    "symbol": "UCRD",
-   "name": "VictoryShares ESG Corporate Bond ETF",
+   "name": "VictoryShares Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UCRD"
   },
@@ -73187,7 +73145,7 @@
   },
   {
    "symbol": "UITB",
-   "name": "VictoryShares USAA Core Intermediate-Term Bond ETF",
+   "name": "VictoryShares Core Intermediate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UITB"
   },
@@ -73487,7 +73445,7 @@
   },
   {
    "symbol": "USTB",
-   "name": "VictoryShares USAA Core Short-Term Bond ETF",
+   "name": "VictoryShares Short-Term Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "USTB"
   },
@@ -74216,12 +74174,6 @@
    "name": "Virax Biolabs Group Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VRAX"
-  },
-  {
-   "symbol": "VRAY",
-   "name": "ViewRay, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VRAY"
   },
   {
    "symbol": "VRCA",
@@ -74990,6 +74942,12 @@
    "name": "IQ Global Equity R\u0026D Leaders ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WRND"
+  },
+  {
+   "symbol": "WRNT",
+   "name": "Warrantee Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WRNT"
   },
   {
    "symbol": "WSBC",
@@ -85366,24 +85324,6 @@
    "yahoo_symbol": "HLX"
   },
   {
-   "symbol": "HMA",
-   "name": "Heartland Media Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HMA"
-  },
-  {
-   "symbol": "HMA.U",
-   "name": "Heartland Media Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HMA.U"
-  },
-  {
-   "symbol": "HMA.W",
-   "name": "Heartland Media Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HMA.W"
-  },
-  {
    "symbol": "HMC",
    "name": "Honda Motor Company, Ltd. Common Stock",
    "exchange": "NYSE",
@@ -85694,6 +85634,12 @@
    "name": "Hyster-Yale Materials Handling, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "HY"
+  },
+  {
+   "symbol": "HYAC.U",
+   "name": "Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary Share and one-half of one redeemable Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYAC.U"
   },
   {
    "symbol": "HYB",
