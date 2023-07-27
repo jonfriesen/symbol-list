@@ -1,132 +1,138 @@
 {
  "added": [
   {
-   "symbol": "ELWS",
-   "name": "Earlyworks Co., Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ELWS"
-  },
-  {
-   "symbol": "JNVR",
-   "name": "Janover Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JNVR"
-  },
-  {
-   "symbol": "KVACU",
-   "name": "Keen Vision Acquisition Corporation - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KVACU"
-  },
-  {
-   "symbol": "TIL",
-   "name": "Instil Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TIL"
-  },
-  {
-   "symbol": "WRNT",
-   "name": "Warrantee Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WRNT"
-  },
-  {
-   "symbol": "HYAC.U",
-   "name": "Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary Share and one-half of one redeemable Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HYAC.U"
-  }
- ],
- "removed": [
-  {
-   "symbol": "HMA.W",
-   "name": "Heartland Media Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HMA.W"
-  },
-  {
-   "symbol": "TWCBU",
-   "name": "Bilander Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TWCBU"
-  },
-  {
-   "symbol": "AH",
-   "name": "Aleafia Health Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AH.TO",
+   "symbol": "PDVN.P",
+   "name": "Pardus Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PDVN.P.V",
    "instruments": [
     {
-     "name": "Aleafia Health J",
-     "symbol": "AH"
-    },
-    {
-     "name": "Aleafia Hlth J A Deb",
-     "symbol": "AH.DB.A"
-    },
-    {
-     "name": "Aleafia Hlth J B Deb",
-     "symbol": "AH.DB.B"
-    },
-    {
-     "name": "Aleafia Hlth J C Deb",
-     "symbol": "AH.DB.C"
+     "name": "Pardus Ventures Inc.",
+     "symbol": "PDVN.P"
     }
    ]
   },
   {
-   "symbol": "TWCBW",
-   "name": "Bilander Acquisition Corp. - Warrant",
+   "symbol": "YSK.P",
+   "name": "Space Kingdom Digital Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YSK.P.V",
+   "instruments": [
+    {
+     "name": "Space Kingdom Digital Capital Corp.",
+     "symbol": "YSK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "IIMF",
+   "name": "Invesco International Developed Dynamic-Multifactor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIMF.TO",
+   "instruments": [
+    {
+     "name": "InvescoIntlDevDynmMF",
+     "symbol": "IIMF"
+    },
+    {
+     "name": "InvescoIntlDevDynmHg",
+     "symbol": "IIMF.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IGET",
+   "name": "Invesco Morningstar Global Energy Transition Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGET.TO",
+   "instruments": [
+    {
+     "name": "Invesco MS Glb Engy",
+     "symbol": "IGET"
+    },
+    {
+     "name": "Invesco MS Enrgy Heg",
+     "symbol": "IGET.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IUMF",
+   "name": "Invesco Russell 1000 Dynamic-Multifactor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUMF.TO",
+   "instruments": [
+    {
+     "name": "InvescoRus1000DynmMF",
+     "symbol": "IUMF"
+    },
+    {
+     "name": "InvescoRus1000DyMFHg",
+     "symbol": "IUMF.F"
+    }
+   ]
+  },
+  {
+   "symbol": "SDOT",
+   "name": "Sadot Group Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TWCBW"
+   "yahoo_symbol": "SDOT"
   },
   {
-   "symbol": "TIL",
-   "name": "Instil Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TIL"
-  },
-  {
-   "symbol": "HMA",
-   "name": "Heartland Media Acquisition Corp. Class A Common Stock",
+   "symbol": "CCIF",
+   "name": "Carlyle Credit Income Fund Shares of Beneficial Interest",
    "exchange": "NYSE",
-   "yahoo_symbol": "HMA"
+   "yahoo_symbol": "CCIF"
   },
   {
-   "symbol": "HGEN",
-   "name": "Humanigen, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HGEN"
-  },
-  {
-   "symbol": "NOVN",
-   "name": "Novan, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NOVN"
-  },
-  {
-   "symbol": "NMTR",
-   "name": "9 Meters Biopharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NMTR"
-  },
-  {
-   "symbol": "VRAY",
-   "name": "ViewRay, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VRAY"
-  },
-  {
-   "symbol": "TWCB",
-   "name": "Bilander Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TWCB"
-  },
-  {
-   "symbol": "HMA.U",
-   "name": "Heartland Media Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "symbol": "SRFM",
+   "name": "Surf Air Mobility Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "HMA.U"
+   "yahoo_symbol": "SRFM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BLNG",
+   "name": "Belong Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLNG"
+  },
+  {
+   "symbol": "TDW.A",
+   "name": "Tidewater Inc. Series A Warrants to purchase shares of common stock (expiring July 31, 2023)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TDW.A"
+  },
+  {
+   "symbol": "TDW.B",
+   "name": "Tidewater Inc. Series B Warrants to purchase shares of common stock (expiring July 31, 2023)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TDW.B"
+  },
+  {
+   "symbol": "BLNGU",
+   "name": "Belong Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLNGU"
+  },
+  {
+   "symbol": "BLNGW",
+   "name": "Belong Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLNGW"
+  },
+  {
+   "symbol": "VCIF",
+   "name": "Carlyle Credit Income Fund Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VCIF"
+  },
+  {
+   "symbol": "GRIL",
+   "name": "Muscle Maker, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRIL"
   }
  ]
 }

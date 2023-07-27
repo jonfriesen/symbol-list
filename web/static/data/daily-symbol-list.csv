@@ -1118,6 +1118,7 @@ PAN,Pangolin Diamonds Corp.,TSXV,PAN.V,Pangolin Diamonds Corp.,PAN
 PANO.P,Panorama Capital Corp.,TSXV,PANO.P.V,Panorama Capital Corp.,PANO.P
 PML,Panoro Minerals Ltd.,TSXV,PML.V,Panoro Minerals Ltd.,PML
 PNTR,Pantera Silver Corp.,TSXV,PNTR.V,Pantera Silver Corp.,PNTR
+PDVN.P,Pardus Ventures Inc.,TSXV,PDVN.P.V,Pardus Ventures Inc.,PDVN.P
 PKT,Parkit Enterprise Inc.,TSXV,PKT.V,Parkit Enterprise Inc.,PKT
 PVF.PR.U,Partners Value Investments LP,TSXV,PVF.PR.U.V,Partners Value Investments LP pref ser A,PVF.PR.U,Partners Value Investments LP,PVF.UN,Partners Value Investments LP wt 30Jun2026,PVF.WT
 PVIS,Parvis Invest Inc.,TSXV,PVIS.V,Parvis Invest Inc.,PVIS
@@ -1365,6 +1366,7 @@ SSV,Southern Silver Exploration Corp.,TSXV,SSV.V,Southern Silver Exploration Cor
 SGQ,SouthGobi Resources Ltd,TSXV,SGQ.V,SouthGobi Resources Ltd.,SGQ
 SML,Southstone Minerals Limited,TSXV,SML.V,Southstone Minerals Limited,SML
 SPSA.P,SP Strategic Acquisition Corp.,TSXV,SPSA.P.V,SP Strategic Acquisition Corp.,SPSA.P
+YSK.P,Space Kingdom Digital Capital Corp.,TSXV,YSK.P.V,Space Kingdom Digital Capital Corp.,YSK.P
 SQG,Spackman Equities Group Inc.,TSXV,SQG.V,Spackman Equities Group Inc.,SQG
 SPA,Spanish Mountain Gold Ltd.,TSXV,SPA.V,Spanish Mountain Gold Ltd,SPA
 SPRQ,Sparq Systems Inc.,TSXV,SPRQ.V,Sparq Systems Inc.,SPRQ,Sparq Systems Inc. wt 31Dec2023,SPRQ.WT
@@ -2624,10 +2626,13 @@ PZW,Invesco FTSE RAFI Global Small-Mid ETF,TSX,PZW.TO,Invesc FTSERAF GlbCA,PZW,I
 PXU.F,Invesco FTSE RAFI U.S. Index ETF,TSX,PXU.F.TO,InvescoFTSE US CA-Hg,PXU.F
 PXS,Invesco FTSE RAFI U.S. Index ETF II,TSX,PXS.TO,InvescFTSE USFnd2 CA,PXS,Invesco FTSE ETF2 US,PXS.U
 PFH.F,Invesco Fundamental High Yield Corporate Bond Index ETF,TSX,PFH.F.TO,Invesco CorpBndCA$Hg,PFH.F
+IIMF,Invesco International Developed Dynamic-Multifactor Index ETF,TSX,IIMF.TO,InvescoIntlDevDynmMF,IIMF,InvescoIntlDevDynmHg,IIMF.F
 PLV,Invesco Low Volatility Portfolio ETF,TSX,PLV.TO,Invesco LowVolPortfl,PLV
+IGET,Invesco Morningstar Global Energy Transition Index ETF,TSX,IGET.TO,Invesco MS Glb Engy,IGET,Invesco MS Enrgy Heg,IGET.F
 QQEQ,Invesco NASDAQ 100 Equal Weight Index ETF,TSX,QQEQ.TO,Invesco NASDQ100=Wgt,QQEQ,Invesco NASDQ100=Heg,QQEQ.F
 QQC,Invesco NASDAQ 100 Index ETF,TSX,QQC.TO,Invesco NASDAQ100 C$,QQC,Invesco NASDQ100 Heg,QQC.F
 QQJR,Invesco NASDAQ Next Gen 100 Index ETF,TSX,QQJR.TO,Invesco NASDQNext100,QQJR,InvescoNASDQNxt100Hg,QQJR.F
+IUMF,Invesco Russell 1000 Dynamic-Multifactor Index ETF,TSX,IUMF.TO,InvescoRus1000DynmMF,IUMF,InvescoRus1000DyMFHg,IUMF.F
 EQL,Invesco S&P 500 Equal Weight Index ETF,TSX,EQL.TO,Invesco S&P500 EqWgt,EQL,Invesco S&P500EqCA-H,EQL.F,Invesco S&P500Eq USF,EQL.U
 ESG,Invesco S&P 500 ESG Index ETF,TSX,ESG.TO,Invesco S&P500ESG Un,ESG,InvescoS&P500ESG Heg,ESG.F
 ISTE,Invesco S&P 500 ESG Tilt Index ETF,TSX,ISTE.TO,InvescoS&P500 Tlt CA,ISTE,InvescoS&P500 T CaHg,ISTE.F
@@ -4106,9 +4111,6 @@ BLIN,"Bridgeline Digital, Inc. - Common Stock",NASDAQ Capital Market,BLIN
 BLKB,"Blackbaud, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLKB
 BLLD,JPMorgan Sustainable Infrastructure ETF,NASDAQ Global MarketSM,BLLD
 BLMN,"Bloomin' Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLMN
-BLNG,Belong Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,BLNG
-BLNGU,Belong Acquisition Corp. - Units,NASDAQ Capital Market,BLNGU
-BLNGW,Belong Acquisition Corp. - Warrant,NASDAQ Capital Market,BLNGW
 BLNK,Blink Charging Co. - Common Stock,NASDAQ Capital Market,BLNK
 BLPH,"Bellerophon Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,BLPH
 BLRX,BioLineRx Ltd. - American Depositary Shares,NASDAQ Capital Market,BLRX
@@ -5541,7 +5543,6 @@ GREEL,Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026,NASDAQ Gl
 GRFS,"Grifols, S.A. - American Depositary Shares",NASDAQ Global Select MarketSM,GRFS
 GRI,"GRI Bio, Inc. - Common Stock",NASDAQ Capital Market,GRI
 GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,NASDAQ Global MarketSM,GRID
-GRIL,"Muscle Maker, Inc - Common Stock",NASDAQ Capital Market,GRIL
 GRIN,Grindrod Shipping Holdings Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,GRIN
 GRNQ,Greenpro Capital Corp. - Common Stock,NASDAQ Capital Market,GRNQ
 GRNR,Global X Green Building ETF,NASDAQ Global MarketSM,GRNR
@@ -7593,6 +7594,7 @@ SDC,"SmileDirectClub, Inc. - Common Stock",NASDAQ Global Select MarketSM,SDC
 SDG,iShares MSCI Global Sustainable Development Goals ETF,NASDAQ Global MarketSM,SDG
 SDGR,"Schrodinger, Inc. - Common Stock",NASDAQ Global Select MarketSM,SDGR
 SDIG,"Stronghold Digital Mining, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SDIG
+SDOT,Sadot Group Inc. - Common Stock,NASDAQ Capital Market,SDOT
 SDSI,American Century Short Duration Strategic Income ETF,NASDAQ Global MarketSM,SDSI
 SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,NASDAQ Global MarketSM,SDVY
 SEAC,"SeaChange International, Inc. - Common Stock",NASDAQ Capital Market,SEAC
@@ -9255,6 +9257,7 @@ CC,Chemours Company (The) Common Stock,NYSE,CC
 CCEL,"Cryo-Cell International, Inc. Common Stock",NYSE MKT,CCEL
 CCF,Chase Corporation Common Stock,NYSE MKT,CCF
 CCI,Crown Castle Inc. Common Stock,NYSE,CCI
+CCIF,Carlyle Credit Income Fund Shares of Beneficial Interest,NYSE,CCIF
 CCJ,Cameco Corporation Common Stock,NYSE,CCJ
 CCK,"Crown Holdings, Inc.",NYSE,CCK
 CCL,Carnival Corporation Common Stock,NYSE,CCL
@@ -11431,7 +11434,7 @@ RSG,"Republic Services, Inc. Common Stock",NYSE,RSG
 RSI,"Rush Street Interactive, Inc. Class A Common Stock",NYSE,RSI
 RSKD,Riskified Ltd. Class A Ordinary Shares,NYSE,RSKD
 RTO,Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares),NYSE,RTO
-RTX,Raytheon Technologies Corporation Common Stock,NYSE,RTX
+RTX,RTX Corporation Common Stock,NYSE,RTX
 RVLV,"Revolve Group, Inc. Class A Common Stock",NYSE,RVLV
 RVP,"Retractable Technologies, Inc. Common Stock",NYSE MKT,RVP
 RVT,"Royce Value Trust, Inc. Common Stock",NYSE,RVT
@@ -11643,6 +11646,7 @@ SRC,"Spirit Realty Capital, Inc. Common Stock",NYSE,SRC
 SRC$A,"Spirit Realty Capital, Inc. 6.000% Series A Cumulative Redeemable Preferred Stock",NYSE,SRC$A
 SRE,DBA Sempra Common Stock,NYSE,SRE
 SREA,DBA Sempra 5.750% Junior Subordinated Notes due 2079,NYSE,SREA
+SRFM,Surf Air Mobility Inc. Common Stock,NYSE,SRFM
 SRG,Seritage Growth Properties Class A Common Stock,NYSE,SRG
 SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE,SRG$A
 SRI,"Stoneridge, Inc. Common Stock",NYSE,SRI
@@ -11735,8 +11739,6 @@ TDS,"Telephone and Data Systems, Inc. Common Shares",NYSE,TDS
 TDS$U,"Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.625% Series UU Cumulative Redeemable Perpetual Preferred Stock",NYSE,TDS$U
 TDS$V,"Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.000% Series VV Cumulative Redeemable Perpetual Preferred Stock",NYSE,TDS$V
 TDW,Tidewater Inc. Common Stock,NYSE,TDW
-TDW.A,"Tidewater Inc. Series A Warrants to purchase shares of common stock (expiring July 31, 2023)",NYSE,TDW.A
-TDW.B,"Tidewater Inc. Series B Warrants to purchase shares of common stock (expiring July 31, 2023)",NYSE,TDW.B
 TDW.W,Tidewater Inc. Warrant,NYSE MKT,TDW.W
 TDY,Teledyne Technologies Incorporated Common Stock,NYSE,TDY
 TEAF,Ecofin Sustainable and Social Impact Term Fund,NYSE,TEAF
@@ -11961,7 +11963,6 @@ VALE,VALE S.A.  American Depositary Shares Each Representing one common share,NY
 VAPO,"Vapotherm, Inc. Common Stock",NYSE,VAPO
 VATE,INNOVATE Corp. Common Stock,NYSE,VATE
 VBF,Invesco Bond Fund Common Stock,NYSE,VBF
-VCIF,Carlyle Credit Income Fund Shares of Beneficial Interest,NYSE,VCIF
 VCV,Invesco California Value Municipal Income Trust Common Stock,NYSE,VCV
 VCXB,10X Capital Venture Acquisition Corp. III Class A Ordinary Shares,NYSE,VCXB
 VCXB.U,"10X Capital Venture Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,VCXB.U

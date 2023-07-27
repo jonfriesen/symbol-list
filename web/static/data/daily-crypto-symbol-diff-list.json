@@ -1,38 +1,33 @@
 {
  "added": [
   {
-   "symbol": "ALLIN",
-   "name": "All in (ALLIN)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "QUICK",
+   "name": "Quickswap (QUICK)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
    "symbol": "XETH",
    "name": "Xplosive Ethereum (XETH)"
   },
   {
-   "symbol": "MOG",
-   "name": "Mog Coin (MOG)",
-   "built_on": "ETH"
-  },
-  {
    "symbol": "DOG",
    "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "MNT",
-   "name": "microNFT (MNT)"
+   "symbol": "QUICK",
+   "name": "Quickswap (QUICK)"
   }
  ]
 }

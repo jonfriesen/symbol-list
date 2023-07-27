@@ -1,5 +1,5 @@
 {
- "date": "2023-07-26",
+ "date": "2023-07-27",
  "data": [
   {
    "symbol": "ONE",
@@ -13646,6 +13646,18 @@
    ]
   },
   {
+   "symbol": "PDVN.P",
+   "name": "Pardus Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PDVN.P.V",
+   "instruments": [
+    {
+     "name": "Pardus Ventures Inc.",
+     "symbol": "PDVN.P"
+    }
+   ]
+  },
+  {
    "symbol": "PKT",
    "name": "Parkit Enterprise Inc.",
    "exchange": "TSXV",
@@ -16662,6 +16674,18 @@
     {
      "name": "SP Strategic Acquisition Corp.",
      "symbol": "SPSA.P"
+    }
+   ]
+  },
+  {
+   "symbol": "YSK.P",
+   "name": "Space Kingdom Digital Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YSK.P.V",
+   "instruments": [
+    {
+     "name": "Space Kingdom Digital Capital Corp.",
+     "symbol": "YSK.P"
     }
    ]
   },
@@ -33786,6 +33810,22 @@
    ]
   },
   {
+   "symbol": "IIMF",
+   "name": "Invesco International Developed Dynamic-Multifactor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIMF.TO",
+   "instruments": [
+    {
+     "name": "InvescoIntlDevDynmMF",
+     "symbol": "IIMF"
+    },
+    {
+     "name": "InvescoIntlDevDynmHg",
+     "symbol": "IIMF.F"
+    }
+   ]
+  },
+  {
    "symbol": "PLV",
    "name": "Invesco Low Volatility Portfolio ETF",
    "exchange": "TSX",
@@ -33794,6 +33834,22 @@
     {
      "name": "Invesco LowVolPortfl",
      "symbol": "PLV"
+    }
+   ]
+  },
+  {
+   "symbol": "IGET",
+   "name": "Invesco Morningstar Global Energy Transition Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGET.TO",
+   "instruments": [
+    {
+     "name": "Invesco MS Glb Engy",
+     "symbol": "IGET"
+    },
+    {
+     "name": "Invesco MS Enrgy Heg",
+     "symbol": "IGET.F"
     }
    ]
   },
@@ -33842,6 +33898,22 @@
     {
      "name": "InvescoNASDQNxt100Hg",
      "symbol": "QQJR.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IUMF",
+   "name": "Invesco Russell 1000 Dynamic-Multifactor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUMF.TO",
+   "instruments": [
+    {
+     "name": "InvescoRus1000DynmMF",
+     "symbol": "IUMF"
+    },
+    {
+     "name": "InvescoRus1000DyMFHg",
+     "symbol": "IUMF.F"
     }
    ]
   },
@@ -48730,24 +48802,6 @@
    "yahoo_symbol": "BLMN"
   },
   {
-   "symbol": "BLNG",
-   "name": "Belong Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLNG"
-  },
-  {
-   "symbol": "BLNGU",
-   "name": "Belong Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLNGU"
-  },
-  {
-   "symbol": "BLNGW",
-   "name": "Belong Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLNGW"
-  },
-  {
    "symbol": "BLNK",
    "name": "Blink Charging Co. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -57338,12 +57392,6 @@
    "name": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GRID"
-  },
-  {
-   "symbol": "GRIL",
-   "name": "Muscle Maker, Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GRIL"
   },
   {
    "symbol": "GRIN",
@@ -69652,6 +69700,12 @@
    "yahoo_symbol": "SDIG"
   },
   {
+   "symbol": "SDOT",
+   "name": "Sadot Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDOT"
+  },
+  {
    "symbol": "SDSI",
    "name": "American Century Short Duration Strategic Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -79622,6 +79676,12 @@
    "name": "Crown Castle Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CCI"
+  },
+  {
+   "symbol": "CCIF",
+   "name": "Carlyle Credit Income Fund Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCIF"
   },
   {
    "symbol": "CCJ",
@@ -92681,7 +92741,7 @@
   },
   {
    "symbol": "RTX",
-   "name": "Raytheon Technologies Corporation Common Stock",
+   "name": "RTX Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RTX"
   },
@@ -93952,6 +94012,12 @@
    "yahoo_symbol": "SREA"
   },
   {
+   "symbol": "SRFM",
+   "name": "Surf Air Mobility Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRFM"
+  },
+  {
    "symbol": "SRG",
    "name": "Seritage Growth Properties Class A Common Stock",
    "exchange": "NYSE",
@@ -94502,18 +94568,6 @@
    "name": "Tidewater Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TDW"
-  },
-  {
-   "symbol": "TDW.A",
-   "name": "Tidewater Inc. Series A Warrants to purchase shares of common stock (expiring July 31, 2023)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TDW.A"
-  },
-  {
-   "symbol": "TDW.B",
-   "name": "Tidewater Inc. Series B Warrants to purchase shares of common stock (expiring July 31, 2023)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TDW.B"
   },
   {
    "symbol": "TDW.W",
@@ -95858,12 +95912,6 @@
    "name": "Invesco Bond Fund Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VBF"
-  },
-  {
-   "symbol": "VCIF",
-   "name": "Carlyle Credit Income Fund Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VCIF"
   },
   {
    "symbol": "VCV",
