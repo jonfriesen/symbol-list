@@ -1,14 +1,8 @@
 {
  "added": [
   {
-   "symbol": "C98",
-   "name": "Coin98 (C98)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MLK",
-   "name": "MiL.k (MLK)",
-   "built_on": "LUNIVERSE"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
    "symbol": "BANK",
@@ -16,29 +10,41 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "X",
-   "name": "AI-X (X)",
+   "symbol": "MANTLE",
+   "name": "Mantle (MANTLE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
+   "symbol": "ARKM",
+   "name": "Arkham (ARKM)"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
   },
   {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "AMO",
+   "name": "AMO Coin (AMO)"
+  },
+  {
+   "symbol": "BIT",
+   "name": "BitDAO (BIT)"
   }
  ],
  "removed": [
   {
-   "symbol": "MLK",
-   "name": "MiL.k (MLK)"
+   "symbol": "BIT",
+   "name": "BitDAO (BIT)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "C98",
-   "name": "Coin98 (C98)",
-   "built_on": "BNB"
+   "symbol": "AMO",
+   "name": "AMO Coin (AMO)",
+   "built_on": "ETH"
   }
  ]
 }
