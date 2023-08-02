@@ -1,8 +1,14 @@
 {
  "added": [
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "ZZZ",
+   "name": "zzz.finance (ZZZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
   },
   {
    "symbol": "BANK",
@@ -10,41 +16,20 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "MANTLE",
-   "name": "Mantle (MANTLE)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
   },
   {
-   "symbol": "ARKM",
-   "name": "Arkham (ARKM)"
-  },
-  {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "AMO",
-   "name": "AMO Coin (AMO)"
-  },
-  {
-   "symbol": "BIT",
-   "name": "BitDAO (BIT)"
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "BIT",
-   "name": "BitDAO (BIT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "AMO",
-   "name": "AMO Coin (AMO)",
-   "built_on": "ETH"
+   "symbol": "ZZZ",
+   "name": "zzz.finance (ZZZ)"
   }
  ]
 }
