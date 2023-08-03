@@ -1,5 +1,5 @@
 {
- "date": "2023-08-02",
+ "date": "2023-08-03",
  "data": [
   {
    "symbol": "ONE",
@@ -7374,18 +7374,6 @@
    ]
   },
   {
-   "symbol": "BLOK",
-   "name": "GlobalBlock Digital Asset Trading Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BLOK.V",
-   "instruments": [
-    {
-     "name": "GlobalBlock Digital Asset Trading Limited",
-     "symbol": "BLOK"
-    }
-   ]
-  },
-  {
    "symbol": "GMV",
    "name": "GMV Minerals Inc.",
    "exchange": "TSXV",
@@ -13074,6 +13062,18 @@
     {
      "name": "Odd Burger Corporation",
      "symbol": "ODD"
+    }
+   ]
+  },
+  {
+   "symbol": "ALFA.P",
+   "name": "Odessa Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALFA.P.V",
+   "instruments": [
+    {
+     "name": "Odessa Capital Ltd.",
+     "symbol": "ALFA.P"
     }
    ]
   },
@@ -40938,18 +40938,6 @@
    ]
   },
   {
-   "symbol": "REUN",
-   "name": "Reunion Neuroscience Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "REUN.TO",
-   "instruments": [
-    {
-     "name": "Reunion Neuros Inc J",
-     "symbol": "REUN"
-    }
-   ]
-  },
-  {
    "symbol": "RCG",
    "name": "RF Capital Group Inc.",
    "exchange": "TSX",
@@ -43630,18 +43618,6 @@
     {
      "name": "TWC Enterprises Ltd.",
      "symbol": "TWC"
-    }
-   ]
-  },
-  {
-   "symbol": "UNS",
-   "name": "Uni-Select Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "UNS.TO",
-   "instruments": [
-    {
-     "name": "Uni-Select Inc.",
-     "symbol": "UNS"
     }
    ]
   },
@@ -53880,18 +53856,6 @@
    "yahoo_symbol": "EMBC"
   },
   {
-   "symbol": "EMBK",
-   "name": "Embark Technology, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMBK"
-  },
-  {
-   "symbol": "EMBKW",
-   "name": "Embark Technology, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMBKW"
-  },
-  {
    "symbol": "EMCB",
    "name": "WisdomTree Emerging Markets Corporate Bond Fund",
    "exchange": "NASDAQ Global MarketSM",
@@ -60403,7 +60367,7 @@
   },
   {
    "symbol": "KALA",
-   "name": "Kala Pharmaceuticals, Inc. - Common Stock",
+   "name": "KALA BIO, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KALA"
   },
@@ -69961,7 +69925,7 @@
   },
   {
    "symbol": "SHPW",
-   "name": "Shapeways Holdings, Inc. - common stock",
+   "name": "Shapeways Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SHPW"
   },

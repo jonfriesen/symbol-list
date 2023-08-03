@@ -1,14 +1,12 @@
 {
  "added": [
   {
-   "symbol": "ZZZ",
-   "name": "zzz.finance (ZZZ)",
-   "built_on": "ETH"
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
   },
   {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
    "symbol": "BANK",
@@ -16,20 +14,8 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "ZZZ",
-   "name": "zzz.finance (ZZZ)"
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
   }
  ]
 }
