@@ -1,66 +1,96 @@
 {
  "added": [
   {
-   "symbol": "ALFA.P",
-   "name": "Odessa Capital Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ALFA.P.V",
-   "instruments": [
-    {
-     "name": "Odessa Capital Ltd.",
-     "symbol": "ALFA.P"
-    }
-   ]
+   "symbol": "LDWY",
+   "name": "Lendway, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDWY"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "MIRA Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MIRA"
   }
  ],
  "removed": [
   {
-   "symbol": "UNS",
-   "name": "Uni-Select Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "UNS.TO",
-   "instruments": [
-    {
-     "name": "Uni-Select Inc.",
-     "symbol": "UNS"
-    }
-   ]
-  },
-  {
-   "symbol": "EMBK",
-   "name": "Embark Technology, Inc. - Common Stock",
+   "symbol": "GENQW",
+   "name": "Genesis Unicorn Capital Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMBK"
+   "yahoo_symbol": "GENQW"
   },
   {
-   "symbol": "BLOK",
-   "name": "GlobalBlock Digital Asset Trading Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BLOK.V",
-   "instruments": [
-    {
-     "name": "GlobalBlock Digital Asset Trading Limited",
-     "symbol": "BLOK"
-    }
-   ]
+   "symbol": "ISIG",
+   "name": "Insignia Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ISIG"
   },
   {
-   "symbol": "REUN",
-   "name": "Reunion Neuroscience Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "REUN.TO",
-   "instruments": [
-    {
-     "name": "Reunion Neuros Inc J",
-     "symbol": "REUN"
-    }
-   ]
+   "symbol": "ARBGW",
+   "name": "Aequi Acquisition Corp. - warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBGW"
   },
   {
-   "symbol": "EMBKW",
-   "name": "Embark Technology, Inc. - Warrant",
+   "symbol": "LSXMK",
+   "name": "Liberty Media Corporation - Series C Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMK"
+  },
+  {
+   "symbol": "ARBGU",
+   "name": "Aequi Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBGU"
+  },
+  {
+   "symbol": "LSXMA",
+   "name": "Liberty Media Corporation - Series A Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMA"
+  },
+  {
+   "symbol": "FWONA",
+   "name": "Liberty Media Corporation - Series A Liberty Formula One Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FWONA"
+  },
+  {
+   "symbol": "FWONK",
+   "name": "Liberty Media Corporation - Series C Liberty Formula One Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FWONK"
+  },
+  {
+   "symbol": "GENQU",
+   "name": "Genesis Unicorn Capital Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMBKW"
+   "yahoo_symbol": "GENQU"
+  },
+  {
+   "symbol": "WTT",
+   "name": "Wireless Telecom Group,  Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WTT"
+  },
+  {
+   "symbol": "ARBG",
+   "name": "Aequi Acquisition Corp. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBG"
+  },
+  {
+   "symbol": "GENQ",
+   "name": "Genesis Unicorn Capital Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GENQ"
+  },
+  {
+   "symbol": "LSXMB",
+   "name": "Liberty Media Corporation - Series B Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMB"
   }
  ]
 }

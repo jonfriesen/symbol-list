@@ -1,5 +1,5 @@
 {
- "date": "2023-08-03",
+ "date": "2023-08-04",
  "data": [
   {
    "symbol": "ONE",
@@ -8644,8 +8644,8 @@
      "symbol": "HAM"
     },
     {
-     "name": "Highwood Asset Management Ltd. Sub Receipts",
-     "symbol": "HAM.R"
+     "name": "Highwood Asset Management Ltd wt 03Aug2026",
+     "symbol": "HAM.WT"
     }
    ]
   },
@@ -46806,24 +46806,6 @@
    "yahoo_symbol": "ARBEW"
   },
   {
-   "symbol": "ARBG",
-   "name": "Aequi Acquisition Corp. - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARBG"
-  },
-  {
-   "symbol": "ARBGU",
-   "name": "Aequi Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARBGU"
-  },
-  {
-   "symbol": "ARBGW",
-   "name": "Aequi Acquisition Corp. - warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARBGW"
-  },
-  {
    "symbol": "ARBK",
    "name": "Argo Blockchain plc - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -56160,18 +56142,6 @@
    "yahoo_symbol": "FWBI"
   },
   {
-   "symbol": "FWONA",
-   "name": "Liberty Media Corporation - Series A Liberty Formula One Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FWONA"
-  },
-  {
-   "symbol": "FWONK",
-   "name": "Liberty Media Corporation - Series C Liberty Formula One Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FWONK"
-  },
-  {
    "symbol": "FWRD",
    "name": "Forward Air Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -56566,24 +56536,6 @@
    "name": "GEN Restaurant Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GENK"
-  },
-  {
-   "symbol": "GENQ",
-   "name": "Genesis Unicorn Capital Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GENQ"
-  },
-  {
-   "symbol": "GENQU",
-   "name": "Genesis Unicorn Capital Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GENQU"
-  },
-  {
-   "symbol": "GENQW",
-   "name": "Genesis Unicorn Capital Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GENQW"
   },
   {
    "symbol": "GENY",
@@ -59730,12 +59682,6 @@
    "yahoo_symbol": "ISHP"
   },
   {
-   "symbol": "ISIG",
-   "name": "Insignia Systems, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ISIG"
-  },
-  {
    "symbol": "ISPC",
    "name": "iSpecimen Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -61122,6 +61068,12 @@
    "yahoo_symbol": "LDSF"
   },
   {
+   "symbol": "LDWY",
+   "name": "Lendway, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDWY"
+  },
+  {
    "symbol": "LE",
    "name": "Lands' End, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -61792,24 +61744,6 @@
    "name": "Landstar System, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LSTR"
-  },
-  {
-   "symbol": "LSXMA",
-   "name": "Liberty Media Corporation - Series A Liberty SiriusXM Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LSXMA"
-  },
-  {
-   "symbol": "LSXMB",
-   "name": "Liberty Media Corporation - Series B Liberty SiriusXM Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LSXMB"
-  },
-  {
-   "symbol": "LSXMK",
-   "name": "Liberty Media Corporation - Series C Liberty SiriusXM Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LSXMK"
   },
   {
    "symbol": "LTBR",
@@ -62848,6 +62782,12 @@
    "name": "Minim, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MINM"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "MIRA Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MIRA"
   },
   {
    "symbol": "MIRM",
@@ -96748,12 +96688,6 @@
    "name": "Watts Water Technologies, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "WTS"
-  },
-  {
-   "symbol": "WTT",
-   "name": "Wireless Telecom Group,  Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "WTT"
   },
   {
    "symbol": "WTTR",

@@ -1,21 +1,39 @@
 {
  "added": [
   {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "DBEAR",
+   "name": "DBear Coin (DBEAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORBS",
+   "name": "Orbs (ORBS)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ORBS",
+   "name": "Orbs (ORBS)",
+   "built_on": "ETH"
   }
  ]
 }
