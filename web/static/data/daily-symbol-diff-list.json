@@ -1,54 +1,16 @@
 {
  "added": [
   {
-   "symbol": "LDWY",
-   "name": "Lendway, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LDWY"
-  },
-  {
-   "symbol": "MIRA",
-   "name": "MIRA Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MIRA"
-  }
- ],
- "removed": [
-  {
-   "symbol": "GENQW",
-   "name": "Genesis Unicorn Capital Corp. - Warrants",
+   "symbol": "ESGL",
+   "name": "ESGL Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GENQW"
+   "yahoo_symbol": "ESGL"
   },
   {
-   "symbol": "ISIG",
-   "name": "Insignia Systems, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ISIG"
-  },
-  {
-   "symbol": "ARBGW",
-   "name": "Aequi Acquisition Corp. - warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARBGW"
-  },
-  {
-   "symbol": "LSXMK",
-   "name": "Liberty Media Corporation - Series C Liberty SiriusXM Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LSXMK"
-  },
-  {
-   "symbol": "ARBGU",
-   "name": "Aequi Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARBGU"
-  },
-  {
-   "symbol": "LSXMA",
-   "name": "Liberty Media Corporation - Series A Liberty SiriusXM Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LSXMA"
+   "symbol": "ESGLW",
+   "name": "ESGL Holdings Limited - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESGLW"
   },
   {
    "symbol": "FWONA",
@@ -63,34 +25,78 @@
    "yahoo_symbol": "FWONK"
   },
   {
-   "symbol": "GENQU",
-   "name": "Genesis Unicorn Capital Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GENQU"
+   "symbol": "LLYVA",
+   "name": "Liberty Media Corporation - Series A Liberty Live Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LLYVA"
   },
   {
-   "symbol": "WTT",
-   "name": "Wireless Telecom Group,  Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "WTT"
+   "symbol": "LLYVK",
+   "name": "Liberty Media Corporation - Series C Liberty Live Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LLYVK"
   },
   {
-   "symbol": "ARBG",
-   "name": "Aequi Acquisition Corp. - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARBG"
-  },
-  {
-   "symbol": "GENQ",
-   "name": "Genesis Unicorn Capital Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GENQ"
+   "symbol": "LSXMA",
+   "name": "Liberty Media Corporation - Series A Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMA"
   },
   {
    "symbol": "LSXMB",
    "name": "Liberty Media Corporation - Series B Liberty SiriusXM Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LSXMB"
+  },
+  {
+   "symbol": "LSXMK",
+   "name": "Liberty Media Corporation - Series C Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMK"
+  },
+  {
+   "symbol": "RENB",
+   "name": "Renovaro Biosciences Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RENB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BWCAU",
+   "name": "Blue Whale Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWCAU"
+  },
+  {
+   "symbol": "BWCAW",
+   "name": "Blue Whale Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWCAW"
+  },
+  {
+   "symbol": "ENOB",
+   "name": "Enochian Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENOB"
+  },
+  {
+   "symbol": "IRNT",
+   "name": "IronNet, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRNT"
+  },
+  {
+   "symbol": "BWC",
+   "name": "Blue Whale Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWC"
+  },
+  {
+   "symbol": "IRNT.W",
+   "name": "IronNet, Inc. Redeemable Warrants, each whole warrant exercisable for shares of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRNT.W"
   }
  ]
 }
