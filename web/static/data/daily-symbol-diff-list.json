@@ -1,72 +1,54 @@
 {
  "added": [
   {
-   "symbol": "EVP.P",
-   "name": "EVP Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EVP.P.V",
-   "instruments": [
-    {
-     "name": "EVP Capital Inc.",
-     "symbol": "EVP.P"
-    }
-   ]
+   "symbol": "FTEL",
+   "name": "Fitell Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTEL"
   },
   {
-   "symbol": "GATE",
-   "name": "Marblegate Acquisition Corp. - Class A Common Stock",
+   "symbol": "MF",
+   "name": "Missfresh Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GATE"
+   "yahoo_symbol": "MF"
   },
   {
-   "symbol": "GATEU",
-   "name": "Marblegate Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GATEU"
-  },
-  {
-   "symbol": "GATEW",
-   "name": "Marblegate Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GATEW"
+   "symbol": "NRXS",
+   "name": "Neuraxis, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NRXS"
   }
  ],
  "removed": [
   {
-   "symbol": "PDCE",
-   "name": "PDC Energy, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PDCE"
-  },
-  {
-   "symbol": "GATEU",
-   "name": "Marblegate Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GATEU"
-  },
-  {
-   "symbol": "GATE",
-   "name": "Marblegate Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GATE"
-  },
-  {
-   "symbol": "UPI",
-   "name": "Universal Proptech Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "UPI.V",
+   "symbol": "BILT",
+   "name": "Evolve Slate Global Real Estate Enhanced Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BILT.TO",
    "instruments": [
     {
-     "name": "Universal Proptech Inc.",
-     "symbol": "UPI"
+     "name": "EvolveSlt RlEstCA HG",
+     "symbol": "BILT"
     }
    ]
   },
   {
-   "symbol": "GATEW",
-   "name": "Marblegate Acquisition Corp. - Warrant",
+   "symbol": "CONE",
+   "name": "Canada One Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CONE.V",
+   "instruments": [
+    {
+     "name": "Canada One Mining Corp.",
+     "symbol": "CONE"
+    }
+   ]
+  },
+  {
+   "symbol": "MF",
+   "name": "Missfresh Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GATEW"
+   "yahoo_symbol": "MF"
   }
  ]
 }
