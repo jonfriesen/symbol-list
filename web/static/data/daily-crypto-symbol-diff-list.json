@@ -1,13 +1,27 @@
 {
  "added": [
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
+   "symbol": "X",
+   "name": "AI-X (X)",
    "built_on": "ETH"
   },
   {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
+   "symbol": "PHA",
+   "name": "Phala Network (PHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "COREUM",
+   "name": "Coreum (COREUM)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
    "symbol": "G",
@@ -15,9 +29,19 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
+   "symbol": "MBOX",
+   "name": "MOBOX (MBOX)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MBOX",
+   "name": "MOBOX (MBOX)"
+  },
+  {
+   "symbol": "PHA",
+   "name": "Phala Network (PHA)"
   }
  ]
 }
