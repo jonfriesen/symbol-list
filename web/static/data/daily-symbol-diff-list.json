@@ -1,96 +1,132 @@
 {
  "added": [
   {
-   "symbol": "RGC",
-   "name": "Relevant Gold Corp.",
+   "symbol": "BUZ.P",
+   "name": "Buzz Capital Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "RGC.V",
+   "yahoo_symbol": "BUZ.P.V",
    "instruments": [
     {
-     "name": "Relevant Gold Corp.",
-     "symbol": "RGC"
+     "name": "Buzz Capital Inc.",
+     "symbol": "BUZ.P"
     }
    ]
   },
   {
-   "symbol": "APM",
-   "name": "Aptorum Group Limited - Class A Ordinary Shares",
+   "symbol": "JHC",
+   "name": "Jinhua Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JHC.V",
+   "instruments": [
+    {
+     "name": "Jinhua Capital Corporation",
+     "symbol": "JHC"
+    }
+   ]
+  },
+  {
+   "symbol": "SHL",
+   "name": "Spruce Ridge Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SHL.V",
+   "instruments": [
+    {
+     "name": "Spruce Ridge Resources Ltd. ",
+     "symbol": "SHL"
+    }
+   ]
+  },
+  {
+   "symbol": "JTAI",
+   "name": "Jet.AI Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JTAI"
+  },
+  {
+   "symbol": "JTAIW",
+   "name": "Jet.AI Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APM"
+   "yahoo_symbol": "JTAIW"
   },
   {
-   "symbol": "FEME",
-   "name": "Forstrong Emerging Markets Equity ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FEME.TO",
-   "instruments": [
-    {
-     "name": "Forstrong EmrgMkt Eq",
-     "symbol": "FEME"
-    }
-   ]
+   "symbol": "LQR",
+   "name": "LQR House Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LQR"
   },
   {
-   "symbol": "FINE",
-   "name": "Forstrong Global Ex-North America Equity ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FINE.TO",
-   "instruments": [
-    {
-     "name": "Forstrng GlbEx-NA Eq",
-     "symbol": "FINE"
-    }
-   ]
+   "symbol": "TLSI",
+   "name": "TriSalus Life Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLSI"
   },
   {
-   "symbol": "FGRW",
-   "name": "Forstrong Global Growth ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FGRW.TO",
-   "instruments": [
-    {
-     "name": "Forstrong GlbGrowth",
-     "symbol": "FGRW"
-    }
-   ]
-  },
-  {
-   "symbol": "FINC",
-   "name": "Forstrong Global Income ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FINC.TO",
-   "instruments": [
-    {
-     "name": "Forstrong Glbl Incm",
-     "symbol": "FINC"
-    }
-   ]
+   "symbol": "TLSIW",
+   "name": "TriSalus Life Sciences, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLSIW"
   }
  ],
  "removed": [
   {
-   "symbol": "APM",
-   "name": "Aptorum Group Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "APM"
+   "symbol": "OXAC",
+   "name": "Oxbridge Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXAC"
   },
   {
-   "symbol": "DICE",
-   "name": "DICE Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DICE"
+   "symbol": "MTAC",
+   "name": "MedTech Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTAC"
   },
   {
-   "symbol": "LTCH",
-   "name": "Latch, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LTCH"
+   "symbol": "MIMO.B",
+   "name": "Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $15.00",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MIMO.B"
   },
   {
-   "symbol": "LTCHW",
-   "name": "Latch, Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LTCHW"
+   "symbol": "WCE",
+   "name": "Wescan Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WCE.V",
+   "instruments": [
+    {
+     "name": "Wescan Energy Corp.",
+     "symbol": "WCE"
+    }
+   ]
+  },
+  {
+   "symbol": "MTACU",
+   "name": "MedTech Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTACU"
+  },
+  {
+   "symbol": "OXACW",
+   "name": "Oxbridge Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXACW"
+  },
+  {
+   "symbol": "MIMO.A",
+   "name": "Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $12.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MIMO.A"
+  },
+  {
+   "symbol": "MTACW",
+   "name": "MedTech Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTACW"
+  },
+  {
+   "symbol": "OXACU",
+   "name": "Oxbridge Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXACU"
   }
  ]
 }
