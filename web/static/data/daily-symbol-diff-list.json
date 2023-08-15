@@ -1,126 +1,96 @@
 {
  "added": [
   {
-   "symbol": "JTAIZ",
-   "name": "Jet.AI Inc. - Merger Consideration Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JTAIZ"
-  },
-  {
-   "symbol": "DBD",
-   "name": "Diebold Nixdorf Incorporated Common stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DBD"
-  },
-  {
-   "symbol": "HHH",
-   "name": "Howard Hughes Holdings Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HHH"
-  },
-  {
-   "symbol": "AMR",
-   "name": "AM Resources Corp.",
+   "symbol": "PLSR",
+   "name": "Pulsar Helium Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AMR.V",
+   "yahoo_symbol": "PLSR.V",
    "instruments": [
     {
-     "name": "AM Resources Corp.",
-     "symbol": "AMR"
+     "name": "Pulsar Helium Inc.",
+     "symbol": "PLSR"
     }
    ]
   },
   {
-   "symbol": "SNAG",
-   "name": "Silver North Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SNAG.V",
-   "instruments": [
-    {
-     "name": "Silver North Resources Ltd.",
-     "symbol": "SNAG"
-    }
-   ]
+   "symbol": "ACIC",
+   "name": "American Coastal Insurance Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACIC"
+  },
+  {
+   "symbol": "KVUE.V",
+   "name": "Kenvue Inc. Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KVUE.V"
   }
  ],
  "removed": [
   {
-   "symbol": "CPAA",
-   "name": "Conyers Park III Acquisition Corp. - Class A Common Stock",
+   "symbol": "BSAQ.W",
+   "name": "Black Spade Acquisition Co Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ.W"
+  },
+  {
+   "symbol": "SAL",
+   "name": "Salisbury Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CPAA"
+   "yahoo_symbol": "SAL"
   },
   {
-   "symbol": "CPAAU",
-   "name": "Conyers Park III Acquisition Corp. - Unit",
+   "symbol": "MSVB",
+   "name": "Mid-Southern Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CPAAU"
+   "yahoo_symbol": "MSVB"
   },
   {
-   "symbol": "SGTX",
-   "name": "Sigilon Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SGTX"
-  },
-  {
-   "symbol": "PYPT",
-   "name": "AXS 1.5X PYPL Bull Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PYPT"
-  },
-  {
-   "symbol": "ANZ",
-   "name": "Alianza Minerals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ANZ.V",
-   "instruments": [
-    {
-     "name": "Alianza Minerals Ltd.",
-     "symbol": "ANZ"
-    }
-   ]
-  },
-  {
-   "symbol": "SOLOW",
-   "name": "Electrameccanica Vehicles Corp. Ltd. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SOLOW"
-  },
-  {
-   "symbol": "IDBA",
-   "name": "IDEX Biometrics ASA - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IDBA"
-  },
-  {
-   "symbol": "HHC",
-   "name": "Howard Hughes Corporation (The) Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HHC"
-  },
-  {
-   "symbol": "CPAAW",
-   "name": "Conyers Park III Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CPAAW"
-  },
-  {
-   "symbol": "KDNY",
-   "name": "Chinook Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KDNY"
-  },
-  {
-   "symbol": "REAX",
-   "name": "The Real Brokerage Inc.",
+   "symbol": "INCR.U",
+   "name": "Intercure Ltd.",
    "exchange": "TSX",
-   "yahoo_symbol": "REAX.TO",
+   "yahoo_symbol": "INCR.U.TO",
    "instruments": [
     {
-     "name": "The Real Brokerage J",
-     "symbol": "REAX"
+     "name": "Intercure J Ord USF",
+     "symbol": "INCR.U"
     }
    ]
+  },
+  {
+   "symbol": "UIHC",
+   "name": "United Insurance Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UIHC"
+  },
+  {
+   "symbol": "BSAQ.U",
+   "name": "Black Spade Acquisition Co Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ.U"
+  },
+  {
+   "symbol": "APMIU",
+   "name": "AxonPrime Infrastructure Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APMIU"
+  },
+  {
+   "symbol": "RCA",
+   "name": "Ready Capital Corporation 7.00% Convertible Senior Notes due 2023",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RCA"
+  },
+  {
+   "symbol": "AEPPZ",
+   "name": "American Electric Power Company, Inc. - Corporate Unit",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AEPPZ"
+  },
+  {
+   "symbol": "BSAQ",
+   "name": "Black Spade Acquisition Co Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ"
   }
  ]
 }

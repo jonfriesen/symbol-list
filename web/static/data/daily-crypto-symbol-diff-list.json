@@ -1,23 +1,18 @@
 {
  "added": [
   {
-   "symbol": "KING",
-   "name": "KING (KING)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "XTM",
-   "name": "TORUM (XTM)",
-   "built_on": "MATIC"
-  },
-  {
-   "symbol": "X",
-   "name": "AI-X (X)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
   },
   {
    "symbol": "DOG",
@@ -25,16 +20,15 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "LIT",
+   "name": "Litentry (LIT)",
    "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "XTM",
-   "name": "TORUM (XTM)",
-   "built_on": "BNB"
+   "symbol": "LIT",
+   "name": "Litentry (LIT)"
   }
  ]
 }
