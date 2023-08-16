@@ -1,96 +1,78 @@
 {
  "added": [
   {
-   "symbol": "PLSR",
-   "name": "Pulsar Helium Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PLSR.V",
-   "instruments": [
-    {
-     "name": "Pulsar Helium Inc.",
-     "symbol": "PLSR"
-    }
-   ]
+   "symbol": "CANC",
+   "name": "Tema Oncology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CANC"
   },
   {
-   "symbol": "ACIC",
-   "name": "American Coastal Insurance Corporation - Common Stock",
+   "symbol": "SPGC",
+   "name": "Sacks Parente Golf, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACIC"
+   "yahoo_symbol": "SPGC"
   },
   {
-   "symbol": "KVUE.V",
-   "name": "Kenvue Inc. Common Stock When Issued",
+   "symbol": "SRM",
+   "name": "SRM Entertainment, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SRM"
+  },
+  {
+   "symbol": "VFS",
+   "name": "VinFast Auto Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VFS"
+  },
+  {
+   "symbol": "VFSWW",
+   "name": "VinFast Auto Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VFSWW"
+  },
+  {
+   "symbol": "APO$A",
+   "name": "Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "KVUE.V"
+   "yahoo_symbol": "APO$A"
   }
  ],
  "removed": [
   {
-   "symbol": "BSAQ.W",
-   "name": "Black Spade Acquisition Co Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BSAQ.W"
-  },
-  {
-   "symbol": "SAL",
-   "name": "Salisbury Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SAL"
-  },
-  {
-   "symbol": "MSVB",
-   "name": "Mid-Southern Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSVB"
-  },
-  {
-   "symbol": "INCR.U",
-   "name": "Intercure Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "INCR.U.TO",
-   "instruments": [
-    {
-     "name": "Intercure J Ord USF",
-     "symbol": "INCR.U"
-    }
-   ]
-  },
-  {
-   "symbol": "UIHC",
-   "name": "United Insurance Holdings Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UIHC"
-  },
-  {
-   "symbol": "BSAQ.U",
-   "name": "Black Spade Acquisition Co Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BSAQ.U"
-  },
-  {
-   "symbol": "APMIU",
-   "name": "AxonPrime Infrastructure Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APMIU"
-  },
-  {
-   "symbol": "RCA",
-   "name": "Ready Capital Corporation 7.00% Convertible Senior Notes due 2023",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RCA"
-  },
-  {
-   "symbol": "AEPPZ",
-   "name": "American Electric Power Company, Inc. - Corporate Unit",
+   "symbol": "YELL",
+   "name": "Yellow Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AEPPZ"
+   "yahoo_symbol": "YELL"
   },
   {
-   "symbol": "BSAQ",
-   "name": "Black Spade Acquisition Co Class A Ordinary Shares",
+   "symbol": "PCGU",
+   "name": "Pacific Gas \u0026 Electric Co. Equity Unit",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PCGU"
+  },
+  {
+   "symbol": "AFTR.U",
+   "name": "AfterNext HealthTech Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AFTR.U"
+  },
+  {
+   "symbol": "POL.W",
+   "name": "Polished Inc. Warrants to Purchase Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "BSAQ"
+   "yahoo_symbol": "POL.W"
+  },
+  {
+   "symbol": "AFTR.W",
+   "name": "AfterNext HealthTech Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AFTR.W"
+  },
+  {
+   "symbol": "AFTR",
+   "name": "AfterNext HealthTech Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AFTR"
   }
  ]
 }
