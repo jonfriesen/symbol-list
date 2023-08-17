@@ -1,78 +1,72 @@
 {
  "added": [
   {
-   "symbol": "CANC",
-   "name": "Tema Oncology ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CANC"
+   "symbol": "AISX",
+   "name": "Aisix Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AISX.V",
+   "instruments": [
+    {
+     "name": "Aisix Solutions Inc.",
+     "symbol": "AISX"
+    }
+   ]
   },
   {
-   "symbol": "SPGC",
-   "name": "Sacks Parente Golf, Inc. - Common Stock",
+   "symbol": "SRQ",
+   "name": "SRQ Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SRQ.V",
+   "instruments": [
+    {
+     "name": "SRQ Resources Inc.",
+     "symbol": "SRQ"
+    }
+   ]
+  },
+  {
+   "symbol": "CRVO",
+   "name": "CervoMed Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPGC"
-  },
-  {
-   "symbol": "SRM",
-   "name": "SRM Entertainment, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SRM"
-  },
-  {
-   "symbol": "VFS",
-   "name": "VinFast Auto Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VFS"
-  },
-  {
-   "symbol": "VFSWW",
-   "name": "VinFast Auto Ltd. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VFSWW"
-  },
-  {
-   "symbol": "APO$A",
-   "name": "Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APO$A"
+   "yahoo_symbol": "CRVO"
   }
  ],
  "removed": [
   {
-   "symbol": "YELL",
-   "name": "Yellow Corporation - Common Stock",
+   "symbol": "DFFN",
+   "name": "Diffusion Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DFFN"
+  },
+  {
+   "symbol": "MVAI",
+   "name": "Minerva Intelligence Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MVAI.V",
+   "instruments": [
+    {
+     "name": "Minerva Intelligence Inc.",
+     "symbol": "MVAI"
+    }
+   ]
+  },
+  {
+   "symbol": "PTRA",
+   "name": "Proterra Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "YELL"
+   "yahoo_symbol": "PTRA"
   },
   {
-   "symbol": "PCGU",
-   "name": "Pacific Gas \u0026 Electric Co. Equity Unit",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PCGU"
-  },
-  {
-   "symbol": "AFTR.U",
-   "name": "AfterNext HealthTech Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AFTR.U"
-  },
-  {
-   "symbol": "POL.W",
-   "name": "Polished Inc. Warrants to Purchase Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "POL.W"
-  },
-  {
-   "symbol": "AFTR.W",
-   "name": "AfterNext HealthTech Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AFTR.W"
-  },
-  {
-   "symbol": "AFTR",
-   "name": "AfterNext HealthTech Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AFTR"
+   "symbol": "ACU",
+   "name": "Aurora Solar Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACU.V",
+   "instruments": [
+    {
+     "name": "Aurora Solar Technologies Inc.",
+     "symbol": "ACU"
+    }
+   ]
   }
  ]
 }
