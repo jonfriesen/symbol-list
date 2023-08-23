@@ -1,34 +1,33 @@
 {
  "added": [
   {
+   "symbol": "DAWN",
+   "name": "Dawn Protocol (DAWN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
    "symbol": "X",
    "name": "AI-X (X)",
    "built_on": "ETH"
   },
   {
-   "symbol": "PORTO",
-   "name": "FC Porto (PORTO)",
-   "built_on": "BNB"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "PORTO",
-   "name": "FC Porto (PORTO)"
+   "symbol": "DAWN",
+   "name": "Dawn Protocol (DAWN)"
   }
  ]
 }

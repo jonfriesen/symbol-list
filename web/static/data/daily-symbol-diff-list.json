@@ -1,120 +1,174 @@
 {
  "added": [
   {
-   "symbol": "BUJA",
-   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Ordinary Shares",
+   "symbol": "INFM",
+   "name": "Infinico Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INFM.V",
+   "instruments": [
+    {
+     "name": "Infinico Metals Corp.",
+     "symbol": "INFM"
+    }
+   ]
+  },
+  {
+   "symbol": "WCE",
+   "name": "Wescan Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WCE.V",
+   "instruments": [
+    {
+     "name": "Wescan Energy Corp.",
+     "symbol": "WCE"
+    }
+   ]
+  },
+  {
+   "symbol": "NRR.UN",
+   "name": "Northview Residential REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "NRR.UN.TO",
+   "instruments": [
+    {
+     "name": "Northview Fund A Un",
+     "symbol": "NRR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "ALNT",
+   "name": "Allient Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALNT"
+  },
+  {
+   "symbol": "AMDS",
+   "name": "GraniteShares 1x Short AMD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDS"
+  },
+  {
+   "symbol": "FMSTW",
+   "name": "Foremost Lithium Resource \u0026 Technology Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BUJA"
+   "yahoo_symbol": "FMSTW"
   },
   {
-   "symbol": "BUJAR",
-   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BUJAR"
+   "symbol": "NVD",
+   "name": "GraniteShares 1.5x Short NVDA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVD"
   },
   {
-   "symbol": "BUJAW",
-   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BUJAW"
+   "symbol": "TSDD",
+   "name": "GraniteShares 1.5x Short TSLA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSDD"
   },
   {
-   "symbol": "FMST",
-   "name": "Foremost Lithium Resource \u0026 Technology Ltd. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FMST"
+   "symbol": "TSLR",
+   "name": "GraniteShares 1.75x Long TSLA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLR"
   },
   {
-   "symbol": "LGVNR",
-   "name": "Longeveron Inc. - Subscription Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGVNR"
-  },
-  {
-   "symbol": "PMGM",
-   "name": "Priveterra Acquisition Corp. II - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PMGM"
-  },
-  {
-   "symbol": "PMGMU",
-   "name": "Priveterra Acquisition Corp. II - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PMGMU"
-  },
-  {
-   "symbol": "PMGMW",
-   "name": "Priveterra Acquisition Corp. II - Warrant to purchase Class A common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PMGMW"
-  },
-  {
-   "symbol": "REGCO",
-   "name": "Regency Centers Corporation - 5.875% Series B Cumulative Redeemable Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "REGCO"
-  },
-  {
-   "symbol": "REGCP",
-   "name": "Regency Centers Corporation - 6.25% Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "REGCP"
-  },
-  {
-   "symbol": "FFWM",
-   "name": "First Foundation Inc. Common Stock",
+   "symbol": "CBD.V",
+   "name": "Companhia Brasileira de Distribuicao American Depositary Shares (Each representing one Common Share) When-Issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "FFWM"
+   "yahoo_symbol": "CBD.V"
+  },
+  {
+   "symbol": "EXTO.V",
+   "name": "Almacenes Exito S.A. American Depositary Share, each representing eight (8) Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EXTO.V"
   }
  ],
  "removed": [
   {
-   "symbol": "TMKRU",
-   "name": "Priveterra Acquisition Corp. II - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TMKRU"
+   "symbol": "HESG",
+   "name": "Harvest ESG Equity Income Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HESG.TO",
+   "instruments": [
+    {
+     "name": "Harvest ESG EqIncm A",
+     "symbol": "HESG"
+    }
+   ]
   },
   {
-   "symbol": "LGVNV",
-   "name": "Longeveron Inc. - Subscription Right When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGVNV"
+   "symbol": "BURG",
+   "name": "Burin Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BURG.V",
+   "instruments": [
+    {
+     "name": "Burin Gold Corp.",
+     "symbol": "BURG"
+    }
+   ]
   },
   {
-   "symbol": "TMKR",
-   "name": "Priveterra Acquisition Corp. II - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TMKR"
-  },
-  {
-   "symbol": "TMKRW",
-   "name": "Priveterra Acquisition Corp. II - Warrant to purchase Class A common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TMKRW"
-  },
-  {
-   "symbol": "FRGAP",
-   "name": "Franchise Group, Inc. - 7.50% Series A Cumulative Perpetual Preferred Stock",
+   "symbol": "FRBK",
+   "name": "Republic First Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRGAP"
+   "yahoo_symbol": "FRBK"
   },
   {
-   "symbol": "ACGN",
-   "name": "Aceragen, Inc. - Common Stock",
+   "symbol": "NHF.UN",
+   "name": "Northview Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NHF.UN.TO",
+   "instruments": [
+    {
+     "name": "Northview Fund A Un",
+     "symbol": "NHF.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "YVR",
+   "name": "Liquid Media Group Ltd. - Common Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACGN"
+   "yahoo_symbol": "YVR"
   },
   {
-   "symbol": "FFWM",
-   "name": "First Foundation Inc. - Common Stock",
+   "symbol": "AMOT",
+   "name": "Allied Motion Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FFWM"
+   "yahoo_symbol": "AMOT"
   },
   {
-   "symbol": "FRG",
-   "name": "Franchise Group, Inc. - Common Stock",
+   "symbol": "ZING",
+   "name": "FTAC Zeus Acquisition Corp. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRG"
+   "yahoo_symbol": "ZING"
+  },
+  {
+   "symbol": "ZINGU",
+   "name": "FTAC Zeus Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZINGU"
+  },
+  {
+   "symbol": "ZINGW",
+   "name": "FTAC Zeus Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZINGW"
+  },
+  {
+   "symbol": "WE.W",
+   "name": "WeWork Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WE.W"
+  },
+  {
+   "symbol": "CBRGW",
+   "name": "Chain Bridge I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CBRGW"
   }
  ]
 }

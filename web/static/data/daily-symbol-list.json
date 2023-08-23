@@ -1,5 +1,5 @@
 {
- "date": "2023-08-22",
+ "date": "2023-08-23",
  "data": [
   {
    "symbol": "ONE",
@@ -2802,18 +2802,6 @@
     {
      "name": "Bullion Gold Resources Corp.",
      "symbol": "BGD"
-    }
-   ]
-  },
-  {
-   "symbol": "BURG",
-   "name": "Burin Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BURG.V",
-   "instruments": [
-    {
-     "name": "Burin Gold Corp.",
-     "symbol": "BURG"
     }
    ]
   },
@@ -9138,6 +9126,18 @@
     {
      "name": "Infield Minerals Corp.",
      "symbol": "INFD"
+    }
+   ]
+  },
+  {
+   "symbol": "INFM",
+   "name": "Infinico Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INFM.V",
+   "instruments": [
+    {
+     "name": "Infinico Metals Corp.",
+     "symbol": "INFM"
     }
    ]
   },
@@ -19334,6 +19334,18 @@
     {
      "name": "Wellfield Technologies Inc. wt 23nov2024",
      "symbol": "WFLD.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "WCE",
+   "name": "Wescan Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WCE.V",
+   "instruments": [
+    {
+     "name": "Wescan Energy Corp.",
+     "symbol": "WCE"
     }
    ]
   },
@@ -31942,18 +31954,6 @@
    ]
   },
   {
-   "symbol": "HESG",
-   "name": "Harvest ESG Equity Income Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HESG.TO",
-   "instruments": [
-    {
-     "name": "Harvest ESG EqIncm A",
-     "symbol": "HESG"
-    }
-   ]
-  },
-  {
    "symbol": "HGGG",
    "name": "Harvest Global Gold Giants Index ETF",
    "exchange": "TSX",
@@ -38526,14 +38526,14 @@
    ]
   },
   {
-   "symbol": "NHF.UN",
-   "name": "Northview Fund",
+   "symbol": "NRR.UN",
+   "name": "Northview Residential REIT",
    "exchange": "TSX",
-   "yahoo_symbol": "NHF.UN.TO",
+   "yahoo_symbol": "NRR.UN.TO",
    "instruments": [
     {
      "name": "Northview Fund A Un",
-     "symbol": "NHF.UN"
+     "symbol": "NRR.UN"
     }
    ]
   },
@@ -46048,6 +46048,12 @@
    "yahoo_symbol": "ALLT"
   },
   {
+   "symbol": "ALNT",
+   "name": "Allient Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALNT"
+  },
+  {
    "symbol": "ALNY",
    "name": "Alnylam Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -46270,6 +46276,12 @@
    "yahoo_symbol": "AMD"
   },
   {
+   "symbol": "AMDS",
+   "name": "GraniteShares 1x Short AMD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDS"
+  },
+  {
    "symbol": "AMED",
    "name": "Amedisys Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -46316,12 +46328,6 @@
    "name": "American National Bankshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AMNB"
-  },
-  {
-   "symbol": "AMOT",
-   "name": "Allied Motion Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMOT"
   },
   {
    "symbol": "AMPG",
@@ -49976,12 +49982,6 @@
    "name": "Chain Bridge I - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CBRGU"
-  },
-  {
-   "symbol": "CBRGW",
-   "name": "Chain Bridge I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CBRGW"
   },
   {
    "symbol": "CBRL",
@@ -55468,6 +55468,12 @@
    "yahoo_symbol": "FMST"
   },
   {
+   "symbol": "FMSTW",
+   "name": "Foremost Lithium Resource \u0026 Technology Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FMSTW"
+  },
+  {
    "symbol": "FNCB",
    "name": "FNCB Bancorp Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -55676,12 +55682,6 @@
    "name": "First Bank  - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FRBA"
-  },
-  {
-   "symbol": "FRBK",
-   "name": "Republic First Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRBK"
   },
   {
    "symbol": "FRBN",
@@ -64540,6 +64540,12 @@
    "yahoo_symbol": "NVCT"
   },
   {
+   "symbol": "NVD",
+   "name": "GraniteShares 1.5x Short NVDA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVD"
+  },
+  {
    "symbol": "NVDA",
    "name": "NVIDIA Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72634,6 +72640,12 @@
    "yahoo_symbol": "TSCO"
   },
   {
+   "symbol": "TSDD",
+   "name": "GraniteShares 1.5x Short TSLA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSDD"
+  },
+  {
    "symbol": "TSEM",
    "name": "Tower Semiconductor Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72668,6 +72680,12 @@
    "name": "AXS TSLA Bear Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TSLQ"
+  },
+  {
+   "symbol": "TSLR",
+   "name": "GraniteShares 1.75x Long TSLA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLR"
   },
   {
    "symbol": "TSLS",
@@ -75358,12 +75376,6 @@
    "yahoo_symbol": "YTRA"
   },
   {
-   "symbol": "YVR",
-   "name": "Liquid Media Group Ltd. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YVR"
-  },
-  {
    "symbol": "YY",
    "name": "JOYY Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -75446,24 +75458,6 @@
    "name": "ZimVie Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ZIMV"
-  },
-  {
-   "symbol": "ZING",
-   "name": "FTAC Zeus Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZING"
-  },
-  {
-   "symbol": "ZINGU",
-   "name": "FTAC Zeus Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZINGU"
-  },
-  {
-   "symbol": "ZINGW",
-   "name": "FTAC Zeus Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZINGW"
   },
   {
    "symbol": "ZION",
@@ -79426,6 +79420,12 @@
    "yahoo_symbol": "CBD"
   },
   {
+   "symbol": "CBD.V",
+   "name": "Companhia Brasileira de Distribuicao American Depositary Shares (Each representing one Common Share) When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CBD.V"
+  },
+  {
    "symbol": "CBH",
    "name": "Virtus Convertible \u0026 Income 2024 Target Term Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -83006,6 +83006,12 @@
    "name": "Extra Space Storage Inc Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "EXR"
+  },
+  {
+   "symbol": "EXTO.V",
+   "name": "Almacenes Exito S.A. American Depositary Share, each representing eight (8) Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EXTO.V"
   },
   {
    "symbol": "F",
@@ -96236,12 +96242,6 @@
    "name": "WeWork Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "WE"
-  },
-  {
-   "symbol": "WE.W",
-   "name": "WeWork Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WE.W"
   },
   {
    "symbol": "WEA",
