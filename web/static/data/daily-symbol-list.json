@@ -1,5 +1,5 @@
 {
- "date": "2023-08-23",
+ "date": "2023-08-24",
  "data": [
   {
    "symbol": "ONE",
@@ -38532,7 +38532,7 @@
    "yahoo_symbol": "NRR.UN.TO",
    "instruments": [
     {
-     "name": "Northview Fund A Un",
+     "name": "Northview Res REIT A",
      "symbol": "NRR.UN"
     }
    ]
@@ -46398,7 +46398,7 @@
   {
    "symbol": "AMTI",
    "name": "Applied Molecular Transport Inc. - common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AMTI"
   },
   {
@@ -46634,18 +46634,6 @@
    "name": "Apogee Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "APGE"
-  },
-  {
-   "symbol": "APGN",
-   "name": "Apexigen, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APGN"
-  },
-  {
-   "symbol": "APGNW",
-   "name": "Apexigen, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APGNW"
   },
   {
    "symbol": "API",
@@ -47584,24 +47572,6 @@
    "yahoo_symbol": "AURA"
   },
   {
-   "symbol": "AURC",
-   "name": "Aurora Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AURC"
-  },
-  {
-   "symbol": "AURCU",
-   "name": "Aurora Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AURCU"
-  },
-  {
-   "symbol": "AURCW",
-   "name": "Aurora Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AURCW"
-  },
-  {
    "symbol": "AUROW",
    "name": "Aurora Innovation, Inc.  - Warrant",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48206,6 +48176,18 @@
    "name": "Beneficient - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BENFW"
+  },
+  {
+   "symbol": "BETR",
+   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BETR"
+  },
+  {
+   "symbol": "BETRW",
+   "name": "Better Home \u0026 Finance Holding Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BETRW"
   },
   {
    "symbol": "BFC",
@@ -56998,18 +56980,6 @@
    "yahoo_symbol": "GMGI"
   },
   {
-   "symbol": "GMVD",
-   "name": "G Medical Innovations Holdings Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GMVD"
-  },
-  {
-   "symbol": "GMVDW",
-   "name": "G Medical Innovations Holdings Ltd. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GMVDW"
-  },
-  {
    "symbol": "GNFT",
    "name": "GENFIT S.A. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61280,6 +61250,12 @@
    "name": "Largo Inc. - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LGO"
+  },
+  {
+   "symbol": "LGRO",
+   "name": "Level Four Large Cap Growth Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGRO"
   },
   {
    "symbol": "LGST",
@@ -76162,18 +76138,6 @@
    "yahoo_symbol": "AG"
   },
   {
-   "symbol": "AGAC",
-   "name": "African Gold Acquisition Corporation Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AGAC"
-  },
-  {
-   "symbol": "AGAC.U",
-   "name": "African Gold Acquisition Corporation Units, each consisting of one Class A ordinary share and three-quarters of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AGAC.U"
-  },
-  {
    "symbol": "AGCO",
    "name": "AGCO Corporation Common Stock",
    "exchange": "NYSE",
@@ -83554,12 +83518,6 @@
    "yahoo_symbol": "FOR"
   },
   {
-   "symbol": "FORG",
-   "name": "ForgeRock, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FORG"
-  },
-  {
    "symbol": "FOUR",
    "name": "Shift4 Payments, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -86344,12 +86302,6 @@
    "yahoo_symbol": "JNJ"
   },
   {
-   "symbol": "JNJ.Z",
-   "name": "Johnson \u0026 Johnson Common Stock When-Distributed",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JNJ.Z"
-  },
-  {
    "symbol": "JNPR",
    "name": "Juniper Networks, Inc. Common Stock",
    "exchange": "NYSE",
@@ -86990,12 +86942,6 @@
    "name": "Kenvue Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "KVUE"
-  },
-  {
-   "symbol": "KVUE.V",
-   "name": "Kenvue Inc. Common Stock When Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KVUE.V"
   },
   {
    "symbol": "KW",
@@ -87797,13 +87743,13 @@
   },
   {
    "symbol": "MDV",
-   "name": "Modiv Inc. Class C Common Stock",
+   "name": "Modiv Industrial, Inc. Class C Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MDV"
   },
   {
    "symbol": "MDV$A",
-   "name": "Modiv Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "name": "Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MDV$A"
   },

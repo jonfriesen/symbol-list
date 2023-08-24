@@ -1,174 +1,108 @@
 {
  "added": [
   {
-   "symbol": "INFM",
-   "name": "Infinico Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "INFM.V",
-   "instruments": [
-    {
-     "name": "Infinico Metals Corp.",
-     "symbol": "INFM"
-    }
-   ]
-  },
-  {
-   "symbol": "WCE",
-   "name": "Wescan Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WCE.V",
-   "instruments": [
-    {
-     "name": "Wescan Energy Corp.",
-     "symbol": "WCE"
-    }
-   ]
-  },
-  {
-   "symbol": "NRR.UN",
-   "name": "Northview Residential REIT",
-   "exchange": "TSX",
-   "yahoo_symbol": "NRR.UN.TO",
-   "instruments": [
-    {
-     "name": "Northview Fund A Un",
-     "symbol": "NRR.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "ALNT",
-   "name": "Allient Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALNT"
-  },
-  {
-   "symbol": "AMDS",
-   "name": "GraniteShares 1x Short AMD Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMDS"
-  },
-  {
-   "symbol": "FMSTW",
-   "name": "Foremost Lithium Resource \u0026 Technology Ltd. - Warrant",
+   "symbol": "AMTI",
+   "name": "Applied Molecular Transport Inc. - common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FMSTW"
+   "yahoo_symbol": "AMTI"
   },
   {
-   "symbol": "NVD",
-   "name": "GraniteShares 1.5x Short NVDA Daily ETF",
+   "symbol": "BETR",
+   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NVD"
+   "yahoo_symbol": "BETR"
   },
   {
-   "symbol": "TSDD",
-   "name": "GraniteShares 1.5x Short TSLA Daily ETF",
+   "symbol": "BETRW",
+   "name": "Better Home \u0026 Finance Holding Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BETRW"
+  },
+  {
+   "symbol": "LGRO",
+   "name": "Level Four Large Cap Growth Active ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSDD"
-  },
-  {
-   "symbol": "TSLR",
-   "name": "GraniteShares 1.75x Long TSLA Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSLR"
-  },
-  {
-   "symbol": "CBD.V",
-   "name": "Companhia Brasileira de Distribuicao American Depositary Shares (Each representing one Common Share) When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CBD.V"
-  },
-  {
-   "symbol": "EXTO.V",
-   "name": "Almacenes Exito S.A. American Depositary Share, each representing eight (8) Common Shares When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EXTO.V"
+   "yahoo_symbol": "LGRO"
   }
  ],
  "removed": [
   {
-   "symbol": "HESG",
-   "name": "Harvest ESG Equity Income Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HESG.TO",
-   "instruments": [
-    {
-     "name": "Harvest ESG EqIncm A",
-     "symbol": "HESG"
-    }
-   ]
-  },
-  {
-   "symbol": "BURG",
-   "name": "Burin Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BURG.V",
-   "instruments": [
-    {
-     "name": "Burin Gold Corp.",
-     "symbol": "BURG"
-    }
-   ]
-  },
-  {
-   "symbol": "FRBK",
-   "name": "Republic First Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRBK"
-  },
-  {
-   "symbol": "NHF.UN",
-   "name": "Northview Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "NHF.UN.TO",
-   "instruments": [
-    {
-     "name": "Northview Fund A Un",
-     "symbol": "NHF.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "YVR",
-   "name": "Liquid Media Group Ltd. - Common Shares",
+   "symbol": "APGN",
+   "name": "Apexigen, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YVR"
+   "yahoo_symbol": "APGN"
   },
   {
-   "symbol": "AMOT",
-   "name": "Allied Motion Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMOT"
-  },
-  {
-   "symbol": "ZING",
-   "name": "FTAC Zeus Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZING"
-  },
-  {
-   "symbol": "ZINGU",
-   "name": "FTAC Zeus Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZINGU"
-  },
-  {
-   "symbol": "ZINGW",
-   "name": "FTAC Zeus Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZINGW"
-  },
-  {
-   "symbol": "WE.W",
-   "name": "WeWork Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "symbol": "AGAC",
+   "name": "African Gold Acquisition Corporation Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "WE.W"
+   "yahoo_symbol": "AGAC"
   },
   {
-   "symbol": "CBRGW",
-   "name": "Chain Bridge I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CBRGW"
+   "symbol": "AURC",
+   "name": "Aurora Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AURC"
+  },
+  {
+   "symbol": "KVUE.V",
+   "name": "Kenvue Inc. Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KVUE.V"
+  },
+  {
+   "symbol": "APGNW",
+   "name": "Apexigen, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APGNW"
+  },
+  {
+   "symbol": "AGAC.U",
+   "name": "African Gold Acquisition Corporation Units, each consisting of one Class A ordinary share and three-quarters of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGAC.U"
+  },
+  {
+   "symbol": "AMTI",
+   "name": "Applied Molecular Transport Inc. - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMTI"
+  },
+  {
+   "symbol": "GMVD",
+   "name": "G Medical Innovations Holdings Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMVD"
+  },
+  {
+   "symbol": "FORG",
+   "name": "ForgeRock, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FORG"
+  },
+  {
+   "symbol": "AURCW",
+   "name": "Aurora Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AURCW"
+  },
+  {
+   "symbol": "JNJ.Z",
+   "name": "Johnson \u0026 Johnson Common Stock When-Distributed",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JNJ.Z"
+  },
+  {
+   "symbol": "AURCU",
+   "name": "Aurora Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AURCU"
+  },
+  {
+   "symbol": "GMVDW",
+   "name": "G Medical Innovations Holdings Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMVDW"
   }
  ]
 }
