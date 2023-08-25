@@ -1,5 +1,5 @@
 {
- "date": "2023-08-24",
+ "date": "2023-08-25",
  "data": [
   {
    "symbol": "ONE",
@@ -2154,18 +2154,6 @@
     {
      "name": "Bemetals Corp.",
      "symbol": "BMET"
-    }
-   ]
-  },
-  {
-   "symbol": "BNCH",
-   "name": "Benchmark Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BNCH.V",
-   "instruments": [
-    {
-     "name": "Benchmark Metals Inc.",
-     "symbol": "BNCH"
     }
    ]
   },
@@ -5974,18 +5962,6 @@
     {
      "name": "Eskay Mining Corp",
      "symbol": "ESK"
-    }
-   ]
-  },
-  {
-   "symbol": "ESX",
-   "name": "Essex Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ESX.V",
-   "instruments": [
-    {
-     "name": "Essex Minerals Inc.",
-     "symbol": "ESX"
     }
    ]
   },
@@ -13226,6 +13202,18 @@
    ]
   },
   {
+   "symbol": "OPTG",
+   "name": "Optegra Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPTG.V",
+   "instruments": [
+    {
+     "name": "Optegra Ventures Inc.",
+     "symbol": "OPTG"
+    }
+   ]
+  },
+  {
    "symbol": "OPV",
    "name": "Optimum Ventures Ltd.",
    "exchange": "TSXV",
@@ -17767,12 +17755,12 @@
   },
   {
    "symbol": "TAU",
-   "name": "Thesis Gold (Holdings) Inc.",
+   "name": "Thesis Gold Inc",
    "exchange": "TSXV",
    "yahoo_symbol": "TAU.V",
    "instruments": [
     {
-     "name": "Thesis Gold (Holdings) Inc.",
+     "name": "Thesis Gold Inc",
      "symbol": "TAU"
     }
    ]
@@ -32402,8 +32390,20 @@
    ]
   },
   {
+   "symbol": "HEQT",
+   "name": "Horizons All-Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEQT.TO",
+   "instruments": [
+    {
+     "name": "Horizon GrowTRI A Un",
+     "symbol": "HEQT"
+    }
+   ]
+  },
+  {
    "symbol": "HBAL",
-   "name": "Horizons Balanced TRI ETF Portfolio",
+   "name": "Horizons Balanced Asset Allocation ETF",
    "exchange": "TSX",
    "yahoo_symbol": "HBAL.TO",
    "instruments": [
@@ -32515,7 +32515,7 @@
   },
   {
    "symbol": "HCON",
-   "name": "Horizons Conservative TRI ETF Portfolio",
+   "name": "Horizons Conservative Asset Allocation ETF",
    "exchange": "TSX",
    "yahoo_symbol": "HCON.TO",
    "instruments": [
@@ -32806,18 +32806,6 @@
     {
      "name": "Horizons GldYld E Un",
      "symbol": "HGY"
-    }
-   ]
-  },
-  {
-   "symbol": "HGRO",
-   "name": "Horizons Growth TRI ETF Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "HGRO.TO",
-   "instruments": [
-    {
-     "name": "Horizon GrowTRI A Un",
-     "symbol": "HGRO"
     }
    ]
   },
@@ -60904,12 +60892,6 @@
    "yahoo_symbol": "LATGU"
   },
   {
-   "symbol": "LATGW",
-   "name": "LatAmGrowth SPAC - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LATGW"
-  },
-  {
    "symbol": "LAUR",
    "name": "Laureate Education, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -76906,12 +76888,6 @@
    "yahoo_symbol": "APD"
   },
   {
-   "symbol": "APE",
-   "name": "AMC Entertainment Holdings, Inc. AMC Preferred Equity Units, each constituting a depositary share representing a 1/100th interest in a share of Series A Convertible Participating Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APE"
-  },
-  {
    "symbol": "APG",
    "name": "APi Group Corporation Common Stock",
    "exchange": "NYSE",
@@ -84104,24 +84080,6 @@
    "name": "Graf Acquisition Corp. IV Warrants",
    "exchange": "NYSE",
    "yahoo_symbol": "GFOR.W"
-  },
-  {
-   "symbol": "GFX",
-   "name": "Golden Falcon Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFX"
-  },
-  {
-   "symbol": "GFX.U",
-   "name": "Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFX.U"
-  },
-  {
-   "symbol": "GFX.W",
-   "name": "Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFX.W"
   },
   {
    "symbol": "GGB",
@@ -96092,24 +96050,6 @@
    "name": "Waters Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "WAT"
-  },
-  {
-   "symbol": "WAVC",
-   "name": "Waverley Capital Acquisition Corp. 1 Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WAVC"
-  },
-  {
-   "symbol": "WAVC.U",
-   "name": "Waverley Capital Acquisition Corp. 1 Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WAVC.U"
-  },
-  {
-   "symbol": "WAVC.W",
-   "name": "Waverley Capital Acquisition Corp. 1 Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WAVC.W"
   },
   {
    "symbol": "WBS",

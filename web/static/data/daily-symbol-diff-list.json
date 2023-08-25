@@ -1,108 +1,114 @@
 {
  "added": [
   {
-   "symbol": "AMTI",
-   "name": "Applied Molecular Transport Inc. - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMTI"
+   "symbol": "OPTG",
+   "name": "Optegra Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPTG.V",
+   "instruments": [
+    {
+     "name": "Optegra Ventures Inc.",
+     "symbol": "OPTG"
+    }
+   ]
   },
   {
-   "symbol": "BETR",
-   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BETR"
-  },
-  {
-   "symbol": "BETRW",
-   "name": "Better Home \u0026 Finance Holding Company - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BETRW"
-  },
-  {
-   "symbol": "LGRO",
-   "name": "Level Four Large Cap Growth Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LGRO"
+   "symbol": "HEQT",
+   "name": "Horizons All-Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEQT.TO",
+   "instruments": [
+    {
+     "name": "Horizon GrowTRI A Un",
+     "symbol": "HEQT"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "APGN",
-   "name": "Apexigen, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APGN"
+   "symbol": "LATGW",
+   "name": "LatAmGrowth SPAC - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATGW"
   },
   {
-   "symbol": "AGAC",
-   "name": "African Gold Acquisition Corporation Class A Ordinary Shares",
+   "symbol": "WAVC",
+   "name": "Waverley Capital Acquisition Corp. 1 Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "AGAC"
+   "yahoo_symbol": "WAVC"
   },
   {
-   "symbol": "AURC",
-   "name": "Aurora Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AURC"
-  },
-  {
-   "symbol": "KVUE.V",
-   "name": "Kenvue Inc. Common Stock When Issued",
+   "symbol": "GFX.W",
+   "name": "Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
    "exchange": "NYSE",
-   "yahoo_symbol": "KVUE.V"
+   "yahoo_symbol": "GFX.W"
   },
   {
-   "symbol": "APGNW",
-   "name": "Apexigen, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APGNW"
-  },
-  {
-   "symbol": "AGAC.U",
-   "name": "African Gold Acquisition Corporation Units, each consisting of one Class A ordinary share and three-quarters of one redeemable warrant",
+   "symbol": "GFX.U",
+   "name": "Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "AGAC.U"
+   "yahoo_symbol": "GFX.U"
   },
   {
-   "symbol": "AMTI",
-   "name": "Applied Molecular Transport Inc. - common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AMTI"
-  },
-  {
-   "symbol": "GMVD",
-   "name": "G Medical Innovations Holdings Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GMVD"
-  },
-  {
-   "symbol": "FORG",
-   "name": "ForgeRock, Inc. Class A Common Stock",
+   "symbol": "GFX",
+   "name": "Golden Falcon Acquisition Corp. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "FORG"
+   "yahoo_symbol": "GFX"
   },
   {
-   "symbol": "AURCW",
-   "name": "Aurora Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AURCW"
-  },
-  {
-   "symbol": "JNJ.Z",
-   "name": "Johnson \u0026 Johnson Common Stock When-Distributed",
+   "symbol": "APE",
+   "name": "AMC Entertainment Holdings, Inc. AMC Preferred Equity Units, each constituting a depositary share representing a 1/100th interest in a share of Series A Convertible Participating Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "JNJ.Z"
+   "yahoo_symbol": "APE"
   },
   {
-   "symbol": "AURCU",
-   "name": "Aurora Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AURCU"
+   "symbol": "HGRO",
+   "name": "Horizons Growth TRI ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGRO.TO",
+   "instruments": [
+    {
+     "name": "Horizon GrowTRI A Un",
+     "symbol": "HGRO"
+    }
+   ]
   },
   {
-   "symbol": "GMVDW",
-   "name": "G Medical Innovations Holdings Ltd. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GMVDW"
+   "symbol": "WAVC.W",
+   "name": "Waverley Capital Acquisition Corp. 1 Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WAVC.W"
+  },
+  {
+   "symbol": "ESX",
+   "name": "Essex Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESX.V",
+   "instruments": [
+    {
+     "name": "Essex Minerals Inc.",
+     "symbol": "ESX"
+    }
+   ]
+  },
+  {
+   "symbol": "BNCH",
+   "name": "Benchmark Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BNCH.V",
+   "instruments": [
+    {
+     "name": "Benchmark Metals Inc.",
+     "symbol": "BNCH"
+    }
+   ]
+  },
+  {
+   "symbol": "WAVC.U",
+   "name": "Waverley Capital Acquisition Corp. 1 Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WAVC.U"
   }
  ]
 }

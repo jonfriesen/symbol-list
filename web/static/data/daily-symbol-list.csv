@@ -176,7 +176,6 @@ BFM,Bedford Metals Corp.,TSXV,BFM.V,Bedford Metals Corp.,BFM
 BCU,Bell Copper Corporation,TSXV,BCU.V,Bell Copper Corporation,BCU
 BEA,Belmont Resources Inc.,TSXV,BEA.V,Belmont Resources Inc.,BEA
 BMET,Bemetals Corp.,TSXV,BMET.V,Bemetals Corp.,BMET
-BNCH,Benchmark Metals Inc.,TSXV,BNCH.V,Benchmark Metals Inc.,BNCH
 BEX,Benton Resources Inc.,TSXV,BEX.V,Benton Resources Inc.,BEX
 BZ,Benz Mining Corp.,TSXV,BZ.V,Benz Mining Corp.,BZ
 BEW,BeWhere Holdings Inc.,TSXV,BEW.V,BeWhere Holdings Inc.,BEW
@@ -491,7 +490,6 @@ EQTY,Equity Metals Corporation,TSXV,EQTY.V,Equity Metals Corporation,EQTY
 ERC,Eros Resources Corp.,TSXV,ERC.V,Eros Resources Corp.,ERC
 ESE,ESE Entertainment Inc.,TSXV,ESE.V,ESE Entertainment Inc.,ESE
 ESK,Eskay Mining Corp.,TSXV,ESK.V,Eskay Mining Corp,ESK
-ESX,Essex Minerals Inc.,TSXV,ESX.V,Essex Minerals Inc.,ESX
 ESS,Esstra Industries Inc.,TSXV,ESS.V,Esstra Industries Inc.,ESS
 EBCD.P,Eureka Capital Corp.,TSXV,EBCD.P.V,Eureka Capital Corp.,EBCD.P
 EMN,Euro Manganese Inc.,TSXV,EMN.V,Euro Manganese Inc.,EMN
@@ -1084,6 +1082,7 @@ OOOO,OOOOO Entertainment Commerce Limited,TSXV,OOOO.V,OOOOO Entertainment Commer
 OPW,Opawica Explorations Inc.,TSXV,OPW.V,Opawica Explorations Inc.,OPW
 OPEN.P,OpenSesame Acquisition Corp.,TSXV,OPEN.P.V,OpenSesame Acquisition Corp.,OPEN.P
 OPHR,Ophir Gold Corp.,TSXV,OPHR.V,Ophir Gold Corp.,OPHR
+OPTG,Optegra Ventures Inc.,TSXV,OPTG.V,Optegra Ventures Inc.,OPTG
 OPV,Optimum Ventures Ltd.,TSXV,OPV.V,Optimum Ventures Ltd.,OPV
 OOR,Opus One Gold Corporation,TSXV,OOR.V,Opus One Gold Corporation,OOR
 ORC.A,Orca Energy Group Inc.,TSXV,ORC.A.V,Orca Energy Group Inc. ser A,ORC.A,Orca Energy Group Inc. ser B,ORC.B
@@ -1454,7 +1453,7 @@ MAC,Themac Resources Group Limited,TSXV,MAC.V,Themac Resources Group Limited,MAC
 TLT,Theralase Technologies Inc.,TSXV,TLT.V,Theralase Technologies Inc.,TLT,Theralase Technologies Inc. wt 22Aug2024,TLT.WT
 THRM,Therma Bright Inc.,TSXV,THRM.V,Therma Bright Inc.,THRM
 TMG,Thermal Energy International Inc.,TSXV,TMG.V,Thermal Energy International Inc.,TMG
-TAU,Thesis Gold (Holdings) Inc.,TSXV,TAU.V,Thesis Gold (Holdings) Inc.,TAU
+TAU,Thesis Gold Inc,TSXV,TAU.V,Thesis Gold Inc,TAU
 THNK,Think Research Corporation,TSXV,THNK.V,Think Research Corporation,THNK
 TTI,"Thiogenesis Therapeutics, Corp.",TSXV,TTI.V,"Thiogenesis Therapeutics, Corp.",TTI
 THX,Thor Explorations Ltd.,TSXV,THX.V,Thor Explorations Ltd,THX
@@ -2519,7 +2518,8 @@ HYBR,Horizons Active Hybrid Bond and Preferred Share ETF,TSX,HYBR.TO,Horizn Actv
 HPR,Horizons Active Preferred Share ETF,TSX,HPR.TO,Horizon Pref Cl E Un,HPR
 HFR,Horizons Active Ultra-Short Term Investment Grade Bond ETF,TSX,HFR.TO,Horizon ActUltST Bnd,HFR
 HUF,Horizons Active Ultra-Short Term US Investment Grade Bond ETF,TSX,HUF.TO,Horizons UltST USBnd,HUF,Horizons UltST BndUS,HUF.U
-HBAL,Horizons Balanced TRI ETF Portfolio,TSX,HBAL.TO,Horizons Bal TRI A,HBAL
+HEQT,Horizons All-Equity Asset Allocation ETF,TSX,HEQT.TO,Horizon GrowTRI A Un,HEQT
+HBAL,Horizons Balanced Asset Allocation ETF,TSX,HBAL.TO,Horizons Bal TRI A,HBAL
 HBGD,Horizons Big Data & Hardware Index ETF,TSX,HBGD.TO,HoriznBigDataHrdwr A,HBGD,HoriznBigDataHrdwrUS,HBGD.U
 CNCC,Horizons Canadian Large Cap Equity Covered Call ETF,TSX,CNCC.TO,HorizonCA LrgCapEq E,CNCC
 ENCC,Horizons Canadian Oil and Gas Equity Covered Call ETF,TSX,ENCC.TO,HoriznCA O&G EqCal E,ENCC
@@ -2528,7 +2528,7 @@ CARB,Horizons Carbon Credits ETF,TSX,CARB.TO,Horizons CarbonCredt,CARB
 HSAV,Horizons Cash Maximizer ETF,TSX,HSAV.TO,Horizons CshMaxShare,HSAV
 HXH,Horizons Cdn High Dividend Index ETF,TSX,HXH.TO,Horizons CdnHiDivShr,HXH
 HBB,Horizons Cdn Select Universe Bond ETF,TSX,HBB.TO,Horizon Cdn SlctUniv,HBB
-HCON,Horizons Conservative TRI ETF Portfolio,TSX,HCON.TO,Horizons ConservTRI,HCON
+HCON,Horizons Conservative Asset Allocation ETF,TSX,HCON.TO,Horizons ConservTRI,HCON
 COPP,Horizons Copper Producers Index ETF,TSX,COPP.TO,Horizons Copper A Un,COPP
 HUC,Horizons Crude Oil ETF,TSX,HUC.TO,Horizons CrudOil ETF,HUC
 HXEM,Horizons Emerging Markets Equity Index ETF,TSX,HXEM.TO,Horizons EmergMkt Eq,HXEM
@@ -2552,7 +2552,6 @@ HURA,Horizons Global Uranium Index ETF,TSX,HURA.TO,Horizon GlbUranium A,HURA
 HUG,Horizons Gold ETF,TSX,HUG.TO,Horizons Gold ETF,HUG
 GLCC,Horizons Gold Producer Equity Covered Call ETF,TSX,GLCC.TO,Horizn Gld EqCvCll E,GLCC
 HGY,Horizons Gold Yield ETF,TSX,HGY.TO,Horizons GldYld E Un,HGY
-HGRO,Horizons Growth TRI ETF Portfolio,TSX,HGRO.TO,Horizon GrowTRI A Un,HGRO
 HBUG,Horizons GX Cybersecurity Index ETF,TSX,HBUG.TO,HorizonsGX CybrsecUn,HBUG
 CASH,Horizons High Interest Savings ETF,TSX,CASH.TO,Horizons HiIntSvgs A,CASH
 FOUR,Horizons Industry 4.0 Index ETF,TSX,FOUR.TO,Horizons Indust A Un,FOUR
@@ -6133,7 +6132,6 @@ LASE,Laser Photonics Corporation - Common Stock,NASDAQ Capital Market,LASE
 LASR,"nLIGHT, Inc. - Common Stock",NASDAQ Global Select MarketSM,LASR
 LATG,LatAmGrowth SPAC - Class A Ordinary Shares,NASDAQ Global MarketSM,LATG
 LATGU,LatAmGrowth SPAC - Units,NASDAQ Global MarketSM,LATGU
-LATGW,LatAmGrowth SPAC - Warrants,NASDAQ Global MarketSM,LATGW
 LAUR,"Laureate Education, Inc. - Common Stock",NASDAQ Global Select MarketSM,LAUR
 LAZR,"Luminar Technologies, Inc.  - Class A Common Stock",NASDAQ Global Select MarketSM,LAZR
 LAZY,"Lazydays Holdings, Inc. - Common Stock",NASDAQ Capital Market,LAZY
@@ -8800,7 +8798,6 @@ APCA,AP Acquisition Corp Class A Ordinary Shares,NYSE,APCA
 APCA.U,"AP Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,APCA.U
 APCA.W,"AP Acquisition Corp Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,APCA.W
 APD,"Air Products and Chemicals, Inc. Common Stock",NYSE,APD
-APE,"AMC Entertainment Holdings, Inc. AMC Preferred Equity Units, each constituting a depositary share representing a 1/100th interest in a share of Series A Convertible Participating Preferred Stock",NYSE,APE
 APG,APi Group Corporation Common Stock,NYSE,APG
 APGB,Apollo Strategic Growth Capital II Class A Ordinary Shares,NYSE,APGB
 APGB.U,"Apollo Strategic Growth Capital II Units, each consisting of one Class A Ordinary Share and one-fifth Warrant",NYSE,APGB.U
@@ -10000,9 +9997,6 @@ GFL,"GFL Environmental Inc. Subordinate voting shares, no par value",NYSE,GFL
 GFOR,Graf Acquisition Corp. IV Common Stock,NYSE,GFOR
 GFOR.U,Graf Acquisition Corp. IV Units,NYSE,GFOR.U
 GFOR.W,Graf Acquisition Corp. IV Warrants,NYSE,GFOR.W
-GFX,Golden Falcon Acquisition Corp. Class A Common Stock,NYSE,GFX
-GFX.U,"Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant",NYSE,GFX.U
-GFX.W,"Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",NYSE,GFX.W
 GGB,Gerdau S.A. Common Stock,NYSE,GGB
 GGG,Graco Inc. Common Stock,NYSE,GGG
 GGN,"GAMCO Global Gold, Natural Resources & Income Trust",NYSE MKT,GGN
@@ -11998,9 +11992,6 @@ WAB,Westinghouse Air Brake Technologies Corporation Common Stock,NYSE,WAB
 WAL,Western Alliance Bancorporation Common Stock (DE),NYSE,WAL
 WAL$A,"Western Alliance Bancorporation Depositary Shares, Each Representing a 1/400th Interest in a Share of 4.250% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NYSE,WAL$A
 WAT,Waters Corporation Common Stock,NYSE,WAT
-WAVC,Waverley Capital Acquisition Corp. 1 Class A Ordinary Shares,NYSE,WAVC
-WAVC.U,"Waverley Capital Acquisition Corp. 1 Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",NYSE,WAVC.U
-WAVC.W,"Waverley Capital Acquisition Corp. 1 Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",NYSE,WAVC.W
 WBS,Webster Financial Corporation Common Stock,NYSE,WBS
 WBS$F,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",NYSE,WBS$F
 WBS$G,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",NYSE,WBS$G
