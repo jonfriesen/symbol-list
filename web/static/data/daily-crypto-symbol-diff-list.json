@@ -1,23 +1,13 @@
 {
  "added": [
   {
-   "symbol": "BZR",
-   "name": "Bazaars (BZR)",
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "FDUSD",
+   "name": "First Digital USD (FDUSD)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "WXT",
-   "name": "WXT (WXT)",
-   "built_on": "XLM"
   },
   {
    "symbol": "BANK",
@@ -25,14 +15,13 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  }
- ],
- "removed": [
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
   {
-   "symbol": "WXT",
-   "name": "WXT (WXT)",
+   "symbol": "X",
+   "name": "AI-X (X)",
    "built_on": "ETH"
   }
  ]

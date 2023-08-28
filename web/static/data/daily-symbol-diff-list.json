@@ -1,114 +1,96 @@
 {
  "added": [
   {
-   "symbol": "OPTG",
-   "name": "Optegra Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OPTG.V",
-   "instruments": [
-    {
-     "name": "Optegra Ventures Inc.",
-     "symbol": "OPTG"
-    }
-   ]
+   "symbol": "GOVI",
+   "name": "Invesco Equal Weight 0-30 Year Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GOVI"
   },
   {
-   "symbol": "HEQT",
-   "name": "Horizons All-Equity Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEQT.TO",
-   "instruments": [
-    {
-     "name": "Horizon GrowTRI A Un",
-     "symbol": "HEQT"
-    }
-   ]
+   "symbol": "BEEP",
+   "name": "Mobile Infrastructure Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BEEP"
   }
  ],
  "removed": [
   {
-   "symbol": "LATGW",
-   "name": "LatAmGrowth SPAC - Warrants",
+   "symbol": "PNACU",
+   "name": "Prime Number Acquisition I Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LATGW"
+   "yahoo_symbol": "PNACU"
   },
   {
-   "symbol": "WAVC",
-   "name": "Waverley Capital Acquisition Corp. 1 Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WAVC"
+   "symbol": "PNACR",
+   "name": "Prime Number Acquisition I Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PNACR"
   },
   {
-   "symbol": "GFX.W",
-   "name": "Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFX.W"
+   "symbol": "PNACW",
+   "name": "Prime Number Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PNACW"
   },
   {
-   "symbol": "GFX.U",
-   "name": "Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFX.U"
+   "symbol": "SEAC",
+   "name": "SeaChange International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEAC"
   },
   {
-   "symbol": "GFX",
-   "name": "Golden Falcon Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFX"
+   "symbol": "FGMC",
+   "name": "FG Merger Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMC"
   },
   {
-   "symbol": "APE",
-   "name": "AMC Entertainment Holdings, Inc. AMC Preferred Equity Units, each constituting a depositary share representing a 1/100th interest in a share of Series A Convertible Participating Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APE"
+   "symbol": "FWAC",
+   "name": "Fifth Wall Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWAC"
   },
   {
-   "symbol": "HGRO",
-   "name": "Horizons Growth TRI ETF Portfolio",
+   "symbol": "FGMCW",
+   "name": "FG Merger Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMCW"
+  },
+  {
+   "symbol": "PNAC",
+   "name": "Prime Number Acquisition I Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PNAC"
+  },
+  {
+   "symbol": "HEAL",
+   "name": "Purpose Healthcare Innovation Yield Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "HGRO.TO",
+   "yahoo_symbol": "HEAL.TO",
    "instruments": [
     {
-     "name": "Horizon GrowTRI A Un",
-     "symbol": "HGRO"
+     "name": "Purpose HlthcrInnov",
+     "symbol": "HEAL"
     }
    ]
   },
   {
-   "symbol": "WAVC.W",
-   "name": "Waverley Capital Acquisition Corp. 1 Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "symbol": "FXLV",
+   "name": "F45 Training Holdings Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "WAVC.W"
+   "yahoo_symbol": "FXLV"
   },
   {
-   "symbol": "ESX",
-   "name": "Essex Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ESX.V",
-   "instruments": [
-    {
-     "name": "Essex Minerals Inc.",
-     "symbol": "ESX"
-    }
-   ]
+   "symbol": "FGMCU",
+   "name": "FG Merger Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMCU"
   },
   {
-   "symbol": "BNCH",
-   "name": "Benchmark Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BNCH.V",
-   "instruments": [
-    {
-     "name": "Benchmark Metals Inc.",
-     "symbol": "BNCH"
-    }
-   ]
-  },
-  {
-   "symbol": "WAVC.U",
-   "name": "Waverley Capital Acquisition Corp. 1 Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WAVC.U"
+   "symbol": "PLW",
+   "name": "Invesco 1-30 Laddered Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLW"
   }
  ]
 }
