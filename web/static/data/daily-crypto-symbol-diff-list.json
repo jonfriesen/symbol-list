@@ -5,16 +5,18 @@
    "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
-  },
-  {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
   }
  ]
 }

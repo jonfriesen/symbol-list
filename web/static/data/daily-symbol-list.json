@@ -1,5 +1,5 @@
 {
- "date": "2023-08-30",
+ "date": "2023-08-31",
  "data": [
   {
    "symbol": "BTCQ",
@@ -7214,6 +7214,10 @@
     {
      "name": "Constellation Sr1 Db",
      "symbol": "CSU.DB"
+    },
+    {
+     "name": "Constellation Rt",
+     "symbol": "CSU.RT"
     }
    ]
   },
@@ -51075,7 +51079,7 @@
   },
   {
    "symbol": "CLRG",
-   "name": "IQ Chaikin U.S. Large Cap ETF",
+   "name": "IQ U.S. Large Cap ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CLRG"
   },
@@ -51969,7 +51973,7 @@
   },
   {
    "symbol": "CSML",
-   "name": "IQ Chaikin U.S. Small Cap ETF",
+   "name": "IQ U.S. Small Cap ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CSML"
   },
@@ -55196,12 +55200,6 @@
    "yahoo_symbol": "FIVN"
   },
   {
-   "symbol": "FIVR",
-   "name": "Strategy Shares Nasdaq 5HANDL Index ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIVR"
-  },
-  {
    "symbol": "FIXD",
    "name": "First Trust TCW Opportunistic Fixed Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -56124,24 +56122,6 @@
    "name": "First Watch Restaurant Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FWRG"
-  },
-  {
-   "symbol": "FXCO",
-   "name": "Financial Strategies Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FXCO"
-  },
-  {
-   "symbol": "FXCOR",
-   "name": "Financial Strategies Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FXCOR"
-  },
-  {
-   "symbol": "FXCOW",
-   "name": "Financial Strategies Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FXCOW"
   },
   {
    "symbol": "FXNC",
@@ -59874,6 +59854,12 @@
    "name": "iShares Emergent Food and AgTech Multisector ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IVEG"
+  },
+  {
+   "symbol": "IVP",
+   "name": "Inspire Veterinary Partners, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVP"
   },
   {
    "symbol": "IVVD",

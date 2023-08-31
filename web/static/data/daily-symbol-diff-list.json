@@ -1,42 +1,36 @@
 {
  "added": [
   {
-   "symbol": "RRL",
-   "name": "Resolute Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RRL.V",
-   "instruments": [
-    {
-     "name": "Resolute Resources Ltd.",
-     "symbol": "RRL"
-    }
-   ]
-  },
-  {
-   "symbol": "COR",
-   "name": "Cencora, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "COR"
+   "symbol": "IVP",
+   "name": "Inspire Veterinary Partners, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVP"
   }
  ],
  "removed": [
   {
-   "symbol": "CRSS.P",
-   "name": "Crossover Acquisitions Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CRSS.P.V",
-   "instruments": [
-    {
-     "name": "Crossover Acquisitions Inc.",
-     "symbol": "CRSS.P"
-    }
-   ]
+   "symbol": "FXCOR",
+   "name": "Financial Strategies Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOR"
   },
   {
-   "symbol": "ABC",
-   "name": "AmerisourceBergen Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ABC"
+   "symbol": "FXCOW",
+   "name": "Financial Strategies Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOW"
+  },
+  {
+   "symbol": "FXCO",
+   "name": "Financial Strategies Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCO"
+  },
+  {
+   "symbol": "FIVR",
+   "name": "Strategy Shares Nasdaq 5HANDL Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIVR"
   }
  ]
 }
