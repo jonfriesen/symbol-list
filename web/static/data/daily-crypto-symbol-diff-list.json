@@ -1,9 +1,13 @@
 {
  "added": [
   {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "TLM",
+   "name": "Alien Worlds (TLM)",
+   "built_on": "WAXP"
   },
   {
    "symbol": "BANK",
@@ -16,8 +20,19 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARCADE",
+   "name": "ARCADE (ARCADE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TLM",
+   "name": "Alien Worlds (TLM)",
    "built_on": "ETH"
   }
  ]

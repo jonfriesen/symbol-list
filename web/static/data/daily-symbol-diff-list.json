@@ -1,60 +1,96 @@
 {
  "added": [
   {
-   "symbol": "WTO",
-   "name": "UTime Limited - Ordinary Shares",
+   "symbol": "MPRA",
+   "name": "Mercato Partners Acquisition Corporation - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WTO"
+   "yahoo_symbol": "MPRA"
+  },
+  {
+   "symbol": "MPRAU",
+   "name": "Mercato Partners Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MPRAU"
+  },
+  {
+   "symbol": "MPRAW",
+   "name": "Mercato Partners Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MPRAW"
+  },
+  {
+   "symbol": "NETD",
+   "name": "Nabors Energy Transition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETD"
+  },
+  {
+   "symbol": "NETDW",
+   "name": "Nabors Energy Transition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETDW"
+  },
+  {
+   "symbol": "CNL",
+   "name": "Collective Mining Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNL.TO",
+   "instruments": [
+    {
+     "name": "Collective Mining J",
+     "symbol": "CNL"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "SBIGW",
-   "name": "SpringBig Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SBIGW"
+   "symbol": "PLYM$A",
+   "name": "Plymouth Industrial REIT, Inc. 7.50% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLYM$A"
   },
   {
-   "symbol": "HCG",
-   "name": "Home Capital Group Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "HCG.TO",
+   "symbol": "MPRA",
+   "name": "Mercato Partners Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MPRA"
+  },
+  {
+   "symbol": "QUOT",
+   "name": "Quotient Technology Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QUOT"
+  },
+  {
+   "symbol": "CFMS",
+   "name": "Conformis, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFMS"
+  },
+  {
+   "symbol": "MPRAU",
+   "name": "Mercato Partners Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MPRAU"
+  },
+  {
+   "symbol": "MPRAW",
+   "name": "Mercato Partners Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MPRAW"
+  },
+  {
+   "symbol": "CNL",
+   "name": "Collective Mining Ltd",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CNL.V",
    "instruments": [
     {
-     "name": "Home Capital Group",
-     "symbol": "HCG"
+     "name": "Collective Mining Ltd.",
+     "symbol": "CNL"
     }
    ]
-  },
-  {
-   "symbol": "UTME",
-   "name": "UTime Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UTME"
-  },
-  {
-   "symbol": "NUVA",
-   "name": "NuVasive, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NUVA"
-  },
-  {
-   "symbol": "BKI",
-   "name": "Black Knight, Inc. Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKI"
-  },
-  {
-   "symbol": "SBIG",
-   "name": "SpringBig Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SBIG"
-  },
-  {
-   "symbol": "ROIVW",
-   "name": "Roivant Sciences Ltd. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ROIVW"
   }
  ]
 }
