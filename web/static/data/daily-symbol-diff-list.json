@@ -1,96 +1,126 @@
 {
  "added": [
   {
-   "symbol": "MPRA",
-   "name": "Mercato Partners Acquisition Corporation - Class A Common Stock",
+   "symbol": "ELUT",
+   "name": "Elutia, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MPRA"
+   "yahoo_symbol": "ELUT"
   },
   {
-   "symbol": "MPRAU",
-   "name": "Mercato Partners Acquisition Corporation - Unit",
+   "symbol": "SCNI",
+   "name": "Scinai Immunotherapeutics Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MPRAU"
+   "yahoo_symbol": "SCNI"
   },
   {
-   "symbol": "MPRAW",
-   "name": "Mercato Partners Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MPRAW"
-  },
-  {
-   "symbol": "NETD",
-   "name": "Nabors Energy Transition Corp. II - Class A Ordinary Shares",
+   "symbol": "XFIX",
+   "name": "F/m Opportunistic Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NETD"
+   "yahoo_symbol": "XFIX"
   },
   {
-   "symbol": "NETDW",
-   "name": "Nabors Energy Transition Corp. II - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NETDW"
-  },
-  {
-   "symbol": "CNL",
-   "name": "Collective Mining Ltd.",
+   "symbol": "HTL",
+   "name": "Hamilton Thorne Ltd.",
    "exchange": "TSX",
-   "yahoo_symbol": "CNL.TO",
+   "yahoo_symbol": "HTL.TO",
    "instruments": [
     {
-     "name": "Collective Mining J",
-     "symbol": "CNL"
+     "name": "Hamilton Thorne Ltd.",
+     "symbol": "HTL"
     }
    ]
   }
  ],
  "removed": [
   {
-   "symbol": "PLYM$A",
-   "name": "Plymouth Industrial REIT, Inc. 7.50% Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PLYM$A"
-  },
-  {
-   "symbol": "MPRA",
-   "name": "Mercato Partners Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MPRA"
-  },
-  {
-   "symbol": "QUOT",
-   "name": "Quotient Technology Inc. Common Stock",
+   "symbol": "NSTC",
+   "name": "Northern Star Investment Corp. III Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "QUOT"
+   "yahoo_symbol": "NSTC"
   },
   {
-   "symbol": "CFMS",
-   "name": "Conformis, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CFMS"
-  },
-  {
-   "symbol": "MPRAU",
-   "name": "Mercato Partners Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MPRAU"
-  },
-  {
-   "symbol": "MPRAW",
-   "name": "Mercato Partners Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MPRAW"
-  },
-  {
-   "symbol": "CNL",
-   "name": "Collective Mining Ltd",
+   "symbol": "PLAN",
+   "name": "Progressive Planet Solutions Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CNL.V",
+   "yahoo_symbol": "PLAN.V",
    "instruments": [
     {
-     "name": "Collective Mining Ltd.",
-     "symbol": "CNL"
+     "name": "Progressive Planet Solutions Inc.",
+     "symbol": "PLAN"
     }
    ]
+  },
+  {
+   "symbol": "GECCN",
+   "name": "Great Elm Capital Corp. - Notes",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCN"
+  },
+  {
+   "symbol": "NSTC.U",
+   "name": "Northern Star Investment Corp. III Units, each consisting of one share of Class A common stock and one-sixth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSTC.U"
+  },
+  {
+   "symbol": "YFI",
+   "name": "Edgewater Wireless Systems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YFI.V",
+   "instruments": [
+    {
+     "name": "Edgewater Wireless Systems Inc.",
+     "symbol": "YFI"
+    }
+   ]
+  },
+  {
+   "symbol": "HTL",
+   "name": "Hamilton Thorne Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HTL.V",
+   "instruments": [
+    {
+     "name": "Hamilton Thorne Ltd",
+     "symbol": "HTL"
+    }
+   ]
+  },
+  {
+   "symbol": "AZYO",
+   "name": "Aziyo Biologics, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZYO"
+  },
+  {
+   "symbol": "GYA",
+   "name": "Guyana Goldstrike Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GYA.V",
+   "instruments": [
+    {
+     "name": "Guyana Goldstrike Inc.",
+     "symbol": "GYA"
+    }
+   ]
+  },
+  {
+   "symbol": "ISD",
+   "name": "iSign Media Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ISD.V",
+   "instruments": [
+    {
+     "name": "iSign Media Solutions Inc.",
+     "symbol": "ISD"
+    }
+   ]
+  },
+  {
+   "symbol": "BVXV",
+   "name": "BiondVax Pharmaceuticals Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BVXV"
   }
  ]
 }

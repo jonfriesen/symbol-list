@@ -1,18 +1,12 @@
 {
  "added": [
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "TLM",
-   "name": "Alien Worlds (TLM)",
-   "built_on": "WAXP"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
   },
   {
    "symbol": "DOG",
@@ -20,19 +14,8 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ARCADE",
-   "name": "ARCADE (ARCADE)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "TLM",
-   "name": "Alien Worlds (TLM)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "date": "2023-09-06",
+ "date": "2023-09-07",
  "data": [
   {
    "symbol": "AACG",
@@ -3044,12 +3044,6 @@
    "yahoo_symbol": "AZTA"
   },
   {
-   "symbol": "AZYO",
-   "name": "Aziyo Biologics, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AZYO"
-  },
-  {
    "symbol": "BABX",
    "name": "GraniteShares 1.75x Long BABA Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -4740,12 +4734,6 @@
    "name": "Bioventus Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BVS"
-  },
-  {
-   "symbol": "BVXV",
-   "name": "BiondVax Pharmaceuticals Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BVXV"
   },
   {
    "symbol": "BWAQ",
@@ -8972,6 +8960,12 @@
    "yahoo_symbol": "ELTX"
   },
   {
+   "symbol": "ELUT",
+   "name": "Elutia, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELUT"
+  },
+  {
    "symbol": "ELVA",
    "name": "Electrovaya Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
@@ -11630,12 +11624,6 @@
    "yahoo_symbol": "GECCM"
   },
   {
-   "symbol": "GECCN",
-   "name": "Great Elm Capital Corp. - Notes",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GECCN"
-  },
-  {
    "symbol": "GECCO",
    "name": "Great Elm Capital Corp. - 5.875% Notes due 2026",
    "exchange": "NASDAQ Global MarketSM",
@@ -13809,7 +13797,7 @@
   },
   {
    "symbol": "ICCT",
-   "name": "FG Merger Corp. - Common stock",
+   "name": "iCoreConnect Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ICCT"
   },
@@ -24494,6 +24482,12 @@
    "yahoo_symbol": "SCLXW"
   },
   {
+   "symbol": "SCNI",
+   "name": "Scinai Immunotherapeutics Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCNI"
+  },
+  {
    "symbol": "SCOR",
    "name": "comScore, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -30174,6 +30168,12 @@
    "name": "ExcelFin Acquisition Corp - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "XFINW"
+  },
+  {
+   "symbol": "XFIX",
+   "name": "F/m Opportunistic Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XFIX"
   },
   {
    "symbol": "XFOR",
@@ -44720,18 +44720,6 @@
    "yahoo_symbol": "NSTB.W"
   },
   {
-   "symbol": "NSTC",
-   "name": "Northern Star Investment Corp. III Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NSTC"
-  },
-  {
-   "symbol": "NSTC.U",
-   "name": "Northern Star Investment Corp. III Units, each consisting of one share of Class A common stock and one-sixth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NSTC.U"
-  },
-  {
    "symbol": "NSTD",
    "name": "Northern Star Investment Corp. IV Class A Common Stock",
    "exchange": "NYSE",
@@ -57438,18 +57426,6 @@
    ]
   },
   {
-   "symbol": "YFI",
-   "name": "Edgewater Wireless Systems Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "YFI.V",
-   "instruments": [
-    {
-     "name": "Edgewater Wireless Systems Inc.",
-     "symbol": "YFI"
-    }
-   ]
-  },
-  {
    "symbol": "EDDY",
    "name": "Edison Lithium Corp.",
    "exchange": "TSXV",
@@ -60174,18 +60150,6 @@
    ]
   },
   {
-   "symbol": "GYA",
-   "name": "Guyana Goldstrike Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GYA.V",
-   "instruments": [
-    {
-     "name": "Guyana Goldstrike Inc.",
-     "symbol": "GYA"
-    }
-   ]
-  },
-  {
    "symbol": "HO.P",
    "name": "H2 Ventures 1 Inc.",
    "exchange": "TSXV",
@@ -60230,18 +60194,6 @@
     {
      "name": "Halmont Properties Corporation cl A vtg shrs",
      "symbol": "HMT"
-    }
-   ]
-  },
-  {
-   "symbol": "HTL",
-   "name": "Hamilton Thorne Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HTL.V",
-   "instruments": [
-    {
-     "name": "Hamilton Thorne Ltd",
-     "symbol": "HTL"
     }
    ]
   },
@@ -61326,18 +61278,6 @@
     {
      "name": "IOU Financial Inc.",
      "symbol": "IOU"
-    }
-   ]
-  },
-  {
-   "symbol": "ISD",
-   "name": "iSign Media Solutions Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ISD.V",
-   "instruments": [
-    {
-     "name": "iSign Media Solutions Inc.",
-     "symbol": "ISD"
     }
    ]
   },
@@ -66318,18 +66258,6 @@
     {
      "name": "ProAm Explorations Corporation",
      "symbol": "PMX"
-    }
-   ]
-  },
-  {
-   "symbol": "PLAN",
-   "name": "Progressive Planet Solutions Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PLAN.V",
-   "instruments": [
-    {
-     "name": "Progressive Planet Solutions Inc.",
-     "symbol": "PLAN"
     }
    ]
   },
@@ -80034,6 +79962,10 @@
     {
      "name": "Dream ResidntREIT US",
      "symbol": "DRR.U"
+    },
+    {
+     "name": "Dream Residnt REIT",
+     "symbol": "DRR.UN"
     }
    ]
   },
@@ -83722,6 +83654,18 @@
     {
      "name": "Hamilton Glbl Fin E",
      "symbol": "HFG"
+    }
+   ]
+  },
+  {
+   "symbol": "HTL",
+   "name": "Hamilton Thorne Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HTL.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Thorne Ltd.",
+     "symbol": "HTL"
     }
    ]
   },
