@@ -1,12 +1,23 @@
 {
  "added": [
   {
+   "symbol": "EDUCOIN",
+   "name": "EduCoin (EDUCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNIBOT",
+   "name": "Unibot (UNIBOT)",
+   "built_on": "ETH"
+  },
+  {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
+   "symbol": "BGB",
+   "name": "Bitget token (BGB)",
+   "built_on": "ETH"
   },
   {
    "symbol": "DOG",
@@ -14,8 +25,28 @@
    "built_on": "ETH"
   },
   {
+   "symbol": "EDU",
+   "name": "Open Campus (EDU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PHX",
+   "name": "Phoenix Finance (PHX)"
+  },
+  {
    "symbol": "G",
    "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EDU",
+   "name": "EduCoin (EDU)",
    "built_on": "ETH"
   }
  ]
