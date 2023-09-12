@@ -1,26 +1,33 @@
 {
  "added": [
   {
-   "symbol": "BBDC",
-   "name": "Block Beats Network (BBDC)"
-  },
-  {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
-  },
-  {
    "symbol": "DOG",
    "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "TRIAS",
+   "name": "Trias (TRIAS)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRIAS",
+   "name": "Trias (TRIAS)",
+   "built_on": "ETH"
   }
  ]
 }
