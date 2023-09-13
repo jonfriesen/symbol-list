@@ -6,16 +6,16 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
-  },
-  {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "TRIAS",
-   "name": "Trias (TRIAS)"
+   "symbol": "VTHO",
+   "name": "VeChainThor (VTHO)"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
   },
   {
    "symbol": "G",
@@ -25,9 +25,9 @@
  ],
  "removed": [
   {
-   "symbol": "TRIAS",
-   "name": "Trias (TRIAS)",
-   "built_on": "ETH"
+   "symbol": "VTHO",
+   "name": "VeChainThor (VTHO)",
+   "built_on": "VET"
   }
  ]
 }
