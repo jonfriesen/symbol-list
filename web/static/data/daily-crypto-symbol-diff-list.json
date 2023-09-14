@@ -1,21 +1,21 @@
 {
  "added": [
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "VTHO",
-   "name": "VeChainThor (VTHO)"
-  },
-  {
    "symbol": "XETH",
    "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "TOPN",
+   "name": "TOP Network (TOPN)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
   },
   {
    "symbol": "G",
@@ -25,9 +25,9 @@
  ],
  "removed": [
   {
-   "symbol": "VTHO",
-   "name": "VeChainThor (VTHO)",
-   "built_on": "VET"
+   "symbol": "TOPN",
+   "name": "TOP Network (TOPN)",
+   "built_on": "ETH"
   }
  ]
 }
