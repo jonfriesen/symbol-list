@@ -1,48 +1,72 @@
 {
  "added": [
   {
-   "symbol": "ACB",
-   "name": "Aurora Cannabis Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACB"
+   "symbol": "CART",
+   "name": "Maplebear Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CART"
   },
   {
-   "symbol": "CCG",
-   "name": "Cheche Group Inc. - Class A Ordinary Shares",
+   "symbol": "CNGL",
+   "name": "Canna-Global Acquisition Corp - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CCG"
+   "yahoo_symbol": "CNGL"
   },
   {
-   "symbol": "CCGWW",
-   "name": "Cheche Group Inc. - Warrant",
+   "symbol": "CNGLU",
+   "name": "Canna-Global Acquisition Corp - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CCGWW"
+   "yahoo_symbol": "CNGLU"
   },
   {
-   "symbol": "FTLF",
-   "name": "FitLife Brands, Inc. - Common Stock",
+   "symbol": "CNGLW",
+   "name": "Canna-Global Acquisition Corp - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTLF"
+   "yahoo_symbol": "CNGLW"
+  },
+  {
+   "symbol": "DTCK",
+   "name": "Davis Commodities Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTCK"
+  },
+  {
+   "symbol": "SGBXV",
+   "name": "Safe \u0026 Green Holdings Corp. - Common Stock Ex-distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGBXV"
+  },
+  {
+   "symbol": "SGDVV",
+   "name": "Safe and Green Development Corporation - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGDVV"
+  },
+  {
+   "symbol": "KVYO",
+   "name": "Klaviyo, Inc. Series A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KVYO"
   }
  ],
  "removed": [
   {
-   "symbol": "ZEV.W",
-   "name": "Lightning eMotors, Inc. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ZEV.W"
+   "symbol": "CNGLW",
+   "name": "Canna-Global Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNGLW"
   },
   {
-   "symbol": "ACB",
-   "name": "Aurora Cannabis Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ACB"
+   "symbol": "CNGLU",
+   "name": "Canna-Global Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNGLU"
   },
   {
-   "symbol": "ZEV",
-   "name": "Lightning eMotors, Inc Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ZEV"
+   "symbol": "CNGL",
+   "name": "Canna-Global Acquisition Corp - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNGL"
   }
  ]
 }

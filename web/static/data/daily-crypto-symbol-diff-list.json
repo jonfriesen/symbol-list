@@ -1,22 +1,19 @@
 {
  "added": [
   {
-   "symbol": "CYBER",
-   "name": "CyberConnect (CYBER)",
+   "symbol": "RIF",
+   "name": "RIF Token (RIF)",
+   "built_on": "RBTC"
+  },
+  {
+   "symbol": "VCNT",
+   "name": "ViciCoin (VCNT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "CYBERWAY",
-   "name": "CyberWay (CYBERWAY)"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "KLV",
-   "name": "Klever (KLV)"
   },
   {
    "symbol": "X",
@@ -24,24 +21,28 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "TSUGT",
+   "name": "Captain Tsubasa (TSUGT)",
+   "built_on": "MATIC"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
+   "symbol": "VEXT",
+   "name": "Veloce (VEXT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "KLV",
-   "name": "Klever (KLV)",
-   "built_on": "TRX"
-  },
-  {
-   "symbol": "CYBER",
-   "name": "CyberWay (CYBER)"
+   "symbol": "RIF",
+   "name": "RIF Token (RIF)"
   }
  ]
 }
