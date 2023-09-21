@@ -1,48 +1,31 @@
 {
  "added": [
   {
-   "symbol": "RIF",
-   "name": "RIF Token (RIF)",
-   "built_on": "RBTC"
-  },
-  {
-   "symbol": "VCNT",
-   "name": "ViciCoin (VCNT)",
-   "built_on": "MATIC"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "BITCOIN",
+   "name": "HarryPotterObamaSonic10Inu (ETH) (BITCOIN)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "TSUGT",
-   "name": "Captain Tsubasa (TSUGT)",
-   "built_on": "MATIC"
-  },
-  {
-   "symbol": "VEXT",
-   "name": "Veloce (VEXT)",
-   "built_on": "MATIC"
   },
   {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  }
- ],
- "removed": [
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
   {
-   "symbol": "RIF",
-   "name": "RIF Token (RIF)"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ULTIMA",
+   "name": "Ultima (ULTIMA)"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
   }
  ]
 }

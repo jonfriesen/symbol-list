@@ -1,72 +1,204 @@
 {
  "added": [
   {
-   "symbol": "CART",
-   "name": "Maplebear Inc. - Common Stock",
+   "symbol": "GPAC",
+   "name": "Great Pacific Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPAC.V",
+   "instruments": [
+    {
+     "name": "Great Pacific Gold Corp.",
+     "symbol": "GPAC"
+    }
+   ]
+  },
+  {
+   "symbol": "AONC",
+   "name": "American Oncology Network, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AONC"
+  },
+  {
+   "symbol": "AONCW",
+   "name": "American Oncology Network, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AONCW"
+  },
+  {
+   "symbol": "BSCX",
+   "name": "Invesco BulletShares 2033 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSCX"
+  },
+  {
+   "symbol": "BSJV",
+   "name": "Invesco BulletShares 2031 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSJV"
+  },
+  {
+   "symbol": "BSSX",
+   "name": "Invesco BulletShares 2033 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSSX"
+  },
+  {
+   "symbol": "FDIV",
+   "name": "MarketDesk Focused U.S. Dividend ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDIV"
+  },
+  {
+   "symbol": "HAIA",
+   "name": "Healthcare AI Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HAIA"
+  },
+  {
+   "symbol": "HAIAU",
+   "name": "Healthcare AI Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HAIAU"
+  },
+  {
+   "symbol": "HAIAW",
+   "name": "Healthcare AI Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HAIAW"
+  },
+  {
+   "symbol": "HCOW",
+   "name": "Amplify Cash Flow High Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCOW"
+  },
+  {
+   "symbol": "MNMD",
+   "name": "Mind Medicine (MindMed) Inc. - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CART"
+   "yahoo_symbol": "MNMD"
   },
   {
-   "symbol": "CNGL",
-   "name": "Canna-Global Acquisition Corp - Class A Common Stock",
+   "symbol": "RDZN",
+   "name": "Roadzen, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RDZN"
+  },
+  {
+   "symbol": "RDZNW",
+   "name": "Roadzen, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNGL"
+   "yahoo_symbol": "RDZNW"
   },
   {
-   "symbol": "CNGLU",
-   "name": "Canna-Global Acquisition Corp - Unit",
+   "symbol": "SRBK",
+   "name": "SR Bancorp, Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNGLU"
+   "yahoo_symbol": "SRBK"
   },
   {
-   "symbol": "CNGLW",
-   "name": "Canna-Global Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNGLW"
-  },
-  {
-   "symbol": "DTCK",
-   "name": "Davis Commodities Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DTCK"
-  },
-  {
-   "symbol": "SGBXV",
-   "name": "Safe \u0026 Green Holdings Corp. - Common Stock Ex-distribution When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SGBXV"
-  },
-  {
-   "symbol": "SGDVV",
-   "name": "Safe and Green Development Corporation - Common Stock When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SGDVV"
-  },
-  {
-   "symbol": "KVYO",
-   "name": "Klaviyo, Inc. Series A Common Stock",
+   "symbol": "GFR",
+   "name": "Greenfire Resources Ltd. Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "KVYO"
+   "yahoo_symbol": "GFR"
   }
  ],
  "removed": [
   {
-   "symbol": "CNGLW",
-   "name": "Canna-Global Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNGLW"
+   "symbol": "DTOC",
+   "name": "Digital Transformation Opportunities Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTOC"
   },
   {
-   "symbol": "CNGLU",
-   "name": "Canna-Global Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNGLU"
+   "symbol": "MBSC",
+   "name": "M3-Brigade Acquisition III Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MBSC"
   },
   {
-   "symbol": "CNGL",
-   "name": "Canna-Global Acquisition Corp - Class A Common Stock",
+   "symbol": "DTOCU",
+   "name": "Digital Transformation Opportunities Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTOCU"
+  },
+  {
+   "symbol": "MBSC.U",
+   "name": "M3-Brigade Acquisition III Corp. Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MBSC.U"
+  },
+  {
+   "symbol": "VHNA",
+   "name": "Vahanna Tech Edge Acquisition I Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNGL"
+   "yahoo_symbol": "VHNA"
+  },
+  {
+   "symbol": "VHNAW",
+   "name": "Vahanna Tech Edge Acquisition I Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VHNAW"
+  },
+  {
+   "symbol": "MNMD",
+   "name": "Mind Medicine (MindMed) Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MNMD"
+  },
+  {
+   "symbol": "HAIA",
+   "name": "Healthcare AI Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HAIA"
+  },
+  {
+   "symbol": "HAIAU",
+   "name": "Healthcare AI Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HAIAU"
+  },
+  {
+   "symbol": "VHNAU",
+   "name": "Vahanna Tech Edge Acquisition I Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VHNAU"
+  },
+  {
+   "symbol": "CHEAW",
+   "name": "Chenghe Acquisition Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHEAW"
+  },
+  {
+   "symbol": "DTOCW",
+   "name": "Digital Transformation Opportunities Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTOCW"
+  },
+  {
+   "symbol": "MBSC.W",
+   "name": "M3-Brigade Acquisition III Corp. Public warrants, each whole public warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MBSC.W"
+  },
+  {
+   "symbol": "HAIAW",
+   "name": "Healthcare AI Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HAIAW"
+  },
+  {
+   "symbol": "FSX",
+   "name": "Fosterville South Exploration Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FSX.V",
+   "instruments": [
+    {
+     "name": "Fosterville South Exploration Ltd.",
+     "symbol": "FSX"
+    }
+   ]
   }
  ]
 }
