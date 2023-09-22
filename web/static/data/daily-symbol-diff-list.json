@@ -1,204 +1,78 @@
 {
  "added": [
   {
-   "symbol": "GPAC",
-   "name": "Great Pacific Gold Corp.",
+   "symbol": "CONE",
+   "name": "Canada One Mining Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GPAC.V",
+   "yahoo_symbol": "CONE.V",
    "instruments": [
     {
-     "name": "Great Pacific Gold Corp.",
-     "symbol": "GPAC"
+     "name": "Canada One Mining Corp.",
+     "symbol": "CONE"
     }
    ]
   },
   {
-   "symbol": "AONC",
-   "name": "American Oncology Network, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AONC"
+   "symbol": "YFI",
+   "name": "Edgewater Wireless Systems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YFI.V",
+   "instruments": [
+    {
+     "name": "Edgewater Wireless Systems Inc.",
+     "symbol": "YFI"
+    }
+   ]
   },
   {
-   "symbol": "AONCW",
-   "name": "American Oncology Network, Inc. - Warrant",
+   "symbol": "ABAT",
+   "name": "American Battery Technology Company - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AONCW"
+   "yahoo_symbol": "ABAT"
   },
   {
-   "symbol": "BSCX",
-   "name": "Invesco BulletShares 2033 Corporate Bond ETF",
+   "symbol": "MDBH",
+   "name": "MDB Capital Holdings, LLC - Class A common ",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDBH"
+  },
+  {
+   "symbol": "WABF",
+   "name": "Western Asset Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSCX"
-  },
-  {
-   "symbol": "BSJV",
-   "name": "Invesco BulletShares 2031 High Yield Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSJV"
-  },
-  {
-   "symbol": "BSSX",
-   "name": "Invesco BulletShares 2033 Municipal Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSSX"
-  },
-  {
-   "symbol": "FDIV",
-   "name": "MarketDesk Focused U.S. Dividend ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FDIV"
-  },
-  {
-   "symbol": "HAIA",
-   "name": "Healthcare AI Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HAIA"
-  },
-  {
-   "symbol": "HAIAU",
-   "name": "Healthcare AI Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HAIAU"
-  },
-  {
-   "symbol": "HAIAW",
-   "name": "Healthcare AI Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HAIAW"
-  },
-  {
-   "symbol": "HCOW",
-   "name": "Amplify Cash Flow High Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCOW"
-  },
-  {
-   "symbol": "MNMD",
-   "name": "Mind Medicine (MindMed) Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MNMD"
-  },
-  {
-   "symbol": "RDZN",
-   "name": "Roadzen, Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RDZN"
-  },
-  {
-   "symbol": "RDZNW",
-   "name": "Roadzen, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RDZNW"
-  },
-  {
-   "symbol": "SRBK",
-   "name": "SR Bancorp, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SRBK"
-  },
-  {
-   "symbol": "GFR",
-   "name": "Greenfire Resources Ltd. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFR"
+   "yahoo_symbol": "WABF"
   }
  ],
  "removed": [
   {
-   "symbol": "DTOC",
-   "name": "Digital Transformation Opportunities Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DTOC"
+   "symbol": "PRTK",
+   "name": "Paratek Pharmaceuticals, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRTK"
   },
   {
-   "symbol": "MBSC",
-   "name": "M3-Brigade Acquisition III Corp. Class A Common Stock",
+   "symbol": "AAM$B",
+   "name": "Apollo Asset Management, Inc. 6.375% Series B Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MBSC"
+   "yahoo_symbol": "AAM$B"
   },
   {
-   "symbol": "DTOCU",
-   "name": "Digital Transformation Opportunities Corp. - Units",
+   "symbol": "LGVNR",
+   "name": "Longeveron Inc. - Subscription Right",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DTOCU"
+   "yahoo_symbol": "LGVNR"
   },
   {
-   "symbol": "MBSC.U",
-   "name": "M3-Brigade Acquisition III Corp. Units",
+   "symbol": "AAM$A",
+   "name": "Apollo Asset Management, Inc. 6.375% Series A Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MBSC.U"
+   "yahoo_symbol": "AAM$A"
   },
   {
-   "symbol": "VHNA",
-   "name": "Vahanna Tech Edge Acquisition I Corp. - Class A Ordinary Shares",
+   "symbol": "RADI",
+   "name": "Radius Global Infrastructure, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VHNA"
-  },
-  {
-   "symbol": "VHNAW",
-   "name": "Vahanna Tech Edge Acquisition I Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VHNAW"
-  },
-  {
-   "symbol": "MNMD",
-   "name": "Mind Medicine (MindMed) Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MNMD"
-  },
-  {
-   "symbol": "HAIA",
-   "name": "Healthcare AI Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HAIA"
-  },
-  {
-   "symbol": "HAIAU",
-   "name": "Healthcare AI Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HAIAU"
-  },
-  {
-   "symbol": "VHNAU",
-   "name": "Vahanna Tech Edge Acquisition I Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VHNAU"
-  },
-  {
-   "symbol": "CHEAW",
-   "name": "Chenghe Acquisition Co. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHEAW"
-  },
-  {
-   "symbol": "DTOCW",
-   "name": "Digital Transformation Opportunities Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DTOCW"
-  },
-  {
-   "symbol": "MBSC.W",
-   "name": "M3-Brigade Acquisition III Corp. Public warrants, each whole public warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MBSC.W"
-  },
-  {
-   "symbol": "HAIAW",
-   "name": "Healthcare AI Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HAIAW"
-  },
-  {
-   "symbol": "FSX",
-   "name": "Fosterville South Exploration Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FSX.V",
-   "instruments": [
-    {
-     "name": "Fosterville South Exploration Ltd.",
-     "symbol": "FSX"
-    }
-   ]
+   "yahoo_symbol": "RADI"
   }
  ]
 }

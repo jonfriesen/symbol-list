@@ -1,8 +1,27 @@
 {
  "added": [
   {
-   "symbol": "BITCOIN",
-   "name": "HarryPotterObamaSonic10Inu (ETH) (BITCOIN)",
+   "symbol": "DOGPAD",
+   "name": "DogPad Finance (DOGPAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ULTIMA",
+   "name": "Ultima (ULTIMA)",
+   "built_on": "SMARTB"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SMARTB",
+   "name": "Smart Coin (SMARTB)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
   },
   {
@@ -10,22 +29,14 @@
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
   {
    "symbol": "ULTIMA",
    "name": "Ultima (ULTIMA)"
-  },
-  {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
   }
  ]
 }
