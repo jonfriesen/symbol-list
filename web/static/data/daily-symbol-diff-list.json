@@ -1,96 +1,114 @@
 {
  "added": [
   {
-   "symbol": "APRN",
-   "name": "Blue Apron Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "APRN"
+   "symbol": "VTEN.P",
+   "name": "V Ten Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VTEN.P.V",
+   "instruments": [
+    {
+     "name": "V Ten Capital Corp.",
+     "symbol": "VTEN.P"
+    }
+   ]
   },
   {
-   "symbol": "SWKH",
-   "name": "SWK Holdings Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SWKH"
+   "symbol": "COO",
+   "name": "The Cooper Companies, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COO"
+  },
+  {
+   "symbol": "ARMK.V",
+   "name": "Aramark Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARMK.V"
+  },
+  {
+   "symbol": "DHR.V",
+   "name": "Danaher Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DHR.V"
+  },
+  {
+   "symbol": "K.V",
+   "name": "Kellogg Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "K.V"
+  },
+  {
+   "symbol": "KLG.V",
+   "name": "WK Kellogg Co Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KLG.V"
+  },
+  {
+   "symbol": "NCL",
+   "name": "Northann Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NCL"
+  },
+  {
+   "symbol": "NSA$B",
+   "name": "National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSA$B"
+  },
+  {
+   "symbol": "VLTO.V",
+   "name": "Veralto Corp Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VLTO.V"
+  },
+  {
+   "symbol": "VSTS.V",
+   "name": "Vestis Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VSTS.V"
   }
  ],
  "removed": [
   {
-   "symbol": "DMS",
-   "name": "Digital Media Solutions, Inc. Class A Ordinary Shares",
+   "symbol": "ICNC",
+   "name": "Iconic Sports Acquisition Corp. Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "DMS"
+   "yahoo_symbol": "ICNC"
   },
   {
-   "symbol": "ADER",
-   "name": "26 Capital Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADER"
-  },
-  {
-   "symbol": "GFGDR",
-   "name": "The Growth for Good Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GFGDR"
-  },
-  {
-   "symbol": "SUNL.W",
-   "name": "Sunlight Financial Holdings, Inc. Warrants",
+   "symbol": "ICNC.W",
+   "name": "Iconic Sports Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
    "exchange": "NYSE",
-   "yahoo_symbol": "SUNL.W"
+   "yahoo_symbol": "ICNC.W"
   },
   {
-   "symbol": "GFGDW",
-   "name": "The Growth for Good Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GFGDW"
-  },
-  {
-   "symbol": "SWKH",
-   "name": "SWK Holdings Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SWKH"
-  },
-  {
-   "symbol": "GFGD",
-   "name": "The Growth for Good Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GFGD"
-  },
-  {
-   "symbol": "GFGDU",
-   "name": "The Growth for Good Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GFGDU"
-  },
-  {
-   "symbol": "DBTX",
-   "name": "Decibel Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DBTX"
-  },
-  {
-   "symbol": "ADERU",
-   "name": "26 Capital Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADERU"
-  },
-  {
-   "symbol": "COO",
-   "name": "The Cooper Companies, Inc. Common Stock",
+   "symbol": "ICNC.U",
+   "name": "Iconic Sports Acquisition Corp. Units",
    "exchange": "NYSE",
-   "yahoo_symbol": "COO"
+   "yahoo_symbol": "ICNC.U"
   },
   {
-   "symbol": "ADERW",
-   "name": "26 Capital Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADERW"
-  },
-  {
-   "symbol": "SUNL",
-   "name": "Sunlight Financial Holdings, Inc. Class A Common Stock",
+   "symbol": "DASH",
+   "name": "DoorDash, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "SUNL"
+   "yahoo_symbol": "DASH"
+  },
+  {
+   "symbol": "LMNL",
+   "name": "Liminal BioSciences Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LMNL"
+  },
+  {
+   "symbol": "RETA",
+   "name": "Reata Pharmaceuticals, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RETA"
+  },
+  {
+   "symbol": "OTMOW",
+   "name": "Otonomo Technologies Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTMOW"
   }
  ]
 }
