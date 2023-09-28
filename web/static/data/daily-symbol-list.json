@@ -1,5 +1,5 @@
 {
- "date": "2023-09-27",
+ "date": "2023-09-28",
  "data": [
   {
    "symbol": "ONE",
@@ -5474,6 +5474,18 @@
     {
      "name": "Ecolomondo Corporation",
      "symbol": "ECM"
+    }
+   ]
+  },
+  {
+   "symbol": "EDY",
+   "name": "Eddy Smart Home Solutions Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EDY.V",
+   "instruments": [
+    {
+     "name": "Eddy Smart Home Solutions Ltd.",
+     "symbol": "EDY"
     }
    ]
   },
@@ -15882,6 +15894,18 @@
     {
      "name": "Scaling Capital 1 Corp.",
      "symbol": "SKAL.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SGN",
+   "name": "Scorpio Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGN.V",
+   "instruments": [
+    {
+     "name": "Scorpio Gold Corporation",
+     "symbol": "SGN"
     }
    ]
   },
@@ -31998,6 +32022,18 @@
     {
      "name": "HarvestHealthcare US",
      "symbol": "HHL.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HPYT",
+   "name": "Harvest Premium Yield Treasury ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HPYT.TO",
+   "instruments": [
+    {
+     "name": "Harvest PremYldTreas",
+     "symbol": "HPYT"
     }
    ]
   },
@@ -52422,6 +52458,12 @@
    "yahoo_symbol": "DARE"
   },
   {
+   "symbol": "DASH",
+   "name": "DoorDash, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DASH"
+  },
+  {
    "symbol": "DATS",
    "name": "DatChat, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -55568,7 +55610,7 @@
   {
    "symbol": "FREQ",
    "name": "Frequency Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FREQ"
   },
   {
@@ -61516,6 +61558,12 @@
    "name": "Lam Research Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LRCX"
+  },
+  {
+   "symbol": "LRE",
+   "name": "Lead Real Estate Co., Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LRE"
   },
   {
    "symbol": "LRFC",
@@ -69486,22 +69534,16 @@
    "yahoo_symbol": "SGBX"
   },
   {
-   "symbol": "SGBXV",
-   "name": "Safe \u0026 Green Holdings Corp. - Common Stock Ex-distribution When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SGBXV"
-  },
-  {
    "symbol": "SGC",
    "name": "Superior Group of Companies, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SGC"
   },
   {
-   "symbol": "SGDVV",
-   "name": "Safe and Green Development Corporation - Common Stock When Issued",
+   "symbol": "SGD",
+   "name": "Safe and Green Development Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SGDVV"
+   "yahoo_symbol": "SGD"
   },
   {
    "symbol": "SGEN",
@@ -70060,24 +70102,6 @@
    "name": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SLVO"
-  },
-  {
-   "symbol": "SLVR",
-   "name": "SilverSPAC Inc. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLVR"
-  },
-  {
-   "symbol": "SLVRU",
-   "name": "SilverSPAC Inc. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLVRU"
-  },
-  {
-   "symbol": "SLVRW",
-   "name": "SilverSPAC Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLVRW"
   },
   {
    "symbol": "SMAP",
@@ -88578,12 +88602,6 @@
    "yahoo_symbol": "NCA"
   },
   {
-   "symbol": "NCL",
-   "name": "Northann Corp. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NCL"
-  },
-  {
    "symbol": "NCLH",
    "name": "Norwegian Cruise Line Holdings Ltd. Ordinary Shares",
    "exchange": "NYSE",
@@ -89224,12 +89242,6 @@
    "name": "Nerdy Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "NRDY"
-  },
-  {
-   "symbol": "NRDY.W",
-   "name": "Nerdy Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NRDY.W"
   },
   {
    "symbol": "NREF",
@@ -90850,6 +90862,12 @@
    "name": "PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "PMT$C"
+  },
+  {
+   "symbol": "PMTU",
+   "name": "PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PMTU"
   },
   {
    "symbol": "PMX",
@@ -94510,12 +94528,6 @@
    "name": "TortoiseEcofin Acquisition Corp. III Warrant, entitles to purchase one Class A Ordinary Share at a price of $11.50 per share",
    "exchange": "NYSE",
    "yahoo_symbol": "TRTL.W"
-  },
-  {
-   "symbol": "TRTN",
-   "name": "Triton International Limited Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TRTN"
   },
   {
    "symbol": "TRTN$A",
