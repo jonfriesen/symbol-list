@@ -1,5 +1,5 @@
 {
- "date": "2023-09-28",
+ "date": "2023-09-29",
  "data": [
   {
    "symbol": "ONE",
@@ -18494,10 +18494,6 @@
     {
      "name": "TUT Fitness Group Inc.",
      "symbol": "GYM"
-    },
-    {
-     "name": "TUT Fitness Group Inc. wt 29Sept2023",
-     "symbol": "GYM.WT"
     }
    ]
   },
@@ -49368,6 +49364,18 @@
    "yahoo_symbol": "BTCS"
   },
   {
+   "symbol": "BTCT",
+   "name": "BTC Digital Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTCT"
+  },
+  {
+   "symbol": "BTCTW",
+   "name": "BTC Digital Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTCTW"
+  },
+  {
    "symbol": "BTCY",
    "name": "Biotricity, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -57985,19 +57993,19 @@
   },
   {
    "symbol": "HROW",
-   "name": "Harrow Health, Inc. - Common Stock",
+   "name": "Harrow, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HROW"
   },
   {
    "symbol": "HROWL",
-   "name": "Harrow Health, Inc. - 8.625% senior notes due 2026",
+   "name": "Harrow, Inc. - 8.625% senior notes due 2026",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HROWL"
   },
   {
    "symbol": "HROWM",
-   "name": "Harrow Health, Inc. - 11.875% Senior Notes due 2027",
+   "name": "Harrow, Inc. - 11.875% Senior Notes due 2027",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HROWM"
   },
@@ -62256,24 +62264,6 @@
    "yahoo_symbol": "MCHX"
   },
   {
-   "symbol": "MCLD",
-   "name": "mCloud Technologies Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCLD"
-  },
-  {
-   "symbol": "MCLDP",
-   "name": "mCloud Technologies Corp. - 9.0% Series A Cumulative Perpetual Preferred Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCLDP"
-  },
-  {
-   "symbol": "MCLDW",
-   "name": "mCloud Technologies Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCLDW"
-  },
-  {
    "symbol": "MCOM",
    "name": "micromobility.com Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -62518,18 +62508,6 @@
    "name": "Ramaco Resources, Inc. - 9.00% Senior Notes due 2026",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "METCL"
-  },
-  {
-   "symbol": "METX",
-   "name": "BTC Digital Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "METX"
-  },
-  {
-   "symbol": "METXW",
-   "name": "BTC Digital Ltd. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "METXW"
   },
   {
    "symbol": "MF",
@@ -71298,12 +71276,6 @@
    "yahoo_symbol": "SYNA"
   },
   {
-   "symbol": "SYNH",
-   "name": "Syneos Health, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SYNH"
-  },
-  {
    "symbol": "SYPR",
    "name": "Sypris Solutions, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -72088,6 +72060,12 @@
    "name": "TransMedics Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TMDX"
+  },
+  {
+   "symbol": "TMET",
+   "name": "iShares Transition-Enabling Metals ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMET"
   },
   {
    "symbol": "TMPO",
@@ -73998,6 +73976,12 @@
    "yahoo_symbol": "VSEC"
   },
   {
+   "symbol": "VSME",
+   "name": "VS Media Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSME"
+  },
+  {
    "symbol": "VSMV",
    "name": "VictoryShares US Multi-Factor Minimum Volatility ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -74179,13 +74163,13 @@
   },
   {
    "symbol": "WAFD",
-   "name": "Washington Federal, Inc. - Common Stock",
+   "name": "WaFd, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WAFD"
   },
   {
    "symbol": "WAFDP",
-   "name": "Washington Federal, Inc. - Depositary Shares",
+   "name": "WaFd, Inc. - Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WAFDP"
   },
