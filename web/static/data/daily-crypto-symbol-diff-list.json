@@ -1,21 +1,17 @@
 {
  "added": [
   {
-   "symbol": "ULTRA",
-   "name": "Ultra (ULTRA)"
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
   },
   {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "CAL",
-   "name": "Calcium (CAL)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "MMVG",
+   "name": "MEMEVENGERS (MMVG)",
    "built_on": "ETH"
   },
   {
@@ -23,15 +19,8 @@
    "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "ULTRA",
-   "name": "Ultra (ULTRA)",
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
   }
  ]

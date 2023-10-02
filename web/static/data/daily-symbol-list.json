@@ -1,5 +1,5 @@
 {
- "date": "2023-09-29",
+ "date": "2023-10-02",
  "data": [
   {
    "symbol": "ONE",
@@ -23014,6 +23014,30 @@
    ]
   },
   {
+   "symbol": "ZLSC",
+   "name": "BMO Long Short Canadian Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZLSC.TO",
+   "instruments": [
+    {
+     "name": "BMO Lng Short Cdn Eq",
+     "symbol": "ZLSC"
+    }
+   ]
+  },
+  {
+   "symbol": "ZLSU",
+   "name": "BMO Long Short US Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZLSU.TO",
+   "instruments": [
+    {
+     "name": "BMO Long Short US Eq",
+     "symbol": "ZLSU"
+    }
+   ]
+  },
+  {
    "symbol": "ZLB",
    "name": "BMO Low Volatility Canadian Equity ETF",
    "exchange": "TSX",
@@ -23562,6 +23586,18 @@
    ]
   },
   {
+   "symbol": "ZIU",
+   "name": "BMO S\u0026P/TSX 60 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZIU.TO",
+   "instruments": [
+    {
+     "name": "BMO S\u0026P/TSX 60 Indx",
+     "symbol": "ZIU"
+    }
+   ]
+  },
+  {
    "symbol": "ZCN",
    "name": "BMO S\u0026P/TSX Capped Composite Index ETF",
    "exchange": "TSX",
@@ -23942,6 +23978,22 @@
     {
      "name": "BMO US Tips Indx USD",
      "symbol": "TIPS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ZUCM",
+   "name": "BMO USD Cash Management ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZUCM.TO",
+   "instruments": [
+    {
+     "name": "BMO USD Cash Mgmt Un",
+     "symbol": "ZUCM"
+    },
+    {
+     "name": "BMO USD Cash Mgmt US",
+     "symbol": "ZUCM.U"
     }
    ]
   },
@@ -27266,10 +27318,6 @@
     {
      "name": "Constellation Sr1 Db",
      "symbol": "CSU.DB"
-    },
-    {
-     "name": "Constellation Rt",
-     "symbol": "CSU.RT"
     }
    ]
   },
@@ -30910,14 +30958,14 @@
    ]
   },
   {
-   "symbol": "GMNG",
+   "symbol": "VRTS",
    "name": "Gamelancer Media Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "GMNG.TO",
+   "yahoo_symbol": "VRTS.TO",
    "instruments": [
     {
      "name": "Gamelancer Media J",
-     "symbol": "GMNG"
+     "symbol": "VRTS"
     }
    ]
   },
@@ -32130,6 +32178,18 @@
     {
      "name": "Healthcare SpecOp Un",
      "symbol": "MDS.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "AIDX",
+   "name": "HealWELL AI Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AIDX.TO",
+   "instruments": [
+    {
+     "name": "MCI Onehealth J SV A",
+     "symbol": "AIDX"
     }
    ]
   },
@@ -37562,18 +37622,6 @@
     {
      "name": "McEwen Mining Inc. J",
      "symbol": "MUX"
-    }
-   ]
-  },
-  {
-   "symbol": "DRDR",
-   "name": "MCI Onehealth Technologies Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "DRDR.TO",
-   "instruments": [
-    {
-     "name": "MCI Onehealth J SV A",
-     "symbol": "DRDR"
     }
    ]
   },
@@ -46418,6 +46466,12 @@
    "yahoo_symbol": "ANIX"
   },
   {
+   "symbol": "ANL",
+   "name": "Adlai Nortye Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANL"
+  },
+  {
    "symbol": "ANNX",
    "name": "Annexon, Inc. - common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -46446,24 +46500,6 @@
    "name": "Sphere 3D Corp. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ANY"
-  },
-  {
-   "symbol": "ANZU",
-   "name": "Anzu Special Acquisition Corp I - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ANZU"
-  },
-  {
-   "symbol": "ANZUU",
-   "name": "Anzu Special Acquisition Corp I - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ANZUU"
-  },
-  {
-   "symbol": "ANZUW",
-   "name": "Anzu Special Acquisition Corp I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ANZUW"
   },
   {
    "symbol": "AOGO",
@@ -51296,12 +51332,6 @@
    "yahoo_symbol": "CNFR"
   },
   {
-   "symbol": "CNFRL",
-   "name": "Conifer Holdings, Inc. - Senior Unsecured Notes",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNFRL"
-  },
-  {
    "symbol": "CNFRZ",
    "name": "Conifer Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028",
    "exchange": "NASDAQ Global MarketSM",
@@ -51402,6 +51432,18 @@
    "name": "PC Connection, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CNXN"
+  },
+  {
+   "symbol": "COCH",
+   "name": "Envoy Medical, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COCH"
+  },
+  {
+   "symbol": "COCHW",
+   "name": "Envoy Medical, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COCHW"
   },
   {
    "symbol": "COCO",
@@ -54186,6 +54228,18 @@
    "name": "ESH Acquisition Corp. - Right",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ESHAR"
+  },
+  {
+   "symbol": "ESLA",
+   "name": "Estrella Immunopharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESLA"
+  },
+  {
+   "symbol": "ESLAW",
+   "name": "Estrella Immunopharma, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESLAW"
   },
   {
    "symbol": "ESLT",
@@ -63056,24 +63110,6 @@
    "yahoo_symbol": "MPB"
   },
   {
-   "symbol": "MPRA",
-   "name": "Mercato Partners Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MPRA"
-  },
-  {
-   "symbol": "MPRAU",
-   "name": "Mercato Partners Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MPRAU"
-  },
-  {
-   "symbol": "MPRAW",
-   "name": "Mercato Partners Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MPRAW"
-  },
-  {
    "symbol": "MPWR",
    "name": "Monolithic Power Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -64479,7 +64515,7 @@
   },
   {
    "symbol": "NWE",
-   "name": "NorthWestern Corporation - Common Stock",
+   "name": "NorthWestern Energy Group, Inc.  - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "NWE"
   },
@@ -71282,6 +71318,12 @@
    "yahoo_symbol": "SYPR"
   },
   {
+   "symbol": "SYRA",
+   "name": "Syra Health Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYRA"
+  },
+  {
    "symbol": "SYRS",
    "name": "Syros Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72966,24 +73008,6 @@
    "name": "Upstart Holdings, Inc. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "UPST"
-  },
-  {
-   "symbol": "UPTD",
-   "name": "TradeUP Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UPTD"
-  },
-  {
-   "symbol": "UPTDU",
-   "name": "TradeUP Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UPTDU"
-  },
-  {
-   "symbol": "UPTDW",
-   "name": "TradeUP Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UPTDW"
   },
   {
    "symbol": "UPWD",
@@ -75765,7 +75789,7 @@
   },
   {
    "symbol": "AEG",
-   "name": "AEGON N.V. Common Stock",
+   "name": "Aegon Ltd. New York Registry Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "AEG"
   },
@@ -76866,12 +76890,6 @@
    "name": "Aramark Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ARMK"
-  },
-  {
-   "symbol": "ARMK.V",
-   "name": "Aramark Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ARMK.V"
   },
   {
    "symbol": "ARMN",
@@ -81086,12 +81104,6 @@
    "yahoo_symbol": "DHR"
   },
   {
-   "symbol": "DHR.V",
-   "name": "Danaher Corporation Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DHR.V"
-  },
-  {
    "symbol": "DHT",
    "name": "DHT Holdings, Inc.",
    "exchange": "NYSE",
@@ -83822,24 +83834,6 @@
    "yahoo_symbol": "GFL"
   },
   {
-   "symbol": "GFOR",
-   "name": "Graf Acquisition Corp. IV Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFOR"
-  },
-  {
-   "symbol": "GFOR.U",
-   "name": "Graf Acquisition Corp. IV Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFOR.U"
-  },
-  {
-   "symbol": "GFOR.W",
-   "name": "Graf Acquisition Corp. IV Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFOR.W"
-  },
-  {
    "symbol": "GFR",
    "name": "Greenfire Resources Ltd. Common Shares",
    "exchange": "NYSE",
@@ -86205,15 +86199,9 @@
   },
   {
    "symbol": "K",
-   "name": "Kellogg Company Common Stock",
+   "name": "Kellanova Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "K"
-  },
-  {
-   "symbol": "K.V",
-   "name": "Kellogg Company Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "K.V"
   },
   {
    "symbol": "KAI",
@@ -86408,10 +86396,10 @@
    "yahoo_symbol": "KKRS"
   },
   {
-   "symbol": "KLG.V",
-   "name": "WK Kellogg Co Common Stock When-Issued",
+   "symbol": "KLG",
+   "name": "WK Kellogg Co Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "KLG.V"
+   "yahoo_symbol": "KLG"
   },
   {
    "symbol": "KLR",
@@ -86702,10 +86690,22 @@
    "yahoo_symbol": "L"
   },
   {
+   "symbol": "LAAC.V",
+   "name": "Lithium Americas (Argentina) Corp. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAAC.V"
+  },
+  {
    "symbol": "LAC",
    "name": "Lithium Americas Corp. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "LAC"
+  },
+  {
+   "symbol": "LAC.V",
+   "name": "Lithium Americas Corp. Common Shares When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAC.V"
   },
   {
    "symbol": "LAD",
@@ -95432,10 +95432,10 @@
    "yahoo_symbol": "VLT"
   },
   {
-   "symbol": "VLTO.V",
-   "name": "Veralto Corp Common Stock When-Issued",
+   "symbol": "VLTO",
+   "name": "Veralto Corp Common Stock ",
    "exchange": "NYSE",
-   "yahoo_symbol": "VLTO.V"
+   "yahoo_symbol": "VLTO"
   },
   {
    "symbol": "VMC",
@@ -95588,10 +95588,10 @@
    "yahoo_symbol": "VSTO"
   },
   {
-   "symbol": "VSTS.V",
-   "name": "Vestis Corporation Common Stock When-Issued",
+   "symbol": "VSTS",
+   "name": "Vestis Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "VSTS.V"
+   "yahoo_symbol": "VSTS"
   },
   {
    "symbol": "VTAK",
