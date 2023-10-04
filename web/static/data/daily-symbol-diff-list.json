@@ -1,65 +1,78 @@
 {
  "added": [
   {
-   "symbol": "KNGZ",
-   "name": "First Trust S\u0026P 500 Diversified Dividend Aristocrats ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KNGZ"
+   "symbol": "BOND",
+   "name": "Evolve Enhanced Yield Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BOND.TO",
+   "instruments": [
+    {
+     "name": "Evolve EnhnYldBnd Hg",
+     "symbol": "BOND"
+    }
+   ]
   },
   {
-   "symbol": "NKGN",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NKGN"
+   "symbol": "QQQY",
+   "name": "Evolve NASDAQ Technology Enhanced Yield Index Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQQY.TO",
+   "instruments": [
+    {
+     "name": "Evolve NASDAQ TecHeg",
+     "symbol": "QQQY"
+    }
+   ]
   },
   {
-   "symbol": "NKGNW",
-   "name": "NKGen Biotech, Inc. - Warrants",
+   "symbol": "LAAC",
+   "name": "Lithium Americas (Argentina) Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LAAC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Argentina",
+     "symbol": "LAAC"
+    }
+   ]
+  },
+  {
+   "symbol": "LAAC",
+   "name": "Lithium Americas (Argentina) Corp. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAAC"
+  },
+  {
+   "symbol": "AFMD",
+   "name": "Affimed N.V. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NKGNW"
-  },
-  {
-   "symbol": "NVNI",
-   "name": "Nvni Group Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVNI"
-  },
-  {
-   "symbol": "NVNIW",
-   "name": "Nvni Group Limited - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVNIW"
+   "yahoo_symbol": "AFMD"
   }
  ],
  "removed": [
   {
-   "symbol": "LFACU",
-   "name": "LF Capital Acquisition Corp. II - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LFACU"
-  },
-  {
-   "symbol": "RNDV",
-   "name": "US Equity Dividend Select ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNDV"
-  },
-  {
-   "symbol": "LFAC",
-   "name": "LF Capital Acquisition Corp. II - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LFAC"
-  },
-  {
-   "symbol": "LFACW",
-   "name": "LF Capital Acquisition Corp. II - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LFACW"
-  },
-  {
-   "symbol": "CELL",
-   "name": "PhenomeX Inc. - Common Stock",
+   "symbol": "SDC",
+   "name": "SmileDirectClub, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CELL"
+   "yahoo_symbol": "SDC"
+  },
+  {
+   "symbol": "LAC.V",
+   "name": "Lithium Americas Corp. Common Shares When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAC.V"
+  },
+  {
+   "symbol": "AFMD",
+   "name": "Affimed N.V. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFMD"
+  },
+  {
+   "symbol": "LAAC.V",
+   "name": "Lithium Americas (Argentina) Corp. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAAC.V"
   }
  ]
 }

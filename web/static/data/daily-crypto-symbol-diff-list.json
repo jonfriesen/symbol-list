@@ -1,22 +1,38 @@
 {
  "added": [
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "X",
+   "name": "AI-X (X)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "PALET",
+   "name": "Palette (PALET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRITTO",
+   "name": "Britto (BRITTO)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BRITTO",
+   "name": "Britto (BRITTO)"
   }
  ]
 }
