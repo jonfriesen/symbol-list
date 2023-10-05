@@ -1,5 +1,5 @@
 {
- "date": "2023-10-04",
+ "date": "2023-10-05",
  "data": [
   {
    "symbol": "ONE",
@@ -12502,6 +12502,18 @@
    ]
   },
   {
+   "symbol": "NICK",
+   "name": "Nickelex Resource Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NICK.V",
+   "instruments": [
+    {
+     "name": "Nickelex Resource Corporation",
+     "symbol": "NICK"
+    }
+   ]
+  },
+  {
    "symbol": "NIM",
    "name": "Nicola Mining Inc.",
    "exchange": "TSXV",
@@ -15982,6 +15994,18 @@
    ]
   },
   {
+   "symbol": "SEND",
+   "name": "Sendero Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SEND.V",
+   "instruments": [
+    {
+     "name": "Sendero Resources Corp.",
+     "symbol": "SEND"
+    }
+   ]
+  },
+  {
    "symbol": "SEVN.P",
    "name": "Seven Oaks Capital Corp.",
    "exchange": "TSXV",
@@ -17634,6 +17658,18 @@
    ]
   },
   {
+   "symbol": "MIT",
+   "name": "The Mint Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MIT.V",
+   "instruments": [
+    {
+     "name": "The Mint Corporation",
+     "symbol": "MIT"
+    }
+   ]
+  },
+  {
    "symbol": "MYLK",
    "name": "The Planting Hope Company Inc.",
    "exchange": "TSXV",
@@ -18722,18 +18758,6 @@
     {
      "name": "Valore Metals Corp.",
      "symbol": "VO"
-    }
-   ]
-  },
-  {
-   "symbol": "VQA",
-   "name": "Valterra Resource Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VQA.V",
-   "instruments": [
-    {
-     "name": "Valterra Resource Corporation",
-     "symbol": "VQA"
     }
    ]
   },
@@ -27862,18 +27886,6 @@
    ]
   },
   {
-   "symbol": "CARE",
-   "name": "Dialogue Health Technologies Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CARE.TO",
-   "instruments": [
-    {
-     "name": "Dialogue Hlth Tech J",
-     "symbol": "CARE"
-    }
-   ]
-  },
-  {
    "symbol": "DRT",
    "name": "DIRTT Environmental Solutions Ltd.",
    "exchange": "TSX",
@@ -32994,6 +33006,22 @@
    ]
   },
   {
+   "symbol": "LPAY",
+   "name": "Horizons Long-Term U.S. Treasury Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LPAY.TO",
+   "instruments": [
+    {
+     "name": "Horizn LTrm US Treas",
+     "symbol": "LPAY"
+    },
+    {
+     "name": "Horizn LTrmUS TreaUS",
+     "symbol": "LPAY.U"
+    }
+   ]
+  },
+  {
    "symbol": "HMMJ",
    "name": "Horizons Marijuana Life Sciences Index ETF",
    "exchange": "TSX",
@@ -33006,6 +33034,22 @@
     {
      "name": "Horizons Marij US",
      "symbol": "HMMJ.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MPAY",
+   "name": "Horizons Mid-Term U.S. Treasury Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MPAY.TO",
+   "instruments": [
+    {
+     "name": "Horizn MTrm US Treas",
+     "symbol": "MPAY"
+    },
+    {
+     "name": "Horizn MTrmUS TreaUS",
+     "symbol": "MPAY.U"
     }
    ]
   },
@@ -33190,6 +33234,22 @@
     {
      "name": "Horizon Seasonl E Un",
      "symbol": "HAC"
+    }
+   ]
+  },
+  {
+   "symbol": "SPAY",
+   "name": "Horizons Short-Term U.S. Treasury Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPAY.TO",
+   "instruments": [
+    {
+     "name": "Horizon ST US Treas",
+     "symbol": "SPAY"
+    },
+    {
+     "name": "HoriznST US Treas US",
+     "symbol": "SPAY.U"
     }
    ]
   },
@@ -36544,7 +36604,7 @@
    "yahoo_symbol": "LAAC.TO",
    "instruments": [
     {
-     "name": "Lithium Argentina",
+     "name": "Lithium Argentina J",
      "symbol": "LAAC"
     }
    ]
@@ -39570,18 +39630,6 @@
    ]
   },
   {
-   "symbol": "PIPE",
-   "name": "Pipestone Energy Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "PIPE.TO",
-   "instruments": [
-    {
-     "name": "Pipestone Energy",
-     "symbol": "PIPE"
-    }
-   ]
-  },
-  {
    "symbol": "PZA",
    "name": "Pizza Pizza Royalty Corp.",
    "exchange": "TSX",
@@ -42154,6 +42202,18 @@
     {
      "name": "StorageVault 5% Deb",
      "symbol": "SVI.DB.C"
+    }
+   ]
+  },
+  {
+   "symbol": "SCR",
+   "name": "Strathcona Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCR.TO",
+   "instruments": [
+    {
+     "name": "Pipestone Energy",
+     "symbol": "SCR"
     }
    ]
   },
@@ -48018,7 +48078,7 @@
   {
    "symbol": "BQ",
    "name": "Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "BQ"
   },
   {
@@ -55826,18 +55886,6 @@
    "name": "WK Kellogg Co Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "KLG"
-  },
-  {
-   "symbol": "KLR",
-   "name": "Kaleyra, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KLR"
-  },
-  {
-   "symbol": "KLR.W",
-   "name": "Kaleyra, Inc. Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "KLR.W"
   },
   {
    "symbol": "KMB",
@@ -71752,12 +71800,6 @@
    "yahoo_symbol": "CGO"
   },
   {
-   "symbol": "CGRN",
-   "name": "Capstone Green Energy Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGRN"
-  },
-  {
    "symbol": "CGTX",
    "name": "Cognition Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -79348,12 +79390,6 @@
    "yahoo_symbol": "HSTM"
   },
   {
-   "symbol": "HSTO",
-   "name": "Histogen Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSTO"
-  },
-  {
    "symbol": "HTBI",
    "name": "HomeTrust Bancshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -79994,12 +80030,6 @@
    "name": "International General Insurance Holdings Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "IGIC"
-  },
-  {
-   "symbol": "IGICW",
-   "name": "International General Insurance Holdings Ltd. - Warrant expiring 3/17/2025",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IGICW"
   },
   {
    "symbol": "IGMS",
@@ -92409,6 +92439,12 @@
    "yahoo_symbol": "SWKH"
   },
   {
+   "symbol": "SWKHL",
+   "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWKHL"
+  },
+  {
    "symbol": "SWKS",
    "name": "Skyworks Solutions, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -95017,12 +95053,6 @@
    "name": "Global X Data Center REITs \u0026 Digital Infrastructure ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VPN"
-  },
-  {
-   "symbol": "VQS",
-   "name": "VIQ Solutions Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VQS"
   },
   {
    "symbol": "VR",

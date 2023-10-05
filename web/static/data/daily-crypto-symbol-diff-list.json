@@ -1,9 +1,23 @@
 {
  "added": [
   {
-   "symbol": "X",
-   "name": "AI-X (X)",
+   "symbol": "TEDDYV2",
+   "name": "Teddy Doge v2 (TEDDYV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BJK",
+   "name": "Beşiktaş (BJK)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUNDAE",
+   "name": "Sundae the Dog (SUNDAE)"
   },
   {
    "symbol": "DOG",
@@ -11,28 +25,13 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
   },
   {
    "symbol": "GETH",
    "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "PALET",
-   "name": "Palette (PALET)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BRITTO",
-   "name": "Britto (BRITTO)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "BRITTO",
-   "name": "Britto (BRITTO)"
   }
  ]
 }
