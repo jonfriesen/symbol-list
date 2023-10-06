@@ -1,192 +1,126 @@
 {
  "added": [
   {
-   "symbol": "NICK",
-   "name": "Nickelex Resource Corporation",
+   "symbol": "EKG",
+   "name": "CardioComm Solutions, Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "NICK.V",
+   "yahoo_symbol": "EKG.V",
    "instruments": [
     {
-     "name": "Nickelex Resource Corporation",
-     "symbol": "NICK"
+     "name": "CardioComm Solutions, Inc.",
+     "symbol": "EKG"
     }
    ]
   },
   {
-   "symbol": "SEND",
-   "name": "Sendero Resources Corp.",
+   "symbol": "ICRS",
+   "name": "Icarus Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SEND.V",
+   "yahoo_symbol": "ICRS.V",
    "instruments": [
     {
-     "name": "Sendero Resources Corp.",
-     "symbol": "SEND"
+     "name": "Icarus Capital Corp.",
+     "symbol": "ICRS"
     }
    ]
   },
   {
-   "symbol": "MIT",
-   "name": "The Mint Corporation",
+   "symbol": "INIK",
+   "name": "PopReach Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "MIT.V",
+   "yahoo_symbol": "INIK.V",
    "instruments": [
     {
-     "name": "The Mint Corporation",
-     "symbol": "MIT"
+     "name": "PopReach Corporation",
+     "symbol": "INIK"
     }
    ]
   },
   {
-   "symbol": "LPAY",
-   "name": "Horizons Long-Term U.S. Treasury Premium Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "LPAY.TO",
+   "symbol": "FRSH",
+   "name": "The Fresh Factory B.C. Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRSH.V",
    "instruments": [
     {
-     "name": "Horizn LTrm US Treas",
-     "symbol": "LPAY"
-    },
-    {
-     "name": "Horizn LTrmUS TreaUS",
-     "symbol": "LPAY.U"
+     "name": "The Fresh Factory B.C. Ltd",
+     "symbol": "FRSH"
     }
    ]
   },
   {
-   "symbol": "MPAY",
-   "name": "Horizons Mid-Term U.S. Treasury Premium Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MPAY.TO",
-   "instruments": [
-    {
-     "name": "Horizn MTrm US Treas",
-     "symbol": "MPAY"
-    },
-    {
-     "name": "Horizn MTrmUS TreaUS",
-     "symbol": "MPAY.U"
-    }
-   ]
-  },
-  {
-   "symbol": "SPAY",
-   "name": "Horizons Short-Term U.S. Treasury Premium Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SPAY.TO",
-   "instruments": [
-    {
-     "name": "Horizon ST US Treas",
-     "symbol": "SPAY"
-    },
-    {
-     "name": "HoriznST US Treas US",
-     "symbol": "SPAY.U"
-    }
-   ]
-  },
-  {
-   "symbol": "SCR",
-   "name": "Strathcona Resources Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SCR.TO",
-   "instruments": [
-    {
-     "name": "Pipestone Energy",
-     "symbol": "SCR"
-    }
-   ]
-  },
-  {
-   "symbol": "BQ",
-   "name": "Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BQ"
-  },
-  {
-   "symbol": "SWKHL",
-   "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027",
+   "symbol": "JTEK",
+   "name": "JPMorgan U.S. Tech Leaders ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SWKHL"
+   "yahoo_symbol": "JTEK"
+  },
+  {
+   "symbol": "MSS",
+   "name": "Maison Solutions Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSS"
   }
  ],
  "removed": [
   {
-   "symbol": "IGICW",
-   "name": "International General Insurance Holdings Ltd. - Warrant expiring 3/17/2025",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IGICW"
-  },
-  {
-   "symbol": "PIPE",
-   "name": "Pipestone Energy Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "PIPE.TO",
-   "instruments": [
-    {
-     "name": "Pipestone Energy",
-     "symbol": "PIPE"
-    }
-   ]
-  },
-  {
-   "symbol": "VQS",
-   "name": "VIQ Solutions Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VQS"
-  },
-  {
-   "symbol": "CGRN",
-   "name": "Capstone Green Energy Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGRN"
-  },
-  {
-   "symbol": "KLR.W",
-   "name": "Kaleyra, Inc. Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "KLR.W"
-  },
-  {
-   "symbol": "HSTO",
-   "name": "Histogen Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSTO"
-  },
-  {
-   "symbol": "CARE",
-   "name": "Dialogue Health Technologies Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CARE.TO",
-   "instruments": [
-    {
-     "name": "Dialogue Hlth Tech J",
-     "symbol": "CARE"
-    }
-   ]
-  },
-  {
-   "symbol": "VQA",
-   "name": "Valterra Resource Corporation",
+   "symbol": "ICRS.P",
+   "name": "Icarus Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "VQA.V",
+   "yahoo_symbol": "ICRS.P.V",
    "instruments": [
     {
-     "name": "Valterra Resource Corporation",
-     "symbol": "VQA"
+     "name": "Icarus Capital Corp.",
+     "symbol": "ICRS.P"
     }
    ]
   },
   {
-   "symbol": "KLR",
-   "name": "Kaleyra, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KLR"
+   "symbol": "NAVB",
+   "name": "Navidea Biopharmaceuticals, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NAVB"
   },
   {
-   "symbol": "BQ",
-   "name": "Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares",
+   "symbol": "FZT.U",
+   "name": "FAST Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "BQ"
+   "yahoo_symbol": "FZT.U"
+  },
+  {
+   "symbol": "FZT.W",
+   "name": "FAST Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FZT.W"
+  },
+  {
+   "symbol": "FZT",
+   "name": "FAST Acquisition Corp. II Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FZT"
+  },
+  {
+   "symbol": "POPR",
+   "name": "PopReach Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "POPR.V",
+   "instruments": [
+    {
+     "name": "PopReach Corporation",
+     "symbol": "POPR"
+    }
+   ]
+  },
+  {
+   "symbol": "CXG",
+   "name": "Canxgold Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CXG.V",
+   "instruments": [
+    {
+     "name": "Canxgold Mining Corp.",
+     "symbol": "CXG"
+    }
+   ]
   }
  ]
 }

@@ -1,14 +1,18 @@
 {
  "added": [
   {
-   "symbol": "TEDDYV2",
-   "name": "Teddy Doge v2 (TEDDYV2)",
-   "built_on": "BNB"
+   "symbol": "SUNDAE",
+   "name": "Sundae the Dog (SUNDAE)",
+   "built_on": "ARB"
   },
   {
-   "symbol": "BJK",
-   "name": "Beşiktaş (BJK)",
-   "built_on": "ETH"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "LIXX",
+   "name": "Libra Incentix (LIXX)",
+   "built_on": "BNB"
   },
   {
    "symbol": "BANK",
@@ -16,22 +20,19 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "SUNDAE",
-   "name": "Sundae the Dog (SUNDAE)"
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
   },
   {
    "symbol": "DOG",
    "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
-  },
+  }
+ ],
+ "removed": [
   {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "SUNDAE",
+   "name": "Sundae the Dog (SUNDAE)"
   }
  ]
 }
