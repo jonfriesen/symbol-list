@@ -1,5 +1,5 @@
 {
- "date": "2023-10-06",
+ "date": "2023-10-09",
  "data": [
   {
    "symbol": "ONE",
@@ -48514,24 +48514,6 @@
    "yahoo_symbol": "BIOR"
   },
   {
-   "symbol": "BIOS",
-   "name": "BioPlus Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BIOS"
-  },
-  {
-   "symbol": "BIOSU",
-   "name": "BioPlus Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BIOSU"
-  },
-  {
-   "symbol": "BIOSW",
-   "name": "BioPlus Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BIOSW"
-  },
-  {
    "symbol": "BIOX",
    "name": "Bioceres Crop Solutions Corp. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -54850,6 +54832,24 @@
    "yahoo_symbol": "FBRX"
   },
   {
+   "symbol": "FBYD",
+   "name": "Falcon's Beyond Global, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBYD"
+  },
+  {
+   "symbol": "FBYDP",
+   "name": "Falcon's Beyond Global, Inc. - 8% Series A Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBYDP"
+  },
+  {
+   "symbol": "FBYDW",
+   "name": "Falcon's Beyond Global, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FBYDW"
+  },
+  {
    "symbol": "FBZ",
    "name": "First Trust Brazil AlphaDEX Fund",
    "exchange": "NASDAQ Global MarketSM",
@@ -57478,6 +57478,12 @@
    "yahoo_symbol": "GURE"
   },
   {
+   "symbol": "GV",
+   "name": "Visionary Education Technology Holdings Group Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GV"
+  },
+  {
    "symbol": "GVP",
    "name": "GSE Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -58532,12 +58538,6 @@
    "name": "Hyzon Motors Inc. - Warrant",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HYZNW"
-  },
-  {
-   "symbol": "HZNP",
-   "name": "Horizon Therapeutics Public Limited Company - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HZNP"
   },
   {
    "symbol": "IAC",
@@ -67641,6 +67641,12 @@
    "yahoo_symbol": "QDROW"
   },
   {
+   "symbol": "QETAU",
+   "name": "Quetta Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QETAU"
+  },
+  {
    "symbol": "QFIN",
    "name": "Qifu Technology, Inc - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68665,12 +68671,6 @@
    "name": "Small Cap US Equity Select ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RNSC"
-  },
-  {
-   "symbol": "RNST",
-   "name": "Renasant Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RNST"
   },
   {
    "symbol": "RNW",
@@ -70669,6 +70669,12 @@
    "name": "SPI Energy Co., Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SPI"
+  },
+  {
+   "symbol": "SPKLU",
+   "name": "Spark I Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPKLU"
   },
   {
    "symbol": "SPLK",
@@ -73501,12 +73507,6 @@
    "name": "Veeco Instruments Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VECO"
-  },
-  {
-   "symbol": "VEDU",
-   "name": "Visionary Education Technology Holdings Group Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VEDU"
   },
   {
    "symbol": "VEEE",
@@ -79495,12 +79495,6 @@
    "name": "ClearBridge MLP and Midstream Fund Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CEM"
-  },
-  {
-   "symbol": "CEN",
-   "name": "Center Coast Brookfield MLP \u0026 Energy Infrastructure Fund",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CEN"
   },
   {
    "symbol": "CEPU",
@@ -92037,6 +92031,12 @@
    "yahoo_symbol": "RNR$G"
   },
   {
+   "symbol": "RNST",
+   "name": "Renasant Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RNST"
+  },
+  {
    "symbol": "ROG",
    "name": "Rogers Corporation Common Stock",
    "exchange": "NYSE",
@@ -95285,19 +95285,19 @@
   {
    "symbol": "VCXB",
    "name": "10X Capital Venture Acquisition Corp. III Class A Ordinary Shares",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "VCXB"
   },
   {
    "symbol": "VCXB.U",
    "name": "10X Capital Venture Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "VCXB.U"
   },
   {
    "symbol": "VCXB.W",
    "name": "10X Capital Venture Acquisition Corp. III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share, each at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "VCXB.W"
   },
   {
