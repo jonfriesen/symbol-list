@@ -1,5 +1,5 @@
 {
- "date": "2023-10-09",
+ "date": "2023-10-10",
  "data": [
   {
    "symbol": "ONE",
@@ -9334,18 +9334,6 @@
    ]
   },
   {
-   "symbol": "IOU",
-   "name": "IOU Financial Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IOU.V",
-   "instruments": [
-    {
-     "name": "IOU Financial Inc.",
-     "symbol": "IOU"
-    }
-   ]
-  },
-  {
    "symbol": "ISO",
    "name": "IsoEnergy Ltd.",
    "exchange": "TSXV",
@@ -10874,6 +10862,22 @@
     {
      "name": "Magna Terra Minerals Inc.",
      "symbol": "MTT"
+    }
+   ]
+  },
+  {
+   "symbol": "MNC",
+   "name": "Magnetic North Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNC.V",
+   "instruments": [
+    {
+     "name": "Magnetic North Acquisition Corp.",
+     "symbol": "MNC"
+    },
+    {
+     "name": "Magnetic North Acquisition Corp pref a",
+     "symbol": "MNC.PR.A"
     }
    ]
   },
@@ -17558,18 +17562,6 @@
     {
      "name": "Tenth Avenue Petroleum Corp.",
      "symbol": "TPC"
-    }
-   ]
-  },
-  {
-   "symbol": "TRA",
-   "name": "Teras Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TRA.V",
-   "instruments": [
-    {
-     "name": "Teras Resources Inc.",
-     "symbol": "TRA"
     }
    ]
   },
@@ -36734,18 +36726,6 @@
     {
      "name": "Lundin Mining Corp",
      "symbol": "LUN"
-    }
-   ]
-  },
-  {
-   "symbol": "LXR",
-   "name": "LXRandCo, Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "LXR.TO",
-   "instruments": [
-    {
-     "name": "LXRandCo, Inc. J B",
-     "symbol": "LXR"
     }
    ]
   },
@@ -57184,6 +57164,12 @@
    "yahoo_symbol": "GPACW"
   },
   {
+   "symbol": "GPAK",
+   "name": "Gamer Pakistan Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GPAK"
+  },
+  {
    "symbol": "GPCR",
    "name": "Structure Therapeutics Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -64107,10 +64093,28 @@
    "yahoo_symbol": "NN"
   },
   {
+   "symbol": "NNAG",
+   "name": "99 Acquisition Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAG"
+  },
+  {
+   "symbol": "NNAGR",
+   "name": "99 Acquisition Group Inc. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAGR"
+  },
+  {
    "symbol": "NNAGU",
    "name": "99 Acquisition Group Inc. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NNAGU"
+  },
+  {
+   "symbol": "NNAGW",
+   "name": "99 Acquisition Group Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAGW"
   },
   {
    "symbol": "NNAVW",
@@ -86209,24 +86213,6 @@
    "name": "Jianpu Technology Inc. American depositary shares",
    "exchange": "NYSE",
    "yahoo_symbol": "JT"
-  },
-  {
-   "symbol": "JUN",
-   "name": "Juniper II Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JUN"
-  },
-  {
-   "symbol": "JUN.U",
-   "name": "Juniper II Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JUN.U"
-  },
-  {
-   "symbol": "JUN.W",
-   "name": "Juniper II Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JUN.W"
   },
   {
    "symbol": "JWN",
