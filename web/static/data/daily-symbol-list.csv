@@ -24,7 +24,6 @@ ADC.P,Adagio Capital Inc.,TSXV,ADC.P.V,Adagio Capital Inc.,ADC.P
 ADZ,Adamera Minerals Corp.,TSXV,ADZ.V,Adamera Minerals Corp.,ADZ
 ADE,Adex Mining Inc.,TSXV,ADE.V,Adex Mining Inc,ADE
 RABI,AdRabbit Limited,TSXV,RABI.V,AdRabbit Limited,RABI
-AALI,Advance Lithium Corp.,TSXV,AALI.V,Advance Lithium Corp.,AALI
 AWI,Advent-AWI Holdings Inc.,TSXV,AWI.V,Advent-AWI Holdings Inc.,AWI
 ADZN,Adventus Mining Corporation,TSXV,ADZN.V,Adventus Mining Corporation,ADZN
 ADYA,ADYA Inc.,TSXV,ADYA.V,ADYA Inc.,ADYA
@@ -408,7 +407,6 @@ FARM,Deveron Corp.,TSXV,FARM.V,Deveron Corp.,FARM,Deveron Corp. wt 25feb2024,FAR
 GSD,Devonian Health Group Inc.,TSXV,GSD.V,Devonian Health Group Inc.,GSD
 DFR,DFR Gold Inc.,TSXV,DFR.V,DFR Gold Inc.,DFR
 DGL.P,DGL Investments No.1 Inc,TSXV,DGL.P.V,DGL Investments No. 1 Inc.,DGL.P
-DGTL,DGTL Holdings Inc.,TSXV,DGTL.V,DGTL Holdings Inc.,DGTL
 ADK,Diagnos Inc.,TSXV,ADK.V,Diagnos Inc.,ADK
 DMI,Diamcor Mining Inc.,TSXV,DMI.V,Diamcor Mining Inc,DMI
 DWS,Diamond Estates Wines & Spirits Inc.,TSXV,DWS.V,Diamond Estates Wines & Spirits Inc.,DWS
@@ -890,7 +888,7 @@ BMK,MacDonald Mines Exploration Ltd.,TSXV,BMK.V,MacDonald Mines Exploration Ltd.
 MDM,Madoro Metals Corp.,TSXV,MDM.V,Madoro Metals Corp.,MDM
 NICU,Magna Mining Inc.,TSXV,NICU.V,Magna Mining Inc.,NICU
 MTT,Magna Terra Minerals Inc.,TSXV,MTT.V,Magna Terra Minerals Inc.,MTT
-MNC,Magnetic North Acquisition Corp.,TSXV,MNC.V,Magnetic North Acquisition Corp.,MNC,Magnetic North Acquisition Corp pref a,MNC.PR.A
+MNC,Magnetic North Acquisition Corp.,TSXV,MNC.V,Magnetic North Acquisition Corp.,MNC,Magnetic North Acquisition Corp. pref a,MNC.PR.A
 MGI,Magnum Goldcorp Inc.,TSXV,MGI.V,Magnum Goldcorp Inc.,MGI
 MJS,Majestic Gold Corp.,TSXV,MJS.V,Majestic Gold Corp.,MJS
 MKO,Mako Mining Corp.,TSXV,MKO.V,Mako Mining Corp.,MKO
@@ -2542,9 +2540,13 @@ HCON,Horizons Conservative Asset Allocation ETF,TSX,HCON.TO,Horizons Conserv A,H
 COPP,Horizons Copper Producers Index ETF,TSX,COPP.TO,Horizons Copper A Un,COPP
 HUC,Horizons Crude Oil ETF,TSX,HUC.TO,Horizons CrudOil ETF,HUC
 HXEM,Horizons Emerging Markets Equity Index ETF,TSX,HXEM.TO,Horizons EmergMkt Eq,HXEM
+EQCL,Horizons Enhanced All-Equity Asset Allocation Covered Call ETF,TSX,EQCL.TO,Horizn EqAstAlocCvCl,EQCL
+HEQL,Horizons Enhanced All-Equity Asset Allocation ETF,TSX,HEQL.TO,Horizon Eq AsstAlloc,HEQL
 CNCL,Horizons Enhanced Canadian Large Cap Equity Covered Call ETF,TSX,CNCL.TO,Horizn CdnLgCpEqCvCl,CNCL
+ENCL,Horizons Enhanced Canadian Oil and Gas Equity Covered Call ETF,TSX,ENCL.TO,Horizn Cdn O&GEqCvCl,ENCL
 BNKL,Horizons Enhanced Equal Weight Banks Index ETF,TSX,BNKL.TO,Horizn EnEqWgtBnkIdx,BNKL
 BKCL,Horizons Enhanced Equal Weight Canadian Banks Covered Call ETF,TSX,BKCL.TO,Horizn =WgtCdnBkCall,BKCL
+QQCL,Horizons Enhanced NASDAQ-100 Covered Call ETF,TSX,QQCL.TO,Horizn NASDQ100CvrCl,QQCL
 CANL,Horizons Enhanced S&P/TSX 60 Index ETF,TSX,CANL.TO,Horizn EnhnS&P/TSX60,CANL
 USCL,Horizons Enhanced US Large Cap Equity Covered Call ETF,TSX,USCL.TO,HoriznUS LgCpEqCvrCl,USCL
 HBNK,Horizons Equal Weight Banks Index ETF,TSX,HBNK.TO,Horizn EqWgtBanksIdx,HBNK
@@ -2562,6 +2564,8 @@ HURA,Horizons Global Uranium Index ETF,TSX,HURA.TO,Horizon GlbUranium A,HURA
 HUG,Horizons Gold ETF,TSX,HUG.TO,Horizons Gold ETF,HUG
 GLCC,Horizons Gold Producer Equity Covered Call ETF,TSX,GLCC.TO,Horizn Gld EqCvCll E,GLCC
 HGY,Horizons Gold Yield ETF,TSX,HGY.TO,Horizons GldYld E Un,HGY
+GRCC,Horizons Growth Asset Allocation Covered Call ETF,TSX,GRCC.TO,HoriznGroAstAlocCvCl,GRCC
+HGRW,Horizons Growth Asset Allocation ETF,TSX,HGRW.TO,Horizon GroAsstAlloc,HGRW
 HBUG,Horizons GX Cybersecurity Index ETF,TSX,HBUG.TO,HorizonsGX CybrsecUn,HBUG
 CASH,Horizons High Interest Savings ETF,TSX,CASH.TO,Horizons HiIntSvgs A,CASH
 FOUR,Horizons Industry 4.0 Index ETF,TSX,FOUR.TO,Horizons Indust A Un,FOUR
@@ -3352,7 +3356,6 @@ TOT,Total Energy Services Inc.,TSX,TOT.TO,Total Engy Serv Inc.,TOT
 TXP,Touchstone Exploration Inc.,TSX,TXP.TO,Touchstone Expl Inc.,TXP
 TOU,Tourmaline Oil Corp.,TSX,TOU.TO,Tourmaline Oil Corp.,TOU
 TA,TransAlta Corporation,TSX,TA.TO,TransAlta Corp.,TA,TransAlta Ser A Pr,TA.PR.D,TransAlta Ser B Pr,TA.PR.E,TransAlta Ser C Pr,TA.PR.F,TransAlta Ser D Pr,TA.PR.G,TransAlta Ser E Pr ,TA.PR.H,TransAlta Ser G Pr,TA.PR.J
-RNW,TransAlta Renewables Inc.,TSX,RNW.TO,TransAlta Renewable,RNW
 TRZ,Transat A.T. Inc.,TSX,TRZ.TO,Transat A.T. V & VV,TRZ
 TCL.A,Transcontinental Inc.,TSX,TCL.A.TO,Transcontinentl A SV,TCL.A,Transcontinentl B MV,TCL.B
 TML,Treasury Metals Inc.,TSX,TML.TO,Treasury Metals J,TML
@@ -5473,6 +5476,7 @@ GMFI,Aetherium Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,G
 GMFIU,Aetherium Acquisition Corp. - Unit,NASDAQ Global MarketSM,GMFIU
 GMFIW,Aetherium Acquisition Corp. - Warrant,NASDAQ Global MarketSM,GMFIW
 GMGI,"Golden Matrix Group, Inc. - Common Stock",NASDAQ Capital Market,GMGI
+GMM,Global Mofy Metaverse Limited - Ordinary Shares,NASDAQ Capital Market,GMM
 GNFT,GENFIT S.A. - American Depositary Shares,NASDAQ Global Select MarketSM,GNFT
 GNLN,"Greenlane Holdings, Inc. - Class A Common Stock",NASDAQ Global MarketSM,GNLN
 GNLX,Genelux Corporation - Common Stock,NASDAQ Capital Market,GNLX
@@ -6260,6 +6264,7 @@ LRCX,Lam Research Corporation - Common Stock,NASDAQ Global Select MarketSM,LRCX
 LRE,"Lead Real Estate Co., Ltd - American Depositary Shares",NASDAQ Global MarketSM,LRE
 LRFC,Logan Ridge Finance Corporation - Common Stock,NASDAQ Global Select MarketSM,LRFC
 LRGE,ClearBridge Large Cap Growth ESG ETF,NASDAQ Global MarketSM,LRGE
+LRHC,La Rosa Holdings Corp. - Common Stock,NASDAQ Capital Market,LRHC
 LRMR,"Larimar Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,LRMR
 LRND,IQ U.S. Large Cap R&D Leaders ETF,NASDAQ Global MarketSM,LRND
 LSAK,"Lesaka Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,LSAK
@@ -7087,6 +7092,7 @@ PLXS,Plexus Corp. - Common Stock,NASDAQ Global Select MarketSM,PLXS
 PLYA,Playa Hotels & Resorts N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,PLYA
 PMCB,"PharmaCyte  Biotech, Inc. - Common Stock",NASDAQ Capital Market,PMCB
 PMD,Psychemedics Corporation - Common Stock,NASDAQ Capital Market,PMD
+PMEC,Primech Holdings Ltd. - Ordinary Shares,NASDAQ Capital Market,PMEC
 PMGM,Priveterra Acquisition Corp. II - Class A Common Stock,NASDAQ Capital Market,PMGM
 PMGMU,Priveterra Acquisition Corp. II - Unit,NASDAQ Capital Market,PMGMU
 PMGMW,Priveterra Acquisition Corp. II - Warrant to purchase Class A common stock,NASDAQ Capital Market,PMGMW
@@ -8366,9 +8372,9 @@ WASH,"Washington Trust Bancorp, Inc. - Common Stock",NASDAQ Global Select Market
 WATT,Energous Corporation - Common Stock,NASDAQ Capital Market,WATT
 WAVD,"WaveDancer, Inc.  - Common Stock",NASDAQ Capital Market,WAVD
 WAVE,Eco Wave Power Global AB (publ) - American Depositary Shares,NASDAQ Capital Market,WAVE
-WAVS,Western Acquisition Ventures Corp. - Common Stock,NASDAQ Global MarketSM,WAVS
-WAVSU,Western Acquisition Ventures Corp. - Unit,NASDAQ Global MarketSM,WAVSU
-WAVSW,Western Acquisition Ventures Corp. - Warrant,NASDAQ Global MarketSM,WAVSW
+WAVS,Western Acquisition Ventures Corp. - Common Stock,NASDAQ Capital Market,WAVS
+WAVSU,Western Acquisition Ventures Corp. - Unit,NASDAQ Capital Market,WAVSU
+WAVSW,Western Acquisition Ventures Corp. - Warrant,NASDAQ Capital Market,WAVSW
 WB,Weibo Corporation - American Depositary Shares,NASDAQ Global Select MarketSM,WB
 WBA,"Walgreens Boots Alliance, Inc. - Common Stock",NASDAQ Global Select MarketSM,WBA
 WBD,"Warner Bros. Discovery, Inc. - Series A Common Stock",NASDAQ Global Select MarketSM,WBD
@@ -9021,6 +9027,7 @@ BIP$B,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Pa
 BIPC,Brookfield Infrastructure Corporation ,NYSE,BIPC
 BIPH,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,NYSE,BIPH
 BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,NYSE,BIPI
+BIRK,Birkenstock Holding plc Ordinary Shares,NYSE,BIRK
 BIT,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,NYSE,BIT
 BITE,Bite Acquisition Corp. Common Stock,NYSE MKT,BITE
 BITE.U,"Bite Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant",NYSE MKT,BITE.U
@@ -10735,6 +10742,7 @@ NAK,"Northern Dynasty Minerals, Ltd. Common Stock",NYSE MKT,NAK
 NAN,Nuveen New York Quality Municipal Income Fund Common Stock,NYSE,NAN
 NAPA,"The Duckhorn Portfolio, Inc. Common Stock",NYSE,NAPA
 NAT,Nordic American Tankers Limited Common Stock,NYSE,NAT
+NATL.V,NCR Atleos Corporation Common Stock When-Issued,NYSE,NATL.V
 NAZ,Nuveen Arizona Quality Municipal Income Fund Common Stock,NYSE,NAZ
 NBB,Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,NYSE,NBB
 NBH,Neuberger Berman Municipal Fund Inc. Common Stock,NYSE MKT,NBH
@@ -11929,6 +11937,7 @@ VVV,Valvoline Inc. Common Stock,NYSE,VVV
 VVX,"V2X, Inc. Common Stock",NYSE,VVX
 VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,BATS,VXX
 VXZ,iPath Series B S&P 500 VIX Mid-Term Futures ETN,BATS,VXZ
+VYX.V,NCR Corporation Common Stock When-Issued,NYSE,VYX.V
 VZ,Verizon Communications Inc. Common Stock,NYSE,VZ
 VZIO,VIZIO Holding Corp. Class A Common Stock,NYSE,VZIO
 VZLA,Vizsla Silver Corp. Common Shares,NYSE MKT,VZLA

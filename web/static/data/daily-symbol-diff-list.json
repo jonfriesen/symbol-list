@@ -1,100 +1,186 @@
 {
  "added": [
   {
-   "symbol": "MNC",
-   "name": "Magnetic North Acquisition Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MNC.V",
+   "symbol": "EQCL",
+   "name": "Horizons Enhanced All-Equity Asset Allocation Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQCL.TO",
    "instruments": [
     {
-     "name": "Magnetic North Acquisition Corp.",
-     "symbol": "MNC"
-    },
-    {
-     "name": "Magnetic North Acquisition Corp pref a",
-     "symbol": "MNC.PR.A"
+     "name": "Horizn EqAstAlocCvCl",
+     "symbol": "EQCL"
     }
    ]
   },
   {
-   "symbol": "GPAK",
-   "name": "Gamer Pakistan Inc. - Common Stock",
+   "symbol": "HEQL",
+   "name": "Horizons Enhanced All-Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEQL.TO",
+   "instruments": [
+    {
+     "name": "Horizon Eq AsstAlloc",
+     "symbol": "HEQL"
+    }
+   ]
+  },
+  {
+   "symbol": "ENCL",
+   "name": "Horizons Enhanced Canadian Oil and Gas Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ENCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn Cdn O\u0026GEqCvCl",
+     "symbol": "ENCL"
+    }
+   ]
+  },
+  {
+   "symbol": "QQCL",
+   "name": "Horizons Enhanced NASDAQ-100 Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn NASDQ100CvrCl",
+     "symbol": "QQCL"
+    }
+   ]
+  },
+  {
+   "symbol": "GRCC",
+   "name": "Horizons Growth Asset Allocation Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GRCC.TO",
+   "instruments": [
+    {
+     "name": "HoriznGroAstAlocCvCl",
+     "symbol": "GRCC"
+    }
+   ]
+  },
+  {
+   "symbol": "HGRW",
+   "name": "Horizons Growth Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGRW.TO",
+   "instruments": [
+    {
+     "name": "Horizon GroAsstAlloc",
+     "symbol": "HGRW"
+    }
+   ]
+  },
+  {
+   "symbol": "GMM",
+   "name": "Global Mofy Metaverse Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GPAK"
+   "yahoo_symbol": "GMM"
   },
   {
-   "symbol": "NNAG",
-   "name": "99 Acquisition Group Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NNAG"
+   "symbol": "LRHC",
+   "name": "La Rosa Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LRHC"
   },
   {
-   "symbol": "NNAGR",
-   "name": "99 Acquisition Group Inc. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NNAGR"
+   "symbol": "PMEC",
+   "name": "Primech Holdings Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMEC"
   },
   {
-   "symbol": "NNAGW",
-   "name": "99 Acquisition Group Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NNAGW"
+   "symbol": "WAVS",
+   "name": "Western Acquisition Ventures Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVS"
+  },
+  {
+   "symbol": "WAVSU",
+   "name": "Western Acquisition Ventures Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVSU"
+  },
+  {
+   "symbol": "WAVSW",
+   "name": "Western Acquisition Ventures Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVSW"
+  },
+  {
+   "symbol": "BIRK",
+   "name": "Birkenstock Holding plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIRK"
+  },
+  {
+   "symbol": "NATL.V",
+   "name": "NCR Atleos Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NATL.V"
+  },
+  {
+   "symbol": "VYX.V",
+   "name": "NCR Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VYX.V"
   }
  ],
  "removed": [
   {
-   "symbol": "IOU",
-   "name": "IOU Financial Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IOU.V",
-   "instruments": [
-    {
-     "name": "IOU Financial Inc.",
-     "symbol": "IOU"
-    }
-   ]
+   "symbol": "WAVSU",
+   "name": "Western Acquisition Ventures Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WAVSU"
   },
   {
-   "symbol": "JUN",
-   "name": "Juniper II Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JUN"
-  },
-  {
-   "symbol": "LXR",
-   "name": "LXRandCo, Inc.",
+   "symbol": "RNW",
+   "name": "TransAlta Renewables Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "LXR.TO",
+   "yahoo_symbol": "RNW.TO",
    "instruments": [
     {
-     "name": "LXRandCo, Inc. J B",
-     "symbol": "LXR"
+     "name": "TransAlta Renewable",
+     "symbol": "RNW"
     }
    ]
   },
   {
-   "symbol": "TRA",
-   "name": "Teras Resources Inc.",
+   "symbol": "WAVS",
+   "name": "Western Acquisition Ventures Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WAVS"
+  },
+  {
+   "symbol": "DGTL",
+   "name": "DGTL Holdings Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TRA.V",
+   "yahoo_symbol": "DGTL.V",
    "instruments": [
     {
-     "name": "Teras Resources Inc.",
-     "symbol": "TRA"
+     "name": "DGTL Holdings Inc.",
+     "symbol": "DGTL"
     }
    ]
   },
   {
-   "symbol": "JUN.U",
-   "name": "Juniper II Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JUN.U"
+   "symbol": "AALI",
+   "name": "Advance Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AALI.V",
+   "instruments": [
+    {
+     "name": "Advance Lithium Corp.",
+     "symbol": "AALI"
+    }
+   ]
   },
   {
-   "symbol": "JUN.W",
-   "name": "Juniper II Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JUN.W"
+   "symbol": "WAVSW",
+   "name": "Western Acquisition Ventures Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WAVSW"
   }
  ]
 }
