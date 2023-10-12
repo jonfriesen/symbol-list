@@ -1,186 +1,78 @@
 {
  "added": [
   {
-   "symbol": "EQCL",
-   "name": "Horizons Enhanced All-Equity Asset Allocation Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "EQCL.TO",
+   "symbol": "MDCX",
+   "name": "Medicus Pharma Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MDCX.V",
    "instruments": [
     {
-     "name": "Horizn EqAstAlocCvCl",
-     "symbol": "EQCL"
+     "name": "Medicus Pharma Ltd.",
+     "symbol": "MDCX"
     }
    ]
   },
   {
-   "symbol": "HEQL",
-   "name": "Horizons Enhanced All-Equity Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEQL.TO",
-   "instruments": [
-    {
-     "name": "Horizon Eq AsstAlloc",
-     "symbol": "HEQL"
-    }
-   ]
-  },
-  {
-   "symbol": "ENCL",
-   "name": "Horizons Enhanced Canadian Oil and Gas Equity Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ENCL.TO",
-   "instruments": [
-    {
-     "name": "Horizn Cdn O\u0026GEqCvCl",
-     "symbol": "ENCL"
-    }
-   ]
-  },
-  {
-   "symbol": "QQCL",
-   "name": "Horizons Enhanced NASDAQ-100 Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQCL.TO",
-   "instruments": [
-    {
-     "name": "Horizn NASDQ100CvrCl",
-     "symbol": "QQCL"
-    }
-   ]
-  },
-  {
-   "symbol": "GRCC",
-   "name": "Horizons Growth Asset Allocation Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "GRCC.TO",
-   "instruments": [
-    {
-     "name": "HoriznGroAstAlocCvCl",
-     "symbol": "GRCC"
-    }
-   ]
-  },
-  {
-   "symbol": "HGRW",
-   "name": "Horizons Growth Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HGRW.TO",
-   "instruments": [
-    {
-     "name": "Horizon GroAsstAlloc",
-     "symbol": "HGRW"
-    }
-   ]
-  },
-  {
-   "symbol": "GMM",
-   "name": "Global Mofy Metaverse Limited - Ordinary Shares",
+   "symbol": "ATPC",
+   "name": "Agape ATP Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GMM"
+   "yahoo_symbol": "ATPC"
   },
   {
-   "symbol": "LRHC",
-   "name": "La Rosa Holdings Corp. - Common Stock",
+   "symbol": "FEPI",
+   "name": "REX FANG \u0026 Innovation Equity Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEPI"
+  },
+  {
+   "symbol": "KGEI",
+   "name": "Kolibri Global Energy Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LRHC"
-  },
-  {
-   "symbol": "PMEC",
-   "name": "Primech Holdings Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PMEC"
-  },
-  {
-   "symbol": "WAVS",
-   "name": "Western Acquisition Ventures Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WAVS"
-  },
-  {
-   "symbol": "WAVSU",
-   "name": "Western Acquisition Ventures Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WAVSU"
-  },
-  {
-   "symbol": "WAVSW",
-   "name": "Western Acquisition Ventures Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WAVSW"
-  },
-  {
-   "symbol": "BIRK",
-   "name": "Birkenstock Holding plc Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIRK"
-  },
-  {
-   "symbol": "NATL.V",
-   "name": "NCR Atleos Corporation Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NATL.V"
-  },
-  {
-   "symbol": "VYX.V",
-   "name": "NCR Corporation Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VYX.V"
+   "yahoo_symbol": "KGEI"
   }
  ],
  "removed": [
   {
-   "symbol": "WAVSU",
-   "name": "Western Acquisition Ventures Corp. - Unit",
+   "symbol": "SSU.W",
+   "name": "SIGNA Sports United N.V. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SSU.W"
+  },
+  {
+   "symbol": "SSU",
+   "name": "SIGNA Sports United N.V. Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SSU"
+  },
+  {
+   "symbol": "SAMAW",
+   "name": "Schultze Special Purpose Acquisition Corp. II - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WAVSU"
+   "yahoo_symbol": "SAMAW"
   },
   {
-   "symbol": "RNW",
-   "name": "TransAlta Renewables Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "RNW.TO",
-   "instruments": [
-    {
-     "name": "TransAlta Renewable",
-     "symbol": "RNW"
-    }
-   ]
+   "symbol": "NATI",
+   "name": "National Instruments Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NATI"
   },
   {
-   "symbol": "WAVS",
-   "name": "Western Acquisition Ventures Corp. - Common Stock",
+   "symbol": "SAMAU",
+   "name": "Schultze Special Purpose Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WAVS"
+   "yahoo_symbol": "SAMAU"
   },
   {
-   "symbol": "DGTL",
-   "name": "DGTL Holdings Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DGTL.V",
-   "instruments": [
-    {
-     "name": "DGTL Holdings Inc.",
-     "symbol": "DGTL"
-    }
-   ]
-  },
-  {
-   "symbol": "AALI",
-   "name": "Advance Lithium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AALI.V",
-   "instruments": [
-    {
-     "name": "Advance Lithium Corp.",
-     "symbol": "AALI"
-    }
-   ]
-  },
-  {
-   "symbol": "WAVSW",
-   "name": "Western Acquisition Ventures Corp. - Warrant",
+   "symbol": "SAMA",
+   "name": "Schultze Special Purpose Acquisition Corp. II - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WAVSW"
+   "yahoo_symbol": "SAMA"
+  },
+  {
+   "symbol": "ZYNE",
+   "name": "Zynerba Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZYNE"
   }
  ]
 }
