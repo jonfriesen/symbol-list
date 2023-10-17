@@ -1,9 +1,27 @@
 {
  "added": [
   {
-   "symbol": "BIGTIME",
-   "name": "Big Time (BIGTIME)",
+   "symbol": "SAIL",
+   "name": "SAIL (SAIL)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "TIM",
+   "name": "TIMTIM GAMES (TIM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZTX",
+   "name": "ZTX (ZTX)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
   },
   {
    "symbol": "BANK",
@@ -11,28 +29,9 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "X",
-   "name": "AI-X (X)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ZUZUAI",
-   "name": "ZUZUAI (ZUZUAI)"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "BIGTIME",
-   "name": "Big Time (BIGTIME)"
   }
  ]
 }
