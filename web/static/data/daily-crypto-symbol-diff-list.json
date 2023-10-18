@@ -1,37 +1,41 @@
 {
  "added": [
   {
-   "symbol": "SAIL",
-   "name": "SAIL (SAIL)",
+   "symbol": "AST",
+   "name": "AirSwap (AST)",
    "built_on": "ETH"
   },
   {
-   "symbol": "TIM",
-   "name": "TIMTIM GAMES (TIM)",
-   "built_on": "BNB"
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "ZTX",
-   "name": "ZTX (ZTX)",
-   "built_on": "ARB"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
    "symbol": "XETH",
    "name": "Xplosive Ethereum (XETH)"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "HARD",
+   "name": "Kava Lend (HARD)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AST",
+   "name": "AirSwap (AST)"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
+   "symbol": "HARD",
+   "name": "Kava Lend (HARD)",
+   "built_on": "MATIC"
   }
  ]
 }

@@ -1,144 +1,184 @@
 {
  "added": [
   {
-   "symbol": "RSM",
-   "name": "Resouro Strategic Metals Inc.",
+   "symbol": "FLNT",
+   "name": "Fluent, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLNT"
+  },
+  {
+   "symbol": "VLX",
+   "name": "Velox Energy Materials Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "RSM.V",
+   "yahoo_symbol": "VLX.V",
    "instruments": [
     {
-     "name": "Resouro Strategic Metals Inc.",
-     "symbol": "RSM"
+     "name": "Velox Energy Materials Inc.",
+     "symbol": "VLX"
     }
    ]
-  },
-  {
-   "symbol": "MMV",
-   "name": "MultiMetaVerse Holdings Limited - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MMV"
-  },
-  {
-   "symbol": "NTBL",
-   "name": "Notable Labs, Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NTBL"
-  },
-  {
-   "symbol": "RENT",
-   "name": "Rent the Runway, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RENT"
-  },
-  {
-   "symbol": "NATL",
-   "name": "NCR Atleos Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NATL"
-  },
-  {
-   "symbol": "VYX",
-   "name": "NCR Voyix Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VYX"
   }
  ],
  "removed": [
   {
-   "symbol": "NZRO",
-   "name": "Strategy Shares Halt Climate Change ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NZRO"
-  },
-  {
-   "symbol": "VBLT",
-   "name": "Vascular Biogenics Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VBLT"
-  },
-  {
-   "symbol": "CCV.U",
-   "name": "Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CCV.U"
-  },
-  {
-   "symbol": "ELYS",
-   "name": "Elys Game Technology, Corp.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ELYS"
-  },
-  {
-   "symbol": "CCV",
-   "name": "Churchill Capital Corp V Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CCV"
-  },
-  {
-   "symbol": "NCR",
-   "name": "NCR Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NCR"
-  },
-  {
-   "symbol": "CCV.W",
-   "name": "Churchill Capital Corp V Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CCV.W"
-  },
-  {
-   "symbol": "RAU",
-   "name": "Resouro Gold Inc.",
+   "symbol": "CUI",
+   "name": "Currie Rose Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "RAU.V",
+   "yahoo_symbol": "CUI.V",
    "instruments": [
     {
-     "name": "Resouro Gold Inc.",
-     "symbol": "RAU"
+     "name": "Currie Rose Resources Inc.",
+     "symbol": "CUI"
     }
    ]
   },
   {
-   "symbol": "RENT",
-   "name": "Rent the Runway, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RENT"
-  },
-  {
-   "symbol": "MMV",
-   "name": "MultiMetaVerse Holdings Limited - Class A Ordinary Share",
+   "symbol": "FLNT",
+   "name": "Fluent, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MMV"
+   "yahoo_symbol": "FLNT"
   },
   {
-   "symbol": "THRN",
-   "name": "Thorne Healthtech, Inc. - Common Stock",
+   "symbol": "ATHX",
+   "name": "Athersys, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATHX"
+  },
+  {
+   "symbol": "XFS",
+   "name": "iShares MSCI Multifactor USA Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFS.TO",
+   "instruments": [
+    {
+     "name": "iShr MSCIMultiftrUSA",
+     "symbol": "XFS"
+    },
+    {
+     "name": "iShrMSCI MultiFtrUSF",
+     "symbol": "XFS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "EMAN",
+   "name": "eMagin Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EMAN"
+  },
+  {
+   "symbol": "XFI",
+   "name": "iShares MSCI Multifactor EAFE Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFI.TO",
+   "instruments": [
+    {
+     "name": "iShr MSCIMultfacEAFE",
+     "symbol": "XFI"
+    }
+   ]
+  },
+  {
+   "symbol": "XFA",
+   "name": "iShares MSCI Multifactor USA Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFA.TO",
+   "instruments": [
+    {
+     "name": "iShrMSCIMultiUSA C-H",
+     "symbol": "XFA"
+    }
+   ]
+  },
+  {
+   "symbol": "XFF",
+   "name": "iShares MSCI Multifactor EAFE Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFF.TO",
+   "instruments": [
+    {
+     "name": "iShr MSCI EAFE CA-HG",
+     "symbol": "XFF"
+    }
+   ]
+  },
+  {
+   "symbol": "CIR",
+   "name": "CIRCOR International, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIR"
+  },
+  {
+   "symbol": "XCLR",
+   "name": "iShares ESG MSCI Canada Leaders Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XCLR.TO",
+   "instruments": [
+    {
+     "name": "iShr ESGMSCI CALeadr",
+     "symbol": "XCLR"
+    }
+   ]
+  },
+  {
+   "symbol": "XFC",
+   "name": "iShares MSCI Multifactor Canada Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFC.TO",
+   "instruments": [
+    {
+     "name": "iShr MSCIMultfactrCA",
+     "symbol": "XFC"
+    }
+   ]
+  },
+  {
+   "symbol": "HCCI",
+   "name": "Heritage-Crystal Clean, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "THRN"
+   "yahoo_symbol": "HCCI"
   },
   {
-   "symbol": "VYX.V",
-   "name": "NCR Corporation Common Stock When-Issued",
+   "symbol": "FSNB.U",
+   "name": "Fusion Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "VYX.V"
+   "yahoo_symbol": "FSNB.U"
   },
   {
-   "symbol": "RBT.W",
-   "name": "Rubicon Technologies, Inc. Warrants, each whole warrant exercisable to purchase one share of Class A Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RBT.W"
+   "symbol": "XULR",
+   "name": "iShares ESG MSCI USA Leaders Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XULR.TO",
+   "instruments": [
+    {
+     "name": "iShr ESGMSCI USA Ldr",
+     "symbol": "XULR"
+    }
+   ]
   },
   {
-   "symbol": "RAD",
-   "name": "Rite Aid Corporation Common Stock",
+   "symbol": "FSNB",
+   "name": "Fusion Acquisition Corp. II Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "RAD"
+   "yahoo_symbol": "FSNB"
   },
   {
-   "symbol": "NATL.V",
-   "name": "NCR Atleos Corporation Common Stock When-Issued",
+   "symbol": "XDLR",
+   "name": "iShares ESG MSCI EAFE Leaders Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XDLR.TO",
+   "instruments": [
+    {
+     "name": "iShr ESGMSCIEAFE Ldr",
+     "symbol": "XDLR"
+    }
+   ]
+  },
+  {
+   "symbol": "ALLG.W",
+   "name": "Allego N.V. Warrants, each exercisable for one Ordinary Share at an exercise price of $11.50 per share",
    "exchange": "NYSE",
-   "yahoo_symbol": "NATL.V"
+   "yahoo_symbol": "ALLG.W"
   }
  ]
 }
