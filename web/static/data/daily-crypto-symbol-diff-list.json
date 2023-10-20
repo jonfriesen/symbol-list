@@ -1,32 +1,27 @@
 {
  "added": [
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "STRD",
+   "name": "Stride (STRD)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
   },
   {
-   "symbol": "DEUS",
-   "name": "DEUS Finance (DEUS)",
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "XETH",
-   "name": "Xplosive Ethereum (XETH)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "DEUS",
-   "name": "DEUS Finance (DEUS)"
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
   }
  ]
 }
