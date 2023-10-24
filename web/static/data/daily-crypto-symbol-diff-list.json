@@ -1,23 +1,9 @@
 {
  "added": [
   {
-   "symbol": "BORG",
-   "name": "SwissBorg (BORG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SWINGBY",
-   "name": "Swingby (SWINGBY)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "X",
-   "name": "AI-X (X)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "RVC",
+   "name": "Revenue Coin (RVC)",
+   "built_on": "BNB"
   },
   {
    "symbol": "GETH",
@@ -27,13 +13,21 @@
    "symbol": "DOG",
    "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "SWINGBY",
-   "name": "Swingby (SWINGBY)",
-   "built_on": "BNB"
+   "symbol": "RVC",
+   "name": "Revenue Coin (RVC)"
   }
  ]
 }
