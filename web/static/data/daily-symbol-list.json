@@ -1,5 +1,5 @@
 {
- "date": "2023-10-24",
+ "date": "2023-10-25",
  "data": [
   {
    "symbol": "ONE",
@@ -10354,10 +10354,6 @@
     {
      "name": "Lifeist Wellness Inc.",
      "symbol": "LFST"
-    },
-    {
-     "name": "Lifeist Wellness Inc. wt A 25Oct2023",
-     "symbol": "LFST.WT.A"
     },
     {
      "name": "Lifeist Wellness Inc. wt  B 19Jan2024",
@@ -48502,12 +48498,6 @@
    "yahoo_symbol": "BIMI"
   },
   {
-   "symbol": "BIOC",
-   "name": "Biocept, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BIOC"
-  },
-  {
    "symbol": "BIOL",
    "name": "Biolase, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -55758,19 +55748,19 @@
   {
    "symbol": "FRLA",
    "name": "Fortune Rise Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FRLA"
   },
   {
    "symbol": "FRLAU",
    "name": "Fortune Rise Acquisition Corporation - Units",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FRLAU"
   },
   {
    "symbol": "FRLAW",
    "name": "Fortune Rise Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FRLAW"
   },
   {
@@ -60648,7 +60638,7 @@
   {
    "symbol": "KRYS",
    "name": "Krystal Biotech, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "KRYS"
   },
   {
@@ -63192,7 +63182,7 @@
   {
    "symbol": "MRIN",
    "name": "Marin Software Incorporated - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MRIN"
   },
   {
@@ -87753,6 +87743,12 @@
    "yahoo_symbol": "MMU"
   },
   {
+   "symbol": "MNR",
+   "name": "Mach Natural Resources LP Common Units representing Limited Partner Interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MNR"
+  },
+  {
    "symbol": "MNSO",
    "name": "MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",
    "exchange": "NYSE",
@@ -88603,24 +88599,6 @@
    "name": "Virtus Dividend, Interest \u0026 Premium Strategy Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "NFJ"
-  },
-  {
-   "symbol": "NFNT",
-   "name": "Infinite Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NFNT"
-  },
-  {
-   "symbol": "NFNT.U",
-   "name": "Infinite Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NFNT.U"
-  },
-  {
-   "symbol": "NFNT.W",
-   "name": "Infinite Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NFNT.W"
   },
   {
    "symbol": "NFYS",
@@ -95143,12 +95121,6 @@
    "name": "Viveon Health Acquisition Corp. Units, each consisting of one share of common stock, one Warrant entitling the holder to purchase one-half of a share of common stock, and one right to receive one-twentieth of a share of common stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "VHAQ.U"
-  },
-  {
-   "symbol": "VHAQ.W",
-   "name": "Viveon Health Acquisition Corp. Warrants to purchase one-half of a share of common stock at a price of $11.50 per whole share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VHAQ.W"
   },
   {
    "symbol": "VHC",

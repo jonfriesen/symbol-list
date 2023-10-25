@@ -848,7 +848,7 @@ LVX,Leviathan Gold Ltd.,TSXV,LVX.V,Leviathan Gold Ltd,LVX
 LILI,Li3 Lithium Corp.,TSXV,LILI.V,Li3 Lithium Corp.,LILI
 LBC,Libero Copper & Gold Corporation,TSXV,LBC.V,Libero Copper & Gold Corporation,LBC
 SCAN,"Liberty Defense Holdings, Ltd.",TSXV,SCAN.V,"Liberty Defense Holdings, Ltd.",SCAN
-LFST,Lifeist Wellness Inc.,TSXV,LFST.V,Lifeist Wellness Inc.,LFST,Lifeist Wellness Inc. wt A 25Oct2023,LFST.WT.A,Lifeist Wellness Inc. wt  B 19Jan2024,LFST.WT.B
+LFST,Lifeist Wellness Inc.,TSXV,LFST.V,Lifeist Wellness Inc.,LFST,Lifeist Wellness Inc. wt  B 19Jan2024,LFST.WT.B
 LMG,Lincoln Gold Mining Inc.,TSXV,LMG.V,Lincoln Gold Mining Inc.,LMG
 LEO,Lion Copper and Gold Corp.,TSXV,LEO.V,Lion Copper and Gold Corp.,LEO
 LIO,Lion One Metals Limited,TSXV,LIO.V,Lion One Metals Limited,LIO,Lion One Metals Limited wt 11Nov2025,LIO.WT
@@ -4059,7 +4059,6 @@ BIGT,Roundhill BIG Tech ETF,NASDAQ Global MarketSM,BIGT
 BIIB,Biogen Inc. - Common Stock,NASDAQ Global Select MarketSM,BIIB
 BILI,Bilibili Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,BILI
 BIMI,BIMI International Medical Inc. - Common Stock,NASDAQ Capital Market,BIMI
-BIOC,"Biocept, Inc. - Common Stock",NASDAQ Capital Market,BIOC
 BIOL,"Biolase, Inc. - Common Stock",NASDAQ Capital Market,BIOL
 BIOR,"Biora Therapeutics, Inc.  - Common Stock",NASDAQ Global MarketSM,BIOR
 BIOX,Bioceres Crop Solutions Corp. - Ordinary Shares,NASDAQ Global Select MarketSM,BIOX
@@ -5268,9 +5267,9 @@ FRES,Fresh2 Group Limited - American Depositary Shares,NASDAQ Capital Market,FRE
 FRGI,"Fiesta Restaurant Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,FRGI
 FRGT,"Freight Technologies, Inc. - Ordinary Shares",NASDAQ Capital Market,FRGT
 FRHC,Freedom Holding Corp. - Common Stock,NASDAQ Capital Market,FRHC
-FRLA,Fortune Rise Acquisition Corporation - Class A Common Stock,NASDAQ Global MarketSM,FRLA
-FRLAU,Fortune Rise Acquisition Corporation - Units,NASDAQ Global MarketSM,FRLAU
-FRLAW,Fortune Rise Acquisition Corporation - Warrant,NASDAQ Global MarketSM,FRLAW
+FRLA,Fortune Rise Acquisition Corporation - Class A Common Stock,NASDAQ Capital Market,FRLA
+FRLAU,Fortune Rise Acquisition Corporation - Units,NASDAQ Capital Market,FRLAU
+FRLAW,Fortune Rise Acquisition Corporation - Warrant,NASDAQ Capital Market,FRLAW
 FRLN,Freeline Therapeutics Holdings plc - ADSs,NASDAQ Capital Market,FRLN
 FRME,First Merchants Corporation - Common Stock,NASDAQ Global Select MarketSM,FRME
 FRMEP,"First Merchants Corporation - Depository Shares, each representing a 1/100th interest in a share of 7.50% Non-Cumulative Perpetual Preferred Stock, A",NASDAQ Global Select MarketSM,FRMEP
@@ -6083,7 +6082,7 @@ KROS,"Keros Therapeutics, Inc. - common stock",NASDAQ Global MarketSM,KROS
 KRT,Karat Packaging Inc. - Common Stock,NASDAQ Global Select MarketSM,KRT
 KRTX,"Karuna Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,KRTX
 KRUS,"Kura Sushi USA, Inc. - Class A Common Stock",NASDAQ Global MarketSM,KRUS
-KRYS,"Krystal Biotech, Inc. - Common Stock",NASDAQ Global MarketSM,KRYS
+KRYS,"Krystal Biotech, Inc. - Common Stock",NASDAQ Global Select MarketSM,KRYS
 KSCP,"Knightscope, Inc. - Class A Common Stock",NASDAQ Global MarketSM,KSCP
 KTCC,Key Tronic Corporation - Common Stock,NASDAQ Global MarketSM,KTCC
 KTOS,"Kratos Defense & Security Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,KTOS
@@ -6507,7 +6506,7 @@ MRBK,Meridian Corporation - Common Stock,NASDAQ Global Select MarketSM,MRBK
 MRCC,Monroe Capital Corporation - Closed End Fund,NASDAQ Global Select MarketSM,MRCC
 MRCY,Mercury Systems Inc - Common Stock,NASDAQ Global Select MarketSM,MRCY
 MREO,Mereo BioPharma Group plc - American Depositary Shares,NASDAQ Capital Market,MREO
-MRIN,Marin Software Incorporated - Common Stock,NASDAQ Global MarketSM,MRIN
+MRIN,Marin Software Incorporated - Common Stock,NASDAQ Capital Market,MRIN
 MRKR,"Marker Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,MRKR
 MRM,MEDIROM Healthcare Technologies Inc. - American Depositary Share,NASDAQ Capital Market,MRM
 MRNA,"Moderna, Inc. - Common Stock",NASDAQ Global Select MarketSM,MRNA
@@ -10601,6 +10600,7 @@ MMM,3M Company Common Stock,NYSE,MMM
 MMS,"Maximus, Inc. Common Stock",NYSE,MMS
 MMT,MFS Multimarket Income Trust Common Stock,NYSE,MMT
 MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock",NYSE,MMU
+MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,NYSE,MNR
 MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",NYSE,MNSO
 MNTN,Everest Consolidator Acquisition Corporation Class A Common Stock,NYSE,MNTN
 MNTN.U,"Everest Consolidator Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",NYSE,MNTN.U
@@ -10743,9 +10743,6 @@ NEXA,Nexa Resources S.A. Common Shares,NYSE,NEXA
 NFG,National Fuel Gas Company Common Stock,NYSE,NFG
 NFGC,New Found Gold Corp Common Shares,NYSE MKT,NFGC
 NFJ,"Virtus Dividend, Interest & Premium Strategy Fund Common Shares of Beneficial Interest",NYSE,NFJ
-NFNT,Infinite Acquisition Corp. Class A Ordinary Shares,NYSE,NFNT
-NFNT.U,"Infinite Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,NFNT.U
-NFNT.W,"Infinite Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,NFNT.W
 NFYS,Enphys Acquisition Corp. Class A Ordinary Shares,NYSE,NFYS
 NFYS.U,"Enphys Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,NFYS.U
 NFYS.W,"Enphys Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,NFYS.W
@@ -11833,7 +11830,6 @@ VGZ,Vista Gold Corp Common Stock,NYSE MKT,VGZ
 VHAQ,Viveon Health Acquisition Corp. Common Stock,NYSE MKT,VHAQ
 VHAQ.R,"Viveon Health Acquisition Corp. Rights, each exchangeable into one-twentieth of a share of Common Stock",NYSE MKT,VHAQ.R
 VHAQ.U,"Viveon Health Acquisition Corp. Units, each consisting of one share of common stock, one Warrant entitling the holder to purchase one-half of a share of common stock, and one right to receive one-twentieth of a share of common stock",NYSE MKT,VHAQ.U
-VHAQ.W,Viveon Health Acquisition Corp. Warrants to purchase one-half of a share of common stock at a price of $11.50 per whole share,NYSE MKT,VHAQ.W
 VHC,VirnetX Holding Corp Common Stock,NYSE,VHC
 VHI,"Valhi, Inc. Common Stock",NYSE,VHI
 VIAO,"VIA optronics AG American Depositary Shares, each representing one-fifth of an Ordinary Share",NYSE,VIAO
