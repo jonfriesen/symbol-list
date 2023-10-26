@@ -1,102 +1,72 @@
 {
  "added": [
   {
-   "symbol": "FRLA",
-   "name": "Fortune Rise Acquisition Corporation - Class A Common Stock",
+   "symbol": "QMAX",
+   "name": "Hamilton Technology Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QMAX.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Tech YldMax",
+     "symbol": "QMAX"
+    }
+   ]
+  },
+  {
+   "symbol": "SMAX",
+   "name": "Hamilton U.S. Equity Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMAX.TO",
+   "instruments": [
+    {
+     "name": "Hamilton US EqYldMax",
+     "symbol": "SMAX"
+    }
+   ]
+  },
+  {
+   "symbol": "DTIL",
+   "name": "Precision BioSciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRLA"
-  },
-  {
-   "symbol": "FRLAU",
-   "name": "Fortune Rise Acquisition Corporation - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRLAU"
-  },
-  {
-   "symbol": "FRLAW",
-   "name": "Fortune Rise Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRLAW"
-  },
-  {
-   "symbol": "KRYS",
-   "name": "Krystal Biotech, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KRYS"
-  },
-  {
-   "symbol": "MRIN",
-   "name": "Marin Software Incorporated - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MRIN"
-  },
-  {
-   "symbol": "MNR",
-   "name": "Mach Natural Resources LP Common Units representing Limited Partner Interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MNR"
+   "yahoo_symbol": "DTIL"
   }
  ],
  "removed": [
   {
-   "symbol": "KRYS",
-   "name": "Krystal Biotech, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KRYS"
+   "symbol": "DMT",
+   "name": "Small Pharma Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DMT.V",
+   "instruments": [
+    {
+     "name": "Small Pharma Inc.",
+     "symbol": "DMT"
+    }
+   ]
   },
   {
-   "symbol": "VHAQ.W",
-   "name": "Viveon Health Acquisition Corp. Warrants to purchase one-half of a share of common stock at a price of $11.50 per whole share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VHAQ.W"
-  },
-  {
-   "symbol": "FRLA",
-   "name": "Fortune Rise Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRLA"
-  },
-  {
-   "symbol": "NFNT.W",
-   "name": "Infinite Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "symbol": "SKIL.W",
+   "name": "Skillsoft Corp. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
    "exchange": "NYSE",
-   "yahoo_symbol": "NFNT.W"
+   "yahoo_symbol": "SKIL.W"
   },
   {
-   "symbol": "NFNT",
-   "name": "Infinite Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NFNT"
-  },
-  {
-   "symbol": "FRLAU",
-   "name": "Fortune Rise Acquisition Corporation - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRLAU"
-  },
-  {
-   "symbol": "BIOC",
-   "name": "Biocept, Inc. - Common Stock",
+   "symbol": "AKU",
+   "name": "Akumin Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BIOC"
+   "yahoo_symbol": "AKU"
   },
   {
-   "symbol": "FRLAW",
-   "name": "Fortune Rise Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRLAW"
+   "symbol": "SVVC",
+   "name": "Firsthand Technology Value Fund, Inc. - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SVVC"
   },
   {
-   "symbol": "MRIN",
-   "name": "Marin Software Incorporated - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MRIN"
-  },
-  {
-   "symbol": "NFNT.U",
-   "name": "Infinite Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NFNT.U"
+   "symbol": "DTIL",
+   "name": "Precision BioSciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DTIL"
   }
  ]
 }
