@@ -5,16 +5,34 @@
    "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "EURC",
+   "name": "Euro Coin (EURC)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
   },
   {
    "symbol": "XETH",
    "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "NEUTRON",
+   "name": "Neutron (NEUTRON)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EUROC",
+   "name": "Euro Coin (EUROC)",
+   "built_on": "ETH"
   }
  ]
 }
