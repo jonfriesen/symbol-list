@@ -1,100 +1,108 @@
 {
  "added": [
   {
-   "symbol": "RMB",
-   "name": "Rumbu Holdings Ltd.",
+   "symbol": "BYU",
+   "name": "BAIYU Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYU"
+  },
+  {
+   "symbol": "DHAC",
+   "name": "Digital Health Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHAC"
+  },
+  {
+   "symbol": "DHACU",
+   "name": "Digital Health Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHACU"
+  },
+  {
+   "symbol": "DHACW",
+   "name": "Digital Health Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHACW"
+  },
+  {
+   "symbol": "LUXHP",
+   "name": "LuxUrban Hotels Inc. - 13.00% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LUXHP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DHACU",
+   "name": "Digital Health Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DHACU"
+  },
+  {
+   "symbol": "BODY.W",
+   "name": "The Beachbody Company, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BODY.W"
+  },
+  {
+   "symbol": "DHAC",
+   "name": "Digital Health Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DHAC"
+  },
+  {
+   "symbol": "TEST",
+   "name": "FluroTech Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "RMB.V",
+   "yahoo_symbol": "TEST.V",
    "instruments": [
     {
-     "name": "Rumbu Holdings Ltd.",
-     "symbol": "RMB"
+     "name": "FluroTech Ltd.",
+     "symbol": "TEST"
     }
    ]
   },
   {
-   "symbol": "BLCR",
-   "name": "BlackRock Large Cap Core ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLCR"
-  },
-  {
-   "symbol": "GDNR",
-   "name": "Gardiner Healthcare Acquisitions Corp. - Common Stock",
+   "symbol": "GLG",
+   "name": "TD Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GDNR"
+   "yahoo_symbol": "GLG"
   },
   {
-   "symbol": "GDNRU",
-   "name": "Gardiner Healthcare Acquisitions Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GDNRU"
-  },
-  {
-   "symbol": "GDNRW",
-   "name": "Gardiner Healthcare Acquisitions Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GDNRW"
-  },
-  {
-   "symbol": "GPIQ",
-   "name": "Goldman Sachs Nasdaq-100 Core Premium Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GPIQ"
-  },
-  {
-   "symbol": "GPIX",
-   "name": "Goldman Sachs S\u0026P 500 Core Premium Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GPIX"
-  },
-  {
-   "symbol": "MCAG",
-   "name": "Mountain Crest Acquisition Corp. V - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCAG"
-  },
-  {
-   "symbol": "MCAGR",
-   "name": "Mountain Crest Acquisition Corp. V - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCAGR"
-  },
-  {
-   "symbol": "MCAGU",
-   "name": "Mountain Crest Acquisition Corp. V - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCAGU"
-  },
-  {
-   "symbol": "PEPL",
-   "name": "PepperLime Health Acquisition Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEPL"
-  },
-  {
-   "symbol": "PEPLU",
-   "name": "PepperLime Health Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEPLU"
-  },
-  {
-   "symbol": "PEPLW",
-   "name": "PepperLime Health Acquisition Corporation - Warrrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEPLW"
-  },
-  {
-   "symbol": "CCIA",
-   "name": "Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028",
+   "symbol": "VMW",
+   "name": "Vmware, Inc. Common stock, Class A",
    "exchange": "NYSE",
-   "yahoo_symbol": "CCIA"
+   "yahoo_symbol": "VMW"
   },
   {
-   "symbol": "NLOP.V",
-   "name": "Net Lease Office Properties Common Shares of Beneficial Interest When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NLOP.V"
+   "symbol": "ABCT",
+   "name": "ABC Technologies Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABCT.TO",
+   "instruments": [
+    {
+     "name": "ABC Tech Holdings",
+     "symbol": "ABCT"
+    }
+   ]
+  },
+  {
+   "symbol": "DHACW",
+   "name": "Digital Health Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DHACW"
+  },
+  {
+   "symbol": "LTRPB",
+   "name": "Liberty TripAdvisor Holdings, Inc. - Series B Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LTRPB"
+  },
+  {
+   "symbol": "EGLX",
+   "name": "Enthusiast Gaming Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EGLX"
   },
   {
    "symbol": "PAPL",
@@ -103,96 +111,16 @@
    "yahoo_symbol": "PAPL"
   },
   {
-   "symbol": "WPC.V",
-   "name": "W. P. Carey Inc. Common Stock When-Issued",
+   "symbol": "ATCO$I",
+   "name": "Atlas Corp. Series I Fixed-to-Floating ",
    "exchange": "NYSE",
-   "yahoo_symbol": "WPC.V"
-  }
- ],
- "removed": [
-  {
-   "symbol": "PEPL",
-   "name": "PepperLime Health Acquisition Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PEPL"
+   "yahoo_symbol": "ATCO$I"
   },
   {
-   "symbol": "GDNRW",
-   "name": "Gardiner Healthcare Acquisitions Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GDNRW"
-  },
-  {
-   "symbol": "GDNR",
-   "name": "Gardiner Healthcare Acquisitions Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GDNR"
-  },
-  {
-   "symbol": "BRQS",
-   "name": "Borqs Technologies, Inc.  - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BRQS"
-  },
-  {
-   "symbol": "MCAGR",
-   "name": "Mountain Crest Acquisition Corp. V - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MCAGR"
-  },
-  {
-   "symbol": "SFRWW",
-   "name": "Appreciate Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SFRWW"
-  },
-  {
-   "symbol": "SFR",
-   "name": "Appreciate Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SFR"
-  },
-  {
-   "symbol": "MCAGU",
-   "name": "Mountain Crest Acquisition Corp. V - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MCAGU"
-  },
-  {
-   "symbol": "MCAG",
-   "name": "Mountain Crest Acquisition Corp. V - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MCAG"
-  },
-  {
-   "symbol": "RMB.P",
-   "name": "Rumbu Holdings Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RMB.P.V",
-   "instruments": [
-    {
-     "name": "Rumbu Holdings Ltd.",
-     "symbol": "RMB.P"
-    }
-   ]
-  },
-  {
-   "symbol": "PEPLU",
-   "name": "PepperLime Health Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PEPLU"
-  },
-  {
-   "symbol": "GDNRU",
-   "name": "Gardiner Healthcare Acquisitions Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GDNRU"
-  },
-  {
-   "symbol": "PEPLW",
-   "name": "PepperLime Health Acquisition Corporation - Warrrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PEPLW"
+   "symbol": "LTRPA",
+   "name": "Liberty TripAdvisor Holdings, Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LTRPA"
   }
  ]
 }

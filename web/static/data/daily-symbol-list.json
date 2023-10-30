@@ -1,5 +1,5 @@
 {
- "date": "2023-10-27",
+ "date": "2023-10-30",
  "data": [
   {
    "symbol": "ONE",
@@ -6466,18 +6466,6 @@
     {
      "name": "Flow Capital Corp.",
      "symbol": "FW"
-    }
-   ]
-  },
-  {
-   "symbol": "TEST",
-   "name": "FluroTech Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TEST.V",
-   "instruments": [
-    {
-     "name": "FluroTech Ltd.",
-     "symbol": "TEST"
     }
    ]
   },
@@ -16919,12 +16907,12 @@
   },
   {
    "symbol": "STUD",
-   "name": "Stallion Discoveries Corp.",
+   "name": "Stallion Uranium Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "STUD.V",
    "instruments": [
     {
-     "name": "Stallion Discoveries Corp.",
+     "name": "Stallion Uranium Corp.",
      "symbol": "STUD"
     }
    ]
@@ -20082,18 +20070,6 @@
     {
      "name": "A\u0026W Revenue Rylty Un",
      "symbol": "AW.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "ABCT",
-   "name": "ABC Technologies Holdings Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ABCT.TO",
-   "instruments": [
-    {
-     "name": "ABC Tech Holdings",
-     "symbol": "ABCT"
     }
    ]
   },
@@ -33231,7 +33207,7 @@
   },
   {
    "symbol": "RBOT",
-   "name": "Horizons Robotics and Automation Index ETF",
+   "name": "Horizons Robotics \u0026 AI Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RBOT.TO",
    "instruments": [
@@ -49746,6 +49722,12 @@
    "yahoo_symbol": "BYTSW"
   },
   {
+   "symbol": "BYU",
+   "name": "BAIYU Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYU"
+  },
+  {
    "symbol": "BZ",
    "name": "KANZHUN LIMITED - American Depository Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -52796,19 +52778,19 @@
   {
    "symbol": "DHAC",
    "name": "Digital Health Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DHAC"
   },
   {
    "symbol": "DHACU",
    "name": "Digital Health Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DHACU"
   },
   {
    "symbol": "DHACW",
    "name": "Digital Health Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DHACW"
   },
   {
@@ -53734,12 +53716,6 @@
    "name": "Edgio, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EGIO"
-  },
-  {
-   "symbol": "EGLX",
-   "name": "Enthusiast Gaming Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EGLX"
   },
   {
    "symbol": "EGOX",
@@ -56782,12 +56758,6 @@
    "name": "Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GLDI"
-  },
-  {
-   "symbol": "GLG",
-   "name": "TD Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLG"
   },
   {
    "symbol": "GLLI",
@@ -61770,18 +61740,6 @@
    "yahoo_symbol": "LTRN"
   },
   {
-   "symbol": "LTRPA",
-   "name": "Liberty TripAdvisor Holdings, Inc. - Series A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LTRPA"
-  },
-  {
-   "symbol": "LTRPB",
-   "name": "Liberty TripAdvisor Holdings, Inc. - Series B Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LTRPB"
-  },
-  {
    "symbol": "LTRX",
    "name": "Lantronix, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -61858,6 +61816,12 @@
    "name": "LuxUrban Hotels Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LUXH"
+  },
+  {
+   "symbol": "LUXHP",
+   "name": "LuxUrban Hotels Inc. - 13.00% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LUXHP"
   },
   {
    "symbol": "LVHD",
@@ -77021,12 +76985,6 @@
    "yahoo_symbol": "ATCO$H"
   },
   {
-   "symbol": "ATCO$I",
-   "name": "Atlas Corp. Series I Fixed-to-Floating ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ATCO$I"
-  },
-  {
    "symbol": "ATEK",
    "name": "Athena Technology Acquisition Corp. II Class A Common Stock",
    "exchange": "NYSE MKT",
@@ -78507,12 +78465,6 @@
    "name": "The Beachbody Company, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BODY"
-  },
-  {
-   "symbol": "BODY.W",
-   "name": "The Beachbody Company, Inc. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BODY.W"
   },
   {
    "symbol": "BOE",
@@ -89987,12 +89939,6 @@
    "yahoo_symbol": "PAM"
   },
   {
-   "symbol": "PAPL",
-   "name": "Pineapple Financial Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PAPL"
-  },
-  {
    "symbol": "PAR",
    "name": "PAR Technology Corporation Common Stock",
    "exchange": "NYSE",
@@ -95259,12 +95205,6 @@
    "name": "Invesco Municipal Opportunity Trust Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VMO"
-  },
-  {
-   "symbol": "VMW",
-   "name": "Vmware, Inc. Common stock, Class A",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VMW"
   },
   {
    "symbol": "VNCE",
