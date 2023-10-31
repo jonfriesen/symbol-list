@@ -10,7 +10,6 @@ ALBA.P,A-Labs Capital V Corp.,TSXV,ALBA.P.V,A-Labs Capital V Corp.,ALBA.P
 AIS,A.I.S. Resources Limited,TSXV,AIS.V,A.I.S. Resources Limited,AIS
 AZ,A2Z Smart Technologies Corp.,TSXV,AZ.V,A2Z Smart Technologies Corp.,AZ
 AZC.P,A2ZCryptocap Inc.,TSXV,AZC.P.V,A2ZCryptocap Inc.,AZC.P
-AAD.P,AADirection Capital Corp.,TSXV,AAD.P.V,AADirection Capital Corp.,AAD.P
 AAAJ.P,AAJ Capital 3 Corp.,TSXV,AAAJ.P.V,AAJ Capital 3 Corp.,AAAJ.P
 ACCB.P,Aardvark 2 Capital Corp.,TSXV,ACCB.P.V,Aardvark 2 Capital Corp.,ACCB.P
 AME,Abacus Mining & Exploration Corporation,TSXV,AME.V,Abacus Mining & Exploration Corporation,AME
@@ -52,7 +51,6 @@ DEX,Almadex Minerals Ltd.,TSXV,DEX.V,Almadex Minerals Ltd.,DEX
 AORO,Aloro Mining Corp.,TSXV,AORO.V,Aloro Mining Corp.,AORO
 ALEX,Alpha Exploration Ltd.,TSXV,ALEX.V,Alpha Exploration Ltd.,ALEX
 AFM,Alphamin Resources Corp.,TSXV,AFM.V,Alphamin Resources Corp.,AFM
-NPA,Alphinat Inc.,TSXV,NPA.V,Alphinat Inc.,NPA
 ATI,Altai Resources Inc.,TSXV,ATI.V,Altai Resources Inc,ATI
 AVX,Altair Resources Inc.,TSXV,AVX.V,Altair Resources Inc.,AVX
 ALTA,Altamira Gold Corp.,TSXV,ALTA.V,Altamira Gold Corp.,ALTA
@@ -296,6 +294,7 @@ CZO,Ceapro Inc.,TSXV,CZO.V,Ceapro Inc.,CZO
 CES.P,Celestial Acquisition Corp.,TSXV,CES.P.V,Celestial Acquisition Corp.,CES.P
 CVX,Cematrix Corporation,TSXV,CVX.V,Cematrix Corporation,CVX
 CTA,Centaurus Energy Inc.,TSXV,CTA.V,Centaurus Energy Inc.,CTA
+CTG,Centenario Gold Corp.,TSXV,CTG.V,Centenario Gold Corp.,CTG
 CIO,Central Iron Ore Limited,TSXV,CIO.V,Central Iron Ore Limited,CIO
 CTN,Centurion Minerals Ltd.,TSXV,CTN.V,Centurion Minerals Ltd.,CTN
 LCE,Century Lithium Corp.,TSXV,LCE.V,Century Lithium Corp.,LCE
@@ -1411,6 +1410,7 @@ SKK,Strikewell Energy Corp.,TSXV,SKK.V,Strikewell Energy Corp,SKK
 SDR,Stroud Resources Ltd.,TSXV,SDR.V,Stroud Resources Ltd.,SDR
 STU,Stuhini Exploration Ltd,TSXV,STU.V,Stuhini Exploration Ltd.,STU
 STUV,Stuve Gold Corp.,TSXV,STUV.V,Stuve Gold Corp.,STUV
+SUG,Sucro Limited,TSXV,SUG.V,Sucro Limited,SUG
 SSVR,Summa Silver Corp.,TSXV,SSVR.V,Summa Silver Corp.,SSVR
 PEAK,Sun Peak Metals Corp.,TSXV,PEAK.V,Sun Peak Metals Corp.,PEAK
 SRES,Sun Residential Real Estate Investment Trust,TSXV,SRES.V,Sun Residential Real Estate Investment Trust,SRES
@@ -2583,7 +2583,7 @@ HXQ,Horizons NASDAQ-100 Index ETF,TSX,HXQ.TO,Horizon NASDAQ100SHR,HXQ,Horizon NA
 HUN,Horizons Natural Gas ETF,TSX,HUN.TO,Horizons NatrlGasETF,HUN
 HOG,Horizons Pipelines & Energy Services Index ETF,TSX,HOG.TO,Horizn PplnEngyServA,HOG
 HRAA,Horizons ReSolve Adaptive Asset Allocation ETF,TSX,HRAA.TO,Horizons ReSolvAlloc,HRAA
-RBOT,Horizons Robotics & AI Index ETF,TSX,RBOT.TO,Horizons Robotc&Auto,RBOT,Horizon Robot&Aut US,RBOT.U
+RBOT,Horizons Robotics & AI Index ETF,TSX,RBOT.TO,Horizons Robotics&AI,RBOT,Horizon Robot&AI US,RBOT.U
 HSH,Horizons S&P 500 CAD Hedged Index ETF,TSX,HSH.TO,Horizn S&P500CA Hegd,HSH
 HXS,Horizons S&P 500 Index ETF,TSX,HXS.TO,Horizons S&P500 Shr,HXS,Horizon S&P500 US Sh,HXS.U
 HGGB,Horizons S&P Green Bond Index ETF,TSX,HGGB.TO,HorizonS&P GreenBndA,HGGB
@@ -2609,9 +2609,12 @@ ITE,i3 Energy plc,TSX,ITE.TO,i3 Energy plc Ord,ITE
 ICPB,IA Clarington Core Plus Bond Fund,TSX,ICPB.TO,IA ClaringtnCore Fnd,ICPB
 IFRF,IA Clarington Floating Rate Income Fund,TSX,IFRF.TO,IA ClaringtonFltg Un,IFRF
 IGAF,IA Clarington Loomis Global Allocation Fund,TSX,IGAF.TO,IA Claringtn LoomGlb,IGAF
+IGEO,IA Clarington Loomis Global Equity Opportunities Fund,TSX,IGEO.TO,IA Claringtn GlbEqOp,IGEO
 ILGB,IA Clarington Loomis Global Multisector Bond Fund,TSX,ILGB.TO,IA ClaringtLooMltBnd,ILGB
+ISCB,IA Clarington Strategic Corporate Bond Fund,TSX,ISCB.TO,IA Claringtn CorpBnd,ISCB
 ISIF,IA Clarington Strategic Income Fund,TSX,ISIF.TO,IA ClaringtnStrtegic,ISIF
 IAG,iA Financial Corporation Inc.,TSX,IAG.TO,iA Financial Corp.,IAG
+IWEB,IA Wealth Enhanced Bond Pool,TSX,IWEB.TO,IA Wealth Bond Pool,IWEB
 IMG,IAMGOLD Corporation,TSX,IMG.TO,Iamgold Corporation,IMG
 IBG.DB.E,IBI Group Inc.,TSX,IBG.DB.E.TO,IBI Group 6.50% Deb,IBG.DB.E
 IFA,iFabric Corp.,TSX,IFA.TO,iFabric Corp. J,IFA
@@ -3584,7 +3587,7 @@ AFARU,Aura FAT Projects Acquisition Corp - Unit,NASDAQ Global MarketSM,AFARU
 AFARW,Aura FAT Projects Acquisition Corp - Warrant,NASDAQ Global MarketSM,AFARW
 AFBI,"Affinity Bancshares, Inc. - Common Stock",NASDAQ Capital Market,AFBI
 AFCG,"AFC Gamma, Inc. - Common Stock",NASDAQ Global MarketSM,AFCG
-AFIB,"Acutus Medical, Inc. - Common Stock",NASDAQ Global Select MarketSM,AFIB
+AFIB,"Acutus Medical, Inc. - Common Stock",NASDAQ Capital Market,AFIB
 AFMD,Affimed N.V. - Common Stock,NASDAQ Capital Market,AFMD
 AFRI,Forafric Global PLC - Ordinary Shares,NASDAQ Capital Market,AFRI
 AFRIW,Forafric Global PLC - Warrants,NASDAQ Capital Market,AFRIW
@@ -4308,7 +4311,6 @@ CBAN,"Colony Bankcorp, Inc. - Common Stock",NASDAQ Global MarketSM,CBAN
 CBAT,"CBAK Energy Technology, Inc. - Common Stock",NASDAQ Capital Market,CBAT
 CBAY,CymaBay Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,CBAY
 CBFV,"CB Financial Services, Inc. - Common Stock",NASDAQ Global MarketSM,CBFV
-CBIO,"Catalyst Biosciences, Inc.  - Common Stock",NASDAQ Capital Market,CBIO
 CBNK,"Capital Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,CBNK
 CBRG,Chain Bridge I - Class A Ordinary Shares,NASDAQ Global MarketSM,CBRG
 CBRGU,Chain Bridge I - Units,NASDAQ Global MarketSM,CBRGU
@@ -4828,7 +4830,6 @@ DPCSU,DP Cap Acquisition Corp I - Unit,NASDAQ Global MarketSM,DPCSU
 DPCSW,DP Cap Acquisition Corp I - Warrants,NASDAQ Global MarketSM,DPCSW
 DPRO,Draganfly Inc. - Common Shares,NASDAQ Capital Market,DPRO
 DRCT,"Direct Digital Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market,DRCT
-DRCTW,"Direct Digital Holdings, Inc. - Warrant",NASDAQ Capital Market,DRCTW
 DRIO,DarioHealth Corp. - Common Stock,NASDAQ Capital Market,DRIO
 DRIV,Global X Autonomous & Electric Vehicles ETF,NASDAQ Global MarketSM,DRIV
 DRMA,"Dermata Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,DRMA
@@ -5262,7 +5263,6 @@ FREE,"Whole Earth Brands, Inc. - Class A Common Stock",NASDAQ Capital Market,FRE
 FREEW,"Whole Earth Brands, Inc. - Warrant",NASDAQ Capital Market,FREEW
 FREQ,"Frequency Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,FREQ
 FRES,Fresh2 Group Limited - American Depositary Shares,NASDAQ Capital Market,FRES
-FRGI,"Fiesta Restaurant Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,FRGI
 FRGT,"Freight Technologies, Inc. - Ordinary Shares",NASDAQ Capital Market,FRGT
 FRHC,Freedom Holding Corp. - Common Stock,NASDAQ Capital Market,FRHC
 FRLA,Fortune Rise Acquisition Corporation - Class A Common Stock,NASDAQ Capital Market,FRLA
@@ -5553,6 +5553,7 @@ GVP,"GSE Systems, Inc. - Common Stock",NASDAQ Capital Market,GVP
 GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",NASDAQ Capital Market,GWAV
 GWRS,"Global Water Resources, Inc. - common stock",NASDAQ Global MarketSM,GWRS
 GXTG,Global X Thematic Growth ETF,NASDAQ Global MarketSM,GXTG
+GYRE,"Gyre Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,GYRE
 GYRO,"Gyrodyne , LLC - Common Stock",NASDAQ Capital Market,GYRO
 HA,"Hawaiian Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,HA
 HAFC,Hanmi Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,HAFC
@@ -9050,9 +9051,6 @@ BNL,"Broadstone Net Lease, Inc. Common Stock",NYSE,BNL
 BNRE,Brookfield Reinsurance Ltd. Class A Exchangeable Limited Voting Shares,NYSE,BNRE
 BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,NYSE,BNS
 BNY,BlackRock New York Municipal Income Trust,NYSE,BNY
-BOAC,Bluescape Opportunities Acquisition Corp. Class A Ordinary Shares,NYSE,BOAC
-BOAC.U,"Bluescape Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant",NYSE,BOAC.U
-BOAC.W,"Bluescape Opportunities Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,BOAC.W
 BOC,Boston Omaha Corporation Class A Common Stock,NYSE,BOC
 BODY,"The Beachbody Company, Inc. Class A Common Stock",NYSE,BODY
 BOE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,NYSE,BOE
@@ -9911,7 +9909,7 @@ GDV$K,The Gabelli Dividend & Income Trust 4.250% Series K Cumulative Preferred S
 GE,General Electric Company Common Stock,NYSE,GE
 GEF,Greif Inc. Class A Common Stock,NYSE,GEF
 GEF.B,"Greif, Inc. Corporation Class B Common Stock",NYSE,GEF.B
-GEHI,"Gravitas Education Holdings, Inc. American depositary shares, each representing twenty Class A ordinary shares",NYSE,GEHI
+GEHI,"Gravitas Education Holdings, Inc. American Depositary Share",NYSE,GEHI
 GEL,"Genesis Energy, L.P. Common Units",NYSE,GEL
 GENC,"Gencor Industries, Inc. Common Stock",NYSE MKT,GENC
 GENI,Genius Sports Limited Ordinary Shares,NYSE,GENI
@@ -10791,7 +10789,7 @@ NNN,"NNN REIT, Inc. Common Stock",NYSE,NNN
 NNVC,"NanoViricides, Inc. Common Stock",NYSE MKT,NNVC
 NNY,Nuveen New York Municipal Value Fund Common Stock,NYSE,NNY
 NOA,North American Construction Group Ltd. Common Shares (no par),NYSE,NOA
-NOAH,Noah Holdings Limited,NYSE,NOAH
+NOAH,Noah Holdings Limited American Depositary Shares,NYSE,NOAH
 NOC,Northrop Grumman Corporation Common Stock,NYSE,NOC
 NOG,"Northern Oil and Gas, Inc. Common Stock",NYSE,NOG
 NOK,Nokia Corporation Sponsored American Depositary Shares,NYSE,NOK
@@ -11845,6 +11843,7 @@ VLTO,Veralto Corp Common Stock ,NYSE,VLTO
 VMC,Vulcan Materials Company (Holding Company) Common Stock,NYSE,VMC
 VMI,"Valmont Industries, Inc. Common Stock",NYSE,VMI
 VMO,Invesco Municipal Opportunity Trust Common Stock,NYSE,VMO
+VMW,"Vmware, Inc. Common stock, Class A",NYSE,VMW
 VNCE,Vince Holding Corp. Common Stock,NYSE,VNCE
 VNO,Vornado Realty Trust Common Stock,NYSE,VNO
 VNO$L,Vornado Realty Trust Pfd Ser L %,NYSE,VNO$L

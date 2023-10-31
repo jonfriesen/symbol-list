@@ -1,5 +1,5 @@
 {
- "date": "2023-10-30",
+ "date": "2023-10-31",
  "data": [
   {
    "symbol": "ONE",
@@ -130,18 +130,6 @@
     {
      "name": "A2ZCryptocap Inc.",
      "symbol": "AZC.P"
-    }
-   ]
-  },
-  {
-   "symbol": "AAD.P",
-   "name": "AADirection Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AAD.P.V",
-   "instruments": [
-    {
-     "name": "AADirection Capital Corp.",
-     "symbol": "AAD.P"
     }
    ]
   },
@@ -634,18 +622,6 @@
     {
      "name": "Alphamin Resources Corp.",
      "symbol": "AFM"
-    }
-   ]
-  },
-  {
-   "symbol": "NPA",
-   "name": "Alphinat Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NPA.V",
-   "instruments": [
-    {
-     "name": "Alphinat Inc.",
-     "symbol": "NPA"
     }
    ]
   },
@@ -3602,6 +3578,18 @@
     {
      "name": "Centaurus Energy Inc.",
      "symbol": "CTA"
+    }
+   ]
+  },
+  {
+   "symbol": "CTG",
+   "name": "Centenario Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CTG.V",
+   "instruments": [
+    {
+     "name": "Centenario Gold Corp.",
+     "symbol": "CTG"
     }
    ]
   },
@@ -17238,6 +17226,18 @@
     {
      "name": "Stuve Gold Corp.",
      "symbol": "STUV"
+    }
+   ]
+  },
+  {
+   "symbol": "SUG",
+   "name": "Sucro Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUG.V",
+   "instruments": [
+    {
+     "name": "Sucro Limited",
+     "symbol": "SUG"
     }
    ]
   },
@@ -33212,11 +33212,11 @@
    "yahoo_symbol": "RBOT.TO",
    "instruments": [
     {
-     "name": "Horizons Robotc\u0026Auto",
+     "name": "Horizons Robotics\u0026AI",
      "symbol": "RBOT"
     },
     {
-     "name": "Horizon Robot\u0026Aut US",
+     "name": "Horizon Robot\u0026AI US",
      "symbol": "RBOT.U"
     }
    ]
@@ -33558,6 +33558,18 @@
    ]
   },
   {
+   "symbol": "IGEO",
+   "name": "IA Clarington Loomis Global Equity Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGEO.TO",
+   "instruments": [
+    {
+     "name": "IA Claringtn GlbEqOp",
+     "symbol": "IGEO"
+    }
+   ]
+  },
+  {
    "symbol": "ILGB",
    "name": "IA Clarington Loomis Global Multisector Bond Fund",
    "exchange": "TSX",
@@ -33566,6 +33578,18 @@
     {
      "name": "IA ClaringtLooMltBnd",
      "symbol": "ILGB"
+    }
+   ]
+  },
+  {
+   "symbol": "ISCB",
+   "name": "IA Clarington Strategic Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ISCB.TO",
+   "instruments": [
+    {
+     "name": "IA Claringtn CorpBnd",
+     "symbol": "ISCB"
     }
    ]
   },
@@ -33590,6 +33614,18 @@
     {
      "name": "iA Financial Corp.",
      "symbol": "IAG"
+    }
+   ]
+  },
+  {
+   "symbol": "IWEB",
+   "name": "IA Wealth Enhanced Bond Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "IWEB.TO",
+   "instruments": [
+    {
+     "name": "IA Wealth Bond Pool",
+     "symbol": "IWEB"
     }
    ]
   },
@@ -45644,7 +45680,7 @@
   {
    "symbol": "AFIB",
    "name": "Acutus Medical, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AFIB"
   },
   {
@@ -49986,12 +50022,6 @@
    "yahoo_symbol": "CBFV"
   },
   {
-   "symbol": "CBIO",
-   "name": "Catalyst Biosciences, Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CBIO"
-  },
-  {
    "symbol": "CBNK",
    "name": "Capital Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53106,12 +53136,6 @@
    "yahoo_symbol": "DRCT"
   },
   {
-   "symbol": "DRCTW",
-   "name": "Direct Digital Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DRCTW"
-  },
-  {
    "symbol": "DRIO",
    "name": "DarioHealth Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -55710,12 +55734,6 @@
    "yahoo_symbol": "FRES"
   },
   {
-   "symbol": "FRGI",
-   "name": "Fiesta Restaurant Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FRGI"
-  },
-  {
    "symbol": "FRGT",
    "name": "Freight Technologies, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -57454,6 +57472,12 @@
    "name": "Global X Thematic Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GXTG"
+  },
+  {
+   "symbol": "GYRE",
+   "name": "Gyre Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GYRE"
   },
   {
    "symbol": "GYRO",
@@ -78437,24 +78461,6 @@
    "yahoo_symbol": "BNY"
   },
   {
-   "symbol": "BOAC",
-   "name": "Bluescape Opportunities Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BOAC"
-  },
-  {
-   "symbol": "BOAC.U",
-   "name": "Bluescape Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BOAC.U"
-  },
-  {
-   "symbol": "BOAC.W",
-   "name": "Bluescape Opportunities Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BOAC.W"
-  },
-  {
    "symbol": "BOC",
    "name": "Boston Omaha Corporation Class A Common Stock",
    "exchange": "NYSE",
@@ -83604,7 +83610,7 @@
   },
   {
    "symbol": "GEHI",
-   "name": "Gravitas Education Holdings, Inc. American depositary shares, each representing twenty Class A ordinary shares",
+   "name": "Gravitas Education Holdings, Inc. American Depositary Share",
    "exchange": "NYSE",
    "yahoo_symbol": "GEHI"
   },
@@ -88884,7 +88890,7 @@
   },
   {
    "symbol": "NOAH",
-   "name": "Noah Holdings Limited",
+   "name": "Noah Holdings Limited American Depositary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "NOAH"
   },
@@ -95205,6 +95211,12 @@
    "name": "Invesco Municipal Opportunity Trust Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VMO"
+  },
+  {
+   "symbol": "VMW",
+   "name": "Vmware, Inc. Common stock, Class A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VMW"
   },
   {
    "symbol": "VNCE",
