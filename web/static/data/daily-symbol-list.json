@@ -1,5 +1,5 @@
 {
- "date": "2023-11-01",
+ "date": "2023-11-02",
  "data": [
   {
    "symbol": "ONE",
@@ -3930,18 +3930,6 @@
     {
      "name": "CloudMD Software \u0026 Services Inc.",
      "symbol": "DOC"
-    }
-   ]
-  },
-  {
-   "symbol": "CLVR.P",
-   "name": "Clover Leaf Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CLVR.P.V",
-   "instruments": [
-    {
-     "name": "Clover Leaf Capital Corp.",
-     "symbol": "CLVR.P"
     }
    ]
   },
@@ -10286,6 +10274,18 @@
    ]
   },
   {
+   "symbol": "LIFT",
+   "name": "Li-FT Power Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LIFT.V",
+   "instruments": [
+    {
+     "name": "Li-FT Power Ltd.",
+     "symbol": "LIFT"
+    }
+   ]
+  },
+  {
    "symbol": "LILI",
    "name": "Li3 Lithium Corp.",
    "exchange": "TSXV",
@@ -12634,6 +12634,18 @@
     {
      "name": "North Peak Resources Ltd.",
      "symbol": "NPR"
+    }
+   ]
+  },
+  {
+   "symbol": "NSU",
+   "name": "North Shore Uranium Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NSU.V",
+   "instruments": [
+    {
+     "name": "North Shore Uranium Ltd.",
+     "symbol": "NSU"
     }
    ]
   },
@@ -53984,6 +53996,18 @@
    "yahoo_symbol": "ENG"
   },
   {
+   "symbol": "ENGN",
+   "name": "enGene Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENGN"
+  },
+  {
+   "symbol": "ENGNW",
+   "name": "enGene Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENGNW"
+  },
+  {
    "symbol": "ENLT",
    "name": "Enlight Renewable Energy Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -59242,7 +59266,7 @@
   {
    "symbol": "INO",
    "name": "Inovio Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INO"
   },
   {
@@ -62406,12 +62430,6 @@
    "name": "Mondelez International, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MDLZ"
-  },
-  {
-   "symbol": "MDNA",
-   "name": "Medicenna Therapeutics Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MDNA"
   },
   {
    "symbol": "MDRR",
@@ -65903,12 +65921,6 @@
    "name": "Vaxcyte, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PCVX"
-  },
-  {
-   "symbol": "PCYG",
-   "name": "Park City Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PCYG"
   },
   {
    "symbol": "PCYO",
@@ -72065,18 +72077,6 @@
    "name": "iShares Transition-Enabling Metals ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TMET"
-  },
-  {
-   "symbol": "TMPO",
-   "name": "Tempo Automation Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TMPO"
-  },
-  {
-   "symbol": "TMPOW",
-   "name": "Tempo Automation Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TMPOW"
   },
   {
    "symbol": "TMTC",
@@ -80887,12 +80887,6 @@
    "yahoo_symbol": "DELL"
   },
   {
-   "symbol": "DEN",
-   "name": "Denbury Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DEN"
-  },
-  {
    "symbol": "DEO",
    "name": "Diageo plc Common Stock",
    "exchange": "NYSE",
@@ -84848,13 +84842,13 @@
   },
   {
    "symbol": "HQH",
-   "name": "Tekla Healthcare Investors Common Stock",
+   "name": "abrdn Healthcare Investors Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "HQH"
   },
   {
    "symbol": "HQL",
-   "name": "TeklaLife Sciences Investors Common Stock",
+   "name": "abrdn Life Sciences Investors Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "HQL"
   },
@@ -88705,10 +88699,10 @@
    "yahoo_symbol": "NL"
   },
   {
-   "symbol": "NLOP.V",
-   "name": "Net Lease Office Properties Common Shares of Beneficial Interest When-Issued",
+   "symbol": "NLOP",
+   "name": "Net Lease Office Properties Common Shares of Beneficial Interest",
    "exchange": "NYSE",
-   "yahoo_symbol": "NLOP.V"
+   "yahoo_symbol": "NLOP"
   },
   {
    "symbol": "NLY",
@@ -93872,7 +93866,7 @@
   },
   {
    "symbol": "THQ",
-   "name": "Tekla Healthcare Opportunies Fund Shares of Beneficial Interest",
+   "name": "abrdn Healthcare Opportunities Fund Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "THQ"
   },
@@ -93890,7 +93884,7 @@
   },
   {
    "symbol": "THW",
-   "name": "Tekla World Healthcare Fund Shares of Beneficial Interest",
+   "name": "abrdn World Healthcare Fund Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "THW"
   },
@@ -94139,6 +94133,12 @@
    "name": "Tootsie Roll Industries, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TR"
+  },
+  {
+   "symbol": "TRAK",
+   "name": "ReposiTrak Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAK"
   },
   {
    "symbol": "TRC",
@@ -95825,12 +95825,6 @@
    "name": "W. P. Carey Inc. REIT",
    "exchange": "NYSE",
    "yahoo_symbol": "WPC"
-  },
-  {
-   "symbol": "WPC.V",
-   "name": "W. P. Carey Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WPC.V"
   },
   {
    "symbol": "WPM",

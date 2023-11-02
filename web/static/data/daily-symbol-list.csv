@@ -323,7 +323,6 @@ CEP,Cliffside Capital Ltd.,TSXV,CEP.V,Cliffside Capital Ltd.,CEP
 CLIP,Clip Money Inc.,TSXV,CLIP.V,Clip Money Inc.,CLIP
 CDX,Cloud DX Inc.,TSXV,CDX.V,Cloud DX Inc.,CDX
 DOC,CloudMD Software & Services Inc.,TSXV,DOC.V,CloudMD Software & Services Inc.,DOC
-CLVR.P,Clover Leaf Capital Corp.,TSXV,CLVR.P.V,Clover Leaf Capital Corp.,CLVR.P
 CMB,CMC Metals Ltd.,TSXV,CMB.V,CMC Metals Ltd.,CMB
 CNJ.P,CNJ Capital Investments Inc.,TSXV,CNJ.P.V,CNJ Capital Investments Inc.,CNJ.P
 GROW,CO2 GRO Inc.,TSXV,GROW.V,CO2 GRO Inc.,GROW
@@ -843,6 +842,7 @@ LPS,Legend Power Systems Inc.,TSXV,LPS.V,Legend Power Systems Inc.,LPS
 LTV,LeoNovus Inc.,TSXV,LTV.V,Leonovus Inc.,LTV,Leonovus Inc. wt. 06May2024,LTV.WT
 JUMP,LevelJump Healthcare Corp.,TSXV,JUMP.V,Leveljump Healthcare Corp.,JUMP,LevelJump Healthcare Corp. wt. 14Dec2023,JUMP.WT
 LVX,Leviathan Gold Ltd.,TSXV,LVX.V,Leviathan Gold Ltd,LVX
+LIFT,Li-FT Power Ltd.,TSXV,LIFT.V,Li-FT Power Ltd.,LIFT
 LILI,Li3 Lithium Corp.,TSXV,LILI.V,Li3 Lithium Corp.,LILI
 LBC,Libero Copper & Gold Corporation,TSXV,LBC.V,Libero Copper & Gold Corporation,LBC
 SCAN,"Liberty Defense Holdings, Ltd.",TSXV,SCAN.V,"Liberty Defense Holdings, Ltd.",SCAN
@@ -1036,6 +1036,7 @@ NOC,Norseman Silver Inc.,TSXV,NOC.V,Norseman Silver Inc.,NOC
 NVT,Nortec Minerals Corp.,TSXV,NVT.V,Nortec Minerals Corp.,NVT
 NAR,North Arrow Minerals Inc.,TSXV,NAR.V,North Arrow Minerals Inc.,NAR
 NPR,North Peak Resources Ltd.,TSXV,NPR.V,North Peak Resources Ltd.,NPR
+NSU,North Shore Uranium Ltd.,TSXV,NSU.V,North Shore Uranium Ltd.,NSU
 NGC,Northern Graphite Corporation,TSXV,NGC.V,Northern Graphite Corporation,NGC
 NL,Northern Lion Gold Corp.,TSXV,NL.V,Northern Lion Gold Corp.,NL
 NRN,Northern Shield Resources Inc.,TSXV,NRN.V,Northern Shield Resources Inc.,NRN
@@ -4973,6 +4974,8 @@ ENERR,Accretion Acquisition Corp. - Right,NASDAQ Global MarketSM,ENERR
 ENERU,Accretion Acquisition Corp. - Unit,NASDAQ Global MarketSM,ENERU
 ENERW,Accretion Acquisition Corp. - Warrant,NASDAQ Global MarketSM,ENERW
 ENG,ENGlobal Corporation - Common Stock,NASDAQ Capital Market,ENG
+ENGN,enGene Holdings Inc. - Common Stock,NASDAQ Capital Market,ENGN
+ENGNW,enGene Holdings Inc. - Warrants,NASDAQ Capital Market,ENGNW
 ENLT,Enlight Renewable Energy Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,ENLT
 ENLV,Enlivex Therapeutics Ltd. - Ordinary Shares,NASDAQ Capital Market,ENLV
 ENPH,"Enphase Energy, Inc. - Common Stock",NASDAQ Global MarketSM,ENPH
@@ -5849,7 +5852,7 @@ INM,InMed Pharmaceuticals Inc. - Common Shares,NASDAQ Capital Market,INM
 INMB,INmune Bio Inc. - Common stock,NASDAQ Capital Market,INMB
 INMD,InMode Ltd.  - Ordinary Shares,NASDAQ Global Select MarketSM,INMD
 INNV,InnovAge Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,INNV
-INO,"Inovio Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,INO
+INO,"Inovio Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,INO
 INOD,Innodata Inc. - Common Stock,NASDAQ Global MarketSM,INOD
 INPX,Inpixon  - Common Stock,NASDAQ Capital Market,INPX
 INSE,"Inspired Entertainment, Inc. - Common Stock",NASDAQ Capital Market,INSE
@@ -6377,7 +6380,6 @@ MDIA,Mediaco Holding Inc. - Class A Common Stock,NASDAQ Capital Market,MDIA
 MDIV,Multi-Asset Diversified Income Index Fund,NASDAQ Global MarketSM,MDIV
 MDJH,MDJM LTD - Ordinary Shares,NASDAQ Capital Market,MDJH
 MDLZ,"Mondelez International, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,MDLZ
-MDNA,Medicenna Therapeutics Corp. - Common Shares,NASDAQ Capital Market,MDNA
 MDRR,"Medalist Diversified REIT, Inc. - Common Stock",NASDAQ Capital Market,MDRR
 MDRRP,"Medalist Diversified REIT, Inc. - Series A Cumulative Redeemable Preferred Stock",NASDAQ Capital Market,MDRRP
 MDRX,Veradigm Inc. - common stock,NASDAQ Global Select MarketSM,MDRX
@@ -6960,7 +6962,6 @@ PCTTU,"PureCycle Technologies, Inc. - Unit",NASDAQ Capital Market,PCTTU
 PCTTW,"PureCycle Technologies, Inc. - Warrant",NASDAQ Capital Market,PCTTW
 PCTY,Paylocity Holding Corporation - Common Stock,NASDAQ Global Select MarketSM,PCTY
 PCVX,"Vaxcyte, Inc. - Common Stock",NASDAQ Global Select MarketSM,PCVX
-PCYG,"Park City Group, Inc. - Common Stock",NASDAQ Capital Market,PCYG
 PCYO,Pure Cycle Corporation - Common Stock,NASDAQ Capital Market,PCYO
 PDBA,Invesco Agriculture Commodity Strategy No K-1 ETF,NASDAQ Global MarketSM,PDBA
 PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,NASDAQ Global MarketSM,PDBC
@@ -7987,8 +7988,6 @@ TMCI,"Treace Medical Concepts, Inc. - Common Stock",NASDAQ Global Select MarketS
 TMCWW,TMC the metals company Inc. - Warrant,NASDAQ Global Select MarketSM,TMCWW
 TMDX,"TransMedics Group, Inc. - Common Stock",NASDAQ Global MarketSM,TMDX
 TMET,iShares Transition-Enabling Metals ETF,NASDAQ Global MarketSM,TMET
-TMPO,"Tempo Automation Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,TMPO
-TMPOW,"Tempo Automation Holdings, Inc. - Warrant",NASDAQ Global MarketSM,TMPOW
 TMTC,TMT Acquisition Corp - Ordinary Shares,NASDAQ Global MarketSM,TMTC
 TMTCR,TMT Acquisition Corp - Rights,NASDAQ Global MarketSM,TMTCR
 TMTCU,TMT Acquisition Corp - Unit,NASDAQ Global MarketSM,TMTCU
@@ -9457,7 +9456,6 @@ DEA,"Easterly Government Properties, Inc. Common Stock",NYSE,DEA
 DECK,Deckers Outdoor Corporation Common Stock,NYSE,DECK
 DEI,"Douglas Emmett, Inc. Common Stock",NYSE,DEI
 DELL,Dell Technologies Inc. Class C Common Stock ,NYSE,DELL
-DEN,Denbury Inc. Common Stock,NYSE,DEN
 DEO,Diageo plc Common Stock,NYSE,DEO
 DESP,"Despegar.com, Corp. Ordinary Shares",NYSE,DESP
 DFH,"Dream Finders Homes, Inc. Class A Common Stock",NYSE,DFH
@@ -10117,8 +10115,8 @@ HPP,"Hudson Pacific Properties, Inc. Common Stock",NYSE,HPP
 HPP$C,"Hudson Pacific Properties, Inc. 4.750% Series C Cumulative Redeemable Preferred Stock",NYSE,HPP$C
 HPQ,HP Inc. Common Stock,NYSE,HPQ
 HPS,John Hancock Preferred Income Fund III Preferred Income Fund III,NYSE,HPS
-HQH,Tekla Healthcare Investors Common Stock,NYSE,HQH
-HQL,TeklaLife Sciences Investors Common Stock,NYSE,HQL
+HQH,abrdn Healthcare Investors Shares of Beneficial Interest,NYSE,HQH
+HQL,abrdn Life Sciences Investors Shares of Beneficial Interest,NYSE,HQL
 HR,Healthcare Realty Trust Incorporated Common Stock,NYSE,HR
 HRB,"H&R Block, Inc. Common Stock",NYSE,HRB
 HRI,Herc Holdings Inc. Common Stock ,NYSE,HRI
@@ -10760,7 +10758,7 @@ NJR,NewJersey Resources Corporation Common Stock,NYSE,NJR
 NKE,"Nike, Inc. Common Stock",NYSE,NKE
 NKX,Nuveen California AMT-Free Quality Municipal Income Fund,NYSE,NKX
 NL,"NL Industries, Inc. Common Stock",NYSE,NL
-NLOP.V,Net Lease Office Properties Common Shares of Beneficial Interest When-Issued,NYSE,NLOP.V
+NLOP,Net Lease Office Properties Common Shares of Beneficial Interest,NYSE,NLOP
 NLY,Annaly Capital Management Inc. Common Stock,NYSE,NLY
 NLY$F,Annaly Capital Management Inc 6.95% Series F,NYSE,NLY$F
 NLY$G,Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,NLY$G
@@ -11621,10 +11619,10 @@ THC,Tenet Healthcare Corporation Common Stock,NYSE,THC
 THG,Hanover Insurance Group Inc,NYSE,THG
 THM,"International Tower Hill Mines, Ltd. Ordinary Shares (Canada)",NYSE MKT,THM
 THO,"Thor Industries, Inc. Common Stock",NYSE,THO
-THQ,Tekla Healthcare Opportunies Fund Shares of Beneficial Interest,NYSE,THQ
+THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,NYSE,THQ
 THR,"Thermon Group Holdings, Inc. Common Stock",NYSE,THR
 THS,"Treehouse Foods, Inc. Common Stock",NYSE,THS
-THW,Tekla World Healthcare Fund Shares of Beneficial Interest,NYSE,THW
+THW,abrdn World Healthcare Fund Shares of Beneficial Interest,NYSE,THW
 TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,NYSE,TIMB
 TISI,"Team, Inc. Common Stock",NYSE,TISI
 TIXT,TELUS International (Cda) Inc. Subordinate Voting Shares,NYSE,TIXT
@@ -11666,6 +11664,7 @@ TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,NYSE,TPVG
 TPX,"Tempur Sealy International, Inc. Common Stock",NYSE,TPX
 TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc Common Stock",NYSE,TPZ
 TR,"Tootsie Roll Industries, Inc. Common Stock",NYSE,TR
+TRAK,ReposiTrak Common Stock,NYSE,TRAK
 TRC,Tejon Ranch Co Common Stock,NYSE,TRC
 TRCA,Twin Ridge Capital Acquisition Corp. Class A Ordinary Shares,NYSE,TRCA
 TRCA.U,"Twin Ridge Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,TRCA.U
@@ -11947,7 +11946,6 @@ WOLF,"Wolfspeed, Inc. Common Stock",NYSE,WOLF
 WOR,"Worthington Industries, Inc. Common Stock",NYSE,WOR
 WOW,"WideOpenWest, Inc. Common Stock",NYSE,WOW
 WPC,W. P. Carey Inc. REIT,NYSE,WPC
-WPC.V,W. P. Carey Inc. Common Stock When-Issued,NYSE,WPC.V
 WPM,Wheaton Precious Metals Corp Common Shares (Canada),NYSE,WPM
 WPP,WPP plc American Depositary Shares,NYSE,WPP
 WRAC,Williams Rowland Acquisition Corp. Common Stock,NYSE MKT,WRAC
