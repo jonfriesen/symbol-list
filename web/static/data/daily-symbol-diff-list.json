@@ -1,156 +1,108 @@
 {
  "added": [
   {
-   "symbol": "AKU",
-   "name": "Akumin Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AKU.TO",
-   "instruments": [
-    {
-     "name": "Akumin Inc. J",
-     "symbol": "AKU"
-    }
-   ]
-  },
-  {
-   "symbol": "GKO",
-   "name": "Geekco Technologies Corporation",
+   "symbol": "SVRS",
+   "name": "Silver Storm Mining Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GKO.V",
+   "yahoo_symbol": "SVRS.V",
    "instruments": [
     {
-     "name": "Geekco Technologies Corporation",
-     "symbol": "GKO"
+     "name": "Silver Storm Mining Ltd.",
+     "symbol": "SVRS"
     }
    ]
   },
   {
-   "symbol": "ALKSV",
-   "name": "Alkermes plc - Ordinary Shares Ex-distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ALKSV"
-  },
-  {
-   "symbol": "CREV",
-   "name": "Carbon Revolution Public Limited Company - Ordinary Shares",
+   "symbol": "BRNS",
+   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CREV"
-  },
-  {
-   "symbol": "CREVW",
-   "name": "Carbon Revolution Public Limited Company - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CREVW"
-  },
-  {
-   "symbol": "KRRO",
-   "name": "Korro Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KRRO"
-  },
-  {
-   "symbol": "LXEO",
-   "name": "Lexeo Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LXEO"
-  },
-  {
-   "symbol": "MURAV",
-   "name": "Mural Oncology plc - Ordinary Shares When Issued",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MURAV"
-  },
-  {
-   "symbol": "RMCO",
-   "name": "Royalty Management Holding Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RMCO"
-  },
-  {
-   "symbol": "RMCOW",
-   "name": "Royalty Management Holding Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RMCOW"
-  },
-  {
-   "symbol": "BYON",
-   "name": "Beyond, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BYON"
+   "yahoo_symbol": "BRNS"
   }
  ],
  "removed": [
   {
-   "symbol": "AMAO",
-   "name": "American Acquisition Opportunity Inc.  - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMAO"
+   "symbol": "PLM",
+   "name": "Polymet Mining Corporation Ordinary Shares (Canada)",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLM"
   },
   {
-   "symbol": "AMAOW",
-   "name": "American Acquisition Opportunity Inc.  - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMAOW"
-  },
-  {
-   "symbol": "AMAOU",
-   "name": "American Acquisition Opportunity Inc.  - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMAOU"
-  },
-  {
-   "symbol": "TRHC",
-   "name": "Tabula Rasa HealthCare, Inc. - Common Stock",
+   "symbol": "VACC",
+   "name": "Vaccitech plc - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRHC"
+   "yahoo_symbol": "VACC"
   },
   {
-   "symbol": "ARTEW",
-   "name": "Artemis Strategic Investment Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARTEW"
-  },
-  {
-   "symbol": "AQNA",
-   "name": "Algonquin Power \u0026 Utilities Corp. 6.875% Fixed-to-Floating Rate Subordinated Notes Series 2018-A due October 17, 2078",
+   "symbol": "AAC.W",
+   "name": "Ares Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
    "exchange": "NYSE",
-   "yahoo_symbol": "AQNA"
+   "yahoo_symbol": "AAC.W"
   },
   {
-   "symbol": "JPS",
-   "name": "Nuveen Preferred \u0026 Income Securities Fund",
+   "symbol": "RY$T",
+   "name": "Royal Bank Of Canada 6.750% Fixed Rate/Floating Rate Noncumulative First Preferred Shares, Series C-2",
    "exchange": "NYSE",
-   "yahoo_symbol": "JPS"
+   "yahoo_symbol": "RY$T"
   },
   {
-   "symbol": "ARTEU",
-   "name": "Artemis Strategic Investment Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARTEU"
-  },
-  {
-   "symbol": "OSTK",
-   "name": "Overstock.com, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OSTK"
-  },
-  {
-   "symbol": "JPT",
-   "name": "Nuveen Preferred and Income Fund Common Shares of Beneficial Interest",
+   "symbol": "LIN",
+   "name": "Linde plc Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "JPT"
+   "yahoo_symbol": "LIN"
   },
   {
-   "symbol": "ARTE",
-   "name": "Artemis Strategic Investment Corporation - Class A Common Stock",
+   "symbol": "GOG",
+   "name": "Golden Tag Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GOG.V",
+   "instruments": [
+    {
+     "name": "Golden Tag Resources Ltd.",
+     "symbol": "GOG"
+    }
+   ]
+  },
+  {
+   "symbol": "FBYDP",
+   "name": "Falcon's Beyond Global, Inc. - 8% Series A Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARTE"
+   "yahoo_symbol": "FBYDP"
   },
   {
-   "symbol": "FREQ",
-   "name": "Frequency Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FREQ"
+   "symbol": "MNOW",
+   "name": "Mednow Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNOW.V",
+   "instruments": [
+    {
+     "name": "Mednow Inc.",
+     "symbol": "MNOW"
+    }
+   ]
+  },
+  {
+   "symbol": "AAC.U",
+   "name": "Ares Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAC.U"
+  },
+  {
+   "symbol": "NCM",
+   "name": "Newcrest Mining Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCM.TO",
+   "instruments": [
+    {
+     "name": "Newcrest Mining Ord",
+     "symbol": "NCM"
+    }
+   ]
+  },
+  {
+   "symbol": "AAC",
+   "name": "Ares Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAC"
   }
  ]
 }
