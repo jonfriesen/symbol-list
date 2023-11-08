@@ -1,108 +1,204 @@
 {
  "added": [
   {
-   "symbol": "SVRS",
-   "name": "Silver Storm Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SVRS.V",
-   "instruments": [
-    {
-     "name": "Silver Storm Mining Ltd.",
-     "symbol": "SVRS"
-    }
-   ]
+   "symbol": "AERT",
+   "name": "Aeries Technology, Inc. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AERT"
   },
   {
-   "symbol": "BRNS",
-   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
+   "symbol": "AERTW",
+   "name": "Aeries Technology, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AERTW"
+  },
+  {
+   "symbol": "LIN",
+   "name": "Linde plc - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LIN"
+  },
+  {
+   "symbol": "ONMD",
+   "name": "OneMedNet Corp - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRNS"
+   "yahoo_symbol": "ONMD"
+  },
+  {
+   "symbol": "ONMDW",
+   "name": "OneMedNet Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONMDW"
+  },
+  {
+   "symbol": "OPTX",
+   "name": "Syntec Optics Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPTX"
+  },
+  {
+   "symbol": "OPTXW",
+   "name": "Syntec Optics Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPTXW"
   }
  ],
  "removed": [
   {
-   "symbol": "PLM",
-   "name": "Polymet Mining Corporation Ordinary Shares (Canada)",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PLM"
-  },
-  {
-   "symbol": "VACC",
-   "name": "Vaccitech plc - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VACC"
-  },
-  {
-   "symbol": "AAC.W",
-   "name": "Ares Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "symbol": "PRPC.U",
+   "name": "CC Neuberger Principal Holdings III Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "AAC.W"
+   "yahoo_symbol": "PRPC.U"
   },
   {
-   "symbol": "RY$T",
-   "name": "Royal Bank Of Canada 6.750% Fixed Rate/Floating Rate Noncumulative First Preferred Shares, Series C-2",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RY$T"
-  },
-  {
-   "symbol": "LIN",
-   "name": "Linde plc Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LIN"
-  },
-  {
-   "symbol": "GOG",
-   "name": "Golden Tag Resources Ltd.",
+   "symbol": "DXX",
+   "name": "DXStorm.com Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GOG.V",
+   "yahoo_symbol": "DXX.V",
    "instruments": [
     {
-     "name": "Golden Tag Resources Ltd.",
-     "symbol": "GOG"
+     "name": "DXStorm.com Inc",
+     "symbol": "DXX"
     }
    ]
   },
   {
-   "symbol": "FBYDP",
-   "name": "Falcon's Beyond Global, Inc. - 8% Series A Preferred Stock",
+   "symbol": "MLPO",
+   "name": "Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S\u0026P MLP Index",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "MLPO"
+  },
+  {
+   "symbol": "WWACW",
+   "name": "Worldwide Webb Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WWACW"
+  },
+  {
+   "symbol": "RIBT",
+   "name": "RiceBran Technologies - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RIBT"
+  },
+  {
+   "symbol": "NEWR",
+   "name": "New Relic, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEWR"
+  },
+  {
+   "symbol": "PRPC.W",
+   "name": "CC Neuberger Principal Holdings III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRPC.W"
+  },
+  {
+   "symbol": "PRPC",
+   "name": "CC Neuberger Principal Holdings III Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRPC"
+  },
+  {
+   "symbol": "OLITW",
+   "name": "OmniLit Acquisition Corp. - Warrants.",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FBYDP"
+   "yahoo_symbol": "OLITW"
   },
   {
-   "symbol": "MNOW",
-   "name": "Mednow Inc.",
+   "symbol": "DKDCA",
+   "name": "Data Knights Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DKDCA"
+  },
+  {
+   "symbol": "SPRX",
+   "name": "Sparx Technology Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MNOW.V",
+   "yahoo_symbol": "SPRX.V",
    "instruments": [
     {
-     "name": "Mednow Inc.",
-     "symbol": "MNOW"
+     "name": "Sparx Technology Inc.",
+     "symbol": "SPRX"
     }
    ]
   },
   {
-   "symbol": "AAC.U",
-   "name": "Ares Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAC.U"
+   "symbol": "WWACU",
+   "name": "Worldwide Webb Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WWACU"
   },
   {
-   "symbol": "NCM",
-   "name": "Newcrest Mining Limited",
-   "exchange": "TSX",
-   "yahoo_symbol": "NCM.TO",
+   "symbol": "OLIT",
+   "name": "OmniLit Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OLIT"
+  },
+  {
+   "symbol": "HLGN.W",
+   "name": "Heliogen, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HLGN.W"
+  },
+  {
+   "symbol": "OLITU",
+   "name": "OmniLit Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OLITU"
+  },
+  {
+   "symbol": "DKDCW",
+   "name": "Data Knights Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DKDCW"
+  },
+  {
+   "symbol": "ACDCW",
+   "name": "ProFrac Holding Corp. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACDCW"
+  },
+  {
+   "symbol": "WWAC",
+   "name": "Worldwide Webb Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WWAC"
+  },
+  {
+   "symbol": "DKDCU",
+   "name": "Data Knights Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DKDCU"
+  },
+  {
+   "symbol": "AVID",
+   "name": "Avid Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AVID"
+  },
+  {
+   "symbol": "TWNK",
+   "name": "Hostess Brands, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TWNK"
+  },
+  {
+   "symbol": "KUU",
+   "name": "Kuuhubb Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KUU.V",
    "instruments": [
     {
-     "name": "Newcrest Mining Ord",
-     "symbol": "NCM"
+     "name": "Kuuhubb Inc.",
+     "symbol": "KUU"
     }
    ]
   },
   {
-   "symbol": "AAC",
-   "name": "Ares Acquisition Corporation Class A Ordinary Shares",
+   "symbol": "HLGN",
+   "name": "Heliogen, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "AAC"
+   "yahoo_symbol": "HLGN"
   }
  ]
 }
