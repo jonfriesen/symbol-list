@@ -405,6 +405,7 @@ FARM,Deveron Corp.,TSXV,FARM.V,Deveron Corp.,FARM,Deveron Corp. wt 25feb2024,FAR
 GSD,Devonian Health Group Inc.,TSXV,GSD.V,Devonian Health Group Inc.,GSD
 DFR,DFR Gold Inc.,TSXV,DFR.V,DFR Gold Inc.,DFR
 DGL.P,DGL Investments No.1 Inc,TSXV,DGL.P.V,DGL Investments No. 1 Inc.,DGL.P
+DGTL,DGTL Holdings Inc.,TSXV,DGTL.V,DGTL Holdings Inc.,DGTL
 ADK,Diagnos Inc.,TSXV,ADK.V,Diagnos Inc.,ADK
 DMI,Diamcor Mining Inc.,TSXV,DMI.V,Diamcor Mining Inc,DMI
 DWS,Diamond Estates Wines & Spirits Inc.,TSXV,DWS.V,Diamond Estates Wines & Spirits Inc.,DWS
@@ -623,7 +624,6 @@ GLD,GoldON Resources Ltd.,TSXV,GLD.V,GoldON Resources Ltd.,GLD
 GQC,GoldQuest Mining Corp.,TSXV,GQC.V,GoldQuest Mining Corp.,GQC
 GSHR,Goldshore Resources Inc.,TSXV,GSHR.V,Goldshore Resources Inc.,GSHR
 GXS,Goldsource Mines Inc.,TSXV,GXS.V,Goldsource Mines Inc.,GXS
-GDM,Goldstar Minerals Inc.,TSXV,GDM.V,Goldstar Minerals Inc.,GDM
 GSTM,Goldstorm Metals Corp.,TSXV,GSTM.V,Goldstorm Metals Corp.,GSTM
 GOT,Goliath Resources Limited,TSXV,GOT.V,Goliath Resources Limited,GOT
 GOOD,Good Gamer Entertainment Inc.,TSXV,GOOD.V,Good Gamer Entertainment Inc.,GOOD
@@ -648,6 +648,7 @@ GPAC,Great Pacific Gold Corp.,TSXV,GPAC.V,Great Pacific Gold Corp.,GPAC
 GQ,Great Quest Fertilizer Ltd.,TSXV,GQ.V,Great Quest Fertilizer Ltd.,GQ
 GEM,Green Battery Minerals Inc.,TSXV,GEM.V,Green Battery Minerals Inc.,GEM
 GIP,Green Impact Partners Inc.,TSXV,GIP.V,Green Impact Partners Inc.,GIP
+GMI,Green Mining Innovation Inc.,TSXV,GMI.V,Green Mining Innovation Inc.,GMI
 GPCC.P,Green Panda Capital Corp.,TSXV,GPCC.P.V,Green Panda Capital Corp.,GPCC.P
 GRF,Green Rise Foods Inc.,TSXV,GRF.V,Green Rise Foods Inc.,GRF
 GCOM,Green Shift Commodities Ltd.,TSXV,GCOM.V,Green Shift Commodities Ltd.,GCOM
@@ -3075,7 +3076,6 @@ PTM,Platinum Group Metals Ltd.,TSX,PTM.TO,Platinum Grp Metal J,PTM
 PLZ.UN,Plaza Retail REIT,TSX,PLZ.UN.TO,Plaza Retail REIT Un,PLZ.UN
 PIF,Polaris Renewable Energy Inc.,TSX,PIF.TO,Polaris Renew Engy J,PIF
 PBL,Pollard Banknote Limited,TSX,PBL.TO,Pollard Banknote Ltd,PBL
-POM,Polymet Mining Corp.,TSX,POM.TO,Polymet Mining J,POM
 PNC.A,Postmedia Network Canada Corp.,TSX,PNC.A.TO,Postmedia Ntwrk C J,PNC.A,Postmedia Ntwrk VV J,PNC.B
 POW,Power Corporation of Canada,TSX,POW.TO,Power Corp of Cda SV,POW,Power Corp 5.6% Pr A,POW.PR.A,Power Corp 5.35% Pr,POW.PR.B,Power Corp 5.80% Pr,POW.PR.C,Power Corp 5.00% Pr,POW.PR.D,Power Corp Part. Pr,POW.PR.E,Power Corp 5.6% Pr G,POW.PR.G
 PWF.PF.A,Power Financial Corporation,TSX,PWF.PF.A.TO,Power Fin 4.5% Pr 23,PWF.PF.A,Power Financial Pr A,PWF.PR.A,Power Financial Pr D,PWF.PR.E,Power Fin 5.25% Pr E,PWF.PR.F,Power Fin 5.90% Pr F,PWF.PR.G,Power Fin 5.75% Pr H,PWF.PR.H,Power Fin 4.95% Pr K,PWF.PR.K,Power Fin 5.10% Pr L,PWF.PR.L,Power Fin 5.80% Pr O,PWF.PR.O,Power Fin 4.40% Pr P,PWF.PR.P,Power Financial Pr Q,PWF.PR.Q,Power Fin 5.50% Pr R,PWF.PR.R,Power Fin 4.80% Pr S,PWF.PR.S,Power Fin 4.20% Pr T,PWF.PR.T,Power Fin 5.15% Pr V,PWF.PR.Z
@@ -3507,7 +3507,6 @@ ACBAU,Ace Global Business Acquisition Limited - Unit,NASDAQ Capital Market,ACBAU
 ACBAW,Ace Global Business Acquisition Limited - Warrant,NASDAQ Capital Market,ACBAW
 ACCD,"Accolade, Inc. - common stock",NASDAQ Global Select MarketSM,ACCD
 ACDC,ProFrac Holding Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,ACDC
-ACER,Acer Therapeutics Inc. - Common Stock,NASDAQ Capital Market,ACER
 ACET,"Adicet Bio, Inc. - Common Stock",NASDAQ Global MarketSM,ACET
 ACGL,Arch Capital Group Ltd. - Common Stock,NASDAQ Global Select MarketSM,ACGL
 ACGLN,"Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",NASDAQ Global Select MarketSM,ACGLN
@@ -4006,6 +4005,7 @@ BEATW,"Heartbeam, Inc. - Warrant",NASDAQ Capital Market,BEATW
 BECN,"Beacon Roofing Supply, Inc. - Common Stock",NASDAQ Global Select MarketSM,BECN
 BEEM,Beam Global - Common Stock,NASDAQ Capital Market,BEEM
 BEEMW,Beam Global - Warrant,NASDAQ Capital Market,BEEMW
+BEEZ,Honeytree U.S. Equity ETF,NASDAQ Global MarketSM,BEEZ
 BELFA,Bel Fuse Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,BELFA
 BELFB,Bel Fuse Inc. - Class B Common Stock,NASDAQ Global Select MarketSM,BELFB
 BENF,Beneficient - Class A Common Stock,NASDAQ Global MarketSM,BENF
@@ -4046,7 +4046,6 @@ BIB,ProShares Ultra Nasdaq Biotechnology,NASDAQ Global MarketSM,BIB
 BIDU,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",NASDAQ Global Select MarketSM,BIDU
 BIGB,Roundhill BIG Bank ETF,NASDAQ Global MarketSM,BIGB
 BIGC,"BigCommerce Holdings, Inc. - Series 1 Common Stock",NASDAQ Global MarketSM,BIGC
-BIGT,Roundhill BIG Tech ETF,NASDAQ Global MarketSM,BIGT
 BIIB,Biogen Inc. - Common Stock,NASDAQ Global Select MarketSM,BIIB
 BILI,Bilibili Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,BILI
 BIMI,BIMI International Medical Inc. - Common Stock,NASDAQ Capital Market,BIMI
@@ -4393,7 +4392,6 @@ CFIVU,CF Acquisition Corp. IV - Unit,NASDAQ Capital Market,CFIVU
 CFIVW,CF Acquisition Corp. IV - Warrant,NASDAQ Capital Market,CFIVW
 CFLT,"Confluent, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CFLT
 CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,NASDAQ Global MarketSM,CFO
-CFRX,ContraFect Corporation - Common Stock,NASDAQ Capital Market,CFRX
 CFSB,"CFSB Bancorp, Inc. - Common Stock",NASDAQ Capital Market,CFSB
 CG,The Carlyle Group Inc. - Common Stock,NASDAQ Global Select MarketSM,CG
 CGABL,The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061,NASDAQ Global Select MarketSM,CGABL
@@ -4422,6 +4420,7 @@ CHKP,Check Point Software Technologies Ltd. - Ordinary Shares,NASDAQ Global Sele
 CHMG,Chemung Financial Corp  - Common Stock,NASDAQ Global Select MarketSM,CHMG
 CHNR,"China Natural Resources, Inc. - Common Shares",NASDAQ Capital Market,CHNR
 CHPS,Xtrackers Semiconductor Select Equity ETF,NASDAQ Global MarketSM,CHPS
+CHR,"Cheer Holding, Inc.  - Ordinary Share",NASDAQ Capital Market,CHR
 CHRD,Chord Energy Corporation - Common Stock,NASDAQ Global Select MarketSM,CHRD
 CHRS,"Coherus BioSciences, Inc. - Common Stock",NASDAQ Global MarketSM,CHRS
 CHRW,"C.H. Robinson Worldwide, Inc. - Common Stock",NASDAQ Global Select MarketSM,CHRW
@@ -4757,8 +4756,11 @@ DECAW,Denali Capital Acquisition Corp. - Warrant,NASDAQ Global MarketSM,DECAW
 DEMZ,Democratic Large Cap Core ETF,NASDAQ Global MarketSM,DEMZ
 DENN,Denny's Corporation - Common Stock,NASDAQ Capital Market,DENN
 DERM,Journey Medical Corporation - Common Stock,NASDAQ Capital Market,DERM
+DFGP,Dimensional Global Core Plus Fixed Income ETF,NASDAQ Global MarketSM,DFGP
+DFGX,Dimensional Global ex US Core Fixed Income ETF,NASDAQ Global MarketSM,DFGX
 DFLI,Dragonfly Energy Holdings Corp - Common Stock,NASDAQ Global MarketSM,DFLI
 DFLIW,Dragonfly Energy Holdings Corp - Warrant,NASDAQ Capital Market,DFLIW
+DGCB,Dimensional Global Credit ETF,NASDAQ Global MarketSM,DGCB
 DGHI,Digihost Technology Inc. - Common Subordinate Voting Shares,NASDAQ Capital Market,DGHI
 DGICA,"Donegal Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,DGICA
 DGICB,"Donegal Group, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,DGICB
@@ -5519,8 +5521,7 @@ GSDWW,Global Systems Dynamics Inc. - Warrant,NASDAQ Capital Market,GSDWW
 GSHD,"Goosehead Insurance, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,GSHD
 GSIT,"GSI Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,GSIT
 GSM,Ferroglobe PLC - Ordinary Shares,NASDAQ Capital Market,GSM
-GSMG,Glory Star New Media Group Holdings Limited - Ordinary Share,NASDAQ Capital Market,GSMG
-GSMGW,Glory Star New Media Group Holdings Limited - Warrant,NASDAQ Capital Market,GSMGW
+GSMGW,"Cheer Holding, Inc.  - Warrant",NASDAQ Capital Market,GSMGW
 GSUN,Golden Sun Education Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,GSUN
 GT,The Goodyear Tire & Rubber Company - Common Stock,NASDAQ Global Select MarketSM,GT
 GTAC,Global Technology Acquisition Corp. I - Class A Ordinary Shares,NASDAQ Global MarketSM,GTAC
@@ -5536,6 +5537,7 @@ GTR,WisdomTree Target Range Fund,NASDAQ Global MarketSM,GTR
 GTX,Garrett Motion Inc. - Common Stock,NASDAQ Global Select MarketSM,GTX
 GURE,"Gulf Resources, Inc. - Common Stock",NASDAQ Global Select MarketSM,GURE
 GV,Visionary Education Technology Holdings Group Inc. - Common Shares,NASDAQ Capital Market,GV
+GVH,Globavend Holdings Limited - Ord Shares,NASDAQ Capital Market,GVH
 GVP,"GSE Systems, Inc. - Common Stock",NASDAQ Capital Market,GVP
 GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",NASDAQ Capital Market,GWAV
 GWRS,"Global Water Resources, Inc. - common stock",NASDAQ Global MarketSM,GWRS
@@ -5745,7 +5747,6 @@ ICLN,iShares Global Clean Energy ETF,NASDAQ Global MarketSM,ICLN
 ICLR,ICON plc - Ordinary Shares,NASDAQ Global Select MarketSM,ICLR
 ICMB,"Investcorp Credit Management BDC, Inc. - Common Stock",NASDAQ Global Select MarketSM,ICMB
 ICOP,iShares Copper and Metals Mining ETF,NASDAQ Global MarketSM,ICOP
-ICPT,"Intercept Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ICPT
 ICU,SeaStar Medical Holding Corporation - Common Stock,NASDAQ Capital Market,ICU
 ICUCW,SeaStar Medical Holding Corporation - Warrant,NASDAQ Capital Market,ICUCW
 ICUI,"ICU Medical, Inc. - Common Stock",NASDAQ Global Select MarketSM,ICUI
@@ -5828,7 +5829,6 @@ INCR,Intercure Ltd. - ordinary shares,NASDAQ Global MarketSM,INCR
 INCY,Incyte Corporation - Common Stock,NASDAQ Global Select MarketSM,INCY
 INDB,Independent Bank Corp. - Common Stock,NASDAQ Global Select MarketSM,INDB
 INDI,"indie Semiconductor, Inc. - Class A Common Stock",NASDAQ Capital Market,INDI
-INDIW,"indie Semiconductor, Inc. - Warrant",NASDAQ Capital Market,INDIW
 INDP,"Indaptus Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,INDP
 INDV,Indivior PLC - Ordinary Shares,NASDAQ Global Select MarketSM,INDV
 INDY,iShares India 50 ETF,NASDAQ Global MarketSM,INDY
@@ -6294,6 +6294,7 @@ MACA,Moringa Acquisition Corp - Class A Ordinary Shares,NASDAQ Capital Market,MA
 MACAU,Moringa Acquisition Corp - Units,NASDAQ Capital Market,MACAU
 MACAW,Moringa Acquisition Corp - Warrant,NASDAQ Capital Market,MACAW
 MACK,"Merrimack Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,MACK
+MAGS,Roundhill Magnificent Seven ETF,NASDAQ Global MarketSM,MAGS
 MAMA,"Mama's Creations, Inc. - Common Stock",NASDAQ Capital Market,MAMA
 MANH,"Manhattan Associates, Inc. - Common Stock",NASDAQ Global Select MarketSM,MANH
 MAPS,"WM Technology, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,MAPS
@@ -6574,7 +6575,7 @@ NCAC,Newcourt Acquisition Corp - Class A Ordinary Share,NASDAQ Global MarketSM,N
 NCACU,Newcourt Acquisition Corp - Unit,NASDAQ Global MarketSM,NCACU
 NCACW,Newcourt Acquisition Corp - Warrant,NASDAQ Global MarketSM,NCACW
 NCMI,"National CineMedia, Inc. - Common Stock",NASDAQ Global Select MarketSM,NCMI
-NCNA,NuCana plc - American Depositary Shares,NASDAQ Global Select MarketSM,NCNA
+NCNA,NuCana plc - American Depositary Shares,NASDAQ Capital Market,NCNA
 NCNC,noco-noco Inc. - Ordinary Share,NASDAQ Capital Market,NCNC
 NCNCW,noco-noco Inc. - Warrant,NASDAQ Capital Market,NCNCW
 NCNO,"nCino, Inc. - Common Stock",NASDAQ Global Select MarketSM,NCNO
@@ -11863,7 +11864,6 @@ WD,"Walker & Dunlop, Inc Common Stock",NYSE,WD
 WDH,Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),NYSE,WDH
 WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,NYSE,WDI
 WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",NYSE,WDS
-WE,WeWork Inc. Class A Common Stock,NYSE,WE
 WEA,Western Asset Bond Fund Share of Beneficial Interest,NYSE,WEA
 WEAV,"Weave Communications, Inc. Common Stock",NYSE,WEAV
 WEC,"WEC Energy Group, Inc. Common Stock",NYSE,WEC
@@ -11899,7 +11899,6 @@ WLY,"John Wiley & Sons, Inc. Common Stock",NYSE,WLY
 WLYB,"John Wiley & Sons, Inc. Common Stock",NYSE,WLYB
 WM,"Waste Management, Inc. Common Stock",NYSE,WM
 WMB,"Williams Companies, Inc. (The) Common Stock",NYSE,WMB
-WMC,Western Asset Mortgage Capital Corporation Common Stock,NYSE,WMC
 WMK,"Weis Markets, Inc. Common Stock",NYSE,WMK
 WMS,"Advanced Drainage Systems, Inc. Common Stock",NYSE,WMS
 WMT,Walmart Inc. Common Stock,NYSE,WMT

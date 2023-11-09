@@ -1,30 +1,13 @@
 {
  "added": [
   {
-   "symbol": "AXLINU",
-   "name": "AXL INU (AXLINU)",
-   "built_on": "BNB"
+   "symbol": "IO",
+   "name": "Ideal Opportunities (IO)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "ETHERINC",
-   "name": "EtherInc (ETHERINC)"
-  },
-  {
-   "symbol": "BABYFLOKI",
-   "name": "BabyFloki (BABYFLOKI)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "ETI",
-   "name": "Etica (ETI)"
-  },
-  {
-   "symbol": "ORDI",
-   "name": "Ordinals  (ORDI)"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "GROK",
+   "name": "Grok (GROK)",
    "built_on": "ETH"
   },
   {
@@ -32,23 +15,45 @@
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SHRAP",
+   "name": "Shrapnel (SHRAP)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "MEME",
+   "name": "Memecoin (MEME)",
    "built_on": "ETH"
   },
   {
-   "symbol": "EGAZ",
-   "name": "EGAZ (EGAZ)"
+   "symbol": "FUSO",
+   "name": "Fusotao (FUSO)"
+  },
+  {
+   "symbol": "METIS",
+   "name": "Metis Token (METIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEMETIC",
+   "name": "Memetic (MEMETIC)"
   }
  ],
  "removed": [
   {
-   "symbol": "BABYFLOKI",
-   "name": "BabyFloki (BABYFLOKI)"
+   "symbol": "MEME",
+   "name": "Memetic (MEME)"
   },
   {
-   "symbol": "AXLINU",
-   "name": "AXL INU (AXLINU)"
+   "symbol": "METIS",
+   "name": "Metis Token (METIS)"
   }
  ]
 }
