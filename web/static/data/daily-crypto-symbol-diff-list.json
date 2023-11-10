@@ -1,14 +1,8 @@
 {
  "added": [
   {
-   "symbol": "IO",
-   "name": "Ideal Opportunities (IO)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GROK",
-   "name": "Grok (GROK)",
-   "built_on": "ETH"
+   "symbol": "AVA",
+   "name": "Travala (AVA)"
   },
   {
    "symbol": "BANKETH",
@@ -19,41 +13,25 @@
    "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "SHRAP",
-   "name": "Shrapnel (SHRAP)",
-   "built_on": "AVAX"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "MEME",
-   "name": "Memecoin (MEME)",
+   "symbol": "ANV",
+   "name": "Aniverse (ANV)",
    "built_on": "ETH"
   },
   {
-   "symbol": "FUSO",
-   "name": "Fusotao (FUSO)"
-  },
-  {
-   "symbol": "METIS",
-   "name": "Metis Token (METIS)",
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "MEMETIC",
-   "name": "Memetic (MEMETIC)"
   }
  ],
  "removed": [
   {
-   "symbol": "MEME",
-   "name": "Memetic (MEME)"
+   "symbol": "AVA",
+   "name": "Travala (AVA)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "METIS",
-   "name": "Metis Token (METIS)"
+   "symbol": "ANV",
+   "name": "Aniverse (ANV)"
   }
  ]
 }
