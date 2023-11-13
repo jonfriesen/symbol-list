@@ -1,5 +1,5 @@
 {
- "date": "2023-11-10",
+ "date": "2023-11-13",
  "data": [
   {
    "symbol": "AACG",
@@ -6962,6 +6962,12 @@
    "yahoo_symbol": "CRGOW"
   },
   {
+   "symbol": "CRGX",
+   "name": "CARGO Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CRGX"
+  },
+  {
    "symbol": "CRIS",
    "name": "Curis, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -8708,12 +8714,6 @@
    "yahoo_symbol": "EDUC"
   },
   {
-   "symbol": "EDUT",
-   "name": "Global X Education ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EDUT"
-  },
-  {
    "symbol": "EEFT",
    "name": "Euronet Worldwide, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -9558,12 +9558,6 @@
    "name": "European Wax Center, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "EWCZ"
-  },
-  {
-   "symbol": "EWEB",
-   "name": "Global X Emerging Markets Internet \u0026 E-commerce ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EWEB"
   },
   {
    "symbol": "EWJV",
@@ -15398,12 +15392,6 @@
    "yahoo_symbol": "KE"
   },
   {
-   "symbol": "KEJI",
-   "name": "Global X China Innovation ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KEJI"
-  },
-  {
    "symbol": "KELYA",
    "name": "Kelly Services, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -20039,6 +20027,12 @@
    "name": "Osisko Development Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ODVWW"
+  },
+  {
+   "symbol": "ODVWZ",
+   "name": "Osisko Development Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ODVWZ"
   },
   {
    "symbol": "OESX",
@@ -28778,7 +28772,7 @@
   },
   {
    "symbol": "VNOM",
-   "name": "Viper Energy Partners LP - Common Unit",
+   "name": "Viper Energy, Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VNOM"
   },
@@ -29507,12 +29501,6 @@
    "name": "Wix.com Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WIX"
-  },
-  {
-   "symbol": "WIZ",
-   "name": "Merlyn.AI Bull-Rider Bear-Fighter ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WIZ"
   },
   {
    "symbol": "WKEY",
@@ -41183,12 +41171,6 @@
    "name": "Kimberly-Clark Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "KMB"
-  },
-  {
-   "symbol": "KMF",
-   "name": "Kayne Anderson NextGen Energy \u0026 Infrastructure, Inc.",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KMF"
   },
   {
    "symbol": "KMI",
@@ -55709,18 +55691,6 @@
     {
      "name": "CVW CleanTech Inc.",
      "symbol": "CVW"
-    }
-   ]
-  },
-  {
-   "symbol": "CWC",
-   "name": "CWC Energy Services Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CWC.V",
-   "instruments": [
-    {
-     "name": "CWC Energy Services Corp.",
-     "symbol": "CWC"
     }
    ]
   },

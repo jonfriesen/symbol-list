@@ -1,84 +1,60 @@
 {
  "added": [
   {
-   "symbol": "AITRU",
-   "name": "AI TRANSPORTATION ACQUISITION CORP - Unit",
+   "symbol": "CRGX",
+   "name": "CARGO Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CRGX"
+  },
+  {
+   "symbol": "ODVWZ",
+   "name": "Osisko Development Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AITRU"
-  },
-  {
-   "symbol": "ANSCU",
-   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANSCU"
-  },
-  {
-   "symbol": "HG",
-   "name": "Hamilton Insurance Group, Ltd. Class B Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HG"
-  },
-  {
-   "symbol": "WMC",
-   "name": "Western Asset Mortgage Capital Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WMC"
-  },
-  {
-   "symbol": "KRY",
-   "name": "Koryx Copper Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KRY.V",
-   "instruments": [
-    {
-     "name": "Koryx Copper Inc.",
-     "symbol": "KRY"
-    }
-   ]
+   "yahoo_symbol": "ODVWZ"
   }
  ],
  "removed": [
   {
-   "symbol": "UFAB",
-   "name": "Unique Fabricating, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "UFAB"
+   "symbol": "KMF",
+   "name": "Kayne Anderson NextGen Energy \u0026 Infrastructure, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KMF"
   },
   {
-   "symbol": "EQRXW",
-   "name": "EQRx, Inc.  - Warrant",
+   "symbol": "WIZ",
+   "name": "Merlyn.AI Bull-Rider Bear-Fighter ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EQRXW"
+   "yahoo_symbol": "WIZ"
   },
   {
-   "symbol": "NXGN",
-   "name": "NextGen Healthcare, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NXGN"
+   "symbol": "EDUT",
+   "name": "Global X Education ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EDUT"
   },
   {
-   "symbol": "DSM",
-   "name": "Deep-South Resources Inc.",
+   "symbol": "EWEB",
+   "name": "Global X Emerging Markets Internet \u0026 E-commerce ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EWEB"
+  },
+  {
+   "symbol": "KEJI",
+   "name": "Global X China Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEJI"
+  },
+  {
+   "symbol": "CWC",
+   "name": "CWC Energy Services Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DSM.V",
+   "yahoo_symbol": "CWC.V",
    "instruments": [
     {
-     "name": "Deep-South Resources Inc.",
-     "symbol": "DSM"
+     "name": "CWC Energy Services Corp.",
+     "symbol": "CWC"
     }
    ]
-  },
-  {
-   "symbol": "TBLTW",
-   "name": "ToughBuilt Industries, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TBLTW"
-  },
-  {
-   "symbol": "EQRX",
-   "name": "EQRx, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EQRX"
   }
  ]
 }
