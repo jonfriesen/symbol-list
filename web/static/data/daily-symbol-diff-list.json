@@ -1,60 +1,96 @@
 {
  "added": [
   {
-   "symbol": "CRGX",
-   "name": "CARGO Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CRGX"
+   "symbol": "RNAC",
+   "name": "Cartesian Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNAC"
   },
   {
-   "symbol": "ODVWZ",
-   "name": "Osisko Development Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ODVWZ"
+   "symbol": "ROIV",
+   "name": "Roivant Sciences Ltd. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ROIV"
+  },
+  {
+   "symbol": "GCFE",
+   "name": "Guardian Canadian Focused Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GCFE.TO",
+   "instruments": [
+    {
+     "name": "Guardian CdnFocus Eq",
+     "symbol": "GCFE"
+    }
+   ]
+  },
+  {
+   "symbol": "GIES",
+   "name": "Guardian International Equity Select Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIES.TO",
+   "instruments": [
+    {
+     "name": "Guardian Intl EqSlct",
+     "symbol": "GIES"
+    }
+   ]
+  },
+  {
+   "symbol": "SGN",
+   "name": "Signing Day Sports, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SGN"
   }
  ],
  "removed": [
   {
-   "symbol": "KMF",
-   "name": "Kayne Anderson NextGen Energy \u0026 Infrastructure, Inc.",
+   "symbol": "APRN",
+   "name": "Blue Apron Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APRN"
+  },
+  {
+   "symbol": "SELB",
+   "name": "Selecta Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SELB"
+  },
+  {
+   "symbol": "SQLLW",
+   "name": "SeqLL Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SQLLW"
+  },
+  {
+   "symbol": "CANO.W",
+   "name": "Cano Health, Inc. Warrants",
    "exchange": "NYSE",
-   "yahoo_symbol": "KMF"
+   "yahoo_symbol": "CANO.W"
   },
   {
-   "symbol": "WIZ",
-   "name": "Merlyn.AI Bull-Rider Bear-Fighter ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WIZ"
+   "symbol": "SQL",
+   "name": "SeqLL Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SQL"
   },
   {
-   "symbol": "EDUT",
-   "name": "Global X Education ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EDUT"
-  },
-  {
-   "symbol": "EWEB",
-   "name": "Global X Emerging Markets Internet \u0026 E-commerce ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EWEB"
-  },
-  {
-   "symbol": "KEJI",
-   "name": "Global X China Innovation ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KEJI"
-  },
-  {
-   "symbol": "CWC",
-   "name": "CWC Energy Services Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CWC.V",
+   "symbol": "SMA",
+   "name": "Standard Mercantile Acquisition Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMA.TO",
    "instruments": [
     {
-     "name": "CWC Energy Services Corp.",
-     "symbol": "CWC"
+     "name": "Std Mercntl Acquis A",
+     "symbol": "SMA"
     }
    ]
+  },
+  {
+   "symbol": "ROIV",
+   "name": "Roivant Sciences Ltd. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROIV"
   }
  ]
 }

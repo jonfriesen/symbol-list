@@ -1,33 +1,29 @@
 {
  "added": [
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "SRM",
+   "name": "Serum (SRM)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "AVA",
-   "name": "Travala (AVA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "LYX",
-   "name": "LUKSO (LYX)"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
    "symbol": "G",
    "name": "GRN Grid (G)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "AVA",
-   "name": "Travala (AVA)"
+   "symbol": "SRM",
+   "name": "Serum (SRM)",
+   "built_on": "ETH"
   }
  ]
 }
