@@ -1,96 +1,108 @@
 {
  "added": [
   {
-   "symbol": "RNAC",
-   "name": "Cartesian Therapeutics, Inc. - Common Stock",
+   "symbol": "JOJO.P",
+   "name": "Jo-Jo Capital Canada Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JOJO.P.V",
+   "instruments": [
+    {
+     "name": "Jo-Jo Capital Canada Ltd.",
+     "symbol": "JOJO.P"
+    }
+   ]
+  },
+  {
+   "symbol": "DYNI",
+   "name": "IDX Dynamic Innovation ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNAC"
+   "yahoo_symbol": "DYNI"
   },
   {
-   "symbol": "ROIV",
-   "name": "Roivant Sciences Ltd. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ROIV"
+   "symbol": "ENTR",
+   "name": "ERShares Entrepreneurs ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENTR"
   },
   {
-   "symbol": "GCFE",
-   "name": "Guardian Canadian Focused Equity Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GCFE.TO",
-   "instruments": [
-    {
-     "name": "Guardian CdnFocus Eq",
-     "symbol": "GCFE"
-    }
-   ]
+   "symbol": "ERSX",
+   "name": "ERShares NextGen Entrepreneurs ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ERSX"
   },
   {
-   "symbol": "GIES",
-   "name": "Guardian International Equity Select Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GIES.TO",
-   "instruments": [
-    {
-     "name": "Guardian Intl EqSlct",
-     "symbol": "GIES"
-    }
-   ]
+   "symbol": "GLACU",
+   "name": "Global Lights Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLACU"
   },
   {
-   "symbol": "SGN",
-   "name": "Signing Day Sports, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SGN"
+   "symbol": "RDHL",
+   "name": "Redhill Biopharma Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RDHL"
+  },
+  {
+   "symbol": "SHIM",
+   "name": "Shimmick Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHIM"
   }
  ],
  "removed": [
   {
-   "symbol": "APRN",
-   "name": "Blue Apron Holdings, Inc. - Class A Common Stock",
+   "symbol": "CCF",
+   "name": "Chase Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CCF"
+  },
+  {
+   "symbol": "TDSA",
+   "name": "Cabana Target Drawdown 5 ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "APRN"
+   "yahoo_symbol": "TDSA"
   },
   {
-   "symbol": "SELB",
-   "name": "Selecta Biosciences, Inc. - Common Stock",
+   "symbol": "ALORW",
+   "name": "ALSP Orchid Acquisition Corporation I - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SELB"
+   "yahoo_symbol": "ALORW"
   },
   {
-   "symbol": "SQLLW",
-   "name": "SeqLL Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SQLLW"
-  },
-  {
-   "symbol": "CANO.W",
-   "name": "Cano Health, Inc. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CANO.W"
-  },
-  {
-   "symbol": "SQL",
-   "name": "SeqLL Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SQL"
-  },
-  {
-   "symbol": "SMA",
-   "name": "Standard Mercantile Acquisition Corp.",
+   "symbol": "MAV",
+   "name": "MAV Beauty Brands Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "SMA.TO",
+   "yahoo_symbol": "MAV.TO",
    "instruments": [
     {
-     "name": "Std Mercntl Acquis A",
-     "symbol": "SMA"
+     "name": "MAV Beauty Brands",
+     "symbol": "MAV"
     }
    ]
   },
   {
-   "symbol": "ROIV",
-   "name": "Roivant Sciences Ltd. - Common Shares",
+   "symbol": "C$K",
+   "name": "Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser K",
+   "exchange": "NYSE",
+   "yahoo_symbol": "C$K"
+  },
+  {
+   "symbol": "RDHL",
+   "name": "Redhill Biopharma Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ROIV"
+   "yahoo_symbol": "RDHL"
+  },
+  {
+   "symbol": "ALOR",
+   "name": "ALSP Orchid Acquisition Corporation I - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALOR"
+  },
+  {
+   "symbol": "ALORU",
+   "name": "ALSP Orchid Acquisition Corporation I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALORU"
   }
  ]
 }

@@ -1,13 +1,19 @@
 {
  "added": [
   {
-   "symbol": "SRM",
-   "name": "Serum (SRM)",
-   "built_on": "SOL"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "WBETH",
+   "name": "Wrapped Beacon ETH (WBETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RPK",
+   "name": "RepubliK (RPK)",
+   "built_on": "ETH"
   },
   {
    "symbol": "G",
@@ -15,14 +21,8 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "SRM",
-   "name": "Serum (SRM)",
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   }
  ]
