@@ -1,5 +1,5 @@
 {
- "date": "2023-11-15",
+ "date": "2023-11-16",
  "data": [
   {
    "symbol": "ONE",
@@ -1406,18 +1406,6 @@
     {
      "name": "ATEX Resources Inc.",
      "symbol": "ATX"
-    }
-   ]
-  },
-  {
-   "symbol": "AMI",
-   "name": "Athabasca Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMI.V",
-   "instruments": [
-    {
-     "name": "Athabasca Minerals Inc",
-     "symbol": "AMI"
     }
    ]
   },
@@ -24634,6 +24622,10 @@
     {
      "name": "Brookfld ReinsurLV A",
      "symbol": "BNRE"
+    },
+    {
+     "name": "Brookfld ReinsrNV A1",
+     "symbol": "BNRE.A"
     }
    ]
   },
@@ -28930,18 +28922,6 @@
     {
      "name": "Ero Copper Corp. J",
      "symbol": "ERO"
-    }
-   ]
-  },
-  {
-   "symbol": "ESN",
-   "name": "Essential Energy Services Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ESN.TO",
-   "instruments": [
-    {
-     "name": "Essential Energy Ltd",
-     "symbol": "ESN"
     }
    ]
   },
@@ -38078,18 +38058,6 @@
    ]
   },
   {
-   "symbol": "GBAR",
-   "name": "Monarch Mining Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "GBAR.TO",
-   "instruments": [
-    {
-     "name": "Monarch Mining CorpJ",
-     "symbol": "GBAR"
-    }
-   ]
-  },
-  {
    "symbol": "ME",
    "name": "Moneta Gold Inc.",
    "exchange": "TSX",
@@ -43538,6 +43506,18 @@
    ]
   },
   {
+   "symbol": "TGAF",
+   "name": "Tralucent Global Alt (Long/Short) Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TGAF.TO",
+   "instruments": [
+    {
+     "name": "Tralucent Glb L/S Eq",
+     "symbol": "TGAF"
+    }
+   ]
+  },
+  {
    "symbol": "TA",
    "name": "TransAlta Corporation",
    "exchange": "TSX",
@@ -46082,12 +46062,6 @@
    "name": "Alkermes plc - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ALKS"
-  },
-  {
-   "symbol": "ALKSV",
-   "name": "Alkermes plc - Ordinary Shares Ex-distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ALKSV"
   },
   {
    "symbol": "ALKT",
@@ -49580,12 +49554,6 @@
    "name": "Blue Water Biotech, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BWV"
-  },
-  {
-   "symbol": "BXRX",
-   "name": "Baudax Bio, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BXRX"
   },
   {
    "symbol": "BYFC",
@@ -59944,30 +59912,6 @@
    "yahoo_symbol": "JG"
   },
   {
-   "symbol": "JGGC",
-   "name": "Jaguar Global Growth Corporation I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JGGC"
-  },
-  {
-   "symbol": "JGGCR",
-   "name": "Jaguar Global Growth Corporation I - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JGGCR"
-  },
-  {
-   "symbol": "JGGCU",
-   "name": "Jaguar Global Growth Corporation I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JGGCU"
-  },
-  {
-   "symbol": "JGGCW",
-   "name": "Jaguar Global Growth Corporation I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JGGCW"
-  },
-  {
    "symbol": "JGLO",
    "name": "JPMorgan Global Select Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -63316,10 +63260,10 @@
    "yahoo_symbol": "MULN"
   },
   {
-   "symbol": "MURAV",
-   "name": "Mural Oncology plc - Ordinary Shares When Issued",
+   "symbol": "MURA",
+   "name": "Mural Oncology plc - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MURAV"
+   "yahoo_symbol": "MURA"
   },
   {
    "symbol": "MVBF",
@@ -67382,12 +67326,6 @@
    "name": "PayPal Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PYPL"
-  },
-  {
-   "symbol": "PYR",
-   "name": "PyroGenesis Canada Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PYR"
   },
   {
    "symbol": "PYXS",
@@ -76618,12 +76556,6 @@
    "yahoo_symbol": "ARGD"
   },
   {
-   "symbol": "ARGO",
-   "name": "Argo Group International Holdings, Ltd.",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ARGO"
-  },
-  {
    "symbol": "ARGO$A",
    "name": "Argo Group International Holdings, Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.00% Resettable Fixed Rate Preference Share, Series A",
    "exchange": "NYSE",
@@ -84563,7 +84495,7 @@
   },
   {
    "symbol": "HNRA",
-   "name": "HNR Acquisition Corp Common Stock",
+   "name": "HNR Acquisition Corp Class A Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "HNRA"
   },
@@ -92399,7 +92331,7 @@
   },
   {
    "symbol": "SKT",
-   "name": "Tanger Factory Outlet Centers, Inc. Common Stock",
+   "name": "Tanger Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SKT"
   },
@@ -94526,12 +94458,6 @@
    "name": "U.S. Bancorp Depositary Shares, each representing a 1/1,000th interest in a share of Series O Non-Cumulative Perpetual Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "USB$S"
-  },
-  {
-   "symbol": "USDP",
-   "name": "USD Partners LP Common Units representing limited partner interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "USDP"
   },
   {
    "symbol": "USFD",
