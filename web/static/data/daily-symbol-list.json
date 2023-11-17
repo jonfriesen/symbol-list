@@ -1,5 +1,5 @@
 {
- "date": "2023-11-16",
+ "date": "2023-11-17",
  "data": [
   {
    "symbol": "ONE",
@@ -15522,6 +15522,10 @@
     {
      "name": "Royal Helium Ltd.",
      "symbol": "RHC"
+    },
+    {
+     "name": "Royal Helium Ltd. wt 14Nov2026",
+     "symbol": "RHC.WT.A"
     }
    ]
   },
@@ -45014,6 +45018,12 @@
    "yahoo_symbol": "ABSI"
   },
   {
+   "symbol": "ABTS",
+   "name": "Abits Group Inc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABTS"
+  },
+  {
    "symbol": "ABUS",
    "name": "Arbutus Biopharma Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -49766,6 +49776,18 @@
    "yahoo_symbol": "CAPR"
   },
   {
+   "symbol": "CAPT",
+   "name": "Captivision Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAPT"
+  },
+  {
+   "symbol": "CAPTW",
+   "name": "Captivision Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CAPTW"
+  },
+  {
    "symbol": "CAR",
    "name": "Avis Budget Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -51204,18 +51226,6 @@
    "name": "Compass Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CMPX"
-  },
-  {
-   "symbol": "CMRA",
-   "name": "Comera Life Sciences Holdings, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CMRA"
-  },
-  {
-   "symbol": "CMRAW",
-   "name": "Comera Life Sciences Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CMRAW"
   },
   {
    "symbol": "CMRX",
@@ -60140,18 +60150,6 @@
    "yahoo_symbol": "KAVL"
   },
   {
-   "symbol": "KBNT",
-   "name": "Kubient, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KBNT"
-  },
-  {
-   "symbol": "KBNTW",
-   "name": "Kubient, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KBNTW"
-  },
-  {
    "symbol": "KBWB",
    "name": "Invesco KBW Bank ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -62420,12 +62418,6 @@
    "yahoo_symbol": "METCL"
   },
   {
-   "symbol": "MF",
-   "name": "Missfresh Limited - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MF"
-  },
-  {
    "symbol": "MFH",
    "name": "Mercurity Fintech Holding Inc. - American Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -62952,12 +62944,6 @@
    "name": "Movano Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MOVE"
-  },
-  {
-   "symbol": "MOXC",
-   "name": "Moxian (BVI) Inc  - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MOXC"
   },
   {
    "symbol": "MPAA",
@@ -69560,24 +69546,6 @@
    "yahoo_symbol": "SHPWW"
   },
   {
-   "symbol": "SHUA",
-   "name": "SHUAA Partners Acquisition Corp I - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHUA"
-  },
-  {
-   "symbol": "SHUAU",
-   "name": "SHUAA Partners Acquisition Corp I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHUAU"
-  },
-  {
-   "symbol": "SHUAW",
-   "name": "SHUAA Partners Acquisition Corp I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHUAW"
-  },
-  {
    "symbol": "SHV",
    "name": "iShares Short Treasury Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -71524,7 +71492,7 @@
   {
    "symbol": "TEDU",
    "name": "Tarena International, Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TEDU"
   },
   {
@@ -76293,7 +76261,7 @@
   },
   {
    "symbol": "AMTD",
-   "name": "AMTD IDEA Group American Depositary Shares, each representing two Class A Ordinary Shares",
+   "name": "AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "AMTD"
   },
@@ -78192,6 +78160,12 @@
    "name": "Brookfield Reinsurance Ltd. Class A Exchangeable Limited Voting Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "BNRE"
+  },
+  {
+   "symbol": "BNRE.A",
+   "name": "Brookfield Reinsurance Ltd. Class A-1 Exchangeable Non-Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNRE.A"
   },
   {
    "symbol": "BNS",
@@ -80574,6 +80548,12 @@
    "name": "DuPont de Nemours, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "DD"
+  },
+  {
+   "symbol": "DDC",
+   "name": "DDC Enterprise Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DDC"
   },
   {
    "symbol": "DDD",
@@ -89348,12 +89328,6 @@
    "yahoo_symbol": "OPAD"
   },
   {
-   "symbol": "OPAD.W",
-   "name": "Offerpad Solutions Inc. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OPAD.W"
-  },
-  {
    "symbol": "OPFI",
    "name": "OppFi Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -91964,12 +91938,6 @@
    "yahoo_symbol": "SCS"
   },
   {
-   "symbol": "SCU",
-   "name": "Sculptor Capital Management, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SCU"
-  },
-  {
    "symbol": "SCX",
    "name": "L.S. Starrett Company (The) Common Stock",
    "exchange": "NYSE",
@@ -92850,6 +92818,12 @@
    "name": "NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "SRV"
+  },
+  {
+   "symbol": "SRV.V",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.V"
   },
   {
    "symbol": "SSD",

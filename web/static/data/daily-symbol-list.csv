@@ -1270,7 +1270,7 @@ ROS,Roscan Gold Corporation,TSXV,ROS.V,Roscan Gold Corporation,ROS
 ROSH.P,Roshni Capital Inc.,TSXV,ROSH.P.V,Roshni Capital Inc.,ROSH.P
 ROI,Route1 Inc.,TSXV,ROI.V,Route1 Inc.,ROI
 ROVR,Rover Metals Corp.,TSXV,ROVR.V,Rover Metals Corp.,ROVR
-RHC,Royal Helium Ltd.,TSXV,RHC.V,Royal Helium Ltd.,RHC
+RHC,Royal Helium Ltd.,TSXV,RHC.V,Royal Helium Ltd.,RHC,Royal Helium Ltd. wt 14Nov2026,RHC.WT.A
 RYR,Royal Road Minerals Limited,TSXV,RYR.V,Royal Road Minerals Limited,RYR
 RTM,RT Minerals Corp.,TSXV,RTM.V,RT Minerals Corp.,RTM
 ROMJ,Rubicon Organics Inc.,TSXV,ROMJ.V,Rubicon Organics Inc.,ROMJ,Rubicon Organics Inc. wt. 26Feb2024,ROMJ.WT
@@ -3482,6 +3482,7 @@ ABLVW,Able View Global Inc. - Warrant,NASDAQ Capital Market,ABLVW
 ABNB,"Airbnb, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ABNB
 ABOS,"Acumen Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ABOS
 ABSI,Absci Corporation - Common Stock,NASDAQ Global Select MarketSM,ABSI
+ABTS,Abits Group Inc - Ordinary Shares,NASDAQ Capital Market,ABTS
 ABUS,Arbutus Biopharma Corporation - Common Stock,NASDAQ Global Select MarketSM,ABUS
 ABVC,"ABVC BioPharma, Inc. - Common Stock",NASDAQ Capital Market,ABVC
 ABVX,Abivax SA - American Depositary Shares,NASDAQ Global MarketSM,ABVX
@@ -4274,6 +4275,8 @@ CAMT,Camtek Ltd. - Ordinary Shares,NASDAQ Global MarketSM,CAMT
 CAN,Canaan Inc. - American Depositary Shares,NASDAQ Global MarketSM,CAN
 CANC,Tema Oncology ETF,NASDAQ Global MarketSM,CANC
 CAPR,"Capricor Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CAPR
+CAPT,Captivision Inc. - Ordinary Shares,NASDAQ Global MarketSM,CAPT
+CAPTW,Captivision Inc. - Warrant,NASDAQ Capital Market,CAPTW
 CAR,"Avis Budget Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,CAR
 CARA,"Cara Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,CARA
 CARE,"Carter Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,CARE
@@ -4514,8 +4517,6 @@ CMPOW,"CompoSecure, Inc.  - Warrant",NASDAQ Global MarketSM,CMPOW
 CMPR,Cimpress plc - Ordinary Shares,NASDAQ Global Select MarketSM,CMPR
 CMPS,COMPASS Pathways Plc - American Depository Shares,NASDAQ Global Select MarketSM,CMPS
 CMPX,"Compass Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CMPX
-CMRA,"Comera Life Sciences Holdings, Inc. - Common stock",NASDAQ Capital Market,CMRA
-CMRAW,"Comera Life Sciences Holdings, Inc. - Warrant",NASDAQ Capital Market,CMRAW
 CMRX,"Chimerix, Inc. - Common Stock",NASDAQ Global MarketSM,CMRX
 CMTL,Comtech Telecommunications Corp. - Common Stock,NASDAQ Global Select MarketSM,CMTL
 CNCR,Range Cancer Therapeutics ETF,NASDAQ Global MarketSM,CNCR
@@ -6003,8 +6004,6 @@ KALU,Kaiser Aluminum Corporation - Common Stock,NASDAQ Global Select MarketSM,KA
 KALV,"KalVista Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,KALV
 KARO,Karooooo Ltd. - Ordinary shares,NASDAQ Capital Market,KARO
 KAVL,"Kaival Brands Innovations Group, Inc. - Common Stock",NASDAQ Capital Market,KAVL
-KBNT,"Kubient, Inc. - Common Stock",NASDAQ Capital Market,KBNT
-KBNTW,"Kubient, Inc. - Warrant",NASDAQ Capital Market,KBNTW
 KBWB,Invesco KBW Bank ETF,NASDAQ Global MarketSM,KBWB
 KBWD,Invesco KBW High Dividend Yield Financial ETF,NASDAQ Global MarketSM,KBWD
 KBWP,Invesco KBW Property & Casualty Insurance ETF,NASDAQ Global MarketSM,KBWP
@@ -6383,7 +6382,6 @@ META,"Meta Platforms, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM
 METC,"Ramaco Resources, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,METC
 METCB,"Ramaco Resources, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,METCB
 METCL,"Ramaco Resources, Inc. - 9.00% Senior Notes due 2026",NASDAQ Global Select MarketSM,METCL
-MF,Missfresh Limited - American Depositary Shares,NASDAQ Capital Market,MF
 MFH,Mercurity Fintech Holding Inc. - American Ordinary Shares,NASDAQ Capital Market,MFH
 MFIC,MidCap Financial Investment Corporation - Closed End Fund,NASDAQ Global Select MarketSM,MFIC
 MFIN,Medallion Financial Corp. - Common Stock,NASDAQ Global Select MarketSM,MFIN
@@ -6472,7 +6470,6 @@ MORF,"Morphic Holding, Inc. - Common Stock",NASDAQ Global MarketSM,MORF
 MORN,"Morningstar, Inc. - Common Stock",NASDAQ Global Select MarketSM,MORN
 MOTS,"Motus GI Holdings, Inc. - Common Stock",NASDAQ Capital Market,MOTS
 MOVE,Movano Inc. - Common Stock,NASDAQ Capital Market,MOVE
-MOXC,Moxian (BVI) Inc  - Ordinary Shares,NASDAQ Capital Market,MOXC
 MPAA,"Motorcar Parts of America, Inc. - Common Stock",NASDAQ Global Select MarketSM,MPAA
 MPB,Mid Penn Bancorp - Common Stock,NASDAQ Global MarketSM,MPB
 MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,MPWR
@@ -7573,9 +7570,6 @@ SHOTW,"Safety Shot, Inc. - Warrant",NASDAQ Capital Market,SHOTW
 SHPH,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",NASDAQ Capital Market,SHPH
 SHPW,"Shapeways Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,SHPW
 SHPWW,"Shapeways Holdings, Inc. - Warrants",NASDAQ Global MarketSM,SHPWW
-SHUA,SHUAA Partners Acquisition Corp I - Class A Ordinary Share,NASDAQ Capital Market,SHUA
-SHUAU,SHUAA Partners Acquisition Corp I - Unit,NASDAQ Capital Market,SHUAU
-SHUAW,SHUAA Partners Acquisition Corp I - Warrant,NASDAQ Capital Market,SHUAW
 SHV,iShares Short Treasury Bond ETF,NASDAQ Global MarketSM,SHV
 SHY,iShares 1-3 Year Treasury Bond ETF,NASDAQ Global MarketSM,SHY
 SHYF,"The Shyft Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,SHYF
@@ -7900,7 +7894,7 @@ TDUP,ThredUp Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,TDUP
 TEAM,Atlassian Corporation  - Class A Common Stock,NASDAQ Global Select MarketSM,TEAM
 TECH,Bio-Techne Corp - Common Stock,NASDAQ Global Select MarketSM,TECH
 TECTP,"Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NASDAQ Capital Market,TECTP
-TEDU,"Tarena International, Inc. - American Depositary Shares",NASDAQ Global Select MarketSM,TEDU
+TEDU,"Tarena International, Inc. - American Depositary Shares",NASDAQ Capital Market,TEDU
 TELA,"TELA Bio, Inc. - Common stock",NASDAQ Global MarketSM,TELA
 TENB,"Tenable Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,TENB
 TENK,TenX Keane Acquisition - Ordinary Share,NASDAQ Global MarketSM,TENK
@@ -8695,7 +8689,7 @@ AMRX,"Amneal Pharmaceuticals, Inc. Class A Common Stock",NYSE,AMRX
 AMS,American Shared Hospital Services Common Stock,NYSE MKT,AMS
 AMT,American Tower Corporation (REIT) Common Stock,NYSE,AMT
 AMTB,Amerant Bancorp Inc. Class A Common Stock,NYSE,AMTB
-AMTD,"AMTD IDEA Group American Depositary Shares, each representing two Class A Ordinary Shares",NYSE,AMTD
+AMTD,"AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares",NYSE,AMTD
 AMTR,ETRACS Alerian Midstream Energy Total Return Index ETN,NYSE ARCA,AMTR
 AMUB,"ETRACS Alerian MLP Index ETN Series B due July 18, 2042",NYSE ARCA,AMUB
 AMWL,American Well Corporation Class A Common Stock,NYSE,AMWL
@@ -9012,6 +9006,7 @@ BNKD,MicroSectors U.S. Big Banks Index -3X Inverse Leveraged ETNs,NYSE ARCA,BNKD
 BNKU,MicroSectors U.S. Big Banks Index 3X Leveraged ETNs,NYSE ARCA,BNKU
 BNL,"Broadstone Net Lease, Inc. Common Stock",NYSE,BNL
 BNRE,Brookfield Reinsurance Ltd. Class A Exchangeable Limited Voting Shares,NYSE,BNRE
+BNRE.A,Brookfield Reinsurance Ltd. Class A-1 Exchangeable Non-Voting Shares,NYSE,BNRE.A
 BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,NYSE,BNS
 BNY,BlackRock New York Municipal Income Trust,NYSE,BNY
 BOC,Boston Omaha Corporation Class A Common Stock,NYSE,BOC
@@ -9409,6 +9404,7 @@ DCF,"BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc. Common
 DCI,"Donaldson Company, Inc. Common Stock",NYSE,DCI
 DCO,Ducommun Incorporated Common Stock,NYSE,DCO
 DD,"DuPont de Nemours, Inc. Common Stock",NYSE,DD
+DDC,DDC Enterprise Limited Class A Ordinary Shares,NYSE MKT,DDC
 DDD,3D Systems Corporation Common Stock,NYSE,DDD
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE,DDL
 DDS,"Dillard's, Inc. Common Stock",NYSE,DDS
@@ -10871,7 +10867,6 @@ OPA,Magnum Opus Acquisition Limited Class A Ordinary Shares,NYSE,OPA
 OPA.U,"Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half redeemable warrant",NYSE,OPA.U
 OPA.W,"Magnum Opus Acquisition Limited Redeemable Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,OPA.W
 OPAD,Offerpad Solutions Inc. Class A Common Stock,NYSE,OPAD
-OPAD.W,Offerpad Solutions Inc. Warrants,NYSE,OPAD.W
 OPFI,OppFi Inc. Class A Common Stock,NYSE,OPFI
 OPFI.W,OppFi Inc. Warrants,NYSE,OPFI.W
 OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",NYSE,OPP
@@ -11307,7 +11302,6 @@ SCI,Service Corporation International Common Stock,NYSE,SCI
 SCL,Stepan Company Common Stock,NYSE,SCL
 SCM,Stellus Capital Investment Corporation Common Stock,NYSE,SCM
 SCS,Steelcase Inc. Common Stock,NYSE,SCS
-SCU,"Sculptor Capital Management, Inc. Class A Common Stock",NYSE,SCU
 SCX,L.S. Starrett Company (The) Common Stock,NYSE,SCX
 SD,"SandRidge Energy, Inc. Common Stock",NYSE,SD
 SDHY,PGIM Short Duration High Yield Opportunities Fund Common Shares,NYSE,SDHY
@@ -11455,6 +11449,7 @@ SRI,"Stoneridge, Inc. Common Stock",NYSE,SRI
 SRL,Scully Royalty Ltd.,NYSE,SRL
 SRT,"StarTek, Inc. Common Stock",NYSE,SRT
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NYSE,SRV
+SRV.V,"NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights when issued",NYSE,SRV.V
 SSD,"Simpson Manufacturing Company, Inc. Common Stock",NYSE,SSD
 SSL,Sasol Ltd. American Depositary Shares,NYSE,SSL
 SST,"System1, Inc. Class A Common Stock",NYSE,SST
