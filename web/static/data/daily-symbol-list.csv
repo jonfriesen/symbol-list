@@ -968,7 +968,7 @@ MON,Montero Mining and Exploration Ltd.,TSXV,MON.V,Montero Mining And Exploratio
 MONT,Montfort Capital Corp.,TSXV,MONT.V,Montfort Capital Corp.,MONT,Montfort Capital Corp. Preferred A,MONT.PR.A
 MMY,Monument Mining Limited,TSXV,MMY.V,Monument Mining Limited,MMY
 MNRL,Monumental Minerals Corp.,TSXV,MNRL.V,Monumental Minerals Corp.,MNRL
-MOO.P,Moon River Capital Ltd.,TSXV,MOO.P.V,Moon River Capital Ltd.,MOO.P
+MOO,Moon River Capital Ltd.,TSXV,MOO.V,Moon River Capital Ltd.,MOO
 MVY,Moovly Media Inc.,TSXV,MVY.V,Moovly Media Inc.,MVY
 MOX,Morien Resources Corp.,TSXV,MOX.V,Morien Resources Corp.,MOX
 MTB,MTB Metals Corp.,TSXV,MTB.V,MTB Metals Corp.,MTB
@@ -1733,7 +1733,7 @@ BNS,Bank of Nova Scotia (The),TSX,BNS.TO,Bank of Nova Scotia,BNS,Bank of N S Sr 
 ABX,Barrick Gold Corporation,TSX,ABX.TO,Barrick Gold Corp,ABX
 BLCO,Bausch + Lomb Corporation,TSX,BLCO.TO,Bausch + Lomb Corp. ,BLCO
 BHC,Bausch Health Companies Inc.,TSX,BHC.TO,Bausch Health Co,BHC
-BYL,Baylin Technologies Inc.,TSX,BYL.TO,Baylin Tech Inc. J,BYL,Baylin Tech J Deb,BYL.DB
+BYL,Baylin Technologies Inc.,TSX,BYL.TO,Baylin Tech Inc. J,BYL,Baylin Tech J Deb,BYL.DB,Baylin Tech Inc J Rt,BYL.RT
 BTE,Baytex Energy Corp.,TSX,BTE.TO,Baytex Energy Corp.,BTE
 BBTV,BBTV Holdings Inc.,TSX,BBTV.TO,BBTV Hldgs Inc J SV,BBTV,BBTV Hldgs Inc J Deb,BBTV.DB
 BCE,BCE Inc.,TSX,BCE.TO,BCE Inc.,BCE,BCE Inc. Pr Ser AA,BCE.PR.A,BCE Inc. Pr Ser AB,BCE.PR.B,BCE Inc. Pr Ser AC,BCE.PR.C,BCE Inc. Pr Ser AD,BCE.PR.D,BCE Inc. Pr Ser AE,BCE.PR.E,BCE Inc. Pr Ser AF,BCE.PR.F,BCE Inc. Pr Ser AG,BCE.PR.G,BCE Inc. Pr Ser AH,BCE.PR.H,BCE Inc. Pr Ser AI,BCE.PR.I,BCE Inc. Pr Ser AJ,BCE.PR.J,BCE Inc. Pr Ser AK,BCE.PR.K,BCE Inc. Pr Ser AL,BCE.PR.L,BCE Inc. Pr Ser AM,BCE.PR.M,BCE Inc. Pr Ser AN,BCE.PR.N,BCE Inc. Pr Ser AQ,BCE.PR.Q,BCE Inc. Pr Ser R,BCE.PR.R,BCE Inc. Pr Ser S,BCE.PR.S,BCE Inc. Pr Ser T,BCE.PR.T,BCE Inc. Pr Series Y,BCE.PR.Y,BCE Inc. Pr Series Z,BCE.PR.Z
@@ -2858,12 +2858,15 @@ LYCT,Lysander-Canso Corporate Treasury ActivETF,TSX,LYCT.TO,LysanderCan CrpTreas
 LYFR,Lysander-Canso Floating Rate ActivETF,TSX,LYFR.TO,LysanderCan FltgActv,LYFR
 PR,Lysander-Slater Preferred Share ActivETF,TSX,PR.TO,Lysander-SlatrPrActv,PR
 XMF.A,M Split Corp.,TSX,XMF.A.TO,M Split Corp. 14 Cap,XMF.A,M Split Corp Cl 1 Pr,XMF.PR.B,M Split Corp 14-2 Pr,XMF.PR.C
+MEQT,Mackenzie All-Equity Allocation ETF,TSX,MEQT.TO,Mackenzie AllEqAlloc,MEQT
 MBAL,Mackenzie Balanced Allocation ETF,TSX,MBAL.TO,Mackenzie Bal Alloc,MBAL
 QBB,Mackenzie Canadian Aggregate Bond Index ETF,TSX,QBB.TO,Mackenzie CdnAggrBnd,QBB
 QCN,Mackenzie Canadian Equity Index ETF,TSX,QCN.TO,Mackenzie Cdn EqtyUn,QCN
+QLB,Mackenzie Canadian Government Long Bond Index ETF,TSX,QLB.TO,MackenzieCA GvtLgBnd,QLB
 QCE,Mackenzie Canadian Large Cap Equity Index ETF,TSX,QCE.TO,Mackenzie CdnLrgCpEq,QCE
 MCSB,Mackenzie Canadian Short Term Fixed Income ETF,TSX,MCSB.TO,MackenzieCA FixdIncm,MCSB
 QSB,Mackenzie Canadian Short-Term Bond Index ETF,TSX,QSB.TO,Mackenzie CdnSTBndE ,QSB
+QASH,Mackenzie Canadian Ultra Short Bond Index ETF,TSX,QASH.TO,Mackenzie CA SH Bond,QASH
 MCON,Mackenzie Conservative Allocation ETF,TSX,MCON.TO,Mackenzie ConsrvAllo,MCON
 MKB,Mackenzie Core Plus Canadian Fixed Income ETF,TSX,MKB.TO,Mackenzie CAFxIncm E,MKB
 MGB,Mackenzie Core Plus Global Fixed Income ETF,TSX,MGB.TO,Mackenzie GlbFxIncmE,MGB
@@ -2890,6 +2893,7 @@ MUS,Mackenzie Maximum Diversification US Index ETF,TSX,MUS.TO,Mackenzie MaxDvrUS
 MPCF,Mackenzie Portfolio Completion ETF,TSX,MPCF.TO,Mackenzie PortflComp,MPCF
 QUB,Mackenzie U.S. Aggregate Bond Index ETF (CAD-Hedged),TSX,QUB.TO,MackenzieUSAggrBndCH,QUB
 MUB,Mackenzie Unconstrained Bond ETF,TSX,MUB.TO,Mackenzie Uncnstrn E,MUB
+QTLT,Mackenzie US Government Long Bond Index ETF,TSX,QTLT.TO,Mackenzie USGvtLgBnd,QTLT
 QHY,Mackenzie US High Yield Bond Index ETF (CAD-Hedged),TSX,QHY.TO,Mackenzie USBndCAD-H,QHY
 QUIG,Mackenzie US Investment Grade Corporate Bond Index ETF (CAD-Hedged),TSX,QUIG.TO,Mackenzie USCrpBnd E,QUIG
 QUU,Mackenzie US Large Cap Equity Index ETF,TSX,QUU.TO,Mackenzie USLrgCapEq,QUU,MackenzieUSLrgCpEqUS,QUU.U
@@ -4582,7 +4586,7 @@ COYA,"Coya Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,COYA
 CPBI,"Central Plains Bancshares, Inc. - Common Stock",NASDAQ Capital Market,CPBI
 CPHC,Canterbury Park Holding Corporation - Common Stock,NASDAQ Global MarketSM,CPHC
 CPIX,Cumberland Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,CPIX
-CPLP,Capital Product Partners L.P. - common units representing limited partner interests,NASDAQ Global Select MarketSM,CPLP
+CPLP,Capital Product Partners L.P. - Common Units representing limited partner interests,NASDAQ Global Select MarketSM,CPLP
 CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",NASDAQ Capital Market,CPOP
 CPRT,"Copart, Inc. - Common Stock",NASDAQ Global Select MarketSM,CPRT
 CPRX,"Catalyst Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,CPRX
@@ -4605,7 +4609,6 @@ CRESY,"Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing te
 CREV,Carbon Revolution Public Limited Company - Ordinary Shares,NASDAQ Global MarketSM,CREV
 CREVW,Carbon Revolution Public Limited Company - Warrant,NASDAQ Capital Market,CREVW
 CREX,"Creative Realities, Inc. - Common Stock",NASDAQ Capital Market,CREX
-CREXW,"Creative Realities, Inc. - Warrant",NASDAQ Capital Market,CREXW
 CRGE,"Charge Enterprises, Inc. - Common Stock",NASDAQ Global MarketSM,CRGE
 CRGO,Freightos Limited - Ordinary shares,NASDAQ Capital Market,CRGO
 CRGOW,Freightos Limited - Warrants,NASDAQ Capital Market,CRGOW
@@ -7412,6 +7415,7 @@ RPHM,"Reneo Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,RPHM
 RPID,"Rapid Micro Biosystems, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RPID
 RPRX,Royalty Pharma plc - Class A Ordinary Shares,NASDAQ Global Select MarketSM,RPRX
 RPTX,Repare Therapeutics Inc. - Common Shares,NASDAQ Global Select MarketSM,RPTX
+RR,Richtech Robotics Inc. - Class B Common Stock,NASDAQ Capital Market,RR
 RRBI,"Red River Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,RRBI
 RRGB,"Red Robin Gourmet Burgers, Inc. - Common Stock",NASDAQ Global Select MarketSM,RRGB
 RRR,"Red Rock Resorts, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RRR
@@ -7428,6 +7432,7 @@ RUNN,Running Oak Efficient Growth ETF,NASDAQ Global MarketSM,RUNN
 RUSHA,"Rush Enterprises, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RUSHA
 RUSHB,"Rush Enterprises, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,RUSHB
 RVMD,"Revolution Medicines, Inc. - Common Stock",NASDAQ Global Select MarketSM,RVMD
+RVMDW,"Revolution Medicines, Inc. - Warrant",NASDAQ Global Select MarketSM,RVMDW
 RVNC,"Revance Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,RVNC
 RVPH,"Reviva Pharmaceuticals Holdings, Inc. - Common Stock",NASDAQ Capital Market,RVPH
 RVPHW,"Reviva Pharmaceuticals Holdings, Inc. - Warrants",NASDAQ Capital Market,RVPHW
@@ -10201,7 +10206,6 @@ IRT,"Independence Realty Trust, Inc. Common Stock",NYSE,IRT
 ISD,"PGIM High Yield Bond Fund, Inc.",NYSE,ISD
 ISDR,Issuer Direct Corporation Common Stock,NYSE MKT,ISDR
 IT,"Gartner, Inc. Common Stock",NYSE,IT
-ITCL,Banco Itau Chile American Depositary Shares (each representing one third of a share of Common Stock),NYSE,ITCL
 ITGR,Integer Holdings Corporation Common Stock,NYSE,ITGR
 ITP,"IT Tech Packaging, Inc. Common Stock",NYSE MKT,ITP
 ITRG,Integra Resources Corp. Common Shares,NYSE MKT,ITRG
@@ -10380,8 +10384,6 @@ LGI,Lazard Global Total Return and Income Fund Common Stock,NYSE,LGI
 LGL,"LGL Group, Inc. (The) Common Stock",NYSE MKT,LGL
 LGL.W,"LGL Group, Inc. (The) Warrants",NYSE MKT,LGL.W
 LH,Laboratory Corporation of America Holdings Common Stock,NYSE,LH
-LHC,Leo Holdings Corp. II Class A Ordinary Shares,NYSE,LHC
-LHC.U,"Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,LHC.U
 LHX,"L3Harris Technologies, Inc. Common Stock",NYSE,LHX
 LICY,Li-Cycle Holdings Corp. Common Shares,NYSE,LICY
 LII,"Lennox International, Inc. Common Stock",NYSE,LII
@@ -11263,7 +11265,6 @@ SAP,SAP  SE ADS,NYSE,SAP
 SAR,Saratoga Investment Corp New,NYSE,SAR
 SAT,Saratoga Investment Corp 6.00% Notes due 2027,NYSE,SAT
 SATX,SatixFy Communications Ltd. Ordinary Share,NYSE MKT,SATX
-SATX.A,"SatixFy Communications Ltd. Warrants, each warrant to one Ordinary Share",NYSE MKT,SATX.A
 SAVE,"Spirit Airlines, Inc. Common Stock",NYSE,SAVE
 SAY,Saratoga Investment Corp 8.125% Notes due 2027,NYSE,SAY
 SAZ,Saratoga Investment Corp 8.50% Notes due 2028,NYSE,SAZ

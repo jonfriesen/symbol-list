@@ -1,120 +1,120 @@
 {
  "added": [
   {
-   "symbol": "ABTS",
-   "name": "Abits Group Inc - Ordinary Shares",
+   "symbol": "MOO",
+   "name": "Moon River Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MOO.V",
+   "instruments": [
+    {
+     "name": "Moon River Capital Ltd.",
+     "symbol": "MOO"
+    }
+   ]
+  },
+  {
+   "symbol": "MEQT",
+   "name": "Mackenzie All-Equity Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MEQT.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie AllEqAlloc",
+     "symbol": "MEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "QLB",
+   "name": "Mackenzie Canadian Government Long Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QLB.TO",
+   "instruments": [
+    {
+     "name": "MackenzieCA GvtLgBnd",
+     "symbol": "QLB"
+    }
+   ]
+  },
+  {
+   "symbol": "QASH",
+   "name": "Mackenzie Canadian Ultra Short Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QASH.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie CA SH Bond",
+     "symbol": "QASH"
+    }
+   ]
+  },
+  {
+   "symbol": "QTLT",
+   "name": "Mackenzie US Government Long Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QTLT.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie USGvtLgBnd",
+     "symbol": "QTLT"
+    }
+   ]
+  },
+  {
+   "symbol": "RR",
+   "name": "Richtech Robotics Inc. - Class B Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ABTS"
+   "yahoo_symbol": "RR"
   },
   {
-   "symbol": "CAPT",
-   "name": "Captivision Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAPT"
-  },
-  {
-   "symbol": "CAPTW",
-   "name": "Captivision Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CAPTW"
-  },
-  {
-   "symbol": "TEDU",
-   "name": "Tarena International, Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TEDU"
-  },
-  {
-   "symbol": "BNRE.A",
-   "name": "Brookfield Reinsurance Ltd. Class A-1 Exchangeable Non-Voting Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BNRE.A"
-  },
-  {
-   "symbol": "DDC",
-   "name": "DDC Enterprise Limited Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "DDC"
-  },
-  {
-   "symbol": "SRV.V",
-   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRV.V"
+   "symbol": "RVMDW",
+   "name": "Revolution Medicines, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RVMDW"
   }
  ],
  "removed": [
   {
-   "symbol": "MOXC",
-   "name": "Moxian (BVI) Inc  - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MOXC"
-  },
-  {
-   "symbol": "SHUAW",
-   "name": "SHUAA Partners Acquisition Corp I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHUAW"
-  },
-  {
-   "symbol": "SCU",
-   "name": "Sculptor Capital Management, Inc. Class A Common Stock",
+   "symbol": "LHC.U",
+   "name": "Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "SCU"
+   "yahoo_symbol": "LHC.U"
   },
   {
-   "symbol": "SHUAU",
-   "name": "SHUAA Partners Acquisition Corp I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHUAU"
+   "symbol": "MOO.P",
+   "name": "Moon River Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MOO.P.V",
+   "instruments": [
+    {
+     "name": "Moon River Capital Ltd.",
+     "symbol": "MOO.P"
+    }
+   ]
   },
   {
-   "symbol": "KBNT",
-   "name": "Kubient, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KBNT"
-  },
-  {
-   "symbol": "KBNTW",
-   "name": "Kubient, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KBNTW"
-  },
-  {
-   "symbol": "OPAD.W",
-   "name": "Offerpad Solutions Inc. Warrants",
+   "symbol": "LHC",
+   "name": "Leo Holdings Corp. II Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "OPAD.W"
+   "yahoo_symbol": "LHC"
   },
   {
-   "symbol": "CMRA",
-   "name": "Comera Life Sciences Holdings, Inc. - Common stock",
+   "symbol": "ITCL",
+   "name": "Banco Itau Chile American Depositary Shares (each representing one third of a share of Common Stock)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ITCL"
+  },
+  {
+   "symbol": "CREXW",
+   "name": "Creative Realities, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CMRA"
+   "yahoo_symbol": "CREXW"
   },
   {
-   "symbol": "CMRAW",
-   "name": "Comera Life Sciences Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CMRAW"
-  },
-  {
-   "symbol": "MF",
-   "name": "Missfresh Limited - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MF"
-  },
-  {
-   "symbol": "SHUA",
-   "name": "SHUAA Partners Acquisition Corp I - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHUA"
-  },
-  {
-   "symbol": "TEDU",
-   "name": "Tarena International, Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TEDU"
+   "symbol": "SATX.A",
+   "name": "SatixFy Communications Ltd. Warrants, each warrant to one Ordinary Share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SATX.A"
   }
  ]
 }

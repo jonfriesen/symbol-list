@@ -1,5 +1,5 @@
 {
- "date": "2023-11-17",
+ "date": "2023-11-20",
  "data": [
   {
    "symbol": "ONE",
@@ -11814,14 +11814,14 @@
    ]
   },
   {
-   "symbol": "MOO.P",
+   "symbol": "MOO",
    "name": "Moon River Capital Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MOO.P.V",
+   "yahoo_symbol": "MOO.V",
    "instruments": [
     {
      "name": "Moon River Capital Ltd.",
-     "symbol": "MOO.P"
+     "symbol": "MOO"
     }
    ]
   },
@@ -21366,6 +21366,10 @@
     {
      "name": "Baylin Tech J Deb",
      "symbol": "BYL.DB"
+    },
+    {
+     "name": "Baylin Tech Inc J Rt",
+     "symbol": "BYL.RT"
     }
    ]
   },
@@ -36798,6 +36802,18 @@
    ]
   },
   {
+   "symbol": "MEQT",
+   "name": "Mackenzie All-Equity Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MEQT.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie AllEqAlloc",
+     "symbol": "MEQT"
+    }
+   ]
+  },
+  {
    "symbol": "MBAL",
    "name": "Mackenzie Balanced Allocation ETF",
    "exchange": "TSX",
@@ -36834,6 +36850,18 @@
    ]
   },
   {
+   "symbol": "QLB",
+   "name": "Mackenzie Canadian Government Long Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QLB.TO",
+   "instruments": [
+    {
+     "name": "MackenzieCA GvtLgBnd",
+     "symbol": "QLB"
+    }
+   ]
+  },
+  {
    "symbol": "QCE",
    "name": "Mackenzie Canadian Large Cap Equity Index ETF",
    "exchange": "TSX",
@@ -36866,6 +36894,18 @@
     {
      "name": "Mackenzie CdnSTBndE ",
      "symbol": "QSB"
+    }
+   ]
+  },
+  {
+   "symbol": "QASH",
+   "name": "Mackenzie Canadian Ultra Short Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QASH.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie CA SH Bond",
+     "symbol": "QASH"
     }
    ]
   },
@@ -37182,6 +37222,18 @@
     {
      "name": "Mackenzie Uncnstrn E",
      "symbol": "MUB"
+    }
+   ]
+  },
+  {
+   "symbol": "QTLT",
+   "name": "Mackenzie US Government Long Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QTLT.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie USGvtLgBnd",
+     "symbol": "QTLT"
     }
    ]
   },
@@ -51619,7 +51671,7 @@
   },
   {
    "symbol": "CPLP",
-   "name": "Capital Product Partners L.P. - common units representing limited partner interests",
+   "name": "Capital Product Partners L.P. - Common Units representing limited partner interests",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CPLP"
   },
@@ -51754,12 +51806,6 @@
    "name": "Creative Realities, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CREX"
-  },
-  {
-   "symbol": "CREXW",
-   "name": "Creative Realities, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CREXW"
   },
   {
    "symbol": "CRGE",
@@ -68598,6 +68644,12 @@
    "yahoo_symbol": "RPTX"
   },
   {
+   "symbol": "RR",
+   "name": "Richtech Robotics Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RR"
+  },
+  {
    "symbol": "RRBI",
    "name": "Red River Bancshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68692,6 +68744,12 @@
    "name": "Revolution Medicines, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "RVMD"
+  },
+  {
+   "symbol": "RVMDW",
+   "name": "Revolution Medicines, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RVMDW"
   },
   {
    "symbol": "RVNC",
@@ -85332,12 +85390,6 @@
    "yahoo_symbol": "IT"
   },
   {
-   "symbol": "ITCL",
-   "name": "Banco Itau Chile American Depositary Shares (each representing one third of a share of Common Stock)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ITCL"
-  },
-  {
    "symbol": "ITGR",
    "name": "Integer Holdings Corporation Common Stock",
    "exchange": "NYSE",
@@ -86404,18 +86456,6 @@
    "name": "Laboratory Corporation of America Holdings Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LH"
-  },
-  {
-   "symbol": "LHC",
-   "name": "Leo Holdings Corp. II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LHC"
-  },
-  {
-   "symbol": "LHC.U",
-   "name": "Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LHC.U"
   },
   {
    "symbol": "LHX",
@@ -91702,12 +91742,6 @@
    "name": "SatixFy Communications Ltd. Ordinary Share",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "SATX"
-  },
-  {
-   "symbol": "SATX.A",
-   "name": "SatixFy Communications Ltd. Warrants, each warrant to one Ordinary Share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SATX.A"
   },
   {
    "symbol": "SAVE",
