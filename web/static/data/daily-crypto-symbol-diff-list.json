@@ -1,47 +1,54 @@
 {
  "added": [
   {
-   "symbol": "CORGIAI",
-   "name": "CorgiAI (CORGIAI)",
+   "symbol": "ZBU",
+   "name": "Zeebu (ZBU)"
+  },
+  {
+   "symbol": "KAG",
+   "name": "Silver (KAG)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "0x0",
+   "name": "0x0.ai (0X0)"
+  },
+  {
+   "symbol": "MURA",
+   "name": "Murasaki (MURA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MKUSD",
+   "name": "Prisma mkUSD (MKUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "VNO",
+   "name": "Veno Finance (VNO)",
    "built_on": "CRO"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "FNSA",
+   "name": "FINSCHIA (FNSA)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
-   "symbol": "WHBAR",
-   "name": "Wrapped HBAR (WHBAR)",
-   "built_on": "HBAR"
-  },
-  {
-   "symbol": "WAGMIGAMES",
-   "name": "WAGMI Game (WAGMIGAMES)",
+   "symbol": "SDEX",
+   "name": "SmarDex (SDEX)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network (PYTH)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "WKAVA",
-   "name": "Wrapped Kava (WKAVA)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "WAGMIGAMES",
-   "name": "WAGMI Game (WAGMIGAMES)"
   }
  ]
 }
