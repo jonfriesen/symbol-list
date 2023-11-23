@@ -1,84 +1,30 @@
 {
  "added": [
   {
-   "symbol": "ELAB",
-   "name": "Elevai Labs, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ELAB"
-  },
-  {
-   "symbol": "HIDE",
-   "name": "Alpha Architect High Inflation and Deflation ETF",
+   "symbol": "ABLLL",
+   "name": "Abacus Life, Inc. - 9.875% Fixed Rate Senior Notes due 2028",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HIDE"
+   "yahoo_symbol": "ABLLL"
   },
   {
-   "symbol": "HRTS",
-   "name": "Tema Cardiovascular and Metabolic ETF",
+   "symbol": "CGBDL",
+   "name": "Carlyle Secured Lending, Inc. - 8.20% Notes due 2028",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HRTS"
-  },
-  {
-   "symbol": "IMOM",
-   "name": "Alpha Architect International Quantitative Momentum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IMOM"
-  },
-  {
-   "symbol": "IVAL",
-   "name": "Alpha Architect International Quantitative Value ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IVAL"
-  },
-  {
-   "symbol": "MOOD",
-   "name": "Relative Sentiment Tactical Allocation ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MOOD"
-  },
-  {
-   "symbol": "QMOM",
-   "name": "Alpha Architect U.S. Quantitative Momentum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QMOM"
-  },
-  {
-   "symbol": "QVAL",
-   "name": "Alpha Architect U.S. Quantitative Value ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QVAL"
-  },
-  {
-   "symbol": "VMOT",
-   "name": "Alpha Architect Value Momentum Trend ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VMOT"
-  },
-  {
-   "symbol": "SRV.R",
-   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRV.R"
+   "yahoo_symbol": "CGBDL"
   }
  ],
  "removed": [
   {
-   "symbol": "SRV.V",
-   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRV.V"
-  },
-  {
-   "symbol": "SONX",
-   "name": "Sonendo, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SONX"
-  },
-  {
-   "symbol": "VMW",
-   "name": "Vmware, Inc. Common stock, Class A",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VMW"
+   "symbol": "ZACA",
+   "name": "Zacapa Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZACA.V",
+   "instruments": [
+    {
+     "name": "Zacapa Resources Ltd.",
+     "symbol": "ZACA"
+    }
+   ]
   }
  ]
 }

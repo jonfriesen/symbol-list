@@ -1,5 +1,5 @@
 {
- "date": "2023-11-22",
+ "date": "2023-11-23",
  "data": [
   {
    "symbol": "ONE",
@@ -19802,18 +19802,6 @@
     {
      "name": "Yubba Capital Corp.",
      "symbol": "YUB.P"
-    }
-   ]
-  },
-  {
-   "symbol": "ZACA",
-   "name": "Zacapa Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ZACA.V",
-   "instruments": [
-    {
-     "name": "Zacapa Resources Ltd.",
-     "symbol": "ZACA"
     }
    ]
   },
@@ -45030,6 +45018,12 @@
    "yahoo_symbol": "ABL"
   },
   {
+   "symbol": "ABLLL",
+   "name": "Abacus Life, Inc. - 9.875% Fixed Rate Senior Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABLLL"
+  },
+  {
    "symbol": "ABLLW",
    "name": "Abacus Life, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
@@ -50530,6 +50524,12 @@
    "name": "Carlyle Secured Lending, Inc. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CGBD"
+  },
+  {
+   "symbol": "CGBDL",
+   "name": "Carlyle Secured Lending, Inc. - 8.20% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGBDL"
   },
   {
    "symbol": "CGC",

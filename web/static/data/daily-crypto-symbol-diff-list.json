@@ -1,12 +1,26 @@
 {
  "added": [
   {
-   "symbol": "ZBU",
-   "name": "Zeebu (ZBU)"
+   "symbol": "ARCHCOIN",
+   "name": "ArchCoin (ARCHCOIN)"
   },
   {
-   "symbol": "KAG",
-   "name": "Silver (KAG)"
+   "symbol": "OZO",
+   "name": "Ozone Chain (OZO)"
+  },
+  {
+   "symbol": "KAU",
+   "name": "Kinesis Gold (KAU)"
+  },
+  {
+   "symbol": "ZBU",
+   "name": "Zeebu (ZBU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
   },
   {
    "symbol": "BANK",
@@ -14,31 +28,8 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "0x0",
-   "name": "0x0.ai (0X0)"
-  },
-  {
-   "symbol": "MURA",
-   "name": "Murasaki (MURA)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "MKUSD",
-   "name": "Prisma mkUSD (MKUSD)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "VNO",
-   "name": "Veno Finance (VNO)",
-   "built_on": "CRO"
-  },
-  {
-   "symbol": "FNSA",
-   "name": "FINSCHIA (FNSA)"
+   "symbol": "XAUC",
+   "name": "XauCoin (XAUC)"
   },
   {
    "symbol": "DOG",
@@ -46,9 +37,18 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "SDEX",
-   "name": "SmarDex (SDEX)",
-   "built_on": "ETH"
+   "symbol": "DNX",
+   "name": "Dynex (DNX)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZBU",
+   "name": "Zeebu (ZBU)"
+  },
+  {
+   "symbol": "XAU",
+   "name": "XauCoin (XAU)"
   }
  ]
 }
