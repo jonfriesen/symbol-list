@@ -1,22 +1,42 @@
 {
+ "added": [
+  {
+   "symbol": "NMFCZ",
+   "name": "New Mountain Finance Corporation - 8.250% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMFCZ"
+  }
+ ],
  "removed": [
   {
-   "symbol": "AXLA",
-   "name": "Axcella Health Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AXLA"
+   "symbol": "JHAA",
+   "name": "Nuveen Corporate Income 2023 Target Term Fund",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JHAA"
   },
   {
-   "symbol": "AGIL",
-   "name": "AgileThought, Inc. - Class A Common Stock",
+   "symbol": "ZIVOW",
+   "name": "Zivo Bioscience, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGIL"
+   "yahoo_symbol": "ZIVOW"
   },
   {
-   "symbol": "AGILW",
-   "name": "AgileThought, Inc. - Warrant",
+   "symbol": "IVI",
+   "name": "Ivrnet Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IVI.V",
+   "instruments": [
+    {
+     "name": "Ivrnet Inc.",
+     "symbol": "IVI"
+    }
+   ]
+  },
+  {
+   "symbol": "ZIVO",
+   "name": "Zivo Bioscience, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGILW"
+   "yahoo_symbol": "ZIVO"
   }
  ]
 }
