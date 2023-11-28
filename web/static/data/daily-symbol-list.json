@@ -1,5 +1,5 @@
 {
- "date": "2023-11-27",
+ "date": "2023-11-28",
  "data": [
   {
    "symbol": "ONE",
@@ -45738,12 +45738,6 @@
    "yahoo_symbol": "AGIO"
   },
   {
-   "symbol": "AGLE",
-   "name": "Aeglea BioTherapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGLE"
-  },
-  {
    "symbol": "AGMH",
    "name": "AGM Group Holdings Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -47722,12 +47716,6 @@
    "name": "Avnet, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AVT"
-  },
-  {
-   "symbol": "AVTA",
-   "name": "Avantax, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AVTA"
   },
   {
    "symbol": "AVTE",
@@ -60012,12 +60000,6 @@
    "yahoo_symbol": "JOAN"
   },
   {
-   "symbol": "JOET",
-   "name": "Virtus Terranova U.S. Quality Momentum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JOET"
-  },
-  {
    "symbol": "JOUT",
    "name": "Johnson Outdoors Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63666,6 +63648,12 @@
    "yahoo_symbol": "NEPT"
   },
   {
+   "symbol": "NERD",
+   "name": "Roundhill Video Games ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NERD"
+  },
+  {
    "symbol": "NERV",
    "name": "Minerva Neurosciences, Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -63848,7 +63836,7 @@
   {
    "symbol": "NKTR",
    "name": "Nektar Therapeutics - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NKTR"
   },
   {
@@ -70434,10 +70422,22 @@
    "yahoo_symbol": "SPI"
   },
   {
+   "symbol": "SPKL",
+   "name": "Spark I Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPKL"
+  },
+  {
    "symbol": "SPKLU",
    "name": "Spark I Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SPKLU"
+  },
+  {
+   "symbol": "SPKLW",
+   "name": "Spark I Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPKLW"
   },
   {
    "symbol": "SPLK",
@@ -71170,6 +71170,12 @@
    "name": "Syra Health Corp. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SYRA"
+  },
+  {
+   "symbol": "SYRE",
+   "name": "Spyre Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYRE"
   },
   {
    "symbol": "SYRS",
@@ -76432,24 +76438,6 @@
    "name": "APi Group Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "APG"
-  },
-  {
-   "symbol": "APGB",
-   "name": "Apollo Strategic Growth Capital II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APGB"
-  },
-  {
-   "symbol": "APGB.U",
-   "name": "Apollo Strategic Growth Capital II Units, each consisting of one Class A Ordinary Share and one-fifth Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APGB.U"
-  },
-  {
-   "symbol": "APGB.W",
-   "name": "Apollo Strategic Growth Capital II Warrants, each exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APGB.W"
   },
   {
    "symbol": "APH",
@@ -84678,30 +84666,6 @@
    "yahoo_symbol": "HSY"
   },
   {
-   "symbol": "HT",
-   "name": "Hersha Hospitality Trust Class A Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HT"
-  },
-  {
-   "symbol": "HT$C",
-   "name": "Hersha Hospitality Trust 6.875% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HT$C"
-  },
-  {
-   "symbol": "HT$D",
-   "name": "Hersha Hospitality Trust 6.50% Series D Cumulative Redeemable Preferred Shares of Beneficial Interest, $0.01 par value per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HT$D"
-  },
-  {
-   "symbol": "HT$E",
-   "name": "Hersha Hospitality Trust 6.50% Series E Cumulative Redeemable Preferred Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HT$E"
-  },
-  {
    "symbol": "HTD",
    "name": "John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -85072,12 +85036,6 @@
    "name": "Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)",
    "exchange": "NYSE",
    "yahoo_symbol": "IHG"
-  },
-  {
-   "symbol": "IHIT",
-   "name": "Invesco High Income 2023 Target Term Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IHIT"
   },
   {
    "symbol": "IHS",
@@ -95442,6 +95400,12 @@
    "yahoo_symbol": "WOR"
   },
   {
+   "symbol": "WOR.V",
+   "name": "Worthington Industries, Inc. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WOR.V"
+  },
+  {
    "symbol": "WOW",
    "name": "WideOpenWest, Inc. Common Stock",
    "exchange": "NYSE",
@@ -95524,6 +95488,12 @@
    "name": "Western Copper and Gold Corporation Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "WRN"
+  },
+  {
+   "symbol": "WS.V",
+   "name": "Worthington Steel, Inc. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WS.V"
   },
   {
    "symbol": "WSM",
