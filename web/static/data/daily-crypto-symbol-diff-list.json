@@ -1,9 +1,31 @@
 {
  "added": [
   {
-   "symbol": "LOVE",
-   "name": "Deesse (LOVE)",
+   "symbol": "SIGN",
+   "name": "Sign Token (SIGN)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "ALKI",
+   "name": "Alkimi (ALKI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRAFTC",
+   "name": "Draftcoin (DRAFTC)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "WTC",
+   "name": "Waltonchain (WTC)"
+  },
+  {
+   "symbol": "ARIX",
+   "name": "Arix (ARIX)",
+   "built_on": "BNB"
   },
   {
    "symbol": "DOG",
@@ -11,68 +33,28 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "STC",
-   "name": "Satoshi Island (STC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "VAIOT",
-   "name": "VAIOT (VAIOT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "VRTX",
-   "name": "Vertex Protocol (VRTX)"
-  },
-  {
-   "symbol": "WAXL",
-   "name": "Wrapped Axelar (WAXL)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "VBTC",
-   "name": "Venus BTC (VBTC)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "GOLC",
-   "name": "GOLCOIN (GOLC)",
-   "built_on": "ETH"
-  },
-  {
    "symbol": "BANK",
    "name": "Float Protocol (BANK)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "VBTC",
-   "name": "Venus BTC (VBTC)"
+   "symbol": "ALKI",
+   "name": "Alkimi (ALKI)"
   },
   {
-   "symbol": "GOLC",
-   "name": "GOLCOIN (GOLC)"
+   "symbol": "SIGN",
+   "name": "Signin (SIGN)"
   },
   {
-   "symbol": "STC",
-   "name": "Satoshi Island (STC)"
+   "symbol": "WTC",
+   "name": "Waltonchain (WTC)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "LOVE",
-   "name": "Deesse (LOVE)"
-  },
-  {
-   "symbol": "VAIOT",
-   "name": "VAIOT (VAIOT)"
-  },
-  {
-   "symbol": "WAXL",
-   "name": "Wrapped Axelar (WAXL)"
+   "symbol": "ARIX",
+   "name": "Arix (ARIX)"
   }
  ]
 }
