@@ -1,5 +1,5 @@
 {
- "date": "2023-11-29",
+ "date": "2023-11-30",
  "data": [
   {
    "symbol": "AACG",
@@ -4774,7 +4774,7 @@
   {
    "symbol": "BZFD",
    "name": "BuzzFeed, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BZFD"
   },
   {
@@ -5508,24 +5508,6 @@
    "name": "CF Bankshares Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CFBK"
-  },
-  {
-   "symbol": "CFFE",
-   "name": "CF Acquisition Corp. VIII - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CFFE"
-  },
-  {
-   "symbol": "CFFEU",
-   "name": "CF Acquisition Corp. VIII - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CFFEU"
-  },
-  {
-   "symbol": "CFFEW",
-   "name": "CF Acquisition Corp. VIII - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CFFEW"
   },
   {
    "symbol": "CFFI",
@@ -14901,7 +14883,7 @@
   },
   {
    "symbol": "IXHL",
-   "name": "Incannex Healthcare Limited - Common Stock",
+   "name": "Incannex Healthcare Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IXHL"
   },
@@ -25088,6 +25070,12 @@
    "yahoo_symbol": "SMCI"
   },
   {
+   "symbol": "SMCO",
+   "name": "Hilton Small-MidCap Opportunity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCO"
+  },
+  {
    "symbol": "SMCP",
    "name": "AlphaMark Actively Managed Small Cap ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -29724,6 +29712,18 @@
    "name": "XBiotech Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "XBIT"
+  },
+  {
+   "symbol": "XBP",
+   "name": "XBP Europe Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XBP"
+  },
+  {
+   "symbol": "XBPEW",
+   "name": "XBP Europe Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XBPEW"
   },
   {
    "symbol": "XCUR",
@@ -41594,24 +41594,6 @@
    "yahoo_symbol": "LOB"
   },
   {
-   "symbol": "LOCC",
-   "name": "Live Oak Crestview Climate Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LOCC"
-  },
-  {
-   "symbol": "LOCC.U",
-   "name": "Live Oak Crestview Climate Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-third of one warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LOCC.U"
-  },
-  {
-   "symbol": "LOCC.W",
-   "name": "Live Oak Crestview Climate Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LOCC.W"
-  },
-  {
    "symbol": "LOCL",
    "name": "Local Bounti Corporation Common Stock",
    "exchange": "NYSE",
@@ -48674,12 +48656,6 @@
    "yahoo_symbol": "TM"
   },
   {
-   "symbol": "TMBR",
-   "name": "Timber Pharmaceuticals, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "TMBR"
-  },
-  {
    "symbol": "TME",
    "name": "Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares",
    "exchange": "NYSE",
@@ -49956,12 +49932,6 @@
    "name": "Vertiv Holdings, LLC Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VRT"
-  },
-  {
-   "symbol": "VRTV",
-   "name": "Veritiv Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VRTV"
   },
   {
    "symbol": "VSCO",
@@ -63126,18 +63096,6 @@
     {
      "name": "New Stratus Energy Inc.",
      "symbol": "NSE"
-    }
-   ]
-  },
-  {
-   "symbol": "NEW",
-   "name": "New Target Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NEW.V",
-   "instruments": [
-    {
-     "name": "New Target Mining Corp.",
-     "symbol": "NEW"
     }
    ]
   },

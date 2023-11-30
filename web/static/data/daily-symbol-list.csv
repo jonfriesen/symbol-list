@@ -794,7 +794,7 @@ BYTSU,BYTE Acquisition Corp. - Units,NASDAQ Capital Market,BYTSU
 BYTSW,BYTE Acquisition Corp. - Warrants,NASDAQ Capital Market,BYTSW
 BYU,"BAIYU Holdings, Inc. - Common Stock",NASDAQ Capital Market,BYU
 BZ,KANZHUN LIMITED - American Depository Shares,NASDAQ Global Select MarketSM,BZ
-BZFD,"BuzzFeed, Inc. - Class A Common Stock",NASDAQ Global MarketSM,BZFD
+BZFD,"BuzzFeed, Inc. - Class A Common Stock",NASDAQ Capital Market,BZFD
 BZFDW,"BuzzFeed, Inc. - Warrant",NASDAQ Capital Market,BZFDW
 BZUN,Baozun Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,BZUN
 CAAS,"China Automotive Systems, Inc. - Common Stock",NASDAQ Capital Market,CAAS
@@ -917,9 +917,6 @@ CEVA,"CEVA, Inc. - Common Stock",NASDAQ Global Select MarketSM,CEVA
 CFA,VictoryShares US 500 Volatility Wtd ETF,NASDAQ Global MarketSM,CFA
 CFB,"CrossFirst Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,CFB
 CFBK,CF Bankshares Inc. - Common Stock,NASDAQ Capital Market,CFBK
-CFFE,CF Acquisition Corp. VIII - Class A Common Stock,NASDAQ Capital Market,CFFE
-CFFEU,CF Acquisition Corp. VIII - Unit,NASDAQ Capital Market,CFFEU
-CFFEW,CF Acquisition Corp. VIII - Warrant,NASDAQ Capital Market,CFFEW
 CFFI,C&F Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,CFFI
 CFFN,"Capitol Federal Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,CFFN
 CFFS,CF Acquisition Corp. VII - Class A Common Stock,NASDAQ Capital Market,CFFS
@@ -2482,7 +2479,7 @@ IWTR,iShares MSCI Water Management Multisector ETF,NASDAQ Global MarketSM,IWTR
 IXAQ,IX Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,IXAQ
 IXAQU,IX Acquisition Corp. - Unit,NASDAQ Global MarketSM,IXAQU
 IXAQW,IX Acquisition Corp. - Warrant,NASDAQ Global MarketSM,IXAQW
-IXHL,Incannex Healthcare Limited - Common Stock,NASDAQ Global MarketSM,IXHL
+IXHL,Incannex Healthcare Inc. - Common Stock,NASDAQ Global MarketSM,IXHL
 IXUS,iShares Core MSCI Total International Stock ETF,NASDAQ Global MarketSM,IXUS
 IZEA,"IZEA Worldwide, Inc. - Common Stock",NASDAQ Capital Market,IZEA
 IZM,ICZOOM Group Inc. - Class A Ordinary Shares,NASDAQ Capital Market,IZM
@@ -4180,6 +4177,7 @@ SMAPW,SportsMap Tech Acquisition Corp. - Warrants,NASDAQ Global MarketSM,SMAPW
 SMBC,"Southern Missouri Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,SMBC
 SMBK,"SmartFinancial, Inc. - Common Stock",NASDAQ Capital Market,SMBK
 SMCI,"Super Micro Computer, Inc. - Common Stock",NASDAQ Global Select MarketSM,SMCI
+SMCO,Hilton Small-MidCap Opportunity ETF,NASDAQ Global MarketSM,SMCO
 SMCP,AlphaMark Actively Managed Small Cap ETF,NASDAQ Global MarketSM,SMCP
 SMFL,"Smart for Life, Inc. - Common Stock",NASDAQ Capital Market,SMFL
 SMH,VanEck Semiconductor ETF,NASDAQ Global MarketSM,SMH
@@ -4953,6 +4951,8 @@ XBIL,US Treasury 6 Month Bill ETF,NASDAQ Global MarketSM,XBIL
 XBIO,"Xenetic Biosciences, Inc. - Common Stock",NASDAQ Capital Market,XBIO
 XBIOW,"Xenetic Biosciences, Inc. - Warrants",NASDAQ Capital Market,XBIOW
 XBIT,XBiotech Inc. - Common Stock,NASDAQ Global Select MarketSM,XBIT
+XBP,"XBP Europe Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,XBP
+XBPEW,"XBP Europe Holdings, Inc. - Warrant",NASDAQ Capital Market,XBPEW
 XCUR,"Exicure, Inc. - Common Stock",NASDAQ Capital Market,XCUR
 XDNA,Kelly CRISPR & Gene Editing Technology ETF,NASDAQ Global MarketSM,XDNA
 XEL,Xcel Energy Inc. - Common Stock,NASDAQ Global Select MarketSM,XEL
@@ -6931,9 +6931,6 @@ LND,Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil),NYSE,LND
 LNG,"Cheniere Energy, Inc. Common Stock",NYSE MKT,LNG
 LNN,Lindsay Corporation Common Stock,NYSE,LNN
 LOB,"Live Oak Bancshares, Inc. Common Stock",NYSE,LOB
-LOCC,Live Oak Crestview Climate Acquisition Corp. Class A Common Stock,NYSE,LOCC
-LOCC.U,"Live Oak Crestview Climate Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-third of one warrant",NYSE,LOCC.U
-LOCC.W,"Live Oak Crestview Climate Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE,LOCC.W
 LOCL,Local Bounti Corporation Common Stock,NYSE,LOCL
 LODE,Comstock Inc. Common Stock,NYSE MKT,LODE
 LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,NYSE,LOMA
@@ -8111,7 +8108,6 @@ TKR,Timken Company (The) Common Stock,NYSE,TKR
 TLK,"PT Telekomunikasi Indonesia, Tbk",NYSE,TLK
 TLYS,"Tilly's, Inc. Common Stock",NYSE,TLYS
 TM,Toyota Motor Corporation Common Stock,NYSE,TM
-TMBR,"Timber Pharmaceuticals, Inc. Common Stock",NYSE MKT,TMBR
 TME,"Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares",NYSE,TME
 TMHC,Taylor Morrison Home Corporation Common Stock,NYSE,TMHC
 TMO,Thermo Fisher Scientific Inc Common Stock,NYSE,TMO
@@ -8325,7 +8321,6 @@ VPG,"Vishay Precision Group, Inc. Common Stock",NYSE,VPG
 VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),NYSE,VPV
 VRE,"Veris Residential, Inc. Common Stock",NYSE,VRE
 VRT,"Vertiv Holdings, LLC Class A Common Stock",NYSE,VRT
-VRTV,Veritiv Corporation Common Stock,NYSE,VRTV
 VSCO,Victorias Secret & Co. Common Stock ,NYSE,VSCO
 VSH,"Vishay Intertechnology, Inc. Common Stock",NYSE,VSH
 VST,Vistra Corp. Common Stock,NYSE,VST
@@ -9492,7 +9487,6 @@ ENRG,New Energy Metals Corp.,TSXV,ENRG.V,New Energy Metals Corp,ENRG
 NFG,New Found Gold Corp.,TSXV,NFG.V,New Found Gold Corp.,NFG
 NEME.P,New Media Capital 2.0 Inc.,TSXV,NEME.P.V,New Media Capital 2.0 Inc.,NEME.P
 NSE,New Stratus Energy Inc.,TSXV,NSE.V,New Stratus Energy Inc.,NSE
-NEW,New Target Mining Corp.,TSXV,NEW.V,New Target Mining Corp.,NEW
 NZ,New Zealand Energy Corp.,TSXV,NZ.V,New Zealand Energy Corp.,NZ
 NCAU,Newcore Gold Ltd.,TSXV,NCAU.V,Newcore Gold Ltd.,NCAU
 NER,Newmac Resources Inc.,TSXV,NER.V,Newmac Resources Inc.,NER

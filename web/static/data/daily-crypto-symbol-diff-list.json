@@ -1,60 +1,64 @@
 {
  "added": [
   {
-   "symbol": "SIGN",
-   "name": "Sign Token (SIGN)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ALKI",
-   "name": "Alkimi (ALKI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DRAFTC",
-   "name": "Draftcoin (DRAFTC)"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "WTC",
-   "name": "Waltonchain (WTC)"
-  },
-  {
-   "symbol": "ARIX",
-   "name": "Arix (ARIX)",
+   "symbol": "NNN",
+   "name": "Novem Gold (NNN)",
    "built_on": "BNB"
   },
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
+   "symbol": "AOG",
+   "name": "AgeOfGods (AOG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ORB",
+   "name": "KlayCity ORB (ORB)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "RBW",
+   "name": "Crypto Unicorns Rainbow (RBW)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MSQ",
+   "name": "MSquare Global (MSQ)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "ALKI",
-   "name": "Alkimi (ALKI)"
+   "symbol": "AOG",
+   "name": "AgeOfGods (AOG)"
   },
   {
-   "symbol": "SIGN",
-   "name": "Signin (SIGN)"
+   "symbol": "NNN",
+   "name": "Novem Gold (NNN)"
   },
   {
-   "symbol": "WTC",
-   "name": "Waltonchain (WTC)",
-   "built_on": "ETH"
+   "symbol": "MSQ",
+   "name": "MSquare Global (MSQ)"
   },
   {
-   "symbol": "ARIX",
-   "name": "Arix (ARIX)"
+   "symbol": "ORB",
+   "name": "KlayCity ORB (ORB)"
+  },
+  {
+   "symbol": "RBW",
+   "name": "Crypto Unicorns Rainbow (RBW)"
   }
  ]
 }
