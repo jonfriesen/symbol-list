@@ -1,120 +1,144 @@
 {
  "added": [
   {
-   "symbol": "BLDS",
-   "name": "Badlands Resources Inc.",
+   "symbol": "CBRG",
+   "name": "Chain Bridge I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBRG"
+  },
+  {
+   "symbol": "CBRGU",
+   "name": "Chain Bridge I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBRGU"
+  },
+  {
+   "symbol": "GSIW",
+   "name": "Garden Stage Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSIW"
+  },
+  {
+   "symbol": "SOAR",
+   "name": "Volato Group, Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SOAR"
+  },
+  {
+   "symbol": "SOAR.W",
+   "name": "Volato Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SOAR.W"
+  },
+  {
+   "symbol": "PUR",
+   "name": "Premier American Uranium Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "BLDS.V",
+   "yahoo_symbol": "PUR.V",
    "instruments": [
     {
-     "name": "Badlands Resources Inc.",
-     "symbol": "BLDS"
+     "name": "Premier American Uranium Inc.",
+     "symbol": "PUR"
     }
    ]
-  },
-  {
-   "symbol": "FEBO",
-   "name": "Fenbo Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FEBO"
-  },
-  {
-   "symbol": "QETA",
-   "name": "Quetta Acquisition Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QETA"
-  },
-  {
-   "symbol": "QETAR",
-   "name": "Quetta Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QETAR"
-  },
-  {
-   "symbol": "BANC$F",
-   "name": "Banc of California, Inc. Depositary Shares, each representing a 1/40th interest in a share of 7.75% non-cumulative perpetual preferred stock, Series F",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BANC$F"
-  },
-  {
-   "symbol": "SCE$M",
-   "name": "SCE Trust VII 7.50% Trust Preference Securities",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SCE$M"
-  },
-  {
-   "symbol": "WS",
-   "name": "Worthington Steel, Inc. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WS"
   }
  ],
  "removed": [
   {
-   "symbol": "PACW",
-   "name": "PacWest Bancorp - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PACW"
-  },
-  {
-   "symbol": "WS.V",
-   "name": "Worthington Steel, Inc. Common Shares When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WS.V"
-  },
-  {
-   "symbol": "GHL",
-   "name": "Greenhill \u0026 Co., Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GHL"
-  },
-  {
-   "symbol": "NIMC",
-   "name": "NiSource, Inc Series A Corporate Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NIMC"
-  },
-  {
-   "symbol": "WOR.V",
-   "name": "Worthington Industries, Inc. Common Shares When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WOR.V"
-  },
-  {
-   "symbol": "PACWP",
-   "name": "PacWest Bancorp - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PACWP"
-  },
-  {
-   "symbol": "HEP",
-   "name": "Holly Energy Partners, L.P. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HEP"
-  },
-  {
-   "symbol": "XDNA",
-   "name": "Kelly CRISPR \u0026 Gene Editing Technology ETF",
+   "symbol": "CBRG",
+   "name": "Chain Bridge I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XDNA"
+   "yahoo_symbol": "CBRG"
   },
   {
-   "symbol": "PTRS",
-   "name": "Partners Bancorp - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTRS"
+   "symbol": "CORR$A",
+   "name": "CorEnergy Infrastructure Trust, Inc. Depositary Shares, each representing a 1/100th fractional interest of a share of 7.375% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CORR$A"
   },
   {
-   "symbol": "MMV",
-   "name": "Mineral Mountain Resources Ltd.",
+   "symbol": "SGIIU",
+   "name": "Seaport Global Acquisition II Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGIIU"
+  },
+  {
+   "symbol": "CORR",
+   "name": "CorEnergy Infrastructure Trust, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CORR"
+  },
+  {
+   "symbol": "AGD",
+   "name": "Antioquia Gold Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MMV.V",
+   "yahoo_symbol": "AGD.V",
    "instruments": [
     {
-     "name": "Mineral Mountain Resources Ltd.",
-     "symbol": "MMV"
+     "name": "Antioquia Gold Inc",
+     "symbol": "AGD"
     }
    ]
+  },
+  {
+   "symbol": "CCVI.U",
+   "name": "Churchill Capital Corp VI Units, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCVI.U"
+  },
+  {
+   "symbol": "HUT",
+   "name": "Hut 8 Mining Corp. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HUT"
+  },
+  {
+   "symbol": "SGIIW",
+   "name": "Seaport Global Acquisition II Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGIIW"
+  },
+  {
+   "symbol": "CCVI",
+   "name": "Churchill Capital Corp VI Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCVI"
+  },
+  {
+   "symbol": "PACI.U",
+   "name": "PROOF Acquisition Corp I Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PACI.U"
+  },
+  {
+   "symbol": "CBRGU",
+   "name": "Chain Bridge I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CBRGU"
+  },
+  {
+   "symbol": "PACI",
+   "name": "PROOF Acquisition Corp I Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PACI"
+  },
+  {
+   "symbol": "CCVI.W",
+   "name": "Churchill Capital Corp VI Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCVI.W"
+  },
+  {
+   "symbol": "SGII",
+   "name": "Seaport Global Acquisition II Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGII"
+  },
+  {
+   "symbol": "PACI.W",
+   "name": "PROOF Acquisition Corp I Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PACI.W"
   }
  ]
 }
