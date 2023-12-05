@@ -1,23 +1,37 @@
 {
  "added": [
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "PROBIN",
+   "name": "Probinex (PROBIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AGI",
+   "name": "Delysium (AGI)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PROBIN",
+   "name": "Probinex (PROBIN)"
   },
   {
    "symbol": "AGI",
    "name": "Delysium (AGI)"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
   }
  ]
 }

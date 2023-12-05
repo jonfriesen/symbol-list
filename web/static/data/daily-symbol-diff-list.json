@@ -1,144 +1,156 @@
 {
  "added": [
   {
-   "symbol": "CBRG",
-   "name": "Chain Bridge I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CBRG"
+   "symbol": "AFJKU",
+   "name": "Aimei Health Technology Co., Ltd - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFJKU"
   },
   {
-   "symbol": "CBRGU",
-   "name": "Chain Bridge I - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CBRGU"
+   "symbol": "GLAC",
+   "name": "Global Lights Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLAC"
   },
   {
-   "symbol": "GSIW",
-   "name": "Garden Stage Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GSIW"
+   "symbol": "GLACR",
+   "name": "Global Lights Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLACR"
   },
   {
-   "symbol": "SOAR",
-   "name": "Volato Group, Inc. Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SOAR"
+   "symbol": "HUT",
+   "name": "Hut 8 Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HUT"
   },
   {
-   "symbol": "SOAR.W",
-   "name": "Volato Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SOAR.W"
+   "symbol": "VGSR",
+   "name": "Vert Global Sustainable Real Estate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VGSR"
   },
   {
-   "symbol": "PUR",
-   "name": "Premier American Uranium Inc.",
+   "symbol": "TCXT",
+   "name": "TrueContext Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "PUR.V",
+   "yahoo_symbol": "TCXT.V",
    "instruments": [
     {
-     "name": "Premier American Uranium Inc.",
-     "symbol": "PUR"
+     "name": "TrueContext Corporation",
+     "symbol": "TCXT"
+    }
+   ]
+  },
+  {
+   "symbol": "PRYM",
+   "name": "Prime Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRYM.TO",
+   "instruments": [
+    {
+     "name": "Prime Mining Corp. J",
+     "symbol": "PRYM"
     }
    ]
   }
  ],
  "removed": [
   {
-   "symbol": "CBRG",
-   "name": "Chain Bridge I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CBRG"
-  },
-  {
-   "symbol": "CORR$A",
-   "name": "CorEnergy Infrastructure Trust, Inc. Depositary Shares, each representing a 1/100th fractional interest of a share of 7.375% Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CORR$A"
-  },
-  {
-   "symbol": "SGIIU",
-   "name": "Seaport Global Acquisition II Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SGIIU"
-  },
-  {
-   "symbol": "CORR",
-   "name": "CorEnergy Infrastructure Trust, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CORR"
-  },
-  {
-   "symbol": "AGD",
-   "name": "Antioquia Gold Inc.",
+   "symbol": "PFM",
+   "name": "ProntoForms Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "AGD.V",
+   "yahoo_symbol": "PFM.V",
    "instruments": [
     {
-     "name": "Antioquia Gold Inc",
-     "symbol": "AGD"
+     "name": "ProntoForms Corporation",
+     "symbol": "PFM"
     }
    ]
   },
   {
-   "symbol": "CCVI.U",
-   "name": "Churchill Capital Corp VI Units, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CCVI.U"
+   "symbol": "HWELW",
+   "name": "Healthwell Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HWELW"
   },
   {
-   "symbol": "HUT",
-   "name": "Hut 8 Mining Corp. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HUT"
+   "symbol": "HWELU",
+   "name": "Healthwell Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HWELU"
   },
   {
-   "symbol": "SGIIW",
-   "name": "Seaport Global Acquisition II Corp. - Warrants",
+   "symbol": "SOFO",
+   "name": "Sonic Foundry, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOFO"
+  },
+  {
+   "symbol": "FATPU",
+   "name": "Fat Projects Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SGIIW"
+   "yahoo_symbol": "FATPU"
   },
   {
-   "symbol": "CCVI",
-   "name": "Churchill Capital Corp VI Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CCVI"
-  },
-  {
-   "symbol": "PACI.U",
-   "name": "PROOF Acquisition Corp I Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PACI.U"
-  },
-  {
-   "symbol": "CBRGU",
-   "name": "Chain Bridge I - Units",
+   "symbol": "FATP",
+   "name": "Fat Projects Acquisition Corp - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CBRGU"
+   "yahoo_symbol": "FATP"
   },
   {
-   "symbol": "PACI",
-   "name": "PROOF Acquisition Corp I Class A Common Stock",
+   "symbol": "SUAC.U",
+   "name": "ShoulderUp Technology Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "PACI"
+   "yahoo_symbol": "SUAC.U"
   },
   {
-   "symbol": "CCVI.W",
-   "name": "Churchill Capital Corp VI Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "symbol": "GCC",
+   "name": "Golden Cariboo Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GCC.V",
+   "instruments": [
+    {
+     "name": "Golden Cariboo Resources Ltd",
+     "symbol": "GCC"
+    }
+   ]
+  },
+  {
+   "symbol": "SUAC.W",
+   "name": "ShoulderUp Technology Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
    "exchange": "NYSE",
-   "yahoo_symbol": "CCVI.W"
+   "yahoo_symbol": "SUAC.W"
   },
   {
-   "symbol": "SGII",
-   "name": "Seaport Global Acquisition II Corp. - Class A Common Stock",
+   "symbol": "SUAC",
+   "name": "ShoulderUp Technology Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUAC"
+  },
+  {
+   "symbol": "WEII",
+   "name": "Wolverine Energy and Infrastructure Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WEII.V",
+   "instruments": [
+    {
+     "name": "Wolverine Energy and Infrastructure Inc.",
+     "symbol": "WEII"
+    }
+   ]
+  },
+  {
+   "symbol": "HWEL",
+   "name": "Healthwell Acquisition Corp. I - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HWEL"
+  },
+  {
+   "symbol": "FATPW",
+   "name": "Fat Projects Acquisition Corp - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SGII"
-  },
-  {
-   "symbol": "PACI.W",
-   "name": "PROOF Acquisition Corp I Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PACI.W"
+   "yahoo_symbol": "FATPW"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2023-12-04",
+ "date": "2023-12-05",
  "data": [
   {
    "symbol": "AACG",
@@ -786,6 +786,12 @@
    "name": "Acutus Medical, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AFIB"
+  },
+  {
+   "symbol": "AFJKU",
+   "name": "Aimei Health Technology Co., Ltd - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFJKU"
   },
   {
    "symbol": "AFMD",
@@ -9716,24 +9722,6 @@
    "yahoo_symbol": "FATE"
   },
   {
-   "symbol": "FATP",
-   "name": "Fat Projects Acquisition Corp - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FATP"
-  },
-  {
-   "symbol": "FATPU",
-   "name": "Fat Projects Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FATPU"
-  },
-  {
-   "symbol": "FATPW",
-   "name": "Fat Projects Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FATPW"
-  },
-  {
    "symbol": "FAZE",
    "name": "FaZe Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -11720,6 +11708,18 @@
    "yahoo_symbol": "GIPRW"
   },
   {
+   "symbol": "GLAC",
+   "name": "Global Lights Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLAC"
+  },
+  {
+   "symbol": "GLACR",
+   "name": "Global Lights Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLACR"
+  },
+  {
    "symbol": "GLACU",
    "name": "Global Lights Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
@@ -13376,6 +13376,12 @@
    "yahoo_symbol": "HURN"
   },
   {
+   "symbol": "HUT",
+   "name": "Hut 8 Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HUT"
+  },
+  {
    "symbol": "HWBK",
    "name": "Hawthorn Bancshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -13392,24 +13398,6 @@
    "name": "Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HWCPZ"
-  },
-  {
-   "symbol": "HWEL",
-   "name": "Healthwell Acquisition Corp. I - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HWEL"
-  },
-  {
-   "symbol": "HWELU",
-   "name": "Healthwell Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HWELU"
-  },
-  {
-   "symbol": "HWELW",
-   "name": "Healthwell Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HWELW"
   },
   {
    "symbol": "HWKN",
@@ -25310,12 +25298,6 @@
    "yahoo_symbol": "SOFI"
   },
   {
-   "symbol": "SOFO",
-   "name": "Sonic Foundry, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SOFO"
-  },
-  {
    "symbol": "SOHO",
    "name": "Sotherly Hotels Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -28422,6 +28404,12 @@
    "name": "Vanguard Short-Term Treasury ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VGSH"
+  },
+  {
+   "symbol": "VGSR",
+   "name": "Vert Global Sustainable Real Estate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VGSR"
   },
   {
    "symbol": "VIA",
@@ -47978,24 +47966,6 @@
    "yahoo_symbol": "SU"
   },
   {
-   "symbol": "SUAC",
-   "name": "ShoulderUp Technology Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SUAC"
-  },
-  {
-   "symbol": "SUAC.U",
-   "name": "ShoulderUp Technology Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SUAC.U"
-  },
-  {
-   "symbol": "SUAC.W",
-   "name": "ShoulderUp Technology Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SUAC.W"
-  },
-  {
    "symbol": "SUI",
    "name": "Sun Communities, Inc. Common Stock",
    "exchange": "NYSE",
@@ -58264,18 +58234,6 @@
    ]
   },
   {
-   "symbol": "GCC",
-   "name": "Golden Cariboo Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GCC.V",
-   "instruments": [
-    {
-     "name": "Golden Cariboo Resources Ltd",
-     "symbol": "GCC"
-    }
-   ]
-  },
-  {
    "symbol": "GNG",
    "name": "Golden Goliath Resources Ltd.",
    "exchange": "TSXV",
@@ -65132,18 +65090,6 @@
    ]
   },
   {
-   "symbol": "PFM",
-   "name": "ProntoForms Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PFM.V",
-   "instruments": [
-    {
-     "name": "ProntoForms Corporation",
-     "symbol": "PFM"
-    }
-   ]
-  },
-  {
    "symbol": "PPP",
    "name": "Prospector Metals Corp.",
    "exchange": "TSXV",
@@ -69212,6 +69158,18 @@
    ]
   },
   {
+   "symbol": "TCXT",
+   "name": "TrueContext Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TCXT.V",
+   "instruments": [
+    {
+     "name": "TrueContext Corporation",
+     "symbol": "TCXT"
+    }
+   ]
+  },
+  {
    "symbol": "TBIX",
    "name": "TrustBIX Inc.",
    "exchange": "TSXV",
@@ -70448,18 +70406,6 @@
     {
      "name": "Wolfden Resources Corporation",
      "symbol": "WLF"
-    }
-   ]
-  },
-  {
-   "symbol": "WEII",
-   "name": "Wolverine Energy and Infrastructure Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WEII.V",
-   "instruments": [
-    {
-     "name": "Wolverine Energy and Infrastructure Inc.",
-     "symbol": "WEII"
     }
    ]
   },
@@ -80694,7 +80640,7 @@
    "yahoo_symbol": "FCRR.TO",
    "instruments": [
     {
-     "name": "Fidelity US DivRtIdx",
+     "name": "Fidelity US DivRise",
      "symbol": "FCRR"
     },
     {
@@ -84318,7 +84264,7 @@
    "yahoo_symbol": "HUT.TO",
    "instruments": [
     {
-     "name": "Hut 8 Mining Corp J",
+     "name": "Hut 8 Corp J",
      "symbol": "HUT"
     }
    ]
@@ -90792,6 +90738,18 @@
    ]
   },
   {
+   "symbol": "PRYM",
+   "name": "Prime Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRYM.TO",
+   "instruments": [
+    {
+     "name": "Prime Mining Corp. J",
+     "symbol": "PRYM"
+    }
+   ]
+  },
+  {
    "symbol": "PRMW",
    "name": "Primo Water Corporation",
    "exchange": "TSX",
@@ -92940,10 +92898,6 @@
     {
      "name": "StageZero Life Sci J",
      "symbol": "SZLS"
-    },
-    {
-     "name": "StageZero LifeJ 36Wt",
-     "symbol": "SZLS.WS"
     }
    ]
   },
