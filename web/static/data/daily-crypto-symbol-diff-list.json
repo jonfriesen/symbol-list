@@ -1,37 +1,86 @@
 {
  "added": [
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "HANDY",
+   "name": "Handy (HANDY)",
    "built_on": "ETH"
   },
   {
-   "symbol": "PROBIN",
-   "name": "Probinex (PROBIN)",
+   "symbol": "BEAMMW",
+   "name": "Beam (BEAMMW)"
+  },
+  {
+   "symbol": "XCV",
+   "name": "XCarnival (XCV)",
    "built_on": "BNB"
-  },
-  {
-   "symbol": "AGI",
-   "name": "Delysium (AGI)",
-   "built_on": "ETH"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "VPP",
+   "name": "Virtue Poker Points (VPP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CYCON",
+   "name": "CONUN (CYCON)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BITFLIP",
+   "name": "BitFlip (BITFLIP)"
+  },
+  {
+   "symbol": "FLIP",
+   "name": "Chainflip (FLIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NOS",
+   "name": "Nosana (NOS)",
+   "built_on": "SOL"
   }
  ],
  "removed": [
   {
-   "symbol": "PROBIN",
-   "name": "Probinex (PROBIN)"
+   "symbol": "XCV",
+   "name": "XCarnival (XCV)"
   },
   {
-   "symbol": "AGI",
-   "name": "Delysium (AGI)"
+   "symbol": "FLIP",
+   "name": "BitFlip (FLIP)"
+  },
+  {
+   "symbol": "VPP",
+   "name": "Virtue Poker Points (VPP)"
+  },
+  {
+   "symbol": "BEAM",
+   "name": "Beam (BEAM)"
+  },
+  {
+   "symbol": "HANDY",
+   "name": "Handy (HANDY)"
+  },
+  {
+   "symbol": "CONUN",
+   "name": "CONUN (CONUN)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "NOS",
+   "name": "Nosana (NOS)"
   }
  ]
 }
