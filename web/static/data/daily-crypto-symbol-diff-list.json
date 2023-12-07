@@ -1,17 +1,8 @@
 {
  "added": [
   {
-   "symbol": "HANDY",
-   "name": "Handy (HANDY)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BEAMMW",
-   "name": "Beam (BEAMMW)"
-  },
-  {
-   "symbol": "XCV",
-   "name": "XCarnival (XCV)",
+   "symbol": "PRI",
+   "name": "PRIVATEUM INITIATIVE (PRI)",
    "built_on": "BNB"
   },
   {
@@ -19,68 +10,42 @@
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "VPP",
-   "name": "Virtue Poker Points (VPP)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "CYCON",
-   "name": "CONUN (CYCON)",
-   "built_on": "KLAY"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "BITFLIP",
-   "name": "BitFlip (BITFLIP)"
-  },
-  {
-   "symbol": "FLIP",
-   "name": "Chainflip (FLIP)",
-   "built_on": "ETH"
-  },
-  {
    "symbol": "DOG",
    "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
-   "symbol": "NOS",
-   "name": "Nosana (NOS)",
-   "built_on": "SOL"
+   "symbol": "LAVA",
+   "name": "Lavaswap (LAVA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MULTIGAMES",
+   "name": "MultiGames (MULTIGAMES)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "XCV",
-   "name": "XCarnival (XCV)"
+   "symbol": "XDB",
+   "name": "DragonSphere (XDB)"
   },
   {
-   "symbol": "FLIP",
-   "name": "BitFlip (FLIP)"
+   "symbol": "LAVA",
+   "name": "Lavaswap (LAVA)"
   },
   {
-   "symbol": "VPP",
-   "name": "Virtue Poker Points (VPP)"
+   "symbol": "PRI",
+   "name": "PRIVATEUM INITIATIVE (PRI)"
   },
   {
-   "symbol": "BEAM",
-   "name": "Beam (BEAM)"
-  },
-  {
-   "symbol": "HANDY",
-   "name": "Handy (HANDY)"
-  },
-  {
-   "symbol": "CONUN",
-   "name": "CONUN (CONUN)",
-   "built_on": "KLAY"
-  },
-  {
-   "symbol": "NOS",
-   "name": "Nosana (NOS)"
+   "symbol": "MLT",
+   "name": "MultiGames (MLT)"
   }
  ]
 }
