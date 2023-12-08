@@ -1,22 +1,8 @@
 {
  "added": [
   {
-   "symbol": "PRI",
-   "name": "PRIVATEUM INITIATIVE (PRI)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "LAVA",
-   "name": "Lavaswap (LAVA)",
+   "symbol": "CHMB",
+   "name": "Chumbi Valley (CHMB)",
    "built_on": "BNB"
   },
   {
@@ -25,27 +11,59 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "MULTIGAMES",
-   "name": "MultiGames (MULTIGAMES)",
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "XPT",
+   "name": "Cryptobuyer (XPT)"
+  },
+  {
+   "symbol": "KUBE",
+   "name": "KubeCoin (KUBE)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "LMR",
+   "name": "Lumerin (LMR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "DFT",
+   "name": "DigiFinexToken (DFT)",
    "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "XDB",
-   "name": "DragonSphere (XDB)"
+   "symbol": "KUBE",
+   "name": "KubeCoin (KUBE)"
   },
   {
-   "symbol": "LAVA",
-   "name": "Lavaswap (LAVA)"
+   "symbol": "CHMB",
+   "name": "Chumbi Valley (CHMB)"
   },
   {
-   "symbol": "PRI",
-   "name": "PRIVATEUM INITIATIVE (PRI)"
+   "symbol": "XPT",
+   "name": "Cryptobuyer (XPT)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "MLT",
-   "name": "MultiGames (MLT)"
+   "symbol": "DFT",
+   "name": "DigiFinexToken (DFT)"
+  },
+  {
+   "symbol": "DFXT",
+   "name": "DigiFinexToken (DFXT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LMR",
+   "name": "Lumerin (LMR)"
   }
  ]
 }
