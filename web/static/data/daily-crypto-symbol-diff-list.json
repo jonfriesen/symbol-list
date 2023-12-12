@@ -1,14 +1,28 @@
 {
  "added": [
   {
-   "symbol": "BEX",
-   "name": "BEX token (BEX)",
+   "symbol": "UNORE",
+   "name": "UnoRe (UNORE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "LTG",
-   "name": "LiteCoin Gold (LTG)",
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "SOULS",
+   "name": "Soulsaver (SOULS)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "SPUME",
+   "name": "Spume (SPUME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LITT",
+   "name": "LitLab Games (LITT)",
+   "built_on": "BNB"
   },
   {
    "symbol": "G",
@@ -16,8 +30,8 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "MELOS",
-   "name": "Melos Studio (MELOS)",
+   "symbol": "VDR",
+   "name": "Vodra (VDR)",
    "built_on": "ETH"
   },
   {
@@ -26,55 +40,31 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "JTO",
-   "name": "Jito (JTO)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "1717",
-   "name": "1717 Masonic Commemorative Token (1717)"
-  },
-  {
-   "symbol": "STARLY",
-   "name": "Starly (STARLY)",
+   "symbol": "CREO",
+   "name": "Creo Engine (CREO)",
    "built_on": "BNB"
-  },
-  {
-   "symbol": "SWC",
-   "name": "Scanetchain Token (SWC)"
   }
  ],
  "removed": [
   {
-   "symbol": "MELOS",
-   "name": "Melos Studio (MELOS)"
+   "symbol": "VDR",
+   "name": "Vodra (VDR)"
   },
   {
-   "symbol": "LTG",
-   "name": "LiteCoin Gold (LTG)"
+   "symbol": "CREO",
+   "name": "Creo Engine (CREO)"
   },
   {
-   "symbol": "STARLY",
-   "name": "Starly (STARLY)"
+   "symbol": "SPUME",
+   "name": "Spume (SPUME)"
   },
   {
-   "symbol": "1717",
-   "name": "1717 Masonic Commemorative Token (1717)",
-   "built_on": "ETH"
+   "symbol": "UNORE",
+   "name": "UnoRe (UNORE)"
   },
   {
-   "symbol": "SWC",
-   "name": "Scanetchain Token (SWC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BEX",
-   "name": "BEX token (BEX)"
+   "symbol": "SOULS",
+   "name": "Soulsaver (SOULS)"
   }
  ]
 }
