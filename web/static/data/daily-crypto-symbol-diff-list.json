@@ -1,8 +1,13 @@
 {
  "added": [
   {
-   "symbol": "UNORE",
-   "name": "UnoRe (UNORE)",
+   "symbol": "RATS",
+   "name": "Rats (RATS)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "RLB",
+   "name": "Rollbit Coin (RLB)",
    "built_on": "ETH"
   },
   {
@@ -10,19 +15,18 @@
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "SOULS",
-   "name": "Soulsaver (SOULS)",
-   "built_on": "ETH"
+   "symbol": "UNOB",
+   "name": "Unobtanium (UNOB)"
   },
   {
-   "symbol": "SPUME",
-   "name": "Spume (SPUME)",
-   "built_on": "ETH"
+   "symbol": "SAUCE",
+   "name": "SaucerSwap (SAUCE)",
+   "built_on": "HBAR"
   },
   {
-   "symbol": "LITT",
-   "name": "LitLab Games (LITT)",
-   "built_on": "BNB"
+   "symbol": "SEAM",
+   "name": "Seamless Protocol (SEAM)",
+   "built_on": "BASECHAIN"
   },
   {
    "symbol": "G",
@@ -30,41 +34,15 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "VDR",
-   "name": "Vodra (VDR)",
-   "built_on": "ETH"
-  },
-  {
    "symbol": "BANK",
    "name": "Float Protocol (BANK)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "CREO",
-   "name": "Creo Engine (CREO)",
-   "built_on": "BNB"
   }
  ],
  "removed": [
   {
-   "symbol": "VDR",
-   "name": "Vodra (VDR)"
-  },
-  {
-   "symbol": "CREO",
-   "name": "Creo Engine (CREO)"
-  },
-  {
-   "symbol": "SPUME",
-   "name": "Spume (SPUME)"
-  },
-  {
-   "symbol": "UNORE",
-   "name": "UnoRe (UNORE)"
-  },
-  {
-   "symbol": "SOULS",
-   "name": "Soulsaver (SOULS)"
+   "symbol": "UNO",
+   "name": "Unobtanium (UNO)"
   }
  ]
 }
