@@ -1,32 +1,20 @@
 {
  "added": [
   {
-   "symbol": "RATS",
-   "name": "Rats (RATS)",
-   "built_on": "BTC"
+   "symbol": "EDLC",
+   "name": "Edelcoin (EDLC)"
   },
   {
-   "symbol": "RLB",
-   "name": "Rollbit Coin (RLB)",
-   "built_on": "ETH"
+   "symbol": "PMG",
+   "name": "Pomerium Ecosystem Token (PMG)"
+  },
+  {
+   "symbol": "BSSB",
+   "name": "BitStable Finance (BSSB)"
   },
   {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "UNOB",
-   "name": "Unobtanium (UNOB)"
-  },
-  {
-   "symbol": "SAUCE",
-   "name": "SaucerSwap (SAUCE)",
-   "built_on": "HBAR"
-  },
-  {
-   "symbol": "SEAM",
-   "name": "Seamless Protocol (SEAM)",
-   "built_on": "BASECHAIN"
   },
   {
    "symbol": "G",
@@ -34,15 +22,8 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "UNO",
-   "name": "Unobtanium (UNO)"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   }
  ]
 }
