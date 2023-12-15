@@ -1,162 +1,96 @@
 {
  "added": [
   {
-   "symbol": "RSC.P",
-   "name": "Rockmount Capital Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RSC.P.V",
-   "instruments": [
-    {
-     "name": "Rockmount Capital Corporation",
-     "symbol": "RSC.P"
-    }
-   ]
-  },
-  {
-   "symbol": "CURA",
-   "name": "Curaleaf Holdings, Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CURA.TO",
-   "instruments": [
-    {
-     "name": "Curaleaf Holdings J",
-     "symbol": "CURA"
-    }
-   ]
-  },
-  {
-   "symbol": "AUMI",
-   "name": "Themes Gold Miners ETF",
+   "symbol": "BNZI",
+   "name": "Banzai International, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AUMI"
+   "yahoo_symbol": "BNZI"
   },
   {
-   "symbol": "BUFC",
-   "name": "AB Conservative Buffer ETF",
+   "symbol": "BNZIW",
+   "name": "Banzai International, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNZIW"
+  },
+  {
+   "symbol": "BRTR",
+   "name": "BlackRock Total Return ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BUFC"
+   "yahoo_symbol": "BRTR"
   },
   {
-   "symbol": "CPLS",
-   "name": "AB Core Plus Bond ETF",
+   "symbol": "CA",
+   "name": "Xtrackers California Municipal Bonds ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CPLS"
+   "yahoo_symbol": "CA"
   },
   {
-   "symbol": "CZAR",
-   "name": "Themes Natural Monopoly ETF",
+   "symbol": "INHD",
+   "name": "Inno Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INHD"
+  },
+  {
+   "symbol": "QLI",
+   "name": "Qilian International Holding Group Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QLI"
+  },
+  {
+   "symbol": "VCRB",
+   "name": "Vanguard Core Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CZAR"
+   "yahoo_symbol": "VCRB"
   },
   {
-   "symbol": "EYEG",
-   "name": "AB Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EYEG"
-  },
-  {
-   "symbol": "SMCF",
-   "name": "Themes US Small Cap Cash Flow Champions ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMCF"
-  },
-  {
-   "symbol": "USCF",
-   "name": "Themes US Cash Flow Champions ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "USCF"
-  },
-  {
-   "symbol": "USRD",
-   "name": "Themes US R\u0026D Champions ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "USRD"
-  },
-  {
-   "symbol": "DSX.W",
-   "name": "Diana Shipping inc. Warrants",
+   "symbol": "ZKH",
+   "name": "ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "DSX.W"
-  },
-  {
-   "symbol": "EFC$D",
-   "name": "Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EFC$D"
-  },
-  {
-   "symbol": "EFC$E",
-   "name": "Ellington Financial Inc. 8.250% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EFC$E"
+   "yahoo_symbol": "ZKH"
   }
  ],
  "removed": [
   {
-   "symbol": "MIRO",
-   "name": "Miromatrix Medical Inc. - Common Stock",
+   "symbol": "VIIAW",
+   "name": "7GC \u0026 Co. Holdings Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MIRO"
+   "yahoo_symbol": "VIIAW"
   },
   {
-   "symbol": "CTG",
-   "name": "Computer Task Group, Incorporated - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CTG"
-  },
-  {
-   "symbol": "AAIC$C",
-   "name": "Arlington Asset Investment Corp 8.250% Seies C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock   ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAIC$C"
-  },
-  {
-   "symbol": "BIGB",
-   "name": "Roundhill BIG Bank ETF",
+   "symbol": "CIZN",
+   "name": "Citizens Holding Company - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BIGB"
+   "yahoo_symbol": "CIZN"
   },
   {
-   "symbol": "AAIC",
-   "name": "Arlington Asset Investment Corp Class A (new)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAIC"
+   "symbol": "VII",
+   "name": "7GC \u0026 Co. Holdings Inc. - Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VII"
   },
   {
-   "symbol": "SRV.R",
-   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRV.R"
+   "symbol": "SMFL",
+   "name": "Smart for Life, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMFL"
   },
   {
-   "symbol": "AAIC$B",
-   "name": "Arlington Asset Investment Corp 7.00% ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAIC$B"
+   "symbol": "SGEN",
+   "name": "Seagen Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SGEN"
   },
   {
-   "symbol": "OPS",
-   "name": "Opsens Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "OPS.TO",
-   "instruments": [
-    {
-     "name": "Opsens Inc. J",
-     "symbol": "OPS"
-    }
-   ]
+   "symbol": "VIIAU",
+   "name": "7GC \u0026 Co. Holdings Inc. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIIAU"
   },
   {
-   "symbol": "NM",
-   "name": "Navios Maritime Holdings Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NM"
-  },
-  {
-   "symbol": "ELIQ.W",
-   "name": "Electriq Power Holdings, Inc. Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ELIQ.W"
+   "symbol": "QLI",
+   "name": "Qilian International Holding Group Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QLI"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2023-12-14",
+ "date": "2023-12-15",
  "data": [
   {
    "symbol": "ONE",
@@ -12690,10 +12690,6 @@
     {
      "name": "NowVertical Group Inc.",
      "symbol": "NOW"
-    },
-    {
-     "name": "NowVertical Group Inc. wt 15Dec2023",
-     "symbol": "NOW.WT"
     },
     {
      "name": "NowVertical Group Inc. 05Oct2025",
@@ -48546,6 +48542,18 @@
    "yahoo_symbol": "BNTX"
   },
   {
+   "symbol": "BNZI",
+   "name": "Banzai International, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BNZI"
+  },
+  {
+   "symbol": "BNZIW",
+   "name": "Banzai International, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNZIW"
+  },
+  {
    "symbol": "BOCN",
    "name": "Blue Ocean Acquisition Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -48856,6 +48864,12 @@
    "name": "Bruush Oral Care Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BRSHW"
+  },
+  {
+   "symbol": "BRTR",
+   "name": "BlackRock Total Return ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRTR"
   },
   {
    "symbol": "BRTX",
@@ -49432,6 +49446,12 @@
    "name": "Baozun Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BZUN"
+  },
+  {
+   "symbol": "CA",
+   "name": "Xtrackers California Municipal Bonds ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CA"
   },
   {
    "symbol": "CAAS",
@@ -50560,12 +50580,6 @@
    "name": "VictoryShares Developed Enhanced Volatility Wtd ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CIZ"
-  },
-  {
-   "symbol": "CIZN",
-   "name": "Citizens Holding Company - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CIZN"
   },
   {
    "symbol": "CJET",
@@ -58830,6 +58844,12 @@
    "yahoo_symbol": "INGN"
   },
   {
+   "symbol": "INHD",
+   "name": "Inno Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INHD"
+  },
+  {
    "symbol": "INKT",
    "name": "MiNK Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67076,7 +67096,7 @@
   {
    "symbol": "QLI",
    "name": "Qilian International Holding Group Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QLI"
   },
   {
@@ -69024,12 +69044,6 @@
    "yahoo_symbol": "SGD"
   },
   {
-   "symbol": "SGEN",
-   "name": "Seagen Inc.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SGEN"
-  },
-  {
    "symbol": "SGH",
    "name": "SMART Global Holdings, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69600,12 +69614,6 @@
    "yahoo_symbol": "SMCP"
   },
   {
-   "symbol": "SMFL",
-   "name": "Smart for Life, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SMFL"
-  },
-  {
    "symbol": "SMH",
    "name": "VanEck Semiconductor ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -69811,7 +69819,7 @@
   },
   {
    "symbol": "SNTG",
-   "name": "Sentage Holdings Inc. - Ordinary shares",
+   "name": "Sentage Holdings Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SNTG"
   },
@@ -72798,6 +72806,12 @@
    "yahoo_symbol": "VCNX"
   },
   {
+   "symbol": "VCRB",
+   "name": "Vanguard Core Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VCRB"
+  },
+  {
    "symbol": "VCSA",
    "name": "Vacasa, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73006,24 +73020,6 @@
    "name": "Vigil Neuroscience, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VIGL"
-  },
-  {
-   "symbol": "VII",
-   "name": "7GC \u0026 Co. Holdings Inc. - Class A common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VII"
-  },
-  {
-   "symbol": "VIIAU",
-   "name": "7GC \u0026 Co. Holdings Inc. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VIIAU"
-  },
-  {
-   "symbol": "VIIAW",
-   "name": "7GC \u0026 Co. Holdings Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VIIAW"
   },
   {
    "symbol": "VINC",
@@ -86065,7 +86061,7 @@
   },
   {
    "symbol": "LU",
-   "name": "Lufax Holding Ltd American Depositary Shares, two of which representing one Ordinary Share",
+   "name": "Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "LU"
   },
@@ -95212,6 +95208,12 @@
    "name": "ZipRecruiter, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ZIP"
+  },
+  {
+   "symbol": "ZKH",
+   "name": "ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ZKH"
   },
   {
    "symbol": "ZOM",
