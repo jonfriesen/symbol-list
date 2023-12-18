@@ -1,5 +1,5 @@
 {
- "date": "2023-12-15",
+ "date": "2023-12-18",
  "data": [
   {
    "symbol": "ONE",
@@ -19034,18 +19034,6 @@
    ]
   },
   {
-   "symbol": "WHE",
-   "name": "Waroona Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WHE.V",
-   "instruments": [
-    {
-     "name": "Waroona Energy Inc.",
-     "symbol": "WHE"
-    }
-   ]
-  },
-  {
    "symbol": "WRI",
    "name": "Waseco Resources Inc.",
    "exchange": "TSXV",
@@ -20926,18 +20914,6 @@
     {
      "name": "AuroraCanbsJ 36Wt US",
      "symbol": "ACB.WT.V"
-    }
-   ]
-  },
-  {
-   "symbol": "HRR.UN",
-   "name": "Australian REIT Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "HRR.UN.TO",
-   "instruments": [
-    {
-     "name": "Australian REIT A Un",
-     "symbol": "HRR.UN"
     }
    ]
   },
@@ -23910,6 +23886,22 @@
    ]
   },
   {
+   "symbol": "ESP",
+   "name": "Brompton Energy Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ESP.TO",
+   "instruments": [
+    {
+     "name": "Brompton Oil Splt A",
+     "symbol": "ESP"
+    },
+    {
+     "name": "Brompton Oil Splt Pr",
+     "symbol": "ESP.PR.A"
+    }
+   ]
+  },
+  {
    "symbol": "BMAX",
    "name": "Brompton Enhanced Multi-Asset Income ETF",
    "exchange": "TSX",
@@ -24034,22 +24026,6 @@
     {
      "name": "BromptonNA LwVolDvCA",
      "symbol": "BLOV"
-    }
-   ]
-  },
-  {
-   "symbol": "OSP",
-   "name": "Brompton Oil Split Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "OSP.TO",
-   "instruments": [
-    {
-     "name": "Brompton Oil Splt A",
-     "symbol": "OSP"
-    },
-    {
-     "name": "Brompton Oil Splt Pr",
-     "symbol": "OSP.PR.A"
     }
    ]
   },
@@ -31310,22 +31286,6 @@
     {
      "name": "Guard i3 GlbGro Unhg",
      "symbol": "GIQG.B"
-    }
-   ]
-  },
-  {
-   "symbol": "GIGR",
-   "name": "Guardian i3 Global REIT ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "GIGR.TO",
-   "instruments": [
-    {
-     "name": "Guaridan i3 REIT Heg",
-     "symbol": "GIGR"
-    },
-    {
-     "name": "Guardian i3REIT Unhg",
-     "symbol": "GIGR.B"
     }
    ]
   },
@@ -39010,6 +38970,10 @@
     {
      "name": "Pembina Pipe Pr 19",
      "symbol": "PPL.PR.S"
+    },
+    {
+     "name": "Pembina Pipeline Rec",
+     "symbol": "PPL.R"
     }
    ]
   },
@@ -47690,6 +47654,12 @@
    "yahoo_symbol": "BATRK"
   },
   {
+   "symbol": "BAYAU",
+   "name": "Bayview Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAYAU"
+  },
+  {
    "symbol": "BBCP",
    "name": "Concrete Pumping Holdings, Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -48896,12 +48866,6 @@
    "yahoo_symbol": "BSBK"
   },
   {
-   "symbol": "BSCN",
-   "name": "Invesco BulletShares 2023 Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSCN"
-  },
-  {
    "symbol": "BSCO",
    "name": "Invesco BulletShares 2024 Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -48980,12 +48944,6 @@
    "yahoo_symbol": "BSGM"
   },
   {
-   "symbol": "BSJN",
-   "name": "Invesco BulletShares 2023 High Yield Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSJN"
-  },
-  {
    "symbol": "BSJO",
    "name": "Invesco BulletShares 2024 High Yield Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -49032,12 +48990,6 @@
    "name": "Invesco BulletShares 2031 High Yield Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BSJV"
-  },
-  {
-   "symbol": "BSMN",
-   "name": "Invesco BulletShares 2023 Municipal Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSMN"
   },
   {
    "symbol": "BSMO",
@@ -50534,12 +50486,6 @@
    "yahoo_symbol": "CINGW"
   },
   {
-   "symbol": "CIRC",
-   "name": "JPMorgan Sustainable Consumption ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CIRC"
-  },
-  {
    "symbol": "CISO",
    "name": "CISO Global, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -50736,6 +50682,12 @@
    "name": "BlackRock AAA CLO ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CLOA"
+  },
+  {
+   "symbol": "CLOD",
+   "name": "Themes Cloud Computing ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLOD"
   },
   {
    "symbol": "CLOE",
@@ -54854,6 +54806,12 @@
    "yahoo_symbol": "FID"
   },
   {
+   "symbol": "FINE",
+   "name": "Themes European Luxury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FINE"
+  },
+  {
    "symbol": "FINW",
    "name": "FinWise Bancorp - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -56030,24 +55988,6 @@
    "yahoo_symbol": "GDHG"
   },
   {
-   "symbol": "GDNR",
-   "name": "Gardiner Healthcare Acquisitions Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GDNR"
-  },
-  {
-   "symbol": "GDNRU",
-   "name": "Gardiner Healthcare Acquisitions Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GDNRU"
-  },
-  {
-   "symbol": "GDNRW",
-   "name": "Gardiner Healthcare Acquisitions Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GDNRW"
-  },
-  {
    "symbol": "GDRX",
    "name": "GoodRx Holdings, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -56934,6 +56874,12 @@
    "name": "Goosehead Insurance, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GSHD"
+  },
+  {
+   "symbol": "GSIB",
+   "name": "Themes Global Systemically Important Banks ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSIB"
   },
   {
    "symbol": "GSIT",
@@ -58160,12 +58106,6 @@
    "yahoo_symbol": "IBRX"
   },
   {
-   "symbol": "IBTD",
-   "name": "iShares iBonds Dec 2023 Term Treasury ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IBTD"
-  },
-  {
    "symbol": "IBTE",
    "name": "iShares iBonds Dec 2024 Term Treasury ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58668,12 +58608,6 @@
    "name": "ChipMOS TECHNOLOGIES INC. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IMOS"
-  },
-  {
-   "symbol": "IMPL",
-   "name": "Impel Pharmaceuticals Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IMPL"
   },
   {
    "symbol": "IMPP",
@@ -65396,12 +65330,6 @@
    "yahoo_symbol": "PCT"
   },
   {
-   "symbol": "PCTI",
-   "name": "PCTEL, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PCTI"
-  },
-  {
    "symbol": "PCTTU",
    "name": "PureCycle Technologies, Inc. - Unit",
    "exchange": "NASDAQ Capital Market",
@@ -71732,18 +71660,6 @@
    "yahoo_symbol": "TRIP"
   },
   {
-   "symbol": "TRKA",
-   "name": "Troika Media Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TRKA"
-  },
-  {
-   "symbol": "TRKAW",
-   "name": "Troika Media Group, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TRKAW"
-  },
-  {
    "symbol": "TRMB",
    "name": "Trimble Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72456,12 +72372,6 @@
    "name": "Upstart Holdings, Inc. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "UPST"
-  },
-  {
-   "symbol": "UPWD",
-   "name": "JPMorgan Social Advancement ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UPWD"
   },
   {
    "symbol": "UPWK",
@@ -80168,6 +80078,12 @@
    "yahoo_symbol": "DEA"
   },
   {
+   "symbol": "DEC",
+   "name": "Diversified Energy Company plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DEC"
+  },
+  {
    "symbol": "DECK",
    "name": "Deckers Outdoor Corporation Common Stock",
    "exchange": "NYSE",
@@ -80940,12 +80856,6 @@
    "name": "Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "EDF"
-  },
-  {
-   "symbol": "EDI",
-   "name": "Virtus Stone Harbor Emerging Markets Total Income Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EDI"
   },
   {
    "symbol": "EDN",
@@ -91628,6 +91538,12 @@
    "yahoo_symbol": "SIM"
   },
   {
+   "symbol": "SING",
+   "name": "SinglePoint Inc. Common Stock",
+   "exchange": "BATS",
+   "yahoo_symbol": "SING"
+  },
+  {
    "symbol": "SITC",
    "name": "SITE Centers Corp. Common Stock",
    "exchange": "NYSE",
@@ -93936,12 +93852,6 @@
    "name": "VALE S.A.  American Depositary Shares Each Representing one common share",
    "exchange": "NYSE",
    "yahoo_symbol": "VALE"
-  },
-  {
-   "symbol": "VAPO",
-   "name": "Vapotherm, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VAPO"
   },
   {
    "symbol": "VATE",
