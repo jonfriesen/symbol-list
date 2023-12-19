@@ -1,12 +1,23 @@
 {
  "added": [
   {
-   "symbol": "1000SATS",
-   "name": "SATS (1000SATS)"
+   "symbol": "GGM",
+   "name": "Monster Galaxy (GGM)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "TOKEN",
-   "name": "TokenFi (TOKEN)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FREL",
+   "name": "Freela (FREL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HVE2",
+   "name": "Uhive (HVE2)",
    "built_on": "ETH"
   },
   {
@@ -18,32 +29,36 @@
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "PSY",
-   "name": "PsyOptions (PSY)",
-   "built_on": "SOL"
+   "symbol": "AITECH",
+   "name": "Artificial Intelligence Utility Token (AITECH)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "CEJI",
-   "name": "Ceji (CEJI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "ARKER",
+   "name": "Arker (ARKER)",
+   "built_on": "BNB"
   }
  ],
  "removed": [
   {
-   "symbol": "PSY",
-   "name": "PsyOptions (PSY)"
+   "symbol": "ARKER",
+   "name": "Arker (ARKER)"
   },
   {
-   "symbol": "TOKEN",
-   "name": "TokenFi (TOKEN)"
+   "symbol": "HVE2",
+   "name": "Uhive (HVE2)"
   },
   {
-   "symbol": "CEJI",
-   "name": "Ceji (CEJI)"
+   "symbol": "FREL",
+   "name": "Freela (FREL)"
+  },
+  {
+   "symbol": "GGM",
+   "name": "Monster Galaxy (GGM)"
+  },
+  {
+   "symbol": "AITECH",
+   "name": "Artificial Intelligence Utility Token (AITECH)"
   }
  ]
 }
