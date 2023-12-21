@@ -1,148 +1,132 @@
 {
  "added": [
   {
-   "symbol": "CUB",
-   "name": "Cubicfarm Systems Corporation",
+   "symbol": "EWS",
+   "name": "Environmental Waste International Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CUB.V",
+   "yahoo_symbol": "EWS.V",
    "instruments": [
     {
-     "name": "CubicFarm Systems Corp.",
-     "symbol": "CUB"
-    },
-    {
-     "name": "CubicFarm Systems Corp. db 02Jun2027",
-     "symbol": "CUB.DB"
+     "name": "Environmental Waste International Inc.",
+     "symbol": "EWS"
     }
    ]
   },
   {
-   "symbol": "HASH",
-   "name": "Simply Solventless Concentrates Ltd.",
+   "symbol": "LVG",
+   "name": "Lake Victoria Gold Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "HASH.V",
+   "yahoo_symbol": "LVG.V",
    "instruments": [
     {
-     "name": "Simply Solventless Concentrates Ltd.",
-     "symbol": "HASH"
+     "name": "Lake Victoria Gold Ltd.",
+     "symbol": "LVG"
     }
    ]
   },
   {
-   "symbol": "LGCB",
-   "name": "Linkage Global Inc - Ordinary Shares",
+   "symbol": "IGBT.UN",
+   "name": "2028 Investment Grade Bond Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGBT.UN.TO",
+   "instruments": [
+    {
+     "name": "2028 InvGrd Bnd F Un",
+     "symbol": "IGBT.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "ABCS",
+   "name": "Alpha Blue Capital US Small-Mid Cap Dynamic ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABCS"
+  },
+  {
+   "symbol": "INTE",
+   "name": "Integral Acquisition Corporation 1 - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGCB"
+   "yahoo_symbol": "INTE"
   },
   {
-   "symbol": "MFICL",
-   "name": "MidCap Financial Investment Corporation - 8.00% Notes due 2028",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MFICL"
-  },
-  {
-   "symbol": "MSAI",
-   "name": "Infrared Cameras Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSAI"
-  },
-  {
-   "symbol": "MSAIW",
-   "name": "Infrared Cameras Holdings, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSAIW"
-  },
-  {
-   "symbol": "VSTE",
-   "name": "Vast Renewables Limited - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VSTE"
-  },
-  {
-   "symbol": "VSTEW",
-   "name": "Vast Renewables Limited - Warrants",
+   "symbol": "INTEU",
+   "name": "Integral Acquisition Corporation 1 - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSTEW"
+   "yahoo_symbol": "INTEU"
   },
   {
-   "symbol": "CDLR",
-   "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CDLR"
+   "symbol": "INTEW",
+   "name": "Integral Acquisition Corporation 1 - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTEW"
+  },
+  {
+   "symbol": "WTBN",
+   "name": "WisdomTree Bianco Total Return Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTBN"
   }
  ],
  "removed": [
   {
-   "symbol": "BHIL.W",
-   "name": "Benson Hill, Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BHIL.W"
-  },
-  {
-   "symbol": "FTCH",
-   "name": "Farfetch Limited Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FTCH"
-  },
-  {
-   "symbol": "SMAPW",
-   "name": "SportsMap Tech Acquisition Corp. - Warrants",
+   "symbol": "INTEU",
+   "name": "Integral Acquisition Corporation 1 - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMAPW"
+   "yahoo_symbol": "INTEU"
   },
   {
-   "symbol": "CUEN",
-   "name": "Cuentas, Inc. - Common Stock",
+   "symbol": "HCDIW",
+   "name": "Harbor Custom Development, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CUEN"
+   "yahoo_symbol": "HCDIW"
   },
   {
-   "symbol": "SMAP",
-   "name": "SportsMap Tech Acquisition Corp. - Common Stock",
+   "symbol": "INTEW",
+   "name": "Integral Acquisition Corporation 1 - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMAP"
+   "yahoo_symbol": "INTEW"
   },
   {
-   "symbol": "CUENW",
-   "name": "Cuentas, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CUENW"
-  },
-  {
-   "symbol": "MCOM",
-   "name": "micromobility.com Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCOM"
-  },
-  {
-   "symbol": "MCOMW",
-   "name": "micromobility.com Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCOMW"
-  },
-  {
-   "symbol": "DCX.P",
-   "name": "Dash Capital Corp.",
+   "symbol": "TEM",
+   "name": "Tembo Gold Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DCX.P.V",
+   "yahoo_symbol": "TEM.V",
    "instruments": [
     {
-     "name": "Dash Capital Corp.",
-     "symbol": "DCX.P"
+     "name": "Tembo Gold Corp.",
+     "symbol": "TEM"
     }
    ]
   },
   {
-   "symbol": "SMAPU",
-   "name": "SportsMap Tech Acquisition Corp. - Units",
+   "symbol": "INTE",
+   "name": "Integral Acquisition Corporation 1 - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMAPU"
+   "yahoo_symbol": "INTE"
   },
   {
-   "symbol": "CDLR.V",
-   "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares) When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CDLR.V"
+   "symbol": "HCDI",
+   "name": "Harbor Custom Development, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCDI"
+  },
+  {
+   "symbol": "PFIN",
+   "name": "P \u0026 F Industries, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFIN"
+  },
+  {
+   "symbol": "HCDIP",
+   "name": "Harbor Custom Development, Inc. - 8.0% Series A Cumulative Convertible Preferred Stock, no par value",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCDIP"
+  },
+  {
+   "symbol": "HCDIZ",
+   "name": "Harbor Custom Development, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCDIZ"
   }
  ]
 }
