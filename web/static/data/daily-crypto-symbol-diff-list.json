@@ -1,40 +1,28 @@
 {
  "added": [
   {
-   "symbol": "TRAVA",
-   "name": "Trava Finance (TRAVA)",
-   "built_on": "BNB"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CPU",
+   "name": "CPUcoin (CPU)",
    "built_on": "ETH"
   },
   {
    "symbol": "DOG",
    "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MNFT",
-   "name": "Marvelous NFTs (MNFT)",
-   "built_on": "MATIC"
   }
  ],
  "removed": [
   {
-   "symbol": "TRAVA",
-   "name": "Trava Finance (TRAVA)"
-  },
-  {
-   "symbol": "MNFT",
-   "name": "Marvelous NFTs (MNFT)",
-   "built_on": "BNB"
+   "symbol": "CPU",
+   "name": "CPUcoin (CPU)"
   }
  ]
 }
