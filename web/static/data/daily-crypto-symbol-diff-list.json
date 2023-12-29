@@ -1,22 +1,22 @@
 {
  "added": [
   {
-   "symbol": "XIDR",
-   "name": "XIDR (XIDR)",
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GCAKE",
+   "name": "Pancake Games (GCAKE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "sols",
-   "name": "SOLS (sols)"
+   "symbol": "HZN",
+   "name": "Horizon Protocol (HZN)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "Glo Dollar",
-   "name": "USDGLO (USDGLO)"
-  },
-  {
-   "symbol": "SAITA",
-   "name": "SaitaChain (SAITA)",
-   "built_on": "ETH"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
    "symbol": "G",
@@ -24,56 +24,23 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "MOONEY",
-   "name": "Moon DAO (MOONEY)",
-   "built_on": "ETH"
+   "symbol": "WIF",
+   "name": "dogwifhat (WIF)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "JOY",
-   "name": "Joystream (JOY)"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "BKN",
-   "name": "Brickken (BKN)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "VOLTOLD",
-   "name": "Volt Inu (Old) (VOLTOLD)"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "JOYTOKEN",
-   "name": "Joycoin (JOYTOKEN)",
-   "built_on": "ETH"
+   "symbol": "OMV1",
+   "name": "OM Token (v1) (OMV1)"
   }
  ],
  "removed": [
   {
-   "symbol": "VOLTOLD",
-   "name": "Volt Inu (Old) (VOLTOLD)",
-   "built_on": "ETH"
+   "symbol": "GCAKE",
+   "name": "Pancake Games (GCAKE)"
   },
   {
-   "symbol": "MOONEY",
-   "name": "Moon DAO (MOONEY)"
-  },
-  {
-   "symbol": "BKN",
-   "name": "Brickken (BKN)"
-  },
-  {
-   "symbol": "JOY",
-   "name": "Joycoin (JOY)",
-   "built_on": "ETH"
+   "symbol": "HZN",
+   "name": "Horizon Protocol (HZN)"
   }
  ]
 }
