@@ -1,26 +1,8 @@
 {
  "added": [
   {
-   "symbol": "LP",
-   "name": "Liquid Protocol (LP)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BPRIVA",
-   "name": "Privapp Network (BPRIVA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "LEOX",
-   "name": "Galileo (LEOX)",
+   "symbol": "POLL",
+   "name": "Pollchain (POLL)",
    "built_on": "ETH"
   },
   {
@@ -28,23 +10,20 @@
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "INVI",
-   "name": "INVI Token (INVI)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "INVI",
-   "name": "INVI Token (INVI)"
-  },
-  {
-   "symbol": "LEOX",
-   "name": "Galileo (LEOX)"
-  },
-  {
-   "symbol": "BPRIVA",
-   "name": "Privapp Network (BPRIVA)"
+   "symbol": "POLL",
+   "name": "Pollchain (POLL)"
   }
  ]
 }

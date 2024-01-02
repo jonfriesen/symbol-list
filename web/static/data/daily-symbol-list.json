@@ -1,5 +1,5 @@
 {
- "date": "2024-01-01",
+ "date": "2024-01-02",
  "data": [
   {
    "symbol": "ONE",
@@ -16606,10 +16606,6 @@
     {
      "name": "Sparq Systems Inc.",
      "symbol": "SPRQ"
-    },
-    {
-     "name": "Sparq Systems Inc. wt 31Dec2023",
-     "symbol": "SPRQ.WT"
     }
    ]
   },
@@ -20054,10 +20050,6 @@
     {
      "name": "Aecon Group Inc.",
      "symbol": "ARE"
-    },
-    {
-     "name": "Aecon Group 5% Deb C",
-     "symbol": "ARE.DB.C"
     }
    ]
   },
@@ -25106,10 +25098,6 @@
     {
      "name": "Cargojet Inc. Com\u0026VV",
      "symbol": "CJT"
-    },
-    {
-     "name": "Cargojet 5.75% Deb D",
-     "symbol": "CJT.DB.D"
     },
     {
      "name": "Cargojet 5.75% Deb E",
@@ -38476,7 +38464,7 @@
    "yahoo_symbol": "NWH.DB.G.TO",
    "instruments": [
     {
-     "name": "NW Healthcare 2023Db",
+     "name": "NW Healthcare 2025Db",
      "symbol": "NWH.DB.G"
     },
     {
@@ -52390,12 +52378,6 @@
    "name": "Diodes Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DIOD"
-  },
-  {
-   "symbol": "DISH",
-   "name": "DISH Network Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DISH"
   },
   {
    "symbol": "DIST",
@@ -77856,24 +77838,6 @@
    "yahoo_symbol": "BYM"
   },
   {
-   "symbol": "BYN",
-   "name": "Banyan Acquisition Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BYN"
-  },
-  {
-   "symbol": "BYN.U",
-   "name": "Banyan Acquisition Corporation Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BYN.U"
-  },
-  {
-   "symbol": "BYN.W",
-   "name": "Banyan Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BYN.W"
-  },
-  {
    "symbol": "BYON",
    "name": "Beyond, Inc. Common Stock",
    "exchange": "NYSE",
@@ -81372,12 +81336,6 @@
    "yahoo_symbol": "ETY"
   },
   {
-   "symbol": "EU",
-   "name": "enCore Energy Corp. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "EU"
-  },
-  {
    "symbol": "EURN",
    "name": "Euronav NV Ordinary Shares",
    "exchange": "NYSE",
@@ -82141,13 +82099,13 @@
   },
   {
    "symbol": "FREY",
-   "name": "FREYR Battery Ordinary Shares",
+   "name": "FREYR Battery, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FREY"
   },
   {
    "symbol": "FREY.W",
-   "name": "FREYR Battery Warrants, each whole warrant exercisable to purchase one Ordinary Share at an exercise price of $11.50 per share",
+   "name": "FREYR Battery Warrants each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
    "exchange": "NYSE",
    "yahoo_symbol": "FREY.W"
   },
@@ -82690,12 +82648,6 @@
    "name": "Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "GIL"
-  },
-  {
-   "symbol": "GIM",
-   "name": "Templeton Global Income Fund, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GIM"
   },
   {
    "symbol": "GIS",
@@ -84996,6 +84948,12 @@
    "yahoo_symbol": "KIM$M"
   },
   {
+   "symbol": "KIM$N",
+   "name": "Kimco Realty Corporation Depositary Shares, each representing 1/1,000th interest in a share of 7.25% Class N Cumulative Convertible Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KIM$N"
+  },
+  {
    "symbol": "KIND",
    "name": "Nextdoor Holdings, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -85321,7 +85279,7 @@
   },
   {
    "symbol": "LAZ",
-   "name": "Lazard LTD. Lazard, LTD. Class A Common Stock",
+   "name": "Lazard, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LAZ"
   },
@@ -87474,18 +87432,6 @@
    "yahoo_symbol": "NMI"
   },
   {
-   "symbol": "NMK$B",
-   "name": "Niagara Mohawk Holdings, Inc. Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NMK$B"
-  },
-  {
-   "symbol": "NMK$C",
-   "name": "Niagara Mohawk Holdings, Inc. Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NMK$C"
-  },
-  {
    "symbol": "NML",
    "name": "Neuberger Berman Energy Infrastructure and Income Fund Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -89316,6 +89262,18 @@
    "yahoo_symbol": "PNR"
   },
   {
+   "symbol": "PNST",
+   "name": "Pinstripes Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNST"
+  },
+  {
+   "symbol": "PNST.W",
+   "name": "Pinstripes Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNST.W"
+  },
+  {
    "symbol": "PNW",
    "name": "Pinnacle West Capital Corporation Common Stock",
    "exchange": "NYSE",
@@ -90426,18 +90384,6 @@
    "yahoo_symbol": "RPM"
   },
   {
-   "symbol": "RPT",
-   "name": "RPT Realty Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RPT"
-  },
-  {
-   "symbol": "RPT$D",
-   "name": "RPT Realty 7.25% ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RPT$D"
-  },
-  {
    "symbol": "RQI",
    "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc Common Shares",
    "exchange": "NYSE",
@@ -90610,6 +90556,12 @@
    "name": "Seabridge Gold, Inc. Ordinary Shares (Canada)",
    "exchange": "NYSE",
    "yahoo_symbol": "SA"
+  },
+  {
+   "symbol": "SABA",
+   "name": "Saba Capital Income \u0026 Opportunities Fund II Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SABA"
   },
   {
    "symbol": "SACC",
