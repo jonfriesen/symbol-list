@@ -1,8 +1,37 @@
 {
  "added": [
   {
-   "symbol": "POLL",
-   "name": "Pollchain (POLL)",
+   "symbol": "IQT",
+   "name": "IQ Protocol (IQT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BACON",
+   "name": "BaconDAO (BACON) (BACON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DZOO",
+   "name": "Degen Zoo (DZOO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "BABYGROK",
+   "name": "Baby Grok (BABYGROK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FERMA",
+   "name": "Ferma (FERMA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROCKI",
+   "name": "Rocki (ROCKI)",
    "built_on": "ETH"
   },
   {
@@ -13,17 +42,20 @@
    "symbol": "G",
    "name": "GRN Grid (G)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "POLL",
-   "name": "Pollchain (POLL)"
+   "symbol": "FERMA",
+   "name": "Ferma (FERMA)"
+  },
+  {
+   "symbol": "BACON",
+   "name": "BaconDAO (BACON) (BACON)"
+  },
+  {
+   "symbol": "ROCKI",
+   "name": "Rocki (ROCKI)"
   }
  ]
 }

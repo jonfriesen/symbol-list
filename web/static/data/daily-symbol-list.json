@@ -1,5 +1,5 @@
 {
- "date": "2024-01-02",
+ "date": "2024-01-03",
  "data": [
   {
    "symbol": "ONE",
@@ -20500,10 +20500,6 @@
      "symbol": "ALA.PR.B"
     },
     {
-     "name": "AltaGas Ltd Sr E Pr",
-     "symbol": "ALA.PR.E"
-    },
-    {
      "name": "AltaGas Ltd Sr G Pr",
      "symbol": "ALA.PR.G"
     },
@@ -28312,10 +28308,6 @@
      "symbol": "EFN.DB.B"
     },
     {
-     "name": "Element Fleet Pr A",
-     "symbol": "EFN.PR.A"
-    },
-    {
      "name": "Element Fleet Pr C",
      "symbol": "EFN.PR.C"
     },
@@ -29830,10 +29822,6 @@
     {
      "name": "Firm Cap Mtg Invest ",
      "symbol": "FC"
-    },
-    {
-     "name": "Firm Cap Mtg 5.2% Db",
-     "symbol": "FC.DB.G"
     },
     {
      "name": "Firm Cap Mtg 5.3% Db",
@@ -45660,6 +45648,18 @@
    "yahoo_symbol": "AISPW"
   },
   {
+   "symbol": "AITR",
+   "name": "AI TRANSPORTATION ACQUISITION CORP - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AITR"
+  },
+  {
+   "symbol": "AITRR",
+   "name": "AI TRANSPORTATION ACQUISITION CORP - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AITRR"
+  },
+  {
    "symbol": "AITRU",
    "name": "AI TRANSPORTATION ACQUISITION CORP - Unit",
    "exchange": "NASDAQ Capital Market",
@@ -53770,6 +53770,12 @@
    "name": "Etsy, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ETSY"
+  },
+  {
+   "symbol": "EU",
+   "name": "enCore Energy Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EU"
   },
   {
    "symbol": "EUDA",
@@ -66511,7 +66517,7 @@
   },
   {
    "symbol": "PWM",
-   "name": "Prestige Wealth Inc. - Ordinary Shares",
+   "name": "Prestige Wealth Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PWM"
   },
@@ -74680,24 +74686,6 @@
    "name": "ADC Therapeutics SA Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "ADCT"
-  },
-  {
-   "symbol": "ADEX",
-   "name": "Adit EdTech Acquisition Corp. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADEX"
-  },
-  {
-   "symbol": "ADEX.U",
-   "name": "Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADEX.U"
-  },
-  {
-   "symbol": "ADEX.W",
-   "name": "Adit EdTech Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADEX.W"
   },
   {
    "symbol": "ADM",
