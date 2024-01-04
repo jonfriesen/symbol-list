@@ -1,42 +1,54 @@
 {
  "added": [
   {
-   "symbol": "AITR",
-   "name": "AI TRANSPORTATION ACQUISITION CORP - Ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AITR"
+   "symbol": "ANSC",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSC"
   },
   {
-   "symbol": "AITRR",
-   "name": "AI TRANSPORTATION ACQUISITION CORP - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AITRR"
+   "symbol": "ANSCW",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSCW"
   },
   {
-   "symbol": "EU",
-   "name": "enCore Energy Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EU"
+   "symbol": "ALTM",
+   "name": "Arcadium Lithium plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALTM"
   }
  ],
  "removed": [
   {
-   "symbol": "ADEX.W",
-   "name": "Adit EdTech Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADEX.W"
+   "symbol": "MAW",
+   "name": "Mawson Gold Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAW.TO",
+   "instruments": [
+    {
+     "name": "Mawson Gold Ltd. J",
+     "symbol": "MAW"
+    }
+   ]
   },
   {
-   "symbol": "ADEX.U",
-   "name": "Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADEX.U"
+   "symbol": "LTHM",
+   "name": "Livent Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LTHM"
   },
   {
-   "symbol": "ADEX",
-   "name": "Adit EdTech Acquisition Corp. Common Stock",
+   "symbol": "MPLN.W",
+   "name": "MultiPlan Corporation Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MPLN.W"
+  },
+  {
+   "symbol": "MRT.W",
+   "name": "Marti Technologies, Inc. Warrants, each whole warrant exercisable for one class A ordinary share at an exercise price of $11.50",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADEX"
+   "yahoo_symbol": "MRT.W"
   }
  ]
 }

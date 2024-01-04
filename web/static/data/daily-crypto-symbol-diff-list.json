@@ -1,18 +1,41 @@
 {
  "added": [
   {
-   "symbol": "IQT",
-   "name": "IQ Protocol (IQT)",
+   "symbol": "BEN",
+   "name": "Ben (BEN)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BACON",
-   "name": "BaconDAO (BACON) (BACON)",
+   "symbol": "ISLM",
+   "name": "Islamic Coin (ISLM)"
+  },
+  {
+   "symbol": "PYM",
+   "name": "Playermon (PYM)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MOBILE",
+   "name": "Helium Mobile (MOBILE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STZ",
+   "name": "99Starz (STZ)",
    "built_on": "ETH"
   },
   {
-   "symbol": "DZOO",
-   "name": "Degen Zoo (DZOO)",
+   "symbol": "GEOD",
+   "name": "GEODNET (GEOD)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
@@ -20,42 +43,27 @@
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "BABYGROK",
-   "name": "Baby Grok (BABYGROK)",
+   "symbol": "SBCC",
+   "name": "Smart Block Chain City (SBCC)",
    "built_on": "BNB"
-  },
-  {
-   "symbol": "FERMA",
-   "name": "Ferma (FERMA)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "ROCKI",
-   "name": "Rocki (ROCKI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "FERMA",
-   "name": "Ferma (FERMA)"
+   "symbol": "STZ",
+   "name": "99Starz (STZ)"
   },
   {
-   "symbol": "BACON",
-   "name": "BaconDAO (BACON) (BACON)"
+   "symbol": "SBCC",
+   "name": "Smart Block Chain City (SBCC)"
   },
   {
-   "symbol": "ROCKI",
-   "name": "Rocki (ROCKI)"
+   "symbol": "PYM",
+   "name": "Playermon (PYM)"
+  },
+  {
+   "symbol": "BEN",
+   "name": "BitCOEN (BEN)"
   }
  ]
 }
