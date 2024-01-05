@@ -1,41 +1,18 @@
 {
  "added": [
   {
-   "symbol": "BEN",
-   "name": "Ben (BEN)",
+   "symbol": "MYTH",
+   "name": "Mythos (MYTH)",
    "built_on": "ETH"
   },
   {
-   "symbol": "ISLM",
-   "name": "Islamic Coin (ISLM)"
-  },
-  {
-   "symbol": "PYM",
-   "name": "Playermon (PYM)",
-   "built_on": "MATIC"
-  },
-  {
-   "symbol": "MOBILE",
-   "name": "Helium Mobile (MOBILE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "STZ",
-   "name": "99Starz (STZ)",
+   "symbol": "MNFT",
+   "name": "Mongol NFT (MNFT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GEOD",
-   "name": "GEODNET (GEOD)",
-   "built_on": "MATIC"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
+   "symbol": "AKTIO",
+   "name": "AKTIO Coin (AKTIO)",
    "built_on": "ETH"
   },
   {
@@ -43,27 +20,54 @@
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "SBCC",
-   "name": "Smart Block Chain City (SBCC)",
-   "built_on": "BNB"
+   "symbol": "1CAT",
+   "name": "Bitcoin Cats (1CAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MNFTS",
+   "name": "Marvelous NFTs (MNFTS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEOW",
+   "name": "Zero Tech (MEOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VANRY",
+   "name": "Vanar Chain (VANRY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "STZ",
-   "name": "99Starz (STZ)"
+   "symbol": "MNFT",
+   "name": "Marvelous NFTs (MNFT)",
+   "built_on": "MATIC"
   },
   {
-   "symbol": "SBCC",
-   "name": "Smart Block Chain City (SBCC)"
+   "symbol": "AKTIO",
+   "name": "AKTIO Coin (AKTIO)"
   },
   {
-   "symbol": "PYM",
-   "name": "Playermon (PYM)"
+   "symbol": "ZERO",
+   "name": "Zero Tech (ZERO)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "BEN",
-   "name": "BitCOEN (BEN)"
+   "symbol": "MYTH",
+   "name": "Mythos (MYTH)"
   }
  ]
 }

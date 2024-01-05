@@ -1,54 +1,66 @@
 {
  "added": [
   {
-   "symbol": "ANSC",
-   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANSC"
+   "symbol": "AOCC.P",
+   "name": "Artrari One Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AOCC.P.V",
+   "instruments": [
+    {
+     "name": "Artrari One Capital Corp.",
+     "symbol": "AOCC.P"
+    }
+   ]
   },
-  {
-   "symbol": "ANSCW",
-   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANSCW"
-  },
-  {
-   "symbol": "ALTM",
-   "name": "Arcadium Lithium plc Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ALTM"
-  }
- ],
- "removed": [
   {
    "symbol": "MAW",
    "name": "Mawson Gold Limited",
-   "exchange": "TSX",
-   "yahoo_symbol": "MAW.TO",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MAW.V",
    "instruments": [
     {
-     "name": "Mawson Gold Ltd. J",
+     "name": "Mawson Gold Limited",
      "symbol": "MAW"
     }
    ]
   },
   {
-   "symbol": "LTHM",
-   "name": "Livent Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LTHM"
+   "symbol": "SAVAW",
+   "name": "Cassava Sciences, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAVAW"
   },
   {
-   "symbol": "MPLN.W",
-   "name": "MultiPlan Corporation Warrants",
+   "symbol": "SKRE",
+   "name": "Tuttle Capital Daily 2X Inverse Regional Banks ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKRE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SRT",
+   "name": "StarTek, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MPLN.W"
+   "yahoo_symbol": "SRT"
   },
   {
-   "symbol": "MRT.W",
-   "name": "Marti Technologies, Inc. Warrants, each whole warrant exercisable for one class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MRT.W"
+   "symbol": "HALL",
+   "name": "Hallmark Financial Services, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HALL"
+  },
+  {
+   "symbol": "NMRD",
+   "name": "Nemaura Medical Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NMRD"
+  },
+  {
+   "symbol": "CHS",
+   "name": "Chico's FAS, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CHS"
   }
  ]
 }
