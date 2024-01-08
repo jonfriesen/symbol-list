@@ -1,66 +1,96 @@
 {
  "added": [
   {
-   "symbol": "AOCC.P",
-   "name": "Artrari One Capital Corp.",
+   "symbol": "VOC.P",
+   "name": "Victory Opportunities 1 Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AOCC.P.V",
+   "yahoo_symbol": "VOC.P.V",
    "instruments": [
     {
-     "name": "Artrari One Capital Corp.",
-     "symbol": "AOCC.P"
+     "name": "Victory Opportunities 1 Corp.",
+     "symbol": "VOC.P"
     }
    ]
   },
   {
-   "symbol": "MAW",
-   "name": "Mawson Gold Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MAW.V",
-   "instruments": [
-    {
-     "name": "Mawson Gold Limited",
-     "symbol": "MAW"
-    }
-   ]
-  },
-  {
-   "symbol": "SAVAW",
-   "name": "Cassava Sciences, Inc. - Warrant",
+   "symbol": "SMX",
+   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SAVAW"
-  },
-  {
-   "symbol": "SKRE",
-   "name": "Tuttle Capital Daily 2X Inverse Regional Banks ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SKRE"
+   "yahoo_symbol": "SMX"
   }
  ],
  "removed": [
   {
-   "symbol": "SRT",
-   "name": "StarTek, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRT"
-  },
-  {
-   "symbol": "HALL",
-   "name": "Hallmark Financial Services, Inc. - Common Stock",
+   "symbol": "SMX",
+   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HALL"
+   "yahoo_symbol": "SMX"
   },
   {
-   "symbol": "NMRD",
-   "name": "Nemaura Medical Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NMRD"
+   "symbol": "AKE",
+   "name": "Allkem Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "AKE.TO",
+   "instruments": [
+    {
+     "name": "Allkem Limited Ord J",
+     "symbol": "AKE"
+    }
+   ]
   },
   {
-   "symbol": "CHS",
-   "name": "Chico's FAS, Inc. Common Stock",
+   "symbol": "TDSE",
+   "name": "Cabana Target Drawdown 16 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDSE"
+  },
+  {
+   "symbol": "SLGCW",
+   "name": "SomaLogic, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLGCW"
+  },
+  {
+   "symbol": "VST.A",
+   "name": "Vistra Corp. Warrants to purchase Common Stock (Expirig February 2, 2024)",
    "exchange": "NYSE",
-   "yahoo_symbol": "CHS"
+   "yahoo_symbol": "VST.A"
+  },
+  {
+   "symbol": "SLGC",
+   "name": "SomaLogic, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLGC"
+  },
+  {
+   "symbol": "CLSA",
+   "name": "Cabana Target Leading Sector Aggressive ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLSA"
+  },
+  {
+   "symbol": "TDSD",
+   "name": "Cabana Target Drawdown 13 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDSD"
+  },
+  {
+   "symbol": "CLSC",
+   "name": "Cabana Target Leading Sector Conservative ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLSC"
+  },
+  {
+   "symbol": "AAIN",
+   "name": "Arlington Asset Investment Corp 6.000% Senior Notes Due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAIN"
+  },
+  {
+   "symbol": "AIC",
+   "name": "Arlington Asset Investment Corp 6.750% Notes due 2025",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIC"
   }
  ]
 }

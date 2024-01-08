@@ -1539,6 +1539,7 @@ VTX,Vertex Resource Group Ltd.,TSXV,VTX.V,Vertex Resource Group Ltd.,VTX
 VERT,Vertical Exploration Inc.,TSXV,VERT.V,Vertical Exploration Inc.,VERT
 VCC.P,Veteran Capital Corp.,TSXV,VCC.P.V,Veteran Capital Corp.,VCC.P
 VMC,Vicinity Motor Corp.,TSXV,VMC.V,Vicinity Motor Corp.,VMC
+VOC.P,Victory Opportunities 1 Corp.,TSXV,VOC.P.V,Victory Opportunities 1 Corp.,VOC.P
 VIO,Vior Inc.,TSXV,VIO.V,Vior Inc.,VIO
 VIP,VIP Entertainment Technologies Inc.,TSXV,VIP.V,VIP Entertainment Technologies Inc.,VIP
 VML,Viscount Mining Corp.,TSXV,VML.V,Viscount Mining Corp.,VML
@@ -1670,7 +1671,6 @@ ATD,Alimentation Couche-Tard Inc.,TSX,ATD.TO,Alimentation Couche,ATD
 ALYA,Alithya Group inc.,TSX,ALYA.TO,Alithya Group J A SV,ALYA
 AAUC,Allied Gold Corporation,TSX,AAUC.TO,Allied Gold Corp,AAUC,Allied Gld Crp Db US,AAUC.DB.U
 AP.UN,Allied Properties Real Estate Investment Trust,TSX,AP.UN.TO,Allied Prop. REIT Un,AP.UN
-AKE,Allkem Limited,TSX,AKE.TO,Allkem Limited Ord J,AKE
 AMM,Almaden Minerals Ltd.,TSX,AMM.TO,Almaden Minerals,AMM
 AII,Almonty Industries Inc.,TSX,AII.TO,Almonty Industries J,AII
 ATCU,Alta Copper Corp.,TSX,ATCU.TO,Alta Copper Corp. J,ATCU
@@ -2176,7 +2176,7 @@ DRFU,Desjardins RI USA Multifactor - Net-Zero Emissions Pathway ETF,TSX,DRFU.TO,
 DSAE,Desjardins SocieTerra American Equity ETF,TSX,DSAE.TO,DesjardnSocieTerAmEq,DSAE
 DRFD,DesjardinsRIDeveloped ex-USAex-Canada Multifactor-Net-ZeroEmissionsPathwayETF,TSX,DRFD.TO,DesjardinsRI DevUSCA,DRFD
 DXT,Dexterra Group Inc.,TSX,DXT.TO,Dexterra Group Inc,DXT
-DRT,DIRTT Environmental Solutions Ltd.,TSX,DRT.TO,DIRTT Env Solution J,DRT,DIRTT Env SolutnJ Db,DRT.DB,DIRTT EnvSolJ 6.25Db,DRT.DB.A,DRTT Env Solutn J Rt,DRT.RT
+DRT,DIRTT Environmental Solutions Ltd.,TSX,DRT.TO,DIRTT Env Solution J,DRT,DIRTT Env SolutnJ Db,DRT.DB,DIRTT EnvSolJ 6.25Db,DRT.DB.A
 DSV,Discovery Silver Corp.,TSX,DSV.TO,Discovery Slvr Crp J,DSV
 DIV,Diversified Royalty Corp.,TSX,DIV.TO,Divers Rylty Corp.,DIV,Divers Rylty 6% Deb,DIV.DB.A
 DFN,Dividend 15 Split Corp.,TSX,DFN.TO,Dividend 15 Splt A,DFN,Dividend 15 Splt Pr,DFN.PR.A
@@ -2905,6 +2905,7 @@ MFI,Maple Leaf Foods Inc.,TSX,MFI.TO,Maple Leaf Foods Inc,MFI
 MOZ,Marathon Gold Corporation,TSX,MOZ.TO,Marathon Gold Corp J,MOZ
 MARI,Marimaca Copper Corp.,TSX,MARI.TO,Marimaca Copper J,MARI
 MRE,Martinrea International Inc.,TSX,MRE.TO,Martinrea Int'l Inc.,MRE
+MATR,Mattr Corp.,TSX,MATR.TO,Shawcor Ltd.,MATR
 MXG,Maxim Power Corp.,TSX,MXG.TO,Maxim Power Corp.,MXG
 MKP,MCAN Mortgage Corporation,TSX,MKP.TO,MCAN Mortgage Corp.,MKP
 MCB,McCoy Global Inc.,TSX,MCB.TO,McCoy Global Inc.,MCB
@@ -3190,7 +3191,6 @@ PME,Sentry Select Primary Metals Corp.,TSX,PME.TO,Sentry Prime Metal A,PME
 SEC,Senvest Capital Inc.,TSX,SEC.TO,Senvest Capital Inc,SEC
 SBI,Serabi Gold plc,TSX,SBI.TO,Serabi Gld plc Ord J,SBI
 SVA,Sernova Corp.,TSX,SVA.TO,Sernova Corp. J,SVA
-MATR,Shawcor Ltd.,TSX,MATR.TO,Shawcor Ltd.,MATR
 S,Sherritt International Corporation,TSX,S.TO,Sherritt Int'l Corp,S
 SHOP,Shopify Inc.,TSX,SHOP.TO,Shopify Inc A SV,SHOP
 SIA,Sienna Senior Living Inc.,TSX,SIA.TO,Sienna Senior Living,SIA
@@ -3951,7 +3951,7 @@ BAOS,Baosheng Media Group Holdings Limited - Ordinary shares,NASDAQ Capital Mark
 BASE,"Couchbase, Inc. - Common Stock",NASDAQ Global Select MarketSM,BASE
 BATRA,"Atlanta Braves Holdings, Inc. - Series A Common Stock",NASDAQ Global Select MarketSM,BATRA
 BATRK,"Atlanta Braves Holdings, Inc. - Series C Common Stock",NASDAQ Global Select MarketSM,BATRK
-BAYA,Bayview Acquisition Corp - Class A Ordinary Share,NASDAQ Global MarketSM,BAYA
+BAYA,Bayview Acquisition Corp - Ordinary Share,NASDAQ Global MarketSM,BAYA
 BAYAR,Bayview Acquisition Corp - Right,NASDAQ Global MarketSM,BAYAR
 BAYAU,Bayview Acquisition Corp - Unit,NASDAQ Global MarketSM,BAYAU
 BBCP,"Concrete Pumping Holdings, Inc.  - Common Stock",NASDAQ Capital Market,BBCP
@@ -4456,8 +4456,6 @@ CLRCR,ClimateRock - Right,NASDAQ Global MarketSM,CLRCR
 CLRCU,ClimateRock - Unit,NASDAQ Global MarketSM,CLRCU
 CLRCW,ClimateRock - Warrant,NASDAQ Global MarketSM,CLRCW
 CLRO,"ClearOne, Inc. - Common Stock",NASDAQ Capital Market,CLRO
-CLSA,Cabana Target Leading Sector Aggressive ETF,NASDAQ Global MarketSM,CLSA
-CLSC,Cabana Target Leading Sector Conservative ETF,NASDAQ Global MarketSM,CLSC
 CLSD,"Clearside Biomedical, Inc. - Common Stock",NASDAQ Global MarketSM,CLSD
 CLSK,"CleanSpark, Inc. - Common Stock",NASDAQ Capital Market,CLSK
 CLSM,Cabana Target Leading Sector Moderate ETF,NASDAQ Global MarketSM,CLSM
@@ -7529,8 +7527,6 @@ SLDB,Solid Biosciences Inc. - Common Stock,NASDAQ Global Select MarketSM,SLDB
 SLDP,"Solid Power, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SLDP
 SLDPW,"Solid Power, Inc. - Warrant",NASDAQ Global Select MarketSM,SLDPW
 SLE,"Super League Enterprise, Inc. - Common Stock",NASDAQ Capital Market,SLE
-SLGC,"SomaLogic, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SLGC
-SLGCW,"SomaLogic, Inc. - Warrant",NASDAQ Global MarketSM,SLGCW
 SLGL,Sol-Gel Technologies Ltd. - Common Stock,NASDAQ Global MarketSM,SLGL
 SLM,SLM Corporation - Common Stock,NASDAQ Global Select MarketSM,SLM
 SLMBP,"SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B",NASDAQ Global Select MarketSM,SLMBP
@@ -7564,7 +7560,7 @@ SMRI,Bushido Capital US Equity ETF,NASDAQ Global MarketSM,SMRI
 SMSI,"Smith Micro Software, Inc. - Common Stock",NASDAQ Capital Market,SMSI
 SMTC,Semtech Corporation - Common Stock,NASDAQ Global Select MarketSM,SMTC
 SMTI,Sanara MedTech Inc. - Common Stock,NASDAQ Capital Market,SMTI
-SMX,SMX (Security Matters) Public Limited Company - Class A Ordinary Shares,NASDAQ Global MarketSM,SMX
+SMX,SMX (Security Matters) Public Limited Company - Class A Ordinary Shares,NASDAQ Capital Market,SMX
 SMXWW,SMX (Security Matters) Public Limited Company - Warrant,NASDAQ Capital Market,SMXWW
 SNAL,"Snail, Inc. - Class A Common Stock",NASDAQ Capital Market,SNAL
 SNAX,"Stryve Foods, Inc. - Class A Common Stock",NASDAQ Capital Market,SNAX
@@ -7803,10 +7799,8 @@ TCRX,"TScan Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TCRX
 TCX,Tucows Inc. - Common Stock,NASDAQ Capital Market,TCX
 TDI,Touchstone Dynamic International ETF,NASDAQ Global MarketSM,TDI
 TDIV,First Trust NASDAQ Technology Dividend Index Fund,NASDAQ Global MarketSM,TDIV
-TDSB,Cabana Target Drawdown 7 ETF,NASDAQ Global MarketSM,TDSB
+TDSB,Cabana Target Beta ETF,NASDAQ Global MarketSM,TDSB
 TDSC,Cabana Target Drawdown 10 ETF,NASDAQ Global MarketSM,TDSC
-TDSD,Cabana Target Drawdown 13 ETF,NASDAQ Global MarketSM,TDSD
-TDSE,Cabana Target Drawdown 16 ETF,NASDAQ Global MarketSM,TDSE
 TDUP,ThredUp Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,TDUP
 TEAM,Atlassian Corporation  - Class A Common Stock,NASDAQ Global Select MarketSM,TEAM
 TECH,Bio-Techne Corp - Common Stock,NASDAQ Global Select MarketSM,TECH
@@ -8423,7 +8417,6 @@ AA,Alcoa Corporation Common Stock ,NYSE,AA
 AACT,Ares Acquisition Corporation II Class A Ordinary Shares,NYSE,AACT
 AACT.U,"Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,AACT.U
 AACT.W,"Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,AACT.W
-AAIN,Arlington Asset Investment Corp 6.000% Senior Notes Due 2026,NYSE,AAIN
 AAMC,Altisource Asset Management Corp Com,NYSE MKT,AAMC
 AAN,"Aarons Holdings Company, Inc. Common Stock ",NYSE,AAN
 AAP,Advance Auto Parts Inc.,NYSE,AAP
@@ -8522,7 +8515,6 @@ AHT$G,Ashford Hospitality Trust Inc 7.375% Series G Cumulative Preferred Stock,N
 AHT$H,Ashford Hospitality Trust Inc 7.50% Series H Cumulative Preferred Stock,NYSE,AHT$H
 AHT$I,Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock,NYSE,AHT$I
 AI,"C3.ai, Inc. Class A Common Stock",NYSE,AI
-AIC,Arlington Asset Investment Corp 6.750% Notes due 2025,NYSE,AIC
 AIF,Apollo Tactical Income Fund Inc. Common Stock,NYSE,AIF
 AIG,"American International Group, Inc. New Common Stock",NYSE,AIG
 AIG$A,"American International Group, Inc. Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series A 5.85% Non-Cumulative Perpetual Preferred Stock",NYSE,AIG$A
@@ -11645,7 +11637,6 @@ VRT,"Vertiv Holdings, LLC Class A Common Stock",NYSE,VRT
 VSCO,Victorias Secret & Co. Common Stock ,NYSE,VSCO
 VSH,"Vishay Intertechnology, Inc. Common Stock",NYSE,VSH
 VST,Vistra Corp. Common Stock,NYSE,VST
-VST.A,"Vistra Corp. Warrants to purchase Common Stock (Expirig February 2, 2024)",NYSE,VST.A
 VSTO,Vista Outdoor Inc. Common Stock,NYSE,VSTO
 VSTS,Vestis Corporation Common Stock,NYSE,VSTS
 VTAK,"Catheter Precision, Inc. Common Stock",NYSE MKT,VTAK

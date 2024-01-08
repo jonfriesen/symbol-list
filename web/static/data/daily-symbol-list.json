@@ -1,5 +1,5 @@
 {
- "date": "2024-01-05",
+ "date": "2024-01-08",
  "data": [
   {
    "symbol": "ONE",
@@ -18782,6 +18782,18 @@
    ]
   },
   {
+   "symbol": "VOC.P",
+   "name": "Victory Opportunities 1 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOC.P.V",
+   "instruments": [
+    {
+     "name": "Victory Opportunities 1 Corp.",
+     "symbol": "VOC.P"
+    }
+   ]
+  },
+  {
    "symbol": "VIO",
    "name": "Vior Inc.",
    "exchange": "TSXV",
@@ -20454,18 +20466,6 @@
     {
      "name": "Allied Prop. REIT Un",
      "symbol": "AP.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "AKE",
-   "name": "Allkem Limited",
-   "exchange": "TSX",
-   "yahoo_symbol": "AKE.TO",
-   "instruments": [
-    {
-     "name": "Allkem Limited Ord J",
-     "symbol": "AKE"
     }
    ]
   },
@@ -27598,10 +27598,6 @@
     {
      "name": "DIRTT EnvSolJ 6.25Db",
      "symbol": "DRT.DB.A"
-    },
-    {
-     "name": "DRTT Env Solutn J Rt",
-     "symbol": "DRT.RT"
     }
    ]
   },
@@ -37406,6 +37402,18 @@
    ]
   },
   {
+   "symbol": "MATR",
+   "name": "Mattr Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MATR.TO",
+   "instruments": [
+    {
+     "name": "Shawcor Ltd.",
+     "symbol": "MATR"
+    }
+   ]
+  },
+  {
    "symbol": "MXG",
    "name": "Maxim Power Corp.",
    "exchange": "TSX",
@@ -41294,18 +41302,6 @@
     {
      "name": "Sernova Corp. J",
      "symbol": "SVA"
-    }
-   ]
-  },
-  {
-   "symbol": "MATR",
-   "name": "Shawcor Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MATR.TO",
-   "instruments": [
-    {
-     "name": "Shawcor Ltd.",
-     "symbol": "MATR"
     }
    ]
   },
@@ -47665,7 +47661,7 @@
   },
   {
    "symbol": "BAYA",
-   "name": "Bayview Acquisition Corp - Class A Ordinary Share",
+   "name": "Bayview Acquisition Corp - Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BAYA"
   },
@@ -50692,18 +50688,6 @@
    "name": "ClearOne, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CLRO"
-  },
-  {
-   "symbol": "CLSA",
-   "name": "Cabana Target Leading Sector Aggressive ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLSA"
-  },
-  {
-   "symbol": "CLSC",
-   "name": "Cabana Target Leading Sector Conservative ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLSC"
   },
   {
    "symbol": "CLSD",
@@ -69132,18 +69116,6 @@
    "yahoo_symbol": "SLE"
   },
   {
-   "symbol": "SLGC",
-   "name": "SomaLogic, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLGC"
-  },
-  {
-   "symbol": "SLGCW",
-   "name": "SomaLogic, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLGCW"
-  },
-  {
    "symbol": "SLGL",
    "name": "Sol-Gel Technologies Ltd. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -69344,7 +69316,7 @@
   {
    "symbol": "SMX",
    "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SMX"
   },
   {
@@ -70777,7 +70749,7 @@
   },
   {
    "symbol": "TDSB",
-   "name": "Cabana Target Drawdown 7 ETF",
+   "name": "Cabana Target Beta ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TDSB"
   },
@@ -70786,18 +70758,6 @@
    "name": "Cabana Target Drawdown 10 ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TDSC"
-  },
-  {
-   "symbol": "TDSD",
-   "name": "Cabana Target Drawdown 13 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDSD"
-  },
-  {
-   "symbol": "TDSE",
-   "name": "Cabana Target Drawdown 16 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDSE"
   },
   {
    "symbol": "TDUP",
@@ -74496,12 +74456,6 @@
    "yahoo_symbol": "AACT.W"
   },
   {
-   "symbol": "AAIN",
-   "name": "Arlington Asset Investment Corp 6.000% Senior Notes Due 2026",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAIN"
-  },
-  {
    "symbol": "AAMC",
    "name": "Altisource Asset Management Corp Com",
    "exchange": "NYSE MKT",
@@ -75088,12 +75042,6 @@
    "name": "C3.ai, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "AI"
-  },
-  {
-   "symbol": "AIC",
-   "name": "Arlington Asset Investment Corp 6.750% Notes due 2025",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AIC"
   },
   {
    "symbol": "AIF",
@@ -93826,12 +93774,6 @@
    "name": "Vistra Corp. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VST"
-  },
-  {
-   "symbol": "VST.A",
-   "name": "Vistra Corp. Warrants to purchase Common Stock (Expirig February 2, 2024)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VST.A"
   },
   {
    "symbol": "VSTO",
