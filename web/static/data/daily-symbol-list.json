@@ -1,5 +1,5 @@
 {
- "date": "2024-01-08",
+ "date": "2024-01-09",
  "data": [
   {
    "symbol": "ONE",
@@ -11966,6 +11966,18 @@
    ]
   },
   {
+   "symbol": "NTX",
+   "name": "NeoTerrex Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NTX.V",
+   "instruments": [
+    {
+     "name": "NeoTerrex Minerals Inc.",
+     "symbol": "NTX"
+    }
+   ]
+  },
+  {
    "symbol": "NDA",
    "name": "Neptune Digital Assets Corp.",
    "exchange": "TSXV",
@@ -12854,6 +12866,18 @@
     {
      "name": "O3 Mining Inc.",
      "symbol": "OIII"
+    }
+   ]
+  },
+  {
+   "symbol": "OAC.P",
+   "name": "Oa Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OAC.P.V",
+   "instruments": [
+    {
+     "name": "Oa Capital Corp.",
+     "symbol": "OAC.P"
     }
    ]
   },
@@ -16702,18 +16726,6 @@
     {
      "name": "Spectre Capital Corp.",
      "symbol": "SOO.P"
-    }
-   ]
-  },
-  {
-   "symbol": "FYRE.P",
-   "name": "Spitfyre Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FYRE.P.V",
-   "instruments": [
-    {
-     "name": "Spitfyre Capital Inc.",
-     "symbol": "FYRE.P"
     }
    ]
   },
@@ -28746,18 +28758,6 @@
    ]
   },
   {
-   "symbol": "EOX",
-   "name": "Euromax Resources Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "EOX.TO",
-   "instruments": [
-    {
-     "name": "Euromax Resources J",
-     "symbol": "EOX"
-    }
-   ]
-  },
-  {
    "symbol": "ERE.UN",
    "name": "European Residential Real Estate Investment Trust",
    "exchange": "TSX",
@@ -37408,7 +37408,7 @@
    "yahoo_symbol": "MATR.TO",
    "instruments": [
     {
-     "name": "Shawcor Ltd.",
+     "name": "Mattr Corp.",
      "symbol": "MATR"
     }
    ]
@@ -44826,30 +44826,6 @@
    "name": "Atlantic Coastal Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ACAHW"
-  },
-  {
-   "symbol": "ACAX",
-   "name": "Alset Capital Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAX"
-  },
-  {
-   "symbol": "ACAXR",
-   "name": "Alset Capital Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAXR"
-  },
-  {
-   "symbol": "ACAXU",
-   "name": "Alset Capital Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAXU"
-  },
-  {
-   "symbol": "ACAXW",
-   "name": "Alset Capital Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAXW"
   },
   {
    "symbol": "ACB",
@@ -57764,6 +57740,12 @@
    "yahoo_symbol": "HWCPZ"
   },
   {
+   "symbol": "HWH",
+   "name": "HWH International Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWH"
+  },
+  {
    "symbol": "HWKN",
    "name": "Hawkins, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -60750,18 +60732,6 @@
    "name": "First Trust Low Duration Opportunities ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LMBS"
-  },
-  {
-   "symbol": "LMDX",
-   "name": "LumiraDx Limited - Common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LMDX"
-  },
-  {
-   "symbol": "LMDXW",
-   "name": "LumiraDx Limited - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LMDXW"
   },
   {
    "symbol": "LMFA",
@@ -70146,30 +70116,6 @@
    "name": "Seagate Technology Holdings PLC - Ordinary Shares (Ireland)",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "STX"
-  },
-  {
-   "symbol": "STXD",
-   "name": "Strive 1000 Dividend Growth ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STXD"
-  },
-  {
-   "symbol": "STXG",
-   "name": "Strive 1000 Growth ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STXG"
-  },
-  {
-   "symbol": "STXK",
-   "name": "Strive Small-Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STXK"
-  },
-  {
-   "symbol": "STXV",
-   "name": "Strive 1000 Value ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STXV"
   },
   {
    "symbol": "SUNW",
@@ -90036,12 +89982,6 @@
    "name": "Sturm, Ruger \u0026 Company, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RGR"
-  },
-  {
-   "symbol": "RGS",
-   "name": "Regis Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RGS"
   },
   {
    "symbol": "RGT",

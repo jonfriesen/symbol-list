@@ -1,96 +1,126 @@
 {
  "added": [
   {
-   "symbol": "VOC.P",
-   "name": "Victory Opportunities 1 Corp.",
+   "symbol": "NTX",
+   "name": "NeoTerrex Minerals Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "VOC.P.V",
+   "yahoo_symbol": "NTX.V",
    "instruments": [
     {
-     "name": "Victory Opportunities 1 Corp.",
-     "symbol": "VOC.P"
+     "name": "NeoTerrex Minerals Inc.",
+     "symbol": "NTX"
     }
    ]
   },
   {
-   "symbol": "SMX",
-   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SMX"
+   "symbol": "OAC.P",
+   "name": "Oa Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OAC.P.V",
+   "instruments": [
+    {
+     "name": "Oa Capital Corp.",
+     "symbol": "OAC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "HWH",
+   "name": "HWH International Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWH"
   }
  ],
  "removed": [
   {
-   "symbol": "SMX",
-   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
+   "symbol": "ACAXR",
+   "name": "Alset Capital Acquisition Corp. - Right",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMX"
+   "yahoo_symbol": "ACAXR"
   },
   {
-   "symbol": "AKE",
-   "name": "Allkem Limited",
+   "symbol": "LMDX",
+   "name": "LumiraDx Limited - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LMDX"
+  },
+  {
+   "symbol": "STXG",
+   "name": "Strive 1000 Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STXG"
+  },
+  {
+   "symbol": "STXV",
+   "name": "Strive 1000 Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STXV"
+  },
+  {
+   "symbol": "ACAXU",
+   "name": "Alset Capital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAXU"
+  },
+  {
+   "symbol": "ACAX",
+   "name": "Alset Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAX"
+  },
+  {
+   "symbol": "STXD",
+   "name": "Strive 1000 Dividend Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STXD"
+  },
+  {
+   "symbol": "EOX",
+   "name": "Euromax Resources Ltd.",
    "exchange": "TSX",
-   "yahoo_symbol": "AKE.TO",
+   "yahoo_symbol": "EOX.TO",
    "instruments": [
     {
-     "name": "Allkem Limited Ord J",
-     "symbol": "AKE"
+     "name": "Euromax Resources J",
+     "symbol": "EOX"
     }
    ]
   },
   {
-   "symbol": "TDSE",
-   "name": "Cabana Target Drawdown 16 ETF",
+   "symbol": "STXK",
+   "name": "Strive Small-Cap ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDSE"
+   "yahoo_symbol": "STXK"
   },
   {
-   "symbol": "SLGCW",
-   "name": "SomaLogic, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLGCW"
-  },
-  {
-   "symbol": "VST.A",
-   "name": "Vistra Corp. Warrants to purchase Common Stock (Expirig February 2, 2024)",
+   "symbol": "RGS",
+   "name": "Regis Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "VST.A"
+   "yahoo_symbol": "RGS"
   },
   {
-   "symbol": "SLGC",
-   "name": "SomaLogic, Inc. - Class A Common Stock",
+   "symbol": "ACAXW",
+   "name": "Alset Capital Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLGC"
+   "yahoo_symbol": "ACAXW"
   },
   {
-   "symbol": "CLSA",
-   "name": "Cabana Target Leading Sector Aggressive ETF",
+   "symbol": "LMDXW",
+   "name": "LumiraDx Limited - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLSA"
+   "yahoo_symbol": "LMDXW"
   },
   {
-   "symbol": "TDSD",
-   "name": "Cabana Target Drawdown 13 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDSD"
-  },
-  {
-   "symbol": "CLSC",
-   "name": "Cabana Target Leading Sector Conservative ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLSC"
-  },
-  {
-   "symbol": "AAIN",
-   "name": "Arlington Asset Investment Corp 6.000% Senior Notes Due 2026",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAIN"
-  },
-  {
-   "symbol": "AIC",
-   "name": "Arlington Asset Investment Corp 6.750% Notes due 2025",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AIC"
+   "symbol": "FYRE.P",
+   "name": "Spitfyre Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FYRE.P.V",
+   "instruments": [
+    {
+     "name": "Spitfyre Capital Inc.",
+     "symbol": "FYRE.P"
+    }
+   ]
   }
  ]
 }

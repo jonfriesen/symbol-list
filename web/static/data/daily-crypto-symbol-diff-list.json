@@ -1,47 +1,73 @@
 {
  "added": [
   {
-   "symbol": "KYVE",
-   "name": "KYVE Network (KYVE)"
+   "symbol": "DCB",
+   "name": "Decubate (DCB)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "NSDX",
-   "name": "NASDEX (NSDX)",
-   "built_on": "MATIC"
+   "symbol": "SOLR",
+   "name": "SolRazr (SOLR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MJT",
+   "name": "MojitoSwap (MJT)",
+   "built_on": "KCS"
+  },
+  {
+   "symbol": "WZRD",
+   "name": "Wizardia (WZRD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BTT",
+   "name": "BitTorrent (BTT)"
+  },
+  {
+   "symbol": "ZOON",
+   "name": "CryptoZoon (ZOON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
    "symbol": "BANK",
    "name": "Float Protocol (BANK)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "ZKF",
-   "name": "ZKFair (ZKF)"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "NSDX",
-   "name": "NASDEX (NSDX)"
+   "symbol": "WZRD",
+   "name": "Wizardia (WZRD)"
   },
   {
-   "symbol": "BTN",
-   "name": "Bittron (BTN)"
+   "symbol": "SOLR",
+   "name": "SolRazr (SOLR)"
   },
   {
-   "symbol": "BTNT",
-   "name": "BitNautic (BTNT)",
+   "symbol": "MJT",
+   "name": "MojitoSwap (MJT)"
+  },
+  {
+   "symbol": "ZOON",
+   "name": "CryptoZoon (ZOON)"
+  },
+  {
+   "symbol": "BTT",
+   "name": "BitTorrent (BTT)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "DCB",
+   "name": "Decubate (DCB)"
   }
  ]
 }

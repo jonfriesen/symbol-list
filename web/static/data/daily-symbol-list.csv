@@ -981,6 +981,7 @@ NSCI,Nanalysis Scientific Corp.,TSXV,NSCI.V,Nanalysis Scientific Corp.,NSCI
 NAV,NAVCO Pharmaceuticals Inc.,TSXV,NAV.V,NAVCO Pharmaceuticals Inc.,NAV
 NAQ.P,Navigator Acquisition Corp.,TSXV,NAQ.P.V,Navigator Acquisition Corp.,NAQ.P
 NBM,NEO Battery Materials Ltd.,TSXV,NBM.V,NEO Battery Materials Ltd.,NBM
+NTX,NeoTerrex Minerals Inc.,TSXV,NTX.V,NeoTerrex Minerals Inc.,NTX
 NDA,Neptune Digital Assets Corp.,TSXV,NDA.V,Neptune Digital Assets Corp.,NDA
 NGEN,NervGen Pharma Corp.,TSXV,NGEN.V,Nervgen Pharma Corp.,NGEN
 NTE,Network Media Group Inc.,TSXV,NTE.V,Network Media Group Inc.,NTE
@@ -1054,6 +1055,7 @@ NUG,NuLegacy Gold Corporation,TSXV,NUG.V,Nulegacy Gold Corporation,NUG
 NRX,NurExone Biologic Inc.,TSXV,NRX.V,NurExone Biologic Inc.,NRX
 NVX,NV Gold Corporation,TSXV,NVX.V,NV Gold Corporation,NVX
 OIII,O3 Mining Inc.,TSXV,OIII.V,O3 Mining Inc.,OIII
+OAC.P,Oa Capital Corp.,TSXV,OAC.P.V,Oa Capital Corp.,OAC.P
 OCAP.P,Ocean Shore Capital Corp.,TSXV,OCAP.P.V,Ocean Shore Capital Corp.,OCAP.P
 FEO,Oceanic Iron Ore Corp.,TSXV,FEO.V,Oceanic Iron Ore Corp,FEO
 OSIX,Oceansix Future Paths Ltd.,TSXV,OSIX.V,Oceansix Future Paths Ltd.,OSIX
@@ -1368,7 +1370,6 @@ SPC,SPC Nickel Corp.,TSXV,SPC.V,SPC Nickel Corp.,SPC
 SSA,Spectra Products Inc.,TSXV,SSA.V,Spectra Products Inc.,SSA
 SEV,Spectra7 Microsystems Inc.,TSXV,SEV.V,Spectra7 Microsystems Inc.,SEV
 SOO.P,Spectre Capital Corp.,TSXV,SOO.P.V,Spectre Capital Corp.,SOO.P
-FYRE.P,Spitfyre Capital Inc.,TSXV,FYRE.P.V,Spitfyre Capital Inc.,FYRE.P
 SPP,Spot Coffee (Canada) Ltd.,TSXV,SPP.V,Spot Coffee (Canada) Ltd.,SPP
 SHL,Spruce Ridge Resources Ltd.,TSXV,SHL.V,Spruce Ridge Resources Ltd. ,SHL
 SRG,SRG Mining Inc.,TSXV,SRG.V,SRG Mining Inc.,SRG
@@ -2254,7 +2255,6 @@ ERO,Ero Copper Corp.,TSX,ERO.TO,Ero Copper Corp. J,ERO
 ETHR,Ether ETF,TSX,ETHR.TO,Ether ETF CADenom UH,ETHR,Ether ETF USDenom UH,ETHR.U
 EPRX,Eupraxia Pharmaceuticals Inc.,TSX,EPRX.TO,Eupraxia Pharma J,EPRX,Eupraxia Pharma J Wt,EPRX.WT,Eupraxia PharmaJ WtA,EPRX.WT.A
 ESM,Euro Sun Mining Inc.,TSX,ESM.TO,Euro Sun Mining J,ESM
-EOX,Euromax Resources Ltd.,TSX,EOX.TO,Euromax Resources J,EOX
 ERE.UN,European Residential Real Estate Investment Trust,TSX,ERE.UN.TO,European Res REIT Un,ERE.UN
 ET,Evertz Technologies Limited,TSX,ET.TO,Evertz Technologies,ET
 DIVS,Evolve Active Canadian Preferred Share Fund,TSX,DIVS.TO,Evolve CA Pref UnHeg,DIVS
@@ -2905,7 +2905,7 @@ MFI,Maple Leaf Foods Inc.,TSX,MFI.TO,Maple Leaf Foods Inc,MFI
 MOZ,Marathon Gold Corporation,TSX,MOZ.TO,Marathon Gold Corp J,MOZ
 MARI,Marimaca Copper Corp.,TSX,MARI.TO,Marimaca Copper J,MARI
 MRE,Martinrea International Inc.,TSX,MRE.TO,Martinrea Int'l Inc.,MRE
-MATR,Mattr Corp.,TSX,MATR.TO,Shawcor Ltd.,MATR
+MATR,Mattr Corp.,TSX,MATR.TO,Mattr Corp.,MATR
 MXG,Maxim Power Corp.,TSX,MXG.TO,Maxim Power Corp.,MXG
 MKP,MCAN Mortgage Corporation,TSX,MKP.TO,MCAN Mortgage Corp.,MKP
 MCB,McCoy Global Inc.,TSX,MCB.TO,McCoy Global Inc.,MCB
@@ -3479,10 +3479,6 @@ ACAD,ACADIA Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,AC
 ACAH,Atlantic Coastal Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,ACAH
 ACAHU,Atlantic Coastal Acquisition Corp. - Unit,NASDAQ Capital Market,ACAHU
 ACAHW,Atlantic Coastal Acquisition Corp. - Warrant,NASDAQ Capital Market,ACAHW
-ACAX,Alset Capital Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,ACAX
-ACAXR,Alset Capital Acquisition Corp. - Right,NASDAQ Global MarketSM,ACAXR
-ACAXU,Alset Capital Acquisition Corp. - Unit,NASDAQ Global MarketSM,ACAXU
-ACAXW,Alset Capital Acquisition Corp. - Warrant,NASDAQ Global MarketSM,ACAXW
 ACB,Aurora Cannabis Inc. - Common Shares,NASDAQ Capital Market,ACB
 ACBA,Ace Global Business Acquisition Limited - Ordinary Shares,NASDAQ Capital Market,ACBA
 ACBAU,Ace Global Business Acquisition Limited - Unit,NASDAQ Capital Market,ACBAU
@@ -5635,6 +5631,7 @@ HUT,Hut 8 Corp. - Common Stock,NASDAQ Global Select MarketSM,HUT
 HWBK,"Hawthorn Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,HWBK
 HWC,Hancock Whitney Corporation - Common Stock,NASDAQ Global Select MarketSM,HWC
 HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,NASDAQ Global Select MarketSM,HWCPZ
+HWH,HWH International Inc. - Common Stock,NASDAQ Global MarketSM,HWH
 HWKN,"Hawkins, Inc. - Common Stock",NASDAQ Global Select MarketSM,HWKN
 HYDR,Global X Hydrogen ETF,NASDAQ Global MarketSM,HYDR
 HYFM,"Hydrofarm Holdings Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,HYFM
@@ -6133,8 +6130,6 @@ LLYVK,Liberty Media Corporation - Series C Liberty Live Common Stock,NASDAQ Glob
 LMAT,"LeMaitre Vascular, Inc. - Common Stock",NASDAQ Global MarketSM,LMAT
 LMB,"Limbach Holdings, Inc. - Common Stock",NASDAQ Capital Market,LMB
 LMBS,First Trust Low Duration Opportunities ETF,NASDAQ Global MarketSM,LMBS
-LMDX,LumiraDx Limited - Common stock,NASDAQ Global MarketSM,LMDX
-LMDXW,LumiraDx Limited - Warrant,NASDAQ Global MarketSM,LMDXW
 LMFA,"LM Funding America, Inc. - Common Stock",NASDAQ Capital Market,LMFA
 LMNR,Limoneira Co - Common Stock,NASDAQ Global Select MarketSM,LMNR
 LNKB,"LINKBANCORP, Inc. - Common Stock",NASDAQ Capital Market,LNKB
@@ -7699,10 +7694,6 @@ STSS,Sharps Technology Inc. - Common Stock,NASDAQ Capital Market,STSS
 STSSW,Sharps Technology Inc. - Warrant,NASDAQ Capital Market,STSSW
 STTK,"Shattuck Labs, Inc. - Common Stock",NASDAQ Global Select MarketSM,STTK
 STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ Global Select MarketSM,STX
-STXD,Strive 1000 Dividend Growth ETF,NASDAQ Global MarketSM,STXD
-STXG,Strive 1000 Growth ETF,NASDAQ Global MarketSM,STXG
-STXK,Strive Small-Cap ETF,NASDAQ Global MarketSM,STXK
-STXV,Strive 1000 Value ETF,NASDAQ Global MarketSM,STXV
 SUNW,"Sunworks, Inc. - Common Stock",NASDAQ Capital Market,SUNW
 SUPN,"Supernus Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,SUPN
 SURG,"SurgePays, Inc. - Common Stock",NASDAQ Capital Market,SURG
@@ -11014,7 +11005,6 @@ RFM,"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",NYSE,RFM
 RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock",NYSE,RFMZ
 RGA,"Reinsurance Group of America, Incorporated Common Stock",NYSE,RGA
 RGR,"Sturm, Ruger & Company, Inc. Common Stock",NYSE,RGR
-RGS,Regis Corporation Common Stock,NYSE,RGS
 RGT,"Royce Global Value Trust, Inc. Common Stock",NYSE,RGT
 RH,RH Common Stock,NYSE,RH
 RHE,"Regional Health Properties, Inc. Common Stock",NYSE MKT,RHE
