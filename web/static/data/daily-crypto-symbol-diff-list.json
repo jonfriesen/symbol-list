@@ -1,41 +1,29 @@
 {
  "added": [
   {
-   "symbol": "DCB",
-   "name": "Decubate (DCB)",
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NUNET",
+   "name": "NuNet (NUNET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SEOR",
+   "name": "SEOR Network (SEOR)",
    "built_on": "BNB"
   },
   {
-   "symbol": "SOLR",
-   "name": "SolRazr (SOLR)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "MJT",
-   "name": "MojitoSwap (MJT)",
-   "built_on": "KCS"
-  },
-  {
-   "symbol": "WZRD",
-   "name": "Wizardia (WZRD)",
+   "symbol": "UBXS",
+   "name": "UBXS (UBXS)",
    "built_on": "BNB"
-  },
-  {
-   "symbol": "BTT",
-   "name": "BitTorrent (BTT)"
-  },
-  {
-   "symbol": "ZOON",
-   "name": "CryptoZoon (ZOON)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
   },
   {
    "symbol": "BANK",
@@ -45,29 +33,16 @@
  ],
  "removed": [
   {
-   "symbol": "WZRD",
-   "name": "Wizardia (WZRD)"
+   "symbol": "UBXS",
+   "name": "UBXS (UBXS)"
   },
   {
-   "symbol": "SOLR",
-   "name": "SolRazr (SOLR)"
+   "symbol": "NUNET",
+   "name": "NuNet (NUNET)"
   },
   {
-   "symbol": "MJT",
-   "name": "MojitoSwap (MJT)"
-  },
-  {
-   "symbol": "ZOON",
-   "name": "CryptoZoon (ZOON)"
-  },
-  {
-   "symbol": "BTT",
-   "name": "BitTorrent (BTT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DCB",
-   "name": "Decubate (DCB)"
+   "symbol": "SEOR",
+   "name": "SEOR Network (SEOR)"
   }
  ]
 }

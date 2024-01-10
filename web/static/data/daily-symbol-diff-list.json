@@ -1,126 +1,84 @@
 {
  "added": [
   {
-   "symbol": "NTX",
-   "name": "NeoTerrex Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NTX.V",
-   "instruments": [
-    {
-     "name": "NeoTerrex Minerals Inc.",
-     "symbol": "NTX"
-    }
-   ]
-  },
-  {
-   "symbol": "OAC.P",
-   "name": "Oa Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OAC.P.V",
-   "instruments": [
-    {
-     "name": "Oa Capital Corp.",
-     "symbol": "OAC.P"
-    }
-   ]
-  },
-  {
-   "symbol": "HWH",
-   "name": "HWH International Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HWH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "ACAXR",
-   "name": "Alset Capital Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAXR"
-  },
-  {
-   "symbol": "LMDX",
-   "name": "LumiraDx Limited - Common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LMDX"
-  },
-  {
-   "symbol": "STXG",
-   "name": "Strive 1000 Growth ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STXG"
-  },
-  {
-   "symbol": "STXV",
-   "name": "Strive 1000 Value ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STXV"
-  },
-  {
-   "symbol": "ACAXU",
-   "name": "Alset Capital Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAXU"
-  },
-  {
-   "symbol": "ACAX",
-   "name": "Alset Capital Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAX"
-  },
-  {
-   "symbol": "STXD",
-   "name": "Strive 1000 Dividend Growth ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STXD"
-  },
-  {
    "symbol": "EOX",
    "name": "Euromax Resources Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "EOX.TO",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EOX.V",
    "instruments": [
     {
-     "name": "Euromax Resources J",
+     "name": "Euromax Resources Ltd.",
      "symbol": "EOX"
     }
    ]
   },
   {
-   "symbol": "STXK",
-   "name": "Strive Small-Cap ETF",
+   "symbol": "NEXN",
+   "name": "Nexxen International Ltd. - American Depository Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STXK"
+   "yahoo_symbol": "NEXN"
   },
   {
    "symbol": "RGS",
-   "name": "Regis Corporation Common Stock",
-   "exchange": "NYSE",
+   "name": "Regis Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RGS"
   },
   {
-   "symbol": "ACAXW",
-   "name": "Alset Capital Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAXW"
+   "symbol": "ROMA",
+   "name": "Roma Green Finance Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROMA"
   },
   {
-   "symbol": "LMDXW",
-   "name": "LumiraDx Limited - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LMDXW"
+   "symbol": "TCTM",
+   "name": "Tarena International, Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCTM"
   },
   {
-   "symbol": "FYRE.P",
-   "name": "Spitfyre Capital Inc.",
+   "symbol": "TLPH",
+   "name": "Talphera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLPH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRMR",
+   "name": "Tremor International Ltd. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRMR"
+  },
+  {
+   "symbol": "TEDU",
+   "name": "Tarena International, Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TEDU"
+  },
+  {
+   "symbol": "GPP",
+   "name": "Green Plains Partners LP - Common Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPP"
+  },
+  {
+   "symbol": "CSX",
+   "name": "Clean Seed Capital Group Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "FYRE.P.V",
+   "yahoo_symbol": "CSX.V",
    "instruments": [
     {
-     "name": "Spitfyre Capital Inc.",
-     "symbol": "FYRE.P"
+     "name": "Clean Seed Capital Group Ltd.",
+     "symbol": "CSX"
     }
    ]
+  },
+  {
+   "symbol": "ACRX",
+   "name": "AcelRx Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACRX"
   }
  ]
 }

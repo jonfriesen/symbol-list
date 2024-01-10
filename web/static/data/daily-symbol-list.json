@@ -1,5 +1,5 @@
 {
- "date": "2024-01-09",
+ "date": "2024-01-10",
  "data": [
   {
    "symbol": "ONE",
@@ -3826,18 +3826,6 @@
    ]
   },
   {
-   "symbol": "CSX",
-   "name": "Clean Seed Capital Group Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CSX.V",
-   "instruments": [
-    {
-     "name": "Clean Seed Capital Group Ltd.",
-     "symbol": "CSX"
-    }
-   ]
-  },
-  {
    "symbol": "CTEK",
    "name": "Cleantek Industries Inc.",
    "exchange": "TSXV",
@@ -5934,6 +5922,18 @@
     {
      "name": "Euro Manganese Inc.",
      "symbol": "EMN"
+    }
+   ]
+  },
+  {
+   "symbol": "EOX",
+   "name": "Euromax Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EOX.V",
+   "instruments": [
+    {
+     "name": "Euromax Resources Ltd.",
+     "symbol": "EOX"
     }
    ]
   },
@@ -44984,12 +44984,6 @@
    "yahoo_symbol": "ACRV"
   },
   {
-   "symbol": "ACRX",
-   "name": "AcelRx Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACRX"
-  },
-  {
    "symbol": "ACST",
    "name": "Acasti Pharma, Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -56498,12 +56492,6 @@
    "yahoo_symbol": "GPIX"
   },
   {
-   "symbol": "GPP",
-   "name": "Green Plains Partners LP - Common Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GPP"
-  },
-  {
    "symbol": "GPRE",
    "name": "Green Plains, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63044,6 +63032,12 @@
    "yahoo_symbol": "NEXI"
   },
   {
+   "symbol": "NEXN",
+   "name": "Nexxen International Ltd. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEXN"
+  },
+  {
    "symbol": "NEXT",
    "name": "NextDecade Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67472,6 +67466,12 @@
    "yahoo_symbol": "RGP"
   },
   {
+   "symbol": "RGS",
+   "name": "Regis Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGS"
+  },
+  {
    "symbol": "RGTI",
    "name": "Rigetti Computing, Inc.  - Common stock",
    "exchange": "NASDAQ Capital Market",
@@ -67818,6 +67818,12 @@
    "name": "Roku, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ROKU"
+  },
+  {
+   "symbol": "ROMA",
+   "name": "Roma Green Finance Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROMA"
   },
   {
    "symbol": "ROOT",
@@ -70676,6 +70682,12 @@
    "yahoo_symbol": "TCRX"
   },
   {
+   "symbol": "TCTM",
+   "name": "Tarena International, Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCTM"
+  },
+  {
    "symbol": "TCX",
    "name": "Tucows Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -70728,12 +70740,6 @@
    "name": "Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TECTP"
-  },
-  {
-   "symbol": "TEDU",
-   "name": "Tarena International, Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TEDU"
   },
   {
    "symbol": "TELA",
@@ -71060,6 +71066,12 @@
    "yahoo_symbol": "TLIS"
   },
   {
+   "symbol": "TLPH",
+   "name": "Talphera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLPH"
+  },
+  {
    "symbol": "TLRY",
    "name": "Tilray Brands, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -71322,12 +71334,6 @@
    "name": "Tourmaline Bio, Inc.  - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TRML"
-  },
-  {
-   "symbol": "TRMR",
-   "name": "Tremor International Ltd. - American Depository Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRMR"
   },
   {
    "symbol": "TRNR",
