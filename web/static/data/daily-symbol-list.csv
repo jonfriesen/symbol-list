@@ -556,7 +556,6 @@ NHHH,FuelPositive Corporation,TSXV,NHHH.V,FuelPositive Corporation,NHHH
 FCLI,Full Circle Lithium Corp.,TSXV,FCLI.V,Full Circle Lithium Corp.,FCLI
 FMM,Full Metal Minerals Ltd.,TSXV,FMM.V,Full Metal Minerals Ltd.,FMM
 FUSE,Fuse Battery Metals Inc.,TSXV,FUSE.V,Fuse Battery Metals Inc.,FUSE
-GMIN,G Mining Ventures Corp.,TSXV,GMIN.V,G Mining Ventures Corp.,GMIN
 GETT,G.E.T.T. Gold Inc.,TSXV,GETT.V,G.E.T.T. Gold Inc.,GETT
 GTWO,G2 Goldfields Inc.,TSXV,GTWO.V,G2 Goldfields Inc.,GTWO
 GTM.P,G2M Cap Corp.,TSXV,GTM.P.V,G2M Cap Corp.,GTM.P
@@ -1694,6 +1693,7 @@ ARIS,Aris Mining Corporation,TSX,ARIS.TO,Aris Mng Corp.,ARIS,Aris Mng Corp A Wt,
 ATZ,Aritzia Inc.,TSX,ATZ.TO,Aritzia Inc. SV,ATZ
 AMC,Arizona Metals Corp.,TSX,AMC.TO,Arizona Mtls Corp. J,AMC
 ASCU,Arizona Sonoran Copper Company Inc.,TSX,ASCU.TO,Arizona Sonoran J,ASCU
+ADIV,Arrow EC Equity Advantage Alternative Fund,TSX,ADIV.TO,Arrow EC EqAdvntgAlt,ADIV
 RATE,Arrow EC Income Advantage Alternative Fund,TSX,RATE.TO,Arrow EC IncmAdvanUn,RATE
 ACAA,Arrow Long/Short Alternative Class,TSX,ACAA.TO,Arrow Lng/Sh Alt ETF,ACAA
 AX.PR.E,Artis Real Estate Investment Trust,TSX,AX.PR.E.TO,Artis REIT Ser E Pr,AX.PR.E,Artis REIT Ser I Pr,AX.PR.I,Artis REIT Un,AX.UN
@@ -2389,6 +2389,7 @@ FVL,Freegold Ventures Limited,TSX,FVL.TO,Freegold Ventures J,FVL
 FRU,Freehold Royalties Ltd.,TSX,FRU.TO,Freehold Royalties ,FRU
 FEC,Frontera Energy Corporation,TSX,FEC.TO,Frontera Energy Corp,FEC
 FURY,Fury Gold Mines Limited,TSX,FURY.TO,Fury Gld Mines Ltd J,FURY
+GMIN,G Mining Ventures Corp.,TSX,GMIN.TO,G Mining Ventures J,GMIN
 GLXY,Galaxy Digital Holdings Ltd.,TSX,GLXY.TO,Galaxy Digital J Ord,GLXY
 GAU,Galiano Gold Inc.,TSX,GAU.TO,Galiano Gold Inc. J,GAU
 GH,Gamehost Inc.,TSX,GH.TO,Gamehost Inc.,GH
@@ -2827,7 +2828,6 @@ LAAC,Lithium Americas (Argentina) Corp.,TSX,LAAC.TO,Lithium Argentina J,LAAC
 LAC,Lithium Americas Corp.,TSX,LAC.TO,Lithium Americas J,LAC
 LIRC,Lithium Royalty Corp.,TSX,LIRC.TO,Lithium Royalty J,LIRC
 L,Loblaw Companies Limited,TSX,L.TO,Loblaw Companies Ltd,L,Loblaw Co. Ser B Pr,L.PR.B
-LGT.A,Logistec Corporation,TSX,LGT.A.TO,Logistec Corp. A MV ,LGT.A,Logistec Corp Cl B,LGT.B
 LN,Loncor Gold Inc.,TSX,LN.TO,Loncor Gold Inc. J,LN
 LPEN,Loop Energy Inc.,TSX,LPEN.TO,Loop Energy Inc. J,LPEN
 LUC,Lucara Diamond Corp.,TSX,LUC.TO,Lucara Diamond J,LUC
@@ -4058,10 +4058,10 @@ BLCR,BlackRock Large Cap Core ETF,NASDAQ Global MarketSM,BLCR
 BLDE,"Blade Air Mobility, Inc. - Class A Common Stock",NASDAQ Capital Market,BLDE
 BLDEW,"Blade Air Mobility, Inc. - Warrants",NASDAQ Capital Market,BLDEW
 BLDP,"Ballard Power Systems, Inc. - Common Shares",NASDAQ Global MarketSM,BLDP
-BLEU,bleuacacia ltd - Class A Ordinary Shares,NASDAQ Global MarketSM,BLEU
-BLEUR,bleuacacia ltd - Rights,NASDAQ Global MarketSM,BLEUR
-BLEUU,bleuacacia ltd - Units,NASDAQ Global MarketSM,BLEUU
-BLEUW,bleuacacia ltd - Warrants,NASDAQ Global MarketSM,BLEUW
+BLEU,bleuacacia ltd - Class A Ordinary Shares,NASDAQ Capital Market,BLEU
+BLEUR,bleuacacia ltd - Rights,NASDAQ Capital Market,BLEUR
+BLEUU,bleuacacia ltd - Units,NASDAQ Capital Market,BLEUU
+BLEUW,bleuacacia ltd - Warrants,NASDAQ Capital Market,BLEUW
 BLFS,"BioLife Solutions, Inc. - Common Stock",NASDAQ Capital Market,BLFS
 BLFY,Blue Foundry Bancorp - Common Stock,NASDAQ Global Select MarketSM,BLFY
 BLIN,"Bridgeline Digital, Inc. - Common Stock",NASDAQ Capital Market,BLIN
@@ -4818,6 +4818,7 @@ DXPE,"DXP Enterprises, Inc. - Common Stock",NASDAQ Global Select MarketSM,DXPE
 DXR,Daxor Corporation - Closed End Fund,NASDAQ Capital Market,DXR
 DXYN,"The Dixie Group, Inc. - Common Stock",NASDAQ Global MarketSM,DXYN
 DYAI,"Dyadic International, Inc. - Common Stock",NASDAQ Capital Market,DYAI
+DYFI,IDX Dynamic Fixed Income ETF,NASDAQ Global MarketSM,DYFI
 DYN,"Dyne Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,DYN
 DYNI,IDX Dynamic Innovation ETF,NASDAQ Global MarketSM,DYNI
 DYNT,Dynatronics Corporation - Common Stock,NASDAQ Capital Market,DYNT
@@ -9078,7 +9079,9 @@ CIX,CompX International Inc. Common Stock,NYSE MKT,CIX
 CKX,"CKX Lands, Inc. Common Stock",NYSE MKT,CKX
 CL,Colgate-Palmolive Company Common Stock,NYSE,CL
 CLB,Core Laboratories Inc. Common Stock,NYSE,CLB
+CLBR,Colombier Acquisition Corp. II Class A Ordinary Shares,NYSE,CLBR
 CLBR.U,"Colombier Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,CLBR.U
+CLBR.W,"Colombier Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",NYSE,CLBR.W
 CLCO,Cool Company Ltd. Common Shares,NYSE,CLCO
 CLDI,"Calidi Biotherapeutics, Inc. Common Stock",NYSE MKT,CLDI
 CLDI.W,"Calidi Biotherapeutics, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE MKT,CLDI.W
@@ -11138,6 +11141,7 @@ SCM,Stellus Capital Investment Corporation Common Stock,NYSE,SCM
 SCS,Steelcase Inc. Common Stock,NYSE,SCS
 SCX,L.S. Starrett Company (The) Common Stock,NYSE,SCX
 SD,"SandRidge Energy, Inc. Common Stock",NYSE,SD
+SDHC,Smith Douglas Homes Corp. Class A Common Stock,NYSE,SDHC
 SDHY,PGIM Short Duration High Yield Opportunities Fund Common Shares,NYSE,SDHY
 SDPI,"Superior Drilling Products, Inc. Common Stock",NYSE MKT,SDPI
 SDRL,Seadrill Limited Common Shares,NYSE,SDRL

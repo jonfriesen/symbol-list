@@ -1,84 +1,130 @@
 {
  "added": [
   {
-   "symbol": "EOX",
-   "name": "Euromax Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EOX.V",
+   "symbol": "ADIV",
+   "name": "Arrow EC Equity Advantage Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ADIV.TO",
    "instruments": [
     {
-     "name": "Euromax Resources Ltd.",
-     "symbol": "EOX"
+     "name": "Arrow EC EqAdvntgAlt",
+     "symbol": "ADIV"
     }
    ]
   },
   {
-   "symbol": "NEXN",
-   "name": "Nexxen International Ltd. - American Depository Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NEXN"
+   "symbol": "GMIN",
+   "name": "G Mining Ventures Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GMIN.TO",
+   "instruments": [
+    {
+     "name": "G Mining Ventures J",
+     "symbol": "GMIN"
+    }
+   ]
   },
   {
-   "symbol": "RGS",
-   "name": "Regis Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RGS"
-  },
-  {
-   "symbol": "ROMA",
-   "name": "Roma Green Finance Limited - Ordinary Shares",
+   "symbol": "BLEU",
+   "name": "bleuacacia ltd - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ROMA"
+   "yahoo_symbol": "BLEU"
   },
   {
-   "symbol": "TCTM",
-   "name": "Tarena International, Inc. - American Depositary Shares",
+   "symbol": "BLEUR",
+   "name": "bleuacacia ltd - Rights",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCTM"
+   "yahoo_symbol": "BLEUR"
   },
   {
-   "symbol": "TLPH",
-   "name": "Talphera, Inc. - Common Stock",
+   "symbol": "BLEUU",
+   "name": "bleuacacia ltd - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLEUU"
+  },
+  {
+   "symbol": "BLEUW",
+   "name": "bleuacacia ltd - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLEUW"
+  },
+  {
+   "symbol": "DYFI",
+   "name": "IDX Dynamic Fixed Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLPH"
+   "yahoo_symbol": "DYFI"
+  },
+  {
+   "symbol": "CLBR",
+   "name": "Colombier Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR"
+  },
+  {
+   "symbol": "CLBR.W",
+   "name": "Colombier Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR.W"
+  },
+  {
+   "symbol": "SDHC",
+   "name": "Smith Douglas Homes Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SDHC"
   }
  ],
  "removed": [
   {
-   "symbol": "TRMR",
-   "name": "Tremor International Ltd. - American Depository Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRMR"
-  },
-  {
-   "symbol": "TEDU",
-   "name": "Tarena International, Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TEDU"
-  },
-  {
-   "symbol": "GPP",
-   "name": "Green Plains Partners LP - Common Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GPP"
-  },
-  {
-   "symbol": "CSX",
-   "name": "Clean Seed Capital Group Ltd.",
+   "symbol": "GMIN",
+   "name": "G Mining Ventures Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CSX.V",
+   "yahoo_symbol": "GMIN.V",
    "instruments": [
     {
-     "name": "Clean Seed Capital Group Ltd.",
-     "symbol": "CSX"
+     "name": "G Mining Ventures Corp.",
+     "symbol": "GMIN"
     }
    ]
   },
   {
-   "symbol": "ACRX",
-   "name": "AcelRx Pharmaceuticals, Inc. - Common Stock",
+   "symbol": "BLEUR",
+   "name": "bleuacacia ltd - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACRX"
+   "yahoo_symbol": "BLEUR"
+  },
+  {
+   "symbol": "BLEUW",
+   "name": "bleuacacia ltd - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLEUW"
+  },
+  {
+   "symbol": "BLEU",
+   "name": "bleuacacia ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLEU"
+  },
+  {
+   "symbol": "LGT.A",
+   "name": "Logistec Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "LGT.A.TO",
+   "instruments": [
+    {
+     "name": "Logistec Corp. A MV ",
+     "symbol": "LGT.A"
+    },
+    {
+     "name": "Logistec Corp Cl B",
+     "symbol": "LGT.B"
+    }
+   ]
+  },
+  {
+   "symbol": "BLEUU",
+   "name": "bleuacacia ltd - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLEUU"
   }
  ]
 }
