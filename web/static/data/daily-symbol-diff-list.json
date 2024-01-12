@@ -1,130 +1,76 @@
 {
  "added": [
   {
-   "symbol": "ADIV",
-   "name": "Arrow EC Equity Advantage Alternative Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "ADIV.TO",
+   "symbol": "ARL",
+   "name": "Aurum Lake Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARL.V",
    "instruments": [
     {
-     "name": "Arrow EC EqAdvntgAlt",
-     "symbol": "ADIV"
+     "name": "Aurum Lake Mining Corporation",
+     "symbol": "ARL"
     }
    ]
   },
   {
-   "symbol": "GMIN",
-   "name": "G Mining Ventures Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "GMIN.TO",
-   "instruments": [
-    {
-     "name": "G Mining Ventures J",
-     "symbol": "GMIN"
-    }
-   ]
-  },
-  {
-   "symbol": "BLEU",
-   "name": "bleuacacia ltd - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLEU"
-  },
-  {
-   "symbol": "BLEUR",
-   "name": "bleuacacia ltd - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLEUR"
-  },
-  {
-   "symbol": "BLEUU",
-   "name": "bleuacacia ltd - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLEUU"
-  },
-  {
-   "symbol": "BLEUW",
-   "name": "bleuacacia ltd - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLEUW"
-  },
-  {
-   "symbol": "DYFI",
-   "name": "IDX Dynamic Fixed Income ETF",
+   "symbol": "BRRR",
+   "name": "Valkyrie Bitcoin Fund",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DYFI"
+   "yahoo_symbol": "BRRR"
   },
   {
-   "symbol": "CLBR",
-   "name": "Colombier Acquisition Corp. II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CLBR"
+   "symbol": "IBIT",
+   "name": "iShares Bitcoin Trust - iShares Bitcoin Trust",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBIT"
   },
   {
-   "symbol": "CLBR.W",
-   "name": "Colombier Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CLBR.W"
+   "symbol": "MCHS",
+   "name": "Matthews China Discovery Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCHS"
   },
   {
-   "symbol": "SDHC",
-   "name": "Smith Douglas Homes Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SDHC"
+   "symbol": "MEMS",
+   "name": "Matthews Emerging Markets Discovery Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEMS"
+  },
+  {
+   "symbol": "SYNX",
+   "name": "Silynxcom Ltd. Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SYNX"
   }
  ],
  "removed": [
   {
-   "symbol": "GMIN",
-   "name": "G Mining Ventures Corp.",
+   "symbol": "ARL.P",
+   "name": "Aurum Lake Mining Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "GMIN.V",
+   "yahoo_symbol": "ARL.P.V",
    "instruments": [
     {
-     "name": "G Mining Ventures Corp.",
-     "symbol": "GMIN"
+     "name": "Aurum Lake Mining Corporation",
+     "symbol": "ARL.P"
     }
    ]
   },
   {
-   "symbol": "BLEUR",
-   "name": "bleuacacia ltd - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLEUR"
-  },
-  {
-   "symbol": "BLEUW",
-   "name": "bleuacacia ltd - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLEUW"
-  },
-  {
-   "symbol": "BLEU",
-   "name": "bleuacacia ltd - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLEU"
-  },
-  {
-   "symbol": "LGT.A",
-   "name": "Logistec Corporation",
+   "symbol": "BBTV",
+   "name": "BBTV Holdings Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "LGT.A.TO",
+   "yahoo_symbol": "BBTV.TO",
    "instruments": [
     {
-     "name": "Logistec Corp. A MV ",
-     "symbol": "LGT.A"
+     "name": "BBTV Hldgs Inc J SV",
+     "symbol": "BBTV"
     },
     {
-     "name": "Logistec Corp Cl B",
-     "symbol": "LGT.B"
+     "name": "BBTV Hldgs Inc J Deb",
+     "symbol": "BBTV.DB"
     }
    ]
-  },
-  {
-   "symbol": "BLEUU",
-   "name": "bleuacacia ltd - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLEUU"
   }
  ]
 }

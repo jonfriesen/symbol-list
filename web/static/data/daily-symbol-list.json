@@ -1,5 +1,5 @@
 {
- "date": "2024-01-11",
+ "date": "2024-01-12",
  "data": [
   {
    "symbol": "ONE",
@@ -1610,14 +1610,14 @@
    ]
   },
   {
-   "symbol": "ARL.P",
+   "symbol": "ARL",
    "name": "Aurum Lake Mining Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "ARL.P.V",
+   "yahoo_symbol": "ARL.V",
    "instruments": [
     {
      "name": "Aurum Lake Mining Corporation",
-     "symbol": "ARL.P"
+     "symbol": "ARL"
     }
    ]
   },
@@ -21234,22 +21234,6 @@
     {
      "name": "Baytex Energy Corp.",
      "symbol": "BTE"
-    }
-   ]
-  },
-  {
-   "symbol": "BBTV",
-   "name": "BBTV Holdings Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "BBTV.TO",
-   "instruments": [
-    {
-     "name": "BBTV Hldgs Inc J SV",
-     "symbol": "BBTV"
-    },
-    {
-     "name": "BBTV Hldgs Inc J Deb",
-     "symbol": "BBTV.DB"
     }
    ]
   },
@@ -48784,6 +48768,12 @@
    "yahoo_symbol": "BRP"
   },
   {
+   "symbol": "BRRR",
+   "name": "Valkyrie Bitcoin Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRR"
+  },
+  {
    "symbol": "BRSH",
    "name": "Bruush Oral Care Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -57856,6 +57846,12 @@
    "yahoo_symbol": "IBEX"
   },
   {
+   "symbol": "IBIT",
+   "name": "iShares Bitcoin Trust - iShares Bitcoin Trust",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBIT"
+  },
+  {
    "symbol": "IBKR",
    "name": "Interactive Brokers Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61552,6 +61548,12 @@
    "yahoo_symbol": "MCHP"
   },
   {
+   "symbol": "MCHS",
+   "name": "Matthews China Discovery Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCHS"
+  },
+  {
    "symbol": "MCHX",
    "name": "Marchex, Inc. - Class B Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61730,6 +61732,12 @@
    "name": "MercadoLibre, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MELI"
+  },
+  {
+   "symbol": "MEMS",
+   "name": "Matthews Emerging Markets Discovery Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEMS"
   },
   {
    "symbol": "MEOH",
@@ -91982,6 +91990,12 @@
    "name": "Stryker Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SYK"
+  },
+  {
+   "symbol": "SYNX",
+   "name": "Silynxcom Ltd. Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SYNX"
   },
   {
    "symbol": "SYY",

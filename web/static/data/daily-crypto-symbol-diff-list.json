@@ -1,73 +1,60 @@
 {
  "added": [
   {
-   "symbol": "SideShift Token",
-   "name": "SIDESHIFT (SIDESHIFT)"
+   "symbol": "ALEX",
+   "name": "ALEX Lab (ALEX)",
+   "built_on": "STX"
   },
   {
-   "symbol": "MYTHTOKEN",
-   "name": "Myth Token (MYTHTOKEN)",
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "TURBOS",
+   "name": "Turbos Finance (TURBOS)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
   },
   {
-   "symbol": "DOMI",
-   "name": "Domi (DOMI)",
+   "symbol": "BIOFI",
+   "name": "Biometric Financial (BIOFI)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "ROUP",
+   "name": "Roup (Ordinals) (ROUP)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SIDESHIFT",
+   "name": "SideShift Token (SIDESHIFT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "XAI",
-   "name": "Xai (XAI)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ZGD",
-   "name": "ZambesiGold (ZGD)",
+   "symbol": "PSB",
+   "name": "Planet Sandbox (PSB)",
    "built_on": "BNB"
-  },
-  {
-   "symbol": "ALEXANDRITE",
-   "name": "Alexandrite (ALEXANDRITE)"
-  },
-  {
-   "symbol": "WBTCWXG",
-   "name": "WBTC-WXG (WBTCWXG)",
-   "built_on": "WAVES"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "XAI",
-   "name": "SideShift Token (XAI)"
+   "symbol": "SideShift Token",
+   "name": "SIDESHIFT (SIDESHIFT)"
   },
   {
-   "symbol": "MYTHT",
-   "name": "Myth Token (MYTHT)"
+   "symbol": "BIOFI",
+   "name": "Biometric Financial (BIOFI)"
   },
   {
-   "symbol": "ZGD",
-   "name": "ZambesiGold (ZGD)"
-  },
-  {
-   "symbol": "ALEX",
-   "name": "Alexandrite (ALEX)"
-  },
-  {
-   "symbol": "DOMI",
-   "name": "Domi (DOMI)"
+   "symbol": "PSB",
+   "name": "Planet Sandbox (PSB)"
   }
  ]
 }
