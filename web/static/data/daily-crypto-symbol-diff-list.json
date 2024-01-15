@@ -1,18 +1,59 @@
 {
  "added": [
   {
-   "symbol": "ALEX",
-   "name": "ALEX Lab (ALEX)",
-   "built_on": "STX"
+   "symbol": "RSTK",
+   "name": "Restake Finance (RSTK)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "SEILOR",
+   "name": "Kryptonite (SEILOR)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "TURBOS",
-   "name": "Turbos Finance (TURBOS)",
-   "built_on": "SUI"
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VV",
+   "name": "Virtual Versions (VV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SATOX",
+   "name": "Satoxcoin (SATOX)"
+  },
+  {
+   "symbol": "LIGO",
+   "name": "Ligo (LIGO)"
+  },
+  {
+   "symbol": "VICTORIUM",
+   "name": "Victorium (VICTORIUM)"
+  },
+  {
+   "symbol": "XPET",
+   "name": "XPET token (XPET)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "PORT3",
+   "name": "Port3 Network (PORT3)"
+  },
+  {
+   "symbol": "AIDOGE",
+   "name": "ArbDoge AI (AIDOGE)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "RONALDINHO",
+   "name": "Ronaldinho Soccer Coin (RONALDINHO)"
   },
   {
    "symbol": "BANK",
@@ -20,41 +61,15 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BIOFI",
-   "name": "Biometric Financial (BIOFI)",
-   "built_on": "AVAX"
-  },
-  {
-   "symbol": "ROUP",
-   "name": "Roup (Ordinals) (ROUP)"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "SIDESHIFT",
-   "name": "SideShift Token (SIDESHIFT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "PSB",
-   "name": "Planet Sandbox (PSB)",
+   "symbol": "NFP",
+   "name": "NFPrompt (NFP)",
    "built_on": "BNB"
   }
  ],
  "removed": [
   {
-   "symbol": "SideShift Token",
-   "name": "SIDESHIFT (SIDESHIFT)"
-  },
-  {
-   "symbol": "BIOFI",
-   "name": "Biometric Financial (BIOFI)"
-  },
-  {
-   "symbol": "PSB",
-   "name": "Planet Sandbox (PSB)"
+   "symbol": "VIC",
+   "name": "Victorium (VIC)"
   }
  ]
 }
