@@ -457,6 +457,8 @@ FPR,CI Preferred Share ETF,TSX,FPR.TO,CI Preferred Shr Un,FPR
 FGB,CI Short Term Government Bond Index Class ETF,TSX,FGB.TO,CI ST GovtBondCl ETF,FGB
 TXF,CI Tech Giants Covered Call ETF,TSX,TXF.TO,CI TechGntCovrCallHG,TXF,CI TechGiaCovCalUnHg,TXF.B,CI TechGiantCvClHgUS,TXF.U
 FLI,CI U.S. & Canada Lifeco Covered Call ETF,TSX,FLI.TO,CI US&CA LifecoCv HG,FLI
+CMOM,CI U.S. Enhanced Momentum Index ETF,TSX,CMOM.TO,CI US EnhncMomntm Hg,CMOM,CI US EnhncMomntm UH,CMOM.B
+CVLU,CI U.S. Enhanced Value Index ETF,TSX,CVLU.TO,CI US Enhanc Val Heg,CVLU,CI US EnhancVal UnHg,CVLU.B
 CUDV,CI U.S. Minimum Downside Volatility Index ETF,TSX,CUDV.TO,CI US MinDwnsVoltyHG,CUDV,CI US MinDwnsVoltyUH,CUDV.B
 UMNY.U,CI U.S. Money Market ETF,TSX,UMNY.U.TO,CI US Money Mkt US,UMNY.U
 SID,CI U.S. Trendleaders Index ETF,TSX,SID.TO,CI US TrendLeadrs HG,SID
@@ -837,6 +839,7 @@ HBFE,Harvest Brand Leaders Enhanced Income ETF,TSX,HBFE.TO,Harvest BrandLeadr A,
 HBF,Harvest Brand Leaders Plus Income ETF,TSX,HBF.TO,HarvestBrndLdr+ A Un,HBF,HarvestBrndLdr+B U-H,HBF.B,HarvestBrndLdr+US Un,HBF.U
 HLFE,Harvest Canadian Equity Enhanced Income Leaders ETF,TSX,HLFE.TO,Harvest CdnEq Incm A,HLFE
 HLIF,Harvest Canadian Equity Income Leaders ETF,TSX,HLIF.TO,Harvest CdnEq Incm A,HLIF
+TBIL,Harvest Canadian T-Bill ETF,TSX,TBIL.TO,Harvest Cdn T-Bill,TBIL
 HCLN,Harvest Clean Energy ETF,TSX,HCLN.TO,Harvest CleanEngy Un,HCLN
 HRIF,Harvest Diversified Equity Income ETF,TSX,HRIF.TO,Harvest Divers Eq Un,HRIF
 HDIF,Harvest Diversified Monthly Income ETF,TSX,HDIF.TO,Harvest DiverMoIncmA,HDIF
@@ -847,7 +850,8 @@ HGGG,Harvest Global Gold Giants Index ETF,TSX,HGGG.TO,Harvest Glb GldGiant,HGGG
 HGR,Harvest Global REIT Leaders Income ETF,TSX,HGR.TO,HarvestGlblREITLdr A,HGR
 HHLE,Harvest Healthcare Leaders Enhanced Income ETF,TSX,HHLE.TO,Harvest HlthcrIncm A,HHLE
 HHL,Harvest Healthcare Leaders Income ETF,TSX,HHL.TO,Harvest HlthcrLdr Un,HHL,HarvestHealthcrB U-H,HHL.B,HarvestHealthcare US,HHL.U
-HPYT,Harvest Premium Yield Treasury ETF,TSX,HPYT.TO,Harvest PremYldTreas,HPYT,Harvst PremYldTresUS,HPYT.U
+HPYM,Harvest Premium Yield 7-10 Year Treasury ETF,TSX,HPYM.TO,Harvst PremYld7-10Yr,HPYM,Harvst PremYld7-10US,HPYM.U
+HPYT,Harvest Premium Yield Treasury ETF,TSX,HPYT.TO,Harvest PremYldTreas,HPYT,Harvst PremYldTreaUS,HPYT.U
 HTAE,Harvest Tech Achievers Enhanced Income ETF,TSX,HTAE.TO,Harvest TechAchiev A,HTAE
 HTA,Harvest Tech Achievers Growth & Income ETF,TSX,HTA.TO,HarvestTechAchvGrw A,HTA,HarvestTecAchGroB UH,HTA.B,HarvestTechAchGrowUS,HTA.U
 TRVI,Harvest Travel & Leisure Income ETF,TSX,TRVI.TO,Harvest Trav & Leisr,TRVI
@@ -5460,9 +5464,9 @@ GSM,Ferroglobe PLC - Ordinary Shares,NASDAQ Capital Market,GSM
 GSMGW,"Cheer Holding, Inc.  - Warrant",NASDAQ Capital Market,GSMGW
 GSUN,Golden Sun Education Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,GSUN
 GT,The Goodyear Tire & Rubber Company - Common Stock,NASDAQ Global Select MarketSM,GT
-GTAC,Global Technology Acquisition Corp. I - Class A Ordinary Shares,NASDAQ Global MarketSM,GTAC
-GTACU,Global Technology Acquisition Corp. I - Unit,NASDAQ Global MarketSM,GTACU
-GTACW,Global Technology Acquisition Corp. I - Warrant,NASDAQ Global MarketSM,GTACW
+GTAC,Global Technology Acquisition Corp. I - Class A Ordinary Shares,NASDAQ Capital Market,GTAC
+GTACU,Global Technology Acquisition Corp. I - Unit,NASDAQ Capital Market,GTACU
+GTACW,Global Technology Acquisition Corp. I - Warrant,NASDAQ Capital Market,GTACW
 GTBP,"GT Biopharma, Inc. - Common Stock",NASDAQ Capital Market,GTBP
 GTEC,Greenland Technologies Holding Corporation - Ordinary Shares,NASDAQ Capital Market,GTEC
 GTH,Genetron Holdings Limited - American Depositary Shares,NASDAQ Global MarketSM,GTH
@@ -5571,6 +5575,8 @@ HOPE,"Hope Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,HOPE
 HOTH,"Hoth Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,HOTH
 HOUR,"Hour Loop, Inc. - common stock",NASDAQ Capital Market,HOUR
 HOVNP,Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock,NASDAQ Global MarketSM,HOVNP
+HOVR,New Horizon Aircraft Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,HOVR
+HOVRW,New Horizon Aircraft Ltd. - Warrant,NASDAQ Capital Market,HOVRW
 HOWL,"Werewolf Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,HOWL
 HPCO,"Hempacco Co., Inc. - Common Stock",NASDAQ Capital Market,HPCO
 HPK,"HighPeak Energy, Inc. - Common Stock",NASDAQ Global MarketSM,HPK
@@ -7067,9 +7073,6 @@ PTEN,"Patterson-UTI Energy, Inc. - Common Stock",NASDAQ Global Select MarketSM,P
 PTF,Invesco Dorsey Wright Technology Momentum ETF,NASDAQ Global MarketSM,PTF
 PTGX,"Protagonist Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,PTGX
 PTH,Invesco Dorsey Wright Healthcare Momentum ETF,NASDAQ Global MarketSM,PTH
-PTHR,"Pono Capital Three, Inc. - Class A Ordinary Shares",NASDAQ Global MarketSM,PTHR
-PTHRU,"Pono Capital Three, Inc. - Unit",NASDAQ Global MarketSM,PTHRU
-PTHRW,"Pono Capital Three, Inc. - Warrant",NASDAQ Global MarketSM,PTHRW
 PTIX,"Protagenic Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,PTIX
 PTIXW,"Protagenic Therapeutics, Inc. - Warrant",NASDAQ Capital Market,PTIXW
 PTLO,Portillo's Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,PTLO
@@ -9196,9 +9199,6 @@ CSAN,Cosan S.A. ADS,NYSE,CSAN
 CSL,Carlisle Companies Incorporated Common Stock,NYSE,CSL
 CSR,D/B/A Centerspace Common Stock,NYSE,CSR
 CSR$C,D/B/A Centerspace 6.625% Series C ,NYSE,CSR$C
-CSTA,Constellation Acquisition Corp I Class A Ordinary Shares,NYSE,CSTA
-CSTA.U,"Constellation Acquisition Corp I Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,CSTA.U
-CSTA.W,"Constellation Acquisition Corp I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,CSTA.W
 CSTM,Constellium SE Ordinary Shares (France),NYSE,CSTM
 CSV,"Carriage Services, Inc. Common Stock",NYSE,CSV
 CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series",NYSE,CTA$A
