@@ -1,23 +1,28 @@
 {
  "added": [
   {
-   "symbol": "PORT3",
-   "name": "Port3 Network (PORT3)",
+   "symbol": "PERC",
+   "name": "Perion (PERC)",
    "built_on": "ETH"
   },
   {
-   "symbol": "TITANX",
-   "name": "TitanX (TITANX)",
+   "symbol": "MUSICOIN",
+   "name": "Musicoin (MUSICOIN)"
+  },
+  {
+   "symbol": "RSC",
+   "name": "ResearchCoin (RSC)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "USEDCAR",
-   "name": "A Gently Used 2001 Honda (USEDCAR)",
-   "built_on": "SOL"
+   "symbol": "BNSX",
+   "name": "Bitcoin Name Service System (BNSX)",
+   "built_on": "BTC"
   },
   {
    "symbol": "BANK",
@@ -25,28 +30,31 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "HUAHUA",
-   "name": "Chihuahua Chain (HUAHUA)"
+   "symbol": "MUSIC",
+   "name": "Gala Music (MUSIC)",
+   "built_on": "ETH"
   },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
   {
    "symbol": "BNSX",
    "name": "Bitcoin Name Service System (BNSX)"
   },
   {
-   "symbol": "GUAC",
-   "name": "Guacamole (GUAC)",
-   "built_on": "SOL"
+   "symbol": "PERC",
+   "name": "Perion (PERC)"
   },
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
+   "symbol": "RSC",
+   "name": "ResearchCoin (RSC)"
+  },
   {
-   "symbol": "PORT3",
-   "name": "Port3 Network (PORT3)"
+   "symbol": "MUSIC",
+   "name": "Musicoin (MUSIC)"
   }
  ]
 }
