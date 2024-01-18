@@ -1,42 +1,76 @@
 {
  "added": [
   {
-   "symbol": "GORV",
-   "name": "Lazydays Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GORV"
+   "symbol": "UCSH.U",
+   "name": "Horizons USD High Interest Savings ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UCSH.U.TO",
+   "instruments": [
+    {
+     "name": "Horizn USD HiIntSvUS",
+     "symbol": "UCSH.U"
+    }
+   ]
   },
   {
-   "symbol": "VRTS",
-   "name": "Virtus Investment Partners, Inc. Common Stock",
+   "symbol": "INAI",
+   "name": "Invesco Morningstar Global Next Gen AI Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "INAI.TO",
+   "instruments": [
+    {
+     "name": "Invesco MrnNxtGenAI",
+     "symbol": "INAI"
+    },
+    {
+     "name": "Invesco MrnNxGenAIHg",
+     "symbol": "INAI.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IUFR.U",
+   "name": "Invesco US Treasury Floating Rate Note Index ETF (USD)",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUFR.U.TO",
+   "instruments": [
+    {
+     "name": "Invesco USTreasNt US",
+     "symbol": "IUFR.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AWIN",
+   "name": "AERWINS Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AWIN"
+  },
+  {
+   "symbol": "OMIC",
+   "name": "Singular Genomics Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OMIC"
+  },
+  {
+   "symbol": "PSBD",
+   "name": "Palmer Square Capital BDC Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "VRTS"
+   "yahoo_symbol": "PSBD"
   }
  ],
  "removed": [
   {
-   "symbol": "LAZY",
-   "name": "Lazydays Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LAZY"
-  },
-  {
-   "symbol": "VRTS",
-   "name": "Virtus Investment Partners, Inc. - Common Stock",
+   "symbol": "OMIC",
+   "name": "Singular Genomics Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VRTS"
+   "yahoo_symbol": "OMIC"
   },
   {
-   "symbol": "BVH",
-   "name": "Bluegreen Vacations Holding Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BVH"
-  },
-  {
-   "symbol": "ELIQ",
-   "name": "Electriq Power Holdings, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ELIQ"
+   "symbol": "AWIN",
+   "name": "AERWINS Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AWIN"
   }
  ]
 }

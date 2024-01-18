@@ -1,60 +1,53 @@
 {
  "added": [
   {
-   "symbol": "PERC",
-   "name": "Perion (PERC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MUSICOIN",
-   "name": "Musicoin (MUSICOIN)"
-  },
-  {
-   "symbol": "RSC",
-   "name": "ResearchCoin (RSC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BNSX",
-   "name": "Bitcoin Name Service System (BNSX)",
+   "symbol": "BIDP",
+   "name": "BID Protocol (BIDP)",
    "built_on": "BTC"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "ETGM",
+   "name": "ETGM (ETGM)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
    "built_on": "ETH"
   },
   {
-   "symbol": "MUSIC",
-   "name": "Gala Music (MUSIC)",
+   "symbol": "ATOR",
+   "name": "ATOR Protocol (ATOR)",
    "built_on": "ETH"
   },
   {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
+   "symbol": "HON",
+   "name": "SoulSociety (HON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SATS",
+   "name": "SATS (Ordinals) (SATS)",
+   "built_on": "ORDI"
+  },
+  {
+   "symbol": "ISSP",
+   "name": "ISSP (ISSP)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "BNSX",
-   "name": "Bitcoin Name Service System (BNSX)"
-  },
-  {
-   "symbol": "PERC",
-   "name": "Perion (PERC)"
-  },
-  {
-   "symbol": "RSC",
-   "name": "ResearchCoin (RSC)"
-  },
-  {
-   "symbol": "MUSIC",
-   "name": "Musicoin (MUSIC)"
+   "symbol": "SATS",
+   "name": "Satoshi (SATS)"
   }
  ]
 }
