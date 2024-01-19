@@ -1,5 +1,5 @@
 {
- "date": "2024-01-18",
+ "date": "2024-01-19",
  "data": [
   {
    "symbol": "ONE",
@@ -4444,7 +4444,7 @@
    "yahoo_symbol": "CUB.V",
    "instruments": [
     {
-     "name": "CubicFarm Systems Corp.",
+     "name": "Cubicfarm Systems Corp.",
      "symbol": "CUB"
     },
     {
@@ -10290,10 +10290,6 @@
     {
      "name": "Lifeist Wellness Inc.",
      "symbol": "LFST"
-    },
-    {
-     "name": "Lifeist Wellness Inc. wt  B 19Jan2024",
-     "symbol": "LFST.WT.B"
     }
    ]
   },
@@ -14130,6 +14126,18 @@
    ]
   },
   {
+   "symbol": "PWRO",
+   "name": "Power One Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PWRO.V",
+   "instruments": [
+    {
+     "name": "Power One Resources Corp.",
+     "symbol": "PWRO"
+    }
+   ]
+  },
+  {
    "symbol": "PBX",
    "name": "Powerband Solutions Inc.",
    "exchange": "TSXV",
@@ -14918,18 +14926,6 @@
     {
      "name": "Relevant Gold Corp.",
      "symbol": "RGC"
-    }
-   ]
-  },
-  {
-   "symbol": "RHT",
-   "name": "Reliq Health Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RHT.V",
-   "instruments": [
-    {
-     "name": "Reliq Health Technologies Inc.",
-     "symbol": "RHT"
     }
    ]
   },
@@ -47096,24 +47092,6 @@
    "yahoo_symbol": "ATAI"
   },
   {
-   "symbol": "ATAK",
-   "name": "Aurora Technology Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATAK"
-  },
-  {
-   "symbol": "ATAKR",
-   "name": "Aurora Technology Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATAKR"
-  },
-  {
-   "symbol": "ATAKU",
-   "name": "Aurora Technology Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATAKU"
-  },
-  {
    "symbol": "ATAT",
    "name": "Atour Lifestyle Holdings Limited - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -49836,6 +49814,12 @@
    "name": "Carbon Collective Climate Solutions U.S. Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CCSO"
+  },
+  {
+   "symbol": "CCTG",
+   "name": "CCSC Technology International Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CCTG"
   },
   {
    "symbol": "CCTS",
@@ -56912,6 +56896,12 @@
    "yahoo_symbol": "GWRS"
   },
   {
+   "symbol": "GXAI",
+   "name": "Gaxos.ai Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GXAI"
+  },
+  {
    "symbol": "GXTG",
    "name": "Global X Thematic Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -63188,12 +63178,6 @@
    "yahoo_symbol": "NFLX"
   },
   {
-   "symbol": "NFTG",
-   "name": "The NFT Gaming Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NFTG"
-  },
-  {
    "symbol": "NFTY",
    "name": "First Trust India Nifty 50 Equal Weight ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -63526,13 +63510,13 @@
   {
    "symbol": "NRXP",
    "name": "NRX Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NRXP"
   },
   {
    "symbol": "NRXPW",
    "name": "NRX Pharmaceuticals, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NRXPW"
   },
   {
@@ -68300,12 +68284,6 @@
    "yahoo_symbol": "SAITW"
   },
   {
-   "symbol": "SALM",
-   "name": "Salem Media Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SALM"
-  },
-  {
    "symbol": "SAMG",
    "name": "Silvercrest Asset Management Group Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -70498,7 +70476,7 @@
   {
    "symbol": "SYRE",
    "name": "Spyre Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SYRE"
   },
   {

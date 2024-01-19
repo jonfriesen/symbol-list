@@ -365,7 +365,7 @@ CEQ,Criterium Energy Ltd.,TSXV,CEQ.V,Criterium Energy Ltd.,CEQ
 CRE,Critical Elements Lithium Corporation,TSXV,CRE.V,Critical Elements Lithium Corporation,CRE
 CWV,Crown Point Energy Inc.,TSXV,CWV.V,Crown Point Energy Inc.,CWV
 CSTR,Cryptostar Corp.,TSXV,CSTR.V,Cryptostar Corp.,CSTR
-CUB,Cubicfarm Systems Corp.,TSXV,CUB.V,CubicFarm Systems Corp.,CUB,CubicFarm Systems Corp. db 02Jun2027,CUB.DB
+CUB,Cubicfarm Systems Corp.,TSXV,CUB.V,Cubicfarm Systems Corp.,CUB,CubicFarm Systems Corp. db 02Jun2027,CUB.DB
 WATR,Current Water Technologies Inc.,TSXV,WATR.V,Current Water Technologies Inc.,WATR
 CCII.P,Cuspis Capital II Ltd.,TSXV,CCII.P.V,Cuspis Capital II Ltd.,CCII.P
 CIII.P,Cuspis Capital III Ltd.,TSXV,CIII.P.V,Cuspis Capital III Ltd.,CIII.P
@@ -843,7 +843,7 @@ LIFT,Li-FT Power Ltd.,TSXV,LIFT.V,Li-FT Power Ltd.,LIFT
 LILI,Li3 Lithium Corp.,TSXV,LILI.V,Li3 Lithium Corp.,LILI
 LBC,Libero Copper & Gold Corporation,TSXV,LBC.V,Libero Copper & Gold Corporation,LBC
 SCAN,"Liberty Defense Holdings, Ltd.",TSXV,SCAN.V,"Liberty Defense Holdings, Ltd.",SCAN
-LFST,Lifeist Wellness Inc.,TSXV,LFST.V,Lifeist Wellness Inc.,LFST,Lifeist Wellness Inc. wt  B 19Jan2024,LFST.WT.B
+LFST,Lifeist Wellness Inc.,TSXV,LFST.V,Lifeist Wellness Inc.,LFST
 LMG,Lincoln Gold Mining Inc.,TSXV,LMG.V,Lincoln Gold Mining Inc.,LMG
 LEO,Lion Copper and Gold Corp.,TSXV,LEO.V,Lion Copper and Gold Corp.,LEO
 LIO,Lion One Metals Limited,TSXV,LIO.V,Lion One Metals Limited,LIO,Lion One Metals Limited wt 11Nov2025,LIO.WT
@@ -1157,6 +1157,7 @@ POR,Portofino Resources Inc.,TSXV,POR.V,Portofino Resources Inc.,POR
 PGP,Power Group Projects Corp.,TSXV,PGP.V,Power Group Projects Corp.,PGP
 PWM,Power Metals Corp.,TSXV,PWM.V,Power Metals Corp.,PWM
 PNPN,Power Nickel Inc.,TSXV,PNPN.V,Power Nickel Inc.,PNPN
+PWRO,Power One Resources Corp.,TSXV,PWRO.V,Power One Resources Corp.,PWRO
 PBX,Powerband Solutions Inc.,TSXV,PBX.V,Powerband Solutions Inc.,PBX
 PPX,PPX Mining Corp.,TSXV,PPX.V,PPX Mining Corp.,PPX
 PRG,Precipitate Gold Corp.,TSXV,PRG.V,Precipitate Gold Corp.,PRG
@@ -1222,7 +1223,6 @@ RET,Reitmans (Canada) Limited,TSXV,RET.V,Reitmans (Canada) Limited,RET,Reitmans 
 MYID,Reklaim Ltd.,TSXV,MYID.V,Reklaim Ltd.,MYID
 REKO,Reko International Group Inc.,TSXV,REKO.V,Reko International Group Inc,REKO
 RGC,Relevant Gold Corp.,TSXV,RGC.V,Relevant Gold Corp.,RGC
-RHT,Reliq Health Technologies Inc.,TSXV,RHT.V,Reliq Health Technologies Inc.,RHT
 RAGE,Renegade Gold Inc.,TSXV,RAGE.V,Renegade Gold Inc.,RAGE
 RW,RenoWorks Software Inc.,TSXV,RW.V,RenoWorks Software Inc,RW
 RP,RepliCel Life Sciences Inc.,TSXV,RP.V,Replicel Life Sciences Inc.,RP
@@ -3849,9 +3849,6 @@ ASTSW,"AST SpaceMobile, Inc. - Warrant",NASDAQ Global Select MarketSM,ASTSW
 ASUR,Asure Software Inc - Common Stock,NASDAQ Capital Market,ASUR
 ASYS,"Amtech Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,ASYS
 ATAI,ATAI Life Sciences N.V. - Common Shares,NASDAQ Global MarketSM,ATAI
-ATAK,Aurora Technology Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,ATAK
-ATAKR,Aurora Technology Acquisition Corp. - Rights,NASDAQ Global MarketSM,ATAKR
-ATAKU,Aurora Technology Acquisition Corp. - Unit,NASDAQ Global MarketSM,ATAKU
 ATAT,Atour Lifestyle Holdings Limited - American Depositary Shares,NASDAQ Global Select MarketSM,ATAT
 ATCOL,Atlas Corp. - 7.125% Notes due 2027,NASDAQ Global MarketSM,ATCOL
 ATEC,"Alphatec Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ATEC
@@ -4306,6 +4303,7 @@ CCOI,"Cogent Communications Holdings, Inc. - Common Stock",NASDAQ Global Select 
 CCRN,"Cross Country Healthcare, Inc. - Common Stock",NASDAQ Global Select MarketSM,CCRN
 CCSI,"Consensus Cloud Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,CCSI
 CCSO,Carbon Collective Climate Solutions U.S. Equity ETF,NASDAQ Global MarketSM,CCSO
+CCTG,CCSC Technology International Holdings Limited - Ordinary Shares,NASDAQ Capital Market,CCTG
 CCTS,Cactus Acquisition Corp. 1 Limited - Class A Ordinary Share,NASDAQ Global MarketSM,CCTS
 CCTSU,Cactus Acquisition Corp. 1 Limited - Unit,NASDAQ Global MarketSM,CCTSU
 CCTSW,Cactus Acquisition Corp. 1 Limited - Warrant,NASDAQ Global MarketSM,CCTSW
@@ -5485,6 +5483,7 @@ GVH,Globavend Holdings Limited - Ord Shares,NASDAQ Capital Market,GVH
 GVP,"GSE Systems, Inc. - Common Stock",NASDAQ Capital Market,GVP
 GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",NASDAQ Capital Market,GWAV
 GWRS,"Global Water Resources, Inc. - common stock",NASDAQ Global MarketSM,GWRS
+GXAI,Gaxos.ai Inc. - Common Stock,NASDAQ Capital Market,GXAI
 GXTG,Global X Thematic Growth ETF,NASDAQ Global MarketSM,GXTG
 GYRE,"Gyre Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,GYRE
 GYRO,"Gyrodyne , LLC - Common Stock",NASDAQ Capital Market,GYRO
@@ -6531,7 +6530,6 @@ NEXT,NextDecade Corporation - Common Stock,NASDAQ Capital Market,NEXT
 NFBK,"Northfield Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,NFBK
 NFE,New Fortress Energy Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,NFE
 NFLX,"Netflix, Inc. - Common Stock",NASDAQ Global Select MarketSM,NFLX
-NFTG,"The NFT Gaming Company, Inc. - Common Stock",NASDAQ Capital Market,NFTG
 NFTY,First Trust India Nifty 50 Equal Weight ETF,NASDAQ Global MarketSM,NFTY
 NGM,"NGM Biopharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,NGM
 NGMS,NeoGames S.A. - Ordinary Shares,NASDAQ Global MarketSM,NGMS
@@ -6587,8 +6585,8 @@ NRIM,Northrim BanCorp Inc - Common Stock,NASDAQ Global Select MarketSM,NRIM
 NRIX,"Nurix Therapeutics, Inc. - Common stock",NASDAQ Global MarketSM,NRIX
 NRSN,NeuroSense Therapeutics Ltd. - Ordinary Shares,NASDAQ Capital Market,NRSN
 NRSNW,NeuroSense Therapeutics Ltd. - Warrant,NASDAQ Capital Market,NRSNW
-NRXP,"NRX Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,NRXP
-NRXPW,"NRX Pharmaceuticals, Inc. - Warrant",NASDAQ Global MarketSM,NRXPW
+NRXP,"NRX Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,NRXP
+NRXPW,"NRX Pharmaceuticals, Inc. - Warrant",NASDAQ Capital Market,NRXPW
 NSI,National Security Emerging Markets Index ETF,NASDAQ Global MarketSM,NSI
 NSIT,"Insight Enterprises, Inc. - Common Stock",NASDAQ Global Select MarketSM,NSIT
 NSPR,InspireMD Inc. - Common Stock,NASDAQ Capital Market,NSPR
@@ -7383,7 +7381,6 @@ SAGE,"Sage Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,SAGE
 SAI,SAI.TECH Global Corporation  - Class A Ordinary Shares,NASDAQ Capital Market,SAI
 SAIA,"Saia, Inc. - Common Stock",NASDAQ Global Select MarketSM,SAIA
 SAITW,SAI.TECH Global Corporation  - Warrant,NASDAQ Capital Market,SAITW
-SALM,"Salem Media Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SALM
 SAMG,Silvercrest Asset Management Group Inc. - Common Stock,NASDAQ Global MarketSM,SAMG
 SANA,"Sana Biotechnology, Inc. - Common Stock",NASDAQ Global Select MarketSM,SANA
 SANG,Sangoma Technologies Corporation - Common Shares,NASDAQ Global Select MarketSM,SANG
@@ -7749,7 +7746,7 @@ SYM,Symbotic Inc. - Class A Common Stock,NASDAQ Global MarketSM,SYM
 SYNA,Synaptics Incorporated - Common Stock,NASDAQ Global Select MarketSM,SYNA
 SYPR,"Sypris Solutions, Inc. - Common Stock",NASDAQ Global MarketSM,SYPR
 SYRA,Syra Health Corp. - Class A Common Stock,NASDAQ Capital Market,SYRA
-SYRE,"Spyre Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,SYRE
+SYRE,"Spyre Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,SYRE
 SYRS,"Syros Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,SYRS
 SYT,"SYLA Technologies Co., Ltd. - American Depositary Shares",NASDAQ Capital Market,SYT
 SYTA,"Siyata Mobile, Inc. - Common Shares",NASDAQ Capital Market,SYTA
