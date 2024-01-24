@@ -1,114 +1,66 @@
 {
  "added": [
   {
-   "symbol": "AFJK",
-   "name": "Aimei Health Technology Co., Ltd - Ordinary Share",
+   "symbol": "MNTL",
+   "name": "Tema Neuroscience and Mental Health ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AFJK"
+   "yahoo_symbol": "MNTL"
   },
   {
-   "symbol": "AFJKR",
-   "name": "Aimei Health Technology Co., Ltd - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AFJKR"
-  },
-  {
-   "symbol": "O$",
-   "name": "Realty Income Corporation 6.000% Series A Cumulative Redeemable Preferred Stock",
+   "symbol": "MFAN",
+   "name": "MFA Financial, Inc. 8.875% Senior Notes due 2029",
    "exchange": "NYSE",
-   "yahoo_symbol": "O$"
+   "yahoo_symbol": "MFAN"
   },
   {
-   "symbol": "ELY",
-   "name": "Electrum Discovery Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ELY.V",
-   "instruments": [
-    {
-     "name": "Electrum Discovery Corp.",
-     "symbol": "ELY"
-    }
-   ]
-  },
-  {
-   "symbol": "LOD",
-   "name": "Lode Gold Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LOD.V",
-   "instruments": [
-    {
-     "name": "Lode Gold Resources Inc.",
-     "symbol": "LOD"
-    }
-   ]
-  },
-  {
-   "symbol": "NTH",
-   "name": "Nord Precious Metals Mining Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NTH.V",
-   "instruments": [
-    {
-     "name": "Nord Precious Metals Mining Inc.",
-     "symbol": "NTH"
-    }
-   ]
+   "symbol": "MSDL",
+   "name": "Morgan Stanley Direct Lending Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSDL"
   }
  ],
  "removed": [
   {
-   "symbol": "CCW",
-   "name": "Canada Silver Cobalt Works Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CCW.V",
-   "instruments": [
-    {
-     "name": "Canada Silver Cobalt Works Inc.",
-     "symbol": "CCW"
-    }
-   ]
-  },
-  {
-   "symbol": "COMSP",
-   "name": "COMSovereign Holding Corp. - 9.25% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "symbol": "OTECW",
+   "name": "OceanTech Acquisitions I Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COMSP"
+   "yahoo_symbol": "OTECW"
   },
   {
-   "symbol": "SRC$A",
-   "name": "Spirit Realty Capital, Inc. 6.000% Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRC$A"
+   "symbol": "GSDWW",
+   "name": "Global Systems Dynamics Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSDWW"
   },
   {
-   "symbol": "SB",
-   "name": "Stratabound Minerals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SB.V",
-   "instruments": [
-    {
-     "name": "Stratabound Minerals Corp.",
-     "symbol": "SB"
-    }
-   ]
+   "symbol": "OTECU",
+   "name": "OceanTech Acquisitions I Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTECU"
   },
   {
-   "symbol": "MED",
-   "name": "Medgold Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MED.V",
-   "instruments": [
-    {
-     "name": "Medgold Resources Corp.",
-     "symbol": "MED"
-    }
-   ]
+   "symbol": "GSD",
+   "name": "Global Systems Dynamics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSD"
   },
   {
-   "symbol": "SRC",
-   "name": "Spirit Realty Capital, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRC"
+   "symbol": "GSDWU",
+   "name": "Global Systems Dynamics Inc. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSDWU"
+  },
+  {
+   "symbol": "OTEC",
+   "name": "OceanTech Acquisitions I Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTEC"
+  },
+  {
+   "symbol": "MRTX",
+   "name": "Mirati Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MRTX"
   }
  ]
 }
