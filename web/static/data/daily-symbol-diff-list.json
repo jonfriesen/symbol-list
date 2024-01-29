@@ -1,90 +1,132 @@
 {
  "added": [
   {
-   "symbol": "CGON",
-   "name": "CG Oncology, Inc. - Common stock",
+   "symbol": "FTZ",
+   "name": "Fitzroy Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FTZ.V",
+   "instruments": [
+    {
+     "name": "Fitzroy Minerals Inc.",
+     "symbol": "FTZ"
+    }
+   ]
+  },
+  {
+   "symbol": "AVBP",
+   "name": "ArriVent BioPharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVBP"
+  },
+  {
+   "symbol": "BTSG",
+   "name": "BrightSpring Health Services, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CGON"
+   "yahoo_symbol": "BTSG"
   },
   {
-   "symbol": "QMID",
-   "name": "WisdomTree U.S. MidCap Quality Growth Fund",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QMID"
+   "symbol": "BTSGU",
+   "name": "BrightSpring Health Services, Inc. - Tangible Equity Unit",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BTSGU"
   },
   {
-   "symbol": "QSML",
-   "name": "WisdomTree U.S. SmallCap Quality Growth Fund",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QSML"
-  },
-  {
-   "symbol": "TRES",
-   "name": "Defiance Treasury Alternative Yield ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRES"
-  },
-  {
-   "symbol": "TRNR",
-   "name": "Interactive Strength Inc. - Common Stock",
+   "symbol": "HAO",
+   "name": "Haoxi Health Technology Limited - Class A Ord Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TRNR"
+   "yahoo_symbol": "HAO"
   },
   {
-   "symbol": "YIBO",
-   "name": "Planet Image International Limited - Class A Ordinary Shares",
+   "symbol": "PBM",
+   "name": "Psyence Biomedical Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBM"
+  },
+  {
+   "symbol": "PBMWW",
+   "name": "Psyence Biomedical Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YIBO"
+   "yahoo_symbol": "PBMWW"
+  },
+  {
+   "symbol": "REAI",
+   "name": "Intelligent Real Estate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "REAI"
+  },
+  {
+   "symbol": "ECCF",
+   "name": "Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECCF"
+  },
+  {
+   "symbol": "FLUT",
+   "name": "Flutter Entertainment plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLUT"
+  },
+  {
+   "symbol": "NEUE",
+   "name": "NeueHealth, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEUE"
   }
  ],
  "removed": [
   {
-   "symbol": "NCAC",
-   "name": "Newcourt Acquisition Corp - Class A Ordinary Share",
+   "symbol": "RAIN",
+   "name": "Rain Oncology Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RAIN"
+  },
+  {
+   "symbol": "NOC",
+   "name": "Norseman Silver Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NOC.V",
+   "instruments": [
+    {
+     "name": "Norseman Silver Inc.",
+     "symbol": "NOC"
+    }
+   ]
+  },
+  {
+   "symbol": "PRVT",
+   "name": "Private Real Estate Strategy via Liquid REITs ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NCAC"
+   "yahoo_symbol": "PRVT"
   },
   {
-   "symbol": "OPA.W",
-   "name": "Magnum Opus Acquisition Limited Redeemable Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "symbol": "GOL",
+   "name": "Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing 2 Pfd Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "OPA.W"
+   "yahoo_symbol": "GOL"
   },
   {
-   "symbol": "NCACU",
-   "name": "Newcourt Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NCACU"
+   "symbol": "MOZ",
+   "name": "Marathon Gold Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "MOZ.TO",
+   "instruments": [
+    {
+     "name": "Marathon Gold Corp J",
+     "symbol": "MOZ"
+    }
+   ]
   },
   {
-   "symbol": "NCACW",
-   "name": "Newcourt Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NCACW"
-  },
-  {
-   "symbol": "ESMT",
-   "name": "EngageSmart, Inc. Common Stock",
+   "symbol": "BHG",
+   "name": "Bright Health Group, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ESMT"
+   "yahoo_symbol": "BHG"
   },
   {
-   "symbol": "OPA.U",
-   "name": "Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OPA.U"
-  },
-  {
-   "symbol": "TRNR",
-   "name": "Interactive Strength Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRNR"
-  },
-  {
-   "symbol": "OPA",
-   "name": "Magnum Opus Acquisition Limited Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OPA"
+   "symbol": "ARAV",
+   "name": "Aravive, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARAV"
   }
  ]
 }
