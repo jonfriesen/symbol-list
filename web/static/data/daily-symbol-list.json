@@ -1,5 +1,5 @@
 {
- "date": "2024-01-29",
+ "date": "2024-01-30",
  "data": [
   {
    "symbol": "ONE",
@@ -778,6 +778,18 @@
     {
      "name": "Amaroq Minerals Ltd.",
      "symbol": "AMRQ"
+    }
+   ]
+  },
+  {
+   "symbol": "AMYA.P",
+   "name": "Amaya Big Sky Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMYA.P.V",
+   "instruments": [
+    {
+     "name": "Amaya Big Sky Capital Corp.",
+     "symbol": "AMYA.P"
     }
    ]
   },
@@ -10690,18 +10702,6 @@
    ]
   },
   {
-   "symbol": "LR",
-   "name": "Luminex Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LR.V",
-   "instruments": [
-    {
-     "name": "Luminex Resources Corp.",
-     "symbol": "LR"
-    }
-   ]
-  },
-  {
    "symbol": "LPK",
    "name": "Lupaka Gold Corp.",
    "exchange": "TSXV",
@@ -16374,6 +16374,18 @@
    ]
   },
   {
+   "symbol": "SPN",
+   "name": "Snipp Interactive Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPN.V",
+   "instruments": [
+    {
+     "name": "Snipp Interactive Inc.",
+     "symbol": "SPN"
+    }
+   ]
+  },
+  {
    "symbol": "SGD",
    "name": "Snowline Gold Corp.",
    "exchange": "TSXV",
@@ -19786,6 +19798,18 @@
    ]
   },
   {
+   "symbol": "ZAU",
+   "name": "Zodiac Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZAU.V",
+   "instruments": [
+    {
+     "name": "Zodiac Gold Inc.",
+     "symbol": "ZAU"
+    }
+   ]
+  },
+  {
    "symbol": "ZONE",
    "name": "Zonetail Inc.",
    "exchange": "TSXV",
@@ -21170,10 +21194,6 @@
     {
      "name": "Bank of Nova Scotia",
      "symbol": "BNS"
-    },
-    {
-     "name": "Bank of N S Sr 40 Pr",
-     "symbol": "BNS.PR.I"
     }
    ]
   },
@@ -24990,10 +25010,6 @@
     {
      "name": "CanopyGrwth CorpJ Db",
      "symbol": "WEED.DB"
-    },
-    {
-     "name": "CanopyGrwth CorpJ Wt",
-     "symbol": "WEED.WT"
     },
     {
      "name": "Canopy GrwthJ Fb21Wt",
@@ -46122,6 +46138,12 @@
    "yahoo_symbol": "AMID"
   },
   {
+   "symbol": "AMIX",
+   "name": "Autonomix Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMIX"
+  },
+  {
    "symbol": "AMKR",
    "name": "Amkor Technology, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -46858,12 +46880,6 @@
    "name": "Art's-Way Manufacturing Co., Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ARTW"
-  },
-  {
-   "symbol": "ARVL",
-   "name": "Arrival - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ARVL"
   },
   {
    "symbol": "ARVN",
@@ -56628,6 +56644,18 @@
    "yahoo_symbol": "GRCL"
   },
   {
+   "symbol": "GRDI",
+   "name": "GRIID Infrastructure Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRDI"
+  },
+  {
+   "symbol": "GRDIW",
+   "name": "GRIID Infrastructure Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRDIW"
+  },
+  {
    "symbol": "GREE",
    "name": "Greenidge Generation Holdings Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -60532,6 +60560,12 @@
    "name": "Lifevantage Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LFVN"
+  },
+  {
+   "symbol": "LFWD",
+   "name": "ReWalk Robotics Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFWD"
   },
   {
    "symbol": "LGCB",
@@ -65100,12 +65134,6 @@
    "yahoo_symbol": "PBPB"
   },
   {
-   "symbol": "PBTS",
-   "name": "Powerbridge Technologies Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PBTS"
-  },
-  {
    "symbol": "PBYI",
    "name": "Puma Biotechnology Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68146,12 +68174,6 @@
    "name": "Runway Growth Finance Corp. - 8.00% Notes due 2027",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "RWAYZ"
-  },
-  {
-   "symbol": "RWLK",
-   "name": "ReWalk Robotics Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RWLK"
   },
   {
    "symbol": "RWOD",
@@ -74116,6 +74138,12 @@
    "name": "iShares Exponential Technologies ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "XT"
+  },
+  {
+   "symbol": "XTKG",
+   "name": "X3 Holdings Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XTKG"
   },
   {
    "symbol": "XTLB",
@@ -87762,18 +87790,6 @@
    "yahoo_symbol": "NSS"
   },
   {
-   "symbol": "NSTB",
-   "name": "Northern Star Investment Corp. II Class A Common stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NSTB"
-  },
-  {
-   "symbol": "NSTB.U",
-   "name": "Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NSTB.U"
-  },
-  {
    "symbol": "NTB",
    "name": "Bank of N.T. Butterfield \u0026 Son Limited (The) Voting Ordinary Shares",
    "exchange": "NYSE",
@@ -89767,7 +89783,7 @@
   },
   {
    "symbol": "QGEN",
-   "name": "Qiagen N.V. Common Shares ",
+   "name": "Qiagen N.V. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "QGEN"
   },

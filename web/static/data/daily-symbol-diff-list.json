@@ -1,132 +1,114 @@
 {
  "added": [
   {
-   "symbol": "FTZ",
-   "name": "Fitzroy Minerals Inc.",
+   "symbol": "AMYA.P",
+   "name": "Amaya Big Sky Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "FTZ.V",
+   "yahoo_symbol": "AMYA.P.V",
    "instruments": [
     {
-     "name": "Fitzroy Minerals Inc.",
-     "symbol": "FTZ"
+     "name": "Amaya Big Sky Capital Corp.",
+     "symbol": "AMYA.P"
     }
    ]
   },
   {
-   "symbol": "AVBP",
-   "name": "ArriVent BioPharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVBP"
+   "symbol": "SPN",
+   "name": "Snipp Interactive Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPN.V",
+   "instruments": [
+    {
+     "name": "Snipp Interactive Inc.",
+     "symbol": "SPN"
+    }
+   ]
   },
   {
-   "symbol": "BTSG",
-   "name": "BrightSpring Health Services, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BTSG"
+   "symbol": "ZAU",
+   "name": "Zodiac Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZAU.V",
+   "instruments": [
+    {
+     "name": "Zodiac Gold Inc.",
+     "symbol": "ZAU"
+    }
+   ]
   },
   {
-   "symbol": "BTSGU",
-   "name": "BrightSpring Health Services, Inc. - Tangible Equity Unit",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BTSGU"
-  },
-  {
-   "symbol": "HAO",
-   "name": "Haoxi Health Technology Limited - Class A Ord Share",
+   "symbol": "AMIX",
+   "name": "Autonomix Medical, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HAO"
+   "yahoo_symbol": "AMIX"
   },
   {
-   "symbol": "PBM",
-   "name": "Psyence Biomedical Ltd. - Ordinary Shares",
+   "symbol": "GRDI",
+   "name": "GRIID Infrastructure Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PBM"
+   "yahoo_symbol": "GRDI"
   },
   {
-   "symbol": "PBMWW",
-   "name": "Psyence Biomedical Ltd. - Warrant",
+   "symbol": "GRDIW",
+   "name": "GRIID Infrastructure Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRDIW"
+  },
+  {
+   "symbol": "LFWD",
+   "name": "ReWalk Robotics Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PBMWW"
+   "yahoo_symbol": "LFWD"
   },
   {
-   "symbol": "REAI",
-   "name": "Intelligent Real Estate ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "REAI"
-  },
-  {
-   "symbol": "ECCF",
-   "name": "Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ECCF"
-  },
-  {
-   "symbol": "FLUT",
-   "name": "Flutter Entertainment plc Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FLUT"
-  },
-  {
-   "symbol": "NEUE",
-   "name": "NeueHealth, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NEUE"
+   "symbol": "XTKG",
+   "name": "X3 Holdings Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XTKG"
   }
  ],
  "removed": [
   {
-   "symbol": "RAIN",
-   "name": "Rain Oncology Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RAIN"
+   "symbol": "NSTB",
+   "name": "Northern Star Investment Corp. II Class A Common stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTB"
   },
   {
-   "symbol": "NOC",
-   "name": "Norseman Silver Inc.",
+   "symbol": "LR",
+   "name": "Luminex Resources Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "NOC.V",
+   "yahoo_symbol": "LR.V",
    "instruments": [
     {
-     "name": "Norseman Silver Inc.",
-     "symbol": "NOC"
+     "name": "Luminex Resources Corp.",
+     "symbol": "LR"
     }
    ]
   },
   {
-   "symbol": "PRVT",
-   "name": "Private Real Estate Strategy via Liquid REITs ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PRVT"
+   "symbol": "PBTS",
+   "name": "Powerbridge Technologies Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PBTS"
   },
   {
-   "symbol": "GOL",
-   "name": "Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing 2 Pfd Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GOL"
-  },
-  {
-   "symbol": "MOZ",
-   "name": "Marathon Gold Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "MOZ.TO",
-   "instruments": [
-    {
-     "name": "Marathon Gold Corp J",
-     "symbol": "MOZ"
-    }
-   ]
-  },
-  {
-   "symbol": "BHG",
-   "name": "Bright Health Group, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BHG"
-  },
-  {
-   "symbol": "ARAV",
-   "name": "Aravive, Inc. - Common Stock",
+   "symbol": "ARVL",
+   "name": "Arrival - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ARAV"
+   "yahoo_symbol": "ARVL"
+  },
+  {
+   "symbol": "RWLK",
+   "name": "ReWalk Robotics Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RWLK"
+  },
+  {
+   "symbol": "NSTB.U",
+   "name": "Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTB.U"
   }
  ]
 }
