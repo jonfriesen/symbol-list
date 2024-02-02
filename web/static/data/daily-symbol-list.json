@@ -1,5 +1,5 @@
 {
- "date": "2024-02-01",
+ "date": "2024-02-02",
  "data": [
   {
    "symbol": "ONE",
@@ -16032,10 +16032,6 @@
      "symbol": "AGMR"
     },
     {
-     "name": "Silver Mountain Resources Inc. wt 02FEB2024",
-     "symbol": "AGMR.WT"
-    },
-    {
      "name": "Silver Mountain Resources Inc. wts A 09Feb2026",
      "symbol": "AGMR.WT.A"
     }
@@ -20310,18 +20306,6 @@
     {
      "name": "Akita Drilling Cl B",
      "symbol": "AKT.B"
-    }
-   ]
-  },
-  {
-   "symbol": "AKU",
-   "name": "Akumin Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AKU.TO",
-   "instruments": [
-    {
-     "name": "Akumin Inc. J",
-     "symbol": "AKU"
     }
    ]
   },
@@ -27288,7 +27272,7 @@
    "yahoo_symbol": "DAY.TO",
    "instruments": [
     {
-     "name": "Ceridian HCM Hldg J",
+     "name": "Dayforce Inc",
      "symbol": "DAY"
     }
    ]
@@ -71491,7 +71475,7 @@
   },
   {
    "symbol": "TRUG",
-   "name": "TruGolf, Inc. - Class A Common Stock",
+   "name": "TruGolf Holdings, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TRUG"
   },
@@ -75604,6 +75588,12 @@
    "name": "Abercrombie \u0026 Fitch Company Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ANF"
+  },
+  {
+   "symbol": "ANRO",
+   "name": "Alto Neuroscience, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANRO"
   },
   {
    "symbol": "ANVS",
@@ -89178,6 +89168,12 @@
    "yahoo_symbol": "PMM"
   },
   {
+   "symbol": "PMNT",
+   "name": "Perfect Moment Ltd. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PMNT"
+  },
+  {
    "symbol": "PMO",
    "name": "Putnam Municipal Opportunities Trust Common Stock",
    "exchange": "NYSE",
@@ -90490,6 +90486,12 @@
    "name": "Redwood Trust, Inc. 10.00% Series A Fixed-Rate Reset Cumulative Redeemable Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RWT$A"
+  },
+  {
+   "symbol": "RWTN",
+   "name": "Redwood Trust, Inc. 9.125% Senior Notes Due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RWTN"
   },
   {
    "symbol": "RXO",
