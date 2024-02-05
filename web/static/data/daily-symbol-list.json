@@ -1,5 +1,5 @@
 {
- "date": "2024-02-02",
+ "date": "2024-02-05",
  "data": [
   {
    "symbol": "ONE",
@@ -7011,12 +7011,12 @@
   },
   {
    "symbol": "GEN",
-   "name": "Generation Gold Corp.",
+   "name": "Generation Uranium Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "GEN.V",
    "instruments": [
     {
-     "name": "Generation Gold Corp.",
+     "name": "Generation Uranium Inc.",
      "symbol": "GEN"
     }
    ]
@@ -8202,18 +8202,6 @@
     {
      "name": "Hank Payments Corp.",
      "symbol": "HANK"
-    }
-   ]
-  },
-  {
-   "symbol": "HCC",
-   "name": "Hanna Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HCC.V",
-   "instruments": [
-    {
-     "name": "Hanna Capital Corp.",
-     "symbol": "HCC"
     }
    ]
   },
@@ -14698,22 +14686,6 @@
    ]
   },
   {
-   "symbol": "RZE",
-   "name": "Razor Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RZE.V",
-   "instruments": [
-    {
-     "name": "Razor Energy Corp.",
-     "symbol": "RZE"
-    },
-    {
-     "name": "Razor Energy Corp wt 16Jun2028",
-     "symbol": "RZE.WT"
-    }
-   ]
-  },
-  {
    "symbol": "RE",
    "name": "RE Royalties Ltd.",
    "exchange": "TSXV",
@@ -15439,12 +15411,12 @@
   },
   {
    "symbol": "ROVR",
-   "name": "Rover Metals Corp.",
+   "name": "Rover Critical Minerals Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "ROVR.V",
    "instruments": [
     {
-     "name": "Rover Metals Corp.",
+     "name": "Rover Critical Minerals Corp.",
      "symbol": "ROVR"
     }
    ]
@@ -40286,18 +40258,6 @@
    ]
   },
   {
-   "symbol": "QFOR",
-   "name": "Q4 Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "QFOR.TO",
-   "instruments": [
-    {
-     "name": "Q4 Inc. J",
-     "symbol": "QFOR"
-    }
-   ]
-  },
-  {
    "symbol": "QTRH",
    "name": "Quarterhill Inc.",
    "exchange": "TSX",
@@ -56840,6 +56800,12 @@
    "yahoo_symbol": "GURE"
   },
   {
+   "symbol": "GUTS",
+   "name": "Fractyl Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GUTS"
+  },
+  {
    "symbol": "GV",
    "name": "Visionary Education Technology Holdings Group Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
@@ -63632,24 +63598,6 @@
    "yahoo_symbol": "NTZG"
   },
   {
-   "symbol": "NUBI",
-   "name": "Nubia Brand International Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUBI"
-  },
-  {
-   "symbol": "NUBIU",
-   "name": "Nubia Brand International Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUBIU"
-  },
-  {
-   "symbol": "NUBIW",
-   "name": "Nubia Brand International Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUBIW"
-  },
-  {
    "symbol": "NUKK",
    "name": "Nukkleus Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -70050,6 +69998,12 @@
    "name": "Star Holdings - Shares of Beneficial Interest",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "STHO"
+  },
+  {
+   "symbol": "STI",
+   "name": "Solidion Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STI"
   },
   {
    "symbol": "STIM",
@@ -79078,7 +79032,7 @@
   {
    "symbol": "CQP",
    "name": "Cheniere Energy Partners, LP Common Units",
-   "exchange": "NYSE MKT",
+   "exchange": "NYSE",
    "yahoo_symbol": "CQP"
   },
   {
@@ -79434,24 +79388,6 @@
    "name": "CVR Energy Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CVI"
-  },
-  {
-   "symbol": "CVII",
-   "name": "Churchill Capital Corp VII Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CVII"
-  },
-  {
-   "symbol": "CVII.U",
-   "name": "Churchill Capital Corp VII Units, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CVII.U"
-  },
-  {
-   "symbol": "CVII.W",
-   "name": "Churchill Capital Corp VII Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CVII.W"
   },
   {
    "symbol": "CVM",
@@ -85540,7 +85476,7 @@
   {
    "symbol": "LNG",
    "name": "Cheniere Energy, Inc. Common Stock",
-   "exchange": "NYSE MKT",
+   "exchange": "NYSE",
    "yahoo_symbol": "LNG"
   },
   {
@@ -89166,12 +89102,6 @@
    "name": "Putnam Managed Municipal Income Trust Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "PMM"
-  },
-  {
-   "symbol": "PMNT",
-   "name": "Perfect Moment Ltd. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PMNT"
   },
   {
    "symbol": "PMO",
