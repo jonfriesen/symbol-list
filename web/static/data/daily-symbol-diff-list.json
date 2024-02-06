@@ -1,124 +1,54 @@
 {
  "added": [
   {
-   "symbol": "GUTS",
-   "name": "Fractyl Health, Inc. - Common Stock",
+   "symbol": "CVII",
+   "name": "Churchill Capital Corp VII - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GUTS"
+   "yahoo_symbol": "CVII"
   },
   {
-   "symbol": "STI",
-   "name": "Solidion Technology, Inc. - Common Stock",
+   "symbol": "CVIIU",
+   "name": "Churchill Capital Corp VII - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STI"
+   "yahoo_symbol": "CVIIU"
   },
   {
-   "symbol": "CQP",
-   "name": "Cheniere Energy Partners, LP Common Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CQP"
+   "symbol": "CVIIW",
+   "name": "Churchill Capital Corp VII - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVIIW"
   },
   {
-   "symbol": "LNG",
-   "name": "Cheniere Energy, Inc. Common Stock",
+   "symbol": "LEGT.U",
+   "name": "Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT.U"
+  },
+  {
+   "symbol": "MITN",
+   "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
    "exchange": "NYSE",
-   "yahoo_symbol": "LNG"
+   "yahoo_symbol": "MITN"
+  },
+  {
+   "symbol": "SCPX",
+   "name": "Scorpius Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SCPX"
   }
  ],
  "removed": [
   {
-   "symbol": "CQP",
-   "name": "Cheniere Energy Partners, LP Common Units",
+   "symbol": "WTER",
+   "name": "The Alkaline Water Company Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTER"
+  },
+  {
+   "symbol": "NHWK",
+   "name": "NightHawk Biosciences, Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "CQP"
-  },
-  {
-   "symbol": "RZE",
-   "name": "Razor Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RZE.V",
-   "instruments": [
-    {
-     "name": "Razor Energy Corp.",
-     "symbol": "RZE"
-    },
-    {
-     "name": "Razor Energy Corp wt 16Jun2028",
-     "symbol": "RZE.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "CVII.W",
-   "name": "Churchill Capital Corp VII Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CVII.W"
-  },
-  {
-   "symbol": "HCC",
-   "name": "Hanna Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HCC.V",
-   "instruments": [
-    {
-     "name": "Hanna Capital Corp.",
-     "symbol": "HCC"
-    }
-   ]
-  },
-  {
-   "symbol": "CVII.U",
-   "name": "Churchill Capital Corp VII Units, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CVII.U"
-  },
-  {
-   "symbol": "CVII",
-   "name": "Churchill Capital Corp VII Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CVII"
-  },
-  {
-   "symbol": "NUBIW",
-   "name": "Nubia Brand International Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUBIW"
-  },
-  {
-   "symbol": "NUBIU",
-   "name": "Nubia Brand International Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUBIU"
-  },
-  {
-   "symbol": "QFOR",
-   "name": "Q4 Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "QFOR.TO",
-   "instruments": [
-    {
-     "name": "Q4 Inc. J",
-     "symbol": "QFOR"
-    }
-   ]
-  },
-  {
-   "symbol": "NUBI",
-   "name": "Nubia Brand International Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUBI"
-  },
-  {
-   "symbol": "PMNT",
-   "name": "Perfect Moment Ltd. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PMNT"
-  },
-  {
-   "symbol": "LNG",
-   "name": "Cheniere Energy, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LNG"
+   "yahoo_symbol": "NHWK"
   }
  ]
 }
