@@ -1,54 +1,138 @@
 {
  "added": [
   {
-   "symbol": "CVII",
-   "name": "Churchill Capital Corp VII - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CVII"
+   "symbol": "THRM",
+   "name": "Therma Bright Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "THRM.V",
+   "instruments": [
+    {
+     "name": "Therma Bright Inc.",
+     "symbol": "THRM"
+    }
+   ]
   },
   {
-   "symbol": "CVIIU",
-   "name": "Churchill Capital Corp VII - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CVIIU"
+   "symbol": "EMAX",
+   "name": "Hamilton Energy Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EMAX.TO",
+   "instruments": [
+    {
+     "name": "Ham Engy Yld Max Etf",
+     "symbol": "EMAX"
+    }
+   ]
   },
   {
-   "symbol": "CVIIW",
-   "name": "Churchill Capital Corp VII - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CVIIW"
+   "symbol": "AMAX",
+   "name": "Hamilton Gold Producer Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMAX.TO",
+   "instruments": [
+    {
+     "name": "Ham Gld Pr Y Max Etf",
+     "symbol": "AMAX"
+    }
+   ]
   },
   {
-   "symbol": "LEGT.U",
-   "name": "Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LEGT.U"
+   "symbol": "LMAX",
+   "name": "Hamilton Healthcare Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LMAX.TO",
+   "instruments": [
+    {
+     "name": "Ham Hlth Yld Max Etf",
+     "symbol": "LMAX"
+    }
+   ]
   },
   {
-   "symbol": "MITN",
-   "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
+   "symbol": "FMAX",
+   "name": "Hamilton U.S. Financials Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMAX.TO",
+   "instruments": [
+    {
+     "name": "Ham US F Yld Max Etf",
+     "symbol": "FMAX"
+    }
+   ]
+  },
+  {
+   "symbol": "AHR",
+   "name": "American Healthcare REIT, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MITN"
-  },
-  {
-   "symbol": "SCPX",
-   "name": "Scorpius Holdings, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SCPX"
+   "yahoo_symbol": "AHR"
   }
  ],
  "removed": [
   {
-   "symbol": "WTER",
-   "name": "The Alkaline Water Company Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WTER"
+   "symbol": "TSP",
+   "name": "TuSimple Holdings Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TSP"
   },
   {
-   "symbol": "NHWK",
-   "name": "NightHawk Biosciences, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NHWK"
+   "symbol": "OEE",
+   "name": "Memex Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OEE.V",
+   "instruments": [
+    {
+     "name": "Memex Inc.",
+     "symbol": "OEE"
+    }
+   ]
+  },
+  {
+   "symbol": "UI",
+   "name": "Urbanimmersive Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UI.V",
+   "instruments": [
+    {
+     "name": "Urbanimmersive Inc.",
+     "symbol": "UI"
+    }
+   ]
+  },
+  {
+   "symbol": "DMK",
+   "name": "DMK Pharmaceuticals Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DMK"
+  },
+  {
+   "symbol": "TIE",
+   "name": "Coloured Ties Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TIE.V",
+   "instruments": [
+    {
+     "name": "Coloured Ties Capital Inc.",
+     "symbol": "TIE"
+    }
+   ]
+  },
+  {
+   "symbol": "NVTA",
+   "name": "Invitae Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NVTA"
+  },
+  {
+   "symbol": "PDH",
+   "name": "Premier Diversified Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PDH.V",
+   "instruments": [
+    {
+     "name": "Premier Diversified Holdings Inc.",
+     "symbol": "PDH"
+    }
+   ]
   }
  ]
 }
