@@ -1,138 +1,84 @@
 {
  "added": [
   {
-   "symbol": "THRM",
-   "name": "Therma Bright Inc.",
+   "symbol": "BRLS",
+   "name": "Borealis Foods Inc. - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRLS"
+  },
+  {
+   "symbol": "BRLSW",
+   "name": "Borealis Foods Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRLSW"
+  },
+  {
+   "symbol": "CCPC.P",
+   "name": "Coco Pool Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "THRM.V",
+   "yahoo_symbol": "CCPC.P.V",
    "instruments": [
     {
-     "name": "Therma Bright Inc.",
-     "symbol": "THRM"
+     "name": "Coco Pool Corp.",
+     "symbol": "CCPC.P"
     }
    ]
   },
   {
-   "symbol": "EMAX",
-   "name": "Hamilton Energy Yield Maximizer ETF",
+   "symbol": "GFR",
+   "name": "Greenfire Resources Ltd.",
    "exchange": "TSX",
-   "yahoo_symbol": "EMAX.TO",
+   "yahoo_symbol": "GFR.TO",
    "instruments": [
     {
-     "name": "Ham Engy Yld Max Etf",
-     "symbol": "EMAX"
+     "name": "Greenfire Res Ltd. ",
+     "symbol": "GFR"
     }
    ]
   },
   {
-   "symbol": "AMAX",
-   "name": "Hamilton Gold Producer Yield Maximizer ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "AMAX.TO",
-   "instruments": [
-    {
-     "name": "Ham Gld Pr Y Max Etf",
-     "symbol": "AMAX"
-    }
-   ]
-  },
-  {
-   "symbol": "LMAX",
-   "name": "Hamilton Healthcare Yield Maximizer ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "LMAX.TO",
-   "instruments": [
-    {
-     "name": "Ham Hlth Yld Max Etf",
-     "symbol": "LMAX"
-    }
-   ]
-  },
-  {
-   "symbol": "FMAX",
-   "name": "Hamilton U.S. Financials Yield Maximizer ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FMAX.TO",
-   "instruments": [
-    {
-     "name": "Ham US F Yld Max Etf",
-     "symbol": "FMAX"
-    }
-   ]
-  },
-  {
-   "symbol": "AHR",
-   "name": "American Healthcare REIT, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AHR"
+   "symbol": "PMNT",
+   "name": "Perfect Moment Ltd. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PMNT"
   }
  ],
  "removed": [
   {
-   "symbol": "TSP",
-   "name": "TuSimple Holdings Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TSP"
-  },
-  {
-   "symbol": "OEE",
-   "name": "Memex Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OEE.V",
-   "instruments": [
-    {
-     "name": "Memex Inc.",
-     "symbol": "OEE"
-    }
-   ]
-  },
-  {
-   "symbol": "UI",
-   "name": "Urbanimmersive Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "UI.V",
-   "instruments": [
-    {
-     "name": "Urbanimmersive Inc.",
-     "symbol": "UI"
-    }
-   ]
-  },
-  {
-   "symbol": "DMK",
-   "name": "DMK Pharmaceuticals Corporation - Common Stock",
+   "symbol": "OXUSW",
+   "name": "Oxus Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DMK"
+   "yahoo_symbol": "OXUSW"
   },
   {
-   "symbol": "TIE",
-   "name": "Coloured Ties Capital Inc.",
+   "symbol": "KZD",
+   "name": "Kaizen Discovery Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TIE.V",
+   "yahoo_symbol": "KZD.V",
    "instruments": [
     {
-     "name": "Coloured Ties Capital Inc.",
-     "symbol": "TIE"
+     "name": "Kaizen Discovery Inc.",
+     "symbol": "KZD"
     }
    ]
   },
   {
-   "symbol": "NVTA",
-   "name": "Invitae Corporation Common Stock",
+   "symbol": "OXUS",
+   "name": "Oxus Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXUS"
+  },
+  {
+   "symbol": "OXUSU",
+   "name": "Oxus Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXUSU"
+  },
+  {
+   "symbol": "CANO",
+   "name": "Cano Health, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "NVTA"
-  },
-  {
-   "symbol": "PDH",
-   "name": "Premier Diversified Holdings Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PDH.V",
-   "instruments": [
-    {
-     "name": "Premier Diversified Holdings Inc.",
-     "symbol": "PDH"
-    }
-   ]
+   "yahoo_symbol": "CANO"
   }
  ]
 }
