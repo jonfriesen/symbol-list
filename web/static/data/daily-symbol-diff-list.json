@@ -1,206 +1,144 @@
 {
  "added": [
   {
-   "symbol": "BST",
-   "name": "Bessor Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BST.V",
-   "instruments": [
-    {
-     "name": "Bessor Minerals Inc.",
-     "symbol": "BST"
-    }
-   ]
+   "symbol": "DHAI",
+   "name": "DIH Holding US, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DHAI"
   },
   {
-   "symbol": "CYTO",
-   "name": "Cytophage Technologies Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CYTO.V",
-   "instruments": [
-    {
-     "name": "Cytophage Technologies Ltd.",
-     "symbol": "CYTO"
-    }
-   ]
-  },
-  {
-   "symbol": "SPMC",
-   "name": "South Pacific Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SPMC.V",
-   "instruments": [
-    {
-     "name": "South Pacific Metals Corp.",
-     "symbol": "SPMC"
-    }
-   ]
-  },
-  {
-   "symbol": "STLR",
-   "name": "STLLR Gold Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "STLR.TO",
-   "instruments": [
-    {
-     "name": "Moneta Gold Inc. J",
-     "symbol": "STLR"
-    },
-    {
-     "name": "Nighthawk Gold J Wt",
-     "symbol": "STLR.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "TBBB",
-   "name": "BBB Foods Inc. Class A Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TBBB"
-  },
-  {
-   "symbol": "GNLN",
-   "name": "Greenlane Holdings, Inc. - Class A Common Stock",
+   "symbol": "DHAIW",
+   "name": "DIH Holding US, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GNLN"
+   "yahoo_symbol": "DHAIW"
   },
   {
-   "symbol": "GRYP",
-   "name": "Gryphon Digital Mining, Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GRYP"
+   "symbol": "HLXB",
+   "name": "Helix Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HLXB"
   },
   {
-   "symbol": "KYTX",
-   "name": "Kyverna Therapeutics, Inc. - Common Stock",
+   "symbol": "MGX",
+   "name": "Metagenomi, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KYTX"
+   "yahoo_symbol": "MGX"
   },
   {
-   "symbol": "MNTS",
-   "name": "Momentus Inc. - Class A Common Stock",
+   "symbol": "PLMJ",
+   "name": "Plum Acquisition Corp. III - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MNTS"
+   "yahoo_symbol": "PLMJ"
   },
   {
-   "symbol": "MNTSW",
-   "name": "Momentus Inc. - Warrant",
+   "symbol": "PLMJU",
+   "name": "Plum Acquisition Corp. III - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MNTSW"
+   "yahoo_symbol": "PLMJU"
+  },
+  {
+   "symbol": "PLMJW",
+   "name": "Plum Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMJW"
+  },
+  {
+   "symbol": "TELO",
+   "name": "Telomir Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TELO"
+  },
+  {
+   "symbol": "ATCH",
+   "name": "AtlasClear Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATCH"
   }
  ],
  "removed": [
   {
-   "symbol": "ALYA",
-   "name": "Alithya Group inc. - Class A subordinate voting shares",
+   "symbol": "HHLA.W",
+   "name": "HH\u0026L Acquisition Co. Redeemable warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HHLA.W"
+  },
+  {
+   "symbol": "IMACW",
+   "name": "IMAC Holdings, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALYA"
+   "yahoo_symbol": "IMACW"
   },
   {
-   "symbol": "KERNW",
-   "name": "Akerna Corp. - Warrant",
+   "symbol": "QFTA",
+   "name": "Quantum FinTech Acquisition Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "QFTA"
+  },
+  {
+   "symbol": "SFE",
+   "name": "Safeguard Scientifics, Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KERNW"
+   "yahoo_symbol": "SFE"
   },
   {
-   "symbol": "ET$C",
-   "name": "Energy Transfer L.P. 7.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit",
+   "symbol": "NTCO",
+   "name": "Natura \u0026Co Holding S.A. American Depositary Shares ",
    "exchange": "NYSE",
-   "yahoo_symbol": "ET$C"
+   "yahoo_symbol": "NTCO"
   },
   {
-   "symbol": "GNLN",
-   "name": "Greenlane Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GNLN"
+   "symbol": "APTMU",
+   "name": "Alpha Partners Technology Merger Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APTMU"
   },
   {
-   "symbol": "ET$D",
-   "name": "Energy Transfer L.P. 7.625% Series D Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit",
+   "symbol": "HHLA",
+   "name": "HH\u0026L Acquisition Co. Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "ET$D"
+   "yahoo_symbol": "HHLA"
   },
   {
-   "symbol": "NHK",
-   "name": "Nighthawk Gold Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NHK.TO",
-   "instruments": [
-    {
-     "name": "Nighthawk Gold J",
-     "symbol": "NHK"
-    },
-    {
-     "name": "Nighthawk Gold J Wt",
-     "symbol": "NHK.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "NM$G",
-   "name": "Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perpetual Preferred Series G (Marshall Islands)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NM$G"
-  },
-  {
-   "symbol": "CIII.P",
-   "name": "Cuspis Capital III Ltd.",
+   "symbol": "PMKR",
+   "name": "Playmaker Capital Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CIII.P.V",
+   "yahoo_symbol": "PMKR.V",
    "instruments": [
     {
-     "name": "Cuspis Capital III Ltd.",
-     "symbol": "CIII.P"
+     "name": "Playmaker Capital Inc.",
+     "symbol": "PMKR"
     }
    ]
   },
   {
-   "symbol": "NM$H",
-   "name": "Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perp. Preferred Series H%",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NM$H"
-  },
-  {
-   "symbol": "MNTSW",
-   "name": "Momentus Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MNTSW"
-  },
-  {
-   "symbol": "KERN",
-   "name": "Akerna Corp. - Common Stock",
+   "symbol": "APTM",
+   "name": "Alpha Partners Technology Merger Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KERN"
+   "yahoo_symbol": "APTM"
   },
   {
-   "symbol": "KRL",
-   "name": "Kainantu Resources Ltd.",
+   "symbol": "FCO",
+   "name": "Fabled Silver Gold Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "KRL.V",
+   "yahoo_symbol": "FCO.V",
    "instruments": [
     {
-     "name": "Kainantu Resources Ltd.",
-     "symbol": "KRL"
+     "name": "Fabled Silver Gold Corp.",
+     "symbol": "FCO"
     }
    ]
   },
   {
-   "symbol": "MNTS",
-   "name": "Momentus Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MNTS"
+   "symbol": "APTMW",
+   "name": "Alpha Partners Technology Merger Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APTMW"
   },
   {
-   "symbol": "ME",
-   "name": "Moneta Gold Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ME.TO",
-   "instruments": [
-    {
-     "name": "Moneta Gold Inc. J",
-     "symbol": "ME"
-    }
-   ]
+   "symbol": "HHLA.U",
+   "name": "HH\u0026L Acquisition Co. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HHLA.U"
   }
  ]
 }
