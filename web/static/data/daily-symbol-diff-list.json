@@ -1,144 +1,102 @@
 {
  "added": [
   {
-   "symbol": "DHAI",
-   "name": "DIH Holding US, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DHAI"
+   "symbol": "AERO",
+   "name": "Aero Energy Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AERO.V",
+   "instruments": [
+    {
+     "name": "Aero Energy Limited",
+     "symbol": "AERO"
+    }
+   ]
   },
   {
-   "symbol": "DHAIW",
-   "name": "DIH Holding US, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DHAIW"
+   "symbol": "MLO",
+   "name": "Metalero Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MLO.V",
+   "instruments": [
+    {
+     "name": "Metalero Mining Corp.",
+     "symbol": "MLO"
+    }
+   ]
   },
   {
-   "symbol": "HLXB",
-   "name": "Helix Acquisition Corp. II - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HLXB"
-  },
-  {
-   "symbol": "MGX",
-   "name": "Metagenomi, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MGX"
-  },
-  {
-   "symbol": "PLMJ",
-   "name": "Plum Acquisition Corp. III - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLMJ"
-  },
-  {
-   "symbol": "PLMJU",
-   "name": "Plum Acquisition Corp. III - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLMJU"
-  },
-  {
-   "symbol": "PLMJW",
-   "name": "Plum Acquisition Corp. III - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLMJW"
-  },
-  {
-   "symbol": "TELO",
-   "name": "Telomir Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TELO"
-  },
-  {
-   "symbol": "ATCH",
-   "name": "AtlasClear Holdings, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ATCH"
+   "symbol": "PRKS",
+   "name": "United Parks \u0026 Resorts Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRKS"
   }
  ],
  "removed": [
   {
-   "symbol": "HHLA.W",
-   "name": "HH\u0026L Acquisition Co. Redeemable warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HHLA.W"
-  },
-  {
-   "symbol": "IMACW",
-   "name": "IMAC Holdings, Inc. - Warrant",
+   "symbol": "AEY",
+   "name": "ADDvantage Technologies Group, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IMACW"
+   "yahoo_symbol": "AEY"
   },
   {
-   "symbol": "QFTA",
-   "name": "Quantum FinTech Acquisition Corporation Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "QFTA"
-  },
-  {
-   "symbol": "SFE",
-   "name": "Safeguard Scientifics, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SFE"
-  },
-  {
-   "symbol": "NTCO",
-   "name": "Natura \u0026Co Holding S.A. American Depositary Shares ",
+   "symbol": "SEAS",
+   "name": "SeaWorld Entertainment, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "NTCO"
+   "yahoo_symbol": "SEAS"
   },
   {
-   "symbol": "APTMU",
-   "name": "Alpha Partners Technology Merger Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APTMU"
-  },
-  {
-   "symbol": "HHLA",
-   "name": "HH\u0026L Acquisition Co. Class A Ordinary Shares",
+   "symbol": "CPTK",
+   "name": "Crown PropTech Acquisitions Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "HHLA"
+   "yahoo_symbol": "CPTK"
   },
   {
-   "symbol": "PMKR",
-   "name": "Playmaker Capital Inc.",
+   "symbol": "CPTK.U",
+   "name": "Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPTK.U"
+  },
+  {
+   "symbol": "NVIV",
+   "name": "InVivo Therapeutics Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVIV"
+  },
+  {
+   "symbol": "MDVL",
+   "name": "MedAvail Holdings, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDVL"
+  },
+  {
+   "symbol": "IMGN",
+   "name": "ImmunoGen, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IMGN"
+  },
+  {
+   "symbol": "CRTS",
+   "name": "Cortus Metals Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PMKR.V",
+   "yahoo_symbol": "CRTS.V",
    "instruments": [
     {
-     "name": "Playmaker Capital Inc.",
-     "symbol": "PMKR"
+     "name": "Cortus Metals Inc.",
+     "symbol": "CRTS"
     }
    ]
   },
   {
-   "symbol": "APTM",
-   "name": "Alpha Partners Technology Merger Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APTM"
-  },
-  {
-   "symbol": "FCO",
-   "name": "Fabled Silver Gold Corp.",
+   "symbol": "AAU",
+   "name": "Angold Resources Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "FCO.V",
+   "yahoo_symbol": "AAU.V",
    "instruments": [
     {
-     "name": "Fabled Silver Gold Corp.",
-     "symbol": "FCO"
+     "name": "Angold Resources Ltd.",
+     "symbol": "AAU"
     }
    ]
-  },
-  {
-   "symbol": "APTMW",
-   "name": "Alpha Partners Technology Merger Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APTMW"
-  },
-  {
-   "symbol": "HHLA.U",
-   "name": "HH\u0026L Acquisition Co. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HHLA.U"
   }
  ]
 }
