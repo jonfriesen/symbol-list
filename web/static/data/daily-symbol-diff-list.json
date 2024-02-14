@@ -1,100 +1,100 @@
 {
  "added": [
   {
-   "symbol": "AERO",
-   "name": "Aero Energy Limited",
+   "symbol": "CANQ",
+   "name": "Calamos Alternative Nasdaq \u0026 Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CANQ"
+  },
+  {
+   "symbol": "CRGE",
+   "name": "Charge Enterprises, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRGE"
+  },
+  {
+   "symbol": "AXIL",
+   "name": "AXIL Brands, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AXIL"
+  },
+  {
+   "symbol": "UMAC",
+   "name": "Unusual Machines, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UMAC"
+  },
+  {
+   "symbol": "CUEX",
+   "name": "CopperEx Resources Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "AERO.V",
+   "yahoo_symbol": "CUEX.V",
    "instruments": [
     {
-     "name": "Aero Energy Limited",
-     "symbol": "AERO"
+     "name": "CopperEx Resources Corporation",
+     "symbol": "CUEX"
     }
    ]
   },
   {
-   "symbol": "MLO",
-   "name": "Metalero Mining Corp.",
+   "symbol": "GAB",
+   "name": "Gabo Mining Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MLO.V",
+   "yahoo_symbol": "GAB.V",
    "instruments": [
     {
-     "name": "Metalero Mining Corp.",
-     "symbol": "MLO"
+     "name": "Gabo Mining Ltd.",
+     "symbol": "GAB"
     }
    ]
-  },
-  {
-   "symbol": "PRKS",
-   "name": "United Parks \u0026 Resorts Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRKS"
   }
  ],
  "removed": [
   {
-   "symbol": "AEY",
-   "name": "ADDvantage Technologies Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEY"
-  },
-  {
-   "symbol": "SEAS",
-   "name": "SeaWorld Entertainment, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEAS"
-  },
-  {
-   "symbol": "CPTK",
-   "name": "Crown PropTech Acquisitions Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CPTK"
-  },
-  {
-   "symbol": "CPTK.U",
-   "name": "Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CPTK.U"
-  },
-  {
-   "symbol": "NVIV",
-   "name": "InVivo Therapeutics Holdings Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVIV"
-  },
-  {
-   "symbol": "MDVL",
-   "name": "MedAvail Holdings, Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MDVL"
-  },
-  {
-   "symbol": "IMGN",
-   "name": "ImmunoGen, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IMGN"
-  },
-  {
-   "symbol": "CRTS",
-   "name": "Cortus Metals Inc.",
+   "symbol": "MDL",
+   "name": "Medallion Resources Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CRTS.V",
+   "yahoo_symbol": "MDL.V",
    "instruments": [
     {
-     "name": "Cortus Metals Inc.",
-     "symbol": "CRTS"
+     "name": "Medallion Resources Ltd.",
+     "symbol": "MDL"
     }
    ]
   },
   {
-   "symbol": "AAU",
-   "name": "Angold Resources Ltd.",
+   "symbol": "CRGE",
+   "name": "Charge Enterprises, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRGE"
+  },
+  {
+   "symbol": "NSTG",
+   "name": "NanoString Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NSTG"
+  },
+  {
+   "symbol": "IBO",
+   "name": "IBO (Listing Market - NYSE Amex Network B F) Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IBO"
+  },
+  {
+   "symbol": "MARK",
+   "name": "Remark Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARK"
+  },
+  {
+   "symbol": "GHM.P",
+   "name": "Gotham Resource Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AAU.V",
+   "yahoo_symbol": "GHM.P.V",
    "instruments": [
     {
-     "name": "Angold Resources Ltd.",
-     "symbol": "AAU"
+     "name": "Gotham Resource Corp.",
+     "symbol": "GHM.P"
     }
    ]
   }
