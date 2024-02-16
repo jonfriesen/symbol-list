@@ -1,5 +1,5 @@
 {
- "date": "2024-02-15",
+ "date": "2024-02-16",
  "data": [
   {
    "symbol": "ONE",
@@ -8902,18 +8902,6 @@
    ]
   },
   {
-   "symbol": "IPG",
-   "name": "Imperial Mining Group Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IPG.V",
-   "instruments": [
-    {
-     "name": "Imperial Mining Group Ltd.",
-     "symbol": "IPG"
-    }
-   ]
-  },
-  {
    "symbol": "INCA",
    "name": "Inca One Gold Corp.",
    "exchange": "TSXV",
@@ -9362,10 +9350,6 @@
     {
      "name": "Jasper Commerce Inc.",
      "symbol": "JPIM"
-    },
-    {
-     "name": "Jasper Commerce Inc. wt 16FEB2024",
-     "symbol": "JPIM.WT"
     }
    ]
   },
@@ -15666,6 +15650,18 @@
    ]
   },
   {
+   "symbol": "SCD",
+   "name": "Scandium Canada Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCD.V",
+   "instruments": [
+    {
+     "name": "Scandium Canada Ltd.",
+     "symbol": "SCD"
+    }
+   ]
+  },
+  {
    "symbol": "SGN",
    "name": "Scorpio Gold Corporation",
    "exchange": "TSXV",
@@ -18494,18 +18490,6 @@
     {
      "name": "Vanadiumcorp Resource Inc.",
      "symbol": "VRB"
-    }
-   ]
-  },
-  {
-   "symbol": "VSR",
-   "name": "Vanstar Mining Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VSR.V",
-   "instruments": [
-    {
-     "name": "Vanstar Mining Resources Inc",
-     "symbol": "VSR"
     }
    ]
   },
@@ -50142,18 +50126,6 @@
    "yahoo_symbol": "CHDN"
   },
   {
-   "symbol": "CHEA",
-   "name": "Chenghe Acquisition Co. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHEA"
-  },
-  {
-   "symbol": "CHEAU",
-   "name": "Chenghe Acquisition Co. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHEAU"
-  },
-  {
    "symbol": "CHEF",
    "name": "The Chefs' Warehouse, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -67201,7 +67173,7 @@
   },
   {
    "symbol": "RENB",
-   "name": "Renovaro Biosciences Inc. - Common Stock",
+   "name": "Renovaro Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RENB"
   },
@@ -78172,6 +78144,12 @@
    "name": "ChargePoint Holdings, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CHPT"
+  },
+  {
+   "symbol": "CHRO",
+   "name": "Chromocell Therapeutics Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHRO"
   },
   {
    "symbol": "CHT",
@@ -91162,12 +91140,6 @@
    "name": "Schneider National, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SNDR"
-  },
-  {
-   "symbol": "SNMP",
-   "name": "Evolve Transition Infrastructure LP Common Units representing Class B Limited Liability Company Interests",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SNMP"
   },
   {
    "symbol": "SNN",
