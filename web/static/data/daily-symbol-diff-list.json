@@ -1,84 +1,72 @@
 {
  "added": [
   {
-   "symbol": "MWLV",
-   "name": "Mackenzie World Low Volatility ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MWLV.TO",
+   "symbol": "GGA",
+   "name": "Goldgroup Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GGA.V",
    "instruments": [
     {
-     "name": "Mack Wrld L Vol ETF",
-     "symbol": "MWLV"
+     "name": "Goldgroup Mining Inc.",
+     "symbol": "GGA"
     }
    ]
   }
  ],
  "removed": [
   {
-   "symbol": "POTX",
-   "name": "Global X Cannabis ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "POTX"
-  },
-  {
-   "symbol": "GGA",
-   "name": "Goldgroup Mining Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "GGA.TO",
-   "instruments": [
-    {
-     "name": "Goldgroup Mining J",
-     "symbol": "GGA"
-    }
-   ]
-  },
-  {
-   "symbol": "NIKL",
-   "name": "GK Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NIKL.V",
-   "instruments": [
-    {
-     "name": "GK Resources Ltd.",
-     "symbol": "NIKL"
-    }
-   ]
-  },
-  {
-   "symbol": "BFIT",
-   "name": "Global X Health \u0026 Wellness ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BFIT"
-  },
-  {
-   "symbol": "VR",
-   "name": "Global X Metaverse ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VR"
-  },
-  {
-   "symbol": "GRNR",
-   "name": "Global X Green Building ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRNR"
-  },
-  {
-   "symbol": "CHB",
-   "name": "Global X China Biotech Innovation ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHB"
-  },
-  {
-   "symbol": "EAR",
-   "name": "Eargo, Inc. - Common Stock",
+   "symbol": "ICVX",
+   "name": "Icosavax, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EAR"
+   "yahoo_symbol": "ICVX"
   },
   {
-   "symbol": "CYAN",
-   "name": "Cyanotech Corporation - Common Stock",
+   "symbol": "FRLN",
+   "name": "Freeline Therapeutics Holdings plc - ADSs",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CYAN"
+   "yahoo_symbol": "FRLN"
+  },
+  {
+   "symbol": "GMBL",
+   "name": "Esports Entertainment Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMBL"
+  },
+  {
+   "symbol": "GMBLP",
+   "name": "Esports Entertainment Group Inc. - 10.0% Series A Cumulative Redeemable Convertible Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMBLP"
+  },
+  {
+   "symbol": "GMBLW",
+   "name": "Esports Entertainment Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMBLW"
+  },
+  {
+   "symbol": "JT",
+   "name": "Jianpu Technology Inc. American depositary shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JT"
+  },
+  {
+   "symbol": "GMBLZ",
+   "name": "Esports Entertainment Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMBLZ"
+  },
+  {
+   "symbol": "TWEB",
+   "name": "SoFi Web 3 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWEB"
+  },
+  {
+   "symbol": "BYOB",
+   "name": "SoFi Be Your Own Boss ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BYOB"
   }
  ]
 }
