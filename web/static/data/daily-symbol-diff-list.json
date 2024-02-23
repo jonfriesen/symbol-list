@@ -1,112 +1,72 @@
 {
  "added": [
   {
-   "symbol": "DYCQU",
-   "name": "DT Cloud Acquisition Corporation - Unit",
+   "symbol": "BTFX",
+   "name": "Valkyrie Bitcoin Futures Leveraged Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DYCQU"
-  },
-  {
-   "symbol": "WETH",
-   "name": "Wetouch Technology Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WETH"
-  },
-  {
-   "symbol": "VHAI",
-   "name": "Vocodia Holdings Corp. Common Stock",
-   "exchange": "BATS",
-   "yahoo_symbol": "VHAI"
-  },
-  {
-   "symbol": "VHAI.A",
-   "name": "Vocodia Holdings Corp. Warrants Series A",
-   "exchange": "BATS",
-   "yahoo_symbol": "VHAI.A"
-  },
-  {
-   "symbol": "VHAI.B",
-   "name": "Vocodia Holdings Corp. Warrants Series B",
-   "exchange": "BATS",
-   "yahoo_symbol": "VHAI.B"
-  },
-  {
-   "symbol": "NPS",
-   "name": "Canadian Large Cap Leaders Split Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NPS.TO",
-   "instruments": [
-    {
-     "name": "Cdn LCap L SplCr ClA",
-     "symbol": "NPS"
-    },
-    {
-     "name": "Cdn LCap L SplCr Prf",
-     "symbol": "NPS.PR.A"
-    }
-   ]
-  },
-  {
-   "symbol": "NGEX",
-   "name": "NGEx Minerals Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NGEX.TO",
-   "instruments": [
-    {
-     "name": "NGEx Minerals Ltd.",
-     "symbol": "NGEX"
-    }
-   ]
-  },
-  {
-   "symbol": "TCSH",
-   "name": "TD Cash Management ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TCSH.TO",
-   "instruments": [
-    {
-     "name": "Td Cash Mgmt ETF",
-     "symbol": "TCSH"
-    }
-   ]
+   "yahoo_symbol": "BTFX"
   }
  ],
  "removed": [
   {
-   "symbol": "SIEN",
-   "name": "Sientra, Inc. - Common Stock",
+   "symbol": "LCAAW",
+   "name": "L Catterton Asia Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAAW"
+  },
+  {
+   "symbol": "SHAP.U",
+   "name": "Spree Acquisition Corp. 1 Limited Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHAP.U"
+  },
+  {
+   "symbol": "SHAP",
+   "name": "Spree Acquisition Corp. 1 Limited Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHAP"
+  },
+  {
+   "symbol": "GRCL",
+   "name": "Gracell Biotechnologies Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SIEN"
+   "yahoo_symbol": "GRCL"
   },
   {
-   "symbol": "VHAQ",
-   "name": "Viveon Health Acquisition Corp. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VHAQ"
+   "symbol": "FICVU",
+   "name": "Frontier Investment Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FICVU"
   },
   {
-   "symbol": "VHAQ.R",
-   "name": "Viveon Health Acquisition Corp. Rights, each exchangeable into one-twentieth of a share of Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VHAQ.R"
+   "symbol": "LCAA",
+   "name": "L Catterton Asia Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAA"
   },
   {
-   "symbol": "NGEX",
-   "name": "NGEx Minerals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NGEX.V",
-   "instruments": [
-    {
-     "name": "NGEx Minerals Ltd.",
-     "symbol": "NGEX"
-    }
-   ]
+   "symbol": "FICV",
+   "name": "Frontier Investment Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FICV"
   },
   {
-   "symbol": "VHAQ.U",
-   "name": "Viveon Health Acquisition Corp. Units, each consisting of one share of common stock, one Warrant entitling the holder to purchase one-half of a share of common stock, and one right to receive one-twentieth of a share of common stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VHAQ.U"
+   "symbol": "SHAP.W",
+   "name": "Spree Acquisition Corp. 1 Limited Redeemable warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHAP.W"
+  },
+  {
+   "symbol": "FICVW",
+   "name": "Frontier Investment Corp - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FICVW"
+  },
+  {
+   "symbol": "LCAAU",
+   "name": "L Catterton Asia Acquisition Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAAU"
   }
  ]
 }
