@@ -1,5 +1,5 @@
 {
- "date": "2024-02-23",
+ "date": "2024-02-26",
  "data": [
   {
    "symbol": "ONE",
@@ -4854,10 +4854,6 @@
     {
      "name": "Deveron Corp.",
      "symbol": "FARM"
-    },
-    {
-     "name": "Deveron Corp. wt 25feb2024",
-     "symbol": "FARM.WT"
     }
    ]
   },
@@ -15374,10 +15370,6 @@
     {
      "name": "Rubicon Organics Inc.",
      "symbol": "ROMJ"
-    },
-    {
-     "name": "Rubicon Organics Inc. wt. 26Feb2024",
-     "symbol": "ROMJ.WT"
     }
    ]
   },
@@ -44730,24 +44722,6 @@
    "yahoo_symbol": "ACAD"
   },
   {
-   "symbol": "ACAH",
-   "name": "Atlantic Coastal Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACAH"
-  },
-  {
-   "symbol": "ACAHU",
-   "name": "Atlantic Coastal Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACAHU"
-  },
-  {
-   "symbol": "ACAHW",
-   "name": "Atlantic Coastal Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACAHW"
-  },
-  {
    "symbol": "ACB",
    "name": "Aurora Cannabis Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
@@ -45942,12 +45916,6 @@
    "yahoo_symbol": "AMED"
   },
   {
-   "symbol": "AMEH",
-   "name": "Apollo Medical Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMEH"
-  },
-  {
    "symbol": "AMGN",
    "name": "Amgen Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -46852,6 +46820,12 @@
    "name": "Astec Industries, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ASTE"
+  },
+  {
+   "symbol": "ASTH",
+   "name": "Astrana Health Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASTH"
   },
   {
    "symbol": "ASTI",
@@ -47774,7 +47748,7 @@
   {
    "symbol": "BENF",
    "name": "Beneficient - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BENF"
   },
   {
@@ -53496,12 +53470,6 @@
    "yahoo_symbol": "ERNA"
   },
   {
-   "symbol": "ERSX",
-   "name": "ERShares NextGen Entrepreneurs ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ERSX"
-  },
-  {
    "symbol": "ESAC",
    "name": "ESGEN Acquisition Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -55624,12 +55592,6 @@
    "name": "Generation Bio Co. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GBIO"
-  },
-  {
-   "symbol": "GBNH",
-   "name": "Greenbrook TMS Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBNH"
   },
   {
    "symbol": "GBNY",
@@ -60700,6 +60662,18 @@
    "name": "Grand Canyon Education, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LOPE"
+  },
+  {
+   "symbol": "LOT",
+   "name": "Lotus Technology Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LOT"
+  },
+  {
+   "symbol": "LOTWW",
+   "name": "Lotus Technology Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LOTWW"
   },
   {
    "symbol": "LOVE",
@@ -83148,12 +83122,6 @@
    "yahoo_symbol": "HIX"
   },
   {
-   "symbol": "HIX.R",
-   "name": "Western Asset High Income Fund II Inc. Rights (expiring February 26, 2024) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HIX.R"
-  },
-  {
    "symbol": "HKD",
    "name": "AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)",
    "exchange": "NYSE",
@@ -90013,7 +89981,7 @@
   },
   {
    "symbol": "RS",
-   "name": "Reliance Steel \u0026 Aluminum Co. Common Stock (DE)",
+   "name": "Reliance, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RS"
   },

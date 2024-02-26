@@ -397,7 +397,7 @@ DBC.P,Departure Bay Capital Corp.,TSXV,DBC.P.V,Departure Bay Capital Corp.,DBC.P
 DAU,Desert Gold Ventures Inc.,TSXV,DAU.V,Desert Gold Ventures Inc.,DAU
 DME,Desert Mountain Energy Corp.,TSXV,DME.V,Desert Mountain Energy Corp.,DME,Desert Mountain Energy Corp. wt 24Mar2025,DME.WT
 DSY,Destiny Media Technologies Inc.,TSXV,DSY.V,Destiny Media Technologies Inc.,DSY
-FARM,Deveron Corp.,TSXV,FARM.V,Deveron Corp.,FARM,Deveron Corp. wt 25feb2024,FARM.WT
+FARM,Deveron Corp.,TSXV,FARM.V,Deveron Corp.,FARM
 GSD,Devonian Health Group Inc.,TSXV,GSD.V,Devonian Health Group Inc.,GSD
 DFR,DFR Gold Inc.,TSXV,DFR.V,DFR Gold Inc.,DFR
 DGL.P,DGL Investments No.1 Inc,TSXV,DGL.P.V,DGL Investments No. 1 Inc.,DGL.P
@@ -1260,7 +1260,7 @@ ROVR,Rover Critical Minerals Corp.,TSXV,ROVR.V,Rover Critical Minerals Corp.,ROV
 RHC,Royal Helium Ltd.,TSXV,RHC.V,Royal Helium Ltd.,RHC,Royal Helium Ltd. wt 14Nov2026,RHC.WT.A
 RYR,Royal Road Minerals Limited,TSXV,RYR.V,Royal Road Minerals Limited,RYR
 RTM,RT Minerals Corp.,TSXV,RTM.V,RT Minerals Corp.,RTM
-ROMJ,Rubicon Organics Inc.,TSXV,ROMJ.V,Rubicon Organics Inc.,ROMJ,Rubicon Organics Inc. wt. 26Feb2024,ROMJ.WT
+ROMJ,Rubicon Organics Inc.,TSXV,ROMJ.V,Rubicon Organics Inc.,ROMJ
 RUG,Rugby Resources Ltd.,TSXV,RUG.V,Rugby Resources Ltd.,RUG
 RMB,Rumbu Holdings Ltd.,TSXV,RMB.V,Rumbu Holdings Ltd.,RMB
 RUCC.P,Rupert's Crossing Capital Inc.,TSXV,RUCC.P.V,Rupert's Crossing Capital Inc.,RUCC.P
@@ -3472,9 +3472,6 @@ ACAC,Acri Capital Acquisition Corporation - Class A Common Stock,NASDAQ Capital 
 ACACU,Acri Capital Acquisition Corporation - Unit,NASDAQ Capital Market,ACACU
 ACACW,Acri Capital Acquisition Corporation - Warrant,NASDAQ Capital Market,ACACW
 ACAD,ACADIA Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,ACAD
-ACAH,Atlantic Coastal Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,ACAH
-ACAHU,Atlantic Coastal Acquisition Corp. - Unit,NASDAQ Capital Market,ACAHU
-ACAHW,Atlantic Coastal Acquisition Corp. - Warrant,NASDAQ Capital Market,ACAHW
 ACB,Aurora Cannabis Inc. - Common Shares,NASDAQ Capital Market,ACB
 ACBA,Ace Global Business Acquisition Limited - Ordinary Shares,NASDAQ Capital Market,ACBA
 ACBAU,Ace Global Business Acquisition Limited - Unit,NASDAQ Capital Market,ACBAU
@@ -3674,7 +3671,6 @@ AMCX,AMC Networks Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,AMCX
 AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMD
 AMDS,GraniteShares 1x Short AMD Daily ETF,NASDAQ Global MarketSM,AMDS
 AMED,Amedisys Inc - Common Stock,NASDAQ Global Select MarketSM,AMED
-AMEH,"Apollo Medical Holdings, Inc. - Common Stock",NASDAQ Capital Market,AMEH
 AMGN,Amgen Inc. - Common Stock,NASDAQ Global Select MarketSM,AMGN
 AMID,Argent Mid Cap ETF,NASDAQ Global MarketSM,AMID
 AMIX,"Autonomix Medical, Inc. - Common Stock",NASDAQ Capital Market,AMIX
@@ -3826,6 +3822,7 @@ ASRV,AmeriServ Financial Inc. - Common Stock,NASDAQ Global MarketSM,ASRV
 ASST,Asset Entities Inc. - Class B Common Stock,NASDAQ Capital Market,ASST
 ASTC,Astrotech Corporation - Common Stock,NASDAQ Capital Market,ASTC
 ASTE,"Astec Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,ASTE
+ASTH,Astrana Health Inc. - Common Stock,NASDAQ Capital Market,ASTH
 ASTI,"Ascent Solar Technologies, Inc - Common Stock",NASDAQ Capital Market,ASTI
 ASTL,Algoma Steel Group Inc. - Common Shares,NASDAQ Global MarketSM,ASTL
 ASTLW,Algoma Steel Group Inc. - Warrant,NASDAQ Global MarketSM,ASTLW
@@ -3979,7 +3976,7 @@ BEEMW,Beam Global - Warrant,NASDAQ Capital Market,BEEMW
 BEEZ,Honeytree U.S. Equity ETF,NASDAQ Global MarketSM,BEEZ
 BELFA,Bel Fuse Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,BELFA
 BELFB,Bel Fuse Inc. - Class B Common Stock,NASDAQ Global Select MarketSM,BELFB
-BENF,Beneficient - Class A Common Stock,NASDAQ Global MarketSM,BENF
+BENF,Beneficient - Class A Common Stock,NASDAQ Capital Market,BENF
 BENFW,Beneficient - Warrant,NASDAQ Capital Market,BENFW
 BETR,Better Home & Finance Holding Company - Class A Common Stock,NASDAQ Global MarketSM,BETR
 BETRW,Better Home & Finance Holding Company - Warrant,NASDAQ Capital Market,BETRW
@@ -4933,7 +4930,6 @@ ERIC,Ericsson - American Depositary Shares each representing 1 underlying Class 
 ERIE,Erie Indemnity Company - Class A Common Stock,NASDAQ Global Select MarketSM,ERIE
 ERII,"Energy Recovery, Inc. - Common Stock",NASDAQ Global Select MarketSM,ERII
 ERNA,Eterna Therapeutics Inc. - Common Stock,NASDAQ Capital Market,ERNA
-ERSX,ERShares NextGen Entrepreneurs ETF,NASDAQ Global MarketSM,ERSX
 ESAC,ESGEN Acquisition Corporation - Class A Ordinary Shares,NASDAQ Global MarketSM,ESAC
 ESACU,ESGEN Acquisition Corporation - Unit,NASDAQ Global MarketSM,ESACU
 ESACW,ESGEN Acquisition Corporation - Warrants,NASDAQ Global MarketSM,ESACW
@@ -5288,7 +5284,6 @@ GBBKR,Global Blockchain Acquisition Corp. - Right,NASDAQ Global MarketSM,GBBKR
 GBBKW,Global Blockchain Acquisition Corp. - Warrant,NASDAQ Global MarketSM,GBBKW
 GBDC,"Golub Capital BDC, Inc. - Closed End Fund",NASDAQ Global Select MarketSM,GBDC
 GBIO,Generation Bio Co. - Common stock,NASDAQ Global Select MarketSM,GBIO
-GBNH,Greenbrook TMS Inc. - Common Shares,NASDAQ Capital Market,GBNH
 GBNY,"Generations Bancorp NY, Inc. - Common Stock",NASDAQ Capital Market,GBNY
 GCBC,"Greene County Bancorp, Inc. - Common Stock",NASDAQ Capital Market,GCBC
 GCMG,GCM Grosvenor Inc. - Class A Common Stock,NASDAQ Global MarketSM,GCMG
@@ -6134,6 +6129,8 @@ LOCO,"El Pollo Loco Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM
 LOGI,Logitech International S.A. - Registered Shares,NASDAQ Global Select MarketSM,LOGI
 LOOP,"Loop Industries, Inc. - Common Stock",NASDAQ Global MarketSM,LOOP
 LOPE,"Grand Canyon Education, Inc. - Common Stock",NASDAQ Global Select MarketSM,LOPE
+LOT,Lotus Technology Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,LOT
+LOTWW,Lotus Technology Inc. - Warrants,NASDAQ Capital Market,LOTWW
 LOVE,The Lovesac Company - Common Stock,NASDAQ Global MarketSM,LOVE
 LPCN,Lipocine Inc. - Common Stock,NASDAQ Capital Market,LPCN
 LPLA,LPL Financial Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,LPLA
@@ -9875,7 +9872,6 @@ HIPO,Hippo Holdings Inc. Common Stock,NYSE,HIPO
 HIPO.W,Hippo Holdings Inc. Warrants,NYSE,HIPO.W
 HIW,"Highwoods Properties, Inc. Common Stock",NYSE,HIW
 HIX,Western Asset High Income Fund II Inc. Common Stock,NYSE,HIX
-HIX.R,"Western Asset High Income Fund II Inc. Rights (expiring February 26, 2024) Rights",NYSE,HIX.R
 HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),NYSE,HKD
 HL,Hecla Mining Company Common Stock,NYSE,HL
 HL$B,Hecla Mining Company Preferred Stock,NYSE,HL$B
@@ -11019,7 +11015,7 @@ RRAC.U,"Rigel Resource Acquisition Corp. Units, each consisting of one Class A o
 RRAC.W,"Rigel Resource Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",NYSE,RRAC.W
 RRC,Range Resources Corporation Common Stock,NYSE,RRC
 RRX,Regal Rexnord Corporation Common Stock,NYSE,RRX
-RS,Reliance Steel & Aluminum Co. Common Stock (DE),NYSE,RS
+RS,"Reliance, Inc. Common Stock",NYSE,RS
 RSF,RiverNorth Capital and Income Fund Common Stock,NYSE,RSF
 RSG,"Republic Services, Inc. Common Stock",NYSE,RSG
 RSI,"Rush Street Interactive, Inc. Class A Common Stock",NYSE,RSI
