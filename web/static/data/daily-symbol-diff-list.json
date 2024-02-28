@@ -1,72 +1,78 @@
 {
  "added": [
   {
-   "symbol": "FLDB",
-   "name": "Fidelity Low Duration Bond ETF",
+   "symbol": "NRES",
+   "name": "Xtrackers RREEF Global Natural Resources ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FLDB"
+   "yahoo_symbol": "NRES"
   },
   {
-   "symbol": "MTUS",
-   "name": "Metallus Inc. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTUS"
-  },
-  {
-   "symbol": "RES",
-   "name": "Auric Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RES.V",
-   "instruments": [
-    {
-     "name": "Auric Resources Corp.",
-     "symbol": "RES"
-    }
-   ]
+   "symbol": "SMXT",
+   "name": "Solarmax Technology Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMXT"
   }
  ],
  "removed": [
   {
-   "symbol": "SLACW",
-   "name": "Social Leverage Acquisition Corp I - Warrant",
+   "symbol": "LCAHW",
+   "name": "Landcadia Holdings IV, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAHW"
+  },
+  {
+   "symbol": "SZZLU",
+   "name": "Sizzle Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLACW"
+   "yahoo_symbol": "SZZLU"
   },
   {
-   "symbol": "TMST",
-   "name": "TimkenSteel Corporation Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TMST"
-  },
-  {
-   "symbol": "FORZ",
-   "name": "Forza Petroleum Limited",
-   "exchange": "TSX",
-   "yahoo_symbol": "FORZ.TO",
+   "symbol": "GLDL",
+   "name": "Gold Line Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GLDL.V",
    "instruments": [
     {
-     "name": "Forza Pete Ltd.",
-     "symbol": "FORZ"
+     "name": "Gold Line Resources Ltd.",
+     "symbol": "GLDL"
     }
    ]
   },
   {
-   "symbol": "RYZB",
-   "name": "RayzeBio, Inc. - Common Stock",
+   "symbol": "ROVR",
+   "name": "Rover Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RYZB"
+   "yahoo_symbol": "ROVR"
   },
   {
-   "symbol": "SLACU",
-   "name": "Social Leverage Acquisition Corp I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLACU"
+   "symbol": "LCAHU",
+   "name": "Landcadia Holdings IV, Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAHU"
   },
   {
-   "symbol": "SLAC",
-   "name": "Social Leverage Acquisition Corp I - Common stock",
+   "symbol": "SZZLW",
+   "name": "Sizzle Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLAC"
+   "yahoo_symbol": "SZZLW"
+  },
+  {
+   "symbol": "ROI",
+   "name": "RiskOn International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROI"
+  },
+  {
+   "symbol": "SZZL",
+   "name": "Sizzle Acquisition Corp. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZL"
+  },
+  {
+   "symbol": "LCA",
+   "name": "Landcadia Holdings IV, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCA"
   }
  ]
 }
