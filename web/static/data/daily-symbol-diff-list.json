@@ -1,78 +1,66 @@
 {
  "added": [
   {
-   "symbol": "NRES",
-   "name": "Xtrackers RREEF Global Natural Resources ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NRES"
-  },
-  {
-   "symbol": "SMXT",
-   "name": "Solarmax Technology Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMXT"
-  }
- ],
- "removed": [
-  {
-   "symbol": "LCAHW",
-   "name": "Landcadia Holdings IV, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LCAHW"
-  },
-  {
-   "symbol": "SZZLU",
-   "name": "Sizzle Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SZZLU"
-  },
-  {
-   "symbol": "GLDL",
-   "name": "Gold Line Resources Ltd.",
+   "symbol": "NVN.P",
+   "name": "Navion Capital II Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GLDL.V",
+   "yahoo_symbol": "NVN.P.V",
    "instruments": [
     {
-     "name": "Gold Line Resources Ltd.",
-     "symbol": "GLDL"
+     "name": "Navion Capital II Inc.",
+     "symbol": "NVN.P"
     }
    ]
   },
   {
-   "symbol": "ROVR",
-   "name": "Rover Group, Inc. - Class A Common Stock",
+   "symbol": "CRML",
+   "name": "Critical Metals Corp. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ROVR"
+   "yahoo_symbol": "CRML"
   },
   {
-   "symbol": "LCAHU",
-   "name": "Landcadia Holdings IV, Inc. - Units",
+   "symbol": "CRMLW",
+   "name": "Critical Metals Corp. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LCAHU"
+   "yahoo_symbol": "CRMLW"
   },
   {
-   "symbol": "SZZLW",
-   "name": "Sizzle Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SZZLW"
+   "symbol": "RYDE",
+   "name": "Ryde Group Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "RYDE"
   },
   {
-   "symbol": "ROI",
-   "name": "RiskOn International, Inc. - Common Stock",
+   "symbol": "SYF$B",
+   "name": "Synchrony Financial Depositary Shares Each Representing a 1/40th Interest in a Share of 8.250% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SYF$B"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MDRX",
+   "name": "Veradigm Inc. - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MDRX"
+  },
+  {
+   "symbol": "CRGE",
+   "name": "Charge Enterprises, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ROI"
+   "yahoo_symbol": "CRGE"
   },
   {
-   "symbol": "SZZL",
-   "name": "Sizzle Acquisition Corp. - Common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SZZL"
-  },
-  {
-   "symbol": "LCA",
-   "name": "Landcadia Holdings IV, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LCA"
+   "symbol": "AZ",
+   "name": "A2Z Smart Technologies Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AZ.V",
+   "instruments": [
+    {
+     "name": "A2Z Smart Technologies Corp.",
+     "symbol": "AZ"
+    }
+   ]
   }
  ]
 }

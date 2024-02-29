@@ -1,5 +1,5 @@
 {
- "date": "2024-02-28",
+ "date": "2024-02-29",
  "data": [
   {
    "symbol": "IGBT.UN",
@@ -17734,10 +17734,6 @@
     {
      "name": "MediPharm LabsCorp J",
      "symbol": "LABS"
-    },
-    {
-     "name": "MediPharm Labs J Wt",
-     "symbol": "LABS.WT.B"
     }
    ]
   },
@@ -24862,18 +24858,6 @@
     {
      "name": "A.I.S. Resources Limited",
      "symbol": "AIS"
-    }
-   ]
-  },
-  {
-   "symbol": "AZ",
-   "name": "A2Z Smart Technologies Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AZ.V",
-   "instruments": [
-    {
-     "name": "A2Z Smart Technologies Corp.",
-     "symbol": "AZ"
     }
    ]
   },
@@ -36638,6 +36622,18 @@
     {
      "name": "Navigator Acquisition Corp.",
      "symbol": "NAQ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "NVN.P",
+   "name": "Navion Capital II Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NVN.P.V",
+   "instruments": [
+    {
+     "name": "Navion Capital II Inc.",
+     "symbol": "NVN.P"
     }
    ]
   },
@@ -51226,12 +51222,6 @@
    "yahoo_symbol": "CREX"
   },
   {
-   "symbol": "CRGE",
-   "name": "Charge Enterprises, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CRGE"
-  },
-  {
    "symbol": "CRGO",
    "name": "Freightos Limited - Ordinary shares",
    "exchange": "NASDAQ Capital Market",
@@ -51266,6 +51256,18 @@
    "name": "CorMedix Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CRMD"
+  },
+  {
+   "symbol": "CRML",
+   "name": "Critical Metals Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRML"
+  },
+  {
+   "symbol": "CRMLW",
+   "name": "Critical Metals Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRMLW"
   },
   {
    "symbol": "CRMT",
@@ -61502,12 +61504,6 @@
    "name": "Medalist Diversified REIT, Inc. - Series A Cumulative Redeemable Preferred Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MDRRP"
-  },
-  {
-   "symbol": "MDRX",
-   "name": "Veradigm Inc. - common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MDRX"
   },
   {
    "symbol": "MDWD",
@@ -90028,6 +90024,12 @@
    "yahoo_symbol": "RYAN"
   },
   {
+   "symbol": "RYDE",
+   "name": "Ryde Group Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "RYDE"
+  },
+  {
    "symbol": "RYI",
    "name": "Ryerson Holding Corporation Common Stock",
    "exchange": "NYSE",
@@ -91556,6 +91558,12 @@
    "name": "Synchrony Financial Depositary Shares, each Representing a 1/40th Interest in a Share of 5.625% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",
    "exchange": "NYSE",
    "yahoo_symbol": "SYF$A"
+  },
+  {
+   "symbol": "SYF$B",
+   "name": "Synchrony Financial Depositary Shares Each Representing a 1/40th Interest in a Share of 8.250% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SYF$B"
   },
   {
    "symbol": "SYK",

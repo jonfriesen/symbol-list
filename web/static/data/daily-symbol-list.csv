@@ -1292,7 +1292,7 @@ MDP,Medexus Pharmaceuticals Inc.,TSX,MDP.TO,Medexus Pharma J,MDP
 MVP,MediaValet Inc.,TSX,MVP.TO,MediaValet Inc. J,MVP
 DR,Medical Facilities Corporation,TSX,DR.TO,Medical Facilities,DR
 MDNA,Medicenna Therapeutics Corp.,TSX,MDNA.TO,Medicenna Therapeu J,MDNA
-LABS,MediPharm Labs Corp.,TSX,LABS.TO,MediPharm LabsCorp J,LABS,MediPharm Labs J Wt,LABS.WT.B
+LABS,MediPharm Labs Corp.,TSX,LABS.TO,MediPharm LabsCorp J,LABS
 MEG,MEG Energy Corp.,TSX,MEG.TO,MEG Energy Corp.,MEG
 MGA,Mega Uranium Ltd.,TSX,MGA.TO,Mega Uranium Ltd. J,MGA
 MRD,Melcor Developments Ltd.,TSX,MRD.TO,Melcor Developments,MRD
@@ -1820,7 +1820,6 @@ ALAB.P,A-Labs Capital II Corp.,TSXV,ALAB.P.V,A-Labs Capital II Corp.,ALAB.P
 ALCC.P,A-Labs Capital IV Corp.,TSXV,ALCC.P.V,A-Labs Capital IV Corp.,ALCC.P
 ALBA.P,A-Labs Capital V Corp.,TSXV,ALBA.P.V,A-Labs Capital V Corp.,ALBA.P
 AIS,A.I.S. Resources Limited,TSXV,AIS.V,A.I.S. Resources Limited,AIS
-AZ,A2Z Smart Technologies Corp.,TSXV,AZ.V,A2Z Smart Technologies Corp.,AZ
 AZC.P,A2ZCryptocap Inc.,TSXV,AZC.P.V,A2ZCryptocap Inc.,AZC.P
 AAAJ.P,AAJ Capital 3 Corp.,TSXV,AAAJ.P.V,AAJ Capital 3 Corp.,AAAJ.P
 ACCB.P,Aardvark 2 Capital Corp.,TSXV,ACCB.P.V,Aardvark 2 Capital Corp.,ACCB.P
@@ -2788,6 +2787,7 @@ CTZ,Namsys Inc.,TSXV,CTZ.V,Namsys Inc.,CTZ
 NSCI,Nanalysis Scientific Corp.,TSXV,NSCI.V,Nanalysis Scientific Corp.,NSCI
 NAV,NAVCO Pharmaceuticals Inc.,TSXV,NAV.V,NAVCO Pharmaceuticals Inc.,NAV
 NAQ.P,Navigator Acquisition Corp.,TSXV,NAQ.P.V,Navigator Acquisition Corp.,NAQ.P
+NVN.P,Navion Capital II Inc.,TSXV,NVN.P.V,Navion Capital II Inc.,NVN.P
 NBM,NEO Battery Materials Ltd.,TSXV,NBM.V,NEO Battery Materials Ltd.,NBM
 NTX,NeoTerrex Minerals Inc.,TSXV,NTX.V,NeoTerrex Minerals Inc.,NTX
 NDA,Neptune Digital Assets Corp.,TSXV,NDA.V,Neptune Digital Assets Corp.,NDA
@@ -4557,13 +4557,14 @@ CRESY,"Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing te
 CREV,Carbon Revolution Public Limited Company - Ordinary Shares,NASDAQ Global MarketSM,CREV
 CREVW,Carbon Revolution Public Limited Company - Warrant,NASDAQ Capital Market,CREVW
 CREX,"Creative Realities, Inc. - Common Stock",NASDAQ Capital Market,CREX
-CRGE,"Charge Enterprises, Inc. - Common Stock",NASDAQ Capital Market,CRGE
 CRGO,Freightos Limited - Ordinary shares,NASDAQ Capital Market,CRGO
 CRGOW,Freightos Limited - Warrants,NASDAQ Capital Market,CRGOW
 CRGX,"CARGO Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRGX
 CRIS,"Curis, Inc. - Common Stock",NASDAQ Capital Market,CRIS
 CRKN,Crown Electrokinetics Corp. - Common Stock,NASDAQ Capital Market,CRKN
 CRMD,CorMedix Inc. - Common Stock,NASDAQ Global MarketSM,CRMD
+CRML,Critical Metals Corp. - Ordinary Shares,NASDAQ Global MarketSM,CRML
+CRMLW,Critical Metals Corp. - Warrants,NASDAQ Capital Market,CRMLW
 CRMT,"America's Car-Mart, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRMT
 CRNC,Cerence Inc. - Common Stock,NASDAQ Global Select MarketSM,CRNC
 CRNT,Ceragon Networks Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CRNT
@@ -6270,7 +6271,6 @@ MDJH,MDJM LTD - Ordinary Shares,NASDAQ Capital Market,MDJH
 MDLZ,"Mondelez International, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,MDLZ
 MDRR,"Medalist Diversified REIT, Inc. - Common Stock",NASDAQ Capital Market,MDRR
 MDRRP,"Medalist Diversified REIT, Inc. - Series A Cumulative Redeemable Preferred Stock",NASDAQ Capital Market,MDRRP
-MDRX,Veradigm Inc. - common stock,NASDAQ Global Select MarketSM,MDRX
 MDWD,MediWound Ltd. - Ordinary Shares,NASDAQ Global MarketSM,MDWD
 MDXG,"MiMedx Group, Inc - Common Stock",NASDAQ Capital Market,MDXG
 MDXH,MDxHealth SA - Ordinary Shares,NASDAQ Capital Market,MDXH
@@ -11024,6 +11024,7 @@ RXO,"RXO, Inc. Common Stock",NYSE,RXO
 RY,Royal Bank Of Canada Common Stock,NYSE,RY
 RYAM,Rayonier Advanced Materials Inc. Common Stock,NYSE,RYAM
 RYAN,"Ryan Specialty Holdings, Inc. Class A Common Stock",NYSE,RYAN
+RYDE,Ryde Group Ltd. Class A Ordinary Shares,NYSE MKT,RYDE
 RYI,Ryerson Holding Corporation Common Stock,NYSE,RYI
 RYN,Rayonier Inc. REIT Common Stock,NYSE,RYN
 RZB,"Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",NYSE,RZB
@@ -11279,6 +11280,7 @@ SXI,Standex International Corporation Common Stock,NYSE,SXI
 SXT,Sensient Technologies Corporation Common Stock,NYSE,SXT
 SYF,Synchrony Financial Common Stock,NYSE,SYF
 SYF$A,"Synchrony Financial Depositary Shares, each Representing a 1/40th Interest in a Share of 5.625% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",NYSE,SYF$A
+SYF$B,"Synchrony Financial Depositary Shares Each Representing a 1/40th Interest in a Share of 8.250% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",NYSE,SYF$B
 SYK,Stryker Corporation Common Stock,NYSE,SYK
 SYNX,Silynxcom Ltd. Ordinary Shares,NYSE MKT,SYNX
 SYY,Sysco Corporation Common Stock,NYSE,SYY
