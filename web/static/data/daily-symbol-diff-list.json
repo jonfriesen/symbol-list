@@ -1,156 +1,148 @@
 {
  "added": [
   {
-   "symbol": "GINX",
-   "name": "SGI Enhanced Global Income ETF",
+   "symbol": "FUFU",
+   "name": "BitFuFu Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FUFU"
+  },
+  {
+   "symbol": "FUFUW",
+   "name": "BitFuFu Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FUFUW"
+  },
+  {
+   "symbol": "KSCP",
+   "name": "Knightscope, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KSCP"
+  },
+  {
+   "symbol": "SHRY",
+   "name": "First Trust Bloomberg Shareholder Yield ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GINX"
+   "yahoo_symbol": "SHRY"
   },
   {
-   "symbol": "KACL",
-   "name": "Kairous Acquisition Corp. Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KACL"
+   "symbol": "TBRG",
+   "name": "TruBridge, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TBRG"
   },
   {
-   "symbol": "KACLR",
-   "name": "Kairous Acquisition Corp. Limited - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KACLR"
+   "symbol": "GT",
+   "name": "GT Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GT.V",
+   "instruments": [
+    {
+     "name": "GT Resources Inc.",
+     "symbol": "GT"
+    }
+   ]
   },
   {
-   "symbol": "KACLU",
-   "name": "Kairous Acquisition Corp. Limited - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KACLU"
+   "symbol": "BODI",
+   "name": "The Beachbody Company, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BODI"
   },
   {
-   "symbol": "KACLW",
-   "name": "Kairous Acquisition Corp. Limited - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KACLW"
+   "symbol": "DOC",
+   "name": "Healthpeak Properties, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DOC"
   },
-  {
-   "symbol": "MAGQ",
-   "name": "Roundhill Daily Inverse Magnificent Seven ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAGQ"
-  },
-  {
-   "symbol": "MAGX",
-   "name": "Roundhill Daily 2X Long Magnificent Seven ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAGX"
-  },
-  {
-   "symbol": "USDX",
-   "name": "SGI Enhanced Core ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "USDX"
-  },
-  {
-   "symbol": "ZVSA",
-   "name": "ZyVersa Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZVSA"
-  }
- ],
- "removed": [
   {
    "symbol": "RYDE",
    "name": "Ryde Group Ltd. Class A Ordinary Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "RYDE"
-  },
+  }
+ ],
+ "removed": [
   {
-   "symbol": "ARIZR",
-   "name": "Arisz Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARIZR"
-  },
-  {
-   "symbol": "ARIZU",
-   "name": "Arisz Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARIZU"
-  },
-  {
-   "symbol": "KACLU",
-   "name": "Kairous Acquisition Corp. Limited - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KACLU"
-  },
-  {
-   "symbol": "ZVSA",
-   "name": "ZyVersa Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZVSA"
-  },
-  {
-   "symbol": "ARIZW",
-   "name": "Arisz Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARIZW"
-  },
-  {
-   "symbol": "KACLR",
-   "name": "Kairous Acquisition Corp. Limited - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KACLR"
-  },
-  {
-   "symbol": "WRAC.U",
-   "name": "Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant",
+   "symbol": "POL",
+   "name": "Polished Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "WRAC.U"
+   "yahoo_symbol": "POL"
   },
   {
-   "symbol": "WRAC",
-   "name": "Williams Rowland Acquisition Corp. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "WRAC"
-  },
-  {
-   "symbol": "KACL",
-   "name": "Kairous Acquisition Corp. Limited - Ordinary Shares",
+   "symbol": "RCACU",
+   "name": "Revelstone Capital Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KACL"
+   "yahoo_symbol": "RCACU"
   },
   {
-   "symbol": "ARIZ",
-   "name": "Arisz Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARIZ"
+   "symbol": "PDM",
+   "name": "Palladium One Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PDM.V",
+   "instruments": [
+    {
+     "name": "Palladium One Mining Inc.",
+     "symbol": "PDM"
+    }
+   ]
   },
   {
-   "symbol": "TIO",
-   "name": "Tingo Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TIO"
-  },
-  {
-   "symbol": "KACLW",
-   "name": "Kairous Acquisition Corp. Limited - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KACLW"
-  },
-  {
-   "symbol": "DOC",
-   "name": "Physicians Realty Trust Common Shares of Beneficial Interest",
+   "symbol": "PEAK",
+   "name": "Healthpeak Properties, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "DOC"
+   "yahoo_symbol": "PEAK"
   },
   {
-   "symbol": "LBC",
-   "name": "Luther Burbank Corporation - Common Stock",
+   "symbol": "BODY",
+   "name": "The Beachbody Company, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BODY"
+  },
+  {
+   "symbol": "RNLC",
+   "name": "Large Cap US Equity Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNLC"
+  },
+  {
+   "symbol": "VMH.U",
+   "name": "VM Hotel Acquisition Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VMH.U.TO",
+   "instruments": [
+    {
+     "name": "VM Htl AcquisJ RV US",
+     "symbol": "VMH.U"
+    },
+    {
+     "name": "VM Htl AcquisJ US Wt",
+     "symbol": "VMH.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RCACW",
+   "name": "Revelstone Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RCACW"
+  },
+  {
+   "symbol": "KSCP",
+   "name": "Knightscope, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KSCP"
+  },
+  {
+   "symbol": "CPSI",
+   "name": "Computer Programs and Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBC"
+   "yahoo_symbol": "CPSI"
   },
   {
-   "symbol": "FGH",
-   "name": "FG Group Holdings Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "FGH"
+   "symbol": "RCAC",
+   "name": "Revelstone Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RCAC"
   }
  ]
 }
