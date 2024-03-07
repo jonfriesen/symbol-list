@@ -6,7 +6,6 @@ FNR,49 North Resources Inc.,TSXV,FNR.V,49 North Resources Inc.,FNR
 FIVD.P,5D Acquisition Corp.,TSXV,FIVD.P.V,5D Acquisition Corp.,FIVD.P
 ALAB.P,A-Labs Capital II Corp.,TSXV,ALAB.P.V,A-Labs Capital II Corp.,ALAB.P
 ALCC.P,A-Labs Capital IV Corp.,TSXV,ALCC.P.V,A-Labs Capital IV Corp.,ALCC.P
-ALBA.P,A-Labs Capital V Corp.,TSXV,ALBA.P.V,A-Labs Capital V Corp.,ALBA.P
 AIS,A.I.S. Resources Limited,TSXV,AIS.V,A.I.S. Resources Limited,AIS
 AZC.P,A2ZCryptocap Inc.,TSXV,AZC.P.V,A2ZCryptocap Inc.,AZC.P
 AAAJ.P,AAJ Capital 3 Corp.,TSXV,AAAJ.P.V,AAJ Capital 3 Corp.,AAAJ.P
@@ -54,6 +53,7 @@ AFM,Alphamin Resources Corp.,TSXV,AFM.V,Alphamin Resources Corp.,AFM
 ATI,Altai Resources Inc.,TSXV,ATI.V,Altai Resources Inc,ATI
 AVX,Altair Resources Inc.,TSXV,AVX.V,Altair Resources Inc.,AVX
 ALTA,Altamira Gold Corp.,TSXV,ALTA.V,Altamira Gold Corp.,ALTA
+ALTR.P,Alterego Ventures 24 Corp.,TSXV,ALTR.P.V,Alterego Ventures 24 Corp.,ALTR.P
 ARH,Altima Resources Ltd.,TSXV,ARH.V,Altima Resources Ltd.,ARH
 ALTN.P,Altina Capital Corp.,TSXV,ALTN.P.V,Altina Capital Corp.,ALTN.P
 APN,Altiplano Metals Inc.,TSXV,APN.V,Altiplano Metals Inc.,APN
@@ -3976,7 +3976,6 @@ BENF,Beneficient - Class A Common Stock,NASDAQ Capital Market,BENF
 BENFW,Beneficient - Warrant,NASDAQ Capital Market,BENFW
 BETR,Better Home & Finance Holding Company - Class A Common Stock,NASDAQ Global MarketSM,BETR
 BETRW,Better Home & Finance Holding Company - Warrant,NASDAQ Capital Market,BETRW
-BETS,Bit Brother Limited - Class A Ordinary Shares,NASDAQ Capital Market,BETS
 BFC,Bank First Corporation - Common Stock,NASDAQ Capital Market,BFC
 BFI,BurgerFi International Inc - Common Stock,NASDAQ Global MarketSM,BFI
 BFIIW,BurgerFi International Inc - Warrant,NASDAQ Global MarketSM,BFIIW
@@ -4518,6 +4517,7 @@ COOLU,Corner Growth Acquisition Corp. - Unit,NASDAQ Capital Market,COOLU
 COOLW,Corner Growth Acquisition Corp. - Warrant,NASDAQ Capital Market,COOLW
 COOP,Mr. Cooper Group Inc. - Common Stock,NASDAQ Capital Market,COOP
 COPJ,Sprott Junior Copper Miners ETF,NASDAQ Global MarketSM,COPJ
+COPP,Sprott Copper Miners ETF,NASDAQ Global MarketSM,COPP
 CORT,Corcept Therapeutics Incorporated - Common Stock,NASDAQ Capital Market,CORT
 CORZ,"Core Scientific, Inc. - Common Stock",NASDAQ Global Select MarketSM,CORZ
 CORZW,"Core Scientific, Inc. - Tranche 1 Warrants",NASDAQ Global Select MarketSM,CORZW
@@ -6469,6 +6469,7 @@ NCNA,NuCana plc - American Depositary Shares,NASDAQ Capital Market,NCNA
 NCNC,noco-noco Inc. - Ordinary Share,NASDAQ Capital Market,NCNC
 NCNCW,noco-noco Inc. - Warrant,NASDAQ Capital Market,NCNCW
 NCNO,"nCino, Inc. - Common Stock",NASDAQ Global Select MarketSM,NCNO
+NCPB,Nuveen Core Plus Bond ETF,NASDAQ Global MarketSM,NCPB
 NCPL,Netcapital Inc. - Common Stock,NASDAQ Capital Market,NCPL
 NCPLW,Netcapital Inc. - warrants,NASDAQ Capital Market,NCPLW
 NCRA,"Nocera, Inc. - common stock",NASDAQ Capital Market,NCRA
@@ -6486,7 +6487,6 @@ NEON,Neonode Inc. - Common Stock,NASDAQ Capital Market,NEON
 NEOV,NeoVolta Inc. - Common Stock,NASDAQ Capital Market,NEOV
 NEOVW,NeoVolta Inc. - Warrant,NASDAQ Capital Market,NEOVW
 NEPH,"Nephros, Inc. - Common Stock",NASDAQ Capital Market,NEPH
-NEPT,Neptune Wellness Solutions Inc. - Ordinary Shares,NASDAQ Capital Market,NEPT
 NERD,Roundhill Video Games ETF,NASDAQ Global MarketSM,NERD
 NERV,"Minerva Neurosciences, Inc - Common Stock",NASDAQ Capital Market,NERV
 NETD,Nabors Energy Transition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,NETD
@@ -6547,6 +6547,7 @@ NPAB,New Providence Acquisition Corp. II - Class A Common Stock,NASDAQ Global Ma
 NPABU,New Providence Acquisition Corp. II - Unit,NASDAQ Global MarketSM,NPABU
 NPABW,New Providence Acquisition Corp. II - Warrant,NASDAQ Global MarketSM,NPABW
 NPCE,"Neuropace, Inc. - Common Stock",NASDAQ Global MarketSM,NPCE
+NPFI,Nuveen Preferred and Income ETF,NASDAQ Global MarketSM,NPFI
 NRBO,"NeuroBo Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,NRBO
 NRC,National Research Corporation - Common Stock,NASDAQ Global Select MarketSM,NRC
 NRDS,"NerdWallet, Inc. - Class A Common Stock",NASDAQ Global MarketSM,NRDS
@@ -6557,6 +6558,7 @@ NRSN,NeuroSense Therapeutics Ltd. - Ordinary Shares,NASDAQ Capital Market,NRSN
 NRSNW,NeuroSense Therapeutics Ltd. - Warrant,NASDAQ Capital Market,NRSNW
 NRXP,"NRX Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,NRXP
 NRXPW,"NRX Pharmaceuticals, Inc. - Warrant",NASDAQ Capital Market,NRXPW
+NSCR,Nuveen Sustainable Core ETF,NASDAQ Global MarketSM,NSCR
 NSI,National Security Emerging Markets Index ETF,NASDAQ Global MarketSM,NSI
 NSIT,"Insight Enterprises, Inc. - Common Stock",NASDAQ Global Select MarketSM,NSIT
 NSPR,InspireMD Inc. - Common Stock,NASDAQ Capital Market,NSPR
@@ -6581,6 +6583,7 @@ NTZG,Nuveen Global Net Zero Transition ETF,NASDAQ Global MarketSM,NTZG
 NUKK,Nukkleus Inc. - Ordinary Shares,NASDAQ Global MarketSM,NUKK
 NUKKW,Nukkleus Inc. - Warrants,NASDAQ Capital Market,NUKKW
 NURO,"NeuroMetrix, Inc. - Common Stock",NASDAQ Capital Market,NURO
+NUSB,Nuveen Ultra Short Income ETF,NASDAQ Global MarketSM,NUSB
 NUTX,Nutex Health Inc. - Common Stock,NASDAQ Capital Market,NUTX
 NUVL,"Nuvalent, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,NUVL
 NUWE,"Nuwellis, Inc. - Common Stock",NASDAQ Capital Market,NUWE
@@ -6805,7 +6808,6 @@ PAYX,"Paychex, Inc. - Common Stock",NASDAQ Global Select MarketSM,PAYX
 PBBK,"PB Bankshares, Inc. - Common Stock",NASDAQ Capital Market,PBBK
 PBFS,"Pioneer Bancorp, Inc. - Common Stock",NASDAQ Capital Market,PBFS
 PBHC,"Pathfinder Bancorp, Inc. - Common Stock",NASDAQ Capital Market,PBHC
-PBLA,"Panbela Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,PBLA
 PBM,Psyence Biomedical Ltd. - Ordinary Shares,NASDAQ Global MarketSM,PBM
 PBMWW,Psyence Biomedical Ltd. - Warrant,NASDAQ Capital Market,PBMWW
 PBPB,Potbelly Corporation - Common Stock,NASDAQ Global Select MarketSM,PBPB
@@ -9792,7 +9794,6 @@ GRND.W,"Grindr Inc. Warrants, each exercisable for one share of Common Stock at 
 GRNT,"Granite Ridge Resources, Inc. Common Stock",NYSE,GRNT
 GROV,"Grove Collaborative Holdings, Inc. Class A Common Stock",NYSE,GROV
 GROY,Gold Royalty Corp. Common Shares,NYSE MKT,GROY
-GROY.W,"Gold Royalty Corp. Warrants, each warrant exercisable for one common share at an exercise price of $7.50",NYSE MKT,GROY.W
 GRP.U,"Granite Real Estate Inc. Stapled Units, each consisting of one unit of Granite Real Estate Trust and one common share of Granite REIT Inc.",NYSE,GRP.U
 GRX,The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest,NYSE,GRX
 GS,"Goldman Sachs Group, Inc. (The) Common Stock",NYSE,GS

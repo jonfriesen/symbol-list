@@ -1,66 +1,84 @@
 {
  "added": [
   {
-   "symbol": "SIG",
-   "name": "Sitka Gold Corp.",
+   "symbol": "ALTR.P",
+   "name": "Alterego Ventures 24 Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SIG.V",
+   "yahoo_symbol": "ALTR.P.V",
    "instruments": [
     {
-     "name": "Sitka Gold Corp.",
-     "symbol": "SIG"
+     "name": "Alterego Ventures 24 Corp.",
+     "symbol": "ALTR.P"
     }
    ]
   },
   {
-   "symbol": "ALGS",
-   "name": "Aligos Therapeutics, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALGS"
-  },
-  {
-   "symbol": "LGCL",
-   "name": "Lucas GC Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGCL"
-  },
-  {
-   "symbol": "SAIC",
-   "name": "Science Applications International Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SAIC"
-  },
-  {
-   "symbol": "TPGXL",
-   "name": "TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064",
+   "symbol": "COPP",
+   "name": "Sprott Copper Miners ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TPGXL"
+   "yahoo_symbol": "COPP"
   },
   {
-   "symbol": "VWE",
-   "name": "Vintage Wine Estates, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VWE"
+   "symbol": "NCPB",
+   "name": "Nuveen Core Plus Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCPB"
+  },
+  {
+   "symbol": "NPFI",
+   "name": "Nuveen Preferred and Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPFI"
+  },
+  {
+   "symbol": "NSCR",
+   "name": "Nuveen Sustainable Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NSCR"
+  },
+  {
+   "symbol": "NUSB",
+   "name": "Nuveen Ultra Short Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUSB"
   }
  ],
  "removed": [
   {
-   "symbol": "VWE",
-   "name": "Vintage Wine Estates, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VWE"
+   "symbol": "ALBA.P",
+   "name": "A-Labs Capital V Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALBA.P.V",
+   "instruments": [
+    {
+     "name": "A-Labs Capital V Corp.",
+     "symbol": "ALBA.P"
+    }
+   ]
   },
   {
-   "symbol": "ALGS",
-   "name": "Aligos Therapeutics, Inc. - Common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ALGS"
+   "symbol": "GROY.W",
+   "name": "Gold Royalty Corp. Warrants, each warrant exercisable for one common share at an exercise price of $7.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GROY.W"
   },
   {
-   "symbol": "BFX",
-   "name": "BowFlex Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BFX"
+   "symbol": "NEPT",
+   "name": "Neptune Wellness Solutions Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEPT"
+  },
+  {
+   "symbol": "BETS",
+   "name": "Bit Brother Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BETS"
+  },
+  {
+   "symbol": "PBLA",
+   "name": "Panbela Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PBLA"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2024-03-06",
+ "date": "2024-03-07",
  "data": [
   {
    "symbol": "ONE",
@@ -82,18 +82,6 @@
     {
      "name": "A-Labs Capital IV Corp.",
      "symbol": "ALCC.P"
-    }
-   ]
-  },
-  {
-   "symbol": "ALBA.P",
-   "name": "A-Labs Capital V Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ALBA.P.V",
-   "instruments": [
-    {
-     "name": "A-Labs Capital V Corp.",
-     "symbol": "ALBA.P"
     }
    ]
   },
@@ -658,6 +646,18 @@
     {
      "name": "Altamira Gold Corp.",
      "symbol": "ALTA"
+    }
+   ]
+  },
+  {
+   "symbol": "ALTR.P",
+   "name": "Alterego Ventures 24 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALTR.P.V",
+   "instruments": [
+    {
+     "name": "Alterego Ventures 24 Corp.",
+     "symbol": "ALTR.P"
     }
    ]
   },
@@ -47734,12 +47734,6 @@
    "yahoo_symbol": "BETRW"
   },
   {
-   "symbol": "BETS",
-   "name": "Bit Brother Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BETS"
-  },
-  {
    "symbol": "BFC",
    "name": "Bank First Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -50984,6 +50978,12 @@
    "name": "Sprott Junior Copper Miners ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "COPJ"
+  },
+  {
+   "symbol": "COPP",
+   "name": "Sprott Copper Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COPP"
   },
   {
    "symbol": "CORT",
@@ -62692,6 +62692,12 @@
    "yahoo_symbol": "NCNO"
   },
   {
+   "symbol": "NCPB",
+   "name": "Nuveen Core Plus Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCPB"
+  },
+  {
    "symbol": "NCPL",
    "name": "Netcapital Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -62792,12 +62798,6 @@
    "name": "Nephros, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NEPH"
-  },
-  {
-   "symbol": "NEPT",
-   "name": "Neptune Wellness Solutions Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NEPT"
   },
   {
    "symbol": "NERD",
@@ -63160,6 +63160,12 @@
    "yahoo_symbol": "NPCE"
   },
   {
+   "symbol": "NPFI",
+   "name": "Nuveen Preferred and Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPFI"
+  },
+  {
    "symbol": "NRBO",
    "name": "NeuroBo Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -63218,6 +63224,12 @@
    "name": "NRX Pharmaceuticals, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NRXPW"
+  },
+  {
+   "symbol": "NSCR",
+   "name": "Nuveen Sustainable Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NSCR"
   },
   {
    "symbol": "NSI",
@@ -63362,6 +63374,12 @@
    "name": "NeuroMetrix, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NURO"
+  },
+  {
+   "symbol": "NUSB",
+   "name": "Nuveen Ultra Short Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUSB"
   },
   {
    "symbol": "NUTX",
@@ -64706,12 +64724,6 @@
    "name": "Pathfinder Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PBHC"
-  },
-  {
-   "symbol": "PBLA",
-   "name": "Panbela Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PBLA"
   },
   {
    "symbol": "PBM",
@@ -82628,12 +82640,6 @@
    "name": "Gold Royalty Corp. Common Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "GROY"
-  },
-  {
-   "symbol": "GROY.W",
-   "name": "Gold Royalty Corp. Warrants, each warrant exercisable for one common share at an exercise price of $7.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GROY.W"
   },
   {
    "symbol": "GRP.U",
