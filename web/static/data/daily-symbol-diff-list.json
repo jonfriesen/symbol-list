@@ -1,84 +1,178 @@
 {
  "added": [
   {
-   "symbol": "ALTR.P",
-   "name": "Alterego Ventures 24 Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ALTR.P.V",
+   "symbol": "FEXD",
+   "name": "Fintech Ecosystem Development Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXD"
+  },
+  {
+   "symbol": "FEXDR",
+   "name": "Fintech Ecosystem Development Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXDR"
+  },
+  {
+   "symbol": "FEXDU",
+   "name": "Fintech Ecosystem Development Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXDU"
+  },
+  {
+   "symbol": "FEXDW",
+   "name": "Fintech Ecosystem Development Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXDW"
+  },
+  {
+   "symbol": "SLNA",
+   "name": "Selina Hospitality PLC - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLNA"
+  },
+  {
+   "symbol": "ZGLD",
+   "name": "BMO Gold Bullion ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZGLD.TO",
    "instruments": [
     {
-     "name": "Alterego Ventures 24 Corp.",
-     "symbol": "ALTR.P"
+     "name": "BMO Gld Bull ETF CAD",
+     "symbol": "ZGLD"
+    },
+    {
+     "name": "BMO Gld Bull ETF USD",
+     "symbol": "ZGLD.U"
     }
    ]
   },
   {
-   "symbol": "COPP",
-   "name": "Sprott Copper Miners ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "COPP"
+   "symbol": "ZGLH",
+   "name": "BMO Gold Bullion Hedged to CAD ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZGLH.TO",
+   "instruments": [
+    {
+     "name": "BMO Gld Bull Hdg ETF",
+     "symbol": "ZGLH"
+    }
+   ]
   },
   {
-   "symbol": "NCPB",
-   "name": "Nuveen Core Plus Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NCPB"
-  },
-  {
-   "symbol": "NPFI",
-   "name": "Nuveen Preferred and Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NPFI"
-  },
-  {
-   "symbol": "NSCR",
-   "name": "Nuveen Sustainable Core ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NSCR"
-  },
-  {
-   "symbol": "NUSB",
-   "name": "Nuveen Ultra Short Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUSB"
+   "symbol": "ATMU.V",
+   "name": "Atmus Filtration Technologies Inc. Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATMU.V"
   }
  ],
  "removed": [
   {
-   "symbol": "ALBA.P",
-   "name": "A-Labs Capital V Corp.",
+   "symbol": "VIV",
+   "name": "Avivagen Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ALBA.P.V",
+   "yahoo_symbol": "VIV.V",
    "instruments": [
     {
-     "name": "A-Labs Capital V Corp.",
-     "symbol": "ALBA.P"
+     "name": "Avivagen Inc.",
+     "symbol": "VIV"
     }
    ]
   },
   {
-   "symbol": "GROY.W",
-   "name": "Gold Royalty Corp. Warrants, each warrant exercisable for one common share at an exercise price of $7.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GROY.W"
+   "symbol": "FEXD",
+   "name": "Fintech Ecosystem Development Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXD"
   },
   {
-   "symbol": "NEPT",
-   "name": "Neptune Wellness Solutions Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NEPT"
+   "symbol": "SAGA",
+   "name": "Sagaliam Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAGA"
   },
   {
-   "symbol": "BETS",
-   "name": "Bit Brother Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BETS"
+   "symbol": "FEXDR",
+   "name": "Fintech Ecosystem Development Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXDR"
   },
   {
-   "symbol": "PBLA",
-   "name": "Panbela Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PBLA"
+   "symbol": "EXPR",
+   "name": "Express, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EXPR"
+  },
+  {
+   "symbol": "SAGAR",
+   "name": "Sagaliam Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAGAR"
+  },
+  {
+   "symbol": "SAGAU",
+   "name": "Sagaliam Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAGAU"
+  },
+  {
+   "symbol": "OOOO",
+   "name": "OOOOO Entertainment Commerce Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OOOO.V",
+   "instruments": [
+    {
+     "name": "OOOOO Entertainment Commerce Limited",
+     "symbol": "OOOO"
+    }
+   ]
+  },
+  {
+   "symbol": "FEXDW",
+   "name": "Fintech Ecosystem Development Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXDW"
+  },
+  {
+   "symbol": "AMAM",
+   "name": "Ambrx Biopharma, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMAM"
+  },
+  {
+   "symbol": "TBLL",
+   "name": "Tombill Mines Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TBLL.V",
+   "instruments": [
+    {
+     "name": "Tombill Mines Limited",
+     "symbol": "TBLL"
+    }
+   ]
+  },
+  {
+   "symbol": "LKY",
+   "name": "Lucky Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LKY.V",
+   "instruments": [
+    {
+     "name": "Lucky Minerals Inc.",
+     "symbol": "LKY"
+    }
+   ]
+  },
+  {
+   "symbol": "SLNA",
+   "name": "Selina Hospitality PLC - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLNA"
+  },
+  {
+   "symbol": "FEXDU",
+   "name": "Fintech Ecosystem Development Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXDU"
   }
  ]
 }
