@@ -1,162 +1,72 @@
 {
  "added": [
   {
-   "symbol": "GLLI",
-   "name": "Globalink Investment Inc. - Common Stock",
+   "symbol": "BETR",
+   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLLI"
+   "yahoo_symbol": "BETR"
   },
   {
-   "symbol": "GLLIR",
-   "name": "Globalink Investment Inc. - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLLIR"
+   "symbol": "NMHI",
+   "name": "Nature's Miracle Holding Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMHI"
   },
   {
-   "symbol": "GLLIU",
-   "name": "Globalink Investment Inc. - Units",
+   "symbol": "NMHIW",
+   "name": "Nature's Miracle Holding Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLLIU"
+   "yahoo_symbol": "NMHIW"
   },
   {
-   "symbol": "GLLIW",
-   "name": "Globalink Investment Inc. - Warrants",
+   "symbol": "NTRP",
+   "name": "NextTrip, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLLIW"
+   "yahoo_symbol": "NTRP"
   },
   {
-   "symbol": "JVSA",
-   "name": "JVSPAC Acquisition Corp. - Class A Ordinary Share",
+   "symbol": "XTIA",
+   "name": "XTI Aerospace, Inc. Common Stock  - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JVSA"
+   "yahoo_symbol": "XTIA"
   },
   {
-   "symbol": "JVSAR",
-   "name": "JVSPAC Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JVSAR"
-  },
-  {
-   "symbol": "AGT",
-   "name": "Applied Graphite Technologies Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AGT.V",
-   "instruments": [
-    {
-     "name": "Applied Graphite Technologies Corporation",
-     "symbol": "AGT"
-    }
-   ]
+   "symbol": "ALP$A",
+   "name": "Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALP$A"
   }
  ],
  "removed": [
   {
-   "symbol": "CURO",
-   "name": "CURO Group Holdings Corp. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CURO"
-  },
-  {
-   "symbol": "GLLI",
-   "name": "Globalink Investment Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLLI"
-  },
-  {
-   "symbol": "IRRX.U",
-   "name": "Integrated Rail and Resources Acquisition Corp. Units, each consisting of one share of Class A common stock and one half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IRRX.U"
-  },
-  {
-   "symbol": "HARP",
-   "name": "Harpoon Therapeutics, Inc. - Common Stock",
+   "symbol": "SNCE",
+   "name": "Science 37 Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HARP"
+   "yahoo_symbol": "SNCE"
   },
   {
-   "symbol": "LBBBR",
-   "name": "Lakeshore Acquisition II Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LBBBR"
+   "symbol": "SOVO",
+   "name": "Sovos Brands, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SOVO"
   },
   {
-   "symbol": "IRRX",
-   "name": "Integrated Rail and Resources Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IRRX"
-  },
-  {
-   "symbol": "GLLIR",
-   "name": "Globalink Investment Inc. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLLIR"
-  },
-  {
-   "symbol": "GLLIW",
-   "name": "Globalink Investment Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLLIW"
-  },
-  {
-   "symbol": "AUD.P",
-   "name": "Audrey Capital Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AUD.P.V",
-   "instruments": [
-    {
-     "name": "Audrey Capital Corporation",
-     "symbol": "AUD.P"
-    }
-   ]
-  },
-  {
-   "symbol": "EACPW",
-   "name": "Edify Acquisition Corp. - Warrant",
+   "symbol": "SASI",
+   "name": "Sigma Additive Solutions, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EACPW"
+   "yahoo_symbol": "SASI"
   },
   {
-   "symbol": "LBBBW",
-   "name": "Lakeshore Acquisition II Corp. - Warrants",
+   "symbol": "BETR",
+   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LBBBW"
+   "yahoo_symbol": "BETR"
   },
   {
-   "symbol": "LBBB",
-   "name": "Lakeshore Acquisition II Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LBBB"
-  },
-  {
-   "symbol": "GLLIU",
-   "name": "Globalink Investment Inc. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLLIU"
-  },
-  {
-   "symbol": "EAC",
-   "name": "Edify Acquisition Corp. - Class A Common Stock",
+   "symbol": "INPX",
+   "name": "Inpixon  - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EAC"
-  },
-  {
-   "symbol": "LBBBU",
-   "name": "Lakeshore Acquisition II Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LBBBU"
-  },
-  {
-   "symbol": "EACPU",
-   "name": "Edify Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EACPU"
-  },
-  {
-   "symbol": "IRRX.W",
-   "name": "Integrated Rail and Resources Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IRRX.W"
+   "yahoo_symbol": "INPX"
   }
  ]
 }
