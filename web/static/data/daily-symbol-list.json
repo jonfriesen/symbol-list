@@ -1,5 +1,5 @@
 {
- "date": "2024-03-20",
+ "date": "2024-03-21",
  "data": [
   {
    "symbol": "ONE",
@@ -994,6 +994,18 @@
     {
      "name": "Ankh II Capital Inc.",
      "symbol": "AUNK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ANOR",
+   "name": "AnorTech Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ANOR.V",
+   "instruments": [
+    {
+     "name": "AnorTech Inc.",
+     "symbol": "ANOR"
     }
    ]
   },
@@ -8654,18 +8666,6 @@
     {
      "name": "HTC Purenergy Inc",
      "symbol": "HTC"
-    }
-   ]
-  },
-  {
-   "symbol": "HUD",
-   "name": "Hudson Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HUD.V",
-   "instruments": [
-    {
-     "name": "Hudson Resources Inc.",
-     "symbol": "HUD"
     }
    ]
   },
@@ -19791,7 +19791,7 @@
   },
   {
    "symbol": "HDGE",
-   "name": "Accelerate Absolute Return Hedge Fund",
+   "name": "Accelerate Absolute Return Fund",
    "exchange": "TSX",
    "yahoo_symbol": "HDGE.TO",
    "instruments": [
@@ -19815,7 +19815,7 @@
   },
   {
    "symbol": "ATSX",
-   "name": "Accelerate Enhanced Canadian Benchmark Alternative Fund",
+   "name": "Accelerate Canadian Long Short Equity Fund",
    "exchange": "TSX",
    "yahoo_symbol": "ATSX.TO",
    "instruments": [
@@ -45556,6 +45556,12 @@
    "yahoo_symbol": "AKYA"
   },
   {
+   "symbol": "ALAB",
+   "name": "Astera Labs, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALAB"
+  },
+  {
    "symbol": "ALAR",
    "name": "Alarum Technologies Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -50658,7 +50664,7 @@
   {
    "symbol": "CNFR",
    "name": "Conifer Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CNFR"
   },
   {
@@ -56668,24 +56674,6 @@
    "yahoo_symbol": "HCM"
   },
   {
-   "symbol": "HCMA",
-   "name": "HCM Acquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCMA"
-  },
-  {
-   "symbol": "HCMAU",
-   "name": "HCM Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCMAU"
-  },
-  {
-   "symbol": "HCMAW",
-   "name": "HCM Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCMAW"
-  },
-  {
    "symbol": "HCOW",
    "name": "Amplify Cash Flow High Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58378,6 +58366,12 @@
    "yahoo_symbol": "INTG"
   },
   {
+   "symbol": "INTJ",
+   "name": "Intelligent Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTJ"
+  },
+  {
    "symbol": "INTR",
    "name": "Inter \u0026 Co. Inc. - Class A Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58556,6 +58550,12 @@
    "name": "iQIYI, Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IQ"
+  },
+  {
+   "symbol": "IQQQ",
+   "name": "ProShares Nasdaq-100 High Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IQQQ"
   },
   {
    "symbol": "IRAA",
@@ -89188,6 +89188,12 @@
    "yahoo_symbol": "RCUS"
   },
   {
+   "symbol": "RDDT",
+   "name": "Reddit, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RDDT"
+  },
+  {
    "symbol": "RDN",
    "name": "Radian Group Inc. Common Stock",
    "exchange": "NYSE",
@@ -92708,12 +92714,6 @@
    "name": "INNOVATE Corp. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VATE"
-  },
-  {
-   "symbol": "VATE.R",
-   "name": "INNOVATE Corp. Rights (expiring March 25, 2024)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VATE.R"
   },
   {
    "symbol": "VBF",

@@ -81,6 +81,7 @@ AWM,Angel Wing Metals Inc.,TSXV,AWM.V,Angel Wing Metals Inc.,AWM
 ANK,Angkor Resources Corp.,TSXV,ANK.V,Angkor Resources Corp.,ANK
 GUS,Angus Gold Inc.,TSXV,GUS.V,Angus Gold Inc.,GUS
 AUNK.P,Ankh II Capital Inc.,TSXV,AUNK.P.V,Ankh II Capital Inc.,AUNK.P
+ANOR,AnorTech Inc.,TSXV,ANOR.V,AnorTech Inc.,ANOR
 AVII.P,Antera Ventures II Corp.,TSXV,AVII.P.V,Antera Ventures II Corp.,AVII.P
 ANTL,Antler Gold Inc.,TSXV,ANTL.V,Antler Gold Inc.,ANTL
 APX,Apex Resources Inc.,TSXV,APX.V,Apex Resources Inc.,APX
@@ -711,7 +712,6 @@ HRC.P,Hoshi Resource Corp.,TSXV,HRC.P.V,Hoshi Resource Corp.,HRC.P
 HCH,Hot Chili Limited,TSXV,HCH.V,Hot Chili Limited,HCH
 HPQ,HPQ Silicon Inc.,TSXV,HPQ.V,HPQ Silicon Inc.,HPQ
 HTC,HTC Purenergy Inc.,TSXV,HTC.V,HTC Purenergy Inc,HTC
-HUD,Hudson Resources Inc.,TSXV,HUD.V,Hudson Resources Inc.,HUD
 HMAN,Huntsman Exploration Inc.,TSXV,HMAN.V,Huntsman Exploration Inc.,HMAN
 HIDE.P,Hydaway Ventures Corp.,TSXV,HIDE.P.V,Hydaway Ventures Corp.,HIDE.P
 NURS,Hydreight Technologies Inc,TSXV,NURS.V,Hydreight Technologies Inc.,NURS
@@ -1625,9 +1625,9 @@ AW.UN,A&W Revenue Royalties Income Fund,TSX,AW.UN.TO,A&W Revenue Rylty Un,AW.UN
 AAB,Aberdeen International Inc.,TSX,AAB.TO,Aberdeen Int'l. J,AAB
 FAP,abrdn Asia-Pacific Income Fund VCC,TSX,FAP.TO,abrdn Asia-PacifcVCC,FAP
 ADN,Acadian Timber Corp.,TSX,ADN.TO,Acadian Timber Corp.,ADN
-HDGE,Accelerate Absolute Return Hedge Fund,TSX,HDGE.TO,Accelerate Absol Heg,HDGE
+HDGE,Accelerate Absolute Return Fund,TSX,HDGE.TO,Accelerate Absol Heg,HDGE
 ARB,Accelerate Arbitrage Fund,TSX,ARB.TO,Accelerate ArbitrgUn,ARB
-ATSX,Accelerate Enhanced Canadian Benchmark Alternative Fund,TSX,ATSX.TO,AccelerateCA Benchmk,ATSX
+ATSX,Accelerate Canadian Long Short Equity Fund,TSX,ATSX.TO,AccelerateCA Benchmk,ATSX
 ONEC,Accelerate OneChoice Alternative Portfolio ETF,TSX,ONEC.TO,Accelerate1ChoicePrt,ONEC
 ACD,Accord Financial Corp.,TSX,ACD.TO,Accord Financial,ACD,Accord Fin Corp Db,ACD.DB
 ARA,Aclara Resources Inc.,TSX,ARA.TO,Aclara Res Inc. J,ARA
@@ -3617,6 +3617,7 @@ AKRO,"Akero Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,AKR
 AKTS,"Akoustis Technologies, Inc. - Common Stock",NASDAQ Capital Market,AKTS
 AKTX,Akari Therapeutics Plc - American Depositary Shares,NASDAQ Capital Market,AKTX
 AKYA,"Akoya BioSciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,AKYA
+ALAB,"Astera Labs, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALAB
 ALAR,Alarum Technologies Ltd. - American Depositary Shares,NASDAQ Capital Market,ALAR
 ALBT,Avalon GloboCare Corp. - Common Stock,NASDAQ Capital Market,ALBT
 ALCE,"Alternus Clean Energy, Inc. - Class A Common Stock",NASDAQ Global MarketSM,ALCE
@@ -4467,7 +4468,7 @@ CNCR,Range Cancer Therapeutics ETF,NASDAQ Global MarketSM,CNCR
 CNDT,Conduent Incorporated - Common Stock,NASDAQ Global Select MarketSM,CNDT
 CNET,ZW Data Action Technologies Inc. - Common Stock,NASDAQ Capital Market,CNET
 CNEY,CN Energy Group Inc. - Class A Ordinary Shares,NASDAQ Capital Market,CNEY
-CNFR,"Conifer Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,CNFR
+CNFR,"Conifer Holdings, Inc. - Common Stock",NASDAQ Capital Market,CNFR
 CNFRZ,"Conifer Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028",NASDAQ Global MarketSM,CNFRZ
 CNGL,Canna-Global Acquisition Corp - Class A Common Stock,NASDAQ Capital Market,CNGL
 CNGLU,Canna-Global Acquisition Corp - Unit,NASDAQ Capital Market,CNGLU
@@ -5469,9 +5470,6 @@ HBT,"HBT Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,HBT
 HCAT,"Health Catalyst, Inc - Common stock",NASDAQ Global Select MarketSM,HCAT
 HCKT,"The Hackett Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,HCKT
 HCM,HUTCHMED (China) Limited - American Depositary Shares,NASDAQ Global Select MarketSM,HCM
-HCMA,HCM Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,HCMA
-HCMAU,HCM Acquisition Corp - Unit,NASDAQ Global MarketSM,HCMAU
-HCMAW,HCM Acquisition Corp - Warrant,NASDAQ Global MarketSM,HCMAW
 HCOW,Amplify Cash Flow High Income ETF,NASDAQ Global MarketSM,HCOW
 HCP,"HashiCorp, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,HCP
 HCSG,"Healthcare Services Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,HCSG
@@ -5754,6 +5752,7 @@ INTE,Integral Acquisition Corporation 1 - Class A Common Stock,NASDAQ Capital Ma
 INTEU,Integral Acquisition Corporation 1 - Unit,NASDAQ Capital Market,INTEU
 INTEW,Integral Acquisition Corporation 1 - Warrant,NASDAQ Capital Market,INTEW
 INTG,The Intergroup Corporation - Common Stock,NASDAQ Capital Market,INTG
+INTJ,Intelligent Group Limited - Ordinary Shares,NASDAQ Capital Market,INTJ
 INTR,Inter & Co. Inc. - Class A Common Shares,NASDAQ Global Select MarketSM,INTR
 INTS,"Intensity Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,INTS
 INTU,Intuit Inc. - Common Stock,NASDAQ Global Select MarketSM,INTU
@@ -5784,6 +5783,7 @@ IPXX,Inflection Point Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Glob
 IPXXU,Inflection Point Acquisition Corp. II - Unit,NASDAQ Global MarketSM,IPXXU
 IPXXW,Inflection Point Acquisition Corp. II - Warrant,NASDAQ Global MarketSM,IPXXW
 IQ,"iQIYI, Inc. - American Depositary Shares",NASDAQ Global Select MarketSM,IQ
+IQQQ,ProShares Nasdaq-100 High Income ETF,NASDAQ Global MarketSM,IQQQ
 IRAA,Iris Acquisition Corp - Class A Common Stock,NASDAQ Capital Market,IRAA
 IRAAU,Iris Acquisition Corp - Units,NASDAQ Capital Market,IRAAU
 IRAAW,Iris Acquisition Corp - Warrant,NASDAQ Capital Market,IRAAW
@@ -10889,6 +10889,7 @@ RCI,"Rogers Communication, Inc. Common Stock",NYSE,RCI
 RCL,Royal Caribbean Cruises Ltd. Common Stock,NYSE,RCL
 RCS,"PIMCO Strategic Income Fund, Inc.",NYSE,RCS
 RCUS,"Arcus Biosciences, Inc. Common Stock",NYSE,RCUS
+RDDT,"Reddit, Inc. Class A Common Stock",NYSE,RDDT
 RDN,Radian Group Inc. Common Stock,NYSE,RDN
 RDW,Redwire Corporation Common Stock,NYSE,RDW
 RDW.W,Redwire Corporation Redeemable Warrants,NYSE,RDW.W
@@ -11476,7 +11477,6 @@ VAL,Valaris Limited Common Shares,NYSE,VAL
 VAL.W,Valaris Limited Warrants,NYSE,VAL.W
 VALE,VALE S.A.  American Depositary Shares Each Representing one common share,NYSE,VALE
 VATE,INNOVATE Corp. Common Stock,NYSE,VATE
-VATE.R,"INNOVATE Corp. Rights (expiring March 25, 2024)",NYSE,VATE.R
 VBF,Invesco Bond Fund Common Stock,NYSE,VBF
 VCV,Invesco California Value Municipal Income Trust Common Stock,NYSE,VCV
 VCXB,10X Capital Venture Acquisition Corp. III Class A Ordinary Shares,NYSE MKT,VCXB
