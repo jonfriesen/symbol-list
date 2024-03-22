@@ -72,7 +72,6 @@ AE,American Eagle Gold Corp.,TSXV,AE.V,American Eagle Gold Corp.,AE
 LI,American Lithium Corp.,TSXV,LI.V,American Lithium Corp.,LI,American Lithium Corp. wt. 11May2024,LI.WT
 AMX,Amex Exploration Inc.,TSXV,AMX.V,Amex Exploration Inc.,AMX
 AMG.P,AMG Acquisition Corp,TSXV,AMG.P.V,AMG Acquisition Corp.,AMG.P
-AAC.P,Anacott Acquisition Corporation,TSXV,AAC.P.V,Anacott Acquisition Corporation,AAC.P
 ALY,AnalytixInsight Inc.,TSXV,ALY.V,AnalytixInsight Inc.,ALY,AnalytixInsight Inc. wt 28Jun2024,ALY.WT
 APM,Andean Precious Metals Corp.,TSXV,APM.V,Andean Precious Metals Corp.,APM
 EESH.P,Aneesh Capital Corp.,TSXV,EESH.P.V,Aneesh Capital Corp.,EESH.P
@@ -693,6 +692,7 @@ HHH,Helius Minerals Limited,TSXV,HHH.V,Helius Minerals Limited,HHH
 HME,Hemisphere Energy Corporation,TSXV,HME.V,Hemisphere Energy Corporation,HME
 HMLO,Hemlo Explorers Inc.,TSXV,HMLO.V,Hemlo Explorers Inc.,HMLO
 HEM,Hemostemix Inc.,TSXV,HEM.V,Hemostemix Inc.,HEM
+HEMP,Hempalta Corp.,TSXV,HEMP.V,Hempalta Corp.,HEMP
 BIG,Hercules Silver Corp.,TSXV,BIG.V,Hercules Silver Corp.,BIG
 HMCC.P,High Mountain 2 Capital Corporation,TSXV,HMCC.P.V,High Mountain 2 Capital Corporation,HMCC.P
 HITI,High Tide Inc.,TSXV,HITI.V,High Tide Inc.,HITI
@@ -744,7 +744,7 @@ IOT,Innovotech Inc.,TSXV,IOT.V,Innovotech Inc.,IOT
 MINE,Inomin Mines Inc.,TSXV,MINE.V,Inomin Mines Inc.,MINE
 INSP,Inspire Semiconductor Holdings Inc.,TSXV,INSP.V,Inspire Semiconductor Holdings Inc.,INSP
 ISGI,Insuraguest Technologies Inc.,TSXV,ISGI.V,Insuraguest Technologies Inc.,ISGI
-ITR,Integra Resources Corp.,TSXV,ITR.V,Integra Resources Corp.,ITR
+ITR,Integra Resources Corp.,TSXV,ITR.V,Integra Resources Corp.,ITR,Integra Resources Corp. wt 13Mar2027,ITR.WT
 IRO,Inter-Rock Minerals Inc.,TSXV,IRO.V,Inter-Rock Minerals Inc.,IRO
 IFR,International Frontier Resources Corporation,TSXV,IFR.V,International Frontier Resources Corporation,IFR
 ICON,International Iconic Gold Exploration Corp.,TSXV,ICON.V,International Iconic Gold Exploration Corp.,ICON
@@ -1195,6 +1195,7 @@ RRCC.P,Raging Rhino Capital Corp.,TSXV,RRCC.P.V,Raging Rhino Capital Corp.,RRCC.
 RLT.P,Railtown Capital Corp,TSXV,RLT.P.V,Railtown Capital Corp.,RLT.P
 RMO,Rainy Mountain Royalty Corp.,TSXV,RMO.V,Rainy Mountain Royalty Corp.,RMO
 RKV,Rakovina Therapeutics Inc.,TSXV,RKV.V,Rakovina Therapeutics Inc.,RKV
+RAMP,Ramp Metals Inc.,TSXV,RAMP.V,Ramp Metals Inc.,RAMP
 RNCH,Ranchero Gold Corp.,TSXV,RNCH.V,Ranchero Gold Corp.,RNCH
 RTH,Rathdowney Resources Ltd.,TSXV,RTH.V,Rathdowney Resources Ltd.,RTH
 RE,RE Royalties Ltd.,TSXV,RE.V,RE Royalties Ltd.,RE
@@ -1467,7 +1468,6 @@ THP,Totally Hip Technologies Inc.,TSXV,THP.V,Totally Hip Technologies Inc.,THP
 TOTC.P,Totec Resources Ltd.,TSXV,TOTC.P.V,Totec Resources Ltd.,TOTC.P
 TWR,Tower Resources Ltd.,TSXV,TWR.V,Tower Resources Ltd.,TWR
 TBLZ.P,Trail Blazer Capital Corp.,TSXV,TBLZ.P.V,Trail Blazer Capital Corp.,TBLZ.P
-BLAZ.P,Trail Blazing Ventures Ltd.,TSXV,BLAZ.P.V,Trail Blazing Ventures Ltd.,BLAZ.P
 TBK,Trailbreaker Resources Ltd.,TSXV,TBK.V,Trailbreaker Resources Ltd.,TBK
 TTG,Trans Canada Gold Corp.,TSXV,TTG.V,Trans Canada Gold Corp.,TTG
 TCO,Transatlantic Mining Corp.,TSXV,TCO.V,Transatlantic Mining Corp.,TCO
@@ -1625,9 +1625,9 @@ AW.UN,A&W Revenue Royalties Income Fund,TSX,AW.UN.TO,A&W Revenue Rylty Un,AW.UN
 AAB,Aberdeen International Inc.,TSX,AAB.TO,Aberdeen Int'l. J,AAB
 FAP,abrdn Asia-Pacific Income Fund VCC,TSX,FAP.TO,abrdn Asia-PacifcVCC,FAP
 ADN,Acadian Timber Corp.,TSX,ADN.TO,Acadian Timber Corp.,ADN
-HDGE,Accelerate Absolute Return Fund,TSX,HDGE.TO,Accelerate Absol Heg,HDGE
+HDGE,Accelerate Absolute Return Fund,TSX,HDGE.TO,Accel Absol Ret Fnd,HDGE
 ARB,Accelerate Arbitrage Fund,TSX,ARB.TO,Accelerate ArbitrgUn,ARB
-ATSX,Accelerate Canadian Long Short Equity Fund,TSX,ATSX.TO,AccelerateCA Benchmk,ATSX
+ATSX,Accelerate Canadian Long Short Equity Fund,TSX,ATSX.TO,AccelerateCA LSEQ FN,ATSX
 ONEC,Accelerate OneChoice Alternative Portfolio ETF,TSX,ONEC.TO,Accelerate1ChoicePrt,ONEC
 ACD,Accord Financial Corp.,TSX,ACD.TO,Accord Financial,ACD,Accord Fin Corp Db,ACD.DB
 ARA,Aclara Resources Inc.,TSX,ARA.TO,Aclara Res Inc. J,ARA
@@ -2959,7 +2959,6 @@ NSCE,NBI Sustainable Canadian Equity ETF,TSX,NSCE.TO,NBI SustainCdnEq Un,NSCE
 NSSB,NBI Sustainable Canadian Short Term Bond ETF,TSX,NSSB.TO,NBI SustainCdnST Bnd,NSSB
 NSGE,NBI Sustainable Global Equity ETF,TSX,NSGE.TO,NBI SustainGlblEq Un,NSGE
 NUBF,NBI Unconstrained Fixed Income ETF,TSX,NUBF.TO,NBI Unconstr FxdIncm,NUBF
-NBLY,Neighbourly Pharmacy Inc.,TSX,NBLY.TO,Neighbourly Pharm J,NBLY
 NEO,Neo Performance Materials Inc.,TSX,NEO.TO,Neo Perform Material,NEO
 NCU,Nevada Copper Corp.,TSX,NCU.TO,Nevada Copper Corp J,NCU,Nevada Copper J C Wt,NCU.WT.C
 NGD,New Gold Inc.,TSX,NGD.TO,New Gold Inc.,NGD
@@ -3113,7 +3112,7 @@ QIPT,Quipt Home Medical Corp.,TSX,QIPT.TO,Quipt Home Medical J,QIPT
 RAV.UN,Ravensource Fund,TSX,RAV.UN.TO,Ravensource Fund Un,RAV.UN
 RBA,"RB Global, Inc.",TSX,RBA.TO,"RB Global, Inc.",RBA
 RLB,RBC 1-5 Year Laddered Canadian Bond ETF,TSX,RLB.TO,RBC 1-5Yr LadCdn Bnd,RLB
-RBO,RBC 1-5 Year Laddered Corporate Bond ETF,TSX,RBO.TO,RBC 1-5Yr LddCrp Bnd,RBO
+RBO,RBC 1-5 Year Laddered Canadian Corporate Bond ETF,TSX,RBO.TO,RBC 1-5Yr LddCrp Bnd,RBO
 RBNK,RBC Canadian Bank Yield Index ETF,TSX,RBNK.TO,RBC CdnBnk Yld Indx,RBNK
 RCDC,RBC Canadian Dividend Covered Call ETF,TSX,RCDC.TO,RBC Cdn DivCovCal CA,RCDC
 RPF,RBC Canadian Preferred Share ETF,TSX,RPF.TO,RBC Cdn Pref CA Un,RPF
@@ -3127,18 +3126,18 @@ RPD,RBC Quant European Dividend Leaders ETF,TSX,RPD.TO,RBC Quant EU DivLdCA,RPD,
 RUDH,RBC Quant U.S. Dividend Leaders (CAD Hedged) ETF,TSX,RUDH.TO,RBC Quant US DivLead,RUDH
 RUD,RBC Quant U.S. Dividend Leaders ETF,TSX,RUD.TO,RBC QntUS DivLead Un,RUD,RBC QntUS DivLeadUSD,RUD.U
 RUSB,RBC Short Term U.S. Corporate Bond ETF,TSX,RUSB.TO,RBC ST US CorpBndCAD,RUSB,RBC ST US CorpBndUSF,RUSB.U
-RQL,RBC Target 2024 Corporate Bond Index ETF,TSX,RQL.TO,RBC Targt2024CorpBnd,RQL
-RGQL,RBC Target 2024 Government Bond ETF,TSX,RGQL.TO,RBC Target24 GovtBnd,RGQL
-RQN,RBC Target 2025 Corporate Bond Index ETF,TSX,RQN.TO,RBC Targt2025CorpBnd,RQN
-RGQN,RBC Target 2025 Government Bond ETF,TSX,RGQN.TO,RBC Targt25 GovtBond,RGQN
-RQO,RBC Target 2026 Corporate Bond Index ETF,TSX,RQO.TO,RBC Targt26Corp Bond,RQO
-RGQO,RBC Target 2026 Government Bond ETF,TSX,RGQO.TO,RBC Targt26 GovtBond,RGQO
-RQP,RBC Target 2027 Corporate Bond Index ETF,TSX,RQP.TO,RBC Targt27Corp Bond,RQP
-RGQP,RBC Target 2027 Government Bond ETF,TSX,RGQP.TO,RBC Targt27 GovtBond,RGQP
-RQQ,RBC Target 2028 Corporate Bond Index ETF,TSX,RQQ.TO,RBC Targt2028 CrpBnd,RQQ
-RGQQ,RBC Target 2028 Government Bond ETF,TSX,RGQQ.TO,RBC Targt28 GovtBond,RGQQ
-RQR,RBC Target 2029 Corporate Bond Index ETF,TSX,RQR.TO,RBC Targt2029 CrpBnd,RQR
-RGQR,RBC Target 2029 Government Bond ETF,TSX,RGQR.TO,RBC Targt29 GovtBond,RGQR
+RQL,RBC Target 2024 Canadian Corporate Bond Index ETF,TSX,RQL.TO,RBC Targt2024CorpBnd,RQL
+RGQL,RBC Target 2024 Canadian Government Bond ETF,TSX,RGQL.TO,RBC Target24 GovtBnd,RGQL
+RQN,RBC Target 2025 Canadian Corporate Bond Index ETF,TSX,RQN.TO,RBC Targt2025CorpBnd,RQN
+RGQN,RBC Target 2025 Canadian Government Bond ETF,TSX,RGQN.TO,RBC Targt25 GovtBond,RGQN
+RQO,RBC Target 2026 Canadian Corporate Bond Index ETF,TSX,RQO.TO,RBC Targt26Corp Bond,RQO
+RGQO,RBC Target 2026 Canadian Government Bond ETF,TSX,RGQO.TO,RBC Targt26 GovtBond,RGQO
+RQP,RBC Target 2027 Canadian Corporate Bond Index ETF,TSX,RQP.TO,RBC Targt27Corp Bond,RQP
+RGQP,RBC Target 2027 Canadian Government Bond ETF,TSX,RGQP.TO,RBC Targt27 GovtBond,RGQP
+RQQ,RBC Target 2028 Canadian Corporate Bond Index ETF,TSX,RQQ.TO,RBC Targt2028 CrpBnd,RQQ
+RGQQ,RBC Target 2028 Canadian Government Bond ETF,TSX,RGQQ.TO,RBC Targt28 GovtBond,RGQQ
+RQR,RBC Target 2029 Canadian Corporate Bond Index ETF,TSX,RQR.TO,RBC Targt2029 CrpBnd,RQR
+RGQR,RBC Target 2029 Canadian Government Bond ETF,TSX,RGQR.TO,RBC Targt29 GovtBond,RGQR
 RUBH,RBC U.S. Banks Yield (CAD Hedged) Index ETF,TSX,RUBH.TO,RBC USBanksYld CA-Hg,RUBH
 RUBY,RBC U.S. Banks Yield Index ETF,TSX,RUBY.TO,RBC US Banks Yld CAD,RUBY,RBC US Banks Yld USF,RUBY.U
 RDBH,RBC U.S. Discount Bond (CAD Hedged) ETF,TSX,RDBH.TO,RBC US DiscountBndHg,RDBH
@@ -3513,9 +3512,6 @@ ADIL,"Adial Pharmaceuticals, Inc - Common Stock",NASDAQ Capital Market,ADIL
 ADMA,ADMA Biologics Inc - Common Stock,NASDAQ Global MarketSM,ADMA
 ADN,"Advent Technologies Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market,ADN
 ADNWW,"Advent Technologies Holdings, Inc. - Warrant",NASDAQ Capital Market,ADNWW
-ADOC,Edoc Acquisition Corp. - Class A Ordinary Share,NASDAQ Capital Market,ADOC
-ADOCR,Edoc Acquisition Corp. - Right,NASDAQ Capital Market,ADOCR
-ADOCW,Edoc Acquisition Corp. - Warrant,NASDAQ Capital Market,ADOCW
 ADP,"Automatic Data Processing, Inc. - Common Stock",NASDAQ Global Select MarketSM,ADP
 ADPT,Adaptive Biotechnologies Corporation - Common Stock,NASDAQ Global Select MarketSM,ADPT
 ADSE,ADS-TEC ENERGY PLC - Ordinary Shares,NASDAQ Capital Market,ADSE
@@ -3896,6 +3892,7 @@ AVRO,"AVROBIO, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVRO
 AVT,"Avnet, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVT
 AVTE,"Aerovate Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,AVTE
 AVTX,"Avalo Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,AVTX
+AVXC,Avantis Emerging Markets ex-China Equity ETF,NASDAQ Global MarketSM,AVXC
 AVXL,Anavex Life Sciences Corp. - Common Stock,NASDAQ Global Select MarketSM,AVXL
 AWH,Aspira Women's Health Inc. - Common Stock,NASDAQ Capital Market,AWH
 AWIN,AERWINS Technologies Inc. - Common Stock,NASDAQ Capital Market,AWIN
@@ -4020,6 +4017,7 @@ BJDX,"Bluejay Diagnostics, Inc. - Common Stock",NASDAQ Capital Market,BJDX
 BJK,VanEck Gaming ETF,NASDAQ Global MarketSM,BJK
 BJRI,"BJ's Restaurants, Inc. - Common Stock",NASDAQ Global Select MarketSM,BJRI
 BKCH,Global X Blockchain ETF,NASDAQ Global MarketSM,BKCH
+BKHAU,Black Hawk Acquisition Corporation - Units,NASDAQ Global MarketSM,BKHAU
 BKIV,BNY Mellon Innovators ETF,NASDAQ Global MarketSM,BKIV
 BKNG,Booking Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,BKNG
 BKR,Baker Hughes Company - Common Stock,NASDAQ Global Select MarketSM,BKR
@@ -5346,7 +5344,7 @@ GLST,"Global Star Acquisition, Inc. - Class A Common Stock",NASDAQ Global Market
 GLSTR,"Global Star Acquisition, Inc. - Right",NASDAQ Global MarketSM,GLSTR
 GLSTU,"Global Star Acquisition, Inc. - Unit",NASDAQ Global MarketSM,GLSTU
 GLSTW,"Global Star Acquisition, Inc. - Warrants",NASDAQ Global MarketSM,GLSTW
-GLTO,"Galecto, Inc. - Common Stock",NASDAQ Global Select MarketSM,GLTO
+GLTO,"Galecto, Inc. - Common Stock",NASDAQ Capital Market,GLTO
 GLUE,"Monte Rosa Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,GLUE
 GLYC,"GlycoMimetics, Inc. - Common Stock",NASDAQ Global MarketSM,GLYC
 GMAB,Genmab A/S - American Depositary Shares,NASDAQ Global Select MarketSM,GMAB
@@ -5408,7 +5406,6 @@ GRNQ,Greenpro Capital Corp. - Common Stock,NASDAQ Capital Market,GRNQ
 GROM,Grom Social Enterprises Inc. - Common Stock,NASDAQ Capital Market,GROM
 GROMW,Grom Social Enterprises Inc. - Warrants,NASDAQ Capital Market,GROMW
 GROW,"U.S. Global Investors, Inc. - Class A Common Stock",NASDAQ Capital Market,GROW
-GRPH,"Graphite Bio, Inc. - Common Stock",NASDAQ Global MarketSM,GRPH
 GRPN,"Groupon, Inc. - Common Stock",NASDAQ Global Select MarketSM,GRPN
 GRRR,Gorilla Technology Group Inc. - Ordinary shares,NASDAQ Capital Market,GRRR
 GRRRW,Gorilla Technology Group Inc. - Warrant,NASDAQ Capital Market,GRRRW
@@ -5617,6 +5614,7 @@ HYZNW,Hyzon Motors Inc. - Warrant,NASDAQ Global Select MarketSM,HYZNW
 IAC,IAC Inc. - Common Stock,NASDAQ Global Select MarketSM,IAC
 IART,Integra LifeSciences Holdings Corporation - Common Stock,NASDAQ Global Select MarketSM,IART
 IAS,Integral Ad Science Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,IAS
+IBAT,iShares Energy Storage & Materials ETF,NASDAQ Global MarketSM,IBAT
 IBB,iShares Biotechnology ETF,NASDAQ Global MarketSM,IBB
 IBBQ,Invesco Nasdaq Biotechnology ETF,NASDAQ Global MarketSM,IBBQ
 IBCP,Independent Bank Corporation - Common Stock,NASDAQ Global Select MarketSM,IBCP
@@ -6028,6 +6026,7 @@ LEE,"Lee Enterprises, Incorporated - Common Stock",NASDAQ Global Select MarketSM
 LEGH,Legacy Housing Corporation - Common Stock,NASDAQ Global Select MarketSM,LEGH
 LEGN,Legend Biotech Corporation - American Depositary Shares,NASDAQ Global Select MarketSM,LEGN
 LEGR,First Trust Indxx Innovative Transaction & Process ETF,NASDAQ Global MarketSM,LEGR
+LENZ,"LENZ Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,LENZ
 LESL,"Leslie's, Inc. - Common Stock",NASDAQ Global Select MarketSM,LESL
 LEXX,Lexaria Bioscience Corp. - Common Stock,NASDAQ Capital Market,LEXX
 LEXXW,Lexaria Bioscience Corp. - Warrant,NASDAQ Capital Market,LEXXW
@@ -6099,6 +6098,7 @@ LNW,"Light & Wonder, Inc.  - Common Stock",NASDAQ Global Select MarketSM,LNW
 LNZA,"LanzaTech Global, Inc. - Common Stock",NASDAQ Capital Market,LNZA
 LNZAW,"LanzaTech Global, Inc. - Warrant",NASDAQ Capital Market,LNZAW
 LOAN,"Manhattan Bridge Capital, Inc - Common Stock",NASDAQ Capital Market,LOAN
+LOBO,LOBO EV TECHNOLOGIES LTD. - Ordinary shares,NASDAQ Capital Market,LOBO
 LOCO,"El Pollo Loco Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,LOCO
 LOGI,Logitech International S.A. - Registered Shares,NASDAQ Global Select MarketSM,LOGI
 LOOP,"Loop Industries, Inc. - Common Stock",NASDAQ Global MarketSM,LOOP
@@ -6370,6 +6370,8 @@ MRIN,Marin Software Incorporated - Common Stock,NASDAQ Capital Market,MRIN
 MRKR,"Marker Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,MRKR
 MRM,MEDIROM Healthcare Technologies Inc. - American Depositary Share,NASDAQ Capital Market,MRM
 MRNA,"Moderna, Inc. - Common Stock",NASDAQ Global Select MarketSM,MRNA
+MRNO,Murano Global Investments PLC - Ordinary Shares,NASDAQ Capital Market,MRNO
+MRNOW,Murano Global Investments PLC - Warrants,NASDAQ Capital Market,MRNOW
 MRNS,"Marinus Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,MRNS
 MRSN,"Mersana Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MRSN
 MRTN,"Marten Transport, Ltd. - Common Stock",NASDAQ Global Select MarketSM,MRTN
@@ -6826,9 +6828,6 @@ PEGY,Pineapple Energy Inc. - Common Stock,NASDAQ Capital Market,PEGY
 PENN,"PENN Entertainment, Inc. - Common Stock",NASDAQ Global Select MarketSM,PENN
 PEP,"PepsiCo, Inc. - Common Stock",NASDAQ Global Select MarketSM,PEP
 PEPG,PepGen Inc. - Common Stock,NASDAQ Global Select MarketSM,PEPG
-PEPL,PepperLime Health Acquisition Corporation - Class A Ordinary Share,NASDAQ Capital Market,PEPL
-PEPLU,PepperLime Health Acquisition Corporation - Unit,NASDAQ Capital Market,PEPLU
-PEPLW,PepperLime Health Acquisition Corporation - Warrrant,NASDAQ Capital Market,PEPLW
 PERI,Perion Network Ltd - Ordinary Shares,NASDAQ Global Select MarketSM,PERI
 PESI,"Perma-Fix Environmental Services, Inc. - Common Stock",NASDAQ Capital Market,PESI
 PET,Wag! Group Co. - Common Stock,NASDAQ Global MarketSM,PET
@@ -8626,6 +8625,7 @@ AUB$A,"Atlantic Union Bankshares Corporation Depositary Shares each representing
 AULT,"Ault Alliance, Inc. Common Stock",NYSE MKT,AULT
 AULT$D,"Ault Alliance, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",NYSE MKT,AULT$D
 AUMN,Golden Minerals Company Common Stock,NYSE MKT,AUMN
+AUNA,Auna SA Class A Ordinary Shares,NYSE,AUNA
 AUST,Austin Gold Corp. Common Shares,NYSE MKT,AUST
 AVA,Avista Corporation Common Stock,NYSE,AVA
 AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),NYSE,AVAL
@@ -10779,9 +10779,6 @@ PNST,"Pinstripes Holdings, Inc. Class A Common Stock",NYSE,PNST
 PNST.W,"Pinstripes Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE,PNST.W
 PNW,Pinnacle West Capital Corporation Common Stock,NYSE,PNW
 POR,Portland General Electric Co Common Stock,NYSE,POR
-PORT,Southport Acquisition Corporation Class A Common Stock,NYSE,PORT
-PORT.U,"Southport Acquisition Corporation Units, each consisting of one share of Class A common stock, and one-half of one warrant",NYSE,PORT.U
-PORT.W,"Southport Acquisition Corporation Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50",NYSE,PORT.W
 POST,"Post Holdings, Inc. Common Stock",NYSE,POST
 PPG,"PPG Industries, Inc. Common Stock",NYSE,PPG
 PPL,PPL Corporation Common Stock,NYSE,PPL

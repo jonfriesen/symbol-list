@@ -1,5 +1,5 @@
 {
- "date": "2024-03-21",
+ "date": "2024-03-22",
  "data": [
   {
    "symbol": "ONE",
@@ -878,18 +878,6 @@
     {
      "name": "AMG Acquisition Corp.",
      "symbol": "AMG.P"
-    }
-   ]
-  },
-  {
-   "symbol": "AAC.P",
-   "name": "Anacott Acquisition Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AAC.P.V",
-   "instruments": [
-    {
-     "name": "Anacott Acquisition Corporation",
-     "symbol": "AAC.P"
     }
    ]
   },
@@ -8434,6 +8422,18 @@
    ]
   },
   {
+   "symbol": "HEMP",
+   "name": "Hempalta Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HEMP.V",
+   "instruments": [
+    {
+     "name": "Hempalta Corp.",
+     "symbol": "HEMP"
+    }
+   ]
+  },
+  {
    "symbol": "BIG",
    "name": "Hercules Silver Corp.",
    "exchange": "TSXV",
@@ -9062,6 +9062,10 @@
     {
      "name": "Integra Resources Corp.",
      "symbol": "ITR"
+    },
+    {
+     "name": "Integra Resources Corp. wt 13Mar2027",
+     "symbol": "ITR.WT"
     }
    ]
   },
@@ -14554,6 +14558,18 @@
    ]
   },
   {
+   "symbol": "RAMP",
+   "name": "Ramp Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RAMP.V",
+   "instruments": [
+    {
+     "name": "Ramp Metals Inc.",
+     "symbol": "RAMP"
+    }
+   ]
+  },
+  {
    "symbol": "RNCH",
    "name": "Ranchero Gold Corp.",
    "exchange": "TSXV",
@@ -17862,18 +17878,6 @@
    ]
   },
   {
-   "symbol": "BLAZ.P",
-   "name": "Trail Blazing Ventures Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BLAZ.P.V",
-   "instruments": [
-    {
-     "name": "Trail Blazing Ventures Ltd.",
-     "symbol": "BLAZ.P"
-    }
-   ]
-  },
-  {
    "symbol": "TBK",
    "name": "Trailbreaker Resources Ltd.",
    "exchange": "TSXV",
@@ -19796,7 +19800,7 @@
    "yahoo_symbol": "HDGE.TO",
    "instruments": [
     {
-     "name": "Accelerate Absol Heg",
+     "name": "Accel Absol Ret Fnd",
      "symbol": "HDGE"
     }
    ]
@@ -19820,7 +19824,7 @@
    "yahoo_symbol": "ATSX.TO",
    "instruments": [
     {
-     "name": "AccelerateCA Benchmk",
+     "name": "AccelerateCA LSEQ FN",
      "symbol": "ATSX"
     }
    ]
@@ -38038,18 +38042,6 @@
    ]
   },
   {
-   "symbol": "NBLY",
-   "name": "Neighbourly Pharmacy Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NBLY.TO",
-   "instruments": [
-    {
-     "name": "Neighbourly Pharm J",
-     "symbol": "NBLY"
-    }
-   ]
-  },
-  {
    "symbol": "NEO",
    "name": "Neo Performance Materials Inc.",
    "exchange": "TSX",
@@ -40211,7 +40203,7 @@
   },
   {
    "symbol": "RBO",
-   "name": "RBC 1-5 Year Laddered Corporate Bond ETF",
+   "name": "RBC 1-5 Year Laddered Canadian Corporate Bond ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RBO.TO",
    "instruments": [
@@ -40399,7 +40391,7 @@
   },
   {
    "symbol": "RQL",
-   "name": "RBC Target 2024 Corporate Bond Index ETF",
+   "name": "RBC Target 2024 Canadian Corporate Bond Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RQL.TO",
    "instruments": [
@@ -40411,7 +40403,7 @@
   },
   {
    "symbol": "RGQL",
-   "name": "RBC Target 2024 Government Bond ETF",
+   "name": "RBC Target 2024 Canadian Government Bond ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RGQL.TO",
    "instruments": [
@@ -40423,7 +40415,7 @@
   },
   {
    "symbol": "RQN",
-   "name": "RBC Target 2025 Corporate Bond Index ETF",
+   "name": "RBC Target 2025 Canadian Corporate Bond Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RQN.TO",
    "instruments": [
@@ -40435,7 +40427,7 @@
   },
   {
    "symbol": "RGQN",
-   "name": "RBC Target 2025 Government Bond ETF",
+   "name": "RBC Target 2025 Canadian Government Bond ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RGQN.TO",
    "instruments": [
@@ -40447,7 +40439,7 @@
   },
   {
    "symbol": "RQO",
-   "name": "RBC Target 2026 Corporate Bond Index ETF",
+   "name": "RBC Target 2026 Canadian Corporate Bond Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RQO.TO",
    "instruments": [
@@ -40459,7 +40451,7 @@
   },
   {
    "symbol": "RGQO",
-   "name": "RBC Target 2026 Government Bond ETF",
+   "name": "RBC Target 2026 Canadian Government Bond ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RGQO.TO",
    "instruments": [
@@ -40471,7 +40463,7 @@
   },
   {
    "symbol": "RQP",
-   "name": "RBC Target 2027 Corporate Bond Index ETF",
+   "name": "RBC Target 2027 Canadian Corporate Bond Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RQP.TO",
    "instruments": [
@@ -40483,7 +40475,7 @@
   },
   {
    "symbol": "RGQP",
-   "name": "RBC Target 2027 Government Bond ETF",
+   "name": "RBC Target 2027 Canadian Government Bond ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RGQP.TO",
    "instruments": [
@@ -40495,7 +40487,7 @@
   },
   {
    "symbol": "RQQ",
-   "name": "RBC Target 2028 Corporate Bond Index ETF",
+   "name": "RBC Target 2028 Canadian Corporate Bond Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RQQ.TO",
    "instruments": [
@@ -40507,7 +40499,7 @@
   },
   {
    "symbol": "RGQQ",
-   "name": "RBC Target 2028 Government Bond ETF",
+   "name": "RBC Target 2028 Canadian Government Bond ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RGQQ.TO",
    "instruments": [
@@ -40519,7 +40511,7 @@
   },
   {
    "symbol": "RQR",
-   "name": "RBC Target 2029 Corporate Bond Index ETF",
+   "name": "RBC Target 2029 Canadian Corporate Bond Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RQR.TO",
    "instruments": [
@@ -40531,7 +40523,7 @@
   },
   {
    "symbol": "RGQR",
-   "name": "RBC Target 2029 Government Bond ETF",
+   "name": "RBC Target 2029 Canadian Government Bond ETF",
    "exchange": "TSX",
    "yahoo_symbol": "RGQR.TO",
    "instruments": [
@@ -44932,24 +44924,6 @@
    "yahoo_symbol": "ADNWW"
   },
   {
-   "symbol": "ADOC",
-   "name": "Edoc Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADOC"
-  },
-  {
-   "symbol": "ADOCR",
-   "name": "Edoc Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADOCR"
-  },
-  {
-   "symbol": "ADOCW",
-   "name": "Edoc Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADOCW"
-  },
-  {
    "symbol": "ADP",
    "name": "Automatic Data Processing, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -47230,6 +47204,12 @@
    "yahoo_symbol": "AVTX"
   },
   {
+   "symbol": "AVXC",
+   "name": "Avantis Emerging Markets ex-China Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVXC"
+  },
+  {
    "symbol": "AVXL",
    "name": "Anavex Life Sciences Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -47972,6 +47952,12 @@
    "name": "Global X Blockchain ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BKCH"
+  },
+  {
+   "symbol": "BKHAU",
+   "name": "Black Hawk Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHAU"
   },
   {
    "symbol": "BKIV",
@@ -55932,7 +55918,7 @@
   {
    "symbol": "GLTO",
    "name": "Galecto, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GLTO"
   },
   {
@@ -56300,12 +56286,6 @@
    "name": "U.S. Global Investors, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GROW"
-  },
-  {
-   "symbol": "GRPH",
-   "name": "Graphite Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRPH"
   },
   {
    "symbol": "GRPN",
@@ -57554,6 +57534,12 @@
    "name": "Integral Ad Science Holding Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IAS"
+  },
+  {
+   "symbol": "IBAT",
+   "name": "iShares Energy Storage \u0026 Materials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBAT"
   },
   {
    "symbol": "IBB",
@@ -60022,6 +60008,12 @@
    "yahoo_symbol": "LEGR"
   },
   {
+   "symbol": "LENZ",
+   "name": "LENZ Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LENZ"
+  },
+  {
    "symbol": "LESL",
    "name": "Leslie's, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -60446,6 +60438,12 @@
    "name": "Manhattan Bridge Capital, Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LOAN"
+  },
+  {
+   "symbol": "LOBO",
+   "name": "LOBO EV TECHNOLOGIES LTD. - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LOBO"
   },
   {
    "symbol": "LOCO",
@@ -62072,6 +62070,18 @@
    "name": "Moderna, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MRNA"
+  },
+  {
+   "symbol": "MRNO",
+   "name": "Murano Global Investments PLC - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MRNO"
+  },
+  {
+   "symbol": "MRNOW",
+   "name": "Murano Global Investments PLC - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MRNOW"
   },
   {
    "symbol": "MRNS",
@@ -64808,24 +64818,6 @@
    "name": "PepGen Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PEPG"
-  },
-  {
-   "symbol": "PEPL",
-   "name": "PepperLime Health Acquisition Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEPL"
-  },
-  {
-   "symbol": "PEPLU",
-   "name": "PepperLime Health Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEPLU"
-  },
-  {
-   "symbol": "PEPLW",
-   "name": "PepperLime Health Acquisition Corporation - Warrrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEPLW"
   },
   {
    "symbol": "PERI",
@@ -75608,6 +75600,12 @@
    "name": "Golden Minerals Company Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "AUMN"
+  },
+  {
+   "symbol": "AUNA",
+   "name": "Auna SA Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AUNA"
   },
   {
    "symbol": "AUST",
@@ -88526,24 +88524,6 @@
    "name": "Portland General Electric Co Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "POR"
-  },
-  {
-   "symbol": "PORT",
-   "name": "Southport Acquisition Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PORT"
-  },
-  {
-   "symbol": "PORT.U",
-   "name": "Southport Acquisition Corporation Units, each consisting of one share of Class A common stock, and one-half of one warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PORT.U"
-  },
-  {
-   "symbol": "PORT.W",
-   "name": "Southport Acquisition Corporation Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PORT.W"
   },
   {
    "symbol": "POST",
