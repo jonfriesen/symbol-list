@@ -1,5 +1,5 @@
 {
- "date": "2024-03-22",
+ "date": "2024-03-25",
  "data": [
   {
    "symbol": "ONE",
@@ -230,18 +230,6 @@
    ]
   },
   {
-   "symbol": "ADC.P",
-   "name": "Adagio Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ADC.P.V",
-   "instruments": [
-    {
-     "name": "Adagio Capital Inc.",
-     "symbol": "ADC.P"
-    }
-   ]
-  },
-  {
    "symbol": "ADZ",
    "name": "Adamera Minerals Corp.",
    "exchange": "TSXV",
@@ -406,6 +394,18 @@
     {
      "name": "Aftermath Silver Ltd.",
      "symbol": "AAG"
+    }
+   ]
+  },
+  {
+   "symbol": "AGET",
+   "name": "AGEDB Technology Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGET.V",
+   "instruments": [
+    {
+     "name": "AGEDB Technology Ltd.",
+     "symbol": "AGET"
     }
    ]
   },
@@ -2214,18 +2214,6 @@
     {
      "name": "BigStack Opportunities Inc.",
      "symbol": "STAK.P"
-    }
-   ]
-  },
-  {
-   "symbol": "BTI",
-   "name": "Bioasis Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BTI.V",
-   "instruments": [
-    {
-     "name": "Bioasis Technologies Inc.",
-     "symbol": "BTI"
     }
    ]
   },
@@ -4643,12 +4631,12 @@
   },
   {
    "symbol": "DPCC.P",
-   "name": "Deal Pro Capital Corp.",
+   "name": "Deal Pro Capital Corporation",
    "exchange": "TSXV",
    "yahoo_symbol": "DPCC.P.V",
    "instruments": [
     {
-     "name": "Deal Pro Capital Corp.",
+     "name": "Deal Pro Capital Corporation",
      "symbol": "DPCC.P"
     }
    ]
@@ -12080,7 +12068,7 @@
    "yahoo_symbol": "ENRG.V",
    "instruments": [
     {
-     "name": "New Energy Metals Corp",
+     "name": "New Energy Metals Corp.",
      "symbol": "ENRG"
     }
    ]
@@ -28622,6 +28610,18 @@
    ]
   },
   {
+   "symbol": "ARTI",
+   "name": "Evolve Artificial Intelligence Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARTI.TO",
+   "instruments": [
+    {
+     "name": "Evl Art Int Fnd UN",
+     "symbol": "ARTI"
+    }
+   ]
+  },
+  {
    "symbol": "CARS",
    "name": "Evolve Automobile Innovation Index Fund",
    "exchange": "TSX",
@@ -28846,18 +28846,6 @@
     {
      "name": "Evolve InnovUS Unheg",
      "symbol": "EDGE.U"
-    }
-   ]
-  },
-  {
-   "symbol": "MESH",
-   "name": "Evolve Metaverse ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MESH.TO",
-   "instruments": [
-    {
-     "name": "Evolve MetaversCA Hg",
-     "symbol": "MESH"
     }
    ]
   },
@@ -31914,18 +31902,6 @@
    ]
   },
   {
-   "symbol": "HARC",
-   "name": "Horizons Absolute Return Global Currency ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HARC.TO",
-   "instruments": [
-    {
-     "name": "Horizons AbsolGlbCur",
-     "symbol": "HARC"
-    }
-   ]
-  },
-  {
    "symbol": "HAD",
    "name": "Horizons Active Cdn Bond ETF",
    "exchange": "TSX",
@@ -31974,18 +31950,6 @@
    ]
   },
   {
-   "symbol": "HSL",
-   "name": "Horizons Active Floating Rate Senior Loan ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HSL.TO",
-   "instruments": [
-    {
-     "name": "Horizn ActvFltLoan E",
-     "symbol": "HSL"
-    }
-   ]
-  },
-  {
    "symbol": "HAZ",
    "name": "Horizons Active Global Dividend ETF",
    "exchange": "TSX",
@@ -32006,18 +31970,6 @@
     {
      "name": "Horizon ActiveGlbl E",
      "symbol": "HAF"
-    }
-   ]
-  },
-  {
-   "symbol": "HYI",
-   "name": "Horizons Active High Yield Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HYI.TO",
-   "instruments": [
-    {
-     "name": "Horizon HighYldBnd E",
-     "symbol": "HYI"
     }
    ]
   },
@@ -32054,22 +32006,6 @@
     {
      "name": "Horizon ActUltST Bnd",
      "symbol": "HFR"
-    }
-   ]
-  },
-  {
-   "symbol": "HUF",
-   "name": "Horizons Active Ultra-Short Term US Investment Grade Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HUF.TO",
-   "instruments": [
-    {
-     "name": "Horizons UltST USBnd",
-     "symbol": "HUF"
-    },
-    {
-     "name": "Horizons UltST BndUS",
-     "symbol": "HUF.U"
     }
    ]
   },
@@ -32410,34 +32346,6 @@
     {
      "name": "HoriznEURO 50IndxShr",
      "symbol": "HXX"
-    }
-   ]
-  },
-  {
-   "symbol": "BBIG",
-   "name": "Horizons Global BBIG Technology ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BBIG.TO",
-   "instruments": [
-    {
-     "name": "HoriznGlbBBIG TechCA",
-     "symbol": "BBIG"
-    },
-    {
-     "name": "HoriznGlbBBIG TechUS",
-     "symbol": "BBIG.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HYDR",
-   "name": "Horizons Global Hydrogen Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HYDR.TO",
-   "instruments": [
-    {
-     "name": "Horizns GlblHydrogen",
-     "symbol": "HYDR"
     }
    ]
   },
@@ -32898,26 +32806,6 @@
     {
      "name": "Horizons Silver ETF",
      "symbol": "HUZ"
-    }
-   ]
-  },
-  {
-   "symbol": "HARB",
-   "name": "Horizons Tactical Absolute Return Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HARB.TO",
-   "instruments": [
-    {
-     "name": "Horizon TacTotRetBnd",
-     "symbol": "HARB"
-    },
-    {
-     "name": "Horizn TacAbsolBndDv",
-     "symbol": "HARB.J"
-    },
-    {
-     "name": "HoriznTacTotRetUH US",
-     "symbol": "HARB.U"
     }
    ]
   },
@@ -40208,7 +40096,7 @@
    "yahoo_symbol": "RBO.TO",
    "instruments": [
     {
-     "name": "RBC 1-5Yr LddCrp Bnd",
+     "name": "RBC1-5YrCDN LdCrpBnd",
      "symbol": "RBO"
     }
    ]
@@ -40396,7 +40284,7 @@
    "yahoo_symbol": "RQL.TO",
    "instruments": [
     {
-     "name": "RBC Targt2024CorpBnd",
+     "name": "RBC Tgt24CDNCorp Bnd",
      "symbol": "RQL"
     }
    ]
@@ -40408,7 +40296,7 @@
    "yahoo_symbol": "RGQL.TO",
    "instruments": [
     {
-     "name": "RBC Target24 GovtBnd",
+     "name": "RBC Tgt24 CDN GovBnd",
      "symbol": "RGQL"
     }
    ]
@@ -40420,7 +40308,7 @@
    "yahoo_symbol": "RQN.TO",
    "instruments": [
     {
-     "name": "RBC Targt2025CorpBnd",
+     "name": "RBC Tgt25CDNCorp Bnd",
      "symbol": "RQN"
     }
    ]
@@ -40432,7 +40320,7 @@
    "yahoo_symbol": "RGQN.TO",
    "instruments": [
     {
-     "name": "RBC Targt25 GovtBond",
+     "name": "RBC Tgt25 CDN GovBnd",
      "symbol": "RGQN"
     }
    ]
@@ -40444,7 +40332,7 @@
    "yahoo_symbol": "RQO.TO",
    "instruments": [
     {
-     "name": "RBC Targt26Corp Bond",
+     "name": "RBC Tgt26CDNCorp Bnd",
      "symbol": "RQO"
     }
    ]
@@ -40456,7 +40344,7 @@
    "yahoo_symbol": "RGQO.TO",
    "instruments": [
     {
-     "name": "RBC Targt26 GovtBond",
+     "name": "RBC Tgt26 CDN GovBnd",
      "symbol": "RGQO"
     }
    ]
@@ -40468,7 +40356,7 @@
    "yahoo_symbol": "RQP.TO",
    "instruments": [
     {
-     "name": "RBC Targt27Corp Bond",
+     "name": "RBC Tgt27CDNCorp Bnd",
      "symbol": "RQP"
     }
    ]
@@ -40480,7 +40368,7 @@
    "yahoo_symbol": "RGQP.TO",
    "instruments": [
     {
-     "name": "RBC Targt27 GovtBond",
+     "name": "RBC Tgt27 CDN GovBnd",
      "symbol": "RGQP"
     }
    ]
@@ -40492,7 +40380,7 @@
    "yahoo_symbol": "RQQ.TO",
    "instruments": [
     {
-     "name": "RBC Targt2028 CrpBnd",
+     "name": "RBC Tgt28CDNCorp Bnd",
      "symbol": "RQQ"
     }
    ]
@@ -40504,7 +40392,7 @@
    "yahoo_symbol": "RGQQ.TO",
    "instruments": [
     {
-     "name": "RBC Targt28 GovtBond",
+     "name": "RBC Tgt28 CDN GovBnd",
      "symbol": "RGQQ"
     }
    ]
@@ -40516,7 +40404,7 @@
    "yahoo_symbol": "RQR.TO",
    "instruments": [
     {
-     "name": "RBC Targt2029 CrpBnd",
+     "name": "RBC Tgt29CDNCorp Bnd",
      "symbol": "RQR"
     }
    ]
@@ -40528,7 +40416,7 @@
    "yahoo_symbol": "RGQR.TO",
    "instruments": [
     {
-     "name": "RBC Targt29 GovtBond",
+     "name": "RBC Tgt29 CDN GovBnd",
      "symbol": "RGQR"
     }
    ]
@@ -40706,18 +40594,6 @@
     {
      "name": "Richelieu Hardware",
      "symbol": "RCH"
-    }
-   ]
-  },
-  {
-   "symbol": "RIB.UN",
-   "name": "Ridgewood Canadian Investment Grade Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "RIB.UN.TO",
-   "instruments": [
-    {
-     "name": "Ridgewood Cdn Bnd Un",
-     "symbol": "RIB.UN"
     }
    ]
   },
@@ -49388,12 +49264,6 @@
    "yahoo_symbol": "CBAT"
   },
   {
-   "symbol": "CBAY",
-   "name": "CymaBay Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CBAY"
-  },
-  {
    "symbol": "CBFV",
    "name": "CB Financial Services, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -50922,6 +50792,18 @@
    "name": "Mr. Cooper Group Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "COOP"
+  },
+  {
+   "symbol": "COOT",
+   "name": "Australian Oilseeds Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COOT"
+  },
+  {
+   "symbol": "COOTW",
+   "name": "Australian Oilseeds Holdings Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COOTW"
   },
   {
    "symbol": "COPJ",
@@ -57147,7 +57029,7 @@
   },
   {
    "symbol": "HRTS",
-   "name": "Tema Cardiovascular and Metabolic ETF",
+   "name": "Tema Obesity \u0026 Cardiometabolic ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HRTS"
   },
@@ -72152,12 +72034,6 @@
    "yahoo_symbol": "VIVK"
   },
   {
-   "symbol": "VJET",
-   "name": "voxeljet AG - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VJET"
-  },
-  {
    "symbol": "VKTX",
    "name": "Viking Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -78428,6 +78304,12 @@
    "yahoo_symbol": "CPAC"
   },
   {
+   "symbol": "CPAY",
+   "name": "Corpay, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPAY"
+  },
+  {
    "symbol": "CPB",
    "name": "Campbell Soup Company Common Stock",
    "exchange": "NYSE",
@@ -81240,12 +81122,6 @@
    "name": "Flowserve Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FLS"
-  },
-  {
-   "symbol": "FLT",
-   "name": "FleetCor Technologies, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FLT"
   },
   {
    "symbol": "FLUT",

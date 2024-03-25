@@ -18,7 +18,6 @@ ABRA,AbraSilver Resource Corp.,TSXV,ABRA.V,AbraSilver Resource Corp.,ABRA
 AXE,Acceleware Ltd.,TSXV,AXE.V,Acceleware Ltd.,AXE
 AKR,Ackroo Inc.,TSXV,AKR.V,Ackroo Inc.,AKR
 ADJ.P,AD4 Capital Corp.,TSXV,ADJ.P.V,AD4 Capital Corp.,ADJ.P
-ADC.P,Adagio Capital Inc.,TSXV,ADC.P.V,Adagio Capital Inc.,ADC.P
 ADZ,Adamera Minerals Corp.,TSXV,ADZ.V,Adamera Minerals Corp.,ADZ
 ADE,Adex Mining Inc.,TSXV,ADE.V,Adex Mining Inc,ADE
 RABI,AdRabbit Limited,TSXV,RABI.V,AdRabbit Limited,RABI
@@ -33,6 +32,7 @@ AFR,AFR NuVenture Resources Inc.,TSXV,AFR.V,AFR NuVenture Resources Inc.,AFR
 AFE,Africa Energy Corp.,TSXV,AFE.V,Africa Energy Corp.,AFE
 CUCO,African Energy Metals Inc.,TSXV,CUCO.V,African Energy Metals Inc.,CUCO
 AAG,Aftermath Silver Ltd.,TSXV,AAG.V,Aftermath Silver Ltd.,AAG
+AGET,AGEDB Technology Ltd.,TSXV,AGET.V,AGEDB Technology Ltd.,AGET
 AIVC,AI Artificial Intelligence Ventures Inc.,TSXV,AIVC.V,AI Artificial Intelligence Ventures Inc.,AIVC
 AIME.P,AIM5 Ventures Inc.,TSXV,AIME.P.V,AIM5 Ventures Inc.,AIME.P
 AIMF.P,AIM6 Ventures Inc.,TSXV,AIMF.P.V,AIM6 Ventures Inc.,AIMF.P
@@ -181,7 +181,6 @@ BEW,BeWhere Holdings Inc.,TSXV,BEW.V,BeWhere Holdings Inc.,BEW
 BRAU,Big Ridge Gold Corp.,TSXV,BRAU.V,Big Ridge Gold Corp.,BRAU
 BIGT,Big Tree Carbon Inc.,TSXV,BIGT.V,Big Tree Carbon Inc.,BIGT
 STAK.P,Bigstack Opportunities I Inc.,TSXV,STAK.P.V,BigStack Opportunities Inc.,STAK.P
-BTI,Bioasis Technologies Inc.,TSXV,BTI.V,Bioasis Technologies Inc.,BTI
 BGA,BioNeutra Global Corporation,TSXV,BGA.V,BioNeutra Global Corporation,BGA
 BRM,Biorem Inc.,TSXV,BRM.V,Biorem Inc.,BRM
 RX,BioSyent Inc.,TSXV,RX.V,BioSyent Inc.,RX
@@ -382,7 +381,7 @@ DAC,Datable Technology Corporation,TSXV,DAC.V,Datable Technology Corporation,DAC
 DM,Datametrex AI Limited,TSXV,DM.V,Datametrex AI Limited,DM
 DUR.P,Daura Capital Corp.,TSXV,DUR.P.V,Daura Capital Corp.,DUR.P
 DTEA,DAVIDsTEA Inc.,TSXV,DTEA.V,DAVIDsTEA Inc.,DTEA
-DPCC.P,Deal Pro Capital Corp.,TSXV,DPCC.P.V,Deal Pro Capital Corp.,DPCC.P
+DPCC.P,Deal Pro Capital Corporation,TSXV,DPCC.P.V,Deal Pro Capital Corporation,DPCC.P
 DEC,Decade Resources Ltd.,TSXV,DEC.V,Decade Resources Ltd.,DEC
 DB,Decibel Cannabis Company Inc.,TSXV,DB.V,Decibel Cannabis Company Inc.,DB,Decibel Cannabis Company Inc. wt. A 16Sept2024,DB.WT.A
 DE,Decisive Dividend Corporation,TSXV,DE.V,Decisive Dividend Corporation,DE,Decisive Dividend Corporation wt 13Apr2025,DE.WT
@@ -992,7 +991,7 @@ NZN,Nevada Zinc Corporation,TSXV,NZN.V,Nevada Zinc Corporation,NZN
 NAU,Nevgold Corp.,TSXV,NAU.V,Nevgold Corp.,NAU
 NAM,New Age Metals Inc.,TSXV,NAM.V,New Age Metals Inc.,NAM
 NED,New Destiny Mining Corp.,TSXV,NED.V,New Destiny Mining Corp.,NED
-ENRG,New Energy Metals Corp.,TSXV,ENRG.V,New Energy Metals Corp,ENRG
+ENRG,New Energy Metals Corp.,TSXV,ENRG.V,New Energy Metals Corp.,ENRG
 NFG,New Found Gold Corp.,TSXV,NFG.V,New Found Gold Corp.,NFG
 NEME.P,New Media Capital 2.0 Inc.,TSXV,NEME.P.V,New Media Capital 2.0 Inc.,NEME.P
 NSE,New Stratus Energy Inc.,TSXV,NSE.V,New Stratus Energy Inc.,NSE
@@ -2249,6 +2248,7 @@ ERE.UN,European Residential Real Estate Investment Trust,TSX,ERE.UN.TO,European 
 ET,Evertz Technologies Limited,TSX,ET.TO,Evertz Technologies,ET
 DIVS,Evolve Active Canadian Preferred Share Fund,TSX,DIVS.TO,Evolve CA Pref UnHeg,DIVS
 EARN,Evolve Active Global Fixed Income Fund,TSX,EARN.TO,EvolveActvGlbFxdIncm,EARN
+ARTI,Evolve Artificial Intelligence Fund,TSX,ARTI.TO,Evl Art Int Fnd UN,ARTI
 CARS,Evolve Automobile Innovation Index Fund,TSX,CARS.TO,Evolve AutoInnov Heg,CARS,Evolve AutoInnovUnHg,CARS.B,Evolve AutomobUnhgUS,CARS.U
 BANK,Evolve Canadian Banks and Lifecos Enhanced Yield Index Fund,TSX,BANK.TO,EvolveCdnBk&LfeCA UH,BANK
 DATA,Evolve Cloud Computing Index Fund,TSX,DATA.TO,Evolve Compute HegCA,DATA,Evolve ComputeUnhgCA,DATA.B
@@ -2262,7 +2262,6 @@ LEAD,Evolve Future Leadership Fund,TSX,LEAD.TO,Evolve FutrLeadr Heg,LEAD,Evolve 
 LIFE,Evolve Global Healthcare Enhanced Yield Fund,TSX,LIFE.TO,Evolve GlbHlthYldHeg,LIFE,EvolveGlbHealth Unhg,LIFE.B,Evolve GlbHlthUnhgUS,LIFE.U
 BASE,Evolve Global Materials & Mining Enhanced Yield Index ETF,TSX,BASE.TO,Evolve GlbMatMin Heg,BASE,EvolveGlbMatMinUnheg,BASE.B
 EDGE,Evolve Innovation Index Fund,TSX,EDGE.TO,Evolve Innovation Un,EDGE,Evolve InnovUS Unheg,EDGE.U
-MESH,Evolve Metaverse ETF,TSX,MESH.TO,Evolve MetaversCA Hg,MESH
 QQQY,Evolve NASDAQ Technology Enhanced Yield Index Fund,TSX,QQQY.TO,Evolve NASDAQ TecHeg,QQQY
 QQQT,Evolve NASDAQ Technology Index Fund,TSX,QQQT.TO,Evolve NAS Tech Heg,QQQT,Evolve NAS Tech Unhg,QQQT.B,EvolveNAS TechUnhgUS,QQQT.U
 ESPX,Evolve S&P 500® Enhanced Yield Fund,TSX,ESPX.TO,Evolve 500EnhcYld HG,ESPX,Evolve 500EnhcYld UH,ESPX.B,Evolve 500EnYldUH US,ESPX.U
@@ -2486,19 +2485,15 @@ HLF,High Liner Foods Incorporated,TSX,HLF.TO,High Liner Foods Inc,HLF
 HLS,HLS Therapeutics Inc.,TSX,HLS.TO,HLS Therapeutics J,HLS
 CBIL,Horizons 0-3 Month T-Bill ETF,TSX,CBIL.TO,Horizons 0-3Mon T-bl,CBIL
 UBIL.U,Horizons 0-3 Month U.S. T-Bill ETF,TSX,UBIL.U.TO,Horizons 0-3MoTbl US,UBIL.U
-HARC,Horizons Absolute Return Global Currency ETF,TSX,HARC.TO,Horizons AbsolGlbCur,HARC
 HAD,Horizons Active Cdn Bond ETF,TSX,HAD.TO,Horizon ActvCdnBndUn,HAD
 HAL,Horizons Active Cdn Dividend ETF,TSX,HAL.TO,Horizons Cdn Div E,HAL
 HMP,Horizons Active Cdn Municipal Bond ETF,TSX,HMP.TO,Horizn ActCdnMunBd E,HMP
 HAB,Horizons Active Corporate Bond ETF,TSX,HAB.TO,Horizon CorpBnd E Un,HAB
-HSL,Horizons Active Floating Rate Senior Loan ETF,TSX,HSL.TO,Horizn ActvFltLoan E,HSL
 HAZ,Horizons Active Global Dividend ETF,TSX,HAZ.TO,Horizon GlblDiv E Un,HAZ
 HAF,Horizons Active Global Fixed Income ETF,TSX,HAF.TO,Horizon ActiveGlbl E,HAF
-HYI,Horizons Active High Yield Bond ETF,TSX,HYI.TO,Horizon HighYldBnd E,HYI
 HYBR,Horizons Active Hybrid Bond and Preferred Share ETF,TSX,HYBR.TO,Horizn Actv Bnd&Pr E,HYBR
 HPR,Horizons Active Preferred Share ETF,TSX,HPR.TO,Horizon Pref Cl E Un,HPR
 HFR,Horizons Active Ultra-Short Term Investment Grade Bond ETF,TSX,HFR.TO,Horizon ActUltST Bnd,HFR
-HUF,Horizons Active Ultra-Short Term US Investment Grade Bond ETF,TSX,HUF.TO,Horizons UltST USBnd,HUF,Horizons UltST BndUS,HUF.U
 HEQT,Horizons All-Equity Asset Allocation ETF,TSX,HEQT.TO,Horizon EqAstAlloc A,HEQT
 HBAL,Horizons Balanced Asset Allocation ETF,TSX,HBAL.TO,HorizonsBalAstAloc A,HBAL
 HBGD,Horizons Big Data & Hardware Index ETF,TSX,HBGD.TO,HoriznBigDataHrdwr A,HBGD,HoriznBigDataHrdwrUS,HBGD.U
@@ -2527,8 +2522,6 @@ HEWB,Horizons Equal Weight Canada Banks Index ETF,TSX,HEWB.TO,Horizons EqlCdaBan
 HCRE,Horizons Equal Weight Canada REIT Index ETF,TSX,HCRE.TO,Horizons EqlCA REIT,HCRE
 BKCC,Horizons Equal Weight Canadian Bank Covered Call ETF,TSX,BKCC.TO,HoriznEqlWgtCA BnkCv,BKCC
 HXX,Horizons Europe 50 Index ETF,TSX,HXX.TO,HoriznEURO 50IndxShr,HXX
-BBIG,Horizons Global BBIG Technology ETF,TSX,BBIG.TO,HoriznGlbBBIG TechCA,BBIG,HoriznGlbBBIG TechUS,BBIG.U
-HYDR,Horizons Global Hydrogen Index ETF,TSX,HYDR.TO,Horizns GlblHydrogen,HYDR
 HLIT,Horizons Global Lithium Producers Index ETF,TSX,HLIT.TO,HoriznGlbLithiumProd,HLIT
 MTAV,Horizons Global Metaverse Index ETF,TSX,MTAV.TO,Horizon GlbMetavrs A,MTAV
 CHPS,Horizons Global Semiconductor Index ETF,TSX,CHPS.TO,HoriznGlbSemiconduct,CHPS,HoriznGlbSemicondctU,CHPS.U
@@ -2564,7 +2557,6 @@ HXF,Horizons S&P/TSX Capped Financials Index ETF,TSX,HXF.TO,Horizn S&PCapFin Idx
 HAC,Horizons Seasonal Rotation ETF,TSX,HAC.TO,Horizon Seasonl E Un,HAC
 SPAY,Horizons Short-Term U.S. Treasury Premium Yield ETF,TSX,SPAY.TO,Horizon ST US Treas,SPAY,HoriznST US Treas US,SPAY.U
 HUZ,Horizons Silver ETF,TSX,HUZ.TO,Horizons Silver ETF,HUZ
-HARB,Horizons Tactical Absolute Return Bond ETF,TSX,HARB.TO,Horizon TacTotRetBnd,HARB,Horizn TacAbsolBndDv,HARB.J,HoriznTacTotRetUH US,HARB.U
 HTB,Horizons US 7-10 Year Treasury Bond ETF,TSX,HTB.TO,Horizn US7-10TreasBd,HTB,HoriznUS7-10TreaBdUS,HTB.U
 DLR,Horizons US Dollar Currency ETF,TSX,DLR.TO,Horizon US$ Cur A Un,DLR,Horizon US$Cur A USF,DLR.U
 USCC,Horizons US Large Cap Equity Covered Call ETF,TSX,USCC.TO,HoriznUS LgCapEqCA E,USCC,HoriznLrgCapEqClUS E,USCC.U
@@ -3112,7 +3104,7 @@ QIPT,Quipt Home Medical Corp.,TSX,QIPT.TO,Quipt Home Medical J,QIPT
 RAV.UN,Ravensource Fund,TSX,RAV.UN.TO,Ravensource Fund Un,RAV.UN
 RBA,"RB Global, Inc.",TSX,RBA.TO,"RB Global, Inc.",RBA
 RLB,RBC 1-5 Year Laddered Canadian Bond ETF,TSX,RLB.TO,RBC 1-5Yr LadCdn Bnd,RLB
-RBO,RBC 1-5 Year Laddered Canadian Corporate Bond ETF,TSX,RBO.TO,RBC 1-5Yr LddCrp Bnd,RBO
+RBO,RBC 1-5 Year Laddered Canadian Corporate Bond ETF,TSX,RBO.TO,RBC1-5YrCDN LdCrpBnd,RBO
 RBNK,RBC Canadian Bank Yield Index ETF,TSX,RBNK.TO,RBC CdnBnk Yld Indx,RBNK
 RCDC,RBC Canadian Dividend Covered Call ETF,TSX,RCDC.TO,RBC Cdn DivCovCal CA,RCDC
 RPF,RBC Canadian Preferred Share ETF,TSX,RPF.TO,RBC Cdn Pref CA Un,RPF
@@ -3126,18 +3118,18 @@ RPD,RBC Quant European Dividend Leaders ETF,TSX,RPD.TO,RBC Quant EU DivLdCA,RPD,
 RUDH,RBC Quant U.S. Dividend Leaders (CAD Hedged) ETF,TSX,RUDH.TO,RBC Quant US DivLead,RUDH
 RUD,RBC Quant U.S. Dividend Leaders ETF,TSX,RUD.TO,RBC QntUS DivLead Un,RUD,RBC QntUS DivLeadUSD,RUD.U
 RUSB,RBC Short Term U.S. Corporate Bond ETF,TSX,RUSB.TO,RBC ST US CorpBndCAD,RUSB,RBC ST US CorpBndUSF,RUSB.U
-RQL,RBC Target 2024 Canadian Corporate Bond Index ETF,TSX,RQL.TO,RBC Targt2024CorpBnd,RQL
-RGQL,RBC Target 2024 Canadian Government Bond ETF,TSX,RGQL.TO,RBC Target24 GovtBnd,RGQL
-RQN,RBC Target 2025 Canadian Corporate Bond Index ETF,TSX,RQN.TO,RBC Targt2025CorpBnd,RQN
-RGQN,RBC Target 2025 Canadian Government Bond ETF,TSX,RGQN.TO,RBC Targt25 GovtBond,RGQN
-RQO,RBC Target 2026 Canadian Corporate Bond Index ETF,TSX,RQO.TO,RBC Targt26Corp Bond,RQO
-RGQO,RBC Target 2026 Canadian Government Bond ETF,TSX,RGQO.TO,RBC Targt26 GovtBond,RGQO
-RQP,RBC Target 2027 Canadian Corporate Bond Index ETF,TSX,RQP.TO,RBC Targt27Corp Bond,RQP
-RGQP,RBC Target 2027 Canadian Government Bond ETF,TSX,RGQP.TO,RBC Targt27 GovtBond,RGQP
-RQQ,RBC Target 2028 Canadian Corporate Bond Index ETF,TSX,RQQ.TO,RBC Targt2028 CrpBnd,RQQ
-RGQQ,RBC Target 2028 Canadian Government Bond ETF,TSX,RGQQ.TO,RBC Targt28 GovtBond,RGQQ
-RQR,RBC Target 2029 Canadian Corporate Bond Index ETF,TSX,RQR.TO,RBC Targt2029 CrpBnd,RQR
-RGQR,RBC Target 2029 Canadian Government Bond ETF,TSX,RGQR.TO,RBC Targt29 GovtBond,RGQR
+RQL,RBC Target 2024 Canadian Corporate Bond Index ETF,TSX,RQL.TO,RBC Tgt24CDNCorp Bnd,RQL
+RGQL,RBC Target 2024 Canadian Government Bond ETF,TSX,RGQL.TO,RBC Tgt24 CDN GovBnd,RGQL
+RQN,RBC Target 2025 Canadian Corporate Bond Index ETF,TSX,RQN.TO,RBC Tgt25CDNCorp Bnd,RQN
+RGQN,RBC Target 2025 Canadian Government Bond ETF,TSX,RGQN.TO,RBC Tgt25 CDN GovBnd,RGQN
+RQO,RBC Target 2026 Canadian Corporate Bond Index ETF,TSX,RQO.TO,RBC Tgt26CDNCorp Bnd,RQO
+RGQO,RBC Target 2026 Canadian Government Bond ETF,TSX,RGQO.TO,RBC Tgt26 CDN GovBnd,RGQO
+RQP,RBC Target 2027 Canadian Corporate Bond Index ETF,TSX,RQP.TO,RBC Tgt27CDNCorp Bnd,RQP
+RGQP,RBC Target 2027 Canadian Government Bond ETF,TSX,RGQP.TO,RBC Tgt27 CDN GovBnd,RGQP
+RQQ,RBC Target 2028 Canadian Corporate Bond Index ETF,TSX,RQQ.TO,RBC Tgt28CDNCorp Bnd,RQQ
+RGQQ,RBC Target 2028 Canadian Government Bond ETF,TSX,RGQQ.TO,RBC Tgt28 CDN GovBnd,RGQQ
+RQR,RBC Target 2029 Canadian Corporate Bond Index ETF,TSX,RQR.TO,RBC Tgt29CDNCorp Bnd,RQR
+RGQR,RBC Target 2029 Canadian Government Bond ETF,TSX,RGQR.TO,RBC Tgt29 CDN GovBnd,RGQR
 RUBH,RBC U.S. Banks Yield (CAD Hedged) Index ETF,TSX,RUBH.TO,RBC USBanksYld CA-Hg,RUBH
 RUBY,RBC U.S. Banks Yield Index ETF,TSX,RUBY.TO,RBC US Banks Yld CAD,RUBY,RBC US Banks Yld USF,RUBY.U
 RDBH,RBC U.S. Discount Bond (CAD Hedged) ETF,TSX,RDBH.TO,RBC US DiscountBndHg,RDBH
@@ -3151,7 +3143,6 @@ RVX,Resverlogix Corp.,TSX,RVX.TO,Resverlogix Corp. J,RVX
 RCG,RF Capital Group Inc.,TSX,RCG.TO,RF Capital Group Inc,RCG,RF Cap Grp Ser B Pr,RCG.PR.B
 RPI.UN,Richards Packaging Income Fund,TSX,RPI.UN.TO,Richards Pckng Un,RPI.UN
 RCH,Richelieu Hardware Ltd.,TSX,RCH.TO,Richelieu Hardware,RCH
-RIB.UN,Ridgewood Canadian Investment Grade Bond Fund,TSX,RIB.UN.TO,Ridgewood Cdn Bnd Un,RIB.UN
 REI.UN,RioCan Real Estate Investment Trust,TSX,REI.UN.TO,RioCan Rl Est Tr Un,REI.UN
 RCI.A,Rogers Communications Inc.,TSX,RCI.A.TO,Rogers Comm Cl A,RCI.A,Rogers Comm Cl B NV,RCI.B
 RSI,Rogers Sugar Inc.,TSX,RSI.TO,Rogers Sugar Inc.,RSI,Rogers Sugar 5% Db 6,RSI.DB.E,Rogers Sugar 4.75Db7,RSI.DB.F
@@ -4256,7 +4247,6 @@ CATY,Cathay General Bancorp - Common Stock,NASDAQ Global Select MarketSM,CATY
 CAUD,"Collective Audience, Inc. - Common Stock",NASDAQ Global MarketSM,CAUD
 CBAN,"Colony Bankcorp, Inc. - Common Stock",NASDAQ Global MarketSM,CBAN
 CBAT,"CBAK Energy Technology, Inc. - Common Stock",NASDAQ Capital Market,CBAT
-CBAY,CymaBay Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,CBAY
 CBFV,"CB Financial Services, Inc. - Common Stock",NASDAQ Global MarketSM,CBFV
 CBNK,"Capital Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,CBNK
 CBRG,Chain Bridge I - Class A Ordinary Shares,NASDAQ Capital Market,CBRG
@@ -4512,6 +4502,8 @@ COOL,Corner Growth Acquisition Corp. - Class A Ordinary Shares,NASDAQ Capital Ma
 COOLU,Corner Growth Acquisition Corp. - Unit,NASDAQ Capital Market,COOLU
 COOLW,Corner Growth Acquisition Corp. - Warrant,NASDAQ Capital Market,COOLW
 COOP,Mr. Cooper Group Inc. - Common Stock,NASDAQ Capital Market,COOP
+COOT,Australian Oilseeds Holdings Limited - Ordinary Shares,NASDAQ Global MarketSM,COOT
+COOTW,Australian Oilseeds Holdings Limited - Warrant,NASDAQ Global MarketSM,COOTW
 COPJ,Sprott Junior Copper Miners ETF,NASDAQ Global MarketSM,COPJ
 COPP,Sprott Copper Miners ETF,NASDAQ Global MarketSM,COPP
 CORT,Corcept Therapeutics Incorporated - Common Stock,NASDAQ Capital Market,CORT
@@ -5549,7 +5541,7 @@ HRMY,"Harmony Biosciences Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,
 HROW,"Harrow, Inc. - Common Stock",NASDAQ Global MarketSM,HROW
 HROWL,"Harrow, Inc. - 8.625% senior notes due 2026",NASDAQ Global MarketSM,HROWL
 HROWM,"Harrow, Inc. - 11.875% Senior Notes due 2027",NASDAQ Global MarketSM,HROWM
-HRTS,Tema Cardiovascular and Metabolic ETF,NASDAQ Global MarketSM,HRTS
+HRTS,Tema Obesity & Cardiometabolic ETF,NASDAQ Global MarketSM,HRTS
 HRTX,"Heron Therapeutics, Inc.   - Common Stock",NASDAQ Capital Market,HRTX
 HRYU,"Hanryu Holdings, Inc. - Common Stock",NASDAQ Capital Market,HRYU
 HRZN,Horizon Technology Finance Corporation - Common Stock,NASDAQ Global Select MarketSM,HRZN
@@ -8050,7 +8042,6 @@ VIRX,"Viracta Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,V
 VISL,"Vislink Technologies, Inc. - Common Stock",NASDAQ Capital Market,VISL
 VITL,"Vital Farms, Inc. - Common Stock",NASDAQ Global MarketSM,VITL
 VIVK,"Vivakor, Inc. - Common Stock",NASDAQ Capital Market,VIVK
-VJET,voxeljet AG - American Depositary Shares,NASDAQ Capital Market,VJET
 VKTX,"Viking Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,VKTX
 VLCN,"Volcon, Inc. - Common stock",NASDAQ Capital Market,VLCN
 VLGEA,"Village Super Market, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,VLGEA
@@ -9096,6 +9087,7 @@ COUR,"Coursera, Inc. Common Stock",NYSE,COUR
 CP,Canadian Pacific Kansas City Limited Common Shares,NYSE,CP
 CPA,"Copa Holdings, S.A. Class A Common Stock",NYSE,CPA
 CPAC,Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five Common Shares),NYSE,CPAC
+CPAY,"Corpay, Inc. Common Stock",NYSE,CPAY
 CPB,Campbell Soup Company Common Stock,NYSE,CPB
 CPE,Callon Petroleum Company Common Stock,NYSE,CPE
 CPF,Central Pacific Financial Corp New,NYSE,CPF
@@ -9565,7 +9557,6 @@ FLNG,FLEX LNG Ltd. Ordinary Shares,NYSE,FLNG
 FLO,"Flowers Foods, Inc. Common Stock",NYSE,FLO
 FLR,Fluor Corporation Common Stock,NYSE,FLR
 FLS,Flowserve Corporation Common Stock,NYSE,FLS
-FLT,"FleetCor Technologies, Inc. Common Stock",NYSE,FLT
 FLUT,Flutter Entertainment plc Ordinary Shares,NYSE,FLUT
 FLYX,"flyExclusive, Inc. Class A Common Stock",NYSE MKT,FLYX
 FLYX.W,"flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",NYSE MKT,FLYX.W

@@ -1,186 +1,214 @@
 {
  "added": [
   {
-   "symbol": "HEMP",
-   "name": "Hempalta Corp.",
+   "symbol": "AGET",
+   "name": "AGEDB Technology Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "HEMP.V",
+   "yahoo_symbol": "AGET.V",
    "instruments": [
     {
-     "name": "Hempalta Corp.",
-     "symbol": "HEMP"
+     "name": "AGEDB Technology Ltd.",
+     "symbol": "AGET"
     }
    ]
   },
   {
-   "symbol": "RAMP",
-   "name": "Ramp Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RAMP.V",
+   "symbol": "ARTI",
+   "name": "Evolve Artificial Intelligence Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARTI.TO",
    "instruments": [
     {
-     "name": "Ramp Metals Inc.",
-     "symbol": "RAMP"
+     "name": "Evl Art Int Fnd UN",
+     "symbol": "ARTI"
     }
    ]
   },
   {
-   "symbol": "AVXC",
-   "name": "Avantis Emerging Markets ex-China Equity ETF",
+   "symbol": "COOT",
+   "name": "Australian Oilseeds Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVXC"
+   "yahoo_symbol": "COOT"
   },
   {
-   "symbol": "BKHAU",
-   "name": "Black Hawk Acquisition Corporation - Units",
+   "symbol": "COOTW",
+   "name": "Australian Oilseeds Holdings Limited - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKHAU"
+   "yahoo_symbol": "COOTW"
   },
   {
-   "symbol": "GLTO",
-   "name": "Galecto, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLTO"
-  },
-  {
-   "symbol": "IBAT",
-   "name": "iShares Energy Storage \u0026 Materials ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IBAT"
-  },
-  {
-   "symbol": "LENZ",
-   "name": "LENZ Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LENZ"
-  },
-  {
-   "symbol": "LOBO",
-   "name": "LOBO EV TECHNOLOGIES LTD. - Ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LOBO"
-  },
-  {
-   "symbol": "MRNO",
-   "name": "Murano Global Investments PLC - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MRNO"
-  },
-  {
-   "symbol": "MRNOW",
-   "name": "Murano Global Investments PLC - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MRNOW"
-  },
-  {
-   "symbol": "AUNA",
-   "name": "Auna SA Class A Ordinary Shares",
+   "symbol": "CPAY",
+   "name": "Corpay, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "AUNA"
+   "yahoo_symbol": "CPAY"
   }
  ],
  "removed": [
   {
-   "symbol": "GLTO",
-   "name": "Galecto, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLTO"
-  },
-  {
-   "symbol": "PEPL",
-   "name": "PepperLime Health Acquisition Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEPL"
-  },
-  {
-   "symbol": "GRPH",
-   "name": "Graphite Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRPH"
-  },
-  {
-   "symbol": "NBLY",
-   "name": "Neighbourly Pharmacy Inc.",
+   "symbol": "BBIG",
+   "name": "Horizons Global BBIG Technology ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "NBLY.TO",
+   "yahoo_symbol": "BBIG.TO",
    "instruments": [
     {
-     "name": "Neighbourly Pharm J",
-     "symbol": "NBLY"
+     "name": "HoriznGlbBBIG TechCA",
+     "symbol": "BBIG"
+    },
+    {
+     "name": "HoriznGlbBBIG TechUS",
+     "symbol": "BBIG.U"
     }
    ]
   },
   {
-   "symbol": "PORT",
-   "name": "Southport Acquisition Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PORT"
+   "symbol": "HUF",
+   "name": "Horizons Active Ultra-Short Term US Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HUF.TO",
+   "instruments": [
+    {
+     "name": "Horizons UltST USBnd",
+     "symbol": "HUF"
+    },
+    {
+     "name": "Horizons UltST BndUS",
+     "symbol": "HUF.U"
+    }
+   ]
   },
   {
-   "symbol": "PORT.W",
-   "name": "Southport Acquisition Corporation Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PORT.W"
+   "symbol": "HARC",
+   "name": "Horizons Absolute Return Global Currency ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HARC.TO",
+   "instruments": [
+    {
+     "name": "Horizons AbsolGlbCur",
+     "symbol": "HARC"
+    }
+   ]
   },
   {
-   "symbol": "BLAZ.P",
-   "name": "Trail Blazing Ventures Ltd.",
+   "symbol": "VJET",
+   "name": "voxeljet AG - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VJET"
+  },
+  {
+   "symbol": "HARB",
+   "name": "Horizons Tactical Absolute Return Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HARB.TO",
+   "instruments": [
+    {
+     "name": "Horizon TacTotRetBnd",
+     "symbol": "HARB"
+    },
+    {
+     "name": "Horizn TacAbsolBndDv",
+     "symbol": "HARB.J"
+    },
+    {
+     "name": "HoriznTacTotRetUH US",
+     "symbol": "HARB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CBAY",
+   "name": "CymaBay Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CBAY"
+  },
+  {
+   "symbol": "ADC.P",
+   "name": "Adagio Capital Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "BLAZ.P.V",
+   "yahoo_symbol": "ADC.P.V",
    "instruments": [
     {
-     "name": "Trail Blazing Ventures Ltd.",
-     "symbol": "BLAZ.P"
+     "name": "Adagio Capital Inc.",
+     "symbol": "ADC.P"
     }
    ]
   },
   {
-   "symbol": "ADOC",
-   "name": "Edoc Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADOC"
+   "symbol": "HYI",
+   "name": "Horizons Active High Yield Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HYI.TO",
+   "instruments": [
+    {
+     "name": "Horizon HighYldBnd E",
+     "symbol": "HYI"
+    }
+   ]
   },
   {
-   "symbol": "PORT.U",
-   "name": "Southport Acquisition Corporation Units, each consisting of one share of Class A common stock, and one-half of one warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PORT.U"
+   "symbol": "MESH",
+   "name": "Evolve Metaverse ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MESH.TO",
+   "instruments": [
+    {
+     "name": "Evolve MetaversCA Hg",
+     "symbol": "MESH"
+    }
+   ]
   },
   {
-   "symbol": "PEPLW",
-   "name": "PepperLime Health Acquisition Corporation - Warrrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEPLW"
+   "symbol": "HYDR",
+   "name": "Horizons Global Hydrogen Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HYDR.TO",
+   "instruments": [
+    {
+     "name": "Horizns GlblHydrogen",
+     "symbol": "HYDR"
+    }
+   ]
   },
   {
-   "symbol": "AAC.P",
-   "name": "Anacott Acquisition Corporation",
+   "symbol": "BTI",
+   "name": "Bioasis Technologies Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AAC.P.V",
+   "yahoo_symbol": "BTI.V",
    "instruments": [
     {
-     "name": "Anacott Acquisition Corporation",
-     "symbol": "AAC.P"
+     "name": "Bioasis Technologies Inc.",
+     "symbol": "BTI"
     }
    ]
   },
   {
-   "symbol": "ADOCR",
-   "name": "Edoc Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADOCR"
+   "symbol": "RIB.UN",
+   "name": "Ridgewood Canadian Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "RIB.UN.TO",
+   "instruments": [
+    {
+     "name": "Ridgewood Cdn Bnd Un",
+     "symbol": "RIB.UN"
+    }
+   ]
   },
   {
-   "symbol": "ADOCW",
-   "name": "Edoc Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADOCW"
+   "symbol": "FLT",
+   "name": "FleetCor Technologies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLT"
   },
   {
-   "symbol": "PEPLU",
-   "name": "PepperLime Health Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEPLU"
+   "symbol": "HSL",
+   "name": "Horizons Active Floating Rate Senior Loan ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSL.TO",
+   "instruments": [
+    {
+     "name": "Horizn ActvFltLoan E",
+     "symbol": "HSL"
+    }
+   ]
   }
  ]
 }
