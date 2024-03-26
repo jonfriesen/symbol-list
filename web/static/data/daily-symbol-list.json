@@ -1,5 +1,5 @@
 {
- "date": "2024-03-25",
+ "date": "2024-03-26",
  "data": [
   {
    "symbol": "ONE",
@@ -4522,18 +4522,6 @@
    ]
   },
   {
-   "symbol": "CHY",
-   "name": "Cypress Hills Resource Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CHY.V",
-   "instruments": [
-    {
-     "name": "Cypress Hills Resource Corp",
-     "symbol": "CHY"
-    }
-   ]
-  },
-  {
    "symbol": "CYTO",
    "name": "Cytophage Technologies Ltd.",
    "exchange": "TSXV",
@@ -4626,18 +4614,6 @@
     {
      "name": "DAVIDsTEA Inc.",
      "symbol": "DTEA"
-    }
-   ]
-  },
-  {
-   "symbol": "DPCC.P",
-   "name": "Deal Pro Capital Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DPCC.P.V",
-   "instruments": [
-    {
-     "name": "Deal Pro Capital Corporation",
-     "symbol": "DPCC.P"
     }
    ]
   },
@@ -17702,6 +17678,18 @@
    ]
   },
   {
+   "symbol": "TBLL",
+   "name": "Tombill Mines Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TBLL.V",
+   "instruments": [
+    {
+     "name": "Tombill Mines Limited",
+     "symbol": "TBLL"
+    }
+   ]
+  },
+  {
    "symbol": "TOI",
    "name": "Topicus.com Inc.",
    "exchange": "TSXV",
@@ -18330,6 +18318,18 @@
     {
      "name": "Upstart Investments Inc.",
      "symbol": "UPT.P"
+    }
+   ]
+  },
+  {
+   "symbol": "UIG",
+   "name": "Urban Infrastructure Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UIG.V",
+   "instruments": [
+    {
+     "name": "Urban Infrastructure Group Inc.",
+     "symbol": "UIG"
     }
    ]
   },
@@ -29134,18 +29134,6 @@
    ]
   },
   {
-   "symbol": "FDGE",
-   "name": "Farmers Edge Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "FDGE.TO",
-   "instruments": [
-    {
-     "name": "Farmers Edge Inc. J",
-     "symbol": "FDGE"
-    }
-   ]
-  },
-  {
    "symbol": "FRX",
    "name": "Fennec Pharmaceuticals Inc.",
    "exchange": "TSX",
@@ -33310,18 +33298,6 @@
     {
      "name": "IntelGenx Tech J",
      "symbol": "IGX"
-    }
-   ]
-  },
-  {
-   "symbol": "IPCI",
-   "name": "IntelliPharmaCeutics International Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "IPCI.TO",
-   "instruments": [
-    {
-     "name": "IntelliPharma Intl J",
-     "symbol": "IPCI"
     }
    ]
   },
@@ -39634,18 +39610,6 @@
    ]
   },
   {
-   "symbol": "CLMT",
-   "name": "Purpose Energy Transition Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CLMT.TO",
-   "instruments": [
-    {
-     "name": "Purpose Energy Trans",
-     "symbol": "CLMT"
-    }
-   ]
-  },
-  {
    "symbol": "PDIV",
    "name": "Purpose Enhanced Dividend Fund",
    "exchange": "TSX",
@@ -45152,12 +45116,6 @@
    "name": "AgriFORCE  Growing Systems Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AGRIW"
-  },
-  {
-   "symbol": "AGRX",
-   "name": "Agile Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGRX"
   },
   {
    "symbol": "AGYS",
@@ -52078,6 +52036,18 @@
    "yahoo_symbol": "DJCO"
   },
   {
+   "symbol": "DJT",
+   "name": "Trump Media \u0026 Technology Group Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DJT"
+  },
+  {
+   "symbol": "DJTWW",
+   "name": "Trump Media \u0026 Technology Group Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DJTWW"
+  },
+  {
    "symbol": "DKNG",
    "name": "DraftKings Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -52442,24 +52412,6 @@
    "name": "iShares Select Dividend ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DVY"
-  },
-  {
-   "symbol": "DWAC",
-   "name": "Digital World Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DWAC"
-  },
-  {
-   "symbol": "DWACU",
-   "name": "Digital World Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DWACU"
-  },
-  {
-   "symbol": "DWACW",
-   "name": "Digital World Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DWACW"
   },
   {
    "symbol": "DWAS",
@@ -54278,12 +54230,6 @@
    "name": "Procure Disaster Recovery Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FIXT"
-  },
-  {
-   "symbol": "FIXX",
-   "name": "Homology Medicines, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FIXX"
   },
   {
    "symbol": "FIZZ",
@@ -60041,7 +59987,7 @@
   },
   {
    "symbol": "LGVN",
-   "name": "Longeveron Inc. - common stock",
+   "name": "Longeveron Inc. - Class A Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LGVN"
   },
@@ -66416,6 +66362,12 @@
    "name": "Quanterix Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QTRX"
+  },
+  {
+   "symbol": "QTTB",
+   "name": "Q32 Bio Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QTTB"
   },
   {
    "symbol": "QUBT",
@@ -73396,12 +73348,6 @@
    "yahoo_symbol": "XXII"
   },
   {
-   "symbol": "YGF",
-   "name": "YanGuFang International Group Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YGF"
-  },
-  {
    "symbol": "YGMZ",
    "name": "MingZhu Logistics Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -79636,6 +79582,12 @@
    "yahoo_symbol": "DXF"
   },
   {
+   "symbol": "DXYZ",
+   "name": "Destiny Tech100 Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DXYZ"
+  },
+  {
    "symbol": "DY",
    "name": "Dycom Industries, Inc. Common Stock",
    "exchange": "NYSE",
@@ -81380,12 +81332,6 @@
    "name": "Franklin Street Properties Corp. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "FSP"
-  },
-  {
-   "symbol": "FSR",
-   "name": "Fisker Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FSR"
   },
   {
    "symbol": "FSS",
@@ -84112,12 +84058,6 @@
    "yahoo_symbol": "KIO"
   },
   {
-   "symbol": "KIQ",
-   "name": "Kelso Technologies Inc Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "KIQ"
-  },
-  {
    "symbol": "KKR",
    "name": "KKR \u0026 Co. Inc. Common Stock",
    "exchange": "NYSE",
@@ -85390,12 +85330,6 @@
    "yahoo_symbol": "MITT$C"
   },
   {
-   "symbol": "MIXT",
-   "name": "MiX Telematics Limited American Depositary Shares, each representing 25 Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MIXT"
-  },
-  {
    "symbol": "MIY",
    "name": "Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",
    "exchange": "NYSE",
@@ -85508,6 +85442,12 @@
    "name": "3M Company Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MMM"
+  },
+  {
+   "symbol": "MMM.V",
+   "name": "3M Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MMM.V"
   },
   {
    "symbol": "MMS",
@@ -90620,6 +90560,12 @@
    "name": "Emeren Group Ltd American Depositary Shares, each representing 10 shares",
    "exchange": "NYSE",
    "yahoo_symbol": "SOL"
+  },
+  {
+   "symbol": "SOLV.V",
+   "name": "Solventum Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOLV.V"
   },
   {
    "symbol": "SON",

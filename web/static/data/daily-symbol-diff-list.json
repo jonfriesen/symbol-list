@@ -1,212 +1,178 @@
 {
  "added": [
   {
-   "symbol": "AGET",
-   "name": "AGEDB Technology Ltd.",
+   "symbol": "TBLL",
+   "name": "Tombill Mines Limited",
    "exchange": "TSXV",
-   "yahoo_symbol": "AGET.V",
+   "yahoo_symbol": "TBLL.V",
    "instruments": [
     {
-     "name": "AGEDB Technology Ltd.",
-     "symbol": "AGET"
+     "name": "Tombill Mines Limited",
+     "symbol": "TBLL"
     }
    ]
   },
   {
-   "symbol": "ARTI",
-   "name": "Evolve Artificial Intelligence Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "ARTI.TO",
+   "symbol": "UIG",
+   "name": "Urban Infrastructure Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UIG.V",
    "instruments": [
     {
-     "name": "Evl Art Int Fnd UN",
-     "symbol": "ARTI"
+     "name": "Urban Infrastructure Group Inc.",
+     "symbol": "UIG"
     }
    ]
   },
   {
-   "symbol": "COOT",
-   "name": "Australian Oilseeds Holdings Limited - Ordinary Shares",
+   "symbol": "DJT",
+   "name": "Trump Media \u0026 Technology Group Corp. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "COOT"
+   "yahoo_symbol": "DJT"
   },
   {
-   "symbol": "COOTW",
-   "name": "Australian Oilseeds Holdings Limited - Warrant",
+   "symbol": "DJTWW",
+   "name": "Trump Media \u0026 Technology Group Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "COOTW"
+   "yahoo_symbol": "DJTWW"
   },
   {
-   "symbol": "CPAY",
-   "name": "Corpay, Inc. Common Stock",
+   "symbol": "QTTB",
+   "name": "Q32 Bio Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QTTB"
+  },
+  {
+   "symbol": "DXYZ",
+   "name": "Destiny Tech100 Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CPAY"
+   "yahoo_symbol": "DXYZ"
+  },
+  {
+   "symbol": "MMM.V",
+   "name": "3M Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MMM.V"
+  },
+  {
+   "symbol": "SOLV.V",
+   "name": "Solventum Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOLV.V"
   }
  ],
  "removed": [
   {
-   "symbol": "BBIG",
-   "name": "Horizons Global BBIG Technology ETF",
+   "symbol": "CLMT",
+   "name": "Purpose Energy Transition Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "BBIG.TO",
+   "yahoo_symbol": "CLMT.TO",
    "instruments": [
     {
-     "name": "HoriznGlbBBIG TechCA",
-     "symbol": "BBIG"
-    },
-    {
-     "name": "HoriznGlbBBIG TechUS",
-     "symbol": "BBIG.U"
+     "name": "Purpose Energy Trans",
+     "symbol": "CLMT"
     }
    ]
   },
   {
-   "symbol": "HUF",
-   "name": "Horizons Active Ultra-Short Term US Investment Grade Bond ETF",
+   "symbol": "DWAC",
+   "name": "Digital World Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DWAC"
+  },
+  {
+   "symbol": "KIQ",
+   "name": "Kelso Technologies Inc Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KIQ"
+  },
+  {
+   "symbol": "IPCI",
+   "name": "IntelliPharmaCeutics International Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "HUF.TO",
+   "yahoo_symbol": "IPCI.TO",
    "instruments": [
     {
-     "name": "Horizons UltST USBnd",
-     "symbol": "HUF"
-    },
-    {
-     "name": "Horizons UltST BndUS",
-     "symbol": "HUF.U"
+     "name": "IntelliPharma Intl J",
+     "symbol": "IPCI"
     }
    ]
   },
   {
-   "symbol": "HARC",
-   "name": "Horizons Absolute Return Global Currency ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HARC.TO",
+   "symbol": "CHY",
+   "name": "Cypress Hills Resource Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CHY.V",
    "instruments": [
     {
-     "name": "Horizons AbsolGlbCur",
-     "symbol": "HARC"
+     "name": "Cypress Hills Resource Corp",
+     "symbol": "CHY"
     }
    ]
   },
   {
-   "symbol": "VJET",
-   "name": "voxeljet AG - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VJET"
-  },
-  {
-   "symbol": "HARB",
-   "name": "Horizons Tactical Absolute Return Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HARB.TO",
-   "instruments": [
-    {
-     "name": "Horizon TacTotRetBnd",
-     "symbol": "HARB"
-    },
-    {
-     "name": "Horizn TacAbsolBndDv",
-     "symbol": "HARB.J"
-    },
-    {
-     "name": "HoriznTacTotRetUH US",
-     "symbol": "HARB.U"
-    }
-   ]
-  },
-  {
-   "symbol": "CBAY",
-   "name": "CymaBay Therapeutics Inc. - Common Stock",
+   "symbol": "FIXX",
+   "name": "Homology Medicines, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CBAY"
+   "yahoo_symbol": "FIXX"
   },
   {
-   "symbol": "ADC.P",
-   "name": "Adagio Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ADC.P.V",
-   "instruments": [
-    {
-     "name": "Adagio Capital Inc.",
-     "symbol": "ADC.P"
-    }
-   ]
-  },
-  {
-   "symbol": "HYI",
-   "name": "Horizons Active High Yield Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HYI.TO",
-   "instruments": [
-    {
-     "name": "Horizon HighYldBnd E",
-     "symbol": "HYI"
-    }
-   ]
-  },
-  {
-   "symbol": "MESH",
-   "name": "Evolve Metaverse ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MESH.TO",
-   "instruments": [
-    {
-     "name": "Evolve MetaversCA Hg",
-     "symbol": "MESH"
-    }
-   ]
-  },
-  {
-   "symbol": "HYDR",
-   "name": "Horizons Global Hydrogen Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HYDR.TO",
-   "instruments": [
-    {
-     "name": "Horizns GlblHydrogen",
-     "symbol": "HYDR"
-    }
-   ]
-  },
-  {
-   "symbol": "BTI",
-   "name": "Bioasis Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BTI.V",
-   "instruments": [
-    {
-     "name": "Bioasis Technologies Inc.",
-     "symbol": "BTI"
-    }
-   ]
-  },
-  {
-   "symbol": "RIB.UN",
-   "name": "Ridgewood Canadian Investment Grade Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "RIB.UN.TO",
-   "instruments": [
-    {
-     "name": "Ridgewood Cdn Bnd Un",
-     "symbol": "RIB.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "FLT",
-   "name": "FleetCor Technologies, Inc. Common Stock",
+   "symbol": "FSR",
+   "name": "Fisker Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "FLT"
+   "yahoo_symbol": "FSR"
   },
   {
-   "symbol": "HSL",
-   "name": "Horizons Active Floating Rate Senior Loan ETF",
+   "symbol": "FDGE",
+   "name": "Farmers Edge Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "HSL.TO",
+   "yahoo_symbol": "FDGE.TO",
    "instruments": [
     {
-     "name": "Horizn ActvFltLoan E",
-     "symbol": "HSL"
+     "name": "Farmers Edge Inc. J",
+     "symbol": "FDGE"
+    }
+   ]
+  },
+  {
+   "symbol": "AGRX",
+   "name": "Agile Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGRX"
+  },
+  {
+   "symbol": "YGF",
+   "name": "YanGuFang International Group Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YGF"
+  },
+  {
+   "symbol": "DWACU",
+   "name": "Digital World Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DWACU"
+  },
+  {
+   "symbol": "MIXT",
+   "name": "MiX Telematics Limited American Depositary Shares, each representing 25 Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MIXT"
+  },
+  {
+   "symbol": "DWACW",
+   "name": "Digital World Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DWACW"
+  },
+  {
+   "symbol": "DPCC.P",
+   "name": "Deal Pro Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DPCC.P.V",
+   "instruments": [
+    {
+     "name": "Deal Pro Capital Corporation",
+     "symbol": "DPCC.P"
     }
    ]
   }
