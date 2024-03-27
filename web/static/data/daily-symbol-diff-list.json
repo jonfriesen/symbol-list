@@ -1,180 +1,118 @@
 {
  "added": [
   {
-   "symbol": "TBLL",
-   "name": "Tombill Mines Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TBLL.V",
-   "instruments": [
-    {
-     "name": "Tombill Mines Limited",
-     "symbol": "TBLL"
-    }
-   ]
-  },
-  {
-   "symbol": "UIG",
-   "name": "Urban Infrastructure Group Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "UIG.V",
-   "instruments": [
-    {
-     "name": "Urban Infrastructure Group Inc.",
-     "symbol": "UIG"
-    }
-   ]
-  },
-  {
-   "symbol": "DJT",
-   "name": "Trump Media \u0026 Technology Group Corp. - Class A Common Stock",
+   "symbol": "IBACU",
+   "name": "IB Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DJT"
+   "yahoo_symbol": "IBACU"
   },
   {
-   "symbol": "DJTWW",
-   "name": "Trump Media \u0026 Technology Group Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DJTWW"
-  },
-  {
-   "symbol": "QTTB",
-   "name": "Q32 Bio Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QTTB"
-  },
-  {
-   "symbol": "DXYZ",
-   "name": "Destiny Tech100 Inc. Common Stock",
+   "symbol": "BEPJ",
+   "name": "Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes",
    "exchange": "NYSE",
-   "yahoo_symbol": "DXYZ"
+   "yahoo_symbol": "BEPJ"
   },
   {
-   "symbol": "MMM.V",
-   "name": "3M Company Common Stock When-Issued",
+   "symbol": "GCTS",
+   "name": "GCT Semiconductor Holding, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MMM.V"
+   "yahoo_symbol": "GCTS"
   },
   {
-   "symbol": "SOLV.V",
-   "name": "Solventum Corporation Common Stock When-Issued",
+   "symbol": "GCTS.W",
+   "name": "GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
    "exchange": "NYSE",
-   "yahoo_symbol": "SOLV.V"
+   "yahoo_symbol": "GCTS.W"
+  },
+  {
+   "symbol": "GE.V",
+   "name": "General Electric Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GE.V"
+  },
+  {
+   "symbol": "GEV.V",
+   "name": "GE Vernova Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GEV.V"
+  },
+  {
+   "symbol": "MGRE",
+   "name": "Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MGRE"
+  },
+  {
+   "symbol": "SER",
+   "name": "Serina Therapeutics, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SER"
   }
  ],
  "removed": [
   {
-   "symbol": "CLMT",
-   "name": "Purpose Energy Transition Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CLMT.TO",
+   "symbol": "DSLV",
+   "name": "Denarius Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DSLV.V",
    "instruments": [
     {
-     "name": "Purpose Energy Trans",
-     "symbol": "CLMT"
+     "name": "Denarius Metals Corp.",
+     "symbol": "DSLV"
+    },
+    {
+     "name": "Denarius Metals Corp. wt 17Mar2026",
+     "symbol": "DSLV.WT"
     }
    ]
   },
   {
-   "symbol": "DWAC",
-   "name": "Digital World Acquisition Corp. - Class A Common Stock",
+   "symbol": "LIBYU",
+   "name": "Liberty Resources Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DWAC"
+   "yahoo_symbol": "LIBYU"
   },
   {
-   "symbol": "KIQ",
-   "name": "Kelso Technologies Inc Ordinary Shares",
+   "symbol": "LIBY",
+   "name": "Liberty Resources Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIBY"
+  },
+  {
+   "symbol": "AGE",
+   "name": "AgeX Therapeutics, Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "KIQ"
+   "yahoo_symbol": "AGE"
   },
   {
-   "symbol": "IPCI",
-   "name": "IntelliPharmaCeutics International Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "IPCI.TO",
-   "instruments": [
-    {
-     "name": "IntelliPharma Intl J",
-     "symbol": "IPCI"
-    }
-   ]
-  },
-  {
-   "symbol": "CHY",
-   "name": "Cypress Hills Resource Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CHY.V",
-   "instruments": [
-    {
-     "name": "Cypress Hills Resource Corp",
-     "symbol": "CHY"
-    }
-   ]
-  },
-  {
-   "symbol": "FIXX",
-   "name": "Homology Medicines, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FIXX"
-  },
-  {
-   "symbol": "FSR",
-   "name": "Fisker Inc. Class A Common Stock",
+   "symbol": "CNDB.U",
+   "name": "Concord Acquisition Corp III Units, each consisting of one share of Class A Common Stock and one-half of one Warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "FSR"
+   "yahoo_symbol": "CNDB.U"
   },
   {
-   "symbol": "FDGE",
-   "name": "Farmers Edge Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "FDGE.TO",
-   "instruments": [
-    {
-     "name": "Farmers Edge Inc. J",
-     "symbol": "FDGE"
-    }
-   ]
-  },
-  {
-   "symbol": "AGRX",
-   "name": "Agile Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGRX"
-  },
-  {
-   "symbol": "YGF",
-   "name": "YanGuFang International Group Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YGF"
-  },
-  {
-   "symbol": "DWACU",
-   "name": "Digital World Acquisition Corp. - Units",
+   "symbol": "LIBYW",
+   "name": "Liberty Resources Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DWACU"
+   "yahoo_symbol": "LIBYW"
   },
   {
-   "symbol": "MIXT",
-   "name": "MiX Telematics Limited American Depositary Shares, each representing 25 Ordinary Shares",
+   "symbol": "SOLO",
+   "name": "Electrameccanica Vehicles Corp. Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOLO"
+  },
+  {
+   "symbol": "CNDB",
+   "name": "Concord Acquisition Corp III Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MIXT"
+   "yahoo_symbol": "CNDB"
   },
   {
-   "symbol": "DWACW",
-   "name": "Digital World Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DWACW"
-  },
-  {
-   "symbol": "DPCC.P",
-   "name": "Deal Pro Capital Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DPCC.P.V",
-   "instruments": [
-    {
-     "name": "Deal Pro Capital Corporation",
-     "symbol": "DPCC.P"
-    }
-   ]
+   "symbol": "CNDB.W",
+   "name": "Concord Acquisition Corp III Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNDB.W"
   }
  ]
 }
