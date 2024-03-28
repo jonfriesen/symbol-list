@@ -650,6 +650,7 @@ QQQT,Evolve NASDAQ Technology Index Fund,TSX,QQQT.TO,Evolve NAS Tech Heg,QQQT,Ev
 ESPX,Evolve S&P 500® Enhanced Yield Fund,TSX,ESPX.TO,Evolve 500EnhcYld HG,ESPX,Evolve 500EnhcYld UH,ESPX.B,Evolve 500EnYldUH US,ESPX.U
 ETSX,Evolve S&P/TSX 60 Enhanced Yield Fund,TSX,ETSX.TO,Evolve 60EnhcYld UH,ETSX
 CALL,Evolve US Banks Enhanced Yield Fund,TSX,CALL.TO,Evolve USBkEnhanc Hg,CALL,Evolve USBkEnhYldUhg,CALL.B,Evolve USBkEnhnUhgUS,CALL.U
+EVO,Evovest Global Equity ETF,TSX,EVO.TO,Evovest Gbl Eqty ETF,EVO
 EXN,Excellon Resources Inc.,TSX,EXN.TO,Excellon Resources J,EXN
 MIN,Excelsior Mining Corp.,TSX,MIN.TO,Excelsior Mining J,MIN
 EIF,Exchange Income Corporation,TSX,EIF.TO,Exchange Income Corp,EIF,Exchnge Incm J Deb,EIF.DB.J,Exchange Incm 5.75Db,EIF.DB.K,Exchnge Incm5.25L Db,EIF.DB.L,ExchngIncm 5.25%M Db,EIF.DB.M
@@ -667,30 +668,18 @@ FBTC,Fidelity Advantage Bitcoin ETF,TSX,FBTC.TO,Fidelity AdvBtcnL Un,FBTC,Fideli
 FETH,Fidelity Advantage Ether ETF,TSX,FETH.TO,Fidelity Advantg C$,FETH,Fidelity Advantg US$,FETH.U
 FCCD,Fidelity Canadian High Dividend ETF,TSX,FCCD.TO,Fidelity Cdn Div L,FCCD
 FCCQ,Fidelity Canadian High Quality ETF,TSX,FCCQ.TO,FidelityCdnHiQual L,FCCQ
-FCCL,Fidelity Canadian Low Volatility ETF,TSX,FCCL.TO,Fidelity CdnLwVol L,FCCL
-FCCM,Fidelity Canadian Momentum ETF,TSX,FCCM.TO,Fidelity CA Moment L,FCCM
 FCMI,Fidelity Canadian Monthly High Income ETF,TSX,FCMI.TO,Fidelity CdnMoIncm L,FCMI
-FCSB,Fidelity Canadian Short Term Corporate Bond ETF,TSX,FCSB.TO,FidelityCdnST CrpBnd,FCSB
 FCCV,Fidelity Canadian Value ETF,TSX,FCCV.TO,Fidelity CdnVal L Un,FCCV
-FCGB,Fidelity Global Core Plus Bond ETF,TSX,FCGB.TO,Fidelity GlbCore+Bnd,FCGB,Fidelity GlbCorBndUS,FCGB.U
-FCIG,Fidelity Global Investment Grade Bond ETF,TSX,FCIG.TO,FidelityGlbInvestBnd,FCIG,FidelityGlbInvBnd US,FCIG.U
 FCGI,Fidelity Global Monthly High Income ETF,TSX,FCGI.TO,Fidelity GlbMoIncm L,FCGI
 FCID,Fidelity International High Dividend ETF,TSX,FCID.TO,Fidelity Int'l Div L,FCID
 FCIQ,Fidelity International High Quality ETF,TSX,FCIQ.TO,Fidelity IntlHiQual,FCIQ,Fidelity IntlHiQuaUS,FCIQ.U
-FCIL,Fidelity International Low Volatility ETF,TSX,FCIL.TO,Fidelity IntlLwVol L,FCIL
-FCIM,Fidelity International Momentum ETF,TSX,FCIM.TO,Fidelity IntlMomnt L,FCIM
 FCIV,Fidelity International Value ETF,TSX,FCIV.TO,Fidelity Intl Val L,FCIV
-FCCB,Fidelity Systematic Canadian Bond Index ETF,TSX,FCCB.TO,Fidelity CdnBndIdxUn,FCCB
 FCRH,Fidelity U.S. Dividend for Rising Rates Currency Neutral ETF,TSX,FCRH.TO,Fidelity US DivCur L,FCRH
 FCRR,Fidelity U.S. Dividend for Rising Rates ETF,TSX,FCRR.TO,Fidelity US DivRise,FCRR,Fidelity US DivRt US,FCRR.U
 FCUH,Fidelity U.S. High Dividend Currency Neutral ETF,TSX,FCUH.TO,Fidelity US DivCur L,FCUH
 FCUD,Fidelity U.S. High Dividend ETF,TSX,FCUD.TO,Fidelity US HiDiv Un,FCUD,Fidelity US HiDiv US,FCUD.U
 FCQH,Fidelity U.S. High Quality Currency Neutral ETF,TSX,FCQH.TO,FidelityUS HiCurNatr,FCQH
 FCUQ,Fidelity U.S. High Quality ETF,TSX,FCUQ.TO,FidelityUS HiQual L,FCUQ,FidelityUS HiQual US,FCUQ.U
-FCLH,Fidelity U.S. Low Volatility Currency Neutral ETF,TSX,FCLH.TO,FidelityUS LowVolCur,FCLH
-FCUL,Fidelity U.S. Low Volatility ETF,TSX,FCUL.TO,Fidelity USlowVol Un,FCUL,Fidelity USlowVol US,FCUL.U
-FCMH,Fidelity U.S. Momentum Currency Neutral ETF,TSX,FCMH.TO,FidelityUS Momnt Cur,FCMH
-FCMO,Fidelity U.S. Momentum ETF,TSX,FCMO.TO,Fidelity US Moment L,FCMO,Fidelity US MomentUS,FCMO.U
 FCVH,Fidelity U.S. Value Currency Neutral ETF,TSX,FCVH.TO,Fidelity USValCurNeu,FCVH
 FCUV,Fidelity U.S. Value ETF,TSX,FCUV.TO,Fidelity US Val L Un,FCUV,Fidelity US Val L US,FCUV.U
 FSZ,Fiera Capital Corporation,TSX,FSZ.TO,Fiera Capital A SV,FSZ,Fiera Capitl 8.25 Db,FSZ.DB.B
@@ -2713,7 +2702,6 @@ MDCX,Medicus Pharma Ltd.,TSXV,MDCX.V,Medicus Pharma Ltd.,MDCX
 MIR,MedMira Inc.,TSXV,MIR.V,MedMira Inc.,MIR
 MDX,MedX Health Corp.,TSXV,MDX.V,Medx Health Corp,MDX
 MEED.P,Meed Growth Corp.,TSXV,MEED.P.V,Meed Growth Corp.,MEED.P
-MCU,Mega Copper Ltd.,TSXV,MCU.V,Mega Copper Ltd.,MCU
 MKR,Melkior Resources Inc.,TSXV,MKR.V,Melkior Resources Inc.,MKR
 MENE,Mene Inc.,TSXV,MENE.V,Mene Inc.,MENE
 MRKI.P,"Meraki Acquisition One, Inc.",TSXV,MRKI.P.V,"Meraki Acquisition One, Inc.",MRKI.P
@@ -3311,6 +3299,7 @@ VTEN.P,V Ten Capital Corp.,TSXV,VTEN.P.V,V Ten Capital Corp.,VTEN.P
 VZZ,Val-d'Or Mining Corporation,TSXV,VZZ.V,Val-d'Or Mining Corporation,VZZ
 VAL.P,Valencia Capital Inc.,TSXV,VAL.P.V,Valencia Capital Inc.,VAL.P
 VMXX,Valhalla Metals Inc.,TSXV,VMXX.V,Valhalla Metals Inc.,VMXX
+VVR,Valleyview Resources Ltd.,TSXV,VVR.V,Valleyview Resources Ltd.,VVR
 VO,Valore Metals Corp.,TSXV,VO.V,Valore Metals Corp.,VO
 VRB,Vanadiumcorp Resource Inc.,TSXV,VRB.V,Vanadiumcorp Resource Inc.,VRB
 VAX,Vantex Resources Ltd.,TSXV,VAX.V,Vantex Resources Ltd.,VAX
@@ -3928,6 +3917,8 @@ BCAN,BYND Cannasoft Enterprises Inc. - Common Stock,NASDAQ Capital Market,BCAN
 BCBP,"BCB Bancorp, Inc. (NJ) - Common Stock",NASDAQ Global MarketSM,BCBP
 BCDA,"BioCardia, Inc. - Common Stock",NASDAQ Capital Market,BCDA
 BCDAW,"BioCardia, Inc. - Warrant",NASDAQ Capital Market,BCDAW
+BCG,"Binah Capital Group, Inc. - Common Stock",NASDAQ Global MarketSM,BCG
+BCGWW,"Binah Capital Group, Inc. - Warrants",NASDAQ Capital Market,BCGWW
 BCLI,Brainstorm Cell Therapeutics Inc. - Common Stock,NASDAQ Capital Market,BCLI
 BCML,BayCom Corp - Common Stock,NASDAQ Global Select MarketSM,BCML
 BCOV,Brightcove Inc. - Common Stock,NASDAQ Global Select MarketSM,BCOV
@@ -4784,7 +4775,7 @@ DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,NASDAQ Global MarketSM,DXJS
 DXLG,"Destination XL Group, Inc. - Common Stock",NASDAQ Global MarketSM,DXLG
 DXPE,"DXP Enterprises, Inc. - Common Stock",NASDAQ Global Select MarketSM,DXPE
 DXR,Daxor Corporation - Closed End Fund,NASDAQ Capital Market,DXR
-DXYN,"The Dixie Group, Inc. - Common Stock",NASDAQ Global MarketSM,DXYN
+DXYN,"The Dixie Group, Inc. - Common Stock",NASDAQ Capital Market,DXYN
 DYAI,"Dyadic International, Inc. - Common Stock",NASDAQ Capital Market,DYAI
 DYCQU,DT Cloud Acquisition Corporation - Unit,NASDAQ Global MarketSM,DYCQU
 DYFI,IDX Dynamic Fixed Income ETF,NASDAQ Global MarketSM,DYFI
@@ -5862,7 +5853,6 @@ JKHY,"Jack Henry & Associates, Inc. - Common Stock",NASDAQ Global Select MarketS
 JL,J-Long Group Limited - Ordinary Shares,NASDAQ Global MarketSM,JL
 JMSB,"John Marshall Bancorp, Inc. - Common Stock",NASDAQ Capital Market,JMSB
 JNVR,Janover Inc. - Common Stock,NASDAQ Capital Market,JNVR
-JOAN,"JOANN, Inc. - common stock",NASDAQ Capital Market,JOAN
 JOUT,Johnson Outdoors Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,JOUT
 JPEF,JPMorgan Equity Focus ETF,NASDAQ Global MarketSM,JPEF
 JRSH,"Jerash Holdings (US), Inc. - Common Stock",NASDAQ Capital Market,JRSH
@@ -5904,6 +5894,7 @@ KBWY,Invesco KBW Premium Yield Equity REIT ETF,NASDAQ Global MarketSM,KBWY
 KC,Kingsoft Cloud Holdings Limited - American Depositary Shares,NASDAQ Global Select MarketSM,KC
 KDP,Keurig Dr Pepper Inc. - Common Stock,NASDAQ Global Select MarketSM,KDP
 KE,"Kimball Electronics, Inc. - Common Stock",NASDAQ Global Select MarketSM,KE
+KEAT,Keating Active ETF,NASDAQ Global MarketSM,KEAT
 KELYA,"Kelly Services, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,KELYA
 KELYB,"Kelly Services, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,KELYB
 KEQU,Kewaunee Scientific Corporation - Common Stock,NASDAQ Global MarketSM,KEQU
@@ -10110,7 +10101,9 @@ LDOS,"Leidos Holdings, Inc. Common Stock",NYSE,LDOS
 LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",NYSE,LDP
 LEA,Lear Corporation Common Stock,NYSE,LEA
 LEG,"Leggett & Platt, Incorporated Common Stock",NYSE,LEG
+LEGT,Legato Merger Corp. III Ordinary Shares,NYSE MKT,LEGT
 LEGT.U,"Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",NYSE MKT,LEGT.U
+LEGT.W,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",NYSE MKT,LEGT.W
 LEJU,"Leju Holdings Limited American Depositary Shares, each representing one Ordinary share",NYSE,LEJU
 LEN,Lennar Corporation Class A Common Stock,NYSE,LEN
 LEN.B,Lennar Corporation Class B,NYSE,LEN.B
@@ -10149,6 +10142,7 @@ LOCL,Local Bounti Corporation Common Stock,NYSE,LOCL
 LODE,Comstock Inc. Common Stock,NYSE MKT,LODE
 LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,NYSE,LOMA
 LOW,"Lowe's Companies, Inc. Common Stock",NYSE,LOW
+LPA,Logistic Properties of the Americas Ordinary Shares,NYSE MKT,LPA
 LPG,Dorian LPG Ltd. Common Stock,NYSE,LPG
 LPL,"LG Display Co, Ltd AMERICAN DEPOSITORY SHARES",NYSE,LPL
 LPTV,"Loop Media, Inc. Common Stock",NYSE MKT,LPTV
@@ -10274,6 +10268,7 @@ MLP,"Maui Land & Pineapple Company, Inc. Common Stock",NYSE,MLP
 MLPB,"ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040",NYSE ARCA,MLPB
 MLR,"Miller Industries, Inc. Common Stock",NYSE,MLR
 MLSS,"Milestone Scientific, Inc. Common Stock",NYSE MKT,MLSS
+MMA,Alta Global Group Limited Ordinary Shares,NYSE MKT,MMA
 MMC,"Marsh & McLennan Companies, Inc. Common Stock",NYSE,MMC
 MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,NYSE,MMD
 MMI,"Marcus & Millichap, Inc. Common Stock",NYSE,MMI
@@ -10701,7 +10696,6 @@ PGRU,PropertyGuru Group Limited Ordinary Shares,NYSE,PGRU
 PGSS,Pegasus Digital Mobility Acquisition Corp. Class A Ordinary Shares,NYSE,PGSS
 PGSS.U,Pegasus Digital Mobility Acquisition Corp. Units,NYSE,PGSS.U
 PGSS.W,Pegasus Digital Mobility Acquisition Corp. Redeemable Warrants,NYSE,PGSS.W
-PGTI,"PGT Innovations, Inc.",NYSE,PGTI
 PGZ,Principal Real Estate Income Fund Common Shares of Beneficial Interest,NYSE,PGZ
 PH,Parker-Hannifin Corporation Common Stock,NYSE,PH
 PHD,"Pioneer Floating Rate Fund, Inc.",NYSE,PHD
@@ -11379,7 +11373,6 @@ TWO,Two Harbors Investment Corp,NYSE,TWO
 TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),NYSE,TWO$A
 TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,TWO$B
 TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,TWO$C
-TWOA,two Class A Ordinary Shares,NYSE,TWOA
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",NYSE,TX
 TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",NYSE,TXO
 TXT,Textron Inc. Common Stock,NYSE,TXT
@@ -11593,7 +11586,7 @@ WNC,Wabash National Corporation Common Stock,NYSE,WNC
 WNNR,Andretti Acquisition Corp. Class A Ordinary Shares,NYSE,WNNR
 WNNR.U,"Andretti Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable public warrant",NYSE,WNNR.U
 WNNR.W,"Andretti Acquisition Corp. Redeemable public warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",NYSE,WNNR.W
-WNS,WNS (Holdings) Limited Sponsored ADR (Jersey),NYSE,WNS
+WNS,WNS (Holdings) Limited Ordinary Shares,NYSE,WNS
 WOLF,"Wolfspeed, Inc. Common Stock",NYSE,WOLF
 WOR,"Worthington Enterprises, Inc. Common Shares",NYSE,WOR
 WOW,"WideOpenWest, Inc. Common Stock",NYSE,WOW

@@ -1,5 +1,5 @@
 {
- "date": "2024-03-27",
+ "date": "2024-03-28",
  "data": [
   {
    "symbol": "IGBT.UN",
@@ -9258,6 +9258,18 @@
    ]
   },
   {
+   "symbol": "EVO",
+   "name": "Evovest Global Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EVO.TO",
+   "instruments": [
+    {
+     "name": "Evovest Gbl Eqty ETF",
+     "symbol": "EVO"
+    }
+   ]
+  },
+  {
    "symbol": "EXN",
    "name": "Excellon Resources Inc.",
    "exchange": "TSX",
@@ -9542,30 +9554,6 @@
    ]
   },
   {
-   "symbol": "FCCL",
-   "name": "Fidelity Canadian Low Volatility ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCCL.TO",
-   "instruments": [
-    {
-     "name": "Fidelity CdnLwVol L",
-     "symbol": "FCCL"
-    }
-   ]
-  },
-  {
-   "symbol": "FCCM",
-   "name": "Fidelity Canadian Momentum ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCCM.TO",
-   "instruments": [
-    {
-     "name": "Fidelity CA Moment L",
-     "symbol": "FCCM"
-    }
-   ]
-  },
-  {
    "symbol": "FCMI",
    "name": "Fidelity Canadian Monthly High Income ETF",
    "exchange": "TSX",
@@ -9578,18 +9566,6 @@
    ]
   },
   {
-   "symbol": "FCSB",
-   "name": "Fidelity Canadian Short Term Corporate Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCSB.TO",
-   "instruments": [
-    {
-     "name": "FidelityCdnST CrpBnd",
-     "symbol": "FCSB"
-    }
-   ]
-  },
-  {
    "symbol": "FCCV",
    "name": "Fidelity Canadian Value ETF",
    "exchange": "TSX",
@@ -9598,38 +9574,6 @@
     {
      "name": "Fidelity CdnVal L Un",
      "symbol": "FCCV"
-    }
-   ]
-  },
-  {
-   "symbol": "FCGB",
-   "name": "Fidelity Global Core Plus Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCGB.TO",
-   "instruments": [
-    {
-     "name": "Fidelity GlbCore+Bnd",
-     "symbol": "FCGB"
-    },
-    {
-     "name": "Fidelity GlbCorBndUS",
-     "symbol": "FCGB.U"
-    }
-   ]
-  },
-  {
-   "symbol": "FCIG",
-   "name": "Fidelity Global Investment Grade Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCIG.TO",
-   "instruments": [
-    {
-     "name": "FidelityGlbInvestBnd",
-     "symbol": "FCIG"
-    },
-    {
-     "name": "FidelityGlbInvBnd US",
-     "symbol": "FCIG.U"
     }
    ]
   },
@@ -9674,30 +9618,6 @@
    ]
   },
   {
-   "symbol": "FCIL",
-   "name": "Fidelity International Low Volatility ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCIL.TO",
-   "instruments": [
-    {
-     "name": "Fidelity IntlLwVol L",
-     "symbol": "FCIL"
-    }
-   ]
-  },
-  {
-   "symbol": "FCIM",
-   "name": "Fidelity International Momentum ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCIM.TO",
-   "instruments": [
-    {
-     "name": "Fidelity IntlMomnt L",
-     "symbol": "FCIM"
-    }
-   ]
-  },
-  {
    "symbol": "FCIV",
    "name": "Fidelity International Value ETF",
    "exchange": "TSX",
@@ -9706,18 +9626,6 @@
     {
      "name": "Fidelity Intl Val L",
      "symbol": "FCIV"
-    }
-   ]
-  },
-  {
-   "symbol": "FCCB",
-   "name": "Fidelity Systematic Canadian Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCCB.TO",
-   "instruments": [
-    {
-     "name": "Fidelity CdnBndIdxUn",
-     "symbol": "FCCB"
     }
    ]
   },
@@ -9802,62 +9710,6 @@
     {
      "name": "FidelityUS HiQual US",
      "symbol": "FCUQ.U"
-    }
-   ]
-  },
-  {
-   "symbol": "FCLH",
-   "name": "Fidelity U.S. Low Volatility Currency Neutral ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCLH.TO",
-   "instruments": [
-    {
-     "name": "FidelityUS LowVolCur",
-     "symbol": "FCLH"
-    }
-   ]
-  },
-  {
-   "symbol": "FCUL",
-   "name": "Fidelity U.S. Low Volatility ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCUL.TO",
-   "instruments": [
-    {
-     "name": "Fidelity USlowVol Un",
-     "symbol": "FCUL"
-    },
-    {
-     "name": "Fidelity USlowVol US",
-     "symbol": "FCUL.U"
-    }
-   ]
-  },
-  {
-   "symbol": "FCMH",
-   "name": "Fidelity U.S. Momentum Currency Neutral ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCMH.TO",
-   "instruments": [
-    {
-     "name": "FidelityUS Momnt Cur",
-     "symbol": "FCMH"
-    }
-   ]
-  },
-  {
-   "symbol": "FCMO",
-   "name": "Fidelity U.S. Momentum ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCMO.TO",
-   "instruments": [
-    {
-     "name": "Fidelity US Moment L",
-     "symbol": "FCMO"
-    },
-    {
-     "name": "Fidelity US MomentUS",
-     "symbol": "FCMO.U"
     }
    ]
   },
@@ -35702,18 +35554,6 @@
    ]
   },
   {
-   "symbol": "MCU",
-   "name": "Mega Copper Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MCU.V",
-   "instruments": [
-    {
-     "name": "Mega Copper Ltd.",
-     "symbol": "MCU"
-    }
-   ]
-  },
-  {
    "symbol": "MKR",
    "name": "Melkior Resources Inc.",
    "exchange": "TSXV",
@@ -42978,6 +42818,18 @@
    ]
   },
   {
+   "symbol": "VVR",
+   "name": "Valleyview Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VVR.V",
+   "instruments": [
+    {
+     "name": "Valleyview Resources Ltd.",
+     "symbol": "VVR"
+    }
+   ]
+  },
+  {
    "symbol": "VO",
    "name": "Valore Metals Corp.",
    "exchange": "TSXV",
@@ -47320,6 +47172,18 @@
    "name": "BioCardia, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BCDAW"
+  },
+  {
+   "symbol": "BCG",
+   "name": "Binah Capital Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCG"
+  },
+  {
+   "symbol": "BCGWW",
+   "name": "Binah Capital Group, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCGWW"
   },
   {
    "symbol": "BCLI",
@@ -52460,7 +52324,7 @@
   {
    "symbol": "DXYN",
    "name": "The Dixie Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DXYN"
   },
   {
@@ -58926,12 +58790,6 @@
    "yahoo_symbol": "JNVR"
   },
   {
-   "symbol": "JOAN",
-   "name": "JOANN, Inc. - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JOAN"
-  },
-  {
    "symbol": "JOUT",
    "name": "Johnson Outdoors Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -59176,6 +59034,12 @@
    "name": "Kimball Electronics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "KE"
+  },
+  {
+   "symbol": "KEAT",
+   "name": "Keating Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEAT"
   },
   {
    "symbol": "KELYA",
@@ -84414,10 +84278,22 @@
    "yahoo_symbol": "LEG"
   },
   {
+   "symbol": "LEGT",
+   "name": "Legato Merger Corp. III Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT"
+  },
+  {
    "symbol": "LEGT.U",
    "name": "Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "LEGT.U"
+  },
+  {
+   "symbol": "LEGT.W",
+   "name": "Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT.W"
   },
   {
    "symbol": "LEJU",
@@ -84646,6 +84522,12 @@
    "name": "Lowe's Companies, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LOW"
+  },
+  {
+   "symbol": "LPA",
+   "name": "Logistic Properties of the Americas Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LPA"
   },
   {
    "symbol": "LPG",
@@ -85396,6 +85278,12 @@
    "name": "Milestone Scientific, Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "MLSS"
+  },
+  {
+   "symbol": "MMA",
+   "name": "Alta Global Group Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MMA"
   },
   {
    "symbol": "MMC",
@@ -87958,12 +87846,6 @@
    "name": "Pegasus Digital Mobility Acquisition Corp. Redeemable Warrants",
    "exchange": "NYSE",
    "yahoo_symbol": "PGSS.W"
-  },
-  {
-   "symbol": "PGTI",
-   "name": "PGT Innovations, Inc.",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PGTI"
   },
   {
    "symbol": "PGZ",
@@ -92028,12 +91910,6 @@
    "yahoo_symbol": "TWO$C"
   },
   {
-   "symbol": "TWOA",
-   "name": "two Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TWOA"
-  },
-  {
    "symbol": "TX",
    "name": "Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",
    "exchange": "NYSE",
@@ -93313,7 +93189,7 @@
   },
   {
    "symbol": "WNS",
-   "name": "WNS (Holdings) Limited Sponsored ADR (Jersey)",
+   "name": "WNS (Holdings) Limited Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "WNS"
   },
