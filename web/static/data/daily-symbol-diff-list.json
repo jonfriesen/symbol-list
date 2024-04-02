@@ -1,148 +1,120 @@
 {
  "added": [
   {
-   "symbol": "ALCE",
-   "name": "Alternus Clean Energy, Inc. - Class A Common Stock",
+   "symbol": "NXTT",
+   "name": "Next Technology Holding Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALCE"
+   "yahoo_symbol": "NXTT"
   },
   {
-   "symbol": "CWBC",
-   "name": "Community West Bancshares - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CWBC"
+   "symbol": "TRINZ",
+   "name": "Trinity Capital Inc. - 7.875% Notes due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRINZ"
   },
   {
-   "symbol": "DTCR",
-   "name": "Global X Data Center \u0026 Digital Infrastructure ETF",
+   "symbol": "ZPTA",
+   "name": "Zapata Computing Holdings Inc.  - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DTCR"
+   "yahoo_symbol": "ZPTA"
   },
   {
-   "symbol": "SOLV",
-   "name": "Solventum Corporation Common Stock",
+   "symbol": "ZPTAW",
+   "name": "Zapata Computing Holdings Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZPTAW"
+  },
+  {
+   "symbol": "GEV",
+   "name": "GE Vernova Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "SOLV"
-  },
-  {
-   "symbol": "HC",
-   "name": "Hypercharge Networks Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HC.V",
-   "instruments": [
-    {
-     "name": "Hypercharge Networks Corp.",
-     "symbol": "HC"
-    }
-   ]
-  },
-  {
-   "symbol": "COIN",
-   "name": "Tokens.com Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "COIN.V",
-   "instruments": [
-    {
-     "name": "Tokens.com Corp.",
-     "symbol": "COIN"
-    },
-    {
-     "name": "Tokens.com Corp. wt 15Nov2024",
-     "symbol": "COIN.WT"
-    }
-   ]
+   "yahoo_symbol": "GEV"
   }
  ],
  "removed": [
   {
-   "symbol": "PARAP",
-   "name": "Paramount Global - 5.75% Series A Mandatory Convertible Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PARAP"
-  },
-  {
-   "symbol": "CPE",
-   "name": "Callon Petroleum Company Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CPE"
-  },
-  {
-   "symbol": "GTH",
-   "name": "Genetron Holdings Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GTH"
-  },
-  {
-   "symbol": "MMM.V",
-   "name": "3M Company Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MMM.V"
-  },
-  {
-   "symbol": "VPN",
-   "name": "Global X Data Center REITs \u0026 Digital Infrastructure ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VPN"
-  },
-  {
-   "symbol": "WNNR.W",
-   "name": "Andretti Acquisition Corp. Redeemable public warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WNNR.W"
-  },
-  {
-   "symbol": "WNNR",
-   "name": "Andretti Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WNNR"
-  },
-  {
-   "symbol": "CVCY",
-   "name": "Central Valley Community Bancorp - Common Stock",
+   "symbol": "MCAFR",
+   "name": "Mountain Crest Acquisition Corp. IV - Rights",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CVCY"
+   "yahoo_symbol": "MCAFR"
   },
   {
-   "symbol": "ALCE",
-   "name": "Alternus Clean Energy, Inc. - Class A Common Stock",
+   "symbol": "WETG",
+   "name": "WeTrade Group Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WETG"
+  },
+  {
+   "symbol": "MIMO",
+   "name": "Airspan Networks Holdings Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MIMO"
+  },
+  {
+   "symbol": "MVLAW",
+   "name": "Movella Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MVLAW"
+  },
+  {
+   "symbol": "DSKE",
+   "name": "Daseke, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DSKE"
+  },
+  {
+   "symbol": "GEV.V",
+   "name": "GE Vernova Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GEV.V"
+  },
+  {
+   "symbol": "AMNB",
+   "name": "American National Bankshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMNB"
+  },
+  {
+   "symbol": "MBINP",
+   "name": "Merchants Bancorp - 7.00% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBINP"
+  },
+  {
+   "symbol": "MCAF",
+   "name": "Mountain Crest Acquisition Corp. IV - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAF"
+  },
+  {
+   "symbol": "GE.V",
+   "name": "General Electric Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GE.V"
+  },
+  {
+   "symbol": "CCLP",
+   "name": "CSI Compressco LP - common units",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CCLP"
+  },
+  {
+   "symbol": "MCAFU",
+   "name": "Mountain Crest Acquisition Corp. IV - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAFU"
+  },
+  {
+   "symbol": "MVLA",
+   "name": "Movella Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALCE"
+   "yahoo_symbol": "MVLA"
   },
   {
-   "symbol": "C$J",
-   "name": "Citigroup Inc. Dep Shs Repstg 1/1000 Pfd Ser J Fixed/Fltg",
-   "exchange": "NYSE",
-   "yahoo_symbol": "C$J"
-  },
-  {
-   "symbol": "GAME",
-   "name": "GameSquare Holdings Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GAME.V",
-   "instruments": [
-    {
-     "name": "GameSquare Holdings Inc.",
-     "symbol": "GAME"
-    }
-   ]
-  },
-  {
-   "symbol": "WNNR.U",
-   "name": "Andretti Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable public warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WNNR.U"
-  },
-  {
-   "symbol": "CWBC",
-   "name": "Community West Bancshares - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CWBC"
-  },
-  {
-   "symbol": "SOLV.V",
-   "name": "Solventum Corporation Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SOLV.V"
+   "symbol": "CSTR",
+   "name": "CapStar Financial Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSTR"
   }
  ]
 }
