@@ -1,5 +1,5 @@
 {
- "date": "2024-04-02",
+ "date": "2024-04-03",
  "data": [
   {
    "symbol": "ONE",
@@ -31236,7 +31236,7 @@
    "yahoo_symbol": "HUM.TO",
    "instruments": [
     {
-     "name": "Hamilton USMidSmFinE",
+     "name": "Hamilton USMidFinEtf",
      "symbol": "HUM"
     }
    ]
@@ -31654,18 +31654,6 @@
     {
      "name": "Heroux-Devtek Inc.",
      "symbol": "HRX"
-    }
-   ]
-  },
-  {
-   "symbol": "HEXO.WT.A",
-   "name": "HEXO Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEXO.WT.A.TO",
-   "instruments": [
-    {
-     "name": "HEXO Corp. A Wt ",
-     "symbol": "HEXO.WT.A"
     }
    ]
   },
@@ -45824,24 +45812,6 @@
    "yahoo_symbol": "APA"
   },
   {
-   "symbol": "APAC",
-   "name": "StoneBridge Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APAC"
-  },
-  {
-   "symbol": "APACU",
-   "name": "StoneBridge Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APACU"
-  },
-  {
-   "symbol": "APACW",
-   "name": "StoneBridge Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APACW"
-  },
-  {
    "symbol": "APCX",
    "name": "AppTech Payments Corp. - Common stock",
    "exchange": "NASDAQ Capital Market",
@@ -52610,6 +52580,12 @@
    "yahoo_symbol": "EH"
   },
   {
+   "symbol": "EHLS",
+   "name": "Even Herd Long Short ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EHLS"
+  },
+  {
    "symbol": "EHTH",
    "name": "eHealth, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53418,6 +53394,18 @@
    "name": "First Trust Alternative Absolute Return Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FAAR"
+  },
+  {
+   "symbol": "FAAS",
+   "name": "DigiAsia Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAAS"
+  },
+  {
+   "symbol": "FAASW",
+   "name": "DigiAsia Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAASW"
   },
   {
    "symbol": "FAB",
@@ -60548,6 +60536,12 @@
    "yahoo_symbol": "MAMA"
   },
   {
+   "symbol": "MAMO",
+   "name": "Massimo Group - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAMO"
+  },
+  {
    "symbol": "MANH",
    "name": "Manhattan Associates, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63690,12 +63684,6 @@
    "name": "OneMedNet Corp - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ONMDW"
-  },
-  {
-   "symbol": "ONTX",
-   "name": "Onconova Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ONTX"
   },
   {
    "symbol": "ONVO",
@@ -70364,6 +70352,12 @@
    "yahoo_symbol": "TQQQ"
   },
   {
+   "symbol": "TRAW",
+   "name": "Traws Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRAW"
+  },
+  {
    "symbol": "TRDA",
    "name": "Entrada Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -73260,6 +73254,12 @@
    "name": "Zapp Electric Vehicles Group Limited - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZAPPW"
+  },
+  {
+   "symbol": "ZBAO",
+   "name": "Zhibao Technology Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZBAO"
   },
   {
    "symbol": "ZBRA",

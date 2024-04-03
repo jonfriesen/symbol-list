@@ -1,120 +1,78 @@
 {
  "added": [
   {
-   "symbol": "NXTT",
-   "name": "Next Technology Holding Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NXTT"
-  },
-  {
-   "symbol": "TRINZ",
-   "name": "Trinity Capital Inc. - 7.875% Notes due 2029",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TRINZ"
-  },
-  {
-   "symbol": "ZPTA",
-   "name": "Zapata Computing Holdings Inc.  - Common Stock",
+   "symbol": "EHLS",
+   "name": "Even Herd Long Short ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZPTA"
+   "yahoo_symbol": "EHLS"
   },
   {
-   "symbol": "ZPTAW",
-   "name": "Zapata Computing Holdings Inc.  - Warrant",
+   "symbol": "FAAS",
+   "name": "DigiAsia Corp. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZPTAW"
+   "yahoo_symbol": "FAAS"
   },
   {
-   "symbol": "GEV",
-   "name": "GE Vernova Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GEV"
+   "symbol": "FAASW",
+   "name": "DigiAsia Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAASW"
+  },
+  {
+   "symbol": "MAMO",
+   "name": "Massimo Group - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAMO"
+  },
+  {
+   "symbol": "TRAW",
+   "name": "Traws Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRAW"
+  },
+  {
+   "symbol": "ZBAO",
+   "name": "Zhibao Technology Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZBAO"
   }
  ],
  "removed": [
   {
-   "symbol": "MCAFR",
-   "name": "Mountain Crest Acquisition Corp. IV - Rights",
+   "symbol": "APACU",
+   "name": "StoneBridge Acquisition Corporation - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCAFR"
+   "yahoo_symbol": "APACU"
   },
   {
-   "symbol": "WETG",
-   "name": "WeTrade Group Inc. - Ordinary Shares",
+   "symbol": "HEXO.WT.A",
+   "name": "HEXO Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEXO.WT.A.TO",
+   "instruments": [
+    {
+     "name": "HEXO Corp. A Wt ",
+     "symbol": "HEXO.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "APACW",
+   "name": "StoneBridge Acquisition Corporation - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WETG"
+   "yahoo_symbol": "APACW"
   },
   {
-   "symbol": "MIMO",
-   "name": "Airspan Networks Holdings Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MIMO"
-  },
-  {
-   "symbol": "MVLAW",
-   "name": "Movella Holdings Inc. - Warrant",
+   "symbol": "APAC",
+   "name": "StoneBridge Acquisition Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MVLAW"
+   "yahoo_symbol": "APAC"
   },
   {
-   "symbol": "DSKE",
-   "name": "Daseke, Inc. - Common Stock",
+   "symbol": "ONTX",
+   "name": "Onconova Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DSKE"
-  },
-  {
-   "symbol": "GEV.V",
-   "name": "GE Vernova Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GEV.V"
-  },
-  {
-   "symbol": "AMNB",
-   "name": "American National Bankshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AMNB"
-  },
-  {
-   "symbol": "MBINP",
-   "name": "Merchants Bancorp - 7.00% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBINP"
-  },
-  {
-   "symbol": "MCAF",
-   "name": "Mountain Crest Acquisition Corp. IV - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCAF"
-  },
-  {
-   "symbol": "GE.V",
-   "name": "General Electric Company Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GE.V"
-  },
-  {
-   "symbol": "CCLP",
-   "name": "CSI Compressco LP - common units",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CCLP"
-  },
-  {
-   "symbol": "MCAFU",
-   "name": "Mountain Crest Acquisition Corp. IV - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCAFU"
-  },
-  {
-   "symbol": "MVLA",
-   "name": "Movella Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MVLA"
-  },
-  {
-   "symbol": "CSTR",
-   "name": "CapStar Financial Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CSTR"
+   "yahoo_symbol": "ONTX"
   }
  ]
 }

@@ -2435,7 +2435,7 @@ HTL,Hamilton Thorne Ltd.,TSX,HTL.TO,Hamilton Thorne Ltd.,HTL
 HBND,Hamilton U.S. Bond Yield Maximizer ETF,TSX,HBND.TO,Hamilton US BndYldMx,HBND
 SMAX,Hamilton U.S. Equity Yield Maximizer ETF,TSX,SMAX.TO,Hamilton US EqYldMax,SMAX
 FMAX,Hamilton U.S. Financials Yield Maximizer ETF,TSX,FMAX.TO,Ham US F Yld Max Etf,FMAX
-HUM,Hamilton U.S. Mid-Cap Financials ETF,TSX,HUM.TO,Hamilton USMidSmFinE,HUM
+HUM,Hamilton U.S. Mid-Cap Financials ETF,TSX,HUM.TO,Hamilton USMidFinEtf,HUM
 UMAX,Hamilton Utilities Yield Maximizer ETF,TSX,UMAX.TO,Hamilton UtilYldMx E,UMAX
 HMM.A,Hammond Manufacturing Company Limited,TSX,HMM.A.TO,Hammond Mfg Cl A SV,HMM.A
 HPS.A,Hammond Power Solutions Inc.,TSX,HPS.A.TO,Hammond Power A SV,HPS.A
@@ -2467,7 +2467,6 @@ AIDX,HealWELL AI Inc.,TSX,AIDX.TO,HealWELL AI J SV A,AIDX
 HFPC.U,Helios Fairfax Partners Corporation,TSX,HFPC.U.TO,Helios Fairfax SV US,HFPC.U
 HBP,Helix BioPharma Corp.,TSX,HBP.TO,Helix BioPharma,HBP
 HRX,Heroux-Devtek Inc.,TSX,HRX.TO,Heroux-Devtek Inc.,HRX
-HEXO.WT.A,HEXO Corp.,TSX,HEXO.WT.A.TO,HEXO Corp. A Wt ,HEXO.WT.A
 HWO,High Arctic Energy Services Inc.,TSX,HWO.TO,High Arctic Engy Inc,HWO
 HLF,High Liner Foods Incorporated,TSX,HLF.TO,High Liner Foods Inc,HLF
 HLS,HLS Therapeutics Inc.,TSX,HLS.TO,HLS Therapeutics J,HLS
@@ -3693,9 +3692,6 @@ AOSL,Alpha and Omega Semiconductor Limited - Common Shares,NASDAQ Global Select 
 AOTG,AOT Growth and Innovation ETF,NASDAQ Global MarketSM,AOTG
 AOUT,"American Outdoor Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,AOUT
 APA,APA Corporation - Common Stock,NASDAQ Global Select MarketSM,APA
-APAC,StoneBridge Acquisition Corporation - Class A Ordinary Shares,NASDAQ Capital Market,APAC
-APACU,StoneBridge Acquisition Corporation - Unit,NASDAQ Capital Market,APACU
-APACW,StoneBridge Acquisition Corporation - Warrant,NASDAQ Capital Market,APACW
 APCX,AppTech Payments Corp. - Common stock,NASDAQ Capital Market,APCX
 APCXW,AppTech Payments Corp. - Warrant,NASDAQ Capital Market,APCXW
 APDN,"Applied DNA Sciences, Inc. - Common Stock",NASDAQ Capital Market,APDN
@@ -4824,6 +4820,7 @@ EGIO,"Edgio, Inc. - Common Stock",NASDAQ Capital Market,EGIO
 EGOX,Next.e.GO N.V. - Ordinary Shares,NASDAQ Global MarketSM,EGOX
 EGRX,"Eagle Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,EGRX
 EH,EHang Holdings Limited - ADS,NASDAQ Global MarketSM,EH
+EHLS,Even Herd Long Short ETF,NASDAQ Global MarketSM,EHLS
 EHTH,"eHealth, Inc. - Common Stock",NASDAQ Global Select MarketSM,EHTH
 EIGR,"Eiger BioPharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,EIGR
 EJH,E-Home Household Service Holdings Limited - Ordinary shares,NASDAQ Capital Market,EJH
@@ -4959,6 +4956,8 @@ EZGO,EZGO Technologies Ltd. - Ordinary Shares,NASDAQ Capital Market,EZGO
 EZPW,"EZCORP, Inc. - Class A Non-Voting Common Stock",NASDAQ Global Select MarketSM,EZPW
 FA,First Advantage Corporation - Common Stock,NASDAQ Global Select MarketSM,FA
 FAAR,First Trust Alternative Absolute Return Strategy ETF,NASDAQ Global MarketSM,FAAR
+FAAS,DigiAsia Corp. - Ordinary Shares,NASDAQ Capital Market,FAAS
+FAASW,DigiAsia Corp. - Warrant,NASDAQ Capital Market,FAASW
 FAB,First Trust Multi Cap Value AlphaDEX Fund,NASDAQ Global MarketSM,FAB
 FAD,First Trust Multi Cap Growth AlphaDEX Fund,NASDAQ Global MarketSM,FAD
 FALN,iShares Fallen Angels USD Bond ETF,NASDAQ Global MarketSM,FALN
@@ -6147,6 +6146,7 @@ MAGQ,Roundhill Daily Inverse Magnificent Seven ETF,NASDAQ Global MarketSM,MAGQ
 MAGS,Roundhill Magnificent Seven ETF,NASDAQ Global MarketSM,MAGS
 MAGX,Roundhill Daily 2X Long Magnificent Seven ETF,NASDAQ Global MarketSM,MAGX
 MAMA,"Mama's Creations, Inc. - Common Stock",NASDAQ Capital Market,MAMA
+MAMO,Massimo Group - Common Stock,NASDAQ Capital Market,MAMO
 MANH,"Manhattan Associates, Inc. - Common Stock",NASDAQ Global Select MarketSM,MANH
 MAPS,"WM Technology, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,MAPS
 MAPSW,"WM Technology, Inc. - Warrants",NASDAQ Global Select MarketSM,MAPSW
@@ -6671,7 +6671,6 @@ ONFO,Onfolio Holdings Inc. - Common Stock,NASDAQ Capital Market,ONFO
 ONFOW,Onfolio Holdings Inc. - Warrant,NASDAQ Capital Market,ONFOW
 ONMD,OneMedNet Corp - Class A Common Stock,NASDAQ Global MarketSM,ONMD
 ONMDW,OneMedNet Corp - Warrant,NASDAQ Capital Market,ONMDW
-ONTX,"Onconova Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,ONTX
 ONVO,"Organovo Holdings, Inc. - Common Stock",NASDAQ Capital Market,ONVO
 ONYX,Onyx Acquisition Co. I - Class A Ordinary Shares,NASDAQ Global MarketSM,ONYX
 ONYXU,Onyx Acquisition Co. I - Unit,NASDAQ Global MarketSM,ONYXU
@@ -7783,6 +7782,7 @@ TPGXL,TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064,NASDAQ Glo
 TPIC,"TPI Composites, Inc. - Common Stock",NASDAQ Global MarketSM,TPIC
 TPST,"Tempest Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,TPST
 TQQQ,ProShares UltraPro QQQ,NASDAQ Global MarketSM,TQQQ
+TRAW,"Traws Pharma, Inc. - Common Stock",NASDAQ Capital Market,TRAW
 TRDA,"Entrada Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TRDA
 TREE,"LendingTree, Inc. - Common Stock",NASDAQ Global Select MarketSM,TREE
 TRES,Defiance Treasury Alternative Yield ETF,NASDAQ Global MarketSM,TRES
@@ -8266,6 +8266,7 @@ YY,JOYY Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,YY
 Z,"Zillow Group, Inc. - Class C Capital Stock",NASDAQ Global Select MarketSM,Z
 ZAPP,Zapp Electric Vehicles Group Limited - Ordinary shares,NASDAQ Global MarketSM,ZAPP
 ZAPPW,Zapp Electric Vehicles Group Limited - Warrant,NASDAQ Capital Market,ZAPPW
+ZBAO,Zhibao Technology Inc. - Class A Ordinary Shares,NASDAQ Capital Market,ZBAO
 ZBRA,Zebra Technologies Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,ZBRA
 ZCAR,"Zoomcar Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,ZCAR
 ZCARW,"Zoomcar Holdings, Inc. - Warrants",NASDAQ Capital Market,ZCARW
