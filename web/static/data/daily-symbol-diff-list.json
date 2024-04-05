@@ -1,96 +1,90 @@
 {
  "added": [
   {
-   "symbol": "DPCS",
-   "name": "DP Cap Acquisition Corp I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DPCS"
+   "symbol": "NIVF",
+   "name": "NewGenIvf Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIVF"
   },
   {
-   "symbol": "DPCSU",
-   "name": "DP Cap Acquisition Corp I - Unit",
+   "symbol": "NIVFW",
+   "name": "NewGenIvf Group Limited - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DPCSU"
+   "yahoo_symbol": "NIVFW"
   },
   {
-   "symbol": "DPCSW",
-   "name": "DP Cap Acquisition Corp I - Warrants",
+   "symbol": "YJ",
+   "name": "Yunji Inc. - American Depository Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DPCSW"
+   "yahoo_symbol": "YJ"
   }
  ],
  "removed": [
   {
-   "symbol": "ASCAR",
-   "name": "A SPAC I Acquisition Corp. - Right",
+   "symbol": "KYCH",
+   "name": "Keyarch Acquisition Corporation - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASCAR"
+   "yahoo_symbol": "KYCH"
   },
   {
-   "symbol": "MBTC",
-   "name": "Nocturne Acquisition Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBTC"
-  },
-  {
-   "symbol": "MBTCU",
-   "name": "Nocturne Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBTCU"
-  },
-  {
-   "symbol": "MTBL",
-   "name": "Moatable, Inc. American Depositary Share (each representing forty-five (45) Class A Ordinary Shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTBL"
-  },
-  {
-   "symbol": "ASCAW",
-   "name": "A SPAC I Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASCAW"
-  },
-  {
-   "symbol": "DPCSU",
-   "name": "DP Cap Acquisition Corp I - Unit",
+   "symbol": "YJ",
+   "name": "Yunji Inc. - American Depository Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DPCSU"
+   "yahoo_symbol": "YJ"
   },
   {
-   "symbol": "KNTE",
-   "name": "Kinnate Biopharma Inc. - Common Stock",
+   "symbol": "KYCHW",
+   "name": "Keyarch Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHW"
+  },
+  {
+   "symbol": "KYCHU",
+   "name": "Keyarch Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHU"
+  },
+  {
+   "symbol": "VIEW",
+   "name": "View, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VIEW"
+  },
+  {
+   "symbol": "VIEWW",
+   "name": "View, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VIEWW"
+  },
+  {
+   "symbol": "AAU",
+   "name": "Almaden Minerals, Ltd. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AAU"
+  },
+  {
+   "symbol": "KYCHR",
+   "name": "Keyarch Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHR"
+  },
+  {
+   "symbol": "CASA",
+   "name": "Casa Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KNTE"
+   "yahoo_symbol": "CASA"
   },
   {
-   "symbol": "DPCSW",
-   "name": "DP Cap Acquisition Corp I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DPCSW"
-  },
-  {
-   "symbol": "MBTCR",
-   "name": "Nocturne Acquisition Corporation - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBTCR"
-  },
-  {
-   "symbol": "ASCA",
-   "name": "A SPAC I Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASCA"
-  },
-  {
-   "symbol": "DPCS",
-   "name": "DP Cap Acquisition Corp I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DPCS"
-  },
-  {
-   "symbol": "ASCAU",
-   "name": "A SPAC I Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASCAU"
+   "symbol": "MVP",
+   "name": "MediaValet Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MVP.TO",
+   "instruments": [
+    {
+     "name": "MediaValet Inc. J",
+     "symbol": "MVP"
+    }
+   ]
   }
  ]
 }
