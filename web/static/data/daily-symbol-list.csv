@@ -1066,6 +1066,7 @@ OPEN.P,OpenSesame Acquisition Corp.,TSXV,OPEN.P.V,OpenSesame Acquisition Corp.,O
 OPHR,Ophir Gold Corp.,TSXV,OPHR.V,Ophir Gold Corp.,OPHR
 OPTG,Optegra Ventures Inc.,TSXV,OPTG.V,Optegra Ventures Inc.,OPTG
 OOR,Opus One Gold Corporation,TSXV,OOR.V,Opus One Gold Corporation,OOR
+ORCL,Oracle Commodity Holding Corp.,TSXV,ORCL.V,Oracle Commodity Holding Corp.,ORCL
 ORC.A,Orca Energy Group Inc.,TSXV,ORC.A.V,Orca Energy Group Inc. ser A,ORC.A,Orca Energy Group Inc. ser B,ORC.B
 OCI,Orecap Invest Corp.,TSXV,OCI.V,Orecap Invest Corp.,OCI
 ORS,Orestone Mining Corp.,TSXV,ORS.V,Orestone Mining Corp.,ORS
@@ -2012,15 +2013,13 @@ CBAL,CI Balanced Asset Allocation ETF,TSX,CBAL.TO,CI Bal Asset ETF Un,CBAL
 CBGR,CI Balanced Growth Asset Allocation ETF,TSX,CBGR.TO,CI Bal GrowAsst Aloc,CBGR
 CBIN,CI Balanced Income Asset Allocation ETF,TSX,CBIN.TO,CI Bal IncmAst Alloc,CBIN
 CDNA,CI Bio-Revolution Index ETF,TSX,CDNA.TO,CI Bio-Revolution Un,CDNA
-CAGG,CI Canadian Aggregate Bond Index ETF,TSX,CAGG.TO,CI YldEnhc CA Bnd NH,CAGG
+CAGG,CI Canadian Aggregate Bond Index ETF,TSX,CAGG.TO,CI CA Ag Bnd Idx Etf,CAGG
 CIC,CI Canadian Banks Covered Call Income Class ETF,TSX,CIC.TO,CI CdnBks CovCalIncm,CIC
 CXF,CI Canadian Convertible Bond ETF,TSX,CXF.TO,CI Cdn Conv Bond Un,CXF
 RIT,CI Canadian REIT ETF,TSX,RIT.TO,CI Canadian REIT Un,RIT
-CAGS,CI Canadian Short-Term Aggregate Bond Index ETF,TSX,CAGS.TO,CI YldEnhCA ST BndNH,CAGS
+CAGS,CI Canadian Short-Term Aggregate Bond Index ETF,TSX,CAGS.TO,CI CA STerm Bnd NonH,CAGS
 CCNV,CI Conservative Asset Allocation ETF,TSX,CCNV.TO,CI Conserv AsstAlloc,CCNV
 CBUG,CI Digital Security Index ETF,TSX,CBUG.TO,CI Digital Sec Un,CBUG
-CCOR,CI DoubleLine Core Plus Fixed Income US$ Fund,TSX,CCOR.TO,CI DbleLnFixUS$HegC$,CCOR,CI DbleLnFixUS$UnhC$,CCOR.B,CI DbleLnFixUS$UnUSF,CCOR.U
-CINC,CI DoubleLine Income US$ Fund,TSX,CINC.TO,CI DbleLnUS$IncmC$Hg,CINC,CI DbleLnUS$IncmC$Uh,CINC.B,CI DbleLnUS$Incm USF,CINC.U
 CDLB,CI DoubleLine Total Return Bond US$ Fund,TSX,CDLB.TO,CI DbleLnTotUS$BndC$,CDLB,CI DbleLnUS$BondC$Uh,CDLB.B,CI DbleLnTotUS$BndUS,CDLB.U
 CIEM,CI Emerging Markets Alpha ETF,TSX,CIEM.TO,CI EmergMktAlphCA UH,CIEM,CI EmergMktAlphUS HG,CIEM.U
 NXF,CI Energy Giants Covered Call ETF,TSX,NXF.TO,CI EnergyGiantCovHeg,NXF,CI EngyGiant UnhegUn,NXF.B,CI EngyGiantCovHG US,NXF.U
@@ -2062,9 +2061,6 @@ FXM,CI Morningstar Canada Value Index ETF,TSX,FXM.TO,CI Mornstr CA Val Un,FXM
 ZXM,CI Morningstar International Momentum Index ETF,TSX,ZXM.TO,CI MornstrIntlMomnHG,ZXM,CI MornstIntlMomUnhg,ZXM.B
 VXM,CI Morningstar International Value Index ETF,TSX,VXM.TO,CI Mornstr IntlValHG,VXM,CI Morn IntlVal Unhg,VXM.B
 QXM,CI Morningstar National Bank Québec Index ETF,TSX,QXM.TO,CI Mornstar NatBk QC,QXM
-YXM,CI Morningstar US Momentum Index ETF,TSX,YXM.TO,CI Morn US Moment HG,YXM,CI Morn US MomntUnhg,YXM.B
-XXM,CI Morningstar US Value Index ETF,TSX,XXM.TO,CI Mornstr US Val HG,XXM,CI Mornstr USValUnhg,XXM.B
-FQC,CI MSCI Canada Quality Index Class ETF,TSX,FQC.TO,CI MSCI CAQualCl ETF,FQC
 CMAG,CI Munro Alternative Global Growth Fund,TSX,CMAG.TO,CI MunroAltGlbGrowC$,CMAG,CI MunroAlGlbGroUSHg,CMAG.U
 CMGG,CI Munro Global Growth Equity Fund,TSX,CMGG.TO,CI Munro GrowthEq C$,CMGG,CI MunroGrwthEqUS Hg,CMGG.U
 ONEQ,CI ONE Global Equity ETF,TSX,ONEQ.TO,CI One GlblEq ETF Un,ONEQ
@@ -2077,17 +2073,13 @@ CMOM,CI U.S. Enhanced Momentum Index ETF,TSX,CMOM.TO,CI US EnhncMomntm Hg,CMOM,C
 CVLU,CI U.S. Enhanced Value Index ETF,TSX,CVLU.TO,CI US Enhanc Val Heg,CVLU,CI US EnhancVal UnHg,CVLU.B
 CUDV,CI U.S. Minimum Downside Volatility Index ETF,TSX,CUDV.TO,CI US MinDwnsVoltyHG,CUDV,CI US MinDwnsVoltyUH,CUDV.B
 UMNY.U,CI U.S. Money Market ETF,TSX,UMNY.U.TO,CI US Money Mkt US,UMNY.U
-SID,CI U.S. Trendleaders Index ETF,TSX,SID.TO,CI US TrendLeadrs HG,SID
 CUTL,CI Utilities Giants Covered Call ETF,TSX,CUTL.TO,CI Util GianCall Heg,CUTL,CI Util GianCal Unhg,CUTL.B
 DGRC,CI WisdomTree Canada Quality Dividend Growth Index ETF,TSX,DGRC.TO,CI WisdomCA QualDvNH,DGRC
 EMV.B,CI WisdomTree Emerging Markets Dividend Index ETF,TSX,EMV.B.TO,CI Wisdom3EmrgMktDiv,EMV.B
 EHE,CI WisdomTree Europe Hedged Equity Index ETF,TSX,EHE.TO,CI WisdomTreeEU EqHG,EHE,CI WisdomTrEU EqN-Hg,EHE.B
 IQD,CI WisdomTree International Quality Dividend Growth Index ETF,TSX,IQD.TO,CI WisdomTrIntlDivHG,IQD,CI Wisdom3IntlDvNn-H,IQD.B
-DQI,CI WisdomTree International Quality Dividend Growth Variably Hedged Index ETF,TSX,DQI.TO,CIWisdom3IntlDvVarHg,DQI
 JAPN,CI WisdomTree Japan Equity Index ETF,TSX,JAPN.TO,CI WisdomTr JpnEqHeg,JAPN,CI WisdomTrJpnEqNnHg,JAPN.B
 UMI,CI WisdomTree U.S. MidCap Dividend Index ETF,TSX,UMI.TO,CI WisdomTrUS MdDvHg,UMI,CI Wisdom3USMDivNnHg,UMI.B
-DGR,CI WisdomTree U.S. Quality Dividend Growth Index ETF,TSX,DGR.TO,CI WisdomTrUSDivGrHG,DGR,CI WisdomTrUSDivN-HG,DGR.B
-DQD,CI WisdomTree U.S. Quality Dividend Growth Variably Hedged Index ETF,TSX,DQD.TO,CI Wisdom3USDvVaryHg,DQD
 CACB,CIBC Active Investment Grade Corporate Bond ETF,TSX,CACB.TO,CIBC ActvInvCorpBond,CACB
 CAFR,CIBC Active Investment Grade Floating Rate Bond ETF,TSX,CAFR.TO,CIBC ActvInvFltgBond,CAFR
 CCBI,CIBC Canadian Bond Index ETF,TSX,CCBI.TO,CIBC Cdn Bond ETF Un,CCBI
@@ -2352,6 +2344,7 @@ FLCI,Franklin Bissett Corporate Bond Fund,TSX,FLCI.TO,Franklin BissCorpBnd,FLCI
 FLSD,Franklin Bissett Short Duration Bond Fund,TSX,FLSD.TO,FranklnBis SH DurBnd,FLSD
 FHIS,Franklin Bissett Ultra Short Bond Fund,TSX,FHIS.TO,FranklinBis UltShBnd,FHIS
 FBGO,Franklin Brandywine Global Sustainable Income Optimiser Fund,TSX,FBGO.TO,Frankln BrandyIncmOp,FBGO
+FGOV,Franklin Canadian Government Bond Fund,TSX,FGOV.TO,Franklin Cdn Gov Bnd,FGOV
 FCII,Franklin ClearBridge Sustainable Global Infrastructure Income Fund,TSX,FCII.TO,Frankln ClrBrdgInfr,FCII
 FCSI,Franklin ClearBridge Sustainable International Growth Fund,TSX,FCSI.TO,Frankln ClrBrdgGrwth,FCSI
 FLGA,Franklin Global Core Bond Fund,TSX,FLGA.TO,Franklin GlbCorBndUn,FLGA
@@ -3571,7 +3564,7 @@ AIRJW,Montana Technologies Corp - Warrant,NASDAQ Capital Market,AIRJW
 AIRL,Themes Airlines ETF,NASDAQ Global MarketSM,AIRL
 AIRR,First Trust RBA American Industrial Renaissance ETF,NASDAQ Global MarketSM,AIRR
 AIRS,"AirSculpt Technologies, Inc. - Common Stock",NASDAQ Global MarketSM,AIRS
-AIRT,"Air T, Inc. - Common Stock",NASDAQ Global MarketSM,AIRT
+AIRT,"Air T, Inc. - Common Stock",NASDAQ Capital Market,AIRT
 AIRTP,"Air T, Inc. - Trust Preferred Securities",NASDAQ Global MarketSM,AIRTP
 AISP,"Airship AI Holdings, Inc - Class A Common Stock",NASDAQ Global MarketSM,AISP
 AISPW,"Airship AI Holdings, Inc - Warrants",NASDAQ Capital Market,AISPW
@@ -4576,6 +4569,7 @@ CTHR,Charles & Colvard Ltd. - Common Stock,NASDAQ Capital Market,CTHR
 CTKB,"Cytek Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,CTKB
 CTLP,"Cantaloupe, Inc. - Common Stock",NASDAQ Global Select MarketSM,CTLP
 CTMX,"CytomX Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,CTMX
+CTNM,"Contineum Therapeutics, Inc. - Common stock",NASDAQ Global Select MarketSM,CTNM
 CTNT,Cheetah Net Supply Chain Service Inc. - Class A Common Stock,NASDAQ Capital Market,CTNT
 CTRM,Castor Maritime Inc. - Common Shares,NASDAQ Capital Market,CTRM
 CTRN,"Citi Trends, Inc. - Common Stock",NASDAQ Global Select MarketSM,CTRN
@@ -4868,6 +4862,7 @@ EOSE,"Eos Energy Enterprises, Inc. - Common Stock",NASDAQ Capital Market,EOSE
 EOSEW,"Eos Energy Enterprises, Inc. - Warrant",NASDAQ Capital Market,EOSEW
 EPIX,ESSA Pharma Inc. - Common Stock,NASDAQ Capital Market,EPIX
 EPOW,"Sunrise New Energy Co., Ltd - Class A Ordinary Shares",NASDAQ Capital Market,EPOW
+EPRX,Eupraxia Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,EPRX
 EPSN,Epsilon Energy Ltd. - Common Shares,NASDAQ Global MarketSM,EPSN
 EQ,"Equillium, Inc. - Common Stock",NASDAQ Capital Market,EQ
 EQIX,"Equinix, Inc. - Common Stock",NASDAQ Global Select MarketSM,EQIX
@@ -5315,7 +5310,6 @@ GLTO,"Galecto, Inc. - Common Stock",NASDAQ Capital Market,GLTO
 GLUE,"Monte Rosa Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,GLUE
 GLYC,"GlycoMimetics, Inc. - Common Stock",NASDAQ Global MarketSM,GLYC
 GMAB,Genmab A/S - American Depositary Shares,NASDAQ Global Select MarketSM,GMAB
-GMDA,Gamida Cell Ltd. - Ordinary Shares,NASDAQ Global MarketSM,GMDA
 GMFI,Aetherium Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,GMFI
 GMFIU,Aetherium Acquisition Corp. - Unit,NASDAQ Global MarketSM,GMFIU
 GMFIW,Aetherium Acquisition Corp. - Warrant,NASDAQ Global MarketSM,GMFIW
@@ -6436,7 +6430,6 @@ NFBK,"Northfield Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,NFB
 NFE,New Fortress Energy Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,NFE
 NFLX,"Netflix, Inc. - Common Stock",NASDAQ Global Select MarketSM,NFLX
 NFTY,First Trust India Nifty 50 Equal Weight ETF,NASDAQ Global MarketSM,NFTY
-NGM,"NGM Biopharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,NGM
 NGMS,NeoGames S.A. - Ordinary Shares,NASDAQ Global MarketSM,NGMS
 NGNE,Neurogene Inc. - Common Stock,NASDAQ Global MarketSM,NGNE
 NHTC,Natural Health Trends Corp. - Commn Stock,NASDAQ Capital Market,NHTC
@@ -6770,6 +6763,8 @@ PDFS,"PDF Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,PDFS
 PDLB,"Ponce Financial Group, Inc. - Common Stock",NASDAQ Global MarketSM,PDLB
 PDP,Invesco Dorsey Wright Momentum ETF,NASDAQ Global MarketSM,PDP
 PDSB,PDS Biotechnology Corporation - Common Stock,NASDAQ Capital Market,PDSB
+PDYN,Palladyne AI Corp. - Common stock,NASDAQ Global MarketSM,PDYN
+PDYNW,Palladyne AI Corp. - Warrant,NASDAQ Global MarketSM,PDYNW
 PEBK,"Peoples Bancorp of North Carolina, Inc. - Common Stock",NASDAQ Global MarketSM,PEBK
 PEBO,Peoples Bancorp Inc. - Common Stock,NASDAQ Global Select MarketSM,PEBO
 PECO,"Phillips Edison & Company, Inc. - Common Stock",NASDAQ Global Select MarketSM,PECO
@@ -7572,8 +7567,6 @@ STLD,"Steel Dynamics, Inc. - Common Stock",NASDAQ Global Select MarketSM,STLD
 STNE,StoneCo Ltd. - Class A Common Share,NASDAQ Global Select MarketSM,STNE
 STOK,"Stoke Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,STOK
 STRA,"Strategic Education, Inc. - Common Stock",NASDAQ Global Select MarketSM,STRA
-STRC,Palladyne AI Corp. - Common stock,NASDAQ Global MarketSM,STRC
-STRCW,Palladyne AI Corp. - Warrant,NASDAQ Global MarketSM,STRCW
 STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ Global Select MarketSM,STRL
 STRM,"Streamline Health Solutions, Inc. - Common Stock",NASDAQ Capital Market,STRM
 STRO,"Sutro Biopharma, Inc. - Common Stock",NASDAQ Global MarketSM,STRO
@@ -7968,7 +7961,6 @@ VEEE,Twin Vee PowerCats Co. - Common Stock,NASDAQ Capital Market,VEEE
 VEON,VEON Ltd. - American Depositary Shares,NASDAQ Capital Market,VEON
 VERA,"Vera Therapeutics, Inc. - Class A Common Stock",NASDAQ Global MarketSM,VERA
 VERB,"Verb Technology Company, Inc. - Common Stock",NASDAQ Capital Market,VERB
-VERBW,"Verb Technology Company, Inc. - Warrant",NASDAQ Capital Market,VERBW
 VERI,"Veritone, Inc. - Common Stock",NASDAQ Global MarketSM,VERI
 VERO,Venus Concept Inc.  - Common Stock,NASDAQ Capital Market,VERO
 VERU,Veru Inc. - Common Stock,NASDAQ Capital Market,VERU
@@ -8279,6 +8271,8 @@ ZLSWU,Zalatoris II Acquisition Corp - Unit,NASDAQ Capital Market,ZLSWU
 ZLSWW,Zalatoris II Acquisition Corp - Warrant,NASDAQ Capital Market,ZLSWW
 ZM,"Zoom Video Communications, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ZM
 ZNTL,"Zentalis Pharmaceuticals, Inc. - common stock",NASDAQ Global MarketSM,ZNTL
+ZOOZ,ZOOZ Power Ltd. - Ordinary Shares,NASDAQ Capital Market,ZOOZ
+ZOOZW,ZOOZ Power Ltd. - Warrant,NASDAQ Capital Market,ZOOZW
 ZPTA,Zapata Computing Holdings Inc.  - Common Stock,NASDAQ Global MarketSM,ZPTA
 ZPTAW,Zapata Computing Holdings Inc.  - Warrant,NASDAQ Capital Market,ZPTAW
 ZS,"Zscaler, Inc. - Common Stock",NASDAQ Global Select MarketSM,ZS
@@ -9577,9 +9571,6 @@ GAB$H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H",NYSE,GAB$H
 GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock",NYSE,GAB$K
 GAM,"General American Investors, Inc. Common Stock",NYSE,GAM
 GAM$B,"General American Investors Company, Inc. Cumulative Preferred Stock",NYSE,GAM$B
-GAQ,Generation Asia I Acquisition Limited Class A Ordinary Shares,NYSE,GAQ
-GAQ.U,"Generation Asia I Acquisition Limited Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,GAQ.U
-GAQ.W,"Generation Asia I Acquisition Limited Redeemable Warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,GAQ.W
 GATO,"Gatos Silver, Inc. Common Stock",NYSE,GATO
 GATX,GATX Corporation Common Stock,NYSE,GATX
 GAU,Galiano Gold Inc.,NYSE MKT,GAU
