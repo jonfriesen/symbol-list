@@ -1,5 +1,5 @@
 {
- "date": "2024-04-08",
+ "date": "2024-04-09",
  "data": [
   {
    "symbol": "ONE",
@@ -6786,18 +6786,6 @@
    ]
   },
   {
-   "symbol": "GTWO",
-   "name": "G2 Goldfields Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GTWO.V",
-   "instruments": [
-    {
-     "name": "G2 Goldfields Inc.",
-     "symbol": "GTWO"
-    }
-   ]
-  },
-  {
    "symbol": "GTM.P",
    "name": "G2M Cap Corp.",
    "exchange": "TSXV",
@@ -12102,18 +12090,6 @@
    ]
   },
   {
-   "symbol": "NRG",
-   "name": "Newrange Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NRG.V",
-   "instruments": [
-    {
-     "name": "Newrange Gold Corp.",
-     "symbol": "NRG"
-    }
-   ]
-  },
-  {
    "symbol": "NEWU",
    "name": "Newtopia Inc.",
    "exchange": "TSXV",
@@ -13034,18 +13010,6 @@
    ]
   },
   {
-   "symbol": "ORM",
-   "name": "Orford Mining Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ORM.V",
-   "instruments": [
-    {
-     "name": "Orford Mining Corporation",
-     "symbol": "ORM"
-    }
-   ]
-  },
-  {
    "symbol": "OGO",
    "name": "Organto Foods Inc.",
    "exchange": "TSXV",
@@ -13682,6 +13646,18 @@
     {
      "name": "Pine Trail Real Estate Investment Trust",
      "symbol": "PINE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "PINN",
+   "name": "Pinnacle Silver and Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PINN.V",
+   "instruments": [
+    {
+     "name": "Pinnacle Silver and Gold Corp.",
+     "symbol": "PINN"
     }
    ]
   },
@@ -30190,6 +30166,18 @@
    ]
   },
   {
+   "symbol": "GTWO",
+   "name": "G2 Goldfields Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GTWO.TO",
+   "instruments": [
+    {
+     "name": "G2 Goldfields Inc.",
+     "symbol": "GTWO"
+    }
+   ]
+  },
+  {
    "symbol": "GLXY",
    "name": "Galaxy Digital Holdings Ltd.",
    "exchange": "TSX",
@@ -42146,6 +42134,78 @@
    ]
   },
   {
+   "symbol": "TBCE",
+   "name": "TD Target 2025 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCE.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 25 InvGr B Etf",
+     "symbol": "TBCE"
+    }
+   ]
+  },
+  {
+   "symbol": "TBUE.U",
+   "name": "TD Target 2025 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUE.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS25 InvGrB Etf",
+     "symbol": "TBUE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCF",
+   "name": "TD Target 2026 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCF.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 26 InvGr B Etf",
+     "symbol": "TBCF"
+    }
+   ]
+  },
+  {
+   "symbol": "TBUF.U",
+   "name": "TD Target 2026 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUF.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS26 InvGrB Etf",
+     "symbol": "TBUF.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCG",
+   "name": "TD Target 2027 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCG.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 27 InvGr B Etf",
+     "symbol": "TBCG"
+    }
+   ]
+  },
+  {
+   "symbol": "TBUG.U",
+   "name": "TD Target 2027 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUG.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS27 InvGrB Etf",
+     "symbol": "TBUG.U"
+    }
+   ]
+  },
+  {
    "symbol": "THU",
    "name": "TD U.S. Equity CAD Hedged Index ETF",
    "exchange": "TSX",
@@ -46616,24 +46676,6 @@
    "name": "Avinger, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AVGR"
-  },
-  {
-   "symbol": "AVHI",
-   "name": "Achari Ventures Holdings Corp. I - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVHI"
-  },
-  {
-   "symbol": "AVHIU",
-   "name": "Achari Ventures Holdings Corp. I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVHIU"
-  },
-  {
-   "symbol": "AVHIW",
-   "name": "Achari Ventures Holdings Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVHIW"
   },
   {
    "symbol": "AVIR",
@@ -54886,6 +54928,12 @@
    "yahoo_symbol": "GANX"
   },
   {
+   "symbol": "GAQ",
+   "name": "Generation Asia I Acquisition Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GAQ"
+  },
+  {
    "symbol": "GASS",
    "name": "StealthGas, Inc. - common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61542,13 +61590,13 @@
   {
    "symbol": "MSAI",
    "name": "MultiSensor AI Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MSAI"
   },
   {
    "symbol": "MSAIW",
    "name": "MultiSensor AI Holdings, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MSAIW"
   },
   {
@@ -64268,18 +64316,6 @@
    "name": "PetMed Express, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PETS"
-  },
-  {
-   "symbol": "PETV",
-   "name": "PetVivo Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PETV"
-  },
-  {
-   "symbol": "PETVW",
-   "name": "PetVivo Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PETVW"
   },
   {
    "symbol": "PETWW",
@@ -67378,12 +67414,6 @@
    "yahoo_symbol": "SCSC"
   },
   {
-   "symbol": "SCTL",
-   "name": "Societal CDMO, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SCTL"
-  },
-  {
    "symbol": "SCVL",
    "name": "Shoe Carnival, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69092,6 +69122,12 @@
    "name": "iShares ESG MSCI USA Leaders ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SUSL"
+  },
+  {
+   "symbol": "SUUN",
+   "name": "SolarBank Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUUN"
   },
   {
    "symbol": "SVA",
@@ -79438,12 +79474,6 @@
    "yahoo_symbol": "EGF"
   },
   {
-   "symbol": "EGLE",
-   "name": "Eagle Bulk Shipping Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EGLE"
-  },
-  {
    "symbol": "EGO",
    "name": "Eldorado Gold Corporation Ordinary Shares",
    "exchange": "NYSE",
@@ -81980,6 +82010,12 @@
    "name": "Haemonetics Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "HAE"
+  },
+  {
+   "symbol": "HAFN",
+   "name": "Hafnia Limited Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HAFN"
   },
   {
    "symbol": "HAL",

@@ -558,7 +558,6 @@ FCLI,Full Circle Lithium Corp.,TSXV,FCLI.V,Full Circle Lithium Corp.,FCLI
 FMM,Full Metal Minerals Ltd.,TSXV,FMM.V,Full Metal Minerals Ltd.,FMM
 FUSE,Fuse Battery Metals Inc.,TSXV,FUSE.V,Fuse Battery Metals Inc.,FUSE
 GETT,G.E.T.T. Gold Inc.,TSXV,GETT.V,G.E.T.T. Gold Inc.,GETT
-GTWO,G2 Goldfields Inc.,TSXV,GTWO.V,G2 Goldfields Inc.,GTWO
 GTM.P,G2M Cap Corp.,TSXV,GTM.P.V,G2M Cap Corp.,GTM.P
 GGG,G6 Materials Corp.,TSXV,GGG.V,G6 Materials Corp.,GGG
 GAB,Gabo Mining Ltd.,TSXV,GAB.V,Gabo Mining Ltd.,GAB
@@ -995,7 +994,6 @@ NZ,New Zealand Energy Corp.,TSXV,NZ.V,New Zealand Energy Corp.,NZ
 NCAU,Newcore Gold Ltd.,TSXV,NCAU.V,Newcore Gold Ltd.,NCAU
 NEWO,NewOrigin Gold Corp.,TSXV,NEWO.V,NewOrigin Gold Corp.,NEWO
 NWX,Newport Exploration Ltd.,TSXV,NWX.V,Newport Exploration Ltd.,NWX
-NRG,Newrange Gold Corp.,TSXV,NRG.V,Newrange Gold Corp.,NRG
 NEWU,Newtopia Inc.,TSXV,NEWU.V,Newtopia Inc.,NEWU
 NEXE,Nexe Innovations Inc.,TSXV,NEXE.V,Nexe Innovations Inc.,NEXE
 NGY,Nexera Energy Inc.,TSXV,NGY.V,Nexera Energy Inc.,NGY
@@ -1071,7 +1069,6 @@ ORC.A,Orca Energy Group Inc.,TSXV,ORC.A.V,Orca Energy Group Inc. ser A,ORC.A,Orc
 OCI,Orecap Invest Corp.,TSXV,OCI.V,Orecap Invest Corp.,OCI
 ORS,Orestone Mining Corp.,TSXV,ORS.V,Orestone Mining Corp.,ORS
 REX,Orex Minerals Inc.,TSXV,REX.V,Orex Minerals Inc.,REX
-ORM,Orford Mining Corporation,TSXV,ORM.V,Orford Mining Corporation,ORM
 OGO,Organto Foods Inc.,TSXV,OGO.V,Organto Foods Inc.,OGO
 OCO,Oroco Resource Corp.,TSXV,OCO.V,Oroco Resource Corp,OCO
 OGN,Orogen Royalties Inc.,TSXV,OGN.V,Orogen Royalties Inc.,OGN
@@ -1123,6 +1120,7 @@ PTC,Petrox Resources Corp.,TSXV,PTC.V,Petrox Resources Corp.,PTC
 PCLO,Pharmacielo Ltd.,TSXV,PCLO.V,Pharmacielo Ltd.,PCLO
 PHNM,Phenom Resources Corp.,TSXV,PHNM.V,Phenom Resources Corp.,PHNM
 PINE.U,Pine Trail Real Estate Investment Trust,TSXV,PINE.U.V,Pine Trail Real Estate Investment Trust USD,PINE.U,Pine Trail Real Estate Investment Trust,PINE.UN
+PINN,Pinnacle Silver and Gold Corp.,TSXV,PINN.V,Pinnacle Silver and Gold Corp.,PINN
 PTE,Pioneering Technology Corp.,TSXV,PTE.V,Pioneering Technology Corp,PTE
 PVT,Pivotree Inc.,TSXV,PVT.V,Pivotree Inc.,PVT
 PJX,PJX Resources Inc.,TSXV,PJX.V,PJX Resources Inc.,PJX
@@ -2359,6 +2357,7 @@ FRU,Freehold Royalties Ltd.,TSX,FRU.TO,Freehold Royalties ,FRU
 FEC,Frontera Energy Corporation,TSX,FEC.TO,Frontera Energy Corp,FEC
 FURY,Fury Gold Mines Limited,TSX,FURY.TO,Fury Gld Mines Ltd J,FURY
 GMIN,G Mining Ventures Corp.,TSX,GMIN.TO,G Mining Ventures J,GMIN
+GTWO,G2 Goldfields Inc.,TSX,GTWO.TO,G2 Goldfields Inc.,GTWO
 GLXY,Galaxy Digital Holdings Ltd.,TSX,GLXY.TO,Galaxy Digital J Ord,GLXY
 GAU,Galiano Gold Inc.,TSX,GAU.TO,Galiano Gold Inc. J,GAU
 GH,Gamehost Inc.,TSX,GH.TO,Gamehost Inc.,GH
@@ -3259,6 +3258,12 @@ TULV,TD Q U.S. Low Volatility ETF,TSX,TULV.TO,TD Q US LowVolty CAD,TULV
 TQSM,TD Q U.S. Small-Mid-Cap Equity ETF,TSX,TQSM.TO,TD Q US SmlMidCap Eq,TQSM
 TCSB,TD Select Short Term Corporate Bond Ladder ETF,TSX,TCSB.TO,TD SlctST CorpBndLad,TCSB
 TUSB,TD Select U.S. Short Term Corporate Bond Ladder ETF,TSX,TUSB.TO,TD SlctUS CorpBndlad,TUSB,TD SlctUS CorpBndUSF,TUSB.U
+TBCE,TD Target 2025 Investment Grade Bond ETF,TSX,TBCE.TO,TdTgt 25 InvGr B Etf,TBCE
+TBUE.U,TD Target 2025 U.S. Investment Grade Bond ETF,TSX,TBUE.U.TO,TdTgtUS25 InvGrB Etf,TBUE.U
+TBCF,TD Target 2026 Investment Grade Bond ETF,TSX,TBCF.TO,TdTgt 26 InvGr B Etf,TBCF
+TBUF.U,TD Target 2026 U.S. Investment Grade Bond ETF,TSX,TBUF.U.TO,TdTgtUS26 InvGrB Etf,TBUF.U
+TBCG,TD Target 2027 Investment Grade Bond ETF,TSX,TBCG.TO,TdTgt 27 InvGr B Etf,TBCG
+TBUG.U,TD Target 2027 U.S. Investment Grade Bond ETF,TSX,TBUG.U.TO,TdTgtUS27 InvGrB Etf,TBUG.U
 THU,TD U.S. Equity CAD Hedged Index ETF,TSX,THU.TO,TD US Eq CAD Heg Un,THU
 TPU,TD U.S. Equity Index ETF,TSX,TPU.TO,TD US Equity Indx Un,TPU,TD US Eqty Index US,TPU.U
 TULB,TD U.S. Long Term Treasury Bond ETF,TSX,TULB.TO,TD U.S. LT TreasBond,TULB
@@ -3839,9 +3844,6 @@ AVDL,Avadel Pharmaceuticals plc - American Depositary Shares each representing o
 AVDX,"AvidXchange Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVDX
 AVGO,Broadcom Inc. - Common Stock,NASDAQ Global Select MarketSM,AVGO
 AVGR,"Avinger, Inc. - Common Stock",NASDAQ Capital Market,AVGR
-AVHI,Achari Ventures Holdings Corp. I - Common Stock,NASDAQ Global MarketSM,AVHI
-AVHIU,Achari Ventures Holdings Corp. I - Unit,NASDAQ Global MarketSM,AVHIU
-AVHIW,Achari Ventures Holdings Corp. I - Warrant,NASDAQ Global MarketSM,AVHIW
 AVIR,"Atea Pharmaceuticals, Inc. - common stock",NASDAQ Global Select MarketSM,AVIR
 AVNW,"Aviat Networks, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVNW
 AVO,"Mission Produce, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVO
@@ -5217,6 +5219,7 @@ GAMCW,Golden Arrow Merger Corp. - Warrant,NASDAQ Capital Market,GAMCW
 GAME,"GameSquare Holdings, Inc. - Common stock",NASDAQ Capital Market,GAME
 GAN,GAN Limited - Ordinary Shares,NASDAQ Capital Market,GAN
 GANX,"Gain Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,GANX
+GAQ,Generation Asia I Acquisition Limited - Class A Ordinary Shares,NASDAQ Global MarketSM,GAQ
 GASS,"StealthGas, Inc. - common stock",NASDAQ Global Select MarketSM,GASS
 GATE,Marblegate Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,GATE
 GATEU,Marblegate Acquisition Corp. - Unit,NASDAQ Capital Market,GATEU
@@ -6326,8 +6329,8 @@ MRTN,"Marten Transport, Ltd. - Common Stock",NASDAQ Global Select MarketSM,MRTN
 MRUS,Merus N.V. - Common Shares,NASDAQ Global MarketSM,MRUS
 MRVI,"Maravai LifeSciences Holdings, Inc. - Class A common stock",NASDAQ Global Select MarketSM,MRVI
 MRVL,"Marvell Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,MRVL
-MSAI,"MultiSensor AI Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,MSAI
-MSAIW,"MultiSensor AI Holdings, Inc. - Warrants",NASDAQ Global MarketSM,MSAIW
+MSAI,"MultiSensor AI Holdings, Inc. - Common Stock",NASDAQ Capital Market,MSAI
+MSAIW,"MultiSensor AI Holdings, Inc. - Warrants",NASDAQ Capital Market,MSAIW
 MSBI,"Midland States Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,MSBI
 MSBIP,"Midland States Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ Global Select MarketSM,MSBIP
 MSEX,Middlesex Water Company - Common Stock,NASDAQ Global Select MarketSM,MSEX
@@ -6781,8 +6784,6 @@ PESI,"Perma-Fix Environmental Services, Inc. - Common Stock",NASDAQ Capital Mark
 PET,Wag! Group Co. - Common Stock,NASDAQ Global MarketSM,PET
 PETQ,"PetIQ, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,PETQ
 PETS,"PetMed Express, Inc. - Common Stock",NASDAQ Global Select MarketSM,PETS
-PETV,"PetVivo Holdings, Inc. - Common Stock",NASDAQ Capital Market,PETV
-PETVW,"PetVivo Holdings, Inc. - Warrant",NASDAQ Capital Market,PETVW
 PETWW,Wag! Group Co. - Warrant,NASDAQ Global MarketSM,PETWW
 PETZ,"TDH Holdings, Inc. - Common Shares",NASDAQ Capital Market,PETZ
 PEV,Phoenix Motor Inc. - Common Stock,NASDAQ Capital Market,PEV
@@ -7299,7 +7300,6 @@ SCRM,Screaming Eagle Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global M
 SCRMU,Screaming Eagle Acquisition Corp. - Unit,NASDAQ Global MarketSM,SCRMU
 SCRMW,Screaming Eagle Acquisition Corp. - Warrant,NASDAQ Global MarketSM,SCRMW
 SCSC,"ScanSource, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCSC
-SCTL,"Societal CDMO, Inc. - Common Stock",NASDAQ Capital Market,SCTL
 SCVL,"Shoe Carnival, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCVL
 SCWO,374Water Inc. - common stock,NASDAQ Capital Market,SCWO
 SCWX,SecureWorks Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,SCWX
@@ -7585,6 +7585,7 @@ SURGW,"SurgePays, Inc. - Warrant",NASDAQ Capital Market,SURGW
 SUSB,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,NASDAQ Global MarketSM,SUSB
 SUSC,iShares ESG Aware USD Corporate Bond ETF,NASDAQ Global MarketSM,SUSC
 SUSL,iShares ESG MSCI USA Leaders ETF,NASDAQ Global MarketSM,SUSL
+SUUN,SolarBank Corporation - Common Stock,NASDAQ Global MarketSM,SUUN
 SVA,"Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",NASDAQ Global Select MarketSM,SVA
 SVC,Service Properties Trust - Shares of Beneficial Interest,NASDAQ Global Select MarketSM,SVC
 SVII,Spring Valley Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,SVII
@@ -9309,7 +9310,6 @@ EFX,"Equifax, Inc. Common Stock",NYSE,EFX
 EFXT,Enerflex Ltd Common Shares,NYSE,EFXT
 EG,"Everest Group, Ltd. Common Stock",NYSE,EG
 EGF,"Blackrock Enhanced Government Fund, Inc. Common Stock",NYSE,EGF
-EGLE,Eagle Bulk Shipping Inc. Common Stock,NYSE,EGLE
 EGO,Eldorado Gold Corporation Ordinary Shares,NYSE,EGO
 EGP,"EastGroup Properties, Inc. Common Stock",NYSE,EGP
 EGY,"VAALCO Energy, Inc.  Common Stock",NYSE,EGY
@@ -9733,6 +9733,7 @@ GWW,"W.W. Grainger, Inc. Common Stock",NYSE,GWW
 GXO,"GXO Logistics, Inc. Common Stock ",NYSE,GXO
 H,Hyatt Hotels Corporation Class A Common Stock,NYSE,H
 HAE,Haemonetics Corporation Common Stock,NYSE,HAE
+HAFN,Hafnia Limited Common Shares,NYSE,HAFN
 HAL,Halliburton Company Common Stock,NYSE,HAL
 HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock",NYSE,HASI
 HAYW,"Hayward Holdings, Inc. Common Stock",NYSE,HAYW

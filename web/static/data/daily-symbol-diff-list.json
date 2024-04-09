@@ -1,262 +1,222 @@
 {
  "added": [
   {
-   "symbol": "ORCL",
-   "name": "Oracle Commodity Holding Corp.",
+   "symbol": "PINN",
+   "name": "Pinnacle Silver and Gold Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ORCL.V",
+   "yahoo_symbol": "PINN.V",
    "instruments": [
     {
-     "name": "Oracle Commodity Holding Corp.",
-     "symbol": "ORCL"
+     "name": "Pinnacle Silver and Gold Corp.",
+     "symbol": "PINN"
     }
    ]
   },
   {
-   "symbol": "FGOV",
-   "name": "Franklin Canadian Government Bond Fund",
+   "symbol": "GTWO",
+   "name": "G2 Goldfields Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "FGOV.TO",
+   "yahoo_symbol": "GTWO.TO",
    "instruments": [
     {
-     "name": "Franklin Cdn Gov Bnd",
-     "symbol": "FGOV"
+     "name": "G2 Goldfields Inc.",
+     "symbol": "GTWO"
     }
    ]
   },
   {
-   "symbol": "AIRT",
-   "name": "Air T, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AIRT"
+   "symbol": "TBCE",
+   "name": "TD Target 2025 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCE.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 25 InvGr B Etf",
+     "symbol": "TBCE"
+    }
+   ]
   },
   {
-   "symbol": "CTNM",
-   "name": "Contineum Therapeutics, Inc. - Common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CTNM"
+   "symbol": "TBUE.U",
+   "name": "TD Target 2025 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUE.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS25 InvGrB Etf",
+     "symbol": "TBUE.U"
+    }
+   ]
   },
   {
-   "symbol": "EPRX",
-   "name": "Eupraxia Pharmaceuticals Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EPRX"
+   "symbol": "TBCF",
+   "name": "TD Target 2026 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCF.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 26 InvGr B Etf",
+     "symbol": "TBCF"
+    }
+   ]
   },
   {
-   "symbol": "PDYN",
-   "name": "Palladyne AI Corp. - Common stock",
+   "symbol": "TBUF.U",
+   "name": "TD Target 2026 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUF.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS26 InvGrB Etf",
+     "symbol": "TBUF.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCG",
+   "name": "TD Target 2027 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCG.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 27 InvGr B Etf",
+     "symbol": "TBCG"
+    }
+   ]
+  },
+  {
+   "symbol": "TBUG.U",
+   "name": "TD Target 2027 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUG.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS27 InvGrB Etf",
+     "symbol": "TBUG.U"
+    }
+   ]
+  },
+  {
+   "symbol": "GAQ",
+   "name": "Generation Asia I Acquisition Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PDYN"
+   "yahoo_symbol": "GAQ"
   },
   {
-   "symbol": "PDYNW",
-   "name": "Palladyne AI Corp. - Warrant",
+   "symbol": "MSAI",
+   "name": "MultiSensor AI Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSAI"
+  },
+  {
+   "symbol": "MSAIW",
+   "name": "MultiSensor AI Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSAIW"
+  },
+  {
+   "symbol": "SUUN",
+   "name": "SolarBank Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PDYNW"
+   "yahoo_symbol": "SUUN"
   },
   {
-   "symbol": "ZOOZ",
-   "name": "ZOOZ Power Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZOOZ"
-  },
-  {
-   "symbol": "ZOOZW",
-   "name": "ZOOZ Power Ltd. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZOOZW"
+   "symbol": "HAFN",
+   "name": "Hafnia Limited Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HAFN"
   }
  ],
  "removed": [
   {
-   "symbol": "CINC",
-   "name": "CI DoubleLine Income US$ Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CINC.TO",
+   "symbol": "MSAI",
+   "name": "MultiSensor AI Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSAI"
+  },
+  {
+   "symbol": "NRG",
+   "name": "Newrange Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NRG.V",
    "instruments": [
     {
-     "name": "CI DbleLnUS$IncmC$Hg",
-     "symbol": "CINC"
-    },
-    {
-     "name": "CI DbleLnUS$IncmC$Uh",
-     "symbol": "CINC.B"
-    },
-    {
-     "name": "CI DbleLnUS$Incm USF",
-     "symbol": "CINC.U"
+     "name": "Newrange Gold Corp.",
+     "symbol": "NRG"
     }
    ]
   },
   {
-   "symbol": "DGR",
-   "name": "CI WisdomTree U.S. Quality Dividend Growth Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DGR.TO",
+   "symbol": "MSAIW",
+   "name": "MultiSensor AI Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSAIW"
+  },
+  {
+   "symbol": "ORM",
+   "name": "Orford Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ORM.V",
    "instruments": [
     {
-     "name": "CI WisdomTrUSDivGrHG",
-     "symbol": "DGR"
-    },
-    {
-     "name": "CI WisdomTrUSDivN-HG",
-     "symbol": "DGR.B"
+     "name": "Orford Mining Corporation",
+     "symbol": "ORM"
     }
    ]
   },
   {
-   "symbol": "YXM",
-   "name": "CI Morningstar US Momentum Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "YXM.TO",
+   "symbol": "AVHI",
+   "name": "Achari Ventures Holdings Corp. I - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVHI"
+  },
+  {
+   "symbol": "AVHIW",
+   "name": "Achari Ventures Holdings Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVHIW"
+  },
+  {
+   "symbol": "GTWO",
+   "name": "G2 Goldfields Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GTWO.V",
    "instruments": [
     {
-     "name": "CI Morn US Moment HG",
-     "symbol": "YXM"
-    },
-    {
-     "name": "CI Morn US MomntUnhg",
-     "symbol": "YXM.B"
+     "name": "G2 Goldfields Inc.",
+     "symbol": "GTWO"
     }
    ]
   },
   {
-   "symbol": "NGM",
-   "name": "NGM Biopharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NGM"
-  },
-  {
-   "symbol": "GAQ",
-   "name": "Generation Asia I Acquisition Limited Class A Ordinary Shares",
+   "symbol": "EGLE",
+   "name": "Eagle Bulk Shipping Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "GAQ"
+   "yahoo_symbol": "EGLE"
   },
   {
-   "symbol": "GAQ.U",
-   "name": "Generation Asia I Acquisition Limited Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GAQ.U"
+   "symbol": "AVHIU",
+   "name": "Achari Ventures Holdings Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVHIU"
   },
   {
-   "symbol": "SID",
-   "name": "CI U.S. Trendleaders Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SID.TO",
-   "instruments": [
-    {
-     "name": "CI US TrendLeadrs HG",
-     "symbol": "SID"
-    }
-   ]
-  },
-  {
-   "symbol": "FQC",
-   "name": "CI MSCI Canada Quality Index Class ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FQC.TO",
-   "instruments": [
-    {
-     "name": "CI MSCI CAQualCl ETF",
-     "symbol": "FQC"
-    }
-   ]
-  },
-  {
-   "symbol": "VERBW",
-   "name": "Verb Technology Company, Inc. - Warrant",
+   "symbol": "SCTL",
+   "name": "Societal CDMO, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VERBW"
+   "yahoo_symbol": "SCTL"
   },
   {
-   "symbol": "AIRT",
-   "name": "Air T, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIRT"
+   "symbol": "PETVW",
+   "name": "PetVivo Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PETVW"
   },
   {
-   "symbol": "GAQ.W",
-   "name": "Generation Asia I Acquisition Limited Redeemable Warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GAQ.W"
-  },
-  {
-   "symbol": "XXM",
-   "name": "CI Morningstar US Value Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "XXM.TO",
-   "instruments": [
-    {
-     "name": "CI Mornstr US Val HG",
-     "symbol": "XXM"
-    },
-    {
-     "name": "CI Mornstr USValUnhg",
-     "symbol": "XXM.B"
-    }
-   ]
-  },
-  {
-   "symbol": "DQD",
-   "name": "CI WisdomTree U.S. Quality Dividend Growth Variably Hedged Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DQD.TO",
-   "instruments": [
-    {
-     "name": "CI Wisdom3USDvVaryHg",
-     "symbol": "DQD"
-    }
-   ]
-  },
-  {
-   "symbol": "GMDA",
-   "name": "Gamida Cell Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GMDA"
-  },
-  {
-   "symbol": "STRCW",
-   "name": "Palladyne AI Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STRCW"
-  },
-  {
-   "symbol": "DQI",
-   "name": "CI WisdomTree International Quality Dividend Growth Variably Hedged Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DQI.TO",
-   "instruments": [
-    {
-     "name": "CIWisdom3IntlDvVarHg",
-     "symbol": "DQI"
-    }
-   ]
-  },
-  {
-   "symbol": "STRC",
-   "name": "Palladyne AI Corp. - Common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STRC"
-  },
-  {
-   "symbol": "CCOR",
-   "name": "CI DoubleLine Core Plus Fixed Income US$ Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CCOR.TO",
-   "instruments": [
-    {
-     "name": "CI DbleLnFixUS$HegC$",
-     "symbol": "CCOR"
-    },
-    {
-     "name": "CI DbleLnFixUS$UnhC$",
-     "symbol": "CCOR.B"
-    },
-    {
-     "name": "CI DbleLnFixUS$UnUSF",
-     "symbol": "CCOR.U"
-    }
-   ]
+   "symbol": "PETV",
+   "name": "PetVivo Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PETV"
   }
  ]
 }
