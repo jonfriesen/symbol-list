@@ -1,5 +1,5 @@
 {
- "date": "2024-04-09",
+ "date": "2024-04-10",
  "data": [
   {
    "symbol": "ONE",
@@ -1670,18 +1670,6 @@
     {
      "name": "Avante Corp.",
      "symbol": "XX"
-    }
-   ]
-  },
-  {
-   "symbol": "AVA",
-   "name": "Avante Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AVA.V",
-   "instruments": [
-    {
-     "name": "Avante Mining Corp.",
-     "symbol": "AVA"
     }
    ]
   },
@@ -6306,6 +6294,18 @@
     {
      "name": "First and Goal Capital Corp.",
      "symbol": "FGCC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "FAN",
+   "name": "First Atlantic Nickel Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FAN.V",
+   "instruments": [
+    {
+     "name": "First Atlantic Nickel Corp.",
+     "symbol": "FAN"
     }
    ]
   },
@@ -20454,18 +20454,6 @@
    ]
   },
   {
-   "symbol": "ATE",
-   "name": "Antibe Therapeutics Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ATE.TO",
-   "instruments": [
-    {
-     "name": "Antibe Therapeutic J",
-     "symbol": "ATE"
-    }
-   ]
-  },
-  {
    "symbol": "APLI",
    "name": "Appili Therapeutics Inc.",
    "exchange": "TSX",
@@ -26266,6 +26254,22 @@
     {
      "name": "CI Wisdom3USMDivNnHg",
      "symbol": "UMI.B"
+    }
+   ]
+  },
+  {
+   "symbol": "DGR",
+   "name": "CI WisdomTree U.S. Quality Dividend Growth Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DGR.TO",
+   "instruments": [
+    {
+     "name": "CI WisdomTrUSDivGrHG",
+     "symbol": "DGR"
+    },
+    {
+     "name": "CI WisdomTrUSDivN-HG",
+     "symbol": "DGR.B"
     }
    ]
   },
@@ -59249,7 +59253,7 @@
   },
   {
    "symbol": "KXIN",
-   "name": "Kaixin Auto Holdings - Ordinary Shares",
+   "name": "Kaixin Holdings - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KXIN"
   },
