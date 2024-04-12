@@ -1,60 +1,42 @@
 {
  "added": [
   {
-   "symbol": "MNDR",
-   "name": "Mobile-health Network Solutions - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MNDR"
+   "symbol": "SKYE",
+   "name": "Skye Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKYE"
   },
   {
-   "symbol": "EICC",
-   "name": "Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2029",
+   "symbol": "ULS",
+   "name": "UL Solutions Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "EICC"
-  },
-  {
-   "symbol": "PACS",
-   "name": "PACS Group, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PACS"
+   "yahoo_symbol": "ULS"
   }
  ],
  "removed": [
   {
-   "symbol": "SMY",
-   "name": "Search Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SMY.V",
-   "instruments": [
-    {
-     "name": "Search Minerals Inc.",
-     "symbol": "SMY"
-    }
-   ]
-  },
-  {
-   "symbol": "EOX",
-   "name": "Euromax Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EOX.V",
-   "instruments": [
-    {
-     "name": "Euromax Resources Ltd.",
-     "symbol": "EOX"
-    }
-   ]
-  },
-  {
-   "symbol": "EIGR",
-   "name": "Eiger BioPharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EIGR"
-  },
-  {
-   "symbol": "MFV",
-   "name": "MFS Special Value Trust Common Stock",
+   "symbol": "LEJU",
+   "name": "Leju Holdings Limited American Depositary Shares, each representing one Ordinary share",
    "exchange": "NYSE",
-   "yahoo_symbol": "MFV"
+   "yahoo_symbol": "LEJU"
+  },
+  {
+   "symbol": "IBT",
+   "name": "IBEX Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IBT.V",
+   "instruments": [
+    {
+     "name": "IBEX Technologies Inc",
+     "symbol": "IBT"
+    }
+   ]
+  },
+  {
+   "symbol": "ACOR",
+   "name": "Acorda Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACOR"
   }
  ]
 }
