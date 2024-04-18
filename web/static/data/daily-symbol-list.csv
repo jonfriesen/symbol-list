@@ -2137,9 +2137,13 @@ DCC,Desjardins 1-5 year Laddered Canadian Corporate Bond Index ETF,TSX,DCC.TO,De
 DCG,Desjardins 1-5 year Laddered Canadian Government Bond Index ETF,TSX,DCG.TO,Desjardins 1-5yrGovt,DCG
 DANC,Desjardins Alt Long/Short Equity Market Neutral ETF,TSX,DANC.TO,Desjardn AltLN/SH Eq,DANC,Desjardn AltL/S HgUS,DANC.U
 DAMG,Desjardins Alt Long/Short Global Equity Markets ETF,TSX,DAMG.TO,Desjardins L/S Eq Hg,DAMG,Desjardn L/S EqHg US,DAMG.U
+DMEU,Desjardins American Equity Index ETF,TSX,DMEU.TO,Des Amer Eq Idx Etf,DMEU
+DCBC,Desjardins Canadian Corporate Bond Index ETF,TSX,DCBC.TO,DesCad CrpBnd IdxEtf,DCBC
+DMEC,Desjardins Canadian Equity Index ETF,TSX,DMEC.TO,Des Cad Eq Idx Etf,DMEC
 DCP,Desjardins Canadian Preferred Share Index ETF,TSX,DCP.TO,Desjardins Cdn Pref,DCP
 DCS,Desjardins Canadian Short Term Bond Index ETF,TSX,DCS.TO,Desjardins CdnST Bnd,DCS
 DCU,Desjardins Canadian Universe Bond Index ETF,TSX,DCU.TO,DesjardinCA UnivBnd,DCU
+DMEI,Desjardins International Equity Index ETF,TSX,DMEI.TO,Des Int Eq Index Etf,DMEI
 DRCU,Desjardins RI Active Canadian Bond - Net-Zero Emissions Pathway ETF,TSX,DRCU.TO,Desjardins RI CA Bnd,DRCU
 DRMC,Desjardins RI Canada - Net-Zero Emissions Pathway ETF,TSX,DRMC.TO,DesjardinsRI CdaNZEm,DRMC
 DRFC,Desjardins RI Canada Multifactor - Net-Zero Emissions Pathway ETF,TSX,DRFC.TO,DesjardnsRI CA MF0Em,DRFC
@@ -3554,8 +3558,8 @@ AIBBR,AIB Acquisition Corporation - Right,NASDAQ Global MarketSM,AIBBR
 AIBBU,AIB Acquisition Corporation - Unit,NASDAQ Global MarketSM,AIBBU
 AIH,Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares,NASDAQ Capital Market,AIH
 AIHS,Senmiao Technology Limited - Common Stock,NASDAQ Capital Market,AIHS
-AILE,"iLearningEngines Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market,AILE
-AILEW,"iLearningEngines Holdings, Inc. - Warrant",NASDAQ Capital Market,AILEW
+AILE,"iLearningEngines, Inc. - Common Stock",NASDAQ Capital Market,AILE
+AILEW,"iLearningEngines, Inc. - Warrant",NASDAQ Capital Market,AILEW
 AIMAU,Aimfinity Investment Corp. I - Unit,NASDAQ Global MarketSM,AIMAU
 AIMAW,Aimfinity Investment Corp. I - Warrant,NASDAQ Global MarketSM,AIMAW
 AIMBU,Aimfinity Investment Corp. I - Subunit,NASDAQ Global MarketSM,AIMBU
@@ -3889,7 +3893,7 @@ BAYA,Bayview Acquisition Corp - Ordinary Share,NASDAQ Global MarketSM,BAYA
 BAYAR,Bayview Acquisition Corp - Right,NASDAQ Global MarketSM,BAYAR
 BAYAU,Bayview Acquisition Corp - Unit,NASDAQ Global MarketSM,BAYAU
 BBCP,"Concrete Pumping Holdings, Inc.  - Common Stock",NASDAQ Capital Market,BBCP
-BBGI,"Beasley Broadcast Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,BBGI
+BBGI,"Beasley Broadcast Group, Inc. - Class A Common Stock",NASDAQ Capital Market,BBGI
 BBH,VanEck Biotech ETF,NASDAQ Global MarketSM,BBH
 BBIO,"BridgeBio Pharma, Inc. - Common Stock",NASDAQ Global Select MarketSM,BBIO
 BBLG,Bone Biologics Corp - Common Stock,NASDAQ Capital Market,BBLG
@@ -3924,7 +3928,6 @@ BEAT,"Heartbeam, Inc. - Common Stock",NASDAQ Capital Market,BEAT
 BEATW,"Heartbeam, Inc. - Warrant",NASDAQ Capital Market,BEATW
 BECN,"Beacon Roofing Supply, Inc. - Common Stock",NASDAQ Global Select MarketSM,BECN
 BEEM,Beam Global - Common Stock,NASDAQ Capital Market,BEEM
-BEEMW,Beam Global - Warrant,NASDAQ Capital Market,BEEMW
 BEEZ,Honeytree U.S. Equity ETF,NASDAQ Global MarketSM,BEEZ
 BELFA,Bel Fuse Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,BELFA
 BELFB,Bel Fuse Inc. - Class B Common Stock,NASDAQ Global Select MarketSM,BELFB
@@ -5853,6 +5856,7 @@ JTAI,Jet.AI Inc. - Common Stock,NASDAQ Global MarketSM,JTAI
 JTAIW,Jet.AI Inc. - Warrant,NASDAQ Capital Market,JTAIW
 JTAIZ,Jet.AI Inc. - Merger Consideration Warrants,NASDAQ Global MarketSM,JTAIZ
 JTEK,JPMorgan U.S. Tech Leaders ETF,NASDAQ Global MarketSM,JTEK
+JUNE,Junee Limited - Ordinary Shares,NASDAQ Capital Market,JUNE
 JVA,"Coffee Holding Co., Inc. - Common Stock",NASDAQ Capital Market,JVA
 JVSA,JVSPAC Acquisition Corp. - Class A Ordinary Share,NASDAQ Capital Market,JVSA
 JVSAR,JVSPAC Acquisition Corp. - Right,NASDAQ Capital Market,JVSAR
@@ -6192,7 +6196,6 @@ MDB,"MongoDB, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MDB
 MDBH,"MDB Capital Holdings, LLC - Class A common ",NASDAQ Capital Market,MDBH
 MDCP,VictoryShares THB Mid Cap ETF,NASDAQ Global MarketSM,MDCP
 MDGL,"Madrigal Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,MDGL
-MDGS,Medigus Ltd. - American Depositary Shares,NASDAQ Capital Market,MDGS
 MDIA,Mediaco Holding Inc. - Class A Common Stock,NASDAQ Capital Market,MDIA
 MDIV,Multi-Asset Diversified Income Index Fund,NASDAQ Global MarketSM,MDIV
 MDJH,MDJM LTD - Ordinary Shares,NASDAQ Capital Market,MDJH
@@ -6223,7 +6226,6 @@ MFIC,MidCap Financial Investment Corporation - Closed End Fund,NASDAQ Global Sel
 MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,NASDAQ Global Select MarketSM,MFICL
 MFIN,Medallion Financial Corp. - Common Stock,NASDAQ Global Select MarketSM,MFIN
 MFLX,First Trust Flexible Municipal High Income ETF,NASDAQ Global MarketSM,MFLX
-MGAM,Mobile Global Esports Inc. - Common Stock,NASDAQ Capital Market,MGAM
 MGEE,MGE Energy Inc. - Common Stock,NASDAQ Global Select MarketSM,MGEE
 MGIC,Magic Software Enterprises Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,MGIC
 MGIH,Millennium Group International Holdings Limited - Ordinary Shares,NASDAQ Capital Market,MGIH
@@ -6685,8 +6687,6 @@ ORIC,"Oric Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,O
 ORLY,"O'Reilly Automotive, Inc. - Common Stock",NASDAQ Global Select MarketSM,ORLY
 ORMP,Oramed Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,ORMP
 ORRF,Orrstown Financial Services Inc - Common Stock,NASDAQ Capital Market,ORRF
-OSA,"ProSomnus, Inc. - Common Stock",NASDAQ Global MarketSM,OSA
-OSAAW,"ProSomnus, Inc. - Warrant",NASDAQ Capital Market,OSAAW
 OSBC,"Old Second Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,OSBC
 OSIS,"OSI Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,OSIS
 OSPN,OneSpan Inc. - Common Stock,NASDAQ Capital Market,OSPN
@@ -8201,6 +8201,7 @@ XFIX,F/m Opportunistic Income ETF,NASDAQ Global MarketSM,XFIX
 XFOR,"X4 Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,XFOR
 XGN,Exagen Inc. - Common Stock,NASDAQ Global MarketSM,XGN
 XLO,"Xilio Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,XLO
+XLYO,Xylo Technologies Ltd. - American Depositary Shares,NASDAQ Capital Market,XLYO
 XMTR,"Xometry, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,XMTR
 XNCR,"Xencor, Inc. - Common Stock",NASDAQ Global MarketSM,XNCR
 XNET,Xunlei Limited - American Depositary Shares,NASDAQ Global Select MarketSM,XNET
@@ -9089,6 +9090,7 @@ CTOS,"Custom Truck One Source, Inc. Common Stock",NYSE,CTOS
 CTR,ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock,NYSE,CTR
 CTRA,Coterra Energy Inc. Common Stock,NYSE,CTRA
 CTRE,"CareTrust REIT, Inc. Common Stock",NYSE,CTRE
+CTRI,"Centuri Holdings, Inc. Common Stock",NYSE,CTRI
 CTS,CTS Corporation Common Stock,NYSE,CTS
 CTV,Innovid Corp. Common Stock,NYSE,CTV
 CTV.W,"Innovid Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",NYSE,CTV.W
@@ -9816,7 +9818,6 @@ HTFB,Horizon Technology Finance Corporation 4.875% Notes due 2026,NYSE,HTFB
 HTFC,Horizon Technology Finance Corporation 6.25% Notes due 2027,NYSE,HTFC
 HTGC,"Hercules Capital, Inc. Common Stock",NYSE,HTGC
 HTH,Hilltop Holdings Inc.,NYSE,HTH
-HTY,John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest,NYSE,HTY
 HUBB,Hubbell Inc Common Stock,NYSE,HUBB
 HUBS,"HubSpot, Inc. Common Stock",NYSE,HUBS
 HUM,Humana Inc. Common Stock,NYSE,HUM
@@ -9845,6 +9846,7 @@ IBIO,"iBio, Inc. Common Stock",NYSE MKT,IBIO
 IBM,International Business Machines Corporation Common Stock,NYSE,IBM
 IBN,ICICI Bank Limited Common Stock,NYSE,IBN
 IBP,"Installed Building Products, Inc. Common Stock",NYSE,IBP
+IBTA,"Ibotta, Inc. Class A Common Stock",NYSE,IBTA
 ICD,"Independence Contract Drilling, Inc. Common Stock",NYSE,ICD
 ICE,Intercontinental Exchange Inc. Common Stock,NYSE,ICE
 ICL,ICL Group Ltd. Ordinary Shares,NYSE,ICL

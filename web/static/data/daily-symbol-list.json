@@ -1,5 +1,5 @@
 {
- "date": "2024-04-17",
+ "date": "2024-04-18",
  "data": [
   {
    "symbol": "ONE",
@@ -27014,6 +27014,42 @@
    ]
   },
   {
+   "symbol": "DMEU",
+   "name": "Desjardins American Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMEU.TO",
+   "instruments": [
+    {
+     "name": "Des Amer Eq Idx Etf",
+     "symbol": "DMEU"
+    }
+   ]
+  },
+  {
+   "symbol": "DCBC",
+   "name": "Desjardins Canadian Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DCBC.TO",
+   "instruments": [
+    {
+     "name": "DesCad CrpBnd IdxEtf",
+     "symbol": "DCBC"
+    }
+   ]
+  },
+  {
+   "symbol": "DMEC",
+   "name": "Desjardins Canadian Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMEC.TO",
+   "instruments": [
+    {
+     "name": "Des Cad Eq Idx Etf",
+     "symbol": "DMEC"
+    }
+   ]
+  },
+  {
    "symbol": "DCP",
    "name": "Desjardins Canadian Preferred Share Index ETF",
    "exchange": "TSX",
@@ -27046,6 +27082,18 @@
     {
      "name": "DesjardinCA UnivBnd",
      "symbol": "DCU"
+    }
+   ]
+  },
+  {
+   "symbol": "DMEI",
+   "name": "Desjardins International Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMEI.TO",
+   "instruments": [
+    {
+     "name": "Des Int Eq Index Etf",
+     "symbol": "DMEI"
     }
    ]
   },
@@ -44943,13 +44991,13 @@
   },
   {
    "symbol": "AILE",
-   "name": "iLearningEngines Holdings, Inc. - Class A Common Stock",
+   "name": "iLearningEngines, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AILE"
   },
   {
    "symbol": "AILEW",
-   "name": "iLearningEngines Holdings, Inc. - Warrant",
+   "name": "iLearningEngines, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AILEW"
   },
@@ -46954,7 +47002,7 @@
   {
    "symbol": "BBGI",
    "name": "Beasley Broadcast Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BBGI"
   },
   {
@@ -47160,12 +47208,6 @@
    "name": "Beam Global - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BEEM"
-  },
-  {
-   "symbol": "BEEMW",
-   "name": "Beam Global - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BEEMW"
   },
   {
    "symbol": "BEEZ",
@@ -58736,6 +58778,12 @@
    "yahoo_symbol": "JTEK"
   },
   {
+   "symbol": "JUNE",
+   "name": "Junee Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JUNE"
+  },
+  {
    "symbol": "JVA",
    "name": "Coffee Holding Co., Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -60770,12 +60818,6 @@
    "yahoo_symbol": "MDGL"
   },
   {
-   "symbol": "MDGS",
-   "name": "Medigus Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MDGS"
-  },
-  {
    "symbol": "MDIA",
    "name": "Mediaco Holding Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -60954,12 +60996,6 @@
    "name": "First Trust Flexible Municipal High Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MFLX"
-  },
-  {
-   "symbol": "MGAM",
-   "name": "Mobile Global Esports Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MGAM"
   },
   {
    "symbol": "MGEE",
@@ -63726,18 +63762,6 @@
    "name": "Orrstown Financial Services Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ORRF"
-  },
-  {
-   "symbol": "OSA",
-   "name": "ProSomnus, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OSA"
-  },
-  {
-   "symbol": "OSAAW",
-   "name": "ProSomnus, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OSAAW"
   },
   {
    "symbol": "OSBC",
@@ -72824,6 +72848,12 @@
    "yahoo_symbol": "XLO"
   },
   {
+   "symbol": "XLYO",
+   "name": "Xylo Technologies Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XLYO"
+  },
+  {
    "symbol": "XMTR",
    "name": "Xometry, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -78152,6 +78182,12 @@
    "yahoo_symbol": "CTRE"
   },
   {
+   "symbol": "CTRI",
+   "name": "Centuri Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTRI"
+  },
+  {
    "symbol": "CTS",
    "name": "CTS Corporation Common Stock",
    "exchange": "NYSE",
@@ -82514,12 +82550,6 @@
    "yahoo_symbol": "HTH"
   },
   {
-   "symbol": "HTY",
-   "name": "John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HTY"
-  },
-  {
    "symbol": "HUBB",
    "name": "Hubbell Inc Common Stock",
    "exchange": "NYSE",
@@ -82686,6 +82716,12 @@
    "name": "Installed Building Products, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "IBP"
+  },
+  {
+   "symbol": "IBTA",
+   "name": "Ibotta, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IBTA"
   },
   {
    "symbol": "ICD",
