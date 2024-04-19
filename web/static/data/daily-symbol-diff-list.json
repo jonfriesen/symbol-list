@@ -1,64 +1,60 @@
 {
  "added": [
   {
-   "symbol": "DMEU",
-   "name": "Desjardins American Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DMEU.TO",
-   "instruments": [
-    {
-     "name": "Des Amer Eq Idx Etf",
-     "symbol": "DMEU"
-    }
-   ]
-  },
-  {
-   "symbol": "DCBC",
-   "name": "Desjardins Canadian Corporate Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DCBC.TO",
-   "instruments": [
-    {
-     "name": "DesCad CrpBnd IdxEtf",
-     "symbol": "DCBC"
-    }
-   ]
-  },
-  {
-   "symbol": "DMEC",
-   "name": "Desjardins Canadian Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DMEC.TO",
-   "instruments": [
-    {
-     "name": "Des Cad Eq Idx Etf",
-     "symbol": "DMEC"
-    }
-   ]
-  },
-  {
-   "symbol": "DMEI",
-   "name": "Desjardins International Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DMEI.TO",
-   "instruments": [
-    {
-     "name": "Des Int Eq Index Etf",
-     "symbol": "DMEI"
-    }
-   ]
-  },
-  {
-   "symbol": "BBGI",
-   "name": "Beasley Broadcast Group, Inc. - Class A Common Stock",
+   "symbol": "CDTG",
+   "name": "CDT Environmental Technology Investment Holdings Limited - ordinary shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BBGI"
+   "yahoo_symbol": "CDTG"
   },
   {
-   "symbol": "JUNE",
-   "name": "Junee Limited - Ordinary Shares",
+   "symbol": "GECCI",
+   "name": "Great Elm Capital Corp. - 8.50% NOTES DUE 2029",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCI"
+  },
+  {
+   "symbol": "MTEN",
+   "name": "Mingteng International Corporation Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JUNE"
+   "yahoo_symbol": "MTEN"
+  },
+  {
+   "symbol": "SERV",
+   "name": "Serve Robotics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SERV"
+  },
+  {
+   "symbol": "XYLO",
+   "name": "Xylo Technologies Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XYLO"
+  },
+  {
+   "symbol": "ONDR",
+   "name": "Sushi Ginza Onodera, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ONDR"
+  },
+  {
+   "symbol": "SLSR",
+   "name": "Solaris Resources Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SLSR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KAMN",
+   "name": "Kaman Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KAMN"
+  },
+  {
+   "symbol": "PPHPR",
+   "name": "PHP Ventures Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPHPR"
   },
   {
    "symbol": "XLYO",
@@ -67,60 +63,40 @@
    "yahoo_symbol": "XLYO"
   },
   {
-   "symbol": "CTRI",
-   "name": "Centuri Holdings, Inc. Common Stock",
+   "symbol": "CBD",
+   "name": "Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share",
    "exchange": "NYSE",
-   "yahoo_symbol": "CTRI"
+   "yahoo_symbol": "CBD"
   },
   {
-   "symbol": "IBTA",
-   "name": "Ibotta, Inc. Class A Common Stock",
+   "symbol": "PPHP",
+   "name": "PHP Ventures Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPHP"
+  },
+  {
+   "symbol": "PPHPU",
+   "name": "PHP Ventures Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPHPU"
+  },
+  {
+   "symbol": "PPHPW",
+   "name": "PHP Ventures Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPHPW"
+  },
+  {
+   "symbol": "MDC",
+   "name": "M.D.C. Holdings, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "IBTA"
-  }
- ],
- "removed": [
+   "yahoo_symbol": "MDC"
+  },
   {
-   "symbol": "OSAAW",
-   "name": "ProSomnus, Inc. - Warrant",
+   "symbol": "GGE",
+   "name": "Green Giant Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OSAAW"
-  },
-  {
-   "symbol": "HTY",
-   "name": "John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HTY"
-  },
-  {
-   "symbol": "OSA",
-   "name": "ProSomnus, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OSA"
-  },
-  {
-   "symbol": "MGAM",
-   "name": "Mobile Global Esports Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MGAM"
-  },
-  {
-   "symbol": "MDGS",
-   "name": "Medigus Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MDGS"
-  },
-  {
-   "symbol": "BBGI",
-   "name": "Beasley Broadcast Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BBGI"
-  },
-  {
-   "symbol": "BEEMW",
-   "name": "Beam Global - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BEEMW"
+   "yahoo_symbol": "GGE"
   }
  ]
 }
