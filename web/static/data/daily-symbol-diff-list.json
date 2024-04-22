@@ -1,102 +1,48 @@
 {
  "added": [
   {
-   "symbol": "CDTG",
-   "name": "CDT Environmental Technology Investment Holdings Limited - ordinary shares",
+   "symbol": "IFN.R",
+   "name": "India Fund, Inc. (The) Rights (expiring May 14, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFN.R"
+  },
+  {
+   "symbol": "TRSG",
+   "name": "Tungray Technologies Inc - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CDTG"
-  },
-  {
-   "symbol": "GECCI",
-   "name": "Great Elm Capital Corp. - 8.50% NOTES DUE 2029",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GECCI"
-  },
-  {
-   "symbol": "MTEN",
-   "name": "Mingteng International Corporation Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MTEN"
-  },
-  {
-   "symbol": "SERV",
-   "name": "Serve Robotics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SERV"
-  },
-  {
-   "symbol": "XYLO",
-   "name": "Xylo Technologies Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XYLO"
-  },
-  {
-   "symbol": "ONDR",
-   "name": "Sushi Ginza Onodera, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ONDR"
-  },
-  {
-   "symbol": "SLSR",
-   "name": "Solaris Resources Inc. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SLSR"
+   "yahoo_symbol": "TRSG"
   }
  ],
  "removed": [
   {
-   "symbol": "KAMN",
-   "name": "Kaman Corporation Common Stock",
+   "symbol": "DCFCW",
+   "name": "Tritium DCFC Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DCFCW"
+  },
+  {
+   "symbol": "DCFC",
+   "name": "Tritium DCFC Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DCFC"
+  },
+  {
+   "symbol": "IFN.V",
+   "name": "India Fund, Inc. (The) Rights (expiring May 14, 2024) Rights when issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "KAMN"
+   "yahoo_symbol": "IFN.V"
   },
   {
-   "symbol": "PPHPR",
-   "name": "PHP Ventures Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PPHPR"
-  },
-  {
-   "symbol": "XLYO",
-   "name": "Xylo Technologies Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XLYO"
-  },
-  {
-   "symbol": "CBD",
-   "name": "Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CBD"
-  },
-  {
-   "symbol": "PPHP",
-   "name": "PHP Ventures Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PPHP"
-  },
-  {
-   "symbol": "PPHPU",
-   "name": "PHP Ventures Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PPHPU"
-  },
-  {
-   "symbol": "PPHPW",
-   "name": "PHP Ventures Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PPHPW"
-  },
-  {
-   "symbol": "MDC",
-   "name": "M.D.C. Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MDC"
-  },
-  {
-   "symbol": "GGE",
-   "name": "Green Giant Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GGE"
+   "symbol": "UNV",
+   "name": "Universal Copper Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UNV.V",
+   "instruments": [
+    {
+     "name": "Universal Copper Ltd.",
+     "symbol": "UNV"
+    }
+   ]
   }
  ]
 }

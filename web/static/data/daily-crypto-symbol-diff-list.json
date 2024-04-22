@@ -1,159 +1,132 @@
 {
  "added": [
   {
-   "symbol": "AAZ",
-   "name": "ATLAZ (AAZ)",
-   "built_on": "SOL"
+   "symbol": "UCORE",
+   "name": "UnityCore Protocol (UCORE)",
+   "built_on": "CORE"
   },
   {
-   "symbol": "GROKCAT",
-   "name": "Grok Cat (GROKCAT)",
+   "symbol": "CHOY",
+   "name": "Bok Choy (CHOY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ECG",
+   "name": "EcoSmart (ECG)",
    "built_on": "BNB"
   },
   {
-   "symbol": "SORAPORN",
-   "name": "Sora Porn (SORAPORN)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "TRUEBIT",
-   "name": "Truebit Protocol (TRUEBIT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "KENSHI",
-   "name": "Kenshi (KENSHI)"
-  },
-  {
-   "symbol": "HASHAI",
-   "name": "HashAI (HASHAI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "REKT",
-   "name": "REKT (REKT)"
-  },
-  {
-   "symbol": "KEYCAT",
-   "name": "Keyboard Cat (KEYCAT)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "BOMES",
-   "name": "BOOK OF MEMES (BOMES)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BODO",
-   "name": "BOOK OF DOGS (BODO)",
+   "symbol": "WBESC",
+   "name": "Wrapped BESC (WBESC)",
    "built_on": "BNB"
   },
   {
-   "symbol": "SPEEDY",
-   "name": "Speedy (SPEEDY)",
-   "built_on": "FTM"
+   "symbol": "GICT",
+   "name": "GICTrade (GICT)"
   },
   {
-   "symbol": "INP",
-   "name": "Ionic Pocket Token (INP)",
-   "built_on": "ETH"
+   "symbol": "PBAR",
+   "name": "Pangolin Hedera (PBAR)",
+   "built_on": "HBAR"
   },
   {
-   "symbol": "LIBRA",
-   "name": "Libra Protocol (LIBRA)",
-   "built_on": "SOL"
+   "symbol": "GND",
+   "name": "GND Protoco (GND)",
+   "built_on": "ARB"
   },
   {
-   "symbol": "CITI",
-   "name": "CITI Fediverse (CITI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "WCELL",
-   "name": "Wrapped CellMates (WCELL)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "OPENCHAT",
-   "name": "OpenChat (OPENCHAT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "RWA",
-   "name": "Xend Finance (RWA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BSTC",
-   "name": "BST Chain (BSTC)"
-  },
-  {
-   "symbol": "JIZZLORD",
-   "name": "JizzLord (JIZZLORD)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "ELECTRON",
-   "name": "Electron (Atomicals) (ELECTRON)",
+   "symbol": "DEED",
+   "name": "Deed (Ordinals) (DEED)",
    "built_on": "BTC"
   },
   {
-   "symbol": "XRAI",
-   "name": "X-Ratio A (XRAI)",
+   "symbol": "CRAZYCAT",
+   "name": "CRAZY CAT (CRAZYCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEUSD",
+   "name": "peg-eUSD (PEUSD)",
    "built_on": "ETH"
   },
   {
-   "symbol": "HEMAN",
-   "name": "HE-MAN (HEMAN)"
+   "symbol": "BONE",
+   "name": "Bone ShibaSwap (BONE)"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
+   "symbol": "SCFX",
+   "name": "Shui CFX (SCFX)",
+   "built_on": "CFX"
   },
   {
-   "symbol": "BROGG",
-   "name": "Brett's Dog (BROGG)",
-   "built_on": "BASECHAIN"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ORDI2",
+   "name": "ORDI 2.0 (ORDI2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPEW",
+   "name": "PEPEPOW (PEPEW)"
+  },
+  {
+   "symbol": "DONALD",
+   "name": "DONALD TRUMP (DONALD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "WETHW",
+   "name": "Wrapped EthereumPoW (WETHW)",
+   "built_on": "OKT"
+  },
+  {
+   "symbol": "PLA",
+   "name": "PlayDapp (PLA)"
+  },
+  {
+   "symbol": "WWEMIX",
+   "name": "WWEMIX (WWEMIX)",
+   "built_on": "WEMIX"
+  },
+  {
+   "symbol": "SMA",
+   "name": "Soma Network (SMA)",
+   "built_on": "BNB"
   },
   {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "EMAX",
-   "name": "EthereumMax (EMAX)",
-   "built_on": "ETH"
+   "symbol": "USDTZ",
+   "name": "USDtez (USDTZ)",
+   "built_on": "XTZ"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
+   "symbol": "FEGV1",
+   "name": "FEG Token v1 (FEGV1)"
   },
   {
-   "symbol": "MOUTAI",
-   "name": "Moutai (MOUTAI)",
-   "built_on": "SOL"
+   "symbol": "BTNT",
+   "name": "BitNautic Token (BTNT)"
   }
  ],
  "removed": [
   {
-   "symbol": "EMAX",
-   "name": "EthereumMax (EMAX)"
-  },
-  {
-   "symbol": "KENSHI",
-   "name": "Kenshi (KENSHI)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "REKT",
-   "name": "REKT (REKT)",
+   "symbol": "PLA",
+   "name": "PlayDapp (PLA)",
    "built_on": "ETH"
   },
   {
-   "symbol": "TRUEBIT",
-   "name": "Truebit Protocol (TRUEBIT)"
+   "symbol": "BONE",
+   "name": "Bone ShibaSwap (BONE)",
+   "built_on": "ETH"
   }
  ]
 }
