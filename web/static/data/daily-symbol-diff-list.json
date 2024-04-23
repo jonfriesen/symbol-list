@@ -1,48 +1,102 @@
 {
  "added": [
   {
-   "symbol": "IFN.R",
-   "name": "India Fund, Inc. (The) Rights (expiring May 14, 2024) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IFN.R"
+   "symbol": "BOTT",
+   "name": "Themes Robotics \u0026 Automation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOTT"
   },
   {
-   "symbol": "TRSG",
-   "name": "Tungray Technologies Inc - Class A Ordinary Shares",
+   "symbol": "MFI",
+   "name": "mF International Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TRSG"
+   "yahoo_symbol": "MFI"
+  },
+  {
+   "symbol": "YYGH",
+   "name": "YY Group Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YYGH"
+  },
+  {
+   "symbol": "FAS",
+   "name": "First Andes Silver Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FAS.V",
+   "instruments": [
+    {
+     "name": "First Andes Silver Ltd.",
+     "symbol": "FAS"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "DCFCW",
-   "name": "Tritium DCFC Limited - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DCFCW"
-  },
-  {
-   "symbol": "DCFC",
-   "name": "Tritium DCFC Limited - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DCFC"
-  },
-  {
-   "symbol": "IFN.V",
-   "name": "India Fund, Inc. (The) Rights (expiring May 14, 2024) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IFN.V"
-  },
-  {
-   "symbol": "UNV",
-   "name": "Universal Copper Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "UNV.V",
+   "symbol": "MPCF",
+   "name": "Mackenzie Portfolio Completion ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MPCF.TO",
    "instruments": [
     {
-     "name": "Universal Copper Ltd.",
-     "symbol": "UNV"
+     "name": "Mackenzie PortflComp",
+     "symbol": "MPCF"
     }
    ]
+  },
+  {
+   "symbol": "RMGCU",
+   "name": "RMG Acquisition Corp. III - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMGCU"
+  },
+  {
+   "symbol": "RMGC",
+   "name": "RMG Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMGC"
+  },
+  {
+   "symbol": "MNTR",
+   "name": "Mantaro Precious Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNTR.V",
+   "instruments": [
+    {
+     "name": "Mantaro Precious Metals Corp.",
+     "symbol": "MNTR"
+    }
+   ]
+  },
+  {
+   "symbol": "RMGCW",
+   "name": "RMG Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMGCW"
+  },
+  {
+   "symbol": "THNK",
+   "name": "Think Research Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "THNK.V",
+   "instruments": [
+    {
+     "name": "Think Research Corporation",
+     "symbol": "THNK"
+    }
+   ]
+  },
+  {
+   "symbol": "CSML",
+   "name": "IQ U.S. Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSML"
+  },
+  {
+   "symbol": "ONDR",
+   "name": "Sushi Ginza Onodera, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ONDR"
   }
  ]
 }
