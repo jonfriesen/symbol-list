@@ -1,60 +1,120 @@
 {
  "added": [
   {
-   "symbol": "NTB",
-   "name": "New Tymbal Resources Ltd.",
+   "symbol": "PSTR",
+   "name": "PeakShares Sector Rotation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PSTR"
+  },
+  {
+   "symbol": "YAY",
+   "name": "THS Maple Holdings Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "NTB.V",
+   "yahoo_symbol": "YAY.V",
    "instruments": [
     {
-     "name": "New Tymbal Resources Ltd.",
-     "symbol": "NTB"
+     "name": "THS Maple Holdings Ltd.",
+     "symbol": "YAY"
     }
    ]
   },
   {
-   "symbol": "GIGC",
-   "name": "Guardian Investment Grade Corporate Bond Fund",
+   "symbol": "PPLN",
+   "name": "Global X Pipelines \u0026 Energy Services Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "GIGC.TO",
+   "yahoo_symbol": "PPLN.TO",
    "instruments": [
     {
-     "name": "Guard Inv Gr CorpBnd",
-     "symbol": "GIGC"
+     "name": "Horizn PplnEngyServA",
+     "symbol": "PPLN"
     }
    ]
+  },
+  {
+   "symbol": "VIK",
+   "name": "Viking Holdings Ltd Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VIK"
   }
  ],
  "removed": [
   {
-   "symbol": "DSAQ",
-   "name": "Direct Selling Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DSAQ"
+   "symbol": "FUV",
+   "name": "Arcimoto, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FUV"
   },
   {
-   "symbol": "AJXA",
-   "name": "Great Ajax Corp. 7.25% Convertible Senior Notes due 2024",
+   "symbol": "FHN$D",
+   "name": "First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D",
    "exchange": "NYSE",
-   "yahoo_symbol": "AJXA"
+   "yahoo_symbol": "FHN$D"
   },
   {
-   "symbol": "TYMB",
-   "name": "Tymbal Resources Ltd.",
+   "symbol": "YAY.P",
+   "name": "Toronto CleanTech Capital Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TYMB.V",
+   "yahoo_symbol": "YAY.P.V",
    "instruments": [
     {
-     "name": "Tymbal Resources Ltd.",
-     "symbol": "TYMB"
+     "name": "Toronto Cleantech Capital Inc.",
+     "symbol": "YAY.P"
     }
    ]
   },
   {
-   "symbol": "DSAQ.U",
-   "name": "Direct Selling Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of redeemable warrant",
+   "symbol": "IBACU",
+   "name": "IB Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBACU"
+  },
+  {
+   "symbol": "C",
+   "name": "Contact Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "C.V",
+   "instruments": [
+    {
+     "name": "Contact Gold Corp.",
+     "symbol": "C"
+    }
+   ]
+  },
+  {
+   "symbol": "PGSS",
+   "name": "Pegasus Digital Mobility Acquisition Corp. Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "DSAQ.U"
+   "yahoo_symbol": "PGSS"
+  },
+  {
+   "symbol": "PGSS.U",
+   "name": "Pegasus Digital Mobility Acquisition Corp. Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PGSS.U"
+  },
+  {
+   "symbol": "PGSS.W",
+   "name": "Pegasus Digital Mobility Acquisition Corp. Redeemable Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PGSS.W"
+  },
+  {
+   "symbol": "EGOX",
+   "name": "Next.e.GO N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGOX"
+  },
+  {
+   "symbol": "HOG",
+   "name": "Horizons Pipelines \u0026 Energy Services Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HOG.TO",
+   "instruments": [
+    {
+     "name": "Horizn PplnEngyServA",
+     "symbol": "HOG"
+    }
+   ]
   }
  ]
 }

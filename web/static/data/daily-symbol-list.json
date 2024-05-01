@@ -1,5 +1,5 @@
 {
- "date": "2024-04-30",
+ "date": "2024-05-01",
  "data": [
   {
    "symbol": "AACG",
@@ -8426,12 +8426,6 @@
    "yahoo_symbol": "EGIO"
   },
   {
-   "symbol": "EGOX",
-   "name": "Next.e.GO N.V. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EGOX"
-  },
-  {
    "symbol": "EGRX",
    "name": "Eagle Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -10722,12 +10716,6 @@
    "name": "Futu Holdings Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FUTU"
-  },
-  {
-   "symbol": "FUV",
-   "name": "Arcimoto, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FUV"
   },
   {
    "symbol": "FV",
@@ -13038,12 +13026,6 @@
    "name": "Integral Ad Science Holding Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IAS"
-  },
-  {
-   "symbol": "IBACU",
-   "name": "IB Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IBACU"
   },
   {
    "symbol": "IBAT",
@@ -21276,6 +21258,12 @@
    "name": "Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW)",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PSNYW"
+  },
+  {
+   "symbol": "PSTR",
+   "name": "PeakShares Sector Rotation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PSTR"
   },
   {
    "symbol": "PSTV",
@@ -33458,18 +33446,6 @@
    ]
   },
   {
-   "symbol": "C",
-   "name": "Contact Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "C.V",
-   "instruments": [
-    {
-     "name": "Contact Gold Corp.",
-     "symbol": "C"
-    }
-   ]
-  },
-  {
    "symbol": "CNS",
    "name": "Contagious Gaming Inc.",
    "exchange": "TSXV",
@@ -42120,7 +42096,7 @@
    "yahoo_symbol": "ONYX.V",
    "instruments": [
     {
-     "name": "Onyx Gold Corp",
+     "name": "Onyx Gold Corp.",
      "symbol": "ONYX"
     }
    ]
@@ -46646,6 +46622,18 @@
    ]
   },
   {
+   "symbol": "YAY",
+   "name": "THS Maple Holdings Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YAY.V",
+   "instruments": [
+    {
+     "name": "THS Maple Holdings Ltd.",
+     "symbol": "YAY"
+    }
+   ]
+  },
+  {
    "symbol": "TGOL",
    "name": "Thunder Gold Corp.",
    "exchange": "TSXV",
@@ -46910,18 +46898,6 @@
     {
      "name": "Tornado Global Hydrovacs Ltd.",
      "symbol": "TGH"
-    }
-   ]
-  },
-  {
-   "symbol": "YAY.P",
-   "name": "Toronto CleanTech Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "YAY.P.V",
-   "instruments": [
-    {
-     "name": "Toronto Cleantech Capital Inc.",
-     "symbol": "YAY.P"
     }
    ]
   },
@@ -49714,10 +49690,6 @@
     {
      "name": "Aris Mng Corp A Wt",
      "symbol": "ARIS.WT.A"
-    },
-    {
-     "name": "Aris Mng Corp B Wt",
-     "symbol": "ARIS.WT.B"
     }
    ]
   },
@@ -53372,10 +53344,6 @@
      "symbol": "BEP.PR.M"
     },
     {
-     "name": "Brookfield RenewPr15",
-     "symbol": "BEP.PR.O"
-    },
-    {
      "name": "Brookfield RenewPr18",
      "symbol": "BEP.PR.R"
     },
@@ -53694,10 +53662,6 @@
     {
      "name": "Cdn Imp Bk Ser 47 Pr",
      "symbol": "CM.PR.S"
-    },
-    {
-     "name": "Cdn Imp Bk Ser 49 Pr",
-     "symbol": "CM.PR.T"
     },
     {
      "name": "Cdn Imp Bk Ser 51 Pr",
@@ -54120,7 +54084,7 @@
    "yahoo_symbol": "CLS.TO",
    "instruments": [
     {
-     "name": "Celestica Inc SV",
+     "name": "Celestica Inc ",
      "symbol": "CLS"
     }
    ]
@@ -59686,6 +59650,1026 @@
    ]
   },
   {
+   "symbol": "CBIL",
+   "name": "Global X 0-3 Month T-Bill ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBIL.TO",
+   "instruments": [
+    {
+     "name": "Horizons 0-3Mon T-bl",
+     "symbol": "CBIL"
+    }
+   ]
+  },
+  {
+   "symbol": "UBIL.U",
+   "name": "Global X 0-3 Month U.S. T-Bill ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UBIL.U.TO",
+   "instruments": [
+    {
+     "name": "Horizons 0-3MoTbl US",
+     "symbol": "UBIL.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HAD",
+   "name": "Global X Active Canadian Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HAD.TO",
+   "instruments": [
+    {
+     "name": "Horizon ActvCdnBndUn",
+     "symbol": "HAD"
+    }
+   ]
+  },
+  {
+   "symbol": "HAL",
+   "name": "Global X Active Canadian Dividend ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HAL.TO",
+   "instruments": [
+    {
+     "name": "Horizons Cdn Div E",
+     "symbol": "HAL"
+    }
+   ]
+  },
+  {
+   "symbol": "HMP",
+   "name": "Global X Active Canadian Municipal Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HMP.TO",
+   "instruments": [
+    {
+     "name": "Horizn ActCdnMunBd E",
+     "symbol": "HMP"
+    }
+   ]
+  },
+  {
+   "symbol": "HAB",
+   "name": "Global X Active Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HAB.TO",
+   "instruments": [
+    {
+     "name": "Horizon CorpBnd E Un",
+     "symbol": "HAB"
+    }
+   ]
+  },
+  {
+   "symbol": "HAZ",
+   "name": "Global X Active Global Dividend ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HAZ.TO",
+   "instruments": [
+    {
+     "name": "Horizon GlblDiv E Un",
+     "symbol": "HAZ"
+    }
+   ]
+  },
+  {
+   "symbol": "HAF",
+   "name": "Global X Active Global Fixed Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HAF.TO",
+   "instruments": [
+    {
+     "name": "Horizon ActiveGlbl E",
+     "symbol": "HAF"
+    }
+   ]
+  },
+  {
+   "symbol": "HYBR",
+   "name": "Global X Active Hybrid Bond and Preferred Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HYBR.TO",
+   "instruments": [
+    {
+     "name": "Horizn Actv Bnd\u0026Pr E",
+     "symbol": "HYBR"
+    }
+   ]
+  },
+  {
+   "symbol": "HPR",
+   "name": "Global X Active Preferred Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HPR.TO",
+   "instruments": [
+    {
+     "name": "Horizon Pref Cl E Un",
+     "symbol": "HPR"
+    }
+   ]
+  },
+  {
+   "symbol": "HFR",
+   "name": "Global X Active Ultra-Short Term Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HFR.TO",
+   "instruments": [
+    {
+     "name": "Horizon ActUltST Bnd",
+     "symbol": "HFR"
+    }
+   ]
+  },
+  {
+   "symbol": "HEQT",
+   "name": "Global X All-Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEQT.TO",
+   "instruments": [
+    {
+     "name": "Horizon EqAstAlloc A",
+     "symbol": "HEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "HBAL",
+   "name": "Global X Balanced Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBAL.TO",
+   "instruments": [
+    {
+     "name": "HorizonsBalAstAloc A",
+     "symbol": "HBAL"
+    }
+   ]
+  },
+  {
+   "symbol": "HBGD",
+   "name": "Global X Big Data \u0026 Hardware Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBGD.TO",
+   "instruments": [
+    {
+     "name": "HoriznBigDataHrdwr A",
+     "symbol": "HBGD"
+    },
+    {
+     "name": "HoriznBigDataHrdwrUS",
+     "symbol": "HBGD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HXH",
+   "name": "Global X Canadian High Dividend Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXH.TO",
+   "instruments": [
+    {
+     "name": "Horizons CdnHiDivShr",
+     "symbol": "HXH"
+    }
+   ]
+  },
+  {
+   "symbol": "ENCC",
+   "name": "Global X Canadian Oil and Gas Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ENCC.TO",
+   "instruments": [
+    {
+     "name": "HoriznCA O\u0026G EqCal E",
+     "symbol": "ENCC"
+    }
+   ]
+  },
+  {
+   "symbol": "HBB",
+   "name": "Global X Canadian Select Universe Bond Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBB.TO",
+   "instruments": [
+    {
+     "name": "Horizon Cdn SlctUniv",
+     "symbol": "HBB"
+    }
+   ]
+  },
+  {
+   "symbol": "UTIL",
+   "name": "Global X Canadian Utility Services High Dividend Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UTIL.TO",
+   "instruments": [
+    {
+     "name": "Horizn CdnUtilSrvDiv",
+     "symbol": "UTIL"
+    }
+   ]
+  },
+  {
+   "symbol": "CARB",
+   "name": "Global X Carbon Credits ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CARB.TO",
+   "instruments": [
+    {
+     "name": "Horizons CarbonCredt",
+     "symbol": "CARB"
+    }
+   ]
+  },
+  {
+   "symbol": "HSAV",
+   "name": "Global X Cash Maximizer Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSAV.TO",
+   "instruments": [
+    {
+     "name": "Horizons CshMaxShare",
+     "symbol": "HSAV"
+    }
+   ]
+  },
+  {
+   "symbol": "HCON",
+   "name": "Global X Conservative Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HCON.TO",
+   "instruments": [
+    {
+     "name": "Horizons Conserv A",
+     "symbol": "HCON"
+    }
+   ]
+  },
+  {
+   "symbol": "COPP",
+   "name": "Global X Copper Producers Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COPP.TO",
+   "instruments": [
+    {
+     "name": "Horizons Copper A Un",
+     "symbol": "COPP"
+    }
+   ]
+  },
+  {
+   "symbol": "HUC",
+   "name": "Global X Crude Oil ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HUC.TO",
+   "instruments": [
+    {
+     "name": "Horizons CrudOil ETF",
+     "symbol": "HUC"
+    }
+   ]
+  },
+  {
+   "symbol": "HBUG",
+   "name": "Global X Cybersecurity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBUG.TO",
+   "instruments": [
+    {
+     "name": "HorizonsGX CybrsecUn",
+     "symbol": "HBUG"
+    }
+   ]
+  },
+  {
+   "symbol": "HXEM",
+   "name": "Global X Emerging Markets Equity Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXEM.TO",
+   "instruments": [
+    {
+     "name": "Horizons EmergMkt Eq",
+     "symbol": "HXEM"
+    }
+   ]
+  },
+  {
+   "symbol": "EQCL",
+   "name": "Global X Enhanced All-Equity Asset Allocation Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn EqAstAlocCvCl",
+     "symbol": "EQCL"
+    }
+   ]
+  },
+  {
+   "symbol": "HEQL",
+   "name": "Global X Enhanced All-Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEQL.TO",
+   "instruments": [
+    {
+     "name": "Horizon Eq AsstAlloc",
+     "symbol": "HEQL"
+    }
+   ]
+  },
+  {
+   "symbol": "ENCL",
+   "name": "Global X Enhanced Canadian Oil and Gas Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ENCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn Cdn O\u0026GEqCvCl",
+     "symbol": "ENCL"
+    }
+   ]
+  },
+  {
+   "symbol": "BNKL",
+   "name": "Global X Enhanced Equal Weight Banks Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BNKL.TO",
+   "instruments": [
+    {
+     "name": "Horizn EnEqWgtBnkIdx",
+     "symbol": "BNKL"
+    }
+   ]
+  },
+  {
+   "symbol": "BKCL",
+   "name": "Global X Enhanced Equal Weight Canadian Banks Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BKCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn =WgtCdnBkCall",
+     "symbol": "BKCL"
+    }
+   ]
+  },
+  {
+   "symbol": "QQCL",
+   "name": "Global X Enhanced Nasdaq-100 Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn NASDQ100CvrCl",
+     "symbol": "QQCL"
+    }
+   ]
+  },
+  {
+   "symbol": "USCL",
+   "name": "Global X Enhanced S\u0026P 500 Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "USCL.TO",
+   "instruments": [
+    {
+     "name": "HoriznUS LgCpEqCvrCl",
+     "symbol": "USCL"
+    }
+   ]
+  },
+  {
+   "symbol": "CNCL",
+   "name": "Global X Enhanced S\u0026P/TSX 60 Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn CdnLgCpEqCvCl",
+     "symbol": "CNCL"
+    }
+   ]
+  },
+  {
+   "symbol": "CANL",
+   "name": "Global X Enhanced S\u0026P/TSX 60 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CANL.TO",
+   "instruments": [
+    {
+     "name": "Horizn EnhnS\u0026P/TSX60",
+     "symbol": "CANL"
+    }
+   ]
+  },
+  {
+   "symbol": "BKCC",
+   "name": "Global X Equal Weight Canadian Bank Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BKCC.TO",
+   "instruments": [
+    {
+     "name": "HoriznEqlWgtCA BnkCv",
+     "symbol": "BKCC"
+    }
+   ]
+  },
+  {
+   "symbol": "HEWB",
+   "name": "Global X Equal Weight Canadian Banks Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEWB.TO",
+   "instruments": [
+    {
+     "name": "Horizons EqlCdaBanks",
+     "symbol": "HEWB"
+    }
+   ]
+  },
+  {
+   "symbol": "HBNK",
+   "name": "Global X Equal Weight Canadian Banks Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBNK.TO",
+   "instruments": [
+    {
+     "name": "Horizn EqWgtBanksIdx",
+     "symbol": "HBNK"
+    }
+   ]
+  },
+  {
+   "symbol": "HCRE",
+   "name": "Global X Equal Weight Canadian REITs Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HCRE.TO",
+   "instruments": [
+    {
+     "name": "Horizons EqlCA REIT",
+     "symbol": "HCRE"
+    }
+   ]
+  },
+  {
+   "symbol": "HXX",
+   "name": "Global X Europe 50 Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXX.TO",
+   "instruments": [
+    {
+     "name": "HoriznEURO 50IndxShr",
+     "symbol": "HXX"
+    }
+   ]
+  },
+  {
+   "symbol": "ETHI",
+   "name": "Global X Global Sustainability Leaders Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ETHI.TO",
+   "instruments": [
+    {
+     "name": "Horizon GlbSustLdr A",
+     "symbol": "ETHI"
+    }
+   ]
+  },
+  {
+   "symbol": "HUG",
+   "name": "Global X Gold ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HUG.TO",
+   "instruments": [
+    {
+     "name": "Horizons Gold ETF",
+     "symbol": "HUG"
+    }
+   ]
+  },
+  {
+   "symbol": "GLCC",
+   "name": "Global X Gold Producer Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLCC.TO",
+   "instruments": [
+    {
+     "name": "Horizn Gld EqCvCll E",
+     "symbol": "GLCC"
+    }
+   ]
+  },
+  {
+   "symbol": "HGY",
+   "name": "Global X Gold Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGY.TO",
+   "instruments": [
+    {
+     "name": "Horizons GldYld E Un",
+     "symbol": "HGY"
+    }
+   ]
+  },
+  {
+   "symbol": "GRCC",
+   "name": "Global X Growth Asset Allocation Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GRCC.TO",
+   "instruments": [
+    {
+     "name": "HoriznGroAstAlocCvCl",
+     "symbol": "GRCC"
+    }
+   ]
+  },
+  {
+   "symbol": "HGRW",
+   "name": "Global X Growth Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGRW.TO",
+   "instruments": [
+    {
+     "name": "Horizon GroAsstAlloc",
+     "symbol": "HGRW"
+    }
+   ]
+  },
+  {
+   "symbol": "CASH",
+   "name": "Global X High Interest Savings ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CASH.TO",
+   "instruments": [
+    {
+     "name": "Horizons HiIntSvgs A",
+     "symbol": "CASH"
+    }
+   ]
+  },
+  {
+   "symbol": "FOUR",
+   "name": "Global X Industry 4.0 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FOUR.TO",
+   "instruments": [
+    {
+     "name": "Horizons Indust A Un",
+     "symbol": "FOUR"
+    }
+   ]
+  },
+  {
+   "symbol": "INOC",
+   "name": "Global X Inovestor Canadian Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "INOC.TO",
+   "instruments": [
+    {
+     "name": "Horizon InovestCdnEq",
+     "symbol": "INOC"
+    }
+   ]
+  },
+  {
+   "symbol": "HXDM",
+   "name": "Global X Intl Developed Markets Equity Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXDM.TO",
+   "instruments": [
+    {
+     "name": "Horizons IntlMkts Eq",
+     "symbol": "HXDM"
+    },
+    {
+     "name": "Horizons IntlMktEqUS",
+     "symbol": "HXDM.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HLPR",
+   "name": "Global X Laddered Canadian Preferred Share Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HLPR.TO",
+   "instruments": [
+    {
+     "name": "Horizn LadrdCA PrShr",
+     "symbol": "HLPR"
+    }
+   ]
+  },
+  {
+   "symbol": "HLIT",
+   "name": "Global X Lithium Producers Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HLIT.TO",
+   "instruments": [
+    {
+     "name": "HoriznGlbLithiumProd",
+     "symbol": "HLIT"
+    }
+   ]
+  },
+  {
+   "symbol": "LPAY",
+   "name": "Global X Long-Term U.S. Treasury Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LPAY.TO",
+   "instruments": [
+    {
+     "name": "Horizn LTrm US Treas",
+     "symbol": "LPAY"
+    },
+    {
+     "name": "Horizn LTrmUS TreaUS",
+     "symbol": "LPAY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HMMJ",
+   "name": "Global X Marijuana Life Sciences Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HMMJ.TO",
+   "instruments": [
+    {
+     "name": "Horizons Marij Lfe A",
+     "symbol": "HMMJ"
+    },
+    {
+     "name": "Horizons Marij US",
+     "symbol": "HMMJ.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MTAV",
+   "name": "Global X Metaverse Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MTAV.TO",
+   "instruments": [
+    {
+     "name": "Horizon GlbMetavrs A",
+     "symbol": "MTAV"
+    }
+   ]
+  },
+  {
+   "symbol": "MPAY",
+   "name": "Global X Mid-Term U.S. Treasury Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MPAY.TO",
+   "instruments": [
+    {
+     "name": "Horizn MTrm US Treas",
+     "symbol": "MPAY"
+    },
+    {
+     "name": "Horizn MTrmUS TreaUS",
+     "symbol": "MPAY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "QQCC",
+   "name": "Global X Nasdaq-100 Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQCC.TO",
+   "instruments": [
+    {
+     "name": "HoriznNASDAQ100Cal E",
+     "symbol": "QQCC"
+    }
+   ]
+  },
+  {
+   "symbol": "HXQ",
+   "name": "Global X Nasdaq-100 Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXQ.TO",
+   "instruments": [
+    {
+     "name": "Horizon NASDAQ100SHR",
+     "symbol": "HXQ"
+    },
+    {
+     "name": "Horizon NASDAQ100 US",
+     "symbol": "HXQ.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HUN",
+   "name": "Global X Natural Gas ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HUN.TO",
+   "instruments": [
+    {
+     "name": "Horizons NatrlGasETF",
+     "symbol": "HUN"
+    }
+   ]
+  },
+  {
+   "symbol": "PPLN",
+   "name": "Global X Pipelines \u0026 Energy Services Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PPLN.TO",
+   "instruments": [
+    {
+     "name": "Horizn PplnEngyServA",
+     "symbol": "PPLN"
+    }
+   ]
+  },
+  {
+   "symbol": "HRAA",
+   "name": "Global X ReSolve Adaptive Asset Allocation Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HRAA.TO",
+   "instruments": [
+    {
+     "name": "Horizons ReSolvAlloc",
+     "symbol": "HRAA"
+    }
+   ]
+  },
+  {
+   "symbol": "RBOT",
+   "name": "Global X Robotics \u0026 AI Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RBOT.TO",
+   "instruments": [
+    {
+     "name": "Horizons Robotics\u0026AI",
+     "symbol": "RBOT"
+    },
+    {
+     "name": "Horizon Robot\u0026AI US",
+     "symbol": "RBOT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HSH",
+   "name": "Global X S\u0026P 500 CAD Hedged Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSH.TO",
+   "instruments": [
+    {
+     "name": "Horizn S\u0026P500CA Hegd",
+     "symbol": "HSH"
+    }
+   ]
+  },
+  {
+   "symbol": "USCC",
+   "name": "Global X S\u0026P 500 Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "USCC.TO",
+   "instruments": [
+    {
+     "name": "HoriznUS LgCapEqCA E",
+     "symbol": "USCC"
+    },
+    {
+     "name": "HoriznLrgCapEqClUS E",
+     "symbol": "USCC.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HXS",
+   "name": "Global X S\u0026P 500 Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXS.TO",
+   "instruments": [
+    {
+     "name": "Horizons S\u0026P500 Shr",
+     "symbol": "HXS"
+    },
+    {
+     "name": "Horizon S\u0026P500 US Sh",
+     "symbol": "HXS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HGGB",
+   "name": "Global X S\u0026P Green Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGGB.TO",
+   "instruments": [
+    {
+     "name": "HorizonS\u0026P GreenBndA",
+     "symbol": "HGGB"
+    }
+   ]
+  },
+  {
+   "symbol": "CNCC",
+   "name": "Global X S\u0026P/TSX  60 Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNCC.TO",
+   "instruments": [
+    {
+     "name": "HorizonCA LrgCapEq E",
+     "symbol": "CNCC"
+    }
+   ]
+  },
+  {
+   "symbol": "HXT",
+   "name": "Global X S\u0026P/TSX 60 Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXT.TO",
+   "instruments": [
+    {
+     "name": "Horizon S\u0026P/TSX60",
+     "symbol": "HXT"
+    },
+    {
+     "name": "Horizon S\u0026P/TSX60 US",
+     "symbol": "HXT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HXCN",
+   "name": "Global X S\u0026P/TSX Capped Composite Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXCN.TO",
+   "instruments": [
+    {
+     "name": "HorizonsS\u0026PTSXCapIdx",
+     "symbol": "HXCN"
+    }
+   ]
+  },
+  {
+   "symbol": "HXE",
+   "name": "Global X S\u0026P/TSX Capped Energy Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXE.TO",
+   "instruments": [
+    {
+     "name": "Horizn S\u0026PCapEngyIdx",
+     "symbol": "HXE"
+    }
+   ]
+  },
+  {
+   "symbol": "HXF",
+   "name": "Global X S\u0026P/TSX Capped Financials Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXF.TO",
+   "instruments": [
+    {
+     "name": "Horizn S\u0026PCapFin Idx",
+     "symbol": "HXF"
+    }
+   ]
+  },
+  {
+   "symbol": "HAC",
+   "name": "Global X Seasonal Rotation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HAC.TO",
+   "instruments": [
+    {
+     "name": "Horizon Seasonl E Un",
+     "symbol": "HAC"
+    }
+   ]
+  },
+  {
+   "symbol": "CHPS",
+   "name": "Global X Semiconductor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHPS.TO",
+   "instruments": [
+    {
+     "name": "HoriznGlbSemiconduct",
+     "symbol": "CHPS"
+    },
+    {
+     "name": "HoriznGlbSemicondctU",
+     "symbol": "CHPS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "SPAY",
+   "name": "Global X Short-Term U.S. Treasury Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPAY.TO",
+   "instruments": [
+    {
+     "name": "Horizon ST US Treas",
+     "symbol": "SPAY"
+    },
+    {
+     "name": "HoriznST US Treas US",
+     "symbol": "SPAY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HUZ",
+   "name": "Global X Silver ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HUZ.TO",
+   "instruments": [
+    {
+     "name": "Horizons Silver ETF",
+     "symbol": "HUZ"
+    }
+   ]
+  },
+  {
+   "symbol": "HURA",
+   "name": "Global X Uranium Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HURA.TO",
+   "instruments": [
+    {
+     "name": "Horizon GlbUranium A",
+     "symbol": "HURA"
+    }
+   ]
+  },
+  {
+   "symbol": "HTB",
+   "name": "Global X US 7-10 Year Treasury Bond Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HTB.TO",
+   "instruments": [
+    {
+     "name": "Horizn US7-10TreasBd",
+     "symbol": "HTB"
+    },
+    {
+     "name": "HoriznUS7-10TreaBdUS",
+     "symbol": "HTB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "DLR",
+   "name": "Global X US Dollar Currency ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DLR.TO",
+   "instruments": [
+    {
+     "name": "Horizon US$ Cur A Un",
+     "symbol": "DLR"
+    },
+    {
+     "name": "Horizon US$Cur A USF",
+     "symbol": "DLR.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HULC",
+   "name": "Global X US Large Cap Index Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HULC.TO",
+   "instruments": [
+    {
+     "name": "HorizonsUS LrgCapIdx",
+     "symbol": "HULC"
+    },
+    {
+     "name": "Horizon LrgCapIdx US",
+     "symbol": "HULC.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HSUV.U",
+   "name": "Global X USD Cash Maximizer Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSUV.U.TO",
+   "instruments": [
+    {
+     "name": "HorizonsUSD CshMaxUS",
+     "symbol": "HSUV.U"
+    }
+   ]
+  },
+  {
+   "symbol": "UCSH.U",
+   "name": "Global X USD High Interest Savings ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UCSH.U.TO",
+   "instruments": [
+    {
+     "name": "Horizn USD HiIntSvUS",
+     "symbol": "UCSH.U"
+    }
+   ]
+  },
+  {
    "symbol": "GMX",
    "name": "Globex Mining Enterprises Inc.",
    "exchange": "TSX",
@@ -60866,1026 +61850,6 @@
    ]
   },
   {
-   "symbol": "CBIL",
-   "name": "Horizons 0-3 Month T-Bill ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CBIL.TO",
-   "instruments": [
-    {
-     "name": "Horizons 0-3Mon T-bl",
-     "symbol": "CBIL"
-    }
-   ]
-  },
-  {
-   "symbol": "UBIL.U",
-   "name": "Horizons 0-3 Month U.S. T-Bill ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "UBIL.U.TO",
-   "instruments": [
-    {
-     "name": "Horizons 0-3MoTbl US",
-     "symbol": "UBIL.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HAD",
-   "name": "Horizons Active Cdn Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HAD.TO",
-   "instruments": [
-    {
-     "name": "Horizon ActvCdnBndUn",
-     "symbol": "HAD"
-    }
-   ]
-  },
-  {
-   "symbol": "HAL",
-   "name": "Horizons Active Cdn Dividend ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HAL.TO",
-   "instruments": [
-    {
-     "name": "Horizons Cdn Div E",
-     "symbol": "HAL"
-    }
-   ]
-  },
-  {
-   "symbol": "HMP",
-   "name": "Horizons Active Cdn Municipal Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HMP.TO",
-   "instruments": [
-    {
-     "name": "Horizn ActCdnMunBd E",
-     "symbol": "HMP"
-    }
-   ]
-  },
-  {
-   "symbol": "HAB",
-   "name": "Horizons Active Corporate Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HAB.TO",
-   "instruments": [
-    {
-     "name": "Horizon CorpBnd E Un",
-     "symbol": "HAB"
-    }
-   ]
-  },
-  {
-   "symbol": "HAZ",
-   "name": "Horizons Active Global Dividend ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HAZ.TO",
-   "instruments": [
-    {
-     "name": "Horizon GlblDiv E Un",
-     "symbol": "HAZ"
-    }
-   ]
-  },
-  {
-   "symbol": "HAF",
-   "name": "Horizons Active Global Fixed Income ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HAF.TO",
-   "instruments": [
-    {
-     "name": "Horizon ActiveGlbl E",
-     "symbol": "HAF"
-    }
-   ]
-  },
-  {
-   "symbol": "HYBR",
-   "name": "Horizons Active Hybrid Bond and Preferred Share ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HYBR.TO",
-   "instruments": [
-    {
-     "name": "Horizn Actv Bnd\u0026Pr E",
-     "symbol": "HYBR"
-    }
-   ]
-  },
-  {
-   "symbol": "HPR",
-   "name": "Horizons Active Preferred Share ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HPR.TO",
-   "instruments": [
-    {
-     "name": "Horizon Pref Cl E Un",
-     "symbol": "HPR"
-    }
-   ]
-  },
-  {
-   "symbol": "HFR",
-   "name": "Horizons Active Ultra-Short Term Investment Grade Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HFR.TO",
-   "instruments": [
-    {
-     "name": "Horizon ActUltST Bnd",
-     "symbol": "HFR"
-    }
-   ]
-  },
-  {
-   "symbol": "HEQT",
-   "name": "Horizons All-Equity Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEQT.TO",
-   "instruments": [
-    {
-     "name": "Horizon EqAstAlloc A",
-     "symbol": "HEQT"
-    }
-   ]
-  },
-  {
-   "symbol": "HBAL",
-   "name": "Horizons Balanced Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HBAL.TO",
-   "instruments": [
-    {
-     "name": "HorizonsBalAstAloc A",
-     "symbol": "HBAL"
-    }
-   ]
-  },
-  {
-   "symbol": "HBGD",
-   "name": "Horizons Big Data \u0026 Hardware Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HBGD.TO",
-   "instruments": [
-    {
-     "name": "HoriznBigDataHrdwr A",
-     "symbol": "HBGD"
-    },
-    {
-     "name": "HoriznBigDataHrdwrUS",
-     "symbol": "HBGD.U"
-    }
-   ]
-  },
-  {
-   "symbol": "CNCC",
-   "name": "Horizons Canadian Large Cap Equity Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CNCC.TO",
-   "instruments": [
-    {
-     "name": "HorizonCA LrgCapEq E",
-     "symbol": "CNCC"
-    }
-   ]
-  },
-  {
-   "symbol": "ENCC",
-   "name": "Horizons Canadian Oil and Gas Equity Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ENCC.TO",
-   "instruments": [
-    {
-     "name": "HoriznCA O\u0026G EqCal E",
-     "symbol": "ENCC"
-    }
-   ]
-  },
-  {
-   "symbol": "UTIL",
-   "name": "Horizons Canadian Utility Services High Dividend Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "UTIL.TO",
-   "instruments": [
-    {
-     "name": "Horizn CdnUtilSrvDiv",
-     "symbol": "UTIL"
-    }
-   ]
-  },
-  {
-   "symbol": "CARB",
-   "name": "Horizons Carbon Credits ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CARB.TO",
-   "instruments": [
-    {
-     "name": "Horizons CarbonCredt",
-     "symbol": "CARB"
-    }
-   ]
-  },
-  {
-   "symbol": "HSAV",
-   "name": "Horizons Cash Maximizer ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HSAV.TO",
-   "instruments": [
-    {
-     "name": "Horizons CshMaxShare",
-     "symbol": "HSAV"
-    }
-   ]
-  },
-  {
-   "symbol": "HXH",
-   "name": "Horizons Cdn High Dividend Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXH.TO",
-   "instruments": [
-    {
-     "name": "Horizons CdnHiDivShr",
-     "symbol": "HXH"
-    }
-   ]
-  },
-  {
-   "symbol": "HBB",
-   "name": "Horizons Cdn Select Universe Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HBB.TO",
-   "instruments": [
-    {
-     "name": "Horizon Cdn SlctUniv",
-     "symbol": "HBB"
-    }
-   ]
-  },
-  {
-   "symbol": "HCON",
-   "name": "Horizons Conservative Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HCON.TO",
-   "instruments": [
-    {
-     "name": "Horizons Conserv A",
-     "symbol": "HCON"
-    }
-   ]
-  },
-  {
-   "symbol": "COPP",
-   "name": "Horizons Copper Producers Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "COPP.TO",
-   "instruments": [
-    {
-     "name": "Horizons Copper A Un",
-     "symbol": "COPP"
-    }
-   ]
-  },
-  {
-   "symbol": "HUC",
-   "name": "Horizons Crude Oil ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HUC.TO",
-   "instruments": [
-    {
-     "name": "Horizons CrudOil ETF",
-     "symbol": "HUC"
-    }
-   ]
-  },
-  {
-   "symbol": "HXEM",
-   "name": "Horizons Emerging Markets Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXEM.TO",
-   "instruments": [
-    {
-     "name": "Horizons EmergMkt Eq",
-     "symbol": "HXEM"
-    }
-   ]
-  },
-  {
-   "symbol": "EQCL",
-   "name": "Horizons Enhanced All-Equity Asset Allocation Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "EQCL.TO",
-   "instruments": [
-    {
-     "name": "Horizn EqAstAlocCvCl",
-     "symbol": "EQCL"
-    }
-   ]
-  },
-  {
-   "symbol": "HEQL",
-   "name": "Horizons Enhanced All-Equity Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEQL.TO",
-   "instruments": [
-    {
-     "name": "Horizon Eq AsstAlloc",
-     "symbol": "HEQL"
-    }
-   ]
-  },
-  {
-   "symbol": "CNCL",
-   "name": "Horizons Enhanced Canadian Large Cap Equity Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CNCL.TO",
-   "instruments": [
-    {
-     "name": "Horizn CdnLgCpEqCvCl",
-     "symbol": "CNCL"
-    }
-   ]
-  },
-  {
-   "symbol": "ENCL",
-   "name": "Horizons Enhanced Canadian Oil and Gas Equity Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ENCL.TO",
-   "instruments": [
-    {
-     "name": "Horizn Cdn O\u0026GEqCvCl",
-     "symbol": "ENCL"
-    }
-   ]
-  },
-  {
-   "symbol": "BNKL",
-   "name": "Horizons Enhanced Equal Weight Banks Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BNKL.TO",
-   "instruments": [
-    {
-     "name": "Horizn EnEqWgtBnkIdx",
-     "symbol": "BNKL"
-    }
-   ]
-  },
-  {
-   "symbol": "BKCL",
-   "name": "Horizons Enhanced Equal Weight Canadian Banks Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BKCL.TO",
-   "instruments": [
-    {
-     "name": "Horizn =WgtCdnBkCall",
-     "symbol": "BKCL"
-    }
-   ]
-  },
-  {
-   "symbol": "QQCL",
-   "name": "Horizons Enhanced NASDAQ-100 Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQCL.TO",
-   "instruments": [
-    {
-     "name": "Horizn NASDQ100CvrCl",
-     "symbol": "QQCL"
-    }
-   ]
-  },
-  {
-   "symbol": "CANL",
-   "name": "Horizons Enhanced S\u0026P/TSX 60 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CANL.TO",
-   "instruments": [
-    {
-     "name": "Horizn EnhnS\u0026P/TSX60",
-     "symbol": "CANL"
-    }
-   ]
-  },
-  {
-   "symbol": "USCL",
-   "name": "Horizons Enhanced US Large Cap Equity Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "USCL.TO",
-   "instruments": [
-    {
-     "name": "HoriznUS LgCpEqCvrCl",
-     "symbol": "USCL"
-    }
-   ]
-  },
-  {
-   "symbol": "HBNK",
-   "name": "Horizons Equal Weight Banks Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HBNK.TO",
-   "instruments": [
-    {
-     "name": "Horizn EqWgtBanksIdx",
-     "symbol": "HBNK"
-    }
-   ]
-  },
-  {
-   "symbol": "HEWB",
-   "name": "Horizons Equal Weight Canada Banks Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HEWB.TO",
-   "instruments": [
-    {
-     "name": "Horizons EqlCdaBanks",
-     "symbol": "HEWB"
-    }
-   ]
-  },
-  {
-   "symbol": "HCRE",
-   "name": "Horizons Equal Weight Canada REIT Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HCRE.TO",
-   "instruments": [
-    {
-     "name": "Horizons EqlCA REIT",
-     "symbol": "HCRE"
-    }
-   ]
-  },
-  {
-   "symbol": "BKCC",
-   "name": "Horizons Equal Weight Canadian Bank Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BKCC.TO",
-   "instruments": [
-    {
-     "name": "HoriznEqlWgtCA BnkCv",
-     "symbol": "BKCC"
-    }
-   ]
-  },
-  {
-   "symbol": "HXX",
-   "name": "Horizons Europe 50 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXX.TO",
-   "instruments": [
-    {
-     "name": "HoriznEURO 50IndxShr",
-     "symbol": "HXX"
-    }
-   ]
-  },
-  {
-   "symbol": "HLIT",
-   "name": "Horizons Global Lithium Producers Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HLIT.TO",
-   "instruments": [
-    {
-     "name": "HoriznGlbLithiumProd",
-     "symbol": "HLIT"
-    }
-   ]
-  },
-  {
-   "symbol": "MTAV",
-   "name": "Horizons Global Metaverse Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MTAV.TO",
-   "instruments": [
-    {
-     "name": "Horizon GlbMetavrs A",
-     "symbol": "MTAV"
-    }
-   ]
-  },
-  {
-   "symbol": "CHPS",
-   "name": "Horizons Global Semiconductor Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CHPS.TO",
-   "instruments": [
-    {
-     "name": "HoriznGlbSemiconduct",
-     "symbol": "CHPS"
-    },
-    {
-     "name": "HoriznGlbSemicondctU",
-     "symbol": "CHPS.U"
-    }
-   ]
-  },
-  {
-   "symbol": "ETHI",
-   "name": "Horizons Global Sustainability Leaders Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ETHI.TO",
-   "instruments": [
-    {
-     "name": "Horizon GlbSustLdr A",
-     "symbol": "ETHI"
-    }
-   ]
-  },
-  {
-   "symbol": "HURA",
-   "name": "Horizons Global Uranium Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HURA.TO",
-   "instruments": [
-    {
-     "name": "Horizon GlbUranium A",
-     "symbol": "HURA"
-    }
-   ]
-  },
-  {
-   "symbol": "HUG",
-   "name": "Horizons Gold ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HUG.TO",
-   "instruments": [
-    {
-     "name": "Horizons Gold ETF",
-     "symbol": "HUG"
-    }
-   ]
-  },
-  {
-   "symbol": "GLCC",
-   "name": "Horizons Gold Producer Equity Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "GLCC.TO",
-   "instruments": [
-    {
-     "name": "Horizn Gld EqCvCll E",
-     "symbol": "GLCC"
-    }
-   ]
-  },
-  {
-   "symbol": "HGY",
-   "name": "Horizons Gold Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HGY.TO",
-   "instruments": [
-    {
-     "name": "Horizons GldYld E Un",
-     "symbol": "HGY"
-    }
-   ]
-  },
-  {
-   "symbol": "GRCC",
-   "name": "Horizons Growth Asset Allocation Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "GRCC.TO",
-   "instruments": [
-    {
-     "name": "HoriznGroAstAlocCvCl",
-     "symbol": "GRCC"
-    }
-   ]
-  },
-  {
-   "symbol": "HGRW",
-   "name": "Horizons Growth Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HGRW.TO",
-   "instruments": [
-    {
-     "name": "Horizon GroAsstAlloc",
-     "symbol": "HGRW"
-    }
-   ]
-  },
-  {
-   "symbol": "HBUG",
-   "name": "Horizons GX Cybersecurity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HBUG.TO",
-   "instruments": [
-    {
-     "name": "HorizonsGX CybrsecUn",
-     "symbol": "HBUG"
-    }
-   ]
-  },
-  {
-   "symbol": "CASH",
-   "name": "Horizons High Interest Savings ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CASH.TO",
-   "instruments": [
-    {
-     "name": "Horizons HiIntSvgs A",
-     "symbol": "CASH"
-    }
-   ]
-  },
-  {
-   "symbol": "FOUR",
-   "name": "Horizons Industry 4.0 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FOUR.TO",
-   "instruments": [
-    {
-     "name": "Horizons Indust A Un",
-     "symbol": "FOUR"
-    }
-   ]
-  },
-  {
-   "symbol": "INOC",
-   "name": "Horizons Inovestor Canadian Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "INOC.TO",
-   "instruments": [
-    {
-     "name": "Horizon InovestCdnEq",
-     "symbol": "INOC"
-    }
-   ]
-  },
-  {
-   "symbol": "HXDM",
-   "name": "Horizons Intl Developed Markets Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXDM.TO",
-   "instruments": [
-    {
-     "name": "Horizons IntlMkts Eq",
-     "symbol": "HXDM"
-    },
-    {
-     "name": "Horizons IntlMktEqUS",
-     "symbol": "HXDM.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HLPR",
-   "name": "Horizons Laddered Canadian Preferred Share Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HLPR.TO",
-   "instruments": [
-    {
-     "name": "Horizn LadrdCA PrShr",
-     "symbol": "HLPR"
-    }
-   ]
-  },
-  {
-   "symbol": "LPAY",
-   "name": "Horizons Long-Term U.S. Treasury Premium Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "LPAY.TO",
-   "instruments": [
-    {
-     "name": "Horizn LTrm US Treas",
-     "symbol": "LPAY"
-    },
-    {
-     "name": "Horizn LTrmUS TreaUS",
-     "symbol": "LPAY.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HMMJ",
-   "name": "Horizons Marijuana Life Sciences Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HMMJ.TO",
-   "instruments": [
-    {
-     "name": "Horizons Marij Lfe A",
-     "symbol": "HMMJ"
-    },
-    {
-     "name": "Horizons Marij US",
-     "symbol": "HMMJ.U"
-    }
-   ]
-  },
-  {
-   "symbol": "MPAY",
-   "name": "Horizons Mid-Term U.S. Treasury Premium Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MPAY.TO",
-   "instruments": [
-    {
-     "name": "Horizn MTrm US Treas",
-     "symbol": "MPAY"
-    },
-    {
-     "name": "Horizn MTrmUS TreaUS",
-     "symbol": "MPAY.U"
-    }
-   ]
-  },
-  {
-   "symbol": "QQCC",
-   "name": "Horizons NASDAQ-100 Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQCC.TO",
-   "instruments": [
-    {
-     "name": "HoriznNASDAQ100Cal E",
-     "symbol": "QQCC"
-    }
-   ]
-  },
-  {
-   "symbol": "HXQ",
-   "name": "Horizons NASDAQ-100 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXQ.TO",
-   "instruments": [
-    {
-     "name": "Horizon NASDAQ100SHR",
-     "symbol": "HXQ"
-    },
-    {
-     "name": "Horizon NASDAQ100 US",
-     "symbol": "HXQ.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HUN",
-   "name": "Horizons Natural Gas ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HUN.TO",
-   "instruments": [
-    {
-     "name": "Horizons NatrlGasETF",
-     "symbol": "HUN"
-    }
-   ]
-  },
-  {
-   "symbol": "HOG",
-   "name": "Horizons Pipelines \u0026 Energy Services Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HOG.TO",
-   "instruments": [
-    {
-     "name": "Horizn PplnEngyServA",
-     "symbol": "HOG"
-    }
-   ]
-  },
-  {
-   "symbol": "HRAA",
-   "name": "Horizons ReSolve Adaptive Asset Allocation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HRAA.TO",
-   "instruments": [
-    {
-     "name": "Horizons ReSolvAlloc",
-     "symbol": "HRAA"
-    }
-   ]
-  },
-  {
-   "symbol": "RBOT",
-   "name": "Horizons Robotics \u0026 AI Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RBOT.TO",
-   "instruments": [
-    {
-     "name": "Horizons Robotics\u0026AI",
-     "symbol": "RBOT"
-    },
-    {
-     "name": "Horizon Robot\u0026AI US",
-     "symbol": "RBOT.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HSH",
-   "name": "Horizons S\u0026P 500 CAD Hedged Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HSH.TO",
-   "instruments": [
-    {
-     "name": "Horizn S\u0026P500CA Hegd",
-     "symbol": "HSH"
-    }
-   ]
-  },
-  {
-   "symbol": "HXS",
-   "name": "Horizons S\u0026P 500 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXS.TO",
-   "instruments": [
-    {
-     "name": "Horizons S\u0026P500 Shr",
-     "symbol": "HXS"
-    },
-    {
-     "name": "Horizon S\u0026P500 US Sh",
-     "symbol": "HXS.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HGGB",
-   "name": "Horizons S\u0026P Green Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HGGB.TO",
-   "instruments": [
-    {
-     "name": "HorizonS\u0026P GreenBndA",
-     "symbol": "HGGB"
-    }
-   ]
-  },
-  {
-   "symbol": "HXT",
-   "name": "Horizons S\u0026P/TSX 60 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXT.TO",
-   "instruments": [
-    {
-     "name": "Horizon S\u0026P/TSX60",
-     "symbol": "HXT"
-    },
-    {
-     "name": "Horizon S\u0026P/TSX60 US",
-     "symbol": "HXT.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HXCN",
-   "name": "Horizons S\u0026P/TSX Capped Composite Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXCN.TO",
-   "instruments": [
-    {
-     "name": "HorizonsS\u0026PTSXCapIdx",
-     "symbol": "HXCN"
-    }
-   ]
-  },
-  {
-   "symbol": "HXE",
-   "name": "Horizons S\u0026P/TSX Capped Energy Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXE.TO",
-   "instruments": [
-    {
-     "name": "Horizn S\u0026PCapEngyIdx",
-     "symbol": "HXE"
-    }
-   ]
-  },
-  {
-   "symbol": "HXF",
-   "name": "Horizons S\u0026P/TSX Capped Financials Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HXF.TO",
-   "instruments": [
-    {
-     "name": "Horizn S\u0026PCapFin Idx",
-     "symbol": "HXF"
-    }
-   ]
-  },
-  {
-   "symbol": "HAC",
-   "name": "Horizons Seasonal Rotation ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HAC.TO",
-   "instruments": [
-    {
-     "name": "Horizon Seasonl E Un",
-     "symbol": "HAC"
-    }
-   ]
-  },
-  {
-   "symbol": "SPAY",
-   "name": "Horizons Short-Term U.S. Treasury Premium Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SPAY.TO",
-   "instruments": [
-    {
-     "name": "Horizon ST US Treas",
-     "symbol": "SPAY"
-    },
-    {
-     "name": "HoriznST US Treas US",
-     "symbol": "SPAY.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HUZ",
-   "name": "Horizons Silver ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HUZ.TO",
-   "instruments": [
-    {
-     "name": "Horizons Silver ETF",
-     "symbol": "HUZ"
-    }
-   ]
-  },
-  {
-   "symbol": "HTB",
-   "name": "Horizons US 7-10 Year Treasury Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HTB.TO",
-   "instruments": [
-    {
-     "name": "Horizn US7-10TreasBd",
-     "symbol": "HTB"
-    },
-    {
-     "name": "HoriznUS7-10TreaBdUS",
-     "symbol": "HTB.U"
-    }
-   ]
-  },
-  {
-   "symbol": "DLR",
-   "name": "Horizons US Dollar Currency ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DLR.TO",
-   "instruments": [
-    {
-     "name": "Horizon US$ Cur A Un",
-     "symbol": "DLR"
-    },
-    {
-     "name": "Horizon US$Cur A USF",
-     "symbol": "DLR.U"
-    }
-   ]
-  },
-  {
-   "symbol": "USCC",
-   "name": "Horizons US Large Cap Equity Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "USCC.TO",
-   "instruments": [
-    {
-     "name": "HoriznUS LgCapEqCA E",
-     "symbol": "USCC"
-    },
-    {
-     "name": "HoriznLrgCapEqClUS E",
-     "symbol": "USCC.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HULC",
-   "name": "Horizons US Large Cap Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HULC.TO",
-   "instruments": [
-    {
-     "name": "HorizonsUS LrgCapIdx",
-     "symbol": "HULC"
-    },
-    {
-     "name": "Horizon LrgCapIdx US",
-     "symbol": "HULC.U"
-    }
-   ]
-  },
-  {
-   "symbol": "HSUV.U",
-   "name": "Horizons USD Cash Maximizer ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HSUV.U.TO",
-   "instruments": [
-    {
-     "name": "HorizonsUSD CshMaxUS",
-     "symbol": "HSUV.U"
-    }
-   ]
-  },
-  {
-   "symbol": "UCSH.U",
-   "name": "Horizons USD High Interest Savings ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "UCSH.U.TO",
-   "instruments": [
-    {
-     "name": "Horizn USD HiIntSvUS",
-     "symbol": "UCSH.U"
-    }
-   ]
-  },
-  {
    "symbol": "HZM",
    "name": "Horizonte Minerals Plc.",
    "exchange": "TSX",
@@ -61942,6 +61906,10 @@
     {
      "name": "i-80 Gold Corp. J",
      "symbol": "IAU"
+    },
+    {
+     "name": "i-80 Gold Corp WT",
+     "symbol": "IAU.WT"
     }
    ]
   },
@@ -72052,10 +72020,6 @@
      "symbol": "TD.PF.J"
     },
     {
-     "name": "T.D. Bank Ser 22 Pr",
-     "symbol": "TD.PF.L"
-    },
-    {
      "name": "T.D. Bank Ser 24 Pr",
      "symbol": "TD.PF.M"
     }
@@ -80606,12 +80570,6 @@
    "yahoo_symbol": "FHN$C"
   },
   {
-   "symbol": "FHN$D",
-   "name": "First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FHN$D"
-  },
-  {
    "symbol": "FHN$E",
    "name": "First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E",
    "exchange": "NYSE",
@@ -87620,24 +87578,6 @@
    "yahoo_symbol": "PGRU"
   },
   {
-   "symbol": "PGSS",
-   "name": "Pegasus Digital Mobility Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PGSS"
-  },
-  {
-   "symbol": "PGSS.U",
-   "name": "Pegasus Digital Mobility Acquisition Corp. Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PGSS.U"
-  },
-  {
-   "symbol": "PGSS.W",
-   "name": "Pegasus Digital Mobility Acquisition Corp. Redeemable Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PGSS.W"
-  },
-  {
    "symbol": "PGZ",
    "name": "Principal Real Estate Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -88797,7 +88737,7 @@
   },
   {
    "symbol": "RGT",
-   "name": "Royce Global Value Trust, Inc. Common Stock",
+   "name": "Royce Global Trust, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RGT"
   },
@@ -89151,7 +89091,7 @@
   },
   {
    "symbol": "RVT",
-   "name": "Royce Value Trust, Inc. Common Stock",
+   "name": "Royce Small-Cap Trust, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RVT"
   },
@@ -92298,6 +92238,12 @@
    "name": "VICI Properties Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VICI"
+  },
+  {
+   "symbol": "VIK",
+   "name": "Viking Holdings Ltd Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VIK"
   },
   {
    "symbol": "VINE",
