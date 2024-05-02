@@ -1,120 +1,114 @@
 {
  "added": [
   {
-   "symbol": "PSTR",
-   "name": "PeakShares Sector Rotation ETF",
+   "symbol": "AFMD",
+   "name": "Affimed N.V. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PSTR"
+   "yahoo_symbol": "AFMD"
   },
   {
-   "symbol": "YAY",
-   "name": "THS Maple Holdings Ltd.",
+   "symbol": "ERNZ",
+   "name": "TrueShares Active Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ERNZ"
+  },
+  {
+   "symbol": "IBAC",
+   "name": "IB Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBAC"
+  },
+  {
+   "symbol": "IBACR",
+   "name": "IB Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBACR"
+  },
+  {
+   "symbol": "SHMD",
+   "name": "SCHMID Group N.V. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHMD"
+  },
+  {
+   "symbol": "SHMDW",
+   "name": "SCHMID Group N.V. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHMDW"
+  },
+  {
+   "symbol": "WEEI",
+   "name": "Westwood Salient Enhanced Energy Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WEEI"
+  },
+  {
+   "symbol": "KTRI",
+   "name": "Kootenay Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "YAY.V",
+   "yahoo_symbol": "KTRI.V",
    "instruments": [
     {
-     "name": "THS Maple Holdings Ltd.",
-     "symbol": "YAY"
+     "name": "Kootenay Resources Inc.",
+     "symbol": "KTRI"
     }
    ]
-  },
-  {
-   "symbol": "PPLN",
-   "name": "Global X Pipelines \u0026 Energy Services Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PPLN.TO",
-   "instruments": [
-    {
-     "name": "Horizn PplnEngyServA",
-     "symbol": "PPLN"
-    }
-   ]
-  },
-  {
-   "symbol": "VIK",
-   "name": "Viking Holdings Ltd Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VIK"
   }
  ],
  "removed": [
   {
-   "symbol": "FUV",
-   "name": "Arcimoto, Inc. - Common Stock",
+   "symbol": "AFMD",
+   "name": "Affimed N.V. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AFMD"
+  },
+  {
+   "symbol": "LGVC",
+   "name": "LAMF Global Ventures Corp. I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FUV"
+   "yahoo_symbol": "LGVC"
   },
   {
-   "symbol": "FHN$D",
-   "name": "First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D",
+   "symbol": "TCN",
+   "name": "Tricon Residential Inc. Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "FHN$D"
+   "yahoo_symbol": "TCN"
   },
   {
-   "symbol": "YAY.P",
-   "name": "Toronto CleanTech Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "YAY.P.V",
-   "instruments": [
-    {
-     "name": "Toronto Cleantech Capital Inc.",
-     "symbol": "YAY.P"
-    }
-   ]
+   "symbol": "RACYW",
+   "name": "Relativity Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACYW"
   },
   {
-   "symbol": "IBACU",
-   "name": "IB Acquisition Corp. - Unit",
+   "symbol": "LGVCU",
+   "name": "LAMF Global Ventures Corp. I - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IBACU"
+   "yahoo_symbol": "LGVCU"
   },
   {
-   "symbol": "C",
-   "name": "Contact Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "C.V",
-   "instruments": [
-    {
-     "name": "Contact Gold Corp.",
-     "symbol": "C"
-    }
-   ]
+   "symbol": "RACY",
+   "name": "Relativity Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACY"
   },
   {
-   "symbol": "PGSS",
-   "name": "Pegasus Digital Mobility Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PGSS"
-  },
-  {
-   "symbol": "PGSS.U",
-   "name": "Pegasus Digital Mobility Acquisition Corp. Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PGSS.U"
-  },
-  {
-   "symbol": "PGSS.W",
-   "name": "Pegasus Digital Mobility Acquisition Corp. Redeemable Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PGSS.W"
-  },
-  {
-   "symbol": "EGOX",
-   "name": "Next.e.GO N.V. - Ordinary Shares",
+   "symbol": "LGVCW",
+   "name": "LAMF Global Ventures Corp. I - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EGOX"
+   "yahoo_symbol": "LGVCW"
   },
   {
-   "symbol": "HOG",
-   "name": "Horizons Pipelines \u0026 Energy Services Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HOG.TO",
-   "instruments": [
-    {
-     "name": "Horizn PplnEngyServA",
-     "symbol": "HOG"
-    }
-   ]
+   "symbol": "PXMD",
+   "name": "PaxMedica, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXMD"
+  },
+  {
+   "symbol": "RACYU",
+   "name": "Relativity Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACYU"
   }
  ]
 }
