@@ -1,114 +1,90 @@
 {
  "added": [
   {
-   "symbol": "AFMD",
-   "name": "Affimed N.V. - Common Stock",
+   "symbol": "CCIXU",
+   "name": "Churchill Capital Corp IX - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AFMD"
+   "yahoo_symbol": "CCIXU"
   },
   {
-   "symbol": "ERNZ",
-   "name": "TrueShares Active Yield ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ERNZ"
-  },
-  {
-   "symbol": "IBAC",
-   "name": "IB Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IBAC"
-  },
-  {
-   "symbol": "IBACR",
-   "name": "IB Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IBACR"
-  },
-  {
-   "symbol": "SHMD",
-   "name": "SCHMID Group N.V. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHMD"
-  },
-  {
-   "symbol": "SHMDW",
-   "name": "SCHMID Group N.V. - Warrants",
+   "symbol": "ESGL",
+   "name": "ESGL Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHMDW"
+   "yahoo_symbol": "ESGL"
   },
   {
-   "symbol": "WEEI",
-   "name": "Westwood Salient Enhanced Energy Income ETF",
+   "symbol": "ESGLW",
+   "name": "ESGL Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESGLW"
+  },
+  {
+   "symbol": "NUVO",
+   "name": "Holdco Nuvo Group D.G Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WEEI"
+   "yahoo_symbol": "NUVO"
   },
   {
-   "symbol": "KTRI",
-   "name": "Kootenay Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KTRI.V",
-   "instruments": [
-    {
-     "name": "Kootenay Resources Inc.",
-     "symbol": "KTRI"
-    }
-   ]
+   "symbol": "NUVOW",
+   "name": "Holdco Nuvo Group D.G Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUVOW"
+  },
+  {
+   "symbol": "SOWG",
+   "name": "Sow Good Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOWG"
   }
  ],
  "removed": [
   {
-   "symbol": "AFMD",
-   "name": "Affimed N.V. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AFMD"
+   "symbol": "ESGL",
+   "name": "ESGL Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESGL"
   },
   {
-   "symbol": "LGVC",
-   "name": "LAMF Global Ventures Corp. I - Class A Ordinary Shares",
+   "symbol": "PXD",
+   "name": "Pioneer Natural Resources Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PXD"
+  },
+  {
+   "symbol": "ESGLW",
+   "name": "ESGL Holdings Limited - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LGVC"
+   "yahoo_symbol": "ESGLW"
+  },
+  {
+   "symbol": "SAVAW",
+   "name": "Cassava Sciences, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAVAW"
+  },
+  {
+   "symbol": "AEL",
+   "name": "American Equity Investment Life Holding Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AEL"
   },
   {
    "symbol": "TCN",
-   "name": "Tricon Residential Inc. Common Shares",
+   "name": "Tricon Residential Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCN.TO",
+   "instruments": [
+    {
+     "name": "Tricon Residential ",
+     "symbol": "TCN"
+    }
+   ]
+  },
+  {
+   "symbol": "NS",
+   "name": "Nustar Energy L.P.  Common Units",
    "exchange": "NYSE",
-   "yahoo_symbol": "TCN"
-  },
-  {
-   "symbol": "RACYW",
-   "name": "Relativity Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RACYW"
-  },
-  {
-   "symbol": "LGVCU",
-   "name": "LAMF Global Ventures Corp. I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LGVCU"
-  },
-  {
-   "symbol": "RACY",
-   "name": "Relativity Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RACY"
-  },
-  {
-   "symbol": "LGVCW",
-   "name": "LAMF Global Ventures Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LGVCW"
-  },
-  {
-   "symbol": "PXMD",
-   "name": "PaxMedica, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PXMD"
-  },
-  {
-   "symbol": "RACYU",
-   "name": "Relativity Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RACYU"
+   "yahoo_symbol": "NS"
   }
  ]
 }
