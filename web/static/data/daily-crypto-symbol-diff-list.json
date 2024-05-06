@@ -1,297 +1,201 @@
 {
  "added": [
   {
-   "symbol": "UIBT",
-   "name": "Unibit (UIBT)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "NUUM",
-   "name": "MNet (NUUM)"
-  },
-  {
-   "symbol": "GFOX",
-   "name": "Galaxy Fox (GFOX)",
+   "symbol": "EMRLD",
+   "name": "The Emerald Company (EMRLD)",
    "built_on": "ETH"
   },
   {
-   "symbol": "MANIA",
-   "name": "ScapesMania (MANIA)",
-   "built_on": "BNB"
+   "symbol": "WCFX",
+   "name": "Wrapped Conflux (WCFX)",
+   "built_on": "CFX"
   },
   {
-   "symbol": "FTHM",
-   "name": "Fathom Protocol (FTHM)",
-   "built_on": "XDC"
-  },
-  {
-   "symbol": "BUIDL",
-   "name": "Starter.xyz (BUIDL)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "MEMERUNE",
-   "name": "MEME•ECONOMICS (MEMERUNE)",
-   "built_on": "BTC"
-  },
-  {
-   "symbol": "EQ9",
-   "name": "EQ9 (EQ9)",
+   "symbol": "TMNG",
+   "name": "TMN Global (TMNG)",
    "built_on": "MATIC"
   },
   {
-   "symbol": "DONGO",
-   "name": "Dongo AI (DONGO)",
+   "symbol": "NEXUSAI",
+   "name": "NexusAI (NEXUSAI)",
    "built_on": "ETH"
   },
   {
-   "symbol": "WKAS",
-   "name": "Wrapped Kaspa (WKAS)",
+   "symbol": "TADA",
+   "name": "Ta-da (TADA)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "QAI",
+   "name": "QuantixAI (QAI)",
    "built_on": "ETH"
   },
   {
-   "symbol": "DUBX",
-   "name": "DUBXCOIN (DUBX)"
-  },
-  {
-   "symbol": "BABYRWA",
-   "name": "BabyRWA (BABYRWA)",
+   "symbol": "RSG",
+   "name": "RSG TOKEN (RSG)",
    "built_on": "BNB"
   },
   {
-   "symbol": "DOPECOIN",
-   "name": "DopeCoin (DOPECOIN)"
+   "symbol": "MOCHICAT",
+   "name": "MochiCat (MOCHICAT)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "KAIJU",
-   "name": "KAIJUNO8 (KAIJU)",
+   "symbol": "USH",
+   "name": "unshETHing_Token (USH)",
    "built_on": "ETH"
   },
   {
-   "symbol": "SNORT",
-   "name": "SNORT (SNORT)",
-   "built_on": "BASECHAIN"
+   "symbol": "ZEND",
+   "name": "zkLend (ZEND)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "WGLMR",
-   "name": "Wrapped Moonbeam (WGLMR)",
+   "symbol": "BDROP",
+   "name": "BlockDrop (BDROP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NUC",
+   "name": "NuCoin (NUC)"
+  },
+  {
+   "symbol": "MK",
+   "name": "Meme Kombat (MK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GGMT",
+   "name": "GG MetaGame (GGMT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ROM",
+   "name": "ROMCOIN (ROM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOH",
+   "name": "Stohn Coin (SOH)"
+  },
+  {
+   "symbol": "MEMAGX",
+   "name": "Meta Masters Guild Games (MEMAGX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNIETH",
+   "name": "Universal ETH (UNIETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUAUSD",
+   "name": "Lumi Finance (LUAUSD)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SIXPACK",
+   "name": "SIXPACK (SIXPACK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RDDT",
+   "name": "Reddit (RDDT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XCDOT",
+   "name": "xcDOT (XCDOT)",
    "built_on": "GLMR"
   },
   {
-   "symbol": "PYRV1",
-   "name": "Vulcan Forged v1 (PYRV1)"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "PONCHO",
-   "name": "Poncho (PONCHO)",
-   "built_on": "BASECHAIN"
+   "symbol": "WELSH",
+   "name": "Welshcorgicoin (WELSH)",
+   "built_on": "STX"
   },
   {
-   "symbol": "NAZA",
-   "name": "NAZA (NAZA)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "NEGED",
-   "name": "Neged (NEGED)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "NSO",
-   "name": "NeverSurrenderOne's (NSO)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "PIIN",
-   "name": "piin (Ordinals) (PIIN)",
-   "built_on": "BTC"
-  },
-  {
-   "symbol": "WXDC",
-   "name": "Wrapped XDC (WXDC)",
-   "built_on": "XDC"
-  },
-  {
-   "symbol": "SYNO",
-   "name": "Synonym Finance (SYNO)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "TGRAM",
-   "name": "TG20 TGram (TGRAM)",
+   "symbol": "PLANE",
+   "name": "Paper Plane (PLANE)",
    "built_on": "TONCOIN"
   },
   {
-   "symbol": "KMNO",
-   "name": "Kamino (KMNO)",
+   "symbol": "DIRTY",
+   "name": "Dirty Street Cats (DIRTY)",
    "built_on": "SOL"
   },
   {
-   "symbol": "STAY",
-   "name": "NFsTay (STAY)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "PIA",
-   "name": "Olympia AI (PIA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BABYSOL",
-   "name": "Baby Solana (BABYSOL)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "MASSA",
-   "name": "Massa (MASSA)"
-  },
-  {
-   "symbol": "LBM",
-   "name": "Libertum (LBM)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "MCUSD",
-   "name": "Moola Celo USD (MCUSD)",
-   "built_on": "CELO"
-  },
-  {
-   "symbol": "ORFY",
-   "name": "Ordify (ORFY)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "PRZS",
-   "name": "Perezoso (PRZS)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "VCAT",
-   "name": "Vibing Cat (VCAT)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "XBNB",
-   "name": "PhoenixBNB (XBNB)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "DJT",
-   "name": "Save America (DJT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "AIKEK",
-   "name": "AlphaKEK.AI (AIKEK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "LORGY",
-   "name": "Memeolorgy (LORGY)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "GARFIELD",
-   "name": "Garfield Cat (GARFIELD)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "TIGRA",
-   "name": "Tigra (TIGRA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "NEADRAM",
-   "name": "The Ennead (NEADRAM)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "STORE",
-   "name": "Bit Store (STORE)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "RAFF",
-   "name": "Ton Raffles (RAFF)",
+   "symbol": "MEH",
+   "name": "meh (MEH)",
    "built_on": "TONCOIN"
   },
   {
-   "symbol": "COZY",
-   "name": "Cozy Pepe (COZY)",
-   "built_on": "SOL"
+   "symbol": "DICK",
+   "name": "adDICKted (DICK)",
+   "built_on": "TONCOIN"
   },
   {
-   "symbol": "XNP",
-   "name": "ExenPay Token (XNP)",
+   "symbol": "BD20",
+   "name": "BRC-20 DEX (BD20)",
    "built_on": "ETH"
   },
   {
-   "symbol": "SPAD",
-   "name": "SolPad (SPAD)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BRAWL",
-   "name": "BitBrawl (BRAWL)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "LAPTOP",
-   "name": "Hunter Biden's Laptop (LAPTOP)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BOSOL",
-   "name": "Book of Solana (BOSOL)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "LLT",
-   "name": "LILLIUS (LLT)",
+   "symbol": "TANPIN",
+   "name": "Tanpin (TANPIN)",
    "built_on": "MATIC"
   },
   {
-   "symbol": "YOM",
-   "name": "YOM (YOM)",
+   "symbol": "CHET",
+   "name": "ChetGPT (CHET)",
    "built_on": "SOL"
   },
   {
-   "symbol": "MAJO",
-   "name": "Majo (MAJO)",
-   "built_on": "BTC"
-  },
-  {
-   "symbol": "OME",
-   "name": "o-mee (OME)",
-   "built_on": "MATIC"
-  },
-  {
-   "symbol": "PEPEWIFHAT",
-   "name": "Pepewifhat (PEPEWIFHAT)",
+   "symbol": "EPEP",
+   "name": "Epep (EPEP)",
    "built_on": "SOL"
   },
   {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "TPU",
+   "name": "TensorSpace (TPU)",
    "built_on": "ETH"
   },
   {
-   "symbol": "MSTAR",
-   "name": "MerlinStarter (MSTAR)"
+   "symbol": "SHRIMP",
+   "name": "SHRIMP (SHRIMP)",
+   "built_on": "APT"
   },
   {
-   "symbol": "DVK",
-   "name": "Devikins (DVK)",
-   "built_on": "KLV"
+   "symbol": "SORAI",
+   "name": "Sora AI (SORAI)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "MEMD",
-   "name": "MemeDAO (MEMD)",
-   "built_on": "ETH"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "LOAF",
+   "name": "LOAF CAT (LOAF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "INTELLIQUE",
+   "name": "KARASOU (INTELLIQUE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BORKIE",
+   "name": "Borkie (BORKIE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "RTF",
+   "name": "Ready to Fight (RTF)",
+   "built_on": "BNB"
   },
   {
    "symbol": "DOG",
@@ -299,67 +203,19 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "AIRB",
-   "name": "BillionAir (AIRB)",
+   "symbol": "HEGE",
+   "name": "Hege (HEGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUNK",
+   "name": "Elephant Money (TRUNK)",
    "built_on": "BNB"
   },
   {
-   "symbol": "DCM",
-   "name": "Ducky City (DCM)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "LNDRR",
-   "name": "Lendr Network (LNDRR)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "CHEERS",
-   "name": "DICAPRIO CHEERS (CHEERS)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "TPRO",
-   "name": "TPRO Network (TPRO)",
+   "symbol": "ISME",
+   "name": "Root Protocol (ISME)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "LOWQ",
-   "name": "lowq frends (LOWQ)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DPLN",
-   "name": "DePlan (DPLN)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "RIDE",
-   "name": "Holoride (RIDE)",
-   "built_on": "EGLD"
-  },
-  {
-   "symbol": "TEQ",
-   "name": "Teq Network (TEQ)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "STORE",
-   "name": "Bit Store (STORE)"
-  },
-  {
-   "symbol": "KMNO",
-   "name": "Kamino (KMNO)"
-  },
-  {
-   "symbol": "MCUSD",
-   "name": "Moola Celo USD (MCUSD)"
-  },
-  {
-   "symbol": "RIDE",
-   "name": "Holoride (RIDE)"
   }
  ]
 }

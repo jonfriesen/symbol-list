@@ -1,5 +1,5 @@
 {
- "date": "2024-05-03",
+ "date": "2024-05-06",
  "data": [
   {
    "symbol": "ONE",
@@ -10094,10 +10094,6 @@
     {
      "name": "Leonovus Inc.",
      "symbol": "LTV"
-    },
-    {
-     "name": "Leonovus Inc. wt. 06May2024",
-     "symbol": "LTV.WT"
     }
    ]
   },
@@ -27167,7 +27163,7 @@
   },
   {
    "symbol": "DSAE",
-   "name": "Desjardins SocieTerra American Equity ETF",
+   "name": "Desjardins Sustainable American Equity ETF",
    "exchange": "TSX",
    "yahoo_symbol": "DSAE.TO",
    "instruments": [
@@ -29902,54 +29898,6 @@
    ]
   },
   {
-   "symbol": "FLCP",
-   "name": "Franklin Bissett Core Plus Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FLCP.TO",
-   "instruments": [
-    {
-     "name": "Franklin Bis Cor+Bnd",
-     "symbol": "FLCP"
-    }
-   ]
-  },
-  {
-   "symbol": "FLCI",
-   "name": "Franklin Bissett Corporate Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FLCI.TO",
-   "instruments": [
-    {
-     "name": "Franklin BissCorpBnd",
-     "symbol": "FLCI"
-    }
-   ]
-  },
-  {
-   "symbol": "FLSD",
-   "name": "Franklin Bissett Short Duration Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FLSD.TO",
-   "instruments": [
-    {
-     "name": "FranklnBis SH DurBnd",
-     "symbol": "FLSD"
-    }
-   ]
-  },
-  {
-   "symbol": "FHIS",
-   "name": "Franklin Bissett Ultra Short Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FHIS.TO",
-   "instruments": [
-    {
-     "name": "FranklinBis UltShBnd",
-     "symbol": "FHIS"
-    }
-   ]
-  },
-  {
    "symbol": "FBGO",
    "name": "Franklin Brandywine Global Sustainable Income Optimiser Fund",
    "exchange": "TSX",
@@ -29962,6 +29910,30 @@
    ]
   },
   {
+   "symbol": "FLCP",
+   "name": "Franklin Canadian Core Plus Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLCP.TO",
+   "instruments": [
+    {
+     "name": "Franklin Bis Cor+Bnd",
+     "symbol": "FLCP"
+    }
+   ]
+  },
+  {
+   "symbol": "FLCI",
+   "name": "Franklin Canadian Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLCI.TO",
+   "instruments": [
+    {
+     "name": "Franklin BissCorpBnd",
+     "symbol": "FLCI"
+    }
+   ]
+  },
+  {
    "symbol": "FGOV",
    "name": "Franklin Canadian Government Bond Fund",
    "exchange": "TSX",
@@ -29970,6 +29942,30 @@
     {
      "name": "Franklin Cdn Gov Bnd",
      "symbol": "FGOV"
+    }
+   ]
+  },
+  {
+   "symbol": "FLSD",
+   "name": "Franklin Canadian Short Term Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLSD.TO",
+   "instruments": [
+    {
+     "name": "FranklnBis SH DurBnd",
+     "symbol": "FLSD"
+    }
+   ]
+  },
+  {
+   "symbol": "FHIS",
+   "name": "Franklin Canadian Ultra Short Term Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FHIS.TO",
+   "instruments": [
+    {
+     "name": "FranklinBis UltShBnd",
+     "symbol": "FHIS"
     }
    ]
   },
@@ -37770,18 +37766,6 @@
    ]
   },
   {
-   "symbol": "NB",
-   "name": "NioCorp Developments Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NB.TO",
-   "instruments": [
-    {
-     "name": "NioCorp Dev Ltd. J",
-     "symbol": "NB"
-    }
-   ]
-  },
-  {
    "symbol": "NOA",
    "name": "North American Construction Group Ltd.",
    "exchange": "TSX",
@@ -41398,10 +41382,6 @@
     {
      "name": "STLLR Gold Inc.",
      "symbol": "STLR"
-    },
-    {
-     "name": "STLLR Gold Inc. Wt",
-     "symbol": "STLR.WT"
     }
    ]
   },
@@ -44928,6 +44908,12 @@
    "name": "AGM Group Holdings Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AGMH"
+  },
+  {
+   "symbol": "AGMI",
+   "name": "Themes Silver Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGMI"
   },
   {
    "symbol": "AGNC",
@@ -50508,24 +50494,6 @@
    "name": "Conn's, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CONN"
-  },
-  {
-   "symbol": "CONX",
-   "name": "CONX Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CONX"
-  },
-  {
-   "symbol": "CONXU",
-   "name": "CONX Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CONXU"
-  },
-  {
-   "symbol": "CONXW",
-   "name": "CONX Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CONXW"
   },
   {
    "symbol": "COO",
@@ -60970,7 +60938,7 @@
   {
    "symbol": "MESA",
    "name": "Mesa Air Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MESA"
   },
   {
@@ -68268,12 +68236,6 @@
    "name": "Semler Scientific, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SMLR"
-  },
-  {
-   "symbol": "SMMF",
-   "name": "Summit Financial Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SMMF"
   },
   {
    "symbol": "SMMT",
@@ -80480,18 +80442,6 @@
    "yahoo_symbol": "FEDU"
   },
   {
-   "symbol": "FEI",
-   "name": "First Trust MLP and Energy Income Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FEI"
-  },
-  {
-   "symbol": "FEN",
-   "name": "First Trust Energy Income and Growth Fund",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "FEN"
-  },
-  {
    "symbol": "FENG",
    "name": "Phoenix New Media Limited American Depositary Shares, each representing 48 Class A ordinary shares.",
    "exchange": "NYSE",
@@ -80598,12 +80548,6 @@
    "name": "Fair Isaac Corproation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FICO"
-  },
-  {
-   "symbol": "FIF",
-   "name": "First Trust Energy Infrastructure Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FIF"
   },
   {
    "symbol": "FIGS",
@@ -80838,12 +80782,6 @@
    "name": "Farmland Partners Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FPI"
-  },
-  {
-   "symbol": "FPL",
-   "name": "First Trust New Opportunities MLP \u0026 Energy Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FPL"
   },
   {
    "symbol": "FR",
@@ -88527,19 +88465,19 @@
   },
   {
    "symbol": "RCFA",
-   "name": "RCF Acquisition Corp. Class A Ordinary Shares",
+   "name": "Perception Capital Corp. IV Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "RCFA"
   },
   {
    "symbol": "RCFA.U",
-   "name": "RCF Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "name": "Perception Capital Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "RCFA.U"
   },
   {
    "symbol": "RCFA.W",
-   "name": "RCF Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "name": "Perception Capital Corp. IV Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
    "exchange": "NYSE",
    "yahoo_symbol": "RCFA.W"
   },
