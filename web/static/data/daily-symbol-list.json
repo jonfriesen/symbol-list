@@ -1,5 +1,5 @@
 {
- "date": "2024-05-06",
+ "date": "2024-05-07",
  "data": [
   {
    "symbol": "ONE",
@@ -11858,18 +11858,6 @@
     {
      "name": "Neupath Health Inc.",
      "symbol": "NPTH"
-    }
-   ]
-  },
-  {
-   "symbol": "NU",
-   "name": "NeutriSci International Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NU.V",
-   "instruments": [
-    {
-     "name": "NeutriSci International Inc.",
-     "symbol": "NU"
     }
    ]
   },
@@ -25498,6 +25486,18 @@
    ]
   },
   {
+   "symbol": "CIAI",
+   "name": "CI Global Artificial Intelligence ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CIAI.TO",
+   "instruments": [
+    {
+     "name": "CI ArtInt ETF C$SRUN",
+     "symbol": "CIAI"
+    }
+   ]
+  },
+  {
    "symbol": "CGAA",
    "name": "CI Global Asset Allocation Private Pool",
    "exchange": "TSX",
@@ -27168,7 +27168,7 @@
    "yahoo_symbol": "DSAE.TO",
    "instruments": [
     {
-     "name": "DesjardnSocieTerAmEq",
+     "name": "DesjardnSustain AmEq",
      "symbol": "DSAE"
     }
    ]
@@ -29916,7 +29916,7 @@
    "yahoo_symbol": "FLCP.TO",
    "instruments": [
     {
-     "name": "Franklin Bis Cor+Bnd",
+     "name": "Franklin Cdn Cor+Bnd",
      "symbol": "FLCP"
     }
    ]
@@ -29928,7 +29928,7 @@
    "yahoo_symbol": "FLCI.TO",
    "instruments": [
     {
-     "name": "Franklin BissCorpBnd",
+     "name": "Franklin Cdn CorpBnd",
      "symbol": "FLCI"
     }
    ]
@@ -29952,7 +29952,7 @@
    "yahoo_symbol": "FLSD.TO",
    "instruments": [
     {
-     "name": "FranklnBis SH DurBnd",
+     "name": "Frankln Cdn SH Bnd ",
      "symbol": "FLSD"
     }
    ]
@@ -29964,7 +29964,7 @@
    "yahoo_symbol": "FHIS.TO",
    "instruments": [
     {
-     "name": "FranklinBis UltShBnd",
+     "name": "FranklinCdn UltShBnd",
      "symbol": "FHIS"
     }
    ]
@@ -37926,10 +37926,6 @@
     {
      "name": "Novo Resources J",
      "symbol": "NVO"
-    },
-    {
-     "name": "Novo Res J A Wt",
-     "symbol": "NVO.WT.A"
     }
    ]
   },
@@ -63522,12 +63518,6 @@
    "yahoo_symbol": "OMIC"
   },
   {
-   "symbol": "OMQS",
-   "name": "OMNIQ Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OMQS"
-  },
-  {
    "symbol": "ON",
    "name": "ON Semiconductor Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73846,12 +73836,6 @@
    "name": "PlayAGS, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "AGS"
-  },
-  {
-   "symbol": "AGTI",
-   "name": "Agiliti, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AGTI"
   },
   {
    "symbol": "AGX",

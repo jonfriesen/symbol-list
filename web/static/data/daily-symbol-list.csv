@@ -976,7 +976,6 @@ NDA,Neptune Digital Assets Corp.,TSXV,NDA.V,Neptune Digital Assets Corp.,NDA
 NGEN,NervGen Pharma Corp.,TSXV,NGEN.V,Nervgen Pharma Corp.,NGEN
 NTE,Network Media Group Inc.,TSXV,NTE.V,Network Media Group Inc.,NTE
 NPTH,Neupath Health Inc.,TSXV,NPTH.V,Neupath Health Inc.,NPTH
-NU,NeutriSci International Inc.,TSXV,NU.V,NeutriSci International Inc.,NU
 NGE,Nevada Exploration Inc.,TSXV,NGE.V,Nevada Exploration Inc.,NGE
 NKG,Nevada King Gold Corp.,TSXV,NKG.V,Nevada King Gold Corp.,NKG
 NEV,Nevada Sunrise Metals Corporation,TSXV,NEV.V,Nevada Sunrise Metals Corporation,NEV
@@ -2025,6 +2024,7 @@ ETHX.B,CI Galaxy Ethereum ETF,TSX,ETHX.B.TO,CI GalxyEthermCA UHG,ETHX.B,CI Galxy
 CMVX,CI Galaxy Metaverse Index ETF,TSX,CMVX.TO,CI Galaxy Metavrs Un,CMVX
 CMCX.B,CI Galaxy Multi-Crypto ETF,TSX,CMCX.B.TO,CI Galxy MltCrypC$UH,CMCX.B,CI GalxyMltCrypUH US,CMCX.U
 CINV,CI Global Alpha Innovation ETF,TSX,CINV.TO,CI Glb AlphaInnov CA,CINV,CI Glb AlphaInnov US,CINV.U
+CIAI,CI Global Artificial Intelligence ETF,TSX,CIAI.TO,CI ArtInt ETF C$SRUN,CIAI
 CGAA,CI Global Asset Allocation Private Pool,TSX,CGAA.TO,CI GlbAsstAlloc C$Sr,CGAA
 CLML,CI Global Climate Leaders Fund,TSX,CLML.TO,CI GlbClimate Ldr C$,CLML,CI GlbClimateLdrHgUS,CLML.U
 FSF,CI Global Financial Sector ETF,TSX,FSF.TO,CI Glbl Fin Sectr Un,FSF
@@ -2151,7 +2151,7 @@ DRFE,Desjardins RI Emerging Markets Multifactor - Net-Zero Emissions Pathway ETF
 DRFG,Desjardins RI Global Multifactor - Fossil Fuel Reserves Free ETF,TSX,DRFG.TO,Desjardins RI GblETF,DRFG
 DRMU,Desjardins RI USA - Net-Zero Emissions Pathway ETF,TSX,DRMU.TO,DesjardnsRI US NZ Em,DRMU
 DRFU,Desjardins RI USA Multifactor - Net-Zero Emissions Pathway ETF,TSX,DRFU.TO,DesjardnRI US MFN0Em,DRFU
-DSAE,Desjardins Sustainable American Equity ETF,TSX,DSAE.TO,DesjardnSocieTerAmEq,DSAE
+DSAE,Desjardins Sustainable American Equity ETF,TSX,DSAE.TO,DesjardnSustain AmEq,DSAE
 DRFD,DesjardinsRIDeveloped ex-USAex-Canada Multifactor-Net-ZeroEmissionsPathwayETF,TSX,DRFD.TO,DesjardinsRI DevUSCA,DRFD
 DXT,Dexterra Group Inc.,TSX,DXT.TO,Dexterra Group Inc,DXT
 DRT,DIRTT Environmental Solutions Ltd.,TSX,DRT.TO,DIRTT Env Solution J,DRT,DIRTT Env SolutnJ Db,DRT.DB,DIRTT EnvSolJ 6.25Db,DRT.DB.A
@@ -2337,11 +2337,11 @@ FVI,Fortuna Silver Mines Inc.,TSX,FVI.TO,Fortuna Silver Mines,FVI,Fortuna Silvr 
 FT,Fortune Minerals Limited,TSX,FT.TO,Fortune Minerals J,FT
 FNV,Franco-Nevada Corporation,TSX,FNV.TO,Franco-Nevada Corp.,FNV
 FBGO,Franklin Brandywine Global Sustainable Income Optimiser Fund,TSX,FBGO.TO,Frankln BrandyIncmOp,FBGO
-FLCP,Franklin Canadian Core Plus Bond Fund,TSX,FLCP.TO,Franklin Bis Cor+Bnd,FLCP
-FLCI,Franklin Canadian Corporate Bond Fund,TSX,FLCI.TO,Franklin BissCorpBnd,FLCI
+FLCP,Franklin Canadian Core Plus Bond Fund,TSX,FLCP.TO,Franklin Cdn Cor+Bnd,FLCP
+FLCI,Franklin Canadian Corporate Bond Fund,TSX,FLCI.TO,Franklin Cdn CorpBnd,FLCI
 FGOV,Franklin Canadian Government Bond Fund,TSX,FGOV.TO,Franklin Cdn Gov Bnd,FGOV
-FLSD,Franklin Canadian Short Term Bond Fund,TSX,FLSD.TO,FranklnBis SH DurBnd,FLSD
-FHIS,Franklin Canadian Ultra Short Term Bond Fund,TSX,FHIS.TO,FranklinBis UltShBnd,FHIS
+FLSD,Franklin Canadian Short Term Bond Fund,TSX,FLSD.TO,Frankln Cdn SH Bnd ,FLSD
+FHIS,Franklin Canadian Ultra Short Term Bond Fund,TSX,FHIS.TO,FranklinCdn UltShBnd,FHIS
 FCII,Franklin ClearBridge Sustainable Global Infrastructure Income Fund,TSX,FCII.TO,Frankln ClrBrdgInfr,FCII
 FCSI,Franklin ClearBridge Sustainable International Growth Fund,TSX,FCSI.TO,Frankln ClrBrdgGrwth,FCSI
 FLGA,Franklin Global Core Bond Fund,TSX,FLGA.TO,Franklin GlbCorBndUn,FLGA
@@ -2952,7 +2952,7 @@ NRR.UN,Northview Residential REIT,TSX,NRR.UN.TO,Northview Res REIT A,NRR.UN
 NWH.DB.G,NorthWest Healthcare Properties Real Estate Investment Trust,TSX,NWH.DB.G.TO,NW Healthcare 2025Db,NWH.DB.G,NW Healthcare 2027Db,NWH.DB.H,NW Healthcare 2028Db,NWH.DB.I,NW Healthcare Un,NWH.UN
 NOVC,Nova Cannabis Inc.,TSX,NOVC.TO,Nova Cannabis Inc J,NOVC
 NG,NovaGold Resources Inc.,TSX,NG.TO,NovaGold Resources J,NG
-NVO,Novo Resources Corp.,TSX,NVO.TO,Novo Resources J,NVO,Novo Res J A Wt,NVO.WT.A
+NVO,Novo Resources Corp.,TSX,NVO.TO,Novo Resources J,NVO
 NUMI,Numinus Wellness Inc.,TSX,NUMI.TO,Numinus Wellness J,NUMI
 NTR,Nutrien Ltd.,TSX,NTR.TO,Nutrien Ltd.,NTR
 NVEI,Nuvei Corporation,TSX,NVEI.TO,Nuvei Corp. J SV,NVEI
@@ -6644,7 +6644,6 @@ OMEX,"Odyssey Marine Exploration, Inc. - Common Stock",NASDAQ Capital Market,OME
 OMGA,"Omega Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,OMGA
 OMH,Ohmyhome Limited - Ordinary Shares,NASDAQ Capital Market,OMH
 OMIC,"Singular Genomics Systems, Inc. - Common Stock",NASDAQ Capital Market,OMIC
-OMQS,OMNIQ Corp. - Common Stock,NASDAQ Capital Market,OMQS
 ON,ON Semiconductor Corporation - Common Stock,NASDAQ Global Select MarketSM,ON
 ONB,Old National Bancorp - Common Stock,NASDAQ Global Select MarketSM,ONB
 ONBPO,"Old National Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series C Preferred Stock",NASDAQ Global Select MarketSM,ONBPO
@@ -8365,7 +8364,6 @@ AGO,Assured Guaranty Ltd. Common Stock,NYSE,AGO
 AGR,"Avangrid, Inc. Common Stock",NYSE,AGR
 AGRO,Adecoagro S.A. Common Shares,NYSE,AGRO
 AGS,"PlayAGS, Inc. Common Stock",NYSE,AGS
-AGTI,"Agiliti, Inc. Common Stock",NYSE,AGTI
 AGX,"Argan, Inc. Common Stock",NYSE,AGX
 AHH,"Armada Hoffler Properties, Inc. Common Stock",NYSE,AHH
 AHH$A,"Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",NYSE,AHH$A
