@@ -1,5 +1,5 @@
 {
- "date": "2024-05-07",
+ "date": "2024-05-08",
  "data": [
   {
    "symbol": "ONE",
@@ -2874,18 +2874,6 @@
    ]
   },
   {
-   "symbol": "GOWC.P",
-   "name": "Can-Gow Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GOWC.P.V",
-   "instruments": [
-    {
-     "name": "Can-Gow Capital Inc.",
-     "symbol": "GOWC.P"
-    }
-   ]
-  },
-  {
    "symbol": "CCB",
    "name": "Canada Carbon Inc.",
    "exchange": "TSXV",
@@ -4950,18 +4938,6 @@
    ]
   },
   {
-   "symbol": "DVG",
-   "name": "Divergent Energy Services Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DVG.V",
-   "instruments": [
-    {
-     "name": "Divergent Energy Services Corp.",
-     "symbol": "DVG"
-    }
-   ]
-  },
-  {
    "symbol": "DG",
    "name": "Dixie Gold Inc.",
    "exchange": "TSXV",
@@ -5378,18 +5354,6 @@
     {
      "name": "EDM Resources Inc.",
      "symbol": "EDM"
-    }
-   ]
-  },
-  {
-   "symbol": "EFV",
-   "name": "EF EnergyFunders Ventures, Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EFV.V",
-   "instruments": [
-    {
-     "name": "EF EnergyFunders Ventures, Inc.",
-     "symbol": "EFV"
     }
    ]
   },
@@ -12115,7 +12079,7 @@
   },
   {
    "symbol": "NXO",
-   "name": "NexOptic Technology Corp",
+   "name": "NexOptic Technology Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "NXO.V",
    "instruments": [
@@ -32922,6 +32886,22 @@
     {
      "name": "Info Serv Corp. A LV",
      "symbol": "ISV"
+    }
+   ]
+  },
+  {
+   "symbol": "IS",
+   "name": "Infrastructure Dividend Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IS.TO",
+   "instruments": [
+    {
+     "name": "Infr're DivSplit A U",
+     "symbol": "IS"
+    },
+    {
+     "name": "Infr're DivSplit PrS",
+     "symbol": "IS.PR.A"
     }
    ]
   },
@@ -57490,25 +57470,25 @@
   {
    "symbol": "IGTA",
    "name": "Inception Growth Acquisition Limited - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "IGTA"
   },
   {
    "symbol": "IGTAR",
    "name": "Inception Growth Acquisition Limited - Rights",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "IGTAR"
   },
   {
    "symbol": "IGTAU",
    "name": "Inception Growth Acquisition Limited - Units",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "IGTAU"
   },
   {
    "symbol": "IGTAW",
    "name": "Inception Growth Acquisition Limited - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "IGTAW"
   },
   {
@@ -71931,7 +71911,7 @@
   },
   {
    "symbol": "VTGN",
-   "name": "VistaGen Therapeutics, Inc. - Common Stock",
+   "name": "Vistagen Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VTGN"
   },
@@ -73635,13 +73615,13 @@
   },
   {
    "symbol": "AEL$A",
-   "name": "American Equity Investment Life Holding Company Depositary Shares, each representing a 1/1,000th interest in a share of 5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",
    "exchange": "NYSE",
    "yahoo_symbol": "AEL$A"
   },
   {
    "symbol": "AEL$B",
-   "name": "American Equity Investment Life Holding Company Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",
    "exchange": "NYSE",
    "yahoo_symbol": "AEL$B"
   },
