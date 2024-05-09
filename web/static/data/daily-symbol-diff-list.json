@@ -1,106 +1,244 @@
 {
  "added": [
   {
-   "symbol": "IS",
-   "name": "Infrastructure Dividend Split Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "IS.TO",
+   "symbol": "NNE",
+   "name": "Nano Nuclear Energy Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NNE"
+  },
+  {
+   "symbol": "ONAU",
+   "name": "OnGold Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ONAU.V",
    "instruments": [
     {
-     "name": "Infr're DivSplit A U",
-     "symbol": "IS"
-    },
-    {
-     "name": "Infr're DivSplit PrS",
-     "symbol": "IS.PR.A"
+     "name": "OnGold Resources Ltd.",
+     "symbol": "ONAU"
     }
    ]
-  },
-  {
-   "symbol": "IGTA",
-   "name": "Inception Growth Acquisition Limited - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IGTA"
-  },
-  {
-   "symbol": "IGTAR",
-   "name": "Inception Growth Acquisition Limited - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IGTAR"
-  },
-  {
-   "symbol": "IGTAU",
-   "name": "Inception Growth Acquisition Limited - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IGTAU"
-  },
-  {
-   "symbol": "IGTAW",
-   "name": "Inception Growth Acquisition Limited - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IGTAW"
   }
  ],
  "removed": [
   {
-   "symbol": "GOWC.P",
-   "name": "Can-Gow Capital Inc.",
+   "symbol": "AIBBR",
+   "name": "AIB Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIBBR"
+  },
+  {
+   "symbol": "ETAO",
+   "name": "Etao International Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETAO"
+  },
+  {
+   "symbol": "AIB",
+   "name": "AIB Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIB"
+  },
+  {
+   "symbol": "VAXX",
+   "name": "Vaxxinity, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VAXX"
+  },
+  {
+   "symbol": "AMR",
+   "name": "AM Resources Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GOWC.P.V",
+   "yahoo_symbol": "AMR.V",
    "instruments": [
     {
-     "name": "Can-Gow Capital Inc.",
-     "symbol": "GOWC.P"
+     "name": "AM Resources Corp.",
+     "symbol": "AMR"
     }
    ]
   },
   {
-   "symbol": "EFV",
-   "name": "EF EnergyFunders Ventures, Inc.",
+   "symbol": "PEAS",
+   "name": "Global Food and Ingredients Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "EFV.V",
+   "yahoo_symbol": "PEAS.V",
    "instruments": [
     {
-     "name": "EF EnergyFunders Ventures, Inc.",
-     "symbol": "EFV"
+     "name": "Global Food and Ingredients Ltd.",
+     "symbol": "PEAS"
     }
    ]
   },
   {
-   "symbol": "IGTAR",
-   "name": "Inception Growth Acquisition Limited - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IGTAR"
+   "symbol": "AFIB",
+   "name": "Acutus Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AFIB"
   },
   {
-   "symbol": "DVG",
-   "name": "Divergent Energy Services Corp.",
+   "symbol": "AXM",
+   "name": "AXMIN Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DVG.V",
+   "yahoo_symbol": "AXM.V",
    "instruments": [
     {
-     "name": "Divergent Energy Services Corp.",
-     "symbol": "DVG"
+     "name": "AXMIN Inc.",
+     "symbol": "AXM"
     }
    ]
   },
   {
-   "symbol": "IGTAW",
-   "name": "Inception Growth Acquisition Limited - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IGTAW"
+   "symbol": "BECN",
+   "name": "Beacn Wizardry \u0026 Magic Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BECN.V",
+   "instruments": [
+    {
+     "name": "Beacn Wizardry \u0026 Magic Inc.",
+     "symbol": "BECN"
+    }
+   ]
   },
   {
-   "symbol": "IGTA",
-   "name": "Inception Growth Acquisition Limited - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IGTA"
+   "symbol": "GER",
+   "name": "Glen Eagle Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GER.V",
+   "instruments": [
+    {
+     "name": "Glen Eagle Resources Inc",
+     "symbol": "GER"
+    }
+   ]
   },
   {
-   "symbol": "IGTAU",
-   "name": "Inception Growth Acquisition Limited - Units",
+   "symbol": "EP",
+   "name": "Empire Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EP.V",
+   "instruments": [
+    {
+     "name": "Empire Metals Corp.",
+     "symbol": "EP"
+    }
+   ]
+  },
+  {
+   "symbol": "GMI",
+   "name": "Green Mining Innovation Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GMI.V",
+   "instruments": [
+    {
+     "name": "Green Mining Innovation Inc.",
+     "symbol": "GMI"
+    }
+   ]
+  },
+  {
+   "symbol": "JHC",
+   "name": "Jinhua Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JHC.V",
+   "instruments": [
+    {
+     "name": "Jinhua Capital Corporation",
+     "symbol": "JHC"
+    }
+   ]
+  },
+  {
+   "symbol": "CSPN",
+   "name": "CareSpan Health, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSPN.V",
+   "instruments": [
+    {
+     "name": "CareSpan Health, Inc.",
+     "symbol": "CSPN"
+    }
+   ]
+  },
+  {
+   "symbol": "GBLT",
+   "name": "GBLT Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GBLT.V",
+   "instruments": [
+    {
+     "name": "GBLT Corp.",
+     "symbol": "GBLT"
+    }
+   ]
+  },
+  {
+   "symbol": "AIP.U",
+   "name": "AIP Realty Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AIP.U.V",
+   "instruments": [
+    {
+     "name": "AIP Realty Trust",
+     "symbol": "AIP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AIBBU",
+   "name": "AIB Acquisition Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IGTAU"
+   "yahoo_symbol": "AIBBU"
+  },
+  {
+   "symbol": "AEC",
+   "name": "Anfield Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AEC.V",
+   "instruments": [
+    {
+     "name": "Anfield Energy Inc.",
+     "symbol": "AEC"
+    },
+    {
+     "name": "Anfield Energy Inc. wt 12May2027",
+     "symbol": "AEC.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "RABI",
+   "name": "AdRabbit Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RABI.V",
+   "instruments": [
+    {
+     "name": "AdRabbit Limited",
+     "symbol": "RABI"
+    }
+   ]
+  },
+  {
+   "symbol": "ATW",
+   "name": "ATW Tech Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATW.V",
+   "instruments": [
+    {
+     "name": "ATW Tech Inc.",
+     "symbol": "ATW"
+    }
+   ]
+  },
+  {
+   "symbol": "CLP.UN",
+   "name": "International Clean Power Dividend Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLP.UN.TO",
+   "instruments": [
+    {
+     "name": "Int'l CleanPwr DivUn",
+     "symbol": "CLP.UN"
+    }
+   ]
   }
  ]
 }
