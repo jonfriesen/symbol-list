@@ -1,242 +1,326 @@
 {
  "added": [
   {
-   "symbol": "NNE",
-   "name": "Nano Nuclear Energy Inc. - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NNE"
+   "symbol": "OKLO",
+   "name": "Oklo Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OKLO"
   },
   {
-   "symbol": "ONAU",
-   "name": "OnGold Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ONAU.V",
-   "instruments": [
-    {
-     "name": "OnGold Resources Ltd.",
-     "symbol": "ONAU"
-    }
-   ]
+   "symbol": "ZK",
+   "name": "ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ZK"
+  },
+  {
+   "symbol": "FER",
+   "name": "Ferrovial SE - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FER"
+  },
+  {
+   "symbol": "GPATU",
+   "name": "GP-Act III Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPATU"
+  },
+  {
+   "symbol": "INDH",
+   "name": "WisdomTree India Hedged Equity Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INDH"
+  },
+  {
+   "symbol": "PAL",
+   "name": "Proficient Auto Logistics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PAL"
+  },
+  {
+   "symbol": "SVCO",
+   "name": "Silvaco Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SVCO"
   }
  ],
  "removed": [
   {
-   "symbol": "AIBBR",
-   "name": "AIB Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIBBR"
+   "symbol": "SPP",
+   "name": "Spot Coffee (Canada) Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPP.V",
+   "instruments": [
+    {
+     "name": "Spot Coffee (Canada) Ltd.",
+     "symbol": "SPP"
+    }
+   ]
   },
   {
-   "symbol": "ETAO",
-   "name": "Etao International Co., Ltd. - Ordinary Shares",
+   "symbol": "IMPT",
+   "name": "Impact Development Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMPT.V",
+   "instruments": [
+    {
+     "name": "Impact Development Group Inc.",
+     "symbol": "IMPT"
+    }
+   ]
+  },
+  {
+   "symbol": "NZN",
+   "name": "Nevada Zinc Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NZN.V",
+   "instruments": [
+    {
+     "name": "Nevada Zinc Corporation",
+     "symbol": "NZN"
+    }
+   ]
+  },
+  {
+   "symbol": "RP",
+   "name": "RepliCel Life Sciences Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RP.V",
+   "instruments": [
+    {
+     "name": "Replicel Life Sciences Inc.",
+     "symbol": "RP"
+    }
+   ]
+  },
+  {
+   "symbol": "NEWU",
+   "name": "Newtopia Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NEWU.V",
+   "instruments": [
+    {
+     "name": "Newtopia Inc.",
+     "symbol": "NEWU"
+    }
+   ]
+  },
+  {
+   "symbol": "STER",
+   "name": "Steer Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STER.V",
+   "instruments": [
+    {
+     "name": "Steer Technologies Inc.",
+     "symbol": "STER"
+    }
+   ]
+  },
+  {
+   "symbol": "FRDY",
+   "name": "Friday's Dog Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRDY.V",
+   "instruments": [
+    {
+     "name": "Friday's Dog Holdings Inc.",
+     "symbol": "FRDY"
+    }
+   ]
+  },
+  {
+   "symbol": "DOC",
+   "name": "CloudMD Software \u0026 Services Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DOC.V",
+   "instruments": [
+    {
+     "name": "CloudMD Software \u0026 Services Inc.",
+     "symbol": "DOC"
+    }
+   ]
+  },
+  {
+   "symbol": "PMGMW",
+   "name": "Priveterra Acquisition Corp. II - Warrant to purchase Class A common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ETAO"
+   "yahoo_symbol": "PMGMW"
   },
   {
-   "symbol": "AIB",
-   "name": "AIB Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIB"
-  },
-  {
-   "symbol": "VAXX",
-   "name": "Vaxxinity, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VAXX"
-  },
-  {
-   "symbol": "AMR",
-   "name": "AM Resources Corp.",
+   "symbol": "PCLO",
+   "name": "Pharmacielo Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AMR.V",
+   "yahoo_symbol": "PCLO.V",
    "instruments": [
     {
-     "name": "AM Resources Corp.",
-     "symbol": "AMR"
+     "name": "Pharmacielo Ltd.",
+     "symbol": "PCLO"
     }
    ]
   },
   {
-   "symbol": "PEAS",
-   "name": "Global Food and Ingredients Ltd.",
+   "symbol": "CERT",
+   "name": "Cerrado Gold Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PEAS.V",
+   "yahoo_symbol": "CERT.V",
    "instruments": [
     {
-     "name": "Global Food and Ingredients Ltd.",
-     "symbol": "PEAS"
+     "name": "Cerrado Gold Inc.",
+     "symbol": "CERT"
     }
    ]
   },
   {
-   "symbol": "AFIB",
-   "name": "Acutus Medical, Inc. - Common Stock",
+   "symbol": "MCX",
+   "name": "MCX Technologies Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MCX.V",
+   "instruments": [
+    {
+     "name": "MCX Technologies Corporation",
+     "symbol": "MCX"
+    }
+   ]
+  },
+  {
+   "symbol": "GROW",
+   "name": "CO2 GRO Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GROW.V",
+   "instruments": [
+    {
+     "name": "CO2 GRO Inc.",
+     "symbol": "GROW"
+    }
+   ]
+  },
+  {
+   "symbol": "PMGMU",
+   "name": "Priveterra Acquisition Corp. II - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AFIB"
+   "yahoo_symbol": "PMGMU"
   },
   {
-   "symbol": "AXM",
-   "name": "AXMIN Inc.",
+   "symbol": "ALCC",
+   "name": "AltC Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALCC"
+  },
+  {
+   "symbol": "JUMP",
+   "name": "LevelJump Healthcare Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AXM.V",
+   "yahoo_symbol": "JUMP.V",
    "instruments": [
     {
-     "name": "AXMIN Inc.",
-     "symbol": "AXM"
+     "name": "Leveljump Healthcare Corp.",
+     "symbol": "JUMP"
     }
    ]
   },
   {
-   "symbol": "BECN",
-   "name": "Beacn Wizardry \u0026 Magic Inc.",
+   "symbol": "TFM",
+   "name": "Transforma Resources Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "BECN.V",
+   "yahoo_symbol": "TFM.V",
    "instruments": [
     {
-     "name": "Beacn Wizardry \u0026 Magic Inc.",
-     "symbol": "BECN"
+     "name": "Transforma Resources Corporation",
+     "symbol": "TFM"
     }
    ]
   },
   {
-   "symbol": "GER",
-   "name": "Glen Eagle Resources Inc.",
+   "symbol": "NXO",
+   "name": "NexOptic Technology Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GER.V",
+   "yahoo_symbol": "NXO.V",
    "instruments": [
     {
-     "name": "Glen Eagle Resources Inc",
-     "symbol": "GER"
+     "name": "NexOptic Technology Corp.",
+     "symbol": "NXO"
     }
    ]
   },
   {
-   "symbol": "EP",
-   "name": "Empire Metals Corp.",
+   "symbol": "VOL",
+   "name": "Volatus Aerospace Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "EP.V",
+   "yahoo_symbol": "VOL.V",
    "instruments": [
     {
-     "name": "Empire Metals Corp.",
-     "symbol": "EP"
-    }
-   ]
-  },
-  {
-   "symbol": "GMI",
-   "name": "Green Mining Innovation Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GMI.V",
-   "instruments": [
-    {
-     "name": "Green Mining Innovation Inc.",
-     "symbol": "GMI"
-    }
-   ]
-  },
-  {
-   "symbol": "JHC",
-   "name": "Jinhua Capital Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JHC.V",
-   "instruments": [
-    {
-     "name": "Jinhua Capital Corporation",
-     "symbol": "JHC"
-    }
-   ]
-  },
-  {
-   "symbol": "CSPN",
-   "name": "CareSpan Health, Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CSPN.V",
-   "instruments": [
-    {
-     "name": "CareSpan Health, Inc.",
-     "symbol": "CSPN"
-    }
-   ]
-  },
-  {
-   "symbol": "GBLT",
-   "name": "GBLT Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GBLT.V",
-   "instruments": [
-    {
-     "name": "GBLT Corp.",
-     "symbol": "GBLT"
-    }
-   ]
-  },
-  {
-   "symbol": "AIP.U",
-   "name": "AIP Realty Trust",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AIP.U.V",
-   "instruments": [
-    {
-     "name": "AIP Realty Trust",
-     "symbol": "AIP.U"
-    }
-   ]
-  },
-  {
-   "symbol": "AIBBU",
-   "name": "AIB Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIBBU"
-  },
-  {
-   "symbol": "AEC",
-   "name": "Anfield Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AEC.V",
-   "instruments": [
-    {
-     "name": "Anfield Energy Inc.",
-     "symbol": "AEC"
+     "name": "Volatus Aerospace Corp.",
+     "symbol": "VOL"
     },
     {
-     "name": "Anfield Energy Inc. wt 12May2027",
-     "symbol": "AEC.WT"
+     "name": "Volatus Aerospace Corp. wt 06Oct2024",
+     "symbol": "VOL.WT.A"
     }
    ]
   },
   {
-   "symbol": "RABI",
-   "name": "AdRabbit Limited",
+   "symbol": "MIT",
+   "name": "The Mint Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "RABI.V",
+   "yahoo_symbol": "MIT.V",
    "instruments": [
     {
-     "name": "AdRabbit Limited",
-     "symbol": "RABI"
+     "name": "The Mint Corporation",
+     "symbol": "MIT"
     }
    ]
   },
   {
-   "symbol": "ATW",
-   "name": "ATW Tech Inc.",
+   "symbol": "PMGM",
+   "name": "Priveterra Acquisition Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMGM"
+  },
+  {
+   "symbol": "WAGR",
+   "name": "Champion Gaming Group Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ATW.V",
+   "yahoo_symbol": "WAGR.V",
    "instruments": [
     {
-     "name": "ATW Tech Inc.",
-     "symbol": "ATW"
+     "name": "Champion Gaming Group Inc.",
+     "symbol": "WAGR"
     }
    ]
   },
   {
-   "symbol": "CLP.UN",
-   "name": "International Clean Power Dividend Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CLP.UN.TO",
+   "symbol": "YOO",
+   "name": "Yangaroo Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YOO.V",
    "instruments": [
     {
-     "name": "Int'l CleanPwr DivUn",
-     "symbol": "CLP.UN"
+     "name": "Yangaroo Inc.",
+     "symbol": "YOO"
+    }
+   ]
+  },
+  {
+   "symbol": "SNS",
+   "name": "Select Sands Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SNS.V",
+   "instruments": [
+    {
+     "name": "Select Sands Corp.",
+     "symbol": "SNS"
+    }
+   ]
+  },
+  {
+   "symbol": "ZONE",
+   "name": "Zonetail Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZONE.V",
+   "instruments": [
+    {
+     "name": "Zonetail Inc.",
+     "symbol": "ZONE"
     }
    ]
   }
