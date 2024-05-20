@@ -1,5 +1,5 @@
 {
- "date": "2024-05-17",
+ "date": "2024-05-20",
  "data": [
   {
    "symbol": "ONE",
@@ -47804,12 +47804,6 @@
    "yahoo_symbol": "BROGW"
   },
   {
-   "symbol": "BRP",
-   "name": "The Baldwin Insurance Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BRP"
-  },
-  {
    "symbol": "BRRR",
    "name": "Valkyrie Bitcoin Fund",
    "exchange": "NASDAQ Global MarketSM",
@@ -48294,6 +48288,12 @@
    "name": "Bankwell Financial Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BWFG"
+  },
+  {
+   "symbol": "BWIN",
+   "name": "The Baldwin Insurance Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BWIN"
   },
   {
    "symbol": "BWMN",
@@ -55910,6 +55910,12 @@
    "yahoo_symbol": "HCWB"
   },
   {
+   "symbol": "HDL",
+   "name": "SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HDL"
+  },
+  {
    "symbol": "HDSN",
    "name": "Hudson Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -58628,12 +58634,6 @@
    "yahoo_symbol": "KFFB"
   },
   {
-   "symbol": "KFRC",
-   "name": "Kforce, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KFRC"
-  },
-  {
    "symbol": "KGEI",
    "name": "Kolibri Global Energy Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
@@ -60056,12 +60056,6 @@
    "yahoo_symbol": "MACAW"
   },
   {
-   "symbol": "MACK",
-   "name": "Merrimack Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACK"
-  },
-  {
    "symbol": "MAGQ",
    "name": "Roundhill Daily Inverse Magnificent Seven ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -60687,7 +60681,7 @@
   },
   {
    "symbol": "MGRM",
-   "name": "Monogram Orthopaedics Inc. - Common Stock",
+   "name": "Monogram Technologies Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MGRM"
   },
@@ -66084,6 +66078,12 @@
    "name": "RF Acquisition Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RFACW"
+  },
+  {
+   "symbol": "RFAIU",
+   "name": "RF Acquisition Corp II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAIU"
   },
   {
    "symbol": "RFDI",
@@ -77186,10 +77186,10 @@
    "yahoo_symbol": "CNF"
   },
   {
-   "symbol": "CNHI",
+   "symbol": "CNH",
    "name": "CNH Industrial N.V. Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "CNHI"
+   "yahoo_symbol": "CNH"
   },
   {
    "symbol": "CNI",
@@ -83072,6 +83072,12 @@
    "yahoo_symbol": "KF"
   },
   {
+   "symbol": "KFRC",
+   "name": "Kforce, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KFRC"
+  },
+  {
    "symbol": "KFS",
    "name": "Kingsway Financial Services, Inc. Common Stock (DE)",
    "exchange": "NYSE",
@@ -83625,7 +83631,7 @@
   },
   {
    "symbol": "LH",
-   "name": "Laboratory Corporation of America Holdings Common Stock",
+   "name": "Labcorp Holdings Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LH"
   },
@@ -84374,16 +84380,16 @@
    "yahoo_symbol": "MIR"
   },
   {
-   "symbol": "MIR.W",
-   "name": "Mirion Technologies, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MIR.W"
-  },
-  {
    "symbol": "MITN",
    "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
    "exchange": "NYSE",
    "yahoo_symbol": "MITN"
+  },
+  {
+   "symbol": "MITP",
+   "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MITP"
   },
   {
    "symbol": "MITQ",
@@ -86520,24 +86526,6 @@
    "name": "Overseas Shipholding Group, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "OSG"
-  },
-  {
-   "symbol": "OSI",
-   "name": "Osiris Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OSI"
-  },
-  {
-   "symbol": "OSI.U",
-   "name": "Osiris Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OSI.U"
-  },
-  {
-   "symbol": "OSI.W",
-   "name": "Osiris Acquisition Corp. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OSI.W"
   },
   {
    "symbol": "OSK",

@@ -1,72 +1,90 @@
 {
  "added": [
   {
-   "symbol": "ENTO",
-   "name": "Entero Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ENTO"
+   "symbol": "BWIN",
+   "name": "The Baldwin Insurance Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BWIN"
+  },
+  {
+   "symbol": "HDL",
+   "name": "SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HDL"
+  },
+  {
+   "symbol": "RFAIU",
+   "name": "RF Acquisition Corp II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAIU"
+  },
+  {
+   "symbol": "CNH",
+   "name": "CNH Industrial N.V. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNH"
+  },
+  {
+   "symbol": "KFRC",
+   "name": "Kforce, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KFRC"
+  },
+  {
+   "symbol": "MITP",
+   "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MITP"
   }
  ],
  "removed": [
   {
-   "symbol": "GS$K",
-   "name": "Goldman Sachs Group, Inc. (The) Dep Shs Repstg 1/1000 Int Sh Fxd/Fltg Non Cum Pfd Stk Ser K",
+   "symbol": "MIR.W",
+   "name": "Mirion Technologies, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
    "exchange": "NYSE",
-   "yahoo_symbol": "GS$K"
+   "yahoo_symbol": "MIR.W"
   },
   {
-   "symbol": "FWBI",
-   "name": "First Wave BioPharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FWBI"
+   "symbol": "CNHI",
+   "name": "CNH Industrial N.V. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNHI"
   },
   {
-   "symbol": "TCXT",
-   "name": "TrueContext Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TCXT.V",
-   "instruments": [
-    {
-     "name": "TrueContext Corporation",
-     "symbol": "TCXT"
-    }
-   ]
+   "symbol": "MACK",
+   "name": "Merrimack Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACK"
   },
   {
-   "symbol": "CLVR",
-   "name": "Clever Leaves Holdings Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CLVR"
-  },
-  {
-   "symbol": "CLVRW",
-   "name": "Clever Leaves Holdings Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CLVRW"
-  },
-  {
-   "symbol": "TAST",
-   "name": "Carrols Restaurant Group, Inc. - Common Stock",
+   "symbol": "KFRC",
+   "name": "Kforce, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TAST"
+   "yahoo_symbol": "KFRC"
   },
   {
-   "symbol": "HZM",
-   "name": "Horizonte Minerals Plc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "HZM.TO",
-   "instruments": [
-    {
-     "name": "Horizonte Min Ord J",
-     "symbol": "HZM"
-    }
-   ]
-  },
-  {
-   "symbol": "SP",
-   "name": "SP Plus Corporation - Common Stock",
+   "symbol": "BRP",
+   "name": "The Baldwin Insurance Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SP"
+   "yahoo_symbol": "BRP"
+  },
+  {
+   "symbol": "OSI.U",
+   "name": "Osiris Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OSI.U"
+  },
+  {
+   "symbol": "OSI.W",
+   "name": "Osiris Acquisition Corp. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OSI.W"
+  },
+  {
+   "symbol": "OSI",
+   "name": "Osiris Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OSI"
   }
  ]
 }
