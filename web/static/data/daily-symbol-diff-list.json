@@ -1,90 +1,52 @@
 {
- "added": [
-  {
-   "symbol": "BWIN",
-   "name": "The Baldwin Insurance Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BWIN"
-  },
-  {
-   "symbol": "HDL",
-   "name": "SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HDL"
-  },
-  {
-   "symbol": "RFAIU",
-   "name": "RF Acquisition Corp II - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RFAIU"
-  },
-  {
-   "symbol": "CNH",
-   "name": "CNH Industrial N.V. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CNH"
-  },
-  {
-   "symbol": "KFRC",
-   "name": "Kforce, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KFRC"
-  },
-  {
-   "symbol": "MITP",
-   "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MITP"
-  }
- ],
  "removed": [
   {
-   "symbol": "MIR.W",
-   "name": "Mirion Technologies, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "symbol": "FATH",
+   "name": "Fathom Digital Manufacturing Corporation Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MIR.W"
+   "yahoo_symbol": "FATH"
   },
   {
-   "symbol": "CNHI",
-   "name": "CNH Industrial N.V. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CNHI"
+   "symbol": "IGX",
+   "name": "IntelGenx Technologies Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGX.TO",
+   "instruments": [
+    {
+     "name": "IntelGenx Tech J",
+     "symbol": "IGX"
+    }
+   ]
   },
   {
-   "symbol": "MACK",
-   "name": "Merrimack Pharmaceuticals, Inc. - Common Stock",
+   "symbol": "ALPN",
+   "name": "Alpine Immune Sciences, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACK"
+   "yahoo_symbol": "ALPN"
   },
   {
-   "symbol": "KFRC",
-   "name": "Kforce, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KFRC"
+   "symbol": "FHLT",
+   "name": "Future Health ESG Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FHLT"
   },
   {
-   "symbol": "BRP",
-   "name": "The Baldwin Insurance Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BRP"
+   "symbol": "FHLTU",
+   "name": "Future Health ESG Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FHLTU"
   },
   {
-   "symbol": "OSI.U",
-   "name": "Osiris Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OSI.U"
+   "symbol": "AIH",
+   "name": "Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIH"
   },
   {
-   "symbol": "OSI.W",
-   "name": "Osiris Acquisition Corp. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OSI.W"
-  },
-  {
-   "symbol": "OSI",
-   "name": "Osiris Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OSI"
+   "symbol": "FHLTW",
+   "name": "Future Health ESG Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FHLTW"
   }
  ]
 }
