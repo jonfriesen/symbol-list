@@ -1,138 +1,102 @@
 {
  "added": [
   {
-   "symbol": "AIP.U",
-   "name": "AIP Realty Trust",
+   "symbol": "PACE",
+   "name": "Pace Metals Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AIP.U.V",
+   "yahoo_symbol": "PACE.V",
    "instruments": [
     {
-     "name": "AIP Realty Trust",
-     "symbol": "AIP.U"
+     "name": "Pace Metals Ltd.",
+     "symbol": "PACE"
     }
    ]
   },
   {
-   "symbol": "TIE",
-   "name": "Coloured Ties Capital Inc.",
+   "symbol": "STER",
+   "name": "Steer Technologies Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TIE.V",
+   "yahoo_symbol": "STER.V",
    "instruments": [
     {
-     "name": "Coloured Ties Capital Inc.",
-     "symbol": "TIE"
+     "name": "Steer Technologies Inc.",
+     "symbol": "STER"
     }
    ]
   },
   {
-   "symbol": "FCEM",
-   "name": "Fidelity Emerging Markets Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCEM.TO",
-   "instruments": [
-    {
-     "name": "Fid Emerg Mkt FndETF",
-     "symbol": "FCEM"
-    }
-   ]
-  },
-  {
-   "symbol": "FGEB",
-   "name": "Fidelity Global Equity+ Balanced Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FGEB.TO",
-   "instruments": [
-    {
-     "name": "Fid Gl Eq+Bl Fnd ETF",
-     "symbol": "FGEB"
-    }
-   ]
-  },
-  {
-   "symbol": "FGEP",
-   "name": "Fidelity Global Equity+ Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FGEP.TO",
-   "instruments": [
-    {
-     "name": "Fid Gl Eq+ Fund ETF",
-     "symbol": "FGEP"
-    }
-   ]
-  },
-  {
-   "symbol": "FTHI",
-   "name": "Fidelity Tactical High Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FTHI.TO",
-   "instruments": [
-    {
-     "name": "FidTac HghIncFndETF ",
-     "symbol": "FTHI"
-    }
-   ]
-  },
-  {
-   "symbol": "QQQL",
-   "name": "Global X Enhanced Nasdaq-100 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQQL.TO",
-   "instruments": [
-    {
-     "name": "GblX EnNas100Idx ETF",
-     "symbol": "QQQL"
-    }
-   ]
-  },
-  {
-   "symbol": "USSL",
-   "name": "Global X Enhanced S\u0026P 500 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "USSL.TO",
-   "instruments": [
-    {
-     "name": "GblX EnhSP500 IdxETF",
-     "symbol": "USSL"
-    }
-   ]
-  },
-  {
-   "symbol": "PAYS",
-   "name": "Global X Short-Term Government Bond Premium Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PAYS.TO",
-   "instruments": [
-    {
-     "name": "GblX StGvBnd PrY ETF",
-     "symbol": "PAYS"
-    }
-   ]
-  },
-  {
-   "symbol": "OZEM",
-   "name": "Roundhill GLP-1 \u0026 Weight Loss ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OZEM"
-  },
-  {
-   "symbol": "KBDC",
-   "name": "Kayne Anderson BDC, Inc. Common Stock",
+   "symbol": "BOW",
+   "name": "Bowhead Specialty Holdings Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "KBDC"
+   "yahoo_symbol": "BOW"
   }
  ],
  "removed": [
   {
-   "symbol": "CZOO",
-   "name": "Cazoo Group Ltd Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CZOO"
+   "symbol": "ISUN",
+   "name": "iSun, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ISUN"
   },
   {
-   "symbol": "AMJ",
-   "name": "JPMorgan Chase Capital XVI JP Morgan Alerian MLP ETN",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "AMJ"
+   "symbol": "MDF",
+   "name": "mdf commerce inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MDF.TO",
+   "instruments": [
+    {
+     "name": "mdf commerce inc.",
+     "symbol": "MDF"
+    }
+   ]
+  },
+  {
+   "symbol": "PUCKW",
+   "name": "Goal Acquisitions Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PUCKW"
+  },
+  {
+   "symbol": "PUCKU",
+   "name": "Goal Acquisitions Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PUCKU"
+  },
+  {
+   "symbol": "PUCK",
+   "name": "Goal Acquisitions Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PUCK"
+  },
+  {
+   "symbol": "BRG",
+   "name": "Brigadier Gold Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BRG.V",
+   "instruments": [
+    {
+     "name": "Brigadier Gold Limited",
+     "symbol": "BRG"
+    }
+   ]
+  },
+  {
+   "symbol": "SCX",
+   "name": "L.S. Starrett Company (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCX"
+  },
+  {
+   "symbol": "HMLO",
+   "name": "Hemlo Explorers Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HMLO.V",
+   "instruments": [
+    {
+     "name": "Hemlo Explorers Inc.",
+     "symbol": "HMLO"
+    }
+   ]
   }
  ]
 }
