@@ -1,74 +1,141 @@
 {
  "added": [
   {
-   "symbol": "ZENT",
-   "name": "Zentry (ZENT)",
+   "symbol": "SFV2",
+   "name": "ShibaFameV2 (SFV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GST",
+   "name": "CoinGhost (GST)",
    "built_on": "ETH"
   },
   {
-   "symbol": "QRDO",
-   "name": "Qredo (QRDO)"
+   "symbol": "XCB",
+   "name": "Crypto Birds (XCB)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "TCG",
-   "name": "Today's Crypto (TCG)",
+   "symbol": "PEPESWAP",
+   "name": "PEPE Swap (PEPESWAP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OSKDAO",
+   "name": "OSK DAO (OSKDAO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STSOMM",
+   "name": "Stride Staked SOMM (STSOMM)",
+   "built_on": "OSMO"
+  },
+  {
+   "symbol": "BREAD",
+   "name": "Breadchain Cooperative (BREAD)",
+   "built_on": "GNO"
+  },
+  {
+   "symbol": "OPEN",
+   "name": "Open Custody Protocol (OPEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FMA",
+   "name": "FLAMA (FMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TTF",
+   "name": "TurboTrix Finance (TTF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLUXT",
+   "name": "Flux Token (FLUXT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DCK",
+   "name": "DexCheck AI (DCK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PENR",
+   "name": "Penrose Finance (PENR)",
    "built_on": "MATIC"
   },
   {
-   "symbol": "BRETTETH",
-   "name": "Brett ETH (BRETTETH)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BITCONNECT",
-   "name": "BitConnect Coin (BITCONNECT)"
-  },
-  {
-   "symbol": "THR",
-   "name": "Thorecoin (THR)",
+   "symbol": "SOLMATES",
+   "name": "SOLMATES (SOLMATES)",
    "built_on": "SOL"
   },
   {
-   "symbol": "BTCAB",
-   "name": "Bitcoin Avalanche Bridged (BTCAB)",
-   "built_on": "AVAX"
+   "symbol": "JF",
+   "name": "Jswap.Finance (JF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PNB",
+   "name": "Pink BNB (PNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TURBOT",
+   "name": "Turbo (TURBOT)",
+   "built_on": "ETH"
   },
   {
    "symbol": "DOGETH",
    "name": "EtherDoge (DOGETH)"
   },
   {
-   "symbol": "BRETTBASE",
-   "name": "Brett Base (BRETTBASE)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "SSVV1",
-   "name": "Blox (SSVV1)"
-  },
-  {
-   "symbol": "BCCOIN",
-   "name": "BlackCardCoin (BCCOIN)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "USDBLAST",
-   "name": "USDB Blast (USDBLAST)",
-   "built_on": "BLAST"
-  },
-  {
-   "symbol": "NOT",
-   "name": "Notcoin (NOT)",
-   "built_on": "TONCOIN"
-  },
-  {
-   "symbol": "DONK",
-   "name": "Don-key (DONK)",
+   "symbol": "SPECT",
+   "name": "Spectral (SPECT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "AOT",
+   "name": "Age of Tanks (AOT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MATRIX",
+   "name": "Matrix Labs (MATRIX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CARDSWAP",
+   "name": "CardSwap (CARDSWAP)"
+  },
+  {
+   "symbol": "DYOR",
+   "name": "DYOR Token (DYOR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FADO",
+   "name": "FADO Go (FADO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CSWAP",
+   "name": "ChainSwap (CSWAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATO",
+   "name": "Atocha Protocol (ATO)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "CACAO",
+   "name": "Maya Protocol (CACAO)"
   },
   {
    "symbol": "BANK",
@@ -76,60 +143,59 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "SFRXETH",
-   "name": "Frax Staked Ether (SFRXETH)",
+   "symbol": "STUMEE",
+   "name": "Stride Staked UMEE (STUMEE)",
+   "built_on": "OSMO"
+  },
+  {
+   "symbol": "NETVR",
+   "name": "Netvrk (NETVR)",
    "built_on": "ETH"
   },
   {
-   "symbol": "INET",
-   "name": "Insure Network (INET)",
+   "symbol": "POLO",
+   "name": "NftyPlay (POLO)",
    "built_on": "BNB"
   },
   {
-   "symbol": "SHIN",
-   "name": "Shin Chan (SHIN)",
+   "symbol": "SHARKC",
+   "name": "Shark Cat (SHARKC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DICKCOIN",
+   "name": "DickCoin (DICKCOIN)"
+  },
+  {
+   "symbol": "QUARASHI",
+   "name": "Quarashi Network (QUARASHI)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "GPU",
-   "name": "Node AI (GPU)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "NTVRK",
-   "name": "Netvrk (NTVRK)"
-  },
-  {
-   "symbol": "SAGACOIN",
-   "name": "SagaCoin (SAGACOIN)"
   }
  ],
  "removed": [
   {
-   "symbol": "BCCOIN",
-   "name": "BitConnect Coin (BCCOIN)"
-  },
-  {
-   "symbol": "INET",
-   "name": "Insure Network (INET)"
-  },
-  {
-   "symbol": "DONK",
-   "name": "Don-key (DONK)"
-  },
-  {
-   "symbol": "NTVRK",
-   "name": "Netvrk (NTVRK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "THR",
-   "name": "Thorecoin (THR)"
+   "symbol": "FLUXT",
+   "name": "Flux Token (FLUXT)"
   },
   {
    "symbol": "QRDO",
-   "name": "Qredo (QRDO)",
-   "built_on": "ETH"
+   "name": "Qredo (QRDO)"
+  },
+  {
+   "symbol": "FADO",
+   "name": "FADO Go (FADO)"
+  },
+  {
+   "symbol": "QUARASHI",
+   "name": "Quarashi Network (QUARASHI)"
+  },
+  {
+   "symbol": "DCK",
+   "name": "DickCoin (DCK)"
+  },
+  {
+   "symbol": "CSWAP",
+   "name": "CardSwap (CSWAP)"
   }
  ]
 }
