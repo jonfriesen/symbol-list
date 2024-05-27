@@ -1,29 +1,91 @@
 {
  "added": [
   {
-   "symbol": "SFV2",
-   "name": "ShibaFameV2 (SFV2)",
-   "built_on": "BNB"
+   "symbol": "RAFFLES",
+   "name": "Degen Raffles (RAFFLES)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "GST",
-   "name": "CoinGhost (GST)",
+   "symbol": "NIGHT",
+   "name": "Midnight (NIGHT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ZCHF",
+   "name": "Frankencoin (ZCHF)",
    "built_on": "ETH"
   },
   {
-   "symbol": "XCB",
-   "name": "Crypto Birds (XCB)",
+   "symbol": "LOOMV1",
+   "name": "Loom Network v1 (LOOMV1)"
+  },
+  {
+   "symbol": "G8C",
+   "name": "ONEG8.ONE (G8C)"
+  },
+  {
+   "symbol": "DONKE",
+   "name": "DONKE (DONKE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "COOCHIE",
+   "name": "Cucci (COOCHIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FLIKO",
+   "name": "Fliko Uni (FLIKO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STARRI",
+   "name": "starri (STARRI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FLUXT",
+   "name": "Flux Token (FLUXT)",
+   "built_on": "AURORA"
+  },
+  {
+   "symbol": "TUBES",
+   "name": "TUBES (TUBES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIGPU",
+   "name": "AIGPU Token (AIGPU)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MODE",
+   "name": "Mode (MODE)"
+  },
+  {
+   "symbol": "ROCCO",
+   "name": "Just A Rock (ROCCO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TOBI",
+   "name": "MOTO DOG (TOBI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KILLA",
+   "name": "The Bitcoin Killa (KILLA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USDPLUS",
+   "name": "Overnight.fi USD+ (USDPLUS)",
    "built_on": "BNB"
   },
   {
-   "symbol": "PEPESWAP",
-   "name": "PEPE Swap (PEPESWAP)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "OSKDAO",
-   "name": "OSK DAO (OSKDAO)",
-   "built_on": "BNB"
+   "symbol": "CRUMP",
+   "name": "Crypto Trump (CRUMP)",
+   "built_on": "SOL"
   },
   {
    "symbol": "G",
@@ -31,171 +93,121 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "STSOMM",
-   "name": "Stride Staked SOMM (STSOMM)",
-   "built_on": "OSMO"
-  },
-  {
-   "symbol": "BREAD",
-   "name": "Breadchain Cooperative (BREAD)",
-   "built_on": "GNO"
-  },
-  {
-   "symbol": "OPEN",
-   "name": "Open Custody Protocol (OPEN)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "FMA",
-   "name": "FLAMA (FMA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "TTF",
-   "name": "TurboTrix Finance (TTF)",
+   "symbol": "NKYC",
+   "name": "NKYC Token (NKYC)",
    "built_on": "BNB"
   },
+  {
+   "symbol": "QTK",
+   "name": "QuantCheck (QTK)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ZACK",
+   "name": "Zack Morris (ZACK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MELODITY",
+   "name": "Melodity (MELODITY)"
+  },
+  {
+   "symbol": "PUFFT",
+   "name": "Puff The Dragon (PUFFT)",
+   "built_on": "MANTLE"
+  },
+  {
+   "symbol": "GAMINGSHIBA",
+   "name": "GamingShiba (GAMINGSHIBA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RESCUE",
+   "name": "Rescue (RESCUE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MUZKI",
+   "name": "Muzki (MUZKI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IVEX",
+   "name": "IVEX Financial (IVEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SVNN",
+   "name": "Savanna Haus (SVNN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SAI",
+   "name": "SAI (SAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HIGHER",
+   "name": "Higher (HIGHER)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MONKAS",
+   "name": "Monkas (MONKAS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FALX",
+   "name": "FalconX (FALX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "IRONBSC",
+   "name": "Iron BSC (IRONBSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CUFF",
+   "name": "Jail Cat (CUFF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DILIGENT",
+   "name": "Diligent Pepe (DILIGENT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SEDA",
+   "name": "SEDA Protocol (SEDA)"
+  },
+  {
+   "symbol": "MOOCAT",
+   "name": "MooCat (MOOCAT)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
   {
    "symbol": "FLUXT",
    "name": "Flux Token (FLUXT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "DCK",
-   "name": "DexCheck AI (DCK)",
-   "built_on": "BNB"
+   "symbol": "SAI",
+   "name": "SAI (SAI)"
   },
   {
-   "symbol": "PENR",
-   "name": "Penrose Finance (PENR)",
-   "built_on": "MATIC"
-  },
-  {
-   "symbol": "SOLMATES",
-   "name": "SOLMATES (SOLMATES)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "JF",
-   "name": "Jswap.Finance (JF)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "PNB",
-   "name": "Pink BNB (PNB)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "TURBOT",
-   "name": "Turbo (TURBOT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DOGETH",
-   "name": "EtherDoge (DOGETH)"
-  },
-  {
-   "symbol": "SPECT",
-   "name": "Spectral (SPECT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "AOT",
-   "name": "Age of Tanks (AOT)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "MATRIX",
-   "name": "Matrix Labs (MATRIX)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "CARDSWAP",
-   "name": "CardSwap (CARDSWAP)"
-  },
-  {
-   "symbol": "DYOR",
-   "name": "DYOR Token (DYOR)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "FADO",
-   "name": "FADO Go (FADO)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "CSWAP",
-   "name": "ChainSwap (CSWAP)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ATO",
-   "name": "Atocha Protocol (ATO)",
-   "built_on": "NEAR"
-  },
-  {
-   "symbol": "CACAO",
-   "name": "Maya Protocol (CACAO)"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "STUMEE",
-   "name": "Stride Staked UMEE (STUMEE)",
-   "built_on": "OSMO"
-  },
-  {
-   "symbol": "NETVR",
-   "name": "Netvrk (NETVR)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "POLO",
-   "name": "NftyPlay (POLO)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "SHARKC",
-   "name": "Shark Cat (SHARKC)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DICKCOIN",
-   "name": "DickCoin (DICKCOIN)"
-  },
-  {
-   "symbol": "QUARASHI",
-   "name": "Quarashi Network (QUARASHI)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "FLUXT",
-   "name": "Flux Token (FLUXT)"
-  },
-  {
-   "symbol": "QRDO",
-   "name": "Qredo (QRDO)"
-  },
-  {
-   "symbol": "FADO",
-   "name": "FADO Go (FADO)"
-  },
-  {
-   "symbol": "QUARASHI",
-   "name": "Quarashi Network (QUARASHI)"
-  },
-  {
-   "symbol": "DCK",
-   "name": "DickCoin (DCK)"
-  },
-  {
-   "symbol": "CSWAP",
-   "name": "CardSwap (CSWAP)"
+   "symbol": "GAMINGSHIBA",
+   "name": "GamingShiba (GAMINGSHIBA)"
   }
  ]
 }
