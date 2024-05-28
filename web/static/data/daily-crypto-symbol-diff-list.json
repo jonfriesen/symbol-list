@@ -1,213 +1,236 @@
 {
  "added": [
   {
-   "symbol": "RAFFLES",
-   "name": "Degen Raffles (RAFFLES)",
+   "symbol": "MRBASED",
+   "name": "MrBased (MRBASED)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DCI",
+   "name": "Decentralized Cloud Infrastructure (DCI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLWIF",
+   "name": "Solwif (SOLWIF)",
    "built_on": "SOL"
   },
   {
-   "symbol": "NIGHT",
-   "name": "Midnight (NIGHT)",
+   "symbol": "SPL",
+   "name": "SocialPal (SPL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XTT",
+   "name": "XSwap Treasure (XTT)",
+   "built_on": "XDC"
+  },
+  {
+   "symbol": "BABYGME",
+   "name": "Baby GameStop (BABYGME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "APETARDIO",
+   "name": "Apetardio (APETARDIO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TRUMATIC",
+   "name": "TruFin Staked MATIC (TRUMATIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BAVA",
+   "name": "Baklava (BAVA)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "SKYA",
+   "name": "Sekuya Multiverse (SKYA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XTV",
+   "name": "XTV (XTV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CTOK",
+   "name": "Codyfight (CTOK)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "HYPC",
+   "name": "HyperCycle (HYPC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RPEPEc",
+   "name": "RoaringPepe (RPEPE)"
+  },
+  {
+   "symbol": "SUISHIB",
+   "name": "SuiShiba (SUISHIB)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "PINU100X",
+   "name": "Pi INU 100x (PINU100X)",
    "built_on": "MATIC"
   },
   {
-   "symbol": "ZCHF",
-   "name": "Frankencoin (ZCHF)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "LOOMV1",
-   "name": "Loom Network v1 (LOOMV1)"
-  },
-  {
-   "symbol": "G8C",
-   "name": "ONEG8.ONE (G8C)"
-  },
-  {
-   "symbol": "DONKE",
-   "name": "DONKE (DONKE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "COOCHIE",
-   "name": "Cucci (COOCHIE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "FLIKO",
-   "name": "Fliko Uni (FLIKO)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "STARRI",
-   "name": "starri (STARRI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "FLUXT",
-   "name": "Flux Token (FLUXT)",
-   "built_on": "AURORA"
-  },
-  {
-   "symbol": "TUBES",
-   "name": "TUBES (TUBES)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "AIGPU",
-   "name": "AIGPU Token (AIGPU)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "MODE",
-   "name": "Mode (MODE)"
-  },
-  {
-   "symbol": "ROCCO",
-   "name": "Just A Rock (ROCCO)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "TOBI",
-   "name": "MOTO DOG (TOBI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "KILLA",
-   "name": "The Bitcoin Killa (KILLA)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "USDPLUS",
-   "name": "Overnight.fi USD+ (USDPLUS)",
+   "symbol": "PINETWORKDEFI",
+   "name": "Pi Network DeFi (PINETWORKDEFI)",
    "built_on": "BNB"
   },
   {
-   "symbol": "CRUMP",
-   "name": "Crypto Trump (CRUMP)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
+   "symbol": "FLEXUSD",
+   "name": "flexUSD (FLEXUSD)",
    "built_on": "ETH"
   },
   {
-   "symbol": "NKYC",
-   "name": "NKYC Token (NKYC)",
+   "symbol": "RS",
+   "name": "ReadySwap (RS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SXCH",
+   "name": "SolarX (SXCH)",
    "built_on": "BNB"
   },
   {
-   "symbol": "QTK",
-   "name": "QuantCheck (QTK)",
-   "built_on": "MATIC"
-  },
-  {
-   "symbol": "ZACK",
-   "name": "Zack Morris (ZACK)",
+   "symbol": "PELF",
+   "name": "PELFORT (PELF)",
    "built_on": "SOL"
   },
   {
-   "symbol": "MELODITY",
-   "name": "Melodity (MELODITY)"
+   "symbol": "HSAI",
+   "name": "HealthSci.AI (HSAI)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "PUFFT",
-   "name": "Puff The Dragon (PUFFT)",
-   "built_on": "MANTLE"
-  },
-  {
-   "symbol": "GAMINGSHIBA",
-   "name": "GamingShiba (GAMINGSHIBA)",
+   "symbol": "BTCDRAGON",
+   "name": "BTC Dragon (BTCDRAGON)",
    "built_on": "BNB"
   },
   {
-   "symbol": "RESCUE",
-   "name": "Rescue (RESCUE)",
+   "symbol": "0XVOX",
+   "name": "HashVox AI (0XVOX)",
    "built_on": "ETH"
   },
   {
-   "symbol": "MUZKI",
-   "name": "Muzki (MUZKI)",
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BIGMIKE",
+   "name": "Big Mike (BIGMIKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANCHOR",
+   "name": "AnchorSwap (ANCHOR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DAMOON",
+   "name": "Damoon Coin (DAMOON)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "RADX",
+   "name": "Radx AI (RADX)",
    "built_on": "SOL"
   },
   {
-   "symbol": "DOG",
-   "name": "The Doge NFT (DOG)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "IVEX",
-   "name": "IVEX Financial (IVEX)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SVNN",
-   "name": "Savanna Haus (SVNN)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "SAI",
-   "name": "SAI (SAI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "HIGHER",
-   "name": "Higher (HIGHER)",
+   "symbol": "AWK",
+   "name": "Awkward Monkey Base (AWK)",
    "built_on": "BASECHAIN"
   },
   {
-   "symbol": "MONKAS",
-   "name": "Monkas (MONKAS)",
+   "symbol": "YTJIA",
+   "name": "Jia Yueting (YTJIA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "TEMPLE",
+   "name": "TempleDAO (TEMPLE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "FALX",
-   "name": "FalconX (FALX)",
-   "built_on": "SOL"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "IRONBSC",
-   "name": "Iron BSC (IRONBSC)",
+   "symbol": "ASIX",
+   "name": "ASIX+ (ASIX)",
    "built_on": "BNB"
   },
   {
-   "symbol": "CUFF",
-   "name": "Jail Cat (CUFF)",
+   "symbol": "4WMM",
+   "name": "4-Way Mirror Money (4WMM)",
+   "built_on": "PLS"
+  },
+  {
+   "symbol": "PRIMEETH",
+   "name": "Prime Staked ETH (PRIMEETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MARTIA",
+   "name": "Colonize Mars (MARTIA)",
+   "built_on": "WAXP"
+  },
+  {
+   "symbol": "HLG",
+   "name": "Holograph (HLG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EGOD",
+   "name": "EgodCoin (EGOD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GPT",
+   "name": "QnA3.AI (GPT)"
+  },
+  {
+   "symbol": "ROARINGCAT",
+   "name": "Roaring Kitty (ROARINGCAT)",
    "built_on": "SOL"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "HETH",
+   "name": "Huobi Ethereum (HETH)",
+   "built_on": "HT"
   },
   {
-   "symbol": "DILIGENT",
-   "name": "Diligent Pepe (DILIGENT)",
-   "built_on": "BASECHAIN"
+   "symbol": "BBUSD",
+   "name": "BounceBit USD (BBUSD)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "SEDA",
-   "name": "SEDA Protocol (SEDA)"
+   "symbol": "BNBOLYMPIC",
+   "name": "BNB OLYMPIC (BNBOLYMPIC)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "MOOCAT",
-   "name": "MooCat (MOOCAT)",
+   "symbol": "MAUW",
+   "name": "MAUW (MAUW)",
    "built_on": "SOL"
   }
  ],
  "removed": [
   {
-   "symbol": "FLUXT",
-   "name": "Flux Token (FLUXT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SAI",
-   "name": "SAI (SAI)"
-  },
-  {
-   "symbol": "GAMINGSHIBA",
-   "name": "GamingShiba (GAMINGSHIBA)"
+   "symbol": "HETH",
+   "name": "Huobi Ethereum (HETH)"
   }
  ]
 }
