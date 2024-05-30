@@ -1,9 +1,113 @@
 {
  "added": [
   {
-   "symbol": "TMSH.BITCI",
-   "name": "Bursaspor Fan Token (TMSH.BITCI)",
+   "symbol": "SION",
+   "name": "FC Sion (SION)",
    "built_on": "BITCI"
+  },
+  {
+   "symbol": "FIDU",
+   "name": "Fidu (FIDU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PLMC",
+   "name": "Polimec (PLMC)"
+  },
+  {
+   "symbol": "SHINJA",
+   "name": "Shibnobi (SHINJA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONDLYV1",
+   "name": "Bondly Finance (BONDLYV1)"
+  },
+  {
+   "symbol": "BOBBY",
+   "name": "Bobby Moore (BOBBY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SHUFFLE",
+   "name": "SHUFFLE! (SHUFFLE)"
+  },
+  {
+   "symbol": "IWFT",
+   "name": "İstanbul Wild Cats (IWFT)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "CANNF",
+   "name": "CANNFINITY (CANNF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ALTR",
+   "name": "Altranium (ALTR)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "LAINESOL",
+   "name": "Laine Staked SOL (LAINESOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STEAMPUNK",
+   "name": "SteamPunk (STEAMPUNK)"
+  },
+  {
+   "symbol": "0xVPN",
+   "name": "0xVPN.org (0xVPN)"
+  },
+  {
+   "symbol": "BDRM",
+   "name": "Bodrumspor Fan Token (BDRM)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "NEARX",
+   "name": "Stader NearX (NEARX)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "VERO",
+   "name": "VEROPAD (VERO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUNKV",
+   "name": "Punk Vault (NFTX) (PUNKV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUCKO",
+   "name": "Duck Off Coin (DUCKO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TOKERO",
+   "name": "TOKERO LevelUP Token (TOKERO)"
+  },
+  {
+   "symbol": "MCL",
+   "name": "McLaren F1 (MCL)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "SHFL",
+   "name": "Shuffle (SHFL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZKS",
+   "name": "ZKSpace (ZKS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLACKD",
+   "name": "Blackder AI (BLACKD)",
+   "built_on": "ETH"
   },
   {
    "symbol": "DOG",
@@ -11,54 +115,85 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "ROSA",
-   "name": "Rosa Inu (ROSA)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "MUSCAT",
-   "name": "MusCat (MUSCAT)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "MAGAPEPE",
-   "name": "MAGA PEPE (MAGAPEPE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "ACHI",
-   "name": "achi (ACHI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "GROYPER",
-   "name": "Groyper (GROYPER)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "VTRA.BITCI",
-   "name": " E.C. Vitoria Fan Token (VTRA.BITCI)",
+   "symbol": "FKSK",
+   "name": "Fatih Karagümrük SK (FKSK)",
    "built_on": "BITCI"
   },
   {
-   "symbol": "TRUMPE",
-   "name": "Trump Pepe (TRUMPE)",
+   "symbol": "APEXT",
+   "name": "ApexToken (APEXT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WIFICOIN",
+   "name": "Wifi Coin (WIFICOIN)"
+  },
+  {
+   "symbol": "DUELV1",
+   "name": "Duel Network v1 (DUELV1)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SYNT",
+   "name": "Synthetix Network (SYNT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GTRUMP",
-   "name": "Giga Trump (GTRUMP)",
-   "built_on": "BASECHAIN"
+   "symbol": "JUSD",
+   "name": "JUSD Stable Token (JUSD)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "OKAYEG",
-   "name": "Okayeg (OKAYEG)",
-   "built_on": "BASECHAIN"
+   "symbol": "PARAG",
+   "name": "Paragon Network (PARAG)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "PAMBI",
-   "name": "Pambicoin (PAMBI)",
-   "built_on": "SOL"
+   "symbol": "TMFT",
+   "name": "Turkish Motorcycle Federation (TMFT)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ADANA",
+   "name": "Adanaspor Fan Token (ADANA)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "DARED",
+   "name": "Daredevil Dog (DARED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WIFI",
+   "name": "WiFi Map (WIFI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BTC2XFLI",
+   "name": "BTC 2x Flexible Leverage Index (BTC2XFLI)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WIFI",
+   "name": "Wifi Coin (WIFI)"
+  },
+  {
+   "symbol": "ZKS",
+   "name": "ZKSpace (ZKS)"
+  },
+  {
+   "symbol": "SHFL",
+   "name": "SHUFFLE! (SHFL)"
   },
   {
    "symbol": "BONDLYV1",
@@ -66,166 +201,8 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "PUNK",
-   "name": "SteamPunk (PUNK)",
-   "built_on": "TONCOIN"
-  },
-  {
-   "symbol": "HIP",
-   "name": "HIPPOP (HIP)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "SNFT.BITCI",
-   "name": "Spanish National Team Fan Token (SNFT.BITCI)",
-   "built_on": "BITCI"
-  },
-  {
-   "symbol": "PEANIE",
-   "name": "Peanie (PEANIE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DNZ.BITCI",
-   "name": "Denizlispor Fan Token (DNZ.BITCI)",
-   "built_on": "BITCI"
-  },
-  {
-   "symbol": "ESES.BITCI",
-   "name": "Eskişehir Fan Tokens (ESES.BITCI)",
-   "built_on": "BITCI"
-  },
-  {
-   "symbol": "WJD",
-   "name": "WJD (WJD)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BUBBA",
-   "name": "Bubba (BUBBA)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "WAFFLES",
-   "name": "Waffles Davincij15's Cat (WAFFLES)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BITBEDR",
-   "name": "Bitcoin EDenRich (BITBEDR)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "GRN Grid (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MRXB",
-   "name": "Wrapped Metrix (MRXB)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "NR1.BITCI",
-   "name": "Number 1 Token (NR1.BITCI)",
-   "built_on": "BITCI"
-  },
-  {
-   "symbol": "TBFT.BITCI",
-   "name": "Türkiye Basketbol Federasyon Token (TBFT.BITCI)",
-   "built_on": "BITCI"
-  },
-  {
-   "symbol": "KSK.BITCI",
-   "name": "Karsiyaka Taraftar Token (KSK.BITCI)",
-   "built_on": "BITCI"
-  },
-  {
-   "symbol": "GSTOP",
-   "name": "GameStop (GSTOP)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SESE",
-   "name": "Simpson Pepe (SESE)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "KSTT.BITCI",
-   "name": "Kocaelispor Fan Token (KSTT.BITCI)",
-   "built_on": "BITCI"
-  },
-  {
-   "symbol": "RETIK",
-   "name": "Retik Finance (RETIK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "ANKA.BITCI",
-   "name": "Ankaragücü Fan Token (ANKA.BITCI)",
-   "built_on": "BITCI"
-  },
-  {
-   "symbol": "BROOT",
-   "name": "BROOT (BROOT)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "PRESI",
-   "name": "Turbo Trump (PRESI)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "WEIRDO",
-   "name": "Weirdo (WEIRDO)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "LAPI",
-   "name": "Lapis Inu (LAPI)",
-   "built_on": "SOL"
-  }
- ],
- "removed": [
-  {
-   "symbol": "DNZ.BITCI",
-   "name": "Denizlispor Fan Token (DNZ.BITCI)"
-  },
-  {
-   "symbol": "ESES.BITCI",
-   "name": "Eskişehir Fan Tokens (ESES.BITCI)"
-  },
-  {
-   "symbol": "SNFT.BITCI",
-   "name": "Spanish National Team Fan Token (SNFT.BITCI)"
-  },
-  {
-   "symbol": "MRXB",
-   "name": "Wrapped Metrix (MRXB)"
-  },
-  {
-   "symbol": "KSTT.BITCI",
-   "name": "Kocaelispor Fan Token (KSTT.BITCI)"
-  },
-  {
-   "symbol": "NR1.BITCI",
-   "name": "Number 1 Token (NR1.BITCI)"
-  },
-  {
-   "symbol": "ANKA.BITCI",
-   "name": "Ankaragücü Fan Token (ANKA.BITCI)"
-  },
-  {
-   "symbol": "PUNK",
-   "name": "SteamPunk (PUNK)"
-  },
-  {
-   "symbol": "KSK.BITCI",
-   "name": "Karsiyaka Taraftar Token (KSK.BITCI)"
+   "symbol": "SHINJA",
+   "name": "Shibnobi (SHINJA)"
   }
  ]
 }
