@@ -1,48 +1,48 @@
 {
  "added": [
   {
+   "symbol": "FTCI",
+   "name": "FTC Solar, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTCI"
+  },
+  {
+   "symbol": "INBX",
+   "name": "Inhibrx Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INBX"
+  }
+ ],
+ "removed": [
+  {
    "symbol": "INXB",
    "name": "Inhibrx Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "INXB"
   },
   {
-   "symbol": "XHG",
-   "name": "XChange TEC.INC - American Depositary Shares",
+   "symbol": "FTCI",
+   "name": "FTC Solar, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XHG"
+   "yahoo_symbol": "FTCI"
   },
   {
-   "symbol": "FBMS",
-   "name": "First Bancshares, Inc.",
+   "symbol": "RILYO",
+   "name": "B. Riley Financial, Inc. - 6.75% Senior Notes due 2024",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RILYO"
+  },
+  {
+   "symbol": "ERF",
+   "name": "Enerplus Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "FBMS"
-  }
- ],
- "removed": [
-  {
-   "symbol": "INXBV",
-   "name": "Inhibrx Biosciences, Inc. - Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "INXBV"
+   "yahoo_symbol": "ERF"
   },
   {
-   "symbol": "FLJ",
-   "name": "XChange TEC.INC - American Depositary Shares",
+   "symbol": "INBX",
+   "name": "Inhibrx, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FLJ"
-  },
-  {
-   "symbol": "FBMS",
-   "name": "The First Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FBMS"
-  },
-  {
-   "symbol": "INBXV",
-   "name": "Inhibrx, Inc. - Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "INBXV"
+   "yahoo_symbol": "INBX"
   }
  ]
 }
