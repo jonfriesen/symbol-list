@@ -1,5 +1,5 @@
 {
- "date": "2024-06-05",
+ "date": "2024-06-06",
  "data": [
   {
    "symbol": "IGBT.UN",
@@ -12564,7 +12564,7 @@
    "yahoo_symbol": "HMAX.TO",
    "instruments": [
     {
-     "name": "Hamilton CdnFinMax E",
+     "name": "Ham CdnFinMax TM ETF",
      "symbol": "HMAX"
     }
    ]
@@ -12576,7 +12576,7 @@
    "yahoo_symbol": "EMAX.TO",
    "instruments": [
     {
-     "name": "Ham Engy Yld Max Etf",
+     "name": "Ham EngyYldMaxTM ETF",
      "symbol": "EMAX"
     }
    ]
@@ -12664,7 +12664,7 @@
    "yahoo_symbol": "AMAX.TO",
    "instruments": [
     {
-     "name": "Ham Gld Pr Y Max Etf",
+     "name": "Ham GldPrY MaxTM ETF",
      "symbol": "AMAX"
     }
    ]
@@ -12676,7 +12676,7 @@
    "yahoo_symbol": "LMAX.TO",
    "instruments": [
     {
-     "name": "Ham Hlth Yld Max Etf",
+     "name": "Ham HlthYldMaxTM ETF",
      "symbol": "LMAX"
     }
    ]
@@ -12688,7 +12688,7 @@
    "yahoo_symbol": "QMAX.TO",
    "instruments": [
     {
-     "name": "Hamilton Tech YldMax",
+     "name": "Ham TechYldMaxTM ETF",
      "symbol": "QMAX"
     }
    ]
@@ -12712,7 +12712,7 @@
    "yahoo_symbol": "HBND.TO",
    "instruments": [
     {
-     "name": "Hamilton US BndYldMx",
+     "name": "Ham USBndYldMxTM ETF",
      "symbol": "HBND"
     }
    ]
@@ -12724,7 +12724,7 @@
    "yahoo_symbol": "SMAX.TO",
    "instruments": [
     {
-     "name": "Hamilton US EqYldMax",
+     "name": "Ham USEqYldMaxTM ETF",
      "symbol": "SMAX"
     }
    ]
@@ -12736,7 +12736,7 @@
    "yahoo_symbol": "FMAX.TO",
    "instruments": [
     {
-     "name": "Ham US F Yld Max Etf",
+     "name": "Ham USFYld MaxTM ETF",
      "symbol": "FMAX"
     }
    ]
@@ -12760,7 +12760,7 @@
    "yahoo_symbol": "UMAX.TO",
    "instruments": [
     {
-     "name": "Hamilton UtilYldMx E",
+     "name": "Ham UtilYldMx TM ETF",
      "symbol": "UMAX"
     }
    ]
@@ -16594,6 +16594,18 @@
    ]
   },
   {
+   "symbol": "MCLV",
+   "name": "Mackenzie Canada Low Volatility ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCLV.TO",
+   "instruments": [
+    {
+     "name": "Mack Cad Low Vol ETF",
+     "symbol": "MCLV"
+    }
+   ]
+  },
+  {
    "symbol": "QBB",
    "name": "Mackenzie Canadian Aggregate Bond Index ETF",
    "exchange": "TSX",
@@ -16782,6 +16794,18 @@
     {
      "name": "Mackenzie FltgRate E",
      "symbol": "MFT"
+    }
+   ]
+  },
+  {
+   "symbol": "MGDV",
+   "name": "Mackenzie Global Dividend ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MGDV.TO",
+   "instruments": [
+    {
+     "name": "Mack Global Div ETF",
+     "symbol": "MGDV"
     }
    ]
   },
@@ -17042,6 +17066,18 @@
     {
      "name": "MackenzieUS LrgCapCH",
      "symbol": "QAH"
+    }
+   ]
+  },
+  {
+   "symbol": "MULV",
+   "name": "Mackenzie US Low Volatility ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MULV.TO",
+   "instruments": [
+    {
+     "name": "Mack US Low Vol ETF",
+     "symbol": "MULV"
     }
    ]
   },
@@ -21710,6 +21746,22 @@
     {
      "name": "Sprott Inc.",
      "symbol": "SII"
+    }
+   ]
+  },
+  {
+   "symbol": "COP.U",
+   "name": "Sprott Physical Copper Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "COP.U.TO",
+   "instruments": [
+    {
+     "name": "Sprott Phys Copp Usd",
+     "symbol": "COP.U"
+    },
+    {
+     "name": "Sprott Phys Copp Cdn",
+     "symbol": "COP.UN"
     }
    ]
   },
@@ -40430,14 +40482,14 @@
    ]
   },
   {
-   "symbol": "SSX.P",
+   "symbol": "SSX",
    "name": "Sleeping Giant Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SSX.P.V",
+   "yahoo_symbol": "SSX.V",
    "instruments": [
     {
      "name": "Sleeping Giant Capital Corp.",
-     "symbol": "SSX.P"
+     "symbol": "SSX"
     }
    ]
   },
@@ -47106,6 +47158,12 @@
    "name": "iShares USD Green Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BGRN"
+  },
+  {
+   "symbol": "BGRO",
+   "name": "BlackRock Large Cap Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGRO"
   },
   {
    "symbol": "BGXX",
@@ -56180,12 +56238,6 @@
    "yahoo_symbol": "HLP"
   },
   {
-   "symbol": "HLTH",
-   "name": "Cue Health Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HLTH"
-  },
-  {
    "symbol": "HLVX",
    "name": "HilleVax, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -60660,6 +60712,18 @@
    "name": "Ramaco Resources, Inc. - 9.00% Senior Notes due 2026",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "METCL"
+  },
+  {
+   "symbol": "METD",
+   "name": "Direxion Daily META Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "METD"
+  },
+  {
+   "symbol": "METU",
+   "name": "Direxion Daily META Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "METU"
   },
   {
    "symbol": "MFH",
@@ -65702,6 +65766,12 @@
    "yahoo_symbol": "QVAL"
   },
   {
+   "symbol": "QXO",
+   "name": "QXO, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QXO"
+  },
+  {
    "symbol": "QYLD",
    "name": "Global X NASDAQ 100 Covered Call ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -68498,12 +68568,6 @@
    "yahoo_symbol": "SSNC"
   },
   {
-   "symbol": "SSNT",
-   "name": "SilverSun Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SSNT"
-  },
-  {
    "symbol": "SSP",
    "name": "E.W. Scripps Company (The) - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -71272,7 +71336,7 @@
   {
    "symbol": "VMCAW",
    "name": "Valuence Merger Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VMCAW"
   },
   {

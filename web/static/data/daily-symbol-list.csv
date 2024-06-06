@@ -899,23 +899,23 @@ HAI,Haivision Systems Inc.,TSX,HAI.TO,Haivision Systems,HAI
 HBA,Hamilton Australian Bank Equal-Weight Index ETF,TSX,HBA.TO,Hamilton AusBk=Wgt E,HBA
 HEB,Hamilton Canadian Bank Equal-Weight Index ETF,TSX,HEB.TO,Hamilton Cdn Bk=Wgt,HEB
 HCA,Hamilton Canadian Bank Mean Reversion Index ETF,TSX,HCA.TO,Hamilton CadBkRev Un,HCA
-HMAX,Hamilton Canadian Financials YIELD MAXIMIZER TM ETF,TSX,HMAX.TO,Hamilton CdnFinMax E,HMAX
-EMAX,Hamilton Energy YIELD MAXIMIZER TM ETF,TSX,EMAX.TO,Ham Engy Yld Max Etf,EMAX
+HMAX,Hamilton Canadian Financials YIELD MAXIMIZER TM ETF,TSX,HMAX.TO,Ham CdnFinMax TM ETF,HMAX
+EMAX,Hamilton Energy YIELD MAXIMIZER TM ETF,TSX,EMAX.TO,Ham EngyYldMaxTM ETF,EMAX
 HCAL,Hamilton Enhanced Canadian Bank ETF,TSX,HCAL.TO,Hamilton EnhanCA Bk,HCAL
 HFIN,Hamilton Enhanced Canadian Financials ETF,TSX,HFIN.TO,Hamilton EnhanCA Fin,HFIN
 HDIV,Hamilton Enhanced Multi-Sector Covered Call ETF,TSX,HDIV.TO,HamiltonEnhnMltSecCl,HDIV
 HYLD,Hamilton Enhanced U.S. Covered Call ETF,TSX,HYLD.TO,Hamilton USCvClHG C$,HYLD,Hamilton USCvClUH US,HYLD.U
 HUTS,Hamilton Enhanced Utilities ETF,TSX,HUTS.TO,Hamilton EnhncUtil E,HUTS
 HFG,Hamilton Global Financials ETF,TSX,HFG.TO,Hamilton Glbl Fin E,HFG
-AMAX,Hamilton Gold Producer YIELD MAXIMIZER TM ETF,TSX,AMAX.TO,Ham Gld Pr Y Max Etf,AMAX
-LMAX,Hamilton Healthcare YIELD MAXIMIZER TM ETF,TSX,LMAX.TO,Ham Hlth Yld Max Etf,LMAX
-QMAX,Hamilton Technology YIELD MAXIMIZER TM ETF,TSX,QMAX.TO,Hamilton Tech YldMax,QMAX
+AMAX,Hamilton Gold Producer YIELD MAXIMIZER TM ETF,TSX,AMAX.TO,Ham GldPrY MaxTM ETF,AMAX
+LMAX,Hamilton Healthcare YIELD MAXIMIZER TM ETF,TSX,LMAX.TO,Ham HlthYldMaxTM ETF,LMAX
+QMAX,Hamilton Technology YIELD MAXIMIZER TM ETF,TSX,QMAX.TO,Ham TechYldMaxTM ETF,QMAX
 HTL,Hamilton Thorne Ltd.,TSX,HTL.TO,Hamilton Thorne Ltd.,HTL
-HBND,Hamilton U.S. Bond YIELD MAXIMIZER TM ETF,TSX,HBND.TO,Hamilton US BndYldMx,HBND
-SMAX,Hamilton U.S. Equity YIELD MAXIMIZER TM ETF,TSX,SMAX.TO,Hamilton US EqYldMax,SMAX
-FMAX,Hamilton U.S. Financials YIELD MAXIMIZER TM ETF,TSX,FMAX.TO,Ham US F Yld Max Etf,FMAX
+HBND,Hamilton U.S. Bond YIELD MAXIMIZER TM ETF,TSX,HBND.TO,Ham USBndYldMxTM ETF,HBND
+SMAX,Hamilton U.S. Equity YIELD MAXIMIZER TM ETF,TSX,SMAX.TO,Ham USEqYldMaxTM ETF,SMAX
+FMAX,Hamilton U.S. Financials YIELD MAXIMIZER TM ETF,TSX,FMAX.TO,Ham USFYld MaxTM ETF,FMAX
 HUM,Hamilton U.S. Mid-Cap Financials ETF,TSX,HUM.TO,Hamilton USMidFinEtf,HUM
-UMAX,Hamilton Utilities YIELD MAXIMIZER TM ETF,TSX,UMAX.TO,Hamilton UtilYldMx E,UMAX
+UMAX,Hamilton Utilities YIELD MAXIMIZER TM ETF,TSX,UMAX.TO,Ham UtilYldMx TM ETF,UMAX
 HMM.A,Hammond Manufacturing Company Limited,TSX,HMM.A.TO,Hammond Mfg Cl A SV,HMM.A
 HPS.A,Hammond Power Solutions Inc.,TSX,HPS.A.TO,Hammond Power A SV,HPS.A
 HBIE,Harvest Balanced Income & Growth Enhanced ETF,TSX,HBIE.TO,Harv Bl Inc GrEh Etf,HBIE
@@ -1210,6 +1210,7 @@ PR,Lysander-Slater Preferred Share ActivETF,TSX,PR.TO,Lysander-SlatrPrActv,PR
 XMF.A,M Split Corp.,TSX,XMF.A.TO,M Split Corp. 14 Cap,XMF.A,M Split Corp Cl 1 Pr,XMF.PR.B,M Split Corp 14-2 Pr,XMF.PR.C
 MEQT,Mackenzie All-Equity Allocation ETF,TSX,MEQT.TO,Mackenzie AllEqAlloc,MEQT
 MBAL,Mackenzie Balanced Allocation ETF,TSX,MBAL.TO,Mackenzie Bal Alloc,MBAL
+MCLV,Mackenzie Canada Low Volatility ETF,TSX,MCLV.TO,Mack Cad Low Vol ETF,MCLV
 QBB,Mackenzie Canadian Aggregate Bond Index ETF,TSX,QBB.TO,Mackenzie CdnAggrBnd,QBB
 QCN,Mackenzie Canadian Equity Index ETF,TSX,QCN.TO,Mackenzie Cdn EqtyUn,QCN
 QLB,Mackenzie Canadian Government Long Bond Index ETF,TSX,QLB.TO,MackenzieCA GvtLgBnd,QLB
@@ -1226,6 +1227,7 @@ QEBH,Mackenzie Emerging Markets Bond Index ETF (CAD-Hedged),TSX,QEBH.TO,Mackenzi
 QEE,Mackenzie Emerging Markets Equity Index ETF,TSX,QEE.TO,Mackenzie EmergMktEq,QEE
 QEBL,Mackenzie Emerging Markets Local Currency Bond Index ETF,TSX,QEBL.TO,Mackenzie EmrgCurBnd,QEBL
 MFT,Mackenzie Floating Rate Income ETF,TSX,MFT.TO,Mackenzie FltgRate E,MFT
+MGDV,Mackenzie Global Dividend ETF,TSX,MGDV.TO,Mack Global Div ETF,MGDV
 MGAB,Mackenzie Global Fixed Income Allocation ETF,TSX,MGAB.TO,Mackenzie GlbFixIncm,MGAB
 QINF,Mackenzie Global Infrastructure Index ETF,TSX,QINF.TO,MackenzieGlbl Infras,QINF
 MDVD,Mackenzie Global Sustainable Dividend Index ETF,TSX,MDVD.TO,MackenzieGlbl SusDiv,MDVD,MackenzieGlbSusDivUS,MDVD.U
@@ -1247,6 +1249,7 @@ QHY,Mackenzie US High Yield Bond Index ETF (CAD-Hedged),TSX,QHY.TO,Mackenzie USB
 QUIG,Mackenzie US Investment Grade Corporate Bond Index ETF (CAD-Hedged),TSX,QUIG.TO,Mackenzie USCrpBnd E,QUIG
 QUU,Mackenzie US Large Cap Equity Index ETF,TSX,QUU.TO,Mackenzie USLrgCapEq,QUU,MackenzieUSLrgCpEqUS,QUU.U
 QAH,Mackenzie US Large Cap Equity Index ETF (CAD-Hedged),TSX,QAH.TO,MackenzieUS LrgCapCH,QAH
+MULV,Mackenzie US Low Volatility ETF,TSX,MULV.TO,Mack US Low Vol ETF,MULV
 MWLV,Mackenzie World Low Volatility ETF,TSX,MWLV.TO,Mack Wrld L Vol ETF,MWLV
 MPC,Madison Pacific Properties Inc.,TSX,MPC.TO,Madison Pacific Cl B,MPC,Madison Pacific NV C,MPC.C
 MAG,MAG Silver Corp.,TSX,MAG.TO,MAG Silver Corp. J,MAG
@@ -1588,6 +1591,7 @@ SDE,Spartan Delta Corp.,TSX,SDE.TO,Spartan Delta Corp.,SDE
 EDT,Spectral Medical Inc.,TSX,EDT.TO,Spectral Medical Inc,EDT
 TOY,Spin Master Corp.,TSX,TOY.TO,Spin Master Corp SV,TOY
 SII,Sprott Inc.,TSX,SII.TO,Sprott Inc.,SII
+COP.U,Sprott Physical Copper Trust,TSX,COP.U.TO,Sprott Phys Copp Usd,COP.U,Sprott Phys Copp Cdn,COP.UN
 CEF,Sprott Physical Gold and Silver Trust,TSX,CEF.TO,Sprott PhyGld&Sil Tr,CEF,Sprott PhyGld&Sil US,CEF.U
 PHYS,Sprott Physical Gold Trust,TSX,PHYS.TO,Sprott PhyGold CA Un,PHYS,Sprott Phy Gld Un US,PHYS.U
 SPPP,Sprott Physical Platinum and Palladium Trust,TSX,SPPP.TO,Sprott PhyPlat CA Un,SPPP,Sprott PhyPlat US Un,SPPP.U
@@ -3105,7 +3109,7 @@ SKRR,SKRR Exploration Inc.,TSXV,SKRR.V,SKRR Exploration Inc.,SKRR
 SKYG,Sky Gold Corp.,TSXV,SKYG.V,Sky Gold Corp.,SKYG
 SYH,Skyharbour Resources Ltd.,TSXV,SYH.V,Skyharbour Resources Ltd.,SYH
 SXL,SLAM Exploration Ltd.,TSXV,SXL.V,SLAM Exploration Ltd,SXL
-SSX.P,Sleeping Giant Capital Corp.,TSXV,SSX.P.V,Sleeping Giant Capital Corp.,SSX.P
+SSX,Sleeping Giant Capital Corp.,TSXV,SSX.V,Sleeping Giant Capital Corp.,SSX
 SMAR.P,Smartset Services Inc.,TSXV,SMAR.P.V,Smartset Services Inc.,SMAR.P
 SMTH.P,Smithe Resources Corp.,TSXV,SMTH.P.V,Smithe Resources Corp.,SMTH.P
 SMRV,Smooth Rock Ventures Corp.,TSXV,SMRV.V,Smooth Rock Ventures Corp.,SMRV
@@ -3926,6 +3930,7 @@ BGFV,Big 5 Sporting Goods Corporation - Common Stock,NASDAQ Global Select Market
 BGLC,BioNexus Gene Lab Corp - Common stock,NASDAQ Capital Market,BGLC
 BGNE,"BeiGene, Ltd. - American Depositary Shares",NASDAQ Global Select MarketSM,BGNE
 BGRN,iShares USD Green Bond ETF,NASDAQ Global MarketSM,BGRN
+BGRO,BlackRock Large Cap Growth ETF,NASDAQ Global MarketSM,BGRO
 BGXX,Bright Green Corporation - Common Stock,NASDAQ Capital Market,BGXX
 BHAC,Focus Impact BH3 Acquisition Company - Class A Common Stock,NASDAQ Global MarketSM,BHAC
 BHACU,Focus Impact BH3 Acquisition Company - Units,NASDAQ Global MarketSM,BHACU
@@ -5438,7 +5443,6 @@ HLIT,Harmonic Inc. - Common Stock,NASDAQ Global Select MarketSM,HLIT
 HLMN,Hillman Solutions Corp. - Common Stock,NASDAQ Global MarketSM,HLMN
 HLNE,Hamilton Lane Incorporated - Class A Common Stock,NASDAQ Global Select MarketSM,HLNE
 HLP,Hongli Group Inc. - Ordinary Shares,NASDAQ Capital Market,HLP
-HLTH,Cue Health Inc. - Common Stock,NASDAQ Capital Market,HLTH
 HLVX,"HilleVax, Inc. - Common Stock",NASDAQ Global Select MarketSM,HLVX
 HLXB,Helix Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,HLXB
 HMNF,"HMN Financial, Inc. - Common Stock",NASDAQ Global MarketSM,HMNF
@@ -6185,6 +6189,8 @@ META,"Meta Platforms, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM
 METC,"Ramaco Resources, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,METC
 METCB,"Ramaco Resources, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,METCB
 METCL,"Ramaco Resources, Inc. - 9.00% Senior Notes due 2026",NASDAQ Global Select MarketSM,METCL
+METD,Direxion Daily META Bear 1X Shares,NASDAQ Global MarketSM,METD
+METU,Direxion Daily META Bull 2X Shares,NASDAQ Global MarketSM,METU
 MFH,Mercurity Fintech Holding Inc. - American Ordinary Shares,NASDAQ Capital Market,MFH
 MFI,mF International Limited - Ordinary Shares,NASDAQ Capital Market,MFI
 MFIC,MidCap Financial Investment Corporation - Closed End Fund,NASDAQ Global Select MarketSM,MFIC
@@ -7025,6 +7031,7 @@ QUBT,Quantum Computing Inc. - Common Stock,NASDAQ Capital Market,QUBT
 QUIK,QuickLogic Corporation - Common Stock,NASDAQ Capital Market,QUIK
 QURE,uniQure N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,QURE
 QVAL,Alpha Architect U.S. Quantitative Value ETF,NASDAQ Global MarketSM,QVAL
+QXO,"QXO, Inc.  - Common Stock",NASDAQ Capital Market,QXO
 QYLD,Global X NASDAQ 100 Covered Call ETF,NASDAQ Global MarketSM,QYLD
 QYLE,Global X Nasdaq 100 ESG Covered Call ETF,NASDAQ Global MarketSM,QYLE
 QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,NASDAQ Global MarketSM,QYLG
@@ -7491,7 +7498,6 @@ SSBK,"Southern States Bancshares, Inc. - Common Stock",NASDAQ Global Select Mark
 SSIC,Silver Spike Investment Corp. - Common Stock,NASDAQ Global MarketSM,SSIC
 SSKN,"Strata Skin Sciences, Inc. - Common Stock",NASDAQ Capital Market,SSKN
 SSNC,"SS&C Technologies Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SSNC
-SSNT,"SilverSun Technologies, Inc. - Common Stock",NASDAQ Capital Market,SSNT
 SSP,E.W. Scripps Company (The) - Class A Common Stock,NASDAQ Global Select MarketSM,SSP
 SSRM,SSR Mining Inc. - Common Stock,NASDAQ Global Select MarketSM,SSRM
 SSSS,SuRo Capital Corp. - Closed End Fund,NASDAQ Global Select MarketSM,SSSS
@@ -7953,7 +7959,7 @@ VMAR,Vision Marine Technologies Inc. - Common Shares,NASDAQ Capital Market,VMAR
 VMBS,Vanguard Mortgage-Backed Securities ETF,NASDAQ Global MarketSM,VMBS
 VMCA,Valuence Merger Corp. I - Class A Ordinary Shares,NASDAQ Global MarketSM,VMCA
 VMCAU,Valuence Merger Corp. I - Unit,NASDAQ Global MarketSM,VMCAU
-VMCAW,Valuence Merger Corp. I - Warrant,NASDAQ Global MarketSM,VMCAW
+VMCAW,Valuence Merger Corp. I - Warrant,NASDAQ Capital Market,VMCAW
 VMD,"Viemed Healthcare, Inc. - Common Shares",NASDAQ Capital Market,VMD
 VMEO,"Vimeo, Inc. - Common Stock",NASDAQ Global Select MarketSM,VMEO
 VMOT,Alpha Architect Value Momentum Trend ETF,NASDAQ Global MarketSM,VMOT

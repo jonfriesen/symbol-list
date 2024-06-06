@@ -1,118 +1,130 @@
 {
  "added": [
   {
-   "symbol": "EQY",
-   "name": "Franklin All-Equity ETF",
+   "symbol": "MCLV",
+   "name": "Mackenzie Canada Low Volatility ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "EQY.TO",
+   "yahoo_symbol": "MCLV.TO",
    "instruments": [
     {
-     "name": "Frankl AL-Eqt ETFPor",
-     "symbol": "EQY"
+     "name": "Mack Cad Low Vol ETF",
+     "symbol": "MCLV"
     }
    ]
   },
   {
-   "symbol": "CNV",
-   "name": "Franklin Conservative Income ETF Portfolio",
+   "symbol": "MGDV",
+   "name": "Mackenzie Global Dividend ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CNV.TO",
+   "yahoo_symbol": "MGDV.TO",
    "instruments": [
     {
-     "name": "FrankConvIC ETF Port",
-     "symbol": "CNV"
+     "name": "Mack Global Div ETF",
+     "symbol": "MGDV"
     }
    ]
   },
   {
-   "symbol": "CBL",
-   "name": "Franklin Core ETF Portfolio",
+   "symbol": "MULV",
+   "name": "Mackenzie US Low Volatility ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CBL.TO",
+   "yahoo_symbol": "MULV.TO",
    "instruments": [
     {
-     "name": "FranklinCoreETF Port",
-     "symbol": "CBL"
+     "name": "Mack US Low Vol ETF",
+     "symbol": "MULV"
     }
    ]
   },
   {
-   "symbol": "GRO",
-   "name": "Franklin Growth ETF Portfolio",
+   "symbol": "COP.U",
+   "name": "Sprott Physical Copper Trust",
    "exchange": "TSX",
-   "yahoo_symbol": "GRO.TO",
+   "yahoo_symbol": "COP.U.TO",
    "instruments": [
     {
-     "name": "FranklinGrw ETF Port",
-     "symbol": "GRO"
-    }
-   ]
-  },
-  {
-   "symbol": "AEC",
-   "name": "Anfield Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AEC.V",
-   "instruments": [
-    {
-     "name": "Anfield Energy Inc.",
-     "symbol": "AEC"
+     "name": "Sprott Phys Copp Usd",
+     "symbol": "COP.U"
     },
     {
-     "name": "Anfield Energy Inc. wt 12May2027",
-     "symbol": "AEC.WT"
+     "name": "Sprott Phys Copp Cdn",
+     "symbol": "COP.UN"
     }
    ]
   },
   {
-   "symbol": "AIPI",
-   "name": "REX AI Equity Premium Income ETF",
+   "symbol": "SSX",
+   "name": "Sleeping Giant Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SSX.V",
+   "instruments": [
+    {
+     "name": "Sleeping Giant Capital Corp.",
+     "symbol": "SSX"
+    }
+   ]
+  },
+  {
+   "symbol": "BGRO",
+   "name": "BlackRock Large Cap Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIPI"
+   "yahoo_symbol": "BGRO"
   },
   {
-   "symbol": "ATYR",
-   "name": "aTyr Pharma, Inc. - Common Stock",
+   "symbol": "METD",
+   "name": "Direxion Daily META Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "METD"
+  },
+  {
+   "symbol": "METU",
+   "name": "Direxion Daily META Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "METU"
+  },
+  {
+   "symbol": "QXO",
+   "name": "QXO, Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATYR"
+   "yahoo_symbol": "QXO"
   },
   {
-   "symbol": "BIPJ",
-   "name": "Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIPJ"
+   "symbol": "VMCAW",
+   "name": "Valuence Merger Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VMCAW"
   }
  ],
  "removed": [
   {
-   "symbol": "IDG",
-   "name": "Indigo Books \u0026 Music Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "IDG.TO",
+   "symbol": "SSX.P",
+   "name": "Sleeping Giant Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SSX.P.V",
    "instruments": [
     {
-     "name": "Indigo Books \u0026 Music",
-     "symbol": "IDG"
+     "name": "Sleeping Giant Capital Corp.",
+     "symbol": "SSX.P"
     }
    ]
   },
   {
-   "symbol": "MTAL.W",
-   "name": "Metals Acquisition Limited Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTAL.W"
+   "symbol": "VMCAW",
+   "name": "Valuence Merger Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMCAW"
   },
   {
-   "symbol": "LIFE",
-   "name": "aTyr Pharma, Inc. - Common Stock",
+   "symbol": "SSNT",
+   "name": "SilverSun Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LIFE"
+   "yahoo_symbol": "SSNT"
   },
   {
-   "symbol": "FUSN",
-   "name": "Fusion Pharmaceuticals Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FUSN"
+   "symbol": "HLTH",
+   "name": "Cue Health Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HLTH"
   }
  ]
 }
