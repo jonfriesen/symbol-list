@@ -937,7 +937,7 @@ HHLE,Harvest Healthcare Leaders Enhanced Income ETF,TSX,HHLE.TO,Harvest HlthcrIn
 HHL,Harvest Healthcare Leaders Income ETF,TSX,HHL.TO,Harvest HlthcrLdr Un,HHL,HarvestHealthcrB U-H,HHL.B,HarvestHealthcare US,HHL.U
 HIND,Harvest Industrial Leaders Income ETF,TSX,HIND.TO,Harv Ind Ldr Inc Etf,HIND
 HPYM,Harvest Premium Yield 7-10 Year Treasury ETF,TSX,HPYM.TO,Harvst PremYld7-10Yr,HPYM,Harvst PremYld7-10US,HPYM.U
-HPYT,Harvest Premium Yield Treasury ETF,TSX,HPYT.TO,Harvest PremYldTreas,HPYT,Harvst PremYldTreaUS,HPYT.U
+HPYT,Harvest Premium Yield Treasury ETF,TSX,HPYT.TO,Harvest PremYldTreas,HPYT,Harv Prem Yld Tr ETF,HPYT.B,Harvst PremYldTreaUS,HPYT.U
 HTAE,Harvest Tech Achievers Enhanced Income ETF,TSX,HTAE.TO,Harvest TechAchiev A,HTAE
 HTA,Harvest Tech Achievers Growth & Income ETF,TSX,HTA.TO,HarvestTechAchvGrw A,HTA,HarvestTecAchGroB UH,HTA.B,HarvestTechAchGrowUS,HTA.U
 TRVI,Harvest Travel & Leisure Income ETF,TSX,TRVI.TO,Harvest Trav & Leisr,TRVI
@@ -1337,7 +1337,6 @@ NSSB,NBI Sustainable Canadian Short Term Bond ETF,TSX,NSSB.TO,NBI SustainCdnST B
 NSGE,NBI Sustainable Global Equity ETF,TSX,NSGE.TO,NBI SustainGlblEq Un,NSGE
 NUBF,NBI Unconstrained Fixed Income ETF,TSX,NUBF.TO,NBI Unconstr FxdIncm,NUBF
 NEO,Neo Performance Materials Inc.,TSX,NEO.TO,Neo Perform Material,NEO
-NCU,Nevada Copper Corp.,TSX,NCU.TO,Nevada Copper Corp J,NCU,Nevada Copper J C Wt,NCU.WT.C
 NGD,New Gold Inc.,TSX,NGD.TO,New Gold Inc.,NGD
 NUAG,New Pacific Metals Corp.,TSX,NUAG.TO,New Pacific Metals J,NUAG
 NGT,Newmont Corporation,TSX,NGT.TO,Newmont Corporation,NGT
@@ -1977,6 +1976,7 @@ BMR,Battery Mineral Resources Corp.,TSXV,BMR.V,Battery Mineral Resources Corp.,B
 BHS,Bayhorse Silver Inc.,TSXV,BHS.V,Bayhorse Silver Inc.,BHS
 BM,BC Moly Ltd.,TSXV,BM.V,BC Moly Ltd.,BM
 B,BCM Resources Corporation,TSXV,B.V,BCM Resources Corporation,B
+BECN,Beacn Wizardry & Magic Inc.,TSXV,BECN.V,Beacn Wizardry & Magic Inc.,BECN
 BCM,Bear Creek Mining Corporation,TSXV,BCM.V,Bear Creek Mining Corporation,BCM,Bear Creek Mining Corporation wt 05Oct2028,BCM.WT
 BGF,Beauce Gold Fields Inc.,TSXV,BGF.V,Beauce Gold Fields Inc.,BGF
 BFM,Bedford Metals Corp.,TSXV,BFM.V,Bedford Metals Corp.,BFM
@@ -2095,7 +2095,6 @@ CBIT,Cathedra Bitcoin Inc.,TSXV,CBIT.V,Cathedra Bitcoin Inc.,CBIT
 CVY.P,Cavalry Capital Corp.,TSXV,CVY.P.V,Cavalry Capital Corp.,CVY.P
 CBLT,CBLT Inc.,TSXV,CBLT.V,CBLT Inc.,CBLT
 CEBI,CE Brands Inc.,TSXV,CEBI.V,CE Brands Inc.,CEBI
-CZO,Ceapro Inc.,TSXV,CZO.V,Ceapro Inc.,CZO
 CES.P,Celestial Acquisition Corp.,TSXV,CES.P.V,Celestial Acquisition Corp.,CES.P
 CVX,Cematrix Corporation,TSXV,CVX.V,Cematrix Corporation,CVX
 CTA,Centaurus Energy Inc.,TSXV,CTA.V,Centaurus Energy Inc.,CTA
@@ -2125,7 +2124,6 @@ CBLU,Clear Blue Technologies International Inc.,TSXV,CBLU.V,Clear Blue Technolog
 CZZ,Cleghorn Minerals Ltd.,TSXV,CZZ.V,Cleghorn Minerals Ltd,CZZ
 CEP,Cliffside Capital Ltd.,TSXV,CEP.V,Cliffside Capital Ltd.,CEP
 CLIP,Clip Money Inc.,TSXV,CLIP.V,Clip Money Inc.,CLIP
-CDX,Cloud DX Inc.,TSXV,CDX.V,Cloud DX Inc.,CDX
 DOC,CloudMD Software & Services Inc.,TSXV,DOC.V,CloudMD Software & Services Inc.,DOC
 CMB,CMC Metals Ltd.,TSXV,CMB.V,CMC Metals Ltd.,CMB
 CNJ.P,CNJ Capital Investments Inc.,TSXV,CNJ.P.V,CNJ Capital Investments Inc.,CNJ.P
@@ -2946,7 +2944,7 @@ PPP,Prospector Metals Corp.,TSXV,PPP.V,Prospector Metals Corp.,PPP
 PGX,Prosper Gold Corp.,TSXV,PGX.V,Prosper Gold Corp.,PGX
 PEI,Prospera Energy Inc.,TSXV,PEI.V,Prospera Energy Inc.,PEI
 MAPS,ProStar Holdings Inc.,TSXV,MAPS.V,ProStar Holdings Inc.,MAPS
-PTN.P,Proton Capital Corp.,TSXV,PTN.P.V,Proton Capital Corp.,PTN.P
+PTN,Proton Capital Corp.,TSXV,PTN.V,Proton Capital Corp.,PTN
 PHD,Providence Gold Mines Inc.,TSXV,PHD.V,Providence Gold Mines Inc.,PHD
 TORO,Pucara Gold Ltd.,TSXV,TORO.V,Pucara Gold Ltd.,TORO
 PLSR,Pulsar Helium Inc.,TSXV,PLSR.V,Pulsar Helium Inc.,PLSR
@@ -3156,7 +3154,7 @@ STRR,Star Royalties Ltd.,TSXV,STRR.V,Star Royalties Ltd.,STRR
 SCPT.A,Starlight U.S. Multi-Family (No.2) Core Plus Fund,TSXV,SCPT.A.V,Starlight U.S. Multi-Family (No.2) Core Plus A,SCPT.A,Starlight U.S. Multi-Family (No.2) Core Plus Fund USD,SCPT.U
 SURF.A,Starlight U.S. Residential Fund,TSXV,SURF.A.V,Starlight U.S. Residential Fund,SURF.A,Starlight U.S. Residential Fund USD,SURF.U
 STE,Starr Peak Mining Ltd.,TSXV,STE.V,Starr Peak Mining Ltd.,STE
-STER,Steer Technologies Inc.,TSXV,STER.V,Steer Technologies Inc.,STER
+ARGH,Steer Technologies Inc.,TSXV,ARGH.V,Steer Technologies Inc.,ARGH
 SPX,Stellar AfricaGold Inc.,TSXV,SPX.V,Stellar AfricaGold Inc.,SPX
 STH,Stelmine Canada Ltd.,TSXV,STH.V,Stelmine Canada Ltd.,STH
 SAG,Sterling Metals Corp.,TSXV,SAG.V,Sterling Metals Corp.,SAG
@@ -3346,6 +3344,7 @@ WEX,Western Exploration Inc.,TSXV,WEX.V,Western Exploration Inc.,WEX
 WGLD,Western Gold Exploration Ltd.,TSXV,WGLD.V,Western Gold Exploration Ltd.,WGLD
 WMS,Western Metallica Resources Corp.,TSXV,WMS.V,Western Metallica Resources Corp.,WMS
 WP,Western Pacific Trust Company,TSXV,WP.V,Western Pacific Trust Company,WP
+WGT,Westgate Energy Inc.,TSXV,WGT.V,Westgate Energy Inc.,WGT
 WHN,Westhaven Gold Corp.,TSXV,WHN.V,Westhaven Gold Corp.,WHN
 WKG,WestKam Gold Corp.,TSXV,WKG.V,WestKam Gold Corp.,WKG
 WAT.P,Whatcom Capital II Corp,TSXV,WAT.P.V,Whatcom Capital II Corp.,WAT.P
@@ -7557,9 +7556,6 @@ SWIN,Solowin Holdings - Ordinary Share,NASDAQ Capital Market,SWIN
 SWKH,SWK Holdings Corporation - Common Stock,NASDAQ Global MarketSM,SWKH
 SWKHL,SWK Holdings Corporation - 9.00% Senior Notes due 2027,NASDAQ Global MarketSM,SWKHL
 SWKS,"Skyworks Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWKS
-SWSS,Clean Energy Special Situations Corp.  - Common stock,NASDAQ Capital Market,SWSS
-SWSSU,Clean Energy Special Situations Corp.  - Unit,NASDAQ Capital Market,SWSSU
-SWSSW,Clean Energy Special Situations Corp.  - Warrant,NASDAQ Capital Market,SWSSW
 SWTX,"SpringWorks Therapeutics, Inc. - common stock",NASDAQ Global Select MarketSM,SWTX
 SWVL,Swvl Holdings Corp - Ordinary Shares,NASDAQ Capital Market,SWVL
 SWVLW,Swvl Holdings Corp - Warrant,NASDAQ Capital Market,SWVLW

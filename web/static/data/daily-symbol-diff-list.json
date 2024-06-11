@@ -1,150 +1,136 @@
 {
  "added": [
   {
-   "symbol": "DSY",
-   "name": "Big Tree Cloud Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DSY"
+   "symbol": "BECN",
+   "name": "Beacn Wizardry \u0026 Magic Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BECN.V",
+   "instruments": [
+    {
+     "name": "Beacn Wizardry \u0026 Magic Inc.",
+     "symbol": "BECN"
+    }
+   ]
   },
   {
-   "symbol": "DSYWW",
-   "name": "Big Tree Cloud Holdings Limited - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DSYWW"
+   "symbol": "PTN",
+   "name": "Proton Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTN.V",
+   "instruments": [
+    {
+     "name": "Proton Capital Corp.",
+     "symbol": "PTN"
+    }
+   ]
   },
   {
-   "symbol": "FSCS",
-   "name": "First Trust SMID Capital Strength ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSCS"
+   "symbol": "ARGH",
+   "name": "Steer Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARGH.V",
+   "instruments": [
+    {
+     "name": "Steer Technologies Inc.",
+     "symbol": "ARGH"
+    }
+   ]
   },
   {
-   "symbol": "RAPP",
-   "name": "Rapport Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RAPP"
-  },
-  {
-   "symbol": "SIFYR",
-   "name": "Sify Technologies Limited - Rights expiring 6/21/2024",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SIFYR"
-  },
-  {
-   "symbol": "WAY",
-   "name": "Waystar Holding Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WAY"
-  },
-  {
-   "symbol": "ONIT",
-   "name": "Onity Group Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ONIT"
+   "symbol": "WGT",
+   "name": "Westgate Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WGT.V",
+   "instruments": [
+    {
+     "name": "Westgate Energy Inc.",
+     "symbol": "WGT"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "SNYB",
-   "name": "Shiny Health \u0026 Wellness Corp.",
+   "symbol": "CDX",
+   "name": "Cloud DX Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SNYB.V",
+   "yahoo_symbol": "CDX.V",
    "instruments": [
     {
-     "name": "Shiny Health \u0026 Wellness Corp.",
-     "symbol": "SNYB"
+     "name": "Cloud DX Inc.",
+     "symbol": "CDX"
     }
    ]
   },
   {
-   "symbol": "INCA",
-   "name": "Inca One Gold Corp.",
+   "symbol": "SWSS",
+   "name": "Clean Energy Special Situations Corp.  - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWSS"
+  },
+  {
+   "symbol": "SWSSU",
+   "name": "Clean Energy Special Situations Corp.  - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWSSU"
+  },
+  {
+   "symbol": "CZO",
+   "name": "Ceapro Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "INCA.V",
+   "yahoo_symbol": "CZO.V",
    "instruments": [
     {
-     "name": "Inca One Gold Corp.",
-     "symbol": "INCA"
+     "name": "Ceapro Inc.",
+     "symbol": "CZO"
     }
    ]
   },
   {
-   "symbol": "TWLV",
-   "name": "Twelve Seas Investment Company II - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TWLV"
-  },
-  {
-   "symbol": "AONC",
-   "name": "American Oncology Network, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AONC"
-  },
-  {
-   "symbol": "TWLVU",
-   "name": "Twelve Seas Investment Company II - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TWLVU"
-  },
-  {
-   "symbol": "AONCW",
-   "name": "American Oncology Network, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AONCW"
-  },
-  {
-   "symbol": "JAX",
-   "name": "Jaxon Mining Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JAX.V",
+   "symbol": "NCU",
+   "name": "Nevada Copper Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCU.TO",
    "instruments": [
     {
-     "name": "Jaxon Mining Inc.",
-     "symbol": "JAX"
+     "name": "Nevada Copper Corp J",
+     "symbol": "NCU"
+    },
+    {
+     "name": "Nevada Copper J C Wt",
+     "symbol": "NCU.WT.C"
     }
    ]
   },
   {
-   "symbol": "Q",
-   "name": "Quetzal Copper Corp.",
+   "symbol": "STER",
+   "name": "Steer Technologies Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "Q.V",
+   "yahoo_symbol": "STER.V",
    "instruments": [
     {
-     "name": "Quetzal Copper Corp.",
-     "symbol": "Q"
+     "name": "Steer Technologies Inc.",
+     "symbol": "STER"
     }
    ]
   },
   {
-   "symbol": "RBT",
-   "name": "Rubicon Technologies, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RBT"
-  },
-  {
-   "symbol": "TWLVW",
-   "name": "Twelve Seas Investment Company II - Warrant",
+   "symbol": "SWSSW",
+   "name": "Clean Energy Special Situations Corp.  - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TWLVW"
+   "yahoo_symbol": "SWSSW"
   },
   {
-   "symbol": "RNMC",
-   "name": "Mid Cap US Equity Select ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNMC"
-  },
-  {
-   "symbol": "VTRU",
-   "name": "Vitru Limited - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VTRU"
-  },
-  {
-   "symbol": "OCN",
-   "name": "Ocwen Financial Corporation NEW Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OCN"
+   "symbol": "PTN.P",
+   "name": "Proton Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTN.P.V",
+   "instruments": [
+    {
+     "name": "Proton Capital Corp.",
+     "symbol": "PTN.P"
+    }
+   ]
   }
  ]
 }
