@@ -1,48 +1,60 @@
 {
  "added": [
   {
-   "symbol": "IMPT",
-   "name": "Impact Development Group Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IMPT.V",
-   "instruments": [
-    {
-     "name": "Impact Development Group Inc.",
-     "symbol": "IMPT"
-    }
-   ]
-  },
-  {
-   "symbol": "SPMC",
-   "name": "Sound Point Meridian Capital, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SPMC"
-  },
-  {
-   "symbol": "IRMD",
-   "name": "iRadimed Corporation - Common Stock",
+   "symbol": "QXQ",
+   "name": "SGI Enhanced Nasdaq-100 ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IRMD"
+   "yahoo_symbol": "QXQ"
+  },
+  {
+   "symbol": "TEM",
+   "name": "Tempus AI, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TEM"
   }
  ],
  "removed": [
   {
-   "symbol": "VIA",
-   "name": "Via Renewables, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VIA"
+   "symbol": "CACG",
+   "name": "ClearBridge All Cap Growth ESG ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CACG"
   },
   {
-   "symbol": "BURU",
-   "name": "Nuburu, Inc. Common Stock",
+   "symbol": "MPM.WT",
+   "name": "Millennial Precious Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MPM.WT.V",
+   "instruments": [
+    {
+     "name": "Millennial Precious Metals Corp. wt 16Jun2024",
+     "symbol": "MPM.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "AQNU",
+   "name": "Algonquin Power \u0026 Utilities Corp. Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AQNU"
+  },
+  {
+   "symbol": "SCPX",
+   "name": "Scorpius Holdings, Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "BURU"
+   "yahoo_symbol": "SCPX"
   },
   {
-   "symbol": "IRMD",
-   "name": "iRadimed Corporation - Common Stock",
+   "symbol": "SNPO",
+   "name": "Snap One Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNPO"
+  },
+  {
+   "symbol": "THMO",
+   "name": "ThermoGenesis Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IRMD"
+   "yahoo_symbol": "THMO"
   }
  ]
 }
