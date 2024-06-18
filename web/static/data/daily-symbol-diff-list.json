@@ -1,60 +1,36 @@
 {
  "added": [
   {
-   "symbol": "QXQ",
-   "name": "SGI Enhanced Nasdaq-100 ETF",
+   "symbol": "EVSD",
+   "name": "Eaton Vance Short Duration Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QXQ"
+   "yahoo_symbol": "EVSD"
   },
   {
-   "symbol": "TEM",
-   "name": "Tempus AI, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TEM"
+   "symbol": "NXG.V",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring July 17, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.V"
   }
  ],
  "removed": [
   {
-   "symbol": "CACG",
-   "name": "ClearBridge All Cap Growth ESG ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CACG"
+   "symbol": "ARTLW",
+   "name": "Artelo Biosciences, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARTLW"
   },
   {
-   "symbol": "MPM.WT",
-   "name": "Millennial Precious Metals Corp.",
+   "symbol": "NDVA",
+   "name": "Indiva Limited",
    "exchange": "TSXV",
-   "yahoo_symbol": "MPM.WT.V",
+   "yahoo_symbol": "NDVA.V",
    "instruments": [
     {
-     "name": "Millennial Precious Metals Corp. wt 16Jun2024",
-     "symbol": "MPM.WT"
+     "name": "Indiva Limited",
+     "symbol": "NDVA"
     }
    ]
-  },
-  {
-   "symbol": "AQNU",
-   "name": "Algonquin Power \u0026 Utilities Corp. Corporate Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AQNU"
-  },
-  {
-   "symbol": "SCPX",
-   "name": "Scorpius Holdings, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SCPX"
-  },
-  {
-   "symbol": "SNPO",
-   "name": "Snap One Holdings Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SNPO"
-  },
-  {
-   "symbol": "THMO",
-   "name": "ThermoGenesis Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "THMO"
   }
  ]
 }
