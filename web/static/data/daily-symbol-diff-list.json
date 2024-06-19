@@ -1,34 +1,46 @@
 {
  "added": [
   {
-   "symbol": "EVSD",
-   "name": "Eaton Vance Short Duration Income ETF",
+   "symbol": "BELT",
+   "name": "BlackRock Long-Term U.S. Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVSD"
+   "yahoo_symbol": "BELT"
   },
   {
-   "symbol": "NXG.V",
-   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring July 17, 2024) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXG.V"
+   "symbol": "BRHY",
+   "name": "BlackRock High Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRHY"
+  },
+  {
+   "symbol": "CUBWU",
+   "name": "Lionheart Holdings - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CUBWU"
+  },
+  {
+   "symbol": "FSHPU",
+   "name": "Flag Ship Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSHPU"
+  },
+  {
+   "symbol": "MACIU",
+   "name": "Melar Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACIU"
   }
  ],
  "removed": [
   {
-   "symbol": "ARTLW",
-   "name": "Artelo Biosciences, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARTLW"
-  },
-  {
-   "symbol": "NDVA",
-   "name": "Indiva Limited",
+   "symbol": "JPIM",
+   "name": "Jasper Commerce Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "NDVA.V",
+   "yahoo_symbol": "JPIM.V",
    "instruments": [
     {
-     "name": "Indiva Limited",
-     "symbol": "NDVA"
+     "name": "Jasper Commerce Inc.",
+     "symbol": "JPIM"
     }
    ]
   }
