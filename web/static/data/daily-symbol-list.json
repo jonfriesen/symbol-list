@@ -1,5 +1,5 @@
 {
- "date": "2024-06-21",
+ "date": "2024-06-24",
  "data": [
   {
    "symbol": "ONE",
@@ -11458,6 +11458,18 @@
     {
      "name": "Nanalysis Scientific Corp.",
      "symbol": "NSCI"
+    }
+   ]
+  },
+  {
+   "symbol": "NRC",
+   "name": "Nations Royalty Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NRC.V",
+   "instruments": [
+    {
+     "name": "Nations Royalty Corp.",
+     "symbol": "NRC"
     }
    ]
   },
@@ -41774,18 +41786,6 @@
    ]
   },
   {
-   "symbol": "TPAY",
-   "name": "TD Income Builder ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TPAY.TO",
-   "instruments": [
-    {
-     "name": "TD Income Builder Un",
-     "symbol": "TPAY"
-    }
-   ]
-  },
-  {
    "symbol": "THE",
    "name": "TD International Equity CAD Hedged Index ETF",
    "exchange": "TSX",
@@ -41806,66 +41806,6 @@
     {
      "name": "TD Int'l Eqty Idx Un",
      "symbol": "TPE"
-    }
-   ]
-  },
-  {
-   "symbol": "TMCC",
-   "name": "TD Morningstar ESG Canada Corporate Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TMCC.TO",
-   "instruments": [
-    {
-     "name": "TD MS ESGCorpBnd CA",
-     "symbol": "TMCC"
-    }
-   ]
-  },
-  {
-   "symbol": "TMEC",
-   "name": "TD Morningstar ESG Canada Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TMEC.TO",
-   "instruments": [
-    {
-     "name": "TD MornstarESG CdaEq",
-     "symbol": "TMEC"
-    }
-   ]
-  },
-  {
-   "symbol": "TMEI",
-   "name": "TD Morningstar ESG International Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TMEI.TO",
-   "instruments": [
-    {
-     "name": "TD MornstrESG IntlEq",
-     "symbol": "TMEI"
-    }
-   ]
-  },
-  {
-   "symbol": "TMUC",
-   "name": "TD Morningstar ESG U.S. Corporate Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TMUC.TO",
-   "instruments": [
-    {
-     "name": "TD MS ESG US Bnd CAD",
-     "symbol": "TMUC"
-    }
-   ]
-  },
-  {
-   "symbol": "TMEU",
-   "name": "TD Morningstar ESG U.S. Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TMEU.TO",
-   "instruments": [
-    {
-     "name": "TD Mornstr ESG US Eq",
-     "symbol": "TMEU"
     }
    ]
   },
@@ -42346,10 +42286,6 @@
     {
      "name": "Timbercreek Fin Corp",
      "symbol": "TF"
-    },
-    {
-     "name": "Timbercrk Fin 5.3 Db",
-     "symbol": "TF.DB.C"
     },
     {
      "name": "Timbercrk Fin 5.25Db",
@@ -44374,18 +44310,6 @@
    "yahoo_symbol": "ADSK"
   },
   {
-   "symbol": "ADTH",
-   "name": "AdTheorent Holding Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADTH"
-  },
-  {
-   "symbol": "ADTHW",
-   "name": "AdTheorent Holding Company, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADTHW"
-  },
-  {
    "symbol": "ADTN",
    "name": "ADTRAN Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -44732,6 +44656,12 @@
    "name": "iShares Asia 50 ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AIA"
+  },
+  {
+   "symbol": "AIEV",
+   "name": "Thunder Power Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIEV"
   },
   {
    "symbol": "AIHS",
@@ -47464,6 +47394,12 @@
    "yahoo_symbol": "BMBL"
   },
   {
+   "symbol": "BMDL",
+   "name": "VictoryShares WestEnd Economic Cycle Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMDL"
+  },
+  {
    "symbol": "BMEA",
    "name": "Biomea Fusion, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48772,10 +48708,22 @@
    "yahoo_symbol": "CCGWW"
   },
   {
+   "symbol": "CCIX",
+   "name": "Churchill Capital Corp IX - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIX"
+  },
+  {
    "symbol": "CCIXU",
    "name": "Churchill Capital Corp IX - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CCIXU"
+  },
+  {
+   "symbol": "CCIXW",
+   "name": "Churchill Capital Corp IX - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIXW"
   },
   {
    "symbol": "CCLD",
@@ -53686,30 +53634,6 @@
    "yahoo_symbol": "FLEX"
   },
   {
-   "symbol": "FLFV",
-   "name": "Feutune Light Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FLFV"
-  },
-  {
-   "symbol": "FLFVR",
-   "name": "Feutune Light Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FLFVR"
-  },
-  {
-   "symbol": "FLFVU",
-   "name": "Feutune Light Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FLFVU"
-  },
-  {
-   "symbol": "FLFVW",
-   "name": "Feutune Light Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FLFVW"
-  },
-  {
    "symbol": "FLGC",
    "name": "Flora Growth Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -55112,6 +55036,12 @@
    "name": "Golar LNG Limited - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GLNG"
+  },
+  {
+   "symbol": "GLOW",
+   "name": "VictoryShares WestEnd Global Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLOW"
   },
   {
    "symbol": "GLPG",
@@ -65548,6 +65478,12 @@
    "yahoo_symbol": "QQQS"
   },
   {
+   "symbol": "QQQT",
+   "name": "Defiance Nasdaq 100 Income Target ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQT"
+  },
+  {
    "symbol": "QQQX",
    "name": "Nuveen NASDAQ 100 Dynamic Overwrite Fund - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -65948,6 +65884,12 @@
    "name": "Reborn Coffee, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "REBN"
+  },
+  {
+   "symbol": "RECT",
+   "name": "Rectitude Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RECT"
   },
   {
    "symbol": "REE",
@@ -66728,30 +66670,6 @@
    "name": "Runway Growth Finance Corp. - 8.00% Notes due 2027",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "RWAYZ"
-  },
-  {
-   "symbol": "RWOD",
-   "name": "Redwoods Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RWOD"
-  },
-  {
-   "symbol": "RWODR",
-   "name": "Redwoods Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RWODR"
-  },
-  {
-   "symbol": "RWODU",
-   "name": "Redwoods Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RWODU"
-  },
-  {
-   "symbol": "RWODW",
-   "name": "Redwoods Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RWODW"
   },
   {
    "symbol": "RXRX",
@@ -71794,6 +71712,18 @@
    "yahoo_symbol": "WEN"
   },
   {
+   "symbol": "WENA",
+   "name": "ANEW MEDICAL, INC. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENA"
+  },
+  {
+   "symbol": "WENAW",
+   "name": "ANEW MEDICAL, INC. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WENAW"
+  },
+  {
    "symbol": "WERN",
    "name": "Werner Enterprises, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72180,19 +72110,19 @@
   {
    "symbol": "WTMA",
    "name": "Welsbach Technology Metals Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WTMA"
   },
   {
    "symbol": "WTMAR",
    "name": "Welsbach Technology Metals Acquisition Corp. - one right to receive 1/10th of a share of common stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WTMAR"
   },
   {
    "symbol": "WTMAU",
    "name": "Welsbach Technology Metals Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WTMAU"
   },
   {
@@ -74000,24 +73930,6 @@
    "name": "Artisan Partners Asset Management Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "APAM"
-  },
-  {
-   "symbol": "APCA",
-   "name": "AP Acquisition Corp Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APCA"
-  },
-  {
-   "symbol": "APCA.U",
-   "name": "AP Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APCA.U"
-  },
-  {
-   "symbol": "APCA.W",
-   "name": "AP Acquisition Corp Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APCA.W"
   },
   {
    "symbol": "APD",
@@ -90158,12 +90070,6 @@
    "name": "Molson Coors Beverage Company Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TAP.A"
-  },
-  {
-   "symbol": "TARO",
-   "name": "Taro Pharmaceutical Industries Ltd. Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TARO"
   },
   {
    "symbol": "TBB",
