@@ -1,90 +1,66 @@
 {
  "added": [
   {
-   "symbol": "GRAL",
-   "name": "GRAIL, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GRAL"
+   "symbol": "Q",
+   "name": "Quetzal Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "Q.V",
+   "instruments": [
+    {
+     "name": "Quetzal Copper Corp.",
+     "symbol": "Q"
+    }
+   ]
   },
   {
-   "symbol": "VSEE",
-   "name": "VSee Health, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSEE"
-  },
-  {
-   "symbol": "VSEEW",
-   "name": "VSee Health, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSEEW"
-  },
-  {
-   "symbol": "RWTO",
-   "name": "Redwood Trust, Inc. 9.00% Senior Notes Due 2029",
+   "symbol": "BOH$B",
+   "name": "Bank of Hawaii Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.000% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B",
    "exchange": "NYSE",
-   "yahoo_symbol": "RWTO"
+   "yahoo_symbol": "BOH$B"
+  },
+  {
+   "symbol": "GRAF.U",
+   "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRAF.U"
+  },
+  {
+   "symbol": "NEE$S",
+   "name": "NextEra Energy, Inc. 7.299% Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$S"
   }
  ],
  "removed": [
   {
-   "symbol": "ILMNV",
-   "name": "Illumina, Inc. - Common Stock Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ILMNV"
+   "symbol": "HLFE",
+   "name": "Harvest Canadian Equity Enhanced Income Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HLFE.TO",
+   "instruments": [
+    {
+     "name": "Harvest CdnEq Incm A",
+     "symbol": "HLFE"
+    }
+   ]
   },
   {
-   "symbol": "COOL",
-   "name": "Corner Growth Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COOL"
+   "symbol": "HBFE",
+   "name": "Harvest Brand Leaders Enhanced Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBFE.TO",
+   "instruments": [
+    {
+     "name": "Harvest BrandLeadr A",
+     "symbol": "HBFE"
+    }
+   ]
   },
   {
-   "symbol": "DHACU",
-   "name": "Digital Health Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DHACU"
-  },
-  {
-   "symbol": "COOLW",
-   "name": "Corner Growth Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COOLW"
-  },
-  {
-   "symbol": "HGAS",
-   "name": "Global Gas Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HGAS"
-  },
-  {
-   "symbol": "DHACW",
-   "name": "Digital Health Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DHACW"
-  },
-  {
-   "symbol": "GRALV",
-   "name": "GRAIL, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GRALV"
-  },
-  {
-   "symbol": "DHAC",
-   "name": "Digital Health Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DHAC"
-  },
-  {
-   "symbol": "HGASW",
-   "name": "Global Gas Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HGASW"
-  },
-  {
-   "symbol": "COOLU",
-   "name": "Corner Growth Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COOLU"
+   "symbol": "VCXB.W",
+   "name": "10X Capital Venture Acquisition Corp. III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VCXB.W"
   }
  ]
 }
