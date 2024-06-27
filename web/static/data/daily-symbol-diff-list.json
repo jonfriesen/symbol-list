@@ -1,66 +1,138 @@
 {
  "added": [
   {
-   "symbol": "Q",
-   "name": "Quetzal Copper Corp.",
+   "symbol": "ACDC",
+   "name": "AC/DC Battery Metals Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "Q.V",
+   "yahoo_symbol": "ACDC.V",
    "instruments": [
     {
-     "name": "Quetzal Copper Corp.",
-     "symbol": "Q"
+     "name": "AC/DC Battery Metals Inc.",
+     "symbol": "ACDC"
     }
    ]
   },
   {
-   "symbol": "BOH$B",
-   "name": "Bank of Hawaii Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.000% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BOH$B"
+   "symbol": "AUM",
+   "name": "AuMega Metals Ltd",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUM.V",
+   "instruments": [
+    {
+     "name": "AuMega Metals Ltd",
+     "symbol": "AUM"
+    }
+   ]
   },
   {
-   "symbol": "GRAF.U",
-   "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GRAF.U"
+   "symbol": "WPR",
+   "name": "CANPR Technology Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WPR.V",
+   "instruments": [
+    {
+     "name": "CANPR Technology Ltd.",
+     "symbol": "WPR"
+    }
+   ]
   },
   {
-   "symbol": "NEE$S",
-   "name": "NextEra Energy, Inc. 7.299% Corporate Units",
+   "symbol": "SAF",
+   "name": "Seasif Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SAF.V",
+   "instruments": [
+    {
+     "name": "Seasif Exploration Inc.",
+     "symbol": "SAF"
+    }
+   ]
+  },
+  {
+   "symbol": "SUGR",
+   "name": "Sucro Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUGR.V",
+   "instruments": [
+    {
+     "name": "Sucro Limited",
+     "symbol": "SUGR"
+    }
+   ]
+  },
+  {
+   "symbol": "GGT.V",
+   "name": "Gabelli Multi-Media Trust Inc. (The) Rights (expiring July 22, 2024) Rights when issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "NEE$S"
+   "yahoo_symbol": "GGT.V"
+  },
+  {
+   "symbol": "TBN",
+   "name": "Tamboran Resources Corporation Common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TBN"
+  },
+  {
+   "symbol": "PREF",
+   "name": "Quadravest Preferred Split Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PREF.TO",
+   "instruments": [
+    {
+     "name": "Quad Pref SplitShETF",
+     "symbol": "PREF"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "HLFE",
-   "name": "Harvest Canadian Equity Enhanced Income Leaders ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HLFE.TO",
+   "symbol": "GA",
+   "name": "General Assembly Holdings Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GA.V",
    "instruments": [
     {
-     "name": "Harvest CdnEq Incm A",
-     "symbol": "HLFE"
+     "name": "General Assembly Holdings Limited",
+     "symbol": "GA"
     }
    ]
   },
   {
-   "symbol": "HBFE",
-   "name": "Harvest Brand Leaders Enhanced Income ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HBFE.TO",
+   "symbol": "SUG",
+   "name": "Sucro Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUG.V",
    "instruments": [
     {
-     "name": "Harvest BrandLeadr A",
-     "symbol": "HBFE"
+     "name": "Sucro Limited",
+     "symbol": "SUG"
     }
    ]
   },
   {
-   "symbol": "VCXB.W",
-   "name": "10X Capital Venture Acquisition Corp. III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share, each at an exercise price of $11.50 per share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VCXB.W"
+   "symbol": "MODN",
+   "name": "Model N, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MODN"
+  },
+  {
+   "symbol": "WA",
+   "name": "Western Atlas Resources Inc",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WA.V",
+   "instruments": [
+    {
+     "name": "Western Atlas Resources Inc",
+     "symbol": "WA"
+    }
+   ]
+  },
+  {
+   "symbol": "DMTK",
+   "name": "DermTech, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DMTK"
   }
  ]
 }
