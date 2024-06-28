@@ -1,138 +1,180 @@
 {
  "added": [
   {
-   "symbol": "ACDC",
-   "name": "AC/DC Battery Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ACDC.V",
-   "instruments": [
-    {
-     "name": "AC/DC Battery Metals Inc.",
-     "symbol": "ACDC"
-    }
-   ]
+   "symbol": "EMLD",
+   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMLD"
   },
   {
-   "symbol": "AUM",
-   "name": "AuMega Metals Ltd",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AUM.V",
-   "instruments": [
-    {
-     "name": "AuMega Metals Ltd",
-     "symbol": "AUM"
-    }
-   ]
+   "symbol": "EMLDU",
+   "name": "FTAC Emerald Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMLDU"
   },
   {
-   "symbol": "WPR",
-   "name": "CANPR Technology Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WPR.V",
-   "instruments": [
-    {
-     "name": "CANPR Technology Ltd.",
-     "symbol": "WPR"
-    }
-   ]
+   "symbol": "EMLDW",
+   "name": "FTAC Emerald Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMLDW"
   },
   {
-   "symbol": "SAF",
-   "name": "Seasif Exploration Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SAF.V",
-   "instruments": [
-    {
-     "name": "Seasif Exploration Inc.",
-     "symbol": "SAF"
-    }
-   ]
+   "symbol": "NVAC",
+   "name": "NorthView Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVAC"
   },
   {
-   "symbol": "SUGR",
-   "name": "Sucro Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SUGR.V",
-   "instruments": [
-    {
-     "name": "Sucro Limited",
-     "symbol": "SUGR"
-    }
-   ]
+   "symbol": "NVACR",
+   "name": "NorthView Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVACR"
   },
   {
-   "symbol": "GGT.V",
-   "name": "Gabelli Multi-Media Trust Inc. (The) Rights (expiring July 22, 2024) Rights when issued",
+   "symbol": "NVACW",
+   "name": "NorthView Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVACW"
+  },
+  {
+   "symbol": "PRLHW",
+   "name": "Pearl Holdings Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRLHW"
+  },
+  {
+   "symbol": "TLGY",
+   "name": "TLGY Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGY"
+  },
+  {
+   "symbol": "TLGYU",
+   "name": "TLGY Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGYU"
+  },
+  {
+   "symbol": "TLGYW",
+   "name": "TLGY Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGYW"
+  },
+  {
+   "symbol": "WBTN",
+   "name": "WEBTOON Entertainment Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WBTN"
+  },
+  {
+   "symbol": "LB",
+   "name": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests",
    "exchange": "NYSE",
-   "yahoo_symbol": "GGT.V"
-  },
-  {
-   "symbol": "TBN",
-   "name": "Tamboran Resources Corporation Common stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TBN"
-  },
-  {
-   "symbol": "PREF",
-   "name": "Quadravest Preferred Split Share ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PREF.TO",
-   "instruments": [
-    {
-     "name": "Quad Pref SplitShETF",
-     "symbol": "PREF"
-    }
-   ]
+   "yahoo_symbol": "LB"
   }
  ],
  "removed": [
   {
-   "symbol": "GA",
-   "name": "General Assembly Holdings Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GA.V",
-   "instruments": [
-    {
-     "name": "General Assembly Holdings Limited",
-     "symbol": "GA"
-    }
-   ]
+   "symbol": "NVAC",
+   "name": "NorthView Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVAC"
   },
   {
-   "symbol": "SUG",
-   "name": "Sucro Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SUG.V",
-   "instruments": [
-    {
-     "name": "Sucro Limited",
-     "symbol": "SUG"
-    }
-   ]
+   "symbol": "EMLDW",
+   "name": "FTAC Emerald Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMLDW"
   },
   {
-   "symbol": "MODN",
-   "name": "Model N, Inc. Common Stock",
+   "symbol": "TLGYW",
+   "name": "TLGY Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLGYW"
+  },
+  {
+   "symbol": "TLGY",
+   "name": "TLGY Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLGY"
+  },
+  {
+   "symbol": "HRT",
+   "name": "HireRight Holdings Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MODN"
+   "yahoo_symbol": "HRT"
   },
   {
-   "symbol": "WA",
-   "name": "Western Atlas Resources Inc",
+   "symbol": "BRSH",
+   "name": "Bruush Oral Care Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRSH"
+  },
+  {
+   "symbol": "PRLHW",
+   "name": "Pearl Holdings Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRLHW"
+  },
+  {
+   "symbol": "EMLDU",
+   "name": "FTAC Emerald Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMLDU"
+  },
+  {
+   "symbol": "NVACW",
+   "name": "NorthView Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVACW"
+  },
+  {
+   "symbol": "BRSHW",
+   "name": "Bruush Oral Care Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRSHW"
+  },
+  {
+   "symbol": "TCON",
+   "name": "TRACON Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCON"
+  },
+  {
+   "symbol": "AIRC",
+   "name": "Apartment Income REIT Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIRC"
+  },
+  {
+   "symbol": "NVACR",
+   "name": "NorthView Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVACR"
+  },
+  {
+   "symbol": "EMLD",
+   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMLD"
+  },
+  {
+   "symbol": "TLGYU",
+   "name": "TLGY Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLGYU"
+  },
+  {
+   "symbol": "XYBN",
+   "name": "Xybion Digital Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "WA.V",
+   "yahoo_symbol": "XYBN.V",
    "instruments": [
     {
-     "name": "Western Atlas Resources Inc",
-     "symbol": "WA"
+     "name": "Xybion Digital Inc.",
+     "symbol": "XYBN"
     }
    ]
-  },
-  {
-   "symbol": "DMTK",
-   "name": "DermTech, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DMTK"
   }
  ]
 }
