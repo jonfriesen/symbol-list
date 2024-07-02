@@ -1,5 +1,5 @@
 {
- "date": "2024-07-01",
+ "date": "2024-07-02",
  "data": [
   {
    "symbol": "ONE",
@@ -3566,6 +3566,18 @@
    ]
   },
   {
+   "symbol": "CCZ.P",
+   "name": "Chablis Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCZ.P.V",
+   "instruments": [
+    {
+     "name": "Chablis Capital Corp.",
+     "symbol": "CCZ.P"
+    }
+   ]
+  },
+  {
    "symbol": "PERU",
    "name": "Chakana Copper Corp.",
    "exchange": "TSXV",
@@ -6126,15 +6138,11 @@
    ]
   },
   {
-   "symbol": "FCA.DB",
+   "symbol": "FCA.U",
    "name": "Firm Capital Apartment Real Estate Investment Trust",
    "exchange": "TSXV",
-   "yahoo_symbol": "FCA.DB.V",
+   "yahoo_symbol": "FCA.U.V",
    "instruments": [
-    {
-     "name": "Firm Capital Apartment REIT db 30Jun2026",
-     "symbol": "FCA.DB"
-    },
     {
      "name": "Firm Capital Apartment Real Estate Investment Trust USD",
      "symbol": "FCA.U"
@@ -19492,10 +19500,6 @@
      "symbol": "AFN"
     },
     {
-     "name": "Ag Growth Intl 5.4Db",
-     "symbol": "AFN.DB.F"
-    },
-    {
      "name": "Ag Growth Intl5.25Db",
      "symbol": "AFN.DB.G"
     },
@@ -19698,10 +19702,6 @@
     {
      "name": "Algoma Central Corp",
      "symbol": "ALC"
-    },
-    {
-     "name": "Algoma Centrl 5.25Db",
-     "symbol": "ALC.DB.A"
     }
    ]
   },
@@ -20210,10 +20210,6 @@
     {
      "name": "Atrium Mtg Invest",
      "symbol": "AI"
-    },
-    {
-     "name": "Atrium Mtg Inv 5.3Db",
-     "symbol": "AI.DB.C"
     },
     {
      "name": "Atrium Mtg Inv 5.5Db",
@@ -27230,6 +27226,18 @@
    ]
   },
   {
+   "symbol": "DXAU",
+   "name": "Dynamic Active Global Gold ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXAU.TO",
+   "instruments": [
+    {
+     "name": "Dyn Actv Gl Gold ETF",
+     "symbol": "DXAU"
+    }
+   ]
+  },
+  {
    "symbol": "DXN",
    "name": "Dynamic Active Global Infrastructure ETF",
    "exchange": "TSX",
@@ -27278,6 +27286,18 @@
    ]
   },
   {
+   "symbol": "DXMO",
+   "name": "Dynamic Active Mining Opportunities ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXMO.TO",
+   "instruments": [
+    {
+     "name": "Dyn Acv Mine Opp ETF",
+     "symbol": "DXMO"
+    }
+   ]
+  },
+  {
    "symbol": "DXP",
    "name": "Dynamic Active Preferred Shares ETF",
    "exchange": "TSX",
@@ -27286,6 +27306,18 @@
     {
      "name": "Dynamic Actv Pref Un",
      "symbol": "DXP"
+    }
+   ]
+  },
+  {
+   "symbol": "DXRE",
+   "name": "Dynamic Active Real Estate ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXRE.TO",
+   "instruments": [
+    {
+     "name": "Dyn Actv RealEst ETF",
+     "symbol": "DXRE"
     }
    ]
   },
@@ -43998,6 +44030,18 @@
    "yahoo_symbol": "ABVC"
   },
   {
+   "symbol": "ABVE",
+   "name": "Above Food Ingredients Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABVE"
+  },
+  {
+   "symbol": "ABVEW",
+   "name": "Above Food Ingredients Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABVEW"
+  },
+  {
    "symbol": "ABVX",
    "name": "Abivax SA - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -48240,30 +48284,6 @@
    "yahoo_symbol": "BVS"
   },
   {
-   "symbol": "BWAQ",
-   "name": "Blue World Acquisition Corporation - Class A ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BWAQ"
-  },
-  {
-   "symbol": "BWAQR",
-   "name": "Blue World Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BWAQR"
-  },
-  {
-   "symbol": "BWAQU",
-   "name": "Blue World Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BWAQU"
-  },
-  {
-   "symbol": "BWAQW",
-   "name": "Blue World Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BWAQW"
-  },
-  {
    "symbol": "BWAY",
    "name": "BrainsWay Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -50824,12 +50844,6 @@
    "name": "Commvault Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CVLT"
-  },
-  {
-   "symbol": "CVLY",
-   "name": "Codorus Valley Bancorp, Inc - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CVLY"
   },
   {
    "symbol": "CVRX",
@@ -53718,12 +53732,6 @@
    "yahoo_symbol": "FMSTW"
   },
   {
-   "symbol": "FNCB",
-   "name": "FNCB Bancorp Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FNCB"
-  },
-  {
    "symbol": "FNGR",
    "name": "FingerMotion, Inc. - common stock",
    "exchange": "NASDAQ Capital Market",
@@ -54536,19 +54544,19 @@
   {
    "symbol": "GBBK",
    "name": "Global Blockchain Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GBBK"
   },
   {
    "symbol": "GBBKR",
    "name": "Global Blockchain Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GBBKR"
   },
   {
    "symbol": "GBBKW",
    "name": "Global Blockchain Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GBBKW"
   },
   {
@@ -55284,10 +55292,22 @@
    "yahoo_symbol": "GPAK"
   },
   {
+   "symbol": "GPAT",
+   "name": "GP-Act III Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPAT"
+  },
+  {
    "symbol": "GPATU",
    "name": "GP-Act III Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GPATU"
+  },
+  {
+   "symbol": "GPATW",
+   "name": "GP-Act III Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPATW"
   },
   {
    "symbol": "GPCR",
@@ -62688,6 +62708,12 @@
    "yahoo_symbol": "NYMT"
   },
   {
+   "symbol": "NYMTI",
+   "name": "New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTI"
+  },
+  {
    "symbol": "NYMTL",
    "name": "New York Mortgage Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -65182,6 +65208,12 @@
    "name": "iShares MSCI Qatar ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QAT"
+  },
+  {
+   "symbol": "QBUF",
+   "name": "Innovator Nasdaq-100 10 Buffer ETF Quarterly",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QBUF"
   },
   {
    "symbol": "QCLN",
@@ -76482,6 +76514,12 @@
    "yahoo_symbol": "CGAU"
   },
   {
+   "symbol": "CHAA",
+   "name": "Catcha Investment Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHAA"
+  },
+  {
    "symbol": "CHCT",
    "name": "Community Healthcare Trust Incorporated Common Stock",
    "exchange": "NYSE",
@@ -78070,12 +78108,6 @@
    "name": "Dick's Sporting Goods Inc Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "DKS"
-  },
-  {
-   "symbol": "DLA",
-   "name": "Delta Apparel, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "DLA"
   },
   {
    "symbol": "DLB",
@@ -80251,7 +80283,7 @@
   },
   {
    "symbol": "FUN",
-   "name": "Cedar Fair, L.P. Common Stock",
+   "name": "Six Flags Entertainment Corporation Common Stock New",
    "exchange": "NYSE",
    "yahoo_symbol": "FUN"
   },
@@ -89032,12 +89064,6 @@
    "name": "SiteOne Landscape Supply, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SITE"
-  },
-  {
-   "symbol": "SIX",
-   "name": "Six Flags Entertainment Corporation New Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SIX"
   },
   {
    "symbol": "SJM",
