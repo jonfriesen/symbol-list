@@ -1,17 +1,39 @@
 {
  "added": [
   {
-   "symbol": "PEOSONE",
-   "name": "pEOS (PEOSONE)",
-   "built_on": "EOS"
+   "symbol": "RUTH",
+   "name": "RUTH (RUTH)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "WROSE",
-   "name": "Wrapped Rose (WROSE)"
+   "symbol": "PEPLO",
+   "name": "Peplo Escobar (PEPLO)",
+   "built_on": "BASECHAIN"
   },
   {
-   "symbol": "LOVELYV1",
-   "name": "Lovely Inu Finance (LOVELYV1)"
+   "symbol": "SCY",
+   "name": "Synchrony (SCY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOOGLE",
+   "name": "Doogle (DOOGLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GOFX",
+   "name": "GooseFX (GOFX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BCHB",
+   "name": "Bitcoin Cash on Base (BCHB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "REDZILLA",
+   "name": "REDZILLA COIN (REDZILLA)",
+   "built_on": "SOL"
   },
   {
    "symbol": "BANK",
@@ -19,9 +41,64 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "WFLOW",
-   "name": "Wrapped Flow (WFLOW)",
+   "symbol": "QDFI",
+   "name": "Qudefi (QDFI)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "JWIF",
+   "name": "Jerrywifhat (JWIF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JOHNNY",
+   "name": "Johnny The Bull (JOHNNY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOBEN",
+   "name": "dark boden (DOBEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KOSS",
+   "name": "Koss (KOSS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KINIC",
+   "name": "Kinic (KINIC)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "DELFI",
+   "name": "DeltaFi (DELFI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GCB",
+   "name": "Global Commercial Business (GCB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COFEEE",
+   "name": "COFEEE (COFEEE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGGS",
+   "name": "Doggensnout (DOGGS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FROGLIC",
+   "name": "Pink Hood Froglicker (FROGLIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SONAR",
+   "name": "SonarWatch (SONAR)",
+   "built_on": "SOL"
   },
   {
    "symbol": "G",
@@ -29,43 +106,40 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
+   "symbol": "BERNIE",
+   "name": "BERNIE SENDERS (BERNIE)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "LSTV1",
-   "name": "Lovely Swap Token (LSTV1)",
+   "symbol": "XHP",
+   "name": "XHYPE (XHP)",
    "built_on": "BNB"
-  },
-  {
-   "symbol": "MARVINB",
-   "name": "Marvin on Base (MARVINB)",
-   "built_on": "BASECHAIN"
-  },
-  {
-   "symbol": "LOVELY",
-   "name": "Lovely finance (LOVELY)",
-   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "WROSE",
-   "name": "Wrapped Rose (WROSE)",
-   "built_on": "ROSE"
+   "symbol": "GOFX",
+   "name": "GooseFX (GOFX)"
   },
   {
-   "symbol": "WFLOW",
-   "name": "Wrapped Flow (WFLOW)"
+   "symbol": "SCY",
+   "name": "Synchrony (SCY)"
   },
   {
-   "symbol": "PEOS",
-   "name": "pEOS (PEOS)"
+   "symbol": "DELFI",
+   "name": "DeltaFi (DELFI)"
   },
   {
-   "symbol": "LOVELY",
-   "name": "Lovely Inu finance (LOVELY)",
-   "built_on": "BNB"
+   "symbol": "DOBEN",
+   "name": "dark boden (DOBEN)"
+  },
+  {
+   "symbol": "SONAR",
+   "name": "SonarWatch (SONAR)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
   }
  ]
 }
