@@ -1,108 +1,90 @@
 {
  "added": [
   {
-   "symbol": "SW",
-   "name": "Smurfit WestRock plc Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SW"
+   "symbol": "MITA",
+   "name": "Coliseum Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITA"
   },
   {
-   "symbol": "ISO",
-   "name": "IsoEnergy Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ISO.TO",
-   "instruments": [
-    {
-     "name": "IsoEnergy Ltd.",
-     "symbol": "ISO"
-    }
-   ]
+   "symbol": "MITAU",
+   "name": "Coliseum Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITAU"
   },
   {
-   "symbol": "TML",
-   "name": "Treasury Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TML.V",
-   "instruments": [
-    {
-     "name": "Treasury Metals Inc.",
-     "symbol": "TML"
-    }
-   ]
+   "symbol": "MITAW",
+   "name": "Coliseum Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITAW"
   },
   {
-   "symbol": "RFAI",
-   "name": "RF Acquisition Corp II - Ordinary Shares",
+   "symbol": "SDST",
+   "name": "Stardust Power Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RFAI"
+   "yahoo_symbol": "SDST"
   },
   {
-   "symbol": "RFAIR",
-   "name": "RF Acquisition Corp II - Right",
+   "symbol": "SDSTW",
+   "name": "Stardust Power Inc. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RFAIR"
+   "yahoo_symbol": "SDSTW"
+  },
+  {
+   "symbol": "XHG",
+   "name": "XChange TEC.INC - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XHG"
   }
  ],
  "removed": [
   {
-   "symbol": "CUCO",
-   "name": "African Energy Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CUCO.V",
-   "instruments": [
-    {
-     "name": "African Energy Metals Inc.",
-     "symbol": "CUCO"
-    }
-   ]
+   "symbol": "GPAC",
+   "name": "Global Partner Acquisition Corp II - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GPAC"
   },
   {
-   "symbol": "CFG$D",
-   "name": "Citizens Financial Group, Inc. Depositary Shares, each representing a 1/40th Interest in a Share of 6.350% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CFG$D"
+   "symbol": "CNGLU",
+   "name": "Canna-Global Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNGLU"
   },
   {
-   "symbol": "WRK",
-   "name": "Westrock Company Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WRK"
+   "symbol": "GPACU",
+   "name": "Global Partner Acquisition Corp II - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GPACU"
   },
   {
-   "symbol": "DAC",
-   "name": "Datable Technology Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DAC.V",
-   "instruments": [
-    {
-     "name": "Datable Technology Corporation",
-     "symbol": "DAC"
-    }
-   ]
+   "symbol": "CNGL",
+   "name": "Canna-Global Acquisition Corp - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNGL"
   },
   {
-   "symbol": "GXS",
-   "name": "Goldsource Mines Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GXS.V",
-   "instruments": [
-    {
-     "name": "Goldsource Mines Inc.",
-     "symbol": "GXS"
-    }
-   ]
+   "symbol": "CNGLW",
+   "name": "Canna-Global Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNGLW"
   },
   {
-   "symbol": "ISO",
-   "name": "IsoEnergy Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ISO.V",
-   "instruments": [
-    {
-     "name": "Isoenergy Ltd.",
-     "symbol": "ISO"
-    }
-   ]
+   "symbol": "GPACW",
+   "name": "Global Partner Acquisition Corp II - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GPACW"
+  },
+  {
+   "symbol": "DYNT",
+   "name": "Dynatronics Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DYNT"
+  },
+  {
+   "symbol": "XHG",
+   "name": "XChange TEC.INC - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XHG"
   }
  ]
 }
