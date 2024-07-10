@@ -1,90 +1,72 @@
 {
  "added": [
   {
-   "symbol": "MITA",
-   "name": "Coliseum Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MITA"
+   "symbol": "CSPN",
+   "name": "CareSpan Health, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSPN.V",
+   "instruments": [
+    {
+     "name": "CareSpan Health, Inc.",
+     "symbol": "CSPN"
+    }
+   ]
   },
   {
-   "symbol": "MITAU",
-   "name": "Coliseum Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MITAU"
+   "symbol": "NEXG",
+   "name": "NeXGold Mining Corp",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NEXG.V",
+   "instruments": [
+    {
+     "name": "NeXGold Mining Corp.",
+     "symbol": "NEXG"
+    }
+   ]
   },
   {
-   "symbol": "MITAW",
-   "name": "Coliseum Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MITAW"
-  },
-  {
-   "symbol": "SDST",
-   "name": "Stardust Power Inc. - Common Stock",
+   "symbol": "OXLCI",
+   "name": "Oxford Lane Capital Corp. - 8.75% Notes due 2030",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SDST"
+   "yahoo_symbol": "OXLCI"
   },
   {
-   "symbol": "SDSTW",
-   "name": "Stardust Power Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SDSTW"
-  },
-  {
-   "symbol": "XHG",
-   "name": "XChange TEC.INC - American Depositary Shares",
+   "symbol": "SUNS",
+   "name": "Sunrise Realty Trust, Inc. - Common Stock When Issued",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XHG"
+   "yahoo_symbol": "SUNS"
   }
  ],
  "removed": [
   {
-   "symbol": "GPAC",
-   "name": "Global Partner Acquisition Corp II - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GPAC"
+   "symbol": "NWLI",
+   "name": "National Western Life Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NWLI"
   },
   {
-   "symbol": "CNGLU",
-   "name": "Canna-Global Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNGLU"
+   "symbol": "GETR",
+   "name": "Getaround, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GETR"
   },
   {
-   "symbol": "GPACU",
-   "name": "Global Partner Acquisition Corp II - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GPACU"
+   "symbol": "CHAA",
+   "name": "Catcha Investment Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHAA"
   },
   {
-   "symbol": "CNGL",
-   "name": "Canna-Global Acquisition Corp - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNGL"
-  },
-  {
-   "symbol": "CNGLW",
-   "name": "Canna-Global Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNGLW"
-  },
-  {
-   "symbol": "GPACW",
-   "name": "Global Partner Acquisition Corp II - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GPACW"
-  },
-  {
-   "symbol": "DYNT",
-   "name": "Dynatronics Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DYNT"
-  },
-  {
-   "symbol": "XHG",
-   "name": "XChange TEC.INC - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XHG"
+   "symbol": "TML",
+   "name": "Treasury Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TML.V",
+   "instruments": [
+    {
+     "name": "Treasury Metals Inc.",
+     "symbol": "TML"
+    }
+   ]
   }
  ]
 }
