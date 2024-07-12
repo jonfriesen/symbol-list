@@ -1,110 +1,96 @@
 {
  "added": [
   {
-   "symbol": "XUSC",
-   "name": "iShares S\u0026P 500 3% Capped Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "XUSC.TO",
-   "instruments": [
-    {
-     "name": "iShrs S\u0026P5003%CapCan",
-     "symbol": "XUSC"
-    },
-    {
-     "name": "iShrs S\u0026P5003%CapUSD",
-     "symbol": "XUSC.U"
-    }
-   ]
-  },
-  {
-   "symbol": "XSPC",
-   "name": "iShares S\u0026P 500 3% Capped Index ETF (CAD-Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "XSPC.TO",
-   "instruments": [
-    {
-     "name": "iShrsS\u0026P5003%CapHegd",
-     "symbol": "XSPC"
-    }
-   ]
-  },
-  {
-   "symbol": "CGBS",
-   "name": "Crown LNG Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGBS"
-  },
-  {
-   "symbol": "CGBSW",
-   "name": "Crown LNG Holdings Limited - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGBSW"
-  },
-  {
-   "symbol": "SIMAU",
-   "name": "SIM Acquisition Corp. I - Unit",
+   "symbol": "CCNR",
+   "name": "CoreCommodity Natural Resources ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SIMAU"
+   "yahoo_symbol": "CCNR"
   },
   {
-   "symbol": "TAXE",
-   "name": "Intermediate Municipal Income ETF",
+   "symbol": "CITE",
+   "name": "Cartica Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CITE"
+  },
+  {
+   "symbol": "CITEU",
+   "name": "Cartica Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CITEU"
+  },
+  {
+   "symbol": "CITEW",
+   "name": "Cartica Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CITEW"
+  },
+  {
+   "symbol": "DUKH",
+   "name": "Ocean Park High Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TAXE"
+   "yahoo_symbol": "DUKH"
   },
   {
-   "symbol": "TLN",
-   "name": "Talen Energy Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TLN"
+   "symbol": "DUKX",
+   "name": "Ocean Park International ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUKX"
+  },
+  {
+   "symbol": "HEJD",
+   "name": "VictoryShares Hedged Equity Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HEJD"
   }
  ],
  "removed": [
   {
-   "symbol": "IDEX",
-   "name": "Ideanomics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IDEX"
-  },
-  {
-   "symbol": "OSG",
-   "name": "Overseas Shipholding Group, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OSG"
-  },
-  {
-   "symbol": "DOC",
-   "name": "CloudMD Software \u0026 Services Inc.",
+   "symbol": "CHS",
+   "name": "Comprehensive Healthcare Systems Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DOC.V",
+   "yahoo_symbol": "CHS.V",
    "instruments": [
     {
-     "name": "CloudMD Software \u0026 Services Inc.",
-     "symbol": "DOC"
+     "name": "Comprehensive Healthcare Systems Inc.",
+     "symbol": "CHS"
     }
    ]
   },
   {
-   "symbol": "TAIG",
-   "name": "Taiga Motors Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "TAIG.TO",
+   "symbol": "NEXI",
+   "name": "NexImmune, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEXI"
+  },
+  {
+   "symbol": "HIGH",
+   "name": "Highgold Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HIGH.V",
    "instruments": [
     {
-     "name": "Taiga Motors Corp J",
-     "symbol": "TAIG"
-    },
-    {
-     "name": "Taiga Motors J Wt",
-     "symbol": "TAIG.WT"
+     "name": "Highgold Mining Inc.",
+     "symbol": "HIGH"
     }
    ]
   },
   {
-   "symbol": "OLK",
-   "name": "Olink Holding AB (publ) - American Depositary Shares",
+   "symbol": "CITE",
+   "name": "Cartica Acquisition Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OLK"
+   "yahoo_symbol": "CITE"
+  },
+  {
+   "symbol": "CITEU",
+   "name": "Cartica Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CITEU"
+  },
+  {
+   "symbol": "CITEW",
+   "name": "Cartica Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CITEW"
   }
  ]
 }
