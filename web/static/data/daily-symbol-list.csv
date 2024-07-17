@@ -510,6 +510,7 @@ AAA.P,First Tidal Acquisition Corp.,TSXV,AAA.P.V,First Tidal Acquisition Corp.,A
 FTZ,Fitzroy Minerals Inc.,TSXV,FTZ.V,Fitzroy Minerals Inc.,FTZ
 FEX,Fjordland Exploration Inc.,TSXV,FEX.V,Fjordland Exploration Inc.,FEX
 FONC.P,Florence One Capital Inc.,TSXV,FONC.P.V,Florence One Capital Inc.,FONC.P
+FCGV,Florida Canyon Gold Inc.,TSXV,FCGV.V,Florida Canyon Gold Inc.,FCGV
 FW,Flow Capital Corp.,TSXV,FW.V,Flow Capital Corp.,FW
 FLY,FLYHT Aerospace Solutions Ltd.,TSXV,FLY.V,FLYHT Aerospace Solutions Ltd.,FLY
 FLYN,Flying Nickel Mining Corp.,TSXV,FLYN.V,Flying Nickel Mining Corp.,FLYN
@@ -844,7 +845,6 @@ BMK,MacDonald Mines Exploration Ltd.,TSXV,BMK.V,MacDonald Mines Exploration Ltd.
 MDM,Madoro Metals Corp.,TSXV,MDM.V,Madoro Metals Corp.,MDM
 NICU,Magna Mining Inc.,TSXV,NICU.V,Magna Mining Inc.,NICU
 MTT,Magna Terra Minerals Inc.,TSXV,MTT.V,Magna Terra Minerals Inc.,MTT
-MNC,Magnetic North Acquisition Corp.,TSXV,MNC.V,Magnetic North Acquisition Corp.,MNC,Magnetic North Acquisition Corp. pref a,MNC.PR.A
 MGI,Magnum Goldcorp Inc.,TSXV,MGI.V,Magnum Goldcorp Inc.,MGI
 MJS,Majestic Gold Corp.,TSXV,MJS.V,Majestic Gold Corp.,MJS
 MKO,Mako Mining Corp.,TSXV,MKO.V,Mako Mining Corp.,MKO
@@ -1181,7 +1181,6 @@ RW,RenoWorks Software Inc.,TSXV,RW.V,RenoWorks Software Inc,RW
 RSS,Resaas Services Inc.,TSXV,RSS.V,Resaas Services Inc.,RSS
 RRL,Resolute Resources Ltd.,TSXV,RRL.V,Resolute Resources Ltd.,RRL
 RSM,Resouro Strategic Metals Inc.,TSXV,RSM.V,Resouro Strategic Metals Inc.,RSM
-RGD,Reunion Gold Corporation,TSXV,RGD.V,Reunion Gold Corporation,RGD
 RVG,Revival Gold Inc.,TSXV,RVG.V,Revival Gold Inc.,RVG
 REVO,RevoluGROUP Canada Inc.,TSXV,REVO.V,RevoluGROUP Canada Inc.,REVO
 REVV,Revolve Renewable Power Corp.,TSXV,REVV.V,Revolve Renewable Power Corp.,REVV
@@ -1380,7 +1379,6 @@ TPL,Tethys Petroleum Limited,TSXV,TPL.V,Tethys Petroleum Limited,TPL
 TUO,Teuton Resources Corp.,TSXV,TUO.V,Teuton Resources Corp,TUO
 FRSH,The Fresh Factory B.C. Ltd.,TSXV,FRSH.V,The Fresh Factory B.C. Ltd,FRSH
 MUSH,The Good Shroom Co Inc.,TSXV,MUSH.V,The Good Shroom Co Inc.,MUSH
-HMPG,"The Hempshire Group, Inc.",TSXV,HMPG.V,"The Hempshire Group, Inc.",HMPG
 BOAT,The Limestone Boat Company Limited,TSXV,BOAT.V,The Limestone Boat Company Limited,BOAT
 MYLK,The Planting Hope Company Inc.,TSXV,MYLK.V,The Planting Hope Company Inc.,MYLK
 WED,The Westaim Corporation,TSXV,WED.V,The Westaim Corporation,WED
@@ -1563,6 +1561,7 @@ ZFR,Zephyr Minerals Ltd.,TSXV,ZFR.V,Zephyr Minerals Ltd.,ZFR
 ZC,Zimtu Capital Corp.,TSXV,ZC.V,Zimtu Capital Corp.,ZC
 ZNX,Zincx Resources Corp.,TSXV,ZNX.V,Zincx Resources Corp.,ZNX
 ZAU,Zodiac Gold Inc.,TSXV,ZAU.V,Zodiac Gold Inc.,ZAU
+ZONE,Zonetail Inc.,TSXV,ZONE.V,Zonetail Inc.,ZONE
 ZON,Zonte Metals Inc.,TSXV,ZON.V,Zonte Metals Inc.,ZON
 ZMA,ZoomAway Technologies Inc.,TSXV,ZMA.V,ZoomAway Technologies Inc.,ZMA
 ZOMD,Zoomd Technologies Ltd.,TSXV,ZOMD.V,Zoomd Technologies Ltd.,ZOMD
@@ -1628,7 +1627,7 @@ ADW.A,Andrew Peller Limited/Andrew Peller Limitee,TSX,ADW.A.TO,Andrew Peller A N
 APLI,Appili Therapeutics Inc.,TSX,APLI.TO,Appili Therapeutcs J,APLI
 APS,Aptose Biosciences Inc.,TSX,APS.TO,Aptose Biosciences,APS
 ARX,ARC Resources Ltd.,TSX,ARX.TO,ARC Resources Ltd.,ARX
-AR,Argonaut Gold Inc.,TSX,AR.TO,Argonaut Gold Inc. J,AR,Argonaut Gld J Db US,AR.DB.U
+AR.DB.U,Argonaut Gold Inc.,TSX,AR.DB.U.TO,Argonaut Gld J Db US,AR.DB.U
 ARIS,Aris Mining Corporation,TSX,ARIS.TO,Aris Mng Corp.,ARIS,Aris Mng Corp A Wt,ARIS.WT.A
 ATZ,Aritzia Inc.,TSX,ATZ.TO,Aritzia Inc. SV,ATZ
 AMC,Arizona Metals Corp.,TSX,AMC.TO,Arizona Mtls Corp. J,AMC
@@ -2086,7 +2085,6 @@ DTOL,D2L Inc.,TSX,DTOL.TO,D2L Inc. J SV,DTOL
 DCM,Data Communications Management Corp.,TSX,DCM.TO,Data Commun Mgt,DCM
 DAY,"Dayforce, Inc.",TSX,DAY.TO,Dayforce Inc,DAY
 DFY,Definity Financial Corporation,TSX,DFY.TO,Definity Fin Corp.,DFY
-DN,Delta 9 Cannabis Inc.,TSX,DN.TO,Delta 9 Cannabis J,DN
 DML,Denison Mines Corp.,TSX,DML.TO,Denison Mines Corp,DML
 DNTL,dentalcorp Holdings Ltd.,TSX,DNTL.TO,dentalcorp Hldg J SV,DNTL
 DSG,Descartes Systems Group Inc. (The),TSX,DSG.TO,Descartes Systems,DSG
@@ -3518,7 +3516,6 @@ AGNCO,"AGNC Investment Corp. - Depositary Shares, each representing a 1/1,000th 
 AGNCP,"AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ Global Select MarketSM,AGNCP
 AGNG,Global X Aging Population ETF,NASDAQ Global MarketSM,AGNG
 AGRI,AgriFORCE  Growing Systems Ltd. - Common Shares,NASDAQ Capital Market,AGRI
-AGRIW,AgriFORCE  Growing Systems Ltd. - Warrant,NASDAQ Capital Market,AGRIW
 AGYS,"Agilysys, Inc. - Common Stock",NASDAQ Global Select MarketSM,AGYS
 AGZD,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,NASDAQ Global MarketSM,AGZD
 AHCO,AdaptHealth Corp.  - Common Stock,NASDAQ Capital Market,AHCO
@@ -7245,9 +7242,6 @@ SELF,"Global Self Storage, Inc. - Common Stock",NASDAQ Capital Market,SELF
 SELX,Semilux International Ltd. - Ordinary Shares,NASDAQ Capital Market,SELX
 SENEA,Seneca Foods Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,SENEA
 SENEB,Seneca Foods Corp. - Class B Common Stock,NASDAQ Global Select MarketSM,SENEB
-SEPA,SEP Acquisition Corp - Class A Common Stock,NASDAQ Capital Market,SEPA
-SEPAU,SEP Acquisition Corp - Unit,NASDAQ Capital Market,SEPAU
-SEPAW,SEP Acquisition Corp - Warrants,NASDAQ Capital Market,SEPAW
 SERA,"Sera Prognostics, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SERA
 SERV,Serve Robotics Inc. - Common Stock,NASDAQ Capital Market,SERV
 SETM,Sprott Energy Transition Materials ETF,NASDAQ Global MarketSM,SETM
@@ -7290,8 +7284,6 @@ SHOO,"Steven Madden, Ltd. - Common Stock",NASDAQ Global Select MarketSM,SHOO
 SHOT,"Safety Shot, Inc. - Common Stock",NASDAQ Capital Market,SHOT
 SHOTW,"Safety Shot, Inc. - Warrant",NASDAQ Capital Market,SHOTW
 SHPH,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",NASDAQ Capital Market,SHPH
-SHPW,"Shapeways Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,SHPW
-SHPWW,"Shapeways Holdings, Inc. - Warrants",NASDAQ Global MarketSM,SHPWW
 SHRY,First Trust Bloomberg Shareholder Yield ETF,NASDAQ Global MarketSM,SHRY
 SHV,iShares Short Treasury Bond ETF,NASDAQ Global MarketSM,SHV
 SHY,iShares 1-3 Year Treasury Bond ETF,NASDAQ Global MarketSM,SHY
@@ -10385,7 +10377,6 @@ NXDT,NexPoint Diversified Real Estate Trust Common Stock,NYSE,NXDT
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NYSE,NXDT$A
 NXE,Nexgen Energy Ltd. Common Shares,NYSE,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NYSE,NXG
-NXG.R,"NXG NextGen Infrastructure Income Fund Rights (expiring July 17, 2024) Rights",NYSE,NXG.R
 NXJ,Nuveen New Jersey Qualified Municipal Fund ,NYSE,NXJ
 NXN,Nuveen New York Select Tax-Free Income Portfolio Common Stock,NYSE,NXN
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,NYSE,NXP

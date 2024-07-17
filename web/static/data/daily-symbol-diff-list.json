@@ -1,82 +1,150 @@
 {
  "added": [
   {
-   "symbol": "CEMX",
-   "name": "CEMATRIX Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "CEMX.TO",
+   "symbol": "FCGV",
+   "name": "Florida Canyon Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCGV.V",
    "instruments": [
     {
-     "name": "Cematrix Corporation",
-     "symbol": "CEMX"
+     "name": "Florida Canyon Gold Inc.",
+     "symbol": "FCGV"
     }
    ]
   },
   {
-   "symbol": "CUBD",
-   "name": "CI Global Unconstrained Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CUBD.TO",
+   "symbol": "ZONE",
+   "name": "Zonetail Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZONE.V",
    "instruments": [
     {
-     "name": "CI Gl Uncon Bond Fnd",
-     "symbol": "CUBD"
+     "name": "Zonetail Inc.",
+     "symbol": "ZONE"
+    }
+   ]
+  },
+  {
+   "symbol": "AR.DB.U",
+   "name": "Argonaut Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AR.DB.U.TO",
+   "instruments": [
+    {
+     "name": "Argonaut Gld J Db US",
+     "symbol": "AR.DB.U"
     }
    ]
   }
  ],
  "removed": [
   {
-   "symbol": "BLUA",
-   "name": "BlueRiver Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BLUA"
-  },
-  {
-   "symbol": "CATC",
-   "name": "Cambridge Bancorp - Common Stock",
+   "symbol": "SEPAU",
+   "name": "SEP Acquisition Corp - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CATC"
+   "yahoo_symbol": "SEPAU"
   },
   {
-   "symbol": "AAT",
-   "name": "ATI Airtest Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AAT.V",
+   "symbol": "SEPA",
+   "name": "SEP Acquisition Corp - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEPA"
+  },
+  {
+   "symbol": "AGRIW",
+   "name": "AgriFORCE  Growing Systems Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGRIW"
+  },
+  {
+   "symbol": "AR",
+   "name": "Argonaut Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AR.TO",
    "instruments": [
     {
-     "name": "ATI Airtest Technologies Inc.",
-     "symbol": "AAT"
+     "name": "Argonaut Gold Inc. J",
+     "symbol": "AR"
+    },
+    {
+     "name": "Argonaut Gld J Db US",
+     "symbol": "AR.DB.U"
     }
    ]
   },
   {
-   "symbol": "KING",
-   "name": "King Global Ventures Inc.",
+   "symbol": "HMPG",
+   "name": "The Hempshire Group, Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "KING.V",
+   "yahoo_symbol": "HMPG.V",
    "instruments": [
     {
-     "name": "King Global Ventures Inc.",
-     "symbol": "KING"
+     "name": "The Hempshire Group, Inc.",
+     "symbol": "HMPG"
     }
    ]
   },
   {
-   "symbol": "BLUA.U",
-   "name": "BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BLUA.U"
-  },
-  {
-   "symbol": "CVX",
-   "name": "Cematrix Corporation",
+   "symbol": "MNC",
+   "name": "Magnetic North Acquisition Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CVX.V",
+   "yahoo_symbol": "MNC.V",
    "instruments": [
     {
-     "name": "Cematrix Corporation",
-     "symbol": "CVX"
+     "name": "Magnetic North Acquisition Corp.",
+     "symbol": "MNC"
+    },
+    {
+     "name": "Magnetic North Acquisition Corp. pref a",
+     "symbol": "MNC.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "SHPWW",
+   "name": "Shapeways Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHPWW"
+  },
+  {
+   "symbol": "SHPW",
+   "name": "Shapeways Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHPW"
+  },
+  {
+   "symbol": "DN",
+   "name": "Delta 9 Cannabis Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "DN.TO",
+   "instruments": [
+    {
+     "name": "Delta 9 Cannabis J",
+     "symbol": "DN"
+    }
+   ]
+  },
+  {
+   "symbol": "NXG.R",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring July 17, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.R"
+  },
+  {
+   "symbol": "SEPAW",
+   "name": "SEP Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEPAW"
+  },
+  {
+   "symbol": "RGD",
+   "name": "Reunion Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RGD.V",
+   "instruments": [
+    {
+     "name": "Reunion Gold Corporation",
+     "symbol": "RGD"
     }
    ]
   }

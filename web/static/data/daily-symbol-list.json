@@ -1,5 +1,5 @@
 {
- "date": "2024-07-16",
+ "date": "2024-07-17",
  "data": [
   {
    "symbol": "ONE",
@@ -6190,6 +6190,18 @@
    ]
   },
   {
+   "symbol": "FCGV",
+   "name": "Florida Canyon Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCGV.V",
+   "instruments": [
+    {
+     "name": "Florida Canyon Gold Inc.",
+     "symbol": "FCGV"
+    }
+   ]
+  },
+  {
    "symbol": "FW",
    "name": "Flow Capital Corp.",
    "exchange": "TSXV",
@@ -10246,22 +10258,6 @@
     {
      "name": "Magna Terra Minerals Inc.",
      "symbol": "MTT"
-    }
-   ]
-  },
-  {
-   "symbol": "MNC",
-   "name": "Magnetic North Acquisition Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MNC.V",
-   "instruments": [
-    {
-     "name": "Magnetic North Acquisition Corp.",
-     "symbol": "MNC"
-    },
-    {
-     "name": "Magnetic North Acquisition Corp. pref a",
-     "symbol": "MNC.PR.A"
     }
    ]
   },
@@ -14362,18 +14358,6 @@
    ]
   },
   {
-   "symbol": "RGD",
-   "name": "Reunion Gold Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RGD.V",
-   "instruments": [
-    {
-     "name": "Reunion Gold Corporation",
-     "symbol": "RGD"
-    }
-   ]
-  },
-  {
    "symbol": "RVG",
    "name": "Revival Gold Inc.",
    "exchange": "TSXV",
@@ -16786,18 +16770,6 @@
    ]
   },
   {
-   "symbol": "HMPG",
-   "name": "The Hempshire Group, Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HMPG.V",
-   "instruments": [
-    {
-     "name": "The Hempshire Group, Inc.",
-     "symbol": "HMPG"
-    }
-   ]
-  },
-  {
    "symbol": "BOAT",
    "name": "The Limestone Boat Company Limited",
    "exchange": "TSXV",
@@ -19018,6 +18990,18 @@
    ]
   },
   {
+   "symbol": "ZONE",
+   "name": "Zonetail Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZONE.V",
+   "instruments": [
+    {
+     "name": "Zonetail Inc.",
+     "symbol": "ZONE"
+    }
+   ]
+  },
+  {
    "symbol": "ZON",
    "name": "Zonte Metals Inc.",
    "exchange": "TSXV",
@@ -19910,15 +19894,11 @@
    ]
   },
   {
-   "symbol": "AR",
+   "symbol": "AR.DB.U",
    "name": "Argonaut Gold Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "AR.TO",
+   "yahoo_symbol": "AR.DB.U.TO",
    "instruments": [
-    {
-     "name": "Argonaut Gold Inc. J",
-     "symbol": "AR"
-    },
     {
      "name": "Argonaut Gld J Db US",
      "symbol": "AR.DB.U"
@@ -26346,18 +26326,6 @@
     {
      "name": "Definity Fin Corp.",
      "symbol": "DFY"
-    }
-   ]
-  },
-  {
-   "symbol": "DN",
-   "name": "Delta 9 Cannabis Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "DN.TO",
-   "instruments": [
-    {
-     "name": "Delta 9 Cannabis J",
-     "symbol": "DN"
     }
    ]
   },
@@ -44562,12 +44530,6 @@
    "name": "AgriFORCE  Growing Systems Ltd. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AGRI"
-  },
-  {
-   "symbol": "AGRIW",
-   "name": "AgriFORCE  Growing Systems Ltd. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGRIW"
   },
   {
    "symbol": "AGYS",
@@ -66926,24 +66888,6 @@
    "yahoo_symbol": "SENEB"
   },
   {
-   "symbol": "SEPA",
-   "name": "SEP Acquisition Corp - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SEPA"
-  },
-  {
-   "symbol": "SEPAU",
-   "name": "SEP Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SEPAU"
-  },
-  {
-   "symbol": "SEPAW",
-   "name": "SEP Acquisition Corp - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SEPAW"
-  },
-  {
    "symbol": "SERA",
    "name": "Sera Prognostics, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -67194,18 +67138,6 @@
    "name": "Shuttle Pharmaceuticals Holdings, Inc. - common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SHPH"
-  },
-  {
-   "symbol": "SHPW",
-   "name": "Shapeways Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHPW"
-  },
-  {
-   "symbol": "SHPWW",
-   "name": "Shapeways Holdings, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHPWW"
   },
   {
    "symbol": "SHRY",
@@ -85764,12 +85696,6 @@
    "name": "NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "NXG"
-  },
-  {
-   "symbol": "NXG.R",
-   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring July 17, 2024) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXG.R"
   },
   {
    "symbol": "NXJ",
