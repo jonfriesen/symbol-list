@@ -1,5 +1,5 @@
 {
- "date": "2024-07-17",
+ "date": "2024-07-18",
  "data": [
   {
    "symbol": "ONE",
@@ -2566,6 +2566,18 @@
    ]
   },
   {
+   "symbol": "BRON",
+   "name": "Bronco Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BRON.V",
+   "instruments": [
+    {
+     "name": "Bronco Resources Corp.",
+     "symbol": "BRON"
+    }
+   ]
+  },
+  {
    "symbol": "BRN.PR.A",
    "name": "Brookfield Investments Corporation",
    "exchange": "TSXV",
@@ -4266,22 +4278,6 @@
    ]
   },
   {
-   "symbol": "CUB",
-   "name": "Cubicfarm Systems Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CUB.V",
-   "instruments": [
-    {
-     "name": "Cubicfarm Systems Corp.",
-     "symbol": "CUB"
-    },
-    {
-     "name": "CubicFarm Systems Corp. db 02Jun2027",
-     "symbol": "CUB.DB"
-    }
-   ]
-  },
-  {
    "symbol": "WATR",
    "name": "Current Water Technologies Inc.",
    "exchange": "TSXV",
@@ -4362,18 +4358,6 @@
     {
      "name": "D2 Lithium Corp.",
      "symbol": "DTWO"
-    }
-   ]
-  },
-  {
-   "symbol": "DMR",
-   "name": "Damara Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DMR.V",
-   "instruments": [
-    {
-     "name": "Damara Gold Corp.",
-     "symbol": "DMR"
     }
    ]
   },
@@ -23126,6 +23110,18 @@
     {
      "name": "Brompton GlbHlthcrUS",
      "symbol": "HIG.U"
+    }
+   ]
+  },
+  {
+   "symbol": "KNGX",
+   "name": "Brompton International Cash Flow Kings ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "KNGX.TO",
+   "instruments": [
+    {
+     "name": "BrmpInt CshFl kngETF",
+     "symbol": "KNGX"
     }
    ]
   },
@@ -59838,10 +59834,22 @@
    "yahoo_symbol": "MACAW"
   },
   {
+   "symbol": "MACI",
+   "name": "Melar Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACI"
+  },
+  {
    "symbol": "MACIU",
    "name": "Melar Acquisition Corp. I - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MACIU"
+  },
+  {
+   "symbol": "MACIW",
+   "name": "Melar Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACIW"
   },
   {
    "symbol": "MAGQ",
@@ -65094,12 +65102,6 @@
    "yahoo_symbol": "QIPT"
   },
   {
-   "symbol": "QIWI",
-   "name": "QIWI plc - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "QIWI"
-  },
-  {
    "symbol": "QLGN",
    "name": "Qualigen Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -65182,6 +65184,12 @@
    "name": "Invesco Nasdaq Free Cash Flow Achievers ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QOWZ"
+  },
+  {
+   "symbol": "QQA",
+   "name": "Invesco QQQ Income Advantage ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQA"
   },
   {
    "symbol": "QQEW",
@@ -73026,12 +73034,6 @@
    "yahoo_symbol": "AGM"
   },
   {
-   "symbol": "AGM$C",
-   "name": "Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AGM$C"
-  },
-  {
    "symbol": "AGM$D",
    "name": "Federal Agricultural Mortgage Corporation 5.700% Non-Cumulative Preferred Stock, Series D",
    "exchange": "NYSE",
@@ -73810,6 +73812,12 @@
    "name": "Ares Dynamic Credit Allocation Fund, Inc. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "ARDC"
+  },
+  {
+   "symbol": "ARDT",
+   "name": "Ardent Health Partners, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARDT"
   },
   {
    "symbol": "ARE",
@@ -86404,6 +86412,12 @@
    "name": "PagerDuty, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "PD"
+  },
+  {
+   "symbol": "PDCC",
+   "name": "Pearl Diver Credit Company Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PDCC"
   },
   {
    "symbol": "PDI",
