@@ -1,5 +1,5 @@
 {
- "date": "2024-07-18",
+ "date": "2024-07-19",
  "data": [
   {
    "symbol": "ONE",
@@ -12554,18 +12554,6 @@
    ]
   },
   {
-   "symbol": "OGO",
-   "name": "Organto Foods Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OGO.V",
-   "instruments": [
-    {
-     "name": "Organto Foods Inc.",
-     "symbol": "OGO"
-    }
-   ]
-  },
-  {
    "symbol": "OCO",
    "name": "Oroco Resource Corp.",
    "exchange": "TSXV",
@@ -13162,6 +13150,18 @@
     {
      "name": "Petrox Resources Corp.",
      "symbol": "PTC"
+    }
+   ]
+  },
+  {
+   "symbol": "PCLO",
+   "name": "Pharmacielo Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCLO.V",
+   "instruments": [
+    {
+     "name": "Pharmacielo Ltd.",
+     "symbol": "PCLO"
     }
    ]
   },
@@ -35538,18 +35538,6 @@
    ]
   },
   {
-   "symbol": "LPEN",
-   "name": "Loop Energy Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "LPEN.TO",
-   "instruments": [
-    {
-     "name": "Loop Energy Inc. J",
-     "symbol": "LPEN"
-    }
-   ]
-  },
-  {
    "symbol": "LUC",
    "name": "Lucara Diamond Corp.",
    "exchange": "TSX",
@@ -44468,6 +44456,12 @@
    "yahoo_symbol": "AGIO"
   },
   {
+   "symbol": "AGIX",
+   "name": "KraneShares Artificial Intelligence \u0026 Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGIX"
+  },
+  {
    "symbol": "AGMH",
    "name": "AGM Group Holdings Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -45824,12 +45818,6 @@
    "yahoo_symbol": "ASLE"
   },
   {
-   "symbol": "ASLN",
-   "name": "ASLAN Pharmaceuticals Limited - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASLN"
-  },
-  {
    "symbol": "ASMB",
    "name": "Assembly Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -45924,12 +45912,6 @@
    "name": "Algoma Steel Group Inc. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ASTLW"
-  },
-  {
-   "symbol": "ASTR",
-   "name": "Astra Space, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASTR"
   },
   {
    "symbol": "ASTS",
@@ -56448,12 +56430,6 @@
    "name": "Hyperfine, Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HYPR"
-  },
-  {
-   "symbol": "HYW",
-   "name": "Hywin Holdings Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HYW"
   },
   {
    "symbol": "HYXF",
@@ -68246,6 +68222,12 @@
    "yahoo_symbol": "STCN"
   },
   {
+   "symbol": "STEC",
+   "name": "Santech Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STEC"
+  },
+  {
    "symbol": "STEP",
    "name": "StepStone Group Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69878,6 +69860,12 @@
    "yahoo_symbol": "TW"
   },
   {
+   "symbol": "TWFG",
+   "name": "TWFG, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TWFG"
+  },
+  {
    "symbol": "TWG",
    "name": "Top Wealth Group Holding Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -71122,19 +71110,19 @@
   {
    "symbol": "VSAC",
    "name": "Vision Sensing Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VSAC"
   },
   {
    "symbol": "VSACU",
    "name": "Vision Sensing Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VSACU"
   },
   {
    "symbol": "VSACW",
    "name": "Vision Sensing Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VSACW"
   },
   {
@@ -71994,12 +71982,6 @@
    "name": "Xenetic Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "XBIO"
-  },
-  {
-   "symbol": "XBIOW",
-   "name": "Xenetic Biosciences, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XBIOW"
   },
   {
    "symbol": "XBIT",

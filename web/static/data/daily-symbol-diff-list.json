@@ -1,100 +1,120 @@
 {
  "added": [
   {
-   "symbol": "BRON",
-   "name": "Bronco Resources Corp.",
+   "symbol": "PCLO",
+   "name": "Pharmacielo Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "BRON.V",
+   "yahoo_symbol": "PCLO.V",
    "instruments": [
     {
-     "name": "Bronco Resources Corp.",
-     "symbol": "BRON"
+     "name": "Pharmacielo Ltd.",
+     "symbol": "PCLO"
     }
    ]
   },
   {
-   "symbol": "KNGX",
-   "name": "Brompton International Cash Flow Kings ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "KNGX.TO",
-   "instruments": [
-    {
-     "name": "BrmpInt CshFl kngETF",
-     "symbol": "KNGX"
-    }
-   ]
-  },
-  {
-   "symbol": "MACI",
-   "name": "Melar Acquisition Corp. I - Class A Ordinary Shares",
+   "symbol": "AGIX",
+   "name": "KraneShares Artificial Intelligence \u0026 Technology ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACI"
+   "yahoo_symbol": "AGIX"
   },
   {
-   "symbol": "MACIW",
-   "name": "Melar Acquisition Corp. I - Warrant",
+   "symbol": "STEC",
+   "name": "Santech Holdings Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACIW"
+   "yahoo_symbol": "STEC"
   },
   {
-   "symbol": "QQA",
-   "name": "Invesco QQQ Income Advantage ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QQA"
+   "symbol": "TWFG",
+   "name": "TWFG, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TWFG"
   },
   {
-   "symbol": "ARDT",
-   "name": "Ardent Health Partners, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ARDT"
+   "symbol": "VSAC",
+   "name": "Vision Sensing Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSAC"
   },
   {
-   "symbol": "PDCC",
-   "name": "Pearl Diver Credit Company Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PDCC"
+   "symbol": "VSACU",
+   "name": "Vision Sensing Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSACU"
+  },
+  {
+   "symbol": "VSACW",
+   "name": "Vision Sensing Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSACW"
   }
  ],
  "removed": [
   {
-   "symbol": "AGM$C",
-   "name": "Federal Agricultural Mortgage Corporation Preferred Series C Fixed to Fltg",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AGM$C"
+   "symbol": "ASTR",
+   "name": "Astra Space, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASTR"
   },
   {
-   "symbol": "DMR",
-   "name": "Damara Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DMR.V",
+   "symbol": "XBIOW",
+   "name": "Xenetic Biosciences, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XBIOW"
+  },
+  {
+   "symbol": "LPEN",
+   "name": "Loop Energy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LPEN.TO",
    "instruments": [
     {
-     "name": "Damara Gold Corp.",
-     "symbol": "DMR"
+     "name": "Loop Energy Inc. J",
+     "symbol": "LPEN"
     }
    ]
   },
   {
-   "symbol": "CUB",
-   "name": "Cubicfarm Systems Corp.",
+   "symbol": "VSAC",
+   "name": "Vision Sensing Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSAC"
+  },
+  {
+   "symbol": "VSACW",
+   "name": "Vision Sensing Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSACW"
+  },
+  {
+   "symbol": "ASLN",
+   "name": "ASLAN Pharmaceuticals Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASLN"
+  },
+  {
+   "symbol": "HYW",
+   "name": "Hywin Holdings Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HYW"
+  },
+  {
+   "symbol": "OGO",
+   "name": "Organto Foods Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CUB.V",
+   "yahoo_symbol": "OGO.V",
    "instruments": [
     {
-     "name": "Cubicfarm Systems Corp.",
-     "symbol": "CUB"
-    },
-    {
-     "name": "CubicFarm Systems Corp. db 02Jun2027",
-     "symbol": "CUB.DB"
+     "name": "Organto Foods Inc.",
+     "symbol": "OGO"
     }
    ]
   },
   {
-   "symbol": "QIWI",
-   "name": "QIWI plc - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "QIWI"
+   "symbol": "VSACU",
+   "name": "Vision Sensing Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSACU"
   }
  ]
 }
