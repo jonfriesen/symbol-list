@@ -1,5 +1,5 @@
 {
- "date": "2024-07-19",
+ "date": "2024-07-22",
  "data": [
   {
    "symbol": "ONE",
@@ -13166,6 +13166,18 @@
    ]
   },
   {
+   "symbol": "PCRX",
+   "name": "PharmaCorp Rx Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCRX.V",
+   "instruments": [
+    {
+     "name": "PharmaCorp Rx Inc.",
+     "symbol": "PCRX"
+    }
+   ]
+  },
+  {
    "symbol": "PHNM",
    "name": "Phenom Resources Corp.",
    "exchange": "TSXV",
@@ -13634,18 +13646,6 @@
     {
      "name": "ProStar Holdings Inc.",
      "symbol": "MAPS"
-    }
-   ]
-  },
-  {
-   "symbol": "PTN",
-   "name": "Proton Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PTN.V",
-   "instruments": [
-    {
-     "name": "Proton Capital Corp.",
-     "symbol": "PTN"
     }
    ]
   },
@@ -36730,6 +36730,18 @@
    ]
   },
   {
+   "symbol": "SPAC.V",
+   "name": "Mercer Park Opportunities Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPAC.V.TO",
+   "instruments": [
+    {
+     "name": "Mercer Prk Opp Corp",
+     "symbol": "SPAC.V"
+    }
+   ]
+  },
+  {
    "symbol": "MNO",
    "name": "Meridian Mining UK Societas",
    "exchange": "TSX",
@@ -45752,6 +45764,12 @@
    "yahoo_symbol": "ARTNA"
   },
   {
+   "symbol": "ARTV",
+   "name": "Artiva Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARTV"
+  },
+  {
    "symbol": "ARTW",
    "name": "Art's-Way Manufacturing Co., Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -46593,7 +46611,7 @@
   },
   {
    "symbol": "BCAN",
-   "name": "BYND Cannasoft Enterprises Inc. - Common Stock",
+   "name": "Femto Technologies Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BCAN"
   },
@@ -50574,12 +50592,6 @@
    "name": "Cue Biopharma, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CUE"
-  },
-  {
-   "symbol": "CULL",
-   "name": "Cullman Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CULL"
   },
   {
    "symbol": "CURI",
@@ -57562,7 +57574,7 @@
   {
    "symbol": "IRIX",
    "name": "IRIDEX Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "IRIX"
   },
   {
@@ -64682,6 +64694,12 @@
    "yahoo_symbol": "PSHG"
   },
   {
+   "symbol": "PSIG",
+   "name": "PS International Group Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PSIG"
+  },
+  {
    "symbol": "PSL",
    "name": "Invesco Dorsey Wright Consumer Staples Momentum ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -65106,6 +65124,12 @@
    "name": "WisdomTree U.S. MidCap Quality Growth Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QMID"
+  },
+  {
+   "symbol": "QMMM",
+   "name": "QMMM Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QMMM"
   },
   {
    "symbol": "QMOM",
@@ -72974,12 +72998,6 @@
    "yahoo_symbol": "AFL"
   },
   {
-   "symbol": "AFT",
-   "name": "Apollo Senior Floating Rate Fund Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AFT"
-  },
-  {
    "symbol": "AG",
    "name": "First Majestic Silver Corp. Ordinary Shares (Canada)",
    "exchange": "NYSE",
@@ -73152,12 +73170,6 @@
    "name": "C3.ai, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "AI"
-  },
-  {
-   "symbol": "AIF",
-   "name": "Apollo Tactical Income Fund Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AIF"
   },
   {
    "symbol": "AIG",
@@ -76820,6 +76832,12 @@
    "yahoo_symbol": "CNK"
   },
   {
+   "symbol": "CNL",
+   "name": "Collective Mining Ltd. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNL"
+  },
+  {
    "symbol": "CNM",
    "name": "Core \u0026 Main, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -79196,12 +79214,6 @@
    "yahoo_symbol": "ETR"
   },
   {
-   "symbol": "ETRN",
-   "name": "Equitrans Midstream Corporation Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ETRN"
-  },
-  {
    "symbol": "ETV",
    "name": "Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -79958,12 +79970,6 @@
    "yahoo_symbol": "FSCO"
   },
   {
-   "symbol": "FSD",
-   "name": "First Trust High Income Long Short Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FSD"
-  },
-  {
    "symbol": "FSI",
    "name": "Flexible Solutions International Inc. Common Stock (CDA)",
    "exchange": "NYSE MKT",
@@ -80394,12 +80400,6 @@
    "name": "Gabelli Multi-Media Trust Inc. (The) 5.125% Series G Cumulative Preferred Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "GGT$G"
-  },
-  {
-   "symbol": "GGT.R",
-   "name": "Gabelli Multi-Media Trust Inc. (The) Rights (expiring July 22, 2024) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GGT.R"
   },
   {
    "symbol": "GGZ",
@@ -81222,12 +81222,6 @@
    "name": "Hagerty, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "HGTY"
-  },
-  {
-   "symbol": "HGTY.W",
-   "name": "Hagerty, Inc. Warrants, each whole warrant entitles the holder thereof to purchase one share of Class A common stock at a price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HGTY.W"
   },
   {
    "symbol": "HGV",
@@ -86988,12 +86982,6 @@
    "name": "ProAssurance Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "PRA"
-  },
-  {
-   "symbol": "PRE$J",
-   "name": "PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred Shares, Series J",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRE$J"
   },
   {
    "symbol": "PRG",

@@ -1,120 +1,126 @@
 {
  "added": [
   {
-   "symbol": "PCLO",
-   "name": "Pharmacielo Ltd.",
+   "symbol": "PCRX",
+   "name": "PharmaCorp Rx Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PCLO.V",
+   "yahoo_symbol": "PCRX.V",
    "instruments": [
     {
-     "name": "Pharmacielo Ltd.",
-     "symbol": "PCLO"
+     "name": "PharmaCorp Rx Inc.",
+     "symbol": "PCRX"
     }
    ]
   },
   {
-   "symbol": "AGIX",
-   "name": "KraneShares Artificial Intelligence \u0026 Technology ETF",
+   "symbol": "SPAC.V",
+   "name": "Mercer Park Opportunities Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPAC.V.TO",
+   "instruments": [
+    {
+     "name": "Mercer Prk Opp Corp",
+     "symbol": "SPAC.V"
+    }
+   ]
+  },
+  {
+   "symbol": "ARTV",
+   "name": "Artiva Biotherapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AGIX"
+   "yahoo_symbol": "ARTV"
   },
   {
-   "symbol": "STEC",
-   "name": "Santech Holdings Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STEC"
-  },
-  {
-   "symbol": "TWFG",
-   "name": "TWFG, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TWFG"
-  },
-  {
-   "symbol": "VSAC",
-   "name": "Vision Sensing Acquisition Corp. - Class A Common Stock",
+   "symbol": "IRIX",
+   "name": "IRIDEX Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSAC"
+   "yahoo_symbol": "IRIX"
   },
   {
-   "symbol": "VSACU",
-   "name": "Vision Sensing Acquisition Corp. - Unit",
+   "symbol": "PSIG",
+   "name": "PS International Group Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSACU"
+   "yahoo_symbol": "PSIG"
   },
   {
-   "symbol": "VSACW",
-   "name": "Vision Sensing Acquisition Corp. - Warrants",
+   "symbol": "QMMM",
+   "name": "QMMM Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSACW"
+   "yahoo_symbol": "QMMM"
+  },
+  {
+   "symbol": "CNL",
+   "name": "Collective Mining Ltd. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNL"
   }
  ],
  "removed": [
   {
-   "symbol": "ASTR",
-   "name": "Astra Space, Inc. - Class A Common Stock",
+   "symbol": "ETRN",
+   "name": "Equitrans Midstream Corporation Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETRN"
+  },
+  {
+   "symbol": "GGT.R",
+   "name": "Gabelli Multi-Media Trust Inc. (The) Rights (expiring July 22, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GGT.R"
+  },
+  {
+   "symbol": "CULL",
+   "name": "Cullman Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASTR"
+   "yahoo_symbol": "CULL"
   },
   {
-   "symbol": "XBIOW",
-   "name": "Xenetic Biosciences, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XBIOW"
+   "symbol": "FSD",
+   "name": "First Trust High Income Long Short Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FSD"
   },
   {
-   "symbol": "LPEN",
-   "name": "Loop Energy Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "LPEN.TO",
-   "instruments": [
-    {
-     "name": "Loop Energy Inc. J",
-     "symbol": "LPEN"
-    }
-   ]
+   "symbol": "HGTY.W",
+   "name": "Hagerty, Inc. Warrants, each whole warrant entitles the holder thereof to purchase one share of Class A common stock at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HGTY.W"
   },
   {
-   "symbol": "VSAC",
-   "name": "Vision Sensing Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VSAC"
-  },
-  {
-   "symbol": "VSACW",
-   "name": "Vision Sensing Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VSACW"
-  },
-  {
-   "symbol": "ASLN",
-   "name": "ASLAN Pharmaceuticals Limited - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASLN"
-  },
-  {
-   "symbol": "HYW",
-   "name": "Hywin Holdings Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HYW"
-  },
-  {
-   "symbol": "OGO",
-   "name": "Organto Foods Inc.",
+   "symbol": "PTN",
+   "name": "Proton Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "OGO.V",
+   "yahoo_symbol": "PTN.V",
    "instruments": [
     {
-     "name": "Organto Foods Inc.",
-     "symbol": "OGO"
+     "name": "Proton Capital Corp.",
+     "symbol": "PTN"
     }
    ]
   },
   {
-   "symbol": "VSACU",
-   "name": "Vision Sensing Acquisition Corp. - Unit",
+   "symbol": "AIF",
+   "name": "Apollo Tactical Income Fund Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIF"
+  },
+  {
+   "symbol": "AFT",
+   "name": "Apollo Senior Floating Rate Fund Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AFT"
+  },
+  {
+   "symbol": "PRE$J",
+   "name": "PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred Shares, Series J",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRE$J"
+  },
+  {
+   "symbol": "IRIX",
+   "name": "IRIDEX Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VSACU"
+   "yahoo_symbol": "IRIX"
   }
  ]
 }
