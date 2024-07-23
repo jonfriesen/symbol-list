@@ -1,126 +1,72 @@
 {
  "added": [
   {
-   "symbol": "PCRX",
-   "name": "PharmaCorp Rx Inc.",
+   "symbol": "YOO",
+   "name": "Yangaroo Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PCRX.V",
+   "yahoo_symbol": "YOO.V",
    "instruments": [
     {
-     "name": "PharmaCorp Rx Inc.",
-     "symbol": "PCRX"
+     "name": "Yangaroo Inc.",
+     "symbol": "YOO"
     }
    ]
   },
   {
-   "symbol": "SPAC.V",
-   "name": "Mercer Park Opportunities Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SPAC.V.TO",
-   "instruments": [
-    {
-     "name": "Mercer Prk Opp Corp",
-     "symbol": "SPAC.V"
-    }
-   ]
+   "symbol": "TRINI",
+   "name": "Trinity Capital Inc. - 7.875% Notes Due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRINI"
   },
   {
-   "symbol": "ARTV",
-   "name": "Artiva Biotherapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARTV"
-  },
-  {
-   "symbol": "IRIX",
-   "name": "IRIDEX Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IRIX"
-  },
-  {
-   "symbol": "PSIG",
-   "name": "PS International Group Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PSIG"
-  },
-  {
-   "symbol": "QMMM",
-   "name": "QMMM Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QMMM"
-  },
-  {
-   "symbol": "CNL",
-   "name": "Collective Mining Ltd. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CNL"
+   "symbol": "ABCB",
+   "name": "Ameris Bancorp Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ABCB"
   }
  ],
  "removed": [
   {
-   "symbol": "ETRN",
-   "name": "Equitrans Midstream Corporation Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ETRN"
-  },
-  {
-   "symbol": "GGT.R",
-   "name": "Gabelli Multi-Media Trust Inc. (The) Rights (expiring July 22, 2024) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GGT.R"
-  },
-  {
-   "symbol": "CULL",
-   "name": "Cullman Bancorp, Inc. - Common Stock",
+   "symbol": "OCAXW",
+   "name": "OCA Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CULL"
+   "yahoo_symbol": "OCAXW"
   },
   {
-   "symbol": "FSD",
-   "name": "First Trust High Income Long Short Fund Common Shares of Beneficial Interest",
+   "symbol": "TRTL",
+   "name": "TortoiseEcofin Acquisition Corp. III Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "FSD"
+   "yahoo_symbol": "TRTL"
   },
   {
-   "symbol": "HGTY.W",
-   "name": "Hagerty, Inc. Warrants, each whole warrant entitles the holder thereof to purchase one share of Class A common stock at a price of $11.50 per share",
+   "symbol": "TRTL.W",
+   "name": "TortoiseEcofin Acquisition Corp. III Warrant, entitles to purchase one Class A Ordinary Share at a price of $11.50 per share",
    "exchange": "NYSE",
-   "yahoo_symbol": "HGTY.W"
+   "yahoo_symbol": "TRTL.W"
   },
   {
-   "symbol": "PTN",
-   "name": "Proton Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PTN.V",
-   "instruments": [
-    {
-     "name": "Proton Capital Corp.",
-     "symbol": "PTN"
-    }
-   ]
+   "symbol": "OCAX",
+   "name": "OCA Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCAX"
   },
   {
-   "symbol": "AIF",
-   "name": "Apollo Tactical Income Fund Inc. Common Stock",
+   "symbol": "TRTL.U",
+   "name": "TortoiseEcofin Acquisition Corp. III Units each consisting of one Class A Ordinary Share, and one-fourth of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "AIF"
+   "yahoo_symbol": "TRTL.U"
   },
   {
-   "symbol": "AFT",
-   "name": "Apollo Senior Floating Rate Fund Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AFT"
+   "symbol": "OCAXU",
+   "name": "OCA Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCAXU"
   },
   {
-   "symbol": "PRE$J",
-   "name": "PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred Shares, Series J",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRE$J"
-  },
-  {
-   "symbol": "IRIX",
-   "name": "IRIDEX Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IRIX"
+   "symbol": "ABCB",
+   "name": "Ameris Bancorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ABCB"
   }
  ]
 }
