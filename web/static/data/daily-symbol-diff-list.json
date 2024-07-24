@@ -1,72 +1,90 @@
 {
  "added": [
   {
-   "symbol": "YOO",
-   "name": "Yangaroo Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "YOO.V",
-   "instruments": [
-    {
-     "name": "Yangaroo Inc.",
-     "symbol": "YOO"
-    }
-   ]
+   "symbol": "AEAE",
+   "name": "AltEnergy Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEAE"
   },
   {
-   "symbol": "TRINI",
-   "name": "Trinity Capital Inc. - 7.875% Notes Due 2029",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TRINI"
+   "symbol": "AEAEU",
+   "name": "AltEnergy Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEAEU"
   },
   {
-   "symbol": "ABCB",
-   "name": "Ameris Bancorp Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ABCB"
+   "symbol": "AEAEW",
+   "name": "AltEnergy Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEAEW"
+  },
+  {
+   "symbol": "DCAP",
+   "name": "Unity Wealth Partners Dynamic Capital Appreciation \u0026 Options ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DCAP"
+  },
+  {
+   "symbol": "ETHA",
+   "name": "iShares Ethereum Trust - iShares Ethereum Trust ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHA"
+  },
+  {
+   "symbol": "KQQQ",
+   "name": "Kurv Technology Titans Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KQQQ"
+  },
+  {
+   "symbol": "PGHL",
+   "name": "Primega Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PGHL"
+  },
+  {
+   "symbol": "TNFA",
+   "name": "TNF Pharmaceuticals, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TNFA"
   }
  ],
  "removed": [
   {
-   "symbol": "OCAXW",
-   "name": "OCA Acquisition Corp. - Warrant",
+   "symbol": "AEAE",
+   "name": "AltEnergy Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AEAE"
+  },
+  {
+   "symbol": "AEAEW",
+   "name": "AltEnergy Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AEAEW"
+  },
+  {
+   "symbol": "MINM",
+   "name": "Minim, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OCAXW"
+   "yahoo_symbol": "MINM"
   },
   {
-   "symbol": "TRTL",
-   "name": "TortoiseEcofin Acquisition Corp. III Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TRTL"
+   "symbol": "AEAEU",
+   "name": "AltEnergy Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AEAEU"
   },
   {
-   "symbol": "TRTL.W",
-   "name": "TortoiseEcofin Acquisition Corp. III Warrant, entitles to purchase one Class A Ordinary Share at a price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TRTL.W"
-  },
-  {
-   "symbol": "OCAX",
-   "name": "OCA Acquisition Corp. - Class A Common Stock",
+   "symbol": "MYMD",
+   "name": "MyMD Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OCAX"
+   "yahoo_symbol": "MYMD"
   },
   {
-   "symbol": "TRTL.U",
-   "name": "TortoiseEcofin Acquisition Corp. III Units each consisting of one Class A Ordinary Share, and one-fourth of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TRTL.U"
-  },
-  {
-   "symbol": "OCAXU",
-   "name": "OCA Acquisition Corp. - Unit",
+   "symbol": "IONM",
+   "name": "Assure Holdings Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OCAXU"
-  },
-  {
-   "symbol": "ABCB",
-   "name": "Ameris Bancorp - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ABCB"
+   "yahoo_symbol": "IONM"
   }
  ]
 }
