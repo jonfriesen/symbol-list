@@ -1,90 +1,144 @@
 {
  "added": [
   {
-   "symbol": "AEAE",
-   "name": "AltEnergy Acquisition Corp. - Class A Common Stock",
+   "symbol": "BFI",
+   "name": "BurgerFi International Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAE"
+   "yahoo_symbol": "BFI"
   },
   {
-   "symbol": "AEAEU",
-   "name": "AltEnergy Acquisition Corp. - Unit",
+   "symbol": "BFIIW",
+   "name": "BurgerFi International Inc - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAEU"
+   "yahoo_symbol": "BFIIW"
   },
   {
-   "symbol": "AEAEW",
-   "name": "AltEnergy Acquisition Corp. - Warrant",
+   "symbol": "BLMZ",
+   "name": "BloomZ Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAEW"
+   "yahoo_symbol": "BLMZ"
   },
   {
-   "symbol": "DCAP",
-   "name": "Unity Wealth Partners Dynamic Capital Appreciation \u0026 Options ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DCAP"
-  },
-  {
-   "symbol": "ETHA",
-   "name": "iShares Ethereum Trust - iShares Ethereum Trust ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ETHA"
-  },
-  {
-   "symbol": "KQQQ",
-   "name": "Kurv Technology Titans Select ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KQQQ"
-  },
-  {
-   "symbol": "PGHL",
-   "name": "Primega Group Holdings Limited - Ordinary Shares",
+   "symbol": "HYZN",
+   "name": "Hyzon Motors Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PGHL"
+   "yahoo_symbol": "HYZN"
   },
   {
-   "symbol": "TNFA",
-   "name": "TNF Pharmaceuticals, Inc.  - Common Stock",
+   "symbol": "HYZNW",
+   "name": "Hyzon Motors Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TNFA"
+   "yahoo_symbol": "HYZNW"
+  },
+  {
+   "symbol": "NVA",
+   "name": "Nova Minerals Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVA"
+  },
+  {
+   "symbol": "NVAWW",
+   "name": "Nova Minerals Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVAWW"
+  },
+  {
+   "symbol": "OS",
+   "name": "OneStream, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OS"
+  },
+  {
+   "symbol": "CON",
+   "name": "Concentra Group Holdings Parent, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CON"
+  },
+  {
+   "symbol": "LTM",
+   "name": "LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LTM"
   }
  ],
  "removed": [
   {
-   "symbol": "AEAE",
-   "name": "AltEnergy Acquisition Corp. - Class A Common Stock",
+   "symbol": "NRGU",
+   "name": "MicroSectors U.S. Big Oil Index 3X Leveraged ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "NRGU"
+  },
+  {
+   "symbol": "NFYS",
+   "name": "Enphys Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NFYS"
+  },
+  {
+   "symbol": "NFYS.W",
+   "name": "Enphys Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NFYS.W"
+  },
+  {
+   "symbol": "NFYS.U",
+   "name": "Enphys Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NFYS.U"
+  },
+  {
+   "symbol": "HYZNW",
+   "name": "Hyzon Motors Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HYZNW"
+  },
+  {
+   "symbol": "HYZN",
+   "name": "Hyzon Motors Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HYZN"
+  },
+  {
+   "symbol": "BNKU",
+   "name": "MicroSectors U.S. Big Banks Index 3X Leveraged ETNs",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "BNKU"
+  },
+  {
+   "symbol": "BFI",
+   "name": "BurgerFi International Inc - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AEAE"
+   "yahoo_symbol": "BFI"
   },
   {
-   "symbol": "AEAEW",
-   "name": "AltEnergy Acquisition Corp. - Warrant",
+   "symbol": "MYLK",
+   "name": "The Planting Hope Company Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MYLK.V",
+   "instruments": [
+    {
+     "name": "The Planting Hope Company Inc.",
+     "symbol": "MYLK"
+    }
+   ]
+  },
+  {
+   "symbol": "NRGD",
+   "name": "MicroSectors U.S. Big Oil Index -3X Inverse Leveraged ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "NRGD"
+  },
+  {
+   "symbol": "BFIIW",
+   "name": "BurgerFi International Inc - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AEAEW"
+   "yahoo_symbol": "BFIIW"
   },
   {
-   "symbol": "MINM",
-   "name": "Minim, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MINM"
-  },
-  {
-   "symbol": "AEAEU",
-   "name": "AltEnergy Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AEAEU"
-  },
-  {
-   "symbol": "MYMD",
-   "name": "MyMD Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MYMD"
-  },
-  {
-   "symbol": "IONM",
-   "name": "Assure Holdings Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IONM"
+   "symbol": "BNKD",
+   "name": "MicroSectors U.S. Big Banks Index -3X Inverse Leveraged ETNs",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "BNKD"
   }
  ]
 }
