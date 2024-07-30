@@ -1,5 +1,5 @@
 {
- "date": "2024-07-29",
+ "date": "2024-07-30",
  "data": [
   {
    "symbol": "ONE",
@@ -14690,18 +14690,6 @@
    ]
   },
   {
-   "symbol": "RMR",
-   "name": "Rome Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RMR.V",
-   "instruments": [
-    {
-     "name": "Rome Resources Ltd.",
-     "symbol": "RMR"
-    }
-   ]
-  },
-  {
    "symbol": "RG",
    "name": "Romios Gold Resources Inc.",
    "exchange": "TSXV",
@@ -14814,6 +14802,18 @@
     {
      "name": "RT Minerals Corp.",
      "symbol": "RTM"
+    }
+   ]
+  },
+  {
+   "symbol": "RUA",
+   "name": "Rua Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RUA.V",
+   "instruments": [
+    {
+     "name": "Rua Gold Inc.",
+     "symbol": "RUA"
     }
    ]
   },
@@ -32530,18 +32530,6 @@
    ]
   },
   {
-   "symbol": "IAF.PR.B",
-   "name": "Industrial Alliance Insurance and Financial Services Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "IAF.PR.B.TO",
-   "instruments": [
-    {
-     "name": "Indstrl AlliancePr B",
-     "symbol": "IAF.PR.B"
-    }
-   ]
-  },
-  {
    "symbol": "ISV",
    "name": "Information Services Corporation",
    "exchange": "TSX",
@@ -47211,7 +47199,7 @@
   },
   {
    "symbol": "CCM",
-   "name": "Concord Medical Services Holdings Limited ADS (Each represents three ordinary shares)",
+   "name": "Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)",
    "exchange": "NYSE",
    "yahoo_symbol": "CCM"
   },
@@ -59408,12 +59396,6 @@
    "yahoo_symbol": "SBI"
   },
   {
-   "symbol": "SBOW",
-   "name": "SilverBow Resorces, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBOW"
-  },
-  {
    "symbol": "SBR",
    "name": "Sabine Royalty Trust Common Stock",
    "exchange": "NYSE",
@@ -64302,12 +64284,6 @@
    "name": "Akso Health Group - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AHG"
-  },
-  {
-   "symbol": "AHI",
-   "name": "Advanced Health Intelligence Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AHI"
   },
   {
    "symbol": "AIA",
@@ -83056,7 +83032,7 @@
   {
    "symbol": "OXLCI",
    "name": "Oxford Lane Capital Corp. - 8.75% Notes due 2030",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OXLCI"
   },
   {
@@ -83466,24 +83442,6 @@
    "name": "Pegasystems Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PEGA"
-  },
-  {
-   "symbol": "PEGR",
-   "name": "Project Energy Reimagined Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PEGR"
-  },
-  {
-   "symbol": "PEGRU",
-   "name": "Project Energy Reimagined Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PEGRU"
-  },
-  {
-   "symbol": "PEGRW",
-   "name": "Project Energy Reimagined Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PEGRW"
   },
   {
    "symbol": "PEGY",
@@ -91641,7 +91599,7 @@
   },
   {
    "symbol": "WSC",
-   "name": "WillScot Mobile Mini Holdings Corp. - Class A Common Stock",
+   "name": "WillScot Holdings Corporation - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WSC"
   },

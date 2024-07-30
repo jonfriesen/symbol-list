@@ -1,78 +1,84 @@
 {
  "added": [
   {
-   "symbol": "CHEB",
-   "name": "Chenghe Acquisition II Co. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CHEB"
+   "symbol": "RUA",
+   "name": "Rua Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RUA.V",
+   "instruments": [
+    {
+     "name": "Rua Gold Inc.",
+     "symbol": "RUA"
+    }
+   ]
   },
   {
-   "symbol": "CHEB.W",
-   "name": "Chenghe Acquisition II Co. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CHEB.W"
-  },
-  {
-   "symbol": "HHH.V",
-   "name": "Howard Hughes Holdings Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HHH.V"
-  },
-  {
-   "symbol": "RF$F",
-   "name": "Regions Financial Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RF$F"
-  },
-  {
-   "symbol": "SEG.V",
-   "name": "Seaport Entertainment Group Inc. Common Stock When-Issued",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SEG.V"
-  },
-  {
-   "symbol": "NIPG",
-   "name": "NIP Group Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NIPG"
-  },
-  {
-   "symbol": "VIRX",
-   "name": "Viracta Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VIRX"
+   "symbol": "OXLCI",
+   "name": "Oxford Lane Capital Corp. - 8.75% Notes due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXLCI"
   }
  ],
  "removed": [
   {
-   "symbol": "VIRX",
-   "name": "Viracta Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VIRX"
-  },
-  {
-   "symbol": "SLNA",
-   "name": "Selina Hospitality PLC - Ordinary Shares",
+   "symbol": "AHI",
+   "name": "Advanced Health Intelligence Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLNA"
+   "yahoo_symbol": "AHI"
   },
   {
-   "symbol": "SLNAW",
-   "name": "Selina Hospitality PLC - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLNAW"
+   "symbol": "SBOW",
+   "name": "SilverBow Resorces, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBOW"
   },
   {
-   "symbol": "TRES",
-   "name": "Defiance Treasury Alternative Yield ETF",
+   "symbol": "RMR",
+   "name": "Rome Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RMR.V",
+   "instruments": [
+    {
+     "name": "Rome Resources Ltd.",
+     "symbol": "RMR"
+    }
+   ]
+  },
+  {
+   "symbol": "OXLCI",
+   "name": "Oxford Lane Capital Corp. - 8.75% Notes due 2030",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRES"
+   "yahoo_symbol": "OXLCI"
   },
   {
-   "symbol": "AINC",
-   "name": "Ashford Inc. (Holding Company) Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "AINC"
+   "symbol": "PEGRW",
+   "name": "Project Energy Reimagined Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEGRW"
+  },
+  {
+   "symbol": "PEGR",
+   "name": "Project Energy Reimagined Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEGR"
+  },
+  {
+   "symbol": "IAF.PR.B",
+   "name": "Industrial Alliance Insurance and Financial Services Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IAF.PR.B.TO",
+   "instruments": [
+    {
+     "name": "Indstrl AlliancePr B",
+     "symbol": "IAF.PR.B"
+    }
+   ]
+  },
+  {
+   "symbol": "PEGRU",
+   "name": "Project Energy Reimagined Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEGRU"
   }
  ]
 }
