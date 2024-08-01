@@ -1,125 +1,38 @@
 {
  "added": [
   {
-   "symbol": "PAXE",
-   "name": "Paxe (PAXE)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "SDME",
-   "name": "SDME (SDME)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "CATW",
-   "name": "Cat wif Hands (CATW)",
-   "built_on": "AVAX"
-  },
-  {
-   "symbol": "BILLI",
-   "name": "Billi (BILLI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "OPTIM",
-   "name": "Optimus X (OPTIM)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "BLUEW",
-   "name": "Blue Whale (BLUEW)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "WWRY",
-   "name": "WeWillRugYou (WWRY)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "SUPERB",
-   "name": "SUPER BONK (SUPERB)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "JANI",
-   "name": "JANI (JANI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "KEM",
-   "name": "Kem Jeng Un (KEM)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "HILO",
-   "name": "HILO (HILO)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "RECORD",
-   "name": "Music Protocol (RECORD)",
+   "symbol": "GREE",
+   "name": "Green God Candle (GREE)",
    "built_on": "BASECHAIN"
   },
   {
-   "symbol": "AJUN",
-   "name": "Ajuna Network (AJUN)"
-  },
-  {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "MMATIC",
-   "name": "Wrapped Polygon (Multichain) (MMATIC)",
-   "built_on": "GLMR"
-  },
-  {
-   "symbol": "PAW",
-   "name": "PAWSWAP (PAW)"
-  },
-  {
-   "symbol": "NEIROSOL",
-   "name": "Neiro Solana Doge (NEIROSOL)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "SILL",
-   "name": "Silly Duck (SILL)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DOAI",
-   "name": "DOJO Protocol (DOAI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "ALLC",
-   "name": "All Crypto Mechanics (ALLC)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "KET",
-   "name": "KET (KET)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "FIGH",
-   "name": "FIGHT FIGHT FIGHT (FIGH)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "NEIROETH",
-   "name": "Neiro Ethereum (NEIROETH)",
+   "symbol": "DOGE2",
+   "name": "Dogecoin 2.0 (DOGE2)",
    "built_on": "ETH"
   },
   {
-   "symbol": "MLTC",
-   "name": "Litecoin (Multichain) (MLTC)"
+   "symbol": "USDL",
+   "name": "Lift Dollar (USDL)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "BABYBI",
-   "name": "Baby Bitcoin (BABYBI)",
-   "built_on": "BNB"
+   "symbol": "JUST",
+   "name": "just a cat (JUST)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRADECHAIN",
+   "name": "Trade Chain (TRADECHAIN)"
+  },
+  {
+   "symbol": "ROSEW",
+   "name": "RoseWifHat (ROSEW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WALLI",
+   "name": "WALLi (WALLI)",
+   "built_on": "SOL"
   },
   {
    "symbol": "G",
@@ -127,52 +40,182 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "REALTRACT",
-   "name": "RealTract (REALTRACT)",
+   "symbol": "STRA",
+   "name": "STRAY (STRA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NUTC",
+   "name": "Nutcash (NUTC)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GCCO",
+   "name": "GCCOIN (GCCO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MINIP",
+   "name": "MiniPepe Coin (MINIP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FWOG",
+   "name": "Fwog (FWOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GORPLE",
+   "name": "GorplesCoin (GORPLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BENI",
+   "name": "Beni (BENI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CATDOG",
+   "name": "Cat-Dog (CATDOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ANY",
+   "name": "Anyswap (ANY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLOA",
+   "name": "Cloak (CLOA)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BUTT",
-   "name": "Buttercat (BUTT)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BTCNOW",
-   "name": "Blockchain Technology Co. (BTCNOW)",
+   "symbol": "ASTROO",
+   "name": "Astroon (ASTROO)",
    "built_on": "BNB"
   },
   {
-   "symbol": "ZCD",
-   "name": "ZChains (ZCD)"
+   "symbol": "CAP",
+   "name": "Capverto (CAPV)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "BNBE",
-   "name": "BNBEE (BNBE)",
+   "symbol": "CAMT",
+   "name": "CAMELL (CAMT)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "L3",
+   "name": "Layer3 (L3)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JUICEB",
+   "name": "Juice (JUICEB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIERRE",
+   "name": "sacré bleu (PIERRE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MADAGASCARTOKEN",
+   "name": "Madagascar Token (MADAGASCARTOKEN)",
    "built_on": "BNB"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "MOXIE",
+   "name": "Moxie (MOXIE)",
+   "built_on": "BASECHAIN"
   },
   {
-   "symbol": "YOUNES",
-   "name": "YOUNES (YOUNES)",
+   "symbol": "DOLLAR",
+   "name": "Dollar (DOLLAR)",
    "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATI",
+   "name": "CAT INU (CATI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DUCKC",
+   "name": "DuckCoin (DUCKC)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "FIGHTMAGA",
+   "name": "FIGHT MAGA (FIGHTMAGA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SELFIEC",
+   "name": "Selfie Cat (SELFIEC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MNEE",
+   "name": "MNEE USD Stablecoin  (MNEE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYC",
+   "name": "Baby Cat (BABYC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "THAPT",
+   "name": "Thala APT (THAPT)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "QUAC",
+   "name": "QUACK (QUAC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ASMO",
+   "name": "AS Monaco Fan Token (ASMO)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "PANDAS",
+   "name": "Panda Swap (PANDAS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TD",
+   "name": "The Big Red (TD)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "APOL",
+   "name": "Apollo FTW (APOL)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "RET",
-   "name": "RealTract (RET)"
+   "symbol": "TD",
+   "name": "Trade Chain (TD)"
   },
   {
-   "symbol": "PAW",
-   "name": "PAWSWAP (PAW)",
-   "built_on": "ETH"
+   "symbol": "$TIME",
+   "name": "Madagascar Token (STIME)"
   },
   {
-   "symbol": "MLTC",
-   "name": "Litecoin (Multichain) (MLTC)",
+   "symbol": "CAP",
+   "name": "Capverto (CAPV)"
+  },
+  {
+   "symbol": "ANY",
+   "name": "Anyswap (ANY)",
    "built_on": "ETH"
   }
  ]
