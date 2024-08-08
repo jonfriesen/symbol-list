@@ -1,106 +1,162 @@
 {
  "added": [
   {
-   "symbol": "VSTE",
-   "name": "Vast Renewables Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSTE"
+   "symbol": "BOGO",
+   "name": "Borealis Mining Company Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BOGO.V",
+   "instruments": [
+    {
+     "name": "Borealis Mining Company Limited",
+     "symbol": "BOGO"
+    }
+   ]
   },
   {
-   "symbol": "EQV.U",
-   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQV.U"
+   "symbol": "CERT",
+   "name": "Cerrado Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CERT.V",
+   "instruments": [
+    {
+     "name": "Cerrado Gold Inc.",
+     "symbol": "CERT"
+    }
+   ]
+  },
+  {
+   "symbol": "JHC",
+   "name": "Jinhua Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JHC.V",
+   "instruments": [
+    {
+     "name": "Jinhua Capital Corporation",
+     "symbol": "JHC"
+    }
+   ]
+  },
+  {
+   "symbol": "RSTN",
+   "name": "RDE, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RSTN"
   }
  ],
  "removed": [
   {
-   "symbol": "ZLSWW",
-   "name": "Zalatoris II Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZLSWW"
-  },
-  {
-   "symbol": "PMB.UN",
-   "name": "Picton Mahoney Tactical Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "PMB.UN.TO",
-   "instruments": [
-    {
-     "name": "Picton Mahoney A Un",
-     "symbol": "PMB.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "SPEC",
-   "name": "Spectaire Holdings, Inc. - Common Stock",
+   "symbol": "CNTG",
+   "name": "Centogene N.V. - Common Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPEC"
+   "yahoo_symbol": "CNTG"
   },
   {
-   "symbol": "ADZN",
-   "name": "Adventus Mining Corporation",
+   "symbol": "MCI",
+   "name": "Minnova Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ADZN.V",
+   "yahoo_symbol": "MCI.V",
    "instruments": [
     {
-     "name": "Adventus Mining Corporation",
-     "symbol": "ADZN"
+     "name": "Minnova Corp.",
+     "symbol": "MCI"
     }
    ]
   },
   {
-   "symbol": "ZLSWU",
-   "name": "Zalatoris II Acquisition Corp - Unit",
+   "symbol": "DZSI",
+   "name": "DZS Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZLSWU"
+   "yahoo_symbol": "DZSI"
   },
   {
-   "symbol": "WRNT",
-   "name": "Warrantee Inc. - American Depositary Shares",
+   "symbol": "IMAQU",
+   "name": "International Media Acquisition Corp. - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WRNT"
+   "yahoo_symbol": "IMAQU"
   },
   {
-   "symbol": "SPECW",
-   "name": "Spectaire Holdings, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPECW"
+   "symbol": "IMAQ",
+   "name": "International Media Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMAQ"
   },
   {
-   "symbol": "ELVT",
-   "name": "Elevation Gold Mining Corporation",
+   "symbol": "BOAT",
+   "name": "The Limestone Boat Company Limited",
    "exchange": "TSXV",
-   "yahoo_symbol": "ELVT.V",
+   "yahoo_symbol": "BOAT.V",
    "instruments": [
     {
-     "name": "Elevation Gold Mining Corporation",
-     "symbol": "ELVT"
-    },
-    {
-     "name": "Elevation Gold Mining Corporation wts 24Mar2027",
-     "symbol": "ELVT.WT.A"
+     "name": "The Limestone Boat Company Limited",
+     "symbol": "BOAT"
     }
    ]
   },
   {
-   "symbol": "VSTE",
-   "name": "Vast Renewables Limited - Ordinary Shares",
+   "symbol": "PRST",
+   "name": "Presto Automation, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VSTE"
+   "yahoo_symbol": "PRST"
   },
   {
-   "symbol": "ZLS",
-   "name": "Zalatoris II Acquisition Corp - Class A Ordinary Shares",
+   "symbol": "IMAQW",
+   "name": "International Media Acquisition Corp. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZLS"
+   "yahoo_symbol": "IMAQW"
   },
   {
-   "symbol": "TWOU",
-   "name": "2U, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TWOU"
+   "symbol": "XGC",
+   "name": "Xali Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XGC.V",
+   "instruments": [
+    {
+     "name": "Xali Gold Corp.",
+     "symbol": "XGC"
+    }
+   ]
+  },
+  {
+   "symbol": "CEI",
+   "name": "Camber Energy, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CEI"
+  },
+  {
+   "symbol": "PRSTW",
+   "name": "Presto Automation, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRSTW"
+  },
+  {
+   "symbol": "ALCC.P",
+   "name": "A-Labs Capital IV Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALCC.P.V",
+   "instruments": [
+    {
+     "name": "A-Labs Capital IV Corp.",
+     "symbol": "ALCC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "VBIV",
+   "name": "VBI Vaccines, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBIV"
+  },
+  {
+   "symbol": "IMAQR",
+   "name": "International Media Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMAQR"
+  },
+  {
+   "symbol": "WKSPW",
+   "name": "Worksport, Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WKSPW"
   }
  ]
 }
