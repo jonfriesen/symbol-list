@@ -1,5 +1,5 @@
 {
- "date": "2024-08-08",
+ "date": "2024-08-09",
  "data": [
   {
    "symbol": "ONE",
@@ -14114,6 +14114,10 @@
     {
      "name": "Reconnaissance Energy Africa Ltd.",
      "symbol": "RECO"
+    },
+    {
+     "name": "Reconnaissance Energy Africa Ltd wt 31Jul2026",
+     "symbol": "RECO.WT"
     }
    ]
   },
@@ -17494,18 +17498,6 @@
    ]
   },
   {
-   "symbol": "TUP.P",
-   "name": "TUP Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TUP.P.V",
-   "instruments": [
-    {
-     "name": "Tup Capital Inc.",
-     "symbol": "TUP.P"
-    }
-   ]
-  },
-  {
    "symbol": "TBX",
    "name": "Turmalina Metals Corp.",
    "exchange": "TSXV",
@@ -19278,18 +19270,6 @@
     {
      "name": "Aegis Brands Inc.",
      "symbol": "AEG"
-    }
-   ]
-  },
-  {
-   "symbol": "AEZS",
-   "name": "AEterna Zentaris Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AEZS.TO",
-   "instruments": [
-    {
-     "name": "AEterna Zentaris Inc",
-     "symbol": "AEZS"
     }
    ]
   },
@@ -26074,6 +26054,18 @@
     {
      "name": "Corus Entertnmnt B",
      "symbol": "CJR.B"
+    }
+   ]
+  },
+  {
+   "symbol": "CSCI",
+   "name": "COSCIENS Biopharma Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSCI.TO",
+   "instruments": [
+    {
+     "name": "AEterna Zentaris Inc",
+     "symbol": "CSCI"
     }
    ]
   },
@@ -40170,6 +40162,18 @@
    ]
   },
   {
+   "symbol": "RIGE",
+   "name": "Russell Investments Global Equity Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "RIGE.TO",
+   "instruments": [
+    {
+     "name": "Russ InvGl EqPl ETF",
+     "symbol": "RIGE"
+    }
+   ]
+  },
+  {
    "symbol": "RIIN",
    "name": "Russell Investments Global Infrastructure Pool",
    "exchange": "TSX",
@@ -44268,12 +44272,6 @@
    "yahoo_symbol": "AEYE"
   },
   {
-   "symbol": "AEZS",
-   "name": "Aeterna Zentaris Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEZS"
-  },
-  {
    "symbol": "AFAR",
    "name": "Aura FAT Projects Acquisition Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -46525,7 +46523,7 @@
   },
   {
    "symbol": "BCAL",
-   "name": "Southern California Bancorp - Common Stock",
+   "name": "California BanCorp - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BCAL"
   },
@@ -50224,6 +50222,12 @@
    "name": "Champions Oncology, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CSBR"
+  },
+  {
+   "symbol": "CSCI",
+   "name": "COSCIENS Biopharma Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSCI"
   },
   {
    "symbol": "CSCO",
@@ -58680,6 +58684,12 @@
    "yahoo_symbol": "LBTYK"
   },
   {
+   "symbol": "LCDS",
+   "name": "JPMorgan Fundamental Data Science Large Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCDS"
+  },
+  {
    "symbol": "LCFY",
    "name": "Locafy Limited - Ordinary Share",
    "exchange": "NASDAQ Capital Market",
@@ -59920,6 +59930,12 @@
    "name": "MetroCity Bankshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MCBS"
+  },
+  {
+   "symbol": "MCDS",
+   "name": "JPMorgan Fundamental Data Science Mid Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCDS"
   },
   {
    "symbol": "MCFT",
@@ -66498,6 +66514,12 @@
    "yahoo_symbol": "SBUX"
   },
   {
+   "symbol": "SCDS",
+   "name": "JPMorgan Fundamental Data Science Small Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCDS"
+  },
+  {
    "symbol": "SCHL",
    "name": "Scholastic Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68572,12 +68594,6 @@
    "name": "Thornburg Income Builder Opportunities Trust - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TBLD"
-  },
-  {
-   "symbol": "TBLT",
-   "name": "ToughBuilt Industries, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TBLT"
   },
   {
    "symbol": "TBMC",
@@ -83116,12 +83132,6 @@
    "name": "LG Display Co, Ltd AMERICAN DEPOSITORY SHARES",
    "exchange": "NYSE",
    "yahoo_symbol": "LPL"
-  },
-  {
-   "symbol": "LPTV",
-   "name": "Loop Media, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LPTV"
   },
   {
    "symbol": "LPX",

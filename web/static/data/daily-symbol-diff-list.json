@@ -1,162 +1,96 @@
 {
  "added": [
   {
-   "symbol": "BOGO",
-   "name": "Borealis Mining Company Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BOGO.V",
+   "symbol": "CSCI",
+   "name": "COSCIENS Biopharma Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSCI.TO",
    "instruments": [
     {
-     "name": "Borealis Mining Company Limited",
-     "symbol": "BOGO"
+     "name": "AEterna Zentaris Inc",
+     "symbol": "CSCI"
     }
    ]
   },
   {
-   "symbol": "CERT",
-   "name": "Cerrado Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CERT.V",
+   "symbol": "RIGE",
+   "name": "Russell Investments Global Equity Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "RIGE.TO",
    "instruments": [
     {
-     "name": "Cerrado Gold Inc.",
-     "symbol": "CERT"
+     "name": "Russ InvGl EqPl ETF",
+     "symbol": "RIGE"
     }
    ]
   },
   {
-   "symbol": "JHC",
-   "name": "Jinhua Capital Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JHC.V",
-   "instruments": [
-    {
-     "name": "Jinhua Capital Corporation",
-     "symbol": "JHC"
-    }
-   ]
-  },
-  {
-   "symbol": "RSTN",
-   "name": "RDE, Inc. - Common Stock",
+   "symbol": "CSCI",
+   "name": "COSCIENS Biopharma Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RSTN"
+   "yahoo_symbol": "CSCI"
+  },
+  {
+   "symbol": "LCDS",
+   "name": "JPMorgan Fundamental Data Science Large Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCDS"
+  },
+  {
+   "symbol": "MCDS",
+   "name": "JPMorgan Fundamental Data Science Mid Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCDS"
+  },
+  {
+   "symbol": "SCDS",
+   "name": "JPMorgan Fundamental Data Science Small Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCDS"
   }
  ],
  "removed": [
   {
-   "symbol": "CNTG",
-   "name": "Centogene N.V. - Common Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNTG"
+   "symbol": "TBLT",
+   "name": "ToughBuilt Industries, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TBLT"
   },
   {
-   "symbol": "MCI",
-   "name": "Minnova Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MCI.V",
+   "symbol": "AEZS",
+   "name": "AEterna Zentaris Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AEZS.TO",
    "instruments": [
     {
-     "name": "Minnova Corp.",
-     "symbol": "MCI"
+     "name": "AEterna Zentaris Inc",
+     "symbol": "AEZS"
     }
    ]
   },
   {
-   "symbol": "DZSI",
-   "name": "DZS Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DZSI"
-  },
-  {
-   "symbol": "IMAQU",
-   "name": "International Media Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IMAQU"
-  },
-  {
-   "symbol": "IMAQ",
-   "name": "International Media Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IMAQ"
-  },
-  {
-   "symbol": "BOAT",
-   "name": "The Limestone Boat Company Limited",
+   "symbol": "TUP.P",
+   "name": "TUP Capital Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "BOAT.V",
+   "yahoo_symbol": "TUP.P.V",
    "instruments": [
     {
-     "name": "The Limestone Boat Company Limited",
-     "symbol": "BOAT"
+     "name": "Tup Capital Inc.",
+     "symbol": "TUP.P"
     }
    ]
   },
   {
-   "symbol": "PRST",
-   "name": "Presto Automation, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PRST"
-  },
-  {
-   "symbol": "IMAQW",
-   "name": "International Media Acquisition Corp. - Warrants",
+   "symbol": "AEZS",
+   "name": "Aeterna Zentaris Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IMAQW"
+   "yahoo_symbol": "AEZS"
   },
   {
-   "symbol": "XGC",
-   "name": "Xali Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "XGC.V",
-   "instruments": [
-    {
-     "name": "Xali Gold Corp.",
-     "symbol": "XGC"
-    }
-   ]
-  },
-  {
-   "symbol": "CEI",
-   "name": "Camber Energy, Inc. Common Stock",
+   "symbol": "LPTV",
+   "name": "Loop Media, Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "CEI"
-  },
-  {
-   "symbol": "PRSTW",
-   "name": "Presto Automation, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PRSTW"
-  },
-  {
-   "symbol": "ALCC.P",
-   "name": "A-Labs Capital IV Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ALCC.P.V",
-   "instruments": [
-    {
-     "name": "A-Labs Capital IV Corp.",
-     "symbol": "ALCC.P"
-    }
-   ]
-  },
-  {
-   "symbol": "VBIV",
-   "name": "VBI Vaccines, Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VBIV"
-  },
-  {
-   "symbol": "IMAQR",
-   "name": "International Media Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IMAQR"
-  },
-  {
-   "symbol": "WKSPW",
-   "name": "Worksport, Ltd. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WKSPW"
+   "yahoo_symbol": "LPTV"
   }
  ]
 }
