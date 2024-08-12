@@ -1,96 +1,36 @@
 {
  "added": [
   {
-   "symbol": "CSCI",
-   "name": "COSCIENS Biopharma Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CSCI.TO",
-   "instruments": [
-    {
-     "name": "AEterna Zentaris Inc",
-     "symbol": "CSCI"
-    }
-   ]
-  },
-  {
-   "symbol": "RIGE",
-   "name": "Russell Investments Global Equity Pool",
-   "exchange": "TSX",
-   "yahoo_symbol": "RIGE.TO",
-   "instruments": [
-    {
-     "name": "Russ InvGl EqPl ETF",
-     "symbol": "RIGE"
-    }
-   ]
-  },
-  {
-   "symbol": "CSCI",
-   "name": "COSCIENS Biopharma Inc.  - Common Stock",
+   "symbol": "BGM",
+   "name": "Qilian International Holding Group Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSCI"
+   "yahoo_symbol": "BGM"
   },
   {
-   "symbol": "LCDS",
-   "name": "JPMorgan Fundamental Data Science Large Core ETF",
+   "symbol": "CUB",
+   "name": "Lionheart Holdings - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LCDS"
+   "yahoo_symbol": "CUB"
   },
   {
-   "symbol": "MCDS",
-   "name": "JPMorgan Fundamental Data Science Mid Core ETF",
+   "symbol": "CUBWW",
+   "name": "Lionheart Holdings - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MCDS"
+   "yahoo_symbol": "CUBWW"
   },
   {
-   "symbol": "SCDS",
-   "name": "JPMorgan Fundamental Data Science Small Core ETF",
+   "symbol": "VACHU",
+   "name": "Voyager Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SCDS"
+   "yahoo_symbol": "VACHU"
   }
  ],
  "removed": [
   {
-   "symbol": "TBLT",
-   "name": "ToughBuilt Industries, Inc. - Common Stock",
+   "symbol": "QLI",
+   "name": "Qilian International Holding Group Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TBLT"
-  },
-  {
-   "symbol": "AEZS",
-   "name": "AEterna Zentaris Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AEZS.TO",
-   "instruments": [
-    {
-     "name": "AEterna Zentaris Inc",
-     "symbol": "AEZS"
-    }
-   ]
-  },
-  {
-   "symbol": "TUP.P",
-   "name": "TUP Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TUP.P.V",
-   "instruments": [
-    {
-     "name": "Tup Capital Inc.",
-     "symbol": "TUP.P"
-    }
-   ]
-  },
-  {
-   "symbol": "AEZS",
-   "name": "Aeterna Zentaris Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEZS"
-  },
-  {
-   "symbol": "LPTV",
-   "name": "Loop Media, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LPTV"
+   "yahoo_symbol": "QLI"
   }
  ]
 }
