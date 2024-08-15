@@ -1,5 +1,5 @@
 {
- "date": "2024-08-14",
+ "date": "2024-08-15",
  "data": [
   {
    "symbol": "ONE",
@@ -32694,6 +32694,18 @@
    ]
   },
   {
+   "symbol": "ICCB",
+   "name": "Invesco Canadian Core Plus Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ICCB.TO",
+   "instruments": [
+    {
+     "name": "InvCad CrePl BndETF ",
+     "symbol": "ICCB"
+    }
+   ]
+  },
+  {
    "symbol": "PDC",
    "name": "Invesco Canadian Dividend Index ETF",
    "exchange": "TSX",
@@ -32834,6 +32846,18 @@
    ]
   },
   {
+   "symbol": "ICGB",
+   "name": "Invesco Global Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ICGB.TO",
+   "instruments": [
+    {
+     "name": "Inv Global Bond ETF",
+     "symbol": "ICGB"
+    }
+   ]
+  },
+  {
    "symbol": "IIMF",
    "name": "Invesco International Developed Dynamic-Multifactor Index ETF",
    "exchange": "TSX",
@@ -32910,6 +32934,18 @@
    ]
   },
   {
+   "symbol": "QQCI",
+   "name": "Invesco NASDAQ 100 Income Advantage ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQCI.TO",
+   "instruments": [
+    {
+     "name": "INV NDQ100 IncAdvETF",
+     "symbol": "QQCI"
+    }
+   ]
+  },
+  {
    "symbol": "QQC",
    "name": "Invesco NASDAQ 100 Index ETF",
    "exchange": "TSX",
@@ -32954,6 +32990,18 @@
     {
      "name": "InvescoRus1000DyMFHg",
      "symbol": "IUMF.F"
+    }
+   ]
+  },
+  {
+   "symbol": "EQLI",
+   "name": "Invesco S\u0026P 500 Equal Weight Income Advantage ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQLI.TO",
+   "instruments": [
+    {
+     "name": "IvSP500 EqWInc AdETF",
+     "symbol": "EQLI"
     }
    ]
   },
@@ -56220,12 +56268,6 @@
    "yahoo_symbol": "HUDI"
   },
   {
-   "symbol": "HUGE",
-   "name": "FSD Pharma Inc. - Class B Subordinate Voting Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HUGE"
-  },
-  {
    "symbol": "HUIZ",
    "name": "Huize Holding Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -64990,6 +65032,12 @@
    "name": "QuinStreet, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "QNST"
+  },
+  {
+   "symbol": "QNTM",
+   "name": "Quantum Biopharma Ltd. - Class B Subordinate Voting Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QNTM"
   },
   {
    "symbol": "QOMO",
@@ -88603,7 +88651,7 @@
   },
   {
    "symbol": "SKY",
-   "name": "Skyline Champion Corporation Common Stock",
+   "name": "Champion Homes, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SKY"
   },

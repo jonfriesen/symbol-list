@@ -2551,6 +2551,7 @@ ITH,International Tower Hill Mines Ltd.,TSX,ITH.TO,Int'l Tower Hill J,ITH
 IIP.UN,InterRent Real Estate Investment Trust,TSX,IIP.UN.TO,InterRent REIT J Un,IIP.UN
 PFL,Invesco 1-3 Year Laddered Floating Rate Note Index ETF,TSX,PFL.TO,Invesco 1-3YrLadFltg,PFL
 PSB,Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF,TSX,PSB.TO,Invesco1-5CorpBnd Un,PSB
+ICCB,Invesco Canadian Core Plus Bond ETF,TSX,ICCB.TO,InvCad CrePl BndETF ,ICCB
 PDC,Invesco Canadian Dividend Index ETF,TSX,PDC.TO,Invesco Cdn Div Un,PDC
 BESG,Invesco ESG Canadian Core Plus Bond ETF,TSX,BESG.TO,InvescoESG CA CorBnd,BESG
 IWBE,Invesco ESG Global Bond ETF,TSX,IWBE.TO,InvescoESG GlbBnd CA,IWBE
@@ -2561,14 +2562,17 @@ PZW,Invesco FTSE RAFI Global Small-Mid ETF,TSX,PZW.TO,Invesc FTSERAF GlbCA,PZW,I
 PXU.F,Invesco FTSE RAFI U.S. Index ETF,TSX,PXU.F.TO,InvescoFTSE US CA-Hg,PXU.F
 PXS,Invesco FTSE RAFI U.S. Index ETF II,TSX,PXS.TO,InvescFTSE USFnd2 CA,PXS,Invesco FTSE ETF2 US,PXS.U
 PFH.F,Invesco Fundamental High Yield Corporate Bond Index ETF,TSX,PFH.F.TO,Invesco CorpBndCA$Hg,PFH.F
+ICGB,Invesco Global Bond ETF,TSX,ICGB.TO,Inv Global Bond ETF,ICGB
 IIMF,Invesco International Developed Dynamic-Multifactor Index ETF,TSX,IIMF.TO,InvescoIntlDevDynmMF,IIMF,InvescoIntlDevDynmHg,IIMF.F
 PLV,Invesco Low Volatility Portfolio ETF,TSX,PLV.TO,Invesco LowVolPortfl,PLV
 IGET,Invesco Morningstar Global Energy Transition Index ETF,TSX,IGET.TO,Invesco MS Glb Engy,IGET,Invesco MS Enrgy Heg,IGET.F
 INAI,Invesco Morningstar Global Next Gen AI Index ETF,TSX,INAI.TO,Invesco MrnNxtGenAI,INAI,Invesco MrnNxGenAIHg,INAI.F
 QQEQ,Invesco NASDAQ 100 Equal Weight Index ETF,TSX,QQEQ.TO,Invesco NASDQ100=Wgt,QQEQ,Invesco NASDQ100=Heg,QQEQ.F
+QQCI,Invesco NASDAQ 100 Income Advantage ETF,TSX,QQCI.TO,INV NDQ100 IncAdvETF,QQCI
 QQC,Invesco NASDAQ 100 Index ETF,TSX,QQC.TO,Invesco NASDAQ100 C$,QQC,Invesco NASDQ100 Heg,QQC.F
 QQJR,Invesco NASDAQ Next Gen 100 Index ETF,TSX,QQJR.TO,Invesco NASDQNext100,QQJR,InvescoNASDQNxt100Hg,QQJR.F
 IUMF,Invesco Russell 1000 Dynamic-Multifactor Index ETF,TSX,IUMF.TO,InvescoRus1000DynmMF,IUMF,InvescoRus1000DyMFHg,IUMF.F
+EQLI,Invesco S&P 500 Equal Weight Income Advantage ETF,TSX,EQLI.TO,IvSP500 EqWInc AdETF,EQLI
 EQL,Invesco S&P 500 Equal Weight Index ETF,TSX,EQL.TO,Invesco S&P500 EqWgt,EQL,Invesco S&P500EqCA-H,EQL.F,Invesco S&P500Eq USF,EQL.U
 ESG,Invesco S&P 500 ESG Index ETF,TSX,ESG.TO,Invesco S&P500ESG Un,ESG,InvescoS&P500ESG Heg,ESG.F
 ISTE,Invesco S&P 500 ESG Tilt Index ETF,TSX,ISTE.TO,InvescoS&P500 Tlt CA,ISTE,InvescoS&P500 T CaHg,ISTE.F
@@ -5473,7 +5477,6 @@ HUDA,Hudson Acquisition I Corp. - Common Stock,NASDAQ Global MarketSM,HUDA
 HUDAR,Hudson Acquisition I Corp. - Right,NASDAQ Global MarketSM,HUDAR
 HUDAU,Hudson Acquisition I Corp. - Unit,NASDAQ Global MarketSM,HUDAU
 HUDI,"Huadi International Group Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,HUDI
-HUGE,FSD Pharma Inc. - Class B Subordinate Voting Shares,NASDAQ Capital Market,HUGE
 HUIZ,Huize Holding Limited - American Depositary Shares,NASDAQ Global MarketSM,HUIZ
 HUMA,"Humacyte, Inc. - Common Stock",NASDAQ Global Select MarketSM,HUMA
 HUMAW,"Humacyte, Inc. - Warrant",NASDAQ Global Select MarketSM,HUMAW
@@ -6935,6 +6938,7 @@ QMOM,Alpha Architect U.S. Quantitative Momentum ETF,NASDAQ Global MarketSM,QMOM
 QNCX,"Quince Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,QNCX
 QNRX,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",NASDAQ Capital Market,QNRX
 QNST,"QuinStreet, Inc. - Common Stock",NASDAQ Global Select MarketSM,QNST
+QNTM,Quantum Biopharma Ltd. - Class B Subordinate Voting Shares,NASDAQ Capital Market,QNTM
 QOMO,Qomolangma Acquisition Corp. - Common Stock,NASDAQ Capital Market,QOMO
 QOMOR,Qomolangma Acquisition Corp. - Right,NASDAQ Capital Market,QOMOR
 QOMOU,Qomolangma Acquisition Corp. - Unit,NASDAQ Capital Market,QOMOU
@@ -10870,7 +10874,7 @@ SKLZ,Skillz Inc. Class A Common Stock,NYSE,SKLZ
 SKM,"SK Telecom Co., Ltd. Common Stock",NYSE,SKM
 SKT,Tanger Inc. Common Stock,NYSE,SKT
 SKX,"Skechers U.S.A., Inc. Common Stock",NYSE,SKX
-SKY,Skyline Champion Corporation Common Stock,NYSE,SKY
+SKY,"Champion Homes, Inc. Common Stock",NYSE,SKY
 SKYH,Sky Harbour Group Corporation Class A Common Stock,NYSE MKT,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE MKT,SKYH.W
 SLB,Schlumberger N.V. Common Stock,NYSE,SLB
