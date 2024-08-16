@@ -1,5 +1,5 @@
 {
- "date": "2024-08-15",
+ "date": "2024-08-16",
  "data": [
   {
    "symbol": "ONE",
@@ -16710,6 +16710,18 @@
    ]
   },
   {
+   "symbol": "TGX",
+   "name": "TGX Energy \u0026 Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TGX.V",
+   "instruments": [
+    {
+     "name": "TGX Energy \u0026 Resources Inc.",
+     "symbol": "TGX"
+    }
+   ]
+  },
+  {
    "symbol": "FRSH",
    "name": "The Fresh Factory B.C. Ltd.",
    "exchange": "TSXV",
@@ -17438,18 +17450,6 @@
     {
      "name": "TRU Precious Metals Corp.",
      "symbol": "TRU"
-    }
-   ]
-  },
-  {
-   "symbol": "TGX",
-   "name": "True North Gems Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TGX.V",
-   "instruments": [
-    {
-     "name": "True North Gems Inc.",
-     "symbol": "TGX"
     }
    ]
   },
@@ -23766,18 +23766,6 @@
     {
      "name": "Canadian General Inv",
      "symbol": "CGI"
-    }
-   ]
-  },
-  {
-   "symbol": "CIQ.UN",
-   "name": "Canadian High Income Equity Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CIQ.UN.TO",
-   "instruments": [
-    {
-     "name": "Cdn High Incm Eq Un",
-     "symbol": "CIQ.UN"
     }
    ]
   },
@@ -43218,18 +43206,6 @@
    ]
   },
   {
-   "symbol": "VGCX",
-   "name": "Victoria Gold Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "VGCX.TO",
-   "instruments": [
-    {
-     "name": "Victoria Gld Corp J",
-     "symbol": "VGCX"
-    }
-   ]
-  },
-  {
    "symbol": "VQS",
    "name": "VIQ Solutions Inc.",
    "exchange": "TSX",
@@ -43582,6 +43558,10 @@
     {
      "name": "WSP Global Inc.",
      "symbol": "WSP"
+    },
+    {
+     "name": "WSP Global Inc SbRpt",
+     "symbol": "WSP.R"
     }
    ]
   },
@@ -43666,24 +43646,6 @@
    "name": "ATA Creativity Global - American Depositary Shares, each representing two common shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AACG"
-  },
-  {
-   "symbol": "AACI",
-   "name": "Armada Acquisition Corp. I - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AACI"
-  },
-  {
-   "symbol": "AACIU",
-   "name": "Armada Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AACIU"
-  },
-  {
-   "symbol": "AACIW",
-   "name": "Armada Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AACIW"
   },
   {
    "symbol": "AADI",
@@ -48444,12 +48406,6 @@
    "yahoo_symbol": "CATY"
   },
   {
-   "symbol": "CAUD",
-   "name": "Collective Audience, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAUD"
-  },
-  {
    "symbol": "CBAN",
    "name": "Colony Bankcorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -53167,7 +53123,7 @@
   },
   {
    "symbol": "FFIE",
-   "name": "Faraday Future Intelligent Electric Inc. - Common Stock",
+   "name": "Faraday Future Intelligent Electric Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FFIE"
   },
@@ -53860,6 +53816,18 @@
    "name": "First Savings Financial Group, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FSFG"
+  },
+  {
+   "symbol": "FSHP",
+   "name": "Flag Ship Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSHP"
+  },
+  {
+   "symbol": "FSHPR",
+   "name": "Flag Ship Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSHPR"
   },
   {
    "symbol": "FSHPU",
@@ -55174,12 +55142,6 @@
    "name": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GRID"
-  },
-  {
-   "symbol": "GRIN",
-   "name": "Grindrod Shipping Holdings Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GRIN"
   },
   {
    "symbol": "GRNQ",
@@ -58052,7 +58014,7 @@
   {
    "symbol": "JTAI",
    "name": "Jet.AI Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JTAI"
   },
   {
@@ -58064,7 +58026,7 @@
   {
    "symbol": "JTAIZ",
    "name": "Jet.AI Inc. - Merger Consideration Warrants",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JTAIZ"
   },
   {
@@ -59706,24 +59668,6 @@
    "yahoo_symbol": "LZ"
   },
   {
-   "symbol": "MACA",
-   "name": "Moringa Acquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MACA"
-  },
-  {
-   "symbol": "MACAU",
-   "name": "Moringa Acquisition Corp - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MACAU"
-  },
-  {
-   "symbol": "MACAW",
-   "name": "Moringa Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MACAW"
-  },
-  {
    "symbol": "MACI",
    "name": "Melar Acquisition Corp. I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -61012,6 +60956,12 @@
    "name": "MicroStrategy Incorporated - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MSTR"
+  },
+  {
+   "symbol": "MSTX",
+   "name": "Defiance Daily Target 1.75x Long MSTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSTX"
   },
   {
    "symbol": "MTC",
@@ -67926,12 +67876,6 @@
    "yahoo_symbol": "SPWH"
   },
   {
-   "symbol": "SPWR",
-   "name": "SunPower Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SPWR"
-  },
-  {
    "symbol": "SQFT",
    "name": "Presidio Property Trust, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -69606,6 +69550,12 @@
    "yahoo_symbol": "TSLZ"
   },
   {
+   "symbol": "TSPY",
+   "name": "TappAlpha SPY Growth \u0026 Daily Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSPY"
+  },
+  {
    "symbol": "TSVT",
    "name": "2seventy bio, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -70702,6 +70652,12 @@
    "name": "Valley National Bancorp - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VLY"
+  },
+  {
+   "symbol": "VLYPN",
+   "name": "Valley National Bancorp - 8.250% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VLYPN"
   },
   {
    "symbol": "VLYPO",
@@ -72124,6 +72080,12 @@
    "name": "17 Education \u0026 Technology Group Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "YQ"
+  },
+  {
+   "symbol": "YQQQ",
+   "name": "YieldMax Short N100 Option Income Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YQQQ"
   },
   {
    "symbol": "YTRA",
@@ -80628,10 +80590,22 @@
    "yahoo_symbol": "GPS"
   },
   {
+   "symbol": "GRAF",
+   "name": "Graf Global Corp. Class A ordinary shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRAF"
+  },
+  {
    "symbol": "GRAF.U",
    "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "GRAF.U"
+  },
+  {
+   "symbol": "GRAF.W",
+   "name": "Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRAF.W"
   },
   {
    "symbol": "GRBK",
@@ -88156,6 +88130,12 @@
    "name": "SilverBox Corp III Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
    "exchange": "NYSE",
    "yahoo_symbol": "SBXC.W"
+  },
+  {
+   "symbol": "SBXD.U",
+   "name": "SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXD.U"
   },
   {
    "symbol": "SCCC",
