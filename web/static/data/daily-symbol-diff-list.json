@@ -1,162 +1,144 @@
 {
  "added": [
   {
-   "symbol": "FSHP",
-   "name": "Flag Ship Acquisition Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSHP"
+   "symbol": "CLCO",
+   "name": "Culico Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLCO.V",
+   "instruments": [
+    {
+     "name": "Culico Metals Inc.",
+     "symbol": "CLCO"
+    }
+   ]
   },
   {
-   "symbol": "FSHPR",
-   "name": "Flag Ship Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSHPR"
+   "symbol": "HOH",
+   "name": "High Arctic Overseas Holdings Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HOH.V",
+   "instruments": [
+    {
+     "name": "High Arctic Overseas Holdings Corp.",
+     "symbol": "HOH"
+    }
+   ]
   },
   {
-   "symbol": "JTAI",
-   "name": "Jet.AI Inc. - Common Stock",
+   "symbol": "CORE",
+   "name": "PIMCO Canadian Core Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CORE.TO",
+   "instruments": [
+    {
+     "name": "Pimco CdCr BndFndETF",
+     "symbol": "CORE"
+    }
+   ]
+  },
+  {
+   "symbol": "HONDU",
+   "name": "HCM II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HONDU"
+  },
+  {
+   "symbol": "ONMD",
+   "name": "OneMedNet Corp - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JTAI"
+   "yahoo_symbol": "ONMD"
   },
   {
-   "symbol": "JTAIZ",
-   "name": "Jet.AI Inc. - Merger Consideration Warrants",
+   "symbol": "RZLV",
+   "name": "Rezolve AI Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RZLV"
+  },
+  {
+   "symbol": "RZLVW",
+   "name": "Rezolve AI Limited - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JTAIZ"
+   "yahoo_symbol": "RZLVW"
   },
   {
-   "symbol": "MSTX",
-   "name": "Defiance Daily Target 1.75x Long MSTR ETF",
+   "symbol": "SLXN",
+   "name": "Biomotion Sciences - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSTX"
+   "yahoo_symbol": "SLXN"
   },
   {
-   "symbol": "TSPY",
-   "name": "TappAlpha SPY Growth \u0026 Daily Income ETF",
+   "symbol": "SLXNW",
+   "name": "Biomotion Sciences - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLXNW"
+  },
+  {
+   "symbol": "YXT",
+   "name": "YXT.COM GROUP HOLDING LIMITED - American Depository Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSPY"
-  },
-  {
-   "symbol": "VLYPN",
-   "name": "Valley National Bancorp - 8.250% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VLYPN"
-  },
-  {
-   "symbol": "YQQQ",
-   "name": "YieldMax Short N100 Option Income Strategy ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YQQQ"
-  },
-  {
-   "symbol": "GRAF",
-   "name": "Graf Global Corp. Class A ordinary shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GRAF"
-  },
-  {
-   "symbol": "GRAF.W",
-   "name": "Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GRAF.W"
-  },
-  {
-   "symbol": "SBXD.U",
-   "name": "SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBXD.U"
+   "yahoo_symbol": "YXT"
   }
  ],
  "removed": [
   {
-   "symbol": "JTAI",
-   "name": "Jet.AI Inc. - Common Stock",
+   "symbol": "KCGI",
+   "name": "Kensington Capital Acquisition Corp. V Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCGI"
+  },
+  {
+   "symbol": "KCGI.W",
+   "name": "Kensington Capital Acquisition Corp. V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCGI.W"
+  },
+  {
+   "symbol": "ONMD",
+   "name": "OneMedNet Corp - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JTAI"
+   "yahoo_symbol": "ONMD"
   },
   {
-   "symbol": "MACA",
-   "name": "Moringa Acquisition Corp - Class A Ordinary Shares",
+   "symbol": "GROM",
+   "name": "Grom Social Enterprises Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MACA"
+   "yahoo_symbol": "GROM"
   },
   {
-   "symbol": "VGCX",
-   "name": "Victoria Gold Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "VGCX.TO",
+   "symbol": "MORF",
+   "name": "Morphic Holding, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MORF"
+  },
+  {
+   "symbol": "GROMW",
+   "name": "Grom Social Enterprises Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GROMW"
+  },
+  {
+   "symbol": "CPB",
+   "name": "Campbell Soup Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPB"
+  },
+  {
+   "symbol": "BP",
+   "name": "Backstageplay Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BP.V",
    "instruments": [
     {
-     "name": "Victoria Gld Corp J",
-     "symbol": "VGCX"
+     "name": "Backstageplay Inc.",
+     "symbol": "BP"
     }
    ]
   },
   {
-   "symbol": "CIQ.UN",
-   "name": "Canadian High Income Equity Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CIQ.UN.TO",
-   "instruments": [
-    {
-     "name": "Cdn High Incm Eq Un",
-     "symbol": "CIQ.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "SPWR",
-   "name": "SunPower Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SPWR"
-  },
-  {
-   "symbol": "GRIN",
-   "name": "Grindrod Shipping Holdings Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GRIN"
-  },
-  {
-   "symbol": "AACI",
-   "name": "Armada Acquisition Corp. I - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AACI"
-  },
-  {
-   "symbol": "AACIU",
-   "name": "Armada Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AACIU"
-  },
-  {
-   "symbol": "MACAU",
-   "name": "Moringa Acquisition Corp - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MACAU"
-  },
-  {
-   "symbol": "MACAW",
-   "name": "Moringa Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MACAW"
-  },
-  {
-   "symbol": "JTAIZ",
-   "name": "Jet.AI Inc. - Merger Consideration Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JTAIZ"
-  },
-  {
-   "symbol": "AACIW",
-   "name": "Armada Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AACIW"
-  },
-  {
-   "symbol": "CAUD",
-   "name": "Collective Audience, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAUD"
+   "symbol": "KCGI.U",
+   "name": "Kensington Capital Acquisition Corp. V Units, each consisting of one Class A ordinary share and three-fourths of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCGI.U"
   }
  ]
 }
