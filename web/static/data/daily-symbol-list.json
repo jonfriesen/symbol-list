@@ -1,5 +1,5 @@
 {
- "date": "2024-08-20",
+ "date": "2024-08-21",
  "data": [
   {
    "symbol": "ONE",
@@ -31790,6 +31790,38 @@
    ]
   },
   {
+   "symbol": "AMHE",
+   "name": "Harvest Amazon Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMHE.TO",
+   "instruments": [
+    {
+     "name": "HvAmzn EnhHIShr ETFA",
+     "symbol": "AMHE"
+    },
+    {
+     "name": "HvAmzn EnhHIShr ETFU",
+     "symbol": "AMHE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AMZH",
+   "name": "Harvest Amazon High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMZH.TO",
+   "instruments": [
+    {
+     "name": "HvAmzn HghInShr ETFA",
+     "symbol": "AMZH"
+    },
+    {
+     "name": "HvAmzn HghInShr ETFU",
+     "symbol": "AMZH.U"
+    }
+   ]
+  },
+  {
    "symbol": "HBIE",
    "name": "Harvest Balanced Income \u0026 Growth Enhanced ETF",
    "exchange": "TSX",
@@ -31890,6 +31922,38 @@
     {
      "name": "Harvest DiverMoIncmA",
      "symbol": "HDIF"
+    }
+   ]
+  },
+  {
+   "symbol": "LLHE",
+   "name": "Harvest Eli Lilly Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LLHE.TO",
+   "instruments": [
+    {
+     "name": "HELily EnHIn ShrETFA",
+     "symbol": "LLHE"
+    },
+    {
+     "name": "HELily EnHIn ShrETFU",
+     "symbol": "LLHE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "LLYH",
+   "name": "Harvest Eli Lilly High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LLYH.TO",
+   "instruments": [
+    {
+     "name": "HELily HInc ShrETFA",
+     "symbol": "LLYH"
+    },
+    {
+     "name": "HELily HInc ShrETFU",
+     "symbol": "LLYH.U"
     }
    ]
   },
@@ -31998,6 +32062,70 @@
     {
      "name": "Harv Ind Ldr Inc Etf",
      "symbol": "HIND"
+    }
+   ]
+  },
+  {
+   "symbol": "MSHE",
+   "name": "Harvest Microsoft Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSHE.TO",
+   "instruments": [
+    {
+     "name": "HvMsft EHgIn ShrETFA",
+     "symbol": "MSHE"
+    },
+    {
+     "name": "HvMsft EHgIn ShrETFU",
+     "symbol": "MSHE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MSFH",
+   "name": "Harvest Microsoft High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSFH.TO",
+   "instruments": [
+    {
+     "name": "HvMsft HghIn ShrETFA",
+     "symbol": "MSFH"
+    },
+    {
+     "name": "HvMsft HghIn ShrETFU",
+     "symbol": "MSFH.U"
+    }
+   ]
+  },
+  {
+   "symbol": "NVHE",
+   "name": "Harvest NVIDIA Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVHE.TO",
+   "instruments": [
+    {
+     "name": "HvNVIDIA EHInSh ETFA",
+     "symbol": "NVHE"
+    },
+    {
+     "name": "HvNVIDIA EHInSh ETFU",
+     "symbol": "NVHE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "NVDH",
+   "name": "Harvest NVIDIA High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVDH.TO",
+   "instruments": [
+    {
+     "name": "HvNVIDIA HInShr ETFA",
+     "symbol": "NVDH"
+    },
+    {
+     "name": "HvNVIDIA HInShr ETFU",
+     "symbol": "NVDH.U"
     }
    ]
   },
@@ -60468,12 +60596,6 @@
    "yahoo_symbol": "MLYS"
   },
   {
-   "symbol": "MMAT",
-   "name": "Meta Materials Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MMAT"
-  },
-  {
    "symbol": "MMLP",
    "name": "Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61180,6 +61302,12 @@
    "name": "NB Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NBBK"
+  },
+  {
+   "symbol": "NBIS",
+   "name": "Nebius Group N.V. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NBIS"
   },
   {
    "symbol": "NBIX",
@@ -64890,6 +65018,12 @@
    "yahoo_symbol": "QH"
   },
   {
+   "symbol": "QHDG",
+   "name": "Innovator Hedged Nasdaq-100 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QHDG"
+  },
+  {
    "symbol": "QIPT",
    "name": "Quipt Home Medical Corp. - Common Shares",
    "exchange": "NASDAQ Capital Market",
@@ -65026,6 +65160,12 @@
    "name": "Direxion NASDAQ-100 Equal Weighted Index Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QQQE"
+  },
+  {
+   "symbol": "QQQG",
+   "name": "Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQG"
   },
   {
    "symbol": "QQQI",
@@ -67327,13 +67467,13 @@
   },
   {
    "symbol": "SLXN",
-   "name": "Biomotion Sciences - Ordinary Shares",
+   "name": "Silexion Therapeutics Corp - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SLXN"
   },
   {
    "symbol": "SLXNW",
-   "name": "Biomotion Sciences - Warrant",
+   "name": "Silexion Therapeutics Corp - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SLXNW"
   },
@@ -72024,12 +72164,6 @@
    "yahoo_symbol": "YMAB"
   },
   {
-   "symbol": "YNDX",
-   "name": "Yandex N.V. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "YNDX"
-  },
-  {
    "symbol": "YORW",
    "name": "The York Water Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72958,12 +73092,6 @@
    "name": "Applied Industrial Technologies, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "AIT"
-  },
-  {
-   "symbol": "AIU",
-   "name": "Meta Data Limited American Depositary Shares, each representing ten (10) Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AIU"
   },
   {
    "symbol": "AIV",

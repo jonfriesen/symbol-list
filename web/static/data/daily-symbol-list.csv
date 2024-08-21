@@ -2484,6 +2484,8 @@ HUM,Hamilton U.S. Mid-Cap Financials ETF,TSX,HUM.TO,Hamilton USMidFinEtf,HUM
 UMAX,Hamilton Utilities YIELD MAXIMIZER TM ETF,TSX,UMAX.TO,Ham UtilYldMx TM ETF,UMAX
 HMM.A,Hammond Manufacturing Company Limited,TSX,HMM.A.TO,Hammond Mfg Cl A SV,HMM.A
 HPS.A,Hammond Power Solutions Inc.,TSX,HPS.A.TO,Hammond Power A SV,HPS.A
+AMHE,Harvest Amazon Enhanced High Income Shares ETF,TSX,AMHE.TO,HvAmzn EnhHIShr ETFA,AMHE,HvAmzn EnhHIShr ETFU,AMHE.U
+AMZH,Harvest Amazon High Income Shares ETF,TSX,AMZH.TO,HvAmzn HghInShr ETFA,AMZH,HvAmzn HghInShr ETFU,AMZH.U
 HBIE,Harvest Balanced Income & Growth Enhanced ETF,TSX,HBIE.TO,Harv Bl Inc GrEh Etf,HBIE
 HBIG,Harvest Balanced Income & Growth ETF,TSX,HBIG.TO,Harv Bl Inc & Gr Etf,HBIG
 HBF,Harvest Brand Leaders Plus Income ETF,TSX,HBF.TO,HarvestBrndLdr+ A Un,HBF,HarvestBrndLdr+B U-H,HBF.B,HarvestBrndLdr+US Un,HBF.U
@@ -2492,6 +2494,8 @@ TBIL,Harvest Canadian T-Bill ETF,TSX,TBIL.TO,Harvest Cdn T-Bill,TBIL
 HCLN,Harvest Clean Energy ETF,TSX,HCLN.TO,Harvest CleanEngy Un,HCLN
 HRIF,Harvest Diversified Equity Income ETF,TSX,HRIF.TO,Harvest Divers Eq Un,HRIF
 HDIF,Harvest Diversified Monthly Income ETF,TSX,HDIF.TO,Harvest DiverMoIncmA,HDIF
+LLHE,Harvest Eli Lilly Enhanced High Income Shares ETF,TSX,LLHE.TO,HELily EnHIn ShrETFA,LLHE,HELily EnHIn ShrETFU,LLHE.U
+LLYH,Harvest Eli Lilly High Income Shares ETF,TSX,LLYH.TO,HELily HInc ShrETFA,LLYH,HELily HInc ShrETFU,LLYH.U
 HPF,Harvest Energy Leaders Plus Income ETF,TSX,HPF.TO,HarvestEnergyLdr+ Un,HPF,HarvestEnergyLdr+ US,HPF.U
 HUTE,Harvest Equal Weight Global Utilities Enhanced Income ETF,TSX,HUTE.TO,Harvest EqlWG Util A,HUTE
 HUTL,Harvest Equal Weight Global Utilities Income ETF,TSX,HUTL.TO,Harvest Eq Wght Util,HUTL
@@ -2500,6 +2504,10 @@ HGR,Harvest Global REIT Leaders Income ETF,TSX,HGR.TO,HarvestGlblREITLdr A,HGR
 HHLE,Harvest Healthcare Leaders Enhanced Income ETF,TSX,HHLE.TO,Harvest HlthcrIncm A,HHLE
 HHL,Harvest Healthcare Leaders Income ETF,TSX,HHL.TO,Harvest HlthcrLdr Un,HHL,HarvestHealthcrB U-H,HHL.B,HarvestHealthcare US,HHL.U
 HIND,Harvest Industrial Leaders Income ETF,TSX,HIND.TO,Harv Ind Ldr Inc Etf,HIND
+MSHE,Harvest Microsoft Enhanced High Income Shares ETF,TSX,MSHE.TO,HvMsft EHgIn ShrETFA,MSHE,HvMsft EHgIn ShrETFU,MSHE.U
+MSFH,Harvest Microsoft High Income Shares ETF,TSX,MSFH.TO,HvMsft HghIn ShrETFA,MSFH,HvMsft HghIn ShrETFU,MSFH.U
+NVHE,Harvest NVIDIA Enhanced High Income Shares ETF,TSX,NVHE.TO,HvNVIDIA EHInSh ETFA,NVHE,HvNVIDIA EHInSh ETFU,NVHE.U
+NVDH,Harvest NVIDIA High Income Shares ETF,TSX,NVDH.TO,HvNVIDIA HInShr ETFA,NVDH,HvNVIDIA HInShr ETFU,NVDH.U
 HPYM,Harvest Premium Yield 7-10 Year Treasury ETF,TSX,HPYM.TO,Harvst PremYld7-10Yr,HPYM,Harvst PremYld7-10US,HPYM.U
 HPYT,Harvest Premium Yield Treasury ETF,TSX,HPYT.TO,Harvest PremYldTreas,HPYT,Harv Prem Yld Tr ETF,HPYT.B,Harvst PremYldTreaUS,HPYT.U
 HTAE,Harvest Tech Achievers Enhanced Income ETF,TSX,HTAE.TO,Harvest TechAchiev A,HTAE
@@ -6177,7 +6185,6 @@ MLGO,"MicroAlgo, Inc. - Ordinary Shares",NASDAQ Capital Market,MLGO
 MLKN,"MillerKnoll, Inc. - Common Stock",NASDAQ Global Select MarketSM,MLKN
 MLTX,MoonLake Immunotherapeutics - Class A Ordinary Shares,NASDAQ Capital Market,MLTX
 MLYS,"Mineralys Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MLYS
-MMAT,Meta Materials Inc. - Common Stock,NASDAQ Capital Market,MMAT
 MMLP,Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests,NASDAQ Global Select MarketSM,MMLP
 MMSI,"Merit Medical Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,MMSI
 MMV,MultiMetaVerse Holdings Limited - Class A Ordinary Share,NASDAQ Capital Market,MMV
@@ -6296,6 +6303,7 @@ NAUT,"Nautilus Biotechnology, Inc. - Common Stock",NASDAQ Global Select MarketSM
 NAVI,Navient Corporation - Common Stock,NASDAQ Global Select MarketSM,NAVI
 NB,NioCorp Developments Ltd. - Common Stock,NASDAQ Global MarketSM,NB
 NBBK,"NB Bancorp, Inc. - Common Stock",NASDAQ Capital Market,NBBK
+NBIS,Nebius Group N.V. - Class A Ordinary Shares,NASDAQ Global Select MarketSM,NBIS
 NBIX,"Neurocrine Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,NBIX
 NBN,Northeast Bank - Common Stock,NASDAQ Global MarketSM,NBN
 NBST,Newbury Street Acquisition Corporation - Common Stock,NASDAQ Capital Market,NBST
@@ -6914,6 +6922,7 @@ QETAR,Quetta Acquisition Corporation - Right,NASDAQ Global MarketSM,QETAR
 QETAU,Quetta Acquisition Corporation - Unit,NASDAQ Global MarketSM,QETAU
 QFIN,"Qifu Technology, Inc - American Depositary Shares",NASDAQ Global Select MarketSM,QFIN
 QH,Quhuo Limited - American Depository Shares,NASDAQ Global MarketSM,QH
+QHDG,Innovator Hedged Nasdaq-100 ETF,NASDAQ Global MarketSM,QHDG
 QIPT,Quipt Home Medical Corp. - Common Shares,NASDAQ Capital Market,QIPT
 QLGN,"Qualigen Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,QLGN
 QLYS,"Qualys, Inc. - Common Stock",NASDAQ Global Select MarketSM,QLYS
@@ -6937,6 +6946,7 @@ QQMG,Invesco ESG NASDAQ 100 ETF,NASDAQ Global MarketSM,QQMG
 QQQ,"Invesco QQQ Trust, Series 1",NASDAQ Global MarketSM,QQQ
 QQQA,ProShares Nasdaq-100 Dorsey Wright Momentum ETF,NASDAQ Global MarketSM,QQQA
 QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,NASDAQ Global MarketSM,QQQE
+QQQG,Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF,NASDAQ Global MarketSM,QQQG
 QQQI,NEOS Nasdaq 100 High Income ETF,NASDAQ Global MarketSM,QQQI
 QQQJ,Invesco NASDAQ Next Gen 100 ETF,NASDAQ Global MarketSM,QQQJ
 QQQM,Invesco NASDAQ 100 ETF,NASDAQ Global MarketSM,QQQM
@@ -7320,8 +7330,8 @@ SLRN,"ACELYRIN, INC. - Common Stock",NASDAQ Global Select MarketSM,SLRN
 SLRX,"Salarius Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,SLRX
 SLS,"SELLAS Life Sciences Group, Inc.  - Common Stock",NASDAQ Capital Market,SLS
 SLVO,"ETRACS Silver Shares Covered Call ETNs due April 21, 2033",NASDAQ Global MarketSM,SLVO
-SLXN,Biomotion Sciences - Ordinary Shares,NASDAQ Global MarketSM,SLXN
-SLXNW,Biomotion Sciences - Warrant,NASDAQ Capital Market,SLXNW
+SLXN,Silexion Therapeutics Corp - Ordinary Shares,NASDAQ Global MarketSM,SLXN
+SLXNW,Silexion Therapeutics Corp - Warrant,NASDAQ Capital Market,SLXNW
 SMBC,"Southern Missouri Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,SMBC
 SMCF,Themes US Small Cap Cash Flow Champions ETF,NASDAQ Global MarketSM,SMCF
 SMCI,"Super Micro Computer, Inc. - Common Stock",NASDAQ Global Select MarketSM,SMCI
@@ -8103,7 +8113,6 @@ YIBO,Planet Image International Limited - Class A Ordinary Shares,NASDAQ Capital
 YJ,Yunji Inc. - American Depository Shares,NASDAQ Capital Market,YJ
 YLDE,ClearBridge Dividend Strategy ESG ETF,NASDAQ Global MarketSM,YLDE
 YMAB,"Y-mAbs Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,YMAB
-YNDX,Yandex N.V. - Class A Ordinary Shares,NASDAQ Global Select MarketSM,YNDX
 YORW,The York Water Company - Common Stock,NASDAQ Global Select MarketSM,YORW
 YOSH,Yoshiharu Global Co. - Class A Common Stock,NASDAQ Capital Market,YOSH
 YOTA,Yotta Acquisition Corporation - Common Stock,NASDAQ Capital Market,YOTA
@@ -8259,7 +8268,6 @@ AIO,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares
 AIR,AAR Corp. Common Stock,NYSE,AIR
 AIRI,Air Industries Group Common Stock,NYSE MKT,AIRI
 AIT,"Applied Industrial Technologies, Inc. Common Stock",NYSE,AIT
-AIU,"Meta Data Limited American Depositary Shares, each representing ten (10) Class A Ordinary Shares",NYSE,AIU
 AIV,Apartment Investment and Management Company Common Stock,NYSE,AIV
 AIZ,"Assurant, Inc. Common Stock",NYSE,AIZ
 AIZN,"Assurant, Inc. 5.25% Subordinated Notes due 2061",NYSE,AIZN
