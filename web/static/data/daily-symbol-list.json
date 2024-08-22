@@ -1,5 +1,5 @@
 {
- "date": "2024-08-21",
+ "date": "2024-08-22",
  "data": [
   {
    "symbol": "ONE",
@@ -16814,10 +16814,6 @@
     {
      "name": "Theralase Technologies Inc.",
      "symbol": "TLT"
-    },
-    {
-     "name": "Theralase Technologies Inc. wt 22Aug2024",
-     "symbol": "TLT.WT"
     }
    ]
   },
@@ -16974,18 +16970,6 @@
     {
      "name": "Till Capital Corporation",
      "symbol": "TIL"
-    }
-   ]
-  },
-  {
-   "symbol": "TBR",
-   "name": "Timberline Resources Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TBR.V",
-   "instruments": [
-    {
-     "name": "Timberline Resources Corporation",
-     "symbol": "TBR"
     }
    ]
   },
@@ -28362,18 +28346,6 @@
    ]
   },
   {
-   "symbol": "FANS",
-   "name": "FansUnite Entertainment Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "FANS.TO",
-   "instruments": [
-    {
-     "name": "FansUnite Entrtnmt J",
-     "symbol": "FANS"
-    }
-   ]
-  },
-  {
    "symbol": "FDY",
    "name": "Faraday Copper Corp.",
    "exchange": "TSX",
@@ -31714,6 +31686,10 @@
     {
      "name": "Ham USBndYldMxTM ETF",
      "symbol": "HBND"
+    },
+    {
+     "name": "Ham USBndYldMxTM ETF",
+     "symbol": "HBND.U"
     }
    ]
   },
@@ -46226,12 +46202,6 @@
    "yahoo_symbol": "ATRC"
   },
   {
-   "symbol": "ATRI",
-   "name": "Atrion Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ATRI"
-  },
-  {
    "symbol": "ATRO",
    "name": "Astronics Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -47106,12 +47076,6 @@
    "name": "Bilibili Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BILI"
-  },
-  {
-   "symbol": "BIMI",
-   "name": "BIMI International Medical Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BIMI"
   },
   {
    "symbol": "BIOR",
@@ -67556,6 +67520,12 @@
    "yahoo_symbol": "SMSI"
   },
   {
+   "symbol": "SMST",
+   "name": "Defiance Daily Target 1.5x Short MSTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMST"
+  },
+  {
    "symbol": "SMTC",
    "name": "Semtech Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73892,12 +73862,6 @@
    "yahoo_symbol": "ASX"
   },
   {
-   "symbol": "ASXC",
-   "name": "Asensus Surgical, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ASXC"
-  },
-  {
    "symbol": "ATCH",
    "name": "AtlasClear Holdings, Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -76368,6 +76332,12 @@
    "name": "Chimera Investment Corporation 9.000% Senior Notes due 2029",
    "exchange": "NYSE",
    "yahoo_symbol": "CIMN"
+  },
+  {
+   "symbol": "CIMO",
+   "name": "Chimera Investment Corporation 9.250% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIMO"
   },
   {
    "symbol": "CINT",
@@ -80006,6 +79976,12 @@
    "yahoo_symbol": "GAM$B"
   },
   {
+   "symbol": "GAP",
+   "name": "Gap, Inc. (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GAP"
+  },
+  {
    "symbol": "GATO",
    "name": "Gatos Silver, Inc. Common Stock",
    "exchange": "NYSE",
@@ -80700,12 +80676,6 @@
    "name": "Geopark Ltd Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "GPRK"
-  },
-  {
-   "symbol": "GPS",
-   "name": "Gap, Inc. (The) Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GPS"
   },
   {
    "symbol": "GRAF",
@@ -83124,12 +83094,6 @@
    "name": "Terran Orbital Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LLAP"
-  },
-  {
-   "symbol": "LLAP.W",
-   "name": "Terran Orbital Corporation Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LLAP.W"
   },
   {
    "symbol": "LLY",
