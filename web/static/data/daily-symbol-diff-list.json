@@ -1,78 +1,48 @@
 {
  "added": [
   {
-   "symbol": "SMST",
-   "name": "Defiance Daily Target 1.5x Short MSTR ETF",
+   "symbol": "AVGX",
+   "name": "Defiance Daily Target 2X Long AVGO ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMST"
+   "yahoo_symbol": "AVGX"
   },
   {
-   "symbol": "CIMO",
-   "name": "Chimera Investment Corporation 9.250% Senior Notes due 2029",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CIMO"
+   "symbol": "SMCX",
+   "name": "Defiance Daily Target 2X Long SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCX"
   },
   {
-   "symbol": "GAP",
-   "name": "Gap, Inc. (The) Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GAP"
+   "symbol": "GPUS",
+   "name": "Alset AI Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPUS.V",
+   "instruments": [
+    {
+     "name": "Alset AI Ventures Inc.",
+     "symbol": "GPUS"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "FANS",
-   "name": "FansUnite Entertainment Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "FANS.TO",
-   "instruments": [
-    {
-     "name": "FansUnite Entrtnmt J",
-     "symbol": "FANS"
-    }
-   ]
-  },
-  {
-   "symbol": "GPS",
-   "name": "Gap, Inc. (The) Common Stock",
+   "symbol": "ALLG",
+   "name": "Allego N.V. Ordinary Share",
    "exchange": "NYSE",
-   "yahoo_symbol": "GPS"
+   "yahoo_symbol": "ALLG"
   },
   {
-   "symbol": "LLAP.W",
-   "name": "Terran Orbital Corporation Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LLAP.W"
-  },
-  {
-   "symbol": "TBR",
-   "name": "Timberline Resources Corporation",
+   "symbol": "KSUM",
+   "name": "Alset Capital Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TBR.V",
+   "yahoo_symbol": "KSUM.V",
    "instruments": [
     {
-     "name": "Timberline Resources Corporation",
-     "symbol": "TBR"
+     "name": "Alset Capital Inc.",
+     "symbol": "KSUM"
     }
    ]
-  },
-  {
-   "symbol": "ATRI",
-   "name": "Atrion Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ATRI"
-  },
-  {
-   "symbol": "ASXC",
-   "name": "Asensus Surgical, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ASXC"
-  },
-  {
-   "symbol": "BIMI",
-   "name": "BIMI International Medical Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BIMI"
   }
  ]
 }
