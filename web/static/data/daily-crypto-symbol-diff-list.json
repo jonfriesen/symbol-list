@@ -1,70 +1,93 @@
 {
  "added": [
   {
-   "symbol": "HBCH",
-   "name": "Huobi BCH (HBCH)",
+   "symbol": "BASE",
+   "name": "Base Protocol (BASE)"
+  },
+  {
+   "symbol": "AUNI",
+   "name": "Uniswap Protocol Token (Avalanche Bride) (AUNI)"
+  },
+  {
+   "symbol": "SHIBEINU",
+   "name": "Shibe Inu (SHIBEINU)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "HBSV",
-   "name": "Huobi BSV (HBSV)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ABDAI",
-   "name": "Dai (Avalanche Bride) (ABDAI)"
-  },
-  {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "HLTC",
-   "name": "Huobi LTC (HLTC)",
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DAIE",
+   "name": "Dai (Avalanche Bridge) (DAIE)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "INST",
+   "name": "Instadapp (INST)",
    "built_on": "ETH"
   },
   {
-   "symbol": "HETH",
-   "name": "Huobi Ethereum (HETH)"
+   "symbol": "WOLF",
+   "name": "Landwolf (WOLF)"
   },
   {
-   "symbol": "AB1INCH",
-   "name": "1inch (Avalanche Bride) (AB1INCH)"
+   "symbol": "AXS",
+   "name": "Axie Infinity Shards (AXS)",
+   "built_on": "RONIN"
   },
   {
-   "symbol": "HFIL",
-   "name": "Huobi Fil (HFIL)",
-   "built_on": "ETH"
+   "symbol": "CRVE",
+   "name": "Curve DAO Token (Avalanche Bridge) (CRVE)",
+   "built_on": "AVAX"
   }
  ],
  "removed": [
   {
+   "symbol": "WOLF",
+   "name": "Landwolf (WOLF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "INST",
+   "name": "Instadapp (INST)"
+  },
+  {
+   "symbol": "AUNI",
+   "name": "Uniswap Protocol Token (Avalanche Bride) (AUNI)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "SHIBE",
+   "name": "Shibe Inu (SHIBE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AXS",
+   "name": "Axie Infinity Shards (AXS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ACRV",
+   "name": "Curve DAO Token (Avalanche Bride) (ACRV)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BASE",
+   "name": "Base Protocol (BASE)",
+   "built_on": "ETH"
+  },
+  {
    "symbol": "ABDAI",
-   "name": "Dai (Avalanche Bride) (ABDAI)",
-   "built_on": "AVAX"
-  },
-  {
-   "symbol": "HETH",
-   "name": "Huobi Ethereum (HETH)",
-   "built_on": "HT"
-  },
-  {
-   "symbol": "HFIL",
-   "name": "Huobi Fil (HFIL)"
-  },
-  {
-   "symbol": "AB1INCH",
-   "name": "1inch (Avalanche Bride) (AB1INCH)",
-   "built_on": "AVAX"
+   "name": "Dai (Avalanche Bride) (ABDAI)"
   }
  ]
 }
