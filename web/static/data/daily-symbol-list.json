@@ -1,5 +1,5 @@
 {
- "date": "2024-08-29",
+ "date": "2024-08-30",
  "data": [
   {
    "symbol": "ONE",
@@ -23474,10 +23474,6 @@
     {
      "name": "Brookfld ReinsurLV A",
      "symbol": "BNRE"
-    },
-    {
-     "name": "Brookfld ReinsrNV A1",
-     "symbol": "BNRE.A"
     }
    ]
   },
@@ -54742,6 +54738,12 @@
    "yahoo_symbol": "GIFI"
   },
   {
+   "symbol": "GIGGU",
+   "name": "GigCapital7 Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIGGU"
+  },
+  {
    "symbol": "GIGM",
    "name": "GigaMedia Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -69959,7 +69961,7 @@
   },
   {
    "symbol": "UCAR",
-   "name": "U Power Limited - Ordinary Shares",
+   "name": "U Power Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "UCAR"
   },
@@ -75322,12 +75324,6 @@
    "yahoo_symbol": "BNRE"
   },
   {
-   "symbol": "BNRE.A",
-   "name": "Brookfield Reinsurance Ltd. Class A-1 Exchangeable Non-Voting Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BNRE.A"
-  },
-  {
    "symbol": "BNS",
    "name": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
    "exchange": "NYSE",
@@ -78293,7 +78289,7 @@
   },
   {
    "symbol": "EBS",
-   "name": "Emergent Biosolutions, Inc. Common Stock",
+   "name": "Emergent BioSolutions Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "EBS"
   },

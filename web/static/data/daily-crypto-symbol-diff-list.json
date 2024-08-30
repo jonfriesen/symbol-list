@@ -1,93 +1,110 @@
 {
  "added": [
   {
-   "symbol": "BASE",
-   "name": "Base Protocol (BASE)"
-  },
-  {
-   "symbol": "AUNI",
-   "name": "Uniswap Protocol Token (Avalanche Bride) (AUNI)"
-  },
-  {
-   "symbol": "SHIBEINU",
-   "name": "Shibe Inu (SHIBEINU)",
+   "symbol": "FOFARIO",
+   "name": "Fofar (FOFARIO)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "DAIE",
-   "name": "Dai (Avalanche Bridge) (DAIE)",
-   "built_on": "AVAX"
-  },
-  {
-   "symbol": "INST",
-   "name": "Instadapp (INST)",
+   "symbol": "HUGE",
+   "name": "HugeWin (HUGE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "WOLF",
-   "name": "Landwolf (WOLF)"
+   "symbol": "BLOCK",
+   "name": "Blockasset (BLOCK)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "AXS",
-   "name": "Axie Infinity Shards (AXS)",
-   "built_on": "RONIN"
+   "symbol": "OCRV",
+   "name": "Curve DAO Token (OmniBridge) (OCRV)"
   },
   {
-   "symbol": "CRVE",
-   "name": "Curve DAO Token (Avalanche Bridge) (CRVE)",
-   "built_on": "AVAX"
-  }
- ],
- "removed": [
-  {
-   "symbol": "WOLF",
-   "name": "Landwolf (WOLF)",
+   "symbol": "BASEPROTOCOL",
+   "name": "Base Protocol (BASEPROTOCOL)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "EXPAND",
+   "name": "Gems (EXPAND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIGCOIN",
+   "name": "BigCoin (BIGCOIN)"
+  },
+  {
+   "symbol": "FOFAR",
+   "name": "FoFar (FOFAR)",
+   "built_on": "TRX"
   },
   {
    "symbol": "ZEDCOIN",
    "name": "ZedCoin (ZEDCOIN)"
   },
   {
-   "symbol": "INST",
-   "name": "Instadapp (INST)"
+   "symbol": "UNIE",
+   "name": "Uniswap Protocol Token (Avalanche Bridge) (UNIE)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGCOIN",
+   "name": "Dogcoin (DOGCOIN)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "LANDWOLFETH",
+   "name": "Landwolf (LANDWOLFETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGS",
+   "name": "Dogs (DOGS)",
+   "built_on": "TONCOIN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OCRV",
+   "name": "Curve DAO Token (OmniBridge) (OCRV)",
+   "built_on": "XDAI"
   },
   {
    "symbol": "AUNI",
-   "name": "Uniswap Protocol Token (Avalanche Bride) (AUNI)",
-   "built_on": "AVAX"
+   "name": "Uniswap Protocol Token (Avalanche Bride) (AUNI)"
   },
   {
-   "symbol": "SHIBE",
-   "name": "Shibe Inu (SHIBE)",
+   "symbol": "FOFAR",
+   "name": "Fofar (FOFAR)",
    "built_on": "ETH"
   },
   {
-   "symbol": "AXS",
-   "name": "Axie Infinity Shards (AXS)",
-   "built_on": "ETH"
+   "symbol": "DOGS",
+   "name": "Dogcoin (DOGS)"
   },
   {
-   "symbol": "ACRV",
-   "name": "Curve DAO Token (Avalanche Bride) (ACRV)",
-   "built_on": "AVAX"
+   "symbol": "HUGE",
+   "name": "BigCoin (HUGE)"
+  },
+  {
+   "symbol": "BLOCK",
+   "name": "Blockasset (BLOCK)",
+   "built_on": "SOL"
   },
   {
    "symbol": "BASE",
-   "name": "Base Protocol (BASE)",
-   "built_on": "ETH"
+   "name": "Base Protocol (BASE)"
   },
   {
-   "symbol": "ABDAI",
-   "name": "Dai (Avalanche Bride) (ABDAI)"
+   "symbol": "WOLF",
+   "name": "Landwolf (WOLF)"
   }
  ]
 }
