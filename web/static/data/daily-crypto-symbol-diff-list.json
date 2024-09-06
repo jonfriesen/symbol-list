@@ -1,74 +1,83 @@
 {
  "added": [
   {
-   "symbol": "YFIEXCHANGE",
-   "name": "YFIEXCHANGE.FINANCE (YFIEXCHANGE)",
+   "symbol": "21BTC",
+   "name": "21.co Wrapped BTC (21BTC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SUSX",
+   "name": "Savings USX (SUSX)",
    "built_on": "ETH"
   },
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
+   "symbol": "SFLR",
+   "name": "Sceptre Staked FLR (SFLR)",
+   "built_on": "FLR"
   },
   {
-   "symbol": "YFIE",
-   "name": "yearn.finance (Avalanche Bridge) (YFIE)",
-   "built_on": "AVAX"
+   "symbol": "DATOM",
+   "name": "Drop Staked ATOM (DATOM)",
+   "built_on": "ATOM"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "ZKCRO",
-   "name": "Cronos zkEVM CRO (ZKCRO)",
+   "symbol": "FXUSD",
+   "name": "f(x) Protocol fxUSD (FXUSD)",
    "built_on": "ETH"
   },
   {
-   "symbol": "DYAD",
-   "name": "Dyad Stable (DYAD)",
+   "symbol": "RFRM",
+   "name": "Reform DAO (RFRM)",
    "built_on": "ETH"
   },
   {
-   "symbol": "CYDX",
-   "name": "CyberDEX (CYDX)",
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MONOPOLY",
+   "name": "Meta Monopoly (MONOPOLY)",
    "built_on": "ETH"
   },
   {
-   "symbol": "ZTK",
-   "name": "Zefi (ZTK)",
-   "built_on": "BNB"
+   "symbol": "SUPEROETHB",
+   "name": "Super OETH (SUPEROETHB)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "VISTA",
-   "name": "Ethervista (VISTA)",
+   "symbol": "LTD",
+   "name": "Limited Coin (LTD)",
    "built_on": "ETH"
   },
   {
-   "symbol": "NATI",
-   "name": "IlluminatiCoin (NATI)",
+   "symbol": "JEST",
+   "name": "Jester (JEST)",
    "built_on": "ETH"
   },
   {
-   "symbol": "STUFF",
-   "name": "STUFF.io (STUFF)",
-   "built_on": "ADA"
+   "symbol": "GKAPPA",
+   "name": "Golden Kappa (GKAPPA)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "G",
-   "name": "Gravity (G)",
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
   },
   {
-   "symbol": "NST",
-   "name": "Ninja Squad Token (NST)",
+   "symbol": "USR",
+   "name": "Resolv USR (USR)",
    "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "YFIE",
-   "name": "YFIEXCHANGE.FINANCE (YFIE)",
-   "built_on": "ETH"
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "LTD",
+   "name": "Limited Coin (LTD)"
   }
  ]
 }

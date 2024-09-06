@@ -317,10 +317,10 @@ BIP.PR.A,Brookfield Infrastructure Partners L.P.,TSX,BIP.PR.A.TO,Brookfield Infr
 BPO.PR.A,Brookfield Office Properties Inc.,TSX,BPO.PR.A.TO,Brookfld Office PrAA,BPO.PR.A,Brookfld Office PrCC,BPO.PR.C,Brookfld Office PrEE,BPO.PR.E,Brookfld Office PrGG,BPO.PR.G,Brookfld Office PrII,BPO.PR.I,Brookfld Office Pr N,BPO.PR.N,Brookfld Office Pr P,BPO.PR.P,Brookfld Office Pr R,BPO.PR.R,Brookfld Office Pr T,BPO.PR.T,Brookfld Office Pr W,BPO.PR.W,Brookfld Office Pr V,BPO.PR.X,Brookfld Office Pr Y,BPO.PR.Y
 BPYP.PR.A,Brookfield Property Preferred L.P.,TSX,BPYP.PR.A.TO,Brookfld PptyPref Un,BPYP.PR.A
 BPS.PR.A,Brookfield Property Split Corp.,TSX,BPS.PR.A.TO,Brookfld Ppty Pr 2,BPS.PR.A,Brookfld Ppty Pr 3,BPS.PR.B,Brookfld Ppty Pr 4,BPS.PR.C,Brookfld Pty Pr 1 US,BPS.PR.U
-BNRE,Brookfield Reinsurance Ltd.,TSX,BNRE.TO,Brookfld ReinsurLV A,BNRE
 BEPC,Brookfield Renewable Corporation,TSX,BEPC.TO,Brookfld RenewA ExSV,BEPC
 BEP.PR.G,Brookfield Renewable Partners L.P.,TSX,BEP.PR.G.TO,Brookfield Renew Pr7,BEP.PR.G,Brookfield RenewPr13,BEP.PR.M,Brookfield RenewPr18,BEP.PR.R,Brookfld Renew LP Un,BEP.UN
 BRF.PR.A,Brookfield Renewable Power Preferred Equity Inc.,TSX,BRF.PR.A.TO,Brookfld Renew Pr 1,BRF.PR.A,Brookfld Renew Pr 2,BRF.PR.B,Brookfld Renew Pr 3,BRF.PR.C,Brookfld Renew Pr 5,BRF.PR.E,Brookfld Renew Pr 6,BRF.PR.F
+BNT,Brookfield Wealth Solutions Ltd.,TSX,BNT.TO,Brookfld ReinsurLV A,BNT
 DOO,BRP Inc.,TSX,DOO.TO,BRP Inc. SV,DOO
 HOM.DB.U,BSR Real Estate Investment Trust,TSX,HOM.DB.U.TO,BSR REIT Deb USF,HOM.DB.U,BSR REIT Invest USF,HOM.U,BSR REIT Invest Un,HOM.UN
 BTB.DB.G,BTB Real Estate Investment Trust,TSX,BTB.DB.G.TO,BTB REIT 6% G Deb,BTB.DB.G,BTB REIT 7% H Deb,BTB.DB.H,BTB REIT Un,BTB.UN
@@ -2675,7 +2675,7 @@ MNX,Manitex Capital Inc.,TSXV,MNX.V,Manitex Capital Inc.,MNX
 MGM,Maple Gold Mines Ltd.,TSXV,MGM.V,Maple Gold Mines Ltd.,MGM
 MAP,Maple Peak Investments Inc.,TSXV,MAP.V,Maple Peak Investments Inc.,MAP
 DIA,Margaret Lake Diamonds Inc.,TSXV,DIA.V,Margaret Lake Diamonds Inc.,DIA
-MAE,Maritime Resources Corp.,TSXV,MAE.V,Maritime Resources Corp,MAE,Maritime Resources Corp. rt ex 6sep2024,MAE.RT
+MAE,Maritime Resources Corp.,TSXV,MAE.V,Maritime Resources Corp,MAE
 MAH,Marksmen Energy Inc.,TSXV,MAH.V,Marksmen Energy Inc,MAH
 MTLO,Martello Technologies Group Inc.,TSXV,MTLO.V,Martello Technologies Group Inc.,MTLO
 MRVL,Marvel Biosciences Corp.,TSXV,MRVL.V,Marvel Biosciences Corp.,MRVL
@@ -3848,8 +3848,8 @@ BNED,"Barnes & Noble Education, Inc Common Stock",NYSE,BNED
 BNH,"Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080",NYSE,BNH
 BNJ,Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes,NYSE,BNJ
 BNL,"Broadstone Net Lease, Inc. Common Stock",NYSE,BNL
-BNRE,Brookfield Reinsurance Ltd. Class A Exchangeable Limited Voting Shares,NYSE,BNRE
 BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,NYSE,BNS
+BNT,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,NYSE,BNT
 BNY,BlackRock New York Municipal Income Trust,NYSE,BNY
 BOC,Boston Omaha Corporation Class A Common Stock,NYSE,BOC
 BODI,"The Beachbody Company, Inc. Class A Common Stock",NYSE,BODI
@@ -4381,6 +4381,7 @@ EGY,"VAALCO Energy, Inc.  Common Stock",NYSE,EGY
 EHAB,"Enhabit, Inc. Common Stock",NYSE,EHAB
 EHC,Encompass Health Corporation Common Stock,NYSE,EHC
 EHI,Western Asset Global High Income Fund Inc Common Stock,NYSE,EHI
+EHI.V,"Western Asset Global High Income Fund Inc Rights (expiring October 8, 2024) Rights when issued",NYSE,EHI.V
 EIC,Eagle Point Income Company Inc. Common Stock,NYSE,EIC
 EICA,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,NYSE,EICA
 EICB,Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028,NYSE,EICB
@@ -4780,6 +4781,7 @@ GTY,Getty Realty Corporation Common Stock,NYSE,GTY
 GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,NYSE,GUG
 GUT,Gabelli Utility Trust (The) Common Stock,NYSE,GUT
 GUT$C,Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares,NYSE,GUT$C
+GUT.V,"Gabelli Utility Trust (The) Rights (expiring October 21, 2024) Rights when issued",NYSE,GUT.V
 GVA,Granite Construction Incorporated Common Stock,NYSE,GVA
 GWH,"ESS Tech, Inc. Common Stock",NYSE,GWH
 GWH.W,"ESS Tech, Inc. Warrant",NYSE,GWH.W
@@ -6226,9 +6228,6 @@ TBC,AT&T Inc. 5.625% Global Notes due 2067,NYSE,TBC
 TBI,"TrueBlue, Inc. Common Stock",NYSE,TBI
 TBN,Tamboran Resources Corporation Common stock,NYSE,TBN
 TCI,"Transcontinental Realty Investors, Inc. Common Stock",NYSE,TCI
-TCOA,Zalatoris Acquisition Corp. Class A Common Stock,NYSE,TCOA
-TCOA.U,"Zalatoris Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",NYSE,TCOA.U
-TCOA.W,"Zalatoris Acquisition Corp. Public warrants, each whole public warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",NYSE,TCOA.W
 TCS,Container Store (The) Common Stock,NYSE,TCS
 TD,Toronto Dominion Bank (The) Common Stock,NYSE,TD
 TDC,Teradata Corporation Common Stock,NYSE,TDC
@@ -8046,6 +8045,7 @@ EMCG,Embrace Change Acquisition Corp - Ordinary Shares,NASDAQ Global MarketSM,EM
 EMCGR,Embrace Change Acquisition Corp - Rights,NASDAQ Global MarketSM,EMCGR
 EMCGU,Embrace Change Acquisition Corp - Units,NASDAQ Global MarketSM,EMCGU
 EMCGW,Embrace Change Acquisition Corp - Warrants,NASDAQ Global MarketSM,EMCGW
+EMEQ,Macquarie Focused Emerging Markets Equity ETF,NASDAQ Global MarketSM,EMEQ
 EMIF,iShares Emerging Markets Infrastructure ETF,NASDAQ Global MarketSM,EMIF
 EMKR,EMCORE Corporation - Common Stock,NASDAQ Capital Market,EMKR
 EML,Eastern Company (The) - Common Stock,NASDAQ Global MarketSM,EML
@@ -8696,7 +8696,6 @@ HOVRW,New Horizon Aircraft Ltd. - Warrant,NASDAQ Capital Market,HOVRW
 HOWL,"Werewolf Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,HOWL
 HPAI,Helport AI Limited - Ordinary Shares,NASDAQ Capital Market,HPAI
 HPAIW,Helport AI Limited - Warrants,NASDAQ Capital Market,HPAIW
-HPCO,"Hempacco Co., Inc. - Common Stock",NASDAQ Capital Market,HPCO
 HPH,Highest Performances Holdings Inc. - American Depository Shares,NASDAQ Global MarketSM,HPH
 HPK,"HighPeak Energy, Inc. - Common Stock",NASDAQ Global MarketSM,HPK
 HPKEW,"HighPeak Energy, Inc. - Warrant",NASDAQ Global MarketSM,HPKEW
@@ -8940,9 +8939,6 @@ IPXXU,Inflection Point Acquisition Corp. II - Unit,NASDAQ Global MarketSM,IPXXU
 IPXXW,Inflection Point Acquisition Corp. II - Warrant,NASDAQ Global MarketSM,IPXXW
 IQ,"iQIYI, Inc. - American Depositary Shares",NASDAQ Global Select MarketSM,IQ
 IQQQ,ProShares Nasdaq-100 High Income ETF,NASDAQ Global MarketSM,IQQQ
-IRAA,Iris Acquisition Corp - Class A Common Stock,NASDAQ Capital Market,IRAA
-IRAAU,Iris Acquisition Corp - Units,NASDAQ Capital Market,IRAAU
-IRAAW,Iris Acquisition Corp - Warrant,NASDAQ Capital Market,IRAAW
 IRBT,iRobot Corporation - Common Stock,NASDAQ Global Select MarketSM,IRBT
 IRDM,Iridium Communications Inc - Common Stock,NASDAQ Global Select MarketSM,IRDM
 IREN,Iris Energy Limited - Ordinary Shares,NASDAQ Global Select MarketSM,IREN
@@ -10048,6 +10044,7 @@ PLUR,Pluri Inc. - Common Stock,NASDAQ Capital Market,PLUR
 PLUS,ePlus inc. - Common Stock,NASDAQ Global Select MarketSM,PLUS
 PLXS,Plexus Corp. - Common Stock,NASDAQ Global Select MarketSM,PLXS
 PLYA,Playa Hotels & Resorts N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,PLYA
+PMAX,Powell Max Limited - Class A Ordinary Shares,NASDAQ Capital Market,PMAX
 PMCB,"PharmaCyte  Biotech, Inc. - Common Stock",NASDAQ Capital Market,PMCB
 PMD,Psychemedics Corporation - Common Stock,NASDAQ Capital Market,PMD
 PMEC,Primech Holdings Ltd. - Ordinary Shares,NASDAQ Capital Market,PMEC
@@ -10147,6 +10144,7 @@ PTEN,"Patterson-UTI Energy, Inc. - Common Stock",NASDAQ Global Select MarketSM,P
 PTF,Invesco Dorsey Wright Technology Momentum ETF,NASDAQ Global MarketSM,PTF
 PTGX,"Protagonist Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,PTGX
 PTH,Invesco Dorsey Wright Healthcare Momentum ETF,NASDAQ Global MarketSM,PTH
+PTHL,Pheton Holdings Ltd - Class A Ordinary Shares,NASDAQ Capital Market,PTHL
 PTIR,GraniteShares 2x Long PLTR Daily ETF,NASDAQ Global MarketSM,PTIR
 PTIX,"Protagenic Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,PTIX
 PTIXW,"Protagenic Therapeutics, Inc. - Warrant",NASDAQ Capital Market,PTIXW
@@ -11354,6 +11352,7 @@ XBIO,"Xenetic Biosciences, Inc. - Common Stock",NASDAQ Capital Market,XBIO
 XBIT,XBiotech Inc. - Common Stock,NASDAQ Global Select MarketSM,XBIT
 XBP,"XBP Europe Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,XBP
 XBPEW,"XBP Europe Holdings, Inc. - Warrant",NASDAQ Capital Market,XBPEW
+XCNY,SPDR S&P Emerging Markets ex-China ETF,NASDAQ Global MarketSM,XCNY
 XCUR,"Exicure, Inc. - Common Stock",NASDAQ Capital Market,XCUR
 XEL,Xcel Energy Inc. - Common Stock,NASDAQ Global Select MarketSM,XEL
 XELA,"Exela Technologies, Inc. - Common Stock",NASDAQ Capital Market,XELA

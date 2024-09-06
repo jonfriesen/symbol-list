@@ -1,5 +1,5 @@
 {
- "date": "2024-09-05",
+ "date": "2024-09-06",
  "data": [
   {
    "symbol": "IGBT.UN",
@@ -4442,18 +4442,6 @@
    ]
   },
   {
-   "symbol": "BNRE",
-   "name": "Brookfield Reinsurance Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "BNRE.TO",
-   "instruments": [
-    {
-     "name": "Brookfld ReinsurLV A",
-     "symbol": "BNRE"
-    }
-   ]
-  },
-  {
    "symbol": "BEPC",
    "name": "Brookfield Renewable Corporation",
    "exchange": "TSX",
@@ -4514,6 +4502,18 @@
     {
      "name": "Brookfld Renew Pr 6",
      "symbol": "BRF.PR.F"
+    }
+   ]
+  },
+  {
+   "symbol": "BNT",
+   "name": "Brookfield Wealth Solutions Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BNT.TO",
+   "instruments": [
+    {
+     "name": "Brookfld ReinsurLV A",
+     "symbol": "BNT"
     }
    ]
   },
@@ -35142,10 +35142,6 @@
     {
      "name": "Maritime Resources Corp",
      "symbol": "MAE"
-    },
-    {
-     "name": "Maritime Resources Corp. rt ex 6sep2024",
-     "symbol": "MAE.RT"
     }
    ]
   },
@@ -46548,16 +46544,16 @@
    "yahoo_symbol": "BNL"
   },
   {
-   "symbol": "BNRE",
-   "name": "Brookfield Reinsurance Ltd. Class A Exchangeable Limited Voting Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BNRE"
-  },
-  {
    "symbol": "BNS",
    "name": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "BNS"
+  },
+  {
+   "symbol": "BNT",
+   "name": "Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNT"
   },
   {
    "symbol": "BNY",
@@ -49746,6 +49742,12 @@
    "yahoo_symbol": "EHI"
   },
   {
+   "symbol": "EHI.V",
+   "name": "Western Asset Global High Income Fund Inc Rights (expiring October 8, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EHI.V"
+  },
+  {
    "symbol": "EIC",
    "name": "Eagle Point Income Company Inc. Common Stock",
    "exchange": "NYSE",
@@ -52138,6 +52140,12 @@
    "name": "Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "GUT$C"
+  },
+  {
+   "symbol": "GUT.V",
+   "name": "Gabelli Utility Trust (The) Rights (expiring October 21, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GUT.V"
   },
   {
    "symbol": "GVA",
@@ -60814,24 +60822,6 @@
    "name": "Transcontinental Realty Investors, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TCI"
-  },
-  {
-   "symbol": "TCOA",
-   "name": "Zalatoris Acquisition Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TCOA"
-  },
-  {
-   "symbol": "TCOA.U",
-   "name": "Zalatoris Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TCOA.U"
-  },
-  {
-   "symbol": "TCOA.W",
-   "name": "Zalatoris Acquisition Corp. Public warrants, each whole public warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TCOA.W"
   },
   {
    "symbol": "TCS",
@@ -71736,6 +71726,12 @@
    "yahoo_symbol": "EMCGW"
   },
   {
+   "symbol": "EMEQ",
+   "name": "Macquarie Focused Emerging Markets Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMEQ"
+  },
+  {
    "symbol": "EMIF",
    "name": "iShares Emerging Markets Infrastructure ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -75636,12 +75632,6 @@
    "yahoo_symbol": "HPAIW"
   },
   {
-   "symbol": "HPCO",
-   "name": "Hempacco Co., Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HPCO"
-  },
-  {
    "symbol": "HPH",
    "name": "Highest Performances Holdings Inc. - American Depository Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -77098,24 +77088,6 @@
    "name": "ProShares Nasdaq-100 High Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IQQQ"
-  },
-  {
-   "symbol": "IRAA",
-   "name": "Iris Acquisition Corp - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IRAA"
-  },
-  {
-   "symbol": "IRAAU",
-   "name": "Iris Acquisition Corp - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IRAAU"
-  },
-  {
-   "symbol": "IRAAW",
-   "name": "Iris Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IRAAW"
   },
   {
    "symbol": "IRBT",
@@ -83748,6 +83720,12 @@
    "yahoo_symbol": "PLYA"
   },
   {
+   "symbol": "PMAX",
+   "name": "Powell Max Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMAX"
+  },
+  {
    "symbol": "PMCB",
    "name": "PharmaCyte  Biotech, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -84340,6 +84318,12 @@
    "name": "Invesco Dorsey Wright Healthcare Momentum ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PTH"
+  },
+  {
+   "symbol": "PTHL",
+   "name": "Pheton Holdings Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTHL"
   },
   {
    "symbol": "PTIR",
@@ -91582,6 +91566,12 @@
    "name": "XBP Europe Holdings, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "XBPEW"
+  },
+  {
+   "symbol": "XCNY",
+   "name": "SPDR S\u0026P Emerging Markets ex-China ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XCNY"
   },
   {
    "symbol": "XCUR",

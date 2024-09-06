@@ -1,76 +1,120 @@
 {
  "added": [
   {
-   "symbol": "VOL.WT.A",
-   "name": "Volatus Aerospace Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VOL.WT.A.V",
+   "symbol": "BNT",
+   "name": "Brookfield Wealth Solutions Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BNT.TO",
    "instruments": [
     {
-     "name": "Volatus Aerospace Corp. wt 06Oct2024",
-     "symbol": "VOL.WT.A"
+     "name": "Brookfld ReinsurLV A",
+     "symbol": "BNT"
     }
    ]
   },
   {
-   "symbol": "CONI",
-   "name": "GraniteShares 1x Short COIN Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CONI"
+   "symbol": "BNT",
+   "name": "Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNT"
   },
   {
-   "symbol": "PTIR",
-   "name": "GraniteShares 2x Long PLTR Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PTIR"
+   "symbol": "EHI.V",
+   "name": "Western Asset Global High Income Fund Inc Rights (expiring October 8, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EHI.V"
   },
   {
-   "symbol": "UBRL",
-   "name": "GraniteShares 2x Long UBER Daily ETF",
+   "symbol": "GUT.V",
+   "name": "Gabelli Utility Trust (The) Rights (expiring October 21, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GUT.V"
+  },
+  {
+   "symbol": "EMEQ",
+   "name": "Macquarie Focused Emerging Markets Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UBRL"
+   "yahoo_symbol": "EMEQ"
+  },
+  {
+   "symbol": "PMAX",
+   "name": "Powell Max Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMAX"
+  },
+  {
+   "symbol": "PTHL",
+   "name": "Pheton Holdings Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTHL"
+  },
+  {
+   "symbol": "XCNY",
+   "name": "SPDR S\u0026P Emerging Markets ex-China ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XCNY"
   }
  ],
  "removed": [
   {
-   "symbol": "DNA.W",
-   "name": "Ginkgo Bioworks Holdings, Inc. Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DNA.W"
-  },
-  {
-   "symbol": "MINDP",
-   "name": "MIND Technology, Inc. - Series A 9.00% Series A Cumulative Preferred Stock",
+   "symbol": "IRAA",
+   "name": "Iris Acquisition Corp - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MINDP"
+   "yahoo_symbol": "IRAA"
   },
   {
-   "symbol": "VOL",
-   "name": "Volatus Aerospace Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VOL.V",
+   "symbol": "HPCO",
+   "name": "Hempacco Co., Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPCO"
+  },
+  {
+   "symbol": "IRAAU",
+   "name": "Iris Acquisition Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IRAAU"
+  },
+  {
+   "symbol": "IRAAW",
+   "name": "Iris Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IRAAW"
+  },
+  {
+   "symbol": "BNRE",
+   "name": "Brookfield Reinsurance Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BNRE.TO",
    "instruments": [
     {
-     "name": "Volatus Aerospace Corp.",
-     "symbol": "VOL"
-    },
-    {
-     "name": "Volatus Aerospace Corp. wt 06Oct2024",
-     "symbol": "VOL.WT.A"
+     "name": "Brookfld ReinsurLV A",
+     "symbol": "BNRE"
     }
    ]
   },
   {
-   "symbol": "AMK",
-   "name": "AssetMark Financial Holdings, Inc. Common Stock",
+   "symbol": "TCOA.U",
+   "name": "Zalatoris Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "AMK"
+   "yahoo_symbol": "TCOA.U"
   },
   {
-   "symbol": "JEWL",
-   "name": "Adamas One Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JEWL"
+   "symbol": "TCOA",
+   "name": "Zalatoris Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TCOA"
+  },
+  {
+   "symbol": "TCOA.W",
+   "name": "Zalatoris Acquisition Corp. Public warrants, each whole public warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TCOA.W"
+  },
+  {
+   "symbol": "BNRE",
+   "name": "Brookfield Reinsurance Ltd. Class A Exchangeable Limited Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNRE"
   }
  ]
 }
