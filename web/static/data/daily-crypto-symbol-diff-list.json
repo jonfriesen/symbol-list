@@ -1,40 +1,43 @@
 {
  "added": [
   {
-   "symbol": "G",
-   "name": "Gravity (G)",
+   "symbol": "PNIC",
+   "name": "Phoenic (PNIC)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "VUSD",
+   "name": "Virtual USD (VUSD)",
    "built_on": "ETH"
   },
   {
-   "symbol": "RREN",
-   "name": "REN (Rainbow Bridge) (RREN)",
-   "built_on": "AURORA"
+   "symbol": "WOOPV1",
+   "name": "Woonkly Power (WOOPV1)"
   },
   {
-   "symbol": "KITTE",
-   "name": "Kittekoin (KITTE)",
+   "symbol": "TOKAMAK",
+   "name": "Tokamak Network (TOKAMAK)",
    "built_on": "ETH"
   },
   {
-   "symbol": "STFLOW",
-   "name": "Increment Staked FLOW (STFLOW)"
-  },
-  {
-   "symbol": "BBSOL",
-   "name": "Bybit Staked SOL (BBSOL)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "RREN",
-   "name": "REN (Rainbow Bridge) (RREN)",
-   "built_on": "NEAR"
+   "symbol": "TON",
+   "name": "Tokamak Network (TON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PNIC",
+   "name": "Phoenic (PNIC)",
+   "built_on": "BNB"
   }
  ]
 }
