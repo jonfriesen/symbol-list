@@ -1,88 +1,130 @@
 {
  "added": [
   {
-   "symbol": "HBIL",
-   "name": "Hamilton U.S. T-Bill YIELD MAXIMIZER TM ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HBIL.TO",
-   "instruments": [
-    {
-     "name": "HamUS TBYld MaxETF C",
-     "symbol": "HBIL"
-    },
-    {
-     "name": "HamUS TBYld MaxETF U",
-     "symbol": "HBIL.U"
-    }
-   ]
-  },
-  {
-   "symbol": "BCAX",
-   "name": "Bicara Therapeutics Inc. - Common Stock",
+   "symbol": "DTSQ",
+   "name": "DT Cloud Star Acquisition Corporation - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCAX"
+   "yahoo_symbol": "DTSQ"
   },
   {
-   "symbol": "MBX",
-   "name": "MBX Biosciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MBX"
+   "symbol": "DTSQR",
+   "name": "DT Cloud Star Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQR"
   },
   {
-   "symbol": "ZBIO",
-   "name": "Zenas BioPharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ZBIO"
+   "symbol": "KLTO",
+   "name": "Klotho Neurosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KLTO"
   },
   {
-   "symbol": "AAM",
-   "name": "AA Mission Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAM"
+   "symbol": "KLTOW",
+   "name": "Klotho Neurosciences, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KLTOW"
   },
   {
-   "symbol": "AAM.W",
-   "name": "AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAM.W"
+   "symbol": "VEEA",
+   "name": "Veea Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VEEA"
   },
   {
-   "symbol": "HCWC",
-   "name": "Healthy Choice Wellness Corp. Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "HCWC"
-  },
-  {
-   "symbol": "IBO",
-   "name": "Impact BioMedical, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "IBO"
+   "symbol": "VEEAW",
+   "name": "Veea Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VEEAW"
   }
  ],
  "removed": [
   {
-   "symbol": "WIN",
-   "name": "Windfall Geotek Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WIN.V",
+   "symbol": "PLMIU",
+   "name": "Plum Acquisition Corp. I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMIU"
+  },
+  {
+   "symbol": "AOGO",
+   "name": "Arogo Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AOGO"
+  },
+  {
+   "symbol": "SBN",
+   "name": "S Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBN.TO",
    "instruments": [
     {
-     "name": "Windfall Geotek Inc.",
-     "symbol": "WIN"
+     "name": "S Split Corp Cl A",
+     "symbol": "SBN"
+    },
+    {
+     "name": "S Split Corp. Pr",
+     "symbol": "SBN.PR.A"
     }
    ]
   },
   {
-   "symbol": "VTRO",
-   "name": "Vitro Biopharma, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VTRO"
+   "symbol": "WENAW",
+   "name": "ANEW MEDICAL, INC. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WENAW"
   },
   {
-   "symbol": "RF$B",
-   "name": "Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series B",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RF$B"
+   "symbol": "AAMC",
+   "name": "Altisource Asset Management Corp Com",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AAMC"
+  },
+  {
+   "symbol": "ALIM",
+   "name": "Alimera Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALIM"
+  },
+  {
+   "symbol": "PLMIW",
+   "name": "Plum Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMIW"
+  },
+  {
+   "symbol": "PLMI",
+   "name": "Plum Acquisition Corp. I - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMI"
+  },
+  {
+   "symbol": "AOGOU",
+   "name": "Arogo Capital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AOGOU"
+  },
+  {
+   "symbol": "FLAI",
+   "name": "Flewber Global Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLAI"
+  },
+  {
+   "symbol": "CLBTW",
+   "name": "Cellebrite DI Ltd. - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CLBTW"
+  },
+  {
+   "symbol": "AOGOW",
+   "name": "Arogo Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AOGOW"
+  },
+  {
+   "symbol": "WENA",
+   "name": "ANEW MEDICAL, INC. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENA"
   }
  ]
 }
