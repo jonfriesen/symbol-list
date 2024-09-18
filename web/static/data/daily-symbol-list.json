@@ -1,5 +1,5 @@
 {
- "date": "2024-09-17",
+ "date": "2024-09-18",
  "data": [
   {
    "symbol": "ONE",
@@ -2098,6 +2098,18 @@
    ]
   },
   {
+   "symbol": "BIGG",
+   "name": "BIGG Digital Assets Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BIGG.V",
+   "instruments": [
+    {
+     "name": "BIGG Digital Assets Inc.",
+     "symbol": "BIGG"
+    }
+   ]
+  },
+  {
    "symbol": "STAK.P",
    "name": "Bigstack Opportunities I Inc.",
    "exchange": "TSXV",
@@ -3734,18 +3746,6 @@
     {
      "name": "Cleghorn Minerals Ltd",
      "symbol": "CZZ"
-    }
-   ]
-  },
-  {
-   "symbol": "CEP",
-   "name": "Cliffside Capital Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CEP.V",
-   "instruments": [
-    {
-     "name": "Cliffside Capital Ltd.",
-     "symbol": "CEP"
     }
    ]
   },
@@ -26006,6 +26006,18 @@
     {
      "name": "Corby Spirit\u0026Wn B NV",
      "symbol": "CSW.B"
+    }
+   ]
+  },
+  {
+   "symbol": "RAAA",
+   "name": "Corton Enhanced Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "RAAA.TO",
+   "instruments": [
+    {
+     "name": "Corton EnhInc FndETF",
+     "symbol": "RAAA"
     }
    ]
   },
@@ -48701,7 +48713,7 @@
   },
   {
    "symbol": "CCTG",
-   "name": "CCSC Technology International Holdings Limited - Ordinary Shares",
+   "name": "CCSC Technology International Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CCTG"
   },
@@ -51926,12 +51938,6 @@
    "name": "8x8 Inc - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "EGHT"
-  },
-  {
-   "symbol": "EGIO",
-   "name": "Edgio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EGIO"
   },
   {
    "symbol": "EGRX",
@@ -61510,6 +61516,12 @@
    "yahoo_symbol": "NEWTG"
   },
   {
+   "symbol": "NEWTH",
+   "name": "NewtekOne, Inc. - 8.625% Fixed Rate Senior Notes due 2029",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEWTH"
+  },
+  {
    "symbol": "NEWTI",
    "name": "NewtekOne, Inc. - 8.00% Fixed Rate Senior Notes due 2028",
    "exchange": "NASDAQ Global MarketSM",
@@ -63346,6 +63358,12 @@
    "yahoo_symbol": "PATK"
   },
   {
+   "symbol": "PATN",
+   "name": "Pacer Nasdaq International Patent Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PATN"
+  },
+  {
    "symbol": "PAVM",
    "name": "PAVmed Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -64742,24 +64760,6 @@
    "name": "Pactiv Evergreen Inc. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PTVE"
-  },
-  {
-   "symbol": "PTWO",
-   "name": "Pono Capital Two, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PTWO"
-  },
-  {
-   "symbol": "PTWOU",
-   "name": "Pono Capital Two, Inc. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PTWOU"
-  },
-  {
-   "symbol": "PTWOW",
-   "name": "Pono Capital Two, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PTWOW"
   },
   {
    "symbol": "PUBM",
@@ -66562,10 +66562,22 @@
    "yahoo_symbol": "SBAC"
   },
   {
+   "symbol": "SBC",
+   "name": "SBC Medical Group Holdings Incorporated - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SBC"
+  },
+  {
    "symbol": "SBCF",
    "name": "Seacoast Banking Corporation of Florida - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SBCF"
+  },
+  {
+   "symbol": "SBCWW",
+   "name": "SBC Medical Group Holdings Incorporated - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SBCWW"
   },
   {
    "symbol": "SBET",
@@ -67160,12 +67172,6 @@
    "name": "Silicom Ltd - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SILC"
-  },
-  {
-   "symbol": "SILK",
-   "name": "Silk Road Medical, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SILK"
   },
   {
    "symbol": "SILO",
@@ -78172,12 +78178,6 @@
    "yahoo_symbol": "DXC"
   },
   {
-   "symbol": "DXF",
-   "name": "Dunxin Financial Holdings Limited American Depositary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "DXF"
-  },
-  {
    "symbol": "DXYZ",
    "name": "Destiny Tech100 Inc. Common Stock",
    "exchange": "NYSE",
@@ -78782,6 +78782,18 @@
    "name": "Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "EOI"
+  },
+  {
+   "symbol": "EONR",
+   "name": "EON Resources Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EONR"
+  },
+  {
+   "symbol": "EONR.W",
+   "name": "EON Resources Inc. Warrants, each whole warrant exercisable for three quarters of one share of Class A Common Stock at an exercise price of $11.50 per whole share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EONR.W"
   },
   {
    "symbol": "EOS",
@@ -81290,18 +81302,6 @@
    "name": "HNI Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "HNI"
-  },
-  {
-   "symbol": "HNRA",
-   "name": "HNR Acquisition Corp Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "HNRA"
-  },
-  {
-   "symbol": "HNRA.W",
-   "name": "HNR Acquisition Corp Warrants, each whole warrant exercisable for three quarters of one share of Common Stock at an exercise price of $11.50 per whole share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "HNRA.W"
   },
   {
    "symbol": "HNW",
