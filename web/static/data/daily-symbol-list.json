@@ -1,5 +1,5 @@
 {
- "date": "2024-09-20",
+ "date": "2024-09-23",
  "data": [
   {
    "symbol": "ONE",
@@ -14906,6 +14906,18 @@
     {
      "name": "Sable Resources Ltd",
      "symbol": "SAE"
+    }
+   ]
+  },
+  {
+   "symbol": "SAGA",
+   "name": "Saga Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SAGA.V",
+   "instruments": [
+    {
+     "name": "Saga Metals Corp.",
+     "symbol": "SAGA"
     }
    ]
   },
@@ -46836,18 +46848,6 @@
    "yahoo_symbol": "BFC"
   },
   {
-   "symbol": "BFI",
-   "name": "BurgerFi International Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BFI"
-  },
-  {
-   "symbol": "BFIIW",
-   "name": "BurgerFi International Inc - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BFIIW"
-  },
-  {
    "symbol": "BFIN",
    "name": "BankFinancial Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48354,12 +48354,6 @@
    "yahoo_symbol": "CALM"
   },
   {
-   "symbol": "CALT",
-   "name": "Calliditas Therapeutics AB - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CALT"
-  },
-  {
    "symbol": "CALY",
    "name": "BlackRock Short-Term California Muni Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -48388,6 +48382,12 @@
    "name": "Calamos Alternative Nasdaq \u0026 Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CANQ"
+  },
+  {
+   "symbol": "CAPNU",
+   "name": "Cayson Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAPNU"
   },
   {
    "symbol": "CAPR",
@@ -53000,7 +53000,7 @@
   {
    "symbol": "FCUV",
    "name": "Focus Universal Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FCUV"
   },
   {
@@ -54820,6 +54820,12 @@
    "name": "ETRACS Gold Shares Covered Call ETNs due February 2, 2033",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GLDI"
+  },
+  {
+   "symbol": "GLE",
+   "name": "Global Engine Group Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLE"
   },
   {
    "symbol": "GLLI",
@@ -60184,12 +60190,6 @@
    "name": "Medpace Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MEDP"
-  },
-  {
-   "symbol": "MEDS",
-   "name": "TRxADE HEALTH, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MEDS"
   },
   {
    "symbol": "MEDX",
@@ -66646,6 +66646,12 @@
    "name": "Scinai Immunotherapeutics Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SCNI"
+  },
+  {
+   "symbol": "SCNX",
+   "name": "Scienture Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCNX"
   },
   {
    "symbol": "SCOR",
@@ -74172,10 +74178,10 @@
    "yahoo_symbol": "AVK"
   },
   {
-   "symbol": "AVK.V",
-   "name": "Advent Convertible and Income Fund Rights (expiring October 17, 2024) Rights when issued",
+   "symbol": "AVK.R",
+   "name": "Advent Convertible and Income Fund Rights (expiring October 17, 2024) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "AVK.V"
+   "yahoo_symbol": "AVK.R"
   },
   {
    "symbol": "AVNS",
@@ -79308,12 +79314,6 @@
    "yahoo_symbol": "FAF"
   },
   {
-   "symbol": "FAM",
-   "name": "First Trust/abrdn Global Opportunity Income Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FAM"
-  },
-  {
    "symbol": "FAX",
    "name": "abrdn Asia-Pacific Income Fund, Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -83638,12 +83638,6 @@
    "name": "Manulife Financial Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MFC"
-  },
-  {
-   "symbol": "MFD",
-   "name": "Macquarie First Trust Global Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MFD"
   },
   {
    "symbol": "MFG",
