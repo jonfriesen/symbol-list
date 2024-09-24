@@ -1,96 +1,96 @@
 {
  "added": [
   {
-   "symbol": "SAGA",
-   "name": "Saga Metals Corp.",
+   "symbol": "PAT",
+   "name": "Patterson Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SAGA.V",
+   "yahoo_symbol": "PAT.V",
    "instruments": [
     {
-     "name": "Saga Metals Corp.",
-     "symbol": "SAGA"
+     "name": "Patterson Metals Corp.",
+     "symbol": "PAT"
     }
    ]
   },
   {
-   "symbol": "CAPNU",
-   "name": "Cayson Acquisition Corp - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAPNU"
-  },
-  {
-   "symbol": "FCUV",
-   "name": "Focus Universal Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FCUV"
-  },
-  {
-   "symbol": "GLE",
-   "name": "Global Engine Group Holding Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLE"
-  },
-  {
-   "symbol": "SCNX",
-   "name": "Scienture Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SCNX"
-  },
-  {
-   "symbol": "AVK.R",
-   "name": "Advent Convertible and Income Fund Rights (expiring October 17, 2024) Rights",
+   "symbol": "AMTM.V",
+   "name": "Amentum Holdings, Inc. Common Stock When-Issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "AVK.R"
+   "yahoo_symbol": "AMTM.V"
+  },
+  {
+   "symbol": "J.V",
+   "name": "Jacobs Solutions Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "J.V"
+  },
+  {
+   "symbol": "SEG.R",
+   "name": "Seaport Entertainment Group Inc. Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SEG.R"
+  },
+  {
+   "symbol": "MBAV",
+   "name": "M3-Brigade Acquisition V Corp. - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAV"
+  },
+  {
+   "symbol": "MBAVW",
+   "name": "M3-Brigade Acquisition V Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAVW"
+  },
+  {
+   "symbol": "PMBS",
+   "name": "PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PMBS"
   }
  ],
  "removed": [
   {
-   "symbol": "BFIIW",
-   "name": "BurgerFi International Inc - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BFIIW"
-  },
-  {
-   "symbol": "MEDS",
-   "name": "TRxADE HEALTH, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MEDS"
-  },
-  {
-   "symbol": "CALT",
-   "name": "Calliditas Therapeutics AB - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CALT"
-  },
-  {
-   "symbol": "BFI",
-   "name": "BurgerFi International Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BFI"
-  },
-  {
-   "symbol": "AVK.V",
-   "name": "Advent Convertible and Income Fund Rights (expiring October 17, 2024) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AVK.V"
-  },
-  {
-   "symbol": "MFD",
-   "name": "Macquarie First Trust Global Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MFD"
-  },
-  {
-   "symbol": "FAM",
-   "name": "First Trust/abrdn Global Opportunity Income Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FAM"
-  },
-  {
-   "symbol": "FCUV",
-   "name": "Focus Universal Inc. - Common Stock",
+   "symbol": "ASCBR",
+   "name": "A SPAC II Acquisition Corp. - Right",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FCUV"
+   "yahoo_symbol": "ASCBR"
+  },
+  {
+   "symbol": "ASCBW",
+   "name": "A SPAC II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCBW"
+  },
+  {
+   "symbol": "SEG.V",
+   "name": "Seaport Entertainment Group Inc. Rights When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SEG.V"
+  },
+  {
+   "symbol": "ASCBU",
+   "name": "A SPAC II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCBU"
+  },
+  {
+   "symbol": "TMC",
+   "name": "Trench Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TMC.V",
+   "instruments": [
+    {
+     "name": "Trench Metals Corp.",
+     "symbol": "TMC"
+    }
+   ]
+  },
+  {
+   "symbol": "ASCB",
+   "name": "A SPAC II Acquisition Corp. - Ordinary Shares, Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCB"
   }
  ]
 }
