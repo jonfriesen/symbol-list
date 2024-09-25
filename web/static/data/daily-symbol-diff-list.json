@@ -1,96 +1,126 @@
 {
  "added": [
   {
-   "symbol": "PAT",
-   "name": "Patterson Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PAT.V",
+   "symbol": "SOBO",
+   "name": "South Bow Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOBO.TO",
    "instruments": [
     {
-     "name": "Patterson Metals Corp.",
-     "symbol": "PAT"
+     "name": "South Bow New WI",
+     "symbol": "SOBO"
     }
    ]
   },
   {
-   "symbol": "AMTM.V",
-   "name": "Amentum Holdings, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AMTM.V"
-  },
-  {
-   "symbol": "J.V",
-   "name": "Jacobs Solutions Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "J.V"
-  },
-  {
-   "symbol": "SEG.R",
-   "name": "Seaport Entertainment Group Inc. Rights",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SEG.R"
-  },
-  {
-   "symbol": "MBAV",
-   "name": "M3-Brigade Acquisition V Corp. - Class A Ordinary shares",
+   "symbol": "MYCF",
+   "name": "SPDR SSGA My2026 Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MBAV"
+   "yahoo_symbol": "MYCF"
   },
   {
-   "symbol": "MBAVW",
-   "name": "M3-Brigade Acquisition V Corp. - Warrant",
+   "symbol": "MYCG",
+   "name": "SPDR SSGA My2027 Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MBAVW"
+   "yahoo_symbol": "MYCG"
   },
   {
-   "symbol": "PMBS",
-   "name": "PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund",
+   "symbol": "MYCH",
+   "name": "SPDR SSGA My2028 Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PMBS"
+   "yahoo_symbol": "MYCH"
+  },
+  {
+   "symbol": "MYCI",
+   "name": "SPDR SSGA My2029 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCI"
+  },
+  {
+   "symbol": "MYCJ",
+   "name": "SPDR SSGA My2030 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCJ"
+  },
+  {
+   "symbol": "MYCK",
+   "name": "SPDR SSGA My2031 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCK"
+  },
+  {
+   "symbol": "MYCL",
+   "name": "SPDR SSGA My2032 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCL"
+  },
+  {
+   "symbol": "MYCM",
+   "name": "SPDR SSGA My2033 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCM"
+  },
+  {
+   "symbol": "MYCN",
+   "name": "SPDR SSGA My2034 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCN"
+  },
+  {
+   "symbol": "MYMF",
+   "name": "SPDR SSGA My2026 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMF"
+  },
+  {
+   "symbol": "MYMG",
+   "name": "SPDR SSGA My2027 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMG"
+  },
+  {
+   "symbol": "MYMH",
+   "name": "SPDR SSGA My2028 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMH"
+  },
+  {
+   "symbol": "MYMI",
+   "name": "SPDR SSGA My2029 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMI"
+  },
+  {
+   "symbol": "MYMJ",
+   "name": "SPDR SSGA My2030 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMJ"
+  },
+  {
+   "symbol": "QSIX",
+   "name": "Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSIX"
   }
  ],
  "removed": [
   {
-   "symbol": "ASCBR",
-   "name": "A SPAC II Acquisition Corp. - Right",
+   "symbol": "PAYOW",
+   "name": "Payoneer Global Inc. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASCBR"
+   "yahoo_symbol": "PAYOW"
   },
   {
-   "symbol": "ASCBW",
-   "name": "A SPAC II Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASCBW"
-  },
-  {
-   "symbol": "SEG.V",
-   "name": "Seaport Entertainment Group Inc. Rights When-Issued",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SEG.V"
-  },
-  {
-   "symbol": "ASCBU",
-   "name": "A SPAC II Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASCBU"
-  },
-  {
-   "symbol": "TMC",
-   "name": "Trench Metals Corp.",
+   "symbol": "GWA",
+   "name": "Gowest Gold Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TMC.V",
+   "yahoo_symbol": "GWA.V",
    "instruments": [
     {
-     "name": "Trench Metals Corp.",
-     "symbol": "TMC"
+     "name": "Gowest Gold Ltd.",
+     "symbol": "GWA"
     }
    ]
-  },
-  {
-   "symbol": "ASCB",
-   "name": "A SPAC II Acquisition Corp. - Ordinary Shares, Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASCB"
   }
  ]
 }
