@@ -36,6 +36,7 @@ AIMF.P,AIM6 Ventures Inc.,TSXV,AIMF.P.V,AIM6 Ventures Inc.,AIMF.P
 AIP.U,AIP Realty Trust,TSXV,AIP.U.V,AIP Realty Trust,AIP.U
 IQ,AirIQ Inc.,TSXV,IQ.V,AirIQ Inc,IQ
 AISX,Aisix Solutions Inc.,TSXV,AISX.V,Aisix Solutions Inc.,AISX
+AJA,AJA Health and Wellness Inc.,TSXV,AJA.V,AJA Health and Wellness Inc.,AJA
 AML,Akwaaba Mining Ltd.,TSXV,AML.V,Akwaaba Mining Ltd.,AML
 AEMC,Alaska Energy Metals Corporation,TSXV,AEMC.V,Alaska Energy Metals Corporation,AEMC
 ALBT.P,Albatros Acquisition Corporation Inc.,TSXV,ALBT.P.V,Albatros Acquisition Corporation Inc.,ALBT.P
@@ -732,7 +733,7 @@ IFOS,Itafos Inc.,TSXV,IFOS.V,Itafos Inc.,IFOS
 JJJJ.P,J4 Ventures Inc.,TSXV,JJJJ.P.V,J4 Ventures Inc.,JJJJ.P
 JAB.P,Jabbo Capital Corp.,TSXV,JAB.P.V,Jabbo Capital Corp.,JAB.P
 JNH,Jack Nathan Medical Corp.,TSXV,JNH.V,Jack Nathan Medical Corp.,JNH
-JJ,Jackpot Digital Inc.,TSXV,JJ.V,Jackpot Digital Inc.,JJ,Jackpot Digital Inc. wt 26sept2024,JJ.WT.B,Jackpot Digital Inc. wt 20Nov2025,JJ.WT.C
+JJ,Jackpot Digital Inc.,TSXV,JJ.V,Jackpot Digital Inc.,JJ,Jackpot Digital Inc. wt 20Nov2025,JJ.WT.C
 JADE,Jade Leader Corp.,TSXV,JADE.V,Jade Leader Corp.,JADE
 JG,Japan Gold Corp.,TSXV,JG.V,Japan Gold Corp.,JG
 JDN,Jayden Resources Inc.,TSXV,JDN.V,Jayden Resources Inc.,JDN
@@ -742,7 +743,6 @@ JRV,Jervois Global Limited,TSXV,JRV.V,Jervois Global Limited,JRV
 JES.P,Jesmond Capital Ltd.,TSXV,JES.P.V,Jesmond Capital Ltd.,JES.P
 JHC,Jinhua Capital Corporation,TSXV,JHC.V,Jinhua Capital Corporation,JHC
 JOJO.P,Jo-Jo Capital Canada Ltd.,TSXV,JOJO.P.V,Jo-Jo Capital Canada Ltd.,JOJO.P
-JUB,Jubilee Gold Exploration Ltd.,TSXV,JUB.V,Jubilee Gold Exploration Ltd,JUB
 JUGR,Juggernaut Exploration Ltd.,TSXV,JUGR.V,Juggernaut Exploration Ltd.,JUGR
 JEC,Jura Energy Corporation,TSXV,JEC.V,Jura Energy Corporation,JEC
 JVR.P,JVR Ventures Inc.,TSXV,JVR.P.V,JVR Ventures Inc.,JVR.P
@@ -2135,7 +2135,7 @@ DXDB,Dynamic Active Discount Bond ETF,TSX,DXDB.TO,Dynamic Discount Bnd,DXDB
 DXEM,Dynamic Active Emerging Markets ETF,TSX,DXEM.TO,DynamicActvEmrgMktUn,DXEM
 DXET,Dynamic Active Energy Evolution ETF,TSX,DXET.TO,DynamicActv EngyEvol,DXET
 DXQ,Dynamic Active Enhanced Yield Covered Options ETF,TSX,DXQ.TO,DynamicActvYldCovrOp,DXQ
-DXG,Dynamic Active Global Dividend ETF,TSX,DXG.TO,Dynamic Actv GlblDiv,DXG
+DXG,Dynamic Active Global Dividend ETF,TSX,DXG.TO,Dynamic Actv GlblDiv,DXG,Dyna Actv GlblDiv US,DXG.U
 DXGE,Dynamic Active Global Equity Income ETF,TSX,DXGE.TO,Dynamic ActGlbEqIncm,DXGE
 DXF,Dynamic Active Global Financial Services ETF,TSX,DXF.TO,Dynamic ActGlbFinSrv,DXF
 DXAU,Dynamic Active Global Gold ETF,TSX,DXAU.TO,Dyn Actv Gl Gold ETF,DXAU
@@ -2148,8 +2148,8 @@ DXP,Dynamic Active Preferred Shares ETF,TSX,DXP.TO,Dynamic Actv Pref Un,DXP
 DXRE,Dynamic Active Real Estate ETF,TSX,DXRE.TO,Dyn Actv RealEst ETF,DXRE
 DXR,Dynamic Active Retirement Income ETF,TSX,DXR.TO,DynamicActRetireIncm,DXR
 DXB,Dynamic Active Tactical Bond ETF,TSX,DXB.TO,Dynamic ActvTact Bnd,DXB
-DXU,Dynamic Active U.S. Dividend ETF,TSX,DXU.TO,Dynamic ActvUS DivUn,DXU
-DXUS,Dynamic Active U.S. Equity ETF,TSX,DXUS.TO,Dynamic Actv US Eqty,DXUS
+DXU,Dynamic Active U.S. Dividend ETF,TSX,DXU.TO,Dynamic ActvUS DivUn,DXU,Dy ActvUS DivETF USD,DXU.U
+DXUS,Dynamic Active U.S. Equity ETF,TSX,DXUS.TO,Dynamic Actv US Eqty,DXUS,Dyn Actv USEqty USD,DXUS.U
 DXBU,Dynamic Active U.S. Investment Grade Corporate Bond ETF,TSX,DXBU.TO,DynamicUS InvCorpBnd,DXBU
 DXZ,Dynamic Active U.S. Mid-Cap ETF,TSX,DXZ.TO,Dynamic ActUS MidCap,DXZ
 ENS,E Split Corp.,TSX,ENS.TO,E Split Corp. Cl A,ENS,E Split Corp. Pr,ENS.PR.A
@@ -2191,6 +2191,7 @@ EARN,Evolve Active Global Fixed Income Fund,TSX,EARN.TO,EvolveActvGlbFxdIncm,EAR
 ARTI,Evolve Artificial Intelligence Fund,TSX,ARTI.TO,Evl Art Int Fnd UN,ARTI
 CARS,Evolve Automobile Innovation Index Fund,TSX,CARS.TO,Evolve AutoInnov Heg,CARS,Evolve AutoInnovUnHg,CARS.B,Evolve AutomobUnhgUS,CARS.U
 EBIT,Evolve Bitcoin ETF,TSX,EBIT.TO,EvBcoin ETF CA Unheg,EBIT,EvBcoin ETF US Unheg,EBIT.U
+AGG,Evolve Canadian Aggregate Bond Enhanced Yield Fund,TSX,AGG.TO,EvCd AgBd EnY FndETF,AGG
 BANK,Evolve Canadian Banks and Lifecos Enhanced Yield Index Fund,TSX,BANK.TO,EvolveCdnBk&LfeCA UH,BANK
 UTES,Evolve Canadian Utilities Enhanced Yield Index Fund,TSX,UTES.TO,EVCd UEnh YldIdx ETF,UTES
 DATA,Evolve Cloud Computing Index Fund,TSX,DATA.TO,Evolve Compute HegCA,DATA,Evolve ComputeUnhgCA,DATA.B
@@ -2660,6 +2661,7 @@ GCNS,iShares ESG Conservative Balanced ETF Portfolio,TSX,GCNS.TO,iShr ESG Conser
 GEQT,iShares ESG Equity ETF Portfolio,TSX,GEQT.TO,iShr ESG Eqty Portfl,GEQT
 GGRO,iShares ESG Growth ETF Portfolio,TSX,GGRO.TO,iShrESG GrowthPortfl,GGRO
 XEXP,iShares Exponential Technologies Index ETF,TSX,XEXP.TO,iShares ExpontlTecCA,XEXP
+XFLI,iShares Flexible Monthly Income ETF,TSX,XFLI.TO,iShr FlexM IncETFCAD,XFLI,iShr FlexM IncETFUSD,XFLI.U
 XFR,iShares Floating Rate Index ETF,TSX,XFR.TO,iShares Fltg Rate Un,XFR
 XDNA,iShares Genomics Immunology and Healthcare Index ETF,TSX,XDNA.TO,iShr GenomicImmun CA,XDNA
 COW,iShares Global Agriculture Index ETF,TSX,COW.TO,iShares GlblAgri Un,COW
@@ -2960,7 +2962,7 @@ PAAS,Pan American Silver Corp.,TSX,PAAS.TO,Pan American Silver,PAAS
 POU,Paramount Resources Ltd.,TSX,POU.TO,Paramount Res Cl A,POU
 PXT,Parex Resources Inc.,TSX,PXT.TO,Parex Resources,PXT
 PKI,Parkland Corporation,TSX,PKI.TO,Parkland Corp.,PKI
-PVS.PR.F,Partners Value Split Corp.,TSX,PVS.PR.F.TO,Partners Val AA Pr 8,PVS.PR.F,Partners Val AA Pr 9,PVS.PR.G,Partners ValAA Pr 10,PVS.PR.H,Partners ValAA Pr 11,PVS.PR.I,Partners ValAA Pr 12,PVS.PR.J,Partners ValAA Pr 13,PVS.PR.K
+PVS.PR.F,Partners Value Split Corp.,TSX,PVS.PR.F.TO,Partners Val AA Pr 8,PVS.PR.F,Partners Val AA Pr 9,PVS.PR.G,Partners ValAA Pr 10,PVS.PR.H,Partners ValAA Pr 11,PVS.PR.I,Partners ValAA Pr 12,PVS.PR.J,Partners ValAA Pr 13,PVS.PR.K,Partners Val AA Pr14,PVS.PR.L
 PSI,Pason Systems Inc.,TSX,PSI.TO,Pason Systems Inc.,PSI
 PMET,Patriot Battery Metals Inc.,TSX,PMET.TO,Patriot Battery Mtls,PMET
 PAY,Payfare Inc.,TSX,PAY.TO,Payfare Inc. J Cl A,PAY
@@ -3386,8 +3388,6 @@ YRB,Yorbeau Resources Inc.,TSX,YRB.TO,Yorbeau Resources J,YRB
 AACG,"ATA Creativity Global - American Depositary Shares, each representing two common shares",NASDAQ Global MarketSM,AACG
 AADI,"Aadi Bioscience, Inc. - Common Stock",NASDAQ Capital Market,AADI
 AADR,AdvisorShares Dorsey Wright ADR ETF,NASDAQ Global MarketSM,AADR
-AAGR,African Agriculture Holdings Inc. - Common Stock,NASDAQ Global MarketSM,AAGR
-AAGRW,African Agriculture Holdings Inc. - Warrant,NASDAQ Global MarketSM,AAGRW
 AAL,"American Airlines Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,AAL
 AAME,Atlantic American Corporation - Common Stock,NASDAQ Global MarketSM,AAME
 AAOI,"Applied Optoelectronics, Inc. - Common Stock",NASDAQ Global MarketSM,AAOI
@@ -6670,6 +6670,7 @@ PBM,Psyence Biomedical Ltd. - Ordinary Shares,NASDAQ Global MarketSM,PBM
 PBMWW,Psyence Biomedical Ltd. - Warrant,NASDAQ Capital Market,PBMWW
 PBPB,Potbelly Corporation - Common Stock,NASDAQ Global Select MarketSM,PBPB
 PBYI,Puma Biotechnology Inc - Common Stock,NASDAQ Global Select MarketSM,PBYI
+PC,Premium Catering (Holdings) Limited - Ordinary Shares,NASDAQ Capital Market,PC
 PCAR,PACCAR Inc. - Common Stock,NASDAQ Global Select MarketSM,PCAR
 PCB,PCB Bancorp - Common Stock,NASDAQ Global Select MarketSM,PCB
 PCH,PotlatchDeltic Corporation - Common Stock,NASDAQ Global Select MarketSM,PCH
@@ -6958,7 +6959,7 @@ QQQS,Invesco NASDAQ Future Gen 200 ETF,NASDAQ Global MarketSM,QQQS
 QQQT,Defiance Nasdaq 100 Income Target ETF,NASDAQ Global MarketSM,QQQT
 QQQW,Tradr 2X Long Triple Q Weekly ETF,NASDAQ Global MarketSM,QQQW
 QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund - Closed End Fund,NASDAQ Global Select MarketSM,QQQX
-QQQY,Defiance Nasdaq 100 Enhanced Options Income ETF,NASDAQ Global MarketSM,QQQY
+QQQY,Defiance Nasdaq 100 Enhanced Options & 0DTE Income ETF,NASDAQ Global MarketSM,QQQY
 QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,NASDAQ Global MarketSM,QQXT
 QRHC,Quest Resource Holding Corporation - Common Stock,NASDAQ Capital Market,QRHC
 QRMI,Global X NASDAQ 100 Risk Managed Income ETF,NASDAQ Global MarketSM,QRMI
@@ -7523,6 +7524,7 @@ SWIN,Solowin Holdings - Ordinary Share,NASDAQ Capital Market,SWIN
 SWKH,SWK Holdings Corporation - Common Stock,NASDAQ Global MarketSM,SWKH
 SWKHL,SWK Holdings Corporation - 9.00% Senior Notes due 2027,NASDAQ Global MarketSM,SWKHL
 SWKS,"Skyworks Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWKS
+SWP,SWP Growth & Income ETF,NASDAQ Global MarketSM,SWP
 SWTX,"SpringWorks Therapeutics, Inc. - common stock",NASDAQ Global Select MarketSM,SWTX
 SWVL,Swvl Holdings Corp - Ordinary Shares,NASDAQ Capital Market,SWVL
 SWVLW,Swvl Holdings Corp - Warrant,NASDAQ Capital Market,SWVLW
@@ -8630,6 +8632,7 @@ BKSY.W,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercis
 BKT,BlackRock Income Trust Inc. (The),NYSE,BKT
 BKTI,BK Technologies Corporation Common Stock,NYSE MKT,BKTI
 BKU,"BankUnited, Inc. Common Stock",NYSE,BKU
+BKV,BKV Corporation Common Stock,NYSE,BKV
 BLCO,Bausch + Lomb Corporation Common Shares,NYSE,BLCO
 BLD,TopBuild Corp. Common Stock,NYSE,BLD
 BLDR,"Builders FirstSource, Inc. Common Stock",NYSE,BLDR
@@ -8979,6 +8982,7 @@ CUBI$E,"Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual P
 CUBI$F,"Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",NYSE,CUBI$F
 CUK,Carnival Plc ADS ADS,NYSE,CUK
 CULP,"Culp, Inc. Common Stock",NYSE,CULP
+CURB.V,Curbline Properties Corp. Common Stock When-Issued,NYSE,CURB.V
 CURV,Torrid Holdings Inc. Common Stock,NYSE,CURV
 CUZ,Cousins Properties Incorporated Common Stock,NYSE,CUZ
 CVE,Cenovus Energy Inc Common Stock,NYSE,CVE
@@ -9557,6 +9561,7 @@ GRAF.W,"Graf Global Corp. Warrants, each whole warrant exercisable for one Class
 GRBK,"Green Brick Partners, Inc. Common Stock",NYSE,GRBK
 GRBK$A,"Green Brick Partners, Inc. Depositary Shares (each representing a 1/1000th fractional interest in a share of 5.75% Series A Cumulative Perpetual Preferred Stock)",NYSE,GRBK$A
 GRC,Gorman-Rupp Company (The) Common Stock,NYSE,GRC
+GRDN,"Guardian Pharmacy Services, Inc. Class A Common Stock",NYSE,GRDN
 GRF,"Eagle Capital Growth Fund, Inc. Common Stock",NYSE MKT,GRF
 GRFX,"Graphex Group Limited American Depositary Shares, each American Depositary Share representing 20 Ordinary Shares",NYSE MKT,GRFX
 GRMN,Garmin Ltd. Common Stock (Switzerland),NYSE,GRMN
@@ -9941,6 +9946,7 @@ LEV.W,"The Lion Electric Company Redeemable Warrants, each whole warrant entitle
 LEVI,Levi Strauss & Co Class A Common Stock,NYSE,LEVI
 LFT,"Lument Finance Trust, Inc. Common Stock",NYSE,LFT
 LFT$A,"Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock",NYSE,LFT$A
+LGCY,Legacy Education Inc. Common Stock,NYSE MKT,LGCY
 LGF.A,Lions Gate Entertainment Corporation Class A Voting Shares,NYSE,LGF.A
 LGF.B,Lions Gate Entertainment Corporation Class B Non-Voting Shares,NYSE,LGF.B
 LGI,Lazard Global Total Return and Income Fund Common Stock,NYSE,LGI
@@ -10872,6 +10878,7 @@ SILV,SilverCrest Metals Inc. Common Shares,NYSE MKT,SILV
 SIM,"Grupo Simec, S.A.B. de C.V. American Depositary Shares",NYSE MKT,SIM
 SITC,SITE Centers Corp. Common Stock,NYSE,SITC
 SITC$A,SITE Centers Corp. 6.375% Class A Preferred Shares,NYSE,SITC$A
+SITC.V,SITE Centers Corp. Common Shares When-Issued,NYSE,SITC.V
 SITE,"SiteOne Landscape Supply, Inc. Common Stock",NYSE,SITE
 SJM,The J.M. Smucker Company Common Stock,NYSE,SJM
 SJT,San Juan Basin Royalty Trust Common Stock,NYSE,SJT

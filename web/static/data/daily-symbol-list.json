@@ -1,5 +1,5 @@
 {
- "date": "2024-09-25",
+ "date": "2024-09-26",
  "data": [
   {
    "symbol": "ONE",
@@ -442,6 +442,18 @@
     {
      "name": "Aisix Solutions Inc.",
      "symbol": "AISX"
+    }
+   ]
+  },
+  {
+   "symbol": "AJA",
+   "name": "AJA Health and Wellness Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AJA.V",
+   "instruments": [
+    {
+     "name": "AJA Health and Wellness Inc.",
+     "symbol": "AJA"
     }
    ]
   },
@@ -8876,10 +8888,6 @@
      "symbol": "JJ"
     },
     {
-     "name": "Jackpot Digital Inc. wt 26sept2024",
-     "symbol": "JJ.WT.B"
-    },
-    {
      "name": "Jackpot Digital Inc. wt 20Nov2025",
      "symbol": "JJ.WT.C"
     }
@@ -8990,18 +8998,6 @@
     {
      "name": "Jo-Jo Capital Canada Ltd.",
      "symbol": "JOJO.P"
-    }
-   ]
-  },
-  {
-   "symbol": "JUB",
-   "name": "Jubilee Gold Exploration Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JUB.V",
-   "instruments": [
-    {
-     "name": "Jubilee Gold Exploration Ltd",
-     "symbol": "JUB"
     }
    ]
   },
@@ -26970,6 +26966,10 @@
     {
      "name": "Dynamic Actv GlblDiv",
      "symbol": "DXG"
+    },
+    {
+     "name": "Dyna Actv GlblDiv US",
+     "symbol": "DXG.U"
     }
    ]
   },
@@ -27126,6 +27126,10 @@
     {
      "name": "Dynamic ActvUS DivUn",
      "symbol": "DXU"
+    },
+    {
+     "name": "Dy ActvUS DivETF USD",
+     "symbol": "DXU.U"
     }
    ]
   },
@@ -27138,6 +27142,10 @@
     {
      "name": "Dynamic Actv US Eqty",
      "symbol": "DXUS"
+    },
+    {
+     "name": "Dyn Actv USEqty USD",
+     "symbol": "DXUS.U"
     }
    ]
   },
@@ -27810,6 +27818,18 @@
     {
      "name": "EvBcoin ETF US Unheg",
      "symbol": "EBIT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AGG",
+   "name": "Evolve Canadian Aggregate Bond Enhanced Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGG.TO",
+   "instruments": [
+    {
+     "name": "EvCd AgBd EnY FndETF",
+     "symbol": "AGG"
     }
    ]
   },
@@ -34174,6 +34194,22 @@
    ]
   },
   {
+   "symbol": "XFLI",
+   "name": "iShares Flexible Monthly Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFLI.TO",
+   "instruments": [
+    {
+     "name": "iShr FlexM IncETFCAD",
+     "symbol": "XFLI"
+    },
+    {
+     "name": "iShr FlexM IncETFUSD",
+     "symbol": "XFLI.U"
+    }
+   ]
+  },
+  {
    "symbol": "XFR",
    "name": "iShares Floating Rate Index ETF",
    "exchange": "TSX",
@@ -38042,6 +38078,10 @@
     {
      "name": "Partners ValAA Pr 13",
      "symbol": "PVS.PR.K"
+    },
+    {
+     "name": "Partners Val AA Pr14",
+     "symbol": "PVS.PR.L"
     }
    ]
   },
@@ -43794,18 +43834,6 @@
    "name": "AdvisorShares Dorsey Wright ADR ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AADR"
-  },
-  {
-   "symbol": "AAGR",
-   "name": "African Agriculture Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AAGR"
-  },
-  {
-   "symbol": "AAGRW",
-   "name": "African Agriculture Holdings Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AAGRW"
   },
   {
    "symbol": "AAL",
@@ -63500,6 +63528,12 @@
    "yahoo_symbol": "PBYI"
   },
   {
+   "symbol": "PC",
+   "name": "Premium Catering (Holdings) Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PC"
+  },
+  {
    "symbol": "PCAR",
    "name": "PACCAR Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -65229,7 +65263,7 @@
   },
   {
    "symbol": "QQQY",
-   "name": "Defiance Nasdaq 100 Enhanced Options Income ETF",
+   "name": "Defiance Nasdaq 100 Enhanced Options \u0026 0DTE Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QQQY"
   },
@@ -68616,6 +68650,12 @@
    "name": "Skyworks Solutions, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SWKS"
+  },
+  {
+   "symbol": "SWP",
+   "name": "SWP Growth \u0026 Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWP"
   },
   {
    "symbol": "SWTX",
@@ -75260,6 +75300,12 @@
    "yahoo_symbol": "BKU"
   },
   {
+   "symbol": "BKV",
+   "name": "BKV Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKV"
+  },
+  {
    "symbol": "BLCO",
    "name": "Bausch + Lomb Corporation Common Shares",
    "exchange": "NYSE",
@@ -77352,6 +77398,12 @@
    "name": "Culp, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CULP"
+  },
+  {
+   "symbol": "CURB.V",
+   "name": "Curbline Properties Corp. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CURB.V"
   },
   {
    "symbol": "CURV",
@@ -80822,6 +80874,12 @@
    "yahoo_symbol": "GRC"
   },
   {
+   "symbol": "GRDN",
+   "name": "Guardian Pharmacy Services, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRDN"
+  },
+  {
    "symbol": "GRF",
    "name": "Eagle Capital Growth Fund, Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -83124,6 +83182,12 @@
    "name": "Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LFT$A"
+  },
+  {
+   "symbol": "LGCY",
+   "name": "Legacy Education Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGCY"
   },
   {
    "symbol": "LGF.A",
@@ -88710,6 +88774,12 @@
    "name": "SITE Centers Corp. 6.375% Class A Preferred Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "SITC$A"
+  },
+  {
+   "symbol": "SITC.V",
+   "name": "SITE Centers Corp. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SITC.V"
   },
   {
    "symbol": "SITE",

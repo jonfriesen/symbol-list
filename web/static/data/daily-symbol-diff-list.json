@@ -1,126 +1,112 @@
 {
  "added": [
   {
-   "symbol": "SOBO",
-   "name": "South Bow Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "SOBO.TO",
+   "symbol": "AJA",
+   "name": "AJA Health and Wellness Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AJA.V",
    "instruments": [
     {
-     "name": "South Bow New WI",
-     "symbol": "SOBO"
+     "name": "AJA Health and Wellness Inc.",
+     "symbol": "AJA"
     }
    ]
   },
   {
-   "symbol": "MYCF",
-   "name": "SPDR SSGA My2026 Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCF"
+   "symbol": "AGG",
+   "name": "Evolve Canadian Aggregate Bond Enhanced Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGG.TO",
+   "instruments": [
+    {
+     "name": "EvCd AgBd EnY FndETF",
+     "symbol": "AGG"
+    }
+   ]
   },
   {
-   "symbol": "MYCG",
-   "name": "SPDR SSGA My2027 Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCG"
+   "symbol": "XFLI",
+   "name": "iShares Flexible Monthly Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFLI.TO",
+   "instruments": [
+    {
+     "name": "iShr FlexM IncETFCAD",
+     "symbol": "XFLI"
+    },
+    {
+     "name": "iShr FlexM IncETFUSD",
+     "symbol": "XFLI.U"
+    }
+   ]
   },
   {
-   "symbol": "MYCH",
-   "name": "SPDR SSGA My2028 Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCH"
+   "symbol": "PC",
+   "name": "Premium Catering (Holdings) Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PC"
   },
   {
-   "symbol": "MYCI",
-   "name": "SPDR SSGA My2029 Corporate Bond ETF",
+   "symbol": "SWP",
+   "name": "SWP Growth \u0026 Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCI"
+   "yahoo_symbol": "SWP"
   },
   {
-   "symbol": "MYCJ",
-   "name": "SPDR SSGA My2030 Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCJ"
+   "symbol": "BKV",
+   "name": "BKV Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKV"
   },
   {
-   "symbol": "MYCK",
-   "name": "SPDR SSGA My2031 Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCK"
+   "symbol": "CURB.V",
+   "name": "Curbline Properties Corp. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CURB.V"
   },
   {
-   "symbol": "MYCL",
-   "name": "SPDR SSGA My2032 Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCL"
+   "symbol": "GRDN",
+   "name": "Guardian Pharmacy Services, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRDN"
   },
   {
-   "symbol": "MYCM",
-   "name": "SPDR SSGA My2033 Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCM"
+   "symbol": "LGCY",
+   "name": "Legacy Education Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGCY"
   },
   {
-   "symbol": "MYCN",
-   "name": "SPDR SSGA My2034 Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCN"
-  },
-  {
-   "symbol": "MYMF",
-   "name": "SPDR SSGA My2026 Municipal Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYMF"
-  },
-  {
-   "symbol": "MYMG",
-   "name": "SPDR SSGA My2027 Municipal Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYMG"
-  },
-  {
-   "symbol": "MYMH",
-   "name": "SPDR SSGA My2028 Municipal Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYMH"
-  },
-  {
-   "symbol": "MYMI",
-   "name": "SPDR SSGA My2029 Municipal Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYMI"
-  },
-  {
-   "symbol": "MYMJ",
-   "name": "SPDR SSGA My2030 Municipal Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYMJ"
-  },
-  {
-   "symbol": "QSIX",
-   "name": "Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QSIX"
+   "symbol": "SITC.V",
+   "name": "SITE Centers Corp. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SITC.V"
   }
  ],
  "removed": [
   {
-   "symbol": "PAYOW",
-   "name": "Payoneer Global Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PAYOW"
-  },
-  {
-   "symbol": "GWA",
-   "name": "Gowest Gold Ltd.",
+   "symbol": "JUB",
+   "name": "Jubilee Gold Exploration Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GWA.V",
+   "yahoo_symbol": "JUB.V",
    "instruments": [
     {
-     "name": "Gowest Gold Ltd.",
-     "symbol": "GWA"
+     "name": "Jubilee Gold Exploration Ltd",
+     "symbol": "JUB"
     }
    ]
+  },
+  {
+   "symbol": "AAGR",
+   "name": "African Agriculture Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAGR"
+  },
+  {
+   "symbol": "AAGRW",
+   "name": "African Agriculture Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAGRW"
   }
  ]
 }
