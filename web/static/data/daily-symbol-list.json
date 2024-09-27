@@ -1,5 +1,5 @@
 {
- "date": "2024-09-26",
+ "date": "2024-09-27",
  "data": [
   {
    "symbol": "ONE",
@@ -5586,18 +5586,6 @@
    ]
   },
   {
-   "symbol": "ESS",
-   "name": "Esstra Industries Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ESS.V",
-   "instruments": [
-    {
-     "name": "Esstra Industries Inc.",
-     "symbol": "ESS"
-    }
-   ]
-  },
-  {
    "symbol": "EBCD.P",
    "name": "Eureka Capital Corp.",
    "exchange": "TSXV",
@@ -10846,6 +10834,18 @@
    ]
   },
   {
+   "symbol": "MIVO",
+   "name": "Miivo Holdings Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MIVO.V",
+   "instruments": [
+    {
+     "name": "Miivo Holdings Corp.",
+     "symbol": "MIVO"
+    }
+   ]
+  },
+  {
    "symbol": "MILL",
    "name": "Millbank Mining Corp.",
    "exchange": "TSXV",
@@ -12622,18 +12622,6 @@
     {
      "name": "Ostrom Climate Solutions Inc.",
      "symbol": "COO"
-    }
-   ]
-  },
-  {
-   "symbol": "OZ",
-   "name": "Outback Goldfields Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OZ.V",
-   "instruments": [
-    {
-     "name": "Outback Goldfields Corp.",
-     "symbol": "OZ"
     }
    ]
   },
@@ -17686,6 +17674,18 @@
     {
      "name": "Valhalla Metals Inc.",
      "symbol": "VMXX"
+    }
+   ]
+  },
+  {
+   "symbol": "OZ",
+   "name": "Valkea Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OZ.V",
+   "instruments": [
+    {
+     "name": "Valkea Resources Corp.",
+     "symbol": "OZ"
     }
    ]
   },
@@ -24086,11 +24086,15 @@
    ]
   },
   {
-   "symbol": "CUP.U",
+   "symbol": "CUP.RT.U",
    "name": "Caribbean Utilities Company, Ltd.",
    "exchange": "TSX",
-   "yahoo_symbol": "CUP.U.TO",
+   "yahoo_symbol": "CUP.RT.U.TO",
    "instruments": [
+    {
+     "name": "Caribbean Utl Ltd Rt",
+     "symbol": "CUP.RT.U"
+    },
     {
      "name": "Caribbean Ut Cl A US",
      "symbol": "CUP.U"
@@ -27046,18 +27050,6 @@
    ]
   },
   {
-   "symbol": "DXV",
-   "name": "Dynamic Active Investment Grade Floating Rate ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DXV.TO",
-   "instruments": [
-    {
-     "name": "Dynamc ActInvestFltg",
-     "symbol": "DXV"
-    }
-   ]
-  },
-  {
    "symbol": "DXMO",
    "name": "Dynamic Active Mining Opportunities ETF",
    "exchange": "TSX",
@@ -27170,6 +27162,18 @@
     {
      "name": "Dynamic ActUS MidCap",
      "symbol": "DXZ"
+    }
+   ]
+  },
+  {
+   "symbol": "DXV",
+   "name": "Dynamic Active Ultra Short Term Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXV.TO",
+   "instruments": [
+    {
+     "name": "Dynamc ActInvestFltg",
+     "symbol": "DXV"
     }
    ]
   },
@@ -36146,18 +36150,6 @@
    ]
   },
   {
-   "symbol": "MEU",
-   "name": "Mackenzie Maximum Diversification Developed Europe Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MEU.TO",
-   "instruments": [
-    {
-     "name": "MackenzieMaxDvrEur E",
-     "symbol": "MEU"
-    }
-   ]
-  },
-  {
    "symbol": "MEE",
    "name": "Mackenzie Maximum Diversification Emerging Markets Index ETF",
    "exchange": "TSX",
@@ -44016,24 +44008,6 @@
    "yahoo_symbol": "ACABW"
   },
   {
-   "symbol": "ACAC",
-   "name": "Acri Capital Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACAC"
-  },
-  {
-   "symbol": "ACACU",
-   "name": "Acri Capital Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACACU"
-  },
-  {
-   "symbol": "ACACW",
-   "name": "Acri Capital Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACACW"
-  },
-  {
    "symbol": "ACAD",
    "name": "ACADIA Pharmaceuticals Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -47050,6 +47024,12 @@
    "name": "Bilibili Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BILI"
+  },
+  {
+   "symbol": "BIOA",
+   "name": "BioAge Labs, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BIOA"
   },
   {
    "symbol": "BIOR",
@@ -52016,7 +51996,7 @@
   {
    "symbol": "ELTX",
    "name": "Elicio Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ELTX"
   },
   {
@@ -54534,6 +54514,12 @@
    "yahoo_symbol": "GECC"
   },
   {
+   "symbol": "GECCH",
+   "name": "Great Elm Capital Corp. - 8.125% Notes Due 2029",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCH"
+  },
+  {
    "symbol": "GECCI",
    "name": "Great Elm Capital Corp. - 8.50% NOTES DUE 2029",
    "exchange": "NASDAQ Global MarketSM",
@@ -56524,6 +56510,12 @@
    "name": "IBEX Limited - Common Share",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IBEX"
+  },
+  {
+   "symbol": "IBG",
+   "name": "Innovation Beverage Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IBG"
   },
   {
    "symbol": "IBGA",
@@ -61148,13 +61140,13 @@
   {
    "symbol": "MVST",
    "name": "Microvast Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MVST"
   },
   {
    "symbol": "MVSTW",
    "name": "Microvast Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MVSTW"
   },
   {
@@ -78096,12 +78088,6 @@
    "yahoo_symbol": "DOLE"
   },
   {
-   "symbol": "DOMA",
-   "name": "Doma Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DOMA"
-  },
-  {
    "symbol": "DOUG",
    "name": "Douglas Elliman Inc. Common Stock",
    "exchange": "NYSE",
@@ -79068,10 +79054,22 @@
    "yahoo_symbol": "EQT"
   },
   {
+   "symbol": "EQV",
+   "name": "EQV Ventures Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQV"
+  },
+  {
    "symbol": "EQV.U",
    "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "EQV.U"
+  },
+  {
+   "symbol": "EQV.W",
+   "name": "EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQV.W"
   },
   {
    "symbol": "EQX",
@@ -84016,12 +84014,6 @@
    "name": "Markforged Holding Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MKFG"
-  },
-  {
-   "symbol": "MKFG.W",
-   "name": "Markforged Holding Corporation Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MKFG.W"
   },
   {
    "symbol": "MKL",

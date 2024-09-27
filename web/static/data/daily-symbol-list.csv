@@ -461,7 +461,6 @@ EQTY,Equity Metals Corporation,TSXV,EQTY.V,Equity Metals Corporation,EQTY
 ERC,Eros Resources Corp.,TSXV,ERC.V,Eros Resources Corp.,ERC
 ESE,ESE Entertainment Inc.,TSXV,ESE.V,ESE Entertainment Inc.,ESE
 ESK,Eskay Mining Corp.,TSXV,ESK.V,Eskay Mining Corp,ESK
-ESS,Esstra Industries Inc.,TSXV,ESS.V,Esstra Industries Inc.,ESS
 EBCD.P,Eureka Capital Corp.,TSXV,EBCD.P.V,Eureka Capital Corp.,EBCD.P
 EMN,Euro Manganese Inc.,TSXV,EMN.V,Euro Manganese Inc.,EMN
 EOX,Euromax Resources Ltd.,TSXV,EOX.V,Euromax Resources Ltd.,EOX
@@ -895,6 +894,7 @@ MCCP.P,Michichi Capital Corp.,TSXV,MCCP.P.V,Michichi Capital Corp.,MCCP.P
 MD,Midland Exploration Inc.,TSXV,MD.V,Midland Exploration Inc,MD
 MMA,Midnight Sun Mining Corp.,TSXV,MMA.V,Midnight Sun Mining Corp,MMA
 MEEC,Midwest Energy Emissions Corp,TSXV,MEEC.V,Midwest Energy Emissions Corp.,MEEC
+MIVO,Miivo Holdings Corp.,TSXV,MIVO.V,Miivo Holdings Corp.,MIVO
 MILL,Millbank Mining Corp.,TSXV,MILL.V,Millbank Mining Corp.,MILL
 MLP,Millennial Potash Corp.,TSXV,MLP.V,Millennial Potash Corp.,MLP
 MSC,Millennium Silver Corp.,TSXV,MSC.V,Millennium Silver Corp.,MSC
@@ -1040,7 +1040,6 @@ OMI,Orosur Mining Inc.,TSXV,OMI.V,Orosur Mining Inc.,OMI
 ODV,Osisko Development Corp.,TSXV,ODV.V,Osisko Development Corp.,ODV,Osisko Development Corp. wts 02Mar2027,ODV.WT.A,Osisko Development Corp. wt 02Mar2026,ODV.WT.B,Osisko Development Corp. wts 27May2027,ODV.WT.U
 OM,Osisko Metals Incorporated,TSXV,OM.V,Osisko Metals Incorporated,OM
 COO,Ostrom Climate Solutions Inc.,TSXV,COO.V,Ostrom Climate Solutions Inc.,COO
-OZ,Outback Goldfields Corp.,TSXV,OZ.V,Outback Goldfields Corp.,OZ
 OCG,Outcrop Silver & Gold Corporation,TSXV,OCG.V,Outcrop Silver & Gold Corporation,OCG
 OAM,OverActive Media Corp.,TSXV,OAM.V,OverActive Media Corp.,OAM
 PGLD,P2 Gold Inc.,TSXV,PGLD.V,P2 Gold Inc.,PGLD
@@ -1456,6 +1455,7 @@ VTEN.P,V Ten Capital Corp.,TSXV,VTEN.P.V,V Ten Capital Corp.,VTEN.P
 VZZ,Val-d'Or Mining Corporation,TSXV,VZZ.V,Val-d'Or Mining Corporation,VZZ
 VAL.P,Valencia Capital Inc.,TSXV,VAL.P.V,Valencia Capital Inc.,VAL.P
 VMXX,Valhalla Metals Inc.,TSXV,VMXX.V,Valhalla Metals Inc.,VMXX
+OZ,Valkea Resources Corp.,TSXV,OZ.V,Valkea Resources Corp.,OZ
 VVR,Valleyview Resources Ltd.,TSXV,VVR.V,Valleyview Resources Ltd.,VVR
 VO,Valore Metals Corp.,TSXV,VO.V,Valore Metals Corp.,VO
 VRB,Vanadiumcorp Resource Inc.,TSXV,VRB.V,Vanadiumcorp Resource Inc.,VRB
@@ -1922,7 +1922,7 @@ CJ,Cardinal Energy Ltd.,TSX,CJ.TO,Cardinal Energy,CJ
 CRDL,Cardiol Therapeutics Inc.,TSX,CRDL.TO,Cardiol Therapeutc A,CRDL
 CRRX,CareRx Corporation,TSX,CRRX.TO,CareRx Corp. J,CRRX
 CJT,Cargojet Inc.,TSX,CJT.TO,Cargojet Inc. Com&VV,CJT,Cargojet 5.75% Deb E,CJT.DB.E,Cargojet 5.25% Deb F,CJT.DB.F
-CUP.U,"Caribbean Utilities Company, Ltd.",TSX,CUP.U.TO,Caribbean Ut Cl A US,CUP.U
+CUP.RT.U,"Caribbean Utilities Company, Ltd.",TSX,CUP.RT.U.TO,Caribbean Utl Ltd Rt,CUP.RT.U,Caribbean Ut Cl A US,CUP.U
 CAS,Cascades Inc.,TSX,CAS.TO,Cascades Inc.,CAS
 CCL.A,CCL Industries Inc.,TSX,CCL.A.TO,CCL Industries Cl A,CCL.A,CCL Industries Cl B,CCL.B
 CLS,Celestica Inc.,TSX,CLS.TO,Celestica Inc ,CLS
@@ -2142,7 +2142,6 @@ DXAU,Dynamic Active Global Gold ETF,TSX,DXAU.TO,Dyn Actv Gl Gold ETF,DXAU
 DXN,Dynamic Active Global Infrastructure ETF,TSX,DXN.TO,DynamicActvGlbInfras,DXN
 DXW,Dynamic Active International Dividend ETF,TSX,DXW.TO,Dynamic ActvIntl Div,DXW
 DXIF,Dynamic Active International ETF,TSX,DXIF.TO,DynamicActvInt'l Un,DXIF
-DXV,Dynamic Active Investment Grade Floating Rate ETF,TSX,DXV.TO,Dynamc ActInvestFltg,DXV
 DXMO,Dynamic Active Mining Opportunities ETF,TSX,DXMO.TO,Dyn Acv Mine Opp ETF,DXMO
 DXP,Dynamic Active Preferred Shares ETF,TSX,DXP.TO,Dynamic Actv Pref Un,DXP
 DXRE,Dynamic Active Real Estate ETF,TSX,DXRE.TO,Dyn Actv RealEst ETF,DXRE
@@ -2152,6 +2151,7 @@ DXU,Dynamic Active U.S. Dividend ETF,TSX,DXU.TO,Dynamic ActvUS DivUn,DXU,Dy Actv
 DXUS,Dynamic Active U.S. Equity ETF,TSX,DXUS.TO,Dynamic Actv US Eqty,DXUS,Dyn Actv USEqty USD,DXUS.U
 DXBU,Dynamic Active U.S. Investment Grade Corporate Bond ETF,TSX,DXBU.TO,DynamicUS InvCorpBnd,DXBU
 DXZ,Dynamic Active U.S. Mid-Cap ETF,TSX,DXZ.TO,Dynamic ActUS MidCap,DXZ
+DXV,Dynamic Active Ultra Short Term Bond ETF,TSX,DXV.TO,Dynamc ActInvestFltg,DXV
 ENS,E Split Corp.,TSX,ENS.TO,E Split Corp. Cl A,ENS,E Split Corp. Pr,ENS.PR.A
 ELF,E-L Financial Corporation Limited,TSX,ELF.TO,E-L Financial Corp.,ELF,E-L Financial 1st Pr,ELF.PR.F,E-L Financl 4.75 Pr2,ELF.PR.G,E-L Financl 5.5 Pr 3,ELF.PR.H
 EAGR,East Side Games Group Inc.,TSX,EAGR.TO,East Side Games J,EAGR
@@ -2818,7 +2818,6 @@ MKZ.UN,Mackenzie Master Limited Partnership,TSX,MKZ.UN.TO,MacKenzie Master Un,MK
 MXU,Mackenzie Maximum Diversification All World Developed ex North America Index ETF,TSX,MXU.TO,Mackenzie AlWrl NA E,MXU
 MWD,Mackenzie Maximum Diversification All World Developed Index ETF,TSX,MWD.TO,MackenzieMaxDvr AW E,MWD
 MKC,Mackenzie Maximum Diversification Canada Index ETF,TSX,MKC.TO,Mackenzie MaxDvrCA E,MKC
-MEU,Mackenzie Maximum Diversification Developed Europe Index ETF,TSX,MEU.TO,MackenzieMaxDvrEur E,MEU
 MEE,Mackenzie Maximum Diversification Emerging Markets Index ETF,TSX,MEE.TO,Mackenzie EmrgMkts E,MEE
 MUS,Mackenzie Maximum Diversification US Index ETF,TSX,MUS.TO,Mackenzie MaxDvrUS E,MUS
 QUB,Mackenzie U.S. Aggregate Bond Index ETF (CAD-Hedged),TSX,QUB.TO,MackenzieUSAggrBndCH,QUB
@@ -3418,9 +3417,6 @@ ABVX,Abivax SA - American Depositary Shares,NASDAQ Global MarketSM,ABVX
 ACAB,Atlantic Coastal Acquisition Corp. II - Class A Common Stock,NASDAQ Global MarketSM,ACAB
 ACABU,Atlantic Coastal Acquisition Corp. II - Unit,NASDAQ Global MarketSM,ACABU
 ACABW,Atlantic Coastal Acquisition Corp. II - Warrant,NASDAQ Global MarketSM,ACABW
-ACAC,Acri Capital Acquisition Corporation - Class A Common Stock,NASDAQ Capital Market,ACAC
-ACACU,Acri Capital Acquisition Corporation - Unit,NASDAQ Capital Market,ACACU
-ACACW,Acri Capital Acquisition Corporation - Warrant,NASDAQ Capital Market,ACACW
 ACAD,ACADIA Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,ACAD
 ACB,Aurora Cannabis Inc. - Common Shares,NASDAQ Capital Market,ACB
 ACCD,"Accolade, Inc. - common stock",NASDAQ Global Select MarketSM,ACCD
@@ -3924,6 +3920,7 @@ BIDU,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary sha
 BIGC,"BigCommerce Holdings, Inc. - Series 1 Common Stock",NASDAQ Global MarketSM,BIGC
 BIIB,Biogen Inc. - Common Stock,NASDAQ Global Select MarketSM,BIIB
 BILI,Bilibili Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,BILI
+BIOA,"BioAge Labs, Inc. - Common Stock",NASDAQ Global Select MarketSM,BIOA
 BIOR,"Biora Therapeutics, Inc.  - Common Stock",NASDAQ Global MarketSM,BIOR
 BIOX,Bioceres Crop Solutions Corp. - Ordinary Shares,NASDAQ Global Select MarketSM,BIOX
 BIRD,"Allbirds, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,BIRD
@@ -4751,7 +4748,7 @@ ELDN,"Eledon Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,ELDN
 ELEV,"Elevation Oncology, Inc. - Common stock",NASDAQ Global Select MarketSM,ELEV
 ELSE,"Electro-Sensors, Inc. - Common Stock",NASDAQ Capital Market,ELSE
 ELTK,Eltek Ltd. - Ordinary Shares,NASDAQ Capital Market,ELTK
-ELTX,"Elicio Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,ELTX
+ELTX,"Elicio Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,ELTX
 ELUT,"Elutia, Inc. - Class A Common Stock",NASDAQ Capital Market,ELUT
 ELVA,Electrovaya Inc. - Common Shares,NASDAQ Capital Market,ELVA
 ELVN,"Enliven Therapeutics, Inc.  - Common Stock",NASDAQ Global Select MarketSM,ELVN
@@ -5171,6 +5168,7 @@ GDSTW,Goldenstone Acquisition Limited - Warrants,NASDAQ Capital Market,GDSTW
 GDTC,CytoMed Therapeutics Limited - Ordinary Shares,NASDAQ Capital Market,GDTC
 GDYN,"Grid Dynamics Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market,GDYN
 GECC,Great Elm Capital Corp. - Closed End Fund,NASDAQ Global MarketSM,GECC
+GECCH,Great Elm Capital Corp. - 8.125% Notes Due 2029,NASDAQ Global MarketSM,GECCH
 GECCI,Great Elm Capital Corp. - 8.50% NOTES DUE 2029,NASDAQ Global MarketSM,GECCI
 GECCM,Great Elm Capital Corp. - 6.75% Notes Due 2025,NASDAQ Global MarketSM,GECCM
 GECCO,Great Elm Capital Corp. - 5.875% Notes due 2026,NASDAQ Global MarketSM,GECCO
@@ -5503,6 +5501,7 @@ IBB,iShares Biotechnology ETF,NASDAQ Global MarketSM,IBB
 IBBQ,Invesco Nasdaq Biotechnology ETF,NASDAQ Global MarketSM,IBBQ
 IBCP,Independent Bank Corporation - Common Stock,NASDAQ Global Select MarketSM,IBCP
 IBEX,IBEX Limited - Common Share,NASDAQ Global MarketSM,IBEX
+IBG,Innovation Beverage Group Limited - Ordinary Shares,NASDAQ Capital Market,IBG
 IBGA,iShares iBonds Dec 2044 Term Treasury ETF,NASDAQ Global MarketSM,IBGA
 IBGK,iShares iBonds Dec 2054 Term Treasury ETF,NASDAQ Global MarketSM,IBGK
 IBIT,iShares Bitcoin Trust ETF,NASDAQ Global MarketSM,IBIT
@@ -6273,8 +6272,8 @@ MULN,"Mullen Automotive, Inc. - Common Stock",NASDAQ Capital Market,MULN
 MURA,Mural Oncology plc - Ordinary Shares,NASDAQ Global MarketSM,MURA
 MVBF,MVB Financial Corp. - Common Stock,NASDAQ Capital Market,MVBF
 MVIS,"MicroVision, Inc. - Common Stock",NASDAQ Global MarketSM,MVIS
-MVST,"Microvast Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MVST
-MVSTW,"Microvast Holdings, Inc. - Warrant",NASDAQ Global Select MarketSM,MVSTW
+MVST,"Microvast Holdings, Inc. - Common Stock",NASDAQ Capital Market,MVST
+MVSTW,"Microvast Holdings, Inc. - Warrant",NASDAQ Capital Market,MVSTW
 MXCT,"MaxCyte, Inc. - Common Stock",NASDAQ Global Select MarketSM,MXCT
 MXL,"MaxLinear, Inc - Common Stock",NASDAQ Global Select MarketSM,MXL
 MYCF,SPDR SSGA My2026 Corporate Bond ETF,NASDAQ Global MarketSM,MYCF
@@ -9098,7 +9097,6 @@ DOC,"Healthpeak Properties, Inc. Common Stock",NYSE,DOC
 DOCN,"DigitalOcean Holdings, Inc. Common Stock",NYSE,DOCN
 DOCS,"Doximity, Inc. Class A Common Stock",NYSE,DOCS
 DOLE,Dole plc Ordinary Shares,NYSE,DOLE
-DOMA,"Doma Holdings, Inc. Common Stock",NYSE,DOMA
 DOUG,Douglas Elliman Inc. Common Stock,NYSE,DOUG
 DOV,Dover Corporation Common Stock,NYSE,DOV
 DOW,Dow Inc. Common Stock ,NYSE,DOW
@@ -9260,7 +9258,9 @@ EQNR,Equinor ASA,NYSE,EQNR
 EQR,Equity Residential Common Shares of Beneficial Interest,NYSE,EQR
 EQS,"Equus Total Return, Inc. Common Stock",NYSE,EQS
 EQT,EQT Corporation Common Stock,NYSE,EQT
+EQV,EQV Ventures Acquisition Corp. Class A Ordinary Shares,NYSE,EQV
 EQV.U,"EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,EQV.U
+EQV.W,"EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",NYSE,EQV.W
 EQX,Equinox Gold Corp. Common Shares,NYSE MKT,EQX
 ERC,Allspring Multi-Sector Income Fund Common Stock,NYSE MKT,ERC
 ERH,Allspring Utilities and High Income Fund Common Shares,NYSE MKT,ERH
@@ -10085,7 +10085,6 @@ MIY,"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",NYSE,MIY
 MKC,"McCormick & Company, Incorporated Common Stock",NYSE,MKC
 MKC.V,"McCormick & Company, Incorporated Common Stock",NYSE,MKC.V
 MKFG,Markforged Holding Corporation Common Stock,NYSE,MKFG
-MKFG.W,Markforged Holding Corporation Warrants,NYSE,MKFG.W
 MKL,Markel Group Inc. Common Stock,NYSE,MKL
 ML,MoneyLion Inc. Class A Common Stock,NYSE,ML
 ML.W,"MoneyLion Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE,ML.W
