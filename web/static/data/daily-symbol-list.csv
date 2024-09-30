@@ -790,7 +790,6 @@ LTX,Labrador Resources Inc.,TSXV,LTX.V,Labrador Resources Inc.,LTX
 LG,Lahontan Gold Corp.,TSXV,LG.V,Lahontan Gold Corp.,LG
 LVG,Lake Victoria Gold Ltd.,TSXV,LVG.V,Lake Victoria Gold Ltd.,LVG
 LWR,Lake Winn Resources Corp.,TSXV,LWR.V,Lake Winn Resources Corp.,LWR
-LRT.UN,Lanesborough Real Estate Investment Trust,TSXV,LRT.UN.V,Lanesborough Real Estate Investment Trust,LRT.UN
 LRA,Lara Exploration Ltd.,TSXV,LRA.V,Lara Exploration Ltd.,LRA
 VAND,Largo Physical Vanadium Corp,TSXV,VAND.V,Largo Physical Vanadium Corp.,VAND
 LMS,Latin Metals Inc.,TSXV,LMS.V,Latin Metals Inc.,LMS
@@ -910,6 +909,7 @@ MNLX,Miniluxe Holding Corp.,TSXV,MNLX.V,Miniluxe Holding Corp.,MNLX
 MINK,Mink Ventures Corporation,TSXV,MINK.V,Mink Ventures Corporation,MINK
 MSR,Minsud Resources Corp.,TSXV,MSR.V,Minsud Resources Corp.,MSR
 MRZ,Mirasol Resources Ltd.,TSXV,MRZ.V,Mirasol Resources Ltd.,MRZ
+MSG,Mithril Silver and Gold Limited,TSXV,MSG.V,Mithril Silver and Gold Limited,MSG
 MIZA.P,Miza III Ventures Inc.,TSXV,MIZA.P.V,Miza III Ventures Inc.,MIZA.P
 MKA,Mkango Resources Ltd.,TSXV,MKA.V,Mkango Resources Ltd.,MKA
 MBO,Mobio Technologies Inc.,TSXV,MBO.V,Mobio Technologies Inc.,MBO
@@ -2151,7 +2151,7 @@ DXU,Dynamic Active U.S. Dividend ETF,TSX,DXU.TO,Dynamic ActvUS DivUn,DXU,Dy Actv
 DXUS,Dynamic Active U.S. Equity ETF,TSX,DXUS.TO,Dynamic Actv US Eqty,DXUS,Dyn Actv USEqty USD,DXUS.U
 DXBU,Dynamic Active U.S. Investment Grade Corporate Bond ETF,TSX,DXBU.TO,DynamicUS InvCorpBnd,DXBU
 DXZ,Dynamic Active U.S. Mid-Cap ETF,TSX,DXZ.TO,Dynamic ActUS MidCap,DXZ
-DXV,Dynamic Active Ultra Short Term Bond ETF,TSX,DXV.TO,Dynamc ActInvestFltg,DXV
+DXV,Dynamic Active Ultra Short Term Bond ETF,TSX,DXV.TO,Dynamc ActUSh TB ETF,DXV
 ENS,E Split Corp.,TSX,ENS.TO,E Split Corp. Cl A,ENS,E Split Corp. Pr,ENS.PR.A
 ELF,E-L Financial Corporation Limited,TSX,ELF.TO,E-L Financial Corp.,ELF,E-L Financial 1st Pr,ELF.PR.F,E-L Financl 4.75 Pr2,ELF.PR.G,E-L Financl 5.5 Pr 3,ELF.PR.H
 EAGR,East Side Games Group Inc.,TSX,EAGR.TO,East Side Games J,EAGR
@@ -2223,7 +2223,6 @@ FFH,Fairfax Financial Holdings Limited,TSX,FFH.TO,Fairfax Financial SV,FFH,Fairf
 FIH.U,Fairfax India Holdings Corporation,TSX,FIH.U.TO,Fairfax India SV USF,FIH.U
 FDY,Faraday Copper Corp.,TSX,FDY.TO,Faraday Copper CorpJ,FDY
 FRX,Fennec Pharmaceuticals Inc.,TSX,FRX.TO,Fennec Pharmaceut J,FRX
-FGAA.U,FG Acquisition Corp.,TSX,FGAA.U.TO,FG AcquisCorpRV A US,FGAA.U,FG AcquisCorp Wt USF,FGAA.WT.U
 FBTC,Fidelity Advantage Bitcoin ETF,TSX,FBTC.TO,Fidelity AdvBtcnL Un,FBTC,Fidelity Adv Btcn US,FBTC.U
 FETH,Fidelity Advantage Ether ETF,TSX,FETH.TO,Fidelity Advantg C$,FETH,Fidelity Advantg US$,FETH.U
 FCCD,Fidelity Canadian High Dividend ETF,TSX,FCCD.TO,Fidelity Cdn Div L,FCCD
@@ -2815,11 +2814,6 @@ QDX,Mackenzie International Equity Index ETF,TSX,QDX.TO,Mackenzie IntlEq Idx,QDX
 QDXH,Mackenzie International Equity Index ETF (CAD-Hedged),TSX,QDXH.TO,Mackenzie IntlEq C-H,QDXH
 MIVG,Mackenzie Ivy Global Equity ETF,TSX,MIVG.TO,Mackenzie IvyGlbEq E,MIVG
 MKZ.UN,Mackenzie Master Limited Partnership,TSX,MKZ.UN.TO,MacKenzie Master Un,MKZ.UN
-MXU,Mackenzie Maximum Diversification All World Developed ex North America Index ETF,TSX,MXU.TO,Mackenzie AlWrl NA E,MXU
-MWD,Mackenzie Maximum Diversification All World Developed Index ETF,TSX,MWD.TO,MackenzieMaxDvr AW E,MWD
-MKC,Mackenzie Maximum Diversification Canada Index ETF,TSX,MKC.TO,Mackenzie MaxDvrCA E,MKC
-MEE,Mackenzie Maximum Diversification Emerging Markets Index ETF,TSX,MEE.TO,Mackenzie EmrgMkts E,MEE
-MUS,Mackenzie Maximum Diversification US Index ETF,TSX,MUS.TO,Mackenzie MaxDvrUS E,MUS
 QUB,Mackenzie U.S. Aggregate Bond Index ETF (CAD-Hedged),TSX,QUB.TO,MackenzieUSAggrBndCH,QUB
 MUB,Mackenzie Unconstrained Bond ETF,TSX,MUB.TO,Mackenzie Uncnstrn E,MUB
 QTLT,Mackenzie US Government Long Bond Index ETF,TSX,QTLT.TO,Mackenzie USGvtLgBnd,QTLT
@@ -2961,7 +2955,7 @@ PAAS,Pan American Silver Corp.,TSX,PAAS.TO,Pan American Silver,PAAS
 POU,Paramount Resources Ltd.,TSX,POU.TO,Paramount Res Cl A,POU
 PXT,Parex Resources Inc.,TSX,PXT.TO,Parex Resources,PXT
 PKI,Parkland Corporation,TSX,PKI.TO,Parkland Corp.,PKI
-PVS.PR.F,Partners Value Split Corp.,TSX,PVS.PR.F.TO,Partners Val AA Pr 8,PVS.PR.F,Partners Val AA Pr 9,PVS.PR.G,Partners ValAA Pr 10,PVS.PR.H,Partners ValAA Pr 11,PVS.PR.I,Partners ValAA Pr 12,PVS.PR.J,Partners ValAA Pr 13,PVS.PR.K,Partners Val AA Pr14,PVS.PR.L
+PVS.PR.G,Partners Value Split Corp.,TSX,PVS.PR.G.TO,Partners Val AA Pr 9,PVS.PR.G,Partners ValAA Pr 10,PVS.PR.H,Partners ValAA Pr 11,PVS.PR.I,Partners ValAA Pr 12,PVS.PR.J,Partners ValAA Pr 13,PVS.PR.K,Partners Val AA Pr14,PVS.PR.L
 PSI,Pason Systems Inc.,TSX,PSI.TO,Pason Systems Inc.,PSI
 PMET,Patriot Battery Metals Inc.,TSX,PMET.TO,Patriot Battery Mtls,PMET
 PAY,Payfare Inc.,TSX,PAY.TO,Payfare Inc. J Cl A,PAY
@@ -3129,6 +3123,7 @@ RIRA,Russell Investments Real Assets,TSX,RIRA.TO,Russl InvestRl Asset,RIRA
 SGLD,Sabre Gold Mines Corp.,TSX,SGLD.TO,Sabre Gold Mines . J,SGLD
 MIC.PR.A,Sagen MI Canada Inc.,TSX,MIC.PR.A.TO,Sagen MI Cda A Pr 1,MIC.PR.A
 SFC,Sagicor Financial Company Ltd.,TSX,SFC.TO,Sagicor Fin Co,SFC,Sagicor Fin Co Wt,SFC.WT
+SLT.U,Saltire Capital Ltd.,TSX,SLT.U.TO,Saltire Capital USD,SLT.U,Saltire Cap Wts USD ,SLT.WT.U
 SSL,Sandstorm Gold Ltd.,TSX,SSL.TO,Sandstorm Gold Ltd.,SSL
 STC,Sangoma Technologies Corporation,TSX,STC.TO,Sangoma Tech Corp.,STC
 SAP,Saputo Inc.,TSX,SAP.TO,Saputo Inc.,SAP
@@ -3739,7 +3734,6 @@ ASTI,"Ascent Solar Technologies, Inc - Common Stock",NASDAQ Capital Market,ASTI
 ASTL,Algoma Steel Group Inc. - Common Shares,NASDAQ Global MarketSM,ASTL
 ASTLW,Algoma Steel Group Inc. - Warrant,NASDAQ Global MarketSM,ASTLW
 ASTS,"AST SpaceMobile, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ASTS
-ASTSW,"AST SpaceMobile, Inc. - Warrant",NASDAQ Global Select MarketSM,ASTSW
 ASUR,Asure Software Inc - Common Stock,NASDAQ Capital Market,ASUR
 ASYS,"Amtech Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,ASYS
 ATAI,ATAI Life Sciences N.V. - Common Shares,NASDAQ Global MarketSM,ATAI
@@ -4134,7 +4128,6 @@ CAAS,"China Automotive Systems, Inc. - Common Stock",NASDAQ Capital Market,CAAS
 CABA,"Cabaletta Bio, Inc. - Common Stock",NASDAQ Global Select MarketSM,CABA
 CAC,Camden National Corporation - Common Stock,NASDAQ Global Select MarketSM,CAC
 CACC,Credit Acceptance Corporation - Common Stock,NASDAQ Global Select MarketSM,CACC
-CACO,Caravelle International Group - Ordinary Shares,NASDAQ Capital Market,CACO
 CADL,"Candel Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,CADL
 CAFG,Pacer US Small Cap Cash Cows Growth Leaders ETF,NASDAQ Global MarketSM,CAFG
 CAKE,The Cheesecake Factory Incorporated - Common Stock,NASDAQ Global Select MarketSM,CAKE
@@ -4671,7 +4664,7 @@ DUETU,DUET Acquisition Corp. - Unit,NASDAQ Global MarketSM,DUETU
 DUETW,DUET Acquisition Corp. - Warrant,NASDAQ Global MarketSM,DUETW
 DUKH,Ocean Park High Income ETF,NASDAQ Global MarketSM,DUKH
 DUKX,Ocean Park International ETF,NASDAQ Global MarketSM,DUKX
-DUO,Fangdd Network Group Ltd. - American Depositary Shares,NASDAQ Capital Market,DUO
+DUO,Fangdd Network Group Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,DUO
 DUOL,"Duolingo, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,DUOL
 DUOT,"Duos Technologies Group, Inc. - Common Stock",NASDAQ Capital Market,DUOT
 DVAL,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,NASDAQ Global MarketSM,DVAL
@@ -5035,6 +5028,8 @@ FOSLL,"Fossil Group, Inc. - 7% Senior Notes due 2026",NASDAQ Global Select Marke
 FOX,Fox Corporation - Class B Common Stock,NASDAQ Global Select MarketSM,FOX
 FOXA,Fox Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,FOXA
 FOXF,Fox Factory Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,FOXF
+FOXX,Foxx Development Holdings Inc. - Common Stock,NASDAQ Capital Market,FOXX
+FOXXW,Foxx Development Holdings Inc. - Warrant,NASDAQ Capital Market,FOXXW
 FPA,First Trust Asia Pacific Ex-Japan AlphaDEX Fund,NASDAQ Global MarketSM,FPA
 FPAY,"FlexShopper, Inc. - Common Stock",NASDAQ Capital Market,FPAY
 FPXE,First Trust IPOX Europe Equity Opportunities ETF,NASDAQ Global MarketSM,FPXE
@@ -5449,6 +5444,7 @@ HST,"Host Hotels & Resorts, Inc. - Common Stock",NASDAQ Global Select MarketSM,H
 HSTM,"HealthStream, Inc. - Common Stock",NASDAQ Global Select MarketSM,HSTM
 HTBI,"HomeTrust Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,HTBI
 HTBK,Heritage Commerce Corp - Common Stock,NASDAQ Global Select MarketSM,HTBK
+HTCO,Caravelle International Group - Ordinary Shares,NASDAQ Capital Market,HTCO
 HTCR,"Heartcore Enterprises, Inc. - Common Stock",NASDAQ Capital Market,HTCR
 HTHT,H World Group Limited - American Depositary Shares,NASDAQ Global Select MarketSM,HTHT
 HTIA,"Healthcare Trust, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ Global MarketSM,HTIA
@@ -6262,7 +6258,7 @@ MTEK,Maris-Tech Ltd. - ordinary shares,NASDAQ Capital Market,MTEK
 MTEKW,Maris-Tech Ltd. - Warrants,NASDAQ Capital Market,MTEKW
 MTEM,"Molecular Templates, Inc. - Common Stock",NASDAQ Capital Market,MTEM
 MTEN,Mingteng International Corporation Inc. - Ordinary Shares,NASDAQ Capital Market,MTEN
-MTEX,"Mannatech, Incorporated - Common Stock",NASDAQ Global Select MarketSM,MTEX
+MTEX,"Mannatech, Incorporated - Common Stock",NASDAQ Capital Market,MTEX
 MTLS,Materialise NV - American Depositary Shares,NASDAQ Global Select MarketSM,MTLS
 MTRX,Matrix Service Company - Common Stock,NASDAQ Global Select MarketSM,MTRX
 MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MTSI
@@ -6360,7 +6356,6 @@ NFTY,First Trust India Nifty 50 Equal Weight ETF,NASDAQ Global MarketSM,NFTY
 NGNE,Neurogene Inc. - Common Stock,NASDAQ Global MarketSM,NGNE
 NHTC,Natural Health Trends Corp. - Commn Stock,NASDAQ Capital Market,NHTC
 NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,NASDAQ Global Select MarketSM,NICE
-NICK,"Nicholas Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,NICK
 NIKL,Sprott Nickel Miners ETF,NASDAQ Global MarketSM,NIKL
 NIOBW,NioCorp Developments Ltd. - Warrant,NASDAQ Capital Market,NIOBW
 NIPG,NIP Group Inc. - American Depositary Shares,NASDAQ Global MarketSM,NIPG
@@ -6555,6 +6550,7 @@ OLMA,"Olema Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,
 OLPX,"Olaplex Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,OLPX
 OM,"Outset Medical, Inc. - Common Stock",NASDAQ Global Select MarketSM,OM
 OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares,NASDAQ Global Select MarketSM,OMAB
+OMCC,Old Market Capital Corporation - Common Stock,NASDAQ Global Select MarketSM,OMCC
 OMCL,"Omnicell, Inc. - Common Stock",NASDAQ Global Select MarketSM,OMCL
 OMER,Omeros Corporation - Common Stock,NASDAQ Global MarketSM,OMER
 OMEX,"Odyssey Marine Exploration, Inc. - Common Stock",NASDAQ Capital Market,OMEX
@@ -7557,7 +7553,6 @@ TAXE,Intermediate Municipal Income ETF,NASDAQ Global MarketSM,TAXE
 TAYD,"Taylor Devices, Inc. - Common Stock",NASDAQ Capital Market,TAYD
 TBBK,"The Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,TBBK
 TBIL,US Treasury 3 Month Bill ETF,NASDAQ Global MarketSM,TBIL
-TBIO,"Telesis Bio, Inc. - Common Stock",NASDAQ Global Select MarketSM,TBIO
 TBLA,Taboola.com Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,TBLA
 TBLAW,Taboola.com Ltd. - Warrant,NASDAQ Global Select MarketSM,TBLAW
 TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,NASDAQ Global Select MarketSM,TBLD
@@ -8354,7 +8349,7 @@ AMS,American Shared Hospital Services Common Stock,NYSE MKT,AMS
 AMT,American Tower Corporation (REIT) Common Stock,NYSE,AMT
 AMTB,Amerant Bancorp Inc. Class A Common Stock,NYSE,AMTB
 AMTD,"AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares",NYSE,AMTD
-AMTM.V,"Amentum Holdings, Inc. Common Stock When-Issued",NYSE,AMTM.V
+AMTM,"Amentum Holdings, Inc. Common Stock",NYSE,AMTM
 AMTR,ETRACS Alerian Midstream Energy Total Return Index ETN,NYSE ARCA,AMTR
 AMUB,"ETRACS Alerian MLP Index ETN Series B due July 18, 2042",NYSE ARCA,AMUB
 AMWL,American Well Corporation Class A Common Stock,NYSE,AMWL
@@ -8505,7 +8500,6 @@ BAC$O,"Bank of America Corporation Depositary shares, each representing 1/1,000t
 BAC$P,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non-Cumulative Preferred Stock, Series PP",NYSE,BAC$P
 BAC$Q,"Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.250% Non-Cumulative Preferred Stock, Series QQ",NYSE,BAC$Q
 BAC$S,"Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.750% Non-Cumulative Preferred Stock, Series SS",NYSE,BAC$S
-BACA,Berenson Acquisition Corp. I Class A Common Stock,NYSE MKT,BACA
 BAH,Booz Allen Hamilton Holding Corporation Common Stock,NYSE,BAH
 BAK,Braskem SA ADR,NYSE,BAK
 BALL,Ball Corporation Common Stock,NYSE,BALL
@@ -8947,7 +8941,6 @@ CRT,Cross Timbers Royalty Trust Common Stock,NYSE,CRT
 CSAN,Cosan S.A. ADS,NYSE,CSAN
 CSL,Carlisle Companies Incorporated Common Stock,NYSE,CSL
 CSR,D/B/A Centerspace Common Stock,NYSE,CSR
-CSR$C,D/B/A Centerspace 6.625% Series C ,NYSE,CSR$C
 CSTM,Constellium SE Ordinary Shares (France),NYSE,CSTM
 CSV,"Carriage Services, Inc. Common Stock",NYSE,CSV
 CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series",NYSE,CTA$A
@@ -9793,7 +9786,6 @@ IVT,InvenTrust Properties Corp. Common Stock,NYSE,IVT
 IVZ,Invesco Ltd Common Stock,NYSE,IVZ
 IX,Orix Corp Ads Common Stock,NYSE,IX
 J,Jacobs Solutions Inc. Common Stock,NYSE,J
-J.V,Jacobs Solutions Inc. Common Stock When-Issued,NYSE,J.V
 JBGS,JBG SMITH Properties Common Shares ,NYSE,JBGS
 JBI,"Janus International Group, Inc. Common Stock",NYSE,JBI
 JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,JBK
@@ -10365,7 +10357,6 @@ NYCB$U,"New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSE
 NYT,New York Times Company (The) Common Stock,NYSE,NYT
 NZF,Nuveen Municipal Credit Income Fund ,NYSE,NZF
 O,Realty Income Corporation Common Stock,NYSE,O
-O$,Realty Income Corporation 6.000% Series A Cumulative Redeemable Preferred Stock,NYSE,O$
 OAK$A,"Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units",NYSE,OAK$A
 OAK$B,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",NYSE,OAK$B
 OBDC,Blue Owl Capital Corporation Common Stock,NYSE,OBDC
@@ -10855,7 +10846,6 @@ SFB,Stifel Financial Corporation 5.20% Senior Notes due 2047,NYSE,SFB
 SFBS,"ServisFirst Bancshares, Inc. Common Stock",NYSE,SFBS
 SFL,SFL Corporation Ltd,NYSE,SFL
 SG,"Sweetgreen, Inc. Class A Common Stock",NYSE,SG
-SGE,"Strong Global Entertainment, Inc. Class A Common Voting Shares",NYSE MKT,SGE
 SGHC,Super Group (SGHC) Limited Ordinary Shares,NYSE,SGHC
 SGN,"Signing Day Sports, Inc. Common Stock",NYSE MKT,SGN
 SGU,Star Group L.P. Common Stock,NYSE,SGU
@@ -11057,7 +11047,7 @@ TEAF,Ecofin Sustainable and Social Impact Term Fund,NYSE,TEAF
 TECK,Teck Resources Ltd Ordinary Shares,NYSE,TECK
 TEF,Telefonica SA Common Stock,NYSE,TEF
 TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock",NYSE,TEI
-TEL,TE Connectivity Ltd. New Switzerland Registered Shares,NYSE,TEL
+TEL,TE Connectivity plc Ordinary Shares,NYSE,TEL
 TELL,Tellurian Inc. Common Stock,NYSE MKT,TELL
 TELZ,Tellurian Inc. 8.25% Senior Notes due 2028,NYSE MKT,TELZ
 TEN,Tsakos Energy Navigation Ltd Common Shares,NYSE,TEN

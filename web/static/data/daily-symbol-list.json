@@ -1,5 +1,5 @@
 {
- "date": "2024-09-27",
+ "date": "2024-09-30",
  "data": [
   {
    "symbol": "ONE",
@@ -9570,18 +9570,6 @@
    ]
   },
   {
-   "symbol": "LRT.UN",
-   "name": "Lanesborough Real Estate Investment Trust",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LRT.UN.V",
-   "instruments": [
-    {
-     "name": "Lanesborough Real Estate Investment Trust",
-     "symbol": "LRT.UN"
-    }
-   ]
-  },
-  {
    "symbol": "LRA",
    "name": "Lara Exploration Ltd.",
    "exchange": "TSXV",
@@ -11022,6 +11010,18 @@
     {
      "name": "Mirasol Resources Ltd.",
      "symbol": "MRZ"
+    }
+   ]
+  },
+  {
+   "symbol": "MSG",
+   "name": "Mithril Silver and Gold Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MSG.V",
+   "instruments": [
+    {
+     "name": "Mithril Silver and Gold Limited",
+     "symbol": "MSG"
     }
    ]
   },
@@ -27172,7 +27172,7 @@
    "yahoo_symbol": "DXV.TO",
    "instruments": [
     {
-     "name": "Dynamc ActInvestFltg",
+     "name": "Dynamc ActUSh TB ETF",
      "symbol": "DXV"
     }
    ]
@@ -28370,22 +28370,6 @@
     {
      "name": "Fennec Pharmaceut J",
      "symbol": "FRX"
-    }
-   ]
-  },
-  {
-   "symbol": "FGAA.U",
-   "name": "FG Acquisition Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "FGAA.U.TO",
-   "instruments": [
-    {
-     "name": "FG AcquisCorpRV A US",
-     "symbol": "FGAA.U"
-    },
-    {
-     "name": "FG AcquisCorp Wt USF",
-     "symbol": "FGAA.WT.U"
     }
    ]
   },
@@ -36114,66 +36098,6 @@
    ]
   },
   {
-   "symbol": "MXU",
-   "name": "Mackenzie Maximum Diversification All World Developed ex North America Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MXU.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie AlWrl NA E",
-     "symbol": "MXU"
-    }
-   ]
-  },
-  {
-   "symbol": "MWD",
-   "name": "Mackenzie Maximum Diversification All World Developed Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MWD.TO",
-   "instruments": [
-    {
-     "name": "MackenzieMaxDvr AW E",
-     "symbol": "MWD"
-    }
-   ]
-  },
-  {
-   "symbol": "MKC",
-   "name": "Mackenzie Maximum Diversification Canada Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MKC.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie MaxDvrCA E",
-     "symbol": "MKC"
-    }
-   ]
-  },
-  {
-   "symbol": "MEE",
-   "name": "Mackenzie Maximum Diversification Emerging Markets Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MEE.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie EmrgMkts E",
-     "symbol": "MEE"
-    }
-   ]
-  },
-  {
-   "symbol": "MUS",
-   "name": "Mackenzie Maximum Diversification US Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MUS.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie MaxDvrUS E",
-     "symbol": "MUS"
-    }
-   ]
-  },
-  {
    "symbol": "QUB",
    "name": "Mackenzie U.S. Aggregate Bond Index ETF (CAD-Hedged)",
    "exchange": "TSX",
@@ -38042,15 +37966,11 @@
    ]
   },
   {
-   "symbol": "PVS.PR.F",
+   "symbol": "PVS.PR.G",
    "name": "Partners Value Split Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "PVS.PR.F.TO",
+   "yahoo_symbol": "PVS.PR.G.TO",
    "instruments": [
-    {
-     "name": "Partners Val AA Pr 8",
-     "symbol": "PVS.PR.F"
-    },
     {
      "name": "Partners Val AA Pr 9",
      "symbol": "PVS.PR.G"
@@ -40442,6 +40362,22 @@
     {
      "name": "Sagicor Fin Co Wt",
      "symbol": "SFC.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "SLT.U",
+   "name": "Saltire Capital Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLT.U.TO",
+   "instruments": [
+    {
+     "name": "Saltire Capital USD",
+     "symbol": "SLT.U"
+    },
+    {
+     "name": "Saltire Cap Wts USD ",
+     "symbol": "SLT.WT.U"
     }
    ]
   },
@@ -45940,12 +45876,6 @@
    "yahoo_symbol": "ASTS"
   },
   {
-   "symbol": "ASTSW",
-   "name": "AST SpaceMobile, Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ASTSW"
-  },
-  {
    "symbol": "ASUR",
    "name": "Asure Software Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -48308,12 +48238,6 @@
    "name": "Credit Acceptance Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CACC"
-  },
-  {
-   "symbol": "CACO",
-   "name": "Caravelle International Group - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CACO"
   },
   {
    "symbol": "CADL",
@@ -51533,7 +51457,7 @@
   },
   {
    "symbol": "DUO",
-   "name": "Fangdd Network Group Ltd. - American Depositary Shares",
+   "name": "Fangdd Network Group Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DUO"
   },
@@ -53714,6 +53638,18 @@
    "name": "Fox Factory Holding Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FOXF"
+  },
+  {
+   "symbol": "FOXX",
+   "name": "Foxx Development Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FOXX"
+  },
+  {
+   "symbol": "FOXXW",
+   "name": "Foxx Development Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FOXXW"
   },
   {
    "symbol": "FPA",
@@ -56198,6 +56134,12 @@
    "name": "Heritage Commerce Corp - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HTBK"
+  },
+  {
+   "symbol": "HTCO",
+   "name": "Caravelle International Group - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HTCO"
   },
   {
    "symbol": "HTCR",
@@ -61080,7 +61022,7 @@
   {
    "symbol": "MTEX",
    "name": "Mannatech, Incorporated - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MTEX"
   },
   {
@@ -61664,12 +61606,6 @@
    "name": "NICE Ltd - American Depositary Shares each representing one Ordinary Share",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "NICE"
-  },
-  {
-   "symbol": "NICK",
-   "name": "Nicholas Financial, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NICK"
   },
   {
    "symbol": "NIKL",
@@ -62834,6 +62770,12 @@
    "name": "Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OMAB"
+  },
+  {
+   "symbol": "OMCC",
+   "name": "Old Market Capital Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OMCC"
   },
   {
    "symbol": "OMCL",
@@ -68848,12 +68790,6 @@
    "yahoo_symbol": "TBIL"
   },
   {
-   "symbol": "TBIO",
-   "name": "Telesis Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TBIO"
-  },
-  {
    "symbol": "TBLA",
    "name": "Taboola.com Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73630,10 +73566,10 @@
    "yahoo_symbol": "AMTD"
   },
   {
-   "symbol": "AMTM.V",
-   "name": "Amentum Holdings, Inc. Common Stock When-Issued",
+   "symbol": "AMTM",
+   "name": "Amentum Holdings, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "AMTM.V"
+   "yahoo_symbol": "AMTM"
   },
   {
    "symbol": "AMTR",
@@ -74534,12 +74470,6 @@
    "name": "Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.750% Non-Cumulative Preferred Stock, Series SS",
    "exchange": "NYSE",
    "yahoo_symbol": "BAC$S"
-  },
-  {
-   "symbol": "BACA",
-   "name": "Berenson Acquisition Corp. I Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BACA"
   },
   {
    "symbol": "BAH",
@@ -77186,12 +77116,6 @@
    "name": "D/B/A Centerspace Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CSR"
-  },
-  {
-   "symbol": "CSR$C",
-   "name": "D/B/A Centerspace 6.625% Series C ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CSR$C"
   },
   {
    "symbol": "CSTM",
@@ -82264,12 +82188,6 @@
    "yahoo_symbol": "J"
   },
   {
-   "symbol": "J.V",
-   "name": "Jacobs Solutions Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "J.V"
-  },
-  {
    "symbol": "JBGS",
    "name": "JBG SMITH Properties Common Shares ",
    "exchange": "NYSE",
@@ -85696,12 +85614,6 @@
    "yahoo_symbol": "O"
   },
   {
-   "symbol": "O$",
-   "name": "Realty Income Corporation 6.000% Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "O$"
-  },
-  {
    "symbol": "OAK$A",
    "name": "Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units",
    "exchange": "NYSE",
@@ -88636,12 +88548,6 @@
    "yahoo_symbol": "SG"
   },
   {
-   "symbol": "SGE",
-   "name": "Strong Global Entertainment, Inc. Class A Common Voting Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SGE"
-  },
-  {
    "symbol": "SGHC",
    "name": "Super Group (SGHC) Limited Ordinary Shares",
    "exchange": "NYSE",
@@ -89849,7 +89755,7 @@
   },
   {
    "symbol": "TEL",
-   "name": "TE Connectivity Ltd. New Switzerland Registered Shares",
+   "name": "TE Connectivity plc Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "TEL"
   },
