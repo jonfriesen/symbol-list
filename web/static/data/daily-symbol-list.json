@@ -1,5 +1,5 @@
 {
- "date": "2024-09-30",
+ "date": "2024-10-01",
  "data": [
   {
    "symbol": "ONE",
@@ -18258,6 +18258,22 @@
    ]
   },
   {
+   "symbol": "WFLD",
+   "name": "Wellfield Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WFLD.V",
+   "instruments": [
+    {
+     "name": "Wellfield Technologies Inc.",
+     "symbol": "WFLD"
+    },
+    {
+     "name": "Wellfield Technologies Inc. wt 23nov2024",
+     "symbol": "WFLD.WT"
+    }
+   ]
+  },
+  {
    "symbol": "WCE",
    "name": "Wescan Energy Corp.",
    "exchange": "TSXV",
@@ -19610,10 +19626,6 @@
     {
      "name": "AltaGas Ltd Sr G Pr",
      "symbol": "ALA.PR.G"
-    },
-    {
-     "name": "AltaGas Ltd Sr H Pr",
-     "symbol": "ALA.PR.H"
     }
    ]
   },
@@ -26818,14 +26830,6 @@
     {
      "name": "Dundee Corp. Cl A SV",
      "symbol": "DC.A"
-    },
-    {
-     "name": "Dundee Corp. Pr 2",
-     "symbol": "DC.PR.B"
-    },
-    {
-     "name": "Dundee Corp 1st Pr 3",
-     "symbol": "DC.PR.D"
     }
    ]
   },
@@ -27338,10 +27342,6 @@
     {
      "name": "Element Fleet Mgt",
      "symbol": "EFN"
-    },
-    {
-     "name": "Element Fleet Pr E",
-     "symbol": "EFN.PR.E"
     }
    ]
   },
@@ -27654,10 +27654,6 @@
     {
      "name": "EQB Inc.",
      "symbol": "EQB"
-    },
-    {
-     "name": "EQB Inc. Pr 3",
-     "symbol": "EQB.PR.C"
     }
    ]
   },
@@ -34198,6 +34194,18 @@
    ]
   },
   {
+   "symbol": "XFLX",
+   "name": "iShares Flexible Monthly Income ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFLX.TO",
+   "instruments": [
+    {
+     "name": "iShr FlMnthly IncETF",
+     "symbol": "XFLX"
+    }
+   ]
+  },
+  {
    "symbol": "XFR",
    "name": "iShares Floating Rate Index ETF",
    "exchange": "TSX",
@@ -35198,6 +35206,30 @@
     {
      "name": "Journey Energy Inc.",
      "symbol": "JOY"
+    }
+   ]
+  },
+  {
+   "symbol": "JEPQ",
+   "name": "JPMorgan Nasdaq Equity Premium Income Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JEPQ.TO",
+   "instruments": [
+    {
+     "name": "JPM NdEq PInc ActETF",
+     "symbol": "JEPQ"
+    }
+   ]
+  },
+  {
+   "symbol": "JEPI",
+   "name": "JPMorgan US Equity Premium Income Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JEPI.TO",
+   "instruments": [
+    {
+     "name": "JPM USEq PInc ActETF",
+     "symbol": "JEPI"
     }
    ]
   },
@@ -43590,10 +43622,6 @@
     {
      "name": "WildBrain Ltd Com\u0026VV",
      "symbol": "WILD"
-    },
-    {
-     "name": "WildBrain 5.875% Deb",
-     "symbol": "WILD.DB"
     }
    ]
   },
@@ -56155,13 +56183,13 @@
   },
   {
    "symbol": "HTIA",
-   "name": "Healthcare Trust, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HTIA"
   },
   {
    "symbol": "HTIBP",
-   "name": "Healthcare Trust, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
+   "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HTIBP"
   },
@@ -56326,6 +56354,12 @@
    "name": "Hawkins, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HWKN"
+  },
+  {
+   "symbol": "HYBI",
+   "name": "NEOS Enhanced Income Credit Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HYBI"
   },
   {
    "symbol": "HYDR",
@@ -61662,6 +61696,18 @@
    "yahoo_symbol": "NIXT"
   },
   {
+   "symbol": "NIXX",
+   "name": "Nixxy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIXX"
+  },
+  {
+   "symbol": "NIXXW",
+   "name": "Nixxy, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIXXW"
+  },
+  {
    "symbol": "NKGN",
    "name": "NKGen Biotech, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -65494,18 +65540,6 @@
    "name": "Recon Technology, Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RCON"
-  },
-  {
-   "symbol": "RCRT",
-   "name": "Recruiter.com Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RCRT"
-  },
-  {
-   "symbol": "RCRTW",
-   "name": "Recruiter.com Group, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RCRTW"
   },
   {
    "symbol": "RDCM",
@@ -70500,10 +70534,22 @@
    "yahoo_symbol": "VABK"
   },
   {
+   "symbol": "VACH",
+   "name": "Voyager Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VACH"
+  },
+  {
    "symbol": "VACHU",
    "name": "Voyager Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VACHU"
+  },
+  {
+   "symbol": "VACHW",
+   "name": "Voyager Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VACHW"
   },
   {
    "symbol": "VALN",
@@ -72472,6 +72518,12 @@
    "name": "Zions Bancorporation N.A. - Depositary Shares each representing a 1/40th ownership interest in a share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ZIONP"
+  },
+  {
+   "symbol": "ZJK",
+   "name": "ZJK Industrial Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZJK"
   },
   {
    "symbol": "ZJYL",
@@ -76603,7 +76655,7 @@
   },
   {
    "symbol": "CMBT",
-   "name": "Euronav NV Ordinary Shares",
+   "name": "CMB.TECH NV Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "CMBT"
   },
@@ -77316,10 +77368,10 @@
    "yahoo_symbol": "CULP"
   },
   {
-   "symbol": "CURB.V",
-   "name": "Curbline Properties Corp. Common Stock When-Issued",
+   "symbol": "CURB",
+   "name": "Curbline Properties Corp. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CURB.V"
+   "yahoo_symbol": "CURB"
   },
   {
    "symbol": "CURV",
@@ -87198,12 +87250,6 @@
    "yahoo_symbol": "PWR"
   },
   {
-   "symbol": "PWSC",
-   "name": "PowerSchool Holdings, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PWSC"
-  },
-  {
    "symbol": "PX",
    "name": "P10, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -88674,12 +88720,6 @@
    "yahoo_symbol": "SITC$A"
   },
   {
-   "symbol": "SITC.V",
-   "name": "SITE Centers Corp. Common Shares When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SITC.V"
-  },
-  {
    "symbol": "SITE",
    "name": "SiteOne Landscape Supply, Inc. Common Stock",
    "exchange": "NYSE",
@@ -89496,12 +89536,6 @@
    "yahoo_symbol": "SWK"
   },
   {
-   "symbol": "SWN",
-   "name": "Southwestern Energy Company Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SWN"
-  },
-  {
    "symbol": "SWX",
    "name": "Southwest Gas Holdings, Inc. Common Stock (DE)",
    "exchange": "NYSE",
@@ -89731,7 +89765,7 @@
   },
   {
    "symbol": "TEAF",
-   "name": "Ecofin Sustainable and Social Impact Term Fund",
+   "name": "Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest",
    "exchange": "NYSE",
    "yahoo_symbol": "TEAF"
   },
