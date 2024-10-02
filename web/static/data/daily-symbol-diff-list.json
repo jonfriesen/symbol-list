@@ -1,136 +1,162 @@
 {
  "added": [
   {
-   "symbol": "WFLD",
-   "name": "Wellfield Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WFLD.V",
-   "instruments": [
-    {
-     "name": "Wellfield Technologies Inc.",
-     "symbol": "WFLD"
-    },
-    {
-     "name": "Wellfield Technologies Inc. wt 23nov2024",
-     "symbol": "WFLD.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "XFLX",
-   "name": "iShares Flexible Monthly Income ETF (CAD-Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "XFLX.TO",
-   "instruments": [
-    {
-     "name": "iShr FlMnthly IncETF",
-     "symbol": "XFLX"
-    }
-   ]
-  },
-  {
-   "symbol": "JEPQ",
-   "name": "JPMorgan Nasdaq Equity Premium Income Active ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "JEPQ.TO",
-   "instruments": [
-    {
-     "name": "JPM NdEq PInc ActETF",
-     "symbol": "JEPQ"
-    }
-   ]
-  },
-  {
-   "symbol": "JEPI",
-   "name": "JPMorgan US Equity Premium Income Active ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "JEPI.TO",
-   "instruments": [
-    {
-     "name": "JPM USEq PInc ActETF",
-     "symbol": "JEPI"
-    }
-   ]
-  },
-  {
-   "symbol": "HYBI",
-   "name": "NEOS Enhanced Income Credit Select ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HYBI"
-  },
-  {
-   "symbol": "NIXX",
-   "name": "Nixxy, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NIXX"
-  },
-  {
-   "symbol": "NIXXW",
-   "name": "Nixxy, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NIXXW"
-  },
-  {
-   "symbol": "VACH",
-   "name": "Voyager Acquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VACH"
-  },
-  {
-   "symbol": "VACHW",
-   "name": "Voyager Acquisition Corp - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VACHW"
-  },
-  {
-   "symbol": "ZJK",
-   "name": "ZJK Industrial Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZJK"
-  },
-  {
-   "symbol": "CURB",
-   "name": "Curbline Properties Corp. Common Stock",
+   "symbol": "FVR",
+   "name": "FrontView REIT, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CURB"
+   "yahoo_symbol": "FVR"
+  },
+  {
+   "symbol": "SARO",
+   "name": "StandardAero, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SARO"
+  },
+  {
+   "symbol": "EXE",
+   "name": "Expand Energy Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EXE"
+  },
+  {
+   "symbol": "EXEEL",
+   "name": "Expand Energy Corporation - Class C Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EXEEL"
+  },
+  {
+   "symbol": "EXEEW",
+   "name": "Expand Energy Corporation - Class A Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EXEEW"
+  },
+  {
+   "symbol": "EXEEZ",
+   "name": "Expand Energy Corporation - Class B Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EXEEZ"
+  },
+  {
+   "symbol": "GQQQ",
+   "name": "Astoria US Quality Growth Kings ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GQQQ"
+  },
+  {
+   "symbol": "HTLM",
+   "name": "HomesToLife Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HTLM"
+  },
+  {
+   "symbol": "LGTY",
+   "name": "Logility Supply Chain Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LGTY"
+  },
+  {
+   "symbol": "LIEN",
+   "name": "Chicago Atlantic BDC, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIEN"
+  },
+  {
+   "symbol": "QQQP",
+   "name": "Tradr 2X Long Triple Q Quarterly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQP"
+  },
+  {
+   "symbol": "SPYQ",
+   "name": "Tradr 2X Long SPY Quarterly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPYQ"
+  },
+  {
+   "symbol": "TLTM",
+   "name": "Tradr 2X Long TLT Monthly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLTM"
+  },
+  {
+   "symbol": "TLTQ",
+   "name": "Tradr 1.75X Long TLT Quarterly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLTQ"
+  },
+  {
+   "symbol": "ZENA",
+   "name": "ZenaTech, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZENA"
   }
  ],
  "removed": [
   {
-   "symbol": "SWN",
-   "name": "Southwestern Energy Company Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SWN"
-  },
-  {
-   "symbol": "SITC.V",
-   "name": "SITE Centers Corp. Common Shares When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SITC.V"
-  },
-  {
-   "symbol": "RCRTW",
-   "name": "Recruiter.com Group, Inc. - Warrant",
+   "symbol": "CHKEZ",
+   "name": "Chesapeake Energy Corporation - Class B Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RCRTW"
+   "yahoo_symbol": "CHKEZ"
   },
   {
-   "symbol": "PWSC",
-   "name": "PowerSchool Holdings, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PWSC"
+   "symbol": "FMAC.P",
+   "name": "Fraser Mackenzie Accelerator Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FMAC.P.V",
+   "instruments": [
+    {
+     "name": "Fraser Mackenzie Accelerator Corp.",
+     "symbol": "FMAC.P"
+    }
+   ]
   },
   {
-   "symbol": "RCRT",
-   "name": "Recruiter.com Group, Inc. - Common Stock",
+   "symbol": "XFINU",
+   "name": "ExcelFin Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XFINU"
+  },
+  {
+   "symbol": "AMSWA",
+   "name": "American Software, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMSWA"
+  },
+  {
+   "symbol": "CHK",
+   "name": "Chesapeake Energy Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHK"
+  },
+  {
+   "symbol": "XFINW",
+   "name": "ExcelFin Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XFINW"
+  },
+  {
+   "symbol": "SSIC",
+   "name": "Silver Spike Investment Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SSIC"
+  },
+  {
+   "symbol": "CHKEW",
+   "name": "Chesapeake Energy Corporation - Class A Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RCRT"
+   "yahoo_symbol": "CHKEW"
   },
   {
-   "symbol": "CURB.V",
-   "name": "Curbline Properties Corp. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CURB.V"
+   "symbol": "CHKEL",
+   "name": "Chesapeake Energy Corporation - Class C Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHKEL"
+  },
+  {
+   "symbol": "XFIN",
+   "name": "ExcelFin Acquisition Corp - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XFIN"
   }
  ]
 }
