@@ -1,162 +1,106 @@
 {
  "added": [
   {
-   "symbol": "FVR",
-   "name": "FrontView REIT, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FVR"
-  },
-  {
-   "symbol": "SARO",
-   "name": "StandardAero, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SARO"
-  },
-  {
-   "symbol": "EXE",
-   "name": "Expand Energy Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EXE"
-  },
-  {
-   "symbol": "EXEEL",
-   "name": "Expand Energy Corporation - Class C Warrants",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EXEEL"
-  },
-  {
-   "symbol": "EXEEW",
-   "name": "Expand Energy Corporation - Class A Warrants",
+   "symbol": "BDMD",
+   "name": "Baird Medical Investment Holdings Ltd - Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EXEEW"
+   "yahoo_symbol": "BDMD"
   },
   {
-   "symbol": "EXEEZ",
-   "name": "Expand Energy Corporation - Class B Warrants",
+   "symbol": "BDMDW",
+   "name": "Baird Medical Investment Holdings Ltd - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EXEEZ"
+   "yahoo_symbol": "BDMDW"
   },
   {
-   "symbol": "GQQQ",
-   "name": "Astoria US Quality Growth Kings ETF",
+   "symbol": "CLYM",
+   "name": "Climb Bio, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GQQQ"
+   "yahoo_symbol": "CLYM"
   },
   {
-   "symbol": "HTLM",
-   "name": "HomesToLife Ltd - Ordinary Shares",
+   "symbol": "WCT",
+   "name": "Wellchange Holdings Company Limited - Ordinary shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HTLM"
-  },
-  {
-   "symbol": "LGTY",
-   "name": "Logility Supply Chain Solutions, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LGTY"
-  },
-  {
-   "symbol": "LIEN",
-   "name": "Chicago Atlantic BDC, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LIEN"
-  },
-  {
-   "symbol": "QQQP",
-   "name": "Tradr 2X Long Triple Q Quarterly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QQQP"
-  },
-  {
-   "symbol": "SPYQ",
-   "name": "Tradr 2X Long SPY Quarterly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPYQ"
-  },
-  {
-   "symbol": "TLTM",
-   "name": "Tradr 2X Long TLT Monthly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLTM"
-  },
-  {
-   "symbol": "TLTQ",
-   "name": "Tradr 1.75X Long TLT Quarterly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLTQ"
-  },
-  {
-   "symbol": "ZENA",
-   "name": "ZenaTech, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZENA"
+   "yahoo_symbol": "WCT"
   }
  ],
  "removed": [
   {
-   "symbol": "CHKEZ",
-   "name": "Chesapeake Energy Corporation - Class B Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CHKEZ"
+   "symbol": "PRFT",
+   "name": "Perficient, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PRFT"
   },
   {
-   "symbol": "FMAC.P",
-   "name": "Fraser Mackenzie Accelerator Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FMAC.P.V",
+   "symbol": "ZZZ",
+   "name": "Sleep Country Canada Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZZZ.TO",
    "instruments": [
     {
-     "name": "Fraser Mackenzie Accelerator Corp.",
-     "symbol": "FMAC.P"
+     "name": "Sleep Cntry Cda Hldg",
+     "symbol": "ZZZ"
     }
    ]
   },
   {
-   "symbol": "XFINU",
-   "name": "ExcelFin Acquisition Corp - Unit",
+   "symbol": "LCW",
+   "name": "Learn CW Investment Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XFINU"
+   "yahoo_symbol": "LCW"
   },
   {
-   "symbol": "AMSWA",
-   "name": "American Software, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AMSWA"
+   "symbol": "VPH",
+   "name": "Valeo Pharma Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VPH.TO",
+   "instruments": [
+    {
+     "name": "Valeo Pharma J Cl A ",
+     "symbol": "VPH"
+    },
+    {
+     "name": "Valeo Pharma J 12%Db",
+     "symbol": "VPH.DB"
+    }
+   ]
   },
   {
-   "symbol": "CHK",
-   "name": "Chesapeake Energy Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CHK"
-  },
-  {
-   "symbol": "XFINW",
-   "name": "ExcelFin Acquisition Corp - Warrant",
+   "symbol": "ELYM",
+   "name": "Eliem Therapeutics, Inc - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XFINW"
+   "yahoo_symbol": "ELYM"
   },
   {
-   "symbol": "SSIC",
-   "name": "Silver Spike Investment Corp. - Common Stock",
+   "symbol": "EGRX",
+   "name": "Eagle Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SSIC"
+   "yahoo_symbol": "EGRX"
   },
   {
-   "symbol": "CHKEW",
-   "name": "Chesapeake Energy Corporation - Class A Warrants",
+   "symbol": "AUGX",
+   "name": "Augmedix, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CHKEW"
+   "yahoo_symbol": "AUGX"
   },
   {
-   "symbol": "CHKEL",
-   "name": "Chesapeake Energy Corporation - Class C Warrants",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CHKEL"
+   "symbol": "DXYN",
+   "name": "The Dixie Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DXYN"
   },
   {
-   "symbol": "XFIN",
-   "name": "ExcelFin Acquisition Corp - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XFIN"
+   "symbol": "VIP",
+   "name": "VIP Entertainment Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VIP.V",
+   "instruments": [
+    {
+     "name": "VIP Entertainment Technologies Inc.",
+     "symbol": "VIP"
+    }
+   ]
   }
  ]
 }
