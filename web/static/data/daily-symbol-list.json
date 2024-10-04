@@ -1,5 +1,5 @@
 {
- "date": "2024-10-03",
+ "date": "2024-10-04",
  "data": [
   {
    "symbol": "ONE",
@@ -2358,18 +2358,6 @@
     {
      "name": "BluMetric Environmental Inc.",
      "symbol": "BLM"
-    }
-   ]
-  },
-  {
-   "symbol": "BMEX",
-   "name": "BMEX Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BMEX.V",
-   "instruments": [
-    {
-     "name": "BMEX Gold Inc.",
-     "symbol": "BMEX"
     }
    ]
   },
@@ -14718,6 +14706,18 @@
    ]
   },
   {
+   "symbol": "RTE",
+   "name": "Route 109 Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RTE.V",
+   "instruments": [
+    {
+     "name": "Route 109 Resources Inc.",
+     "symbol": "RTE"
+    }
+   ]
+  },
+  {
    "symbol": "ROI",
    "name": "Route1 Inc.",
    "exchange": "TSXV",
@@ -26038,18 +26038,6 @@
     {
      "name": "Crescita Therpeutc J",
      "symbol": "CTX"
-    }
-   ]
-  },
-  {
-   "symbol": "CR",
-   "name": "Crew Energy Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CR.TO",
-   "instruments": [
-    {
-     "name": "Crew Energy Inc.",
-     "symbol": "CR"
     }
    ]
   },
@@ -55636,30 +55624,6 @@
    "yahoo_symbol": "HGBL"
   },
   {
-   "symbol": "HHGC",
-   "name": "HHG Capital Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HHGC"
-  },
-  {
-   "symbol": "HHGCR",
-   "name": "HHG Capital Corporation - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HHGCR"
-  },
-  {
-   "symbol": "HHGCU",
-   "name": "HHG Capital Corporation - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HHGCU"
-  },
-  {
-   "symbol": "HHGCW",
-   "name": "HHG Capital Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HHGCW"
-  },
-  {
    "symbol": "HHS",
    "name": "Harte Hanks, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -57254,6 +57218,12 @@
    "name": "Intrusion Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INTZ"
+  },
+  {
+   "symbol": "INV",
+   "name": "Innventure, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INV"
   },
   {
    "symbol": "INVA",
@@ -61570,6 +61540,18 @@
    "yahoo_symbol": "NFTY"
   },
   {
+   "symbol": "NFXL",
+   "name": "Direxion Daily NFLX Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NFXL"
+  },
+  {
+   "symbol": "NFXS",
+   "name": "Direxion Daily NFLX Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NFXS"
+  },
+  {
    "symbol": "NGNE",
    "name": "Neurogene Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -62546,6 +62528,12 @@
    "name": "OFS Credit Company, Inc. - Closed End Fund",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OCCI"
+  },
+  {
+   "symbol": "OCCIM",
+   "name": "OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCCIM"
   },
   {
    "symbol": "OCCIN",
@@ -66203,7 +66191,7 @@
   },
   {
    "symbol": "RPHM",
-   "name": "Reneo Pharmaceuticals, Inc. - Common Stock",
+   "name": "Reneo Pharmaceuticals, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RPHM"
   },
@@ -67919,7 +67907,7 @@
   },
   {
    "symbol": "SPCX",
-   "name": "AXS SPAC and New Issue ETF",
+   "name": "SPAC and New Issue ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SPCX"
   },
@@ -69740,6 +69728,18 @@
    "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TSLZ"
+  },
+  {
+   "symbol": "TSMX",
+   "name": "Direxion Daily TSM Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSMX"
+  },
+  {
+   "symbol": "TSMZ",
+   "name": "Direxion Daily TSM Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSMZ"
   },
   {
    "symbol": "TSPY",
@@ -72632,12 +72632,6 @@
    "name": "AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",
    "exchange": "NYSE",
    "yahoo_symbol": "AAM.W"
-  },
-  {
-   "symbol": "AAN",
-   "name": "Aarons Holdings Company, Inc. Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAN"
   },
   {
    "symbol": "AAP",
@@ -75998,6 +75992,12 @@
    "name": "CBL \u0026 Associates Properties, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CBL"
+  },
+  {
+   "symbol": "CBNA",
+   "name": "Chain Bridge Bancorp, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CBNA"
   },
   {
    "symbol": "CBO",

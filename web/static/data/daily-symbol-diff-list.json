@@ -1,106 +1,114 @@
 {
  "added": [
   {
-   "symbol": "BDMD",
-   "name": "Baird Medical Investment Holdings Ltd - Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BDMD"
+   "symbol": "RTE",
+   "name": "Route 109 Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RTE.V",
+   "instruments": [
+    {
+     "name": "Route 109 Resources Inc.",
+     "symbol": "RTE"
+    }
+   ]
   },
   {
-   "symbol": "BDMDW",
-   "name": "Baird Medical Investment Holdings Ltd - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BDMDW"
-  },
-  {
-   "symbol": "CLYM",
-   "name": "Climb Bio, Inc. - Common Stock",
+   "symbol": "INV",
+   "name": "Innventure, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLYM"
+   "yahoo_symbol": "INV"
   },
   {
-   "symbol": "WCT",
-   "name": "Wellchange Holdings Company Limited - Ordinary shares",
+   "symbol": "NFXL",
+   "name": "Direxion Daily NFLX Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NFXL"
+  },
+  {
+   "symbol": "NFXS",
+   "name": "Direxion Daily NFLX Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NFXS"
+  },
+  {
+   "symbol": "OCCIM",
+   "name": "OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WCT"
+   "yahoo_symbol": "OCCIM"
+  },
+  {
+   "symbol": "TSMX",
+   "name": "Direxion Daily TSM Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSMX"
+  },
+  {
+   "symbol": "TSMZ",
+   "name": "Direxion Daily TSM Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSMZ"
+  },
+  {
+   "symbol": "CBNA",
+   "name": "Chain Bridge Bancorp, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CBNA"
   }
  ],
  "removed": [
   {
-   "symbol": "PRFT",
-   "name": "Perficient, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PRFT"
+   "symbol": "HHGCR",
+   "name": "HHG Capital Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHGCR"
   },
   {
-   "symbol": "ZZZ",
-   "name": "Sleep Country Canada Holdings Inc.",
+   "symbol": "AAN",
+   "name": "Aarons Holdings Company, Inc. Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAN"
+  },
+  {
+   "symbol": "CR",
+   "name": "Crew Energy Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "ZZZ.TO",
+   "yahoo_symbol": "CR.TO",
    "instruments": [
     {
-     "name": "Sleep Cntry Cda Hldg",
-     "symbol": "ZZZ"
+     "name": "Crew Energy Inc.",
+     "symbol": "CR"
     }
    ]
   },
   {
-   "symbol": "LCW",
-   "name": "Learn CW Investment Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LCW"
-  },
-  {
-   "symbol": "VPH",
-   "name": "Valeo Pharma Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "VPH.TO",
-   "instruments": [
-    {
-     "name": "Valeo Pharma J Cl A ",
-     "symbol": "VPH"
-    },
-    {
-     "name": "Valeo Pharma J 12%Db",
-     "symbol": "VPH.DB"
-    }
-   ]
-  },
-  {
-   "symbol": "ELYM",
-   "name": "Eliem Therapeutics, Inc - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ELYM"
-  },
-  {
-   "symbol": "EGRX",
-   "name": "Eagle Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EGRX"
-  },
-  {
-   "symbol": "AUGX",
-   "name": "Augmedix, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AUGX"
-  },
-  {
-   "symbol": "DXYN",
-   "name": "The Dixie Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DXYN"
-  },
-  {
-   "symbol": "VIP",
-   "name": "VIP Entertainment Technologies Inc.",
+   "symbol": "BMEX",
+   "name": "BMEX Gold Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "VIP.V",
+   "yahoo_symbol": "BMEX.V",
    "instruments": [
     {
-     "name": "VIP Entertainment Technologies Inc.",
-     "symbol": "VIP"
+     "name": "BMEX Gold Inc.",
+     "symbol": "BMEX"
     }
    ]
+  },
+  {
+   "symbol": "HHGCU",
+   "name": "HHG Capital Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHGCU"
+  },
+  {
+   "symbol": "HHGC",
+   "name": "HHG Capital Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHGC"
+  },
+  {
+   "symbol": "HHGCW",
+   "name": "HHG Capital Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHGCW"
   }
  ]
 }
