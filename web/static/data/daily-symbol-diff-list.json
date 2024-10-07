@@ -1,114 +1,84 @@
 {
  "added": [
   {
-   "symbol": "RTE",
-   "name": "Route 109 Resources Inc.",
+   "symbol": "FLX",
+   "name": "BingEx Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FLX"
+  },
+  {
+   "symbol": "OKUR",
+   "name": "OnKure Therapeutics, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OKUR"
+  },
+  {
+   "symbol": "SUN",
+   "name": "Stardust Solar Holdings Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "RTE.V",
+   "yahoo_symbol": "SUN.V",
    "instruments": [
     {
-     "name": "Route 109 Resources Inc.",
-     "symbol": "RTE"
+     "name": "Stardust Solar Holdings Inc.",
+     "symbol": "SUN"
     }
    ]
   },
   {
-   "symbol": "INV",
-   "name": "Innventure, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "INV"
-  },
-  {
-   "symbol": "NFXL",
-   "name": "Direxion Daily NFLX Bull 2X Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NFXL"
-  },
-  {
-   "symbol": "NFXS",
-   "name": "Direxion Daily NFLX Bear 1X Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NFXS"
-  },
-  {
-   "symbol": "OCCIM",
-   "name": "OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OCCIM"
-  },
-  {
-   "symbol": "TSMX",
-   "name": "Direxion Daily TSM Bull 2X Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSMX"
-  },
-  {
-   "symbol": "TSMZ",
-   "name": "Direxion Daily TSM Bear 1X Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSMZ"
-  },
-  {
-   "symbol": "CBNA",
-   "name": "Chain Bridge Bancorp, Inc. Class A Common Stock",
+   "symbol": "SBXD",
+   "name": "SilverBox Corp IV Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "CBNA"
+   "yahoo_symbol": "SBXD"
+  },
+  {
+   "symbol": "SBXD.W",
+   "name": "SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXD.W"
   }
  ],
  "removed": [
   {
-   "symbol": "HHGCR",
-   "name": "HHG Capital Corporation - Rights",
+   "symbol": "GBNY",
+   "name": "Generations Bancorp NY, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HHGCR"
+   "yahoo_symbol": "GBNY"
   },
   {
-   "symbol": "AAN",
-   "name": "Aarons Holdings Company, Inc. Common Stock ",
+   "symbol": "EVA",
+   "name": "Enviva Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "AAN"
+   "yahoo_symbol": "EVA"
   },
   {
-   "symbol": "CR",
-   "name": "Crew Energy Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CR.TO",
-   "instruments": [
-    {
-     "name": "Crew Energy Inc.",
-     "symbol": "CR"
-    }
-   ]
+   "symbol": "RPHM",
+   "name": "Reneo Pharmaceuticals, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RPHM"
   },
   {
-   "symbol": "BMEX",
-   "name": "BMEX Gold Inc.",
+   "symbol": "VOL.WT.A",
+   "name": "Volatus Aerospace Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "BMEX.V",
+   "yahoo_symbol": "VOL.WT.A.V",
    "instruments": [
     {
-     "name": "BMEX Gold Inc.",
-     "symbol": "BMEX"
+     "name": "Volatus Aerospace Corp. wt 06Oct2024",
+     "symbol": "VOL.WT.A"
     }
    ]
   },
   {
-   "symbol": "HHGCU",
-   "name": "HHG Capital Corporation - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HHGCU"
-  },
-  {
-   "symbol": "HHGC",
-   "name": "HHG Capital Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HHGC"
-  },
-  {
-   "symbol": "HHGCW",
-   "name": "HHG Capital Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HHGCW"
+   "symbol": "BOLD.P",
+   "name": "Bold Capital Enterprises Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BOLD.P.V",
+   "instruments": [
+    {
+     "name": "Bold Capital Enterprises Ltd.",
+     "symbol": "BOLD.P"
+    }
+   ]
   }
  ]
 }
