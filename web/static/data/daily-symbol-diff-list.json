@@ -1,82 +1,100 @@
 {
  "added": [
   {
-   "symbol": "FLX",
-   "name": "BingEx Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FLX"
-  },
-  {
-   "symbol": "OKUR",
-   "name": "OnKure Therapeutics, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OKUR"
-  },
-  {
-   "symbol": "SUN",
-   "name": "Stardust Solar Holdings Inc.",
+   "symbol": "IBAT",
+   "name": "International Battery Metals Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SUN.V",
+   "yahoo_symbol": "IBAT.V",
    "instruments": [
     {
-     "name": "Stardust Solar Holdings Inc.",
-     "symbol": "SUN"
+     "name": "International Battery Metals Ltd.",
+     "symbol": "IBAT"
     }
    ]
   },
   {
-   "symbol": "SBXD",
-   "name": "SilverBox Corp IV Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBXD"
+   "symbol": "LEGY",
+   "name": "Legacy Gold Mines Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LEGY.V",
+   "instruments": [
+    {
+     "name": "Legacy Gold Mines Ltd.",
+     "symbol": "LEGY"
+    }
+   ]
   },
   {
-   "symbol": "SBXD.W",
-   "name": "SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
+   "symbol": "SOBO",
+   "name": "South Bow Corporation Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "SBXD.W"
+   "yahoo_symbol": "SOBO"
+  },
+  {
+   "symbol": "BSII",
+   "name": "Black Spade Acquisition II Co - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSII"
+  },
+  {
+   "symbol": "BSIIW",
+   "name": "Black Spade Acquisition II Co - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSIIW"
+  },
+  {
+   "symbol": "JZ",
+   "name": "Jianzhi Education Technology Group Company Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JZ"
   }
  ],
  "removed": [
   {
-   "symbol": "GBNY",
-   "name": "Generations Bancorp NY, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBNY"
-  },
-  {
-   "symbol": "EVA",
-   "name": "Enviva Inc. Common Stock",
+   "symbol": "EHI.R",
+   "name": "Western Asset Global High Income Fund Inc Rights (expiring October 8, 2024) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "EVA"
+   "yahoo_symbol": "EHI.R"
   },
   {
-   "symbol": "RPHM",
-   "name": "Reneo Pharmaceuticals, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RPHM"
+   "symbol": "VTNR",
+   "name": "Vertex Energy, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VTNR"
   },
   {
-   "symbol": "VOL.WT.A",
-   "name": "Volatus Aerospace Corp.",
+   "symbol": "RNLX",
+   "name": "Renalytix plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RNLX"
+  },
+  {
+   "symbol": "TRVN",
+   "name": "Trevena, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRVN"
+  },
+  {
+   "symbol": "JZ",
+   "name": "Jianzhi Education Technology Group Company Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "JZ"
+  },
+  {
+   "symbol": "VGR",
+   "name": "Vector Group Ltd. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VGR"
+  },
+  {
+   "symbol": "PWIK.P",
+   "name": "Prestwick Capital Corporation Limited",
    "exchange": "TSXV",
-   "yahoo_symbol": "VOL.WT.A.V",
+   "yahoo_symbol": "PWIK.P.V",
    "instruments": [
     {
-     "name": "Volatus Aerospace Corp. wt 06Oct2024",
-     "symbol": "VOL.WT.A"
-    }
-   ]
-  },
-  {
-   "symbol": "BOLD.P",
-   "name": "Bold Capital Enterprises Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BOLD.P.V",
-   "instruments": [
-    {
-     "name": "Bold Capital Enterprises Ltd.",
-     "symbol": "BOLD.P"
+     "name": "Prestwick Capital Corporation Limited",
+     "symbol": "PWIK.P"
     }
    ]
   }
