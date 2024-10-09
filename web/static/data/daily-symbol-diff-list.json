@@ -1,102 +1,84 @@
 {
  "added": [
   {
-   "symbol": "IBAT",
-   "name": "International Battery Metals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IBAT.V",
-   "instruments": [
-    {
-     "name": "International Battery Metals Ltd.",
-     "symbol": "IBAT"
-    }
-   ]
-  },
-  {
-   "symbol": "LEGY",
-   "name": "Legacy Gold Mines Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LEGY.V",
-   "instruments": [
-    {
-     "name": "Legacy Gold Mines Ltd.",
-     "symbol": "LEGY"
-    }
-   ]
-  },
-  {
-   "symbol": "SOBO",
-   "name": "South Bow Corporation Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SOBO"
-  },
-  {
-   "symbol": "BSII",
-   "name": "Black Spade Acquisition II Co - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSII"
-  },
-  {
-   "symbol": "BSIIW",
-   "name": "Black Spade Acquisition II Co - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSIIW"
-  },
-  {
-   "symbol": "JZ",
-   "name": "Jianzhi Education Technology Group Company Limited - American Depositary Shares",
+   "symbol": "DWTX",
+   "name": "Dogwood Therapeutics, Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JZ"
+   "yahoo_symbol": "DWTX"
+  },
+  {
+   "symbol": "JCTC",
+   "name": "Jewett-Cameron Trading Company - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JCTC"
+  },
+  {
+   "symbol": "LPBBU",
+   "name": "Launch Two Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPBBU"
+  },
+  {
+   "symbol": "PITA",
+   "name": "Heramba Electric plc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PITA"
+  },
+  {
+   "symbol": "SKK",
+   "name": "SKK Holdings Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKK"
+  },
+  {
+   "symbol": "CICB",
+   "name": "CION Investment Corporation 7.50% Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CICB"
+  },
+  {
+   "symbol": "KLC",
+   "name": "KinderCare Learning Companies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KLC"
   }
  ],
  "removed": [
   {
-   "symbol": "EHI.R",
-   "name": "Western Asset Global High Income Fund Inc Rights (expiring October 8, 2024) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EHI.R"
+   "symbol": "TELL",
+   "name": "Tellurian Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TELL"
   },
   {
-   "symbol": "VTNR",
-   "name": "Vertex Energy, Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VTNR"
+   "symbol": "PITA",
+   "name": "Heramba Electric plc - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PITA"
   },
   {
-   "symbol": "RNLX",
-   "name": "Renalytix plc - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RNLX"
-  },
-  {
-   "symbol": "TRVN",
-   "name": "Trevena, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TRVN"
-  },
-  {
-   "symbol": "JZ",
-   "name": "Jianzhi Education Technology Group Company Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "JZ"
-  },
-  {
-   "symbol": "VGR",
-   "name": "Vector Group Ltd. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VGR"
-  },
-  {
-   "symbol": "PWIK.P",
-   "name": "Prestwick Capital Corporation Limited",
+   "symbol": "ART",
+   "name": "ARHT Media Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PWIK.P.V",
+   "yahoo_symbol": "ART.V",
    "instruments": [
     {
-     "name": "Prestwick Capital Corporation Limited",
-     "symbol": "PWIK.P"
+     "name": "ARHT Media Inc.",
+     "symbol": "ART"
     }
    ]
+  },
+  {
+   "symbol": "JCTCF",
+   "name": "Jewett-Cameron Trading Company - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JCTCF"
+  },
+  {
+   "symbol": "VIRI",
+   "name": "Virios Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIRI"
   }
  ]
 }

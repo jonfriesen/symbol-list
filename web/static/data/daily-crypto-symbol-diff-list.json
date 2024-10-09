@@ -1,68 +1,44 @@
 {
  "added": [
   {
-   "symbol": "SOFAC",
-   "name": "SofaCat (SOFAC)",
+   "symbol": "MNBR",
+   "name": "MN Bridge (MNBR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLUEN",
+   "name": "Blue Norva (BLUEN)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "FIONABSC",
+   "name": "Fiona (FIONABSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CYBERA",
+   "name": "Cyber Arena (CYBERA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRYPTOH",
+   "name": "CryptoHunterTrading (CRYPTOH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BONKEA",
+   "name": "Bonk Earn (BONKEA)",
    "built_on": "SOL"
   },
   {
-   "symbol": "HUSBY",
-   "name": "HUSBY (HUSBY)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DXY",
-   "name": "US Degen Index 6900 (DXY)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SUITE",
-   "name": "Suite (SUITE)",
-   "built_on": "SUI"
-  },
-  {
-   "symbol": "KINGD",
-   "name": "Kingdom of Ants (KINGD)",
+   "symbol": "RABBI",
+   "name": "Len \"rabbi\" Sassaman (RABBI)",
    "built_on": "SOL"
   },
   {
-   "symbol": "XV",
-   "name": "XV (XV)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ARMY",
-   "name": "Army of Fortune Coin (ARMY)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "CSI",
-   "name": "CSI888 (CSI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
-  },
-  {
-   "symbol": "AIRDROP",
-   "name": "AIRDROP2049 (AIRDROP)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "TAXI",
-   "name": "Robotaxi (TAXI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "TDM",
-   "name": "TDM (TDM)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "TAOP",
-   "name": "TaoPad (TAOP)",
-   "built_on": "ETH"
+   "symbol": "CTRL",
+   "name": "Control Token (CTRL)",
+   "built_on": "BNB"
   },
   {
    "symbol": "BANK",
@@ -70,38 +46,68 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "ADASOL",
-   "name": "ADA (ADASOL)",
-   "built_on": "SOL"
+   "symbol": "TRNGUY",
+   "name": "Tron Guy Project (TRNGUY)",
+   "built_on": "TRX"
   },
   {
-   "symbol": "LEPER",
-   "name": "Leper (LEPER)",
-   "built_on": "SOL"
+   "symbol": "CRIS",
+   "name": "CristianoRonaldoSpeedSmurf7Siu (CRIS)",
+   "built_on": "SUI"
   },
   {
-   "symbol": "BKOK",
-   "name": "BKOK FinTech (BKOK)",
+   "symbol": "OLAF",
+   "name": "Olaf Token (OLAF)",
    "built_on": "BNB"
   },
   {
-   "symbol": "SPAC",
-   "name": "SPACE DOGE (SPAC)",
+   "symbol": "MCAKE",
+   "name": "EasyCake (MCAKE)",
    "built_on": "BNB"
   },
   {
-   "symbol": "DEDI",
-   "name": "Dedium (DEDI)",
+   "symbol": "HAXS",
+   "name": "Axie Infinity Shards (Harmony One Bridge) (HAXS)"
+  },
+  {
+   "symbol": "FETS",
+   "name": "FE TECH (FETS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKER",
+   "name": "BankerCoinAda (BANKER)",
    "built_on": "ADA"
   },
   {
-   "symbol": "ICBX",
-   "name": "ICB Network (ICBX)"
+   "symbol": "SPACEPUNKS",
+   "name": "PUNK - SpacePunksClub (SPACEPUNKS)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "WABU",
-   "name": "Warrenbuffett (WABU)",
-   "built_on": "SOL"
+   "symbol": "TURBOB",
+   "name": "Turbo Browser (TURBOB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FIONA",
+   "name": "Fiona (FIONA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RINT",
+   "name": "Rin Tin Tin (RINT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MILOP",
+   "name": "MILO Project (MILOP)",
+   "built_on": "POL"
   },
   {
    "symbol": "G",
@@ -109,25 +115,21 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "SELFT",
-   "name": "SelfToken (SELFT)",
+   "symbol": "SEAGULL",
+   "name": "SEAGULL SAM (SEAGULL)",
    "built_on": "BNB"
   },
   {
-   "symbol": "THEAICOIN",
-   "name": "AI (THEAICOIN)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "ADAM",
-   "name": "Adam Back (ADAM)",
-   "built_on": "SOL"
+   "symbol": "DISTR",
+   "name": "Distributed Autonomous Organization (DISTR)",
+   "built_on": "BNB"
   }
  ],
  "removed": [
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
+   "symbol": "HAXS",
+   "name": "Axie Infinity Shards (Harmony One Bridge) (HAXS)",
+   "built_on": "ONE"
   }
  ]
 }
