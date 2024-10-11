@@ -1,5 +1,5 @@
 {
- "date": "2024-10-10",
+ "date": "2024-10-11",
  "data": [
   {
    "symbol": "ONE",
@@ -14246,18 +14246,6 @@
     {
      "name": "Resaas Services Inc.",
      "symbol": "RSS"
-    }
-   ]
-  },
-  {
-   "symbol": "RRL",
-   "name": "Resolute Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RRL.V",
-   "instruments": [
-    {
-     "name": "Resolute Resources Ltd.",
-     "symbol": "RRL"
     }
    ]
   },
@@ -46156,6 +46144,12 @@
    "yahoo_symbol": "AVIR"
   },
   {
+   "symbol": "AVL",
+   "name": "Direxion Daily AVGO Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVL"
+  },
+  {
    "symbol": "AVNW",
    "name": "Aviat Networks, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -46178,6 +46172,12 @@
    "name": "AvePoint, Inc. - Warrant",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AVPTW"
+  },
+  {
+   "symbol": "AVS",
+   "name": "Direxion Daily AVGO Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVS"
   },
   {
    "symbol": "AVT",
@@ -55798,10 +55798,22 @@
    "yahoo_symbol": "HON"
   },
   {
+   "symbol": "HOND",
+   "name": "HCM II Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOND"
+  },
+  {
    "symbol": "HONDU",
    "name": "HCM II Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HONDU"
+  },
+  {
+   "symbol": "HONDW",
+   "name": "HCM II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HONDW"
   },
   {
    "symbol": "HONE",
@@ -61000,6 +61012,12 @@
    "yahoo_symbol": "MU"
   },
   {
+   "symbol": "MUD",
+   "name": "Direxion Daily MU Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUD"
+  },
+  {
    "symbol": "MULN",
    "name": "Mullen Automotive, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -61010,6 +61028,12 @@
    "name": "Mural Oncology plc - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MURA"
+  },
+  {
+   "symbol": "MUU",
+   "name": "Direxion Daily MU Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUU"
   },
   {
    "symbol": "MVBF",
@@ -66802,6 +66826,12 @@
    "yahoo_symbol": "SEEL"
   },
   {
+   "symbol": "SEEM",
+   "name": "SEI Select Emerging Markets Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEEM"
+  },
+  {
    "symbol": "SEER",
    "name": "Seer, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -66812,6 +66842,18 @@
    "name": "SEI Investments Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SEIC"
+  },
+  {
+   "symbol": "SEIE",
+   "name": "SEI Select International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEIE"
+  },
+  {
+   "symbol": "SEIS",
+   "name": "SEI Select Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEIS"
   },
   {
    "symbol": "SELF",
@@ -67292,6 +67334,12 @@
    "name": "Skye Bioscience, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SKYE"
+  },
+  {
+   "symbol": "SKYQ",
+   "name": "Sky Quarry Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKYQ"
   },
   {
    "symbol": "SKYT",
@@ -72818,18 +72866,6 @@
    "name": "Adient plc Ordinary Shares ",
    "exchange": "NYSE",
    "yahoo_symbol": "ADNT"
-  },
-  {
-   "symbol": "ADRT",
-   "name": "Ault Disruptive Technologies Corporation Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADRT"
-  },
-  {
-   "symbol": "ADRT.U",
-   "name": "Ault Disruptive Technologies Corporation Units, each consisting of one share of Common Stock, and three-fourths of one Redeemable Warrant to purchase one share of Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADRT.U"
   },
   {
    "symbol": "ADT",
@@ -84098,12 +84134,6 @@
    "name": "Molina Healthcare Inc Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MOH"
-  },
-  {
-   "symbol": "MOOV",
-   "name": "Moove Lubricants Holdings Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MOOV"
   },
   {
    "symbol": "MOS",

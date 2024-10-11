@@ -1,60 +1,96 @@
 {
  "added": [
   {
-   "symbol": "CALI",
-   "name": "iShares Short-Term California Muni Active ETF",
+   "symbol": "AVL",
+   "name": "Direxion Daily AVGO Bull 2X Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CALI"
+   "yahoo_symbol": "AVL"
   },
   {
-   "symbol": "CLIK",
-   "name": "Click Holdings Limited - Ordinary Share",
+   "symbol": "AVS",
+   "name": "Direxion Daily AVGO Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVS"
+  },
+  {
+   "symbol": "HOND",
+   "name": "HCM II Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOND"
+  },
+  {
+   "symbol": "HONDW",
+   "name": "HCM II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HONDW"
+  },
+  {
+   "symbol": "MUD",
+   "name": "Direxion Daily MU Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUD"
+  },
+  {
+   "symbol": "MUU",
+   "name": "Direxion Daily MU Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUU"
+  },
+  {
+   "symbol": "SEEM",
+   "name": "SEI Select Emerging Markets Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEEM"
+  },
+  {
+   "symbol": "SEIE",
+   "name": "SEI Select International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEIE"
+  },
+  {
+   "symbol": "SEIS",
+   "name": "SEI Select Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEIS"
+  },
+  {
+   "symbol": "SKYQ",
+   "name": "Sky Quarry Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CLIK"
+   "yahoo_symbol": "SKYQ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RRL",
+   "name": "Resolute Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RRL.V",
+   "instruments": [
+    {
+     "name": "Resolute Resources Ltd.",
+     "symbol": "RRL"
+    }
+   ]
   },
   {
    "symbol": "MOOV",
    "name": "Moove Lubricants Holdings Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "MOOV"
-  }
- ],
- "removed": [
+  },
   {
-   "symbol": "SEG.R",
-   "name": "Seaport Entertainment Group Inc. Rights",
+   "symbol": "ADRT",
+   "name": "Ault Disruptive Technologies Corporation Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "SEG.R"
+   "yahoo_symbol": "ADRT"
   },
   {
-   "symbol": "HMNF",
-   "name": "HMN Financial, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HMNF"
-  },
-  {
-   "symbol": "CALY",
-   "name": "BlackRock Short-Term California Muni Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CALY"
-  },
-  {
-   "symbol": "FRZA",
-   "name": "Forza X1, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRZA"
-  },
-  {
-   "symbol": "DGTL",
-   "name": "DGTL Holdings Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DGTL.V",
-   "instruments": [
-    {
-     "name": "DGTL Holdings Inc.",
-     "symbol": "DGTL"
-    }
-   ]
+   "symbol": "ADRT.U",
+   "name": "Ault Disruptive Technologies Corporation Units, each consisting of one share of Common Stock, and three-fourths of one Redeemable Warrant to purchase one share of Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ADRT.U"
   }
  ]
 }

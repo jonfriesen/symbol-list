@@ -1173,7 +1173,6 @@ RGC,Relevant Gold Corp.,TSXV,RGC.V,Relevant Gold Corp.,RGC
 RAGE,Renegade Gold Inc.,TSXV,RAGE.V,Renegade Gold Inc.,RAGE
 RW,RenoWorks Software Inc.,TSXV,RW.V,RenoWorks Software Inc,RW
 RSS,Resaas Services Inc.,TSXV,RSS.V,Resaas Services Inc.,RSS
-RRL,Resolute Resources Ltd.,TSXV,RRL.V,Resolute Resources Ltd.,RRL
 RSM,Resouro Strategic Metals Inc.,TSXV,RSM.V,Resouro Strategic Metals Inc.,RSM
 RVG,Revival Gold Inc.,TSXV,RVG.V,Revival Gold Inc.,RVG
 REVO,RevoluGROUP Canada Inc.,TSXV,REVO.V,RevoluGROUP Canada Inc.,REVO
@@ -3789,10 +3788,12 @@ AVGO,Broadcom Inc. - Common Stock,NASDAQ Global Select MarketSM,AVGO
 AVGR,"Avinger, Inc. - Common Stock",NASDAQ Capital Market,AVGR
 AVGX,Defiance Daily Target 2X Long AVGO ETF,NASDAQ Global MarketSM,AVGX
 AVIR,"Atea Pharmaceuticals, Inc. - common stock",NASDAQ Global Select MarketSM,AVIR
+AVL,Direxion Daily AVGO Bull 2X Shares,NASDAQ Global MarketSM,AVL
 AVNW,"Aviat Networks, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVNW
 AVO,"Mission Produce, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVO
 AVPT,"AvePoint, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,AVPT
 AVPTW,"AvePoint, Inc. - Warrant",NASDAQ Global Select MarketSM,AVPTW
+AVS,Direxion Daily AVGO Bear 1X Shares,NASDAQ Global MarketSM,AVS
 AVT,"Avnet, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVT
 AVTE,"Aerovate Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,AVTE
 AVTX,"Avalo Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,AVTX
@@ -5396,7 +5397,9 @@ HOLO,MicroCloud Hologram Inc. - Ordinary Shares,NASDAQ Capital Market,HOLO
 HOLOW,MicroCloud Hologram Inc. - Warrant,NASDAQ Capital Market,HOLOW
 HOLX,"Hologic, Inc. - Common Stock",NASDAQ Global Select MarketSM,HOLX
 HON,Honeywell International Inc. - Common Stock,NASDAQ Global Select MarketSM,HON
+HOND,HCM II Acquisition Corp. - Ordinary Shares,NASDAQ Global MarketSM,HOND
 HONDU,HCM II Acquisition Corp. - Unit,NASDAQ Global MarketSM,HONDU
+HONDW,HCM II Acquisition Corp. - Warrant,NASDAQ Global MarketSM,HONDW
 HONE,"HarborOne Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,HONE
 HOOD,"Robinhood Markets, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,HOOD
 HOOK,HOOKIPA Pharma Inc. - Common Stock,NASDAQ Capital Market,HOOK
@@ -6263,8 +6266,10 @@ MTRX,Matrix Service Company - Common Stock,NASDAQ Global Select MarketSM,MTRX
 MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MTSI
 MTTR,"Matterport, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MTTR
 MU,"Micron Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,MU
+MUD,Direxion Daily MU Bear 1X Shares,NASDAQ Global MarketSM,MUD
 MULN,"Mullen Automotive, Inc. - Common Stock",NASDAQ Capital Market,MULN
 MURA,Mural Oncology plc - Ordinary Shares,NASDAQ Global MarketSM,MURA
+MUU,Direxion Daily MU Bull 2X Shares,NASDAQ Global MarketSM,MUU
 MVBF,MVB Financial Corp. - Common Stock,NASDAQ Capital Market,MVBF
 MVIS,"MicroVision, Inc. - Common Stock",NASDAQ Global MarketSM,MVIS
 MVST,"Microvast Holdings, Inc. - Common Stock",NASDAQ Capital Market,MVST
@@ -7230,8 +7235,11 @@ SEATW,Vivid Seats Inc. - Warrant,NASDAQ Global Select MarketSM,SEATW
 SEDG,"SolarEdge Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,SEDG
 SEED,Origin Agritech Limited - Ordinary Shares,NASDAQ Capital Market,SEED
 SEEL,"Seelos Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,SEEL
+SEEM,SEI Select Emerging Markets Equity ETF,NASDAQ Global MarketSM,SEEM
 SEER,"Seer, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SEER
 SEIC,SEI Investments Company - Common Stock,NASDAQ Global Select MarketSM,SEIC
+SEIE,SEI Select International Equity ETF,NASDAQ Global MarketSM,SEIE
+SEIS,SEI Select Small Cap ETF,NASDAQ Global MarketSM,SEIS
 SELF,"Global Self Storage, Inc. - Common Stock",NASDAQ Capital Market,SELF
 SELX,Semilux International Ltd. - Ordinary Shares,NASDAQ Capital Market,SELX
 SENEA,Seneca Foods Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,SENEA
@@ -7312,6 +7320,7 @@ SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,NASDAQ Global MarketS
 SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF,NASDAQ Global MarketSM,SKRE
 SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,SKWD
 SKYE,"Skye Bioscience, Inc. - Common Stock",NASDAQ Global MarketSM,SKYE
+SKYQ,Sky Quarry Inc. - Common Stock,NASDAQ Capital Market,SKYQ
 SKYT,"SkyWater Technology, Inc. - Common Stock",NASDAQ Capital Market,SKYT
 SKYU,ProShares Ultra Cloud Computing,NASDAQ Global MarketSM,SKYU
 SKYW,"SkyWest, Inc. - Common Stock",NASDAQ Global Select MarketSM,SKYW
@@ -8233,8 +8242,6 @@ ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th o
 ADCT,ADC Therapeutics SA Common Shares,NYSE,ADCT
 ADM,Archer-Daniels-Midland Company Common Stock,NYSE,ADM
 ADNT,Adient plc Ordinary Shares ,NYSE,ADNT
-ADRT,Ault Disruptive Technologies Corporation Common Stock,NYSE MKT,ADRT
-ADRT.U,"Ault Disruptive Technologies Corporation Units, each consisting of one share of Common Stock, and three-fourths of one Redeemable Warrant to purchase one share of Common Stock",NYSE MKT,ADRT.U
 ADT,ADT Inc. Common Stock,NYSE,ADT
 ADX,Adams Diversified Equity Fund Inc.,NYSE,ADX
 AE,"Adams Resources & Energy, Inc. Common Stock",NYSE MKT,AE
@@ -10113,7 +10120,6 @@ MOG.A,Moog Inc. Class A Common Stock,NYSE,MOG.A
 MOG.B,Moog Inc. Class B Common Stock,NYSE,MOG.B
 MOGU,MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares),NYSE,MOGU
 MOH,Molina Healthcare Inc Common Stock,NYSE,MOH
-MOOV,Moove Lubricants Holdings Common Shares,NYSE,MOOV
 MOS,Mosaic Company (The) Common Stock,NYSE,MOS
 MOV,Movado Group Inc. Common Stock,NYSE,MOV
 MP,MP Materials Corp. Common Stock,NYSE,MP
