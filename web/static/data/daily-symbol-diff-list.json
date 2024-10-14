@@ -1,96 +1,66 @@
 {
  "added": [
   {
-   "symbol": "AVL",
-   "name": "Direxion Daily AVGO Bull 2X Shares",
+   "symbol": "CAMP",
+   "name": "CAMP4 Therapeutics Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVL"
+   "yahoo_symbol": "CAMP"
   },
   {
-   "symbol": "AVS",
-   "name": "Direxion Daily AVGO Bear 1X Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVS"
+   "symbol": "CBLL",
+   "name": "CeriBell, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CBLL"
   },
   {
-   "symbol": "HOND",
-   "name": "HCM II Acquisition Corp. - Ordinary Shares",
+   "symbol": "CCIRU",
+   "name": "Cohen Circle Acquisition Corp. I - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HOND"
+   "yahoo_symbol": "CCIRU"
   },
   {
-   "symbol": "HONDW",
-   "name": "HCM II Acquisition Corp. - Warrant",
+   "symbol": "NATO",
+   "name": "Themes Transatlantic Defense ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HONDW"
+   "yahoo_symbol": "NATO"
   },
   {
-   "symbol": "MUD",
-   "name": "Direxion Daily MU Bear 1X Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MUD"
-  },
-  {
-   "symbol": "MUU",
-   "name": "Direxion Daily MU Bull 2X Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MUU"
-  },
-  {
-   "symbol": "SEEM",
-   "name": "SEI Select Emerging Markets Equity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SEEM"
-  },
-  {
-   "symbol": "SEIE",
-   "name": "SEI Select International Equity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SEIE"
-  },
-  {
-   "symbol": "SEIS",
-   "name": "SEI Select Small Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SEIS"
-  },
-  {
-   "symbol": "SKYQ",
-   "name": "Sky Quarry Inc. - Common Stock",
+   "symbol": "RDACU",
+   "name": "Rising Dragon Acquisition Corp. - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SKYQ"
+   "yahoo_symbol": "RDACU"
+  },
+  {
+   "symbol": "STFS",
+   "name": "Star Fashion Culture Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STFS"
+  },
+  {
+   "symbol": "UPB",
+   "name": "Upstream Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UPB"
   }
  ],
  "removed": [
   {
-   "symbol": "RRL",
-   "name": "Resolute Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RRL.V",
-   "instruments": [
-    {
-     "name": "Resolute Resources Ltd.",
-     "symbol": "RRL"
-    }
-   ]
+   "symbol": "GHSI",
+   "name": "Guardion Health Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GHSI"
   },
   {
-   "symbol": "MOOV",
-   "name": "Moove Lubricants Holdings Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MOOV"
+   "symbol": "GECCM",
+   "name": "Great Elm Capital Corp. - 6.75% Notes Due 2025",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCM"
   },
   {
-   "symbol": "ADRT",
-   "name": "Ault Disruptive Technologies Corporation Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADRT"
-  },
-  {
-   "symbol": "ADRT.U",
-   "name": "Ault Disruptive Technologies Corporation Units, each consisting of one share of Common Stock, and three-fourths of one Redeemable Warrant to purchase one share of Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ADRT.U"
+   "symbol": "CHUY",
+   "name": "Chuy's Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHUY"
   }
  ]
 }
