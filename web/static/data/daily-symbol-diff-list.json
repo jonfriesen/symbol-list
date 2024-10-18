@@ -1,100 +1,96 @@
 {
  "added": [
   {
-   "symbol": "BTGD",
-   "name": "STKD Bitcoin \u0026 Gold ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BTGD"
+   "symbol": "EIIA",
+   "name": "Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EIIA"
   },
   {
-   "symbol": "PTLE",
-   "name": "PTL LTD - Ordinary Shares",
+   "symbol": "HURA",
+   "name": "TuHURA Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTLE"
+   "yahoo_symbol": "HURA"
   },
   {
-   "symbol": "BCHT",
-   "name": "Birchtech Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BCHT.V",
-   "instruments": [
-    {
-     "name": "Birchtech Corp.",
-     "symbol": "BCHT"
-    }
-   ]
+   "symbol": "NDAA",
+   "name": "Ned Davis Research 360 Dynamic Allocation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NDAA"
   },
   {
-   "symbol": "CNVI",
-   "name": "Conavi Medical Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CNVI.V",
-   "instruments": [
-    {
-     "name": "Conavi Medical Corp.",
-     "symbol": "CNVI"
-    }
-   ]
+   "symbol": "ORIS",
+   "name": "Oriental Rise Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORIS"
   },
   {
-   "symbol": "AW",
-   "name": "A\u0026W Revenue Royalties Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "AW.TO",
-   "instruments": [
-    {
-     "name": "A\u0026W Food Serv Canada",
-     "symbol": "AW"
-    },
-    {
-     "name": "A\u0026W Revenue Rylty Un",
-     "symbol": "AW.UN"
-    }
-   ]
+   "symbol": "SPHL",
+   "name": "Springview Holdings Ltd - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPHL"
   }
  ],
  "removed": [
   {
-   "symbol": "AVK.R",
-   "name": "Advent Convertible and Income Fund Rights (expiring October 17, 2024) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AVK.R"
+   "symbol": "GTACU",
+   "name": "Global Technology Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GTACU"
   },
   {
-   "symbol": "AW.UN",
-   "name": "A\u0026W Revenue Royalties Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "AW.UN.TO",
-   "instruments": [
-    {
-     "name": "A\u0026W Revenue Rylty Un",
-     "symbol": "AW.UN"
-    }
-   ]
+   "symbol": "GTAC",
+   "name": "Global Technology Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GTAC"
   },
   {
-   "symbol": "AL$A",
-   "name": "Air Lease Corporation 6.150% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AL$A"
-  },
-  {
-   "symbol": "SQSP",
-   "name": "Squarespace, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SQSP"
-  },
-  {
-   "symbol": "MEEC",
-   "name": "Midwest Energy Emissions Corp",
+   "symbol": "SVRS",
+   "name": "Silver Storm Mining Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MEEC.V",
+   "yahoo_symbol": "SVRS.V",
    "instruments": [
     {
-     "name": "Midwest Energy Emissions Corp.",
-     "symbol": "MEEC"
+     "name": "Silver Storm Mining Ltd.",
+     "symbol": "SVRS"
     }
    ]
+  },
+  {
+   "symbol": "KTRA",
+   "name": "Kintara Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KTRA"
+  },
+  {
+   "symbol": "ORAN",
+   "name": "Orange",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ORAN"
+  },
+  {
+   "symbol": "FIXT",
+   "name": "Procure Disaster Recovery Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIXT"
+  },
+  {
+   "symbol": "GTACW",
+   "name": "Global Technology Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GTACW"
+  },
+  {
+   "symbol": "ALPP",
+   "name": "Alpine 4 Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALPP"
+  },
+  {
+   "symbol": "CLDI.W",
+   "name": "Calidi Biotherapeutics, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CLDI.W"
   }
  ]
 }
