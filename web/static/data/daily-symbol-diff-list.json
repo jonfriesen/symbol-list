@@ -1,96 +1,48 @@
 {
  "added": [
   {
-   "symbol": "EIIA",
-   "name": "Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EIIA"
-  },
-  {
-   "symbol": "HURA",
-   "name": "TuHURA Biosciences, Inc. - Common Stock",
+   "symbol": "WAI",
+   "name": "Top KingWin Ltd - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HURA"
-  },
-  {
-   "symbol": "NDAA",
-   "name": "Ned Davis Research 360 Dynamic Allocation ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NDAA"
-  },
-  {
-   "symbol": "ORIS",
-   "name": "Oriental Rise Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ORIS"
-  },
-  {
-   "symbol": "SPHL",
-   "name": "Springview Holdings Ltd - Ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPHL"
+   "yahoo_symbol": "WAI"
   }
  ],
  "removed": [
   {
-   "symbol": "GTACU",
-   "name": "Global Technology Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GTACU"
-  },
-  {
-   "symbol": "GTAC",
-   "name": "Global Technology Acquisition Corp. I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GTAC"
-  },
-  {
-   "symbol": "SVRS",
-   "name": "Silver Storm Mining Ltd.",
+   "symbol": "CYL",
+   "name": "Ceylon Graphite Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SVRS.V",
+   "yahoo_symbol": "CYL.V",
    "instruments": [
     {
-     "name": "Silver Storm Mining Ltd.",
-     "symbol": "SVRS"
+     "name": "Ceylon Graphite Corp.",
+     "symbol": "CYL"
     }
    ]
   },
   {
-   "symbol": "KTRA",
-   "name": "Kintara Therapeutics, Inc. - Common Stock",
+   "symbol": "PXSAP",
+   "name": "Pyxis Tankers Inc. - 7.75% Series A Cumulative Convertible Preferred Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KTRA"
+   "yahoo_symbol": "PXSAP"
   },
   {
-   "symbol": "ORAN",
-   "name": "Orange",
+   "symbol": "ORGS",
+   "name": "Orgenesis Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORGS"
+  },
+  {
+   "symbol": "GUT.R",
+   "name": "Gabelli Utility Trust (The) Rights (expiring October 21, 2024) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "ORAN"
+   "yahoo_symbol": "GUT.R"
   },
   {
-   "symbol": "FIXT",
-   "name": "Procure Disaster Recovery Strategy ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIXT"
-  },
-  {
-   "symbol": "GTACW",
-   "name": "Global Technology Acquisition Corp. I - Warrant",
+   "symbol": "TCJH",
+   "name": "Top KingWin Ltd - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GTACW"
-  },
-  {
-   "symbol": "ALPP",
-   "name": "Alpine 4 Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALPP"
-  },
-  {
-   "symbol": "CLDI.W",
-   "name": "Calidi Biotherapeutics, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CLDI.W"
+   "yahoo_symbol": "TCJH"
   }
  ]
 }

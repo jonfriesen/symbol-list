@@ -1,149 +1,117 @@
 {
  "added": [
   {
-   "symbol": "SHARKI",
-   "name": "Sharki (SHARKI)",
+   "symbol": "TRUMPSB",
+   "name": "TrumpsBags (TRUMPSB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RINO",
+   "name": "Rino (RINO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EQUAL",
+   "name": "Equalizer DEX (EQUAL)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "ANIMECOIN",
+   "name": "Animecoin (ANIMECOIN)"
+  },
+  {
+   "symbol": "SANIN",
+   "name": "Sanin (SANIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EQUALCOIN",
+   "name": "EqualCoin (EQUALCOIN)"
+  },
+  {
+   "symbol": "NEIROINU",
+   "name": "Neiro Inu (NEIROINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MINGO",
+   "name": "Mingo (MINGO)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DRAGONX",
+   "name": "DragonX (DRAGONX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUNE",
+   "name": "Luneko (LUNE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "KINK",
+   "name": "Kinka (KINK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANI",
+   "name": "Anime Token (ANI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOODENGSPACE",
+   "name": "MOO DENG (MOODENGSPACE)",
    "built_on": "SOL"
   },
   {
-   "symbol": "SHOPN",
-   "name": "ShopNEXT (SHOPN)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "DEDPRZ",
-   "name": "DEDPRZ (DEDPRZ)",
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
   },
   {
-   "symbol": "REVOL",
-   "name": "Revolution (REVOL)",
+   "symbol": "TRUMP3",
+   "name": "Trump MP3 (TRUMP3)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "PBASE",
+   "name": "Polkabase (PBASE)"
+  },
+  {
+   "symbol": "OHNOGG",
+   "name": "OHNHO (ohno.gg) (OHNOGG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "XTREMEV",
+   "name": "Xtremeverse (XTREMEV)",
    "built_on": "ETH"
-  },
+  }
+ ],
+ "removed": [
   {
-   "symbol": "BULLF",
-   "name": "BULL FINANCE (BULLF)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "GTCC",
-   "name": "GTC COIN (GTCC)"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "DOTF",
-   "name": "Dot Finance (DOTF)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "USDMA",
-   "name": "USD mars (USDMA)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "DUBER",
-   "name": "Düber (DUBER)"
-  },
-  {
-   "symbol": "SUPERBONK",
-   "name": "SUPER BONK (SUPERBONK)",
-   "built_on": "BNB"
+   "symbol": "EQUAL",
+   "name": "EqualCoin (EQUAL)"
   },
   {
    "symbol": "ZEDCOIN",
    "name": "ZedCoin (ZEDCOIN)"
   },
   {
-   "symbol": "DARKMAGACOIN",
-   "name": "DARK MAGA (DARKMAGACOIN)",
-   "built_on": "ETH"
+   "symbol": "ANI",
+   "name": "Animecoin (ANI)"
   },
   {
-   "symbol": "CGPU",
-   "name": "CloudGPU (CGPU)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "POPCO",
-   "name": "Popcorn (POPCO)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "IXIR",
-   "name": "IXIR (IXIR)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "BONKBNB",
-   "name": "Bonk BNB (BONKBNB)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "GREENH",
-   "name": "Greenheart CBD (GREENH)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "ESPL",
-   "name": "ESPL ARENA (ESPL)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "ARNC",
-   "name": "Arnoya classic (ARNC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "USA",
-   "name": "Based USA (USA)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "HEA",
-   "name": "Healium (HEA)",
-   "built_on": "TRX"
-  },
-  {
-   "symbol": "FUTUR",
-   "name": "Future Token (FUTUR)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "DBR",
-   "name": "deBridge (DBR)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DOGEFATHER",
-   "name": "Dogefather (DOGEFATHER)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "SUPERB",
-   "name": "SUPER BONK (SUPERB)"
-  },
-  {
-   "symbol": "USA",
-   "name": "DEDPRZ (USA)"
-  },
-  {
-   "symbol": "DBR",
-   "name": "Düber (DBR)"
+   "symbol": "LUNE",
+   "name": "Luneko (LUNE)"
   }
  ]
 }
