@@ -1,117 +1,137 @@
 {
  "added": [
   {
-   "symbol": "TRUMPSB",
-   "name": "TrumpsBags (TRUMPSB)",
+   "symbol": "SILV",
+   "name": "Silver Surfer Solana (SILV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MEI",
+   "name": "Mei Solutions (MEI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "COJ",
+   "name": "Cojam (COJ)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "GEME",
+   "name": "GAMESTUMP (GEME)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "WOT",
+   "name": "World Of Trump (WOT)",
    "built_on": "BASE"
   },
   {
-   "symbol": "RINO",
-   "name": "Rino (RINO)",
+   "symbol": "EFIL",
+   "name": "Ethereum Wrapped Filecoin (EFIL)",
    "built_on": "ETH"
   },
   {
-   "symbol": "EQUAL",
-   "name": "Equalizer DEX (EQUAL)",
-   "built_on": "FTM"
+   "symbol": "PBB",
+   "name": "PEPE BUT BLUE (PBB)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "ANIMECOIN",
-   "name": "Animecoin (ANIMECOIN)"
+   "symbol": "PAPERBASE",
+   "name": "Paper (PAPERBASE)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "SANIN",
-   "name": "Sanin (SANIN)",
+   "symbol": "WPAY",
+   "name": "WPAY (WPAY)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "NIFTYL",
+   "name": "Nifty League (NIFTYL)",
    "built_on": "ETH"
   },
   {
-   "symbol": "EQUALCOIN",
-   "name": "EqualCoin (EQUALCOIN)"
+   "symbol": "BTC70000",
+   "name": "BTC 70000 (BTC70000)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "NEIROINU",
-   "name": "Neiro Inu (NEIROINU)",
+   "symbol": "CLASH",
+   "name": "Clashub (CLASH)",
    "built_on": "BNB"
   },
   {
-   "symbol": "MINGO",
-   "name": "Mingo (MINGO)",
-   "built_on": "HBAR"
+   "symbol": "MININEIRO",
+   "name": "Mini Neiro (MININEIRO)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
+   "symbol": "THEC",
+   "name": "The CocktailBar (THEC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "P",
+   "name": "Pike Token (P)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "LUNAB",
+   "name": "Luna by Virtuals (LUNAB)",
+   "built_on": "BASE"
   },
   {
    "symbol": "GETH",
    "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "DRAGONX",
-   "name": "DragonX (DRAGONX)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "LUNE",
-   "name": "Luneko (LUNE)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "KINK",
-   "name": "Kinka (KINK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ANI",
-   "name": "Anime Token (ANI)",
+   "symbol": "BSK",
+   "name": "BTCSKR (BSK)",
    "built_on": "BNB"
   },
   {
-   "symbol": "MOODENGSPACE",
-   "name": "MOO DENG (MOODENGSPACE)",
-   "built_on": "SOL"
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "ARCADEN",
+   "name": "ArcadeNetwork (ARCADEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOLDN",
+   "name": "GoLondon (GOLDN)",
    "built_on": "ETH"
   },
   {
-   "symbol": "TRUMP3",
-   "name": "Trump MP3 (TRUMP3)",
-   "built_on": "TON"
+   "symbol": "BABYMO",
+   "name": "Baby Moon Floki (BABYMO)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "PBASE",
-   "name": "Polkabase (PBASE)"
+   "symbol": "GOATAI",
+   "name": "GOAT AI (GOATAI)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "OHNOGG",
-   "name": "OHNHO (ohno.gg) (OHNOGG)",
-   "built_on": "BASE"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "XTREMEV",
-   "name": "Xtremeverse (XTREMEV)",
+   "symbol": "TUA",
+   "name": "Atua AI (TUA)",
    "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "EQUAL",
-   "name": "EqualCoin (EQUAL)"
+   "symbol": "EFIL",
+   "name": "Ethereum Wrapped Filecoin (EFIL)"
   },
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "ANI",
-   "name": "Animecoin (ANI)"
-  },
-  {
-   "symbol": "LUNE",
-   "name": "Luneko (LUNE)"
+   "symbol": "GEME",
+   "name": "GAMESTUMP (GEME)",
+   "built_on": "SOL"
   }
  ]
 }
