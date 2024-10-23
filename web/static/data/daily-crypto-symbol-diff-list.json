@@ -1,136 +1,114 @@
 {
  "added": [
   {
-   "symbol": "SILV",
-   "name": "Silver Surfer Solana (SILV)",
-   "built_on": "SOL"
+   "symbol": "CADAI",
+   "name": "CADAI (CADAI)",
+   "built_on": "ARB"
   },
   {
-   "symbol": "MEI",
-   "name": "Mei Solutions (MEI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "COJ",
-   "name": "Cojam (COJ)",
-   "built_on": "KLAY"
-  },
-  {
-   "symbol": "GEME",
-   "name": "GAMESTUMP (GEME)",
-   "built_on": "KAS"
-  },
-  {
-   "symbol": "WOT",
-   "name": "World Of Trump (WOT)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "EFIL",
-   "name": "Ethereum Wrapped Filecoin (EFIL)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "PBB",
-   "name": "PEPE BUT BLUE (PBB)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "PAPERBASE",
-   "name": "Paper (PAPERBASE)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "WPAY",
-   "name": "WPAY (WPAY)",
+   "symbol": "BTMT",
+   "name": "BITmarkets Token (BTMT)",
    "built_on": "POL"
   },
   {
-   "symbol": "NIFTYL",
-   "name": "Nifty League (NIFTYL)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BTC70000",
-   "name": "BTC 70000 (BTC70000)",
+   "symbol": "GAMESTUMP",
+   "name": "GAMESTUMP (GAMESTUMP)",
    "built_on": "SOL"
   },
   {
-   "symbol": "CLASH",
-   "name": "Clashub (CLASH)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "MININEIRO",
-   "name": "Mini Neiro (MININEIRO)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "THEC",
-   "name": "The CocktailBar (THEC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "P",
-   "name": "Pike Token (P)",
-   "built_on": "BTC"
-  },
-  {
-   "symbol": "LUNAB",
-   "name": "Luna by Virtuals (LUNAB)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "BSK",
-   "name": "BTCSKR (BSK)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
-  },
-  {
-   "symbol": "ARCADEN",
-   "name": "ArcadeNetwork (ARCADEN)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "GOLDN",
-   "name": "GoLondon (GOLDN)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BABYMO",
-   "name": "Baby Moon Floki (BABYMO)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "GOATAI",
-   "name": "GOAT AI (GOATAI)",
+   "symbol": "PONK",
+   "name": "PONK (PONK)",
    "built_on": "SOL"
+  },
+  {
+   "symbol": "TENS",
+   "name": "TensorScan (TENS)"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "TUA",
-   "name": "Atua AI (TUA)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "EFIL",
-   "name": "Ethereum Wrapped Filecoin (EFIL)"
+   "symbol": "ELMOCOIN",
+   "name": "Elmo (ELMOCOIN)",
+   "built_on": "TRX"
   },
   {
-   "symbol": "GEME",
-   "name": "GAMESTUMP (GEME)",
+   "symbol": "FBOMB",
+   "name": "fBomb (FBOMB)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "INSURANCE",
+   "name": "insurance (INSURANCE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AIDA",
+   "name": "Ai-Da robot (AIDA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYCZHAO",
+   "name": "Baby Czhao (BABYCZHAO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DIAMONDINU",
+   "name": "Diamond (DIAMONDINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KONAN",
+   "name": "Konan of Kaspa (KONAN)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "ABCM",
+   "name": "ABCMETA (ABCM)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "NEVANETWORK",
+   "name": "Neva (NEVANETWORK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FBOMBV1",
+   "name": "fBomb v1 (FBOMBV1)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORANGE",
+   "name": "Annoying Orange (ORANGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PIKE",
+   "name": "Pike Token (PIKE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "JANET",
+   "name": "Janet (JANET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SENTI",
+   "name": "Sentinel Bot Ai (SENTI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "PEENO",
+   "name": "Peeno (PEENO)",
    "built_on": "SOL"
   }
  ]
