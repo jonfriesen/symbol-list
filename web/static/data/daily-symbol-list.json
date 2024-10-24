@@ -1,5 +1,5 @@
 {
- "date": "2024-10-23",
+ "date": "2024-10-24",
  "data": [
   {
    "symbol": "ONE",
@@ -1626,10 +1626,6 @@
     {
      "name": "Avanti Helium Corp.",
      "symbol": "AVN"
-    },
-    {
-     "name": "Avanti Helium Corp. wt 24oct2024",
-     "symbol": "AVN.WT"
     },
     {
      "name": "Avanti Helium Corp. wt 6Feb2025",
@@ -17830,18 +17826,6 @@
    ]
   },
   {
-   "symbol": "VMC",
-   "name": "Vicinity Motor Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VMC.V",
-   "instruments": [
-    {
-     "name": "Vicinity Motor Corp.",
-     "symbol": "VMC"
-    }
-   ]
-  },
-  {
    "symbol": "VOC.P",
    "name": "Victory Opportunities 1 Corp.",
    "exchange": "TSXV",
@@ -23926,6 +23910,54 @@
     {
      "name": "Canso Credit A Un",
      "symbol": "PBY.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPG",
+   "name": "Capital Group Global Equity Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPG.TO",
+   "instruments": [
+    {
+     "name": "CapGr GlEqty Sel ETF",
+     "symbol": "CAPG"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPI",
+   "name": "Capital Group International Equity Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPI.TO",
+   "instruments": [
+    {
+     "name": "Cap Gr Int EqSel ETF",
+     "symbol": "CAPI"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPM",
+   "name": "Capital Group Multi-Sector Income Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPM.TO",
+   "instruments": [
+    {
+     "name": "CapGr MS Inc Sel ETF",
+     "symbol": "CAPM"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPW",
+   "name": "Capital Group World Bond Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPW.TO",
+   "instruments": [
+    {
+     "name": "CapGr Wld Bd Sel ETF",
+     "symbol": "CAPW"
     }
    ]
   },
@@ -44251,7 +44283,7 @@
   },
   {
    "symbol": "AFCG",
-   "name": "AFC Gamma, Inc. - Common Stock",
+   "name": "Advanced Flower Capital Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AFCG"
   },
@@ -47652,6 +47684,12 @@
    "yahoo_symbol": "BSFC"
   },
   {
+   "symbol": "BSGM",
+   "name": "BioSig Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSGM"
+  },
+  {
    "symbol": "BSII",
    "name": "Black Spade Acquisition II Co - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
@@ -49092,12 +49130,6 @@
    "yahoo_symbol": "CIBR"
   },
   {
-   "symbol": "CID",
-   "name": "VictoryShares International High Div Volatility Wtd ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CID"
-  },
-  {
    "symbol": "CIFR",
    "name": "Cipher Mining Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -49174,12 +49206,6 @@
    "name": "Civista Bancshares, Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CIVB"
-  },
-  {
-   "symbol": "CIZ",
-   "name": "VictoryShares Developed Enhanced Volatility Wtd ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CIZ"
   },
   {
    "symbol": "CJET",
@@ -52692,6 +52718,12 @@
    "yahoo_symbol": "FBL"
   },
   {
+   "symbol": "FBLA",
+   "name": "FB Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FBLA"
+  },
+  {
    "symbol": "FBLG",
    "name": "FibroBiologics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -53062,6 +53094,12 @@
    "name": "FGI Industries Ltd. - warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FGIWW"
+  },
+  {
+   "symbol": "FGL",
+   "name": "Founder Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FGL"
   },
   {
    "symbol": "FGM",
@@ -57312,6 +57350,12 @@
    "yahoo_symbol": "IRBT"
   },
   {
+   "symbol": "IRD",
+   "name": "Opus Genetics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IRD"
+  },
+  {
    "symbol": "IRDM",
    "name": "Iridium Communications Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58534,6 +58578,12 @@
    "name": "Luminar Technologies, Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LAZR"
+  },
+  {
+   "symbol": "LBGJ",
+   "name": "Li Bang International Corporation Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LBGJ"
   },
   {
    "symbol": "LBPH",
@@ -62556,12 +62606,6 @@
    "yahoo_symbol": "OCUL"
   },
   {
-   "symbol": "OCUP",
-   "name": "Ocuphire Pharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OCUP"
-  },
-  {
    "symbol": "OCX",
    "name": "Oncocyte Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -65094,12 +65138,6 @@
    "yahoo_symbol": "QQQM"
   },
   {
-   "symbol": "QQQN",
-   "name": "VictoryShares Nasdaq Next 50 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QQQN"
-  },
-  {
    "symbol": "QQQP",
    "name": "Tradr 2X Long Triple Q Quarterly ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -66402,6 +66440,12 @@
    "yahoo_symbol": "SAFT"
   },
   {
+   "symbol": "SAG",
+   "name": "SAG Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAG"
+  },
+  {
    "symbol": "SAGE",
    "name": "Sage Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -67684,6 +67728,12 @@
    "name": "Sanofi - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SNY"
+  },
+  {
+   "symbol": "SNYR",
+   "name": "Synergy CHC Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SNYR"
   },
   {
    "symbol": "SOBR",
@@ -81870,6 +81920,12 @@
    "yahoo_symbol": "ING"
   },
   {
+   "symbol": "INGM",
+   "name": "Ingram Micro Holding Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INGM"
+  },
+  {
    "symbol": "INGR",
    "name": "Ingredion Incorporated Common Stock",
    "exchange": "NYSE",
@@ -89190,10 +89246,10 @@
    "yahoo_symbol": "SRV"
   },
   {
-   "symbol": "SRV.V",
-   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights when issued",
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "SRV.V"
+   "yahoo_symbol": "SRV.R"
   },
   {
    "symbol": "SSB",

@@ -1,120 +1,150 @@
 {
  "added": [
   {
-   "symbol": "AMT",
-   "name": "AmeriTrust Financial Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMT.V",
+   "symbol": "CAPG",
+   "name": "Capital Group Global Equity Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPG.TO",
    "instruments": [
     {
-     "name": "AmeriTrust Financial Technologies Inc.",
-     "symbol": "AMT"
+     "name": "CapGr GlEqty Sel ETF",
+     "symbol": "CAPG"
     }
    ]
   },
   {
-   "symbol": "AIFU",
-   "name": "Fanhua Inc. - American depositary shares, each representing 20 ordinary shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AIFU"
+   "symbol": "CAPI",
+   "name": "Capital Group International Equity Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPI.TO",
+   "instruments": [
+    {
+     "name": "Cap Gr Int EqSel ETF",
+     "symbol": "CAPI"
+    }
+   ]
   },
   {
-   "symbol": "ALDFU",
-   "name": "Aldel Financial II Inc. - Units",
+   "symbol": "CAPM",
+   "name": "Capital Group Multi-Sector Income Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPM.TO",
+   "instruments": [
+    {
+     "name": "CapGr MS Inc Sel ETF",
+     "symbol": "CAPM"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPW",
+   "name": "Capital Group World Bond Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPW.TO",
+   "instruments": [
+    {
+     "name": "CapGr Wld Bd Sel ETF",
+     "symbol": "CAPW"
+    }
+   ]
+  },
+  {
+   "symbol": "BSGM",
+   "name": "BioSig Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSGM"
+  },
+  {
+   "symbol": "FBLA",
+   "name": "FB Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FBLA"
+  },
+  {
+   "symbol": "FGL",
+   "name": "Founder Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FGL"
+  },
+  {
+   "symbol": "IRD",
+   "name": "Opus Genetics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IRD"
+  },
+  {
+   "symbol": "LBGJ",
+   "name": "Li Bang International Corporation Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LBGJ"
+  },
+  {
+   "symbol": "SAG",
+   "name": "SAG Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAG"
+  },
+  {
+   "symbol": "SNYR",
+   "name": "Synergy CHC Corp. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALDFU"
+   "yahoo_symbol": "SNYR"
   },
   {
-   "symbol": "HUHU",
-   "name": "HUHUTECH International Group Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HUHU"
+   "symbol": "INGM",
+   "name": "Ingram Micro Holding Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INGM"
   },
   {
-   "symbol": "NESR",
-   "name": "National Energy Services Reunited Corp - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NESR"
-  },
-  {
-   "symbol": "NESRW",
-   "name": "National Energy Services Reunited Corp - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NESRW"
-  },
-  {
-   "symbol": "XMAG",
-   "name": "Defiance Large Cap ex-Mag 7 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XMAG"
-  },
-  {
-   "symbol": "ROLR",
-   "name": "High Roller Technologies, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ROLR"
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.R"
   }
  ],
  "removed": [
   {
-   "symbol": "NTBL",
-   "name": "Notable Labs, Ltd. - Ordinary Shares",
+   "symbol": "SRV.V",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.V"
+  },
+  {
+   "symbol": "CID",
+   "name": "VictoryShares International High Div Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CID"
+  },
+  {
+   "symbol": "QQQN",
+   "name": "VictoryShares Nasdaq Next 50 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQN"
+  },
+  {
+   "symbol": "OCUP",
+   "name": "Ocuphire Pharma, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NTBL"
+   "yahoo_symbol": "OCUP"
   },
   {
-   "symbol": "SHCRW",
-   "name": "Sharecare, Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SHCRW"
-  },
-  {
-   "symbol": "PBX",
-   "name": "Powerband Solutions Inc.",
+   "symbol": "VMC",
+   "name": "Vicinity Motor Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PBX.V",
+   "yahoo_symbol": "VMC.V",
    "instruments": [
     {
-     "name": "Powerband Solutions Inc.",
-     "symbol": "PBX"
+     "name": "Vicinity Motor Corp.",
+     "symbol": "VMC"
     }
    ]
   },
   {
-   "symbol": "REVO",
-   "name": "RevoluGROUP Canada Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "REVO.V",
-   "instruments": [
-    {
-     "name": "RevoluGROUP Canada Inc.",
-     "symbol": "REVO"
-    }
-   ]
-  },
-  {
-   "symbol": "NOVC",
-   "name": "Nova Cannabis Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NOVC.TO",
-   "instruments": [
-    {
-     "name": "Nova Cannabis Inc J",
-     "symbol": "NOVC"
-    }
-   ]
-  },
-  {
-   "symbol": "SHCR",
-   "name": "Sharecare, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SHCR"
-  },
-  {
-   "symbol": "FANH",
-   "name": "Fanhua Inc. - American depositary shares, each representing 20 ordinary shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FANH"
+   "symbol": "CIZ",
+   "name": "VictoryShares Developed Enhanced Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIZ"
   }
  ]
 }
