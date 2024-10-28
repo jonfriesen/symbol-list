@@ -1,151 +1,110 @@
 {
  "added": [
   {
-   "symbol": "DTEC",
-   "name": "Dtec (DTEC)",
-   "built_on": "POL"
-  },
-  {
-   "symbol": "THUN",
-   "name": "Thunder Brawl (THUN)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "OBSI",
-   "name": "Obsidium (OBSI)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "TXC",
-   "name": "TEXITcoin (TXC)"
-  },
-  {
-   "symbol": "SLOP",
-   "name": "Slop (SLOP)",
+   "symbol": "CLAP",
+   "name": "Clap Cat (CLAP)",
    "built_on": "SOL"
   },
   {
-   "symbol": "TAOTOOLS",
-   "name": "TAOTools (TAOTOOLS)",
+   "symbol": "AINA",
+   "name": "Ainastasia (AINA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUMP47",
+   "name": "47th President of the United States (TRUMP47)",
    "built_on": "ETH"
   },
   {
-   "symbol": "IPU",
-   "name": "iPulse (IPU)",
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KYRA",
+   "name": "KYRA (KYRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LMQ",
+   "name": "Lightning McQueen (LMQ)",
    "built_on": "BNB"
   },
   {
-   "symbol": "BASED",
-   "name": "Based Money (BASED)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DAK",
-   "name": "dak (DAK)",
-   "built_on": "SUI"
-  },
-  {
-   "symbol": "MONSTE",
-   "name": "Monster (MONSTE)",
-   "built_on": "FTM"
-  },
-  {
-   "symbol": "BARTKRC",
-   "name": "BART Token (BARTKRC)",
-   "built_on": "KAS"
-  },
-  {
-   "symbol": "SWORLD",
-   "name": "Seedworld (SWORLD)",
-   "built_on": "AVAX"
-  },
-  {
-   "symbol": "FLAVIA",
-   "name": "Flavia Is Online (FLAVIA)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "FARTCOIN",
-   "name": "Fartcoin (FARTCOIN)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DEVI",
-   "name": "DEVITA (DEVI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "OSCAR",
-   "name": "OSCAR (OSCAR)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BIGFOOT",
-   "name": "BigFoot Town (BIGFOOT)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BZE",
-   "name": "BeeZee (BZE)"
-  },
-  {
-   "symbol": "OMNIAV2",
-   "name": "OmniaVerse (OMNIAV2)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ZYNC",
-   "name": "ZynCoin (ZYNC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SWIS",
-   "name": "Swiss Cash Coin (SWIS)",
+   "symbol": "KINGNEIRO",
+   "name": "King Neiro (KINGNEIRO)",
    "built_on": "BNB"
   },
   {
-   "symbol": "GETLIT",
-   "name": "LIT (GETLIT)",
+   "symbol": "LBTC",
+   "name": "Lombard Staked BTC (LBTC)",
    "built_on": "ETH"
   },
   {
-   "symbol": "MEMESAI",
-   "name": "Memes AI (MEMESAI)",
+   "symbol": "GDOG",
+   "name": "GDOG (GDOG)",
    "built_on": "SOL"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "GOATSE",
+   "name": "GOATSE (GOATSE)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "OMNIA",
-   "name": "OMNIA Protocol (OMNIA)",
+   "symbol": "CHANG",
+   "name": "Chang (CHANG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FNXAI",
+   "name": "Finanx AI (FNXAI)",
    "built_on": "ETH"
   },
   {
-   "symbol": "PICOLO",
-   "name": "PICOLO (PICOLO)",
-   "built_on": "BNB"
+   "symbol": "LITEBTC",
+   "name": "LiteBitcoin (LITEBTC)"
+  },
+  {
+   "symbol": "DEEPG",
+   "name": "Deep Gold (DEEPG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CODI",
+   "name": "Codi Finance (CODI)",
+   "built_on": "SOL"
   },
   {
    "symbol": "CBBTC",
    "name": "Coinbase Wrapped BTC (CBBTC)",
    "built_on": "BASE"
+  },
+  {
+   "symbol": "EZEIGEN",
+   "name": "Restaked EIGEN (EZEIGEN)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "BASED",
-   "name": "Based Money (BASED)"
+   "symbol": "LBTC",
+   "name": "LiteBitcoin (LBTC)"
   },
   {
-   "symbol": "OMNIA",
-   "name": "OmniaVerse (OMNIA)"
+   "symbol": "DEEPG",
+   "name": "Deep Gold (DEEPG)"
+  },
+  {
+   "symbol": "CODI",
+   "name": "Codi Finance (CODI)"
   }
  ]
 }

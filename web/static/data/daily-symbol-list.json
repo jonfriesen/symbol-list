@@ -1,5 +1,5 @@
 {
- "date": "2024-10-25",
+ "date": "2024-10-28",
  "data": [
   {
    "symbol": "ONE",
@@ -1142,6 +1142,18 @@
     {
      "name": "Arcwest Exploration Inc.",
      "symbol": "AWX"
+    }
+   ]
+  },
+  {
+   "symbol": "AGAG",
+   "name": "Argenta Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGAG.V",
+   "instruments": [
+    {
+     "name": "Argenta Silver Corp.",
+     "symbol": "AGAG"
     }
    ]
   },
@@ -9383,12 +9395,12 @@
   },
   {
    "symbol": "KOVO",
-   "name": "Kovo HealthTech Corporation",
+   "name": "Kovo+ Holdings Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "KOVO.V",
    "instruments": [
     {
-     "name": "Kovo Healthtech Corporation",
+     "name": "Kovo+ Holdings Inc.",
      "symbol": "KOVO"
     }
    ]
@@ -11638,6 +11650,18 @@
     {
      "name": "NexLiving Communities Inc.",
      "symbol": "NXLV"
+    }
+   ]
+  },
+  {
+   "symbol": "NXO",
+   "name": "NexOptic Technology Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NXO.V",
+   "instruments": [
+    {
+     "name": "NexOptic Technology Corp.",
+     "symbol": "NXO"
     }
    ]
   },
@@ -18238,6 +18262,10 @@
     {
      "name": "West Red Lake Gold Mines wt 19Mar2029",
      "symbol": "WRLG.WT.A"
+    },
+    {
+     "name": "West Red Lake Gold Mines Ltd. wt 24Oct2027",
+     "symbol": "WRLG.WT.B"
     }
    ]
   },
@@ -26056,7 +26084,7 @@
      "symbol": "CRWN"
     },
     {
-     "name": "Crown CapPartJ 10%Db",
+     "name": "Crown CapPartJ 11%Db",
      "symbol": "CRWN.NT"
     }
    ]
@@ -43994,12 +44022,6 @@
    "yahoo_symbol": "ACRV"
   },
   {
-   "symbol": "ACST",
-   "name": "Acasti Pharma, Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACST"
-  },
-  {
    "symbol": "ACT",
    "name": "Enact Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -54549,7 +54571,7 @@
   },
   {
    "symbol": "GIFT",
-   "name": "RDE, Inc. - Common Stock",
+   "name": "Giftify, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GIFT"
   },
@@ -55062,6 +55084,12 @@
    "name": "GRAIL, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GRAL"
+  },
+  {
+   "symbol": "GRCE",
+   "name": "Grace Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRCE"
   },
   {
    "symbol": "GRDI",
@@ -63668,12 +63696,6 @@
    "yahoo_symbol": "PET"
   },
   {
-   "symbol": "PETQ",
-   "name": "PetIQ, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PETQ"
-  },
-  {
    "symbol": "PETS",
    "name": "PetMed Express, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63936,12 +63958,6 @@
    "name": "Heramba Electric plc - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PITAW"
-  },
-  {
-   "symbol": "PIXY",
-   "name": "ShiftPixy, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PIXY"
   },
   {
    "symbol": "PIZ",
@@ -66890,6 +66906,12 @@
    "yahoo_symbol": "SENEB"
   },
   {
+   "symbol": "SEPN",
+   "name": "Septerna, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEPN"
+  },
+  {
    "symbol": "SERA",
    "name": "Sera Prognostics, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -67018,7 +67040,7 @@
   {
    "symbol": "SGMO",
    "name": "Sangamo Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SGMO"
   },
   {
@@ -68020,7 +68042,7 @@
   {
    "symbol": "SPRB",
    "name": "Spruce Biosciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SPRB"
   },
   {
@@ -71186,24 +71208,6 @@
    "yahoo_symbol": "VS"
   },
   {
-   "symbol": "VSAC",
-   "name": "Vision Sensing Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSAC"
-  },
-  {
-   "symbol": "VSACU",
-   "name": "Vision Sensing Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSACU"
-  },
-  {
-   "symbol": "VSACW",
-   "name": "Vision Sensing Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSACW"
-  },
-  {
    "symbol": "VSAT",
    "name": "ViaSat, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -71856,6 +71860,12 @@
    "name": "Wrap Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WRAP"
+  },
+  {
+   "symbol": "WRD",
+   "name": "WeRide Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WRD"
   },
   {
    "symbol": "WRLD",
@@ -72570,18 +72580,6 @@
    "name": "ZOOZ Power Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZOOZW"
-  },
-  {
-   "symbol": "ZPTA",
-   "name": "Zapata Computing Holdings Inc.  - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZPTA"
-  },
-  {
-   "symbol": "ZPTAW",
-   "name": "Zapata Computing Holdings Inc.  - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZPTAW"
   },
   {
    "symbol": "ZS",
@@ -78404,6 +78402,12 @@
    "yahoo_symbol": "ECF$A"
   },
   {
+   "symbol": "ECG.V",
+   "name": "Everus Construction Group, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECG.V"
+  },
+  {
    "symbol": "ECL",
    "name": "Ecolab Inc. Common Stock",
    "exchange": "NYSE",
@@ -79692,6 +79696,24 @@
    "name": "Flaherty \u0026 Crumrine Total Return Fund Inc Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FLC"
+  },
+  {
+   "symbol": "FLG",
+   "name": "Flagstar Financial, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLG"
+  },
+  {
+   "symbol": "FLG$A",
+   "name": "Flagstar Financial, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLG$A"
+  },
+  {
+   "symbol": "FLG$U",
+   "name": "Flagstar Financial, Inc. Bifurcated Option Note Unit SecuritiES",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLG$U"
   },
   {
    "symbol": "FLNG",
@@ -83654,6 +83676,12 @@
    "yahoo_symbol": "MDU"
   },
   {
+   "symbol": "MDU.V",
+   "name": "MDU Resources Group, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MDU.V"
+  },
+  {
    "symbol": "MDV",
    "name": "Modiv Industrial, Inc. Class C Common Stock",
    "exchange": "NYSE",
@@ -85620,24 +85648,6 @@
    "name": "American Strategic Investment Co. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "NYC"
-  },
-  {
-   "symbol": "NYCB",
-   "name": "New York Community Bancorp, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NYCB"
-  },
-  {
-   "symbol": "NYCB$A",
-   "name": "New York Community Bancorp, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NYCB$A"
-  },
-  {
-   "symbol": "NYCB$U",
-   "name": "New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NYCB$U"
   },
   {
    "symbol": "NYT",
