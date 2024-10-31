@@ -1,5 +1,5 @@
 {
- "date": "2024-10-30",
+ "date": "2024-10-31",
  "data": [
   {
    "symbol": "ONE",
@@ -1226,18 +1226,6 @@
     {
      "name": "Arizona Gold \u0026 Silver Inc.",
      "symbol": "AZS"
-    }
-   ]
-  },
-  {
-   "symbol": "ARD",
-   "name": "Armada Data Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ARD.V",
-   "instruments": [
-    {
-     "name": "Armada Data Corporation",
-     "symbol": "ARD"
     }
    ]
   },
@@ -24354,18 +24342,6 @@
    ]
   },
   {
-   "symbol": "CHW",
-   "name": "Chesswood Group Limited",
-   "exchange": "TSX",
-   "yahoo_symbol": "CHW.TO",
-   "instruments": [
-    {
-     "name": "Chesswood Group Ltd.",
-     "symbol": "CHW"
-    }
-   ]
-  },
-  {
    "symbol": "CGG",
    "name": "China Gold International Resources Corp. Ltd.",
    "exchange": "TSX",
@@ -26890,6 +26866,18 @@
    ]
   },
   {
+   "symbol": "DXBB",
+   "name": "Dynamic Active Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXBB.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Act Bond ETF",
+     "symbol": "DXBB"
+    }
+   ]
+  },
+  {
    "symbol": "DXBC",
    "name": "Dynamic Active Canadian Bond ETF",
    "exchange": "TSX",
@@ -26910,6 +26898,18 @@
     {
      "name": "Dynamic ActvCA DivUn",
      "symbol": "DXC"
+    }
+   ]
+  },
+  {
+   "symbol": "DXCB",
+   "name": "Dynamic Active Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXCB.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Act CB ETF",
+     "symbol": "DXCB"
     }
    ]
   },
@@ -47320,7 +47320,7 @@
   {
    "symbol": "BNZI",
    "name": "Banzai International, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BNZI"
   },
   {
@@ -47949,13 +47949,13 @@
   },
   {
    "symbol": "BTF",
-   "name": "Valkyrie Bitcoin and Ether Strategy ETF",
+   "name": "CoinShares Valkyrie Bitcoin and Ether Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BTF"
   },
   {
    "symbol": "BTFX",
-   "name": "Valkyrie Bitcoin Futures Leveraged Strategy ETF",
+   "name": "CoinShares Valkyrie Bitcoin Futures Leveraged Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BTFX"
   },
@@ -56894,6 +56894,12 @@
    "yahoo_symbol": "IMCV"
   },
   {
+   "symbol": "IMG",
+   "name": "CIMG Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMG"
+  },
+  {
    "symbol": "IMKTA",
    "name": "Ingles Markets, Incorporated - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62130,12 +62136,6 @@
    "name": "Nuwellis, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NUWE"
-  },
-  {
-   "symbol": "NUZE",
-   "name": "NuZee, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NUZE"
   },
   {
    "symbol": "NVA",
@@ -69315,7 +69315,7 @@
   },
   {
    "symbol": "TKLF",
-   "name": "Yoshitsu Co., Ltd - American Depositary Shares",
+   "name": "Tokyo Lifestyle Co., Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TKLF"
   },
@@ -70826,12 +70826,6 @@
    "yahoo_symbol": "VERX"
   },
   {
-   "symbol": "VEV",
-   "name": "Vicinity Motor Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VEV"
-  },
-  {
    "symbol": "VFF",
    "name": "Village Farms International, Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
@@ -71667,7 +71661,7 @@
   },
   {
    "symbol": "WGMI",
-   "name": "Valkyrie Bitcoin Miners ETF",
+   "name": "CoinShares Valkyrie Bitcoin Miners ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WGMI"
   },
@@ -87840,12 +87834,6 @@
    "name": "RiverNorth Managed Duration Municipal Income Fund II, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RMMZ"
-  },
-  {
-   "symbol": "RMPL$",
-   "name": "RiverNorth Capital and Income Fund 5.875%% Series A Term Preferred Stock $0.0001 par value per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RMPL$"
   },
   {
    "symbol": "RMT",

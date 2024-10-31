@@ -1,78 +1,90 @@
 {
  "added": [
   {
-   "symbol": "CCEC",
-   "name": "CanCambria Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CCEC.V",
+   "symbol": "DXBB",
+   "name": "Dynamic Active Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXBB.TO",
    "instruments": [
     {
-     "name": "CanCambria Energy Corp.",
-     "symbol": "CCEC"
+     "name": "Dynamic Act Bond ETF",
+     "symbol": "DXBB"
     }
    ]
   },
   {
-   "symbol": "GELS",
-   "name": "Gelteq Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GELS"
+   "symbol": "DXCB",
+   "name": "Dynamic Active Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXCB.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Act CB ETF",
+     "symbol": "DXCB"
+    }
+   ]
   },
   {
-   "symbol": "PLRZ",
-   "name": "Polyrizon Ltd. - Ordinary Shares",
+   "symbol": "BNZI",
+   "name": "Banzai International, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLRZ"
+   "yahoo_symbol": "BNZI"
   },
   {
-   "symbol": "TZUP",
-   "name": "Thumzup Media Corporation - Common Stock",
+   "symbol": "IMG",
+   "name": "CIMG Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TZUP"
+   "yahoo_symbol": "IMG"
   }
  ],
  "removed": [
   {
-   "symbol": "FTAIP",
-   "name": "FTAI Aviation Ltd. - 8.25% Fixed-to-Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FTAIP"
+   "symbol": "RMPL$",
+   "name": "RiverNorth Capital and Income Fund 5.875%% Series A Term Preferred Stock $0.0001 par value per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RMPL$"
   },
   {
-   "symbol": "OSK",
-   "name": "Osisko Mining Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "OSK.TO",
+   "symbol": "VEV",
+   "name": "Vicinity Motor Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VEV"
+  },
+  {
+   "symbol": "NUZE",
+   "name": "NuZee, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUZE"
+  },
+  {
+   "symbol": "ARD",
+   "name": "Armada Data Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARD.V",
    "instruments": [
     {
-     "name": "Osisko Mining Inc. J",
-     "symbol": "OSK"
+     "name": "Armada Data Corporation",
+     "symbol": "ARD"
     }
    ]
   },
   {
-   "symbol": "LLAP",
-   "name": "Terran Orbital Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LLAP"
+   "symbol": "BNZI",
+   "name": "Banzai International, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BNZI"
   },
   {
-   "symbol": "PHYT.U",
-   "name": "Pyrophyte Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PHYT.U"
-  },
-  {
-   "symbol": "PHYT.W",
-   "name": "Pyrophyte Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PHYT.W"
-  },
-  {
-   "symbol": "PHYT",
-   "name": "Pyrophyte Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PHYT"
+   "symbol": "CHW",
+   "name": "Chesswood Group Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHW.TO",
+   "instruments": [
+    {
+     "name": "Chesswood Group Ltd.",
+     "symbol": "CHW"
+    }
+   ]
   }
  ]
 }

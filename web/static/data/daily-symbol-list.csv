@@ -101,7 +101,6 @@ ARGH,Argo Corporation,TSXV,ARGH.V,Argo Corporation,ARGH
 AROC.P,Argo Opportunity Corp.,TSXV,AROC.P.V,Argo Opportunity Corp.,AROC.P
 DAN,Arianne Phosphate Inc.,TSXV,DAN.V,Arianne Phosphate Inc.,DAN
 AZS,Arizona Gold & Silver Inc.,TSXV,AZS.V,Arizona Gold & Silver Inc.,AZS
-ARD,Armada Data Corporation,TSXV,ARD.V,Armada Data Corporation,ARD
 ARK,Arras Minerals Corp.,TSXV,ARK.V,Arras Minerals Corp.,ARK
 AXL,Arrow Exploration Corp.,TSXV,AXL.V,Arrow Exploration Corp.,AXL
 ARTG,Artemis Gold Inc.,TSXV,ARTG.V,Artemis Gold Inc.,ARTG
@@ -1940,7 +1939,6 @@ CIA,Champion Iron Limited,TSX,CIA.TO,Champion Iron Ord J,CIA
 CWEB,"Charlotte's Web Holdings, Inc.",TSX,CWEB.TO,Charlotte's Web Hldg,CWEB
 CSH.UN,Chartwell Retirement Residences,TSX,CSH.UN.TO,Chartwell Retire Un,CSH.UN
 CHE.DB.E,Chemtrade Logistics Income Fund,TSX,CHE.DB.E.TO,Chemtrade Lgst6.5Deb,CHE.DB.E,Chemtrade Lgst6.25Db,CHE.DB.G,Chemtrade Lgst 7% Db,CHE.DB.H,Chemtrade Logistc Un,CHE.UN
-CHW,Chesswood Group Limited,TSX,CHW.TO,Chesswood Group Ltd.,CHW
 CGG,China Gold International Resources Corp. Ltd.,TSX,CGG.TO,China Gld Intl Res J,CGG
 CHP.UN,Choice Properties Real Estate Investment Trust,TSX,CHP.UN.TO,Choice Ppty REIT Un,CHP.UN
 CHR,Chorus Aviation Inc.,TSX,CHR.TO,Chorus Aviation V&VV,CHR,Chorus Aviatn 5.75Db,CHR.DB.A,Chorus Aviatn 6%26Db,CHR.DB.B,Chorus Aviatn5.75DbC,CHR.DB.C
@@ -2129,8 +2127,10 @@ DPM,Dundee Precious Metals Inc.,TSX,DPM.TO,Dundee Precious Mtl,DPM
 DND,Dye & Durham Limited,TSX,DND.TO,Dye & Durham Ltd. J,DND
 DYA,dynaCERT Inc.,TSX,DYA.TO,dynaCERT Inc. J,DYA
 DNG,Dynacor Group Inc.,TSX,DNG.TO,Dynacor Group J,DNG
+DXBB,Dynamic Active Bond ETF,TSX,DXBB.TO,Dynamic Act Bond ETF,DXBB
 DXBC,Dynamic Active Canadian Bond ETF,TSX,DXBC.TO,Dynamic ActvCdnBond,DXBC
 DXC,Dynamic Active Canadian Dividend ETF,TSX,DXC.TO,Dynamic ActvCA DivUn,DXC
+DXCB,Dynamic Active Corporate Bond ETF,TSX,DXCB.TO,Dynamic Act CB ETF,DXCB
 DXO,Dynamic Active Crossover Bond ETF,TSX,DXO.TO,Dynamic ActvCrossBnd,DXO
 DXDB,Dynamic Active Discount Bond ETF,TSX,DXDB.TO,Dynamic Discount Bnd,DXDB
 DXEM,Dynamic Active Emerging Markets ETF,TSX,DXEM.TO,DynamicActvEmrgMktUn,DXEM
@@ -3980,7 +3980,7 @@ BNR,Burning Rock Biotech Limited - American Depositary Shares,NASDAQ Global Mark
 BNRG,Brenmiller Energy Ltd - Ordinary Shares,NASDAQ Capital Market,BNRG
 BNTC,Benitec Biopharma Inc. - Common Stock,NASDAQ Capital Market,BNTC
 BNTX,BioNTech SE - American Depositary Shares,NASDAQ Global Select MarketSM,BNTX
-BNZI,"Banzai International, Inc. - Class A Common Stock",NASDAQ Global MarketSM,BNZI
+BNZI,"Banzai International, Inc. - Class A Common Stock",NASDAQ Capital Market,BNZI
 BNZIW,"Banzai International, Inc. - Warrant",NASDAQ Capital Market,BNZIW
 BOCN,Blue Ocean Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,BOCN
 BOCNU,Blue Ocean Acquisition Corp - Units,NASDAQ Global MarketSM,BOCNU
@@ -4085,8 +4085,8 @@ BTCS,BTCS Inc. - Common Stock,NASDAQ Capital Market,BTCS
 BTCT,BTC Digital Ltd. - Ordinary Shares,NASDAQ Capital Market,BTCT
 BTCTW,BTC Digital Ltd. - Warrant,NASDAQ Capital Market,BTCTW
 BTDR,Bitdeer Technologies Group - Ordinary Shares,NASDAQ Capital Market,BTDR
-BTF,Valkyrie Bitcoin and Ether Strategy ETF,NASDAQ Global MarketSM,BTF
-BTFX,Valkyrie Bitcoin Futures Leveraged Strategy ETF,NASDAQ Global MarketSM,BTFX
+BTF,CoinShares Valkyrie Bitcoin and Ether Strategy ETF,NASDAQ Global MarketSM,BTF
+BTFX,CoinShares Valkyrie Bitcoin Futures Leveraged Strategy ETF,NASDAQ Global MarketSM,BTFX
 BTGD,STKD Bitcoin & Gold ETF,NASDAQ Global MarketSM,BTGD
 BTM,Bitcoin Depot Inc. - Class A Common Stock,NASDAQ Capital Market,BTM
 BTMD,Biote Corp. - Class A common stock,NASDAQ Global MarketSM,BTMD
@@ -5576,6 +5576,7 @@ IMAB,I-MAB - American Depositary Shares,NASDAQ Global MarketSM,IMAB
 IMCC,IM Cannabis Corp. - Common Shares,NASDAQ Capital Market,IMCC
 IMCR,Immunocore Holdings plc - American Depositary Shares,NASDAQ Global Select MarketSM,IMCR
 IMCV,iShares Morningstar Mid-Cap Value ETF,NASDAQ Global MarketSM,IMCV
+IMG,CIMG Inc. - Common Stock,NASDAQ Capital Market,IMG
 IMKTA,"Ingles Markets, Incorporated - Class A Common Stock",NASDAQ Global Select MarketSM,IMKTA
 IMMP,Immutep Limited - American Depositary Shares,NASDAQ Global MarketSM,IMMP
 IMMR,Immersion Corporation - Common Stock,NASDAQ Global Select MarketSM,IMMR
@@ -6449,7 +6450,6 @@ NUSB,Nuveen Ultra Short Income ETF,NASDAQ Global MarketSM,NUSB
 NUTX,Nutex Health Inc. - Common Stock,NASDAQ Capital Market,NUTX
 NUVL,"Nuvalent, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,NUVL
 NUWE,"Nuwellis, Inc. - Common Stock",NASDAQ Capital Market,NUWE
-NUZE,"NuZee, Inc. - Common Stock",NASDAQ Capital Market,NUZE
 NVA,Nova Minerals Limited - American Depositary Shares,NASDAQ Capital Market,NVA
 NVAC,NorthView Acquisition Corporation - Common Stock,NASDAQ Capital Market,NVAC
 NVACR,NorthView Acquisition Corporation - Rights,NASDAQ Capital Market,NVACR
@@ -7646,7 +7646,7 @@ TIPT,Tiptree Inc. - Common Stock,NASDAQ Capital Market,TIPT
 TIRX,TIAN RUIXIANG Holdings Ltd - Class A Ordinary Shares,NASDAQ Capital Market,TIRX
 TITN,Titan Machinery Inc. - Common Stock,NASDAQ Global Select MarketSM,TITN
 TIVC,"Tivic Health Systems, Inc. - Common stock",NASDAQ Capital Market,TIVC
-TKLF,"Yoshitsu Co., Ltd - American Depositary Shares",NASDAQ Capital Market,TKLF
+TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",NASDAQ Capital Market,TKLF
 TKNO,"Alpha Teknova, Inc. - Common Stock",NASDAQ Global MarketSM,TKNO
 TLF,"Tandy Leather Factory, Inc. - common stock",NASDAQ Capital Market,TLF
 TLGY,TLGY Acquisition Corporation - Class A Ordinary Share,NASDAQ Capital Market,TLGY
@@ -7898,7 +7898,6 @@ VERO,Venus Concept Inc.  - Common Stock,NASDAQ Capital Market,VERO
 VERU,Veru Inc. - Common Stock,NASDAQ Capital Market,VERU
 VERV,"Verve Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,VERV
 VERX,"Vertex, Inc. - Class A Common Stock",NASDAQ Global MarketSM,VERX
-VEV,Vicinity Motor Corp. - Common Stock,NASDAQ Capital Market,VEV
 VFF,"Village Farms International, Inc. - Common Shares",NASDAQ Capital Market,VFF
 VFLO,VictoryShares Free Cash Flow ETF,NASDAQ Global MarketSM,VFLO
 VFS,VinFast Auto Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,VFS
@@ -8038,7 +8037,7 @@ WETH,Wetouch Technology Inc. - Common Stock,NASDAQ Capital Market,WETH
 WEYS,"Weyco Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,WEYS
 WFCF,"Where Food Comes From, Inc. - Common Stock",NASDAQ Capital Market,WFCF
 WFRD,Weatherford International plc - Ordinary shares,NASDAQ Global Select MarketSM,WFRD
-WGMI,Valkyrie Bitcoin Miners ETF,NASDAQ Global MarketSM,WGMI
+WGMI,CoinShares Valkyrie Bitcoin Miners ETF,NASDAQ Global MarketSM,WGMI
 WGS,GeneDx Holdings Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,WGS
 WGSWW,GeneDx Holdings Corp. - Warrant,NASDAQ Global Select MarketSM,WGSWW
 WHF,"WhiteHorse Finance, Inc. - Closed End Fund",NASDAQ Global Select MarketSM,WHF
@@ -10734,7 +10733,6 @@ RMD,ResMed Inc. Common Stock,NYSE,RMD
 RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock",NYSE,RMI
 RMM,"RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock",NYSE,RMM
 RMMZ,"RiverNorth Managed Duration Municipal Income Fund II, Inc. Common Stock",NYSE,RMMZ
-RMPL$,RiverNorth Capital and Income Fund 5.875%% Series A Term Preferred Stock $0.0001 par value per share,NYSE,RMPL$
 RMT,"Royce Micro-Cap Trust, Inc. Common Stock",NYSE,RMT
 RNG,"RingCentral, Inc. Class A Common Stock",NYSE,RNG
 RNGR,"Ranger Energy Services, Inc. Class A Common Stock",NYSE,RNGR
