@@ -1880,7 +1880,7 @@ BRF.PR.A,Brookfield Renewable Power Preferred Equity Inc.,TSX,BRF.PR.A.TO,Brookf
 BNT,Brookfield Wealth Solutions Ltd.,TSX,BNT.TO,Brookfld Wlth SolLtd,BNT
 DOO,BRP Inc.,TSX,DOO.TO,BRP Inc. SV,DOO
 HOM.DB.U,BSR Real Estate Investment Trust,TSX,HOM.DB.U.TO,BSR REIT Deb USF,HOM.DB.U,BSR REIT Invest USF,HOM.U,BSR REIT Invest Un,HOM.UN
-BTB.DB.G,BTB Real Estate Investment Trust,TSX,BTB.DB.G.TO,BTB REIT 6% G Deb,BTB.DB.G,BTB REIT 7% H Deb,BTB.DB.H,BTB REIT Un,BTB.UN
+BTB.DB.H,BTB Real Estate Investment Trust,TSX,BTB.DB.H.TO,BTB REIT 7% H Deb,BTB.DB.H,BTB REIT Un,BTB.UN
 BUI,Buhler Industries Inc.,TSX,BUI.TO,Buhler Industries,BUI
 BU,Burcon Nutrascience Corporation,TSX,BU.TO,Burcon NutraSci J,BU
 CAE,CAE Inc.,TSX,CAE.TO,CAE Inc.,CAE
@@ -1923,7 +1923,7 @@ CJ,Cardinal Energy Ltd.,TSX,CJ.TO,Cardinal Energy,CJ
 CRDL,Cardiol Therapeutics Inc.,TSX,CRDL.TO,Cardiol Therapeutc A,CRDL
 CRRX,CareRx Corporation,TSX,CRRX.TO,CareRx Corp. J,CRRX
 CJT,Cargojet Inc.,TSX,CJT.TO,Cargojet Inc. Com&VV,CJT,Cargojet 5.75% Deb E,CJT.DB.E,Cargojet 5.25% Deb F,CJT.DB.F
-CUP.RT.U,"Caribbean Utilities Company, Ltd.",TSX,CUP.RT.U.TO,Caribbean Utl Ltd Rt,CUP.RT.U,Caribbean Ut Cl A US,CUP.U
+CUP.U,"Caribbean Utilities Company, Ltd.",TSX,CUP.U.TO,Caribbean Ut Cl A US,CUP.U
 CAS,Cascades Inc.,TSX,CAS.TO,Cascades Inc.,CAS
 CCL.A,CCL Industries Inc.,TSX,CCL.A.TO,CCL Industries Cl A,CCL.A,CCL Industries Cl B,CCL.B
 CLS,Celestica Inc.,TSX,CLS.TO,Celestica Inc ,CLS
@@ -3341,7 +3341,7 @@ VLN,Velan Inc.,TSX,VLN.TO,Velan Inc. SV,VLN
 NPK,Verde Agritech Ltd.,TSX,NPK.TO,Verde Agritech J Ord,NPK
 VRN,Veren Inc.,TSX,VRN.TO,Veren Inc.,VRN
 VET,Vermilion Energy Inc.,TSX,VET.TO,Vermilion Energy Inc,VET
-VBNK,VersaBank,TSX,VBNK.TO,VersaBank J,VBNK,VersaBank Pr 1 J,VBNK.PR.A
+VBNK,VersaBank,TSX,VBNK.TO,VersaBank J,VBNK
 FORA,VerticalScope Holdings Inc.,TSX,FORA.TO,VerticalScope J SV,FORA
 VRTS,Vertiqal Studios Corp.,TSX,VRTS.TO,Vertiqal StudiosCorp,VRTS
 VQS,VIQ Solutions Inc.,TSX,VQS.TO,VIQ Solutions Inc. J,VQS
@@ -3510,7 +3510,7 @@ AHG,Akso Health Group - American Depositary Shares,NASDAQ Capital Market,AHG
 AIA,iShares Asia 50 ETF,NASDAQ Global MarketSM,AIA
 AIEV,"Thunder Power Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,AIEV
 AIFF,"Firefly Neuroscience, Inc.  - Common Stock",NASDAQ Capital Market,AIFF
-AIFU,"Fanhua Inc. - American depositary shares, each representing 20 ordinary shares",NASDAQ Global Select MarketSM,AIFU
+AIFU,AIX Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,AIFU
 AIHS,Senmiao Technology Limited - Common Stock,NASDAQ Capital Market,AIHS
 AILE,"iLearningEngines, Inc. - Common Stock",NASDAQ Capital Market,AILE
 AILEW,"iLearningEngines, Inc. - Warrant",NASDAQ Capital Market,AILEW
@@ -5279,8 +5279,6 @@ GRAB,Grab Holdings Limited - Class A Ordinary Shares,NASDAQ Global Select Market
 GRABW,Grab Holdings Limited - Warrant,NASDAQ Global Select MarketSM,GRABW
 GRAL,"GRAIL, Inc. - Common Stock",NASDAQ Global Select MarketSM,GRAL
 GRCE,"Grace Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,GRCE
-GRDI,GRIID Infrastructure Inc. - Common Stock,NASDAQ Global MarketSM,GRDI
-GRDIW,GRIID Infrastructure Inc. - Warrant,NASDAQ Global MarketSM,GRDIW
 GREE,Greenidge Generation Holdings Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,GREE
 GREEL,Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026,NASDAQ Global Select MarketSM,GREEL
 GRFS,"Grifols, S.A. - American Depositary Shares",NASDAQ Global Select MarketSM,GRFS
@@ -5904,6 +5902,7 @@ LFLY,"Leafly Holdings, Inc. - Common Stock",NASDAQ Capital Market,LFLY
 LFLYW,"Leafly Holdings, Inc. - Warrant",NASDAQ Capital Market,LFLYW
 LFMD,"LifeMD, Inc. - Common Stock",NASDAQ Global MarketSM,LFMD
 LFMDP,"LifeMD, Inc. - 8.875% Series A Cumulative Perpetual Preferred Stock",NASDAQ Global MarketSM,LFMDP
+LFSC,F/m Emerald Life Sciences Innovation ETF,NASDAQ Global MarketSM,LFSC
 LFST,"LifeStance Health Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,LFST
 LFUS,"Littelfuse, Inc. - Common Stock",NASDAQ Global Select MarketSM,LFUS
 LFVN,Lifevantage Corporation - Common Stock,NASDAQ Capital Market,LFVN
@@ -7486,7 +7485,6 @@ STBX,Starbox Group Holdings Ltd. - Class A Ordinary Shares,NASDAQ Capital Market
 STCN,"Steel Connect, Inc. - Common Stock",NASDAQ Capital Market,STCN
 STEC,Santech Holdings Limited - American Depositary Shares,NASDAQ Global MarketSM,STEC
 STEP,StepStone Group Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,STEP
-STER,Sterling Check Corp. - Common Stock,NASDAQ Global Select MarketSM,STER
 STFS,Star Fashion Culture Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,STFS
 STGW,Stagwell Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,STGW
 STHO,Star Holdings - Shares of Beneficial Interest,NASDAQ Global MarketSM,STHO
@@ -9169,7 +9167,7 @@ ECCW,Eagle Point Credit Company Inc. 6.75% Notes due 2031,NYSE,ECCW
 ECCX,Eagle Point Credit Company Inc. 6.6875% Notes due 2028,NYSE,ECCX
 ECF,Ellsworth Growth and Income Fund Ltd.,NYSE MKT,ECF
 ECF$A,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),NYSE MKT,ECF$A
-ECG.V,"Everus Construction Group, Inc. Common Stock When-Issued",NYSE,ECG.V
+ECG,"Everus Construction Group, Inc. Common Stock",NYSE,ECG
 ECL,Ecolab Inc. Common Stock,NYSE,ECL
 ECO,Okeanis Eco Tankers Corp. Common Stock,NYSE,ECO
 ECVT,Ecovyst Inc. Common Stock,NYSE,ECVT
@@ -9474,7 +9472,7 @@ GD,General Dynamics Corporation Common Stock,NYSE,GD
 GDDY,GoDaddy Inc. Class A Common Stock,NYSE,GDDY
 GDL,"GDL Fund, The Common Shares of Beneficial Interest",NYSE,GDL
 GDL$C,The GDL Fund Series C Cumulative Puttable and Callable Preferred Shares,NYSE,GDL$C
-GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,NYSE,GDO
+GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,NYSE,GDO
 GDOT,"Green Dot Corporation Class A Common Stock, $0.001 par value",NYSE,GDOT
 GDV,Gabelli Dividend & Income Trust Common Shares of Beneficial Interest,NYSE,GDV
 GDV$H,The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares,NYSE,GDV$H
@@ -9744,7 +9742,7 @@ IFS,Intercorp Financial Services Inc. Common Shares,NYSE,IFS
 IGA,Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest,NYSE,IGA
 IGC,"IGC Pharma, Inc. Common Stock",NYSE MKT,IGC
 IGD,Voya Global Equity Dividend and Premium Opportunity Fund,NYSE,IGD
-IGI,Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock,NYSE,IGI
+IGI,Western Asset Investment Grade Opportunity Trust Inc. Common Stock,NYSE,IGI
 IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,NYSE,IGR
 IGT,International Game Technology Ordinary Shares,NYSE,IGT
 IGZ,IGZ (Listing Market NYSE Arca Network B F) Common Stock,NYSE ARCA,IGZ
@@ -10047,7 +10045,6 @@ MCY,Mercury General Corporation Common Stock,NYSE,MCY
 MD,"Pediatrix Medical Group, Inc. Common Stock",NYSE,MD
 MDT,Medtronic plc. Ordinary Shares,NYSE,MDT
 MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)",NYSE,MDU
-MDU.V,"MDU Resources Group, Inc. Common Stock When-Issued",NYSE,MDU.V
 MDV,"Modiv Industrial, Inc. Class C Common Stock",NYSE,MDV
 MDV$A,"Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",NYSE,MDV$A
 MEC,"Mayville Engineering Company, Inc. Common Stock",NYSE,MEC
@@ -10936,7 +10933,6 @@ SO,Southern Company (The) Common Stock,NYSE,SO
 SOAR,"Volato Group, Inc. Class A Common Stock",NYSE MKT,SOAR
 SOBO,South Bow Corporation Common Shares,NYSE,SOBO
 SOC,Sable Offshore Corp. Common Stock,NYSE,SOC
-SOC.W,"Sable Offshore Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",NYSE,SOC.W
 SOJC,"Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077",NYSE,SOJC
 SOJD,"Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080",NYSE,SOJD
 SOJE,"Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060",NYSE,SOJE
@@ -11064,7 +11060,6 @@ TECK,Teck Resources Ltd Ordinary Shares,NYSE,TECK
 TEF,Telefonica SA Common Stock,NYSE,TEF
 TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock",NYSE,TEI
 TEL,TE Connectivity plc Ordinary Shares,NYSE,TEL
-TELZ,Tellurian Inc. 8.25% Senior Notes due 2028,NYSE MKT,TELZ
 TEN,Tsakos Energy Navigation Ltd Common Shares,NYSE,TEN
 TEN$E,"Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",NYSE,TEN$E
 TEN$F,"Tsakos Energy Navigation Ltd Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",NYSE,TEN$F

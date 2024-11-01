@@ -1,53 +1,50 @@
 {
  "added": [
   {
-   "symbol": "SUMMIT",
-   "name": "Summit (SUMMIT)",
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "DGME",
+   "name": "GameStop Tokenized Stock Defichain (DGME)"
+  },
+  {
+   "symbol": "LIO",
+   "name": "Lio (LIO)",
    "built_on": "SOL"
   },
   {
-   "symbol": "LRT2",
-   "name": "LRT Squared (LRT2)",
+   "symbol": "BRAM",
+   "name": "Defibox bRAM (BRAM)"
+  },
+  {
+   "symbol": "DSLV",
+   "name": "iShares Silver Trust Defichain (DSLV)"
+  },
+  {
+   "symbol": "CHILDAI",
+   "name": "Singularity's Child gonzoai (CHILDAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SMETX",
+   "name": "SpecialMetalX (SMETX)",
    "built_on": "ETH"
   },
   {
-   "symbol": "SCARCITY",
-   "name": "SCARCITY (SCARCITY)",
+   "symbol": "SUIMON",
+   "name": "Sui Monster (SUIMON)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BABYGOAT",
+   "name": "Baby Goat (BABYGOAT)",
    "built_on": "BNB"
   },
   {
-   "symbol": "TALENT",
-   "name": "Talent Protocol (TALENT)",
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
    "built_on": "BASE"
-  },
-  {
-   "symbol": "BITTON",
-   "name": "Bitton (BITTON)",
-   "built_on": "TON"
-  },
-  {
-   "symbol": "IO",
-   "name": "io.net (IO)"
-  },
-  {
-   "symbol": "CARV",
-   "name": "CARV (CARV)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BRIL",
-   "name": "Brilliantcrypto (BRIL)",
-   "built_on": "POL"
-  },
-  {
-   "symbol": "TRUMPVANCE",
-   "name": "Trump Vance 2024 (TRUMPVANCE)",
-   "built_on": "ETH"
   },
   {
    "symbol": "G",
@@ -55,21 +52,26 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
-   "built_on": "BASE"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "CARV",
-   "name": "CARV (CARV)",
-   "built_on": "BASE"
+   "symbol": "DGME",
+   "name": "GameStop Tokenized Stock Defichain (DGME)",
+   "built_on": "DFI"
   },
   {
-   "symbol": "IO",
-   "name": "io.net (IO)",
-   "built_on": "SOL"
+   "symbol": "BRAM",
+   "name": "Defibox bRAM (BRAM)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "DSLV",
+   "name": "iShares Silver Trust Defichain (DSLV)",
+   "built_on": "DFI"
   }
  ]
 }

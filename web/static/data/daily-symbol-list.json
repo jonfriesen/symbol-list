@@ -1,5 +1,5 @@
 {
- "date": "2024-10-31",
+ "date": "2024-11-01",
  "data": [
   {
    "symbol": "ONE",
@@ -23474,15 +23474,11 @@
    ]
   },
   {
-   "symbol": "BTB.DB.G",
+   "symbol": "BTB.DB.H",
    "name": "BTB Real Estate Investment Trust",
    "exchange": "TSX",
-   "yahoo_symbol": "BTB.DB.G.TO",
+   "yahoo_symbol": "BTB.DB.H.TO",
    "instruments": [
-    {
-     "name": "BTB REIT 6% G Deb",
-     "symbol": "BTB.DB.G"
-    },
     {
      "name": "BTB REIT 7% H Deb",
      "symbol": "BTB.DB.H"
@@ -24106,15 +24102,11 @@
    ]
   },
   {
-   "symbol": "CUP.RT.U",
+   "symbol": "CUP.U",
    "name": "Caribbean Utilities Company, Ltd.",
    "exchange": "TSX",
-   "yahoo_symbol": "CUP.RT.U.TO",
+   "yahoo_symbol": "CUP.U.TO",
    "instruments": [
-    {
-     "name": "Caribbean Utl Ltd Rt",
-     "symbol": "CUP.RT.U"
-    },
     {
      "name": "Caribbean Ut Cl A US",
      "symbol": "CUP.U"
@@ -43250,10 +43242,6 @@
     {
      "name": "VersaBank J",
      "symbol": "VBNK"
-    },
-    {
-     "name": "VersaBank Pr 1 J",
-     "symbol": "VBNK.PR.A"
     }
    ]
   },
@@ -44499,7 +44487,7 @@
   },
   {
    "symbol": "AIFU",
-   "name": "Fanhua Inc. - American depositary shares, each representing 20 ordinary shares",
+   "name": "AIX Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AIFU"
   },
@@ -55112,18 +55100,6 @@
    "yahoo_symbol": "GRCE"
   },
   {
-   "symbol": "GRDI",
-   "name": "GRIID Infrastructure Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRDI"
-  },
-  {
-   "symbol": "GRDIW",
-   "name": "GRIID Infrastructure Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRDIW"
-  },
-  {
    "symbol": "GREE",
    "name": "Greenidge Generation Holdings Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58860,6 +58836,12 @@
    "name": "LifeMD, Inc. - 8.875% Series A Cumulative Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LFMDP"
+  },
+  {
+   "symbol": "LFSC",
+   "name": "F/m Emerald Life Sciences Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFSC"
   },
   {
    "symbol": "LFST",
@@ -68352,12 +68334,6 @@
    "name": "StepStone Group Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "STEP"
-  },
-  {
-   "symbol": "STER",
-   "name": "Sterling Check Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "STER"
   },
   {
    "symbol": "STFS",
@@ -78452,10 +78428,10 @@
    "yahoo_symbol": "ECF$A"
   },
   {
-   "symbol": "ECG.V",
-   "name": "Everus Construction Group, Inc. Common Stock When-Issued",
+   "symbol": "ECG",
+   "name": "Everus Construction Group, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ECG.V"
+   "yahoo_symbol": "ECG"
   },
   {
    "symbol": "ECL",
@@ -80283,7 +80259,7 @@
   },
   {
    "symbol": "GDO",
-   "name": "Western Asset Global Corporate Defined Opportunity Fund Inc.",
+   "name": "Western Asset Global Corporate Opportunity Fund Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "GDO"
   },
@@ -81903,7 +81879,7 @@
   },
   {
    "symbol": "IGI",
-   "name": "Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock",
+   "name": "Western Asset Investment Grade Opportunity Trust Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "IGI"
   },
@@ -83718,12 +83694,6 @@
    "name": "MDU Resources Group, Inc. Common Stock (Holding Company)",
    "exchange": "NYSE",
    "yahoo_symbol": "MDU"
-  },
-  {
-   "symbol": "MDU.V",
-   "name": "MDU Resources Group, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MDU.V"
   },
   {
    "symbol": "MDV",
@@ -89054,12 +89024,6 @@
    "yahoo_symbol": "SOC"
   },
   {
-   "symbol": "SOC.W",
-   "name": "Sable Offshore Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SOC.W"
-  },
-  {
    "symbol": "SOJC",
    "name": "Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077",
    "exchange": "NYSE",
@@ -89820,12 +89784,6 @@
    "name": "TE Connectivity plc Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "TEL"
-  },
-  {
-   "symbol": "TELZ",
-   "name": "Tellurian Inc. 8.25% Senior Notes due 2028",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "TELZ"
   },
   {
    "symbol": "TEN",
