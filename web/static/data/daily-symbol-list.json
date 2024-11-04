@@ -1,5 +1,5 @@
 {
- "date": "2024-11-01",
+ "date": "2024-11-04",
  "data": [
   {
    "symbol": "ONE",
@@ -3698,6 +3698,18 @@
    ]
   },
   {
+   "symbol": "CTV",
+   "name": "CleanTech Vanadium Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CTV.V",
+   "instruments": [
+    {
+     "name": "CleanTech Vanadium Mining Corp.",
+     "symbol": "CTV"
+    }
+   ]
+  },
+  {
    "symbol": "CTEK",
    "name": "Cleantek Industries Inc.",
    "exchange": "TSXV",
@@ -5606,18 +5618,6 @@
    ]
   },
   {
-   "symbol": "FIN",
-   "name": "European Energy Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FIN.V",
-   "instruments": [
-    {
-     "name": "European Energy Metals Corp.",
-     "symbol": "FIN"
-    }
-   ]
-  },
-  {
    "symbol": "EVNI",
    "name": "EV Nickel Inc.",
    "exchange": "TSXV",
@@ -6150,18 +6150,6 @@
     {
      "name": "FLYHT Aerospace Solutions Ltd.",
      "symbol": "FLY"
-    }
-   ]
-  },
-  {
-   "symbol": "FLYN",
-   "name": "Flying Nickel Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FLYN.V",
-   "instruments": [
-    {
-     "name": "Flying Nickel Mining Corp.",
-     "symbol": "FLYN"
     }
    ]
   },
@@ -7542,6 +7530,18 @@
     {
      "name": "Grid Metals Corp.",
      "symbol": "GRDM"
+    }
+   ]
+  },
+  {
+   "symbol": "FIN",
+   "name": "Grit Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FIN.V",
+   "instruments": [
+    {
+     "name": "Grit Metals Corp.",
+     "symbol": "FIN"
     }
    ]
   },
@@ -14330,18 +14330,6 @@
     {
      "name": "Rex Resources Corp.",
      "symbol": "OWN"
-    }
-   ]
-  },
-  {
-   "symbol": "REYG",
-   "name": "Reyna Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "REYG.V",
-   "instruments": [
-    {
-     "name": "Reyna Gold Corp.",
-     "symbol": "REYG"
     }
    ]
   },
@@ -32362,18 +32350,6 @@
    ]
   },
   {
-   "symbol": "ITE",
-   "name": "i3 Energy plc",
-   "exchange": "TSX",
-   "yahoo_symbol": "ITE.TO",
-   "instruments": [
-    {
-     "name": "i3 Energy plc Ord",
-     "symbol": "ITE"
-    }
-   ]
-  },
-  {
    "symbol": "ICPB",
    "name": "IA Clarington Core Plus Bond Fund",
    "exchange": "TSX",
@@ -46334,6 +46310,12 @@
    "yahoo_symbol": "BACK"
   },
   {
+   "symbol": "BACQU",
+   "name": "Bleichroeder Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACQU"
+  },
+  {
    "symbol": "BAER",
    "name": "Bridger Aerospace Group Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -53162,24 +53144,6 @@
    "yahoo_symbol": "FHTX"
   },
   {
-   "symbol": "FIAC",
-   "name": "Focus Impact Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIAC"
-  },
-  {
-   "symbol": "FIACU",
-   "name": "Focus Impact Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIACU"
-  },
-  {
-   "symbol": "FIACW",
-   "name": "Focus Impact Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIACW"
-  },
-  {
    "symbol": "FIBK",
    "name": "First Interstate BancSystem, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -55296,12 +55260,6 @@
    "name": "Globavend Holdings Limited - Ord Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GVH"
-  },
-  {
-   "symbol": "GVP",
-   "name": "GSE Systems, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GVP"
   },
   {
    "symbol": "GWAV",
@@ -57558,12 +57516,6 @@
    "name": "Intra-Cellular Therapies Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ITCI"
-  },
-  {
-   "symbol": "ITI",
-   "name": "Iteris, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ITI"
   },
   {
    "symbol": "ITIC",
@@ -62078,6 +62030,12 @@
    "yahoo_symbol": "NTWK"
   },
   {
+   "symbol": "NTWOU",
+   "name": "Newbury Street II Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NTWOU"
+  },
+  {
    "symbol": "NUKK",
    "name": "Nukkleus Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -62922,24 +62880,6 @@
    "name": "Organovo Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ONVO"
-  },
-  {
-   "symbol": "ONYX",
-   "name": "Onyx Acquisition Co. I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ONYX"
-  },
-  {
-   "symbol": "ONYXU",
-   "name": "Onyx Acquisition Co. I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ONYXU"
-  },
-  {
-   "symbol": "ONYXW",
-   "name": "Onyx Acquisition Co. I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ONYXW"
   },
   {
    "symbol": "OP",
@@ -68496,12 +68436,6 @@
    "name": "SurgePays, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SURG"
-  },
-  {
-   "symbol": "SURGW",
-   "name": "SurgePays, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SURGW"
   },
   {
    "symbol": "SUSB",
@@ -78842,12 +78776,6 @@
    "yahoo_symbol": "ENS"
   },
   {
-   "symbol": "ENSV",
-   "name": "Enservco Corporation Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ENSV"
-  },
-  {
    "symbol": "ENV",
    "name": "Envestnet, Inc Common Stock",
    "exchange": "NYSE",
@@ -82526,24 +82454,6 @@
    "yahoo_symbol": "JWN"
   },
   {
-   "symbol": "JWSM",
-   "name": "Jaws Mustang Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "JWSM"
-  },
-  {
-   "symbol": "JWSM.U",
-   "name": "Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "JWSM.U"
-  },
-  {
-   "symbol": "JWSM.W",
-   "name": "Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "JWSM.W"
-  },
-  {
    "symbol": "JXN",
    "name": "Jackson Financial Inc. Class A Common Stock ",
    "exchange": "NYSE",
@@ -84894,6 +84804,12 @@
    "name": "NextEra Energy, Inc. 7.299% Corporate Units",
    "exchange": "NYSE",
    "yahoo_symbol": "NEE$S"
+  },
+  {
+   "symbol": "NEE$T",
+   "name": "NextEra Energy, Inc. 7.234% Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$T"
   },
   {
    "symbol": "NEM",

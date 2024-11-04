@@ -305,6 +305,7 @@ CMC,Cielo Waste Solutions Corp.,TSXV,CMC.V,Cielo Waste Solutions Corp.,CMC,Cielo
 CAC.P,Cinaport Acquisition Corp. III,TSXV,CAC.P.V,Cinaport Acquisition Corp. III,CAC.P
 AIR,Clean Air Metals Inc.,TSXV,AIR.V,Clean Air Metals Inc.,AIR
 TRAN,Clean Energy Transition Inc.,TSXV,TRAN.V,Clean Energy Transition Inc.,TRAN
+CTV,CleanTech Vanadium Mining Corp.,TSXV,CTV.V,CleanTech Vanadium Mining Corp.,CTV
 CTEK,Cleantek Industries Inc.,TSXV,CTEK.V,Cleantek Industries Inc.,CTEK
 CBLU,Clear Blue Technologies International Inc.,TSXV,CBLU.V,Clear Blue Technologies International Inc.,CBLU
 CZZ,Cleghorn Minerals Ltd.,TSXV,CZZ.V,Cleghorn Minerals Ltd,CZZ
@@ -463,7 +464,6 @@ EBCD.P,Eureka Capital Corp.,TSXV,EBCD.P.V,Eureka Capital Corp.,EBCD.P
 EMN,Euro Manganese Inc.,TSXV,EMN.V,Euro Manganese Inc.,EMN
 EOX,Euromax Resources Ltd.,TSXV,EOX.V,Euromax Resources Ltd.,EOX
 EVX,European Electric Metals Inc.,TSXV,EVX.V,European Electric Metals Inc.,EVX
-FIN,European Energy Metals Corp.,TSXV,FIN.V,European Energy Metals Corp.,FIN
 EVNI,EV Nickel Inc.,TSXV,EVNI.V,EV Nickel Inc.,EVNI
 EVGN,Evergen Infrastructure Corp.,TSXV,EVGN.V,EverGen Infrastructure Corp.,EVGN
 EVER,Evergold Corp.,TSXV,EVER.V,Evergold Corp.,EVER
@@ -508,7 +508,6 @@ FONC.P,Florence One Capital Inc.,TSXV,FONC.P.V,Florence One Capital Inc.,FONC.P
 FCGV,Florida Canyon Gold Inc.,TSXV,FCGV.V,Florida Canyon Gold Inc.,FCGV
 FW,Flow Capital Corp.,TSXV,FW.V,Flow Capital Corp.,FW
 FLY,FLYHT Aerospace Solutions Ltd.,TSXV,FLY.V,FLYHT Aerospace Solutions Ltd.,FLY
-FLYN,Flying Nickel Mining Corp.,TSXV,FLYN.V,Flying Nickel Mining Corp.,FLYN
 FOBI,Fobi AI Inc.,TSXV,FOBI.V,Fobi AI Inc.,FOBI
 FMS,Focus Graphite Inc.,TSXV,FMS.V,Focus Graphite Inc.,FMS
 FKM,Fokus Mining Corporation,TSXV,FKM.V,Fokus Mining Corporation,FKM
@@ -623,6 +622,7 @@ GPV,GreenPower Motor Company Inc.,TSXV,GPV.V,GreenPower Motor Company Inc.,GPV
 WOLF,Grey Wolf Animal Health Corp.,TSXV,WOLF.V,Grey Wolf Animal Health Corp.,WOLF
 CELL,Grid Battery Metals Inc.,TSXV,CELL.V,Grid Battery Metals Inc.,CELL
 GRDM,Grid Metals Corp.,TSXV,GRDM.V,Grid Metals Corp.,GRDM
+FIN,Grit Metals Corp.,TSXV,FIN.V,Grit Metals Corp.,FIN
 GZD,Grizzly Discoveries Inc.,TSXV,GZD.V,Grizzly Discoveries Inc.,GZD
 GRVA.P,Grosvenor CPC I Inc.,TSXV,GRVA.P.V,Grosvenor CPC I Inc.,GRVA.P
 GVR,Grosvenor Resource Corporation,TSXV,GVR.V,Grosvenor Resource Corporation,GVR
@@ -1180,7 +1180,6 @@ RSM,Resouro Strategic Metals Inc.,TSXV,RSM.V,Resouro Strategic Metals Inc.,RSM
 RVG,Revival Gold Inc.,TSXV,RVG.V,Revival Gold Inc.,RVG
 REVV,Revolve Renewable Power Corp.,TSXV,REVV.V,Revolve Renewable Power Corp.,REVV
 OWN,Rex Resources Corp.,TSXV,OWN.V,Rex Resources Corp.,OWN
-REYG,Reyna Gold Corp.,TSXV,REYG.V,Reyna Gold Corp.,REYG
 RSLV,Reyna Silver Corp.,TSXV,RSLV.V,Reyna Silver Corp.,RSLV
 RYE,Rhyolite Resources Ltd.,TSXV,RYE.V,Rhyolite Resources Ltd,RYE
 RMD,Richmond Minerals Inc.,TSXV,RMD.V,Richmond Minerals Inc.,RMD
@@ -2526,7 +2525,6 @@ HBM,Hudbay Minerals Inc.,TSX,HBM.TO,Hudbay Minerals Inc.,HBM
 HUT,Hut 8 Corp.,TSX,HUT.TO,Hut 8 Corp J,HUT
 H,Hydro One Limited,TSX,H.TO,Hydro One Limited,H
 IAU,i-80 Gold Corp.,TSX,IAU.TO,i-80 Gold Corp. J,IAU,i-80 Gold Corp WT,IAU.WT
-ITE,i3 Energy plc,TSX,ITE.TO,i3 Energy plc Ord,ITE
 ICPB,IA Clarington Core Plus Bond Fund,TSX,ICPB.TO,IA ClaringtnCore Fnd,ICPB
 IFRF,IA Clarington Floating Rate Income Fund,TSX,IFRF.TO,IA ClaringtonFltg Un,IFRF
 IGAF,IA Clarington Loomis Global Allocation Fund,TSX,IGAF.TO,IA Claringtn LoomGlb,IGAF
@@ -3818,6 +3816,7 @@ AZPN,"Aspen Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,AZPN
 AZTA,"Azenta, Inc. - Common Stock",NASDAQ Global Select MarketSM,AZTA
 BABX,GraniteShares 2x Long BABA Daily ETF,NASDAQ Global MarketSM,BABX
 BACK,"IMAC Holdings, Inc. - Common Stock",NASDAQ Capital Market,BACK
+BACQU,Bleichroeder Acquisition Corp. I - Unit,NASDAQ Global MarketSM,BACQU
 BAER,"Bridger Aerospace Group Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,BAER
 BAERW,"Bridger Aerospace Group Holdings, Inc. - Warrant",NASDAQ Global MarketSM,BAERW
 BAFN,BayFirst Financial Corp. - Common Stock,NASDAQ Capital Market,BAFN
@@ -4956,9 +4955,6 @@ FGL,Founder Group Limited - Ordinary Shares,NASDAQ Capital Market,FGL
 FGM,First Trust Germany AlphaDEX Fund,NASDAQ Global MarketSM,FGM
 FHB,"First Hawaiian, Inc. - Common Stock",NASDAQ Global Select MarketSM,FHB
 FHTX,Foghorn Therapeutics Inc. - Common Stock,NASDAQ Global MarketSM,FHTX
-FIAC,Focus Impact Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,FIAC
-FIACU,Focus Impact Acquisition Corp. - Unit,NASDAQ Global MarketSM,FIACU
-FIACW,Focus Impact Acquisition Corp. - Warrant,NASDAQ Global MarketSM,FIACW
 FIBK,"First Interstate BancSystem, Inc. - Common Stock",NASDAQ Global Select MarketSM,FIBK
 FICS,First Trust International Developed Capital Strength ETF,NASDAQ Global MarketSM,FICS
 FID,First Trust S&P International Dividend Aristocrats ETF,NASDAQ Global MarketSM,FID
@@ -5312,7 +5308,6 @@ GURE,"Gulf Resources, Inc. - Common Stock",NASDAQ Global Select MarketSM,GURE
 GUTS,"Fractyl Health, Inc. - Common Stock",NASDAQ Global MarketSM,GUTS
 GV,Visionary Holdings Inc. - Common Shares,NASDAQ Capital Market,GV
 GVH,Globavend Holdings Limited - Ord Shares,NASDAQ Capital Market,GVH
-GVP,"GSE Systems, Inc. - Common Stock",NASDAQ Capital Market,GVP
 GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",NASDAQ Capital Market,GWAV
 GWRS,"Global Water Resources, Inc. - common stock",NASDAQ Global MarketSM,GWRS
 GXAI,Gaxos.ai Inc. - Common Stock,NASDAQ Capital Market,GXAI
@@ -5689,7 +5684,6 @@ ISSC,"Innovative Solutions and Support, Inc. - Common Stock",NASDAQ Global Selec
 ISTB,iShares Core 1-5 Year USD Bond ETF,NASDAQ Global MarketSM,ISTB
 ISTR,Investar Holding Corporation - Common Stock,NASDAQ Global MarketSM,ISTR
 ITCI,Intra-Cellular Therapies Inc. - Common Stock,NASDAQ Global Select MarketSM,ITCI
-ITI,"Iteris, Inc. - Common Stock",NASDAQ Capital Market,ITI
 ITIC,Investors Title Company - Common Stock,NASDAQ Global Select MarketSM,ITIC
 ITOS,"iTeos Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,ITOS
 ITRI,"Itron, Inc. - Common Stock",NASDAQ Global Select MarketSM,ITRI
@@ -6442,6 +6436,7 @@ NTRP,"NextTrip, Inc. - Common Stock",NASDAQ Capital Market,NTRP
 NTRS,Northern Trust Corporation - Common Stock,NASDAQ Global Select MarketSM,NTRS
 NTRSO,"Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock",NASDAQ Global Select MarketSM,NTRSO
 NTWK,NETSOL Technologies Inc. - Common Stock,NASDAQ Capital Market,NTWK
+NTWOU,Newbury Street II Acquisition Corp - Unit,NASDAQ Global MarketSM,NTWOU
 NUKK,Nukkleus Inc. - Ordinary Shares,NASDAQ Global MarketSM,NUKK
 NUKKW,Nukkleus Inc. - Warrants,NASDAQ Capital Market,NUKKW
 NURO,"NeuroMetrix, Inc. - Common Stock",NASDAQ Capital Market,NURO
@@ -6583,9 +6578,6 @@ ONFOW,Onfolio Holdings Inc. - Warrant,NASDAQ Capital Market,ONFOW
 ONMD,OneMedNet Corp - Class A Common Stock,NASDAQ Capital Market,ONMD
 ONMDW,OneMedNet Corp - Warrant,NASDAQ Capital Market,ONMDW
 ONVO,"Organovo Holdings, Inc. - Common Stock",NASDAQ Capital Market,ONVO
-ONYX,Onyx Acquisition Co. I - Class A Ordinary Shares,NASDAQ Capital Market,ONYX
-ONYXU,Onyx Acquisition Co. I - Unit,NASDAQ Capital Market,ONYXU
-ONYXW,Onyx Acquisition Co. I - Warrant,NASDAQ Capital Market,ONYXW
 OP,OceanPal Inc. - Common Stock,NASDAQ Capital Market,OP
 OPAL,OPAL Fuels Inc. - Class A Common Stock,NASDAQ Capital Market,OPAL
 OPBK,OP Bancorp - Common Stock,NASDAQ Global MarketSM,OPBK
@@ -7512,7 +7504,6 @@ SUGP,SU Group Holdings Limited - Ordinary Shares,NASDAQ Capital Market,SUGP
 SUNS,"Sunrise Realty Trust, Inc. - Common Stock",NASDAQ Capital Market,SUNS
 SUPN,"Supernus Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,SUPN
 SURG,"SurgePays, Inc. - Common Stock",NASDAQ Capital Market,SURG
-SURGW,"SurgePays, Inc. - Warrant",NASDAQ Capital Market,SURGW
 SUSB,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,NASDAQ Global MarketSM,SUSB
 SUSC,iShares ESG Aware USD Corporate Bond ETF,NASDAQ Global MarketSM,SUSC
 SUSL,iShares ESG MSCI USA Leaders ETF,NASDAQ Global MarketSM,SUSL
@@ -9236,7 +9227,6 @@ ENO,"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 20
 ENOV,Enovis Corporation Common Stock,NYSE,ENOV
 ENR,"Energizer Holdings, Inc. Common Stock",NYSE,ENR
 ENS,EnerSys Common Stock,NYSE,ENS
-ENSV,Enservco Corporation Common Stock,NYSE MKT,ENSV
 ENV,"Envestnet, Inc Common Stock",NYSE,ENV
 ENVA,"Enova International, Inc. Common Stock",NYSE,ENVA
 ENX,"Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",NYSE MKT,ENX
@@ -9850,9 +9840,6 @@ JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,NYSE,JQC
 JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,NYSE,JRI
 JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,NYSE,JRS
 JWN,"Nordstrom, Inc. Common Stock",NYSE,JWN
-JWSM,Jaws Mustang Acquisition Corp. Class A Ordinary Shares,NYSE MKT,JWSM
-JWSM.U,"Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",NYSE MKT,JWSM.U
-JWSM.W,"Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE MKT,JWSM.W
 JXN,Jackson Financial Inc. Class A Common Stock ,NYSE,JXN
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",NYSE,JXN$A
 K,Kellanova Common Stock,NYSE,K
@@ -10245,6 +10232,7 @@ NEE,"NextEra Energy, Inc. Common Stock",NYSE,NEE
 NEE$N,"NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079",NYSE,NEE$N
 NEE$R,"NextEra Energy, Inc. 6.926% Corporate Units",NYSE,NEE$R
 NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units",NYSE,NEE$S
+NEE$T,"NextEra Energy, Inc. 7.234% Corporate Units",NYSE,NEE$T
 NEM,Newmont Corporation,NYSE,NEM
 NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,NYSE MKT,NEN
 NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",NYSE,NEP

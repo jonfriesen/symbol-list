@@ -1,49 +1,32 @@
 {
  "added": [
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "DGME",
-   "name": "GameStop Tokenized Stock Defichain (DGME)"
-  },
-  {
-   "symbol": "LIO",
-   "name": "Lio (LIO)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BRAM",
-   "name": "Defibox bRAM (BRAM)"
-  },
-  {
-   "symbol": "DSLV",
-   "name": "iShares Silver Trust Defichain (DSLV)"
-  },
-  {
-   "symbol": "CHILDAI",
-   "name": "Singularity's Child gonzoai (CHILDAI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "SMETX",
-   "name": "SpecialMetalX (SMETX)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "SUIMON",
-   "name": "Sui Monster (SUIMON)",
-   "built_on": "SUI"
-  },
-  {
-   "symbol": "BABYGOAT",
-   "name": "Baby Goat (BABYGOAT)",
-   "built_on": "BNB"
+   "symbol": "BDC",
+   "name": "Based (BDC)"
   },
   {
    "symbol": "CBBTC",
    "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BRO",
+   "name": "Bitradio (BRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NPC",
+   "name": "NPCcoin (NPC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BENJI",
+   "name": "BenjiRolls (BENJI)",
    "built_on": "BASE"
   },
   {
@@ -52,26 +35,33 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
+   "symbol": "DEEP",
+   "name": "DeepCloud AI (DEEP)",
+   "built_on": "SUI"
   }
  ],
  "removed": [
   {
-   "symbol": "DGME",
-   "name": "GameStop Tokenized Stock Defichain (DGME)",
-   "built_on": "DFI"
+   "symbol": "NPC",
+   "name": "NPCcoin (NPC)"
   },
   {
-   "symbol": "BRAM",
-   "name": "Defibox bRAM (BRAM)",
-   "built_on": "EOS"
+   "symbol": "BDC",
+   "name": "Based (BDC)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "DSLV",
-   "name": "iShares Silver Trust Defichain (DSLV)",
-   "built_on": "DFI"
+   "symbol": "BENJI",
+   "name": "BenjiRolls (BENJI)"
+  },
+  {
+   "symbol": "DEEP",
+   "name": "DeepCloud AI (DEEP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRO",
+   "name": "Bitradio (BRO)"
   }
  ]
 }

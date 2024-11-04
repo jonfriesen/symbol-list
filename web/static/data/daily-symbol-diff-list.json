@@ -1,124 +1,150 @@
 {
  "added": [
   {
-   "symbol": "BTB.DB.H",
-   "name": "BTB Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "BTB.DB.H.TO",
+   "symbol": "CTV",
+   "name": "CleanTech Vanadium Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CTV.V",
    "instruments": [
     {
-     "name": "BTB REIT 7% H Deb",
-     "symbol": "BTB.DB.H"
-    },
-    {
-     "name": "BTB REIT Un",
-     "symbol": "BTB.UN"
+     "name": "CleanTech Vanadium Mining Corp.",
+     "symbol": "CTV"
     }
    ]
   },
   {
-   "symbol": "CUP.U",
-   "name": "Caribbean Utilities Company, Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CUP.U.TO",
-   "instruments": [
-    {
-     "name": "Caribbean Ut Cl A US",
-     "symbol": "CUP.U"
-    }
-   ]
-  },
-  {
-   "symbol": "LFSC",
-   "name": "F/m Emerald Life Sciences Innovation ETF",
+   "symbol": "BACQU",
+   "name": "Bleichroeder Acquisition Corp. I - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LFSC"
+   "yahoo_symbol": "BACQU"
   },
   {
-   "symbol": "ECG",
-   "name": "Everus Construction Group, Inc. Common Stock",
+   "symbol": "NTWOU",
+   "name": "Newbury Street II Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NTWOU"
+  },
+  {
+   "symbol": "NEE$T",
+   "name": "NextEra Energy, Inc. 7.234% Corporate Units",
    "exchange": "NYSE",
-   "yahoo_symbol": "ECG"
+   "yahoo_symbol": "NEE$T"
   }
  ],
  "removed": [
   {
-   "symbol": "CUP.RT.U",
-   "name": "Caribbean Utilities Company, Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CUP.RT.U.TO",
+   "symbol": "FIACU",
+   "name": "Focus Impact Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIACU"
+  },
+  {
+   "symbol": "FLYN",
+   "name": "Flying Nickel Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FLYN.V",
    "instruments": [
     {
-     "name": "Caribbean Utl Ltd Rt",
-     "symbol": "CUP.RT.U"
-    },
-    {
-     "name": "Caribbean Ut Cl A US",
-     "symbol": "CUP.U"
+     "name": "Flying Nickel Mining Corp.",
+     "symbol": "FLYN"
     }
    ]
   },
   {
-   "symbol": "MDU.V",
-   "name": "MDU Resources Group, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MDU.V"
+   "symbol": "ITE",
+   "name": "i3 Energy plc",
+   "exchange": "TSX",
+   "yahoo_symbol": "ITE.TO",
+   "instruments": [
+    {
+     "name": "i3 Energy plc Ord",
+     "symbol": "ITE"
+    }
+   ]
   },
   {
-   "symbol": "ECG.V",
-   "name": "Everus Construction Group, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ECG.V"
+   "symbol": "ONYXW",
+   "name": "Onyx Acquisition Co. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONYXW"
   },
   {
-   "symbol": "TELZ",
-   "name": "Tellurian Inc. 8.25% Senior Notes due 2028",
+   "symbol": "JWSM",
+   "name": "Jaws Mustang Acquisition Corp. Class A Ordinary Shares",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "TELZ"
+   "yahoo_symbol": "JWSM"
   },
   {
-   "symbol": "STER",
-   "name": "Sterling Check Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "STER"
-  },
-  {
-   "symbol": "SOC.W",
-   "name": "Sable Offshore Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SOC.W"
-  },
-  {
-   "symbol": "GRDI",
-   "name": "GRIID Infrastructure Inc. - Common Stock",
+   "symbol": "FIACW",
+   "name": "Focus Impact Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRDI"
+   "yahoo_symbol": "FIACW"
   },
   {
-   "symbol": "BTB.DB.G",
-   "name": "BTB Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "BTB.DB.G.TO",
+   "symbol": "GVP",
+   "name": "GSE Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GVP"
+  },
+  {
+   "symbol": "ITI",
+   "name": "Iteris, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITI"
+  },
+  {
+   "symbol": "JWSM.U",
+   "name": "Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JWSM.U"
+  },
+  {
+   "symbol": "ENSV",
+   "name": "Enservco Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ENSV"
+  },
+  {
+   "symbol": "JWSM.W",
+   "name": "Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JWSM.W"
+  },
+  {
+   "symbol": "REYG",
+   "name": "Reyna Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REYG.V",
    "instruments": [
     {
-     "name": "BTB REIT 6% G Deb",
-     "symbol": "BTB.DB.G"
-    },
-    {
-     "name": "BTB REIT 7% H Deb",
-     "symbol": "BTB.DB.H"
-    },
-    {
-     "name": "BTB REIT Un",
-     "symbol": "BTB.UN"
+     "name": "Reyna Gold Corp.",
+     "symbol": "REYG"
     }
    ]
   },
   {
-   "symbol": "GRDIW",
-   "name": "GRIID Infrastructure Inc. - Warrant",
+   "symbol": "FIAC",
+   "name": "Focus Impact Acquisition Corp. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRDIW"
+   "yahoo_symbol": "FIAC"
+  },
+  {
+   "symbol": "ONYX",
+   "name": "Onyx Acquisition Co. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONYX"
+  },
+  {
+   "symbol": "ONYXU",
+   "name": "Onyx Acquisition Co. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONYXU"
+  },
+  {
+   "symbol": "SURGW",
+   "name": "SurgePays, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SURGW"
   }
  ]
 }
