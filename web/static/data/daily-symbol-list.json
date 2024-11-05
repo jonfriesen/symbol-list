@@ -1,5 +1,5 @@
 {
- "date": "2024-11-04",
+ "date": "2024-11-05",
  "data": [
   {
    "symbol": "ONE",
@@ -38086,18 +38086,6 @@
    ]
   },
   {
-   "symbol": "PMT",
-   "name": "Perpetual Energy Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "PMT.TO",
-   "instruments": [
-    {
-     "name": "Perpetual Energy Inc",
-     "symbol": "PMT"
-    }
-   ]
-  },
-  {
    "symbol": "PRU",
    "name": "Perseus Mining Limited",
    "exchange": "TSX",
@@ -40223,7 +40211,7 @@
   },
   {
    "symbol": "RBY",
-   "name": "Rubellite Energy Inc.",
+   "name": "Rubellite Energy Corp.",
    "exchange": "TSX",
    "yahoo_symbol": "RBY.TO",
    "instruments": [
@@ -41026,18 +41014,6 @@
     {
      "name": "Starcore Intl Mine J",
      "symbol": "SAM"
-    }
-   ]
-  },
-  {
-   "symbol": "STLC",
-   "name": "Stelco Holdings Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "STLC.TO",
-   "instruments": [
-    {
-     "name": "Stelco Holdings J ",
-     "symbol": "STLC"
     }
    ]
   },
@@ -44184,24 +44160,6 @@
    "name": "Addex Therapeutics Ltd - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ADXN"
-  },
-  {
-   "symbol": "AEAE",
-   "name": "AltEnergy Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAE"
-  },
-  {
-   "symbol": "AEAEU",
-   "name": "AltEnergy Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAEU"
-  },
-  {
-   "symbol": "AEAEW",
-   "name": "AltEnergy Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAEW"
   },
   {
    "symbol": "AEHL",
@@ -48584,24 +48542,6 @@
    "yahoo_symbol": "CCTG"
   },
   {
-   "symbol": "CCTS",
-   "name": "Cactus Acquisition Corp. 1 Limited - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCTS"
-  },
-  {
-   "symbol": "CCTSU",
-   "name": "Cactus Acquisition Corp. 1 Limited - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCTSU"
-  },
-  {
-   "symbol": "CCTSW",
-   "name": "Cactus Acquisition Corp. 1 Limited - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCTSW"
-  },
-  {
    "symbol": "CDC",
    "name": "VictoryShares US EQ Income Enhanced Volatility Wtd ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -49422,6 +49362,12 @@
    "name": "CleanSpark, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CLSK"
+  },
+  {
+   "symbol": "CLSKW",
+   "name": "CleanSpark, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLSKW"
   },
   {
    "symbol": "CLSM",
@@ -54062,6 +54008,18 @@
    "yahoo_symbol": "FVCB"
   },
   {
+   "symbol": "FVN",
+   "name": "Future Vision II Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FVN"
+  },
+  {
+   "symbol": "FVNNR",
+   "name": "Future Vision II Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FVNNR"
+  },
+  {
    "symbol": "FVNNU",
    "name": "Future Vision II Acquisition Corporation - Units",
    "exchange": "NASDAQ Capital Market",
@@ -58628,6 +58586,18 @@
    "yahoo_symbol": "LBTYK"
   },
   {
+   "symbol": "LBYAV",
+   "name": "Liberty Global Ltd. - Class A Common Shares Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBYAV"
+  },
+  {
+   "symbol": "LBYKV",
+   "name": "Liberty Global Ltd. - Class C Common Shares Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBYKV"
+  },
+  {
    "symbol": "LCDS",
    "name": "JPMorgan Fundamental Data Science Large Core ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58821,7 +58791,7 @@
   },
   {
    "symbol": "LGCB",
-   "name": "Linkage Global Inc - Ordinary Shares",
+   "name": "Linkage Global Inc - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LGCB"
   },
@@ -67712,6 +67682,12 @@
    "yahoo_symbol": "SNPX"
   },
   {
+   "symbol": "SNREV",
+   "name": "Sunrise Communications AG - American Depositary Shares representing Class A shares When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNREV"
+  },
+  {
    "symbol": "SNSE",
    "name": "Sensei Biotherapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -68118,12 +68094,6 @@
    "name": "1st Source Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SRCE"
-  },
-  {
-   "symbol": "SRCL",
-   "name": "Stericycle, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SRCL"
   },
   {
    "symbol": "SRDX",
@@ -80522,12 +80492,6 @@
    "yahoo_symbol": "GLQ"
   },
   {
-   "symbol": "GLT",
-   "name": "Glatfelter Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GLT"
-  },
-  {
    "symbol": "GLU",
    "name": "Gabelli Global Utility Common Shares of Beneficial Ownership",
    "exchange": "NYSE MKT",
@@ -83454,6 +83418,12 @@
    "name": "MAG Silver Corporation Ordinary Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "MAG"
+  },
+  {
+   "symbol": "MAGN",
+   "name": "Magnera Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MAGN"
   },
   {
    "symbol": "MAIA",
@@ -87806,24 +87776,6 @@
    "yahoo_symbol": "RQI"
   },
   {
-   "symbol": "RRAC",
-   "name": "Rigel Resource Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RRAC"
-  },
-  {
-   "symbol": "RRAC.U",
-   "name": "Rigel Resource Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RRAC.U"
-  },
-  {
-   "symbol": "RRAC.W",
-   "name": "Rigel Resource Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RRAC.W"
-  },
-  {
    "symbol": "RRC",
    "name": "Range Resources Corporation Common Stock",
    "exchange": "NYSE",
@@ -88166,24 +88118,6 @@
    "yahoo_symbol": "SBSW"
   },
   {
-   "symbol": "SBXC",
-   "name": "SilverBox Corp III Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBXC"
-  },
-  {
-   "symbol": "SBXC.U",
-   "name": "SilverBox Corp III Units, each consisting of one Class A Common Stock and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBXC.U"
-  },
-  {
-   "symbol": "SBXC.W",
-   "name": "SilverBox Corp III Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBXC.W"
-  },
-  {
    "symbol": "SBXD",
    "name": "SilverBox Corp IV Class A Ordinary Shares",
    "exchange": "NYSE",
@@ -88380,24 +88314,6 @@
    "name": "Seaboard Corporation Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "SEB"
-  },
-  {
-   "symbol": "SEDA",
-   "name": "SDCL EDGE Acquisition Corporation Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEDA"
-  },
-  {
-   "symbol": "SEDA.U",
-   "name": "SDCL EDGE Acquisition Corporation Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEDA.U"
-  },
-  {
-   "symbol": "SEDA.W",
-   "name": "SDCL EDGE Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share of Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEDA.W"
   },
   {
    "symbol": "SEE",
