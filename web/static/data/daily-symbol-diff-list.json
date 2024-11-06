@@ -1,174 +1,96 @@
 {
  "added": [
   {
-   "symbol": "CLSKW",
-   "name": "CleanSpark, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CLSKW"
+   "symbol": "HAY",
+   "name": "Hayasa Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HAY.V",
+   "instruments": [
+    {
+     "name": "Hayasa Metals Inc.",
+     "symbol": "HAY"
+    }
+   ]
   },
   {
-   "symbol": "FVN",
-   "name": "Future Vision II Acquisition Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FVN"
-  },
-  {
-   "symbol": "FVNNR",
-   "name": "Future Vision II Acquisition Corporation - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FVNNR"
-  },
-  {
-   "symbol": "LBYAV",
-   "name": "Liberty Global Ltd. - Class A Common Shares Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBYAV"
-  },
-  {
-   "symbol": "LBYKV",
-   "name": "Liberty Global Ltd. - Class C Common Shares Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBYKV"
-  },
-  {
-   "symbol": "SNREV",
-   "name": "Sunrise Communications AG - American Depositary Shares representing Class A shares When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SNREV"
-  },
-  {
-   "symbol": "MAGN",
-   "name": "Magnera Corporation Common Stock",
+   "symbol": "BA$A",
+   "name": "Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00",
    "exchange": "NYSE",
-   "yahoo_symbol": "MAGN"
+   "yahoo_symbol": "BA$A"
   }
  ],
  "removed": [
   {
-   "symbol": "STLC",
-   "name": "Stelco Holdings Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "STLC.TO",
+   "symbol": "PAN",
+   "name": "Pangolin Diamonds Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PAN.V",
    "instruments": [
     {
-     "name": "Stelco Holdings J ",
-     "symbol": "STLC"
+     "name": "Pangolin Diamonds Corp.",
+     "symbol": "PAN"
     }
    ]
   },
   {
-   "symbol": "AEAE",
-   "name": "AltEnergy Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAE"
+   "symbol": "FOBI",
+   "name": "Fobi AI Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FOBI.V",
+   "instruments": [
+    {
+     "name": "Fobi AI Inc.",
+     "symbol": "FOBI"
+    }
+   ]
   },
   {
-   "symbol": "SEDA",
-   "name": "SDCL EDGE Acquisition Corporation Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEDA"
+   "symbol": "FRE",
+   "name": "Fremont Gold Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRE.V",
+   "instruments": [
+    {
+     "name": "Fremont Gold Ltd.",
+     "symbol": "FRE"
+    }
+   ]
   },
   {
-   "symbol": "RRAC.U",
-   "name": "Rigel Resource Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RRAC.U"
-  },
-  {
-   "symbol": "AEAEW",
-   "name": "AltEnergy Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAEW"
-  },
-  {
-   "symbol": "SBXC.W",
-   "name": "SilverBox Corp III Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBXC.W"
-  },
-  {
-   "symbol": "CCTSU",
-   "name": "Cactus Acquisition Corp. 1 Limited - Unit",
+   "symbol": "GAQ",
+   "name": "Generation Asia I Acquisition Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCTSU"
+   "yahoo_symbol": "GAQ"
   },
   {
-   "symbol": "SBXC",
-   "name": "SilverBox Corp III Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBXC"
+   "symbol": "NVOS",
+   "name": "Novo Integrated Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVOS"
   },
   {
-   "symbol": "RRAC.W",
-   "name": "Rigel Resource Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RRAC.W"
+   "symbol": "FARM",
+   "name": "Deveron Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FARM.V",
+   "instruments": [
+    {
+     "name": "Deveron Corp.",
+     "symbol": "FARM"
+    }
+   ]
   },
   {
-   "symbol": "SEDA.U",
-   "name": "SDCL EDGE Acquisition Corporation Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEDA.U"
-  },
-  {
-   "symbol": "SRCL",
-   "name": "Stericycle, Inc. - Common Stock",
+   "symbol": "LILMW",
+   "name": "Lilium N.V. - Warrants",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SRCL"
+   "yahoo_symbol": "LILMW"
   },
   {
-   "symbol": "CCTS",
-   "name": "Cactus Acquisition Corp. 1 Limited - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCTS"
-  },
-  {
-   "symbol": "CCTSW",
-   "name": "Cactus Acquisition Corp. 1 Limited - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCTSW"
-  },
-  {
-   "symbol": "PMT",
-   "name": "Perpetual Energy Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "PMT.TO",
-   "instruments": [
-    {
-     "name": "Perpetual Energy Inc",
-     "symbol": "PMT"
-    }
-   ]
-  },
-  {
-   "symbol": "AEAEU",
-   "name": "AltEnergy Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEAEU"
-  },
-  {
-   "symbol": "GLT",
-   "name": "Glatfelter Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GLT"
-  },
-  {
-   "symbol": "SEDA.W",
-   "name": "SDCL EDGE Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share of Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEDA.W"
-  },
-  {
-   "symbol": "RRAC",
-   "name": "Rigel Resource Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RRAC"
-  },
-  {
-   "symbol": "SBXC.U",
-   "name": "SilverBox Corp III Units, each consisting of one Class A Common Stock and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBXC.U"
+   "symbol": "LILM",
+   "name": "Lilium N.V. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LILM"
   }
  ]
 }
