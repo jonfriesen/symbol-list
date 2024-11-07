@@ -1,13 +1,78 @@
 {
  "added": [
   {
-   "symbol": "CAT",
-   "name": "Simon's Cat (CAT)",
+   "symbol": "RECT",
+   "name": "ReflectionAI (RECT)",
    "built_on": "BNB"
   },
   {
-   "symbol": "BGBV1",
-   "name": "Bitget Token v1 (BGBV1)"
+   "symbol": "ACSI",
+   "name": "ACryptoSI (ACSI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PAPO",
+   "name": "PAPO NINJA (PAPO)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "BEEG",
+   "name": "Beeg Blue Whale (BEEG)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "CTO",
+   "name": "BaseCTO (CTO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BABYPOPCAT",
+   "name": "Baby PopCat (BABYPOPCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OKANE",
+   "name": "OKANE (OKANE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BLUFF",
+   "name": "BluffCat (BLUFF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BWEN",
+   "name": "Baby Wen (BWEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ANSOM",
+   "name": "Ansom (ANSOM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "APEDEV",
+   "name": "The dev is an Ape (APEDEV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TERMINAL",
+   "name": "Book Terminal of Truths (TERMINAL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DAGS",
+   "name": "Dagcoin (DAGS)"
+  },
+  {
+   "symbol": "WICKED",
+   "name": "Wicked (WICKED)",
+   "built_on": "ETH"
   },
   {
    "symbol": "G",
@@ -15,78 +80,44 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "THECAT",
-   "name": "THECAT (THECAT)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "OOM",
-   "name": "OomerBot (OOM)",
+   "symbol": "BARIO",
+   "name": "Bario (BARIO)",
    "built_on": "BASE"
   },
   {
-   "symbol": "SUWI",
-   "name": "suwi (SUWI)",
-   "built_on": "SOL"
+   "symbol": "WELLV1",
+   "name": "Moonwell v1 (WELLV1)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "KENOBI",
-   "name": "Obi PNut Kenobi (KENOBI)",
-   "built_on": "SOL"
+   "symbol": "RUSSELL",
+   "name": "Russell (RUSSELL)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "CATANA",
-   "name": "Catana (CATANA)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "YLAY",
-   "name": "Yelay (YLAY)",
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
   },
   {
-   "symbol": "SAY",
-   "name": "SAY Coin (SAY)",
+   "symbol": "XGP",
+   "name": "XGP (XGP)",
    "built_on": "BNB"
   },
   {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
-  },
-  {
-   "symbol": "TRUMPCATS",
-   "name": "Trump Golden Cat (TRUMPCATS)",
+   "symbol": "ABLE",
+   "name": "Able Finance (ABLE)",
    "built_on": "BNB"
   },
   {
-   "symbol": "BASECOIN",
-   "name": "BASECOIN (BASECOIN)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "BANGY",
-   "name": "BANGY (BANGY)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "USDTBASE",
-   "name": "USDT (Base) (USDTBASE)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "MAGPAC",
-   "name": "MAGA Meme PAC (MAGPAC)",
-   "built_on": "ETH"
+   "symbol": "CRYPTOOFFICIAL",
+   "name": "Crypto (CRYPTOOFFICIAL)"
   }
  ],
  "removed": [
   {
-   "symbol": "SIMON",
-   "name": "Simon's Cat (CAT)"
+   "symbol": "CTO",
+   "name": "Crypto (CTO)"
   }
  ]
 }

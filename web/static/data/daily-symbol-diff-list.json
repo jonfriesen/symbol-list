@@ -1,96 +1,168 @@
 {
  "added": [
   {
-   "symbol": "HAY",
-   "name": "Hayasa Metals Inc.",
+   "symbol": "FTUR",
+   "name": "Future Fuels Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "HAY.V",
+   "yahoo_symbol": "FTUR.V",
    "instruments": [
     {
-     "name": "Hayasa Metals Inc.",
-     "symbol": "HAY"
+     "name": "Future Fuels Inc.",
+     "symbol": "FTUR"
     }
    ]
   },
   {
-   "symbol": "BA$A",
-   "name": "Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BA$A"
+   "symbol": "MART",
+   "name": "Global X Equal Weight Canadian Groceries \u0026 Staples Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MART.TO",
+   "instruments": [
+    {
+     "name": "Global X EWC GSI ETF",
+     "symbol": "MART"
+    }
+   ]
+  },
+  {
+   "symbol": "SAFE",
+   "name": "Global X Equal Weight Canadian Insurance Index ETF\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "SAFE.TO",
+   "instruments": [
+    {
+     "name": "Global X EWC InI ETF",
+     "symbol": "SAFE"
+    }
+   ]
+  },
+  {
+   "symbol": "NRGY",
+   "name": "Global X Equal Weight Canadian Oil \u0026 Gas Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NRGY.TO",
+   "instruments": [
+    {
+     "name": "Global X EWC OGI ETF",
+     "symbol": "NRGY"
+    }
+   ]
+  },
+  {
+   "symbol": "RING",
+   "name": "Global X Equal Weight Canadian Telecommunications Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RING.TO",
+   "instruments": [
+    {
+     "name": "Global X EWCT Id ETF",
+     "symbol": "RING"
+    }
+   ]
+  },
+  {
+   "symbol": "GLDX",
+   "name": "Global X Gold Producers Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLDX.TO",
+   "instruments": [
+    {
+     "name": "Global X Gold PI ETF",
+     "symbol": "GLDX"
+    }
+   ]
+  },
+  {
+   "symbol": "PAYL",
+   "name": "Global X Long-Term Government Bond Premium Yield ETF\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYL.TO",
+   "instruments": [
+    {
+     "name": "Global X LT GBPY ETF",
+     "symbol": "PAYL"
+    }
+   ]
+  },
+  {
+   "symbol": "PAYM",
+   "name": "Global X Mid-Term Government Bond Premium Yield ETF\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYM.TO",
+   "instruments": [
+    {
+     "name": "Global X MT GBPY ETF",
+     "symbol": "PAYM"
+    }
+   ]
+  },
+  {
+   "symbol": "VZLA",
+   "name": "Vizsla Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VZLA.TO",
+   "instruments": [
+    {
+     "name": "Vizsla Silver Corp",
+     "symbol": "VZLA"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "PAN",
-   "name": "Pangolin Diamonds Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PAN.V",
-   "instruments": [
-    {
-     "name": "Pangolin Diamonds Corp.",
-     "symbol": "PAN"
-    }
-   ]
-  },
-  {
-   "symbol": "FOBI",
-   "name": "Fobi AI Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FOBI.V",
-   "instruments": [
-    {
-     "name": "Fobi AI Inc.",
-     "symbol": "FOBI"
-    }
-   ]
-  },
-  {
-   "symbol": "FRE",
-   "name": "Fremont Gold Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FRE.V",
-   "instruments": [
-    {
-     "name": "Fremont Gold Ltd.",
-     "symbol": "FRE"
-    }
-   ]
-  },
-  {
-   "symbol": "GAQ",
-   "name": "Generation Asia I Acquisition Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GAQ"
-  },
-  {
-   "symbol": "NVOS",
-   "name": "Novo Integrated Sciences, Inc. - Common Stock",
+   "symbol": "MCAAU",
+   "name": "Mountain  - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVOS"
+   "yahoo_symbol": "MCAAU"
   },
   {
-   "symbol": "FARM",
-   "name": "Deveron Corp.",
+   "symbol": "SRE",
+   "name": "Saville Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "FARM.V",
+   "yahoo_symbol": "SRE.V",
    "instruments": [
     {
-     "name": "Deveron Corp.",
-     "symbol": "FARM"
+     "name": "Saville Resources Inc.",
+     "symbol": "SRE"
     }
    ]
   },
   {
-   "symbol": "LILMW",
-   "name": "Lilium N.V. - Warrants",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LILMW"
+   "symbol": "APXIU",
+   "name": "APx Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXIU"
   },
   {
-   "symbol": "LILM",
-   "name": "Lilium N.V. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LILM"
+   "symbol": "APXIW",
+   "name": "APx Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXIW"
+  },
+  {
+   "symbol": "VZLA",
+   "name": "Vizsla Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VZLA.V",
+   "instruments": [
+    {
+     "name": "Vizsla Silver Corp.",
+     "symbol": "VZLA"
+    }
+   ]
+  },
+  {
+   "symbol": "MCAAW",
+   "name": "Mountain  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAAW"
+  },
+  {
+   "symbol": "MCAA",
+   "name": "Mountain  - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAA"
   }
  ]
 }
