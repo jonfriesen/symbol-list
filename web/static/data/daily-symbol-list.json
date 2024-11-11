@@ -1,5 +1,5 @@
 {
- "date": "2024-11-08",
+ "date": "2024-11-11",
  "data": [
   {
    "symbol": "ONE",
@@ -39371,7 +39371,7 @@
   },
   {
    "symbol": "PYR",
-   "name": "PyroGenesis Canada Inc.",
+   "name": "PyroGenesis Inc.",
    "exchange": "TSX",
    "yahoo_symbol": "PYR.TO",
    "instruments": [
@@ -45702,6 +45702,12 @@
    "yahoo_symbol": "ASO"
   },
   {
+   "symbol": "ASPCU",
+   "name": "A SPAC III Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASPCU"
+  },
+  {
    "symbol": "ASPI",
    "name": "ASP Isotopes Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -46675,14 +46681,14 @@
   },
   {
    "symbol": "BETR",
-   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
+   "name": "Better Home  - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BETR"
   },
   {
    "symbol": "BETRW",
-   "name": "Better Home \u0026 Finance Holding Company - Warrant",
-   "exchange": "NASDAQ Capital Market",
+   "name": "Better Home  - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BETRW"
   },
   {
@@ -53628,24 +53634,6 @@
    "yahoo_symbol": "FRHC"
   },
   {
-   "symbol": "FRLA",
-   "name": "Fortune Rise Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRLA"
-  },
-  {
-   "symbol": "FRLAU",
-   "name": "Fortune Rise Acquisition Corporation - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRLAU"
-  },
-  {
-   "symbol": "FRLAW",
-   "name": "Fortune Rise Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRLAW"
-  },
-  {
    "symbol": "FRME",
    "name": "First Merchants Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -57136,24 +57124,6 @@
    "name": "Intel Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "INTC"
-  },
-  {
-   "symbol": "INTE",
-   "name": "Integral Acquisition Corporation 1 - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "INTE"
-  },
-  {
-   "symbol": "INTEU",
-   "name": "Integral Acquisition Corporation 1 - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "INTEU"
-  },
-  {
-   "symbol": "INTEW",
-   "name": "Integral Acquisition Corporation 1 - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "INTEW"
   },
   {
    "symbol": "INTG",
@@ -61794,24 +61764,6 @@
    "yahoo_symbol": "NOVVW"
   },
   {
-   "symbol": "NPAB",
-   "name": "New Providence Acquisition Corp. II - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NPAB"
-  },
-  {
-   "symbol": "NPABU",
-   "name": "New Providence Acquisition Corp. II - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NPABU"
-  },
-  {
-   "symbol": "NPABW",
-   "name": "New Providence Acquisition Corp. II - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NPABW"
-  },
-  {
    "symbol": "NPCE",
    "name": "Neuropace, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -63592,6 +63544,12 @@
    "name": "PepGen Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PEPG"
+  },
+  {
+   "symbol": "PEPS",
+   "name": "Parametric Equity Plus ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEPS"
   },
   {
    "symbol": "PERI",
@@ -67234,6 +67192,12 @@
    "name": "SanJac Alpha Low Duration ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SJLD"
+  },
+  {
+   "symbol": "SJW",
+   "name": "SJW Group - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SJW"
   },
   {
    "symbol": "SKGR",
@@ -71700,6 +71664,12 @@
    "yahoo_symbol": "WKSP"
   },
   {
+   "symbol": "WLACU",
+   "name": "Willow Lane Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLACU"
+  },
+  {
    "symbol": "WLDN",
    "name": "Willdan Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -72208,6 +72178,18 @@
    "name": "Yunhong Green CTI Ltd. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "YHGJ"
+  },
+  {
+   "symbol": "YHNA",
+   "name": "YHN Acquisition I Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YHNA"
+  },
+  {
+   "symbol": "YHNAR",
+   "name": "YHN Acquisition I Limited - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YHNAR"
   },
   {
    "symbol": "YHNAU",
@@ -81602,7 +81584,7 @@
   {
    "symbol": "HYLN",
    "name": "Hyliion Holdings Corp. Class A Common Stock",
-   "exchange": "NYSE",
+   "exchange": "NYSE MKT",
    "yahoo_symbol": "HYLN"
   },
   {
@@ -86868,10 +86850,10 @@
    "yahoo_symbol": "PRM"
   },
   {
-   "symbol": "PRMW",
-   "name": "Primo Water Corporation Common Stock",
+   "symbol": "PRMB",
+   "name": "Primo Brands Corporation Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "PRMW"
+   "yahoo_symbol": "PRMB"
   },
   {
    "symbol": "PRO",

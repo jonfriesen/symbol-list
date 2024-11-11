@@ -3051,7 +3051,7 @@ PHE,Purpose Tactical Hedged Equity Fund,TSX,PHE.TO,Purpose Tact Hegd Eq,PHE,Purp
 PBD,Purpose Total Return Bond Fund,TSX,PBD.TO,Purpose Tot Ret Bond,PBD
 PSU.U,Purpose US Cash Fund,TSX,PSU.U.TO,Purpose US Cash USF,PSU.U
 MNU.U,Purpose USD Cash Management Fund,TSX,MNU.U.TO,PurposeCshMgtNC HgUS,MNU.U
-PYR,PyroGenesis Canada Inc.,TSX,PYR.TO,PyroGenesis Cda J,PYR
+PYR,PyroGenesis Inc.,TSX,PYR.TO,PyroGenesis Cda J,PYR
 PREF,Quadravest Preferred Split Share ETF,TSX,PREF.TO,Quad Pref SplitShETF,PREF
 QTRH,Quarterhill Inc.,TSX,QTRH.TO,Quarterhill Inc.,QTRH,Quarterhill Inc Deb,QTRH.DB
 QBR.A,Quebecor Inc.,TSX,QBR.A.TO,Quebecor Inc Cl A MV,QBR.A,Quebecor Inc Cl B SV,QBR.B
@@ -3713,6 +3713,7 @@ ASML,ASML Holding N.V. - New York Registry Shares,NASDAQ Global Select MarketSM,
 ASND,Ascendis Pharma A/S - American Depositary Shares,NASDAQ Global Select MarketSM,ASND
 ASNS,"Actelis Networks, Inc. - Common Stock",NASDAQ Capital Market,ASNS
 ASO,"Academy Sports and Outdoors, Inc. - Common Stock",NASDAQ Global Select MarketSM,ASO
+ASPCU,A SPAC III Acquisition Corp. - Unit,NASDAQ Capital Market,ASPCU
 ASPI,ASP Isotopes Inc. - Common Stock,NASDAQ Capital Market,ASPI
 ASPS,Altisource Portfolio Solutions S.A. - Common Stock,NASDAQ Global Select MarketSM,ASPS
 ASRT,"Assertio Holdings, Inc. - Common Stock",NASDAQ Capital Market,ASRT
@@ -3875,8 +3876,8 @@ BELFB,Bel Fuse Inc. - Class B Common Stock,NASDAQ Global Select MarketSM,BELFB
 BELT,iShares Long-Term U.S. Equity Active ETF,NASDAQ Global MarketSM,BELT
 BENF,Beneficient - Class A Common Stock,NASDAQ Capital Market,BENF
 BENFW,Beneficient - Warrant,NASDAQ Capital Market,BENFW
-BETR,Better Home & Finance Holding Company - Class A Common Stock,NASDAQ Capital Market,BETR
-BETRW,Better Home & Finance Holding Company - Warrant,NASDAQ Capital Market,BETRW
+BETR,Better Home  - Class A Common Stock,NASDAQ Global MarketSM,BETR
+BETRW,Better Home  - Warrant,NASDAQ Global MarketSM,BETRW
 BFC,Bank First Corporation - Common Stock,NASDAQ Capital Market,BFC
 BFIN,BankFinancial Corporation - Common Stock,NASDAQ Global Select MarketSM,BFIN
 BFRG,"Bullfrog AI Holdings, Inc. - Common Stock",NASDAQ Capital Market,BFRG
@@ -5034,9 +5035,6 @@ FRBA,First Bank  - Common Stock,NASDAQ Global MarketSM,FRBA
 FRES,Fresh2 Group Limited - American Depositary Shares,NASDAQ Capital Market,FRES
 FRGT,"Freight Technologies, Inc. - Ordinary Shares",NASDAQ Capital Market,FRGT
 FRHC,Freedom Holding Corp. - Common Stock,NASDAQ Capital Market,FRHC
-FRLA,Fortune Rise Acquisition Corporation - Class A Common Stock,NASDAQ Capital Market,FRLA
-FRLAU,Fortune Rise Acquisition Corporation - Units,NASDAQ Capital Market,FRLAU
-FRLAW,Fortune Rise Acquisition Corporation - Warrant,NASDAQ Capital Market,FRLAW
 FRME,First Merchants Corporation - Common Stock,NASDAQ Global Select MarketSM,FRME
 FRMEP,"First Merchants Corporation - Depository Shares, each representing a 1/100th interest in a share of 7.50% Non-Cumulative Perpetual Preferred Stock, A",NASDAQ Global Select MarketSM,FRMEP
 FROG,JFrog Ltd. - Ordinary shares,NASDAQ Global Select MarketSM,FROG
@@ -5619,9 +5617,6 @@ INSG,Inseego Corp. - Common Stock,NASDAQ Global Select MarketSM,INSG
 INSM,Insmed Incorporated - Common Stock,NASDAQ Global Select MarketSM,INSM
 INTA,"Intapp, Inc. - Common Stock",NASDAQ Global Select MarketSM,INTA
 INTC,Intel Corporation - Common Stock,NASDAQ Global Select MarketSM,INTC
-INTE,Integral Acquisition Corporation 1 - Class A Common Stock,NASDAQ Capital Market,INTE
-INTEU,Integral Acquisition Corporation 1 - Unit,NASDAQ Capital Market,INTEU
-INTEW,Integral Acquisition Corporation 1 - Warrant,NASDAQ Capital Market,INTEW
 INTG,The Intergroup Corporation - Common Stock,NASDAQ Capital Market,INTG
 INTJ,Intelligent Group Limited - Ordinary Shares,NASDAQ Capital Market,INTJ
 INTR,Inter & Co. Inc. - Class A Common Shares,NASDAQ Global Select MarketSM,INTR
@@ -6395,9 +6390,6 @@ NOVV,Nova Vision Acquisition Corp. - Ordinary share,NASDAQ Capital Market,NOVV
 NOVVR,Nova Vision Acquisition Corp. - Rights,NASDAQ Capital Market,NOVVR
 NOVVU,Nova Vision Acquisition Corp. - Unit,NASDAQ Capital Market,NOVVU
 NOVVW,Nova Vision Acquisition Corp. - Warrant,NASDAQ Capital Market,NOVVW
-NPAB,New Providence Acquisition Corp. II - Class A Common Stock,NASDAQ Global MarketSM,NPAB
-NPABU,New Providence Acquisition Corp. II - Unit,NASDAQ Global MarketSM,NPABU
-NPABW,New Providence Acquisition Corp. II - Warrant,NASDAQ Global MarketSM,NPABW
 NPCE,"Neuropace, Inc. - Common Stock",NASDAQ Global MarketSM,NPCE
 NPFI,Nuveen Preferred and Income ETF,NASDAQ Global MarketSM,NPFI
 NRBO,"NeuroBo Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,NRBO
@@ -6695,6 +6687,7 @@ PENG,"Penguin Solutions, Inc. - Ordinary Shares",NASDAQ Global Select MarketSM,P
 PENN,"PENN Entertainment, Inc. - Common Stock",NASDAQ Global Select MarketSM,PENN
 PEP,"PepsiCo, Inc. - Common Stock",NASDAQ Global Select MarketSM,PEP
 PEPG,PepGen Inc. - Common Stock,NASDAQ Global Select MarketSM,PEPG
+PEPS,Parametric Equity Plus ETF,NASDAQ Global MarketSM,PEPS
 PERI,Perion Network Ltd - Ordinary Shares,NASDAQ Global Select MarketSM,PERI
 PESI,"Perma-Fix Environmental Services, Inc. - Common Stock",NASDAQ Capital Market,PESI
 PET,Wag! Group Co. - Common Stock,NASDAQ Global MarketSM,PET
@@ -7302,6 +7295,7 @@ SIXG,Defiance Connective Technologies ETF,NASDAQ Global MarketSM,SIXG
 SJ,Scienjoy Holding Corporation - Class A Ordinary Shares,NASDAQ Capital Market,SJ
 SJCP,SanJac Alpha Core Plus Bond ETF,NASDAQ Global MarketSM,SJCP
 SJLD,SanJac Alpha Low Duration ETF,NASDAQ Global MarketSM,SJLD
+SJW,SJW Group - Common Stock,NASDAQ Global Select MarketSM,SJW
 SKGR,SK Growth Opportunities Corporation - Class A Common Stock,NASDAQ Global MarketSM,SKGR
 SKGRU,SK Growth Opportunities Corporation - Unit,NASDAQ Global MarketSM,SKGRU
 SKGRW,SK Growth Opportunities Corporation - Warrant,NASDAQ Global MarketSM,SKGRW
@@ -8046,6 +8040,7 @@ WIX,Wix.com Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,WIX
 WKEY,WISeKey International Holding Ltd - American Depositary Shares,NASDAQ Global MarketSM,WKEY
 WKHS,"Workhorse Group, Inc. - Common Stock",NASDAQ Capital Market,WKHS
 WKSP,"Worksport, Ltd. - Common Stock",NASDAQ Capital Market,WKSP
+WLACU,Willow Lane Acquisition Corp. - Unit,NASDAQ Global MarketSM,WLACU
 WLDN,"Willdan Group, Inc. - Common Stock",NASDAQ Global MarketSM,WLDN
 WLDS,Wearable Devices Ltd. - Ordinary Share,NASDAQ Capital Market,WLDS
 WLDSW,Wearable Devices Ltd. - Warrant,NASDAQ Capital Market,WLDSW
@@ -8131,6 +8126,8 @@ XXII,"22nd Century Group, Inc - Common Stock",NASDAQ Capital Market,XXII
 XYLO,Xylo Technologies Ltd. - American Depositary Shares,NASDAQ Capital Market,XYLO
 YGMZ,MingZhu Logistics Holdings Limited - Ordinary Shares,NASDAQ Capital Market,YGMZ
 YHGJ,Yunhong Green CTI Ltd. - Common Stock,NASDAQ Capital Market,YHGJ
+YHNA,YHN Acquisition I Limited - Ordinary Shares,NASDAQ Global MarketSM,YHNA
+YHNAR,YHN Acquisition I Limited - Right,NASDAQ Global MarketSM,YHNAR
 YHNAU,YHN Acquisition I Limited - Unit,NASDAQ Global MarketSM,YHNAU
 YI,"111, Inc. - American Depositary Shares",NASDAQ Global MarketSM,YI
 YIBO,Planet Image International Limited - Class A Ordinary Shares,NASDAQ Capital Market,YIBO
@@ -9696,7 +9693,7 @@ HYAC.U,"Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary
 HYAC.W,"Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",NYSE,HYAC.W
 HYB,"New America High Income Fund, Inc. (The) Common Stock",NYSE,HYB
 HYI,Western Asset High Yield Defined Opportunity Fund Inc. Common Stock,NYSE,HYI
-HYLN,Hyliion Holdings Corp. Class A Common Stock,NYSE,HYLN
+HYLN,Hyliion Holdings Corp. Class A Common Stock,NYSE MKT,HYLN
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock",NYSE,HYT
 HZO,"MarineMax, Inc.  (FL) Common Stock",NYSE,HZO
 IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest,NYSE,IAE
@@ -10574,7 +10571,7 @@ PRK,Park National Corporation Common Stock,NYSE MKT,PRK
 PRKS,United Parks & Resorts Inc. Common Stock,NYSE,PRKS
 PRLB,"Proto Labs, Inc. Common stock",NYSE,PRLB
 PRM,"Perimeter Solutions, SA Ordinary Shares",NYSE,PRM
-PRMW,Primo Water Corporation Common Stock,NYSE,PRMW
+PRMB,Primo Brands Corporation Class A Common Stock,NYSE,PRMB
 PRO,"PROS Holdings, Inc. Common Stock",NYSE,PRO
 PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",NYSE,PRS
 PRT,PermRock Royalty Trust Trust Units,NYSE,PRT
