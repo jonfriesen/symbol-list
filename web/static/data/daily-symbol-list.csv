@@ -178,7 +178,6 @@ STAK.P,Bigstack Opportunities I Inc.,TSXV,STAK.P.V,BigStack Opportunities Inc.,S
 BGA,BioNeutra Global Corporation,TSXV,BGA.V,BioNeutra Global Corporation,BGA
 BRM,Biorem Inc.,TSXV,BRM.V,Biorem Inc.,BRM
 RX,BioSyent Inc.,TSXV,RX.V,BioSyent Inc.,RX
-BCHT,Birchtech Corp.,TSXV,BCHT.V,Birchtech Corp.,BCHT
 BTCW,Bitcoin Well Inc.,TSXV,BTCW.V,Bitcoin Well Inc.,BTCW
 BTT,Bitterroot Resources Ltd.,TSXV,BTT.V,Bitterroot Resources Ltd.,BTT
 BMM,Black Mammoth Metals Corporation,TSXV,BMM.V,Black Mammoth Metals Corporation,BMM
@@ -1682,6 +1681,7 @@ PRM,Big Pharma Split Corp.,TSX,PRM.TO,Big Pharma Split A,PRM,Big Pharma Split Pr
 BR,Big Rock Brewery Inc.,TSX,BR.TO,Big Rock Brewery Inc,BR
 BIK.PR.A,BIP Investment Corporation,TSX,BIK.PR.A.TO,BIP Invest Ser 1 Pr,BIK.PR.A
 BIR,Birchcliff Energy Ltd.,TSX,BIR.TO,Birchcliff Energy,BIR
+BCHT,Birchtech Corp.,TSX,BCHT.TO,Birchtech Corp,BCHT
 BDT,Bird Construction Inc.,TSX,BDT.TO,Bird Construction ,BDT
 QBTC,"Bitcoin Fund, The",TSX,QBTC.TO,Bitcoin Fund A CAD,QBTC,Bitcoin Fund Cl A US,QBTC.U
 BITF,Bitfarms Ltd.,TSX,BITF.TO,Bitfarms Ltd. J,BITF
@@ -2326,7 +2326,6 @@ WN,George Weston Limited,TSX,WN.TO,Weston George,WN,Weston George 1 Pr,WN.PR.A,W
 GFL,GFL Environmental Inc.,TSX,GFL.TO,GFL Environment SV,GFL
 GEI,Gibson Energy Inc.,TSX,GEI.TO,Gibson Energy Inc,GEI
 GIL,Gildan Activewear Inc.,TSX,GIL.TO,Gildan Activewear,GIL
-GIVX,Givex Corp.,TSX,GIVX.TO,Givex Corp.,GIVX
 GVC,Glacier Media Inc.,TSX,GVC.TO,Glacier Media Inc. J,GVC
 GLO,Global Atomic Corporation,TSX,GLO.TO,Global Atomic Corp J,GLO
 GDV,Global Dividend Growth Split Corp.,TSX,GDV.TO,Glbl Div GrowSplit A,GDV,Glbl DivGrowSplit Pr,GDV.PR.A
@@ -2973,6 +2972,7 @@ PFAE,Picton Mahoney Fortified Active Extension Alternative Fund,TSX,PFAE.TO,Pict
 PFAA,Picton Mahoney Fortified Alpha Alternative Fund,TSX,PFAA.TO,Picton MhnyFortAltUn,PFAA
 PFCB,Picton Mahoney Fortified Core Bond Fund,TSX,PFCB.TO,Picton MhnyFortCrBnd,PFCB
 PFIA,Picton Mahoney Fortified Income Alternative Fund,TSX,PFIA.TO,Picton Mahoney Incm,PFIA
+PFIG,Picton Mahoney Fortified Investment Grade Alternative Fund,TSX,PFIG.TO,Picton Mah Fort IGAF,PFIG
 PFLS,Picton Mahoney Fortified Long Short Alternative Fund,TSX,PFLS.TO,PictonMahony LnShAlt,PFLS
 PFMN,Picton Mahoney Fortified Market Neutral Alternative Fund,TSX,PFMN.TO,Picton MahoneyMktNeu,PFMN
 PFMS,Picton Mahoney Fortified Multi-Strategy Alternative Fund,TSX,PFMS.TO,PictonMahnyMult-Stgy,PFMS
@@ -3051,7 +3051,7 @@ PHE,Purpose Tactical Hedged Equity Fund,TSX,PHE.TO,Purpose Tact Hegd Eq,PHE,Purp
 PBD,Purpose Total Return Bond Fund,TSX,PBD.TO,Purpose Tot Ret Bond,PBD
 PSU.U,Purpose US Cash Fund,TSX,PSU.U.TO,Purpose US Cash USF,PSU.U
 MNU.U,Purpose USD Cash Management Fund,TSX,MNU.U.TO,PurposeCshMgtNC HgUS,MNU.U
-PYR,PyroGenesis Inc.,TSX,PYR.TO,PyroGenesis Cda J,PYR
+PYR,PyroGenesis Inc.,TSX,PYR.TO,PyroGenesis Inc.,PYR
 PREF,Quadravest Preferred Split Share ETF,TSX,PREF.TO,Quad Pref SplitShETF,PREF
 QTRH,Quarterhill Inc.,TSX,QTRH.TO,Quarterhill Inc.,QTRH,Quarterhill Inc Deb,QTRH.DB
 QBR.A,Quebecor Inc.,TSX,QBR.A.TO,Quebecor Inc Cl A MV,QBR.A,Quebecor Inc Cl B SV,QBR.B
@@ -5002,9 +5002,6 @@ FNGR,"FingerMotion, Inc. - common stock",NASDAQ Capital Market,FNGR
 FNK,First Trust Mid Cap Value AlphaDEX Fund,NASDAQ Global MarketSM,FNK
 FNKO,"Funko, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,FNKO
 FNLC,"First Bancorp, Inc (ME) - Common Stock",NASDAQ Global Select MarketSM,FNLC
-FNVT,Finnovate Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,FNVT
-FNVTU,Finnovate Acquisition Corp. - Units,NASDAQ Global MarketSM,FNVTU
-FNVTW,Finnovate Acquisition Corp. - Warrants,NASDAQ Global MarketSM,FNVTW
 FNWB,First Northwest Bancorp - Common Stock,NASDAQ Global MarketSM,FNWB
 FNWD,Finward Bancorp - common stock,NASDAQ Capital Market,FNWD
 FNX,First Trust Mid Cap Core AlphaDEX Fund,NASDAQ Global MarketSM,FNX
@@ -6151,6 +6148,7 @@ MKDWW,MKDWELL Tech Inc. - Warrants,NASDAQ Capital Market,MKDWW
 MKSI,"MKS Instruments, Inc. - Common Stock",NASDAQ Global Select MarketSM,MKSI
 MKTW,"MarketWise, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MKTW
 MKTX,"MarketAxess Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MKTX
+MKZR,"MacKenzie Realty Capital, Inc. - Common Stock",NASDAQ Capital Market,MKZR
 MLAB,"Mesa Laboratories, Inc. - Common Stock",NASDAQ Global Select MarketSM,MLAB
 MLCO,Melco Resorts & Entertainment Limited - American Depositary Shares ,NASDAQ Global Select MarketSM,MLCO
 MLEC,Moolec Science SA - Ordinary shares,NASDAQ Capital Market,MLEC
@@ -6633,6 +6631,7 @@ PAHC,Phibro Animal Health Corporation - Class A Common Stock,NASDAQ Global Marke
 PAL,"Proficient Auto Logistics, Inc. - Common Stock",NASDAQ Global Select MarketSM,PAL
 PALI,"Palisade Bio, Inc. - Common Stock",NASDAQ Capital Market,PALI
 PALT,"Paltalk, Inc. - Common Stock",NASDAQ Capital Market,PALT
+PAMT,PAMT CORP - Common Stock,NASDAQ Global MarketSM,PAMT
 PANL,Pangaea Logistics Solutions Ltd. - Common Stock,NASDAQ Capital Market,PANL
 PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ Global Select MarketSM,PANW
 PARA,Paramount Global - Class B Common Stock,NASDAQ Global Select MarketSM,PARA
@@ -6876,7 +6875,6 @@ PTMN,Portman Ridge Finance Corporation - Closed End Fund,NASDAQ Global Select Ma
 PTNQ,Pacer Trendpilot 100 ETF,NASDAQ Global MarketSM,PTNQ
 PTON,"Peloton Interactive, Inc. - Common Stock",NASDAQ Global Select MarketSM,PTON
 PTPI,"Petros Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,PTPI
-PTSI,"P.A.M. Transportation Services, Inc. - Common Stock",NASDAQ Global MarketSM,PTSI
 PTVE,Pactiv Evergreen Inc. - Common stock,NASDAQ Global Select MarketSM,PTVE
 PUBM,"PubMatic, Inc. - Class A Common Stock",NASDAQ Global MarketSM,PUBM
 PUI,Invesco Dorsey Wright Utilities Momentum ETF,NASDAQ Global MarketSM,PUI
