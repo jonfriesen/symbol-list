@@ -1,180 +1,144 @@
 {
  "added": [
   {
-   "symbol": "HDRO",
-   "name": "Primary Hydrogen Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HDRO.V",
+   "symbol": "GCU",
+   "name": "Gunnison Copper Corp",
+   "exchange": "TSX",
+   "yahoo_symbol": "GCU.TO",
    "instruments": [
     {
-     "name": "Primary Hydrogen Corp.",
-     "symbol": "HDRO"
+     "name": "Excelsior Mining J",
+     "symbol": "GCU"
     }
    ]
   },
   {
-   "symbol": "ABP",
-   "name": "Abpro Holdings, Inc - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ABP"
-  },
-  {
-   "symbol": "ABPWW",
-   "name": "Abpro Holdings, Inc - Warrant",
+   "symbol": "ATMV",
+   "name": "AlphaVest Acquisition Corp - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ABPWW"
+   "yahoo_symbol": "ATMV"
   },
   {
-   "symbol": "ACOG",
-   "name": "Alpha Cognition Inc. - Common Stock",
+   "symbol": "ATMVR",
+   "name": "AlphaVest Acquisition Corp - Right",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACOG"
+   "yahoo_symbol": "ATMVR"
   },
   {
-   "symbol": "BHST",
-   "name": "BioHarvest Sciences Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BHST"
+   "symbol": "ATMVU",
+   "name": "AlphaVest Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMVU"
   },
   {
-   "symbol": "CRWL",
-   "name": "GraniteShares 2x Long CRWD Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRWL"
+   "symbol": "HSPO",
+   "name": "Horizon Space Acquisition I Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPO"
   },
   {
-   "symbol": "MULL",
-   "name": "GraniteShares 2x Long MU Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MULL"
+   "symbol": "HSPOR",
+   "name": "Horizon Space Acquisition I Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPOR"
   },
   {
-   "symbol": "SNRE",
-   "name": "Sunrise Communications AG - American Depositary Shares representing Class A shares",
+   "symbol": "HSPOU",
+   "name": "Horizon Space Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPOU"
+  },
+  {
+   "symbol": "HSPOW",
+   "name": "Horizon Space Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPOW"
+  },
+  {
+   "symbol": "IZTC",
+   "name": "Invizyne Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IZTC"
+  },
+  {
+   "symbol": "TLX",
+   "name": "Telix Pharmaceuticals Limited - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SNRE"
-  },
-  {
-   "symbol": "TSMU",
-   "name": "GraniteShares 2x Long TSM Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSMU"
+   "yahoo_symbol": "TLX"
   }
  ],
  "removed": [
   {
-   "symbol": "ACAB",
-   "name": "Atlantic Coastal Acquisition Corp. II - Class A Common Stock",
+   "symbol": "HSPOU",
+   "name": "Horizon Space Acquisition I Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAB"
+   "yahoo_symbol": "HSPOU"
   },
   {
-   "symbol": "NEWO",
-   "name": "NewOrigin Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NEWO.V",
-   "instruments": [
-    {
-     "name": "NewOrigin Gold Corp.",
-     "symbol": "NEWO"
-    }
-   ]
-  },
-  {
-   "symbol": "BCSAW",
-   "name": "Blockchain Coinvestors Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCSAW"
-  },
-  {
-   "symbol": "ACABU",
-   "name": "Atlantic Coastal Acquisition Corp. II - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACABU"
-  },
-  {
-   "symbol": "MILL",
-   "name": "Millbank Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MILL.V",
-   "instruments": [
-    {
-     "name": "Millbank Mining Corp.",
-     "symbol": "MILL"
-    }
-   ]
-  },
-  {
-   "symbol": "TDW.W",
-   "name": "Tidewater Inc. Warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "TDW.W"
-  },
-  {
-   "symbol": "LBYAV",
-   "name": "Liberty Global Ltd. - Class A Common Shares Ex-distribution When-Issued",
+   "symbol": "TWKS",
+   "name": "Thoughtworks Holding, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBYAV"
+   "yahoo_symbol": "TWKS"
   },
   {
-   "symbol": "FCGV",
-   "name": "Florida Canyon Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FCGV.V",
-   "instruments": [
-    {
-     "name": "Florida Canyon Gold Inc.",
-     "symbol": "FCGV"
-    }
-   ]
-  },
-  {
-   "symbol": "BCSAU",
-   "name": "Blockchain Coinvestors Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCSAU"
-  },
-  {
-   "symbol": "BCSA",
-   "name": "Blockchain Coinvestors Acquisition Corp. I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCSA"
-  },
-  {
-   "symbol": "PRMW",
-   "name": "Primo Water Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "PRMW.TO",
-   "instruments": [
-    {
-     "name": "Primo Water Corp.",
-     "symbol": "PRMW"
-    }
-   ]
-  },
-  {
-   "symbol": "SNREV",
-   "name": "Sunrise Communications AG - American Depositary Shares representing Class A shares When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SNREV"
-  },
-  {
-   "symbol": "LBYKV",
-   "name": "Liberty Global Ltd. - Class C Common Shares Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBYKV"
-  },
-  {
-   "symbol": "INST",
-   "name": "Instructure Holdings, Inc. Common Stock",
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "INST"
+   "yahoo_symbol": "SRV.R"
   },
   {
-   "symbol": "ACABW",
-   "name": "Atlantic Coastal Acquisition Corp. II - Warrant",
+   "symbol": "HSPOW",
+   "name": "Horizon Space Acquisition I Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACABW"
+   "yahoo_symbol": "HSPOW"
+  },
+  {
+   "symbol": "HSPO",
+   "name": "Horizon Space Acquisition I Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPO"
+  },
+  {
+   "symbol": "KSM",
+   "name": "DWS Strategic Municipal Income Trust",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KSM"
+  },
+  {
+   "symbol": "ATMVR",
+   "name": "AlphaVest Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMVR"
+  },
+  {
+   "symbol": "ATMVU",
+   "name": "AlphaVest Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMVU"
+  },
+  {
+   "symbol": "ATMV",
+   "name": "AlphaVest Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMV"
+  },
+  {
+   "symbol": "HSPOR",
+   "name": "Horizon Space Acquisition I Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPOR"
+  },
+  {
+   "symbol": "MIN",
+   "name": "Excelsior Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MIN.TO",
+   "instruments": [
+    {
+     "name": "Excelsior Mining J",
+     "symbol": "MIN"
+    }
+   ]
   }
  ]
 }
