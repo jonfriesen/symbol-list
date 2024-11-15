@@ -1,144 +1,144 @@
 {
  "added": [
   {
-   "symbol": "GCU",
-   "name": "Gunnison Copper Corp",
-   "exchange": "TSX",
-   "yahoo_symbol": "GCU.TO",
+   "symbol": "AGA",
+   "name": "Silver47 Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGA.V",
    "instruments": [
     {
-     "name": "Excelsior Mining J",
-     "symbol": "GCU"
+     "name": "Silver47 Exploration Corp.",
+     "symbol": "AGA"
     }
    ]
   },
   {
-   "symbol": "ATMV",
-   "name": "AlphaVest Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMV"
+   "symbol": "DXCO",
+   "name": "Dynamic Credit Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXCO.TO",
+   "instruments": [
+    {
+     "name": "Dyn Cred Opps Fd ETF",
+     "symbol": "DXCO"
+    }
+   ]
   },
   {
-   "symbol": "ATMVR",
-   "name": "AlphaVest Acquisition Corp - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMVR"
+   "symbol": "DXBG",
+   "name": "Dynamic Global Fixed Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXBG.TO",
+   "instruments": [
+    {
+     "name": "Dyn GlFix IncFnd ETF",
+     "symbol": "DXBG"
+    }
+   ]
   },
   {
-   "symbol": "ATMVU",
-   "name": "AlphaVest Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMVU"
+   "symbol": "DXCP",
+   "name": "Dynamic Short Term Credit PLUS Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXCP.TO",
+   "instruments": [
+    {
+     "name": "Dyn STCr Pl Fnd ETF",
+     "symbol": "DXCP"
+    }
+   ]
   },
   {
-   "symbol": "HSPO",
-   "name": "Horizon Space Acquisition I Corp. - Ordinary Shares",
+   "symbol": "ALCY",
+   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSPO"
+   "yahoo_symbol": "ALCY"
   },
   {
-   "symbol": "HSPOR",
-   "name": "Horizon Space Acquisition I Corp. - Right",
+   "symbol": "ALCYU",
+   "name": "Alchemy Investments Acquisition Corp 1 - Units",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSPOR"
+   "yahoo_symbol": "ALCYU"
   },
   {
-   "symbol": "HSPOU",
-   "name": "Horizon Space Acquisition I Corp. - Unit",
+   "symbol": "ALCYW",
+   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSPOU"
+   "yahoo_symbol": "ALCYW"
   },
   {
-   "symbol": "HSPOW",
-   "name": "Horizon Space Acquisition I Corp. - Warrant",
+   "symbol": "MDCX",
+   "name": "Medicus Pharma Ltd. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSPOW"
+   "yahoo_symbol": "MDCX"
   },
   {
-   "symbol": "IZTC",
-   "name": "Invizyne Technologies Inc. - Common Stock",
+   "symbol": "MDCXW",
+   "name": "Medicus Pharma Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IZTC"
+   "yahoo_symbol": "MDCXW"
   },
   {
-   "symbol": "TLX",
-   "name": "Telix Pharmaceuticals Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TLX"
+   "symbol": "PBM",
+   "name": "Psyence Biomedical Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PBM"
+  },
+  {
+   "symbol": "SLGL",
+   "name": "Sol-Gel Technologies Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLGL"
+  },
+  {
+   "symbol": "TSSI",
+   "name": "TSS, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TSSI"
+  },
+  {
+   "symbol": "SBSI",
+   "name": "Southside Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBSI"
   }
  ],
  "removed": [
   {
-   "symbol": "HSPOU",
-   "name": "Horizon Space Acquisition I Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPOU"
-  },
-  {
-   "symbol": "TWKS",
-   "name": "Thoughtworks Holding, Inc. - Common Stock",
+   "symbol": "SBSI",
+   "name": "Southside Bancshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TWKS"
+   "yahoo_symbol": "SBSI"
   },
   {
-   "symbol": "SRV.R",
-   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRV.R"
-  },
-  {
-   "symbol": "HSPOW",
-   "name": "Horizon Space Acquisition I Corp. - Warrant",
+   "symbol": "PBM",
+   "name": "Psyence Biomedical Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPOW"
+   "yahoo_symbol": "PBM"
   },
   {
-   "symbol": "HSPO",
-   "name": "Horizon Space Acquisition I Corp. - Ordinary Shares",
+   "symbol": "SLGL",
+   "name": "Sol-Gel Technologies Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPO"
+   "yahoo_symbol": "SLGL"
   },
   {
-   "symbol": "KSM",
-   "name": "DWS Strategic Municipal Income Trust",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KSM"
-  },
-  {
-   "symbol": "ATMVR",
-   "name": "AlphaVest Acquisition Corp - Right",
+   "symbol": "ALCY",
+   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATMVR"
+   "yahoo_symbol": "ALCY"
   },
   {
-   "symbol": "ATMVU",
-   "name": "AlphaVest Acquisition Corp - Unit",
+   "symbol": "ALCYU",
+   "name": "Alchemy Investments Acquisition Corp 1 - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATMVU"
+   "yahoo_symbol": "ALCYU"
   },
   {
-   "symbol": "ATMV",
-   "name": "AlphaVest Acquisition Corp - Ordinary Shares",
+   "symbol": "ALCYW",
+   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATMV"
-  },
-  {
-   "symbol": "HSPOR",
-   "name": "Horizon Space Acquisition I Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPOR"
-  },
-  {
-   "symbol": "MIN",
-   "name": "Excelsior Mining Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MIN.TO",
-   "instruments": [
-    {
-     "name": "Excelsior Mining J",
-     "symbol": "MIN"
-    }
-   ]
+   "yahoo_symbol": "ALCYW"
   }
  ]
 }

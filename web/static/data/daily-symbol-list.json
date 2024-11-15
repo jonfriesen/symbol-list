@@ -1,5 +1,5 @@
 {
- "date": "2024-11-14",
+ "date": "2024-11-15",
  "data": [
   {
    "symbol": "ONE",
@@ -13958,10 +13958,6 @@
     {
      "name": "Realbotix Corp.",
      "symbol": "XBOT"
-    },
-    {
-     "name": "Realbotix Corp. wt 15Nov2024",
-     "symbol": "XBOT.WT"
     }
    ]
   },
@@ -15330,6 +15326,18 @@
     {
      "name": "Silver X Mining Corp.",
      "symbol": "AGX"
+    }
+   ]
+  },
+  {
+   "symbol": "AGA",
+   "name": "Silver47 Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGA.V",
+   "instruments": [
+    {
+     "name": "Silver47 Exploration Corp.",
+     "symbol": "AGA"
     }
    ]
   },
@@ -27086,6 +27094,42 @@
    ]
   },
   {
+   "symbol": "DXCO",
+   "name": "Dynamic Credit Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXCO.TO",
+   "instruments": [
+    {
+     "name": "Dyn Cred Opps Fd ETF",
+     "symbol": "DXCO"
+    }
+   ]
+  },
+  {
+   "symbol": "DXBG",
+   "name": "Dynamic Global Fixed Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXBG.TO",
+   "instruments": [
+    {
+     "name": "Dyn GlFix IncFnd ETF",
+     "symbol": "DXBG"
+    }
+   ]
+  },
+  {
+   "symbol": "DXCP",
+   "name": "Dynamic Short Term Credit PLUS Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXCP.TO",
+   "instruments": [
+    {
+     "name": "Dyn STCr Pl Fnd ETF",
+     "symbol": "DXCP"
+    }
+   ]
+  },
+  {
    "symbol": "ENS",
    "name": "E Split Corp.",
    "exchange": "TSX",
@@ -31388,7 +31432,7 @@
    "yahoo_symbol": "GCU.TO",
    "instruments": [
     {
-     "name": "Excelsior Mining J",
+     "name": "Gunnison Copper Corp",
      "symbol": "GCU"
     }
    ]
@@ -44672,19 +44716,19 @@
   {
    "symbol": "ALCY",
    "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ALCY"
   },
   {
    "symbol": "ALCYU",
    "name": "Alchemy Investments Acquisition Corp 1 - Units",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ALCYU"
   },
   {
    "symbol": "ALCYW",
    "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ALCYW"
   },
   {
@@ -59874,6 +59918,18 @@
    "yahoo_symbol": "MDCP"
   },
   {
+   "symbol": "MDCX",
+   "name": "Medicus Pharma Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDCX"
+  },
+  {
+   "symbol": "MDCXW",
+   "name": "Medicus Pharma Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDCXW"
+  },
+  {
    "symbol": "MDGL",
    "name": "Madrigal Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63278,7 +63334,7 @@
   {
    "symbol": "PBM",
    "name": "Psyence Biomedical Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PBM"
   },
   {
@@ -66498,12 +66554,6 @@
    "yahoo_symbol": "SBRA"
   },
   {
-   "symbol": "SBSI",
-   "name": "Southside Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SBSI"
-  },
-  {
    "symbol": "SBT",
    "name": "Sterling Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67268,7 +67318,7 @@
   {
    "symbol": "SLGL",
    "name": "Sol-Gel Technologies Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SLGL"
   },
   {
@@ -69658,6 +69708,12 @@
    "name": "TappAlpha SPY Growth \u0026 Daily Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TSPY"
+  },
+  {
+   "symbol": "TSSI",
+   "name": "TSS, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TSSI"
   },
   {
    "symbol": "TSVT",
@@ -88030,6 +88086,12 @@
    "name": "Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares)",
    "exchange": "NYSE",
    "yahoo_symbol": "SBS"
+  },
+  {
+   "symbol": "SBSI",
+   "name": "Southside Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBSI"
   },
   {
    "symbol": "SBSW",
