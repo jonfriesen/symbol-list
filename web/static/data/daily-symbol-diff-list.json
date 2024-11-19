@@ -1,84 +1,90 @@
 {
  "added": [
   {
-   "symbol": "HSPTU",
-   "name": "Horizon Space Acquisition II Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPTU"
+   "symbol": "ACHL",
+   "name": "Achilles Therapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACHL"
   },
   {
-   "symbol": "STSB",
-   "name": "Stance Sustainable Beta ETF",
+   "symbol": "BAFE",
+   "name": "Brown Advisory Flexible Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STSB"
+   "yahoo_symbol": "BAFE"
   },
   {
-   "symbol": "CBAN",
-   "name": "Colony Bankcorp, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CBAN"
+   "symbol": "DMN",
+   "name": "Damon Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMN"
+  },
+  {
+   "symbol": "SUNE",
+   "name": "SUNation Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SUNE"
   }
  ],
  "removed": [
   {
-   "symbol": "RCFA.U",
-   "name": "Perception Capital Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RCFA.U"
+   "symbol": "ACHL",
+   "name": "Achilles Therapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACHL"
+  },
+  {
+   "symbol": "PEGY",
+   "name": "Pineapple Energy Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEGY"
+  },
+  {
+   "symbol": "CBRGU",
+   "name": "Chain Bridge I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBRGU"
   },
   {
    "symbol": "NVEI",
-   "name": "Nuvei Corporation - Subordinate Voting Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NVEI"
+   "name": "Nuvei Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVEI.TO",
+   "instruments": [
+    {
+     "name": "Nuvei Corp. J SV",
+     "symbol": "NVEI"
+    }
+   ]
   },
   {
-   "symbol": "RCFA.W",
-   "name": "Perception Capital Corp. IV Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RCFA.W"
-  },
-  {
-   "symbol": "CBAN",
-   "name": "Colony Bankcorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CBAN"
-  },
-  {
-   "symbol": "PLAOU",
-   "name": "Patria Latin American Opportunity Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLAOU"
-  },
-  {
-   "symbol": "PXDT",
-   "name": "Pixie Dust Technologies, Inc. - ADS, each representing one common share",
+   "symbol": "DPCSU",
+   "name": "DP Cap Acquisition Corp I - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PXDT"
+   "yahoo_symbol": "DPCSU"
   },
   {
-   "symbol": "PLAOW",
-   "name": "Patria Latin American Opportunity Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLAOW"
-  },
-  {
-   "symbol": "AXNX",
-   "name": "Axonics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AXNX"
-  },
-  {
-   "symbol": "EVTL.W",
-   "name": "Vertical Aerospace Ltd. Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",
+   "symbol": "SAVE",
+   "name": "Spirit Airlines, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "EVTL.W"
+   "yahoo_symbol": "SAVE"
   },
   {
-   "symbol": "RCFA",
-   "name": "Perception Capital Corp. IV Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RCFA"
+   "symbol": "DPCSW",
+   "name": "DP Cap Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DPCSW"
+  },
+  {
+   "symbol": "DPCS",
+   "name": "DP Cap Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DPCS"
+  },
+  {
+   "symbol": "CBRG",
+   "name": "Chain Bridge I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBRG"
   }
  ]
 }
