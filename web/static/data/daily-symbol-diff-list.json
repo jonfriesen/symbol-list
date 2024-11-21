@@ -1,84 +1,102 @@
 {
  "added": [
   {
-   "symbol": "PREM",
-   "name": "Premium Resources Ltd.",
+   "symbol": "PWH",
+   "name": "PureWave Hydrogen Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PREM.V",
+   "yahoo_symbol": "PWH.V",
    "instruments": [
     {
-     "name": "Premium Resources Ltd.",
-     "symbol": "PREM"
+     "name": "PureWave Hydrogen Corp.",
+     "symbol": "PWH"
     }
    ]
   },
   {
-   "symbol": "BALY.T",
-   "name": "Bally's Corporation Common Stock (Rolling Shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BALY.T"
+   "symbol": "GRGD",
+   "name": "Groupe Dynamite Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GRGD.TO",
+   "instruments": [
+    {
+     "name": "Groupe Dynamite WI",
+     "symbol": "GRGD"
+    }
+   ]
   },
   {
-   "symbol": "CON.V",
-   "name": "Concentra Group Holdings Parent, Inc. Common Stock When-Issued Add'l Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CON.V"
+   "symbol": "RMSG",
+   "name": "Real Messenger Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMSG"
   },
   {
-   "symbol": "SEM.V",
-   "name": "Select Medical Holdings Corporation Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEM.V"
+   "symbol": "RMSGW",
+   "name": "Real Messenger Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMSGW"
+  },
+  {
+   "symbol": "USAF",
+   "name": "Atlas America Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USAF"
   }
  ],
  "removed": [
   {
-   "symbol": "NOVV",
-   "name": "Nova Vision Acquisition Corp. - Ordinary share",
+   "symbol": "BYU",
+   "name": "BAIYU Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NOVV"
+   "yahoo_symbol": "BYU"
   },
   {
-   "symbol": "NOVVR",
-   "name": "Nova Vision Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NOVVR"
-  },
-  {
-   "symbol": "LEV.W",
-   "name": "The Lion Electric Company Redeemable Warrants, each whole warrant entitles the holder to purchase one Common Share at a price of $11.50 per share",
+   "symbol": "HIE",
+   "name": "Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
-   "yahoo_symbol": "LEV.W"
+   "yahoo_symbol": "HIE"
   },
   {
-   "symbol": "PNRL",
-   "name": "Premium Nickel Resources Ltd.",
+   "symbol": "MCAG",
+   "name": "Mountain Crest Acquisition Corp. V - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAG"
+  },
+  {
+   "symbol": "LEX",
+   "name": "Longhorn Exploration Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PNRL.V",
+   "yahoo_symbol": "LEX.V",
    "instruments": [
     {
-     "name": "Premium Nickel Resources Ltd.",
-     "symbol": "PNRL"
+     "name": "Longhorn Exploration Corp.",
+     "symbol": "LEX"
     }
    ]
   },
   {
-   "symbol": "RCM",
-   "name": "R1 RCM Inc. - Common Stock",
+   "symbol": "MCAGR",
+   "name": "Mountain Crest Acquisition Corp. V - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAGR"
+  },
+  {
+   "symbol": "MCAGU",
+   "name": "Mountain Crest Acquisition Corp. V - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAGU"
+  },
+  {
+   "symbol": "DCF",
+   "name": "BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DCF"
+  },
+  {
+   "symbol": "EXAI",
+   "name": "Exscientia Plc - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RCM"
-  },
-  {
-   "symbol": "NOVVU",
-   "name": "Nova Vision Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NOVVU"
-  },
-  {
-   "symbol": "NOVVW",
-   "name": "Nova Vision Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NOVVW"
+   "yahoo_symbol": "EXAI"
   }
  ]
 }
