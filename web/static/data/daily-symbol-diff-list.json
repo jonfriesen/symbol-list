@@ -1,84 +1,126 @@
 {
  "added": [
   {
-   "symbol": "DYNXU",
-   "name": "Dynamix Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DYNXU"
+   "symbol": "CHS",
+   "name": "Comprehensive Healthcare Systems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CHS.V",
+   "instruments": [
+    {
+     "name": "Comprehensive Healthcare Systems Inc.",
+     "symbol": "CHS"
+    }
+   ]
   },
   {
-   "symbol": "NOEMU",
-   "name": "CO2 Energy Transition Corp. - Unit",
+   "symbol": "BYNO",
+   "name": "byNordic Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYNO"
+  },
+  {
+   "symbol": "BYNOU",
+   "name": "byNordic Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYNOU"
+  },
+  {
+   "symbol": "BYNOW",
+   "name": "byNordic Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYNOW"
+  },
+  {
+   "symbol": "CASK",
+   "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CASK"
+  },
+  {
+   "symbol": "ELPW",
+   "name": "Elong Power Holding Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NOEMU"
+   "yahoo_symbol": "ELPW"
+  },
+  {
+   "symbol": "MSW",
+   "name": "Ming Shing Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSW"
   }
  ],
  "removed": [
   {
-   "symbol": "HAYN",
-   "name": "Haynes International, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HAYN"
-  },
-  {
-   "symbol": "QOMO",
-   "name": "Qomolangma Acquisition Corp. - Common Stock",
+   "symbol": "NCNC",
+   "name": "noco-noco Inc. - Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QOMO"
+   "yahoo_symbol": "NCNC"
   },
   {
-   "symbol": "VINO",
-   "name": "Gaucho Group Holdings, Inc. - Common Stock",
+   "symbol": "BYNOU",
+   "name": "byNordic Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BYNOU"
+  },
+  {
+   "symbol": "BYNOW",
+   "name": "byNordic Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BYNOW"
+  },
+  {
+   "symbol": "BLEU",
+   "name": "bleuacacia ltd - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VINO"
+   "yahoo_symbol": "BLEU"
   },
   {
-   "symbol": "ARC",
-   "name": "ARC Document Solutions, Inc. Common Stock",
+   "symbol": "BYNO",
+   "name": "byNordic Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BYNO"
+  },
+  {
+   "symbol": "BLEUU",
+   "name": "bleuacacia ltd - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLEUU"
+  },
+  {
+   "symbol": "BLEUW",
+   "name": "bleuacacia ltd - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLEUW"
+  },
+  {
+   "symbol": "TORO",
+   "name": "Pucara Gold Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TORO.V",
+   "instruments": [
+    {
+     "name": "Pucara Gold Ltd.",
+     "symbol": "TORO"
+    }
+   ]
+  },
+  {
+   "symbol": "BLEUR",
+   "name": "bleuacacia ltd - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLEUR"
+  },
+  {
+   "symbol": "ENV",
+   "name": "Envestnet, Inc Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ARC"
+   "yahoo_symbol": "ENV"
   },
   {
-   "symbol": "TMTCU",
-   "name": "TMT Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TMTCU"
-  },
-  {
-   "symbol": "MRO",
-   "name": "Marathon Oil Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MRO"
-  },
-  {
-   "symbol": "TMTC",
-   "name": "TMT Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TMTC"
-  },
-  {
-   "symbol": "QOMOR",
-   "name": "Qomolangma Acquisition Corp. - Right",
+   "symbol": "NCNCW",
+   "name": "noco-noco Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QOMOR"
-  },
-  {
-   "symbol": "QOMOU",
-   "name": "Qomolangma Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QOMOU"
-  },
-  {
-   "symbol": "QOMOW",
-   "name": "Qomolangma Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QOMOW"
-  },
-  {
-   "symbol": "TMTCR",
-   "name": "TMT Acquisition Corp - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TMTCR"
+   "yahoo_symbol": "NCNCW"
   }
  ]
 }
