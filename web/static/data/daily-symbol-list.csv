@@ -671,6 +671,7 @@ HMR,Homerun Resources Inc.,TSXV,HMR.V,Homerun Resources Inc.,HMR
 TUF,Honey Badger Silver Inc.,TSXV,TUF.V,Honey Badger Silver Inc.,TUF
 HVII.P,Hopefield Ventures Two Inc.,TSXV,HVII.P.V,Hopefield Ventures Two Inc.,HVII.P
 HCU,Horizon Copper Corp.,TSXV,HCU.V,Horizon Copper Corp.,HCU
+HPL,Horizon Petroleum Ltd.,TSXV,HPL.V,Horizon Petroleum Ltd.,HPL
 HRC.P,Hoshi Resource Corp.,TSXV,HRC.P.V,Hoshi Resource Corp.,HRC.P
 HCH,Hot Chili Limited,TSXV,HCH.V,Hot Chili Limited,HCH
 HPQ,HPQ Silicon Inc.,TSXV,HPQ.V,HPQ Silicon Inc.,HPQ
@@ -1094,7 +1095,6 @@ POC.P,POCML 7 Inc.,TSXV,POC.P.V,POCML 7 INC.,POC.P
 PTK,POET Technologies Inc.,TSXV,PTK.V,POET Technologies Inc.,PTK
 POND,Pond Technologies Holdings Inc.,TSXV,POND.V,Pond Technologies Holdings Inc.,POND
 POOL,Pool Safe Inc.,TSXV,POOL.V,Pool Safe Inc.,POOL
-INIK,PopReach Corporation,TSXV,INIK.V,PopReach Corporation,INIK
 POR,Portofino Resources Inc.,TSXV,POR.V,Portofino Resources Inc.,POR
 PGP,Power Group Projects Corp.,TSXV,PGP.V,Power Group Projects Corp.,PGP
 PWM,Power Metals Corp.,TSXV,PWM.V,Power Metals Corp.,PWM
@@ -1538,6 +1538,7 @@ ZDC,Zedcor Inc.,TSXV,ZDC.V,Zedcor Inc.,ZDC
 ZENI.P,Zenith Capital Corporation,TSXV,ZENI.P.V,Zenith Capital Corporation,ZENI.P
 ZEN,Zentek Ltd.,TSXV,ZEN.V,Zentek Ltd.,ZEN
 ZFR,Zephyr Minerals Ltd.,TSXV,ZFR.V,Zephyr Minerals Ltd.,ZFR
+ZCT,Zero Candida Technologies Inc.,TSXV,ZCT.V,Zero Candida Technologies Inc.,ZCT
 ZC,Zimtu Capital Corp.,TSXV,ZC.V,Zimtu Capital Corp.,ZC
 ZNX,Zincx Resources Corp.,TSXV,ZNX.V,Zincx Resources Corp.,ZNX
 ZAU,Zodiac Gold Inc.,TSXV,ZAU.V,Zodiac Gold Inc.,ZAU
@@ -1636,7 +1637,7 @@ AYA,Aya Gold & Silver Inc.,TSX,AYA.TO,Aya Gold & Silvr J,AYA
 BTO,B2Gold Corp.,TSX,BTO.TO,B2Gold Corp.,BTO
 BDGI,Badger Infrastructure Solutions Ltd.,TSX,BDGI.TO,Badger Infras Solutn,BDGI
 BLDP,Ballard Power Systems Inc.,TSX,BLDP.TO,Ballard Power Sys,BLDP
-BMO,Bank of Montreal,TSX,BMO.TO,Bank of Montreal,BMO,Bk of Mon Pr Ser 44,BMO.PR.E,Bk of Mon Pr Ser 31,BMO.PR.W,Bk of Mon Pr Ser 33,BMO.PR.Y
+BMO,Bank of Montreal,TSX,BMO.TO,Bank of Montreal,BMO,Bk of Mon Pr Ser 44,BMO.PR.E,Bk of Mon Pr Ser 33,BMO.PR.Y
 BNS,Bank of Nova Scotia (The),TSX,BNS.TO,Bank of Nova Scotia,BNS
 ABX,Barrick Gold Corporation,TSX,ABX.TO,Barrick Gold Corp,ABX
 BLCO,Bausch + Lomb Corporation,TSX,BLCO.TO,Bausch + Lomb Corp. ,BLCO
@@ -1922,7 +1923,6 @@ CCL.A,CCL Industries Inc.,TSX,CCL.A.TO,CCL Industries Cl A,CCL.A,CCL Industries 
 CLS,Celestica Inc.,TSX,CLS.TO,Celestica Inc ,CLS
 CEMX,CEMATRIX Corporation,TSX,CEMX.TO,Cematrix Corporation,CEMX
 CVE,Cenovus Energy Inc.,TSX,CVE.TO,Cenovus Energy Inc.,CVE,Cenovus Engy Sr 1 Pr,CVE.PR.A,Cenovus Engy Sr 2 Pr,CVE.PR.B,Cenovus Engy Sr 3 Pr,CVE.PR.C,Cenovus Engy Sr 5 Pr,CVE.PR.E,Cenovus Engy Sr 7 Pr,CVE.PR.G,Cenovus Energy Wt,CVE.WT
-CEE,Centamin plc,TSX,CEE.TO,Centamin plc. Ord,CEE
 CG,Centerra Gold Inc.,TSX,CG.TO,Centerra Gold Inc.,CG
 CNT,Century Global Commodities Corporation,TSX,CNT.TO,Century Glbl Cmdty J,CNT
 CRP,Ceres Global Ag Corp.,TSX,CRP.TO,Ceres Global Ag Corp,CRP
@@ -3609,7 +3609,7 @@ AMPGW,"Amplitech Group, Inc. - Warrants",NASDAQ Capital Market,AMPGW
 AMPH,"Amphastar Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMPH
 AMPL,"Amplitude, Inc. - Class A Common Stock",NASDAQ Capital Market,AMPL
 AMRK,"A-Mark Precious Metals, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMRK
-AMRN,"Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",NASDAQ Global MarketSM,AMRN
+AMRN,"Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",NASDAQ Capital Market,AMRN
 AMRX,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,AMRX
 AMSC,American Superconductor Corporation - Common Stock,NASDAQ Global Select MarketSM,AMSC
 AMSF,"AMERISAFE, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMSF
@@ -4645,9 +4645,6 @@ DTSQU,DT Cloud Star Acquisition Corporation - Units,NASDAQ Global MarketSM,DTSQU
 DTSS,Datasea Inc. - Common Stock,NASDAQ Capital Market,DTSS
 DTST,Data Storage Corporation - Common Stock,NASDAQ Capital Market,DTST
 DTSTW,Data Storage Corporation - Warrant,NASDAQ Capital Market,DTSTW
-DUET,DUET Acquisition Corp. - Class A Common Stock,NASDAQ Global MarketSM,DUET
-DUETU,DUET Acquisition Corp. - Unit,NASDAQ Global MarketSM,DUETU
-DUETW,DUET Acquisition Corp. - Warrant,NASDAQ Global MarketSM,DUETW
 DUKH,Ocean Park High Income ETF,NASDAQ Global MarketSM,DUKH
 DUKX,Ocean Park International ETF,NASDAQ Global MarketSM,DUKX
 DUO,Fangdd Network Group Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,DUO
@@ -6044,6 +6041,7 @@ MBAVW,M3-Brigade Acquisition V Corp. - Warrant,NASDAQ Global MarketSM,MBAVW
 MBB,iShares MBS ETF,NASDAQ Global MarketSM,MBB
 MBCN,Middlefield Banc Corp. - Common Stock,NASDAQ Capital Market,MBCN
 MBIN,Merchants Bancorp - Common Stock,NASDAQ Capital Market,MBIN
+MBINL,"Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value",NASDAQ Capital Market,MBINL
 MBINM,"Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Reset Series D Non-Cumulative Perpetual Preferred Stock",NASDAQ Capital Market,MBINM
 MBINN,Merchants Bancorp - Depositary Shares 6.00% Fixed Rate Series C Non-Cumulative Perpetual Preferred Stock,NASDAQ Capital Market,MBINN
 MBINO,Merchants Bancorp - Depositary Shares Each Representing a 1/40th Interest in a Share of Series B Fixed-to-Floating Rate,NASDAQ Capital Market,MBINO
@@ -6271,7 +6269,7 @@ MYPS,"PLAYSTUDIOS, Inc.  - Class A Common Stock",NASDAQ Global MarketSM,MYPS
 MYPSW,"PLAYSTUDIOS, Inc.  - Warrant",NASDAQ Global MarketSM,MYPSW
 MYRG,"MYR Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,MYRG
 MYSZ,"My Size, Inc. - Common Stock",NASDAQ Capital Market,MYSZ
-NA,Nano Labs Ltd - Class A Ordinary Shares,NASDAQ Global MarketSM,NA
+NA,Nano Labs Ltd - Class A Ordinary Shares,NASDAQ Capital Market,NA
 NAAS,NaaS Technology Inc. - American Depositary Shares,NASDAQ Capital Market,NAAS
 NAII,"Natural Alternatives International, Inc. - Common Stock",NASDAQ Global MarketSM,NAII
 NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,NASDAQ Global MarketSM,NAMS
@@ -8771,7 +8769,6 @@ CFG$E,"Citizens Financial Group, Inc. Depositary Shares Each Representing 1/40th
 CFG$H,"Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series H",NYSE,CFG$H
 CFR,"Cullen/Frost Bankers, Inc. Common Stock",NYSE,CFR
 CFR$B,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",NYSE,CFR$B
-CGA,"China Green Agriculture, Inc. Common Stock",NYSE,CGA
 CGAU,Centerra Gold Inc. Common Shares,NYSE,CGAU
 CHCT,Community Healthcare Trust Incorporated Common Stock,NYSE,CHCT
 CHD,"Church & Dwight Company, Inc. Common Stock",NYSE,CHD
@@ -8884,7 +8881,6 @@ COHR,Coherent Corp. Common Stock,NYSE,COHR
 COLD,"Americold Realty Trust, Inc. Common Stock",NYSE,COLD
 COMP,"Compass, Inc. Class A Common Stock",NYSE,COMP
 CON,"Concentra Group Holdings Parent, Inc. Common Stock",NYSE,CON
-CON.V,"Concentra Group Holdings Parent, Inc. Common Stock When-Issued Add'l Shares",NYSE,CON.V
 COOK,"Traeger, Inc. Common Stock",NYSE,COOK
 COP,ConocoPhillips Common Stock,NYSE,COP
 COR,"Cencora, Inc. Common Stock",NYSE,COR
@@ -9188,6 +9184,7 @@ EMR,Emerson Electric Company Common Stock,NYSE,EMR
 EMX,EMX Royalty Corporation Common Shares (Canada),NYSE MKT,EMX
 ENB,Enbridge Inc Common Stock,NYSE,ENB
 ENFN,"Enfusion, Inc. Class A Common Stock",NYSE,ENFN
+ENFY,Enlightify Inc. Common Stock,NYSE,ENFY
 ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),NYSE,ENIC
 ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052",NYSE,ENJ
 ENLC,"EnLink Midstream, LLC Common Units representing Limited Partner Interests",NYSE,ENLC
@@ -9705,7 +9702,6 @@ IHD,Voya Emerging Markets High Income Dividend Equity Fund Common Shares,NYSE,IH
 IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share),NYSE,IHG
 IHS,IHS Holding Limited Ordinary Shares,NYSE,IHS
 IHT,InnSuites Hospitality Trust Shares of Beneficial Interest,NYSE MKT,IHT
-IHTA,"Invesco High Income 2024 Target Term Fund Common Shares of Beneficial Interest, No par value per share",NYSE,IHTA
 IIF,"Morgan Stanley India Investment Fund, Inc. Common Stock",NYSE,IIF
 IIIN,"Insteel Industries, Inc. Common Stock",NYSE,IIIN
 IIM,Invesco Value Municipal Income Trust Common Stock,NYSE,IIM
@@ -10495,7 +10491,6 @@ PLD,"Prologis, Inc. Common Stock",NYSE,PLD
 PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),NYSE MKT,PLG
 PLNT,"Planet Fitness, Inc. Common Stock",NYSE,PLNT
 PLOW,"Douglas Dynamics, Inc. Common Stock",NYSE,PLOW
-PLTR,Palantir Technologies Inc. Class A Common Stock,NYSE,PLTR
 PLX,"Protalix BioTherapeutics, Inc. (DE) Common Stock",NYSE MKT,PLX
 PLYM,"Plymouth Industrial REIT, Inc. Common Stock",NYSE,PLYM
 PM,Philip Morris International Inc Common Stock,NYSE,PM
@@ -10784,7 +10779,6 @@ SEE,Sealed Air Corporation Common Stock,NYSE,SEE
 SEG,Seaport Entertainment Group Inc. Common Stock,NYSE MKT,SEG
 SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock",NYSE,SEI
 SEM,Select Medical Holdings Corporation Common Stock,NYSE,SEM
-SEM.V,Select Medical Holdings Corporation Common Stock When-Issued,NYSE,SEM.V
 SEMR,"SEMrush Holdings, Inc. Class A Common Stock",NYSE,SEMR
 SENS,"Senseonics Holdings, Inc. Common Stock",NYSE MKT,SENS
 SER,"Serina Therapeutics, Inc. Common Stock",NYSE MKT,SER
@@ -10818,7 +10812,6 @@ SILA,"Sila Realty Trust, Inc. Common Stock",NYSE,SILA
 SILV,SilverCrest Metals Inc. Common Shares,NYSE MKT,SILV
 SIM,"Grupo Simec, S.A.B. de C.V. American Depositary Shares",NYSE MKT,SIM
 SITC,SITE Centers Corp. Common Stock,NYSE,SITC
-SITC$A,SITE Centers Corp. 6.375% Class A Preferred Shares,NYSE,SITC$A
 SITE,"SiteOne Landscape Supply, Inc. Common Stock",NYSE,SITE
 SJM,The J.M. Smucker Company Common Stock,NYSE,SJM
 SJT,San Juan Basin Royalty Trust Common Stock,NYSE,SJT

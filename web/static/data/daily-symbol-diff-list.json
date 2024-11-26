@@ -1,126 +1,144 @@
 {
  "added": [
   {
-   "symbol": "CHS",
-   "name": "Comprehensive Healthcare Systems Inc.",
+   "symbol": "HPL",
+   "name": "Horizon Petroleum Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CHS.V",
+   "yahoo_symbol": "HPL.V",
    "instruments": [
     {
-     "name": "Comprehensive Healthcare Systems Inc.",
-     "symbol": "CHS"
+     "name": "Horizon Petroleum Ltd.",
+     "symbol": "HPL"
     }
    ]
   },
   {
-   "symbol": "BYNO",
-   "name": "byNordic Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BYNO"
+   "symbol": "ZCT",
+   "name": "Zero Candida Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZCT.V",
+   "instruments": [
+    {
+     "name": "Zero Candida Technologies Inc.",
+     "symbol": "ZCT"
+    }
+   ]
   },
   {
-   "symbol": "BYNOU",
-   "name": "byNordic Acquisition Corporation - Units",
+   "symbol": "AMRN",
+   "name": "Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BYNOU"
+   "yahoo_symbol": "AMRN"
   },
   {
-   "symbol": "BYNOW",
-   "name": "byNordic Acquisition Corporation - Warrant",
+   "symbol": "MBINL",
+   "name": "Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BYNOW"
+   "yahoo_symbol": "MBINL"
   },
   {
-   "symbol": "CASK",
-   "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
+   "symbol": "NA",
+   "name": "Nano Labs Ltd - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CASK"
+   "yahoo_symbol": "NA"
   },
   {
-   "symbol": "ELPW",
-   "name": "Elong Power Holding Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ELPW"
-  },
-  {
-   "symbol": "MSW",
-   "name": "Ming Shing Group Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSW"
+   "symbol": "ENFY",
+   "name": "Enlightify Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ENFY"
   }
  ],
  "removed": [
   {
-   "symbol": "NCNC",
-   "name": "noco-noco Inc. - Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NCNC"
-  },
-  {
-   "symbol": "BYNOU",
-   "name": "byNordic Acquisition Corporation - Units",
+   "symbol": "NA",
+   "name": "Nano Labs Ltd - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BYNOU"
+   "yahoo_symbol": "NA"
   },
   {
-   "symbol": "BYNOW",
-   "name": "byNordic Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BYNOW"
-  },
-  {
-   "symbol": "BLEU",
-   "name": "bleuacacia ltd - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLEU"
-  },
-  {
-   "symbol": "BYNO",
-   "name": "byNordic Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BYNO"
-  },
-  {
-   "symbol": "BLEUU",
-   "name": "bleuacacia ltd - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLEUU"
-  },
-  {
-   "symbol": "BLEUW",
-   "name": "bleuacacia ltd - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLEUW"
-  },
-  {
-   "symbol": "TORO",
-   "name": "Pucara Gold Ltd.",
+   "symbol": "INIK",
+   "name": "PopReach Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "TORO.V",
+   "yahoo_symbol": "INIK.V",
    "instruments": [
     {
-     "name": "Pucara Gold Ltd.",
-     "symbol": "TORO"
+     "name": "PopReach Corporation",
+     "symbol": "INIK"
     }
    ]
   },
   {
-   "symbol": "BLEUR",
-   "name": "bleuacacia ltd - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLEUR"
-  },
-  {
-   "symbol": "ENV",
-   "name": "Envestnet, Inc Common Stock",
+   "symbol": "PLTR",
+   "name": "Palantir Technologies Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ENV"
+   "yahoo_symbol": "PLTR"
   },
   {
-   "symbol": "NCNCW",
-   "name": "noco-noco Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NCNCW"
+   "symbol": "SEM.V",
+   "name": "Select Medical Holdings Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEM.V"
+  },
+  {
+   "symbol": "DUETW",
+   "name": "DUET Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUETW"
+  },
+  {
+   "symbol": "DUETU",
+   "name": "DUET Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUETU"
+  },
+  {
+   "symbol": "CON.V",
+   "name": "Concentra Group Holdings Parent, Inc. Common Stock When-Issued Add'l Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CON.V"
+  },
+  {
+   "symbol": "IHTA",
+   "name": "Invesco High Income 2024 Target Term Fund Common Shares of Beneficial Interest, No par value per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IHTA"
+  },
+  {
+   "symbol": "CEE",
+   "name": "Centamin plc",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEE.TO",
+   "instruments": [
+    {
+     "name": "Centamin plc. Ord",
+     "symbol": "CEE"
+    }
+   ]
+  },
+  {
+   "symbol": "DUET",
+   "name": "DUET Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUET"
+  },
+  {
+   "symbol": "SITC$A",
+   "name": "SITE Centers Corp. 6.375% Class A Preferred Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SITC$A"
+  },
+  {
+   "symbol": "CGA",
+   "name": "China Green Agriculture, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CGA"
+  },
+  {
+   "symbol": "AMRN",
+   "name": "Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMRN"
   }
  ]
 }
