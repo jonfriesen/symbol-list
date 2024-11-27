@@ -724,6 +724,7 @@ IVX,Inventronics Limited,TSXV,IVX.V,Inventronics Limited,IVX
 IVS,Inventus Mining Corp.,TSXV,IVS.V,Inventus Mining Corp.,IVS
 IZN,InZinc Mining Ltd.,TSXV,IZN.V,InZinc Mining Ltd.,IZN
 ICY.P,Iocaste Ventures Inc.,TSXV,ICY.P.V,Iocaste Ventures Inc.,ICY.P
+INIK,Ionik Corporation,TSXV,INIK.V,Ionik Corporation,INIK
 IFOS,Itafos Inc.,TSXV,IFOS.V,Itafos Inc.,IFOS
 JJJJ.P,J4 Ventures Inc.,TSXV,JJJJ.P.V,J4 Ventures Inc.,JJJJ.P
 JAB.P,Jabbo Capital Corp.,TSXV,JAB.P.V,Jabbo Capital Corp.,JAB.P
@@ -1876,7 +1877,7 @@ DOO,BRP Inc.,TSX,DOO.TO,BRP Inc. SV,DOO
 HOM.DB.U,BSR Real Estate Investment Trust,TSX,HOM.DB.U.TO,BSR REIT Deb USF,HOM.DB.U,BSR REIT Invest USF,HOM.U,BSR REIT Invest Un,HOM.UN
 BTB.DB.H,BTB Real Estate Investment Trust,TSX,BTB.DB.H.TO,BTB REIT 7% H Deb,BTB.DB.H,BTB REIT Un,BTB.UN
 BUI,Buhler Industries Inc.,TSX,BUI.TO,Buhler Industries,BUI
-BU,Burcon Nutrascience Corporation,TSX,BU.TO,Burcon NutraSci J,BU
+BU,Burcon Nutrascience Corporation,TSX,BU.TO,Burcon NutraSci J,BU,Burcon Nutras co RTS,BU.RT
 CAE,CAE Inc.,TSX,CAE.TO,CAE Inc.,CAE
 CWL,Caldwell Partners International Inc. (The),TSX,CWL.TO,Caldwell Partners,CWL
 UDA,Caldwell U.S. Dividend Advantage Fund,TSX,UDA.TO,Caldwell US DivAdvan,UDA
@@ -2443,7 +2444,7 @@ GWO,Great-West Lifeco Inc.,TSX,GWO.TO,Great-West Lifeco,GWO,Gt-West Lifeco Pr G,
 GFR,Greenfire Resources Ltd.,TSX,GFR.TO,Greenfire Res Ltd. ,GFR
 GFP,GreenFirst Forest Products Inc.,TSX,GFP.TO,Green1st ForestProdJ,GFP,Greenfirst Fores RTS,GFP.RT
 GRN,Greenlane Renewables Inc.,TSX,GRN.TO,Greenlane Renew J,GRN
-GRGD,Groupe Dynamite Inc.,TSX,GRGD.TO,Groupe Dynamite WI,GRGD
+GRGD,Groupe Dynamite Inc.,TSX,GRGD.TO,Gr Dynamite SubV Sh ,GRGD
 GCBD,Guardian Canadian Bond Fund,TSX,GCBD.TO,Guardian Cdn Bond Un,GCBD
 GCFE,Guardian Canadian Focused Equity Fund,TSX,GCFE.TO,Guardian CdnFocus Eq,GCFE
 GCSC,Guardian Canadian Sector Controlled Equity Fund,TSX,GCSC.TO,GuardianCAContrlEqUH,GCSC
@@ -2904,7 +2905,6 @@ NPRF,NBI Active Canadian Preferred Shares ETF,TSX,NPRF.TO,NBI ActvCdnPrShr Un ,N
 NINT,NBI Active International Equity ETF,TSX,NINT.TO,NBI ActiveIntl Eq Un,NINT
 NUSA,NBI Active U.S. Equity ETF,TSX,NUSA.TO,NBI Active US Eq Un,NUSA
 NDIV,NBI Canadian Dividend Income ETF,TSX,NDIV.TO,NBI Cdn Div Incom Un,NDIV
-NFAM,NBI Canadian Family Business ETF,TSX,NFAM.TO,NBI Cdn FamilyBusnss,NFAM
 NGPE,NBI Global Private Equity ETF,TSX,NGPE.TO,NBI GlblPrivateEq Un,NGPE
 NREA,NBI Global Real Assets Income ETF,TSX,NREA.TO,NBI GlblRl AssetIncm,NREA
 NHYB,NBI High Yield Bond ETF,TSX,NHYB.TO,NBI HighYld Bond Un,NHYB
@@ -4250,7 +4250,10 @@ CGNT,Cognyte Software Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CGNT
 CGNX,Cognex Corporation - Common Stock,NASDAQ Global Select MarketSM,CGNX
 CGO,Calamos Global Total Return Fund - Closed End Fund,NASDAQ Global Select MarketSM,CGO
 CGON,"CG Oncology, Inc. - Common stock",NASDAQ Global Select MarketSM,CGON
+CGTL,Creative Global Technology Holdings Limited - Ordinary Shares,NASDAQ Capital Market,CGTL
 CGTX,"Cognition Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,CGTX
+CHAR,Charlton Aria Acquisition Corporation - Class A Ordinary Shares,NASDAQ Global MarketSM,CHAR
+CHARR,Charlton Aria Acquisition Corporation - Rights,NASDAQ Global MarketSM,CHARR
 CHARU,Charlton Aria Acquisition Corporation - Units,NASDAQ Global MarketSM,CHARU
 CHCI,"Comstock Holding Companies, Inc. - Class A Common Stock",NASDAQ Capital Market,CHCI
 CHCO,City Holding Company - Common Stock,NASDAQ Global Select MarketSM,CHCO
@@ -4858,6 +4861,7 @@ FAAR,First Trust Alternative Absolute Return Strategy ETF,NASDAQ Global MarketSM
 FAAS,DigiAsia Corp. - Ordinary Shares,NASDAQ Capital Market,FAAS
 FAASW,DigiAsia Corp. - Warrant,NASDAQ Capital Market,FAASW
 FAB,First Trust Multi Cap Value AlphaDEX Fund,NASDAQ Global MarketSM,FAB
+FACTU,FACT II Acquisition Corp. - Unit,NASDAQ Global MarketSM,FACTU
 FAD,First Trust Multi Cap Growth AlphaDEX Fund,NASDAQ Global MarketSM,FAD
 FALN,iShares Fallen Angels USD Bond ETF,NASDAQ Global MarketSM,FALN
 FAMI,"Farmmi, INC. - Ordinary Shares",NASDAQ Capital Market,FAMI
@@ -6737,6 +6741,7 @@ PLRX,"Pliant Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,PL
 PLRZ,Polyrizon Ltd. - Ordinary Shares,NASDAQ Capital Market,PLRZ
 PLSE,"Pulse Biosciences, Inc - Common Stock",NASDAQ Capital Market,PLSE
 PLTK,Playtika Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,PLTK
+PLTR,Palantir Technologies Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,PLTR
 PLUG,"Plug Power, Inc. - Common Stock",NASDAQ Capital Market,PLUG
 PLUR,Pluri Inc. - Common Stock,NASDAQ Capital Market,PLUR
 PLUS,ePlus inc. - Common Stock,NASDAQ Global Select MarketSM,PLUS
@@ -7234,7 +7239,7 @@ SHC,Sotera Health Company - Common Stock,NASDAQ Global Select MarketSM,SHC
 SHEN,Shenandoah Telecommunications Co - Common Stock,NASDAQ Global Select MarketSM,SHEN
 SHFS,"SHF Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market,SHFS
 SHFSW,"SHF Holdings, Inc. - Warrants",NASDAQ Capital Market,SHFSW
-SHIM,Shimmick Corporation - Common Stock,NASDAQ Global MarketSM,SHIM
+SHIM,Shimmick Corporation - Common Stock,NASDAQ Capital Market,SHIM
 SHIP,Seanergy Maritime Holdings Corp. - Common Stock,NASDAQ Capital Market,SHIP
 SHLS,"Shoals Technologies Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SHLS
 SHLT,SHL Telemedicine Ltd - American Depositary Shares,NASDAQ Capital Market,SHLT
@@ -8056,6 +8061,7 @@ WVVI,"Willamette Valley Vineyards, Inc. - Common Stock",NASDAQ Capital Market,WV
 WVVIP,"Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock",NASDAQ Capital Market,WVVIP
 WW,"WW International, Inc.  - Common Stock",NASDAQ Global Select MarketSM,WW
 WWD,"Woodward, Inc. - Common Stock",NASDAQ Global Select MarketSM,WWD
+WYHG,Wing Yip Food Holdings Group Limited - American Depositary Shares,NASDAQ Capital Market,WYHG
 WYNN,"Wynn Resorts, Limited - Common Stock",NASDAQ Global Select MarketSM,WYNN
 XAIR,"Beyond Air, Inc. - Common Stock",NASDAQ Capital Market,XAIR
 XAIX,Xtrackers Artificial Intelligence and Big Data ETF,NASDAQ Global MarketSM,XAIX
@@ -8148,7 +8154,7 @@ ZJK,"ZJK Industrial Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,ZJK
 ZJYL,JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares,NASDAQ Capital Market,ZJYL
 ZKIN,"ZK International Group Co., Ltd - Ordinary Share",NASDAQ Capital Market,ZKIN
 ZLAB,Zai Lab Limited - American Depositary Shares,NASDAQ Global MarketSM,ZLAB
-ZM,"Zoom Video Communications, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ZM
+ZM,"Zoom Communications, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ZM
 ZNTL,"Zentalis Pharmaceuticals, Inc. - common stock",NASDAQ Global MarketSM,ZNTL
 ZOOZ,ZOOZ Power Ltd. - Ordinary Shares,NASDAQ Capital Market,ZOOZ
 ZOOZW,ZOOZ Power Ltd. - Warrant,NASDAQ Capital Market,ZOOZW
@@ -8649,6 +8655,7 @@ BRC,Brady Corporation Common Stock,NYSE,BRC
 BRCC,BRC Inc. Class A Common Stock,NYSE,BRCC
 BRDG,Bridge Investment Group Holdings Inc. Class A Common Stock,NYSE,BRDG
 BRFS,BRF S.A.,NYSE,BRFS
+BRIA,BrilliA Inc Class A Ordinary Shares,NYSE MKT,BRIA
 BRK.A,Berkshire Hathaway Inc. Common Stock,NYSE,BRK.A
 BRK.B,Berkshire Hathaway Inc. New Common Stock,NYSE,BRK.B
 BRN,"Barnwell Industries, Inc. Common Stock",NYSE MKT,BRN
@@ -9431,6 +9438,7 @@ GDV,Gabelli Dividend & Income Trust Common Shares of Beneficial Interest,NYSE,GD
 GDV$H,The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares,NYSE,GDV$H
 GDV$K,The Gabelli Dividend & Income Trust 4.250% Series K Cumulative Preferred Shares,NYSE,GDV$K
 GE,GE Aerospace Common Stock,NYSE,GE
+GEAR,"Revelyst, Inc. Common Stock",NYSE,GEAR
 GEF,Greif Inc. Class A Common Stock,NYSE,GEF
 GEF.B,"Greif, Inc. Corporation Class B Common Stock",NYSE,GEF.B
 GEL,"Genesis Energy, L.P. Common Units",NYSE,GEL
@@ -9536,6 +9544,7 @@ GRN,iPath Series B Carbon Exchange-Traded Notes,NYSE ARCA,GRN
 GRND,Grindr Inc. Common Stock,NYSE,GRND
 GRND.W,"Grindr Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",NYSE,GRND.W
 GRNT,"Granite Ridge Resources, Inc. Common Stock",NYSE,GRNT
+GRO,Brazil Potash Corp. Common Shares,NYSE MKT,GRO
 GROV,"Grove Collaborative Holdings, Inc. Class A Common Stock",NYSE,GROV
 GROY,Gold Royalty Corp. Common Shares,NYSE MKT,GROY
 GROY.W,Gold Royalty Corp. Warrants,NYSE MKT,GROY.W
@@ -11183,6 +11192,7 @@ VBF,Invesco Bond Fund Common Stock,NYSE,VBF
 VCV,Invesco California Value Municipal Income Trust Common Stock,NYSE,VCV
 VEEV,Veeva Systems Inc. Class A Common Stock,NYSE,VEEV
 VEL,"Velocity Financial, Inc. Common Stock",NYSE,VEL
+VENU,Venu Holding Corporation Common Stock,NYSE MKT,VENU
 VET,Vermilion Energy Inc. Common (Canada),NYSE,VET
 VFC,V.F. Corporation Common Stock,NYSE,VFC
 VFL,abrdn National Municipal Income Fund Common Stock,NYSE MKT,VFL
@@ -11228,7 +11238,6 @@ VRTS,"Virtus Investment Partners, Inc. Common Stock",NYSE,VRTS
 VSCO,Victorias Secret & Co. Common Stock ,NYSE,VSCO
 VSH,"Vishay Intertechnology, Inc. Common Stock",NYSE,VSH
 VST,Vistra Corp. Common Stock,NYSE,VST
-VSTO,Vista Outdoor Inc. Common Stock,NYSE,VSTO
 VSTS,Vestis Corporation Common Stock,NYSE,VSTS
 VTAK,"Catheter Precision, Inc. Common Stock",NYSE MKT,VTAK
 VTEX,VTEX Class A Common Shares,NYSE,VTEX

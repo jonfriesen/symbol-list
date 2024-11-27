@@ -1,5 +1,5 @@
 {
- "date": "2024-11-26",
+ "date": "2024-11-27",
  "data": [
   {
    "symbol": "ONE",
@@ -8762,6 +8762,18 @@
     {
      "name": "Iocaste Ventures Inc.",
      "symbol": "ICY.P"
+    }
+   ]
+  },
+  {
+   "symbol": "INIK",
+   "name": "Ionik Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INIK.V",
+   "instruments": [
+    {
+     "name": "Ionik Corporation",
+     "symbol": "INIK"
     }
    ]
   },
@@ -23418,6 +23430,10 @@
     {
      "name": "Burcon NutraSci J",
      "symbol": "BU"
+    },
+    {
+     "name": "Burcon Nutras co RTS",
+     "symbol": "BU.RT"
     }
    ]
   },
@@ -31244,7 +31260,7 @@
    "yahoo_symbol": "GRGD.TO",
    "instruments": [
     {
-     "name": "Groupe Dynamite WI",
+     "name": "Gr Dynamite SubV Sh ",
      "symbol": "GRGD"
     }
    ]
@@ -37282,18 +37298,6 @@
     {
      "name": "NBI Cdn Div Incom Un",
      "symbol": "NDIV"
-    }
-   ]
-  },
-  {
-   "symbol": "NFAM",
-   "name": "NBI Canadian Family Business ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "NFAM.TO",
-   "instruments": [
-    {
-     "name": "NBI Cdn FamilyBusnss",
-     "symbol": "NFAM"
     }
    ]
   },
@@ -48910,10 +48914,28 @@
    "yahoo_symbol": "CGON"
   },
   {
+   "symbol": "CGTL",
+   "name": "Creative Global Technology Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGTL"
+  },
+  {
    "symbol": "CGTX",
    "name": "Cognition Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CGTX"
+  },
+  {
+   "symbol": "CHAR",
+   "name": "Charlton Aria Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHAR"
+  },
+  {
+   "symbol": "CHARR",
+   "name": "Charlton Aria Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHARR"
   },
   {
    "symbol": "CHARU",
@@ -52556,6 +52578,12 @@
    "name": "First Trust Multi Cap Value AlphaDEX Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FAB"
+  },
+  {
+   "symbol": "FACTU",
+   "name": "FACT II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FACTU"
   },
   {
    "symbol": "FAD",
@@ -63832,6 +63860,12 @@
    "yahoo_symbol": "PLTK"
   },
   {
+   "symbol": "PLTR",
+   "name": "Palantir Technologies Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PLTR"
+  },
+  {
    "symbol": "PLUG",
    "name": "Plug Power, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -66816,7 +66850,7 @@
   {
    "symbol": "SHIM",
    "name": "Shimmick Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SHIM"
   },
   {
@@ -71746,6 +71780,12 @@
    "yahoo_symbol": "WWD"
   },
   {
+   "symbol": "WYHG",
+   "name": "Wing Yip Food Holdings Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WYHG"
+  },
+  {
    "symbol": "WYNN",
    "name": "Wynn Resorts, Limited - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72299,7 +72339,7 @@
   },
   {
    "symbol": "ZM",
-   "name": "Zoom Video Communications, Inc. - Class A Common Stock",
+   "name": "Zoom Communications, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ZM"
   },
@@ -75302,6 +75342,12 @@
    "name": "BRF S.A.",
    "exchange": "NYSE",
    "yahoo_symbol": "BRFS"
+  },
+  {
+   "symbol": "BRIA",
+   "name": "BrilliA Inc Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BRIA"
   },
   {
    "symbol": "BRK.A",
@@ -79996,6 +80042,12 @@
    "yahoo_symbol": "GE"
   },
   {
+   "symbol": "GEAR",
+   "name": "Revelyst, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GEAR"
+  },
+  {
    "symbol": "GEF",
    "name": "Greif Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -80624,6 +80676,12 @@
    "name": "Granite Ridge Resources, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "GRNT"
+  },
+  {
+   "symbol": "GRO",
+   "name": "Brazil Potash Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRO"
   },
   {
    "symbol": "GROV",
@@ -90508,6 +90566,12 @@
    "yahoo_symbol": "VEL"
   },
   {
+   "symbol": "VENU",
+   "name": "Venu Holding Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VENU"
+  },
+  {
    "symbol": "VET",
    "name": "Vermilion Energy Inc. Common (Canada)",
    "exchange": "NYSE",
@@ -90776,12 +90840,6 @@
    "name": "Vistra Corp. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VST"
-  },
-  {
-   "symbol": "VSTO",
-   "name": "Vista Outdoor Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VSTO"
   },
   {
    "symbol": "VSTS",

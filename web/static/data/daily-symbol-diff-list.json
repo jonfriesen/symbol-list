@@ -1,144 +1,108 @@
 {
  "added": [
   {
-   "symbol": "HPL",
-   "name": "Horizon Petroleum Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HPL.V",
-   "instruments": [
-    {
-     "name": "Horizon Petroleum Ltd.",
-     "symbol": "HPL"
-    }
-   ]
-  },
-  {
-   "symbol": "ZCT",
-   "name": "Zero Candida Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ZCT.V",
-   "instruments": [
-    {
-     "name": "Zero Candida Technologies Inc.",
-     "symbol": "ZCT"
-    }
-   ]
-  },
-  {
-   "symbol": "AMRN",
-   "name": "Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMRN"
-  },
-  {
-   "symbol": "MBINL",
-   "name": "Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBINL"
-  },
-  {
-   "symbol": "NA",
-   "name": "Nano Labs Ltd - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NA"
-  },
-  {
-   "symbol": "ENFY",
-   "name": "Enlightify Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ENFY"
-  }
- ],
- "removed": [
-  {
-   "symbol": "NA",
-   "name": "Nano Labs Ltd - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NA"
-  },
-  {
    "symbol": "INIK",
-   "name": "PopReach Corporation",
+   "name": "Ionik Corporation",
    "exchange": "TSXV",
    "yahoo_symbol": "INIK.V",
    "instruments": [
     {
-     "name": "PopReach Corporation",
+     "name": "Ionik Corporation",
      "symbol": "INIK"
     }
    ]
   },
   {
+   "symbol": "CGTL",
+   "name": "Creative Global Technology Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGTL"
+  },
+  {
+   "symbol": "CHAR",
+   "name": "Charlton Aria Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHAR"
+  },
+  {
+   "symbol": "CHARR",
+   "name": "Charlton Aria Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHARR"
+  },
+  {
+   "symbol": "FACTU",
+   "name": "FACT II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FACTU"
+  },
+  {
    "symbol": "PLTR",
-   "name": "Palantir Technologies Inc. Class A Common Stock",
-   "exchange": "NYSE",
+   "name": "Palantir Technologies Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PLTR"
   },
   {
-   "symbol": "SEM.V",
-   "name": "Select Medical Holdings Corporation Common Stock When-Issued",
+   "symbol": "SHIM",
+   "name": "Shimmick Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHIM"
+  },
+  {
+   "symbol": "WYHG",
+   "name": "Wing Yip Food Holdings Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WYHG"
+  },
+  {
+   "symbol": "BRIA",
+   "name": "BrilliA Inc Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BRIA"
+  },
+  {
+   "symbol": "GEAR",
+   "name": "Revelyst, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "SEM.V"
+   "yahoo_symbol": "GEAR"
   },
   {
-   "symbol": "DUETW",
-   "name": "DUET Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DUETW"
+   "symbol": "GRO",
+   "name": "Brazil Potash Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRO"
   },
   {
-   "symbol": "DUETU",
-   "name": "DUET Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DUETU"
-  },
+   "symbol": "VENU",
+   "name": "Venu Holding Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VENU"
+  }
+ ],
+ "removed": [
   {
-   "symbol": "CON.V",
-   "name": "Concentra Group Holdings Parent, Inc. Common Stock When-Issued Add'l Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CON.V"
-  },
-  {
-   "symbol": "IHTA",
-   "name": "Invesco High Income 2024 Target Term Fund Common Shares of Beneficial Interest, No par value per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IHTA"
-  },
-  {
-   "symbol": "CEE",
-   "name": "Centamin plc",
+   "symbol": "NFAM",
+   "name": "NBI Canadian Family Business ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CEE.TO",
+   "yahoo_symbol": "NFAM.TO",
    "instruments": [
     {
-     "name": "Centamin plc. Ord",
-     "symbol": "CEE"
+     "name": "NBI Cdn FamilyBusnss",
+     "symbol": "NFAM"
     }
    ]
   },
   {
-   "symbol": "DUET",
-   "name": "DUET Acquisition Corp. - Class A Common Stock",
+   "symbol": "SHIM",
+   "name": "Shimmick Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DUET"
+   "yahoo_symbol": "SHIM"
   },
   {
-   "symbol": "SITC$A",
-   "name": "SITE Centers Corp. 6.375% Class A Preferred Shares",
+   "symbol": "VSTO",
+   "name": "Vista Outdoor Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "SITC$A"
-  },
-  {
-   "symbol": "CGA",
-   "name": "China Green Agriculture, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CGA"
-  },
-  {
-   "symbol": "AMRN",
-   "name": "Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMRN"
+   "yahoo_symbol": "VSTO"
   }
  ]
 }
