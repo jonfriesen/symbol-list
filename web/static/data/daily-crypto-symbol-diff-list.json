@@ -1,121 +1,86 @@
 {
  "added": [
   {
-   "symbol": "EPENDLE",
-   "name": "Equilibria Pendle (EPENDLE)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "WMT",
-   "name": "World Mobile Token (WMT)"
-  },
-  {
-   "symbol": "DJI",
-   "name": "Doge Jones Industrial Average (DJI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "SENSUS",
-   "name": "Sensus (SENSUS)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "XAND",
-   "name": "Xandeum (XAND)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BULLY",
-   "name": "Dolos The Bully (BULLY)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "SOOTCASE",
-   "name": "I like my sootcase (SOOTCASE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DKP",
-   "name": "Dragginz (DKP)",
-   "built_on": "ICP"
-  },
-  {
-   "symbol": "BLUEBUTT",
-   "name": "BLUE BUTT CHEESE (BLUEBUTT)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "NEARK",
-   "name": "NearKat (NEARK)",
-   "built_on": "NEAR"
-  },
-  {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "CRISPR",
-   "name": "CRISPR (CRISPR)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "WHINE",
-   "name": "Whine Coin (WHINE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "BANANAF",
-   "name": "Banana For Scale (BANANAF)",
+   "symbol": "DCF",
+   "name": "Decentralized Finance (DCF)",
    "built_on": "BNB"
   },
   {
-   "symbol": "RVLTV1",
-   "name": "Revolt 2 Earn v1 (RVLTV1)"
+   "symbol": "VITARNA",
+   "name": "VitaRNA (VITARNA)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "SATORI",
-   "name": "Satori Network (SATORI)",
-   "built_on": "EVRM"
-  },
-  {
-   "symbol": "MOAI",
-   "name": "MOAI (MOAI)",
+   "symbol": "WYAC",
+   "name": "Woman Yelling At Cat (WYAC)",
    "built_on": "SOL"
   },
   {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
+   "symbol": "LCAT",
+   "name": "Lion Cat (LCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WMT",
+   "name": "World Mobile Token v1 (WMT)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "ELONRWA",
+   "name": "ElonRWA (ELONRWA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RUFF",
+   "name": "Ruff (RUFF)"
+  },
+  {
+   "symbol": "YOUSIM",
+   "name": "YouSim (YOUSIM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WMTX",
+   "name": "World Mobile Token (WMTX)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "ROPIRITO",
+   "name": "Ropirito (ROPIRITO)",
+   "built_on": "SOL"
   },
   {
    "symbol": "CBBTCBASE",
    "name": "cbBTC (CBBTCBASE)"
   },
   {
-   "symbol": "GLORP",
-   "name": "Glorp (GLORP)",
-   "built_on": "SOL"
+   "symbol": "THRUST",
+   "name": "Thruster (THRUST)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "EBITCOIN",
+   "name": "eBitcoin (EBITCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "KAILY",
-   "name": "Kailith (KAILY)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DOGEFA",
-   "name": "DOGEFATHER (DOGEFA)",
-   "built_on": "SOL"
   }
  ],
  "removed": [
   {
    "symbol": "WMT",
-   "name": "World Mobile Token (WMT)",
-   "built_on": "ADA"
+   "name": "World Mobile Token (WMT)"
+  },
+  {
+   "symbol": "RUFF",
+   "name": "Ruff (RUFF)",
+   "built_on": "ETH"
   }
  ]
 }

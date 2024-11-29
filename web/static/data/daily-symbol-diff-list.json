@@ -1,44 +1,54 @@
 {
  "added": [
   {
-   "symbol": "PONY",
-   "name": "Pony AI Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PONY"
+   "symbol": "LSC.P",
+   "name": "Lombard Street Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LSC.P.V",
+   "instruments": [
+    {
+     "name": "Lombard Street Capital Corp.",
+     "symbol": "LSC.P"
+    }
+   ]
   },
   {
-   "symbol": "RADX",
-   "name": "Radiopharm Theranostics Limited - American Depositary Shares",
+   "symbol": "MTVA",
+   "name": "MetaVia Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RADX"
+   "yahoo_symbol": "MTVA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAGQ",
+   "name": "Roundhill Daily Inverse Magnificent Seven ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAGQ"
   },
   {
-   "symbol": "MNC",
-   "name": "Magnetic North Acquisition Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MNC.V",
-   "instruments": [
-    {
-     "name": "Magnetic North Acquisition Corp.",
-     "symbol": "MNC"
-    },
-    {
-     "name": "Magnetic North Acquisition Corp. pref a",
-     "symbol": "MNC.PR.A"
-    }
-   ]
+   "symbol": "NRBO",
+   "name": "NeuroBo Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NRBO"
   },
   {
-   "symbol": "SVRS",
-   "name": "Silver Storm Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SVRS.V",
-   "instruments": [
-    {
-     "name": "Silver Storm Mining Ltd.",
-     "symbol": "SVRS"
-    }
-   ]
+   "symbol": "CMAX",
+   "name": "CareMax, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CMAX"
+  },
+  {
+   "symbol": "SCE$H",
+   "name": "SCE Trust III Fixed/Floating Rate Trust Preference Securities",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCE$H"
+  },
+  {
+   "symbol": "CMAXW",
+   "name": "CareMax, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CMAXW"
   }
  ]
 }
