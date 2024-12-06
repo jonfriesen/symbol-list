@@ -1,65 +1,111 @@
 {
  "added": [
   {
-   "symbol": "DEGATE",
-   "name": "DeGate (DEGATE)",
-   "built_on": "ETH"
+   "symbol": "PROFITHUNTERS",
+   "name": "Profit Hunters Coin (PROFITHUNTERS)"
   },
   {
-   "symbol": "TREE",
-   "name": "HyperionX (TREE)",
-   "built_on": "ETH"
+   "symbol": "DEGENAI",
+   "name": "Degen Spartan AI (DEGENAI)",
+   "built_on": "SOL"
   },
-  {
-   "symbol": "ABTC",
-   "name": "aBTC (ABTC)",
-   "built_on": "APT"
-  },
-  {
-   "symbol": "STAU",
-   "name": "STAU (STAU)",
-   "built_on": "POL"
-  },
-  {
-   "symbol": "TETH",
-   "name": "Treehouse ETH (TETH)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "ECLD",
-   "name": "Ethernity Cloud (ECLD)",
-   "built_on": "POL"
-  },
-  {
-   "symbol": "NEKOARC",
-   "name": "Neko Arc (NEKOARC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
-  }
- ],
- "removed": [
   {
    "symbol": "ZEDCOIN",
    "name": "ZedCoin (ZEDCOIN)"
   },
   {
-   "symbol": "ECLD",
-   "name": "Ethernity Cloud (ECLD)"
+   "symbol": "BERG",
+   "name": "Bloxberg (BERG)"
   },
   {
-   "symbol": "TREE",
-   "name": "HyperionX (TREE)"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BAN",
+   "name": "Comedian (BAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GAMA",
+   "name": "GAMA Coin (GAMA)",
+   "built_on": "XDC"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TETHER",
+   "name": "Hermione (TETHER)"
+  },
+  {
+   "symbol": "ETNY",
+   "name": "Ethernity (ETNY)",
+   "built_on": "BERG"
+  },
+  {
+   "symbol": "WBAN",
+   "name": "Wrapped Banano (WBAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANANO",
+   "name": "Banano (BANANO)"
+  },
+  {
+   "symbol": "ETHEREUM",
+   "name": "Solana Ethereum Meme (ETHEREUM)"
+  },
+  {
+   "symbol": "HYPERIONX",
+   "name": "HyperionX (HYPERIONX)"
+  },
+  {
+   "symbol": "STBTC",
+   "name": "Lorenzo stBTC (STBTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XION",
+   "name": "XION (XION)"
+  },
+  {
+   "symbol": "MUNDI",
+   "name": "Salvator Mundi (MUNDI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STARDOGE",
+   "name": "StarDOGE (STARDOGE)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ETHEREUM",
+   "name": "Solana Ethereum Meme (ETHEREUM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PHC",
+   "name": "Profit Hunters Coin (PHC)"
+  },
+  {
+   "symbol": "BAN",
+   "name": "Banano (BAN)"
+  },
+  {
+   "symbol": "TETHER",
+   "name": "Hermione (TETHER)",
+   "built_on": "ETH"
   }
  ]
 }
