@@ -1,41 +1,22 @@
 {
  "added": [
   {
-   "symbol": "PROFITHUNTERS",
-   "name": "Profit Hunters Coin (PROFITHUNTERS)"
-  },
-  {
-   "symbol": "DEGENAI",
-   "name": "Degen Spartan AI (DEGENAI)",
+   "symbol": "ETHEREUMMEME",
+   "name": "Solana Ethereum Meme (ETHEREUMMEME)",
    "built_on": "SOL"
   },
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
+   "symbol": "LIGHTSPEED",
+   "name": "LightSpeedCoin (LIGHTSPEED)"
   },
   {
-   "symbol": "BERG",
-   "name": "Bloxberg (BERG)"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "HERMIONE",
+   "name": "Hermione (HERMIONE)",
    "built_on": "ETH"
   },
   {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "BAN",
-   "name": "Comedian (BAN)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "GAMA",
-   "name": "GAMA Coin (GAMA)",
-   "built_on": "XDC"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
    "symbol": "G",
@@ -43,69 +24,32 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "TETHER",
-   "name": "Hermione (TETHER)"
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
   },
   {
-   "symbol": "ETNY",
-   "name": "Ethernity (ETNY)",
-   "built_on": "BERG"
+   "symbol": "LSD",
+   "name": "Pontem Liquidswap (LSD)",
+   "built_on": "APT"
   },
   {
-   "symbol": "WBAN",
-   "name": "Wrapped Banano (WBAN)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "BANANO",
-   "name": "Banano (BANANO)"
-  },
-  {
-   "symbol": "ETHEREUM",
-   "name": "Solana Ethereum Meme (ETHEREUM)"
-  },
-  {
-   "symbol": "HYPERIONX",
-   "name": "HyperionX (HYPERIONX)"
-  },
-  {
-   "symbol": "STBTC",
-   "name": "Lorenzo stBTC (STBTC)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "XION",
-   "name": "XION (XION)"
-  },
-  {
-   "symbol": "MUNDI",
-   "name": "Salvator Mundi (MUNDI)",
+   "symbol": "JFP",
+   "name": "JUSTICE FOR PEANUT (JFP)",
    "built_on": "SOL"
-  },
-  {
-   "symbol": "STARDOGE",
-   "name": "StarDOGE (STARDOGE)",
-   "built_on": "BNB"
   }
  ],
  "removed": [
   {
-   "symbol": "ETHEREUM",
-   "name": "Solana Ethereum Meme (ETHEREUM)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "PHC",
-   "name": "Profit Hunters Coin (PHC)"
-  },
-  {
-   "symbol": "BAN",
-   "name": "Banano (BAN)"
-  },
-  {
    "symbol": "TETHER",
-   "name": "Hermione (TETHER)",
-   "built_on": "ETH"
+   "name": "Hermione (TETHER)"
+  },
+  {
+   "symbol": "LSD",
+   "name": "LightSpeedCoin (LSD)"
+  },
+  {
+   "symbol": "ETHEREUM",
+   "name": "Solana Ethereum Meme (ETHEREUM)"
   }
  ]
 }

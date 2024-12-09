@@ -1,144 +1,162 @@
 {
  "added": [
   {
-   "symbol": "LNKS",
-   "name": "Linkers Industries Limited - Class A Ordinary Shares",
+   "symbol": "MSPR",
+   "name": "MSP Recovery, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPR"
+  },
+  {
+   "symbol": "MSPRW",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPRW"
+  },
+  {
+   "symbol": "MSPRZ",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPRZ"
+  },
+  {
+   "symbol": "NAMI",
+   "name": "Jinxin Technology Holding Company - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LNKS"
+   "yahoo_symbol": "NAMI"
   },
   {
-   "symbol": "SPHAU",
-   "name": "Shepherd Ave Capital Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPHAU"
+   "symbol": "TNMG",
+   "name": "TNL Mediagene - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TNMG"
   },
   {
-   "symbol": "ZSPC",
-   "name": "zSpace, Inc. - Common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZSPC"
-  },
-  {
-   "symbol": "CRBD",
-   "name": "Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064",
+   "symbol": "PCG$X",
+   "name": "PG\u0026E Corp 6.000% Series A Mandatory Convertible Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CRBD"
-  },
-  {
-   "symbol": "JACS.U",
-   "name": "Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one-tenth (1/10) of one Class A ordinary share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JACS.U"
-  },
-  {
-   "symbol": "SPFD",
-   "name": "Mulvihill Enhanced Split Preferred Share ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SPFD.TO",
-   "instruments": [
-    {
-     "name": "Mulvihill EnSpPr ETF",
-     "symbol": "SPFD"
-    }
-   ]
+   "yahoo_symbol": "PCG$X"
   }
  ],
  "removed": [
   {
-   "symbol": "GHIXU",
-   "name": "Gores Holdings IX, Inc. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GHIXU"
-  },
-  {
-   "symbol": "ENG",
-   "name": "ENGlobal Corporation - Common Stock",
+   "symbol": "PFTA",
+   "name": "Perception Capital Corp. III - Class A Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ENG"
+   "yahoo_symbol": "PFTA"
   },
   {
-   "symbol": "RA.UN",
-   "name": "Middlefield Global Real Asset Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "RA.UN.TO",
-   "instruments": [
-    {
-     "name": "Middlefld GlbRl Asst",
-     "symbol": "RA.UN"
-    }
-   ]
+   "symbol": "PFTAW",
+   "name": "Perception Capital Corp. III - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFTAW"
   },
   {
-   "symbol": "GGG",
-   "name": "G6 Materials Corp.",
+   "symbol": "TLGYW",
+   "name": "TLGY Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGYW"
+  },
+  {
+   "symbol": "LIFW",
+   "name": "MSP Recovery, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIFW"
+  },
+  {
+   "symbol": "STH",
+   "name": "Stelmine Canada Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GGG.V",
+   "yahoo_symbol": "STH.V",
    "instruments": [
     {
-     "name": "G6 Materials Corp.",
-     "symbol": "GGG"
+     "name": "Stelmine Canada Ltd.",
+     "symbol": "STH"
     }
    ]
   },
   {
-   "symbol": "BIK.PR.A",
-   "name": "BIP Investment Corporation",
+   "symbol": "ROCLU",
+   "name": "Roth CH Acquisition V Co. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCLU"
+  },
+  {
+   "symbol": "TLGYU",
+   "name": "TLGY Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGYU"
+  },
+  {
+   "symbol": "BTV",
+   "name": "BlueRush Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BTV.V",
+   "instruments": [
+    {
+     "name": "BlueRush Inc.",
+     "symbol": "BTV"
+    }
+   ]
+  },
+  {
+   "symbol": "PFTAU",
+   "name": "Perception Capital Corp. III - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFTAU"
+  },
+  {
+   "symbol": "TLGY",
+   "name": "TLGY Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGY"
+  },
+  {
+   "symbol": "YORK",
+   "name": "York Harbour Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YORK.V",
+   "instruments": [
+    {
+     "name": "York Harbour Metals Inc.",
+     "symbol": "YORK"
+    }
+   ]
+  },
+  {
+   "symbol": "ROCL",
+   "name": "Roth CH Acquisition V Co. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCL"
+  },
+  {
+   "symbol": "LIFWZ",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIFWZ"
+  },
+  {
+   "symbol": "ROCLW",
+   "name": "Roth CH Acquisition V Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCLW"
+  },
+  {
+   "symbol": "ARR",
+   "name": "Altius Renewable Royalties Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "BIK.PR.A.TO",
+   "yahoo_symbol": "ARR.TO",
    "instruments": [
     {
-     "name": "BIP Invest Ser 1 Pr",
-     "symbol": "BIK.PR.A"
+     "name": "Altius RenewRoylty J",
+     "symbol": "ARR"
     }
    ]
   },
   {
-   "symbol": "BOCNW",
-   "name": "Blue Ocean Acquisition Corp - Warrants",
+   "symbol": "LIFWW",
+   "name": "MSP Recovery, Inc. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOCNW"
-  },
-  {
-   "symbol": "GHIXW",
-   "name": "Gores Holdings IX, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GHIXW"
-  },
-  {
-   "symbol": "GHIX",
-   "name": "Gores Holdings IX, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GHIX"
-  },
-  {
-   "symbol": "BOCNU",
-   "name": "Blue Ocean Acquisition Corp - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOCNU"
-  },
-  {
-   "symbol": "MOND",
-   "name": "Mondee Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MOND"
-  },
-  {
-   "symbol": "XLVE",
-   "name": "Mulvihill U.S. Health Care Enhanced Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "XLVE.TO",
-   "instruments": [
-    {
-     "name": "MulvhillUS HlthCrYld",
-     "symbol": "XLVE"
-    }
-   ]
-  },
-  {
-   "symbol": "BOCN",
-   "name": "Blue Ocean Acquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOCN"
+   "yahoo_symbol": "LIFWW"
   }
  ]
 }
