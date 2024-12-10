@@ -1,22 +1,32 @@
 {
  "added": [
   {
-   "symbol": "ETHEREUMMEME",
-   "name": "Solana Ethereum Meme (ETHEREUMMEME)",
-   "built_on": "SOL"
+   "symbol": "AKUMA",
+   "name": "Akuma Inu (AKUMA)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "LIGHTSPEED",
-   "name": "LightSpeedCoin (LIGHTSPEED)"
+   "symbol": "AGENTFUN",
+   "name": "AgentFun.AI (AGENTFUN)",
+   "built_on": "CRO"
   },
   {
-   "symbol": "HERMIONE",
-   "name": "Hermione (HERMIONE)",
+   "symbol": "DGV1",
+   "name": "Decentral Games v1 (DGV1)"
+  },
+  {
+   "symbol": "SHIRO",
+   "name": "Shiro Neko (SHIRO)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "XMOON",
+   "name": "r/CryptoCurrency Moons v1 (XMOON)"
+  },
+  {
+   "symbol": "GUS",
+   "name": "Gus (GUS)",
+   "built_on": "BNB"
   },
   {
    "symbol": "G",
@@ -24,32 +34,17 @@
    "built_on": "ETH"
   },
   {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
    "symbol": "CBBTCBASE",
    "name": "cbBTC (CBBTCBASE)"
   },
   {
-   "symbol": "LSD",
-   "name": "Pontem Liquidswap (LSD)",
-   "built_on": "APT"
-  },
-  {
-   "symbol": "JFP",
-   "name": "JUSTICE FOR PEANUT (JFP)",
-   "built_on": "SOL"
-  }
- ],
- "removed": [
-  {
-   "symbol": "TETHER",
-   "name": "Hermione (TETHER)"
-  },
-  {
-   "symbol": "LSD",
-   "name": "LightSpeedCoin (LSD)"
-  },
-  {
-   "symbol": "ETHEREUM",
-   "name": "Solana Ethereum Meme (ETHEREUM)"
+   "symbol": "NOKUV1",
+   "name": "NOKU Master token v1 (NOKUV1)",
+   "built_on": "ETH"
   }
  ]
 }
