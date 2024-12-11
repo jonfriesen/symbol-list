@@ -1,72 +1,84 @@
 {
  "added": [
   {
-   "symbol": "DYNX",
-   "name": "Dynamix Corporation - Class A Ordinary Share",
+   "symbol": "XXIX",
+   "name": "XXIX Metal Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XXIX.V",
+   "instruments": [
+    {
+     "name": "XXIX Metal Corp.",
+     "symbol": "XXIX"
+    }
+   ]
+  },
+  {
+   "symbol": "BUFI",
+   "name": "AB International Buffer ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DYNX"
+   "yahoo_symbol": "BUFI"
   },
   {
-   "symbol": "DYNXW",
-   "name": "Dynamix Corporation - Warrant",
+   "symbol": "BUFM",
+   "name": "AB Moderate Buffer ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DYNXW"
-  },
-  {
-   "symbol": "MSPR",
-   "name": "MSP Recovery, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSPR"
-  },
-  {
-   "symbol": "MSPRW",
-   "name": "MSP Recovery, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSPRW"
-  },
-  {
-   "symbol": "MSPRZ",
-   "name": "MSP Recovery, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSPRZ"
-  },
-  {
-   "symbol": "NEHC",
-   "name": "New Era Helium Inc - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NEHC"
-  },
-  {
-   "symbol": "NEHCW",
-   "name": "New Era Helium Inc - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NEHCW"
+   "yahoo_symbol": "BUFM"
   }
  ],
  "removed": [
   {
-   "symbol": "MSPRZ",
-   "name": "MSP Recovery, Inc. - Warrant",
+   "symbol": "THCPU",
+   "name": "Thunder Bridge Capital Partners IV, Inc. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSPRZ"
+   "yahoo_symbol": "THCPU"
   },
   {
-   "symbol": "TCS",
-   "name": "Container Store (The) Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TCS"
+   "symbol": "ATEK.W",
+   "name": "Athena Technology Acquisition Corp. II Redeemable Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATEK.W"
   },
   {
-   "symbol": "MSPR",
-   "name": "MSP Recovery, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSPR"
+   "symbol": "ATEK.U",
+   "name": "Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-half of one Redeemable Warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATEK.U"
   },
   {
-   "symbol": "MSPRW",
-   "name": "MSP Recovery, Inc. - Warrant",
+   "symbol": "THCP",
+   "name": "Thunder Bridge Capital Partners IV, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSPRW"
+   "yahoo_symbol": "THCP"
+  },
+  {
+   "symbol": "ATEK",
+   "name": "Athena Technology Acquisition Corp. II Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATEK"
+  },
+  {
+   "symbol": "BIOR",
+   "name": "Biora Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOR"
+  },
+  {
+   "symbol": "QCCU",
+   "name": "QC Copper and Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "QCCU.V",
+   "instruments": [
+    {
+     "name": "QC Copper and Gold Inc.",
+     "symbol": "QCCU"
+    }
+   ]
+  },
+  {
+   "symbol": "THCPW",
+   "name": "Thunder Bridge Capital Partners IV, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THCPW"
   }
  ]
 }
