@@ -1,84 +1,84 @@
 {
  "added": [
   {
-   "symbol": "XXIX",
-   "name": "XXIX Metal Corp.",
+   "symbol": "CAN",
+   "name": "Canadian Gold Resources Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "XXIX.V",
+   "yahoo_symbol": "CAN.V",
    "instruments": [
     {
-     "name": "XXIX Metal Corp.",
-     "symbol": "XXIX"
+     "name": "Canadian Gold Resources Ltd.",
+     "symbol": "CAN"
     }
    ]
   },
   {
-   "symbol": "BUFI",
-   "name": "AB International Buffer ETF",
+   "symbol": "ATLN",
+   "name": "Atlantic International Corp. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BUFI"
+   "yahoo_symbol": "ATLN"
   },
   {
-   "symbol": "BUFM",
-   "name": "AB Moderate Buffer ETF",
+   "symbol": "BRKD",
+   "name": "Direxion Daily BRKB Bear 1X Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BUFM"
+   "yahoo_symbol": "BRKD"
+  },
+  {
+   "symbol": "BRKU",
+   "name": "Direxion Daily BRKB Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRKU"
+  },
+  {
+   "symbol": "CNCK",
+   "name": "Coincheck Group N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNCK"
+  },
+  {
+   "symbol": "CNCKW",
+   "name": "Coincheck Group N.V. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNCKW"
+  },
+  {
+   "symbol": "PLTD",
+   "name": "Direxion Daily PLTR Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLTD"
+  },
+  {
+   "symbol": "PLTU",
+   "name": "Direxion Daily PLTR Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLTU"
+  },
+  {
+   "symbol": "LUCK",
+   "name": "Lucky Strike Entertainment Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LUCK"
   }
  ],
  "removed": [
   {
-   "symbol": "THCPU",
-   "name": "Thunder Bridge Capital Partners IV, Inc. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "THCPU"
+   "symbol": "WUCT",
+   "name": "UBS AG ETRACS Whitney U.S. Critical Technologies Index ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "WUCT"
   },
   {
-   "symbol": "ATEK.W",
-   "name": "Athena Technology Acquisition Corp. II Redeemable Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ATEK.W"
+   "symbol": "BOWL",
+   "name": "Bowlero Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOWL"
   },
   {
-   "symbol": "ATEK.U",
-   "name": "Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-half of one Redeemable Warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ATEK.U"
-  },
-  {
-   "symbol": "THCP",
-   "name": "Thunder Bridge Capital Partners IV, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "THCP"
-  },
-  {
-   "symbol": "ATEK",
-   "name": "Athena Technology Acquisition Corp. II Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ATEK"
-  },
-  {
-   "symbol": "BIOR",
-   "name": "Biora Therapeutics, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BIOR"
-  },
-  {
-   "symbol": "QCCU",
-   "name": "QC Copper and Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "QCCU.V",
-   "instruments": [
-    {
-     "name": "QC Copper and Gold Inc.",
-     "symbol": "QCCU"
-    }
-   ]
-  },
-  {
-   "symbol": "THCPW",
-   "name": "Thunder Bridge Capital Partners IV, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "THCPW"
+   "symbol": "AMTR",
+   "name": "ETRACS Alerian Midstream Energy Total Return Index ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "AMTR"
   }
  ]
 }
