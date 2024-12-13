@@ -1,94 +1,82 @@
 {
  "added": [
   {
-   "symbol": "FCTR",
-   "name": "FactorDAO (FCTR)",
-   "built_on": "ARB"
+   "symbol": "OPSECV1",
+   "name": "OpSec v1 (OPSECV1)"
   },
   {
-   "symbol": "SUIAI",
-   "name": "SUI Agents (SUIAI)",
-   "built_on": "SUI"
+   "symbol": "MIDNIGHT",
+   "name": "Midnight (MIDNIGHT)",
+   "built_on": "POL"
   },
   {
-   "symbol": "HYPE",
-   "name": "Hype (HYPE)"
-  },
-  {
-   "symbol": "HERMY",
-   "name": "Hermy The Stallion (HERMY)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DUKE",
-   "name": "Duke Inu (DUKE)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
-  },
-  {
-   "symbol": "1GUY",
-   "name": "1GUY (1GUY)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "HYPEV1",
-   "name": "Hype v1 (HYPEV1)"
-  },
-  {
-   "symbol": "DELAY",
-   "name": "DegenLayer (DELAY)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "RURI",
-   "name": "Ruri - Truth Terminal's Crush (RURI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "NIGHT",
-   "name": "Midnight (NIGHT)"
-  },
-  {
-   "symbol": "SSDX",
-   "name": "SpunkySDX (SSDX)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "F",
-   "name": "SynFutures (F)",
-   "built_on": "ETH"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
-  {
-   "symbol": "DUKE",
-   "name": "Duke Inu (DUKE)"
+   "symbol": "PURR",
+   "name": "Purr (PURR)",
+   "built_on": "HYPE"
   },
   {
-   "symbol": "HYPE",
-   "name": "Hype (HYPE)",
-   "built_on": "BNB"
+   "symbol": "SKI",
+   "name": "Ski Mask Dog (SKI)",
+   "built_on": "BASE"
   },
   {
    "symbol": "ZEDCOIN",
    "name": "ZedCoin (ZEDCOIN)"
   },
   {
+   "symbol": "SKILLC",
+   "name": "Skillchain (SKILLC)"
+  },
+  {
+   "symbol": "ALLMEE",
+   "name": "All.me (ALLMEE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ME",
+   "name": "Magic Eden (ME)"
+  },
+  {
+   "symbol": "SUPREMEFINANCE",
+   "name": "Hype (SUPREMEFINANCE)",
+   "built_on": "POL"
+  },
+  {
    "symbol": "NIGHT",
    "name": "Midnight (NIGHT)",
-   "built_on": "POL"
+   "built_on": "APT"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight (NIGHT)"
+  },
+  {
+   "symbol": "PURR",
+   "name": "Purr (PURR)"
+  },
+  {
+   "symbol": "SKI",
+   "name": "Skillchain (SKI)"
+  },
+  {
+   "symbol": "ME",
+   "name": "All.me (ME)",
+   "built_on": "ETH"
   }
  ]
 }
