@@ -1,158 +1,108 @@
 {
  "added": [
   {
-   "symbol": "DVQQ",
-   "name": "WEBs Defined Volatility QQQ ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVQQ"
-  },
-  {
-   "symbol": "DVSP",
-   "name": "WEBs Defined Volatility SPY ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVSP"
-  },
-  {
-   "symbol": "FEAT",
-   "name": "YieldMax Dorsey Wright Featured 5 Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FEAT"
-  },
-  {
-   "symbol": "FIVY",
-   "name": "YieldMax Dorsey Wright Hybrid 5 Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIVY"
-  },
-  {
-   "symbol": "FLDD",
-   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLDD"
-  },
-  {
-   "symbol": "GITS",
-   "name": "Global Interactive Technologies, Inc. Common Stock - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GITS"
-  },
-  {
-   "symbol": "PHLT",
-   "name": "Performant Healthcare, Inc. - Common Stock",
+   "symbol": "GAINI",
+   "name": "Gladstone Investment Corporation - 7.875% Notes due 2030",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PHLT"
+   "yahoo_symbol": "GAINI"
   },
   {
-   "symbol": "ZBAI",
-   "name": "ATIF Holdings Limited - Ordinary Shares",
+   "symbol": "LEXI",
+   "name": "Alexis Practical Tactical ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LEXI"
+  },
+  {
+   "symbol": "NCEW",
+   "name": "New Century Logistics (BVI) Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZBAI"
+   "yahoo_symbol": "NCEW"
   },
   {
-   "symbol": "EXOD",
-   "name": "Exodus Movement, Inc. Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "EXOD"
+   "symbol": "STNC",
+   "name": "Hennessy Stance ESG ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STNC"
+  },
+  {
+   "symbol": "TAX",
+   "name": "Cambria Tax Aware ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAX"
+  },
+  {
+   "symbol": "TSYY",
+   "name": "GraniteShares YieldBOOST TSLA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSYY"
+  },
+  {
+   "symbol": "YSXT",
+   "name": "YSX Tech. Co., Ltd  - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YSXT"
+  },
+  {
+   "symbol": "ZAP",
+   "name": "Global X U.S. Electrification ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZAP"
+  },
+  {
+   "symbol": "ECCU",
+   "name": "Eagle Point Credit Company Inc. 7.75% Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECCU"
+  },
+  {
+   "symbol": "NPKI",
+   "name": "NPK International Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NPKI"
+  },
+  {
+   "symbol": "RCD",
+   "name": "Ready Capital Corporation 9.00% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RCD"
   }
  ],
  "removed": [
   {
-   "symbol": "VCNX",
-   "name": "Vaccinex, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VCNX"
+   "symbol": "SMR.W",
+   "name": "NuScale Power Corporation Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMR.W"
   },
   {
-   "symbol": "LEV",
-   "name": "Lion Electric Company (The)",
-   "exchange": "TSX",
-   "yahoo_symbol": "LEV.TO",
+   "symbol": "NR",
+   "name": "Newpark Resources, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NR"
+  },
+  {
+   "symbol": "ZUM",
+   "name": "ZoomerMedia Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZUM.V",
    "instruments": [
     {
-     "name": "Lion Electric Co J",
-     "symbol": "LEV"
-    },
-    {
-     "name": "Lion ElectricCo J Wt",
-     "symbol": "LEV.WT"
-    },
-    {
-     "name": "Lion Elect Co J A Wt",
-     "symbol": "LEV.WT.A"
+     "name": "ZoomerMedia Limited",
+     "symbol": "ZUM"
     }
    ]
   },
   {
-   "symbol": "AKTS",
-   "name": "Akoustis Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AKTS"
-  },
-  {
-   "symbol": "BRKHW",
-   "name": "BurTech Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRKHW"
-  },
-  {
-   "symbol": "BRKHU",
-   "name": "BurTech Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRKHU"
-  },
-  {
-   "symbol": "HRYU",
-   "name": "Hanryu Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HRYU"
-  },
-  {
-   "symbol": "DBGI",
-   "name": "Digital Brands Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DBGI"
-  },
-  {
-   "symbol": "ATIF",
-   "name": "ATIF Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATIF"
-  },
-  {
-   "symbol": "BRKH",
-   "name": "BurTech Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRKH"
-  },
-  {
-   "symbol": "DBGIW",
-   "name": "Digital Brands Group, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DBGIW"
-  },
-  {
-   "symbol": "PNST.W",
-   "name": "Pinstripes Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "symbol": "LEV.A",
+   "name": "The Lion Electric Company Warrants to purchase common shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "PNST.W"
+   "yahoo_symbol": "LEV.A"
   },
   {
-   "symbol": "PFMT",
-   "name": "Performant Healthcare, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PFMT"
-  },
-  {
-   "symbol": "CTLT",
-   "name": "Catalent, Inc. Common Stock",
+   "symbol": "LEV",
+   "name": "The Lion Electric Company Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "CTLT"
-  },
-  {
-   "symbol": "FLD",
-   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLD"
+   "yahoo_symbol": "LEV"
   }
  ]
 }

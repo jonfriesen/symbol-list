@@ -1,75 +1,72 @@
 {
  "added": [
   {
-   "symbol": "CHEDDA",
-   "name": "Chedda (CHEDDA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BUB",
-   "name": "BUBCAT (BUB)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "SYNDOG",
-   "name": "Synthesizer Dog (SYNDOG)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "BUBV1",
-   "name": "BUBCAT v1 (BUBV1)"
-  },
-  {
-   "symbol": "METADOGEV2",
-   "name": "MetaDoge V2 (METADOGEV2)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "ELYS",
-   "name": "Elys Network (ELYS)"
-  },
-  {
-   "symbol": "FLOPPA",
-   "name": "Floppa Cat (FLOPPA)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "TDC",
-   "name": "Tidecoin (TDC)"
-  },
-  {
-   "symbol": "METADOGEV1",
-   "name": "MetaDoge V1 (METADOGEV1)"
-  },
-  {
-   "symbol": "RONNIE",
-   "name": "Ronnie (RONNIE)",
+   "symbol": "M3M3",
+   "name": "M3M3 (M3M3)",
    "built_on": "SOL"
   },
   {
-   "symbol": "SYNK",
-   "name": "Synk (SYNK)",
+   "symbol": "CHEEMS",
+   "name": "Cheems (CHEEMS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZLDAV1",
+   "name": "ZELDA v1 (ZLDAV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STEAKUSDC",
+   "name": "Steakhouse USDC Morpho Vault (STEAKUSDC)",
    "built_on": "ETH"
   },
   {
-   "symbol": "TRACKEDBIO",
-   "name": "TrackedBio (TRACKEDBIO)",
+   "symbol": "AAAHHM",
+   "name": "Plankton in Pain (AAAHHM)"
+  },
+  {
+   "symbol": "PEPU",
+   "name": "Pepe Unchained (PEPU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KIBA",
+   "name": "Kiba Inu (KIBA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PBTCV1",
+   "name": "pTokens BTC v1 (PBTCV1)"
+  },
+  {
+   "symbol": "TAXLESSTRUMP",
+   "name": "MAGA TAXLESS (TAXLESSTRUMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOBLS",
+   "name": "Boblles (BOBLS)",
    "built_on": "SOL"
   },
   {
-   "symbol": "POZO",
-   "name": "Pozo Coin (POZO)",
-   "built_on": "KAVA"
+   "symbol": "SUSDS",
+   "name": "Savings USDS (SUSDS)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "YUKO",
-   "name": "YUKO (YUKO)",
-   "built_on": "BASE"
+   "symbol": "FXN",
+   "name": "FXN (FXN)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "VMANTA",
-   "name": "Bifrost Voucher MANTA (VMANTA)",
-   "built_on": "MANTA"
+   "symbol": "LILFLOKI",
+   "name": "Lil Floki (LILFLOKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GRIFT",
+   "name": "ORBIT (GRIFT)",
+   "built_on": "SOL"
   },
   {
    "symbol": "G",
@@ -77,8 +74,12 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "WART",
-   "name": "Warthog (WART)"
+   "symbol": "GALA",
+   "name": "Gala (GALA)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
   },
   {
    "symbol": "BANK",
@@ -86,24 +87,62 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "symbol": "LINGO",
+   "name": "Lingo (LINGO)",
    "built_on": "BASE"
+  },
+  {
+   "symbol": "PBTC",
+   "name": "pTokens BTC (PBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DROP",
+   "name": "Dropil (DROP)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "MOVE",
+   "name": "MarketMove (MOVE)"
+  },
+  {
+   "symbol": "ZLDA",
+   "name": "ZELDA 2.0 (ZLDA)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "CHEDDA",
-   "name": "Chedda (CHEDDA)"
+   "symbol": "ZLDA",
+   "name": "Zelda Inu (ZLDA)"
   },
   {
-   "symbol": "METADOGEV2",
-   "name": "MetaDoge V2 (METADOGEV2)"
+   "symbol": "CHEEMS",
+   "name": "Cheems (CHEEMS)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "BUB",
-   "name": "BUBCAT (BUB)",
-   "built_on": "BASE"
+   "symbol": "MOVE",
+   "name": "MarketMove (MOVE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KIBA",
+   "name": "Kiba Inu (KIBA)"
+  },
+  {
+   "symbol": "LILFLOKI",
+   "name": "Lil Floki (LILFLOKI)"
+  },
+  {
+   "symbol": "DROP",
+   "name": "Dropil (DROP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GALA",
+   "name": "Gala (GALA)",
+   "built_on": "ETH"
   }
  ]
 }
