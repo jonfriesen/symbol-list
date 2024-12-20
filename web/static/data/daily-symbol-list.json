@@ -1,5 +1,5 @@
 {
- "date": "2024-12-19",
+ "date": "2024-12-20",
  "data": [
   {
    "symbol": "ONE",
@@ -5666,18 +5666,6 @@
     {
      "name": "Evome Medical Technologies Inc.",
      "symbol": "EVMT"
-    }
-   ]
-  },
-  {
-   "symbol": "EVP.P",
-   "name": "EVP Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EVP.P.V",
-   "instruments": [
-    {
-     "name": "EVP Capital Inc.",
-     "symbol": "EVP.P"
     }
    ]
   },
@@ -11603,7 +11591,7 @@
   },
   {
    "symbol": "NEXG",
-   "name": "NeXGold Mining Corp",
+   "name": "NeXGold Mining Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "NEXG.V",
    "instruments": [
@@ -15074,6 +15062,18 @@
    ]
   },
   {
+   "symbol": "SHRX",
+   "name": "Sharp Therapeutics Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SHRX.V",
+   "instruments": [
+    {
+     "name": "Sharp Therapeutics Corp.",
+     "symbol": "SHRX"
+    }
+   ]
+  },
+  {
    "symbol": "SHLL.P",
    "name": "Shellron Capital Ltd.",
    "exchange": "TSXV",
@@ -17918,10 +17918,6 @@
     {
      "name": "Vizsla Royalties Corp.",
      "symbol": "VROY"
-    },
-    {
-     "name": "Vizsla Royalties Corp. wt 20Dec2024",
-     "symbol": "VROY.WT"
     }
    ]
   },
@@ -47448,12 +47444,6 @@
    "yahoo_symbol": "BROG"
   },
   {
-   "symbol": "BROGW",
-   "name": "Brooge Energy Limited  - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BROGW"
-  },
-  {
    "symbol": "BRRR",
    "name": "Coinshares Valkyrie Bitcoin Fund",
    "exchange": "NASDAQ Global MarketSM",
@@ -47554,12 +47544,6 @@
    "name": "Bassett Furniture Industries, Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BSET"
-  },
-  {
-   "symbol": "BSFC",
-   "name": "Blue Star Foods Corp. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BSFC"
   },
   {
    "symbol": "BSGM",
@@ -50500,12 +50484,6 @@
    "name": "Cytokinetics, Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CYTK"
-  },
-  {
-   "symbol": "CYTO",
-   "name": "Altamira Therapeutics Ltd. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CYTO"
   },
   {
    "symbol": "CZAR",
@@ -54632,7 +54610,7 @@
   {
    "symbol": "GLYC",
    "name": "GlycoMimetics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GLYC"
   },
   {
@@ -55030,6 +55008,18 @@
    "name": "Cheer Holding, Inc.  - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GSMGW"
+  },
+  {
+   "symbol": "GSRT",
+   "name": "GSR III Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRT"
+  },
+  {
+   "symbol": "GSRTR",
+   "name": "GSR III Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRTR"
   },
   {
    "symbol": "GSRTU",
@@ -57738,10 +57728,10 @@
    "yahoo_symbol": "JWEL"
   },
   {
-   "symbol": "JXJT",
+   "symbol": "JXG",
    "name": "JX Luxventure Limited - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JXJT"
+   "yahoo_symbol": "JXG"
   },
   {
    "symbol": "JYD",
@@ -59110,6 +59100,12 @@
    "name": "Lattice Semiconductor Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LSCC"
+  },
+  {
+   "symbol": "LSE",
+   "name": "Leishen Energy Holding Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSE"
   },
   {
    "symbol": "LSEA",
@@ -67218,12 +67214,6 @@
    "yahoo_symbol": "SMCO"
   },
   {
-   "symbol": "SMCP",
-   "name": "AlphaMark Actively Managed Small Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMCP"
-  },
-  {
    "symbol": "SMCX",
    "name": "Defiance Daily Target 2X Long SMCI ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -72274,6 +72264,24 @@
    "name": "Zentek Ltd. - common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZTEK"
+  },
+  {
+   "symbol": "ZTEN",
+   "name": "F/m 10-Year Investment Grade Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTEN"
+  },
+  {
+   "symbol": "ZTRE",
+   "name": "F/m 3-Year Investment Grade Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTRE"
+  },
+  {
+   "symbol": "ZTWO",
+   "name": "F/m 2-Year Investment Grade Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTWO"
   },
   {
    "symbol": "ZUMZ",
@@ -85870,6 +85878,12 @@
    "name": "PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "PDO"
+  },
+  {
+   "symbol": "PDPA",
+   "name": "Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PDPA"
   },
   {
    "symbol": "PDS",

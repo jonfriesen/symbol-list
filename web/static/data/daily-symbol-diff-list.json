@@ -1,108 +1,120 @@
 {
  "added": [
   {
-   "symbol": "GAINI",
-   "name": "Gladstone Investment Corporation - 7.875% Notes due 2030",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GAINI"
-  },
-  {
-   "symbol": "LEXI",
-   "name": "Alexis Practical Tactical ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LEXI"
-  },
-  {
-   "symbol": "NCEW",
-   "name": "New Century Logistics (BVI) Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NCEW"
-  },
-  {
-   "symbol": "STNC",
-   "name": "Hennessy Stance ESG ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STNC"
-  },
-  {
-   "symbol": "TAX",
-   "name": "Cambria Tax Aware ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TAX"
-  },
-  {
-   "symbol": "TSYY",
-   "name": "GraniteShares YieldBOOST TSLA ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSYY"
-  },
-  {
-   "symbol": "YSXT",
-   "name": "YSX Tech. Co., Ltd  - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YSXT"
-  },
-  {
-   "symbol": "ZAP",
-   "name": "Global X U.S. Electrification ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZAP"
-  },
-  {
-   "symbol": "ECCU",
-   "name": "Eagle Point Credit Company Inc. 7.75% Notes due 2030",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ECCU"
-  },
-  {
-   "symbol": "NPKI",
-   "name": "NPK International Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NPKI"
-  },
-  {
-   "symbol": "RCD",
-   "name": "Ready Capital Corporation 9.00% Senior Notes due 2029",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RCD"
-  }
- ],
- "removed": [
-  {
-   "symbol": "SMR.W",
-   "name": "NuScale Power Corporation Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SMR.W"
-  },
-  {
-   "symbol": "NR",
-   "name": "Newpark Resources, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NR"
-  },
-  {
-   "symbol": "ZUM",
-   "name": "ZoomerMedia Limited",
+   "symbol": "SHRX",
+   "name": "Sharp Therapeutics Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ZUM.V",
+   "yahoo_symbol": "SHRX.V",
    "instruments": [
     {
-     "name": "ZoomerMedia Limited",
-     "symbol": "ZUM"
+     "name": "Sharp Therapeutics Corp.",
+     "symbol": "SHRX"
     }
    ]
   },
   {
-   "symbol": "LEV.A",
-   "name": "The Lion Electric Company Warrants to purchase common shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LEV.A"
+   "symbol": "GLYC",
+   "name": "GlycoMimetics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLYC"
   },
   {
-   "symbol": "LEV",
-   "name": "The Lion Electric Company Common Shares",
+   "symbol": "GSRT",
+   "name": "GSR III Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRT"
+  },
+  {
+   "symbol": "GSRTR",
+   "name": "GSR III Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRTR"
+  },
+  {
+   "symbol": "JXG",
+   "name": "JX Luxventure Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JXG"
+  },
+  {
+   "symbol": "LSE",
+   "name": "Leishen Energy Holding Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSE"
+  },
+  {
+   "symbol": "ZTEN",
+   "name": "F/m 10-Year Investment Grade Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTEN"
+  },
+  {
+   "symbol": "ZTRE",
+   "name": "F/m 3-Year Investment Grade Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTRE"
+  },
+  {
+   "symbol": "ZTWO",
+   "name": "F/m 2-Year Investment Grade Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTWO"
+  },
+  {
+   "symbol": "PDPA",
+   "name": "Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029",
    "exchange": "NYSE",
-   "yahoo_symbol": "LEV"
+   "yahoo_symbol": "PDPA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CYTO",
+   "name": "Altamira Therapeutics Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYTO"
+  },
+  {
+   "symbol": "JXJT",
+   "name": "JX Luxventure Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JXJT"
+  },
+  {
+   "symbol": "BROGW",
+   "name": "Brooge Energy Limited  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BROGW"
+  },
+  {
+   "symbol": "EVP.P",
+   "name": "EVP Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EVP.P.V",
+   "instruments": [
+    {
+     "name": "EVP Capital Inc.",
+     "symbol": "EVP.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GLYC",
+   "name": "GlycoMimetics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLYC"
+  },
+  {
+   "symbol": "SMCP",
+   "name": "AlphaMark Actively Managed Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCP"
+  },
+  {
+   "symbol": "BSFC",
+   "name": "Blue Star Foods Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSFC"
   }
  ]
 }
