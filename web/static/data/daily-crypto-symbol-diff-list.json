@@ -1,39 +1,60 @@
 {
  "added": [
   {
-   "symbol": "SOVRN",
-   "name": "Sovrun (SOVRN)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "CHEEMSCO",
-   "name": "Cheems (CHEEMSCO)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "TMAI",
-   "name": "Token Metrics AI (TMAI)",
+   "symbol": "MOCHI",
+   "name": "Mochiswap (MOCHISWAP)",
    "built_on": "BASE"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
+   "symbol": "TARDI",
+   "name": "Tardi (TARDI)",
+   "built_on": "SUI"
   },
   {
-   "symbol": "DROPIL",
-   "name": "Dropil (DROPIL)",
-   "built_on": "ETH"
+   "symbol": "PARTY",
+   "name": "Party (PARTY)",
+   "built_on": "MERL"
   },
   {
-   "symbol": "NYANTE",
-   "name": "Nyantereum International (NYANTE)",
+   "symbol": "DRUGS",
+   "name": "Big Pharmai (DRUGS)"
+  },
+  {
+   "symbol": "CHEEMSV1",
+   "name": "Cheems (cheems.pet) v1 (CHEEMSV1)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "SHIBELON",
+   "name": "ShibElon (SHIBELON)",
    "built_on": "BNB"
   },
   {
-   "symbol": "PONCH",
-   "name": "Ponchiqs (PONCH)",
-   "built_on": "TON"
+   "symbol": "DEGEN",
+   "name": "Degen (DEGEN)"
+  },
+  {
+   "symbol": "TOMO",
+   "name": "Tomo Cat (TOMO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "KIBAV1",
+   "name": "Kiba Inu v1 (KIBAV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "3",
+   "name": "The Three Musketeers (3)"
+  },
+  {
+   "symbol": "HARRYPO",
+   "name": "HarryPotterObamaPacMan8Inu (HARRYPO)",
+   "built_on": "ETH"
   },
   {
    "symbol": "G",
@@ -41,38 +62,39 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "SOPH",
-   "name": "Sophon (SOPH)"
-  },
-  {
-   "symbol": "MOODENGSBS",
-   "name": "Moo Deng (moodeng.sbs) (MOODENGSBS)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "MARKETMOVE",
-   "name": "MarketMove (MARKETMOVE)",
+   "symbol": "MOODENGBNB",
+   "name": "MOODENG (moodengbnb.com) (MOODENGBNB)",
    "built_on": "BNB"
   },
   {
-   "symbol": "KWEEN",
-   "name": "KWEEN (KWEEN)",
-   "built_on": "SOL"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "NYANTE",
-   "name": "Nyantereum International (NYANTE)"
+   "symbol": "XRP8",
+   "name": "HarryPotterObamaPacMan8Inu (XRP8)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOCHI",
+   "name": "Mochiswap (MOCHI)"
+  },
+  {
+   "symbol": "DEGEN",
+   "name": "Degen (DEGEN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SHIBELON",
+   "name": "ShibElon (SHIBELON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "3",
+   "name": "The Three Musketeers (3)",
+   "built_on": "SOL"
   }
  ]
 }
