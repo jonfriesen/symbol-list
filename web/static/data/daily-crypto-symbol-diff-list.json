@@ -1,6 +1,18 @@
 {
  "added": [
   {
+   "symbol": "BREED",
+   "name": "BreederDAO (BREED)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "VANA",
+   "name": "Vana (VANA)"
+  },
+  {
    "symbol": "G",
    "name": "Gravity (G)",
    "built_on": "ETH"
@@ -9,10 +21,13 @@
    "symbol": "BANK",
    "name": "Float Protocol (BANK)",
    "built_on": "ETH"
-  },
+  }
+ ],
+ "removed": [
   {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
+   "symbol": "BREED",
+   "name": "BreederDAO (BREED)",
+   "built_on": "ETH"
   }
  ]
 }
