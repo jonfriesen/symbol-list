@@ -1,5 +1,5 @@
 {
- "date": "2024-12-27",
+ "date": "2024-12-30",
  "data": [
   {
    "symbol": "ONE",
@@ -694,6 +694,10 @@
     {
      "name": "Aluula Composites Inc.",
      "symbol": "AUUA"
+    },
+    {
+     "name": "Aluula Composites Inc rt ex 21Jan2025",
+     "symbol": "AUUA.RT"
     }
    ]
   },
@@ -23960,10 +23964,6 @@
      "symbol": "CJT"
     },
     {
-     "name": "Cargojet 5.75% Deb E",
-     "symbol": "CJT.DB.E"
-    },
-    {
      "name": "Cargojet 5.25% Deb F",
      "symbol": "CJT.DB.F"
     }
@@ -44860,12 +44860,6 @@
    "yahoo_symbol": "AMKR"
   },
   {
-   "symbol": "AMLI",
-   "name": "American Lithium Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMLI"
-  },
-  {
    "symbol": "AMLX",
    "name": "Amylyx Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -49382,12 +49376,6 @@
    "name": "ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CNOBP"
-  },
-  {
-   "symbol": "CNSL",
-   "name": "Consolidated Communications Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CNSL"
   },
   {
    "symbol": "CNSP",
@@ -61618,10 +61606,22 @@
    "yahoo_symbol": "NTWK"
   },
   {
+   "symbol": "NTWO",
+   "name": "Newbury Street II Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NTWO"
+  },
+  {
    "symbol": "NTWOU",
    "name": "Newbury Street II Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NTWOU"
+  },
+  {
+   "symbol": "NTWOW",
+   "name": "Newbury Street II Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NTWOW"
   },
   {
    "symbol": "NUKK",
@@ -63392,6 +63392,12 @@
    "name": "Phathom Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PHAT"
+  },
+  {
+   "symbol": "PHH",
+   "name": "Park Ha Biological Technology Co., Ltd. - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PHH"
   },
   {
    "symbol": "PHIO",
@@ -71164,12 +71170,6 @@
    "yahoo_symbol": "WHFCL"
   },
   {
-   "symbol": "WHLM",
-   "name": "Wilhelmina International, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WHLM"
-  },
-  {
    "symbol": "WHLR",
    "name": "Wheeler Real Estate Investment Trust, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -74369,7 +74369,7 @@
   },
   {
    "symbol": "BEPC",
-   "name": "Brookfield Renewable Corporation Class A Subordinate Voting Shares ",
+   "name": "Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "BEPC"
   },
@@ -74657,7 +74657,7 @@
   },
   {
    "symbol": "BIPC",
-   "name": "Brookfield Infrastructure Corporation ",
+   "name": "Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation",
    "exchange": "NYSE",
    "yahoo_symbol": "BIPC"
   },
@@ -87416,12 +87416,6 @@
    "name": "Saba Capital Income \u0026 Opportunities Fund II Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "SABA"
-  },
-  {
-   "symbol": "SACC",
-   "name": "Sachem Capital Corp. 6.875% Notes due 2024",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SACC"
   },
   {
    "symbol": "SACH",

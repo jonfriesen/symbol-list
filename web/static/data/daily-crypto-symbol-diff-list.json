@@ -1,33 +1,52 @@
 {
  "added": [
   {
-   "symbol": "BREED",
-   "name": "BreederDAO (BREED)"
+   "symbol": "TEVA",
+   "name": "Tevaera (TEVA)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "RBNT",
+   "name": "Redbelly Network (RBNT)"
+  },
+  {
+   "symbol": "FLOKIV2",
+   "name": "Floki v2 (FLOKIV2)"
+  },
+  {
+   "symbol": "ME",
+   "name": "Magic Eden (ME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FLOKIV1",
+   "name": "Floki v1 (FLOKIV1)"
+  },
+  {
+   "symbol": "FLOKIV3",
+   "name": "Floki v3 (FLOKIV3)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SUPRA",
+   "name": "Supra (SUPRA)"
   },
   {
    "symbol": "CBBTCBASE",
    "name": "cbBTC (CBBTCBASE)"
   },
   {
-   "symbol": "VANA",
-   "name": "Vana (VANA)"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "BREED",
-   "name": "BreederDAO (BREED)",
-   "built_on": "ETH"
+   "symbol": "ME",
+   "name": "Magic Eden (ME)"
   }
  ]
 }

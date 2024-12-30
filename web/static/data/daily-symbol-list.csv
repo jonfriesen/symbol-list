@@ -56,7 +56,7 @@ ARH,Altima Energy Inc.,TSXV,ARH.V,Altima Energy Inc.,ARH
 ALTN.P,Altina Capital Corp.,TSXV,ALTN.P.V,Altina Capital Corp.,ALTN.P
 APN,Altiplano Metals Inc.,TSXV,APN.V,Altiplano Metals Inc.,APN
 ALT,Alturas Minerals Corp.,TSXV,ALT.V,Alturas Minerals Corp,ALT
-AUUA,Aluula Composites Inc.,TSXV,AUUA.V,Aluula Composites Inc.,AUUA
+AUUA,Aluula Composites Inc.,TSXV,AUUA.V,Aluula Composites Inc.,AUUA,Aluula Composites Inc rt ex 21Jan2025,AUUA.RT
 ALV,Alvopetro Energy Ltd.,TSXV,ALV.V,Alvopetro Energy Ltd.,ALV
 AL,ALX Resources Corp.,TSXV,AL.V,ALX Resources Corp.,AL
 AHR,Amarc Resources Ltd.,TSXV,AHR.V,Amarc Resources Ltd.,AHR
@@ -1912,7 +1912,7 @@ CSE.PR.A,Capstone Infrastructure Corporation,TSX,CSE.PR.A.TO,Capstone Infr Pr A,
 CJ,Cardinal Energy Ltd.,TSX,CJ.TO,Cardinal Energy,CJ
 CRDL,Cardiol Therapeutics Inc.,TSX,CRDL.TO,Cardiol Therapeutc A,CRDL
 CRRX,CareRx Corporation,TSX,CRRX.TO,CareRx Corp. J,CRRX
-CJT,Cargojet Inc.,TSX,CJT.TO,Cargojet Inc. Com&VV,CJT,Cargojet 5.75% Deb E,CJT.DB.E,Cargojet 5.25% Deb F,CJT.DB.F
+CJT,Cargojet Inc.,TSX,CJT.TO,Cargojet Inc. Com&VV,CJT,Cargojet 5.25% Deb F,CJT.DB.F
 CUP.U,"Caribbean Utilities Company, Ltd.",TSX,CUP.U.TO,Caribbean Ut Cl A US,CUP.U
 CAS,Cascades Inc.,TSX,CAS.TO,Cascades Inc.,CAS
 CCL.A,CCL Industries Inc.,TSX,CCL.A.TO,CCL Industries Cl A,CCL.A,CCL Industries Cl B,CCL.B
@@ -3589,7 +3589,6 @@ AMGN,Amgen Inc. - Common Stock,NASDAQ Global Select MarketSM,AMGN
 AMID,Argent Mid Cap ETF,NASDAQ Global MarketSM,AMID
 AMIX,"Autonomix Medical, Inc. - Common Stock",NASDAQ Capital Market,AMIX
 AMKR,"Amkor Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMKR
-AMLI,American Lithium Corp. - Common Stock,NASDAQ Capital Market,AMLI
 AMLX,"Amylyx Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMLX
 AMOD,"Alpha Modus Holdings, Inc. - Class A Common Stock",NASDAQ Global MarketSM,AMOD
 AMODW,"Alpha Modus Holdings, Inc. - Warrant",NASDAQ Capital Market,AMODW
@@ -4343,7 +4342,6 @@ CNFR,"Conifer Holdings, Inc. - Common Stock",NASDAQ Capital Market,CNFR
 CNFRZ,"Conifer Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028",NASDAQ Global MarketSM,CNFRZ
 CNOB,"ConnectOne Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,CNOB
 CNOBP,"ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)",NASDAQ Global Select MarketSM,CNOBP
-CNSL,"Consolidated Communications Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,CNSL
 CNSP,"CNS Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,CNSP
 CNTA,Centessa Pharmaceuticals plc - American Depositary Shares,NASDAQ Global Select MarketSM,CNTA
 CNTB,Connect Biopharma Holdings Limited - American Depositary Shares,NASDAQ Global MarketSM,CNTB
@@ -6382,7 +6380,9 @@ NTRP,"NextTrip, Inc. - Common Stock",NASDAQ Capital Market,NTRP
 NTRS,Northern Trust Corporation - Common Stock,NASDAQ Global Select MarketSM,NTRS
 NTRSO,"Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock",NASDAQ Global Select MarketSM,NTRSO
 NTWK,NETSOL Technologies Inc. - Common Stock,NASDAQ Capital Market,NTWK
+NTWO,Newbury Street II Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,NTWO
 NTWOU,Newbury Street II Acquisition Corp - Unit,NASDAQ Global MarketSM,NTWOU
+NTWOW,Newbury Street II Acquisition Corp - Warrant,NASDAQ Global MarketSM,NTWOW
 NUKK,Nukkleus Inc. - Ordinary Shares,NASDAQ Global MarketSM,NUKK
 NUKKW,Nukkleus Inc. - Warrants,NASDAQ Capital Market,NUKKW
 NURO,"NeuroMetrix, Inc. - Common Stock",NASDAQ Capital Market,NURO
@@ -6678,6 +6678,7 @@ PGY,Pagaya Technologies Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,PGY
 PGYWW,Pagaya Technologies Ltd. - Warrants,NASDAQ Capital Market,PGYWW
 PHAR,"Pharming Group N.V. - ADS, each representing 10 ordinary shares",NASDAQ Global MarketSM,PHAR
 PHAT,"Phathom Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,PHAT
+PHH,"Park Ha Biological Technology Co., Ltd. - ordinary shares",NASDAQ Capital Market,PHH
 PHIO,Phio Pharmaceuticals Corp. - Common Stock,NASDAQ Capital Market,PHIO
 PHLT,"Performant Healthcare, Inc. - Common Stock",NASDAQ Global Select MarketSM,PHLT
 PHO,Invesco Water Resources ETF,NASDAQ Global MarketSM,PHO
@@ -7973,7 +7974,6 @@ WGS,GeneDx Holdings Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,W
 WGSWW,GeneDx Holdings Corp. - Warrant,NASDAQ Global Select MarketSM,WGSWW
 WHF,"WhiteHorse Finance, Inc. - Closed End Fund",NASDAQ Global Select MarketSM,WHF
 WHFCL,"WhiteHorse Finance, Inc. - 7.875% Notes due 2028",NASDAQ Global Select MarketSM,WHFCL
-WHLM,"Wilhelmina International, Inc. - Common Stock",NASDAQ Capital Market,WHLM
 WHLR,"Wheeler Real Estate Investment Trust, Inc. - Common Stock",NASDAQ Capital Market,WHLR
 WHLRD,"Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative Preferred Stock",NASDAQ Capital Market,WHLRD
 WHLRL,"Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031",NASDAQ Capital Market,WHLRL
@@ -8507,7 +8507,7 @@ BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A
 BEN,"Franklin Resources, Inc. Common Stock",NYSE,BEN
 BEP,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,BEP
 BEP$A,"Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17",NYSE,BEP$A
-BEPC,Brookfield Renewable Corporation Class A Subordinate Voting Shares ,NYSE,BEPC
+BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,NYSE,BEPC
 BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,NYSE,BEPH
 BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,NYSE,BEPI
 BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,NYSE,BEPJ
@@ -8555,7 +8555,7 @@ BIO.B,"Bio-Rad Laboratories, Inc. Class B  Common Stock",NYSE,BIO.B
 BIP,Brookfield Infrastructure Partners LP Limited Partnership Units,NYSE,BIP
 BIP$A,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",NYSE,BIP$A
 BIP$B,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",NYSE,BIP$B
-BIPC,Brookfield Infrastructure Corporation ,NYSE,BIPC
+BIPC,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,NYSE,BIPC
 BIPH,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,NYSE,BIPH
 BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,NYSE,BIPI
 BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,NYSE,BIPJ
@@ -10682,7 +10682,6 @@ RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordin
 S,"SentinelOne, Inc. Class A Common Stock",NYSE,S
 SA,"Seabridge Gold, Inc. Ordinary Shares (Canada)",NYSE,SA
 SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,NYSE,SABA
-SACC,Sachem Capital Corp. 6.875% Notes due 2024,NYSE MKT,SACC
 SACH,Sachem Capital Corp. Common Shares,NYSE MKT,SACH
 SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,NYSE MKT,SACH$A
 SAFE,Safehold Inc. New Common Stock ,NYSE,SAFE
