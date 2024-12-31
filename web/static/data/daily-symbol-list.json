@@ -1,5 +1,5 @@
 {
- "date": "2024-12-30",
+ "date": "2024-12-31",
  "data": [
   {
    "symbol": "ONE",
@@ -6074,18 +6074,6 @@
     {
      "name": "Flow Capital Corp.",
      "symbol": "FW"
-    }
-   ]
-  },
-  {
-   "symbol": "FLY",
-   "name": "FLYHT Aerospace Solutions Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FLY.V",
-   "instruments": [
-    {
-     "name": "FLYHT Aerospace Solutions Ltd.",
-     "symbol": "FLY"
     }
    ]
   },
@@ -16684,7 +16672,7 @@
    "yahoo_symbol": "TAU.V",
    "instruments": [
     {
-     "name": "Thesis Gold Inc",
+     "name": "Thesis Gold Inc.",
      "symbol": "TAU"
     }
    ]
@@ -51538,6 +51526,12 @@
    "yahoo_symbol": "EGBN"
   },
   {
+   "symbol": "EGGQ",
+   "name": "NestYield Visionary ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGGQ"
+  },
+  {
    "symbol": "EGHT",
    "name": "8x8 Inc - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62488,12 +62482,6 @@
    "yahoo_symbol": "OPEN"
   },
   {
-   "symbol": "OPHC",
-   "name": "OptimumBank Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OPHC"
-  },
-  {
    "symbol": "OPI",
    "name": "Office Properties Income Trust - Common Shares of Beneficial Interest",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -71290,10 +71278,22 @@
    "yahoo_symbol": "WKSP"
   },
   {
+   "symbol": "WLAC",
+   "name": "Willow Lane Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLAC"
+  },
+  {
    "symbol": "WLACU",
    "name": "Willow Lane Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WLACU"
+  },
+  {
+   "symbol": "WLACW",
+   "name": "Willow Lane Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLACW"
   },
   {
    "symbol": "WLDN",
@@ -77516,12 +77516,6 @@
    "name": "Dun \u0026 Bradstreet Holdings, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "DNB"
-  },
-  {
-   "symbol": "DNMR",
-   "name": "Danimer Scientific, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DNMR"
   },
   {
    "symbol": "DNN",
@@ -85298,6 +85292,12 @@
    "name": "OppFi Inc. Warrants",
    "exchange": "NYSE",
    "yahoo_symbol": "OPFI.W"
+  },
+  {
+   "symbol": "OPHC",
+   "name": "OptimumBank Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "OPHC"
   },
   {
    "symbol": "OPP",

@@ -1,48 +1,54 @@
 {
  "added": [
   {
-   "symbol": "NTWO",
-   "name": "Newbury Street II Acquisition Corp - Class A Ordinary Shares",
+   "symbol": "EGGQ",
+   "name": "NestYield Visionary ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NTWO"
+   "yahoo_symbol": "EGGQ"
   },
   {
-   "symbol": "NTWOW",
-   "name": "Newbury Street II Acquisition Corp - Warrant",
+   "symbol": "WLAC",
+   "name": "Willow Lane Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NTWOW"
+   "yahoo_symbol": "WLAC"
   },
   {
-   "symbol": "PHH",
-   "name": "Park Ha Biological Technology Co., Ltd. - ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PHH"
+   "symbol": "WLACW",
+   "name": "Willow Lane Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLACW"
+  },
+  {
+   "symbol": "OPHC",
+   "name": "OptimumBank Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "OPHC"
   }
  ],
  "removed": [
   {
-   "symbol": "WHLM",
-   "name": "Wilhelmina International, Inc. - Common Stock",
+   "symbol": "OPHC",
+   "name": "OptimumBank Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WHLM"
+   "yahoo_symbol": "OPHC"
   },
   {
-   "symbol": "CNSL",
-   "name": "Consolidated Communications Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CNSL"
+   "symbol": "DNMR",
+   "name": "Danimer Scientific, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DNMR"
   },
   {
-   "symbol": "AMLI",
-   "name": "American Lithium Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMLI"
-  },
-  {
-   "symbol": "SACC",
-   "name": "Sachem Capital Corp. 6.875% Notes due 2024",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SACC"
+   "symbol": "FLY",
+   "name": "FLYHT Aerospace Solutions Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FLY.V",
+   "instruments": [
+    {
+     "name": "FLYHT Aerospace Solutions Ltd.",
+     "symbol": "FLY"
+    }
+   ]
   }
  ]
 }

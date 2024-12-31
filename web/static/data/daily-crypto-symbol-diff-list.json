@@ -1,52 +1,51 @@
 {
  "added": [
   {
-   "symbol": "TEVA",
-   "name": "Tevaera (TEVA)",
-   "built_on": "ZK"
+   "symbol": "GINUX",
+   "name": "Green Shiba Inu (GINUX)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "RBNT",
-   "name": "Redbelly Network (RBNT)"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "FLOKIV2",
-   "name": "Floki v2 (FLOKIV2)"
+   "symbol": "NFAIV1",
+   "name": "Not Financial Advice v1 (NFAIV1)"
   },
   {
-   "symbol": "ME",
-   "name": "Magic Eden (ME)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "FLOKIV1",
-   "name": "Floki v1 (FLOKIV1)"
-  },
-  {
-   "symbol": "FLOKIV3",
-   "name": "Floki v3 (FLOKIV3)"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "SUPRA",
-   "name": "Supra (SUPRA)"
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
   },
   {
    "symbol": "CBBTCBASE",
    "name": "cbBTC (CBBTCBASE)"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "TST",
+   "name": "Standard Token (TST)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "POOLZ",
+   "name": "Poolz Finance (POOLZ)"
   }
  ],
  "removed": [
   {
-   "symbol": "ME",
-   "name": "Magic Eden (ME)"
+   "symbol": "POOLZ",
+   "name": "Poolz Finance (POOLZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GINUX",
+   "name": "Green Shiba Inu (GINUX)"
   }
  ]
 }
