@@ -1,51 +1,21 @@
 {
  "added": [
   {
-   "symbol": "GINUX",
-   "name": "Green Shiba Inu (GINUX)",
-   "built_on": "BNB"
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "NFAIV1",
-   "name": "Not Financial Advice v1 (NFAIV1)"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
+   "symbol": "UNIDXV1",
+   "name": "UniDex v1 (UNIDXV1)"
   },
   {
    "symbol": "CBBTCBASE",
    "name": "cbBTC (CBBTCBASE)"
   },
   {
-   "symbol": "TST",
-   "name": "Standard Token (TST)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "POOLZ",
-   "name": "Poolz Finance (POOLZ)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "POOLZ",
-   "name": "Poolz Finance (POOLZ)",
+   "symbol": "G",
+   "name": "Gravity (G)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "GINUX",
-   "name": "Green Shiba Inu (GINUX)"
   }
  ]
 }
