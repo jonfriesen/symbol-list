@@ -1,21 +1,23 @@
 {
  "added": [
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "UFD",
+   "name": "Unicorn Fart Dust (UFD)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "UNIDXV1",
-   "name": "UniDex v1 (UNIDXV1)"
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (G)",
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   }
  ]
 }
