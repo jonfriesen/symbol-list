@@ -1,23 +1,38 @@
 {
  "added": [
   {
-   "symbol": "UFD",
-   "name": "Unicorn Fart Dust (UFD)",
+   "symbol": "SDM",
+   "name": "Shieldeum (SDM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WOULD",
+   "name": "would (WOULD)",
    "built_on": "SOL"
   },
   {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
-   "built_on": "BASE"
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "NS",
+   "name": "NodeSynapse (NS)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
    "built_on": "ETH"
-  },
+  }
+ ],
+ "removed": [
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "NS",
+   "name": "NodeSynapse (NS)",
+   "built_on": "ETH"
   }
  ]
 }

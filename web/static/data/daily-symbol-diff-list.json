@@ -1,162 +1,186 @@
 {
  "added": [
   {
-   "symbol": "NHPAP",
-   "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NHPAP"
-  },
-  {
-   "symbol": "NHPBP",
-   "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NHPBP"
-  },
-  {
-   "symbol": "ONC",
-   "name": "BeiGene, Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ONC"
-  },
-  {
-   "symbol": "AAMI",
-   "name": "Acadian Asset Management Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAMI"
-  },
-  {
-   "symbol": "PRSU",
-   "name": "Pursuit Attractions and Hospitality, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRSU"
-  },
-  {
-   "symbol": "NVLH",
-   "name": "Nevada Lithium Resources Inc.",
+   "symbol": "CYG",
+   "name": "Cygnus Metals Limited",
    "exchange": "TSXV",
-   "yahoo_symbol": "NVLH.V",
+   "yahoo_symbol": "CYG.V",
    "instruments": [
     {
-     "name": "Nevada Lithium Resources Inc.",
-     "symbol": "NVLH"
+     "name": "Cygnus Metals Limited",
+     "symbol": "CYG"
     }
    ]
+  },
+  {
+   "symbol": "RPR.DB",
+   "name": "Ravelin Properties REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPR.DB.TO",
+   "instruments": [
+    {
+     "name": "Slate Office REIT Db",
+     "symbol": "RPR.DB"
+    },
+    {
+     "name": "SlateOfficeREIT Db A",
+     "symbol": "RPR.DB.A"
+    },
+    {
+     "name": "SlateOfficeREIT Db B",
+     "symbol": "RPR.DB.B"
+    },
+    {
+     "name": "Slate Office REIT Un",
+     "symbol": "RPR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "DPZ",
+   "name": "Domino's Pizza Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DPZ"
+  },
+  {
+   "symbol": "INLF",
+   "name": "INLIF LIMITED - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INLF"
+  },
+  {
+   "symbol": "MCW",
+   "name": "Mister Car Wash, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MCW"
+  },
+  {
+   "symbol": "PBQQ",
+   "name": "PGIM Laddered Nasdaq-100 Buffer 12 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBQQ"
+  },
+  {
+   "symbol": "PQAP",
+   "name": "PGIM Nasdaq-100 Buffer 12 ETF - April",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PQAP"
+  },
+  {
+   "symbol": "PQJA",
+   "name": "PGIM Nasdaq-100 Buffer 12 ETF - January",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PQJA"
+  },
+  {
+   "symbol": "PQJL",
+   "name": "PGIM Nasdaq-100 Buffer 12 ETF - July",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PQJL"
+  },
+  {
+   "symbol": "PQOC",
+   "name": "PGIM Nasdaq-100 Buffer 12 ETF - October",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PQOC"
+  },
+  {
+   "symbol": "RAIN",
+   "name": "Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAIN"
+  },
+  {
+   "symbol": "RAINW",
+   "name": "Rain Enhancement Technologies Holdco, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAINW"
+  },
+  {
+   "symbol": "JBTM",
+   "name": "JBT Marel Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JBTM"
   }
  ],
  "removed": [
   {
-   "symbol": "HTIBP",
-   "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HTIBP"
-  },
-  {
-   "symbol": "AILEW",
-   "name": "iLearningEngines, Inc. - Warrant",
+   "symbol": "MARXR",
+   "name": "Mars Acquisition Corp. - Rights",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AILEW"
+   "yahoo_symbol": "MARXR"
   },
   {
-   "symbol": "MCW",
-   "name": "Mister Car Wash, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MCW"
+   "symbol": "STCN",
+   "name": "Steel Connect, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STCN"
   },
   {
-   "symbol": "AL",
-   "name": "ALX Resources Corp.",
+   "symbol": "DCMC",
+   "name": "Dore Copper Mining Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AL.V",
+   "yahoo_symbol": "DCMC.V",
    "instruments": [
     {
-     "name": "ALX Resources Corp.",
-     "symbol": "AL"
+     "name": "Dore Copper Mining Corp.",
+     "symbol": "DCMC"
     }
    ]
   },
   {
-   "symbol": "BGNE",
-   "name": "BeiGene, Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BGNE"
-  },
-  {
-   "symbol": "DPZ",
-   "name": "Domino's Pizza Inc Common Stock",
+   "symbol": "JBT",
+   "name": "John Bean Technologies Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "DPZ"
+   "yahoo_symbol": "JBT"
   },
   {
-   "symbol": "BSIG",
-   "name": "BrightSphere Investment Group Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BSIG"
+   "symbol": "MARX",
+   "name": "Mars Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARX"
   },
   {
-   "symbol": "GHML",
-   "name": "Golden Horse Minerals Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GHML.V",
-   "instruments": [
-    {
-     "name": "Golden Horse Minerals Limited",
-     "symbol": "GHML"
-    }
-   ]
+   "symbol": "MARXU",
+   "name": "Mars Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARXU"
   },
   {
-   "symbol": "IBTX",
-   "name": "Independent Bank Group, Inc - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IBTX"
+   "symbol": "MBINO",
+   "name": "Merchants Bancorp - Depositary Shares Each Representing a 1/40th Interest in a Share of Series B Fixed-to-Floating Rate",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBINO"
   },
   {
-   "symbol": "IBG.DB.E",
-   "name": "IBI Group Inc.",
+   "symbol": "MNTX",
+   "name": "Manitex International, Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MNTX"
+  },
+  {
+   "symbol": "SOT.DB",
+   "name": "Slate Office REIT",
    "exchange": "TSX",
-   "yahoo_symbol": "IBG.DB.E.TO",
+   "yahoo_symbol": "SOT.DB.TO",
    "instruments": [
     {
-     "name": "IBI Group 6.50% Deb",
-     "symbol": "IBG.DB.E"
-    }
-   ]
-  },
-  {
-   "symbol": "AILE",
-   "name": "iLearningEngines, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AILE"
-  },
-  {
-   "symbol": "INSP",
-   "name": "Inspire Semiconductor Holdings Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "INSP.V",
-   "instruments": [
+     "name": "Slate Office REIT Db",
+     "symbol": "SOT.DB"
+    },
     {
-     "name": "Inspire Semiconductor Holdings Inc.",
-     "symbol": "INSP"
+     "name": "SlateOfficeREIT Db A",
+     "symbol": "SOT.DB.A"
+    },
+    {
+     "name": "SlateOfficeREIT Db B",
+     "symbol": "SOT.DB.B"
+    },
+    {
+     "name": "Slate Office REIT Un",
+     "symbol": "SOT.UN"
     }
    ]
-  },
-  {
-   "symbol": "AHL$C",
-   "name": "Aspen Insurance Holdings Limited 5.95% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AHL$C"
-  },
-  {
-   "symbol": "HTIA",
-   "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HTIA"
-  },
-  {
-   "symbol": "VVI",
-   "name": "Viad Corp Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VVI"
   }
  ]
 }
