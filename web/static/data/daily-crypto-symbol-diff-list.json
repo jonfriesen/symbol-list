@@ -1,38 +1,86 @@
 {
  "added": [
   {
-   "symbol": "SDM",
-   "name": "Shieldeum (SDM)",
+   "symbol": "EGO",
+   "name": "EGOcoin (EGO)",
    "built_on": "BNB"
   },
   {
-   "symbol": "WOULD",
-   "name": "would (WOULD)",
-   "built_on": "SOL"
+   "symbol": "FRAX",
+   "name": "Frax (FRAX)"
+  },
+  {
+   "symbol": "SCA",
+   "name": "Scallop (SCA)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "RSVV1",
+   "name": "Reserve v1 (RSVV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CELOUSD",
+   "name": "Celo Dollar (CELOUSD)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "FAIRUM",
+   "name": "Fairum (FAIRUM)"
+  },
+  {
+   "symbol": "NODESYNAPSE",
+   "name": "NodeSynapse (NODESYNAPSE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NS",
+   "name": "SuiNS Token (NS)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SIACLASSIC",
+   "name": "SiaClassic (SIACLASSIC)"
   },
   {
    "symbol": "CBBTCBASE",
    "name": "cbBTC (CBBTCBASE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FRAX",
+   "name": "Frax (FRAX)",
+   "built_on": "ETH"
   },
   {
    "symbol": "NS",
    "name": "NodeSynapse (NS)"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "CELOUSD",
+   "name": "Celo Dollar (CELOUSD)"
   },
   {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  }
- ],
- "removed": [
+   "symbol": "EGO",
+   "name": "EGOcoin (EGO)"
+  },
   {
-   "symbol": "NS",
-   "name": "NodeSynapse (NS)",
-   "built_on": "ETH"
+   "symbol": "FAI",
+   "name": "Fairum (FAI)"
+  },
+  {
+   "symbol": "SCA",
+   "name": "SiaClassic (SCA)"
   }
  ]
 }

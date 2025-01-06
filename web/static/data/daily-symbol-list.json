@@ -1,5 +1,5 @@
 {
- "date": "2025-01-03",
+ "date": "2025-01-06",
  "data": [
   {
    "symbol": "ONE",
@@ -3214,6 +3214,18 @@
     {
      "name": "Carlin Gold Corporation",
      "symbol": "CGD"
+    }
+   ]
+  },
+  {
+   "symbol": "CPI",
+   "name": "Carlton Precious Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CPI.V",
+   "instruments": [
+    {
+     "name": "Carlton Precious Inc.",
+     "symbol": "CPI"
     }
    ]
   },
@@ -12062,18 +12074,6 @@
     {
      "name": "Nubeva Technologies Ltd.",
      "symbol": "NBVA"
-    }
-   ]
-  },
-  {
-   "symbol": "NBR",
-   "name": "Nubian Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NBR.V",
-   "instruments": [
-    {
-     "name": "Nubian Resources Ltd",
-     "symbol": "NBR"
     }
    ]
   },
@@ -23282,15 +23282,11 @@
    ]
   },
   {
-   "symbol": "HOM.DB.U",
+   "symbol": "HOM.U",
    "name": "BSR Real Estate Investment Trust",
    "exchange": "TSX",
-   "yahoo_symbol": "HOM.DB.U.TO",
+   "yahoo_symbol": "HOM.U.TO",
    "instruments": [
-    {
-     "name": "BSR REIT Deb USF",
-     "symbol": "HOM.DB.U"
-    },
     {
      "name": "BSR REIT Invest USF",
      "symbol": "HOM.U"
@@ -37319,7 +37315,7 @@
   },
   {
    "symbol": "TKN",
-   "name": "Ninepoint Web3 Innovators Fund",
+   "name": "Ninepoint Crypto and AI Leaders ETF",
    "exchange": "TSX",
    "yahoo_symbol": "TKN.TO",
    "instruments": [
@@ -39224,19 +39220,19 @@
    "yahoo_symbol": "RPR.DB.TO",
    "instruments": [
     {
-     "name": "Slate Office REIT Db",
+     "name": "Ravelin Pr REIT 9%Db",
      "symbol": "RPR.DB"
     },
     {
-     "name": "SlateOfficeREIT Db A",
+     "name": "Ravelin ProREIT Db A",
      "symbol": "RPR.DB.A"
     },
     {
-     "name": "SlateOfficeREIT Db B",
+     "name": "Ravelin ProREIT Db B",
      "symbol": "RPR.DB.B"
     },
     {
-     "name": "Slate Office REIT Un",
+     "name": "Ravelin Prop REIT Un",
      "symbol": "RPR.UN"
     }
    ]
@@ -40299,7 +40295,7 @@
   },
   {
    "symbol": "SES",
-   "name": "Secure Energy Services Inc.",
+   "name": "Secure Waste Infrastructure Corp.",
    "exchange": "TSX",
    "yahoo_symbol": "SES.TO",
    "instruments": [
@@ -45470,6 +45466,18 @@
    "yahoo_symbol": "ASO"
   },
   {
+   "symbol": "ASPC",
+   "name": "A SPAC III Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASPC"
+  },
+  {
+   "symbol": "ASPCR",
+   "name": "A SPAC III Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASPCR"
+  },
+  {
    "symbol": "ASPCU",
    "name": "A SPAC III Acquisition Corp. - Unit",
    "exchange": "NASDAQ Capital Market",
@@ -47062,7 +47070,7 @@
   {
    "symbol": "BOLT",
    "name": "Bolt Biotherapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BOLT"
   },
   {
@@ -56870,6 +56878,12 @@
    "yahoo_symbol": "IPKW"
   },
   {
+   "symbol": "IPM",
+   "name": "Intelligent Protection Management Corp.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPM"
+  },
+  {
    "symbol": "IPSC",
    "name": "Century Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62792,12 +62806,6 @@
    "yahoo_symbol": "PALI"
   },
   {
-   "symbol": "PALT",
-   "name": "Paltalk, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PALT"
-  },
-  {
    "symbol": "PAMT",
    "name": "PAMT CORP - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -63222,12 +63230,6 @@
    "name": "Invesco Dorsey Wright Financial Momentum ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PFI"
-  },
-  {
-   "symbol": "PFIE",
-   "name": "Profire Energy, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PFIE"
   },
   {
    "symbol": "PFIS",
@@ -67766,6 +67768,12 @@
    "yahoo_symbol": "STAF"
   },
   {
+   "symbol": "STAI",
+   "name": "ScanTech AI Systems Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STAI"
+  },
+  {
    "symbol": "STBA",
    "name": "S\u0026T Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69174,6 +69182,12 @@
    "name": "GraniteShares 2x Short TSLA Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TSDD"
+  },
+  {
+   "symbol": "TSEL",
+   "name": "Touchstone Sands Capital US Select Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSEL"
   },
   {
    "symbol": "TSEM",
@@ -79692,12 +79706,6 @@
    "name": "GE Aerospace Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "GE"
-  },
-  {
-   "symbol": "GEAR",
-   "name": "Revelyst, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GEAR"
   },
   {
    "symbol": "GEF",
