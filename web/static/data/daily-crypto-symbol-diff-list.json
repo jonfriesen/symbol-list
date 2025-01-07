@@ -1,45 +1,47 @@
 {
  "added": [
   {
-   "symbol": "EGO",
-   "name": "EGOcoin (EGO)",
+   "symbol": "COGE",
+   "name": "Cogecoin (COGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FAI",
+   "name": "Freysa AI (FAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "EGOCOIN",
+   "name": "EGOcoin (EGOCOIN)"
+  },
+  {
+   "symbol": "JOECOIN",
+   "name": "Joe Coin (JOECOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAINBOW",
+   "name": "Rainbow Token (RAINBOW)",
    "built_on": "BNB"
   },
   {
-   "symbol": "FRAX",
-   "name": "Frax (FRAX)"
+   "symbol": "LOWB",
+   "name": "Loser Coin (LOWB)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "SCA",
-   "name": "Scallop (SCA)",
-   "built_on": "SUI"
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "RSVV1",
-   "name": "Reserve v1 (RSVV1)",
-   "built_on": "ETH"
+   "symbol": "PIG",
+   "name": "Pig Finance (PIG)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "CELOUSD",
-   "name": "Celo Dollar (CELOUSD)",
-   "built_on": "CELO"
-  },
-  {
-   "symbol": "FAIRUM",
-   "name": "Fairum (FAIRUM)"
-  },
-  {
-   "symbol": "NODESYNAPSE",
-   "name": "NodeSynapse (NODESYNAPSE)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "NS",
-   "name": "SuiNS Token (NS)",
+   "symbol": "SUIDEPIN",
+   "name": "Sui DePIN (SUIDEPIN)",
    "built_on": "SUI"
   },
   {
@@ -48,39 +50,26 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "SIACLASSIC",
-   "name": "SiaClassic (SIACLASSIC)"
-  },
-  {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   }
  ],
  "removed": [
   {
-   "symbol": "FRAX",
-   "name": "Frax (FRAX)",
-   "built_on": "ETH"
+   "symbol": "RAINBOW",
+   "name": "Rainbow Token (RAINBOW)"
   },
   {
-   "symbol": "NS",
-   "name": "NodeSynapse (NS)"
+   "symbol": "LOWB",
+   "name": "Loser Coin (LOWB)"
   },
   {
-   "symbol": "CELOUSD",
-   "name": "Celo Dollar (CELOUSD)"
+   "symbol": "PIG",
+   "name": "Pig Finance (PIG)"
   },
   {
-   "symbol": "EGO",
-   "name": "EGOcoin (EGO)"
-  },
-  {
-   "symbol": "FAI",
-   "name": "Fairum (FAI)"
-  },
-  {
-   "symbol": "SCA",
-   "name": "SiaClassic (SCA)"
+   "symbol": "COGE",
+   "name": "Cogecoin (COGE)"
   }
  ]
 }
