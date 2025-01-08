@@ -1,5 +1,5 @@
 {
- "date": "2025-01-07",
+ "date": "2025-01-08",
  "data": [
   {
    "symbol": "ONE",
@@ -5430,18 +5430,6 @@
     {
      "name": "Entourage Health Corp.",
      "symbol": "ENTG"
-    }
-   ]
-  },
-  {
-   "symbol": "EWS",
-   "name": "Environmental Waste International Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EWS.V",
-   "instruments": [
-    {
-     "name": "Environmental Waste International Inc.",
-     "symbol": "EWS"
     }
    ]
   },
@@ -13592,7 +13580,7 @@
    "yahoo_symbol": "QGR.V",
    "instruments": [
     {
-     "name": "Q-Gold Resources LTD.",
+     "name": "Q-Gold Resources Ltd.",
      "symbol": "QGR"
     }
    ]
@@ -48502,6 +48490,12 @@
    "yahoo_symbol": "CEPI"
   },
   {
+   "symbol": "CEPO",
+   "name": "Cantor Equity Partners I, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPO"
+  },
+  {
    "symbol": "CERO",
    "name": "CERo Therapeutics Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -49628,18 +49622,6 @@
    "name": "Consumer Portfolio Services, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CPSS"
-  },
-  {
-   "symbol": "CPTN",
-   "name": "Cepton, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CPTN"
-  },
-  {
-   "symbol": "CPTNW",
-   "name": "Cepton, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CPTNW"
   },
   {
    "symbol": "CPZ",
@@ -57539,7 +57521,7 @@
   },
   {
    "symbol": "JXG",
-   "name": "JX Luxventure Limited - Common Stock",
+   "name": "JX Luxventure Group Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JXG"
   },
@@ -66785,7 +66767,7 @@
   },
   {
    "symbol": "SKK",
-   "name": "SKK Holdings Limited - Common Stock",
+   "name": "SKK Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SKK"
   },
@@ -67218,7 +67200,7 @@
   {
    "symbol": "SNSE",
    "name": "Sensei Biotherapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SNSE"
   },
   {
@@ -72134,6 +72116,12 @@
    "name": "ZyVersa Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZVSA"
+  },
+  {
+   "symbol": "ZYBT",
+   "name": "Zhengye Biotechnology Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZYBT"
   },
   {
    "symbol": "ZYME",
