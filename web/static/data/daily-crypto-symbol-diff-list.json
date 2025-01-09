@@ -1,27 +1,18 @@
 {
  "added": [
   {
-   "symbol": "PCNT",
-   "name": "Playcent (PCNT)",
+   "symbol": "SWARMS",
+   "name": "Swarms (SWARMS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
    "built_on": "ETH"
   },
   {
-   "symbol": "HUMV1",
-   "name": "Humanscape v1 (HUMV1)"
-  },
-  {
-   "symbol": "BASEDTURBO",
-   "name": "Based Turbo (BASEDTURBO)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "L1",
-   "name": "Lamina1 (L1)"
-  },
-  {
-   "symbol": "KIKI",
-   "name": "Kiki Flaminki (KIKI)",
-   "built_on": "BASE"
+   "symbol": "JNFTC",
+   "name": "Jumbo Blockchain (JNFTC)"
   },
   {
    "symbol": "BANK",
@@ -34,32 +25,9 @@
    "built_on": "BASE"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "SAFEMARS",
-   "name": "Safemars (SAFEMARS)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "HUM",
-   "name": "Humanscape (HUM)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "SAFEMARS",
-   "name": "Safemars (SAFEMARS)"
-  },
-  {
-   "symbol": "HUM",
-   "name": "Humanscape (HUM)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "PCNT",
-   "name": "Playcent (PCNT)"
+   "symbol": "SIMBA",
+   "name": "SIMBA The Sloth (SIMBA)",
+   "built_on": "BASE"
   }
  ]
 }

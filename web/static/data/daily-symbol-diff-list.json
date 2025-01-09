@@ -1,52 +1,58 @@
 {
  "added": [
   {
-   "symbol": "CEPO",
-   "name": "Cantor Equity Partners I, Inc. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CEPO"
+   "symbol": "APM",
+   "name": "Andean Precious Metals Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "APM.TO",
+   "instruments": [
+    {
+     "name": "Andean Prec Meta Cor",
+     "symbol": "APM"
+    }
+   ]
   },
   {
-   "symbol": "SNSE",
-   "name": "Sensei Biotherapeutics, Inc. - Common Stock",
+   "symbol": "MASK",
+   "name": "3 E Network Technology Group Ltd - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SNSE"
-  },
-  {
-   "symbol": "ZYBT",
-   "name": "Zhengye Biotechnology Holding Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZYBT"
+   "yahoo_symbol": "MASK"
   }
  ],
  "removed": [
   {
-   "symbol": "CPTNW",
-   "name": "Cepton, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CPTNW"
-  },
-  {
-   "symbol": "CPTN",
-   "name": "Cepton, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CPTN"
-  },
-  {
-   "symbol": "SNSE",
-   "name": "Sensei Biotherapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SNSE"
-  },
-  {
-   "symbol": "EWS",
-   "name": "Environmental Waste International Inc.",
+   "symbol": "APM",
+   "name": "Andean Precious Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "EWS.V",
+   "yahoo_symbol": "APM.V",
    "instruments": [
     {
-     "name": "Environmental Waste International Inc.",
-     "symbol": "EWS"
+     "name": "Andean Precious Metals Corp.",
+     "symbol": "APM"
+    }
+   ]
+  },
+  {
+   "symbol": "CSO",
+   "name": "Corsa Coal Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSO.V",
+   "instruments": [
+    {
+     "name": "Corsa Coal Corp.",
+     "symbol": "CSO"
+    }
+   ]
+  },
+  {
+   "symbol": "KAC.P",
+   "name": "Kalon Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KAC.P.V",
+   "instruments": [
+    {
+     "name": "Kalon Acquisition Corp.",
+     "symbol": "KAC.P"
     }
    ]
   }
