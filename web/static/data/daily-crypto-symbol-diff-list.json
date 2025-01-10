@@ -1,9 +1,31 @@
 {
  "added": [
   {
-   "symbol": "SWARMS",
-   "name": "Swarms (SWARMS)",
+   "symbol": "TIMICOIN",
+   "name": "Timicoin (TIMICOIN)"
+  },
+  {
+   "symbol": "HSK",
+   "name": "HashKey Platform Token (HSK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TIMI",
+   "name": "This Is My Iguana (TIMI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MADCOIN",
+   "name": "MAD (MADCOIN)",
    "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
   },
   {
    "symbol": "G",
@@ -11,23 +33,14 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "JNFTC",
-   "name": "Jumbo Blockchain (JNFTC)"
-  },
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "SIMBA",
-   "name": "SIMBA The Sloth (SIMBA)",
-   "built_on": "BASE"
+   "symbol": "TIMI",
+   "name": "Timicoin (TIMI)"
   }
  ]
 }
