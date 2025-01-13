@@ -1,34 +1,54 @@
 {
+ "added": [
+  {
+   "symbol": "MIMI",
+   "name": "Mint Incorporation Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MIMI"
+  },
+  {
+   "symbol": "RNTX",
+   "name": "Rein Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RNTX"
+  }
+ ],
  "removed": [
   {
-   "symbol": "EXTO",
-   "name": "Almacenes Exito S.A. American Depositary Share, each representing eight (8) Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EXTO"
-  },
-  {
-   "symbol": "PSTX",
-   "name": "Poseida Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PSTX"
-  },
-  {
-   "symbol": "ASAI",
-   "name": "Sendas Distribuidora S A ADS",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ASAI"
-  },
-  {
-   "symbol": "MMVWW",
-   "name": "MultiMetaVerse Holdings Limited - Warrant",
+   "symbol": "CITEW",
+   "name": "Cartica Acquisition Corp - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MMVWW"
+   "yahoo_symbol": "CITEW"
   },
   {
-   "symbol": "MMV",
-   "name": "MultiMetaVerse Holdings Limited - Class A Ordinary Share",
+   "symbol": "MDRRP",
+   "name": "Medalist Diversified REIT, Inc. - Series A Cumulative Redeemable Preferred Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MMV"
+   "yahoo_symbol": "MDRRP"
+  },
+  {
+   "symbol": "ALRN",
+   "name": "Aileron Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALRN"
+  },
+  {
+   "symbol": "CITEU",
+   "name": "Cartica Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CITEU"
+  },
+  {
+   "symbol": "OBDE",
+   "name": "Blue Owl Capital Corporation III Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OBDE"
+  },
+  {
+   "symbol": "CITE",
+   "name": "Cartica Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CITE"
   }
  ]
 }
