@@ -1,56 +1,46 @@
 {
  "added": [
   {
-   "symbol": "SMOK",
-   "name": "Smoking Chicken Fish (SMOK)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GINU",
-   "name": "Green Shiba Inu (GINU)"
-  },
-  {
-   "symbol": "SDEUSD",
-   "name": "Staked deUSD (SDEUSD)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DYDXV1",
-   "name": "dYdX v1 (DYDXV1)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "ENERGYLEDGER",
-   "name": "Energy Ledger (ENERGYLEDGER)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "RIFA",
-   "name": "Rifampicin (RIFA)",
+   "symbol": "YNE",
+   "name": "yesnoerror (YNE)",
    "built_on": "SOL"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
+   "symbol": "LUFFYV1",
+   "name": "Luffy v1 (LUFFYV1)"
+  },
+  {
+   "symbol": "WSTUSR",
+   "name": "Resolv wstUSR (WSTUSR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUFFYOLD",
+   "name": "Luffy (LUFFYOLD)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
   },
   {
    "symbol": "CBBTCBASE",
    "name": "cbBTC (CBBTCBASE)"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
-   "built_on": "ETH"
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
   }
  ],
  "removed": [
   {
-   "symbol": "ELX",
-   "name": "Energy Ledger (ELX)"
-  },
-  {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
+   "symbol": "LUFFYOLD",
+   "name": "Luffy (LUFFYOLD)",
+   "built_on": "ETH"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2025-01-13",
+ "date": "2025-01-14",
  "data": [
   {
    "symbol": "ONE",
@@ -41690,6 +41690,54 @@
    ]
   },
   {
+   "symbol": "TBCH",
+   "name": "TD Target 2028 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCH.TO",
+   "instruments": [
+    {
+     "name": "TD Target2028 IG ETF",
+     "symbol": "TBCH"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCI",
+   "name": "TD Target 2029 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCI.TO",
+   "instruments": [
+    {
+     "name": "TD Target2029 IG ETF",
+     "symbol": "TBCI"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCJ",
+   "name": "TD Target 2030 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCJ.TO",
+   "instruments": [
+    {
+     "name": "TD Target2030 IG ETF",
+     "symbol": "TBCJ"
+    }
+   ]
+  },
+  {
+   "symbol": "TUSD.U",
+   "name": "TD U.S. Cash Management ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TUSD.U.TO",
+   "instruments": [
+    {
+     "name": "TD US Cash Mag ETF U",
+     "symbol": "TUSD.U"
+    }
+   ]
+  },
+  {
    "symbol": "THU",
    "name": "TD U.S. Equity CAD Hedged Index ETF",
    "exchange": "TSX",
@@ -64782,6 +64830,18 @@
    "yahoo_symbol": "RAND"
   },
   {
+   "symbol": "RANG",
+   "name": "Range Capital Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RANG"
+  },
+  {
+   "symbol": "RANGR",
+   "name": "Range Capital Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RANGR"
+  },
+  {
    "symbol": "RANGU",
    "name": "Range Capital Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -73228,12 +73288,6 @@
    "name": "Antero Resources Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "AR"
-  },
-  {
-   "symbol": "ARCH",
-   "name": "Arch Resources, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ARCH"
   },
   {
    "symbol": "ARCO",
