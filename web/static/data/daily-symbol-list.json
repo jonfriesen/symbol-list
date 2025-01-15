@@ -1,5 +1,5 @@
 {
- "date": "2025-01-14",
+ "date": "2025-01-15",
  "data": [
   {
    "symbol": "ONE",
@@ -2286,18 +2286,6 @@
     {
      "name": "Blue Star Gold Corp.",
      "symbol": "BAU"
-    }
-   ]
-  },
-  {
-   "symbol": "BSR",
-   "name": "Bluestone Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BSR.V",
-   "instruments": [
-    {
-     "name": "Bluestone Resources Inc.",
-     "symbol": "BSR"
     }
    ]
   },
@@ -10338,18 +10326,6 @@
    ]
   },
   {
-   "symbol": "MAW",
-   "name": "Mawson Gold Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MAW.V",
-   "instruments": [
-    {
-     "name": "Mawson Gold Limited",
-     "symbol": "MAW"
-    }
-   ]
-  },
-  {
    "symbol": "MAX",
    "name": "MAX Resource Corp.",
    "exchange": "TSXV",
@@ -15622,6 +15598,18 @@
     {
      "name": "South Star Battery Metals Corp.",
      "symbol": "STS"
+    }
+   ]
+  },
+  {
+   "symbol": "SXGC",
+   "name": "Southern Cross Gold Consolidated Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SXGC.V",
+   "instruments": [
+    {
+     "name": "Southern Cross Gold Consolidated Ltd.",
+     "symbol": "SXGC"
     }
    ]
   },
@@ -25586,6 +25574,18 @@
    ]
   },
   {
+   "symbol": "COLA",
+   "name": "Coca-Cola CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "COLA.TO",
+   "instruments": [
+    {
+     "name": "Coca-Cola CDR CAD HD",
+     "symbol": "COLA"
+    }
+   ]
+  },
+  {
    "symbol": "CCA",
    "name": "Cogeco Communications Inc.",
    "exchange": "TSX",
@@ -25686,18 +25686,6 @@
     {
      "name": "Condor Energies J",
      "symbol": "CDR"
-    }
-   ]
-  },
-  {
-   "symbol": "COG",
-   "name": "Condor Gold plc",
-   "exchange": "TSX",
-   "yahoo_symbol": "COG.TO",
-   "instruments": [
-    {
-     "name": "Condor Gold plc J",
-     "symbol": "COG"
     }
    ]
   },
@@ -43146,6 +43134,18 @@
    ]
   },
   {
+   "symbol": "WAAV",
+   "name": "WaveFront All-Weather Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "WAAV.TO",
+   "instruments": [
+    {
+     "name": "WaveFront AWAF ETF",
+     "symbol": "WAAV"
+    }
+   ]
+  },
+  {
    "symbol": "WSRD",
    "name": "Wealthsimple Developed Markets ex North America Socially Responsible Index ETF",
    "exchange": "TSX",
@@ -45348,6 +45348,12 @@
    "yahoo_symbol": "ARM"
   },
   {
+   "symbol": "ARMG",
+   "name": "Leverage Shares 2X Long ARM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARMG"
+  },
+  {
    "symbol": "AROW",
    "name": "Arrow Financial Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -45442,6 +45448,12 @@
    "name": "Assembly Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ASMB"
+  },
+  {
+   "symbol": "ASMG",
+   "name": "Leverage Shares 2X Long ASML Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASMG"
   },
   {
    "symbol": "ASML",
@@ -47836,6 +47848,18 @@
    "name": "KANZHUN LIMITED - American Depository Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BZ"
+  },
+  {
+   "symbol": "BZAI",
+   "name": "Blaize Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BZAI"
+  },
+  {
+   "symbol": "BZAIW",
+   "name": "Blaize Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BZAIW"
   },
   {
    "symbol": "BZFD",
@@ -61188,18 +61212,6 @@
    "yahoo_symbol": "NMFCZ"
   },
   {
-   "symbol": "NMHI",
-   "name": "Nature's Miracle Holding Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NMHI"
-  },
-  {
-   "symbol": "NMHIW",
-   "name": "Nature's Miracle Holding Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NMHIW"
-  },
-  {
    "symbol": "NMIH",
    "name": "NMI Holdings Inc - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -67238,7 +67250,7 @@
   {
    "symbol": "SNYR",
    "name": "Synergy CHC Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SNYR"
   },
   {
@@ -67450,12 +67462,6 @@
    "name": "Springview Holdings Ltd - Ordinary shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SPHL"
-  },
-  {
-   "symbol": "SPI",
-   "name": "SPI Energy Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPI"
   },
   {
    "symbol": "SPKL",
@@ -69222,6 +69228,12 @@
    "yahoo_symbol": "TSLW"
   },
   {
+   "symbol": "TSMG",
+   "name": "Leverage Shares 2X Long TSM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSMG"
+  },
+  {
    "symbol": "TSMU",
    "name": "GraniteShares 2x Long TSM Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -69574,6 +69586,12 @@
    "name": "United Fire Group, Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "UFCS"
+  },
+  {
+   "symbol": "UFG",
+   "name": "Uni-Fuels Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UFG"
   },
   {
    "symbol": "UFIV",
@@ -73152,6 +73170,12 @@
    "yahoo_symbol": "ANG$B"
   },
   {
+   "symbol": "ANG$D",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANG$D"
+  },
+  {
    "symbol": "ANRO",
    "name": "Alto Neuroscience, Inc. Common Stock",
    "exchange": "NYSE",
@@ -75648,12 +75672,6 @@
    "yahoo_symbol": "CEE"
   },
   {
-   "symbol": "CEIX",
-   "name": "CONSOL Energy Inc. Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CEIX"
-  },
-  {
    "symbol": "CELG.R",
    "name": "Bristol-Myers Squibb Company Celegne Contingent Value Rights",
    "exchange": "NYSE",
@@ -76276,6 +76294,12 @@
    "name": "Canadian Natural Resources Limited Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CNQ"
+  },
+  {
+   "symbol": "CNR",
+   "name": "Core Natural Resources, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNR"
   },
   {
    "symbol": "CNS",

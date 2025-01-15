@@ -188,7 +188,6 @@ MOON,Blue Moon Metals Inc.,TSXV,MOON.V,Blue Moon Metals Inc.,MOON
 BGE,Blue Sky Global Energy Corp.,TSXV,BGE.V,Blue Sky Global Energy Corp.,BGE
 BSK,Blue Sky Uranium Corp.,TSXV,BSK.V,Blue Sky Uranium Corp.,BSK
 BAU,Blue Star Gold Corp.,TSXV,BAU.V,Blue Star Gold Corp.,BAU
-BSR,Bluestone Resources Inc.,TSXV,BSR.V,Bluestone Resources Inc.,BSR
 BLM,BluMetric Environmental Inc.,TSXV,BLM.V,BluMetric Environmental Inc.,BLM
 BWLK,Boardwalktech Software Corp.,TSXV,BWLK.V,Boardwalktech Software Corp.,BWLK
 BOCA,Bocana Resources Corp.,TSXV,BOCA.V,Bocana Resources Corp.,BOCA
@@ -852,7 +851,6 @@ LLG,Mason Resources Inc.,TSXV,LLG.V,Mason Resources Inc.,LLG
 MCM.A,"Matachewan Consolidated Mines, Limited",TSXV,MCM.A.V,Matachewan Consolidated Mines Ltd. cl A  ,MCM.A
 MATA,Matador Technologies Inc.,TSXV,MATA.V,Matador Technologies Inc.,MATA
 MFL,Mawson Finland LImited,TSXV,MFL.V,Mawson Finland Limited,MFL
-MAW,Mawson Gold Limited,TSXV,MAW.V,Mawson Gold Limited,MAW
 MAX,MAX Resource Corp.,TSXV,MAX.V,MAX Resource Corp.,MAX
 MFA.P,Mayfair Acquisition Corporation,TSXV,MFA.P.V,Mayfair Acquisition Corporation,MFA.P
 MFG,Mayfair Gold Corp.,TSXV,MFG.V,Mayfair Gold Corp.,MFG
@@ -1285,6 +1283,7 @@ SRR,Source Rock Royalties Ltd.,TSXV,SRR.V,Source Rock Royalties Ltd.,SRR
 SAO,South Atlantic Gold Inc.,TSXV,SAO.V,South Atlantic Gold Inc.,SAO
 SPMC,South Pacific Metals Corp.,TSXV,SPMC.V,South Pacific Metals Corp.,SPMC
 STS,South Star Battery Metals Corp.,TSXV,STS.V,South Star Battery Metals Corp.,STS
+SXGC,Southern Cross Gold Consolidated Ltd.,TSXV,SXGC.V,Southern Cross Gold Consolidated Ltd.,SXGC
 SMP,Southern Empire Resources Corp.,TSXV,SMP.V,Southern Empire Resources Corp.,SMP
 SOU,Southern Energy Corp.,TSXV,SOU.V,Southern Energy Corp.,SOU
 SSV,Southern Silver Exploration Corp.,TSXV,SSV.V,Southern Silver Exploration Corp,SSV
@@ -2029,6 +2028,7 @@ CTF.UN,Citadel Income Fund,TSX,CTF.UN.TO,Citadel Incm Fund Un,CTF.UN
 CVG,Clairvest Group Inc.,TSX,CVG.TO,Clairvest Group Inc,CVG
 CKI,Clarke Inc.,TSX,CKI.TO,Clarke Inc.,CKI
 CCS.PR.C,Co-operators General Insurance Company,TSX,CCS.PR.C.TO,Co-operators Sr C Pr,CCS.PR.C
+COLA,Coca-Cola CDR (CAD Hedged),TSX,COLA.TO,Coca-Cola CDR CAD HD,COLA
 CCA,Cogeco Communications Inc.,TSX,CCA.TO,Cogeco Commun Inc SV,CCA
 CGO,Cogeco Inc.,TSX,CGO.TO,Cogeco Inc. SV,CGO
 GCL,Colabor Group Inc.,TSX,GCL.TO,Colabor Group Inc.,GCL
@@ -2037,7 +2037,6 @@ CIGI,Colliers International Group Inc.,TSX,CIGI.TO,Colliers Intl Grp SV,CIGI
 YCM,Commerce Split Corp.,TSX,YCM.TO,Commerce Split Cap,YCM,Commerce Split I Pr,YCM.PR.A,Commerce Split II Pr,YCM.PR.B
 CMG,Computer Modelling Group Ltd.,TSX,CMG.TO,Computer Modelling,CMG
 CDR,Condor Energies Inc.,TSX,CDR.TO,Condor Energies J,CDR
-COG,Condor Gold plc,TSX,COG.TO,Condor Gold plc J,COG
 CFF,Conifex Timber Inc.,TSX,CFF.TO,Conifex Timber Inc.,CFF
 CSU,Constellation Software Inc.,TSX,CSU.TO,Constellation Softwr,CSU,Constellation Sr1 Db,CSU.DB
 CTS,Converge Technology Solutions Corp.,TSX,CTS.TO,Converge TechSoltn J,CTS
@@ -3339,6 +3338,7 @@ WJX,Wajax Corporation,TSX,WJX.TO,Wajax Corporation,WJX,Wajax Corp. Deb,WJX.DB
 WFC,Wall Financial Corporation,TSX,WFC.TO,Wall Financial Corp,WFC
 WM,Wallbridge Mining Company Limited,TSX,WM.TO,Wallbridge Mng Co J,WM
 WCN,"Waste Connections, Inc.",TSX,WCN.TO,Waste Connections,WCN
+WAAV,WaveFront All-Weather Alternative Fund,TSX,WAAV.TO,WaveFront AWAF ETF,WAAV
 WSRD,Wealthsimple Developed Markets ex North America Socially Responsible Index ETF,TSX,WSRD.TO,WealthsimpDevMktexNA,WSRD
 WSRI,Wealthsimple North America Socially Responsible Index ETF,TSX,WSRI.TO,WealthsimplNA Social,WSRI
 WELL,WELL Health Technologies Corp.,TSX,WELL.TO,WELL Health Tech J,WELL,WELL Hlth Tech J Deb,WELL.DB
@@ -3678,6 +3678,7 @@ ARKOW,ARKO Corp. - Warrant,NASDAQ Capital Market,ARKOW
 ARKR,Ark Restaurants Corp. - Common Stock,NASDAQ Global MarketSM,ARKR
 ARLP,"Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests",NASDAQ Global Select MarketSM,ARLP
 ARM,Arm Holdings plc - American Depositary Shares,NASDAQ Global Select MarketSM,ARM
+ARMG,Leverage Shares 2X Long ARM Daily ETF,NASDAQ Global MarketSM,ARMG
 AROW,Arrow Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,AROW
 ARQ,"Arq, Inc. - Common Stock",NASDAQ Global MarketSM,ARQ
 ARQQ,Arqit Quantum Inc. - Ordinary Shares,NASDAQ Capital Market,ARQQ
@@ -3694,6 +3695,7 @@ ARWR,"Arrowhead Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select Marke
 ASET,FlexShares Real Assets Allocation Index Fund,NASDAQ Global MarketSM,ASET
 ASLE,AerSale Corporation - Common Stock,NASDAQ Capital Market,ASLE
 ASMB,"Assembly Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,ASMB
+ASMG,Leverage Shares 2X Long ASML Daily ETF,NASDAQ Global MarketSM,ASMG
 ASML,ASML Holding N.V. - New York Registry Shares,NASDAQ Global Select MarketSM,ASML
 ASND,Ascendis Pharma A/S - American Depositary Shares,NASDAQ Global Select MarketSM,ASND
 ASNS,"Actelis Networks, Inc. - Common Stock",NASDAQ Capital Market,ASNS
@@ -4093,6 +4095,8 @@ BYNOW,byNordic Acquisition Corporation - Warrant,NASDAQ Capital Market,BYNOW
 BYRN,"Byrna Technologies, Inc. - Common Stock",NASDAQ Capital Market,BYRN
 BYSI,"BeyondSpring, Inc. - Ordinary Shares",NASDAQ Capital Market,BYSI
 BZ,KANZHUN LIMITED - American Depository Shares,NASDAQ Global Select MarketSM,BZ
+BZAI,"Blaize Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,BZAI
+BZAIW,"Blaize Holdings, Inc. - Warrant",NASDAQ Capital Market,BZAIW
 BZFD,"BuzzFeed, Inc. - Class A Common Stock",NASDAQ Capital Market,BZFD
 BZFDW,"BuzzFeed, Inc. - Warrant",NASDAQ Capital Market,BZFDW
 BZUN,Baozun Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,BZUN
@@ -6318,8 +6322,6 @@ NLSP,NLS Pharmaceutics Ltd. - Common Shares,NASDAQ Capital Market,NLSP
 NLSPW,NLS Pharmaceutics Ltd. - Warrant,NASDAQ Capital Market,NLSPW
 NMFC,New Mountain Finance Corporation - Common Stock,NASDAQ Global Select MarketSM,NMFC
 NMFCZ,New Mountain Finance Corporation - 8.250% Notes due 2028,NASDAQ Global MarketSM,NMFCZ
-NMHI,Nature's Miracle Holding Inc. - Common Stock,NASDAQ Global MarketSM,NMHI
-NMHIW,Nature's Miracle Holding Inc. - Warrants,NASDAQ Capital Market,NMHIW
 NMIH,NMI Holdings Inc - Common Stock,NASDAQ Global MarketSM,NMIH
 NMRA,"Neumora Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,NMRA
 NMRK,"Newmark Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,NMRK
@@ -7326,7 +7328,7 @@ SNT,Senstar Technologies Corporation - Common Shares,NASDAQ Global MarketSM,SNT
 SNTG,Sentage Holdings Inc. - Class A Ordinary Shares,NASDAQ Capital Market,SNTG
 SNTI,"Senti Biosciences, Inc.  - Common Stock",NASDAQ Capital Market,SNTI
 SNY,Sanofi - American Depositary Shares,NASDAQ Global Select MarketSM,SNY
-SNYR,Synergy CHC Corp. - Common Stock,NASDAQ Global MarketSM,SNYR
+SNYR,Synergy CHC Corp. - Common Stock,NASDAQ Capital Market,SNYR
 SOBR,"SOBR Safe, Inc. - Common Stock",NASDAQ Capital Market,SOBR
 SOCL,Global X Social Media ETF,NASDAQ Global MarketSM,SOCL
 SOFI,"SoFi Technologies, Inc.  - Common Stock",NASDAQ Global Select MarketSM,SOFI
@@ -7362,7 +7364,6 @@ SPFI,"South Plains Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM
 SPGC,"Sacks Parente Golf, Inc. - Common Stock",NASDAQ Capital Market,SPGC
 SPHAU,Shepherd Ave Capital Acquisition Corporation - Unit,NASDAQ Global MarketSM,SPHAU
 SPHL,Springview Holdings Ltd - Ordinary shares,NASDAQ Capital Market,SPHL
-SPI,"SPI Energy Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,SPI
 SPKL,Spark I Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,SPKL
 SPKLU,Spark I Acquisition Corp. - Unit,NASDAQ Global MarketSM,SPKLU
 SPKLW,Spark I Acquisition Corp. - Warrant,NASDAQ Global MarketSM,SPKLW
@@ -7657,6 +7658,7 @@ TSLQ,Tradr 2X Short TSLA Daily ETF,NASDAQ Global MarketSM,TSLQ
 TSLR,GraniteShares 2x Long TSLA Daily ETF,NASDAQ Global MarketSM,TSLR
 TSLS,Direxion Daily TSLA Bear 1X Shares,NASDAQ Global MarketSM,TSLS
 TSLW,Tradr 1.5X Long TSLA Weekly ETF,NASDAQ Global MarketSM,TSLW
+TSMG,Leverage Shares 2X Long TSM Daily ETF,NASDAQ Global MarketSM,TSMG
 TSMU,GraniteShares 2x Long TSM Daily ETF,NASDAQ Global MarketSM,TSMU
 TSMX,Direxion Daily TSM Bull 2X Shares,NASDAQ Global MarketSM,TSMX
 TSMZ,Direxion Daily TSM Bear 1X Shares,NASDAQ Global MarketSM,TSMZ
@@ -7716,6 +7718,7 @@ UDMY,"Udemy, Inc. - Common Stock",NASDAQ Global Select MarketSM,UDMY
 UEIC,Universal Electronics Inc. - Common Stock,NASDAQ Global Select MarketSM,UEIC
 UEVM,VictoryShares Emerging Markets Value Momentum ETF,NASDAQ Global MarketSM,UEVM
 UFCS,"United Fire Group, Inc - Common Stock",NASDAQ Global Select MarketSM,UFCS
+UFG,Uni-Fuels Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,UFG
 UFIV,US Treasury 5 Year Note ETF,NASDAQ Global MarketSM,UFIV
 UFO,Procure Space ETF,NASDAQ Global MarketSM,UFO
 UFPI,"UFP Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,UFPI
@@ -8312,6 +8315,7 @@ ANET,"Arista Networks, Inc. Common Stock",NYSE,ANET
 ANF,Abercrombie & Fitch Company Common Stock,NYSE,ANF
 ANG$A,"American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",NYSE,ANG$A
 ANG$B,"American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",NYSE,ANG$B
+ANG$D,"American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D",NYSE,ANG$D
 ANRO,"Alto Neuroscience, Inc. Common Stock",NYSE,ANRO
 ANVS,"Annovis Bio, Inc. Common Stock",NYSE,ANVS
 AOD,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,NYSE,AOD
@@ -8728,7 +8732,6 @@ CDR$C,"Cedar Realty Trust, Inc. 6.50% Series C Cumulative Redeemable Preferred S
 CDRE,"Cadre Holdings, Inc. Common Stock",NYSE,CDRE
 CE,Celanese Corporation Common Stock,NYSE,CE
 CEE,"The Central and Eastern Europe Fund, Inc. (The) Common Stock",NYSE,CEE
-CEIX,CONSOL Energy Inc. Common Stock ,NYSE,CEIX
 CELG.R,Bristol-Myers Squibb Company Celegne Contingent Value Rights,NYSE,CELG.R
 CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),NYSE,CEPU
 CET,Central Securities Corporation Common Stock,NYSE MKT,CET
@@ -8833,6 +8836,7 @@ CNO,"CNO Financial Group, Inc. Common Stock",NYSE,CNO
 CNO$A,"CNO Financial Group, Inc. 5.125% Subordinated Debentures due 2060",NYSE,CNO$A
 CNP,"CenterPoint Energy, Inc (Holding Co) Common Stock",NYSE,CNP
 CNQ,Canadian Natural Resources Limited Common Stock,NYSE,CNQ
+CNR,"Core Natural Resources, Inc. Common Stock",NYSE,CNR
 CNS,Cohen & Steers Inc Common Stock,NYSE,CNS
 CNX,CNX Resources Corporation Common Stock,NYSE,CNX
 CODI,D/B/A Compass Diversified Holdings Shares of Beneficial Interest,NYSE,CODI
