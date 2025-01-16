@@ -1,5 +1,5 @@
 {
- "date": "2025-01-15",
+ "date": "2025-01-16",
  "data": [
   {
    "symbol": "ONE",
@@ -12127,12 +12127,12 @@
   },
   {
    "symbol": "OVT",
-   "name": "Oculus VisionTech Inc.",
+   "name": "Oculus Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "OVT.V",
    "instruments": [
     {
-     "name": "Oculus VisionTech Inc.",
+     "name": "Oculus Inc.",
      "symbol": "OVT"
     }
    ]
@@ -31686,6 +31686,18 @@
    ]
   },
   {
+   "symbol": "CONY",
+   "name": "Harvest Coinbase High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CONY.TO",
+   "instruments": [
+    {
+     "name": "Harvest Coin HIS ETF",
+     "symbol": "CONY"
+    }
+   ]
+  },
+  {
    "symbol": "HRIF",
    "name": "Harvest Diversified Equity Income ETF",
    "exchange": "TSX",
@@ -31694,6 +31706,18 @@
     {
      "name": "Harvest Divers Eq Un",
      "symbol": "HRIF"
+    }
+   ]
+  },
+  {
+   "symbol": "HHIS",
+   "name": "Harvest Diversified High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHIS.TO",
+   "instruments": [
+    {
+     "name": "Harvest Dive HIS ETF",
+     "symbol": "HHIS"
     }
    ]
   },
@@ -31850,6 +31874,18 @@
    ]
   },
   {
+   "symbol": "METE",
+   "name": "Harvest Meta Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "METE.TO",
+   "instruments": [
+    {
+     "name": "Harvest MeE HIS ETF",
+     "symbol": "METE"
+    }
+   ]
+  },
+  {
    "symbol": "MSHE",
    "name": "Harvest Microsoft Enhanced High Income Shares ETF",
    "exchange": "TSX",
@@ -31882,6 +31918,18 @@
    ]
   },
   {
+   "symbol": "MSTY",
+   "name": "Harvest MicroStrategy High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTY.TO",
+   "instruments": [
+    {
+     "name": "Harvest Micr HIS ETF",
+     "symbol": "MSTY"
+    }
+   ]
+  },
+  {
    "symbol": "NVHE",
    "name": "Harvest NVIDIA Enhanced High Income Shares ETF",
    "exchange": "TSX",
@@ -31910,6 +31958,18 @@
     {
      "name": "HvNVIDIA HInShr ETFU",
      "symbol": "NVDH.U"
+    }
+   ]
+  },
+  {
+   "symbol": "PLTE",
+   "name": "Harvest Palantir Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLTE.TO",
+   "instruments": [
+    {
+     "name": "Harvest PaEn HIS ETF",
+     "symbol": "PLTE"
     }
    ]
   },
@@ -31978,6 +32038,18 @@
     {
      "name": "HarvestTechAchGrowUS",
      "symbol": "HTA.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLY",
+   "name": "Harvest Tesla Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLY.TO",
+   "instruments": [
+    {
+     "name": "Harvest TeEn HIS ETF",
+     "symbol": "TSLY"
     }
    ]
   },
@@ -43090,10 +43162,6 @@
     {
      "name": "Wajax Corporation",
      "symbol": "WJX"
-    },
-    {
-     "name": "Wajax Corp. Deb",
-     "symbol": "WJX.DB"
     }
    ]
   },
@@ -55272,6 +55340,12 @@
    "yahoo_symbol": "HKIT"
   },
   {
+   "symbol": "HKPD",
+   "name": "Hong Kong Pharma Digital Technology Holdings Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HKPD"
+  },
+  {
    "symbol": "HLAL",
    "name": "Wahed FTSE USA Shariah ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58090,18 +58164,6 @@
    "name": "nLIGHT, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LASR"
-  },
-  {
-   "symbol": "LATG",
-   "name": "Chenghe Acquisition I Co. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LATG"
-  },
-  {
-   "symbol": "LATGU",
-   "name": "Chenghe Acquisition I Co. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LATGU"
   },
   {
    "symbol": "LAUR",
@@ -61854,6 +61916,12 @@
    "yahoo_symbol": "NYMT"
   },
   {
+   "symbol": "NYMTG",
+   "name": "New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTG"
+  },
+  {
    "symbol": "NYMTI",
    "name": "New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2029",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62518,6 +62586,12 @@
    "name": "Oramed Pharmaceuticals Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ORMP"
+  },
+  {
+   "symbol": "ORR",
+   "name": "Militia Long/Short Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORR"
   },
   {
    "symbol": "ORRF",
@@ -63454,6 +63528,12 @@
    "name": "Plum Acquisition Corp. III - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PLMJW"
+  },
+  {
+   "symbol": "PLMKU",
+   "name": "Plum Acquisition Corp. IV - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLMKU"
   },
   {
    "symbol": "PLMR",
@@ -65358,6 +65438,12 @@
    "yahoo_symbol": "RGTIW"
   },
   {
+   "symbol": "RIBBU",
+   "name": "Ribbon Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RIBBU"
+  },
+  {
    "symbol": "RICK",
    "name": "RCI Hospitality Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -66964,6 +67050,12 @@
    "name": "ETRACS Silver Shares Covered Call ETNs due April 21, 2033",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SLVO"
+  },
+  {
+   "symbol": "SLVR",
+   "name": "Sprott Silver Miners \u0026 Physical Silver ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLVR"
   },
   {
    "symbol": "SLXN",
@@ -79134,6 +79226,12 @@
    "yahoo_symbol": "FLO"
   },
   {
+   "symbol": "FLOC",
+   "name": "Flowco Holdings Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLOC"
+  },
+  {
    "symbol": "FLR",
    "name": "Fluor Corporation Common Stock",
    "exchange": "NYSE",
@@ -79516,12 +79614,6 @@
    "name": "Gap, Inc. (The) Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "GAP"
-  },
-  {
-   "symbol": "GATO",
-   "name": "Gatos Silver, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GATO"
   },
   {
    "symbol": "GATX",
@@ -82546,6 +82638,12 @@
    "name": "LGL Group, Inc. (The) Warrants",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "LGL.W"
+  },
+  {
+   "symbol": "LGPS",
+   "name": "LogProstyle Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGPS"
   },
   {
    "symbol": "LH",
@@ -88222,6 +88320,12 @@
    "name": "Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060",
    "exchange": "NYSE",
    "yahoo_symbol": "SOJE"
+  },
+  {
+   "symbol": "SOJF",
+   "name": "Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOJF"
   },
   {
    "symbol": "SOL",

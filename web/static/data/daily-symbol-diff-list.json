@@ -1,162 +1,150 @@
 {
  "added": [
   {
-   "symbol": "SXGC",
-   "name": "Southern Cross Gold Consolidated Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SXGC.V",
-   "instruments": [
-    {
-     "name": "Southern Cross Gold Consolidated Ltd.",
-     "symbol": "SXGC"
-    }
-   ]
-  },
-  {
-   "symbol": "COLA",
-   "name": "Coca-Cola CDR (CAD Hedged)",
+   "symbol": "CONY",
+   "name": "Harvest Coinbase High Income Shares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "COLA.TO",
+   "yahoo_symbol": "CONY.TO",
    "instruments": [
     {
-     "name": "Coca-Cola CDR CAD HD",
-     "symbol": "COLA"
+     "name": "Harvest Coin HIS ETF",
+     "symbol": "CONY"
     }
    ]
   },
   {
-   "symbol": "WAAV",
-   "name": "WaveFront All-Weather Alternative Fund",
+   "symbol": "HHIS",
+   "name": "Harvest Diversified High Income Shares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "WAAV.TO",
+   "yahoo_symbol": "HHIS.TO",
    "instruments": [
     {
-     "name": "WaveFront AWAF ETF",
-     "symbol": "WAAV"
+     "name": "Harvest Dive HIS ETF",
+     "symbol": "HHIS"
     }
    ]
   },
   {
-   "symbol": "ARMG",
-   "name": "Leverage Shares 2X Long ARM Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARMG"
+   "symbol": "METE",
+   "name": "Harvest Meta Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "METE.TO",
+   "instruments": [
+    {
+     "name": "Harvest MeE HIS ETF",
+     "symbol": "METE"
+    }
+   ]
   },
   {
-   "symbol": "ASMG",
-   "name": "Leverage Shares 2X Long ASML Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASMG"
+   "symbol": "MSTY",
+   "name": "Harvest MicroStrategy High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTY.TO",
+   "instruments": [
+    {
+     "name": "Harvest Micr HIS ETF",
+     "symbol": "MSTY"
+    }
+   ]
   },
   {
-   "symbol": "BZAI",
-   "name": "Blaize Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BZAI"
+   "symbol": "PLTE",
+   "name": "Harvest Palantir Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLTE.TO",
+   "instruments": [
+    {
+     "name": "Harvest PaEn HIS ETF",
+     "symbol": "PLTE"
+    }
+   ]
   },
   {
-   "symbol": "BZAIW",
-   "name": "Blaize Holdings, Inc. - Warrant",
+   "symbol": "TSLY",
+   "name": "Harvest Tesla Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLY.TO",
+   "instruments": [
+    {
+     "name": "Harvest TeEn HIS ETF",
+     "symbol": "TSLY"
+    }
+   ]
+  },
+  {
+   "symbol": "HKPD",
+   "name": "Hong Kong Pharma Digital Technology Holdings Limited - Ordinary shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BZAIW"
+   "yahoo_symbol": "HKPD"
   },
   {
-   "symbol": "SNYR",
-   "name": "Synergy CHC Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SNYR"
+   "symbol": "NYMTG",
+   "name": "New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTG"
   },
   {
-   "symbol": "TSMG",
-   "name": "Leverage Shares 2X Long TSM Daily ETF",
+   "symbol": "ORR",
+   "name": "Militia Long/Short Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSMG"
+   "yahoo_symbol": "ORR"
   },
   {
-   "symbol": "UFG",
-   "name": "Uni-Fuels Holdings Limited - Class A Ordinary Shares",
+   "symbol": "PLMKU",
+   "name": "Plum Acquisition Corp. IV - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLMKU"
+  },
+  {
+   "symbol": "RIBBU",
+   "name": "Ribbon Acquisition Corp - Unit",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UFG"
+   "yahoo_symbol": "RIBBU"
   },
   {
-   "symbol": "ANG$D",
-   "name": "American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D",
+   "symbol": "SLVR",
+   "name": "Sprott Silver Miners \u0026 Physical Silver ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLVR"
+  },
+  {
+   "symbol": "FLOC",
+   "name": "Flowco Holdings Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ANG$D"
+   "yahoo_symbol": "FLOC"
   },
   {
-   "symbol": "CNR",
-   "name": "Core Natural Resources, Inc. Common Stock",
+   "symbol": "LGPS",
+   "name": "LogProstyle Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGPS"
+  },
+  {
+   "symbol": "SOJF",
+   "name": "Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085",
    "exchange": "NYSE",
-   "yahoo_symbol": "CNR"
+   "yahoo_symbol": "SOJF"
   }
  ],
  "removed": [
   {
-   "symbol": "NMHI",
-   "name": "Nature's Miracle Holding Inc. - Common Stock",
+   "symbol": "LATGU",
+   "name": "Chenghe Acquisition I Co. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NMHI"
+   "yahoo_symbol": "LATGU"
   },
   {
-   "symbol": "SPI",
-   "name": "SPI Energy Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPI"
-  },
-  {
-   "symbol": "COG",
-   "name": "Condor Gold plc",
-   "exchange": "TSX",
-   "yahoo_symbol": "COG.TO",
-   "instruments": [
-    {
-     "name": "Condor Gold plc J",
-     "symbol": "COG"
-    }
-   ]
-  },
-  {
-   "symbol": "CEIX",
-   "name": "CONSOL Energy Inc. Common Stock ",
+   "symbol": "GATO",
+   "name": "Gatos Silver, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CEIX"
+   "yahoo_symbol": "GATO"
   },
   {
-   "symbol": "NMHIW",
-   "name": "Nature's Miracle Holding Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NMHIW"
-  },
-  {
-   "symbol": "SNYR",
-   "name": "Synergy CHC Corp. - Common Stock",
+   "symbol": "LATG",
+   "name": "Chenghe Acquisition I Co. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SNYR"
-  },
-  {
-   "symbol": "MAW",
-   "name": "Mawson Gold Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MAW.V",
-   "instruments": [
-    {
-     "name": "Mawson Gold Limited",
-     "symbol": "MAW"
-    }
-   ]
-  },
-  {
-   "symbol": "BSR",
-   "name": "Bluestone Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BSR.V",
-   "instruments": [
-    {
-     "name": "Bluestone Resources Inc.",
-     "symbol": "BSR"
-    }
-   ]
+   "yahoo_symbol": "LATG"
   }
  ]
 }
