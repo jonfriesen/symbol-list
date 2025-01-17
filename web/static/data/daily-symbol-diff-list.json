@@ -1,150 +1,108 @@
 {
  "added": [
   {
-   "symbol": "CONY",
-   "name": "Harvest Coinbase High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CONY.TO",
-   "instruments": [
-    {
-     "name": "Harvest Coin HIS ETF",
-     "symbol": "CONY"
-    }
-   ]
+   "symbol": "KBSX",
+   "name": "FST Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBSX"
   },
   {
-   "symbol": "HHIS",
-   "name": "Harvest Diversified High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HHIS.TO",
-   "instruments": [
-    {
-     "name": "Harvest Dive HIS ETF",
-     "symbol": "HHIS"
-    }
-   ]
+   "symbol": "NOEM",
+   "name": "CO2 Energy Transition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NOEM"
   },
   {
-   "symbol": "METE",
-   "name": "Harvest Meta Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "METE.TO",
-   "instruments": [
-    {
-     "name": "Harvest MeE HIS ETF",
-     "symbol": "METE"
-    }
-   ]
+   "symbol": "NOEMR",
+   "name": "CO2 Energy Transition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NOEMR"
   },
   {
-   "symbol": "MSTY",
-   "name": "Harvest MicroStrategy High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MSTY.TO",
-   "instruments": [
-    {
-     "name": "Harvest Micr HIS ETF",
-     "symbol": "MSTY"
-    }
-   ]
+   "symbol": "NOEMW",
+   "name": "CO2 Energy Transition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NOEMW"
   },
   {
-   "symbol": "PLTE",
-   "name": "Harvest Palantir Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PLTE.TO",
-   "instruments": [
-    {
-     "name": "Harvest PaEn HIS ETF",
-     "symbol": "PLTE"
-    }
-   ]
-  },
-  {
-   "symbol": "TSLY",
-   "name": "Harvest Tesla Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TSLY.TO",
-   "instruments": [
-    {
-     "name": "Harvest TeEn HIS ETF",
-     "symbol": "TSLY"
-    }
-   ]
-  },
-  {
-   "symbol": "HKPD",
-   "name": "Hong Kong Pharma Digital Technology Holdings Limited - Ordinary shares",
+   "symbol": "PCLA",
+   "name": "PicoCELA Inc. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HKPD"
+   "yahoo_symbol": "PCLA"
   },
   {
-   "symbol": "NYMTG",
-   "name": "New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2030",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NYMTG"
-  },
-  {
-   "symbol": "ORR",
-   "name": "Militia Long/Short Equity ETF",
+   "symbol": "SOFX",
+   "name": "Defiance Daily Target 2X Long SOFI ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ORR"
+   "yahoo_symbol": "SOFX"
   },
   {
-   "symbol": "PLMKU",
-   "name": "Plum Acquisition Corp. IV - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLMKU"
-  },
-  {
-   "symbol": "RIBBU",
-   "name": "Ribbon Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RIBBU"
-  },
-  {
-   "symbol": "SLVR",
-   "name": "Sprott Silver Miners \u0026 Physical Silver ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLVR"
-  },
-  {
-   "symbol": "FLOC",
-   "name": "Flowco Holdings Inc. Class A Common Stock",
+   "symbol": "JFR.V",
+   "name": "Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "FLOC"
+   "yahoo_symbol": "JFR.V"
   },
   {
-   "symbol": "LGPS",
-   "name": "LogProstyle Inc. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LGPS"
-  },
-  {
-   "symbol": "SOJF",
-   "name": "Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085",
+   "symbol": "QXO",
+   "name": "QXO, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "SOJF"
+   "yahoo_symbol": "QXO"
   }
  ],
  "removed": [
   {
-   "symbol": "LATGU",
-   "name": "Chenghe Acquisition I Co. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LATGU"
+   "symbol": "QXO",
+   "name": "QXO, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QXO"
   },
   {
-   "symbol": "GATO",
-   "name": "Gatos Silver, Inc. Common Stock",
+   "symbol": "LFLY",
+   "name": "Leafly Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFLY"
+  },
+  {
+   "symbol": "JRV",
+   "name": "Jervois Global Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JRV.V",
+   "instruments": [
+    {
+     "name": "Jervois Global Limited",
+     "symbol": "JRV"
+    }
+   ]
+  },
+  {
+   "symbol": "BC$B",
+   "name": "Brunswick Corporation 6.625% Senior Notes due 2049",
    "exchange": "NYSE",
-   "yahoo_symbol": "GATO"
+   "yahoo_symbol": "BC$B"
   },
   {
-   "symbol": "LATG",
-   "name": "Chenghe Acquisition I Co. - Class A Ordinary Shares",
+   "symbol": "LFLYW",
+   "name": "Leafly Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFLYW"
+  },
+  {
+   "symbol": "LUXH",
+   "name": "LuxUrban Hotels Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LUXH"
+  },
+  {
+   "symbol": "TRINL",
+   "name": "Trinity Capital Inc. - 7.00% Notes Due 2025",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LATG"
+   "yahoo_symbol": "TRINL"
+  },
+  {
+   "symbol": "LUXHP",
+   "name": "LuxUrban Hotels Inc. - 13.00% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LUXHP"
   }
  ]
 }
