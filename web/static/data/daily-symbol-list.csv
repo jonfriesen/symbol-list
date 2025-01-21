@@ -56,7 +56,7 @@ ARH,Altima Energy Inc.,TSXV,ARH.V,Altima Energy Inc.,ARH
 ALTN.P,Altina Capital Corp.,TSXV,ALTN.P.V,Altina Capital Corp.,ALTN.P
 APN,Altiplano Metals Inc.,TSXV,APN.V,Altiplano Metals Inc.,APN
 ALT,Alturas Minerals Corp.,TSXV,ALT.V,Alturas Minerals Corp,ALT
-AUUA,Aluula Composites Inc.,TSXV,AUUA.V,Aluula Composites Inc.,AUUA,Aluula Composites Inc rt ex 21Jan2025,AUUA.RT
+AUUA,Aluula Composites Inc.,TSXV,AUUA.V,Aluula Composites Inc.,AUUA
 ALV,Alvopetro Energy Ltd.,TSXV,ALV.V,Alvopetro Energy Ltd.,ALV
 AHR,Amarc Resources Ltd.,TSXV,AHR.V,Amarc Resources Ltd.,AHR
 AMRQ,Amaroq Minerals Ltd.,TSXV,AMRQ.V,Amaroq Minerals Ltd.,AMRQ
@@ -1835,13 +1835,13 @@ BEPR,Brompton Flaherty & Crumrine Enhanced Investment Grade Preferred ETF,TSX,BE
 BPRF,Brompton Flaherty & Crumrine Investment Grade Preferred ETF,TSX,BPRF.TO,Brompton CrumInvPrCA,BPRF,Brompton CrumInvPrUS,BPRF.U
 BDIV,Brompton Global Dividend Growth ETF,TSX,BDIV.TO,BromptonGlblDivGroCA,BDIV
 HIG,Brompton Global Healthcare Income & Growth ETF,TSX,HIG.TO,Brompton GlbHlthcrCA,HIG,Brompton GlbHlthcrUS,HIG.U
+BGIE,Brompton Global Infrastructure ETF,TSX,BGIE.TO,BromptonSusRl AsstDv,BGIE
 KNGX,Brompton International Cash Flow Kings ETF,TSX,KNGX.TO,BrmpInt CshFl kngETF,KNGX
 LCS,Brompton Lifeco Split Corp.,TSX,LCS.TO,Brompton Life Splt A,LCS,Brompton LifeSplt Pr,LCS.PR.A
 BFIN,Brompton North American Financials Dividend ETF,TSX,BFIN.TO,BromptonNA FinDivCAD,BFIN,BromptonNA FinDiv US,BFIN.U
 BLOV,Brompton North American Low Volatility Dividend ETF,TSX,BLOV.TO,BromptonNA LwVolDvCA,BLOV
 SBC,Brompton Split Banc Corp.,TSX,SBC.TO,Brompton Splt Banc A,SBC,Brompton Splt Bnc Pr,SBC.PR.A
 SPLT,Brompton Split Corp. Preferred Share ETF,TSX,SPLT.TO,Brompton SpltPref Un,SPLT
-BREA,Brompton Sustainable Real Assets Dividend ETF,TSX,BREA.TO,BromptonSusRl AsstDv,BREA
 TLF,Brompton Tech Leaders Income ETF,TSX,TLF.TO,Brompton TechLdr CAD,TLF,Brompton TechLdr USD,TLF.U
 KNGU,Brompton U.S. Cash Flow Kings ETF,TSX,KNGU.TO,Bromp USCflw Kng ETF,KNGU
 BAM,Brookfield Asset Management Ltd.,TSX,BAM.TO,Brookfld AstMgt LV A,BAM
@@ -2445,6 +2445,7 @@ HAI,Haivision Systems Inc.,TSX,HAI.TO,Haivision Systems,HAI
 HBA,Hamilton Australian Bank Equal-Weight Index ETF,TSX,HBA.TO,Hamilton AusBk=Wgt E,HBA
 HEB,Hamilton Canadian Bank Equal-Weight Index ETF,TSX,HEB.TO,Hamilton Cdn Bk=Wgt,HEB
 HCA,Hamilton Canadian Bank Mean Reversion Index ETF,TSX,HCA.TO,Hamilton CadBkRev Un,HCA
+HFN,Hamilton Canadian Financials Index ETF,TSX,HFN.TO,Hamilton Cad Fin Ind,HFN
 HMAX,Hamilton Canadian Financials YIELD MAXIMIZER TM ETF,TSX,HMAX.TO,Ham CdnFinMax TM ETF,HMAX
 EMAX,Hamilton Energy YIELD MAXIMIZER TM ETF,TSX,EMAX.TO,Ham EngyYldMaxTM ETF,EMAX
 HCAL,Hamilton Enhanced Canadian Bank ETF,TSX,HCAL.TO,Hamilton EnhanCA Bk,HCAL
@@ -8621,7 +8622,7 @@ BOW,Bowhead Specialty Holdings Inc. Common Stock,NYSE,BOW
 BOX,"Box, Inc. Class A Common Stock",NYSE,BOX
 BP,BP p.l.c. Common Stock,NYSE,BP
 BPT,BP Prudhoe Bay Royalty Trust Common Stock,NYSE,BPT
-BQ,"Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares",NYSE MKT,BQ
+BQ,Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares),NYSE MKT,BQ
 BR,"Broadridge Financial Solutions, Inc. Common Stock",NYSE,BR
 BRBR,"BellRing Brands, Inc. Common Stock ",NYSE,BRBR
 BRBS,"Blue Ridge Bankshares, Inc. Common Stock",NYSE MKT,BRBS
@@ -9293,6 +9294,7 @@ FFWM,First Foundation Inc. Common Stock,NYSE,FFWM
 FG,"F&G Annuities & Life, Inc. Common Stock",NYSE,FG
 FGB,First Trust Specialty Finance and Financial Opportunities Fund,NYSE,FGB
 FGN,"F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",NYSE,FGN
+FGSN,"F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065",NYSE,FGSN
 FHI,"Federated Hermes, Inc. Common Stock",NYSE,FHI
 FHN,First Horizon Corporation Common Stock,NYSE,FHN
 FHN$B,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series B",NYSE,FHN$B
@@ -10861,7 +10863,6 @@ SPR,"Spirit Aerosystems Holdings, Inc. Common Stock",NYSE,SPR
 SPRU,Spruce Power Holding Corporation Class A Common Stock,NYSE,SPRU
 SPXC,"SPX Technologies, Inc. Common Stock",NYSE,SPXC
 SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,NYSE,SPXX
-SQ,"Block, Inc. Class A Common Stock,",NYSE,SQ
 SQM,Sociedad Quimica y Minera S.A. Common Stock,NYSE,SQM
 SQNS,Sequans Communications S.A. American Depositary Shares (each representing ten (10) Ordinary Shares),NYSE,SQNS
 SR,Spire Inc. Common Stock,NYSE,SR
@@ -11308,6 +11309,7 @@ XPRO,Expro Group Holdings N.V. Common Stock,NYSE,XPRO
 XTNT,"Xtant Medical Holdings, Inc. Common Stock",NYSE MKT,XTNT
 XYF,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares",NYSE,XYF
 XYL,Xylem Inc. Common Stock New,NYSE,XYL
+XYZ,"Block, Inc. Class A Common Stock,",NYSE,XYZ
 YALA,"Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share",NYSE,YALA
 YCBD,"cbdMD, Inc. Common Stock",NYSE MKT,YCBD
 YCBD$A,"cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock",NYSE MKT,YCBD$A

@@ -1,5 +1,5 @@
 {
- "date": "2025-01-20",
+ "date": "2025-01-21",
  "data": [
   {
    "symbol": "ONE",
@@ -694,10 +694,6 @@
     {
      "name": "Aluula Composites Inc.",
      "symbol": "AUUA"
-    },
-    {
-     "name": "Aluula Composites Inc rt ex 21Jan2025",
-     "symbol": "AUUA.RT"
     }
    ]
   },
@@ -22710,6 +22706,18 @@
    ]
   },
   {
+   "symbol": "BGIE",
+   "name": "Brompton Global Infrastructure ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BGIE.TO",
+   "instruments": [
+    {
+     "name": "BromptonSusRl AsstDv",
+     "symbol": "BGIE"
+    }
+   ]
+  },
+  {
    "symbol": "KNGX",
    "name": "Brompton International Cash Flow Kings ETF",
    "exchange": "TSX",
@@ -22790,18 +22798,6 @@
     {
      "name": "Brompton SpltPref Un",
      "symbol": "SPLT"
-    }
-   ]
-  },
-  {
-   "symbol": "BREA",
-   "name": "Brompton Sustainable Real Assets Dividend ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BREA.TO",
-   "instruments": [
-    {
-     "name": "BromptonSusRl AsstDv",
-     "symbol": "BREA"
     }
    ]
   },
@@ -31258,6 +31254,18 @@
     {
      "name": "Hamilton CadBkRev Un",
      "symbol": "HCA"
+    }
+   ]
+  },
+  {
+   "symbol": "HFN",
+   "name": "Hamilton Canadian Financials Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HFN.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Cad Fin Ind",
+     "symbol": "HFN"
     }
    ]
   },
@@ -75015,7 +75023,7 @@
   },
   {
    "symbol": "BQ",
-   "name": "Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares",
+   "name": "Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares)",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "BQ"
   },
@@ -79044,6 +79052,12 @@
    "name": "F\u0026G Annuities \u0026 Life, Inc. 7.950% Senior Notes due 2053",
    "exchange": "NYSE",
    "yahoo_symbol": "FGN"
+  },
+  {
+   "symbol": "FGSN",
+   "name": "F\u0026G Annuities \u0026 Life, Inc. 7.300% Junior Subordinated Notes due 2065",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FGSN"
   },
   {
    "symbol": "FHI",
@@ -88454,12 +88468,6 @@
    "yahoo_symbol": "SPXX"
   },
   {
-   "symbol": "SQ",
-   "name": "Block, Inc. Class A Common Stock,",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SQ"
-  },
-  {
    "symbol": "SQM",
    "name": "Sociedad Quimica y Minera S.A. Common Stock",
    "exchange": "NYSE",
@@ -91134,6 +91142,12 @@
    "name": "Xylem Inc. Common Stock New",
    "exchange": "NYSE",
    "yahoo_symbol": "XYL"
+  },
+  {
+   "symbol": "XYZ",
+   "name": "Block, Inc. Class A Common Stock,",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XYZ"
   },
   {
    "symbol": "YALA",
