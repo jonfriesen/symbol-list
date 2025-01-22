@@ -1,60 +1,94 @@
 {
  "added": [
   {
-   "symbol": "BGIE",
-   "name": "Brompton Global Infrastructure ETF",
+   "symbol": "SPXD",
+   "name": "BetaPro S\u0026P 500 -2x Daily Bear ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "BGIE.TO",
+   "yahoo_symbol": "SPXD.TO",
    "instruments": [
     {
-     "name": "BromptonSusRl AsstDv",
-     "symbol": "BGIE"
+     "name": "BetaPro S\u0026P500 -2xBr",
+     "symbol": "SPXD"
     }
    ]
   },
   {
-   "symbol": "HFN",
-   "name": "Hamilton Canadian Financials Index ETF",
+   "symbol": "DXID",
+   "name": "Dynamic Active Innovation and Disruption ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "HFN.TO",
+   "yahoo_symbol": "DXID.TO",
    "instruments": [
     {
-     "name": "Hamilton Cad Fin Ind",
-     "symbol": "HFN"
+     "name": "Dynamic Act I\u0026D CAD",
+     "symbol": "DXID"
+    },
+    {
+     "name": "Dynamic Act I\u0026D USD",
+     "symbol": "DXID.U"
     }
    ]
   },
   {
-   "symbol": "FGSN",
-   "name": "F\u0026G Annuities \u0026 Life, Inc. 7.300% Junior Subordinated Notes due 2065",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FGSN"
+   "symbol": "NRO.V",
+   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NRO.V"
   },
   {
-   "symbol": "XYZ",
-   "name": "Block, Inc. Class A Common Stock,",
-   "exchange": "NYSE",
-   "yahoo_symbol": "XYZ"
+   "symbol": "TOPP",
+   "name": "Toppoint Holdings Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TOPP"
   }
  ],
  "removed": [
   {
-   "symbol": "SQ",
-   "name": "Block, Inc. Class A Common Stock,",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SQ"
+   "symbol": "CSLM",
+   "name": "CSLM Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLM"
   },
   {
-   "symbol": "BREA",
-   "name": "Brompton Sustainable Real Assets Dividend ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BREA.TO",
-   "instruments": [
-    {
-     "name": "BromptonSusRl AsstDv",
-     "symbol": "BREA"
-    }
-   ]
+   "symbol": "SVMH",
+   "name": "SRIVARU Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVMH"
+  },
+  {
+   "symbol": "LGPS",
+   "name": "LogProstyle Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGPS"
+  },
+  {
+   "symbol": "SMAR",
+   "name": "Smartsheet Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMAR"
+  },
+  {
+   "symbol": "SVMHW",
+   "name": "SRIVARU Holding Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVMHW"
+  },
+  {
+   "symbol": "CSLMR",
+   "name": "CSLM Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMR"
+  },
+  {
+   "symbol": "CSLMU",
+   "name": "CSLM Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMU"
+  },
+  {
+   "symbol": "CSLMW",
+   "name": "CSLM Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMW"
   }
  ]
 }
