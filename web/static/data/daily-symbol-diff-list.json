@@ -1,94 +1,132 @@
 {
  "added": [
   {
-   "symbol": "SPXD",
-   "name": "BetaPro S\u0026P 500 -2x Daily Bear ETF",
+   "symbol": "CSCO",
+   "name": "Cisco CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "SPXD.TO",
+   "yahoo_symbol": "CSCO.TO",
    "instruments": [
     {
-     "name": "BetaPro S\u0026P500 -2xBr",
-     "symbol": "SPXD"
+     "name": "Cisco CDR CAD Hedged",
+     "symbol": "CSCO"
     }
    ]
   },
   {
-   "symbol": "DXID",
-   "name": "Dynamic Active Innovation and Disruption ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DXID.TO",
-   "instruments": [
-    {
-     "name": "Dynamic Act I\u0026D CAD",
-     "symbol": "DXID"
-    },
-    {
-     "name": "Dynamic Act I\u0026D USD",
-     "symbol": "DXID.U"
-    }
-   ]
+   "symbol": "DGNX",
+   "name": "Diginex Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DGNX"
   },
   {
-   "symbol": "NRO.V",
-   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights when issued",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NRO.V"
+   "symbol": "DXST",
+   "name": "Decent Holding Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DXST"
   },
   {
-   "symbol": "TOPP",
-   "name": "Toppoint Holdings Inc. Common Stock",
+   "symbol": "MCTR",
+   "name": "CTRL Group Limited - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCTR"
+  },
+  {
+   "symbol": "TXUE",
+   "name": "Thornburg International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXUE"
+  },
+  {
+   "symbol": "GNS.V",
+   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights when issued",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "TOPP"
+   "yahoo_symbol": "GNS.V"
+  },
+  {
+   "symbol": "JFR.R",
+   "name": "Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JFR.R"
   }
  ],
  "removed": [
   {
-   "symbol": "CSLM",
-   "name": "CSLM Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSLM"
-  },
-  {
-   "symbol": "SVMH",
-   "name": "SRIVARU Holding Limited - Ordinary Shares",
+   "symbol": "TETEW",
+   "name": "Technology \u0026 Telecommunication Acquisition Corporation - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVMH"
+   "yahoo_symbol": "TETEW"
   },
   {
-   "symbol": "LGPS",
-   "name": "LogProstyle Inc. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LGPS"
+   "symbol": "WAVS",
+   "name": "Western Acquisition Ventures Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVS"
   },
   {
-   "symbol": "SMAR",
-   "name": "Smartsheet Inc. Class A Common Stock",
+   "symbol": "BRACU",
+   "name": "Broad Capital Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRACU"
+  },
+  {
+   "symbol": "PPYAW",
+   "name": "Papaya Growth Opportunity Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPYAW"
+  },
+  {
+   "symbol": "WAVSU",
+   "name": "Western Acquisition Ventures Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVSU"
+  },
+  {
+   "symbol": "PPYAU",
+   "name": "Papaya Growth Opportunity Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPYAU"
+  },
+  {
+   "symbol": "WAVSW",
+   "name": "Western Acquisition Ventures Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVSW"
+  },
+  {
+   "symbol": "BRAC",
+   "name": "Broad Capital Acquisition Corp - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRAC"
+  },
+  {
+   "symbol": "TETE",
+   "name": "Technology \u0026 Telecommunication Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TETE"
+  },
+  {
+   "symbol": "PPYA",
+   "name": "Papaya Growth Opportunity Corp. I - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPYA"
+  },
+  {
+   "symbol": "JFR.V",
+   "name": "Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "SMAR"
+   "yahoo_symbol": "JFR.V"
   },
   {
-   "symbol": "SVMHW",
-   "name": "SRIVARU Holding Limited - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SVMHW"
+   "symbol": "TETEU",
+   "name": "Technology \u0026 Telecommunication Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TETEU"
   },
   {
-   "symbol": "CSLMR",
-   "name": "CSLM Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSLMR"
-  },
-  {
-   "symbol": "CSLMU",
-   "name": "CSLM Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSLMU"
-  },
-  {
-   "symbol": "CSLMW",
-   "name": "CSLM Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSLMW"
+   "symbol": "BRACR",
+   "name": "Broad Capital Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRACR"
   }
  ]
 }

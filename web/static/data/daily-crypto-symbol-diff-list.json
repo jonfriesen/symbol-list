@@ -1,44 +1,31 @@
 {
  "added": [
   {
-   "symbol": "LEGEND",
-   "name": "Legend (LEGEND)",
+   "symbol": "THEN",
+   "name": "THENA (THEN)"
+  },
+  {
+   "symbol": "UBC",
+   "name": "Ubcoin (UBC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BFWOG",
+   "name": "Based Fwog (basedfwog.info) (BFWOG)",
    "built_on": "BASE"
   },
   {
-   "symbol": "YILONGMA",
-   "name": "Chinese Elon Musk (YILONGMA)",
+   "symbol": "PLUME",
+   "name": "Plume (PLUME)",
    "built_on": "ETH"
   },
   {
-   "symbol": "ZKEX",
-   "name": "zkExchange (ZKEX)",
-   "built_on": "ETH"
+   "symbol": "LUXCOIN",
+   "name": "LUXCoin (LUXCOIN)"
   },
   {
-   "symbol": "PPCOIN",
-   "name": "Project Plutus (PPCOIN)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "METAIVERSE",
-   "name": "MetAIverse (METAIVERSE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "TRUMPJRVIP",
-   "name": "TrumpJr (TRUMPJRVIP)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "PEIPEICN",
-   "name": "PEIPEI (PEIPEICN)",
-   "built_on": "ETH"
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
   },
   {
    "symbol": "BANK",
@@ -46,43 +33,52 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "BDOGITO",
-   "name": "BullDogito (BDOGITO)",
+   "symbol": "CROWWITH",
+   "name": "crow with knife (CROWWITH)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "AIC",
+   "name": "AI Companions (AIC)",
    "built_on": "BNB"
   },
   {
-   "symbol": "AICRYPTO",
-   "name": "AI Crypto (AICRYPTO)",
+   "symbol": "SONIC",
+   "name": "Sonic (SONIC)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
    "built_on": "ETH"
   },
   {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
-  },
-  {
-   "symbol": "TRUMPJR",
-   "name": "OFFICIAL TRUMP JR (TRUMPJR)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "HLOV1",
-   "name": "Halo v1 (HLOV1)"
-  },
-  {
-   "symbol": "YILONG",
-   "name": "Yi Long Ma (YILONG)",
-   "built_on": "SOL"
+   "symbol": "LUX",
+   "name": "Lux Token (LUX)",
+   "built_on": "BASE"
   }
  ],
  "removed": [
   {
-   "symbol": "TRUMPJR",
-   "name": "TrumpJr (TRUMPJR)",
-   "built_on": "ETH"
+   "symbol": "LUX",
+   "name": "LUXCoin (LUX)"
   },
   {
-   "symbol": "AIC",
-   "name": "AI Crypto (AIC)"
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "THEN",
+   "name": "THENA (THEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UBC",
+   "name": "Ubcoin (UBC)"
+  },
+  {
+   "symbol": "SONIC",
+   "name": "Sonic (SONIC)",
+   "built_on": "ETH"
   }
  ]
 }
