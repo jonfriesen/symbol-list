@@ -1,5 +1,5 @@
 {
- "date": "2025-01-23",
+ "date": "2025-01-24",
  "data": [
   {
    "symbol": "ONE",
@@ -6858,18 +6858,6 @@
     {
      "name": "Golden Ridge Resources Ltd.",
      "symbol": "GLDN"
-    }
-   ]
-  },
-  {
-   "symbol": "GSH",
-   "name": "Golden Share Resources Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GSH.V",
-   "instruments": [
-    {
-     "name": "Golden Share Resources Corporation",
-     "symbol": "GSH"
     }
    ]
   },
@@ -14486,26 +14474,6 @@
     {
      "name": "Rover Critical Minerals Corp.",
      "symbol": "ROVR"
-    }
-   ]
-  },
-  {
-   "symbol": "RHC",
-   "name": "Royal Helium Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RHC.V",
-   "instruments": [
-    {
-     "name": "Royal Helium Ltd.",
-     "symbol": "RHC"
-    },
-    {
-     "name": "Royal Helium Ltd. wt 14Nov2026",
-     "symbol": "RHC.WT.A"
-    },
-    {
-     "name": "Royal Helium Ltd. wt08May2027",
-     "symbol": "RHC.WT.B"
     }
    ]
   },
@@ -48313,7 +48281,7 @@
   },
   {
    "symbol": "CCLDP",
-   "name": "CareCloud, Inc. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "name": "CareCloud, Inc. - 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CCLDP"
   },
@@ -49498,6 +49466,12 @@
    "name": "Coca-Cola Consolidated, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "COKE"
+  },
+  {
+   "symbol": "COLAU",
+   "name": "Columbus Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COLAU"
   },
   {
    "symbol": "COLB",
@@ -54156,6 +54130,12 @@
    "yahoo_symbol": "GELS"
   },
   {
+   "symbol": "GEME",
+   "name": "Pacific North of South EM Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEME"
+  },
+  {
    "symbol": "GEN",
    "name": "Gen Digital Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -55798,24 +55778,6 @@
    "name": "Hub Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HUBG"
-  },
-  {
-   "symbol": "HUDA",
-   "name": "Hudson Acquisition I Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HUDA"
-  },
-  {
-   "symbol": "HUDAR",
-   "name": "Hudson Acquisition I Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HUDAR"
-  },
-  {
-   "symbol": "HUDAU",
-   "name": "Hudson Acquisition I Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HUDAU"
   },
   {
    "symbol": "HUDI",
@@ -66810,6 +66772,12 @@
    "yahoo_symbol": "SJW"
   },
   {
+   "symbol": "SKBL",
+   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKBL"
+  },
+  {
    "symbol": "SKGR",
    "name": "SK Growth Opportunities Corporation - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -69492,6 +69460,12 @@
    "yahoo_symbol": "TXUE"
   },
   {
+   "symbol": "TXUG",
+   "name": "Thornburg International Growth Fund ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXUG"
+  },
+  {
    "symbol": "TYGO",
    "name": "Tigo Energy, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -69874,12 +69848,6 @@
    "name": "Atlas America Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "USAF"
-  },
-  {
-   "symbol": "USAP",
-   "name": "Universal Stainless \u0026 Alloy Products, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "USAP"
   },
   {
    "symbol": "USAU",
@@ -77706,6 +77674,12 @@
    "yahoo_symbol": "DXC"
   },
   {
+   "symbol": "DXF",
+   "name": "Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DXF"
+  },
+  {
    "symbol": "DXYZ",
    "name": "Destiny Tech100 Inc. Common Stock",
    "exchange": "NYSE",
@@ -84702,10 +84676,10 @@
    "yahoo_symbol": "NRO"
   },
   {
-   "symbol": "NRO.V",
-   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights when issued",
+   "symbol": "NRO.R",
+   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "NRO.V"
+   "yahoo_symbol": "NRO.R"
   },
   {
    "symbol": "NRP",
@@ -90166,6 +90140,12 @@
    "name": "abrdn National Municipal Income Fund Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "VFL"
+  },
+  {
+   "symbol": "VG",
+   "name": "Venture Global, Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VG"
   },
   {
    "symbol": "VGI",

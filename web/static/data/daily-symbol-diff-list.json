@@ -1,132 +1,110 @@
 {
  "added": [
   {
-   "symbol": "CSCO",
-   "name": "Cisco CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "CSCO.TO",
-   "instruments": [
-    {
-     "name": "Cisco CDR CAD Hedged",
-     "symbol": "CSCO"
-    }
-   ]
-  },
-  {
-   "symbol": "DGNX",
-   "name": "Diginex Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DGNX"
-  },
-  {
-   "symbol": "DXST",
-   "name": "Decent Holding Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DXST"
-  },
-  {
-   "symbol": "MCTR",
-   "name": "CTRL Group Limited - ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCTR"
-  },
-  {
-   "symbol": "TXUE",
-   "name": "Thornburg International Equity ETF",
+   "symbol": "COLAU",
+   "name": "Columbus Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TXUE"
+   "yahoo_symbol": "COLAU"
   },
   {
-   "symbol": "GNS.V",
-   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights when issued",
+   "symbol": "GEME",
+   "name": "Pacific North of South EM Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEME"
+  },
+  {
+   "symbol": "SKBL",
+   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKBL"
+  },
+  {
+   "symbol": "TXUG",
+   "name": "Thornburg International Growth Fund ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXUG"
+  },
+  {
+   "symbol": "DXF",
+   "name": "Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "GNS.V"
+   "yahoo_symbol": "DXF"
   },
   {
-   "symbol": "JFR.R",
-   "name": "Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights",
+   "symbol": "NRO.R",
+   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NRO.R"
+  },
+  {
+   "symbol": "VG",
+   "name": "Venture Global, Inc. Class A common stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "JFR.R"
+   "yahoo_symbol": "VG"
   }
  ],
  "removed": [
   {
-   "symbol": "TETEW",
-   "name": "Technology \u0026 Telecommunication Acquisition Corporation - Warrant",
+   "symbol": "GSH",
+   "name": "Golden Share Resources Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GSH.V",
+   "instruments": [
+    {
+     "name": "Golden Share Resources Corporation",
+     "symbol": "GSH"
+    }
+   ]
+  },
+  {
+   "symbol": "HUDAU",
+   "name": "Hudson Acquisition I Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TETEW"
+   "yahoo_symbol": "HUDAU"
   },
   {
-   "symbol": "WAVS",
-   "name": "Western Acquisition Ventures Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WAVS"
-  },
-  {
-   "symbol": "BRACU",
-   "name": "Broad Capital Acquisition Corp - Units",
+   "symbol": "HUDA",
+   "name": "Hudson Acquisition I Corp. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRACU"
+   "yahoo_symbol": "HUDA"
   },
   {
-   "symbol": "PPYAW",
-   "name": "Papaya Growth Opportunity Corp. I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PPYAW"
+   "symbol": "NRO.V",
+   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NRO.V"
   },
   {
-   "symbol": "WAVSU",
-   "name": "Western Acquisition Ventures Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WAVSU"
-  },
-  {
-   "symbol": "PPYAU",
-   "name": "Papaya Growth Opportunity Corp. I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PPYAU"
-  },
-  {
-   "symbol": "WAVSW",
-   "name": "Western Acquisition Ventures Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WAVSW"
-  },
-  {
-   "symbol": "BRAC",
-   "name": "Broad Capital Acquisition Corp - Common Stock",
+   "symbol": "HUDAR",
+   "name": "Hudson Acquisition I Corp. - Right",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRAC"
+   "yahoo_symbol": "HUDAR"
   },
   {
-   "symbol": "TETE",
-   "name": "Technology \u0026 Telecommunication Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TETE"
+   "symbol": "USAP",
+   "name": "Universal Stainless \u0026 Alloy Products, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "USAP"
   },
   {
-   "symbol": "PPYA",
-   "name": "Papaya Growth Opportunity Corp. I - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PPYA"
-  },
-  {
-   "symbol": "JFR.V",
-   "name": "Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JFR.V"
-  },
-  {
-   "symbol": "TETEU",
-   "name": "Technology \u0026 Telecommunication Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TETEU"
-  },
-  {
-   "symbol": "BRACR",
-   "name": "Broad Capital Acquisition Corp - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRACR"
+   "symbol": "RHC",
+   "name": "Royal Helium Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RHC.V",
+   "instruments": [
+    {
+     "name": "Royal Helium Ltd.",
+     "symbol": "RHC"
+    },
+    {
+     "name": "Royal Helium Ltd. wt 14Nov2026",
+     "symbol": "RHC.WT.A"
+    },
+    {
+     "name": "Royal Helium Ltd. wt08May2027",
+     "symbol": "RHC.WT.B"
+    }
+   ]
   }
  ]
 }
