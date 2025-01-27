@@ -358,7 +358,7 @@ CYTO,Cytophage Technologies Ltd.,TSXV,CYTO.V,Cytophage Technologies Ltd.,CYTO
 DTWO,D2 Lithium Corp.,TSXV,DTWO.V,D2 Lithium Corp.,DTWO
 DAR,Darelle Online Solutions Inc.,TSXV,DAR.V,Darelle Online Solutions Inc.,DAR
 DM,Datametrex AI Limited,TSXV,DM.V,Datametrex AI Limited,DM
-DUR.P,Daura Capital Corp.,TSXV,DUR.P.V,Daura Capital Corp.,DUR.P
+DGC,Daura Gold Corp.,TSXV,DGC.V,Daura Gold Corp.,DGC
 DTEA,DAVIDsTEA Inc.,TSXV,DTEA.V,DAVIDsTEA Inc.,DTEA
 DEC,Decade Resources Ltd.,TSXV,DEC.V,Decade Resources Ltd.,DEC
 DB,Decibel Cannabis Company Inc.,TSXV,DB.V,Decibel Cannabis Company Inc.,DB
@@ -2448,6 +2448,8 @@ HEB,Hamilton Canadian Bank Equal-Weight Index ETF,TSX,HEB.TO,Hamilton Cdn Bk=Wgt
 HCA,Hamilton Canadian Bank Mean Reversion Index ETF,TSX,HCA.TO,Hamilton CadBkRev Un,HCA
 HFN,Hamilton Canadian Financials Index ETF,TSX,HFN.TO,Hamilton Cad Fin Ind,HFN
 HMAX,Hamilton Canadian Financials YIELD MAXIMIZER TM ETF,TSX,HMAX.TO,Ham CdnFinMax TM ETF,HMAX
+CMVP,HAMILTON CHAMPIONS TM Canadian Dividend Index ETF,TSX,CMVP.TO,HAMILTON CHAM CAD Di,CMVP
+SMVP,"HAMILTON CHAMPIONS TM U.S. Dividend Index ETF",TSX,SMVP.TO,HAMILTON CHAM US Div,SMVP
 EMAX,Hamilton Energy YIELD MAXIMIZER TM ETF,TSX,EMAX.TO,Ham EngyYldMaxTM ETF,EMAX
 HCAL,Hamilton Enhanced Canadian Bank ETF,TSX,HCAL.TO,Hamilton EnhanCA Bk,HCAL
 HFIN,Hamilton Enhanced Canadian Financials ETF,TSX,HFIN.TO,Hamilton EnhanCA Fin,HFIN
@@ -2762,8 +2764,8 @@ LBS,Life & Banc Split Corp.,TSX,LBS.TO,Life & Banc Split A,LBS,Life & Banc Split
 LSPK,LifeSpeak Inc,TSX,LSPK.TO,LifeSpeak Inc. J,LSPK
 LSPD,Lightspeed Commerce Inc.,TSX,LSPD.TO,Lightspeed Commrc SV,LSPD
 LNR,Linamar Corporation,TSX,LNR.TO,Linamar Corporation,LNR
-LAAC,Lithium Americas (Argentina) Corp.,TSX,LAAC.TO,Lithium Argentina J,LAAC
 LAC,Lithium Americas Corp.,TSX,LAC.TO,Lithium Americas J,LAC
+LAR,"Lithium Argentina AG",TSX,LAR.TO,Lithium Argentina J,LAR
 LIRC,Lithium Royalty Corp.,TSX,LIRC.TO,Lithium Royalty J,LIRC
 L,Loblaw Companies Limited,TSX,L.TO,Loblaw Companies Ltd,L
 LN,Loncor Gold Inc.,TSX,LN.TO,Loncor Gold Inc. J,LN
@@ -3378,6 +3380,7 @@ AAOI,"Applied Optoelectronics, Inc. - Common Stock",NASDAQ Global MarketSM,AAOI
 AAON,"AAON, Inc. - Common Stock",NASDAQ Global Select MarketSM,AAON
 AAPB,GraniteShares 2x Long AAPL Daily ETF,NASDAQ Global MarketSM,AAPB
 AAPD,Direxion Daily AAPL Bear 1X Shares,NASDAQ Global MarketSM,AAPD
+AAPG,Ascentage Pharma Group International - American Depository Shares,NASDAQ Global MarketSM,AAPG
 AAPL,Apple Inc. - Common Stock,NASDAQ Global Select MarketSM,AAPL
 AAPU,Direxion Daily AAPL Bull 2X Shares,NASDAQ Global MarketSM,AAPU
 AAXJ,iShares MSCI All Country Asia ex Japan ETF,NASDAQ Global MarketSM,AAXJ
@@ -3580,6 +3583,7 @@ AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMAT
 AMBA,"Ambarella, Inc. - Ordinary Shares",NASDAQ Global Select MarketSM,AMBA
 AMCX,AMC Networks Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,AMCX
 AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMD
+AMDG,Leverage Shares 2X Long AMD Daily ETF,NASDAQ Global MarketSM,AMDG
 AMDL,GraniteShares 2x Long AMD Daily ETF,NASDAQ Global MarketSM,AMDL
 AMDS,GraniteShares 1x Short AMD Daily ETF,NASDAQ Global MarketSM,AMDS
 AMED,Amedisys Inc - Common Stock,NASDAQ Global Select MarketSM,AMED
@@ -3941,6 +3945,7 @@ BLKB,"Blackbaud, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLKB
 BLLD,JPMorgan Sustainable Infrastructure ETF,NASDAQ Global MarketSM,BLLD
 BLMN,"Bloomin' Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLMN
 BLMZ,BloomZ Inc. - Ordinary Shares,NASDAQ Capital Market,BLMZ
+BLNE,"Eastside Distilling, Inc. - Common Stock",NASDAQ Capital Market,BLNE
 BLNK,Blink Charging Co. - Common Stock,NASDAQ Capital Market,BLNK
 BLRX,BioLineRx Ltd. - American Depositary Shares,NASDAQ Capital Market,BLRX
 BLTE,"Belite Bio, Inc - American Depositary Shares",NASDAQ Capital Market,BLTE
@@ -4664,7 +4669,6 @@ DYNXU,Dynamix Corporation - Unit,NASDAQ Global MarketSM,DYNXU
 DYNXW,Dynamix Corporation - Warrant,NASDAQ Global MarketSM,DYNXW
 DYTA,SGI Dynamic Tactical ETF,NASDAQ Global MarketSM,DYTA
 EA,Electronic Arts Inc. - Common Stock,NASDAQ Global Select MarketSM,EA
-EAST,"Eastside Distilling, Inc. - Common Stock",NASDAQ Capital Market,EAST
 EBAY,eBay Inc. - Common Stock,NASDAQ Global Select MarketSM,EBAY
 EBC,"Eastern Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,EBC
 EBIZ,Global X E-commerce ETF,NASDAQ Global MarketSM,EBIZ
@@ -5210,9 +5214,6 @@ GNTA,Genenta Science S.p.A. - American Depositary Shares,NASDAQ Capital Market,G
 GNTX,Gentex Corporation - Common Stock,NASDAQ Global Select MarketSM,GNTX
 GO,Grocery Outlet Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,GO
 GOCO,"GoHealth, Inc. - Class A Common Stock",NASDAQ Capital Market,GOCO
-GODN,Golden Star Acquisition Corporation - Ordinary Shares,NASDAQ Global MarketSM,GODN
-GODNR,Golden Star Acquisition Corporation - Rights,NASDAQ Global MarketSM,GODNR
-GODNU,Golden Star Acquisition Corporation - Unit,NASDAQ Global MarketSM,GODNU
 GOEV,Canoo Inc.  - Class A Common Stock,NASDAQ Capital Market,GOEV
 GOEVW,Canoo Inc.  - Warrant,NASDAQ Capital Market,GOEVW
 GOGL,Golden Ocean Group Limited - Common Stock,NASDAQ Global Select MarketSM,GOGL
@@ -5428,7 +5429,7 @@ HWAY,Themes US Infrastructure ETF,NASDAQ Global MarketSM,HWAY
 HWBK,"Hawthorn Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,HWBK
 HWC,Hancock Whitney Corporation - Common Stock,NASDAQ Global Select MarketSM,HWC
 HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,NASDAQ Global Select MarketSM,HWCPZ
-HWH,HWH International Inc. - Common Stock,NASDAQ Global MarketSM,HWH
+HWH,HWH International Inc. - Common Stock,NASDAQ Capital Market,HWH
 HWKN,"Hawkins, Inc. - Common Stock",NASDAQ Global Select MarketSM,HWKN
 HYBI,NEOS Enhanced Income Credit Select ETF,NASDAQ Global MarketSM,HYBI
 HYDR,Global X Hydrogen ETF,NASDAQ Global MarketSM,HYDR
@@ -8167,6 +8168,7 @@ ABT,Abbott Laboratories Common Stock,NYSE,ABT
 AC,"Associated Capital Group, Inc. Common Stock",NYSE,AC
 ACA,"Arcosa, Inc. Common Stock ",NYSE,ACA
 ACCO,Acco Brands Corporation Common Stock,NYSE,ACCO
+ACCS,ACCESS Newswire Inc. Common Stock,NYSE MKT,ACCS
 ACEL,"Accel Entertainment, Inc. ",NYSE,ACEL
 ACHR,Archer Aviation Inc. Class A Common Stock,NYSE,ACHR
 ACHR.W,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",NYSE,ACHR.W
@@ -8430,7 +8432,6 @@ AZO,"AutoZone, Inc. Common Stock",NYSE,AZO
 AZTR,Azitra Inc Common Stock,NYSE MKT,AZTR
 AZUL,Azul S.A. American Depositary Shares (each representing three preferred shares),NYSE,AZUL
 AZZ,AZZ Inc.,NYSE,AZZ
-B,"Barnes Group, Inc. Common Stock",NYSE,B
 BA,Boeing Company (The) Common Stock,NYSE,BA
 BA$A,"Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00",NYSE,BA$A
 BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,NYSE,BABA
@@ -9465,7 +9466,7 @@ GNL$D,"Global Net Lease, Inc. 7.50% Series D Cumulative Redeemable Perpetual Pre
 GNL$E,"Global Net Lease, Inc. 7.375% Series E Cumulative Redeemable Perpetual Preferred Stock",NYSE,GNL$E
 GNRC,Generac Holdlings Inc. Common Stock,NYSE,GNRC
 GNS,Genius Group Limited Ordinary Shares,NYSE MKT,GNS
-GNS.V,"Genius Group Limited Rights (expiring February 14, 2025) Rights when issued",NYSE MKT,GNS.V
+GNS.R,"Genius Group Limited Rights (expiring February 14, 2025) Rights",NYSE MKT,GNS.R
 GNT,"GAMCO Natural Resources, Gold & Income Trust",NYSE,GNT
 GNT$A,"GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)",NYSE,GNT$A
 GNTY,"Guaranty Bancshares, Inc. Common Stock",NYSE,GNTY
@@ -9708,7 +9709,6 @@ IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each repr
 IRS.W,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares,NYSE,IRS.W
 IRT,"Independence Realty Trust, Inc. Common Stock",NYSE,IRT
 ISD,"PGIM High Yield Bond Fund, Inc.",NYSE,ISD
-ISDR,Issuer Direct Corporation Common Stock,NYSE MKT,ISDR
 IT,"Gartner, Inc. Common Stock",NYSE,IT
 ITGR,Integer Holdings Corporation Common Stock,NYSE,ITGR
 ITP,"IT Tech Packaging, Inc. Common Stock",NYSE MKT,ITP
@@ -9842,12 +9842,12 @@ KW,Kennedy-Wilson Holdings Inc. Common Stock,NYSE,KW
 KWR,Quaker Houghton Common Stock,NYSE,KWR
 KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",NYSE,KYN
 L,Loews Corporation Common Stock,NYSE,L
-LAAC,Lithium Americas (Argentina) Corp. Common Shares,NYSE,LAAC
 LAC,Lithium Americas Corp. Common Shares,NYSE,LAC
 LAD,"Lithia Motors, Inc. Common Stock",NYSE,LAD
 LADR,Ladder Capital Corp Class A Common Stock,NYSE,LADR
 LANV,Lanvin Group Holdings Limited Ordinary Shares,NYSE,LANV
 LANV.W,"Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",NYSE,LANV.W
+LAR,Lithium Argentina AG Common Shares,NYSE,LAR
 LAW,"CS Disco, Inc. Common Stock",NYSE,LAW
 LAZ,"Lazard, Inc. Common Stock",NYSE,LAZ
 LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,NYSE,LB
@@ -10781,8 +10781,8 @@ SKM,"SK Telecom Co., Ltd. Common Stock",NYSE,SKM
 SKT,Tanger Inc. Common Stock,NYSE,SKT
 SKX,"Skechers U.S.A., Inc. Common Stock",NYSE,SKX
 SKY,"Champion Homes, Inc. Common Stock",NYSE,SKY
-SKYH,Sky Harbour Group Corporation Class A Common Stock,NYSE MKT,SKYH
-SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE MKT,SKYH.W
+SKYH,Sky Harbour Group Corporation Class A Common Stock,NYSE,SKYH
+SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE,SKYH.W
 SLB,Schlumberger N.V. Common Stock,NYSE,SLB
 SLF,Sun Life Financial Inc. Common Stock,NYSE,SLF
 SLG,SL Green Realty Corp Common Stock,NYSE,SLG

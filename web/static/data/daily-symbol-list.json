@@ -1,5 +1,5 @@
 {
- "date": "2025-01-24",
+ "date": "2025-01-27",
  "data": [
   {
    "symbol": "ONE",
@@ -4334,14 +4334,14 @@
    ]
   },
   {
-   "symbol": "DUR.P",
-   "name": "Daura Capital Corp.",
+   "symbol": "DGC",
+   "name": "Daura Gold Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DUR.P.V",
+   "yahoo_symbol": "DGC.V",
    "instruments": [
     {
-     "name": "Daura Capital Corp.",
-     "symbol": "DUR.P"
+     "name": "Daura Gold Corp.",
+     "symbol": "DGC"
     }
    ]
   },
@@ -31294,6 +31294,30 @@
    ]
   },
   {
+   "symbol": "CMVP",
+   "name": "HAMILTON CHAMPIONS TM Canadian Dividend Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMVP.TO",
+   "instruments": [
+    {
+     "name": "HAMILTON CHAM CAD Di",
+     "symbol": "CMVP"
+    }
+   ]
+  },
+  {
+   "symbol": "SMVP",
+   "name": "HAMILTON CHAMPIONS TM U.S. Dividend Index ETF\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMVP.TO",
+   "instruments": [
+    {
+     "name": "HAMILTON CHAM US Div",
+     "symbol": "SMVP"
+    }
+   ]
+  },
+  {
    "symbol": "EMAX",
    "name": "Hamilton Energy YIELD MAXIMIZER TM ETF",
    "exchange": "TSX",
@@ -35394,18 +35418,6 @@
    ]
   },
   {
-   "symbol": "LAAC",
-   "name": "Lithium Americas (Argentina) Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "LAAC.TO",
-   "instruments": [
-    {
-     "name": "Lithium Argentina J",
-     "symbol": "LAAC"
-    }
-   ]
-  },
-  {
    "symbol": "LAC",
    "name": "Lithium Americas Corp.",
    "exchange": "TSX",
@@ -35414,6 +35426,18 @@
     {
      "name": "Lithium Americas J",
      "symbol": "LAC"
+    }
+   ]
+  },
+  {
+   "symbol": "LAR",
+   "name": "Lithium Argentina AG\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "LAR.TO",
+   "instruments": [
+    {
+     "name": "Lithium Argentina J",
+     "symbol": "LAR"
     }
    ]
   },
@@ -43564,6 +43588,12 @@
    "yahoo_symbol": "AAPD"
   },
   {
+   "symbol": "AAPG",
+   "name": "Ascentage Pharma Group International - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAPG"
+  },
+  {
    "symbol": "AAPL",
    "name": "Apple Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -44774,6 +44804,12 @@
    "name": "Advanced Micro Devices, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AMD"
+  },
+  {
+   "symbol": "AMDG",
+   "name": "Leverage Shares 2X Long AMD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDG"
   },
   {
    "symbol": "AMDL",
@@ -46940,6 +46976,12 @@
    "name": "BloomZ Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BLMZ"
+  },
+  {
+   "symbol": "BLNE",
+   "name": "Eastside Distilling, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLNE"
   },
   {
    "symbol": "BLNK",
@@ -51280,12 +51322,6 @@
    "yahoo_symbol": "EA"
   },
   {
-   "symbol": "EAST",
-   "name": "Eastside Distilling, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EAST"
-  },
-  {
    "symbol": "EBAY",
    "name": "eBay Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -54556,24 +54592,6 @@
    "yahoo_symbol": "GOCO"
   },
   {
-   "symbol": "GODN",
-   "name": "Golden Star Acquisition Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GODN"
-  },
-  {
-   "symbol": "GODNR",
-   "name": "Golden Star Acquisition Corporation - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GODNR"
-  },
-  {
-   "symbol": "GODNU",
-   "name": "Golden Star Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GODNU"
-  },
-  {
    "symbol": "GOEV",
    "name": "Canoo Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -55866,7 +55884,7 @@
   {
    "symbol": "HWH",
    "name": "HWH International Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HWH"
   },
   {
@@ -72298,6 +72316,12 @@
    "yahoo_symbol": "ACCO"
   },
   {
+   "symbol": "ACCS",
+   "name": "ACCESS Newswire Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ACCS"
+  },
+  {
    "symbol": "ACEL",
    "name": "Accel Entertainment, Inc. ",
    "exchange": "NYSE",
@@ -73874,12 +73898,6 @@
    "name": "AZZ Inc.",
    "exchange": "NYSE",
    "yahoo_symbol": "AZZ"
-  },
-  {
-   "symbol": "B",
-   "name": "Barnes Group, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "B"
   },
   {
    "symbol": "BA",
@@ -80086,10 +80104,10 @@
    "yahoo_symbol": "GNS"
   },
   {
-   "symbol": "GNS.V",
-   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights when issued",
+   "symbol": "GNS.R",
+   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "GNS.V"
+   "yahoo_symbol": "GNS.R"
   },
   {
    "symbol": "GNT",
@@ -81544,12 +81562,6 @@
    "yahoo_symbol": "ISD"
   },
   {
-   "symbol": "ISDR",
-   "name": "Issuer Direct Corporation Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ISDR"
-  },
-  {
    "symbol": "IT",
    "name": "Gartner, Inc. Common Stock",
    "exchange": "NYSE",
@@ -82348,12 +82360,6 @@
    "yahoo_symbol": "L"
   },
   {
-   "symbol": "LAAC",
-   "name": "Lithium Americas (Argentina) Corp. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LAAC"
-  },
-  {
    "symbol": "LAC",
    "name": "Lithium Americas Corp. Common Shares",
    "exchange": "NYSE",
@@ -82382,6 +82388,12 @@
    "name": "Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",
    "exchange": "NYSE",
    "yahoo_symbol": "LANV.W"
+  },
+  {
+   "symbol": "LAR",
+   "name": "Lithium Argentina AG Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAR"
   },
   {
    "symbol": "LAW",
@@ -87984,13 +87996,13 @@
   {
    "symbol": "SKYH",
    "name": "Sky Harbour Group Corporation Class A Common Stock",
-   "exchange": "NYSE MKT",
+   "exchange": "NYSE",
    "yahoo_symbol": "SKYH"
   },
   {
    "symbol": "SKYH.W",
    "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE MKT",
+   "exchange": "NYSE",
    "yahoo_symbol": "SKYH.W"
   },
   {

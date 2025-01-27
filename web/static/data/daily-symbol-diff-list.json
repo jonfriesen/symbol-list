@@ -1,110 +1,198 @@
 {
  "added": [
   {
-   "symbol": "COLAU",
-   "name": "Columbus Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "COLAU"
+   "symbol": "DGC",
+   "name": "Daura Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DGC.V",
+   "instruments": [
+    {
+     "name": "Daura Gold Corp.",
+     "symbol": "DGC"
+    }
+   ]
   },
   {
-   "symbol": "GEME",
-   "name": "Pacific North of South EM Equity Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GEME"
+   "symbol": "CMVP",
+   "name": "HAMILTON CHAMPIONS TM Canadian Dividend Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMVP.TO",
+   "instruments": [
+    {
+     "name": "HAMILTON CHAM CAD Di",
+     "symbol": "CMVP"
+    }
+   ]
   },
   {
-   "symbol": "SKBL",
-   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
+   "symbol": "SMVP",
+   "name": "HAMILTON CHAMPIONS TM U.S. Dividend Index ETF\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMVP.TO",
+   "instruments": [
+    {
+     "name": "HAMILTON CHAM US Div",
+     "symbol": "SMVP"
+    }
+   ]
+  },
+  {
+   "symbol": "LAR",
+   "name": "Lithium Argentina AG\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "LAR.TO",
+   "instruments": [
+    {
+     "name": "Lithium Argentina J",
+     "symbol": "LAR"
+    }
+   ]
+  },
+  {
+   "symbol": "AAPG",
+   "name": "Ascentage Pharma Group International - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAPG"
+  },
+  {
+   "symbol": "AMDG",
+   "name": "Leverage Shares 2X Long AMD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDG"
+  },
+  {
+   "symbol": "BLNE",
+   "name": "Eastside Distilling, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SKBL"
+   "yahoo_symbol": "BLNE"
   },
   {
-   "symbol": "TXUG",
-   "name": "Thornburg International Growth Fund ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TXUG"
+   "symbol": "HWH",
+   "name": "HWH International Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HWH"
   },
   {
-   "symbol": "DXF",
-   "name": "Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",
+   "symbol": "ACCS",
+   "name": "ACCESS Newswire Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "DXF"
+   "yahoo_symbol": "ACCS"
   },
   {
-   "symbol": "NRO.R",
-   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights",
+   "symbol": "GNS.R",
+   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "NRO.R"
+   "yahoo_symbol": "GNS.R"
   },
   {
-   "symbol": "VG",
-   "name": "Venture Global, Inc. Class A common stock",
+   "symbol": "LAR",
+   "name": "Lithium Argentina AG Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "VG"
+   "yahoo_symbol": "LAR"
+  },
+  {
+   "symbol": "SKYH",
+   "name": "Sky Harbour Group Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKYH"
+  },
+  {
+   "symbol": "SKYH.W",
+   "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKYH.W"
   }
  ],
  "removed": [
   {
-   "symbol": "GSH",
-   "name": "Golden Share Resources Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GSH.V",
-   "instruments": [
-    {
-     "name": "Golden Share Resources Corporation",
-     "symbol": "GSH"
-    }
-   ]
-  },
-  {
-   "symbol": "HUDAU",
-   "name": "Hudson Acquisition I Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HUDAU"
-  },
-  {
-   "symbol": "HUDA",
-   "name": "Hudson Acquisition I Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HUDA"
-  },
-  {
-   "symbol": "NRO.V",
-   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights when issued",
+   "symbol": "SKYH",
+   "name": "Sky Harbour Group Corporation Class A Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "NRO.V"
+   "yahoo_symbol": "SKYH"
   },
   {
-   "symbol": "HUDAR",
-   "name": "Hudson Acquisition I Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HUDAR"
+   "symbol": "ISDR",
+   "name": "Issuer Direct Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ISDR"
   },
   {
-   "symbol": "USAP",
-   "name": "Universal Stainless \u0026 Alloy Products, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "USAP"
-  },
-  {
-   "symbol": "RHC",
-   "name": "Royal Helium Ltd.",
+   "symbol": "DUR.P",
+   "name": "Daura Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "RHC.V",
+   "yahoo_symbol": "DUR.P.V",
    "instruments": [
     {
-     "name": "Royal Helium Ltd.",
-     "symbol": "RHC"
-    },
-    {
-     "name": "Royal Helium Ltd. wt 14Nov2026",
-     "symbol": "RHC.WT.A"
-    },
-    {
-     "name": "Royal Helium Ltd. wt08May2027",
-     "symbol": "RHC.WT.B"
+     "name": "Daura Capital Corp.",
+     "symbol": "DUR.P"
     }
    ]
+  },
+  {
+   "symbol": "HWH",
+   "name": "HWH International Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWH"
+  },
+  {
+   "symbol": "EAST",
+   "name": "Eastside Distilling, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EAST"
+  },
+  {
+   "symbol": "GNS.V",
+   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GNS.V"
+  },
+  {
+   "symbol": "SKYH.W",
+   "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SKYH.W"
+  },
+  {
+   "symbol": "LAAC",
+   "name": "Lithium Americas (Argentina) Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LAAC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Argentina J",
+     "symbol": "LAAC"
+    }
+   ]
+  },
+  {
+   "symbol": "B",
+   "name": "Barnes Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "B"
+  },
+  {
+   "symbol": "GODN",
+   "name": "Golden Star Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GODN"
+  },
+  {
+   "symbol": "GODNU",
+   "name": "Golden Star Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GODNU"
+  },
+  {
+   "symbol": "GODNR",
+   "name": "Golden Star Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GODNR"
+  },
+  {
+   "symbol": "LAAC",
+   "name": "Lithium Americas (Argentina) Corp. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAAC"
   }
  ]
 }
