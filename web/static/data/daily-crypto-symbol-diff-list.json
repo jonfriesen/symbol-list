@@ -1,41 +1,39 @@
 {
  "added": [
   {
-   "symbol": "YUSD",
-   "name": "YieldFi yToken (YUSD)",
-   "built_on": "ETH"
+   "symbol": "REG",
+   "name": "RealToken Ecosystem Governance (REG)",
+   "built_on": "XDAI"
   },
   {
-   "symbol": "TAIKO",
-   "name": "Taiko (TAIKO)"
+   "symbol": "MAGA47",
+   "name": "MAGA 47 (MAGA47)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "WKEYDAO",
-   "name": "WebKey DAO (WKEYDAO)",
+   "symbol": "BTR",
+   "name": "BTRIPS (BTR)",
    "built_on": "BNB"
   },
   {
-   "symbol": "ZBUV1",
-   "name": "ZEEBU v1 (ZBUV1)"
-  },
-  {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "GPRO",
-   "name": "GoldPro (GPRO)",
-   "built_on": "POL"
-  },
-  {
-   "symbol": "BERASTONE",
-   "name": "StakeStone Berachain Vault Token (BERASTONE)",
+   "symbol": "SOSO",
+   "name": "SoSoValue (SOSO)",
    "built_on": "ETH"
   },
   {
-   "symbol": "YETIUSD",
-   "name": "YUSD Stablecoin (YETIUSD)",
-   "built_on": "AVAX"
+   "symbol": "FLOCK",
+   "name": "Flockerz (FLOCK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FARTBOY",
+   "name": "Fartboy (FARTBOY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OSOL",
+   "name": "OSOL (OSOL)",
+   "built_on": "SOL"
   },
   {
    "symbol": "BANK",
@@ -43,40 +41,32 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "INDX",
-   "name": "CryptoIndex (INDX)"
+   "symbol": "L1X",
+   "name": "Layer One X (L1X)"
   },
   {
-   "symbol": "VINE",
-   "name": "Vine Coin (VINE)",
-   "built_on": "SOL"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "VOID",
-   "name": "Nothing (VOID)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "symbol": "VVV",
+   "name": "Venice Token (VVV)",
    "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
   }
  ],
  "removed": [
   {
-   "symbol": "YUSD",
-   "name": "YUSD Stablecoin (YUSD)",
-   "built_on": "AVAX"
+   "symbol": "BTR",
+   "name": "BTRIPS (BTR)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "TAIKO",
-   "name": "Taiko (TAIKO)",
-   "built_on": "ETH"
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
   }
  ]
 }
