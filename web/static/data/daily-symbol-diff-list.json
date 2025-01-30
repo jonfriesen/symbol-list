@@ -1,28 +1,48 @@
 {
  "added": [
   {
-   "symbol": "AEVA",
-   "name": "Aeva Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AEVA"
-  },
-  {
-   "symbol": "AEVAW",
-   "name": "Aeva Technologies, Inc. - Redeemable Warrants",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AEVAW"
-  },
-  {
-   "symbol": "DMAAU",
-   "name": "Drugs Made In America Acquisition Corp. - Units",
+   "symbol": "FGMCU",
+   "name": "FG Merger II Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DMAAU"
+   "yahoo_symbol": "FGMCU"
   },
   {
-   "symbol": "FATAV",
-   "name": "FAT Brands Inc. - Class A Common Stock Ex-distribution When-Issued",
+   "symbol": "PASG",
+   "name": "Passage Bio, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FATAV"
+   "yahoo_symbol": "PASG"
+  },
+  {
+   "symbol": "TWNP",
+   "name": "Twin Hospitality Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWNP"
+  },
+  {
+   "symbol": "JACS",
+   "name": "Jackson Acquisition Company II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JACS"
+  },
+  {
+   "symbol": "JACS.R",
+   "name": "Jackson Acquisition Company II Rights, each right to acquire one-tenth (1/10) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JACS.R"
+  },
+  {
+   "symbol": "RWTP",
+   "name": "Redwood Trust, Inc. 9.125% Senior Notes Due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RWTP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KNW",
+   "name": "Know Labs, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KNW"
   },
   {
    "symbol": "FATBV",
@@ -31,10 +51,10 @@
    "yahoo_symbol": "FATBV"
   },
   {
-   "symbol": "SFD",
-   "name": "Smithfield Foods, Inc. - Common Stock",
+   "symbol": "PASG",
+   "name": "Passage Bio, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SFD"
+   "yahoo_symbol": "PASG"
   },
   {
    "symbol": "TWNPV",
@@ -43,30 +63,10 @@
    "yahoo_symbol": "TWNPV"
   },
   {
-   "symbol": "MSIF",
-   "name": "MSC Income Fund, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MSIF"
-  }
- ],
- "removed": [
-  {
-   "symbol": "GOEV",
-   "name": "Canoo Inc.  - Class A Common Stock",
+   "symbol": "FATAV",
+   "name": "FAT Brands Inc. - Class A Common Stock Ex-distribution When-Issued",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GOEV"
-  },
-  {
-   "symbol": "GOEVW",
-   "name": "Canoo Inc.  - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GOEVW"
-  },
-  {
-   "symbol": "WBUY",
-   "name": "WEBUY GLOBAL LTD. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WBUY"
+   "yahoo_symbol": "FATAV"
   }
  ]
 }

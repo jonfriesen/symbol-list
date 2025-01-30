@@ -1,86 +1,85 @@
 {
  "added": [
   {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "ROPE",
-   "name": "Rope Token (ROPE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "DCOIN",
-   "name": "Crypto Delivery (DCOIN)",
+   "symbol": "SOLVBTCBBN",
+   "name": "Solv Protocol SolvBTC.BBN (SOLVBTCBBN)",
    "built_on": "ETH"
   },
   {
-   "symbol": "TAXAD",
-   "name": "TAXAD (TAXAD)",
-   "built_on": "BNB"
+   "symbol": "TICO",
+   "name": "Tico (TICO)",
+   "built_on": "AVAX"
   },
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "DAR",
-   "name": "Mines of Dalarnia (DAR)"
-  },
-  {
-   "symbol": "MXNA",
-   "name": "Machina (MXNA)",
+   "symbol": "EDGE",
+   "name": "EDGE (EDGE)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "MDOGS",
-   "name": "Money Dogs (MDOGS)",
-   "built_on": "TON"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "JFOX",
-   "name": "JuniperFox AI (JFOX)",
+   "symbol": "SWANSOL",
+   "name": "Black Swan (SWANSOL)",
    "built_on": "SOL"
   },
   {
-   "symbol": "PASTERNAK",
-   "name": "Ben Pasternak (PASTERNAK)",
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "J",
+   "name": "Jambo (J)",
    "built_on": "SOL"
   },
   {
-   "symbol": "YULI",
-   "name": "Yuliverse (YULI)",
-   "built_on": "KAIA"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "DENARIUS",
-   "name": "Denarius (DENARIUS)"
+   "symbol": "AIMONICA",
+   "name": "Aimonica Brands (AIMONICA)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
+   "symbol": "SWAN",
+   "name": "Swan Chain (SWAN)"
+  },
+  {
+   "symbol": "CRYPTODELIVERY",
+   "name": "Crypto Delivery (CRYPTODELIVERY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRYPTOJESUS",
+   "name": "Crypto Jesus Trump (CRYPTOJESUS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "JOINCOIN",
+   "name": "JoinCoin (JOINCOIN)"
   }
  ],
  "removed": [
   {
-   "symbol": "DCOIN",
-   "name": "Crypto Delivery (DCOIN)",
+   "symbol": "SWAN",
+   "name": "Black Swan (SWAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EDGE",
+   "name": "EDGE (EDGE)"
+  },
+  {
+   "symbol": "J",
+   "name": "JoinCoin (J)"
+  },
+  {
+   "symbol": "SOLVBTCBBN",
+   "name": "Solv Protocol SolvBTC.BBN (SOLVBTCBBN)",
    "built_on": "BNB"
-  },
-  {
-   "symbol": "DAR",
-   "name": "Mines of Dalarnia (DAR)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "D",
-   "name": "Denarius (D)"
   }
  ]
 }
