@@ -1,85 +1,125 @@
 {
  "added": [
   {
-   "symbol": "SOLVBTCBBN",
-   "name": "Solv Protocol SolvBTC.BBN (SOLVBTCBBN)",
-   "built_on": "ETH"
+   "symbol": "SEND",
+   "name": "Suilend (SEND)",
+   "built_on": "SUI"
   },
   {
-   "symbol": "TICO",
-   "name": "Tico (TICO)",
-   "built_on": "AVAX"
-  },
-  {
-   "symbol": "EDGE",
-   "name": "EDGE (EDGE)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
-  },
-  {
-   "symbol": "SWANSOL",
-   "name": "Black Swan (SWANSOL)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "symbol": "KIKIF",
+   "name": "Kiki Flaminki (KIKIF)",
    "built_on": "BASE"
   },
   {
-   "symbol": "J",
-   "name": "Jambo (J)",
+   "symbol": "UBC",
+   "name": "Universal Basic Compute (UBC)",
    "built_on": "SOL"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "AIMONICA",
-   "name": "Aimonica Brands (AIMONICA)",
+   "symbol": "KIKI",
+   "name": "KIKICat (KIKI)",
    "built_on": "SOL"
   },
   {
-   "symbol": "SWAN",
-   "name": "Swan Chain (SWAN)"
+   "symbol": "UBCOIN",
+   "name": "Ubcoin (UBCOIN)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "CRYPTODELIVERY",
-   "name": "Crypto Delivery (CRYPTODELIVERY)",
+   "symbol": "NC",
+   "name": "Nodecoin (NC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BULLIONFX",
+   "name": "BullionFX (BULLIONFX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "EFFECT",
+   "name": "Effect AI (EFFECT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAXAIAGENT",
+   "name": "MAX (MAXAIAGENT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EAFIN",
+   "name": "EAFIN (EAFIN)",
    "built_on": "BNB"
   },
   {
-   "symbol": "CRYPTOJESUS",
-   "name": "Crypto Jesus Trump (CRYPTOJESUS)",
-   "built_on": "BASE"
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "JOINCOIN",
-   "name": "JoinCoin (JOINCOIN)"
+   "symbol": "SOLVBTCENA",
+   "name": "SolvBTC Ethena (SOLVBTCENA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BULL",
+   "name": "Bullieverse (BULL)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "SOLVBTCJUP",
+   "name": "SolvBTC Jupiter (SOLVBTCJUP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOCIALSEND",
+   "name": "Social Send (SOCIALSEND)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NAYUTA",
+   "name": "Nayuta Coin (NAYUTA)",
+   "built_on": "ENQ"
   }
  ],
  "removed": [
   {
-   "symbol": "SWAN",
-   "name": "Black Swan (SWAN)",
-   "built_on": "SOL"
+   "symbol": "NC",
+   "name": "Nayuta Coin (NC)"
   },
   {
-   "symbol": "EDGE",
-   "name": "EDGE (EDGE)"
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
   },
   {
-   "symbol": "J",
-   "name": "JoinCoin (J)"
+   "symbol": "UBC",
+   "name": "Ubcoin (UBC)",
+   "built_on": "ETH"
   },
   {
-   "symbol": "SOLVBTCBBN",
-   "name": "Solv Protocol SolvBTC.BBN (SOLVBTCBBN)",
-   "built_on": "BNB"
+   "symbol": "SEND",
+   "name": "Social Send (SEND)"
+  },
+  {
+   "symbol": "BULLION",
+   "name": "BullionFX (BULLION)"
+  },
+  {
+   "symbol": "KIKI",
+   "name": "Kiki Flaminki (KIKI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BULL",
+   "name": "Bullieverse (BULL)",
+   "built_on": "ETH"
   }
  ]
 }
