@@ -1,130 +1,108 @@
 {
  "added": [
   {
-   "symbol": "CUB",
-   "name": "Cubicfarm Systems Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CUB.V",
-   "instruments": [
-    {
-     "name": "Cubicfarm Systems Corp.",
-     "symbol": "CUB"
-    },
-    {
-     "name": "CubicFarm Systems Corp. db 02Jun2027",
-     "symbol": "CUB.DB"
-    }
-   ]
-  },
-  {
-   "symbol": "MCC",
-   "name": "Morocco Strategic Minerals Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MCC.V",
-   "instruments": [
-    {
-     "name": "Morocco Strategic Minerals Corporation",
-     "symbol": "MCC"
-    }
-   ]
-  },
-  {
-   "symbol": "REVX",
-   "name": "Rev Exploration Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "REVX.V",
-   "instruments": [
-    {
-     "name": "Rev Exploration Corp.",
-     "symbol": "REVX"
-    }
-   ]
-  },
-  {
-   "symbol": "INR",
-   "name": "Infinity Natural Resources, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "INR"
-  },
-  {
-   "symbol": "AAVM",
-   "name": "Alpha Architect Global Factor Equity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AAVM"
-  },
-  {
-   "symbol": "BBNX",
-   "name": "Beta Bionics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BBNX"
-  },
-  {
-   "symbol": "BCLO",
-   "name": "iShares BBB-B CLO Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCLO"
-  },
-  {
-   "symbol": "CSAI",
-   "name": "Cloudastructure, Inc. - Class A Common Stock",
+   "symbol": "HTOO",
+   "name": "Fusion Fuel Green PLC - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSAI"
+   "yahoo_symbol": "HTOO"
   },
   {
-   "symbol": "SVCCU",
-   "name": "Stellar V Capital Corp. - Unit",
+   "symbol": "HTOOW",
+   "name": "Fusion Fuel Green PLC - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HTOOW"
+  },
+  {
+   "symbol": "MAZE",
+   "name": "Maze Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVCCU"
+   "yahoo_symbol": "MAZE"
+  },
+  {
+   "symbol": "MTSR",
+   "name": "Metsera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MTSR"
+  },
+  {
+   "symbol": "PLMK",
+   "name": "Plum Acquisition Corp. IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLMK"
+  },
+  {
+   "symbol": "PLMKW",
+   "name": "Plum Acquisition Corp. IV - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLMKW"
+  },
+  {
+   "symbol": "XIFR",
+   "name": "XPLR Infrastructure, LP Common Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XIFR"
   }
  ],
  "removed": [
   {
-   "symbol": "HYZNW",
-   "name": "Hyzon Motors Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HYZNW"
-  },
-  {
-   "symbol": "HYZN",
-   "name": "Hyzon Motors Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HYZN"
-  },
-  {
-   "symbol": "GIT",
-   "name": "Gitennes Exploration Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GIT.V",
-   "instruments": [
-    {
-     "name": "Gitennes Exploration Inc.",
-     "symbol": "GIT"
-    }
-   ]
-  },
-  {
-   "symbol": "VMOT",
-   "name": "Alpha Architect Value Momentum Trend ETF",
+   "symbol": "MAGS",
+   "name": "Roundhill Magnificent Seven ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VMOT"
+   "yahoo_symbol": "MAGS"
   },
   {
-   "symbol": "GENI",
-   "name": "Genius Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GENI.V",
-   "instruments": [
-    {
-     "name": "Genius Metals Inc.",
-     "symbol": "GENI"
-    }
-   ]
+   "symbol": "BMTX.W",
+   "name": "BM Technologies, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BMTX.W"
   },
   {
-   "symbol": "ENLC",
-   "name": "EnLink Midstream, LLC Common Units representing Limited Partner Interests",
+   "symbol": "HTOO",
+   "name": "Fusion Fuel Green PLC - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HTOO"
+  },
+  {
+   "symbol": "MAGX",
+   "name": "Roundhill Daily 2X Long Magnificent Seven ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAGX"
+  },
+  {
+   "symbol": "HTLFP",
+   "name": "Heartland Financial USA, Inc. - Depositary Shares, each representing a 1/400th ownership interest in a share of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTLFP"
+  },
+  {
+   "symbol": "INSI",
+   "name": "Insight Select Income Fund",
    "exchange": "NYSE",
-   "yahoo_symbol": "ENLC"
+   "yahoo_symbol": "INSI"
+  },
+  {
+   "symbol": "HTLF",
+   "name": "Heartland Financial USA, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTLF"
+  },
+  {
+   "symbol": "NEP",
+   "name": "NextEra Energy Partners, LP Common Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEP"
+  },
+  {
+   "symbol": "HTOOW",
+   "name": "Fusion Fuel Green PLC - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HTOOW"
+  },
+  {
+   "symbol": "BMTX",
+   "name": "BM Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BMTX"
   }
  ]
 }
