@@ -1,108 +1,108 @@
 {
  "added": [
   {
-   "symbol": "HTOO",
-   "name": "Fusion Fuel Green PLC - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HTOO"
-  },
-  {
-   "symbol": "HTOOW",
-   "name": "Fusion Fuel Green PLC - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HTOOW"
-  },
-  {
-   "symbol": "MAZE",
-   "name": "Maze Therapeutics, Inc. - Common Stock",
+   "symbol": "DRDB",
+   "name": "Roman DBDR Acquisition Corp. II - Ordinary shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAZE"
+   "yahoo_symbol": "DRDB"
   },
   {
-   "symbol": "MTSR",
-   "name": "Metsera, Inc. - Common Stock",
+   "symbol": "DRDBW",
+   "name": "Roman DBDR Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DRDBW"
+  },
+  {
+   "symbol": "LYRA",
+   "name": "Lyra Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LYRA"
+  },
+  {
+   "symbol": "MLAC",
+   "name": "Mountain Lake Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAC"
+  },
+  {
+   "symbol": "MLACR",
+   "name": "Mountain Lake Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLACR"
+  },
+  {
+   "symbol": "UMBFP",
+   "name": "UMB Financial Corporation - Depositary Shares, each representing a 1/400th of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MTSR"
+   "yahoo_symbol": "UMBFP"
   },
   {
-   "symbol": "PLMK",
-   "name": "Plum Acquisition Corp. IV - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLMK"
-  },
-  {
-   "symbol": "PLMKW",
-   "name": "Plum Acquisition Corp. IV - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLMKW"
-  },
-  {
-   "symbol": "XIFR",
-   "name": "XPLR Infrastructure, LP Common Units representing limited partner interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "XIFR"
+   "symbol": "ROCK",
+   "name": "Eros Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ROCK.V",
+   "instruments": [
+    {
+     "name": "Eros Resources Corp.",
+     "symbol": "ROCK"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "MAGS",
-   "name": "Roundhill Magnificent Seven ETF",
+   "symbol": "SCY",
+   "name": "Scandium International Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCY.TO",
+   "instruments": [
+    {
+     "name": "Scandium Int'l Mng J",
+     "symbol": "SCY"
+    }
+   ]
+  },
+  {
+   "symbol": "VIRX",
+   "name": "Viracta Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIRX"
+  },
+  {
+   "symbol": "PROC",
+   "name": "Procaps Group, S.A. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAGS"
+   "yahoo_symbol": "PROC"
   },
   {
-   "symbol": "BMTX.W",
-   "name": "BM Technologies, Inc. Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BMTX.W"
-  },
-  {
-   "symbol": "HTOO",
-   "name": "Fusion Fuel Green PLC - Ordinary Shares",
+   "symbol": "PROCW",
+   "name": "Procaps Group, S.A. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HTOO"
+   "yahoo_symbol": "PROCW"
   },
   {
-   "symbol": "MAGX",
-   "name": "Roundhill Daily 2X Long Magnificent Seven ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAGX"
+   "symbol": "ERC",
+   "name": "Eros Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ERC.V",
+   "instruments": [
+    {
+     "name": "Eros Resources Corp.",
+     "symbol": "ERC"
+    }
+   ]
   },
   {
-   "symbol": "HTLFP",
-   "name": "Heartland Financial USA, Inc. - Depositary Shares, each representing a 1/400th ownership interest in a share of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",
+   "symbol": "SCWX",
+   "name": "SecureWorks Corp. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HTLFP"
+   "yahoo_symbol": "SCWX"
   },
   {
-   "symbol": "INSI",
-   "name": "Insight Select Income Fund",
-   "exchange": "NYSE",
-   "yahoo_symbol": "INSI"
-  },
-  {
-   "symbol": "HTLF",
-   "name": "Heartland Financial USA, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HTLF"
-  },
-  {
-   "symbol": "NEP",
-   "name": "NextEra Energy Partners, LP Common Units representing limited partner interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NEP"
-  },
-  {
-   "symbol": "HTOOW",
-   "name": "Fusion Fuel Green PLC - Warrant",
+   "symbol": "LYRA",
+   "name": "Lyra Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HTOOW"
-  },
-  {
-   "symbol": "BMTX",
-   "name": "BM Technologies, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BMTX"
+   "yahoo_symbol": "LYRA"
   }
  ]
 }
