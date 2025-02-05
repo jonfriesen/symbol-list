@@ -1,5 +1,5 @@
 {
- "date": "2025-02-04",
+ "date": "2025-02-05",
  "data": [
   {
    "symbol": "AACG",
@@ -2181,7 +2181,7 @@
   },
   {
    "symbol": "ATGL",
-   "name": "Alpha Technology Group Limited - Ordinary Shares",
+   "name": "Alpha Technology Group Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ATGL"
   },
@@ -2880,12 +2880,6 @@
    "name": "BayCom Corp - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BCML"
-  },
-  {
-   "symbol": "BCOV",
-   "name": "Brightcove Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BCOV"
   },
   {
    "symbol": "BCOW",
@@ -5092,7 +5086,7 @@
   {
    "symbol": "CERO",
    "name": "CERo Therapeutics Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CERO"
   },
   {
@@ -28946,12 +28940,6 @@
    "yahoo_symbol": "ADX"
   },
   {
-   "symbol": "AE",
-   "name": "Adams Resources \u0026 Energy, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "AE"
-  },
-  {
    "symbol": "AEE",
    "name": "Ameren Corporation Common Stock",
    "exchange": "NYSE",
@@ -40094,6 +40082,12 @@
    "yahoo_symbol": "MRK"
   },
   {
+   "symbol": "MRP.V",
+   "name": "Millrose Properties, Inc. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRP.V"
+  },
+  {
    "symbol": "MRT",
    "name": "Marti Technologies, Inc. Class A Ordinary Shares",
    "exchange": "NYSE MKT",
@@ -43392,18 +43386,6 @@
    "name": "RH Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RH"
-  },
-  {
-   "symbol": "RHE",
-   "name": "Regional Health Properties, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "RHE"
-  },
-  {
-   "symbol": "RHE$A",
-   "name": "Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "RHE$A"
   },
   {
    "symbol": "RHI",
@@ -54160,18 +54142,6 @@
    ]
   },
   {
-   "symbol": "GETT",
-   "name": "G.E.T.T. Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GETT.V",
-   "instruments": [
-    {
-     "name": "G.E.T.T. Gold Inc.",
-     "symbol": "GETT"
-    }
-   ]
-  },
-  {
    "symbol": "GTM.P",
    "name": "G2M Cap Corp.",
    "exchange": "TSXV",
@@ -54434,7 +54404,7 @@
      "symbol": "GIGA"
     },
     {
-     "name": "Giga Metals Corporation wt 08FEB2025",
+     "name": "Giga Metals Corporation wt 10FEB2025",
      "symbol": "GIGA.WT.A"
     }
    ]
@@ -62584,6 +62554,18 @@
    ]
   },
   {
+   "symbol": "SCY",
+   "name": "Scandium International Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCY.V",
+   "instruments": [
+    {
+     "name": "Scandium International Mining Corp.",
+     "symbol": "SCY"
+    }
+   ]
+  },
+  {
    "symbol": "SGN",
    "name": "Scorpio Gold Corporation",
    "exchange": "TSXV",
@@ -67096,6 +67078,18 @@
    ]
   },
   {
+   "symbol": "GOOG",
+   "name": "Alphabet CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "GOOG.TO",
+   "instruments": [
+    {
+     "name": "Alphabet CDR CAD HD",
+     "symbol": "GOOG"
+    }
+   ]
+  },
+  {
    "symbol": "ATCU",
    "name": "Alta Copper Corp.",
    "exchange": "TSX",
@@ -67152,6 +67146,18 @@
     {
      "name": "Altus Group Limited",
      "symbol": "AIF"
+    }
+   ]
+  },
+  {
+   "symbol": "AMZN",
+   "name": "Amazon.com CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMZN.TO",
+   "instruments": [
+    {
+     "name": "Amazon.comCDR CAD HD",
+     "symbol": "AMZN"
     }
    ]
   },
@@ -67260,6 +67266,18 @@
     {
      "name": "Appili Therapeutcs J",
      "symbol": "APLI"
+    }
+   ]
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "AAPL.TO",
+   "instruments": [
+    {
+     "name": "Apple CDR CAD HD",
+     "symbol": "AAPL"
     }
    ]
   },
@@ -67892,6 +67910,18 @@
     {
      "name": "Bengal Energy Ltd. J",
      "symbol": "BNG"
+    }
+   ]
+  },
+  {
+   "symbol": "BRK",
+   "name": "Berkshire Hathaway CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BRK.TO",
+   "instruments": [
+    {
+     "name": "Berk Hath CDR CAD HD",
+     "symbol": "BRK"
     }
    ]
   },
@@ -69473,7 +69503,7 @@
   },
   {
    "symbol": "ESGA",
-   "name": "BMO MSCI Canada ESG Leaders Index ETF",
+   "name": "BMO MSCI Canada Selection Equity Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "ESGA.TO",
    "instruments": [
@@ -69497,25 +69527,13 @@
   },
   {
    "symbol": "ZCH",
-   "name": "BMO MSCI China ESG Leaders Index ETF",
+   "name": "BMO MSCI China Selection Equity Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "ZCH.TO",
    "instruments": [
     {
      "name": "BMO MSCI ChinaESGLdr",
      "symbol": "ZCH"
-    }
-   ]
-  },
-  {
-   "symbol": "ESGE",
-   "name": "BMO MSCI EAFE ESG Leaders Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ESGE.TO",
-   "instruments": [
-    {
-     "name": "BMO MSCI EAFE ESGLdr",
-     "symbol": "ESGE"
     }
    ]
   },
@@ -69556,6 +69574,18 @@
    ]
   },
   {
+   "symbol": "ESGE",
+   "name": "BMO MSCI EAFE Selection Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ESGE.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI EAFE ESGLdr",
+     "symbol": "ESGE"
+    }
+   ]
+  },
+  {
    "symbol": "ZEM",
    "name": "BMO MSCI Emerging Markets Index ETF",
    "exchange": "TSX",
@@ -69581,7 +69611,7 @@
   },
   {
    "symbol": "ESGG",
-   "name": "BMO MSCI Global ESG Leaders Index ETF",
+   "name": "BMO MSCI Global Selection Equity Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "ESGG.TO",
    "instruments": [
@@ -69593,29 +69623,13 @@
   },
   {
    "symbol": "ZID",
-   "name": "BMO MSCI India ESG Leaders Index ETF",
+   "name": "BMO MSCI India Selection Equity Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "ZID.TO",
    "instruments": [
     {
      "name": "BMO MSCI IndiaESGLdr",
      "symbol": "ZID"
-    }
-   ]
-  },
-  {
-   "symbol": "ESGY",
-   "name": "BMO MSCI USA ESG Leaders Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ESGY.TO",
-   "instruments": [
-    {
-     "name": "BMO MSCI US ESG Ldr",
-     "symbol": "ESGY"
-    },
-    {
-     "name": "BMO MSCI US ESGLdrHg",
-     "symbol": "ESGY.F"
     }
    ]
   },
@@ -69636,6 +69650,22 @@
     {
      "name": "BMO MSCI USHiQtyETFU",
      "symbol": "ZUQ.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ESGY",
+   "name": "BMO MSCI USA Selection Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ESGY.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI US ESG Ldr",
+     "symbol": "ESGY"
+    },
+    {
+     "name": "BMO MSCI US ESGLdrHg",
+     "symbol": "ESGY.F"
     }
    ]
   },
@@ -71372,15 +71402,11 @@
    ]
   },
   {
-   "symbol": "CWB",
+   "symbol": "CWB.PR.B",
    "name": "Canadian Western Bank",
    "exchange": "TSX",
-   "yahoo_symbol": "CWB.TO",
+   "yahoo_symbol": "CWB.PR.B.TO",
    "instruments": [
-    {
-     "name": "Cdn Wstrn Bank",
-     "symbol": "CWB"
-    },
     {
      "name": "Cdn Wstrn Bk Sr 5 Pr",
      "symbol": "CWB.PR.B"
@@ -73560,6 +73586,18 @@
     {
      "name": "COSCIENS Biophrm Inc",
      "symbol": "CSCI"
+    }
+   ]
+  },
+  {
+   "symbol": "COST",
+   "name": "Costco CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "COST.TO",
+   "instruments": [
+    {
+     "name": "Costco CDR CAD HD",
+     "symbol": "COST"
     }
    ]
   },
@@ -75826,10 +75864,6 @@
      "symbol": "EXRO"
     },
     {
-     "name": "Exro Tech Inc. J Wt",
-     "symbol": "EXRO.WT"
-    },
-    {
      "name": "Exro Tech Inc Wts",
      "symbol": "EXRO.WT.A"
     }
@@ -76768,18 +76802,6 @@
     {
      "name": "Foran Mining Corp J",
      "symbol": "FOM"
-    }
-   ]
-  },
-  {
-   "symbol": "FEME",
-   "name": "Forstrong Emerging Markets Equity ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FEME.TO",
-   "instruments": [
-    {
-     "name": "Forstrong EmrgMkt Eq",
-     "symbol": "FEME"
     }
    ]
   },
@@ -80546,7 +80568,7 @@
    "yahoo_symbol": "PFL.TO",
    "instruments": [
     {
-     "name": "Invesco 1-3YrLadFltg",
+     "name": "Invesco CdnGo Fl ETF",
      "symbol": "PFL"
     }
    ]
@@ -84564,6 +84586,18 @@
    ]
   },
   {
+   "symbol": "META",
+   "name": "Meta CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "META.TO",
+   "instruments": [
+    {
+     "name": "Meta CDR CAD Hedged",
+     "symbol": "META"
+    }
+   ]
+  },
+  {
    "symbol": "MX",
    "name": "Methanex Corporation",
    "exchange": "TSX",
@@ -84596,6 +84630,18 @@
     {
      "name": "Microbix Biosystms J",
      "symbol": "MBX"
+    }
+   ]
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSFT.TO",
+   "instruments": [
+    {
+     "name": "Microsoft CDR CAD HD",
+     "symbol": "MSFT"
     }
    ]
   },
@@ -85416,6 +85462,18 @@
     {
      "name": "NuVista Energy Ltd.",
      "symbol": "NVA"
+    }
+   ]
+  },
+  {
+   "symbol": "NVDA",
+   "name": "Nvidia CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVDA.TO",
+   "instruments": [
+    {
+     "name": "Nvidia CDR CAD HD",
+     "symbol": "NVDA"
     }
    ]
   },
@@ -89832,6 +89890,18 @@
     {
      "name": "TerraVest Industries",
      "symbol": "TVK"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLA",
+   "name": "Tesla CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLA.TO",
+   "instruments": [
+    {
+     "name": "Tesla CDR CAD HD",
+     "symbol": "TSLA"
     }
    ]
   },

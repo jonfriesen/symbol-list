@@ -362,7 +362,7 @@ ATCOL,Atlas Corp. - 7.125% Notes due 2027,NASDAQ Global MarketSM,ATCOL
 ATEC,"Alphatec Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ATEC
 ATER,"Aterian, Inc. - Common Stock",NASDAQ Capital Market,ATER
 ATEX,Anterix Inc. - Common Stock,NASDAQ Capital Market,ATEX
-ATGL,Alpha Technology Group Limited - Ordinary Shares,NASDAQ Capital Market,ATGL
+ATGL,Alpha Technology Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,ATGL
 ATHA,"Athira Pharma, Inc. - Common Stock",NASDAQ Global Select MarketSM,ATHA
 ATHE,Alterity Therapeutics Limited - American Depositary Shares,NASDAQ Capital Market,ATHE
 ATLC,Atlanticus Holdings Corporation - Common Stock,NASDAQ Global Select MarketSM,ATLC
@@ -479,7 +479,6 @@ BCGWW,"Binah Capital Group, Inc. - Warrants",NASDAQ Capital Market,BCGWW
 BCLI,Brainstorm Cell Therapeutics Inc. - Common Stock,NASDAQ Capital Market,BCLI
 BCLO,iShares BBB-B CLO Active ETF,NASDAQ Global MarketSM,BCLO
 BCML,BayCom Corp - Common Stock,NASDAQ Global Select MarketSM,BCML
-BCOV,Brightcove Inc. - Common Stock,NASDAQ Global Select MarketSM,BCOV
 BCOW,"1895 Bancorp of Wisconsin, Inc. - Common Stock",NASDAQ Capital Market,BCOW
 BCPC,Balchem Corporation - Common Stock,NASDAQ Global Select MarketSM,BCPC
 BCRX,"BioCryst Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,BCRX
@@ -847,7 +846,7 @@ CENX,Century Aluminum Company - Common Stock,NASDAQ Global Select MarketSM,CENX
 CEP,"Cantor Equity Partners, Inc. - Class A ordinary shares",NASDAQ Global MarketSM,CEP
 CEPI,REX Crypto Equity Premium Income ETF,NASDAQ Global MarketSM,CEPI
 CEPO,"Cantor Equity Partners I, Inc. - Class A Ordinary Shares",NASDAQ Global MarketSM,CEPO
-CERO,"CERo Therapeutics Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,CERO
+CERO,"CERo Therapeutics Holdings, Inc. - Common Stock",NASDAQ Capital Market,CERO
 CEROW,"CERo Therapeutics Holdings, Inc. - Warrants",NASDAQ Capital Market,CEROW
 CERS,Cerus Corporation - Common Stock,NASDAQ Global MarketSM,CERS
 CERT,"Certara, Inc. - Common Stock",NASDAQ Global Select MarketSM,CERT
@@ -4823,7 +4822,6 @@ ADM,Archer-Daniels-Midland Company Common Stock,NYSE,ADM
 ADNT,Adient plc Ordinary Shares ,NYSE,ADNT
 ADT,ADT Inc. Common Stock,NYSE,ADT
 ADX,Adams Diversified Equity Fund Inc.,NYSE,ADX
-AE,"Adams Resources & Energy, Inc. Common Stock",NYSE MKT,AE
 AEE,Ameren Corporation Common Stock,NYSE,AEE
 AEF,"abrdn Emerging Markets Equity Income Fund, Inc. Common Stock",NYSE MKT,AEF
 AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,NYSE,AEFC
@@ -6681,6 +6679,7 @@ MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock",NYSE,MQT
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock",NYSE,MQY
 MRC,MRC Global Inc. Common Stock,NYSE,MRC
 MRK,"Merck & Company, Inc. Common Stock (new)",NYSE,MRK
+MRP.V,"Millrose Properties, Inc. Class A Common Stock When-Issued",NYSE,MRP.V
 MRT,"Marti Technologies, Inc. Class A Ordinary Shares",NYSE MKT,MRT
 MS,Morgan Stanley Common Stock,NYSE,MS
 MS$A,Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A,NYSE,MS$A
@@ -7231,8 +7230,6 @@ RGA,"Reinsurance Group of America, Incorporated Common Stock",NYSE,RGA
 RGR,"Sturm, Ruger & Company, Inc. Common Stock",NYSE,RGR
 RGT,"Royce Global Trust, Inc. Common Stock",NYSE,RGT
 RH,RH Common Stock,NYSE,RH
-RHE,"Regional Health Properties, Inc. Common Stock",NYSE MKT,RHE
-RHE$A,"Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Preferred Stock",NYSE MKT,RHE$A
 RHI,Robert Half Inc. Common Stock,NYSE,RHI
 RHP,"Ryman Hospitality Properties, Inc. (REIT)",NYSE,RHP
 RIG,Transocean Ltd (Switzerland) Common Stock,NYSE,RIG
@@ -8492,7 +8489,6 @@ FCLI,Full Circle Lithium Corp.,TSXV,FCLI.V,Full Circle Lithium Corp.,FCLI
 FMM,Full Metal Minerals Ltd.,TSXV,FMM.V,Full Metal Minerals Ltd.,FMM
 FUSE,Fuse Battery Metals Inc.,TSXV,FUSE.V,Fuse Battery Metals Inc.,FUSE
 FTUR,Future Fuels Inc.,TSXV,FTUR.V,Future Fuels Inc.,FTUR
-GETT,G.E.T.T. Gold Inc.,TSXV,GETT.V,G.E.T.T. Gold Inc.,GETT
 GTM.P,G2M Cap Corp.,TSXV,GTM.P.V,G2M Cap Corp.,GTM.P
 GAB,Gabo Mining Ltd.,TSXV,GAB.V,Gabo Mining Ltd.,GAB
 GBU,Gabriel Resources Ltd.,TSXV,GBU.V,Gabriel Resources Ltd.,GBU
@@ -8514,7 +8510,7 @@ GTC,Getty Copper Inc.,TSXV,GTC.V,Getty Copper Inc.,GTC
 GFG,GFG Resources Inc.,TSXV,GFG.V,GFG Resources Inc.,GFG
 GGL,GGL Resources Corp.,TSXV,GGL.V,GGL Resources Corp.,GGL
 GGX,GGX Gold Corp.,TSXV,GGX.V,GGX Gold Corp.,GGX
-GIGA,Giga Metals Corporation,TSXV,GIGA.V,Giga Metals Corporation,GIGA,Giga Metals Corporation wt 08FEB2025,GIGA.WT.A
+GIGA,Giga Metals Corporation,TSXV,GIGA.V,Giga Metals Corporation,GIGA,Giga Metals Corporation wt 10FEB2025,GIGA.WT.A
 GOK,GINSMS Inc.,TSXV,GOK.V,GINSMS Inc.,GOK
 EMM,Giyani Metals Corp.,TSXV,EMM.V,Giyani Metals Corp.,EMM
 GLI,Glacier Lake Resources Inc.,TSXV,GLI.V,Glacier Lake Resources Inc.,GLI
@@ -9184,6 +9180,7 @@ SATO,SATO Technologies Corp.,TSXV,SATO.V,SATO Technologies Corp.,SATO
 SAC.P,Savanna Capital Corp.,TSXV,SAC.P.V,Savanna Capital Corp.,SAC.P
 SAWC.P,Sayward Capital Corp.,TSXV,SAWC.P.V,Sayward Capital Corp.,SAWC.P
 SCD,Scandium Canada Ltd.,TSXV,SCD.V,Scandium Canada Ltd.,SCD
+SCY,Scandium International Mining Corp.,TSXV,SCY.V,Scandium International Mining Corp.,SCY
 SGN,Scorpio Gold Corporation,TSXV,SGN.V,Scorpio Gold Corporation,SGN
 SCOT,Scottie Resources Corp.,TSXV,SCOT.V,Scottie Resources Corp.,SCOT
 SLX.P,Searchlight Innovations Inc.,TSXV,SLX.P.V,Searchlight Innovations Inc.,SLX.P
@@ -9549,10 +9546,12 @@ AAUC,Allied Gold Corporation,TSX,AAUC.TO,Allied Gold Corp,AAUC,Allied Gld Crp Db
 AP.UN,Allied Properties Real Estate Investment Trust,TSX,AP.UN.TO,Allied Prop. REIT Un,AP.UN
 AMM,Almaden Minerals Ltd.,TSX,AMM.TO,Almaden Minerals,AMM
 AII,Almonty Industries Inc.,TSX,AII.TO,Almonty Industries J,AII
+GOOG,Alphabet CDR (CAD Hedged),TSX,GOOG.TO,Alphabet CDR CAD HD,GOOG
 ATCU,Alta Copper Corp.,TSX,ATCU.TO,Alta Copper Corp. J,ATCU
 ALA,AltaGas Ltd.,TSX,ALA.TO,AltaGas Ltd.,ALA,AltaGas Ltd Sr A Pr,ALA.PR.A,AltaGas Ltd Sr B Pr,ALA.PR.B,AltaGas Ltd Sr G Pr,ALA.PR.G
 ALS,Altius Minerals Corporation,TSX,ALS.TO,Altius Minerals Corp,ALS
 AIF,Altus Group Limited,TSX,AIF.TO,Altus Group Limited,AIF
+AMZN,Amazon.com CDR (CAD Hedged),TSX,AMZN.TO,Amazon.comCDR CAD HD,AMZN
 HOT.DB.V,American Hotel Income Properties REIT LP,TSX,HOT.DB.V.TO,American Htl 6%Db US,HOT.DB.V,American Hotl Un USF,HOT.U,American Hotl LP Un,HOT.UN
 USA,Americas Gold and Silver Corporation,TSX,USA.TO,Americas Gold Slvr J,USA
 ARG,Amerigo Resources Ltd.,TSX,ARG.TO,Amerigo Resources J,ARG
@@ -9561,6 +9560,7 @@ APM,Andean Precious Metals Corp.,TSX,APM.TO,Andean Prec Meta Cor,APM
 AND,Andlauer Healthcare Group Inc.,TSX,AND.TO,AndlauerHlthcr GrpSV,AND
 ADW.A,Andrew Peller Limited/Andrew Peller Limitee,TSX,ADW.A.TO,Andrew Peller A NV,ADW.A,Andrew Peller Ltd. B,ADW.B
 APLI,Appili Therapeutics Inc.,TSX,APLI.TO,Appili Therapeutcs J,APLI
+AAPL,Apple CDR (CAD Hedged),TSX,AAPL.TO,Apple CDR CAD HD,AAPL
 APS,Aptose Biosciences Inc.,TSX,APS.TO,Aptose Biosciences,APS
 ARX,ARC Resources Ltd.,TSX,ARX.TO,ARC Resources Ltd.,ARX
 ARIS,Aris Mining Corporation,TSX,ARIS.TO,Aris Mng Corp.,ARIS,Aris Mng Corp A Wt,ARIS.WT.A
@@ -9603,6 +9603,7 @@ BCE,BCE Inc.,TSX,BCE.TO,BCE Inc.,BCE,BCE Inc. Pr Ser AA,BCE.PR.A,BCE Inc. Pr Ser
 BEK.B,Becker Milk Company Ltd. (The),TSX,BEK.B.TO,Becker Milk Cl B NV,BEK.B
 BSX,Belo Sun Mining Corp.,TSX,BSX.TO,Belo Sun Mining J,BSX
 BNG,Bengal Energy Ltd.,TSX,BNG.TO,Bengal Energy Ltd. J,BNG
+BRK,Berkshire Hathaway CDR (CAD Hedged),TSX,BRK.TO,Berk Hath CDR CAD HD,BRK
 GDXD,BetaPro Canadian Gold Miners -2x Daily Bear ETF,TSX,GDXD.TO,BetaProCdnGldMn-2xBr,GDXD
 GDXU,BetaPro Canadian Gold Miners 2x Daily Bull ETF,TSX,GDXU.TO,BetaProCdnGldMnr2xBl,GDXU
 HOD,BetaPro Crude Oil Inverse Leveraged Daily Bear ETF,TSX,HOD.TO,BetaPro CrdOilInvrBr,HOD
@@ -9729,19 +9730,19 @@ ZMMK,BMO Money Market Fund,TSX,ZMMK.TO,BMO MoneyMkt Fnd Un,ZMMK
 ZMI,BMO Monthly Income ETF,TSX,ZMI.TO,BMO Monthly Incm Un,ZMI,BMO Monthly Inc ETFU,ZMI.U
 ZGRN,BMO MSCI ACWI Paris Aligned Climate Equity Index ETF,TSX,ZGRN.TO,BMO ACWI ParisClmtEq,ZGRN
 ZGQ,BMO MSCI All Country World High Quality Index ETF,TSX,ZGQ.TO,BMO MSCI AllCntryWrl,ZGQ
-ESGA,BMO MSCI Canada ESG Leaders Index ETF,TSX,ESGA.TO,BMO MSCI CA Lead ETF,ESGA
+ESGA,BMO MSCI Canada Selection Equity Index ETF,TSX,ESGA.TO,BMO MSCI CA Lead ETF,ESGA
 ZVC,BMO MSCI Canada Value Index ETF,TSX,ZVC.TO,BMO MSCI CdaVal ETF,ZVC
-ZCH,BMO MSCI China ESG Leaders Index ETF,TSX,ZCH.TO,BMO MSCI ChinaESGLdr,ZCH
-ESGE,BMO MSCI EAFE ESG Leaders Index ETF,TSX,ESGE.TO,BMO MSCI EAFE ESGLdr,ESGE
+ZCH,BMO MSCI China Selection Equity Index ETF,TSX,ZCH.TO,BMO MSCI ChinaESGLdr,ZCH
 ZDM,BMO MSCI EAFE Hedged to CAD Index ETF,TSX,ZDM.TO,BMO MSCI EAFE HegCAD,ZDM
 ZIQ,BMO MSCI EAFE High Quality Index ETF,TSX,ZIQ.TO,Bmo Msc Eafe Hqi ETF,ZIQ
 ZEA,BMO MSCI EAFE Index ETF,TSX,ZEA.TO,BMO MSCI EAFE Idx Un,ZEA
+ESGE,BMO MSCI EAFE Selection Equity Index ETF,TSX,ESGE.TO,BMO MSCI EAFE ESGLdr,ESGE
 ZEM,BMO MSCI Emerging Markets Index ETF,TSX,ZEM.TO,BMO MSCI EmrgMkts Un,ZEM
 ZEQ,BMO MSCI Europe High Quality Hedged to CAD Index ETF,TSX,ZEQ.TO,BMO MSCI EU HiQltyUn,ZEQ
-ESGG,BMO MSCI Global ESG Leaders Index ETF,TSX,ESGG.TO,BMO MSCI Glb ESG Ldr,ESGG
-ZID,BMO MSCI India ESG Leaders Index ETF,TSX,ZID.TO,BMO MSCI IndiaESGLdr,ZID
-ESGY,BMO MSCI USA ESG Leaders Index ETF,TSX,ESGY.TO,BMO MSCI US ESG Ldr,ESGY,BMO MSCI US ESGLdrHg,ESGY.F
+ESGG,BMO MSCI Global Selection Equity Index ETF,TSX,ESGG.TO,BMO MSCI Glb ESG Ldr,ESGG
+ZID,BMO MSCI India Selection Equity Index ETF,TSX,ZID.TO,BMO MSCI IndiaESGLdr,ZID
 ZUQ,BMO MSCI USA High Quality Index ETF,TSX,ZUQ.TO,BMO MSCI US HiQltyUn,ZUQ,BMO MSCIUSHiQltyETFH,ZUQ.F,BMO MSCI USHiQtyETFU,ZUQ.U
+ESGY,BMO MSCI USA Selection Equity Index ETF,TSX,ESGY.TO,BMO MSCI US ESG Ldr,ESGY,BMO MSCI US ESGLdrHg,ESGY.F
 ZVU,BMO MSCI USA Value Index ETF,TSX,ZVU.TO,BMO MSCI USAValue Un,ZVU
 ZQQ,BMO Nasdaq 100 Equity Hedged To CAD Index ETF,TSX,ZQQ.TO,BMO Nasdaq EqHed ETF,ZQQ
 ZNQ,BMO Nasdaq 100 Equity Index ETF,TSX,ZNQ.TO,BMO Nasdaq100 Eq UN,ZNQ,BMO Nasdaq100 EqETFU,ZNQ.U
@@ -9852,7 +9853,7 @@ CNQ,Canadian Natural Resources Limited,TSX,CNQ.TO,Canadian Natural Res,CNQ
 CP,Canadian Pacific Kansas City Limited,TSX,CP.TO,Cdn Pacific Kansas,CP
 CTC,"Canadian Tire Corporation, Limited",TSX,CTC.TO,Canadian Tire Corp,CTC,Canadian Tire A NV,CTC.A
 CU,Canadian Utilities Limited,TSX,CU.TO,Cdn Utilities A NV,CU,Cdn Util 2nd Pr Y,CU.PR.C,Cdn Util 2nd Pr AA,CU.PR.D,Cdn Util 2nd Pr BB,CU.PR.E,Cdn Util 2nd Pr CC,CU.PR.F,Cdn Util 2nd Pr DD,CU.PR.G,Cdn Util 2nd Pr EE,CU.PR.H,Cdn Util 2nd Pr FF,CU.PR.I,Cdn Util 2nd Pr HH,CU.PR.J
-CWB,Canadian Western Bank,TSX,CWB.TO,Cdn Wstrn Bank,CWB,Cdn Wstrn Bk Sr 5 Pr,CWB.PR.B,Cdn Wstrn Bk Sr 9 Pr,CWB.PR.D
+CWB.PR.B,Canadian Western Bank,TSX,CWB.PR.B.TO,Cdn Wstrn Bk Sr 5 Pr,CWB.PR.B,Cdn Wstrn Bk Sr 9 Pr,CWB.PR.D
 CCM,Canagold Resources Ltd.,TSX,CCM.TO,Canagold Res Ltd. J,CCM
 CFP,Canfor Corporation,TSX,CFP.TO,Canfor Corporation,CFP
 CFX,Canfor Pulp Products Inc.,TSX,CFX.TO,Canfor Pulp Products,CFX
@@ -10011,6 +10012,7 @@ CSW.A,Corby Spirit and Wine Limited,TSX,CSW.A.TO,Corby Spirit&Wine A,CSW.A,Corby
 RAAA,Corton Enhanced Income Fund,TSX,RAAA.TO,Corton EnhInc FndETF,RAAA
 CJR.B,Corus Entertainment Inc.,TSX,CJR.B.TO,Corus Entertnmnt B,CJR.B
 CSCI,COSCIENS Biopharma Inc.,TSX,CSCI.TO,COSCIENS Biophrm Inc,CSCI
+COST,Costco CDR (CAD Hedged),TSX,COST.TO,Costco CDR CAD HD,COST
 CVO,Coveo Solutions Inc.,TSX,CVO.TO,Coveo Solution J SV,CVO
 CTX,Crescita Therapeutics Inc.,TSX,CTX.TO,Crescita Therpeutc J,CTX
 CRR.UN,Crombie Real Estate Investment Trust,TSX,CRR.UN.TO,Crombie Real Est Un,CRR.UN
@@ -10169,7 +10171,7 @@ EXN,Excellon Resources Inc.,TSX,EXN.TO,Excellon Resources J,EXN
 EIF,Exchange Income Corporation,TSX,EIF.TO,Exchange Income Corp,EIF,Exchange Incm 5.75Db,EIF.DB.K,Exchnge Incm5.25L Db,EIF.DB.L,ExchngIncm 5.25%M Db,EIF.DB.M
 XTC,Exco Technologies Limited,TSX,XTC.TO,Exco Technologies,XTC
 EGIF,Exemplar Growth and Income Fund,TSX,EGIF.TO,Exemplar GrwthIncmUn,EGIF
-EXRO,Exro Technologies Inc.,TSX,EXRO.TO,Exro Tech Inc. J,EXRO,Exro Tech Inc. J Wt,EXRO.WT,Exro Tech Inc Wts,EXRO.WT.A
+EXRO,Exro Technologies Inc.,TSX,EXRO.TO,Exro Tech Inc. J,EXRO,Exro Tech Inc Wts,EXRO.WT.A
 EXE,Extendicare Inc.,TSX,EXE.TO,Extendicare Inc.,EXE
 FFH,Fairfax Financial Holdings Limited,TSX,FFH.TO,Fairfax Financial SV,FFH,Fairfax Fin Ser E Pr,FFH.PR.E,Fairfax Fin Ser F Pr,FFH.PR.F,Fairfax Fin Ser G Pr,FFH.PR.G,Fairfax Fin Ser H Pr,FFH.PR.H,Fairfax Fin Ser I Pr,FFH.PR.I,Fairfax Fin Ser J Pr,FFH.PR.J,Fairfax Fin Ser K Pr,FFH.PR.K,Fairfax Fin Ser M Pr,FFH.PR.M,Fairfax Fin SV USF,FFH.U
 FIH.U,Fairfax India Holdings Corporation,TSX,FIH.U.TO,Fairfax India SV USF,FIH.U
@@ -10237,7 +10239,6 @@ FLNT,FLINT Corp.,TSX,FLNT.TO,FLINT Corp.,FLNT
 FLOW,Flow Beverage Corp.,TSX,FLOW.TO,Flow Beverage J SV,FLOW
 FAR,Foraco International SA,TSX,FAR.TO,Foraco Int'l SA,FAR
 FOM,Foran Mining Corporation,TSX,FOM.TO,Foran Mining Corp J,FOM
-FEME,Forstrong Emerging Markets Equity ETF,TSX,FEME.TO,Forstrong EmrgMkt Eq,FEME
 FGBL,Forstrong Global Balanced ETF,TSX,FGBL.TO,Forstrong Gl Bl ETF,FGBL
 FINE,Forstrong Global Ex-North America Equity ETF,TSX,FINE.TO,Forstrng GlbEx-NA Eq,FINE
 FGRW,Forstrong Global Growth ETF,TSX,FGRW.TO,Forstrong GlbGrowth,FGRW
@@ -10523,7 +10524,7 @@ IIP.UN,InterRent Real Estate Investment Trust,TSX,IIP.UN.TO,InterRent REIT J Un,
 PSB,Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF,TSX,PSB.TO,Invesco1-5CorpBnd Un,PSB
 ICCB,Invesco Canadian Core Plus Bond ETF,TSX,ICCB.TO,InvCad CrePl BndETF ,ICCB
 PDC,Invesco Canadian Dividend Index ETF,TSX,PDC.TO,Invesco Cdn Div Un,PDC
-PFL,Invesco Canadian Government Floating Rate Index ETF,TSX,PFL.TO,Invesco 1-3YrLadFltg,PFL
+PFL,Invesco Canadian Government Floating Rate Index ETF,TSX,PFL.TO,Invesco CdnGo Fl ETF,PFL
 BESG,Invesco ESG Canadian Core Plus Bond ETF,TSX,BESG.TO,InvescoESG CA CorBnd,BESG
 IWBE,Invesco ESG Global Bond ETF,TSX,IWBE.TO,InvescoESG GlbBnd CA,IWBE
 QQCE,Invesco ESG NASDAQ 100 Index ETF,TSX,QQCE.TO,Invesco NSDQ100IDXCA,QQCE,InvescNSDQ100IdxCAHG,QQCE.F
@@ -10834,9 +10835,11 @@ MRD,Melcor Developments Ltd.,TSX,MRD.TO,Melcor Developments,MRD
 MR.UN,Melcor Real Estate Investment Trust,TSX,MR.UN.TO,Melcor REIT Un,MR.UN
 SPAC.RT.U,Mercer Park Opportunities Corp.,TSX,SPAC.RT.U.TO,Mercer PrkOpp Corp R,SPAC.RT.U,Mercer PrkOpp Corp A,SPAC.U,Mercer PrkOpp Corp W,SPAC.WT.U
 MNO,Meridian Mining UK Societas,TSX,MNO.TO,Meridian MinUK Soc J,MNO
+META,Meta CDR (CAD Hedged),TSX,META.TO,Meta CDR CAD Hedged,META
 MX,Methanex Corporation,TSX,MX.TO,Methanex Corporation,MX
 MRU,Metro Inc.,TSX,MRU.TO,Metro Inc.,MRU
 MBX,Microbix Biosystems Inc.,TSX,MBX.TO,Microbix Biosystms J,MBX
+MSFT,Microsoft CDR (CAD Hedged),TSX,MSFT.TO,Microsoft CDR CAD HD,MSFT
 MHCD,Middlefield Healthcare Dividend ETF,TSX,MHCD.TO,Middlefld Hlthcr Div,MHCD
 MINN,Middlefield Innovation Dividend ETF,TSX,MINN.TO,Middlefld Innov Div,MINN
 MREL,Middlefield Real Estate Dividend ETF,TSX,MREL.TO,Middlefld Rl Est Div,MREL
@@ -10899,6 +10902,7 @@ NVO,Novo Resources Corp.,TSX,NVO.TO,Novo Resources J,NVO
 NUMI,Numinus Wellness Inc.,TSX,NUMI.TO,Numinus Wellness J,NUMI
 NTR,Nutrien Ltd.,TSX,NTR.TO,Nutrien Ltd.,NTR
 NVA,NuVista Energy Ltd.,TSX,NVA.TO,NuVista Energy Ltd.,NVA
+NVDA,Nvidia CDR (CAD Hedged),TSX,NVDA.TO,Nvidia CDR CAD HD,NVDA
 SFD,NXT Energy Solutions Inc.,TSX,SFD.TO,NXT Energy Solutn J,SFD
 OBE,Obsidian Energy Ltd.,TSX,OBE.TO,Obsidian Energy Ltd,OBE
 OGC,OceanaGold Corporation,TSX,OGC.TO,OceanaGold Corp.,OGC
@@ -11222,6 +11226,7 @@ TNZ,Tenaz Energy Corp.,TSX,TNZ.TO,Tenaz Energy Corp.,TNZ
 TGO,TeraGo Inc.,TSX,TGO.TO,TeraGo Inc.,TGO
 TSND,TerrAscend Corp.,TSX,TSND.TO,TerrAscend Corp. J,TSND
 TVK,TerraVest Industries Inc.,TSX,TVK.TO,TerraVest Industries,TVK
+TSLA,Tesla CDR (CAD Hedged),TSX,TSLA.TO,Tesla CDR CAD HD,TSLA
 TFII,TFI International Inc.,TSX,TFII.TO,TFI International ,TFII
 QETH.U,The Ether Fund,TSX,QETH.U.TO,The EtherFnd A Un US,QETH.U,The EtherFnd A C$ Un,QETH.UN
 TH,Theratechnologies Inc.,TSX,TH.TO,Theratechnologies,TH
