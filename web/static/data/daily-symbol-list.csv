@@ -543,7 +543,7 @@ GTC,Getty Copper Inc.,TSXV,GTC.V,Getty Copper Inc.,GTC
 GFG,GFG Resources Inc.,TSXV,GFG.V,GFG Resources Inc.,GFG
 GGL,GGL Resources Corp.,TSXV,GGL.V,GGL Resources Corp.,GGL
 GGX,GGX Gold Corp.,TSXV,GGX.V,GGX Gold Corp.,GGX
-GIGA,Giga Metals Corporation,TSXV,GIGA.V,Giga Metals Corporation,GIGA,Giga Metals Corporation wt 10FEB2025,GIGA.WT.A
+GIGA,Giga Metals Corporation,TSXV,GIGA.V,Giga Metals Corporation,GIGA
 GOK,GINSMS Inc.,TSXV,GOK.V,GINSMS Inc.,GOK
 EMM,Giyani Metals Corp.,TSXV,EMM.V,Giyani Metals Corp.,EMM
 GLI,Glacier Lake Resources Inc.,TSXV,GLI.V,Glacier Lake Resources Inc.,GLI
@@ -858,6 +858,7 @@ MEED.P,Meed Growth Corp.,TSXV,MEED.P.V,Meed Growth Corp.,MEED.P
 MKR,Melkior Resources Inc.,TSXV,MKR.V,Melkior Resources Inc.,MKR
 MENE,Mene Inc.,TSXV,MENE.V,Mene Inc.,MENE
 MRKI.P,"Meraki Acquisition One, Inc.",TSXV,MRKI.P.V,"Meraki Acquisition One, Inc.",MRKI.P
+MUSH,Mercanto Holdings Inc.,TSXV,MUSH.V,Mercanto Holdings Inc.,MUSH
 MERG,Metal Energy Corp.,TSXV,MERG.V,Metal Energy Corp.,MERG
 MLO,Metalero Mining Corp.,TSXV,MLO.V,Metalero Mining Corp.,MLO
 MTX,Metalex Ventures Ltd.,TSXV,MTX.V,Metalex Ventures Ltd,MTX
@@ -1028,7 +1029,7 @@ PEMC,Pacific Empire Minerals Corp.,TSXV,PEMC.V,Pacific Empire Minerals Corp.,PEM
 PPM,Pacific Imperial Mines Inc.,TSXV,PPM.V,Pacific Imperial Mines Inc.,PPM
 PEX,Pacific Ridge Exploration Ltd.,TSXV,PEX.V,Pacific Ridge Exploration Ltd.,PEX
 PA,Palamina Corp.,TSXV,PA.V,Palamina Corp.,PA
-PALI,Palisades Goldcorp Ltd.,TSXV,PALI.V,Palisades Goldcorp Ltd.,PALI
+PALI,Palisades Goldcorp Ltd.,TSXV,PALI.V,Palisades Goldcorp Ltd.,PALI,Palisades Goldcorp Ltd wt 06Dec2026,PALI.WT
 PNN,Pambili Natural Resources Corporation,TSXV,PNN.V,Pambili Natural Resources Corporation,PNN
 PGZ,Pan Global Resources Inc.,TSXV,PGZ.V,Pan Global Resources Inc.,PGZ
 PANO.P,Panorama Capital Corp.,TSXV,PANO.P.V,Panorama Capital Corp.,PANO.P
@@ -1347,7 +1348,6 @@ TPL,Tethys Petroleum Limited,TSXV,TPL.V,Tethys Petroleum Limited,TPL
 TUO,Teuton Resources Corp.,TSXV,TUO.V,Teuton Resources Corp,TUO
 TGX,TGX Energy & Resources Inc.,TSXV,TGX.V,TGX Energy & Resources Inc.,TGX
 FRSH,The Fresh Factory B.C. Ltd.,TSXV,FRSH.V,The Fresh Factory B.C. Ltd,FRSH
-MUSH,The Good Shroom Co Inc.,TSXV,MUSH.V,The Good Shroom Co Inc.,MUSH
 WED,The Westaim Corporation,TSXV,WED.V,The Westaim Corporation,WED
 WI,The Western Investment Company of Canada Limited,TSXV,WI.V,The Western Investment Company of Canada Limited,WI
 MAC,Themac Resources Group Limited,TSXV,MAC.V,Themac Resources Group Limited,MAC
@@ -2312,7 +2312,6 @@ GLXY,Galaxy Digital Holdings Ltd.,TSX,GLXY.TO,Galaxy Digital J Ord,GLXY
 GAU,Galiano Gold Inc.,TSX,GAU.TO,Galiano Gold Inc. J,GAU
 GH,Gamehost Inc.,TSX,GH.TO,Gamehost Inc.,GH
 GDI,GDI Integrated Facility Services Inc.,TSX,GDI.TO,GDI Integrated SV J,GDI
-GXE,Gear Energy Ltd.,TSX,GXE.TO,Gear Energy Ltd.,GXE
 GENM,Generation Mining Limited,TSX,GENM.TO,Generation Mining J,GENM
 GDC,Genesis Land Development Corp.,TSX,GDC.TO,Genesis Land Dev,GDC
 GEO,Geodrill Limited,TSX,GEO.TO,Geodrill Limited Ord,GEO
@@ -3125,7 +3124,6 @@ RIFI,Russell Investments Fixed Income Pool,TSX,RIFI.TO,Russell InvstFxdIncm,RIFI
 RIGE,Russell Investments Global Equity Pool,TSX,RIGE.TO,Russ InvGl EqPl ETF,RIGE
 RIIN,Russell Investments Global Infrastructure Pool,TSX,RIIN.TO,Russl InvGlbInfrasPl,RIIN
 RIRA,Russell Investments Real Assets,TSX,RIRA.TO,Russl InvestRl Asset,RIRA
-SGLD,Sabre Gold Mines Corp.,TSX,SGLD.TO,Sabre Gold Mines . J,SGLD
 MIC.PR.A,Sagen MI Canada Inc.,TSX,MIC.PR.A.TO,Sagen MI Cda A Pr 1,MIC.PR.A
 SFC,Sagicor Financial Company Ltd.,TSX,SFC.TO,Sagicor Fin Co,SFC
 SLT.U,Saltire Capital Ltd.,TSX,SLT.U.TO,Saltire Capital USD,SLT.U,Saltire Cap Wts USD ,SLT.WT.U
@@ -4724,6 +4722,7 @@ EFOI,"Energy Focus, Inc. - Common Stock",NASDAQ Capital Market,EFOI
 EFRA,iShares Environmental Infrastructure and Industrials ETF,NASDAQ Global MarketSM,EFRA
 EFSC,Enterprise Financial Services Corporation - Common Stock,NASDAQ Global Select MarketSM,EFSC
 EFSCP,"Enterprise Financial Services Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of 5% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ Global Select MarketSM,EFSCP
+EFSI,Eagle Financial Services Inc - Common Stock,NASDAQ Capital Market,EFSI
 EGAN,eGain Corporation - Common Stock,NASDAQ Capital Market,EGAN
 EGBN,"Eagle Bancorp, Inc. - Common Stock",NASDAQ Capital Market,EGBN
 EGGQ,NestYield Visionary ETF,NASDAQ Global MarketSM,EGGQ
@@ -6563,6 +6562,7 @@ OPTX,"Syntec Optics Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market
 OPTXW,"Syntec Optics Holdings, Inc. - Warrant",NASDAQ Capital Market,OPTXW
 OPTZ,Optimize Strategy Index ETF,NASDAQ Global MarketSM,OPTZ
 OPXS,"Optex Systems Holdings, Inc. - Common Stock",NASDAQ Capital Market,OPXS
+ORCX,Defiance Daily Target 2X Long ORCL ETF,NASDAQ Global MarketSM,ORCX
 ORGN,"Origin Materials, Inc. - Class A Common Stock",NASDAQ Capital Market,ORGN
 ORGNW,"Origin Materials, Inc. - Warrant",NASDAQ Capital Market,ORGNW
 ORGO,Organogenesis Holdings Inc.  - Class A ,NASDAQ Capital Market,ORGO
@@ -7267,6 +7267,7 @@ SIMAU,SIM Acquisition Corp. I - Unit,NASDAQ Global MarketSM,SIMAU
 SIMAW,SIM Acquisition Corp. I - Warrant,NASDAQ Global MarketSM,SIMAW
 SIMO,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",NASDAQ Global Select MarketSM,SIMO
 SINT,"SiNtx Technologies, Inc. - Common Stock",NASDAQ Capital Market,SINT
+SION,"Sionna Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,SION
 SIRI,SiriusXM Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,SIRI
 SISI,"Shineco, Inc. - Common Stock",NASDAQ Capital Market,SISI
 SITM,SiTime Corporation - Common Stock,NASDAQ Global MarketSM,SITM
@@ -7884,7 +7885,6 @@ VIOT,"Viomi Technology Co., Ltd - American Depositary Shares",NASDAQ Global Sele
 VIR,"Vir Biotechnology, Inc. - Common Stock",NASDAQ Global Select MarketSM,VIR
 VIRC,Virco Manufacturing Corporation - Common Stock,NASDAQ Global MarketSM,VIRC
 VIRT,"Virtu Financial, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,VIRT
-VISL,"Vislink Technologies, Inc. - Common Stock",NASDAQ Capital Market,VISL
 VITL,"Vital Farms, Inc. - Common Stock",NASDAQ Global MarketSM,VITL
 VIVK,"Vivakor, Inc. - Common Stock",NASDAQ Capital Market,VIVK
 VKTX,"Viking Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,VKTX
@@ -8477,7 +8477,7 @@ BAC$S,"Bank of America Corporation Depositary shares, each representing 1/1,000t
 BAH,Booz Allen Hamilton Holding Corporation Common Stock,NYSE,BAH
 BAK,Braskem SA ADR,NYSE,BAK
 BALL,Ball Corporation Common Stock,NYSE,BALL
-BALY.T,Bally's Corporation Common Stock (Rolling Shares),NYSE,BALY.T
+BALY,Bally's Corporation Common Stock,NYSE,BALY
 BAM,Brookfield Asset Management Inc Class A Limited Voting Shares,NYSE,BAM
 BANC,"Banc of California, Inc. Common Stock",NYSE,BANC
 BANC$F,"Banc of California, Inc. Depositary Shares, each representing a 1/40th interest in a share of 7.75% non-cumulative perpetual preferred stock, Series F",NYSE,BANC$F
@@ -9576,7 +9576,7 @@ HDB,HDFC Bank Limited Common Stock,NYSE,HDB
 HE,"Hawaiian Electric Industries, Inc. Common Stock",NYSE,HE
 HEI,Heico Corporation Common Stock,NYSE,HEI
 HEI.A,Heico Corporation Common Stock,NYSE,HEI.A
-HEQ,John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest,NYSE,HEQ
+HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,NYSE,HEQ
 HES,Hess Corporation Common Stock,NYSE,HES
 HESM,Hess Midstream LP Class A Representing Limited Partner Interests,NYSE,HESM
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,NYSE,HFRO
@@ -10918,7 +10918,6 @@ STXS,"Stereotaxis, Inc. Common Stock",NYSE MKT,STXS
 STZ,"Constellation Brands, Inc. Common Stock",NYSE,STZ
 SU,Suncor Energy  Inc. Common Stock,NYSE,SU
 SUI,"Sun Communities, Inc. Common Stock",NYSE,SUI
-SUM,"Summit Materials, Inc. Class A Common Stock",NYSE,SUM
 SUN,Sunoco LP Common Units representing limited partner interests,NYSE,SUN
 SUP,"Superior Industries International, Inc. Common Stock (DE)",NYSE,SUP
 SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,NYSE,SUPV

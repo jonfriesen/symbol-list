@@ -1,5 +1,5 @@
 {
- "date": "2025-02-07",
+ "date": "2025-02-10",
  "data": [
   {
    "symbol": "ONE",
@@ -6590,10 +6590,6 @@
     {
      "name": "Giga Metals Corporation",
      "symbol": "GIGA"
-    },
-    {
-     "name": "Giga Metals Corporation wt 10FEB2025",
-     "symbol": "GIGA.WT.A"
     }
    ]
   },
@@ -10406,6 +10402,18 @@
    ]
   },
   {
+   "symbol": "MUSH",
+   "name": "Mercanto Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MUSH.V",
+   "instruments": [
+    {
+     "name": "Mercanto Holdings Inc.",
+     "symbol": "MUSH"
+    }
+   ]
+  },
+  {
    "symbol": "MERG",
    "name": "Metal Energy Corp.",
    "exchange": "TSXV",
@@ -12494,6 +12502,10 @@
     {
      "name": "Palisades Goldcorp Ltd.",
      "symbol": "PALI"
+    },
+    {
+     "name": "Palisades Goldcorp Ltd wt 06Dec2026",
+     "symbol": "PALI.WT"
     }
    ]
   },
@@ -16362,18 +16374,6 @@
     {
      "name": "The Fresh Factory B.C. Ltd",
      "symbol": "FRSH"
-    }
-   ]
-  },
-  {
-   "symbol": "MUSH",
-   "name": "The Good Shroom Co Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MUSH.V",
-   "instruments": [
-    {
-     "name": "The Good Shroom Co Inc.",
-     "symbol": "MUSH"
     }
    ]
   },
@@ -29546,18 +29546,6 @@
    ]
   },
   {
-   "symbol": "GXE",
-   "name": "Gear Energy Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "GXE.TO",
-   "instruments": [
-    {
-     "name": "Gear Energy Ltd.",
-     "symbol": "GXE"
-    }
-   ]
-  },
-  {
    "symbol": "GENM",
    "name": "Generation Mining Limited",
    "exchange": "TSX",
@@ -40350,18 +40338,6 @@
     {
      "name": "Russl InvestRl Asset",
      "symbol": "RIRA"
-    }
-   ]
-  },
-  {
-   "symbol": "SGLD",
-   "name": "Sabre Gold Mines Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SGLD.TO",
-   "instruments": [
-    {
-     "name": "Sabre Gold Mines . J",
-     "symbol": "SGLD"
     }
    ]
   },
@@ -51794,6 +51770,12 @@
    "yahoo_symbol": "EFSCP"
   },
   {
+   "symbol": "EFSI",
+   "name": "Eagle Financial Services Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EFSI"
+  },
+  {
    "symbol": "EGAN",
    "name": "eGain Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -62828,6 +62810,12 @@
    "yahoo_symbol": "OPXS"
   },
   {
+   "symbol": "ORCX",
+   "name": "Defiance Daily Target 2X Long ORCL ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORCX"
+  },
+  {
    "symbol": "ORGN",
    "name": "Origin Materials, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67052,6 +67040,12 @@
    "yahoo_symbol": "SINT"
   },
   {
+   "symbol": "SION",
+   "name": "Sionna Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SION"
+  },
+  {
    "symbol": "SIRI",
    "name": "SiriusXM Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -70754,12 +70748,6 @@
    "yahoo_symbol": "VIRT"
   },
   {
-   "symbol": "VISL",
-   "name": "Vislink Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VISL"
-  },
-  {
    "symbol": "VITL",
    "name": "Vital Farms, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -74312,10 +74300,10 @@
    "yahoo_symbol": "BALL"
   },
   {
-   "symbol": "BALY.T",
-   "name": "Bally's Corporation Common Stock (Rolling Shares)",
+   "symbol": "BALY",
+   "name": "Bally's Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "BALY.T"
+   "yahoo_symbol": "BALY"
   },
   {
    "symbol": "BAM",
@@ -80907,7 +80895,7 @@
   },
   {
    "symbol": "HEQ",
-   "name": "John Hancock Hedged Equity \u0026 Income Fund Common Shares of Beneficial Interest",
+   "name": "John Hancock Diversified Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "HEQ"
   },
@@ -88956,12 +88944,6 @@
    "name": "Sun Communities, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SUI"
-  },
-  {
-   "symbol": "SUM",
-   "name": "Summit Materials, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SUM"
   },
   {
    "symbol": "SUN",

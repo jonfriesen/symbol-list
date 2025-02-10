@@ -1,96 +1,72 @@
 {
  "added": [
   {
-   "symbol": "EPWK",
-   "name": "EPWK Holdings Ltd. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EPWK"
-  },
-  {
-   "symbol": "FBGL",
-   "name": "FBS Global Limited - Ordinary Shares",
+   "symbol": "EFSI",
+   "name": "Eagle Financial Services Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FBGL"
+   "yahoo_symbol": "EFSI"
   },
   {
-   "symbol": "HVII",
-   "name": "Hennessy Capital Investment Corp. VII - Ordinary Shares",
+   "symbol": "ORCX",
+   "name": "Defiance Daily Target 2X Long ORCL ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HVII"
+   "yahoo_symbol": "ORCX"
   },
   {
-   "symbol": "HVIIR",
-   "name": "Hennessy Capital Investment Corp. VII - Rights",
+   "symbol": "SION",
+   "name": "Sionna Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HVIIR"
-  },
-  {
-   "symbol": "INAB",
-   "name": "IN8bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "INAB"
-  },
-  {
-   "symbol": "SDTY",
-   "name": "YieldMax S\u0026P 500 0DTE Covered Call Strategy ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SDTY"
-  },
-  {
-   "symbol": "STRK",
-   "name": "MicroStrategy Incorporated - 8.00% Series A Perpetual Strike Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "STRK"
-  },
-  {
-   "symbol": "MRP",
-   "name": "Millrose Properties, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MRP"
-  },
-  {
-   "symbol": "TTAM",
-   "name": "Titan America SA Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TTAM"
-  }
- ],
- "removed": [
-  {
-   "symbol": "INAB",
-   "name": "IN8bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "INAB"
-  },
-  {
-   "symbol": "MRP.V",
-   "name": "Millrose Properties, Inc. Class A Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MRP.V"
-  },
-  {
-   "symbol": "VRDN",
-   "name": "Viridian Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VRDN.V",
-   "instruments": [
-    {
-     "name": "Viridian Metals Inc.",
-     "symbol": "VRDN"
-    }
-   ]
-  },
-  {
-   "symbol": "RVNC",
-   "name": "Revance Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RVNC"
+   "yahoo_symbol": "SION"
   },
   {
    "symbol": "BALY",
    "name": "Bally's Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BALY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SGLD",
+   "name": "Sabre Gold Mines Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGLD.TO",
+   "instruments": [
+    {
+     "name": "Sabre Gold Mines . J",
+     "symbol": "SGLD"
+    }
+   ]
+  },
+  {
+   "symbol": "VISL",
+   "name": "Vislink Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VISL"
+  },
+  {
+   "symbol": "SUM",
+   "name": "Summit Materials, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUM"
+  },
+  {
+   "symbol": "GXE",
+   "name": "Gear Energy Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GXE.TO",
+   "instruments": [
+    {
+     "name": "Gear Energy Ltd.",
+     "symbol": "GXE"
+    }
+   ]
+  },
+  {
+   "symbol": "BALY.T",
+   "name": "Bally's Corporation Common Stock (Rolling Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BALY.T"
   }
  ]
 }
