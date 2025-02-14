@@ -1,78 +1,192 @@
 {
  "added": [
   {
-   "symbol": "AGH",
-   "name": "Aureus Greenway Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGH"
-  },
-  {
-   "symbol": "AMDD",
-   "name": "Direxion Daily AMD Bear 1X Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMDD"
-  },
-  {
-   "symbol": "AMUU",
-   "name": "Direxion Daily AMD Bull 2X Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMUU"
-  },
-  {
-   "symbol": "KRMN",
-   "name": "Karman Holdings Inc. Common Stock",
+   "symbol": "NPB",
+   "name": "Northpointe Bancshares, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "KRMN"
+   "yahoo_symbol": "NPB"
+  },
+  {
+   "symbol": "PMTV",
+   "name": "PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PMTV"
+  },
+  {
+   "symbol": "TRTN$F",
+   "name": "Triton International Limited 7.625% Series F Cumulative Redeemable Perpetual Preference Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRTN$F"
+  },
+  {
+   "symbol": "AACBU",
+   "name": "Artius II Acquisition Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACBU"
+  },
+  {
+   "symbol": "AARD",
+   "name": "Aardvark Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AARD"
+  },
+  {
+   "symbol": "DLLL",
+   "name": "GraniteShares 2x Long DELL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DLLL"
+  },
+  {
+   "symbol": "DVLT",
+   "name": "Datavault AI Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DVLT"
+  },
+  {
+   "symbol": "INTW",
+   "name": "GraniteShares 2x Long INTC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INTW"
+  },
+  {
+   "symbol": "LGCF",
+   "name": "Themes US Cash Flow Champions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGCF"
+  },
+  {
+   "symbol": "MAYAU",
+   "name": "Maywood Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAYAU"
+  },
+  {
+   "symbol": "NXXT",
+   "name": "NextNRG, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXXT"
+  },
+  {
+   "symbol": "QCML",
+   "name": "GraniteShares 2x Long QCOM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QCML"
+  },
+  {
+   "symbol": "QDTY",
+   "name": "YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QDTY"
+  },
+  {
+   "symbol": "SAIL",
+   "name": "SailPoint, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SAIL"
+  },
+  {
+   "symbol": "SNDKV",
+   "name": "Sandisk Corporation - Common Stock When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNDKV"
+  },
+  {
+   "symbol": "TDAC",
+   "name": "Translational Development Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDAC"
+  },
+  {
+   "symbol": "TDACW",
+   "name": "Translational Development Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDACW"
+  },
+  {
+   "symbol": "WDCVV",
+   "name": "Western Digital Corporation - Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WDCVV"
+  },
+  {
+   "symbol": "XHLD",
+   "name": "TEN Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XHLD"
   }
  ],
  "removed": [
   {
-   "symbol": "EVGRW",
-   "name": "Evergreen Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVGRW"
-  },
-  {
-   "symbol": "CTV.W",
-   "name": "Innovid Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CTV.W"
-  },
-  {
-   "symbol": "ROIC",
-   "name": "Retail Opportunity Investments Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ROIC"
-  },
-  {
-   "symbol": "STAF",
-   "name": "Staffing 360 Solutions, Inc. - Common Stock",
+   "symbol": "WISA",
+   "name": "WiSA Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "STAF"
+   "yahoo_symbol": "WISA"
   },
   {
-   "symbol": "EVGRU",
-   "name": "Evergreen Corporation - Unit",
+   "symbol": "GSMGW",
+   "name": "Cheer Holding, Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSMGW"
+  },
+  {
+   "symbol": "RFACW",
+   "name": "RF Acquisition Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVGRU"
+   "yahoo_symbol": "RFACW"
   },
   {
-   "symbol": "GNS.R",
-   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GNS.R"
+   "symbol": "HRX",
+   "name": "Heroux-Devtek Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HRX.TO",
+   "instruments": [
+    {
+     "name": "Heroux-Devtek Inc.",
+     "symbol": "HRX"
+    }
+   ]
   },
   {
-   "symbol": "EVGR",
-   "name": "Evergreen Corporation - Class A Ordinary Share",
+   "symbol": "USCF",
+   "name": "Themes US Cash Flow Champions ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVGR"
+   "yahoo_symbol": "USCF"
   },
   {
-   "symbol": "CTV",
-   "name": "Innovid Corp. Common Stock",
+   "symbol": "ZUO",
+   "name": "Zuora, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CTV"
+   "yahoo_symbol": "ZUO"
+  },
+  {
+   "symbol": "SILV",
+   "name": "SilverCrest Metals Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SILV"
+  },
+  {
+   "symbol": "RFACU",
+   "name": "RF Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFACU"
+  },
+  {
+   "symbol": "EZFL",
+   "name": "EzFill Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EZFL"
+  },
+  {
+   "symbol": "RFACR",
+   "name": "RF Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFACR"
+  },
+  {
+   "symbol": "RFAC",
+   "name": "RF Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAC"
   }
  ]
 }
