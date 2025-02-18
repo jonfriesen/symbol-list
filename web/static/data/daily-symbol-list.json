@@ -1,5 +1,5 @@
 {
- "date": "2025-02-17",
+ "date": "2025-02-18",
  "data": [
   {
    "symbol": "ONE",
@@ -8878,18 +8878,6 @@
    ]
   },
   {
-   "symbol": "FUND",
-   "name": "Katipult Technology Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FUND.V",
-   "instruments": [
-    {
-     "name": "Katipult Technology Corp.",
-     "symbol": "FUND"
-    }
-   ]
-  },
-  {
    "symbol": "KDA",
    "name": "KDA Group Inc.",
    "exchange": "TSXV",
@@ -9650,10 +9638,6 @@
     {
      "name": "LithiumBank Resources Corp.",
      "symbol": "LBNK"
-    },
-    {
-     "name": "LithiumBank Resources Corp. wt 18Feb2025",
-     "symbol": "LBNK.WT"
     }
    ]
   },
@@ -40158,6 +40142,10 @@
     {
      "name": "Rogers Sugar 4.75Db7",
      "symbol": "RSI.DB.F"
+    },
+    {
+     "name": "Rogers Sugar I 6 Deb",
+     "symbol": "RSI.DB.G"
     }
    ]
   },
@@ -46242,12 +46230,6 @@
    "yahoo_symbol": "AVGO"
   },
   {
-   "symbol": "AVGR",
-   "name": "Avinger, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AVGR"
-  },
-  {
    "symbol": "AVGX",
    "name": "Defiance Daily Target 2X Long AVGO ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -47130,30 +47112,6 @@
    "yahoo_symbol": "BL"
   },
   {
-   "symbol": "BLAC",
-   "name": "Bellevue Life Sciences Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLAC"
-  },
-  {
-   "symbol": "BLACR",
-   "name": "Bellevue Life Sciences Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLACR"
-  },
-  {
-   "symbol": "BLACU",
-   "name": "Bellevue Life Sciences Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLACU"
-  },
-  {
-   "symbol": "BLACW",
-   "name": "Bellevue Life Sciences Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLACW"
-  },
-  {
    "symbol": "BLBD",
    "name": "Blue Bird Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -47965,7 +47923,7 @@
   },
   {
    "symbol": "BTGD",
-   "name": "STKD Bitcoin \u0026 Gold ETF",
+   "name": "STKd 100% Bitcoin \u0026 100% Gold ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BTGD"
   },
@@ -48136,24 +48094,6 @@
    "name": "Beyond Meat, Inc. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BYND"
-  },
-  {
-   "symbol": "BYNO",
-   "name": "byNordic Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BYNO"
-  },
-  {
-   "symbol": "BYNOU",
-   "name": "byNordic Acquisition Corporation - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BYNOU"
-  },
-  {
-   "symbol": "BYNOW",
-   "name": "byNordic Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BYNOW"
   },
   {
    "symbol": "BYRN",
@@ -53872,12 +53812,6 @@
    "name": "FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FTAIN"
-  },
-  {
-   "symbol": "FTAIO",
-   "name": "FTAI Aviation Ltd. - 8.00% Fixed-to-Floating Rate Series B Cumulative Perpetual Redeemable Preferred Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FTAIO"
   },
   {
    "symbol": "FTC",
@@ -60972,12 +60906,6 @@
    "yahoo_symbol": "MYMJ"
   },
   {
-   "symbol": "MYNA",
-   "name": "Mynaric AG - American Depository Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MYNA"
-  },
-  {
    "symbol": "MYNZ",
    "name": "Mainz Biomed N.V. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -61381,7 +61309,7 @@
   },
   {
    "symbol": "NEXN",
-   "name": "Nexxen International Ltd. - American Depository Shares",
+   "name": "Nexxen International Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NEXN"
   },
@@ -62472,12 +62400,6 @@
    "yahoo_symbol": "OCSL"
   },
   {
-   "symbol": "OCTA",
-   "name": "Octane All-Cap Value Energy ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OCTA"
-  },
-  {
    "symbol": "OCTO",
    "name": "Eightco Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -62968,6 +62890,18 @@
    "name": "OneSpan Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OSPN"
+  },
+  {
+   "symbol": "OSRH",
+   "name": "OSR Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OSRH"
+  },
+  {
+   "symbol": "OSRHW",
+   "name": "OSR Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OSRHW"
   },
   {
    "symbol": "OSS",
@@ -65200,12 +65134,6 @@
    "name": "Global X NASDAQ 100 Covered Call ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QYLD"
-  },
-  {
-   "symbol": "QYLE",
-   "name": "Global X Nasdaq 100 ESG Covered Call ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QYLE"
   },
   {
    "symbol": "QYLG",
@@ -81007,13 +80935,13 @@
   },
   {
    "symbol": "HIG",
-   "name": "Hartford Financial Services Group, Inc. (The) Common Stock",
+   "name": "The Hartford Insurance Group, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "HIG"
   },
   {
    "symbol": "HIG$G",
-   "name": "Hartford Financial Services Group, Inc. (The) Depositary Shares each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series G, $0.01 par value",
+   "name": "The Hartford Insurance Group, Inc. Depositary Shares each representing a 1/1000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series G",
    "exchange": "NYSE",
    "yahoo_symbol": "HIG$G"
   },
@@ -84220,12 +84148,6 @@
    "name": "Mitsubishi UFJ Financial Group, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MUFG"
-  },
-  {
-   "symbol": "MUI",
-   "name": "BlackRock Municipal Income Fund, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MUI"
   },
   {
    "symbol": "MUJ",
@@ -88158,6 +88080,12 @@
    "yahoo_symbol": "SGHC"
   },
   {
+   "symbol": "SGI",
+   "name": "Somnigroup International Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SGI"
+  },
+  {
    "symbol": "SGN",
    "name": "Signing Day Sports, Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -89472,6 +89400,12 @@
    "yahoo_symbol": "THW"
   },
   {
+   "symbol": "TIC",
+   "name": "Acuren Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TIC"
+  },
+  {
    "symbol": "TIMB",
    "name": "TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ",
    "exchange": "NYSE",
@@ -89674,12 +89608,6 @@
    "name": "TriplePoint Venture Growth BDC Corp. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TPVG"
-  },
-  {
-   "symbol": "TPX",
-   "name": "Tempur Sealy International, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TPX"
   },
   {
    "symbol": "TR",
