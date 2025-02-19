@@ -2899,7 +2899,7 @@ SPFD,Mulvihill Enhanced Split Preferred Share ETF,TSX,SPFD.TO,Mulvihill EnSpPr E
 MPY,Mulvihill Premium Yield Fund,TSX,MPY.TO,Mulvihill PremiumYld,MPY
 NANO,Nano One Materials Corp.,TSX,NANO.TO,Nano One Materials J,NANO
 GRA,NanoXplore Inc.,TSX,GRA.TO,NanoXplore Inc. J,GRA
-NA,National Bank of Canada,TSX,NA.TO,Nat'l Bank of Canada,NA,Nat'l Bank Ser 38 Pr,NA.PR.C,Nat'l Bank Ser 40 Pr,NA.PR.E,Nat'l Bank Ser 42 Pr,NA.PR.G,Nat'l Bank Ser 30 Pr,NA.PR.S,Nat'l Bank Ser 32 Pr,NA.PR.W
+NA,National Bank of Canada,TSX,NA.TO,Nat'l Bank of Canada,NA,Nat'l Bank Ser 38 Pr,NA.PR.C,Nat'l Bank Ser 40 Pr,NA.PR.E,Nat'l Bank Ser 42 Pr,NA.PR.G,Nat'l Bank Ser 30 Pr,NA.PR.S
 NPRF,NBI Active Canadian Preferred Shares ETF,TSX,NPRF.TO,NBI ActvCdnPrShr Un ,NPRF
 NINT,NBI Active International Equity ETF,TSX,NINT.TO,NBI ActiveIntl Eq Un,NINT
 NUSA,NBI Active U.S. Equity ETF,TSX,NUSA.TO,NBI Active US Eq Un,NUSA
@@ -3150,7 +3150,6 @@ SBR,Silver Bear Resources plc,TSX,SBR.TO,Silver Bear ResJ Ord,SBR
 SVB,"Silver Bull Resources, Inc.",TSX,SVB.TO,Silver Bull Res J,SVB
 ELEF,Silver Elephant Mining Corp.,TSX,ELEF.TO,Silver Elephant J,ELEF
 SVM,Silvercorp Metals Inc.,TSX,SVM.TO,Silvercorp Metals J,SVM
-SIL,SilverCrest Metals Inc.,TSX,SIL.TO,SilverCrest Metals J,SIL
 SRV.UN,SIR Royalty Income Fund,TSX,SRV.UN.TO,SIR Royalty Incm Un,SRV.UN
 SKE,Skeena Resources Limited,TSX,SKE.TO,Skeena Resources J,SKE
 SGR.U,Slate Grocery REIT,TSX,SGR.U.TO,Slate GroceryREIT US,SGR.U,Slate GroceryREIT Un,SGR.UN
@@ -3498,8 +3497,10 @@ AFMD,Affimed N.V. - Common Stock,NASDAQ Global MarketSM,AFMD
 AFRI,Forafric Global PLC - Ordinary Shares,NASDAQ Capital Market,AFRI
 AFRIW,Forafric Global PLC - Warrants,NASDAQ Capital Market,AFRIW
 AFRM,"Affirm Holdings, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,AFRM
+AFSC,abrdn Focused U.S. Small Cap Active ETF,NASDAQ Global MarketSM,AFSC
 AFYA,Afya Limited - Class A Common Shares,NASDAQ Global Select MarketSM,AFYA
 AGAE,Allied Gaming & Entertainment Inc. - Common Stock,NASDAQ Capital Market,AGAE
+AGEM,abrdn Emerging Markets Dividend Active ETF,NASDAQ Global MarketSM,AGEM
 AGEN,Agenus Inc. - Common Stock,NASDAQ Capital Market,AGEN
 AGFY,Agrify Corporation - Common Stock,NASDAQ Capital Market,AGFY
 AGH,Aureus Greenway Holdings Inc. - Common Stock,NASDAQ Capital Market,AGH
@@ -4008,7 +4009,6 @@ BPMC,Blueprint Medicines Corporation - Common Stock,NASDAQ Global Select MarketS
 BPOP,"Popular, Inc. - Common Stock",NASDAQ Global Select MarketSM,BPOP
 BPOPM,"Popular, Inc. - Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",NASDAQ Global Select MarketSM,BPOPM
 BPRN,"Princeton Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,BPRN
-BPTH,"Bio-Path Holdings, Inc. - Common Stock",NASDAQ Capital Market,BPTH
 BPYPM,"Brookfield Property Partners L.P. - 6.25% Class A Cumulative Redeemable Preferred Units, Series 1",NASDAQ Global Select MarketSM,BPYPM
 BPYPN,"Brookfield Property Partners L.P. - 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3",NASDAQ Global Select MarketSM,BPYPN
 BPYPO,"Brookfield Property Partners L.P. - 6.375% Class A Cumulative Redeemable Perpetual Preferred Units, Series 2",NASDAQ Global Select MarketSM,BPYPO
@@ -4520,6 +4520,8 @@ CYBR,CyberArk Software Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CYBR
 CYCC,"Cyclacel Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,CYCC
 CYCCP,"Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock",NASDAQ Capital Market,CYCCP
 CYCN,"Cyclerion Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CYCN
+CYCU,"Cycurion, Inc. - Common Stock",NASDAQ Global MarketSM,CYCU
+CYCUW,"Cycurion, Inc. - Warrants",NASDAQ Capital Market,CYCUW
 CYN,Cyngn Inc. - Common stock,NASDAQ Capital Market,CYN
 CYRX,"CryoPort, Inc. - Common Stock",NASDAQ Capital Market,CYRX
 CYTH,"Cyclo Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CYTH
@@ -9757,7 +9759,6 @@ JEF,Jefferies Financial Group Inc. Common Stock,NYSE,JEF
 JELD,"JELD-WEN Holding, Inc. Common Stock",NYSE,JELD
 JEQ,"abrdn Japan Equity Fund, Inc. Common Stock",NYSE,JEQ
 JFR,Nuveen Floating Rate Income Fund Common Stock,NYSE,JFR
-JFR.R,"Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights",NYSE,JFR.R
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,NYSE,JGH
 JHG,Janus Henderson Group plc Ordinary Shares,NYSE,JHG
 JHI,John Hancock Investors Trust Common Stock,NYSE,JHI
@@ -10254,7 +10255,6 @@ NRG,"NRG Energy, Inc. Common Stock",NYSE,NRG
 NRGV,"Energy Vault Holdings, Inc. Common Stock",NYSE,NRGV
 NRK,Nuveen New York AMT-Free Quality Municipal Income Fund ,NYSE,NRK
 NRO,"Neuberger Berman Real Estate Securities Income Fund, Inc.",NYSE MKT,NRO
-NRO.R,"Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights",NYSE MKT,NRO.R
 NRP,Natural Resource Partners LP Limited Partnership,NYSE,NRP
 NRT,North European Oil Royality Trust Common Stock,NYSE,NRT
 NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),NYSE,NRUC

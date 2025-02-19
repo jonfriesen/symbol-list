@@ -1,5 +1,5 @@
 {
- "date": "2025-02-18",
+ "date": "2025-02-19",
  "data": [
   {
    "symbol": "ONE",
@@ -37218,10 +37218,6 @@
     {
      "name": "Nat'l Bank Ser 30 Pr",
      "symbol": "NA.PR.S"
-    },
-    {
-     "name": "Nat'l Bank Ser 32 Pr",
-     "symbol": "NA.PR.W"
     }
    ]
   },
@@ -40650,18 +40646,6 @@
     {
      "name": "Silvercorp Metals J",
      "symbol": "SVM"
-    }
-   ]
-  },
-  {
-   "symbol": "SIL",
-   "name": "SilverCrest Metals Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SIL.TO",
-   "instruments": [
-    {
-     "name": "SilverCrest Metals J",
-     "symbol": "SIL"
     }
    ]
   },
@@ -44412,6 +44396,12 @@
    "yahoo_symbol": "AFRM"
   },
   {
+   "symbol": "AFSC",
+   "name": "abrdn Focused U.S. Small Cap Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFSC"
+  },
+  {
    "symbol": "AFYA",
    "name": "Afya Limited - Class A Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -44422,6 +44412,12 @@
    "name": "Allied Gaming \u0026 Entertainment Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AGAE"
+  },
+  {
+   "symbol": "AGEM",
+   "name": "abrdn Emerging Markets Dividend Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGEM"
   },
   {
    "symbol": "AGEN",
@@ -47470,12 +47466,6 @@
    "name": "Princeton Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BPRN"
-  },
-  {
-   "symbol": "BPTH",
-   "name": "Bio-Path Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BPTH"
   },
   {
    "symbol": "BPYPM",
@@ -50542,6 +50532,18 @@
    "name": "Cyclerion Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CYCN"
+  },
+  {
+   "symbol": "CYCU",
+   "name": "Cycurion, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CYCU"
+  },
+  {
+   "symbol": "CYCUW",
+   "name": "Cycurion, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYCUW"
   },
   {
    "symbol": "CYN",
@@ -81966,12 +81968,6 @@
    "yahoo_symbol": "JFR"
   },
   {
-   "symbol": "JFR.R",
-   "name": "Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JFR.R"
-  },
-  {
    "symbol": "JGH",
    "name": "Nuveen Global High Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -84946,12 +84942,6 @@
    "name": "Neuberger Berman Real Estate Securities Income Fund, Inc.",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "NRO"
-  },
-  {
-   "symbol": "NRO.R",
-   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NRO.R"
   },
   {
    "symbol": "NRP",
