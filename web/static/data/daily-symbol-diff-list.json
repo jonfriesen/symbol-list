@@ -1,118 +1,96 @@
 {
  "added": [
   {
-   "symbol": "BTX",
-   "name": "BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BTX"
-  },
-  {
-   "symbol": "ASBP",
-   "name": "Aspire Biopharma Holdings, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASBP"
-  },
-  {
-   "symbol": "ASBPW",
-   "name": "Aspire Biopharma Holdings, Inc.  - Warrant",
+   "symbol": "ANGH",
+   "name": "Anghami Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASBPW"
+   "yahoo_symbol": "ANGH"
   },
   {
-   "symbol": "FLD",
-   "name": "Fold Holdings, Inc. - Class A Common Stock",
+   "symbol": "CMPOV",
+   "name": "CompoSecure, Inc.  - Class A Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMPOV"
+  },
+  {
+   "symbol": "GBUG",
+   "name": "Sprott Active Gold \u0026 Silver Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GBUG"
+  },
+  {
+   "symbol": "HMR",
+   "name": "Heidmar Maritime Holdings Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLD"
+   "yahoo_symbol": "HMR"
   },
   {
-   "symbol": "FLDDW",
-   "name": "Fold Holdings, Inc. - Warrant",
+   "symbol": "IPA",
+   "name": "ImmunoPrecise Antibodies Ltd. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLDDW"
+   "yahoo_symbol": "IPA"
   },
   {
-   "symbol": "NNNN",
-   "name": "Anbio Biotechnology - Class A Ordinary Shares",
+   "symbol": "QQQH",
+   "name": "NEOS Nasdaq-100 Hedged Equity Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NNNN"
+   "yahoo_symbol": "QQQH"
   },
   {
-   "symbol": "OOQB",
-   "name": "One One Nasdaq-100 and Bitcoin ETF",
+   "symbol": "RHLDV",
+   "name": "Resolute Holdings Management - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OOQB"
+   "yahoo_symbol": "RHLDV"
   },
   {
-   "symbol": "OOSB",
-   "name": "One One S\u0026P 500 and Bitcoin ETF",
+   "symbol": "VRM",
+   "name": "Vroom, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OOSB"
+   "yahoo_symbol": "VRM"
   },
   {
-   "symbol": "MTRX",
-   "name": "Global X Artificial Intelligence Infrastructure Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MTRX.TO",
+   "symbol": "CCDS",
+   "name": "Carrier Connect Data Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCDS.V",
    "instruments": [
     {
-     "name": "Global X AI Infr ETF",
-     "symbol": "MTRX"
+     "name": "Carrier Connect Data Solutions Inc.",
+     "symbol": "CCDS"
     }
    ]
   }
  ],
  "removed": [
   {
-   "symbol": "MGOL",
-   "name": "MGO Global Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MGOL"
-  },
-  {
-   "symbol": "CWB.PR.B",
-   "name": "Canadian Western Bank",
-   "exchange": "TSX",
-   "yahoo_symbol": "CWB.PR.B.TO",
+   "symbol": "HVII.P",
+   "name": "Hopefield Ventures Two Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HVII.P.V",
    "instruments": [
     {
-     "name": "Cdn Wstrn Bk Sr 5 Pr",
-     "symbol": "CWB.PR.B"
-    },
-    {
-     "name": "Cdn Wstrn Bk Sr 9 Pr",
-     "symbol": "CWB.PR.D"
+     "name": "Hopefield Ventures Two Inc.",
+     "symbol": "HVII.P"
     }
    ]
   },
   {
-   "symbol": "PWUP",
-   "name": "PowerUp Acquisition Corp. - Class A Ordinary Shares",
+   "symbol": "IPA",
+   "name": "ImmunoPrecise Antibodies Ltd. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PWUP"
+   "yahoo_symbol": "IPA"
   },
   {
-   "symbol": "PWUPW",
-   "name": "PowerUp Acquisition Corp. - Warrant",
+   "symbol": "ANGH",
+   "name": "Anghami Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PWUPW"
+   "yahoo_symbol": "ANGH"
   },
   {
-   "symbol": "BIGZ",
-   "name": "BlackRock Innovation and Growth Term Trust Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIGZ"
-  },
-  {
-   "symbol": "PWUPU",
-   "name": "PowerUp Acquisition Corp. - Unit",
+   "symbol": "NUSI",
+   "name": "NEOS Nasdaq-100 Hedged Equity Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PWUPU"
-  },
-  {
-   "symbol": "NARI",
-   "name": "Inari Medical, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NARI"
+   "yahoo_symbol": "NUSI"
   }
  ]
 }
