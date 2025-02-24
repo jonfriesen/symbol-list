@@ -1,92 +1,184 @@
 {
  "added": [
   {
-   "symbol": "BGR",
-   "name": "Bitgrit (BGR)",
-   "built_on": "AVAX"
+   "symbol": "INST",
+   "name": "Instadapp (INST)"
   },
   {
-   "symbol": "AICRYPTOKEN",
-   "name": "AI Crypto Token (AICRYPTOKEN)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "AUTONO",
-   "name": "Autonomi (AUTONO)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "OGC",
-   "name": "OGCommunity (OGC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO (KAITO)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "SERAPH",
-   "name": "Seraph (SERAPH)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "REXBT",
-   "name": "rexbt by VIRTUALS (REXBT)",
+   "symbol": "UNITREEAI",
+   "name": "Unitree G1 AI (UNITREEAI)",
    "built_on": "SOL"
   },
   {
-   "symbol": "LGNS",
-   "name": "Longinus (LGNS)",
-   "built_on": "POL"
+   "symbol": "TSTAI",
+   "name": "Test AI (TSTAI)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "MANYUDOG",
-   "name": "MANYU (MANYUDOG)",
+   "symbol": "NEZHATOKEN",
+   "name": "NezhaToken (NEZHATOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GFM",
+   "name": "GoFundMeme (GFM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEZHA",
+   "name": "NEZHA (NEZHA)",
    "built_on": "BNB"
   },
   {
-   "symbol": "BADAI",
-   "name": "BAD Coin (BADAI)",
+   "symbol": "BABYBROCCOL",
+   "name": "Baby Broccoli (BABYBROCCOL)",
    "built_on": "BNB"
   },
   {
-   "symbol": "FROC",
-   "name": "Based Froc (FROC)",
+   "symbol": "SHIBAW",
+   "name": "Shiba $Wing (SHIBAW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UNIL",
+   "name": "UniLayer (UNIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIZ",
+   "name": "Rivalz Network (RIZ)"
+  },
+  {
+   "symbol": "MISSK",
+   "name": "Miss Kaka (MISSK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LIBRA",
+   "name": "Libra (LIBRA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XHUNT",
+   "name": "CryptoHunter World (XHUNT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NES",
+   "name": "Nest AI (NES)",
    "built_on": "BASE"
   },
   {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BIBI2025",
-   "name": "Bibi (BIBI2025)",
+   "symbol": "TST",
+   "name": "Test (TST)",
    "built_on": "BNB"
   },
   {
-   "symbol": "ORIGINA",
-   "name": "Original Gangsters (ORIGINA)",
-   "built_on": "SOL"
+   "symbol": "0LNETWORK",
+   "name": "0L Network (0LNETWORK)"
   },
   {
-   "symbol": "UNITREEDOG",
-   "name": "Unitree AI Robot Dog (UNITREEDOG)",
-   "built_on": "SOL"
+   "symbol": "SHELLTOKEN",
+   "name": "Shell Token (SHELLTOKEN)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "PAPPLE",
-   "name": "Pineapple (PAPPLE)",
+   "symbol": "TELEPORT",
+   "name": "Teleport System Token (TELEPORT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GIGAG",
+   "name": "GIGAGEEK (GIGAG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DNOW",
+   "name": "DuelNow (DNOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LEI",
+   "name": "Leia Games (LEI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DEE",
+   "name": "Deep AI (DEE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FLUIDTRADE",
+   "name": "Fluid (FLUIDTRADE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FPIBANK",
+   "name": "FPIBANK (FPIBANK)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "OIIAOIIA",
+   "name": "spinning cat (OIIAOIIA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UPP",
+   "name": "Sentinel Protocol (UPP)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "UPP",
+   "name": "Sentinel Protocol (UPP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEZHA",
+   "name": "NezhaToken (NEZHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LIBRA",
+   "name": "0L Network (LIBRA)"
+  },
+  {
+   "symbol": "INST",
+   "name": "Instadapp (INST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAYER",
+   "name": "UniLayer (LAYER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLUID",
+   "name": "Fluid (FLUID)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHELL",
+   "name": "Shell Token (SHELL)"
+  },
+  {
+   "symbol": "TST",
+   "name": "Teleport System Token (TST)",
+   "built_on": "ETH"
   }
  ]
 }
