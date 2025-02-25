@@ -1,162 +1,96 @@
 {
  "added": [
   {
-   "symbol": "HTB",
-   "name": "HomeTrust Bancshares, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HTB"
-  },
-  {
-   "symbol": "QVCGA",
-   "name": "QVC Group, Inc. - Series A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QVCGA"
-  },
-  {
-   "symbol": "QVCGB",
-   "name": "QVC Group, Inc. - Series B Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QVCGB"
-  },
-  {
-   "symbol": "QVCGP",
-   "name": "QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QVCGP"
-  },
-  {
-   "symbol": "SNDK",
-   "name": "Sandisk Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SNDK"
-  },
-  {
-   "symbol": "WGRX",
-   "name": "Wellgistics Health, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WGRX"
-  }
- ],
- "removed": [
-  {
-   "symbol": "QQQW",
-   "name": "Tradr 2X Long Triple Q Weekly ETF",
+   "symbol": "YOKE",
+   "name": "YOKE Core ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QQQW"
+   "yahoo_symbol": "YOKE"
   },
   {
-   "symbol": "OMIC",
-   "name": "Singular Genomics Systems, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OMIC"
-  },
-  {
-   "symbol": "NVDW",
-   "name": "Tradr 1.75X Long NVDA Weekly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NVDW"
-  },
-  {
-   "symbol": "HTBI",
-   "name": "HomeTrust Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HTBI"
-  },
-  {
-   "symbol": "QRTEP",
-   "name": "Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QRTEP"
-  },
-  {
-   "symbol": "SNDKV",
-   "name": "Sandisk Corporation - Common Stock When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SNDKV"
-  },
-  {
-   "symbol": "TLTM",
-   "name": "Tradr 2X Long TLT Monthly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLTM"
-  },
-  {
-   "symbol": "SPYB",
-   "name": "Tradr 2X Long SPY Weekly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPYB"
-  },
-  {
-   "symbol": "SPYM",
-   "name": "Tradr 2X Long SPY Monthly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPYM"
-  },
-  {
-   "symbol": "SOXM",
-   "name": "Tradr 2X Long SOXX Monthly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SOXM"
-  },
-  {
-   "symbol": "GRND.W",
-   "name": "Grindr Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GRND.W"
-  },
-  {
-   "symbol": "WDCVV",
-   "name": "Western Digital Corporation - Common Stock Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WDCVV"
-  },
-  {
-   "symbol": "MDCX",
-   "name": "Medicus Pharma Ltd.",
+   "symbol": "FRAS.P",
+   "name": "Fraser Big Sky Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MDCX.V",
+   "yahoo_symbol": "FRAS.P.V",
    "instruments": [
     {
-     "name": "Medicus Pharma Ltd.",
-     "symbol": "MDCX"
+     "name": "Fraser Big Sky Capital Corp.",
+     "symbol": "FRAS.P"
     }
    ]
   },
   {
-   "symbol": "QRTEB",
-   "name": "Qurate Retail, Inc. - Series B Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QRTEB"
+   "symbol": "ICGH",
+   "name": "IC Group Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICGH.V",
+   "instruments": [
+    {
+     "name": "IC Group Holdings Inc.",
+     "symbol": "ICGH"
+    }
+   ]
   },
   {
-   "symbol": "ANG$A",
-   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",
+   "symbol": "BTB.DB.I",
+   "name": "BTB Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "BTB.DB.I.TO",
+   "instruments": [
+    {
+     "name": "BTB ReEst I 7.25 Deb",
+     "symbol": "BTB.DB.I"
+    },
+    {
+     "name": "BTB REIT Un",
+     "symbol": "BTB.UN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRI",
+   "name": "Thomson Reuters Corp Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "ANG$A"
+   "yahoo_symbol": "TRI"
   },
   {
-   "symbol": "SOXW",
-   "name": "Tradr 2X Long SOXX Weekly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SOXW"
+   "symbol": "OMGA",
+   "name": "Omega Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OMGA"
   },
   {
-   "symbol": "TSLW",
-   "name": "Tradr 1.5X Long TSLA Weekly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSLW"
+   "symbol": "BTB.DB.H",
+   "name": "BTB Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "BTB.DB.H.TO",
+   "instruments": [
+    {
+     "name": "BTB REIT 7% H Deb",
+     "symbol": "BTB.DB.H"
+    },
+    {
+     "name": "BTB ReEst I 7.25 Deb",
+     "symbol": "BTB.DB.I"
+    },
+    {
+     "name": "BTB REIT Un",
+     "symbol": "BTB.UN"
+    }
+   ]
   },
   {
-   "symbol": "TLTQ",
-   "name": "Tradr 1.75X Long TLT Quarterly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLTQ"
-  },
-  {
-   "symbol": "QRTEA",
-   "name": "Qurate Retail, Inc. - Series A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QRTEA"
+   "symbol": "CCII.P",
+   "name": "Cuspis Capital II Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCII.P.V",
+   "instruments": [
+    {
+     "name": "Cuspis Capital II Ltd.",
+     "symbol": "CCII.P"
+    }
+   ]
   }
  ]
 }
