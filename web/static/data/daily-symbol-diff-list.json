@@ -1,94 +1,82 @@
 {
  "added": [
   {
-   "symbol": "YOKE",
-   "name": "YOKE Core ETF",
+   "symbol": "BMGL",
+   "name": "Basel Medical Group Ltd - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BMGL"
+  },
+  {
+   "symbol": "DMAA",
+   "name": "Drugs Made In America Acquisition Corp. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YOKE"
+   "yahoo_symbol": "DMAA"
   },
   {
-   "symbol": "FRAS.P",
-   "name": "Fraser Big Sky Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FRAS.P.V",
-   "instruments": [
-    {
-     "name": "Fraser Big Sky Capital Corp.",
-     "symbol": "FRAS.P"
-    }
-   ]
+   "symbol": "DMAAR",
+   "name": "Drugs Made In America Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMAAR"
   },
   {
-   "symbol": "ICGH",
-   "name": "IC Group Holdings Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ICGH.V",
-   "instruments": [
-    {
-     "name": "IC Group Holdings Inc.",
-     "symbol": "ICGH"
-    }
-   ]
+   "symbol": "RBIL",
+   "name": "F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RBIL"
   },
   {
-   "symbol": "BTB.DB.I",
-   "name": "BTB Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "BTB.DB.I.TO",
-   "instruments": [
-    {
-     "name": "BTB ReEst I 7.25 Deb",
-     "symbol": "BTB.DB.I"
-    },
-    {
-     "name": "BTB REIT Un",
-     "symbol": "BTB.UN"
-    }
-   ]
+   "symbol": "TRI",
+   "name": "Thomson Reuters Corp - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRI"
   }
  ],
  "removed": [
   {
-   "symbol": "TRI",
-   "name": "Thomson Reuters Corp Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TRI"
+   "symbol": "FTIIU",
+   "name": "FutureTech II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTIIU"
   },
   {
-   "symbol": "OMGA",
-   "name": "Omega Therapeutics, Inc. - Common Stock",
+   "symbol": "NKLA",
+   "name": "Nikola Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OMGA"
+   "yahoo_symbol": "NKLA"
   },
   {
-   "symbol": "BTB.DB.H",
-   "name": "BTB Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "BTB.DB.H.TO",
+   "symbol": "FTIIW",
+   "name": "FutureTech II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTIIW"
+  },
+  {
+   "symbol": "OSIX",
+   "name": "Oceansix Future Paths Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OSIX.V",
    "instruments": [
     {
-     "name": "BTB REIT 7% H Deb",
-     "symbol": "BTB.DB.H"
-    },
-    {
-     "name": "BTB ReEst I 7.25 Deb",
-     "symbol": "BTB.DB.I"
-    },
-    {
-     "name": "BTB REIT Un",
-     "symbol": "BTB.UN"
+     "name": "Oceansix Future Paths Ltd.",
+     "symbol": "OSIX"
     }
    ]
   },
   {
-   "symbol": "CCII.P",
-   "name": "Cuspis Capital II Ltd.",
+   "symbol": "FTII",
+   "name": "FutureTech II Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTII"
+  },
+  {
+   "symbol": "CRBK",
+   "name": "Carebook Technologies Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CCII.P.V",
+   "yahoo_symbol": "CRBK.V",
    "instruments": [
     {
-     "name": "Cuspis Capital II Ltd.",
-     "symbol": "CCII.P"
+     "name": "Carebook Technologies Inc.",
+     "symbol": "CRBK"
     }
    ]
   }
