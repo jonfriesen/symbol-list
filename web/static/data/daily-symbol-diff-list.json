@@ -1,84 +1,96 @@
 {
  "added": [
   {
-   "symbol": "BMGL",
-   "name": "Basel Medical Group Ltd - ordinary shares",
+   "symbol": "ABRA",
+   "name": "AbraSilver Resource Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABRA.TO",
+   "instruments": [
+    {
+     "name": "AbraSilver Resrce Co",
+     "symbol": "ABRA"
+    }
+   ]
+  },
+  {
+   "symbol": "DMEE",
+   "name": "Desjardins Emerging Markets Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMEE.TO",
+   "instruments": [
+    {
+     "name": "Desjrdn EmMaEqIn ETF",
+     "symbol": "DMEE"
+    }
+   ]
+  },
+  {
+   "symbol": "RAA",
+   "name": "SMI 3Fourteen REAL Asset Allocation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAA"
+  },
+  {
+   "symbol": "STAK",
+   "name": "STAK Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BMGL"
+   "yahoo_symbol": "STAK"
   },
   {
-   "symbol": "DMAA",
-   "name": "Drugs Made In America Acquisition Corp. - Ordinary Shares",
+   "symbol": "SY",
+   "name": "So-Young International Inc. - American Depository Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SY"
+  },
+  {
+   "symbol": "TQQY",
+   "name": "GraniteShares YieldBOOST QQQ ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DMAA"
+   "yahoo_symbol": "TQQY"
   },
   {
-   "symbol": "DMAAR",
-   "name": "Drugs Made In America Acquisition Corp. - Rights",
+   "symbol": "YSPY",
+   "name": "GraniteShares YieldBOOST SPY ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DMAAR"
+   "yahoo_symbol": "YSPY"
   },
   {
-   "symbol": "RBIL",
-   "name": "F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RBIL"
+   "symbol": "LUD",
+   "name": "Luda Technology Group Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LUD"
   },
   {
-   "symbol": "TRI",
-   "name": "Thomson Reuters Corp - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TRI"
+   "symbol": "RAC.U",
+   "name": "Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAC.U"
   }
  ],
  "removed": [
   {
-   "symbol": "FTIIU",
-   "name": "FutureTech II Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTIIU"
-  },
-  {
-   "symbol": "NKLA",
-   "name": "Nikola Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NKLA"
-  },
-  {
-   "symbol": "FTIIW",
-   "name": "FutureTech II Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTIIW"
-  },
-  {
-   "symbol": "OSIX",
-   "name": "Oceansix Future Paths Ltd.",
+   "symbol": "ABRA",
+   "name": "AbraSilver Resource Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "OSIX.V",
+   "yahoo_symbol": "ABRA.V",
    "instruments": [
     {
-     "name": "Oceansix Future Paths Ltd.",
-     "symbol": "OSIX"
+     "name": "Abrasilver Resource Corp.",
+     "symbol": "ABRA"
     }
    ]
   },
   {
-   "symbol": "FTII",
-   "name": "FutureTech II Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTII"
+   "symbol": "LICY",
+   "name": "Li-Cycle Holdings Corp. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LICY"
   },
   {
-   "symbol": "CRBK",
-   "name": "Carebook Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CRBK.V",
-   "instruments": [
-    {
-     "name": "Carebook Technologies Inc.",
-     "symbol": "CRBK"
-    }
-   ]
+   "symbol": "SY",
+   "name": "So-Young International Inc. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SY"
   }
  ]
 }

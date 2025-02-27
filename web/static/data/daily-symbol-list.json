@@ -1,5 +1,5 @@
 {
- "date": "2025-02-26",
+ "date": "2025-02-27",
  "data": [
   {
    "symbol": "ONE",
@@ -154,18 +154,6 @@
     {
      "name": "Aben Minerals Ltd.",
      "symbol": "ABM"
-    }
-   ]
-  },
-  {
-   "symbol": "ABRA",
-   "name": "AbraSilver Resource Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ABRA.V",
-   "instruments": [
-    {
-     "name": "Abrasilver Resource Corp.",
-     "symbol": "ABRA"
     }
    ]
   },
@@ -18618,6 +18606,18 @@
    ]
   },
   {
+   "symbol": "ABRA",
+   "name": "AbraSilver Resource Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABRA.TO",
+   "instruments": [
+    {
+     "name": "AbraSilver Resrce Co",
+     "symbol": "ABRA"
+    }
+   ]
+  },
+  {
    "symbol": "FAP",
    "name": "abrdn Asia-Pacific Income Fund VCC",
    "exchange": "TSX",
@@ -26194,6 +26194,18 @@
     {
      "name": "DesjardinCA UnivBnd",
      "symbol": "DCU"
+    }
+   ]
+  },
+  {
+   "symbol": "DMEE",
+   "name": "Desjardins Emerging Markets Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMEE.TO",
+   "instruments": [
+    {
+     "name": "Desjrdn EmMaEqIn ETF",
+     "symbol": "DMEE"
     }
    ]
   },
@@ -47391,7 +47403,7 @@
   },
   {
    "symbol": "BON",
-   "name": "Bon Natural Life Limited - Ordinary Shares",
+   "name": "Bon Natural Life Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BON"
   },
@@ -65126,6 +65138,12 @@
    "yahoo_symbol": "QYLG"
   },
   {
+   "symbol": "RAA",
+   "name": "SMI 3Fourteen REAL Asset Allocation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAA"
+  },
+  {
    "symbol": "RADX",
    "name": "Radiopharm Theranostics Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -68054,6 +68072,12 @@
    "yahoo_symbol": "STAI"
   },
   {
+   "symbol": "STAK",
+   "name": "STAK Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STAK"
+  },
+  {
    "symbol": "STBA",
    "name": "S\u0026T Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68446,7 +68470,7 @@
   {
    "symbol": "SY",
    "name": "So-Young International Inc. - American Depository Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SY"
   },
   {
@@ -69282,6 +69306,12 @@
    "name": "ProShares UltraPro QQQ",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TQQQ"
+  },
+  {
+   "symbol": "TQQY",
+   "name": "GraniteShares YieldBOOST QQQ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TQQY"
   },
   {
    "symbol": "TRAW",
@@ -72150,6 +72180,12 @@
    "name": "YieldMax Short N100 Option Income Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "YQQQ"
+  },
+  {
+   "symbol": "YSPY",
+   "name": "GraniteShares YieldBOOST SPY ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YSPY"
   },
   {
    "symbol": "YSXT",
@@ -82790,12 +82826,6 @@
    "yahoo_symbol": "LHX"
   },
   {
-   "symbol": "LICY",
-   "name": "Li-Cycle Holdings Corp. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LICY"
-  },
-  {
    "symbol": "LII",
    "name": "Lennox International, Inc. Common Stock",
    "exchange": "NYSE",
@@ -82968,6 +82998,12 @@
    "name": "Lucky Strike Entertainment Corporation Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LUCK"
+  },
+  {
+   "symbol": "LUD",
+   "name": "Luda Technology Group Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LUD"
   },
   {
    "symbol": "LUMN",
@@ -86856,6 +86892,12 @@
    "name": "Brookfield Real Assets Income Fund Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RA"
+  },
+  {
+   "symbol": "RAC.U",
+   "name": "Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAC.U"
   },
   {
    "symbol": "RACE",

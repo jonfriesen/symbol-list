@@ -12,7 +12,6 @@ AME,Abacus Mining & Exploration Corporation,TSXV,AME.V,Abacus Mining & Explorati
 ABA,Abasca Resources Inc.,TSXV,ABA.V,Abasca Resources Inc.,ABA
 ABI,Abcourt Mines Inc.,TSXV,ABI.V,Abcourt Mines Inc.,ABI
 ABM,Aben Minerals Ltd.,TSXV,ABM.V,Aben Minerals Ltd.,ABM
-ABRA,AbraSilver Resource Corp.,TSXV,ABRA.V,Abrasilver Resource Corp.,ABRA
 ACDC,AC/DC Battery Metals Inc.,TSXV,ACDC.V,AC/DC Battery Metals Inc.,ACDC
 AXE,Acceleware Ltd.,TSXV,AXE.V,Acceleware Ltd.,AXE
 AKR,Ackroo Inc.,TSXV,AKR.V,Ackroo Inc.,AKR
@@ -1531,6 +1530,7 @@ ETHQ,3iQ Ether Staking ETF,TSX,ETHQ.TO,3iQ Ether Staking Un,ETHQ,3iQ Ether Staki
 VNP,5N Plus Inc.,TSX,VNP.TO,5N Plus Inc.,VNP
 AW,A & W Food Services of Canada Inc.,TSX,AW.TO,A&W Food Serv Canada,AW
 AAB,Aberdeen International Inc.,TSX,AAB.TO,Aberdeen Int'l. J,AAB
+ABRA,AbraSilver Resource Corp.,TSX,ABRA.TO,AbraSilver Resrce Co,ABRA
 FAP,abrdn Asia-Pacific Income Fund VCC,TSX,FAP.TO,abrdn Asia-PacifcVCC,FAP
 ADN,Acadian Timber Corp.,TSX,ADN.TO,Acadian Timber Corp.,ADN
 HDGE,Accelerate Absolute Return Fund,TSX,HDGE.TO,Accel Absol Ret Fnd,HDGE,Accel AbsolRet FndUS,HDGE.U
@@ -2076,6 +2076,7 @@ DMEC,Desjardins Canadian Equity Index ETF,TSX,DMEC.TO,Des Cad Eq Idx Etf,DMEC
 DCP,Desjardins Canadian Preferred Share Index ETF,TSX,DCP.TO,Desjardins Cdn Pref,DCP
 DCS,Desjardins Canadian Short Term Bond Index ETF,TSX,DCS.TO,Desjardins CdnST Bnd,DCS
 DCU,Desjardins Canadian Universe Bond Index ETF,TSX,DCU.TO,DesjardinCA UnivBnd,DCU
+DMEE,Desjardins Emerging Markets Equity Index ETF,TSX,DMEE.TO,Desjrdn EmMaEqIn ETF,DMEE
 DMEI,Desjardins International Equity Index ETF,TSX,DMEI.TO,Des Int Eq Index Etf,DMEI
 DRCU,Desjardins RI Active Canadian Bond - Net-Zero Emissions Pathway ETF,TSX,DRCU.TO,Desjardins RI CA Bnd,DRCU
 DRMC,Desjardins RI Canada - Net-Zero Emissions Pathway ETF,TSX,DRMC.TO,DesjardinsRI CdaNZEm,DRMC
@@ -3996,7 +3997,7 @@ BOF,BranchOut Food Inc. - Common Stock,NASDAQ Capital Market,BOF
 BOKF,BOK Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,BOKF
 BOLD,"Boundless Bio, Inc. - Common Stock",NASDAQ Global Select MarketSM,BOLD
 BOLT,"Bolt Biotherapeutics, Inc. - Common Stock",NASDAQ Capital Market,BOLT
-BON,Bon Natural Life Limited - Ordinary Shares,NASDAQ Capital Market,BON
+BON,Bon Natural Life Limited - Class A Ordinary Shares,NASDAQ Capital Market,BON
 BOOM,DMC Global Inc. - Common Stock,NASDAQ Global Select MarketSM,BOOM
 BOSC,B.O.S. Better Online Solutions - Ordinary Shares,NASDAQ Capital Market,BOSC
 BOTJ,"Bank of the James Financial Group, Inc. - Common Stock",NASDAQ Capital Market,BOTJ
@@ -6952,6 +6953,7 @@ QVCGP,"QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
 QXQ,SGI Enhanced Nasdaq-100 ETF,NASDAQ Global MarketSM,QXQ
 QYLD,Global X NASDAQ 100 Covered Call ETF,NASDAQ Global MarketSM,QYLD
 QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,NASDAQ Global MarketSM,QYLG
+RAA,SMI 3Fourteen REAL Asset Allocation ETF,NASDAQ Global MarketSM,RAA
 RADX,Radiopharm Theranostics Limited - American Depositary Shares,NASDAQ Capital Market,RADX
 RAIL,"Freightcar America, Inc. - Common Stock",NASDAQ Global Select MarketSM,RAIL
 RAIN,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",NASDAQ Global MarketSM,RAIN
@@ -7440,6 +7442,7 @@ SSTI,"SoundThinking, Inc. - Common Stock",NASDAQ Capital Market,SSTI
 SSYS,"Stratasys, Ltd. - Common Stock",NASDAQ Global Select MarketSM,SSYS
 STAA,STAAR Surgical Company - Common Stock,NASDAQ Global MarketSM,STAA
 STAI,ScanTech AI Systems Inc. - Common stock,NASDAQ Global MarketSM,STAI
+STAK,STAK Inc. - Ordinary Shares,NASDAQ Capital Market,STAK
 STBA,"S&T Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,STBA
 STBX,Starbox Group Holdings Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,STBX
 STEC,Santech Holdings Limited - American Depositary Shares,NASDAQ Capital Market,STEC
@@ -7505,7 +7508,7 @@ SWVLW,Swvl Holdings Corp - Warrant,NASDAQ Capital Market,SWVLW
 SXTC,"China SXT Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,SXTC
 SXTP,"60 Degrees Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,SXTP
 SXTPW,"60 Degrees Pharmaceuticals, Inc. - Warrant",NASDAQ Capital Market,SXTPW
-SY,So-Young International Inc. - American Depository Shares,NASDAQ Global MarketSM,SY
+SY,So-Young International Inc. - American Depository Shares,NASDAQ Capital Market,SY
 SYBT,"Stock Yards Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,SYBT
 SYBX,"Synlogic, Inc. - Common Stock",NASDAQ Capital Market,SYBX
 SYM,Symbotic Inc. - Class A Common Stock,NASDAQ Global MarketSM,SYM
@@ -7645,6 +7648,7 @@ TPIC,"TPI Composites, Inc. - Common Stock",NASDAQ Global MarketSM,TPIC
 TPLS,Thornburg Core Plus Bond ETF,NASDAQ Global MarketSM,TPLS
 TPST,"Tempest Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,TPST
 TQQQ,ProShares UltraPro QQQ,NASDAQ Global MarketSM,TQQQ
+TQQY,GraniteShares YieldBOOST QQQ ETF,NASDAQ Global MarketSM,TQQY
 TRAW,"Traws Pharma, Inc. - Common Stock",NASDAQ Capital Market,TRAW
 TRDA,"Entrada Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TRDA
 TREE,"LendingTree, Inc. - Common Stock",NASDAQ Global Select MarketSM,TREE
@@ -8123,6 +8127,7 @@ YOTAU,Yotta Acquisition Corporation - Unit,NASDAQ Capital Market,YOTAU
 YOTAW,Yotta Acquisition Corporation - Warrant,NASDAQ Capital Market,YOTAW
 YQ,17 Education & Technology Group Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,YQ
 YQQQ,YieldMax Short N100 Option Income Strategy ETF,NASDAQ Global MarketSM,YQQQ
+YSPY,GraniteShares YieldBOOST SPY ETF,NASDAQ Global MarketSM,YSPY
 YSXT,"YSX Tech. Co., Ltd  - Class A Ordinary Shares",NASDAQ Capital Market,YSXT
 YTRA,"Yatra Online, Inc. - Ordinary Shares",NASDAQ Capital Market,YTRA
 YXT,YXT.COM GROUP HOLDING LIMITED - American Depository Shares,NASDAQ Global MarketSM,YXT
@@ -9896,7 +9901,6 @@ LGL,"LGL Group, Inc. (The) Common Stock",NYSE MKT,LGL
 LGL.W,"LGL Group, Inc. (The) Warrants",NYSE MKT,LGL.W
 LH,Labcorp Holdings Inc. Common Stock,NYSE,LH
 LHX,"L3Harris Technologies, Inc. Common Stock",NYSE,LHX
-LICY,Li-Cycle Holdings Corp. Common Shares,NYSE,LICY
 LII,"Lennox International, Inc. Common Stock",NYSE,LII
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",NYSE,LITB
 LLY,Eli Lilly and Company Common Stock,NYSE,LLY
@@ -9926,6 +9930,7 @@ LTH,"Life Time Group Holdings, Inc. Common Stock",NYSE,LTH
 LTM,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",NYSE,LTM
 LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",NYSE,LU
 LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,NYSE,LUCK
+LUD,Luda Technology Group Limited Ordinary Shares,NYSE MKT,LUD
 LUMN,"Lumen Technologies, Inc. Common Stock",NYSE,LUMN
 LUV,Southwest Airlines Company Common Stock,NYSE,LUV
 LVS,Las Vegas Sands Corp. Common Stock,NYSE,LVS
@@ -10574,6 +10579,7 @@ QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",NYSE,QVCD
 QXO,"QXO, Inc. Common Stock",NYSE,QXO
 R,"Ryder System, Inc. Common Stock",NYSE,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,RA
+RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant),NYSE,RAC.U
 RACE,Ferrari N.V. Common Shares,NYSE,RACE
 RAMP,"LiveRamp Holdings, Inc. Common Stock",NYSE,RAMP
 RBA,"RB Global, Inc. Common Stock",NYSE,RBA
