@@ -1,5 +1,5 @@
 {
- "date": "2025-02-27",
+ "date": "2025-02-28",
  "data": [
   {
    "symbol": "ONE",
@@ -17878,6 +17878,10 @@
     {
      "name": "West Red Lake Gold Mines Ltd. wt 24Oct2027",
      "symbol": "WRLG.WT.B"
+    },
+    {
+     "name": "West Red Lake Gold Mines Ltd. wt 25Feb2028",
+     "symbol": "WRLG.WT.C"
     }
    ]
   },
@@ -49490,12 +49494,6 @@
    "yahoo_symbol": "CMPO"
   },
   {
-   "symbol": "CMPOV",
-   "name": "CompoSecure, Inc.  - Class A Common Stock Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMPOV"
-  },
-  {
    "symbol": "CMPOW",
    "name": "CompoSecure, Inc.  - Warrant",
    "exchange": "NASDAQ Global MarketSM",
@@ -51608,6 +51606,12 @@
    "yahoo_symbol": "EBC"
   },
   {
+   "symbol": "EBI",
+   "name": "The RBB Fund Trust Longview Advantage ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EBI"
+  },
+  {
    "symbol": "EBIZ",
    "name": "Global X E-commerce ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -52494,6 +52498,12 @@
    "name": "Envirotech Vehicles, Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EVTV"
+  },
+  {
+   "symbol": "EVYM",
+   "name": "Eaton Vance High Income Municipal ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVYM"
   },
   {
    "symbol": "EWBC",
@@ -55422,12 +55432,6 @@
    "name": "Amplify COWS Covered Call ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HCOW"
-  },
-  {
-   "symbol": "HCP",
-   "name": "HashiCorp, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HCP"
   },
   {
    "symbol": "HCSG",
@@ -59438,6 +59442,12 @@
    "yahoo_symbol": "LZ"
   },
   {
+   "symbol": "LZMH",
+   "name": "LZ Technology Holdings Limited - Class B Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LZMH"
+  },
+  {
    "symbol": "MACI",
    "name": "Melar Acquisition Corp. I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -61450,7 +61460,7 @@
   {
    "symbol": "NIVF",
    "name": "NewGenIvf Group Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NIVF"
   },
   {
@@ -65282,6 +65292,12 @@
    "yahoo_symbol": "RCEL"
   },
   {
+   "symbol": "RCGE",
+   "name": "RockCreek Global Equality ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RCGE"
+  },
+  {
    "symbol": "RCKT",
    "name": "Rocket Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -65672,10 +65688,10 @@
    "yahoo_symbol": "RGTIW"
   },
   {
-   "symbol": "RHLDV",
+   "symbol": "RHLD",
    "name": "Resolute Holdings Management - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RHLDV"
+   "yahoo_symbol": "RHLD"
   },
   {
    "symbol": "RIBBU",
@@ -65718,12 +65734,6 @@
    "name": "B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RILYL"
-  },
-  {
-   "symbol": "RILYM",
-   "name": "B. Riley Financial, Inc. - 6.375% Senior Notes due 2025",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RILYM"
   },
   {
    "symbol": "RILYN",
@@ -68709,7 +68719,7 @@
   },
   {
    "symbol": "TC",
-   "name": "TuanChe Limited - American Depositary Shares",
+   "name": "Token Cat Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TC"
   },
@@ -71378,6 +71388,12 @@
    "yahoo_symbol": "WETH"
   },
   {
+   "symbol": "WETO",
+   "name": "Webus International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WETO"
+  },
+  {
    "symbol": "WEYS",
    "name": "Weyco Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72117,7 +72133,7 @@
   },
   {
    "symbol": "YLDE",
-   "name": "ClearBridge Dividend Strategy ESG ETF",
+   "name": "Franklin ClearBridge Enhanced Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "YLDE"
   },
@@ -76974,6 +76990,12 @@
    "name": "NYSE Test One Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CTEST.V"
+  },
+  {
+   "symbol": "CTEV",
+   "name": "Claritev Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTEV"
   },
   {
    "symbol": "CTGO",
@@ -81873,7 +81895,7 @@
   },
   {
    "symbol": "IX",
-   "name": "Orix Corp Ads Common Stock",
+   "name": "ORIX Corporation American Depositary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "IX"
   },
@@ -83802,12 +83824,6 @@
    "name": "Marathon Petroleum Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MPC"
-  },
-  {
-   "symbol": "MPLN",
-   "name": "MultiPlan Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MPLN"
   },
   {
    "symbol": "MPLX",

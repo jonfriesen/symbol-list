@@ -1,96 +1,90 @@
 {
  "added": [
   {
-   "symbol": "ABRA",
-   "name": "AbraSilver Resource Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ABRA.TO",
-   "instruments": [
-    {
-     "name": "AbraSilver Resrce Co",
-     "symbol": "ABRA"
-    }
-   ]
-  },
-  {
-   "symbol": "DMEE",
-   "name": "Desjardins Emerging Markets Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DMEE.TO",
-   "instruments": [
-    {
-     "name": "Desjrdn EmMaEqIn ETF",
-     "symbol": "DMEE"
-    }
-   ]
-  },
-  {
-   "symbol": "RAA",
-   "name": "SMI 3Fourteen REAL Asset Allocation ETF",
+   "symbol": "EBI",
+   "name": "The RBB Fund Trust Longview Advantage ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RAA"
+   "yahoo_symbol": "EBI"
   },
   {
-   "symbol": "STAK",
-   "name": "STAK Inc. - Ordinary Shares",
+   "symbol": "EVYM",
+   "name": "Eaton Vance High Income Municipal ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVYM"
+  },
+  {
+   "symbol": "LZMH",
+   "name": "LZ Technology Holdings Limited - Class B Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "STAK"
+   "yahoo_symbol": "LZMH"
   },
   {
-   "symbol": "SY",
-   "name": "So-Young International Inc. - American Depository Shares",
+   "symbol": "NIVF",
+   "name": "NewGenIvf Group Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SY"
+   "yahoo_symbol": "NIVF"
   },
   {
-   "symbol": "TQQY",
-   "name": "GraniteShares YieldBOOST QQQ ETF",
+   "symbol": "RCGE",
+   "name": "RockCreek Global Equality ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TQQY"
+   "yahoo_symbol": "RCGE"
   },
   {
-   "symbol": "YSPY",
-   "name": "GraniteShares YieldBOOST SPY ETF",
+   "symbol": "RHLD",
+   "name": "Resolute Holdings Management - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YSPY"
+   "yahoo_symbol": "RHLD"
   },
   {
-   "symbol": "LUD",
-   "name": "Luda Technology Group Limited Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LUD"
+   "symbol": "WETO",
+   "name": "Webus International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WETO"
   },
   {
-   "symbol": "RAC.U",
-   "name": "Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant)",
+   "symbol": "CTEV",
+   "name": "Claritev Corporation Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "RAC.U"
+   "yahoo_symbol": "CTEV"
   }
  ],
  "removed": [
   {
-   "symbol": "ABRA",
-   "name": "AbraSilver Resource Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ABRA.V",
-   "instruments": [
-    {
-     "name": "Abrasilver Resource Corp.",
-     "symbol": "ABRA"
-    }
-   ]
-  },
-  {
-   "symbol": "LICY",
-   "name": "Li-Cycle Holdings Corp. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LICY"
-  },
-  {
-   "symbol": "SY",
-   "name": "So-Young International Inc. - American Depository Shares",
+   "symbol": "RILYM",
+   "name": "B. Riley Financial, Inc. - 6.375% Senior Notes due 2025",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SY"
+   "yahoo_symbol": "RILYM"
+  },
+  {
+   "symbol": "HCP",
+   "name": "HashiCorp, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HCP"
+  },
+  {
+   "symbol": "CMPOV",
+   "name": "CompoSecure, Inc.  - Class A Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMPOV"
+  },
+  {
+   "symbol": "RHLDV",
+   "name": "Resolute Holdings Management - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RHLDV"
+  },
+  {
+   "symbol": "MPLN",
+   "name": "MultiPlan Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MPLN"
+  },
+  {
+   "symbol": "NIVF",
+   "name": "NewGenIvf Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIVF"
   }
  ]
 }
