@@ -1,90 +1,114 @@
 {
  "added": [
   {
-   "symbol": "EBI",
-   "name": "The RBB Fund Trust Longview Advantage ETF",
+   "symbol": "FERAU",
+   "name": "Fifth Era Acquisition Corp I - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EBI"
+   "yahoo_symbol": "FERAU"
   },
   {
-   "symbol": "EVYM",
-   "name": "Eaton Vance High Income Municipal ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVYM"
-  },
-  {
-   "symbol": "LZMH",
-   "name": "LZ Technology Holdings Limited - Class B Ordinary Shares",
+   "symbol": "JL",
+   "name": "J-Long Group Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LZMH"
+   "yahoo_symbol": "JL"
   },
   {
-   "symbol": "NIVF",
-   "name": "NewGenIvf Group Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NIVF"
-  },
-  {
-   "symbol": "RCGE",
-   "name": "RockCreek Global Equality ETF",
+   "symbol": "LOKVU",
+   "name": "Live Oak Acquisition Corp. V - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RCGE"
+   "yahoo_symbol": "LOKVU"
   },
   {
-   "symbol": "RHLD",
-   "name": "Resolute Holdings Management - Common Stock",
+   "symbol": "NHICU",
+   "name": "NewHold Investment Corp III - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RHLD"
+   "yahoo_symbol": "NHICU"
   },
   {
-   "symbol": "WETO",
-   "name": "Webus International Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WETO"
+   "symbol": "OXLCG",
+   "name": "Oxford Lane Capital Corp. - 7.95% Notes due 2032",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXLCG"
   },
   {
-   "symbol": "CTEV",
-   "name": "Claritev Corporation Class A Common Stock",
+   "symbol": "FNGA",
+   "name": "MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "FNGA"
+  },
+  {
+   "symbol": "TE",
+   "name": "T1 Energy Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CTEV"
+   "yahoo_symbol": "TE"
+  },
+  {
+   "symbol": "TE.W",
+   "name": "T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TE.W"
   }
  ],
  "removed": [
   {
-   "symbol": "RILYM",
-   "name": "B. Riley Financial, Inc. - 6.375% Senior Notes due 2025",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RILYM"
-  },
-  {
-   "symbol": "HCP",
-   "name": "HashiCorp, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HCP"
-  },
-  {
-   "symbol": "CMPOV",
-   "name": "CompoSecure, Inc.  - Class A Common Stock Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMPOV"
-  },
-  {
-   "symbol": "RHLDV",
-   "name": "Resolute Holdings Management - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RHLDV"
-  },
-  {
-   "symbol": "MPLN",
-   "name": "MultiPlan Corporation Class A Common Stock",
+   "symbol": "FREY.W",
+   "name": "FREYR Battery Warrants each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
    "exchange": "NYSE",
-   "yahoo_symbol": "MPLN"
+   "yahoo_symbol": "FREY.W"
   },
   {
-   "symbol": "NIVF",
-   "name": "NewGenIvf Group Limited - Class A Ordinary Shares",
+   "symbol": "FNGU",
+   "name": "MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "FNGU"
+  },
+  {
+   "symbol": "JL",
+   "name": "J-Long Group Limited - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NIVF"
+   "yahoo_symbol": "JL"
+  },
+  {
+   "symbol": "RP",
+   "name": "RepliCel Life Sciences Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RP.V",
+   "instruments": [
+    {
+     "name": "Replicel Life Sciences Inc.",
+     "symbol": "RP"
+    }
+   ]
+  },
+  {
+   "symbol": "SBBA",
+   "name": "Scorpio Tankers Inc. 7.00% Senior Notes due 2025",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBBA"
+  },
+  {
+   "symbol": "EMKR",
+   "name": "EMCORE Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMKR"
+  },
+  {
+   "symbol": "FREY",
+   "name": "FREYR Battery, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FREY"
+  },
+  {
+   "symbol": "MTTR",
+   "name": "Matterport, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MTTR"
+  },
+  {
+   "symbol": "INFN",
+   "name": "Infinera Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INFN"
   }
  ]
 }

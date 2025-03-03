@@ -1,5 +1,5 @@
 {
- "date": "2025-02-28",
+ "date": "2025-03-03",
  "data": [
   {
    "symbol": "ONE",
@@ -8007,7 +8007,7 @@
   },
   {
    "symbol": "NURS",
-   "name": "Hydreight Technologies Inc",
+   "name": "Hydreight Technologies Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "NURS.V",
    "instruments": [
@@ -13934,18 +13934,6 @@
     {
      "name": "RenoWorks Software Inc",
      "symbol": "RW"
-    }
-   ]
-  },
-  {
-   "symbol": "RP",
-   "name": "RepliCel Life Sciences Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RP.V",
-   "instruments": [
-    {
-     "name": "Replicel Life Sciences Inc.",
-     "symbol": "RP"
     }
    ]
   },
@@ -23870,6 +23858,10 @@
     {
      "name": "Cardinal 7.75 Deb",
      "symbol": "CJ.DB"
+    },
+    {
+     "name": "Cardinal 8.25 Db",
+     "symbol": "CJ.DB.A"
     },
     {
      "name": "Cardinal Energy Wts",
@@ -37534,10 +37526,6 @@
     {
      "name": "N.A. Constr 5% Deb",
      "symbol": "NOA.DB.A"
-    },
-    {
-     "name": "N.A. Constr 5.5% Deb",
-     "symbol": "NOA.DB.B"
     }
    ]
   },
@@ -51990,12 +51978,6 @@
    "yahoo_symbol": "EMIF"
   },
   {
-   "symbol": "EMKR",
-   "name": "EMCORE Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EMKR"
-  },
-  {
    "symbol": "EML",
    "name": "Eastern Company (The) - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -53092,6 +53074,12 @@
    "name": "Ferrovial SE - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FER"
+  },
+  {
+   "symbol": "FERAU",
+   "name": "Fifth Era Acquisition Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FERAU"
   },
   {
    "symbol": "FEUZ",
@@ -56970,12 +56958,6 @@
    "yahoo_symbol": "INDY"
   },
   {
-   "symbol": "INFN",
-   "name": "Infinera Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "INFN"
-  },
-  {
    "symbol": "INFR",
    "name": "ClearBridge Sustainable Infrastructure ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -57752,7 +57734,7 @@
   {
    "symbol": "JL",
    "name": "J-Long Group Limited - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JL"
   },
   {
@@ -58765,7 +58747,7 @@
   },
   {
    "symbol": "LICN",
-   "name": "Lichen China Limited - Class A Ordinary Shares",
+   "name": "Lichen International Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LICN"
   },
@@ -59038,6 +59020,12 @@
    "name": "Logitech International S.A. - Registered Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LOGI"
+  },
+  {
+   "symbol": "LOKVU",
+   "name": "Live Oak Acquisition Corp. V - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOKVU"
   },
   {
    "symbol": "LOOP",
@@ -60768,12 +60756,6 @@
    "yahoo_symbol": "MTSR"
   },
   {
-   "symbol": "MTTR",
-   "name": "Matterport, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MTTR"
-  },
-  {
    "symbol": "MTVA",
    "name": "MetaVia Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -61396,6 +61378,12 @@
    "name": "Neurogene Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NGNE"
+  },
+  {
+   "symbol": "NHICU",
+   "name": "NewHold Investment Corp III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHICU"
   },
   {
    "symbol": "NHPAP",
@@ -63034,6 +63022,12 @@
    "name": "Oxford Lane Capital Corp. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OXLC"
+  },
+  {
+   "symbol": "OXLCG",
+   "name": "Oxford Lane Capital Corp. - 7.95% Notes due 2032",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXLCG"
   },
   {
    "symbol": "OXLCI",
@@ -79524,6 +79518,12 @@
    "yahoo_symbol": "FNF"
   },
   {
+   "symbol": "FNGA",
+   "name": "MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "FNGA"
+  },
+  {
    "symbol": "FNGD",
    "name": "MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038",
    "exchange": "NYSE ARCA",
@@ -79534,12 +79534,6 @@
    "name": "MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038",
    "exchange": "NYSE ARCA",
    "yahoo_symbol": "FNGO"
-  },
-  {
-   "symbol": "FNGU",
-   "name": "MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "FNGU"
   },
   {
    "symbol": "FNV",
@@ -79612,18 +79606,6 @@
    "name": "Friedman Industries Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "FRD"
-  },
-  {
-   "symbol": "FREY",
-   "name": "FREYR Battery, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FREY"
-  },
-  {
-   "symbol": "FREY.W",
-   "name": "FREYR Battery Warrants each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FREY.W"
   },
   {
    "symbol": "FRGE",
@@ -87738,12 +87720,6 @@
    "yahoo_symbol": "SB$D"
   },
   {
-   "symbol": "SBBA",
-   "name": "Scorpio Tankers Inc. 7.00% Senior Notes due 2025",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBBA"
-  },
-  {
    "symbol": "SBEV",
    "name": "Splash Beverage Group, Inc. (NV) Common Stock",
    "exchange": "NYSE MKT",
@@ -89206,6 +89182,18 @@
    "name": "Teledyne Technologies Incorporated Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TDY"
+  },
+  {
+   "symbol": "TE",
+   "name": "T1 Energy Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TE"
+  },
+  {
+   "symbol": "TE.W",
+   "name": "T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TE.W"
   },
   {
    "symbol": "TEAF",
