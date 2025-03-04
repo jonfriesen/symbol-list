@@ -1,114 +1,60 @@
 {
  "added": [
   {
-   "symbol": "FERAU",
-   "name": "Fifth Era Acquisition Corp I - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FERAU"
-  },
-  {
-   "symbol": "JL",
-   "name": "J-Long Group Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JL"
-  },
-  {
-   "symbol": "LOKVU",
-   "name": "Live Oak Acquisition Corp. V - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LOKVU"
-  },
-  {
-   "symbol": "NHICU",
-   "name": "NewHold Investment Corp III - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NHICU"
-  },
-  {
-   "symbol": "OXLCG",
-   "name": "Oxford Lane Capital Corp. - 7.95% Notes due 2032",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OXLCG"
-  },
-  {
-   "symbol": "FNGA",
-   "name": "MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "FNGA"
-  },
-  {
-   "symbol": "TE",
-   "name": "T1 Energy Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TE"
-  },
-  {
-   "symbol": "TE.W",
-   "name": "T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TE.W"
-  }
- ],
- "removed": [
-  {
-   "symbol": "FREY.W",
-   "name": "FREYR Battery Warrants each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FREY.W"
-  },
-  {
-   "symbol": "FNGU",
-   "name": "MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "FNGU"
-  },
-  {
-   "symbol": "JL",
-   "name": "J-Long Group Limited - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JL"
-  },
-  {
-   "symbol": "RP",
-   "name": "RepliCel Life Sciences Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RP.V",
+   "symbol": "GIDY",
+   "name": "Guardian i3 Global Dividend Premium Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIDY.TO",
    "instruments": [
     {
-     "name": "Replicel Life Sciences Inc.",
-     "symbol": "RP"
+     "name": "Guard I3 GlDv Py Fnd",
+     "symbol": "GIDY"
     }
    ]
   },
   {
-   "symbol": "SBBA",
-   "name": "Scorpio Tankers Inc. 7.00% Senior Notes due 2025",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBBA"
-  },
-  {
-   "symbol": "EMKR",
-   "name": "EMCORE Corporation - Common Stock",
+   "symbol": "RDGT",
+   "name": "Ridgetech, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EMKR"
+   "yahoo_symbol": "RDGT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HTC",
+   "name": "HTC Purenergy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HTC.V",
+   "instruments": [
+    {
+     "name": "HTC Purenergy Inc",
+     "symbol": "HTC"
+    }
+   ]
   },
   {
-   "symbol": "FREY",
-   "name": "FREYR Battery, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FREY"
+   "symbol": "IBIO",
+   "name": "iBio, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IBIO"
   },
   {
-   "symbol": "MTTR",
-   "name": "Matterport, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MTTR"
-  },
-  {
-   "symbol": "INFN",
-   "name": "Infinera Corporation - Common Stock",
+   "symbol": "CFB",
+   "name": "CrossFirst Bankshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "INFN"
+   "yahoo_symbol": "CFB"
+  },
+  {
+   "symbol": "CJJD",
+   "name": "China Jo-Jo Drugstores, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CJJD"
+  },
+  {
+   "symbol": "PFC",
+   "name": "Premier Financial Corp.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PFC"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2025-03-03",
+ "date": "2025-03-04",
  "data": [
   {
    "symbol": "ONE",
@@ -7970,18 +7970,6 @@
    ]
   },
   {
-   "symbol": "HTC",
-   "name": "HTC Purenergy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HTC.V",
-   "instruments": [
-    {
-     "name": "HTC Purenergy Inc",
-     "symbol": "HTC"
-    }
-   ]
-  },
-  {
    "symbol": "HMAN",
    "name": "Huntsman Exploration Inc.",
    "exchange": "TSXV",
@@ -14278,10 +14266,6 @@
     {
      "name": "ROK Resources Inc.",
      "symbol": "ROK"
-    },
-    {
-     "name": "ROK Resources Inc. wt 04MAR2025",
-     "symbol": "ROK.WT"
     }
    ]
   },
@@ -29838,6 +29822,22 @@
    ]
   },
   {
+   "symbol": "CHPS",
+   "name": "Global X Artificial Intelligence Semiconductor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHPS.TO",
+   "instruments": [
+    {
+     "name": "GblX Semiconduct Inx",
+     "symbol": "CHPS"
+    },
+    {
+     "name": "GblX Semicondct InxU",
+     "symbol": "CHPS.U"
+    }
+   ]
+  },
+  {
    "symbol": "HBAL",
    "name": "Global X Balanced Asset Allocation ETF",
    "exchange": "TSX",
@@ -29898,18 +29898,6 @@
     {
      "name": "GblX Cdn SlctUniv BD",
      "symbol": "HBB"
-    }
-   ]
-  },
-  {
-   "symbol": "UTIL",
-   "name": "Global X Canadian Utility Services High Dividend Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "UTIL.TO",
-   "instruments": [
-    {
-     "name": "GblX CdnUtilSrvDiv ",
-     "symbol": "UTIL"
     }
    ]
   },
@@ -30202,6 +30190,18 @@
    ]
   },
   {
+   "symbol": "PPLN",
+   "name": "Global X Equal Weight Canadian Pipelines Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PPLN.TO",
+   "instruments": [
+    {
+     "name": "GblX PplnEngyServA",
+     "symbol": "PPLN"
+    }
+   ]
+  },
+  {
    "symbol": "HCRE",
    "name": "Global X Equal Weight Canadian REITs Index Corporate Class ETF",
    "exchange": "TSX",
@@ -30222,6 +30222,18 @@
     {
      "name": "Global X EWCT Id ETF",
      "symbol": "RING"
+    }
+   ]
+  },
+  {
+   "symbol": "UTIL",
+   "name": "Global X Equal Weight Canadian Utilities Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UTIL.TO",
+   "instruments": [
+    {
+     "name": "GblX CdnUtilSrvDiv ",
+     "symbol": "UTIL"
     }
    ]
   },
@@ -30550,18 +30562,6 @@
    ]
   },
   {
-   "symbol": "PPLN",
-   "name": "Global X Pipelines \u0026 Energy Services Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PPLN.TO",
-   "instruments": [
-    {
-     "name": "GblX PplnEngyServA",
-     "symbol": "PPLN"
-    }
-   ]
-  },
-  {
    "symbol": "HRAA",
    "name": "Global X ReSolve Adaptive Asset Allocation Corporate Class ETF",
    "exchange": "TSX",
@@ -30746,22 +30746,6 @@
     {
      "name": "GblX Sznal Rota E Un",
      "symbol": "HAC"
-    }
-   ]
-  },
-  {
-   "symbol": "CHPS",
-   "name": "Global X Semiconductor Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CHPS.TO",
-   "instruments": [
-    {
-     "name": "GblX Semiconduct Inx",
-     "symbol": "CHPS"
-    },
-    {
-     "name": "GblX Semicondct InxU",
-     "symbol": "CHPS.U"
     }
    ]
   },
@@ -31230,6 +31214,18 @@
     {
      "name": "Guardian PremYldUnhg",
      "symbol": "GDPY.B"
+    }
+   ]
+  },
+  {
+   "symbol": "GIDY",
+   "name": "Guardian i3 Global Dividend Premium Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIDY.TO",
+   "instruments": [
+    {
+     "name": "Guard I3 GlDv Py Fnd",
+     "symbol": "GIDY"
     }
    ]
   },
@@ -37990,6 +37986,10 @@
     {
      "name": "Partners Val AA Pr14",
      "symbol": "PVS.PR.L"
+    },
+    {
+     "name": "Partners Val AA Pr15",
+     "symbol": "PVS.PR.M"
     }
    ]
   },
@@ -48840,12 +48840,6 @@
    "yahoo_symbol": "CFA"
   },
   {
-   "symbol": "CFB",
-   "name": "CrossFirst Bankshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CFB"
-  },
-  {
    "symbol": "CFBK",
    "name": "CF Bankshares Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -49204,12 +49198,6 @@
    "name": "Chijet Motor Company, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CJET"
-  },
-  {
-   "symbol": "CJJD",
-   "name": "China Jo-Jo Drugstores, Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CJJD"
   },
   {
    "symbol": "CJMB",
@@ -63558,12 +63546,6 @@
    "yahoo_symbol": "PFBC"
   },
   {
-   "symbol": "PFC",
-   "name": "Premier Financial Corp.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PFC"
-  },
-  {
    "symbol": "PFF",
    "name": "iShares Preferred and Income Securities ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -65350,6 +65332,12 @@
    "name": "Redfin Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "RDFN"
+  },
+  {
+   "symbol": "RDGT",
+   "name": "Ridgetech, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RDGT"
   },
   {
    "symbol": "RDHL",
@@ -81388,12 +81376,6 @@
    "name": "i-80 Gold Corp. Common Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "IAUX"
-  },
-  {
-   "symbol": "IBIO",
-   "name": "iBio, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "IBIO"
   },
   {
    "symbol": "IBM",

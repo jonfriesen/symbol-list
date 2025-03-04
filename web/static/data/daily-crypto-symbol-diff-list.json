@@ -1,71 +1,28 @@
 {
  "added": [
   {
-   "symbol": "BDCA",
-   "name": "BitDCA (BDCA)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "CURIO",
-   "name": "Curio Governance (CURIO)",
-   "built_on": "BOBA"
-  },
-  {
-   "symbol": "REALUSD",
-   "name": "Real USD (REALUSD)",
-   "built_on": "ARB"
-  },
-  {
-   "symbol": "HEARTN",
-   "name": "Heart Number (HEARTN)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "STAR10",
-   "name": "Ronaldinho Coin (STAR10)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "MIAO",
-   "name": "MIAOCoin (MIAO)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "BROCCO",
-   "name": "Broccoli (firstbroccoli.com) (BROCCO)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "CGTV2",
-   "name": "Curio Gas Token (CGTV2)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "FINVESTA",
-   "name": "Finvesta (FINVESTA)",
-   "built_on": "PLS"
-  },
-  {
-   "symbol": "CHPD",
-   "name": "Chirppad (CHPD)",
+   "symbol": "DOGONB",
+   "name": "Dog on Base (DOGONB)",
    "built_on": "BASE"
   },
   {
-   "symbol": "PURPLEBTC",
-   "name": "Purple Bitcoin (PURPLEBTC)",
+   "symbol": "COLLAT",
+   "name": "Collaterize (COLLAT)",
    "built_on": "SOL"
   },
   {
-   "symbol": "IP",
-   "name": "Story (IP)"
+   "symbol": "ORACOLXOR",
+   "name": "Oracolxor (ORACOLXOR)"
   },
   {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
+   "symbol": "JOBSEEK",
+   "name": "JobSeek AI (JOBSEEK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MEMHASH",
+   "name": "Memhash (MEMHASH)",
+   "built_on": "TON"
   },
   {
    "symbol": "BANK",
@@ -73,33 +30,101 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "EURRV1",
-   "name": "StablR Euro v1 (EURRV1)"
+   "symbol": "SSR",
+   "name": "SOL Strategic Reserve (SSR)",
+   "built_on": "SOL"
   },
   {
-   "symbol": "AIMXV1",
-   "name": "Aimedis v1 (AIMXV1)"
-  }
- ],
- "removed": [
-  {
-   "symbol": "CURIO",
-   "name": "Curio Governance (CURIO)",
-   "built_on": "ETH"
+   "symbol": "AIVA",
+   "name": "AI Voice Agents (AIVA)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "USDR",
-   "name": "Real USD (USDR)",
-   "built_on": "ARB"
+   "symbol": "USDN",
+   "name": "Neutrino USD (USDN)"
   },
   {
-   "symbol": "FINVESTA",
-   "name": "Finvesta (FINVESTA)",
-   "built_on": "BNB"
+   "symbol": "LLD",
+   "name": "Liberland dollar (LLD)"
+  },
+  {
+   "symbol": "ROP",
+   "name": "Redemption Of Pets (ROP)",
+   "built_on": "SOL"
   },
   {
    "symbol": "ZEDCOIN",
    "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "YTC",
+   "name": "Yachtscoin (YTC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USDR",
+   "name": "StablR USD (USDR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIMX",
+   "name": "Aimedis (AIMX)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "101M",
+   "name": "101M (101M)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CRYPTOAGENT",
+   "name": "CRYPTO AGENT TRUMP (CRYPTOAGENT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BULLBEAR",
+   "name": "BullBear AI (BULLBEAR)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "FRENC",
+   "name": "Frencoin (FRENC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MOZA",
+   "name": "Mozaic (MOZA)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "XPI",
+   "name": "XPi (XPI)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AIMX",
+   "name": "Aimedis (AIMX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDN",
+   "name": "Neutrino USD (USDN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORA",
+   "name": "Oracolxor (ORA)"
   }
  ]
 }
