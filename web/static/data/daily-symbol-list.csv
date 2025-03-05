@@ -2334,7 +2334,7 @@ EQCC,Global X All-Equity Asset Allocation Covered Call ETF,TSX,EQCC.TO,GblX Eqty
 HEQT,Global X All-Equity Asset Allocation ETF,TSX,HEQT.TO,GblX Eq Ast Alloc E,HEQT
 AIGO,Global X Artificial Intelligence & Technology Index ETF,TSX,AIGO.TO,GlobalX AI&TechInd A,AIGO
 MTRX,Global X Artificial Intelligence Infrastructure Index ETF,TSX,MTRX.TO,Global X AI Infr ETF,MTRX
-CHPS,Global X Artificial Intelligence Semiconductor Index ETF,TSX,CHPS.TO,GblX Semiconduct Inx,CHPS,GblX Semicondct InxU,CHPS.U
+CHPS,Global X Artificial Intelligence Semiconductor Index ETF,TSX,CHPS.TO,GblX AI SemiCond ETF,CHPS,GblX AI SEMIC ETF US,CHPS.U
 HBAL,Global X Balanced Asset Allocation ETF,TSX,HBAL.TO,GlblX Bal Ast Aloc E,HBAL
 HBGD,Global X Big Data & Hardware Index ETF,TSX,HBGD.TO,GblX BigDataHrdwr A,HBGD,GblX BigDataHrdwrUS,HBGD.U
 HXH,Global X Canadian High Dividend Index Corporate Class ETF,TSX,HXH.TO,GblX CdnHiDivInxShr,HXH
@@ -2364,10 +2364,10 @@ HBNK,Global X Equal Weight Canadian Banks Index ETF,TSX,HBNK.TO,GblX EqWgtBanksI
 MART,Global X Equal Weight Canadian Groceries & Staples Index ETF,TSX,MART.TO,Global X EWC GSI ETF,MART
 SAFE,Global X Equal Weight Canadian Insurance Index ETF,TSX,SAFE.TO,Global X EWC InI ETF,SAFE
 NRGY,Global X Equal Weight Canadian Oil & Gas Index ETF,TSX,NRGY.TO,Global X EWC OGI ETF,NRGY
-PPLN,Global X Equal Weight Canadian Pipelines Index ETF,TSX,PPLN.TO,GblX PplnEngyServA,PPLN
+PPLN,Global X Equal Weight Canadian Pipelines Index ETF,TSX,PPLN.TO,GblX EqlW CadPI ETF,PPLN
 HCRE,Global X Equal Weight Canadian REITs Index Corporate Class ETF,TSX,HCRE.TO,GblX EqlWgtCA REIT,HCRE
 RING,Global X Equal Weight Canadian Telecommunications Index ETF,TSX,RING.TO,Global X EWCT Id ETF,RING
-UTIL,Global X Equal Weight Canadian Utilities Index ETF,TSX,UTIL.TO,GblX CdnUtilSrvDiv ,UTIL
+UTIL,Global X Equal Weight Canadian Utilities Index ETF,TSX,UTIL.TO,GblX EqW CdUtIdx ETF,UTIL
 HXX,Global X Europe 50 Index Corporate Class ETF,TSX,HXX.TO,GblX EURO 50IndxShr,HXX
 ETHI,Global X Global Sustainability Leaders Index ETF,TSX,ETHI.TO,GblX GlbSustLdr Inx ,ETHI
 HUG,Global X Gold ETF,TSX,HUG.TO,Glbl X Gold ETF,HUG
@@ -2479,15 +2479,20 @@ HBIL,Hamilton U.S. T-Bill YIELD MAXIMIZER TM ETF,TSX,HBIL.TO,HamUS TBYld MaxETF 
 UMAX,Hamilton Utilities YIELD MAXIMIZER TM ETF,TSX,UMAX.TO,Ham UtilYldMx TM ETF,UMAX
 HMM.A,Hammond Manufacturing Company Limited,TSX,HMM.A.TO,Hammond Mfg Cl A SV,HMM.A
 HPS.A,Hammond Power Solutions Inc.,TSX,HPS.A.TO,Hammond Power A SV,HPS.A
+GOGY,Harvest Alphabet Enhanced High Income Shares ETF,TSX,GOGY.TO,Harv Alph EHIShr ETF,GOGY
 AMHE,Harvest Amazon Enhanced High Income Shares ETF,TSX,AMHE.TO,HvAmzn EnhHIShr ETFA,AMHE,HvAmzn EnhHIShr ETFU,AMHE.U
 AMZH,Harvest Amazon High Income Shares ETF,TSX,AMZH.TO,HvAmzn HghInShr ETFA,AMZH,HvAmzn HghInShr ETFU,AMZH.U
+AMDY,Harvest AMD Enhanced High Income Shares ETF,TSX,AMDY.TO,Harv AMD EHIShrs ETF,AMDY
 HBIE,Harvest Balanced Income & Growth Enhanced ETF,TSX,HBIE.TO,Harv Bl Inc GrEh Etf,HBIE
 HBIG,Harvest Balanced Income & Growth ETF,TSX,HBIG.TO,Harv Bl Inc & Gr Etf,HBIG
 HBF,Harvest Brand Leaders Plus Income ETF,TSX,HBF.TO,HarvestBrndLdr+ A Un,HBF,HarvestBrndLdr+B U-H,HBF.B,HarvestBrndLdr+US Un,HBF.U
+AVGY,Harvest Broadcom Enhanced High Income Shares ETF,TSX,AVGY.TO,Harv BrdCm EHIS ETF,AVGY
 HLIF,Harvest Canadian Equity Income Leaders ETF,TSX,HLIF.TO,Harvest CdnEq Incm A,HLIF
 TBIL,Harvest Canadian T-Bill ETF,TSX,TBIL.TO,Harvest Cdn T-Bill,TBIL
 HCLN,Harvest Clean Energy ETF,TSX,HCLN.TO,Harvest CleanEngy Un,HCLN
+CNYE,Harvest Coinbase Enhanced High Income Shares ETF,TSX,CNYE.TO,Harv CoinBs EHIS ETF,CNYE
 CONY,Harvest Coinbase High Income Shares ETF,TSX,CONY.TO,Harvest Coin HIS ETF,CONY
+COSY,Harvest Costco Enhanced High Income Shares ETF,TSX,COSY.TO,Harv Costco EHIS ETF,COSY
 HRIF,Harvest Diversified Equity Income ETF,TSX,HRIF.TO,Harvest Divers Eq Un,HRIF
 HHIS,Harvest Diversified High Income Shares ETF,TSX,HHIS.TO,Harvest Dive HIS ETF,HHIS
 HDIF,Harvest Diversified Monthly Income ETF,TSX,HDIF.TO,Harvest DiverMoIncmA,HDIF
@@ -2504,7 +2509,9 @@ HIND,Harvest Industrial Leaders Income ETF,TSX,HIND.TO,Harv Ind Ldr Inc Etf,HIND
 METE,Harvest Meta Enhanced High Income Shares ETF,TSX,METE.TO,Harvest MeE HIS ETF,METE
 MSHE,Harvest Microsoft Enhanced High Income Shares ETF,TSX,MSHE.TO,HvMsft EHgIn ShrETFA,MSHE,HvMsft EHgIn ShrETFU,MSHE.U
 MSFH,Harvest Microsoft High Income Shares ETF,TSX,MSFH.TO,HvMsft HghIn ShrETFA,MSFH,HvMsft HghIn ShrETFU,MSFH.U
+MSTE,Harvest MicroStrategy Enhanced High Income Shares ETF,TSX,MSTE.TO,Harv MicStgy EHISETF,MSTE
 MSTY,Harvest MicroStrategy High Income Shares ETF,TSX,MSTY.TO,Harvest Micr HIS ETF,MSTY
+NFLY,Harvest Netflix Enhanced High Income Shares ETF,TSX,NFLY.TO,Harv Ntflix EHIS ETF,NFLY
 NVHE,Harvest NVIDIA Enhanced High Income Shares ETF,TSX,NVHE.TO,HvNVIDIA EHInSh ETFA,NVHE,HvNVIDIA EHInSh ETFU,NVHE.U
 NVDH,Harvest NVIDIA High Income Shares ETF,TSX,NVDH.TO,HvNVIDIA HInShr ETFA,NVDH,HvNVIDIA HInShr ETFU,NVDH.U
 PLTE,Harvest Palantir Enhanced High Income Shares ETF,TSX,PLTE.TO,Harvest PaEn HIS ETF,PLTE
@@ -2960,7 +2967,6 @@ PKI,Parkland Corporation,TSX,PKI.TO,Parkland Corp.,PKI
 PVS.PR.G,Partners Value Split Corp.,TSX,PVS.PR.G.TO,Partners Val AA Pr 9,PVS.PR.G,Partners ValAA Pr 10,PVS.PR.H,Partners ValAA Pr 11,PVS.PR.I,Partners ValAA Pr 12,PVS.PR.J,Partners ValAA Pr 13,PVS.PR.K,Partners Val AA Pr14,PVS.PR.L,Partners Val AA Pr15,PVS.PR.M
 PSI,Pason Systems Inc.,TSX,PSI.TO,Pason Systems Inc.,PSI
 PMET,Patriot Battery Metals Inc.,TSX,PMET.TO,Patriot Battery Mtls,PMET
-PAY,Payfare Inc.,TSX,PAY.TO,Payfare Inc. J Cl A,PAY
 PPL,Pembina Pipeline Corporation,TSX,PPL.TO,Pembina Pipeline,PPL,Pembina Pipe Pr 21,PPL.PF.A,Pembina Pipe Pr 25,PPL.PF.E,Pembina Pipe Sr 1 Pr,PPL.PR.A,Pembina Pipe Sr 3 Pr,PPL.PR.C,Pembina Pipe Sr 5 Pr,PPL.PR.E,Pembina Pipe Sr 7 Pr,PPL.PR.G,Pembina Pipe Sr 9 Pr,PPL.PR.I,Pembina Pipe Pr 15,PPL.PR.O,Pembina Pipe Pr 17,PPL.PR.Q,Pembina Pipe Pr 19,PPL.PR.S
 PPTA,Perpetua Resources Corp.,TSX,PPTA.TO,Perpetua Res Corp. J,PPTA
 PRU,Perseus Mining Limited,TSX,PRU.TO,Perseus Mining Ord J,PRU
@@ -4432,7 +4438,6 @@ CRGO,Freightos Limited - Ordinary shares,NASDAQ Capital Market,CRGO
 CRGOW,Freightos Limited - Warrants,NASDAQ Capital Market,CRGOW
 CRGX,"CARGO Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRGX
 CRIS,"Curis, Inc. - Common Stock",NASDAQ Capital Market,CRIS
-CRKN,Crown Electrokinetics Corp. - Common Stock,NASDAQ Capital Market,CRKN
 CRMD,CorMedix Inc. - Common Stock,NASDAQ Global MarketSM,CRMD
 CRML,Critical Metals Corp. - Ordinary Shares,NASDAQ Global MarketSM,CRML
 CRMLW,Critical Metals Corp. - Warrants,NASDAQ Capital Market,CRMLW
@@ -5485,6 +5490,7 @@ IBEX,IBEX Limited - Common Share,NASDAQ Global MarketSM,IBEX
 IBG,Innovation Beverage Group Limited - Ordinary Shares,NASDAQ Capital Market,IBG
 IBGA,iShares iBonds Dec 2044 Term Treasury ETF,NASDAQ Global MarketSM,IBGA
 IBGK,iShares iBonds Dec 2054 Term Treasury ETF,NASDAQ Global MarketSM,IBGK
+IBIO,"iBio, Inc. - Common Stock",NASDAQ Capital Market,IBIO
 IBIT,iShares Bitcoin Trust ETF,NASDAQ Global MarketSM,IBIT
 IBKR,"Interactive Brokers Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,IBKR
 IBOC,International Bancshares Corporation - Common Stock,NASDAQ Global Select MarketSM,IBOC
@@ -6341,8 +6347,6 @@ NIVFW,NewGenIvf Group Limited - Warrants,NASDAQ Capital Market,NIVFW
 NIXT,Research Affiliates Deletions ETF,NASDAQ Global MarketSM,NIXT
 NIXX,"Nixxy, Inc. - Common Stock",NASDAQ Capital Market,NIXX
 NIXXW,"Nixxy, Inc. - Warrant",NASDAQ Capital Market,NIXXW
-NKGN,"NKGen Biotech, Inc. - Common Stock",NASDAQ Global MarketSM,NKGN
-NKGNW,"NKGen Biotech, Inc. - Warrants",NASDAQ Capital Market,NKGNW
 NKSH,"National Bankshares, Inc. - Common Stock",NASDAQ Capital Market,NKSH
 NKTR,Nektar Therapeutics - Common Stock,NASDAQ Capital Market,NKTR
 NKTX,"Nkarta, Inc. - Common Stock",NASDAQ Global Select MarketSM,NKTX
@@ -6755,6 +6759,7 @@ PMEC,Primech Holdings Ltd. - Ordinary Shares,NASDAQ Capital Market,PMEC
 PMN,ProMIS Neurosciences Inc. - Common Shares,NASDAQ Capital Market,PMN
 PMTS,CPI Card Group Inc. - Common Stock,NASDAQ Global MarketSM,PMTS
 PMVP,"PMV Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,PMVP
+PN,Skycorp Solar Group Limited - Ordinary Shares,NASDAQ Capital Market,PN
 PNBK,Patriot National Bancorp Inc. - Common Stock,NASDAQ Global MarketSM,PNBK
 PNFP,"Pinnacle Financial Partners, Inc. - Common Stock",NASDAQ Global Select MarketSM,PNFP
 PNFPP,"Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B",NASDAQ Global Select MarketSM,PNFPP
@@ -8364,6 +8369,7 @@ APO$A,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Prefe
 APOS,"Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",NYSE,APOS
 APT,"Alpha Pro Tech, Ltd. Common Stock",NYSE MKT,APT
 APTV,Aptiv PLC Ordinary Shares,NYSE,APTV
+APUS,"Apimeds Pharmaceuticals US, Inc. Common Stock",NYSE MKT,APUS
 AQN,Algonquin Power & Utilities Corp. Common Shares,NYSE,AQN
 AQNB,"Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1, 2079",NYSE,AQNB
 AR,Antero Resources Corporation Common Stock,NYSE,AR
@@ -9834,6 +9840,7 @@ KNF,Knife Riv Holding Co. Common Stock,NYSE,KNF
 KNOP,KNOT Offshore Partners LP Common Units representing Limited Partner Interests,NYSE,KNOP
 KNSL,"Kinsale Capital Group, Inc. Common Stock",NYSE,KNSL
 KNTK,Kinetik Holdings Inc. Class A Common Stock,NYSE,KNTK
+KNW,"Know Labs, Inc. Common Stock",NYSE MKT,KNW
 KNX,Knight-Swift Transportation Holdings Inc.,NYSE,KNX
 KO,Coca-Cola Company (The) Common Stock,NYSE,KO
 KODK,Eastman Kodak Company Common New,NYSE,KODK
@@ -11349,7 +11356,6 @@ ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,NYSE,ZIM
 ZIP,"ZipRecruiter, Inc. Class A Common Stock",NYSE,ZIP
 ZK,ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares),NYSE,ZK
 ZKH,"ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",NYSE,ZKH
-ZOM,Zomedica Corp. Common Shares,NYSE MKT,ZOM
 ZONE,CleanCore Solutions Inc. Class B Common Stock,NYSE MKT,ZONE
 ZTEST,BATS BZX Exchange Common Stock (test issue),BATS,ZTEST
 ZTO,"ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.",NYSE,ZTO

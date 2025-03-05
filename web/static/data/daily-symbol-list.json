@@ -1,5 +1,5 @@
 {
- "date": "2025-03-04",
+ "date": "2025-03-05",
  "data": [
   {
    "symbol": "ONE",
@@ -29828,11 +29828,11 @@
    "yahoo_symbol": "CHPS.TO",
    "instruments": [
     {
-     "name": "GblX Semiconduct Inx",
+     "name": "GblX AI SemiCond ETF",
      "symbol": "CHPS"
     },
     {
-     "name": "GblX Semicondct InxU",
+     "name": "GblX AI SEMIC ETF US",
      "symbol": "CHPS.U"
     }
    ]
@@ -30196,7 +30196,7 @@
    "yahoo_symbol": "PPLN.TO",
    "instruments": [
     {
-     "name": "GblX PplnEngyServA",
+     "name": "GblX EqlW CadPI ETF",
      "symbol": "PPLN"
     }
    ]
@@ -30232,7 +30232,7 @@
    "yahoo_symbol": "UTIL.TO",
    "instruments": [
     {
-     "name": "GblX CdnUtilSrvDiv ",
+     "name": "GblX EqW CdUtIdx ETF",
      "symbol": "UTIL"
     }
    ]
@@ -31718,6 +31718,18 @@
    ]
   },
   {
+   "symbol": "GOGY",
+   "name": "Harvest Alphabet Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GOGY.TO",
+   "instruments": [
+    {
+     "name": "Harv Alph EHIShr ETF",
+     "symbol": "GOGY"
+    }
+   ]
+  },
+  {
    "symbol": "AMHE",
    "name": "Harvest Amazon Enhanced High Income Shares ETF",
    "exchange": "TSX",
@@ -31746,6 +31758,18 @@
     {
      "name": "HvAmzn HghInShr ETFU",
      "symbol": "AMZH.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AMDY",
+   "name": "Harvest AMD Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMDY.TO",
+   "instruments": [
+    {
+     "name": "Harv AMD EHIShrs ETF",
+     "symbol": "AMDY"
     }
    ]
   },
@@ -31794,6 +31818,18 @@
    ]
   },
   {
+   "symbol": "AVGY",
+   "name": "Harvest Broadcom Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AVGY.TO",
+   "instruments": [
+    {
+     "name": "Harv BrdCm EHIS ETF",
+     "symbol": "AVGY"
+    }
+   ]
+  },
+  {
    "symbol": "HLIF",
    "name": "Harvest Canadian Equity Income Leaders ETF",
    "exchange": "TSX",
@@ -31830,6 +31866,18 @@
    ]
   },
   {
+   "symbol": "CNYE",
+   "name": "Harvest Coinbase Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNYE.TO",
+   "instruments": [
+    {
+     "name": "Harv CoinBs EHIS ETF",
+     "symbol": "CNYE"
+    }
+   ]
+  },
+  {
    "symbol": "CONY",
    "name": "Harvest Coinbase High Income Shares ETF",
    "exchange": "TSX",
@@ -31838,6 +31886,18 @@
     {
      "name": "Harvest Coin HIS ETF",
      "symbol": "CONY"
+    }
+   ]
+  },
+  {
+   "symbol": "COSY",
+   "name": "Harvest Costco Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COSY.TO",
+   "instruments": [
+    {
+     "name": "Harv Costco EHIS ETF",
+     "symbol": "COSY"
     }
    ]
   },
@@ -32062,6 +32122,18 @@
    ]
   },
   {
+   "symbol": "MSTE",
+   "name": "Harvest MicroStrategy Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTE.TO",
+   "instruments": [
+    {
+     "name": "Harv MicStgy EHISETF",
+     "symbol": "MSTE"
+    }
+   ]
+  },
+  {
    "symbol": "MSTY",
    "name": "Harvest MicroStrategy High Income Shares ETF",
    "exchange": "TSX",
@@ -32070,6 +32142,18 @@
     {
      "name": "Harvest Micr HIS ETF",
      "symbol": "MSTY"
+    }
+   ]
+  },
+  {
+   "symbol": "NFLY",
+   "name": "Harvest Netflix Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NFLY.TO",
+   "instruments": [
+    {
+     "name": "Harv Ntflix EHIS ETF",
+     "symbol": "NFLY"
     }
    ]
   },
@@ -38014,18 +38098,6 @@
     {
      "name": "Patriot Battery Mtls",
      "symbol": "PMET"
-    }
-   ]
-  },
-  {
-   "symbol": "PAY",
-   "name": "Payfare Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "PAY.TO",
-   "instruments": [
-    {
-     "name": "Payfare Inc. J Cl A",
-     "symbol": "PAY"
     }
    ]
   },
@@ -50010,12 +50082,6 @@
    "yahoo_symbol": "CRIS"
   },
   {
-   "symbol": "CRKN",
-   "name": "Crown Electrokinetics Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CRKN"
-  },
-  {
    "symbol": "CRMD",
    "name": "CorMedix Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -56328,6 +56394,12 @@
    "yahoo_symbol": "IBGK"
   },
   {
+   "symbol": "IBIO",
+   "name": "iBio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IBIO"
+  },
+  {
    "symbol": "IBIT",
    "name": "iShares Bitcoin Trust ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -61464,18 +61536,6 @@
    "yahoo_symbol": "NIXXW"
   },
   {
-   "symbol": "NKGN",
-   "name": "NKGen Biotech, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NKGN"
-  },
-  {
-   "symbol": "NKGNW",
-   "name": "NKGen Biotech, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NKGNW"
-  },
-  {
    "symbol": "NKSH",
    "name": "National Bankshares, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -63946,6 +64006,12 @@
    "name": "PMV Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PMVP"
+  },
+  {
+   "symbol": "PN",
+   "name": "Skycorp Solar Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PN"
   },
   {
    "symbol": "PNBK",
@@ -73602,6 +73668,12 @@
    "yahoo_symbol": "APTV"
   },
   {
+   "symbol": "APUS",
+   "name": "Apimeds Pharmaceuticals US, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "APUS"
+  },
+  {
    "symbol": "AQN",
    "name": "Algonquin Power \u0026 Utilities Corp. Common Shares",
    "exchange": "NYSE",
@@ -82420,6 +82492,12 @@
    "name": "Kinetik Holdings Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "KNTK"
+  },
+  {
+   "symbol": "KNW",
+   "name": "Know Labs, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KNW"
   },
   {
    "symbol": "KNX",
@@ -91510,12 +91588,6 @@
    "name": "ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "ZKH"
-  },
-  {
-   "symbol": "ZOM",
-   "name": "Zomedica Corp. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ZOM"
   },
   {
    "symbol": "ZONE",
