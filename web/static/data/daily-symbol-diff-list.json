@@ -1,54 +1,120 @@
 {
  "added": [
   {
-   "symbol": "DGX",
-   "name": "Digi Power X Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DGX.V",
-   "instruments": [
-    {
-     "name": "Digi Power X Inc.",
-     "symbol": "DGX"
-    }
-   ]
+   "symbol": "MCRP",
+   "name": "Micropolis Holding Company Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MCRP"
+  },
+  {
+   "symbol": "ADVB",
+   "name": "Advanced Biomed Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADVB"
+  },
+  {
+   "symbol": "ALLW",
+   "name": "SPDR Bridgewater All Weather ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALLW"
+  },
+  {
+   "symbol": "APED",
+   "name": "STKd 100% MSTR \u0026 100% COIN ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APED"
+  },
+  {
+   "symbol": "CAPS",
+   "name": "Capstone Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CAPS"
+  },
+  {
+   "symbol": "JFB",
+   "name": "JFB Construction Holdings - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JFB"
+  },
+  {
+   "symbol": "KMTS",
+   "name": "Kestra Medical Technologies, Ltd. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KMTS"
+  },
+  {
+   "symbol": "LAYS",
+   "name": "STKd 100% NVDA \u0026 100% AMD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAYS"
+  },
+  {
+   "symbol": "RDTY",
+   "name": "YieldMax R2000 0DTE Covered Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RDTY"
+  },
+  {
+   "symbol": "SPCY",
+   "name": "STKd 100% SMCI \u0026 100% NVDA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPCY"
+  },
+  {
+   "symbol": "TBH",
+   "name": "Brag House Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TBH"
+  },
+  {
+   "symbol": "ZIPP",
+   "name": "STKd 100% UBER \u0026 100% TSLA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZIPP"
   }
  ],
  "removed": [
   {
-   "symbol": "BLB.UN",
-   "name": "Bloom Select Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "BLB.UN.TO",
-   "instruments": [
-    {
-     "name": "Bloom Select Incm Un",
-     "symbol": "BLB.UN"
-    }
-   ]
+   "symbol": "AQUNR",
+   "name": "Aquaron Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AQUNR"
   },
   {
-   "symbol": "PNST",
-   "name": "Pinstripes Holdings, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PNST"
-  },
-  {
-   "symbol": "DGHI",
-   "name": "Digihost Technology Inc.",
+   "symbol": "MARV",
+   "name": "Marvel Discovery Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DGHI.V",
+   "yahoo_symbol": "MARV.V",
    "instruments": [
     {
-     "name": "Digihost Technology Inc.",
-     "symbol": "DGHI"
+     "name": "Marvel Discovery Corp.",
+     "symbol": "MARV"
     }
    ]
   },
   {
-   "symbol": "ALTM",
-   "name": "Arcadium Lithium plc Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ALTM"
+   "symbol": "APUS",
+   "name": "Apimeds Pharmaceuticals US, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "APUS"
+  },
+  {
+   "symbol": "AQU",
+   "name": "Aquaron Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AQU"
+  },
+  {
+   "symbol": "LUNRW",
+   "name": "Intuitive Machines, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LUNRW"
+  },
+  {
+   "symbol": "AQUNU",
+   "name": "Aquaron Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AQUNU"
   }
  ]
 }
