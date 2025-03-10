@@ -1,34 +1,56 @@
 {
  "added": [
   {
-   "symbol": "SHDX",
-   "name": "Shido DEX (SHDX)",
-   "built_on": "SHIDO"
+   "symbol": "BIFIV1",
+   "name": "Beefy v1 (BIFIV1)"
   },
   {
-   "symbol": "CEREB",
-   "name": "Cerebrum (CEREB)",
+   "symbol": "EARNB",
+   "name": "Earn BTC (EARNB)",
    "built_on": "SOL"
   },
   {
-   "symbol": "SNO",
-   "name": "Snow Leopard (SNO)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "CLEAR",
-   "name": "Everclear (CLEAR)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BIFI",
-   "name": "Beefy.Finance (BIFI)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "HOLDON4",
-   "name": "HoldOn4DearLife (HOLDON4)",
+   "symbol": "BSAI",
+   "name": "Bitcoin Silver AI (BSAI)",
    "built_on": "BNB"
+  },
+  {
+   "symbol": "USDN",
+   "name": "Neutral AI (USDN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDQSTABLE",
+   "name": "USDQ (USDQSTABLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRX",
+   "name": "DRX Token (DRX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AP3X",
+   "name": "Apex token (AP3X)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CORTEX",
+   "name": "Cortex Protocol (CORTEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REACT",
+   "name": "Reactive Network (REACT)"
+  },
+  {
+   "symbol": "SOLANATREASURY",
+   "name": "Solana Treasury Machine (SOLANATREASURY)",
+   "built_on": "SOL"
   },
   {
    "symbol": "G",
@@ -36,124 +58,23 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "PURP",
-   "name": "Purple Platform io (PURP)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "SHIDO",
-   "name": "Shido (SHIDO)"
-  },
-  {
-   "symbol": "AIREVOLUTION",
-   "name": "AI Revolution Coin (AIREVOLUTION)",
+   "symbol": "PEPEMUSK",
+   "name": "pepemusk (PEPEMUSK)",
    "built_on": "BNB"
-  },
-  {
-   "symbol": "ASF",
-   "name": "Asymmetry Finance Token (ASF)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "RIDECHAIN",
-   "name": "Ride Chain Coin (RIDECHAIN)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
-  },
-  {
-   "symbol": "WPLS",
-   "name": "Wrapped Pulse (WPLS)",
-   "built_on": "PLS"
-  },
-  {
-   "symbol": "VATAN",
-   "name": "Vatan Token (VATAN)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "RAME",
-   "name": "Ramen (RAME)",
-   "built_on": "BERA"
-  },
-  {
-   "symbol": "WMT",
-   "name": "World Mobile Token v1 (WMT)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "HENL",
-   "name": "henlo (HENL)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "AKAL",
-   "name": "AKA Liberty (AKAL)",
-   "built_on": "TON"
-  },
-  {
-   "symbol": "AGEN",
-   "name": "Agent Krasnov (AGEN)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "CGTV1",
-   "name": "Curio Governance (CGTV1)",
-   "built_on": "BOBA"
-  },
-  {
-   "symbol": "FORTKNOX",
-   "name": "Fort Knox (FORTKNOX)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "NEXT",
-   "name": "Connext Network (NEXT)",
-   "built_on": "OP"
   },
   {
    "symbol": "BANKETH",
    "name": "BankEth (BANKETH)"
   },
   {
-   "symbol": "MINIDO",
-   "name": "MiniDoge (MINIDO)",
+   "symbol": "ROAM",
+   "name": "Roam Token (ROAM)",
    "built_on": "SOL"
-  }
- ],
- "removed": [
-  {
-   "symbol": "NEXT",
-   "name": "Connext Network (NEXT)"
   },
   {
-   "symbol": "WPLS",
-   "name": "Wrapped Pulse (WPLS)"
-  },
-  {
-   "symbol": "WMT",
-   "name": "World Mobile Token v1 (WMT)",
-   "built_on": "ADA"
-  },
-  {
-   "symbol": "CLEAR",
-   "name": "Everclear (CLEAR)"
-  },
-  {
-   "symbol": "CURIO",
-   "name": "Curio Governance (CURIO)"
-  },
-  {
-   "symbol": "SHIDO",
-   "name": "Shido (SHIDO)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "BIFI",
-   "name": "Beefy.Finance (BIFI)",
-   "built_on": "BNB"
+   "symbol": "HOMEBREW",
+   "name": "Homebrew Robotics Club (HOMEBREW)",
+   "built_on": "SOL"
   }
  ]
 }
