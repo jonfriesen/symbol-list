@@ -1,80 +1,121 @@
 {
  "added": [
   {
-   "symbol": "BIFIV1",
-   "name": "Beefy v1 (BIFIV1)"
+   "symbol": "MERG",
+   "name": "Merge Token (MERG)",
+   "built_on": "TON"
   },
   {
-   "symbol": "EARNB",
-   "name": "Earn BTC (EARNB)",
+   "symbol": "GROKVANCE",
+   "name": "GROK VANCE (GROKVANCE)",
    "built_on": "SOL"
   },
   {
-   "symbol": "BSAI",
-   "name": "Bitcoin Silver AI (BSAI)",
+   "symbol": "MND",
+   "name": "Mound Token (MND)",
    "built_on": "BNB"
   },
   {
-   "symbol": "USDN",
-   "name": "Neutral AI (USDN)",
+   "symbol": "BIRDD",
+   "name": "BIRD DOG (BIRDD)",
    "built_on": "BNB"
   },
   {
-   "symbol": "USDQSTABLE",
-   "name": "USDQ (USDQSTABLE)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "DRX",
-   "name": "DRX Token (DRX)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "AP3X",
-   "name": "Apex token (AP3X)"
-  },
-  {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "symbol": "NOPAIN",
+   "name": "No Pain No Gain (NOPAIN)",
    "built_on": "BASE"
   },
   {
-   "symbol": "CORTEX",
-   "name": "Cortex Protocol (CORTEX)",
-   "built_on": "ETH"
+   "symbol": "NVG8",
+   "name": "Navigate (NVG8)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "REACT",
-   "name": "Reactive Network (REACT)"
-  },
-  {
-   "symbol": "SOLANATREASURY",
-   "name": "Solana Treasury Machine (SOLANATREASURY)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "PEPEMUSK",
-   "name": "pepemusk (PEPEMUSK)",
+   "symbol": "DPIN",
+   "name": "DPIN (DPIN)",
    "built_on": "BNB"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "DANCING",
+   "name": "Dancing Michi (DANCING)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "ROAM",
-   "name": "Roam Token (ROAM)",
+   "symbol": "SILVERNOV",
+   "name": "Silvernova Token (SILVERNOV)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "MTHB",
+   "name": "MTHAIBAHT (MTHB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "3DVANCE",
+   "name": "3D Vance (3DVANCE)",
    "built_on": "SOL"
   },
   {
-   "symbol": "HOMEBREW",
-   "name": "Homebrew Robotics Club (HOMEBREW)",
+   "symbol": "MANUSAI",
+   "name": "Manus AI Agent (MANUSAI)",
    "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPDOGECOIN",
+   "name": "DOGE (TRUMPDOGECOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CARROTSWAP",
+   "name": "CarrotSwap (CARROTSWAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BROCC",
+   "name": "Broccoli (BROCC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PENGUIN",
+   "name": "Penguin (PENGUIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CARROT",
+   "name": "Carrot by Puffer (CARROT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CLUTCH",
+   "name": "Clutch (CLUTCH)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CARROT",
+   "name": "CarrotSwap (CARROT)"
+  },
+  {
+   "symbol": "MND",
+   "name": "Mound Token (MND)"
   }
  ]
 }
