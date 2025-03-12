@@ -1,96 +1,114 @@
 {
  "added": [
   {
-   "symbol": "PXLW",
-   "name": "Pixelworks, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PXLW"
-  },
-  {
-   "symbol": "KCP",
-   "name": "King Copper Discovery Corp.",
+   "symbol": "HLU",
+   "name": "Homeland Uranium Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "KCP.V",
+   "yahoo_symbol": "HLU.V",
    "instruments": [
     {
-     "name": "King Copper Discovery Corp.",
-     "symbol": "KCP"
+     "name": "Homeland Uranium Corp.",
+     "symbol": "HLU"
     }
    ]
+  },
+  {
+   "symbol": "MCI",
+   "name": "Minnova Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MCI.V",
+   "instruments": [
+    {
+     "name": "Minnova Corp.",
+     "symbol": "MCI"
+    }
+   ]
+  },
+  {
+   "symbol": "OGO",
+   "name": "Organto Foods Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OGO.V",
+   "instruments": [
+    {
+     "name": "Organto Foods Inc.",
+     "symbol": "OGO"
+    }
+   ]
+  },
+  {
+   "symbol": "PTX",
+   "name": "PTX Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTX.V",
+   "instruments": [
+    {
+     "name": "PTX Metals Inc.",
+     "symbol": "PTX"
+    }
+   ]
+  },
+  {
+   "symbol": "AIFE",
+   "name": "Aifeex Nexus Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFE"
+  },
+  {
+   "symbol": "AIFER",
+   "name": "Aifeex Nexus Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFER"
+  },
+  {
+   "symbol": "AIFEU",
+   "name": "Aifeex Nexus Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFEU"
+  },
+  {
+   "symbol": "KKR$D",
+   "name": "KKR \u0026 Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KKR$D"
+  },
+  {
+   "symbol": "RPT$C",
+   "name": "Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RPT$C"
   }
  ],
  "removed": [
   {
-   "symbol": "VMCAU",
-   "name": "Valuence Merger Corp. I - Unit",
+   "symbol": "SPHAR",
+   "name": "Shepherd Ave Capital Acquisition Corporation - Right",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VMCAU"
+   "yahoo_symbol": "SPHAR"
   },
   {
-   "symbol": "TBX",
-   "name": "Turmalina Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TBX.V",
-   "instruments": [
-    {
-     "name": "Turmalina Metals Corp.",
-     "symbol": "TBX"
-    }
-   ]
-  },
-  {
-   "symbol": "LOU",
-   "name": "Lucero Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LOU.V",
-   "instruments": [
-    {
-     "name": "Lucero Energy Corp.",
-     "symbol": "LOU"
-    }
-   ]
-  },
-  {
-   "symbol": "VMCAW",
-   "name": "Valuence Merger Corp. I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VMCAW"
-  },
-  {
-   "symbol": "VMCA",
-   "name": "Valuence Merger Corp. I - Class A Ordinary Shares",
+   "symbol": "SPHA",
+   "name": "Shepherd Ave Capital Acquisition Corporation - Class A Ordinary shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VMCA"
+   "yahoo_symbol": "SPHA"
   },
   {
-   "symbol": "MNX",
-   "name": "Manitex Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MNX.V",
-   "instruments": [
-    {
-     "name": "Manitex Capital Inc.",
-     "symbol": "MNX"
-    }
-   ]
-  },
-  {
-   "symbol": "SBM",
-   "name": "Sirona Biochem Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SBM.V",
-   "instruments": [
-    {
-     "name": "Sirona Biochem Corp",
-     "symbol": "SBM"
-    }
-   ]
-  },
-  {
-   "symbol": "PXLW",
-   "name": "Pixelworks, Inc. - Common Stock",
+   "symbol": "SPHAU",
+   "name": "Shepherd Ave Capital Acquisition Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PXLW"
+   "yahoo_symbol": "SPHAU"
+  },
+  {
+   "symbol": "VVR",
+   "name": "Valleyview Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VVR.V",
+   "instruments": [
+    {
+     "name": "Valleyview Resources Ltd.",
+     "symbol": "VVR"
+    }
+   ]
   }
  ]
 }
