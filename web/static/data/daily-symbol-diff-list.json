@@ -1,114 +1,66 @@
 {
  "added": [
   {
-   "symbol": "HLU",
-   "name": "Homeland Uranium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HLU.V",
-   "instruments": [
-    {
-     "name": "Homeland Uranium Corp.",
-     "symbol": "HLU"
-    }
-   ]
-  },
-  {
-   "symbol": "MCI",
-   "name": "Minnova Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MCI.V",
-   "instruments": [
-    {
-     "name": "Minnova Corp.",
-     "symbol": "MCI"
-    }
-   ]
-  },
-  {
-   "symbol": "OGO",
-   "name": "Organto Foods Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OGO.V",
-   "instruments": [
-    {
-     "name": "Organto Foods Inc.",
-     "symbol": "OGO"
-    }
-   ]
-  },
-  {
-   "symbol": "PTX",
-   "name": "PTX Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PTX.V",
-   "instruments": [
-    {
-     "name": "PTX Metals Inc.",
-     "symbol": "PTX"
-    }
-   ]
-  },
-  {
-   "symbol": "AIFE",
-   "name": "Aifeex Nexus Acquisition Corporation - Class A Ordinary Shares",
+   "symbol": "AMBR",
+   "name": "Amber International Holding Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIFE"
+   "yahoo_symbol": "AMBR"
   },
   {
-   "symbol": "AIFER",
-   "name": "Aifeex Nexus Acquisition Corporation - Right",
+   "symbol": "IONX",
+   "name": "Defiance Daily Target 2X Long IONQ ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIFER"
+   "yahoo_symbol": "IONX"
   },
   {
-   "symbol": "AIFEU",
-   "name": "Aifeex Nexus Acquisition Corporation - Unit",
+   "symbol": "KBAB",
+   "name": "KraneShares 2x Long BABA Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIFEU"
+   "yahoo_symbol": "KBAB"
   },
   {
-   "symbol": "KKR$D",
-   "name": "KKR \u0026 Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock",
+   "symbol": "KPDD",
+   "name": "KraneShares 2x Long PDD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KPDD"
+  },
+  {
+   "symbol": "HFRO$B",
+   "name": "Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "KKR$D"
-  },
-  {
-   "symbol": "RPT$C",
-   "name": "Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RPT$C"
+   "yahoo_symbol": "HFRO$B"
   }
  ],
  "removed": [
   {
-   "symbol": "SPHAR",
-   "name": "Shepherd Ave Capital Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPHAR"
+   "symbol": "CUTR",
+   "name": "Cutera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CUTR"
   },
   {
-   "symbol": "SPHA",
-   "name": "Shepherd Ave Capital Acquisition Corporation - Class A Ordinary shares",
+   "symbol": "ICLK",
+   "name": "iClick Interactive Asia Group Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPHA"
+   "yahoo_symbol": "ICLK"
   },
   {
-   "symbol": "SPHAU",
-   "name": "Shepherd Ave Capital Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPHAU"
-  },
-  {
-   "symbol": "VVR",
-   "name": "Valleyview Resources Ltd.",
+   "symbol": "QUIS",
+   "name": "Quisitive Technology Solutions Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "VVR.V",
+   "yahoo_symbol": "QUIS.V",
    "instruments": [
     {
-     "name": "Valleyview Resources Ltd.",
-     "symbol": "VVR"
+     "name": "Quisitive Technology Solutions Inc.",
+     "symbol": "QUIS"
     }
    ]
+  },
+  {
+   "symbol": "AZPN",
+   "name": "Aspen Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AZPN"
   }
  ]
 }
