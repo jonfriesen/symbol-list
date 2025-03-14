@@ -1,5 +1,5 @@
 {
- "date": "2025-03-13",
+ "date": "2025-03-14",
  "data": [
   {
    "symbol": "ONE",
@@ -10090,6 +10090,18 @@
    ]
   },
   {
+   "symbol": "ALFA.UN",
+   "name": "Margaux Real Estate Investment Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALFA.UN.V",
+   "instruments": [
+    {
+     "name": "Margaux Real Estate Investment Trust",
+     "symbol": "ALFA.UN"
+    }
+   ]
+  },
+  {
    "symbol": "MAE",
    "name": "Maritime Resources Corp.",
    "exchange": "TSXV",
@@ -12030,18 +12042,6 @@
     {
      "name": "Odd Burger Corporation",
      "symbol": "ODD"
-    }
-   ]
-  },
-  {
-   "symbol": "ALFA.P",
-   "name": "Odessa Capital Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ALFA.P.V",
-   "instruments": [
-    {
-     "name": "Odessa Capital Ltd.",
-     "symbol": "ALFA.P"
     }
    ]
   },
@@ -49012,7 +49012,7 @@
   {
    "symbol": "CGTX",
    "name": "Cognition Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CGTX"
   },
   {
@@ -54788,30 +54788,6 @@
    "yahoo_symbol": "GLSI"
   },
   {
-   "symbol": "GLST",
-   "name": "Global Star Acquisition, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLST"
-  },
-  {
-   "symbol": "GLSTR",
-   "name": "Global Star Acquisition, Inc. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLSTR"
-  },
-  {
-   "symbol": "GLSTU",
-   "name": "Global Star Acquisition, Inc. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLSTU"
-  },
-  {
-   "symbol": "GLSTW",
-   "name": "Global Star Acquisition, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLSTW"
-  },
-  {
    "symbol": "GLTO",
    "name": "Galecto, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -55602,6 +55578,12 @@
    "name": "Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HIMX"
+  },
+  {
+   "symbol": "HIMZ",
+   "name": "Defiance Daily Target 2X Long HIMS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HIMZ"
   },
   {
    "symbol": "HISF",
@@ -56474,12 +56456,6 @@
    "yahoo_symbol": "ICCC"
   },
   {
-   "symbol": "ICCH",
-   "name": "ICC Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ICCH"
-  },
-  {
    "symbol": "ICCM",
    "name": "IceCure Medical Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -57266,24 +57242,6 @@
    "yahoo_symbol": "IPX"
   },
   {
-   "symbol": "IPXX",
-   "name": "Inflection Point Acquisition Corp. II - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPXX"
-  },
-  {
-   "symbol": "IPXXU",
-   "name": "Inflection Point Acquisition Corp. II - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPXXU"
-  },
-  {
-   "symbol": "IPXXW",
-   "name": "Inflection Point Acquisition Corp. II - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPXXW"
-  },
-  {
    "symbol": "IQ",
    "name": "iQIYI, Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58062,6 +58020,18 @@
    "name": "Kentucky First Federal Bancorp - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "KFFB"
+  },
+  {
+   "symbol": "KFII",
+   "name": "K\u0026F Growth Acquisition Corp. II - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KFII"
+  },
+  {
+   "symbol": "KFIIR",
+   "name": "K\u0026F Growth Acquisition Corp. II - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KFIIR"
   },
   {
    "symbol": "KFIIU",
@@ -60900,6 +60870,12 @@
    "name": "Microvast Holdings, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MVSTW"
+  },
+  {
+   "symbol": "MWYN",
+   "name": "Marwynn Holdings, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MWYN"
   },
   {
    "symbol": "MXCT",
@@ -65888,6 +65864,12 @@
    "yahoo_symbol": "RKLB"
   },
   {
+   "symbol": "RKLX",
+   "name": "Defiance Daily Target 2X Long RKLB ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RKLX"
+  },
+  {
    "symbol": "RLAY",
    "name": "Relay Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -70284,6 +70266,18 @@
    "name": "Atlas America Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "USAF"
+  },
+  {
+   "symbol": "USAR",
+   "name": "USA Rare Earth, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USAR"
+  },
+  {
+   "symbol": "USARW",
+   "name": "USA Rare Earth, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USARW"
   },
   {
    "symbol": "USAU",

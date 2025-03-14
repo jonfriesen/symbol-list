@@ -832,6 +832,7 @@ MN,Manganese X Energy Corp.,TSXV,MN.V,Manganese X Energy Corp.,MN
 MGM,Maple Gold Mines Ltd.,TSXV,MGM.V,Maple Gold Mines Ltd.,MGM
 MAP,Maple Peak Investments Inc.,TSXV,MAP.V,Maple Peak Investments Inc.,MAP
 DIA,Margaret Lake Diamonds Inc.,TSXV,DIA.V,Margaret Lake Diamonds Inc.,DIA
+ALFA.UN,Margaux Real Estate Investment Trust,TSXV,ALFA.UN.V,Margaux Real Estate Investment Trust,ALFA.UN
 MAE,Maritime Resources Corp.,TSXV,MAE.V,Maritime Resources Corp,MAE
 MAH,Marksmen Energy Inc.,TSXV,MAH.V,Marksmen Energy Inc,MAH
 MTLO,Martello Technologies Group Inc.,TSXV,MTLO.V,Martello Technologies Group Inc.,MTLO
@@ -992,7 +993,6 @@ FEO,Oceanic Iron Ore Corp.,TSXV,FEO.V,Oceanic Iron Ore Corp,FEO
 OVT,Oculus Inc.,TSXV,OVT.V,Oculus Inc.,OVT
 OTC,Ocumetics Technology Corp.,TSXV,OTC.V,Ocumetics Technology Corp.,OTC
 ODD,Odd Burger Corporation,TSXV,ODD.V,Odd Burger Corporation,ODD
-ALFA.P,Odessa Capital Ltd.,TSXV,ALFA.P.V,Odessa Capital Ltd.,ALFA.P
 OC,Olive Resource Capital Inc.,TSXV,OC.V,Olive Resource Capital Inc.,OC
 OLV,Olivut Resources Ltd.,TSXV,OLV.V,Olivut Resources Ltd.,OLV
 OMG,Omai Gold Mines Corp.,TSXV,OMG.V,Omai Gold Mines Corp.,OMG
@@ -4263,7 +4263,7 @@ CGNX,Cognex Corporation - Common Stock,NASDAQ Global Select MarketSM,CGNX
 CGO,Calamos Global Total Return Fund - Closed End Fund,NASDAQ Global Select MarketSM,CGO
 CGON,"CG Oncology, Inc. - Common stock",NASDAQ Global Select MarketSM,CGON
 CGTL,Creative Global Technology Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,CGTL
-CGTX,"Cognition Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,CGTX
+CGTX,"Cognition Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CGTX
 CHAR,Charlton Aria Acquisition Corporation - Class A Ordinary Shares,NASDAQ Global MarketSM,CHAR
 CHARR,Charlton Aria Acquisition Corporation - Rights,NASDAQ Global MarketSM,CHARR
 CHARU,Charlton Aria Acquisition Corporation - Units,NASDAQ Global MarketSM,CHARU
@@ -5226,10 +5226,6 @@ GLPG,Galapagos NV - American Depositary Shares,NASDAQ Global Select MarketSM,GLP
 GLPI,"Gaming and Leisure Properties, Inc. - Common Stock",NASDAQ Global Select MarketSM,GLPI
 GLRE,"Greenlight Reinsurance, Ltd. - Class A Ordinary Shares",NASDAQ Global Select MarketSM,GLRE
 GLSI,"Greenwich LifeSciences, Inc. - Common stock",NASDAQ Capital Market,GLSI
-GLST,"Global Star Acquisition, Inc. - Class A Common Stock",NASDAQ Global MarketSM,GLST
-GLSTR,"Global Star Acquisition, Inc. - Right",NASDAQ Global MarketSM,GLSTR
-GLSTU,"Global Star Acquisition, Inc. - Unit",NASDAQ Global MarketSM,GLSTU
-GLSTW,"Global Star Acquisition, Inc. - Warrants",NASDAQ Global MarketSM,GLSTW
 GLTO,"Galecto, Inc. - Common Stock",NASDAQ Capital Market,GLTO
 GLUE,"Monte Rosa Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,GLUE
 GLXG,Galaxy Payroll Group Limited - Ordinary Shares,NASDAQ Capital Market,GLXG
@@ -5362,6 +5358,7 @@ HIDE,Alpha Architect High Inflation and Deflation ETF,NASDAQ Global MarketSM,HID
 HIFS,Hingham Institution for Savings - Common Stock,NASDAQ Global MarketSM,HIFS
 HIHO,Highway Holdings Limited - Common Stock,NASDAQ Capital Market,HIHO
 HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",NASDAQ Global Select MarketSM,HIMX
+HIMZ,Defiance Daily Target 2X Long HIMS ETF,NASDAQ Global MarketSM,HIMZ
 HISF,First Trust High Income Strategic Focus ETF,NASDAQ Global MarketSM,HISF
 HIT,"Health In Tech, Inc. - Class A Common Stock",NASDAQ Capital Market,HIT
 HITI,High Tide Inc. - Common Shares,NASDAQ Capital Market,HITI
@@ -5507,7 +5504,6 @@ IBTO,iShares iBonds Dec 2033 Term Treasury ETF,NASDAQ Global MarketSM,IBTO
 IBTP,iShares iBonds Dec 2034 Term Treasury ETF,NASDAQ Global MarketSM,IBTP
 ICAD,icad inc. - Common Stock,NASDAQ Capital Market,ICAD
 ICCC,ImmuCell Corporation - Common Stock,NASDAQ Capital Market,ICCC
-ICCH,"ICC Holdings, Inc. - Common Stock",NASDAQ Capital Market,ICCH
 ICCM,IceCure Medical Ltd. - Ordinary Shares,NASDAQ Capital Market,ICCM
 ICCT,iCoreConnect Inc. - Common stock,NASDAQ Capital Market,ICCT
 ICFI,"ICF International, Inc. - Common Stock",NASDAQ Global Select MarketSM,ICFI
@@ -5639,9 +5635,6 @@ IPSC,"Century Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,I
 IPW,iPower Inc. - Common Stock,NASDAQ Capital Market,IPW
 IPWR,Ideal Power Inc. - Common Stock,NASDAQ Capital Market,IPWR
 IPX,IperionX Limited - American Depositary Share,NASDAQ Capital Market,IPX
-IPXX,Inflection Point Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,IPXX
-IPXXU,Inflection Point Acquisition Corp. II - Unit,NASDAQ Global MarketSM,IPXXU
-IPXXW,Inflection Point Acquisition Corp. II - Warrant,NASDAQ Global MarketSM,IPXXW
 IQ,"iQIYI, Inc. - American Depositary Shares",NASDAQ Global Select MarketSM,IQ
 IQQQ,ProShares Nasdaq-100 High Income ETF,NASDAQ Global MarketSM,IQQQ
 IRBT,iRobot Corporation - Common Stock,NASDAQ Global Select MarketSM,IRBT
@@ -5772,6 +5765,8 @@ KELYA,"Kelly Services, Inc. - Class A Common Stock",NASDAQ Global Select MarketS
 KELYB,"Kelly Services, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,KELYB
 KEQU,Kewaunee Scientific Corporation - Common Stock,NASDAQ Global MarketSM,KEQU
 KFFB,Kentucky First Federal Bancorp - Common Stock,NASDAQ Global MarketSM,KFFB
+KFII,K&F Growth Acquisition Corp. II - Class A Ordinary shares,NASDAQ Global MarketSM,KFII
+KFIIR,K&F Growth Acquisition Corp. II - Rights,NASDAQ Global MarketSM,KFIIR
 KFIIU,K&F Growth Acquisition Corp. II - Unit,NASDAQ Global MarketSM,KFIIU
 KGEI,Kolibri Global Energy Inc. - Common stock,NASDAQ Capital Market,KGEI
 KHC,The Kraft Heinz Company - Common Stock,NASDAQ Global Select MarketSM,KHC
@@ -6245,6 +6240,7 @@ MVIS,"MicroVision, Inc. - Common Stock",NASDAQ Global MarketSM,MVIS
 MVLL,GraniteShares 2x Long MRVL Daily ETF,NASDAQ Global MarketSM,MVLL
 MVST,"Microvast Holdings, Inc. - Common Stock",NASDAQ Capital Market,MVST
 MVSTW,"Microvast Holdings, Inc. - Warrant",NASDAQ Capital Market,MVSTW
+MWYN,"Marwynn Holdings, Inc. - Common stock",NASDAQ Capital Market,MWYN
 MXCT,"MaxCyte, Inc. - Common Stock",NASDAQ Global Select MarketSM,MXCT
 MXL,"MaxLinear, Inc - Common Stock",NASDAQ Global Select MarketSM,MXL
 MYCF,SPDR SSGA My2026 Corporate Bond ETF,NASDAQ Global MarketSM,MYCF
@@ -7076,6 +7072,7 @@ RITR,Reitar Logtech Holdings Limited - Ordinary shares,NASDAQ Capital Market,RIT
 RIVN,"Rivian Automotive, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RIVN
 RKDA,"Arcadia Biosciences, Inc. - Common Stock",NASDAQ Capital Market,RKDA
 RKLB,"Rocket Lab USA, Inc. - Common Stock",NASDAQ Capital Market,RKLB
+RKLX,Defiance Daily Target 2X Long RKLB ETF,NASDAQ Global MarketSM,RKLX
 RLAY,"Relay Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,RLAY
 RLMD,"Relmada Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,RLMD
 RLYB,Rallybio Corporation - Common Stock,NASDAQ Global Select MarketSM,RLYB
@@ -7809,6 +7806,8 @@ URGN,UroGen Pharma Ltd. - Ordinary Shares,NASDAQ Global MarketSM,URGN
 URNJ,Sprott Junior Uranium Miners ETF,NASDAQ Global MarketSM,URNJ
 UROY,Uranium Royalty Corp. - Common Stock,NASDAQ Capital Market,UROY
 USAF,Atlas America Fund,NASDAQ Global MarketSM,USAF
+USAR,"USA Rare Earth, Inc. - Common Stock",NASDAQ Global MarketSM,USAR
+USARW,"USA Rare Earth, Inc. - Warrant",NASDAQ Global MarketSM,USARW
 USAU,U.S. Gold Corp. - Common Stock,NASDAQ Capital Market,USAU
 USCB,"USCB Financial Holdings, Inc.  - Class A Common Stock",NASDAQ Global MarketSM,USCB
 USCL,iShares Climate Conscious & Transition MSCI USA ETF,NASDAQ Global MarketSM,USCL
