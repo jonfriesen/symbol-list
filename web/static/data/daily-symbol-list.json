@@ -1,5 +1,5 @@
 {
- "date": "2025-03-14",
+ "date": "2025-03-17",
  "data": [
   {
    "symbol": "ONE",
@@ -3414,6 +3414,18 @@
    ]
   },
   {
+   "symbol": "CDPR",
+   "name": "Cerro de Pasco Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CDPR.V",
+   "instruments": [
+    {
+     "name": "Cerro De Pasco Resources Inc.",
+     "symbol": "CDPR"
+    }
+   ]
+  },
+  {
    "symbol": "CFY",
    "name": "CF Energy Corp.",
    "exchange": "TSXV",
@@ -4798,18 +4810,6 @@
     {
      "name": "Dryden Gold Corp.",
      "symbol": "DRY"
-    }
-   ]
-  },
-  {
-   "symbol": "DGO",
-   "name": "Durango Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DGO.V",
-   "instruments": [
-    {
-     "name": "Durango Resources Inc.",
-     "symbol": "DGO"
     }
    ]
   },
@@ -6710,18 +6710,6 @@
     {
      "name": "Gold Basin Resources Corporation",
      "symbol": "GXX"
-    }
-   ]
-  },
-  {
-   "symbol": "GBRC",
-   "name": "Gold Bull Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GBRC.V",
-   "instruments": [
-    {
-     "name": "Gold Bull Resources Corp.",
-     "symbol": "GBRC"
     }
    ]
   },
@@ -13470,6 +13458,18 @@
     {
      "name": "Quadro Resources Ltd.",
      "symbol": "QRO"
+    }
+   ]
+  },
+  {
+   "symbol": "LEAP",
+   "name": "Quantum Critical Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LEAP.V",
+   "instruments": [
+    {
+     "name": "Quantum Critical Metals Corp.",
+     "symbol": "LEAP"
     }
    ]
   },
@@ -40726,18 +40726,6 @@
    ]
   },
   {
-   "symbol": "SFTC",
-   "name": "Softchoice Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "SFTC.TO",
-   "instruments": [
-    {
-     "name": "Softchoice Corp J",
-     "symbol": "SFTC"
-    }
-   ]
-  },
-  {
    "symbol": "SLS",
    "name": "Solaris Resources Inc.",
    "exchange": "TSX",
@@ -47276,6 +47264,12 @@
    "yahoo_symbol": "BLZE"
   },
   {
+   "symbol": "BMAX",
+   "name": "REX Bitcoin Corporate Treasury Convertible Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAX"
+  },
+  {
    "symbol": "BMBL",
    "name": "Bumble Inc. - common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -47358,24 +47352,6 @@
    "name": "Bionano Genomics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BNGO"
-  },
-  {
-   "symbol": "BNIX",
-   "name": "Bannix Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNIX"
-  },
-  {
-   "symbol": "BNIXR",
-   "name": "Bannix Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNIXR"
-  },
-  {
-   "symbol": "BNIXW",
-   "name": "Bannix Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNIXW"
   },
   {
    "symbol": "BNR",
@@ -49734,6 +49710,12 @@
    "name": "Cohu, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "COHU"
+  },
+  {
+   "symbol": "COIG",
+   "name": "Leverage Shares 2X Long COIN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COIG"
   },
   {
    "symbol": "COIN",
@@ -62126,6 +62108,12 @@
    "yahoo_symbol": "NWSA"
   },
   {
+   "symbol": "NWTG",
+   "name": "Newton Golf Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NWTG"
+  },
+  {
    "symbol": "NWTN",
    "name": "NWTN Inc. - Class B Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -66638,12 +66626,6 @@
    "yahoo_symbol": "SDGR"
   },
   {
-   "symbol": "SDIG",
-   "name": "Stronghold Digital Mining, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SDIG"
-  },
-  {
    "symbol": "SDOT",
    "name": "Sadot Group Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67872,12 +67854,6 @@
    "name": "South Plains Financial, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SPFI"
-  },
-  {
-   "symbol": "SPGC",
-   "name": "Sacks Parente Golf, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPGC"
   },
   {
    "symbol": "SPHL",
@@ -85521,7 +85497,7 @@
   },
   {
    "symbol": "ONL",
-   "name": "Orion Office REIT Inc. Common Stock",
+   "name": "Orion Properties Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ONL"
   },

@@ -282,6 +282,7 @@ CIO,Central Iron Ore Limited,TSXV,CIO.V,Central Iron Ore Limited,CIO
 CTN,Centurion Minerals Ltd.,TSXV,CTN.V,Centurion Minerals Ltd.,CTN
 LCE,Century Lithium Corp.,TSXV,LCE.V,Century Lithium Corp.,LCE
 CERT,Cerrado Gold Inc.,TSXV,CERT.V,Cerrado Gold Inc.,CERT
+CDPR,Cerro de Pasco Resources Inc.,TSXV,CDPR.V,Cerro De Pasco Resources Inc.,CDPR
 CFY,CF Energy Corp.,TSXV,CFY.V,CF Energy Corp.,CFY
 OYL,CGX Energy Inc.,TSXV,OYL.V,CGX Energy Inc.,OYL
 CCZ.P,Chablis Capital Corp.,TSXV,CCZ.P.V,Chablis Capital Corp.,CCZ.P
@@ -396,7 +397,6 @@ DPF,Dr. Phone Fix Canada Corporation,TSXV,DPF.V,Dr. Phone Fix Canada Corporation
 DRAX.P,Draxos Capital Corp.,TSXV,DRAX.P.V,Draxos Capital Corp.,DRAX.P
 DVX.P,Drummond Ventures Corp.,TSXV,DVX.P.V,Drummond Ventures Corp.,DVX.P
 DRY,Dryden Gold Corp.,TSXV,DRY.V,Dryden Gold Corp.,DRY
-DGO,Durango Resources Inc.,TSXV,DGO.V,Durango Resources Inc.,DGO
 DYG,Dynasty Gold Corp.,TSXV,DYG.V,Dynasty Gold Corp.,DYG
 REE,E-Tech Resources Inc.,TSXV,REE.V,E-Tech Resources Inc.,REE
 ETU,E2Gold Inc.,TSXV,ETU.V,E2Gold Inc.,ETU
@@ -554,7 +554,6 @@ GEMC,Global Energy Metals Corporation,TSXV,GEMC.V,Global Energy Metals Corporati
 GMV,GMV Minerals Inc.,TSXV,GMV.V,GMV Minerals Inc,GMV
 GG,Golconda Gold Ltd.,TSXV,GG.V,Golconda Gold Ltd.,GG
 GXX,Gold Basin Resources Corporation,TSXV,GXX.V,Gold Basin Resources Corporation,GXX
-GBRC,Gold Bull Resources Corp.,TSXV,GBRC.V,Gold Bull Resources Corp.,GBRC
 GRZ,Gold Reserve Ltd.,TSXV,GRZ.V,Gold Reserve Ltd.,GRZ
 YGT,Gold Terra Resource Corp.,TSXV,YGT.V,Gold Terra Resource Corp.,YGT
 GLB,Goldbank Mining Corporation,TSXV,GLB.V,Goldbank Mining Corporation,GLB
@@ -1109,6 +1108,7 @@ QTWO,Q2 Metals Corp.,TSXV,QTWO.V,Q2 Metals Corp.,QTWO
 QCX,QCX Gold Corp.,TSXV,QCX.V,QCX Gold Corp.,QCX
 QMC,QMC Quantum Minerals Corp.,TSXV,QMC.V,QMC Quantum Minerals Corp,QMC
 QRO,Quadro Resources Ltd.,TSXV,QRO.V,Quadro Resources Ltd.,QRO
+LEAP,Quantum Critical Metals Corp.,TSXV,LEAP.V,Quantum Critical Metals Corp.,LEAP
 QNC,Quantum Emotion Corp.,TSXV,QNC.V,Quantum Emotion Corp.,QNC
 QZM,Quartz Mountain Resources Ltd.,TSXV,QZM.V,Quartz Mountain Resources Ltd.,QZM
 QPM,Quebec Precious Metals Corporation,TSXV,QPM.V,Quebec Precious Metals Corporation,QPM
@@ -3155,7 +3155,6 @@ SRV.UN,SIR Royalty Income Fund,TSX,SRV.UN.TO,SIR Royalty Incm Un,SRV.UN
 SKE,Skeena Resources Limited,TSX,SKE.TO,Skeena Resources J,SKE
 SGR.U,Slate Grocery REIT,TSX,SGR.U.TO,Slate GroceryREIT US,SGR.U,Slate GroceryREIT Un,SGR.UN
 SRU.UN,SmartCentres Real Estate Investment Trust,TSX,SRU.UN.TO,SmartCtr REIT VV Un,SRU.UN
-SFTC,Softchoice Corporation,TSX,SFTC.TO,Softchoice Corp J,SFTC
 SLS,Solaris Resources Inc.,TSX,SLS.TO,Solaris Res Inc. J,SLS
 SOLG,SolGold plc,TSX,SOLG.TO,SolGold plc J Ord,SOLG
 SLR,Solitario Resources Corp.,TSX,SLR.TO,Solitario Res J,SLR
@@ -3974,6 +3973,7 @@ BLRX,BioLineRx Ltd. - American Depositary Shares,NASDAQ Capital Market,BLRX
 BLTE,"Belite Bio, Inc - American Depositary Shares",NASDAQ Capital Market,BLTE
 BLUE,"bluebird bio, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLUE
 BLZE,"Backblaze, Inc. - Class A Common Stock",NASDAQ Global MarketSM,BLZE
+BMAX,REX Bitcoin Corporate Treasury Convertible Bond ETF,NASDAQ Global MarketSM,BMAX
 BMBL,Bumble Inc. - common stock,NASDAQ Global Select MarketSM,BMBL
 BMDL,VictoryShares WestEnd Economic Cycle Bond ETF,NASDAQ Global MarketSM,BMDL
 BMEA,"Biomea Fusion, Inc. - Common Stock",NASDAQ Global Select MarketSM,BMEA
@@ -3988,9 +3988,6 @@ BND,Vanguard Total Bond Market ETF,NASDAQ Global MarketSM,BND
 BNDW,Vanguard Total World Bond ETF,NASDAQ Global MarketSM,BNDW
 BNDX,Vanguard Total International Bond ETF,NASDAQ Global MarketSM,BNDX
 BNGO,"Bionano Genomics, Inc. - Common Stock",NASDAQ Capital Market,BNGO
-BNIX,Bannix Acquisition Corp. - Common Stock,NASDAQ Capital Market,BNIX
-BNIXR,Bannix Acquisition Corp. - Right,NASDAQ Capital Market,BNIXR
-BNIXW,Bannix Acquisition Corp. - Warrant,NASDAQ Capital Market,BNIXW
 BNR,Burning Rock Biotech Limited - American Depositary Shares,NASDAQ Global MarketSM,BNR
 BNRG,Brenmiller Energy Ltd - Ordinary Shares,NASDAQ Capital Market,BNRG
 BNTC,Benitec Biopharma Inc. - Common Stock,NASDAQ Capital Market,BNTC
@@ -4384,6 +4381,7 @@ COEPW,"Coeptis Therapeutics Holdings, Inc. - Warrants",NASDAQ Capital Market,COE
 COFS,"ChoiceOne Financial Services, Inc. - Common Stock",NASDAQ Capital Market,COFS
 COGT,"Cogent Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,COGT
 COHU,"Cohu, Inc. - Common Stock",NASDAQ Global Select MarketSM,COHU
+COIG,Leverage Shares 2X Long COIN Daily ETF,NASDAQ Global MarketSM,COIG
 COIN,"Coinbase Global, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,COIN
 COKE,"Coca-Cola Consolidated, Inc. - Common Stock",NASDAQ Global Select MarketSM,COKE
 COLAU,Columbus Acquisition Corp - Unit,NASDAQ Global MarketSM,COLAU
@@ -6449,6 +6447,7 @@ NWL,Newell Brands Inc. - Common Stock,NASDAQ Global Select MarketSM,NWL
 NWPX,Northwest Pipe Company - Common Stock,NASDAQ Global Select MarketSM,NWPX
 NWS,News Corporation - Class B Common Stock,NASDAQ Global Select MarketSM,NWS
 NWSA,News Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,NWSA
+NWTG,"Newton Golf Company, Inc. - Common Stock",NASDAQ Capital Market,NWTG
 NWTN,NWTN Inc. - Class B Ordinary Shares,NASDAQ Capital Market,NWTN
 NWTNW,NWTN Inc. - Warrant,NASDAQ Capital Market,NWTNW
 NXGL,"NexGel, Inc - Common Stock",NASDAQ Capital Market,NXGL
@@ -7201,7 +7200,6 @@ SDA,SunCar Technology Group Inc. - Ordinary Shares,NASDAQ Capital Market,SDA
 SDAWW,SunCar Technology Group Inc. - Warrant,NASDAQ Capital Market,SDAWW
 SDG,iShares MSCI Global Sustainable Development Goals ETF,NASDAQ Global MarketSM,SDG
 SDGR,"Schrodinger, Inc. - Common Stock",NASDAQ Global Select MarketSM,SDGR
-SDIG,"Stronghold Digital Mining, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SDIG
 SDOT,Sadot Group Inc. - Common Stock,NASDAQ Capital Market,SDOT
 SDSI,American Century Short Duration Strategic Income ETF,NASDAQ Global MarketSM,SDSI
 SDST,Stardust Power Inc. - Common Stock,NASDAQ Global MarketSM,SDST
@@ -7407,7 +7405,6 @@ SPCB,"SuperCom, Ltd. - Ordinary Shares",NASDAQ Capital Market,SPCB
 SPCX,SPAC and New Issue ETF,NASDAQ Global MarketSM,SPCX
 SPCY,STKd 100% SMCI & 100% NVDA ETF,NASDAQ Global MarketSM,SPCY
 SPFI,"South Plains Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,SPFI
-SPGC,"Sacks Parente Golf, Inc. - Common Stock",NASDAQ Capital Market,SPGC
 SPHL,Springview Holdings Ltd - Ordinary shares,NASDAQ Capital Market,SPHL
 SPKL,Spark I Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,SPKL
 SPKLU,Spark I Acquisition Corp. - Unit,NASDAQ Global MarketSM,SPKLU
@@ -10348,7 +10345,7 @@ OMC,Omnicom Group Inc. Common Stock,NYSE,OMC
 OMF,"OneMain Holdings, Inc. Common Stock",NYSE,OMF
 OMI,"Owens & Minor, Inc. Common Stock",NYSE,OMI
 ONIT,Onity Group Inc. Common Stock,NYSE,ONIT
-ONL,Orion Office REIT Inc. Common Stock,NYSE,ONL
+ONL,Orion Properties Inc. Common Stock,NYSE,ONL
 ONON,On Holding AG Class A Ordinary Shares,NYSE,ONON
 ONTF,"ON24, Inc. Common Stock",NYSE,ONTF
 ONTO,Onto Innovation Inc. Common Stock,NYSE,ONTO
