@@ -1,114 +1,80 @@
 {
  "added": [
   {
-   "symbol": "CDPR",
-   "name": "Cerro de Pasco Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CDPR.V",
-   "instruments": [
-    {
-     "name": "Cerro De Pasco Resources Inc.",
-     "symbol": "CDPR"
-    }
-   ]
-  },
-  {
-   "symbol": "LEAP",
-   "name": "Quantum Critical Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LEAP.V",
-   "instruments": [
-    {
-     "name": "Quantum Critical Metals Corp.",
-     "symbol": "LEAP"
-    }
-   ]
-  },
-  {
-   "symbol": "BMAX",
-   "name": "REX Bitcoin Corporate Treasury Convertible Bond ETF",
+   "symbol": "COLA",
+   "name": "Columbus Acquisition Corp - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BMAX"
+   "yahoo_symbol": "COLA"
   },
   {
-   "symbol": "COIG",
-   "name": "Leverage Shares 2X Long COIN Daily ETF",
+   "symbol": "COLAR",
+   "name": "Columbus Acquisition Corp - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "COIG"
+   "yahoo_symbol": "COLAR"
   },
   {
-   "symbol": "NWTG",
-   "name": "Newton Golf Company, Inc. - Common Stock",
+   "symbol": "DGXX",
+   "name": "Digi Power X Inc. - Common Subordinate Voting Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NWTG"
+   "yahoo_symbol": "DGXX"
+  },
+  {
+   "symbol": "EHLD",
+   "name": "Euroholdings Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EHLD"
+  },
+  {
+   "symbol": "LBIT",
+   "name": "Evolve Levered Bitcoin ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LBIT.TO",
+   "instruments": [
+    {
+     "name": "Ev Lev Bitc ETF CAD",
+     "symbol": "LBIT"
+    },
+    {
+     "name": "Ev Lev Bitc ETF USD",
+     "symbol": "LBIT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "LETH",
+   "name": "Evolve Levered Ether ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LETH.TO",
+   "instruments": [
+    {
+     "name": "Ev Lev Eth ETF CAD ",
+     "symbol": "LETH"
+    },
+    {
+     "name": "Ev Lev Eth ETF USD",
+     "symbol": "LETH.U"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "BNIX",
-   "name": "Bannix Acquisition Corp. - Common Stock",
+   "symbol": "ESEAV",
+   "name": "Euroseas Ltd. - Ex-Distribution When Issued",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNIX"
+   "yahoo_symbol": "ESEAV"
   },
   {
-   "symbol": "SDIG",
-   "name": "Stronghold Digital Mining, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SDIG"
-  },
-  {
-   "symbol": "GBRC",
-   "name": "Gold Bull Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GBRC.V",
-   "instruments": [
-    {
-     "name": "Gold Bull Resources Corp.",
-     "symbol": "GBRC"
-    }
-   ]
-  },
-  {
-   "symbol": "DGO",
-   "name": "Durango Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DGO.V",
-   "instruments": [
-    {
-     "name": "Durango Resources Inc.",
-     "symbol": "DGO"
-    }
-   ]
-  },
-  {
-   "symbol": "BNIXW",
-   "name": "Bannix Acquisition Corp. - Warrant",
+   "symbol": "EHLDV",
+   "name": "Euroholdings Ltd. - Common Stock When Issued",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNIXW"
+   "yahoo_symbol": "EHLDV"
   },
   {
-   "symbol": "BNIXR",
-   "name": "Bannix Acquisition Corp. - Right",
+   "symbol": "DGHI",
+   "name": "Digi Power X Inc. - Common Subordinate Voting Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNIXR"
-  },
-  {
-   "symbol": "SPGC",
-   "name": "Sacks Parente Golf, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SPGC"
-  },
-  {
-   "symbol": "SFTC",
-   "name": "Softchoice Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "SFTC.TO",
-   "instruments": [
-    {
-     "name": "Softchoice Corp J",
-     "symbol": "SFTC"
-    }
-   ]
+   "yahoo_symbol": "DGHI"
   }
  ]
 }
