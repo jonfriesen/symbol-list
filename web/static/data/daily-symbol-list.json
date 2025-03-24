@@ -1,5 +1,5 @@
 {
- "date": "2025-03-21",
+ "date": "2025-03-24",
  "data": [
   {
    "symbol": "ONE",
@@ -4502,10 +4502,6 @@
     {
      "name": "Desert Mountain Energy Corp.",
      "symbol": "DME"
-    },
-    {
-     "name": "Desert Mountain Energy Corp. wt 24Mar2025",
-     "symbol": "DME.WT"
     }
    ]
   },
@@ -20512,7 +20508,7 @@
    "yahoo_symbol": "ZEQT.TO",
    "instruments": [
     {
-     "name": "BMO All-Eqty ETF Un",
+     "name": "BMO All-Eqty ETF ",
      "symbol": "ZEQT"
     }
    ]
@@ -20524,7 +20520,7 @@
    "yahoo_symbol": "ZESG.TO",
    "instruments": [
     {
-     "name": "BMO BalanceESG Un",
+     "name": "BMO BalanceESG ETF",
      "symbol": "ZESG"
     }
    ]
@@ -20540,7 +20536,7 @@
      "symbol": "ZBAL"
     },
     {
-     "name": "BMO Balanced ETF6 Un",
+     "name": "BMO Balanced ETF",
      "symbol": "ZBAL.T"
     }
    ]
@@ -20552,7 +20548,7 @@
    "yahoo_symbol": "ZBBB.TO",
    "instruments": [
     {
-     "name": "BMO BBB CorpBndETFUn",
+     "name": "BMO BBB CorpBnd ETF",
      "symbol": "ZBBB"
     }
    ]
@@ -20600,7 +20596,7 @@
    "yahoo_symbol": "ZDV.TO",
    "instruments": [
     {
-     "name": "BMO Cdn Dividend Un",
+     "name": "BMO Cdn Dividend ETF",
      "symbol": "ZDV"
     }
    ]
@@ -20624,7 +20620,7 @@
    "yahoo_symbol": "ZMBS.TO",
    "instruments": [
     {
-     "name": "BMO CdnMBS Idx ETFUn",
+     "name": "BMO CdnMBS Idx ETF",
      "symbol": "ZMBS"
     }
    ]
@@ -20672,7 +20668,7 @@
    "yahoo_symbol": "ZCB.TO",
    "instruments": [
     {
-     "name": "BMO Corp Bond Idx Un",
+     "name": "BMO Corp Bond IdxETF",
      "symbol": "ZCB"
     }
    ]
@@ -20700,7 +20696,7 @@
      "symbol": "ZWB"
     },
     {
-     "name": "BMO CoverCallCdnBkUN",
+     "name": "BMO CoverCallCdnBkUS",
      "symbol": "ZWB.U"
     }
    ]
@@ -20712,7 +20708,7 @@
    "yahoo_symbol": "ZWA.TO",
    "instruments": [
     {
-     "name": "BMO DJ IndustAvg Un",
+     "name": "BMO DJ IndustAvg ETF",
      "symbol": "ZWA"
     }
    ]
@@ -20724,7 +20720,7 @@
    "yahoo_symbol": "ZWEN.TO",
    "instruments": [
     {
-     "name": "BMO CovrdCallEngy UN",
+     "name": "BMO CovrdCallEngyETF",
      "symbol": "ZWEN"
     }
    ]
@@ -20748,7 +20744,7 @@
    "yahoo_symbol": "ZWT.TO",
    "instruments": [
     {
-     "name": "BMO CoverCallTech UN",
+     "name": "BMO CoverCallTechETF",
      "symbol": "ZWT"
     }
    ]
@@ -20772,7 +20768,7 @@
    "yahoo_symbol": "ZWU.TO",
    "instruments": [
     {
-     "name": "BMO CoverdUtility Un",
+     "name": "BMO CoverdUtilityETF",
      "symbol": "ZWU"
     }
    ]
@@ -20880,7 +20876,7 @@
    "yahoo_symbol": "ZRE.TO",
    "instruments": [
     {
-     "name": "BMO Eql Wgt REITs Un",
+     "name": "BMO Eql Wgt REITsETF",
      "symbol": "ZRE"
     }
    ]
@@ -20952,7 +20948,7 @@
    "yahoo_symbol": "ESGB.TO",
    "instruments": [
     {
-     "name": "BMO ESG CorpBnd",
+     "name": "BMO ESG CorpBnd ETF",
      "symbol": "ESGB"
     }
    ]
@@ -21140,7 +21136,7 @@
    "yahoo_symbol": "ZGLH.TO",
    "instruments": [
     {
-     "name": "BMO Gld Bull FndETFH",
+     "name": "BMO Gld Bull Fnd ETF",
      "symbol": "ZGLH"
     }
    ]
@@ -21168,7 +21164,7 @@
      "symbol": "ZGRO"
     },
     {
-     "name": "BMO Growth ETF6 Un",
+     "name": "BMO Growth ETF Un",
      "symbol": "ZGRO.T"
     }
    ]
@@ -21208,7 +21204,7 @@
      "symbol": "ZJK"
     },
     {
-     "name": "BMO HiYld CorpBdETFU",
+     "name": "BMO HiYld CorpBdETF",
      "symbol": "ZJK.U"
     }
    ]
@@ -21248,7 +21244,7 @@
      "symbol": "ZJPN"
     },
     {
-     "name": "BMO Japan Index ETFH",
+     "name": "BMO Japan Index ETF",
      "symbol": "ZJPN.F"
     }
    ]
@@ -21276,7 +21272,7 @@
      "symbol": "ZPR"
     },
     {
-     "name": "BMO Ladd Pr Idx ETFU",
+     "name": "BMO Ladd Pr Idx ETF",
      "symbol": "ZPR.U"
     }
    ]
@@ -21400,7 +21396,7 @@
      "symbol": "ZLU"
     },
     {
-     "name": "BMO LwVltyUSEq ETFU",
+     "name": "BMO LwVltyUSEq ETF",
      "symbol": "ZLU.U"
     }
    ]
@@ -21476,7 +21472,7 @@
      "symbol": "ZIC"
     },
     {
-     "name": "BMO MidUS CrBnd ETFU",
+     "name": "BMO MidUS CrBnd ETF",
      "symbol": "ZIC.U"
     }
    ]
@@ -21676,11 +21672,11 @@
      "symbol": "ZUQ"
     },
     {
-     "name": "BMO MSCIUSHiQltyETFH",
+     "name": "BMO MSCIUSHiQltyETF",
      "symbol": "ZUQ.F"
     },
     {
-     "name": "BMO MSCI USHiQtyETFU",
+     "name": "BMO MSCI USHiQtyETF",
      "symbol": "ZUQ.U"
     }
    ]
@@ -21696,7 +21692,7 @@
      "symbol": "ESGY"
     },
     {
-     "name": "BMO MSCIUS SelEqETFH",
+     "name": "BMO MSCIUS SelEqETF",
      "symbol": "ESGY.F"
     }
    ]
@@ -21736,7 +21732,7 @@
      "symbol": "ZNQ"
     },
     {
-     "name": "BMO Nasdaq100 EqETFU",
+     "name": "BMO Nasdaq100 EqETF",
      "symbol": "ZNQ.U"
     }
    ]
@@ -21752,11 +21748,11 @@
      "symbol": "ZPAY"
     },
     {
-     "name": "BMO PremiumYid ETFHU",
+     "name": "BMO PremiumYid ETF ",
      "symbol": "ZPAY.F"
     },
     {
-     "name": "BMO PremiumYld ETFU",
+     "name": "BMO PremiumYld ETF",
      "symbol": "ZPAY.U"
     }
    ]
@@ -21796,7 +21792,7 @@
      "symbol": "ZSP"
     },
     {
-     "name": "BMO S\u0026P500 Idx ETFU",
+     "name": "BMO S\u0026P500 Idx ETF",
      "symbol": "ZSP.U"
     }
    ]
@@ -21812,7 +21808,7 @@
      "symbol": "ZMID"
     },
     {
-     "name": "BMO S\u0026P US MidC ETFH",
+     "name": "BMO S\u0026P US MidCapHeg",
      "symbol": "ZMID.F"
     },
     {
@@ -21832,7 +21828,7 @@
      "symbol": "ZSML"
     },
     {
-     "name": "BMO S\u0026P US SmlCpETFH",
+     "name": "BMO S\u0026P US SmlCpHeg",
      "symbol": "ZSML.F"
     },
     {
@@ -21876,7 +21872,7 @@
      "symbol": "ZCS"
     },
     {
-     "name": "BMO Sh Corp Bnd ETFR",
+     "name": "BMO Sh Corp BndETFAc",
      "symbol": "ZCS.L"
     }
    ]
@@ -21892,7 +21888,7 @@
      "symbol": "ZFS"
     },
     {
-     "name": "BMO ShFedrlBnd ETFR",
+     "name": "BMO ShFedrlBndETF Ac",
      "symbol": "ZFS.L"
     }
    ]
@@ -21908,7 +21904,7 @@
      "symbol": "ZPS"
     },
     {
-     "name": "BMO ShProv Bnd ETFR",
+     "name": "BMO ShProv BndETF Ac",
      "symbol": "ZPS.L"
     }
    ]
@@ -21960,11 +21956,11 @@
      "symbol": "ZTIP"
     },
     {
-     "name": "BMO ST US TIPS ETFH",
+     "name": "BMO ST US TIPS Hedg",
      "symbol": "ZTIP.F"
     },
     {
-     "name": "BMO ST US TIPS ETFU",
+     "name": "BMO ST US TIPS US Un",
      "symbol": "ZTIP.U"
     }
    ]
@@ -22004,7 +22000,7 @@
      "symbol": "ZXLC"
     },
     {
-     "name": "BMO SPDRCom SSS ETFH",
+     "name": "BMO SPDRCom SSSETFHg",
      "symbol": "ZXLC.F"
     }
    ]
@@ -22020,7 +22016,7 @@
      "symbol": "ZXLY"
     },
     {
-     "name": "BMO SPDR CDsSSI ETFH",
+     "name": "BMO SPDR CDsSSIETFHg",
      "symbol": "ZXLY.F"
     }
    ]
@@ -22036,7 +22032,7 @@
      "symbol": "ZXLP"
     },
     {
-     "name": "BMO SPDR CnSSSI ETFH",
+     "name": "BMO SPDR CnSSIETF Hg",
      "symbol": "ZXLP.F"
     }
    ]
@@ -22052,7 +22048,7 @@
      "symbol": "ZXLE"
     },
     {
-     "name": "BMO SPDR EnSeSe ETFH",
+     "name": "BMO SPDR EnSSeETF Hg",
      "symbol": "ZXLE.F"
     }
    ]
@@ -22068,7 +22064,7 @@
      "symbol": "ZXLF"
     },
     {
-     "name": "BMO SPDR FiSeSe ETFH",
+     "name": "BMO SPDR FiSSeETF Hg",
      "symbol": "ZXLF.F"
     }
    ]
@@ -22084,7 +22080,7 @@
      "symbol": "ZXLV"
     },
     {
-     "name": "BMO SPDR HlCSSI ETFH",
+     "name": "BMO SPDR HlCSI ETFHg",
      "symbol": "ZXLV.F"
     }
    ]
@@ -22100,7 +22096,7 @@
      "symbol": "ZXLI"
     },
     {
-     "name": "BMO SPDR InSeSe ETFH",
+     "name": "BMO SPDR InSSe ETFHg",
      "symbol": "ZXLI.F"
     }
    ]
@@ -22116,7 +22112,7 @@
      "symbol": "ZXLB"
     },
     {
-     "name": "BMO SPDR MaSeSe ETFH",
+     "name": "BMO SPDR MaSSe ETFHg",
      "symbol": "ZXLB.F"
     }
    ]
@@ -22132,7 +22128,7 @@
      "symbol": "ZXLR"
     },
     {
-     "name": "BMO SPDR ReSSI ETFH",
+     "name": "BMO SPDR ReSSI ETFHg",
      "symbol": "ZXLR.F"
     }
    ]
@@ -22148,7 +22144,7 @@
      "symbol": "ZXLK"
     },
     {
-     "name": "BMOSPDR TechSSI ETFH",
+     "name": "BMOSPDR TechSI ETFHg",
      "symbol": "ZXLK.F"
     }
    ]
@@ -22164,7 +22160,7 @@
      "symbol": "ZXLU"
     },
     {
-     "name": "BMO SPDPR UtSSI ETFH",
+     "name": "BMO SPDPR UtSI ETFHg",
      "symbol": "ZXLU.F"
     }
    ]
@@ -22276,7 +22272,7 @@
      "symbol": "ZST"
     },
     {
-     "name": "BMO UltraSh Bnd ETFR",
+     "name": "BMO UltraSh BndETFAc",
      "symbol": "ZST.L"
     }
    ]
@@ -22292,7 +22288,7 @@
      "symbol": "ZUS.U"
     },
     {
-     "name": "BMO UlST BndUS ETFRU",
+     "name": "BMO UlST BndUSETF UA",
      "symbol": "ZUS.V"
     }
    ]
@@ -22308,7 +22304,7 @@
      "symbol": "ZUAG"
     },
     {
-     "name": "BMO US Aggre BndETFH",
+     "name": "BMO US AgreBndETF Hg",
      "symbol": "ZUAG.F"
     },
     {
@@ -22328,7 +22324,7 @@
      "symbol": "ZDY"
     },
     {
-     "name": "BMO USDiv ETFU Un",
+     "name": "BMO USDiv ETF Un",
      "symbol": "ZDY.U"
     }
    ]
@@ -22396,7 +22392,7 @@
      "symbol": "ZUP"
     },
     {
-     "name": "BMO US PrefShr ETFU",
+     "name": "BMO US PrefShr ETF",
      "symbol": "ZUP.U"
     }
    ]
@@ -22412,7 +22408,7 @@
      "symbol": "ZPW"
     },
     {
-     "name": "BMO US Put WriteETFU",
+     "name": "BMO US Put WriteETF",
      "symbol": "ZPW.U"
     }
    ]
@@ -22460,7 +22456,7 @@
      "symbol": "ZUCM"
     },
     {
-     "name": "BMO USD Cash MmtETFU",
+     "name": "BMO USD Cash MmtETF",
      "symbol": "ZUCM.U"
     }
    ]
@@ -41002,6 +40998,10 @@
     {
      "name": "Stack Capital Grp J",
      "symbol": "STCK"
+    },
+    {
+     "name": "Stack Cap GrpInc Wts",
+     "symbol": "STCK.WT.A"
     }
    ]
   },
@@ -44124,12 +44124,6 @@
    "yahoo_symbol": "ACTU"
   },
   {
-   "symbol": "ACVA",
-   "name": "ACV Auctions Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ACVA"
-  },
-  {
    "symbol": "ACWI",
    "name": "iShares MSCI ACWI ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -44164,6 +44158,12 @@
    "name": "Adobe Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ADBE"
+  },
+  {
+   "symbol": "ADBG",
+   "name": "Leverage Shares 2X Long ADBE Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADBG"
   },
   {
    "symbol": "ADD",
@@ -47070,6 +47070,12 @@
    "yahoo_symbol": "BIVI"
   },
   {
+   "symbol": "BIYA",
+   "name": "Baiya International Group Inc.  - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BIYA"
+  },
+  {
    "symbol": "BJDX",
    "name": "Bluejay Diagnostics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -47212,12 +47218,6 @@
    "name": "Blackbaud, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BLKB"
-  },
-  {
-   "symbol": "BLLD",
-   "name": "JPMorgan Sustainable Infrastructure ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLLD"
   },
   {
    "symbol": "BLMN",
@@ -55146,6 +55146,12 @@
    "yahoo_symbol": "GSHD"
   },
   {
+   "symbol": "GSHRU",
+   "name": "Gesher Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSHRU"
+  },
+  {
    "symbol": "GSIB",
    "name": "Themes Global Systemically Important Banks ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -55768,6 +55774,12 @@
    "name": "Robinhood Markets, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HOOD"
+  },
+  {
+   "symbol": "HOOG",
+   "name": "Leverage Shares 2X Long HOOD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOOG"
   },
   {
    "symbol": "HOOK",
@@ -63210,6 +63222,12 @@
    "yahoo_symbol": "PAMT"
   },
   {
+   "symbol": "PANG",
+   "name": "Leverage Shares 2X Long PANW Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PANG"
+  },
+  {
    "symbol": "PANL",
    "name": "Pangaea Logistics Solutions Ltd. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -64261,7 +64279,7 @@
   },
   {
    "symbol": "PRFZ",
-   "name": "Invesco FTSE RAFI US 1500 Small-Mid ETF",
+   "name": "Invesco RAFI US 1500 Small-Mid ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PRFZ"
   },
@@ -65126,7 +65144,7 @@
   {
    "symbol": "QTTB",
    "name": "Q32 Bio Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QTTB"
   },
   {
@@ -65374,6 +65392,12 @@
    "name": "Recon Technology, Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RCON"
+  },
+  {
+   "symbol": "RCT",
+   "name": "RedCloud Holdings plc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCT"
   },
   {
    "symbol": "RDAC",
@@ -68818,18 +68842,6 @@
    "name": "TriCo Bancshares - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TCBK"
-  },
-  {
-   "symbol": "TCBP",
-   "name": "TC BioPharm (Holdings) plc - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCBP"
-  },
-  {
-   "symbol": "TCBPW",
-   "name": "TC BioPharm (Holdings) plc - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCBPW"
   },
   {
    "symbol": "TCBS",
@@ -72816,6 +72828,12 @@
    "yahoo_symbol": "ACV"
   },
   {
+   "symbol": "ACVA",
+   "name": "ACV Auctions Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACVA"
+  },
+  {
    "symbol": "ADC",
    "name": "Agree Realty Corporation Common Stock",
    "exchange": "NYSE",
@@ -73534,6 +73552,12 @@
    "name": "America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "AMX"
+  },
+  {
+   "symbol": "AMZE",
+   "name": "Amaze Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AMZE"
   },
   {
    "symbol": "AN",
@@ -78258,12 +78282,6 @@
    "yahoo_symbol": "EDN"
   },
   {
-   "symbol": "EDR",
-   "name": "Endeavor Group Holdings, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EDR"
-  },
-  {
    "symbol": "EDU",
    "name": "New Oriental Education \u0026 Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)",
    "exchange": "NYSE",
@@ -78352,12 +78370,6 @@
    "name": "Everest Group, Ltd. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "EG"
-  },
-  {
-   "symbol": "EGF",
-   "name": "Blackrock Enhanced Government Fund, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EGF"
   },
   {
    "symbol": "EGO",
@@ -87114,12 +87126,6 @@
    "yahoo_symbol": "RDW"
   },
   {
-   "symbol": "RDW.W",
-   "name": "Redwire Corporation Redeemable Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RDW.W"
-  },
-  {
    "symbol": "RDY",
    "name": "Dr. Reddy's Laboratories Ltd Common Stock",
    "exchange": "NYSE",
@@ -90550,12 +90556,6 @@
    "name": "Viking Holdings Ltd Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "VIK"
-  },
-  {
-   "symbol": "VINE",
-   "name": "Fresh Vine Wine, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VINE"
   },
   {
    "symbol": "VIPS",

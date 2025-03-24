@@ -371,7 +371,7 @@ DELX,DelphX Capital Markets Inc.,TSXV,DELX.V,DelphX Capital Markets Inc.,DELX
 DLTA,Delta Resources Limited,TSXV,DLTA.V,Delta Resources Limited,DLTA
 DBC.P,Departure Bay Capital Corp.,TSXV,DBC.P.V,Departure Bay Capital Corp.,DBC.P
 DAU,Desert Gold Ventures Inc.,TSXV,DAU.V,Desert Gold Ventures Inc.,DAU
-DME,Desert Mountain Energy Corp.,TSXV,DME.V,Desert Mountain Energy Corp.,DME,Desert Mountain Energy Corp. wt 24Mar2025,DME.WT
+DME,Desert Mountain Energy Corp.,TSXV,DME.V,Desert Mountain Energy Corp.,DME
 DSY,Destiny Media Technologies Inc.,TSXV,DSY.V,Destiny Media Technologies Inc.,DSY
 GSD,Devonian Health Group Inc.,TSXV,GSD.V,Devonian Health Group Inc.,GSD
 DFR,DFR Gold Inc.,TSXV,DFR.V,DFR Gold Inc.,DFR
@@ -1668,28 +1668,28 @@ BLN,Blackline Safety Corp.,TSX,BLN.TO,Blackline Safety J,BLN
 HBLK,Blockchain Technologies ETF,TSX,HBLK.TO,Blockchain Tech A Un,HBLK
 RBN.UN,Blue Ribbon Income Fund,TSX,RBN.UN.TO,Blue Ribbon Incm Un,RBN.UN
 ZAG,BMO Aggregate Bond Index ETF,TSX,ZAG.TO,BMO AggregateBnd ETF,ZAG
-ZEQT,BMO All-Equity ETF,TSX,ZEQT.TO,BMO All-Eqty ETF Un,ZEQT
-ZESG,BMO Balanced ESG ETF,TSX,ZESG.TO,BMO BalanceESG Un,ZESG
-ZBAL,BMO Balanced ETF,TSX,ZBAL.TO,BMO Balanced ETF ,ZBAL,BMO Balanced ETF6 Un,ZBAL.T
-ZBBB,BMO BBB Corporate Bond Index ETF,TSX,ZBBB.TO,BMO BBB CorpBndETFUn,ZBBB
+ZEQT,BMO All-Equity ETF,TSX,ZEQT.TO,BMO All-Eqty ETF ,ZEQT
+ZESG,BMO Balanced ESG ETF,TSX,ZESG.TO,BMO BalanceESG ETF,ZESG
+ZBAL,BMO Balanced ETF,TSX,ZBAL.TO,BMO Balanced ETF ,ZBAL,BMO Balanced ETF,ZBAL.T
+ZBBB,BMO BBB Corporate Bond Index ETF,TSX,ZBBB.TO,BMO BBB CorpBnd ETF,ZBBB
 TOWR,BMO Brookfield Global Real Estate Tech Fund,TSX,TOWR.TO,BMO Brookfld Glb RET,TOWR
 GRNI,BMO Brookfield Global Renewables Infrastructure Fund,TSX,GRNI.TO,BMO BrkfldRenwInfras,GRNI
 ZBI,BMO Canadian Bank Income Index ETF,TSX,ZBI.TO,BMO Cdn Bnk Incm Inx,ZBI
-ZDV,BMO Canadian Dividend ETF,TSX,ZDV.TO,BMO Cdn Dividend Un,ZDV
+ZDV,BMO Canadian Dividend ETF,TSX,ZDV.TO,BMO Cdn Dividend ETF,ZDV
 ZWC,BMO Canadian High Dividend Covered Call ETF,TSX,ZWC.TO,BMO Cdn HiDivCovCall,ZWC
-ZMBS,BMO Canadian MBS Index ETF,TSX,ZMBS.TO,BMO CdnMBS Idx ETFUn,ZMBS
+ZMBS,BMO Canadian MBS Index ETF,TSX,ZMBS.TO,BMO CdnMBS Idx ETF,ZMBS
 ZCLN,BMO Clean Energy Index ETF,TSX,ZCLN.TO,BMO Clean Engy ETF,ZCLN
 ZCON,BMO Conservative ETF,TSX,ZCON.TO,BMO Conservative ETF,ZCON
 ZCPB,BMO Core Plus Bond Fund,TSX,ZCPB.TO,BMO Core+Bond ETF Sr,ZCPB
-ZCB,BMO Corporate Bond Index ETF,TSX,ZCB.TO,BMO Corp Bond Idx Un,ZCB
+ZCB,BMO Corporate Bond Index ETF,TSX,ZCB.TO,BMO Corp Bond IdxETF,ZCB
 ZCDB,BMO Corporate Discount Bond ETF,TSX,ZCDB.TO,BMO CrpDiscountBdETF,ZCDB
-ZWB,BMO Covered Call Canadian Banks ETF,TSX,ZWB.TO,BMO Coverd CallCdnBk,ZWB,BMO CoverCallCdnBkUN,ZWB.U
-ZWA,BMO Covered Call Dow Jones Industrial Average Hedged to CAD ETF,TSX,ZWA.TO,BMO DJ IndustAvg Un,ZWA
-ZWEN,BMO Covered Call Energy ETF,TSX,ZWEN.TO,BMO CovrdCallEngy UN,ZWEN
+ZWB,BMO Covered Call Canadian Banks ETF,TSX,ZWB.TO,BMO Coverd CallCdnBk,ZWB,BMO CoverCallCdnBkUS,ZWB.U
+ZWA,BMO Covered Call Dow Jones Industrial Average Hedged to CAD ETF,TSX,ZWA.TO,BMO DJ IndustAvg ETF,ZWA
+ZWEN,BMO Covered Call Energy ETF,TSX,ZWEN.TO,BMO CovrdCallEngyETF,ZWEN
 ZWHC,BMO Covered Call Health Care ETF,TSX,ZWHC.TO,BMO CovrdCallHthETF ,ZWHC
-ZWT,BMO Covered Call Technology ETF,TSX,ZWT.TO,BMO CoverCallTech UN,ZWT
+ZWT,BMO Covered Call Technology ETF,TSX,ZWT.TO,BMO CoverCallTechETF,ZWT
 ZWK,BMO Covered Call US Banks ETF,TSX,ZWK.TO,BMO CoverCalUSBkETF ,ZWK
-ZWU,BMO Covered Call Utilities ETF,TSX,ZWU.TO,BMO CoverdUtility Un,ZWU
+ZWU,BMO Covered Call Utilities ETF,TSX,ZWU.TO,BMO CoverdUtilityETF,ZWU
 ZDB,BMO Discount Bond Index ETF,TSX,ZDB.TO,BMO Discount BndETF,ZDB
 ZDJ,BMO Dow Jones Industrial Average Hedged to CAD Index ETF,TSX,ZDJ.TO,BMO DJ IndAv Heg ETF,ZDJ
 ZEF,BMO Emerging Markets Bond Hedged to CAD Index ETF,TSX,ZEF.TO,BMO Em Mkt Bond HED,ZEF
@@ -1698,13 +1698,13 @@ ZMT,BMO Equal Weight Global Base Metals Hedged to CAD Index ETF,TSX,ZMT.TO,BMO E
 ZGD,BMO Equal Weight Global Gold Index ETF,TSX,ZGD.TO,BMO EqWght Glb Gold,ZGD
 ZIN,BMO Equal Weight Industrials Index ETF,TSX,ZIN.TO,BMO EqWgtIndustlETF ,ZIN
 ZEO,BMO Equal Weight Oil & Gas Index ETF,TSX,ZEO.TO,BMO Eq WghtOil & Gas,ZEO
-ZRE,BMO Equal Weight REITs Index ETF,TSX,ZRE.TO,BMO Eql Wgt REITs Un,ZRE
+ZRE,BMO Equal Weight REITs Index ETF,TSX,ZRE.TO,BMO Eql Wgt REITsETF,ZRE
 ZUB,BMO Equal Weight US Banks Hedged to CAD Index ETF,TSX,ZUB.TO,BMO Eq Wgt US Banks,ZUB
 ZBK,BMO Equal Weight US Banks Index ETF,TSX,ZBK.TO,BMO EqlWght US BkETF,ZBK
 ZUH,BMO Equal Weight US Health Care Hedged to CAD Index ETF,TSX,ZUH.TO,BMO EqWgt US Health,ZUH
 ZHU,BMO Equal Weight US Health Care Index ETF,TSX,ZHU.TO,BMO EqWgtUS HlthCare,ZHU
 ZUT,BMO Equal Weight Utilities Index ETF,TSX,ZUT.TO,BMO Eql Wgt Util ETF,ZUT
-ESGB,BMO ESG Corporate Bond Index ETF,TSX,ESGB.TO,BMO ESG CorpBnd,ESGB
+ESGB,BMO ESG Corporate Bond Index ETF,TSX,ESGB.TO,BMO ESG CorpBnd ETF,ESGB
 ESGH,BMO ESG High Yield US Corporate Bond Index ETF,TSX,ESGH.TO,BMO ESG HiYldUSBndET,ESGH,BMO ESG HiYldUSBndH,ESGH.F
 ESGF,BMO ESG US Corporate Bond Hedged to CAD Index ETF,TSX,ESGF.TO,BMO ESG US Corp Bond,ESGF
 ZWP,BMO Europe High Dividend Covered Call ETF,TSX,ZWP.TO,BMO EU HiDiv CovCall,ZWP
@@ -1719,17 +1719,17 @@ ZWG,BMO Global High Dividend Covered Call ETF,TSX,ZWG.TO,BMO Glbl HiDivCovCal,ZW
 ZGI,BMO Global Infrastructure Index ETF,TSX,ZGI.TO,BMO Gbl Infrastr ETF,ZGI
 ZGSB,BMO Global Strategic Bond Fund,TSX,ZGSB.TO,BMO Glb Stratgc Bond,ZGSB
 ZGLD,BMO Gold Bullion ETF,TSX,ZGLD.TO,BMO Gld Bull ETF,ZGLD,BMO Gld Bull ETF USD,ZGLD.U
-ZGLH,BMO Gold Bullion Hedged to CAD ETF,TSX,ZGLH.TO,BMO Gld Bull FndETFH,ZGLH
+ZGLH,BMO Gold Bullion Hedged to CAD ETF,TSX,ZGLH.TO,BMO Gld Bull Fnd ETF,ZGLH
 ZGB,BMO Government Bond Index ETF,TSX,ZGB.TO,BMO Gov't Bond Un,ZGB
-ZGRO,BMO Growth ETF,TSX,ZGRO.TO,BMO Growth ETF Un,ZGRO,BMO Growth ETF6 Un,ZGRO.T
+ZGRO,BMO Growth ETF,TSX,ZGRO.TO,BMO Growth ETF Un,ZGRO,BMO Growth ETF Un,ZGRO.T
 ZQB,BMO High Quality Corporate Bond Index ETF,TSX,ZQB.TO,BMO HiQual CrpBndETF,ZQB
 ZHY,BMO High Yield US Corporate Bond Hedged to CAD Index ETF,TSX,ZHY.TO,BMO HY US CrpHdg ETF,ZHY
-ZJK,BMO High Yield US Corporate Bond Index ETF,TSX,ZJK.TO,BMO HiYldUS CorpBnd,ZJK,BMO HiYld CorpBdETFU,ZJK.U
+ZJK,BMO High Yield US Corporate Bond Index ETF,TSX,ZJK.TO,BMO HiYldUS CorpBnd,ZJK,BMO HiYld CorpBdETF,ZJK.U
 ZDI,BMO International Dividend ETF,TSX,ZDI.TO,BMO Int'l Div ETF Un,ZDI
 ZDH,BMO International Dividend Hedged to CAD ETF,TSX,ZDH.TO,BMO Intl DivHg-CA Un,ZDH
-ZJPN,BMO Japan Index ETF,TSX,ZJPN.TO,BMO Japan Indx ETFUn,ZJPN,BMO Japan Index ETFH,ZJPN.F
+ZJPN,BMO Japan Index ETF,TSX,ZJPN.TO,BMO Japan Indx ETFUn,ZJPN,BMO Japan Index ETF,ZJPN.F
 ZJG,BMO Junior Gold Index ETF,TSX,ZJG.TO,BMO Junior Gold ETF,ZJG
-ZPR,BMO Laddered Preferred Share Index ETF,TSX,ZPR.TO,BMO Ladd Pr Indx ETF,ZPR,BMO Ladd Pr Idx ETFU,ZPR.U
+ZPR,BMO Laddered Preferred Share Index ETF,TSX,ZPR.TO,BMO Ladd Pr Indx ETF,ZPR,BMO Ladd Pr Idx ETF,ZPR.U
 ZLC,BMO Long Corporate Bond Index ETF,TSX,ZLC.TO,BMO Long Crp Bnd ETF,ZLC
 ZFL,BMO Long Federal Bond Index ETF,TSX,ZFL.TO,BMO Lng Federal Bond,ZFL
 ZPL,BMO Long Provincial Bond Index ETF,TSX,ZPL.TO,BMO LngProvBndId ETF,ZPL
@@ -1739,13 +1739,13 @@ ZLB,BMO Low Volatility Canadian Equity ETF,TSX,ZLB.TO,BMO Volatlty ETF Un,ZLB
 ZLE,BMO Low Volatility Emerging Markets Equity ETF,TSX,ZLE.TO,BMO LwVoltyEq ETF,ZLE
 ZLI,BMO Low Volatility International Equity ETF,TSX,ZLI.TO,BMO LowVolIntl Eq Un,ZLI
 ZLD,BMO Low Volatility International Equity Hedged to CAD ETF,TSX,ZLD.TO,BMO LwVol IntlEq H-C,ZLD
-ZLU,BMO Low Volatility US Equity ETF,TSX,ZLU.TO,BMO LwVltyUSEq ETF,ZLU,BMO LwVltyUSEq ETFU,ZLU.U
+ZLU,BMO Low Volatility US Equity ETF,TSX,ZLU.TO,BMO LwVltyUSEq ETF,ZLU,BMO LwVltyUSEq ETF,ZLU.U
 ZLH,BMO Low Volatility US Equity Hedged to CAD ETF,TSX,ZLH.TO,BMO LowVol US Eq H-C,ZLH
 ZCM,BMO Mid Corporate Bond Index ETF,TSX,ZCM.TO,BMO Mid Crp Bond ETF,ZCM
 ZFM,BMO Mid Federal Bond Index ETF,TSX,ZFM.TO,BMO Mid Fed Bnd Indx,ZFM
 ZMP,BMO Mid Provincial Bond Index ETF,TSX,ZMP.TO,BMO MidProvBnd ETF,ZMP
 ZMU,BMO Mid-Term US IG Corporate Bond Hedged to CAD Index ETF,TSX,ZMU.TO,BMO MidUS IG HegBnd,ZMU
-ZIC,BMO Mid-Term US IG Corporate Bond Index ETF,TSX,ZIC.TO,BMO MidUSCrpBnd ETF,ZIC,BMO MidUS CrBnd ETFU,ZIC.U
+ZIC,BMO Mid-Term US IG Corporate Bond Index ETF,TSX,ZIC.TO,BMO MidUSCrpBnd ETF,ZIC,BMO MidUS CrBnd ETF,ZIC.U
 ZMMK,BMO Money Market Fund,TSX,ZMMK.TO,BMO MoneyMkt Fnd Un,ZMMK
 ZMI,BMO Monthly Income ETF,TSX,ZMI.TO,BMO Monthly Incm Un,ZMI,BMO Monthly Inc ETFU,ZMI.U
 ZGRN,BMO MSCI ACWI Paris Aligned Climate Equity Index ETF,TSX,ZGRN.TO,BMO ACWI ParisClmtEq,ZGRN
@@ -1761,39 +1761,39 @@ ZEM,BMO MSCI Emerging Markets Index ETF,TSX,ZEM.TO,BMO MSCI EmrgMkts Un,ZEM
 ZEQ,BMO MSCI Europe High Quality Hedged to CAD Index ETF,TSX,ZEQ.TO,BMO MSCI EU HiQltyUn,ZEQ
 ESGG,BMO MSCI Global Selection Equity Index ETF,TSX,ESGG.TO,BMO MSCI Glb SEq ETF,ESGG
 ZID,BMO MSCI India Selection Equity Index ETF,TSX,ZID.TO,BMO MSCI India SelEq,ZID
-ZUQ,BMO MSCI USA High Quality Index ETF,TSX,ZUQ.TO,BMO MSCI US HiQltyUn,ZUQ,BMO MSCIUSHiQltyETFH,ZUQ.F,BMO MSCI USHiQtyETFU,ZUQ.U
-ESGY,BMO MSCI USA Selection Equity Index ETF,TSX,ESGY.TO,BMO MSCI US SeEq ETF,ESGY,BMO MSCIUS SelEqETFH,ESGY.F
+ZUQ,BMO MSCI USA High Quality Index ETF,TSX,ZUQ.TO,BMO MSCI US HiQltyUn,ZUQ,BMO MSCIUSHiQltyETF,ZUQ.F,BMO MSCI USHiQtyETF,ZUQ.U
+ESGY,BMO MSCI USA Selection Equity Index ETF,TSX,ESGY.TO,BMO MSCI US SeEq ETF,ESGY,BMO MSCIUS SelEqETF,ESGY.F
 ZVU,BMO MSCI USA Value Index ETF,TSX,ZVU.TO,BMO MSCI USAValue Un,ZVU
 ZQQ,BMO Nasdaq 100 Equity Hedged To CAD Index ETF,TSX,ZQQ.TO,BMO Nasdaq EqHed ETF,ZQQ
-ZNQ,BMO Nasdaq 100 Equity Index ETF,TSX,ZNQ.TO,BMO Nasdaq100 Eq UN,ZNQ,BMO Nasdaq100 EqETFU,ZNQ.U
-ZPAY,BMO Premium Yield ETF,TSX,ZPAY.TO,BMO PremiumYield ETF,ZPAY,BMO PremiumYid ETFHU,ZPAY.F,BMO PremiumYld ETFU,ZPAY.U
+ZNQ,BMO Nasdaq 100 Equity Index ETF,TSX,ZNQ.TO,BMO Nasdaq100 Eq UN,ZNQ,BMO Nasdaq100 EqETF,ZNQ.U
+ZPAY,BMO Premium Yield ETF,TSX,ZPAY.TO,BMO PremiumYield ETF,ZPAY,BMO PremiumYid ETF ,ZPAY.F,BMO PremiumYld ETF,ZPAY.U
 ZRR,BMO Real Return Bond Index ETF,TSX,ZRR.TO,BMO Rl Return Bond,ZRR
 ZUE,BMO S&P 500 Hedged to CAD Index ETF,TSX,ZUE.TO,BMO S&P 500 Hedg-CAD,ZUE
-ZSP,BMO S&P 500 Index ETF,TSX,ZSP.TO,BMO S&P500 IdxETF Un,ZSP,BMO S&P500 Idx ETFU,ZSP.U
-ZMID,BMO S&P US Mid Cap Index ETF,TSX,ZMID.TO,BMO S&P US MdCap ETF,ZMID,BMO S&P US MidC ETFH,ZMID.F,BMO S&P US MidCpETFU,ZMID.U
-ZSML,BMO S&P US Small Cap Index ETF,TSX,ZSML.TO,BMO S&P US SmlCapETF,ZSML,BMO S&P US SmlCpETFH,ZSML.F,BMO S&P US SmlCpETFU,ZSML.U
+ZSP,BMO S&P 500 Index ETF,TSX,ZSP.TO,BMO S&P500 IdxETF Un,ZSP,BMO S&P500 Idx ETF,ZSP.U
+ZMID,BMO S&P US Mid Cap Index ETF,TSX,ZMID.TO,BMO S&P US MdCap ETF,ZMID,BMO S&P US MidCapHeg,ZMID.F,BMO S&P US MidCpETFU,ZMID.U
+ZSML,BMO S&P US Small Cap Index ETF,TSX,ZSML.TO,BMO S&P US SmlCapETF,ZSML,BMO S&P US SmlCpHeg,ZSML.F,BMO S&P US SmlCpETFU,ZSML.U
 ZIU,BMO S&P/TSX 60 Index ETF,TSX,ZIU.TO,BMO S&P/TSX 60 Indx,ZIU
 ZCN,BMO S&P/TSX Capped Composite Index ETF,TSX,ZCN.TO,BMO S&P/TSX CompIndx,ZCN
-ZCS,BMO Short Corporate Bond Index ETF,TSX,ZCS.TO,BMO Shrt Crp Bnd ETF,ZCS,BMO Sh Corp Bnd ETFR,ZCS.L
-ZFS,BMO Short Federal Bond Index ETF,TSX,ZFS.TO,BMO Shrt Fed Bnd ETF,ZFS,BMO ShFedrlBnd ETFR,ZFS.L
-ZPS,BMO Short Provincial Bond Index ETF,TSX,ZPS.TO,BMO Shrt Prv Bnd ETF,ZPS,BMO ShProv Bnd ETFR,ZPS.L
+ZCS,BMO Short Corporate Bond Index ETF,TSX,ZCS.TO,BMO Shrt Crp Bnd ETF,ZCS,BMO Sh Corp BndETFAc,ZCS.L
+ZFS,BMO Short Federal Bond Index ETF,TSX,ZFS.TO,BMO Shrt Fed Bnd ETF,ZFS,BMO ShFedrlBndETF Ac,ZFS.L
+ZPS,BMO Short Provincial Bond Index ETF,TSX,ZPS.TO,BMO Shrt Prv Bnd ETF,ZPS,BMO ShProv BndETF Ac,ZPS.L
 ZSB,BMO Short-Term Bond Index ETF,TSX,ZSB.TO,BMO ShortTrm Bond Un,ZSB
 ZSDB,BMO Short-Term Discount Bond ETF,TSX,ZSDB.TO,BMO ST DiscBnd ETF,ZSDB
 ZSU,BMO Short-Term US IG Corporate Bond Hedged to CAD Index ETF,TSX,ZSU.TO,BMO Sh-Trm US CrpBnd,ZSU
-ZTIP,BMO Short-Term US TIPS Index ETF,TSX,ZTIP.TO,BMO ST US TIPS ETF,ZTIP,BMO ST US TIPS ETFH,ZTIP.F,BMO ST US TIPS ETFU,ZTIP.U
+ZTIP,BMO Short-Term US TIPS Index ETF,TSX,ZTIP.TO,BMO ST US TIPS ETF,ZTIP,BMO ST US TIPS Hedg,ZTIP.F,BMO ST US TIPS US Un,ZTIP.U
 ZFC,BMO SIA Focused Canadian Equity Fund,TSX,ZFC.TO,BMO SIA Cdn Eqty Fnd,ZFC
 ZFN,BMO SIA Focused North American Equity Fund,TSX,ZFN.TO,BMO SIA NA Eq ETF Un,ZFN
-ZXLC,BMO SPDR Communication Services Select Sector Index ETF,TSX,ZXLC.TO,BMO SPDR Com SSS ETF,ZXLC,BMO SPDRCom SSS ETFH,ZXLC.F
-ZXLY,BMO SPDR Consumer Discretionary Select Sector Index ETF,TSX,ZXLY.TO,BMO SPDR CDsSSI ETF,ZXLY,BMO SPDR CDsSSI ETFH,ZXLY.F
-ZXLP,BMO SPDR Consumer Staples Select Sector Index ETF,TSX,ZXLP.TO,BMO SPDR ConSSSI ETF,ZXLP,BMO SPDR CnSSSI ETFH,ZXLP.F
-ZXLE,BMO SPDR Energy Select Sector Index ETF,TSX,ZXLE.TO,BMO SPDR EnSeSeI ETF,ZXLE,BMO SPDR EnSeSe ETFH,ZXLE.F
-ZXLF,BMO SPDR Financials Select Sector Index ETF,TSX,ZXLF.TO,BMO SPDR FiSeSeI ETF,ZXLF,BMO SPDR FiSeSe ETFH,ZXLF.F
-ZXLV,BMO SPDR Health Care Select Sector Index ETF,TSX,ZXLV.TO,BMO SPDR HlCSSI ETF,ZXLV,BMO SPDR HlCSSI ETFH,ZXLV.F
-ZXLI,BMO SPDR Industrials Select Sector Index ETF,TSX,ZXLI.TO,BMO SPDR InSeSeI ETF,ZXLI,BMO SPDR InSeSe ETFH,ZXLI.F
-ZXLB,BMO SPDR Materials Select Sector Index ETF,TSX,ZXLB.TO,BMO SPDR MaSelSe ETF,ZXLB,BMO SPDR MaSeSe ETFH,ZXLB.F
-ZXLR,BMO SPDR Real Estate Select Sector Index ETF,TSX,ZXLR.TO,BMO SPDR ReSSI ETF,ZXLR,BMO SPDR ReSSI ETFH,ZXLR.F
-ZXLK,BMO SPDR Technology Select Sector Index ETF,TSX,ZXLK.TO,BMO SPDR TechSSI ETF,ZXLK,BMOSPDR TechSSI ETFH,ZXLK.F
-ZXLU,BMO SPDR Utilities Select Sector Index ETF,TSX,ZXLU.TO,BMO SPDPR UtSSI ETF,ZXLU,BMO SPDPR UtSSI ETFH,ZXLU.F
+ZXLC,BMO SPDR Communication Services Select Sector Index ETF,TSX,ZXLC.TO,BMO SPDR Com SSS ETF,ZXLC,BMO SPDRCom SSSETFHg,ZXLC.F
+ZXLY,BMO SPDR Consumer Discretionary Select Sector Index ETF,TSX,ZXLY.TO,BMO SPDR CDsSSI ETF,ZXLY,BMO SPDR CDsSSIETFHg,ZXLY.F
+ZXLP,BMO SPDR Consumer Staples Select Sector Index ETF,TSX,ZXLP.TO,BMO SPDR ConSSSI ETF,ZXLP,BMO SPDR CnSSIETF Hg,ZXLP.F
+ZXLE,BMO SPDR Energy Select Sector Index ETF,TSX,ZXLE.TO,BMO SPDR EnSeSeI ETF,ZXLE,BMO SPDR EnSSeETF Hg,ZXLE.F
+ZXLF,BMO SPDR Financials Select Sector Index ETF,TSX,ZXLF.TO,BMO SPDR FiSeSeI ETF,ZXLF,BMO SPDR FiSSeETF Hg,ZXLF.F
+ZXLV,BMO SPDR Health Care Select Sector Index ETF,TSX,ZXLV.TO,BMO SPDR HlCSSI ETF,ZXLV,BMO SPDR HlCSI ETFHg,ZXLV.F
+ZXLI,BMO SPDR Industrials Select Sector Index ETF,TSX,ZXLI.TO,BMO SPDR InSeSeI ETF,ZXLI,BMO SPDR InSSe ETFHg,ZXLI.F
+ZXLB,BMO SPDR Materials Select Sector Index ETF,TSX,ZXLB.TO,BMO SPDR MaSelSe ETF,ZXLB,BMO SPDR MaSSe ETFHg,ZXLB.F
+ZXLR,BMO SPDR Real Estate Select Sector Index ETF,TSX,ZXLR.TO,BMO SPDR ReSSI ETF,ZXLR,BMO SPDR ReSSI ETFHg,ZXLR.F
+ZXLK,BMO SPDR Technology Select Sector Index ETF,TSX,ZXLK.TO,BMO SPDR TechSSI ETF,ZXLK,BMOSPDR TechSI ETFHg,ZXLK.F
+ZXLU,BMO SPDR Utilities Select Sector Index ETF,TSX,ZXLU.TO,BMO SPDPR UtSSI ETF,ZXLU,BMO SPDPR UtSI ETFHg,ZXLU.F
 ZMSB,BMO Sustainable Global Multi-Sector Bond Fund,TSX,ZMSB.TO,BMO Glb Mult-SctrBnd,ZMSB
 ZZZD,BMO Tactical Dividend ETF Fund,TSX,ZZZD.TO,BMO Tactical Div Un,ZZZD
 ZXCO,BMO Target 2027 Canadian Corporate Bond ETF,TSX,ZXCO.TO,BMO Tgt 2027 CCB ETF,ZXCO
@@ -1802,19 +1802,19 @@ ZXCQ,BMO Target 2029 Canadian Corporate Bond ETF,TSX,ZXCQ.TO,BMO Tgt 2029 CCB ET
 ZACE,BMO U.S. All Cap Equity Fund,TSX,ZACE.TO,BMO U.S. All Cap Eq,ZACE
 ZUGE,BMO U.S. Equity Growth MFR Fund,TSX,ZUGE.TO,BMO US Eqty GrowMFR,ZUGE
 ZUVE,BMO U.S. Equity Value MFR Fund,TSX,ZUVE.TO,BMO US Eqty Val MFR,ZUVE
-ZST,BMO Ultra Short-Term Bond ETF,TSX,ZST.TO,BMO Ultra ShrtBnd Un,ZST,BMO UltraSh Bnd ETFR,ZST.L
-ZUS.U,BMO Ultra Short-Term US Bond ETF,TSX,ZUS.U.TO,BMO UltraST BndETFU,ZUS.U,BMO UlST BndUS ETFRU,ZUS.V
-ZUAG,BMO US Aggregate Bond Index ETF,TSX,ZUAG.TO,BMO US Aggre BondETF,ZUAG,BMO US Aggre BndETFH,ZUAG.F,BMO US Aggre BndETFU,ZUAG.U
-ZDY,BMO US Dividend ETF,TSX,ZDY.TO,BMO USDiv ETF Un,ZDY,BMO USDiv ETFU Un,ZDY.U
+ZST,BMO Ultra Short-Term Bond ETF,TSX,ZST.TO,BMO Ultra ShrtBnd Un,ZST,BMO UltraSh BndETFAc,ZST.L
+ZUS.U,BMO Ultra Short-Term US Bond ETF,TSX,ZUS.U.TO,BMO UltraST BndETFU,ZUS.U,BMO UlST BndUSETF UA,ZUS.V
+ZUAG,BMO US Aggregate Bond Index ETF,TSX,ZUAG.TO,BMO US Aggre BondETF,ZUAG,BMO US AgreBndETF Hg,ZUAG.F,BMO US Aggre BndETFU,ZUAG.U
+ZDY,BMO US Dividend ETF,TSX,ZDY.TO,BMO USDiv ETF Un,ZDY,BMO USDiv ETF Un,ZDY.U
 ZUD,BMO US Dividend Hedged to CAD ETF,TSX,ZUD.TO,BMO USDiv Hdg-Cad Un,ZUD
 ZWH,BMO US High Dividend Covered Call ETF,TSX,ZWH.TO,BMO US HighDivCov Un,ZWH,BMO US HighDivCov UN,ZWH.U
 ZWS,BMO US High Dividend Covered Call Hedged to CAD ETF,TSX,ZWS.TO,BMO US HiDivCovHg-CA,ZWS
 ZHP,BMO US Preferred Share Hedged to CAD Index ETF,TSX,ZHP.TO,BMO US PrefShr Hg-CA,ZHP
-ZUP,BMO US Preferred Share Index ETF,TSX,ZUP.TO,BMO US PrefShr ETFUn,ZUP,BMO US PrefShr ETFU,ZUP.U
-ZPW,BMO US Put Write ETF,TSX,ZPW.TO,BMO US Put Write ETF,ZPW,BMO US Put WriteETFU,ZPW.U
+ZUP,BMO US Preferred Share Index ETF,TSX,ZUP.TO,BMO US PrefShr ETFUn,ZUP,BMO US PrefShr ETF,ZUP.U
+ZPW,BMO US Put Write ETF,TSX,ZPW.TO,BMO US Put Write ETF,ZPW,BMO US Put WriteETF,ZPW.U
 ZPH,BMO US Put Write Hedged to CAD ETF,TSX,ZPH.TO,BMO US PutWrte Hg-CA,ZPH
 TIPS,BMO US TIPS Index ETF,TSX,TIPS.TO,BMO US TipsIndx ETF,TIPS,BMO US Tips Idx ETFH,TIPS.F,BMO US Tips Idx ETFU,TIPS.U
-ZUCM,BMO USD Cash Management ETF,TSX,ZUCM.TO,BMO USD Cash Mgmt Un,ZUCM,BMO USD Cash MmtETFU,ZUCM.U
+ZUCM,BMO USD Cash Management ETF,TSX,ZUCM.TO,BMO USD Cash Mgmt Un,ZUCM,BMO USD Cash MmtETF,ZUCM.U
 WOMN,BMO Women in Leadership Fund,TSX,WOMN.TO,BMO Women LeadrshpUn,WOMN
 GBT,BMTC Group Inc.,TSX,GBT.TO,BMTC Group Inc.,GBT
 BEI.UN,Boardwalk Real Estate Investment Trust,TSX,BEI.UN.TO,Boardwalk REIT Un,BEI.UN
@@ -3174,7 +3174,7 @@ PSLV,Sprott Physical Silver Trust,TSX,PSLV.TO,Sprott Phy Sil Cdn,PSLV,Sprott Phy
 U.U,Sprott Physical Uranium Trust,TSX,U.U.TO,Sprott PhysUraniumUS,U.U,Sprott PhysUraniumUn,U.UN
 SSRM,SSR Mining Inc.,TSX,SSRM.TO,SSR Mining Inc.,SSRM
 SAU,St. Augustine Gold and Copper Limited,TSX,SAU.TO,St. Augustine Gld J,SAU
-STCK,Stack Capital Group Inc.,TSX,STCK.TO,Stack Capital Grp J,STCK
+STCK,Stack Capital Group Inc.,TSX,STCK.TO,Stack Capital Grp J,STCK,Stack Cap GrpInc Wts,STCK.WT.A
 SZLS,StageZero Life Sciences Ltd.,TSX,SZLS.TO,StageZero Life Sci J,SZLS
 STN,Stantec Inc.,TSX,STN.TO,Stantec Inc.,STN
 DIAM,Star Diamond Corporation,TSX,DIAM.TO,Star Diamond Corp J,DIAM
@@ -3446,13 +3446,13 @@ ACRV,"Acrivon Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,ACRV
 ACT,"Enact Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ACT
 ACTG,Acacia Research Corporation - Common Stock,NASDAQ Global Select MarketSM,ACTG
 ACTU,"Actuate Therapeutics, Inc. - Common stock",NASDAQ Global MarketSM,ACTU
-ACVA,ACV Auctions Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,ACVA
 ACWI,iShares MSCI ACWI ETF,NASDAQ Global MarketSM,ACWI
 ACWX,iShares MSCI ACWI ex U.S. ETF,NASDAQ Global MarketSM,ACWX
 ACXP,"Acurx Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,ACXP
 ADAG,"Adagene Inc. - ADS, each representing 1.25 ordinary shares",NASDAQ Global MarketSM,ADAG
 ADAP,Adaptimmune Therapeutics plc - American Depositary Shares,NASDAQ Global Select MarketSM,ADAP
 ADBE,Adobe Inc. - Common Stock,NASDAQ Global Select MarketSM,ADBE
+ADBG,Leverage Shares 2X Long ADBE Daily ETF,NASDAQ Global MarketSM,ADBG
 ADD,"Color Star Technology Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,ADD
 ADEA,Adeia Inc.  - Common Stock,NASDAQ Global Select MarketSM,ADEA
 ADGM,"Adagio Medical Holdings, Inc - Common Stock",NASDAQ Capital Market,ADGM
@@ -3937,6 +3937,7 @@ BIS,ProShares UltraShort Nasdaq Biotechnology,NASDAQ Global MarketSM,BIS
 BITF,Bitfarms Ltd. - Common Stock,NASDAQ Global MarketSM,BITF
 BITS,Global X Blockchain & Bitcoin Strategy ETF,NASDAQ Global MarketSM,BITS
 BIVI,BioVie Inc. - Common stock,NASDAQ Capital Market,BIVI
+BIYA,Baiya International Group Inc.  - Ordinary Shares,NASDAQ Capital Market,BIYA
 BJDX,"Bluejay Diagnostics, Inc. - Common Stock",NASDAQ Capital Market,BJDX
 BJK,VanEck Gaming ETF,NASDAQ Global MarketSM,BJK
 BJRI,"BJ's Restaurants, Inc. - Common Stock",NASDAQ Global Select MarketSM,BJRI
@@ -3961,7 +3962,6 @@ BLFS,"BioLife Solutions, Inc. - Common Stock",NASDAQ Capital Market,BLFS
 BLFY,Blue Foundry Bancorp - Common Stock,NASDAQ Global Select MarketSM,BLFY
 BLIN,"Bridgeline Digital, Inc. - Common Stock",NASDAQ Capital Market,BLIN
 BLKB,"Blackbaud, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLKB
-BLLD,JPMorgan Sustainable Infrastructure ETF,NASDAQ Global MarketSM,BLLD
 BLMN,"Bloomin' Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLMN
 BLMZ,BloomZ Inc. - Ordinary Shares,NASDAQ Capital Market,BLMZ
 BLNE,"Beeline Holdings, Inc. - Common Stock",NASDAQ Capital Market,BLNE
@@ -5283,6 +5283,7 @@ GRYP,"Gryphon Digital Mining, Inc - Common Stock",NASDAQ Capital Market,GRYP
 GSAT,"Globalstar, Inc. - Common Stock",NASDAQ Global Select MarketSM,GSAT
 GSBC,"Great Southern Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,GSBC
 GSHD,"Goosehead Insurance, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,GSHD
+GSHRU,Gesher Acquisition Corp. II - Units,NASDAQ Global MarketSM,GSHRU
 GSIB,Themes Global Systemically Important Banks ETF,NASDAQ Global MarketSM,GSIB
 GSIT,"GSI Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,GSIT
 GSIW,Garden Stage Limited - Ordinary Shares,NASDAQ Capital Market,GSIW
@@ -5387,6 +5388,7 @@ HONDU,HCM II Acquisition Corp. - Unit,NASDAQ Global MarketSM,HONDU
 HONDW,HCM II Acquisition Corp. - Warrant,NASDAQ Global MarketSM,HONDW
 HONE,"HarborOne Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,HONE
 HOOD,"Robinhood Markets, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,HOOD
+HOOG,Leverage Shares 2X Long HOOD Daily ETF,NASDAQ Global MarketSM,HOOG
 HOOK,HOOKIPA Pharma Inc. - Common Stock,NASDAQ Capital Market,HOOK
 HOOX,Defiance Daily Target 2X Long HOOD ETF,NASDAQ Global MarketSM,HOOX
 HOPE,"Hope Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,HOPE
@@ -6627,6 +6629,7 @@ PAHC,Phibro Animal Health Corporation - Class A Common Stock,NASDAQ Global Marke
 PAL,"Proficient Auto Logistics, Inc. - Common Stock",NASDAQ Global Select MarketSM,PAL
 PALI,"Palisade Bio, Inc. - Common Stock",NASDAQ Capital Market,PALI
 PAMT,PAMT CORP - Common Stock,NASDAQ Global MarketSM,PAMT
+PANG,Leverage Shares 2X Long PANW Daily ETF,NASDAQ Global MarketSM,PANG
 PANL,Pangaea Logistics Solutions Ltd. - Common Stock,NASDAQ Capital Market,PANL
 PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ Global Select MarketSM,PANW
 PARA,Paramount Global - Class B Common Stock,NASDAQ Global Select MarketSM,PARA
@@ -6802,7 +6805,7 @@ PRDO,Perdoceo Education Corporation - Common Stock,NASDAQ Global Select MarketSM
 PRE,Prenetics Global Limited - Class A Ordinary Share,NASDAQ Global MarketSM,PRE
 PRENW,Prenetics Global Limited - Warrant,NASDAQ Capital Market,PRENW
 PRFX,PainReform Ltd. - Ordinary Shares,NASDAQ Capital Market,PRFX
-PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,NASDAQ Global MarketSM,PRFZ
+PRFZ,Invesco RAFI US 1500 Small-Mid ETF,NASDAQ Global MarketSM,PRFZ
 PRGS,Progress Software Corporation - Common Stock,NASDAQ Global Select MarketSM,PRGS
 PRLD,Prelude Therapeutics Incorporated - Common Stock,NASDAQ Global Select MarketSM,PRLD
 PRME,"Prime Medicine, Inc. - Common Stock",NASDAQ Global MarketSM,PRME
@@ -6946,7 +6949,7 @@ QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,NASDAQ Global MarketSM,
 QTOP,iShares Nasdaq Top 30 Stocks ETF,NASDAQ Global MarketSM,QTOP
 QTR,Global X NASDAQ 100 Tail Risk ETF,NASDAQ Global MarketSM,QTR
 QTRX,Quanterix Corporation - Common Stock,NASDAQ Global MarketSM,QTRX
-QTTB,Q32 Bio Inc. - Common Stock,NASDAQ Global MarketSM,QTTB
+QTTB,Q32 Bio Inc. - Common Stock,NASDAQ Capital Market,QTTB
 QTUM,Defiance Quantum ETF,NASDAQ Global MarketSM,QTUM
 QUBT,Quantum Computing Inc. - Common Stock,NASDAQ Capital Market,QUBT
 QUIK,QuickLogic Corporation - Common Stock,NASDAQ Capital Market,QUIK
@@ -6988,6 +6991,7 @@ RCKTW,"Rocket Pharmaceuticals, Inc. - Warrant",NASDAQ Capital Market,RCKTW
 RCKY,"Rocky Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,RCKY
 RCMT,"RCM Technologies, Inc. - Common Stock",NASDAQ Global MarketSM,RCMT
 RCON,"Recon Technology, Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,RCON
+RCT,RedCloud Holdings plc - Ordinary Shares,NASDAQ Capital Market,RCT
 RDAC,Rising Dragon Acquisition Corp. - Ordinary Shares,NASDAQ Capital Market,RDAC
 RDACR,Rising Dragon Acquisition Corp. - Rights,NASDAQ Capital Market,RDACR
 RDACU,Rising Dragon Acquisition Corp. - Unit,NASDAQ Capital Market,RDACU
@@ -7562,8 +7566,6 @@ TC,Token Cat Limited - American Depositary Shares,NASDAQ Capital Market,TC
 TCBI,"Texas Capital Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,TCBI
 TCBIO,"Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",NASDAQ Global Select MarketSM,TCBIO
 TCBK,TriCo Bancshares - Common Stock,NASDAQ Global Select MarketSM,TCBK
-TCBP,TC BioPharm (Holdings) plc - American Depositary Shares,NASDAQ Capital Market,TCBP
-TCBPW,TC BioPharm (Holdings) plc - Warrants,NASDAQ Capital Market,TCBPW
 TCBS,"Texas Community Bancshares, Inc. - Common Stock",NASDAQ Capital Market,TCBS
 TCBX,"Third Coast Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,TCBX
 TCHI,iShares MSCI China Multisector Tech ETF,NASDAQ Global MarketSM,TCHI
@@ -8228,6 +8230,7 @@ ACR$D,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Prefer
 ACRE,Ares Commercial Real Estate Corporation Common Stock,NYSE,ACRE
 ACU,Acme United Corporation. Common Stock,NYSE MKT,ACU
 ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,NYSE,ACV
+ACVA,ACV Auctions Inc. Class A Common Stock,NYSE,ACVA
 ADC,Agree Realty Corporation Common Stock,NYSE,ADC
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",NYSE,ADC$A
 ADCT,ADC Therapeutics SA Common Shares,NYSE,ADCT
@@ -8348,6 +8351,7 @@ AMTM,"Amentum Holdings, Inc. Common Stock",NYSE,AMTM
 AMUB,"ETRACS Alerian MLP Index ETN Series B due July 18, 2042",NYSE ARCA,AMUB
 AMWL,American Well Corporation Class A Common Stock,NYSE,AMWL
 AMX,"America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares",NYSE,AMX
+AMZE,"Amaze Holdings, Inc. Common Stock",NYSE MKT,AMZE
 AN,"AutoNation, Inc. Common Stock",NYSE,AN
 ANET,"Arista Networks, Inc. Common Stock",NYSE,ANET
 ANF,Abercrombie & Fitch Company Common Stock,NYSE,ANF
@@ -9135,7 +9139,6 @@ ED,"Consolidated Edison, Inc. Common Stock",NYSE,ED
 EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock",NYSE,EDD
 EDF,Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest,NYSE,EDF
 EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,NYSE,EDN
-EDR,"Endeavor Group Holdings, Inc. Class A Common Stock",NYSE,EDR
 EDU,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)",NYSE,EDU
 EE,"Excelerate Energy, Inc. Class A Common Stock",NYSE,EE
 EEA,"The European Equity Fund, Inc. Common Stock",NYSE,EEA
@@ -9151,7 +9154,6 @@ EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,
 EFX,"Equifax, Inc. Common Stock",NYSE,EFX
 EFXT,Enerflex Ltd Common Shares,NYSE,EFXT
 EG,"Everest Group, Ltd. Common Stock",NYSE,EG
-EGF,"Blackrock Enhanced Government Fund, Inc. Common Stock",NYSE,EGF
 EGO,Eldorado Gold Corporation Ordinary Shares,NYSE,EGO
 EGP,"EastGroup Properties, Inc. Common Stock",NYSE,EGP
 EGY,"VAALCO Energy, Inc.  Common Stock",NYSE,EGY
@@ -10611,7 +10613,6 @@ RCUS,"Arcus Biosciences, Inc. Common Stock",NYSE,RCUS
 RDDT,"Reddit, Inc. Class A Common Stock",NYSE,RDDT
 RDN,Radian Group Inc. Common Stock,NYSE,RDN
 RDW,Redwire Corporation Common Stock,NYSE,RDW
-RDW.W,Redwire Corporation Redeemable Warrants,NYSE,RDW.W
 RDY,Dr. Reddy's Laboratories Ltd Common Stock,NYSE,RDY
 REI,"Ring Energy, Inc. Common Stock",NYSE MKT,REI
 RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),NYSE,RELX
@@ -11184,7 +11185,6 @@ VHC,VirnetX Holding Corp Common Stock,NYSE,VHC
 VHI,"Valhi, Inc. Common Stock",NYSE,VHI
 VICI,VICI Properties Inc. Common Stock,NYSE,VICI
 VIK,Viking Holdings Ltd Ordinary Shares,NYSE,VIK
-VINE,"Fresh Vine Wine, Inc. Common Stock",NYSE MKT,VINE
 VIPS,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",NYSE,VIPS
 VIST,"Vista Energy S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value",NYSE,VIST
 VIV,Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share),NYSE,VIV
