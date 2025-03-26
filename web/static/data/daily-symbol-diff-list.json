@@ -1,90 +1,84 @@
 {
  "added": [
   {
-   "symbol": "WLR",
-   "name": "Walker Lane Resources Ltd.",
+   "symbol": "FFU",
+   "name": "F4 Uranium Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "WLR.V",
+   "yahoo_symbol": "FFU.V",
    "instruments": [
     {
-     "name": "Walker Lane Resources Ltd.",
-     "symbol": "WLR"
+     "name": "F4 Uranium Corp.",
+     "symbol": "FFU"
     }
    ]
   },
   {
-   "symbol": "JGRO",
-   "name": "JPMorgan US Growth Active ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "JGRO.TO",
-   "instruments": [
-    {
-     "name": "JPM US Gr Active ETF",
-     "symbol": "JGRO"
-    }
-   ]
+   "symbol": "ANGIV",
+   "name": "Angi Inc. - Class A Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANGIV"
   },
   {
-   "symbol": "JAVA",
-   "name": "JPMorgan US Value Active ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "JAVA.TO",
-   "instruments": [
-    {
-     "name": "JPM USVal Active ETF",
-     "symbol": "JAVA"
-    }
-   ]
+   "symbol": "IACVV",
+   "name": "IAC Inc. - Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IACVV"
   },
   {
-   "symbol": "LGPS",
-   "name": "LogProstyle Inc. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LGPS"
-  },
-  {
-   "symbol": "MKDW",
-   "name": "MKDWELL Tech Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MKDW"
-  },
-  {
-   "symbol": "SVCC",
-   "name": "Stellar V Capital Corp. - Class A Ordinary Shares",
+   "symbol": "IONL",
+   "name": "GraniteShares 2x Long IONQ Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVCC"
+   "yahoo_symbol": "IONL"
   },
   {
-   "symbol": "SVCCW",
-   "name": "Stellar V Capital Corp. - Warrant",
+   "symbol": "RDTL",
+   "name": "GraniteShares 2x Long RDDT Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVCCW"
+   "yahoo_symbol": "RDTL"
+  },
+  {
+   "symbol": "VRTL",
+   "name": "GraniteShares 2x Long VRT Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VRTL"
   }
  ],
  "removed": [
   {
-   "symbol": "CMB",
-   "name": "CMC Metals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CMB.V",
-   "instruments": [
-    {
-     "name": "CMC Metals Ltd.",
-     "symbol": "CMB"
-    }
-   ]
+   "symbol": "GDSTU",
+   "name": "Goldenstone Acquisition Limited - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDSTU"
   },
   {
-   "symbol": "ETWO.W",
-   "name": "E2open Parent Holdings, Inc. Warrants",
+   "symbol": "GDST",
+   "name": "Goldenstone Acquisition Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDST"
+  },
+  {
+   "symbol": "GDL$C",
+   "name": "The GDL Fund Series C Cumulative Puttable and Callable Preferred Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "ETWO.W"
+   "yahoo_symbol": "GDL$C"
   },
   {
-   "symbol": "MKDW",
-   "name": "MKDWELL Tech Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MKDW"
+   "symbol": "GDSTW",
+   "name": "Goldenstone Acquisition Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDSTW"
+  },
+  {
+   "symbol": "BACK",
+   "name": "IMAC Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BACK"
+  },
+  {
+   "symbol": "GDSTR",
+   "name": "Goldenstone Acquisition Limited - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDSTR"
   }
  ]
 }
