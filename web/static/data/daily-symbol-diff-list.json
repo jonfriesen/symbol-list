@@ -1,66 +1,84 @@
 {
  "added": [
   {
-   "symbol": "JQC.V",
-   "name": "Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights when issued",
+   "symbol": "CRWV",
+   "name": "CoreWeave, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CRWV"
+  },
+  {
+   "symbol": "JOYY",
+   "name": "JOYY Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "JOYY"
+  },
+  {
+   "symbol": "NCT",
+   "name": "Intercont (Cayman) Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCT"
+  },
+  {
+   "symbol": "TSBX",
+   "name": "Turnstone Biologics Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TSBX"
+  },
+  {
+   "symbol": "NMAX",
+   "name": "Newsmax, Inc. Class B Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "JQC.V"
-  },
-  {
-   "symbol": "AIEV",
-   "name": "Thunder Power Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AIEV"
-  },
-  {
-   "symbol": "ALMU",
-   "name": "Aeluma, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALMU"
-  },
-  {
-   "symbol": "AVUQ",
-   "name": "Avantis U.S. Quality ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVUQ"
-  },
-  {
-   "symbol": "GLCR",
-   "name": "GlacierShares Nasdaq Iceland ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLCR"
-  },
-  {
-   "symbol": "HEQQ",
-   "name": "JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HEQQ"
-  },
-  {
-   "symbol": "WFF",
-   "name": "WF Holding Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WFF"
+   "yahoo_symbol": "NMAX"
   }
  ],
  "removed": [
   {
-   "symbol": "GPMD",
-   "name": "GuardPath TM Managed Decumulation 2042 Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GPMD.TO",
-   "instruments": [
-    {
-     "name": "GuardPath Decumltn42",
-     "symbol": "GPMD"
-    }
-   ]
+   "symbol": "YY",
+   "name": "JOYY Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "YY"
   },
   {
-   "symbol": "AIEV",
-   "name": "Thunder Power Holdings, Inc. - Common Stock",
+   "symbol": "LKCO",
+   "name": "Luokung Technology Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LKCO"
+  },
+  {
+   "symbol": "TSBX",
+   "name": "Turnstone Biologics Corp. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIEV"
+   "yahoo_symbol": "TSBX"
+  },
+  {
+   "symbol": "SHOP",
+   "name": "Shopify Inc. Class A Subordinate Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHOP"
+  },
+  {
+   "symbol": "BTCTW",
+   "name": "BTC Digital Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTCTW"
+  },
+  {
+   "symbol": "BKDT",
+   "name": "Brookdale Senior Living Inc. 7.00% Tangible Equity Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKDT"
+  },
+  {
+   "symbol": "LYT",
+   "name": "Lytus Technologies Holdings PTV. Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LYT"
+  },
+  {
+   "symbol": "ME",
+   "name": "23andMe Holding Co. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ME"
   }
  ]
 }
