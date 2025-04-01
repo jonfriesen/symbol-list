@@ -1,84 +1,164 @@
 {
  "added": [
   {
-   "symbol": "CRWV",
-   "name": "CoreWeave, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CRWV"
-  },
-  {
-   "symbol": "JOYY",
-   "name": "JOYY Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "JOYY"
-  },
-  {
-   "symbol": "NCT",
-   "name": "Intercont (Cayman) Limited - Ordinary shares",
+   "symbol": "FBLG",
+   "name": "FibroBiologics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NCT"
+   "yahoo_symbol": "FBLG"
   },
   {
-   "symbol": "TSBX",
-   "name": "Turnstone Biologics Corp. - Common Stock",
+   "symbol": "GXDW",
+   "name": "Global X Dorsey Wright Thematic ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GXDW"
+  },
+  {
+   "symbol": "HEAL",
+   "name": "Global X HealthTech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HEAL"
+  },
+  {
+   "symbol": "HWSM",
+   "name": "Hotchkis \u0026 Wiley SMID Cap Diversified Value Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWSM"
+  },
+  {
+   "symbol": "SHOP",
+   "name": "Shopify Inc. - Class A Subordinate Voting Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SHOP"
+  },
+  {
+   "symbol": "UYSCU",
+   "name": "UY Scuti Acquisition Corp. - Units",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TSBX"
+   "yahoo_symbol": "UYSCU"
   },
   {
-   "symbol": "NMAX",
-   "name": "Newsmax, Inc. Class B Common Stock",
+   "symbol": "RFL.W",
+   "name": "Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "NMAX"
+   "yahoo_symbol": "RFL.W"
+  },
+  {
+   "symbol": "NWH.DB.H",
+   "name": "NorthWest Healthcare Properties Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "NWH.DB.H.TO",
+   "instruments": [
+    {
+     "name": "NW Healthcare 2027Db",
+     "symbol": "NWH.DB.H"
+    },
+    {
+     "name": "NW Healthcare 2028Db",
+     "symbol": "NWH.DB.I"
+    },
+    {
+     "name": "NW Healthcare Un",
+     "symbol": "NWH.UN"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "YY",
-   "name": "JOYY Inc. - American Depositary Shares",
+   "symbol": "SBT",
+   "name": "Sterling Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SBT"
+  },
+  {
+   "symbol": "IACVV",
+   "name": "IAC Inc. - Common Stock Ex-distribution When-Issued",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "YY"
+   "yahoo_symbol": "IACVV"
   },
   {
-   "symbol": "LKCO",
-   "name": "Luokung Technology Corp - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LKCO"
+   "symbol": "BUI",
+   "name": "Buhler Industries Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BUI.TO",
+   "instruments": [
+    {
+     "name": "Buhler Industries",
+     "symbol": "BUI"
+    }
+   ]
   },
   {
-   "symbol": "TSBX",
-   "name": "Turnstone Biologics Corp. - Common Stock",
+   "symbol": "GXTG",
+   "name": "Global X Thematic Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSBX"
+   "yahoo_symbol": "GXTG"
   },
   {
-   "symbol": "SHOP",
-   "name": "Shopify Inc. Class A Subordinate Voting Shares",
+   "symbol": "EDOC",
+   "name": "Global X Telemedicine \u0026 Digital Health ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EDOC"
+  },
+  {
+   "symbol": "ANGIV",
+   "name": "Angi Inc. - Class A Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANGIV"
+  },
+  {
+   "symbol": "FBMS",
+   "name": "First Bancshares, Inc.",
    "exchange": "NYSE",
-   "yahoo_symbol": "SHOP"
+   "yahoo_symbol": "FBMS"
   },
   {
-   "symbol": "BTCTW",
-   "name": "BTC Digital Ltd. - Warrant",
+   "symbol": "SASR",
+   "name": "Sandy Spring Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SASR"
+  },
+  {
+   "symbol": "VBFC",
+   "name": "Village Bank and Trust Financial Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BTCTW"
+   "yahoo_symbol": "VBFC"
   },
   {
-   "symbol": "BKDT",
-   "name": "Brookdale Senior Living Inc. 7.00% Tangible Equity Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKDT"
+   "symbol": "IVAC",
+   "name": "Intevac, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IVAC"
   },
   {
-   "symbol": "LYT",
-   "name": "Lytus Technologies Holdings PTV. Ltd. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LYT"
+   "symbol": "NWH.DB.G",
+   "name": "NorthWest Healthcare Properties Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "NWH.DB.G.TO",
+   "instruments": [
+    {
+     "name": "NW Healthcare 2025Db",
+     "symbol": "NWH.DB.G"
+    },
+    {
+     "name": "NW Healthcare 2027Db",
+     "symbol": "NWH.DB.H"
+    },
+    {
+     "name": "NW Healthcare 2028Db",
+     "symbol": "NWH.DB.I"
+    },
+    {
+     "name": "NW Healthcare Un",
+     "symbol": "NWH.UN"
+    }
+   ]
   },
   {
-   "symbol": "ME",
-   "name": "23andMe Holding Co. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ME"
+   "symbol": "FBLG",
+   "name": "FibroBiologics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBLG"
   }
  ]
 }
