@@ -1,164 +1,166 @@
 {
  "added": [
   {
-   "symbol": "FBLG",
-   "name": "FibroBiologics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FBLG"
-  },
-  {
-   "symbol": "GXDW",
-   "name": "Global X Dorsey Wright Thematic ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GXDW"
-  },
-  {
-   "symbol": "HEAL",
-   "name": "Global X HealthTech ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HEAL"
-  },
-  {
-   "symbol": "HWSM",
-   "name": "Hotchkis \u0026 Wiley SMID Cap Diversified Value Fund",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HWSM"
-  },
-  {
-   "symbol": "SHOP",
-   "name": "Shopify Inc. - Class A Subordinate Voting Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SHOP"
-  },
-  {
-   "symbol": "UYSCU",
-   "name": "UY Scuti Acquisition Corp. - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UYSCU"
-  },
-  {
-   "symbol": "RFL.W",
-   "name": "Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RFL.W"
-  },
-  {
-   "symbol": "NWH.DB.H",
-   "name": "NorthWest Healthcare Properties Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "NWH.DB.H.TO",
+   "symbol": "DMCU",
+   "name": "Domestic Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DMCU.V",
    "instruments": [
     {
-     "name": "NW Healthcare 2027Db",
-     "symbol": "NWH.DB.H"
-    },
-    {
-     "name": "NW Healthcare 2028Db",
-     "symbol": "NWH.DB.I"
-    },
-    {
-     "name": "NW Healthcare Un",
-     "symbol": "NWH.UN"
+     "name": "Domestic Metals Corp.",
+     "symbol": "DMCU"
     }
    ]
+  },
+  {
+   "symbol": "RUST",
+   "name": "RBC Canadian Ultra Short Term Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUST.TO",
+   "instruments": [
+    {
+     "name": "RBC Cdn Ultra ST Bd ",
+     "symbol": "RUST"
+    }
+   ]
+  },
+  {
+   "symbol": "RQT",
+   "name": "RBC Target 2031 Canadian Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQT.TO",
+   "instruments": [
+    {
+     "name": "RBC Tg2031 Ca Cop Bd",
+     "symbol": "RQT"
+    }
+   ]
+  },
+  {
+   "symbol": "RGQT",
+   "name": "RBC Target 2031 Canadian Government Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RGQT.TO",
+   "instruments": [
+    {
+     "name": "RBC Tg2031 Ca Gvt Bd",
+     "symbol": "RGQT"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQT",
+   "name": "RBC Target 2031 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQT.TO",
+   "instruments": [
+    {
+     "name": "RBC Tg2031 Us Cop Bd",
+     "symbol": "RUQT"
+    },
+    {
+     "name": "RBC T2031 Us CoBd US",
+     "symbol": "RUQT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ENGS",
+   "name": "Energys Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENGS"
+  },
+  {
+   "symbol": "RGTX",
+   "name": "Defiance Daily Target 2X Long RGTI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGTX"
+  },
+  {
+   "symbol": "SDHIU",
+   "name": "Siddhi Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDHIU"
+  },
+  {
+   "symbol": "SMCZ",
+   "name": "Defiance Daily Target 2X Short SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCZ"
+  },
+  {
+   "symbol": "WTF",
+   "name": "Waton Financial Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTF"
+  },
+  {
+   "symbol": "WXM",
+   "name": "WF International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WXM"
+  },
+  {
+   "symbol": "JQC.R",
+   "name": "Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JQC.R"
+  },
+  {
+   "symbol": "SMA",
+   "name": "SmartStop Self Storage REIT, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMA"
+  },
+  {
+   "symbol": "SOUL.U",
+   "name": "Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOUL.U"
   }
  ],
  "removed": [
   {
-   "symbol": "SBT",
-   "name": "Sterling Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SBT"
-  },
-  {
-   "symbol": "IACVV",
-   "name": "IAC Inc. - Common Stock Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IACVV"
-  },
-  {
-   "symbol": "BUI",
-   "name": "Buhler Industries Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "BUI.TO",
-   "instruments": [
-    {
-     "name": "Buhler Industries",
-     "symbol": "BUI"
-    }
-   ]
-  },
-  {
-   "symbol": "GXTG",
-   "name": "Global X Thematic Growth ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GXTG"
-  },
-  {
-   "symbol": "EDOC",
-   "name": "Global X Telemedicine \u0026 Digital Health ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EDOC"
-  },
-  {
-   "symbol": "ANGIV",
-   "name": "Angi Inc. - Class A Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ANGIV"
-  },
-  {
-   "symbol": "FBMS",
-   "name": "First Bancshares, Inc.",
+   "symbol": "DM",
+   "name": "Desktop Metal, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "FBMS"
+   "yahoo_symbol": "DM"
   },
   {
-   "symbol": "SASR",
-   "name": "Sandy Spring Bancorp, Inc. - Common Stock",
+   "symbol": "PTVE",
+   "name": "Pactiv Evergreen Inc. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SASR"
+   "yahoo_symbol": "PTVE"
   },
   {
-   "symbol": "VBFC",
-   "name": "Village Bank and Trust Financial Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VBFC"
-  },
-  {
-   "symbol": "IVAC",
-   "name": "Intevac, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IVAC"
-  },
-  {
-   "symbol": "NWH.DB.G",
-   "name": "NorthWest Healthcare Properties Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "NWH.DB.G.TO",
+   "symbol": "NOCR",
+   "name": "Norden Crown Metals Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NOCR.V",
    "instruments": [
     {
-     "name": "NW Healthcare 2025Db",
-     "symbol": "NWH.DB.G"
-    },
-    {
-     "name": "NW Healthcare 2027Db",
-     "symbol": "NWH.DB.H"
-    },
-    {
-     "name": "NW Healthcare 2028Db",
-     "symbol": "NWH.DB.I"
-    },
-    {
-     "name": "NW Healthcare Un",
-     "symbol": "NWH.UN"
+     "name": "Norden Crown Metals Corporation",
+     "symbol": "NOCR"
     }
    ]
   },
   {
-   "symbol": "FBLG",
-   "name": "FibroBiologics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FBLG"
+   "symbol": "VOXX",
+   "name": "VOXX International Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VOXX"
+  },
+  {
+   "symbol": "JQC.V",
+   "name": "Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JQC.V"
+  },
+  {
+   "symbol": "APTO",
+   "name": "Aptose Biosciences, Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APTO"
   }
  ]
 }
