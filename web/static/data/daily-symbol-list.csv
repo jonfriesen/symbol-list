@@ -14,7 +14,6 @@ ABI,Abcourt Mines Inc.,TSXV,ABI.V,Abcourt Mines Inc.,ABI
 ABM,Aben Minerals Ltd.,TSXV,ABM.V,Aben Minerals Ltd.,ABM
 ACDC,AC/DC Battery Metals Inc.,TSXV,ACDC.V,AC/DC Battery Metals Inc.,ACDC
 AXE,Acceleware Ltd.,TSXV,AXE.V,Acceleware Ltd.,AXE
-AKR,Ackroo Inc.,TSXV,AKR.V,Ackroo Inc.,AKR
 ADJ.P,AD4 Capital Corp.,TSXV,ADJ.P.V,AD4 Capital Corp.,ADJ.P
 ADZ,Adamera Minerals Corp.,TSXV,ADZ.V,Adamera Minerals Corp.,ADZ
 ADE,Adex Mining Inc.,TSXV,ADE.V,Adex Mining Inc,ADE
@@ -2595,6 +2594,7 @@ IITE,Invesco S&P International Developed ESG Tilt Index ETF,TSX,IITE.TO,InvscoSP
 IUAE,Invesco S&P US Dividend Aristocrats ESG Index ETF,TSX,IUAE.TO,InvescoS&P USDvArist,IUAE,InvescoS&P USDvArisH,IUAE.F
 IUCE,Invesco S&P US Total Market ESG Index ETF,TSX,IUCE.TO,InvscoSP USMktESG CA,IUCE,InvscoSP USMktESG CH,IUCE.F
 IUTE,Invesco S&P US Total Market ESG Tilt Index ETF,TSX,IUTE.TO,InvscoSP USMktESGTlC,IUTE,InvscoSP USMktESGTlH,IUTE.F
+EQLT,Invesco S&P/TSX 60 Equal Weight Index ETF,TSX,EQLT.TO,Invesco SP TSX60 EWI,EQLT
 IXTE,Invesco S&P/TSX 60 ESG Tilt Index ETF,TSX,IXTE.TO,Invesco SPTSX60TltCA,IXTE
 ICAE,Invesco S&P/TSX Canadian Dividend Aristocrats ESG Index ETF,TSX,ICAE.TO,InvscoS&PTSXCdnDvESG,ICAE
 ESGC,Invesco S&P/TSX Composite ESG Index ETF,TSX,ESGC.TO,Invesco S&PTSXComESG,ESGC
@@ -2882,8 +2882,8 @@ MX,Methanex Corporation,TSX,MX.TO,Methanex Corporation,MX
 MRU,Metro Inc.,TSX,MRU.TO,Metro Inc.,MRU
 MBX,Microbix Biosystems Inc.,TSX,MBX.TO,Microbix Biosystms J,MBX
 MSFT,Microsoft CDR (CAD Hedged),TSX,MSFT.TO,Microsoft CDR CAD HD,MSFT
-MDIV,Middlefield Global Dividend Growers ETF,TSX,MDIV.TO,Midfld Sustn Glb Div,MDIV
-MINF,Middlefield Global Infrastructure Dividend ETF,TSX,MINF.TO,MidfldfSustInfrasDiv,MINF
+MDIV,Middlefield Global Dividend Growers ETF,TSX,MDIV.TO,Midfld Glb Div Grwer,MDIV
+MINF,Middlefield Global Infrastructure Dividend ETF,TSX,MINF.TO,Midfldf GlbInfrasDiv,MINF
 MHCD,Middlefield Healthcare Dividend ETF,TSX,MHCD.TO,Middlefld Hlthcr Div,MHCD
 MINN,Middlefield Innovation Dividend ETF,TSX,MINN.TO,Middlefld Innov Div,MINN
 MREL,Middlefield Real Estate Dividend ETF,TSX,MREL.TO,Middlefld Rl Est Div,MREL
@@ -2955,7 +2955,7 @@ OTEX,Open Text Corporation,TSX,OTEX.TO,Open Text Corp,OTEX
 OPT,Optiva Inc.,TSX,OPT.TO,Optiva Inc. J,OPT
 OGD,Orbit Garant Drilling Inc.,TSX,OGD.TO,Orbit Garant Drill,OGD
 ORE,Orezone Gold Corporation,TSX,ORE.TO,Orezone Gold Corp J,ORE
-OGI,Organigram Global Inc.,TSX,OGI.TO,Organigram Hldgs J,OGI
+OGI,Organigram Global Inc.,TSX,OGI.TO,Organigram Global In,OGI
 OLA,Orla Mining Ltd,TSX,OLA.TO,Orla Mining Ltd. J,OLA
 ORV,Orvana Minerals Corp.,TSX,ORV.TO,Orvana Minerals J,ORV
 OR,Osisko Gold Royalties Ltd,TSX,OR.TO,Osisko Gld Royalty,OR
@@ -5216,6 +5216,7 @@ GLBZ,Glen Burnie Bancorp - Common Stock,NASDAQ Capital Market,GLBZ
 GLCR,GlacierShares Nasdaq Iceland ETF,NASDAQ Global MarketSM,GLCR
 GLDD,Great Lakes Dredge & Dock Corporation - Common Stock,NASDAQ Global Select MarketSM,GLDD
 GLDI,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",NASDAQ Global MarketSM,GLDI
+GLDY,Defiance Gold Enhanced Options Income ETF,NASDAQ Global MarketSM,GLDY
 GLE,Global Engine Group Holding Limited - Ordinary Shares,NASDAQ Capital Market,GLE
 GLMD,Galmed Pharmaceuticals Ltd. - Ordinary Shares,NASDAQ Capital Market,GLMD
 GLNG,Golar LNG Limited - Common Shares,NASDAQ Global Select MarketSM,GLNG
@@ -5672,7 +5673,6 @@ ISRLW,Israel Acquisitions Corp - Warrant,NASDAQ Global MarketSM,ISRLW
 ISSC,"Innovative Solutions and Support, Inc. - Common Stock",NASDAQ Global Select MarketSM,ISSC
 ISTB,iShares Core 1-5 Year USD Bond ETF,NASDAQ Global MarketSM,ISTB
 ISTR,Investar Holding Corporation - Common Stock,NASDAQ Global MarketSM,ISTR
-ITCI,Intra-Cellular Therapies Inc. - Common Stock,NASDAQ Global Select MarketSM,ITCI
 ITIC,Investors Title Company - Common Stock,NASDAQ Global Select MarketSM,ITIC
 ITOS,"iTeos Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,ITOS
 ITRI,"Itron, Inc. - Common Stock",NASDAQ Global Select MarketSM,ITRI
@@ -7270,7 +7270,6 @@ SHFSW,"SHF Holdings, Inc. - Warrants",NASDAQ Capital Market,SHFSW
 SHIM,Shimmick Corporation - Common Stock,NASDAQ Capital Market,SHIM
 SHIP,Seanergy Maritime Holdings Corp. - Common Stock,NASDAQ Capital Market,SHIP
 SHLS,"Shoals Technologies Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SHLS
-SHLT,SHL Telemedicine Ltd - American Depositary Shares,NASDAQ Capital Market,SHLT
 SHMD,SCHMID Group N.V. - Class A Ordinary Shares,NASDAQ Global MarketSM,SHMD
 SHMDW,SCHMID Group N.V. - Warrants,NASDAQ Capital Market,SHMDW
 SHOO,"Steven Madden, Ltd. - Common Stock",NASDAQ Global Select MarketSM,SHOO
@@ -7550,6 +7549,7 @@ SYRE,"Spyre Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,SYR
 SYT,"SYLA Technologies Co., Ltd. - American Depositary Shares",NASDAQ Capital Market,SYT
 SYTA,"Siyata Mobile, Inc. - Common Shares",NASDAQ Capital Market,SYTA
 SYTAW,"Siyata Mobile, Inc. - Warrant",NASDAQ Capital Market,SYTAW
+SZZLU,Sizzle Acquisition Corp. II - Unit,NASDAQ Global MarketSM,SZZLU
 TACT,TransAct Technologies Incorporated - Common Stock,NASDAQ Global MarketSM,TACT
 TAIT,Taitron Components Incorporated - Class A Common Stock,NASDAQ Capital Market,TAIT
 TALK,"Talkspace, Inc. - Common Stock",NASDAQ Capital Market,TALK
@@ -7576,7 +7576,6 @@ TBLAW,Taboola.com Ltd. - Warrant,NASDAQ Global Select MarketSM,TBLAW
 TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,NASDAQ Global Select MarketSM,TBLD
 TBMC,Trailblazer Merger Corporation I - Class A Common Stock,NASDAQ Global MarketSM,TBMC
 TBMCR,Trailblazer Merger Corporation I - Rights,NASDAQ Global MarketSM,TBMCR
-TBNK,Territorial Bancorp Inc. - Common Stock,NASDAQ Global Select MarketSM,TBNK
 TBPH,"Theravance Biopharma, Inc. - Ordinary Shares",NASDAQ Global MarketSM,TBPH
 TBRG,"TruBridge, Inc. - Common Stock",NASDAQ Global Select MarketSM,TBRG
 TC,Token Cat Limited - American Depositary Shares,NASDAQ Capital Market,TC
@@ -7666,6 +7665,7 @@ TOI,"The Oncology Institute, Inc. - Common Stock",NASDAQ Capital Market,TOI
 TOIIW,"The Oncology Institute, Inc. - Warrant",NASDAQ Capital Market,TOIIW
 TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",NASDAQ Capital Market,TOMZ
 TOP,TOP Financial Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,TOP
+TOPW,Top Win International Limited - Ordinary Shares,NASDAQ Capital Market,TOPW
 TORO,Toro Corp. - Common stock,NASDAQ Capital Market,TORO
 TOUR,Tuniu Corporation - American Depositary Shares,NASDAQ Global MarketSM,TOUR
 TOWN,Towne Bank - Common Stock,NASDAQ Global Select MarketSM,TOWN
@@ -8038,7 +8038,7 @@ WHLRL,"Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Co
 WHLRP,"Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock",NASDAQ Capital Market,WHLRP
 WHWK,"Whitehawk Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,WHWK
 WILC,"G. Willi-Food International,  Ltd. - Ordinary Shares",NASDAQ Capital Market,WILC
-WIMI,WiMi Hologram Cloud Inc. - American Depositary Share,NASDAQ Global MarketSM,WIMI
+WIMI,WiMi Hologram Cloud Inc. - Class B Ordinary Shares,NASDAQ Global MarketSM,WIMI
 WINA,Winmark Corporation - Common Stock,NASDAQ Global MarketSM,WINA
 WINC,Western Asset Short Duration Income ETF,NASDAQ Global MarketSM,WINC
 WING,Wingstop Inc. - Common Stock,NASDAQ Global Select MarketSM,WING
@@ -10313,7 +10313,6 @@ NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),NYSE,NVGS
 NVO,Novo Nordisk A/S Common Stock,NYSE,NVO
 NVR,"NVR, Inc. Common Stock",NYSE,NVR
 NVRI,Enviri Corporation Common Stock,NYSE,NVRI
-NVRO,Nevro Corp. Common Stock,NYSE,NVRO
 NVS,Novartis AG Common Stock,NYSE,NVS
 NVST,Envista Holdings Corporation Common Stock,NYSE,NVST
 NVT,nVent Electric plc Ordinary Shares ,NYSE,NVT
@@ -10957,7 +10956,7 @@ SW,Smurfit WestRock plc Ordinary Shares,NYSE,SW
 SWI,SolarWinds Corporation Common Stock,NYSE,SWI
 SWK,"Stanley Black & Decker, Inc. Common Stock",NYSE,SWK
 SWX,"Southwest Gas Holdings, Inc. Common Stock (DE)",NYSE,SWX
-SWZ,"Swiss Helvetia Fund, Inc. (The) Common Stock",NYSE,SWZ
+SWZ,Total Return Securities Fund Common Stock,NYSE,SWZ
 SXC,"SunCoke Energy, Inc. Common Stock",NYSE,SXC
 SXI,Standex International Corporation Common Stock,NYSE,SXI
 SXT,Sensient Technologies Corporation Common Stock,NYSE,SXT

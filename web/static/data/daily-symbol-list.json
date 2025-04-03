@@ -1,5 +1,5 @@
 {
- "date": "2025-04-02",
+ "date": "2025-04-03",
  "data": [
   {
    "symbol": "ONE",
@@ -178,18 +178,6 @@
     {
      "name": "Acceleware Ltd.",
      "symbol": "AXE"
-    }
-   ]
-  },
-  {
-   "symbol": "AKR",
-   "name": "Ackroo Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AKR.V",
-   "instruments": [
-    {
-     "name": "Ackroo Inc.",
-     "symbol": "AKR"
     }
    ]
   },
@@ -33338,6 +33326,18 @@
    ]
   },
   {
+   "symbol": "EQLT",
+   "name": "Invesco S\u0026P/TSX 60 Equal Weight Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQLT.TO",
+   "instruments": [
+    {
+     "name": "Invesco SP TSX60 EWI",
+     "symbol": "EQLT"
+    }
+   ]
+  },
+  {
    "symbol": "IXTE",
    "name": "Invesco S\u0026P/TSX 60 ESG Tilt Index ETF",
    "exchange": "TSX",
@@ -36984,7 +36984,7 @@
    "yahoo_symbol": "MDIV.TO",
    "instruments": [
     {
-     "name": "Midfld Sustn Glb Div",
+     "name": "Midfld Glb Div Grwer",
      "symbol": "MDIV"
     }
    ]
@@ -36996,7 +36996,7 @@
    "yahoo_symbol": "MINF.TO",
    "instruments": [
     {
-     "name": "MidfldfSustInfrasDiv",
+     "name": "Midfldf GlbInfrasDiv",
      "symbol": "MINF"
     }
    ]
@@ -37932,7 +37932,7 @@
    "yahoo_symbol": "OGI.TO",
    "instruments": [
     {
-     "name": "Organigram Hldgs J",
+     "name": "Organigram Global In",
      "symbol": "OGI"
     }
    ]
@@ -54774,6 +54774,12 @@
    "yahoo_symbol": "GLDI"
   },
   {
+   "symbol": "GLDY",
+   "name": "Defiance Gold Enhanced Options Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLDY"
+  },
+  {
    "symbol": "GLE",
    "name": "Global Engine Group Holding Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -57508,12 +57514,6 @@
    "name": "Investar Holding Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ISTR"
-  },
-  {
-   "symbol": "ITCI",
-   "name": "Intra-Cellular Therapies Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ITCI"
   },
   {
    "symbol": "ITIC",
@@ -67098,12 +67098,6 @@
    "yahoo_symbol": "SHLS"
   },
   {
-   "symbol": "SHLT",
-   "name": "SHL Telemedicine Ltd - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHLT"
-  },
-  {
    "symbol": "SHMD",
    "name": "SCHMID Group N.V. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -68778,6 +68772,12 @@
    "yahoo_symbol": "SYTAW"
   },
   {
+   "symbol": "SZZLU",
+   "name": "Sizzle Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZLU"
+  },
+  {
    "symbol": "TACT",
    "name": "TransAct Technologies Incorporated - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -68932,12 +68932,6 @@
    "name": "Trailblazer Merger Corporation I - Rights",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TBMCR"
-  },
-  {
-   "symbol": "TBNK",
-   "name": "Territorial Bancorp Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TBNK"
   },
   {
    "symbol": "TBPH",
@@ -69472,6 +69466,12 @@
    "name": "TOP Financial Group Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TOP"
+  },
+  {
+   "symbol": "TOPW",
+   "name": "Top Win International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOPW"
   },
   {
    "symbol": "TORO",
@@ -71707,7 +71707,7 @@
   },
   {
    "symbol": "WIMI",
-   "name": "WiMi Hologram Cloud Inc. - American Depositary Share",
+   "name": "WiMi Hologram Cloud Inc. - Class B Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WIMI"
   },
@@ -85356,12 +85356,6 @@
    "yahoo_symbol": "NVRI"
   },
   {
-   "symbol": "NVRO",
-   "name": "Nevro Corp. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NVRO"
-  },
-  {
    "symbol": "NVS",
    "name": "Novartis AG Common Stock",
    "exchange": "NYSE",
@@ -89221,7 +89215,7 @@
   },
   {
    "symbol": "SWZ",
-   "name": "Swiss Helvetia Fund, Inc. (The) Common Stock",
+   "name": "Total Return Securities Fund Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SWZ"
   },
