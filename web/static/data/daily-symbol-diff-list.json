@@ -1,120 +1,186 @@
 {
  "added": [
   {
-   "symbol": "VITA",
-   "name": "Vitalist Inc.",
+   "symbol": "FTRC",
+   "name": "The FUTR Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "VITA.V",
+   "yahoo_symbol": "FTRC.V",
    "instruments": [
     {
-     "name": "Vitalist Inc.",
-     "symbol": "VITA"
+     "name": "The FUTR Corporation",
+     "symbol": "FTRC"
     }
    ]
   },
   {
-   "symbol": "ATII",
-   "name": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATII"
-  },
-  {
-   "symbol": "ATIIW",
-   "name": "Archimedes Tech SPAC Partners II Co. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATIIW"
-  },
-  {
-   "symbol": "GIND",
-   "name": "Goldman Sachs India Equity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GIND"
-  },
-  {
-   "symbol": "LHSW",
-   "name": "Lianhe Sowell International Group Ltd - Ordinary Shares",
+   "symbol": "BLIV",
+   "name": "BeLive Holdings - ordinary shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LHSW"
+   "yahoo_symbol": "BLIV"
   },
   {
-   "symbol": "WSML",
-   "name": "iShares MSCI World Small-Cap ETF",
+   "symbol": "CHGX",
+   "name": "Stance Sustainable Beta ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WSML"
+   "yahoo_symbol": "CHGX"
   },
   {
-   "symbol": "WTMU",
-   "name": "WisdomTree Core Laddered Municipal Fund",
+   "symbol": "CRMG",
+   "name": "Leverage Shares 2X Long CRM Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WTMU"
+   "yahoo_symbol": "CRMG"
   },
   {
-   "symbol": "WTMY",
-   "name": "WisdomTree High Income Laddered Municipal Fund",
+   "symbol": "PYPG",
+   "name": "Leverage Shares 2X Long PYPL Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WTMY"
+   "yahoo_symbol": "PYPG"
+  },
+  {
+   "symbol": "VSA",
+   "name": "TCTM Kids IT Education Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSA"
+  },
+  {
+   "symbol": "XYZG",
+   "name": "Leverage Shares 2X Long XYZ Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XYZG"
   }
  ],
  "removed": [
   {
-   "symbol": "HCVIW",
-   "name": "Hennessy Capital Investment Corp. VI - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCVIW"
-  },
-  {
-   "symbol": "HCVI",
-   "name": "Hennessy Capital Investment Corp. VI - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCVI"
-  },
-  {
-   "symbol": "GATEW",
-   "name": "Marblegate Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GATEW"
-  },
-  {
-   "symbol": "CEBI",
-   "name": "CE Brands Inc.",
+   "symbol": "BITK",
+   "name": "Blockchaink2 Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CEBI.V",
+   "yahoo_symbol": "BITK.V",
    "instruments": [
     {
-     "name": "CE Brands Inc.",
-     "symbol": "CEBI"
+     "name": "Blockchaink2 Corp.",
+     "symbol": "BITK"
     }
    ]
   },
   {
-   "symbol": "GATE",
-   "name": "Marblegate Acquisition Corp. - Class A Common Stock",
+   "symbol": "TCTM",
+   "name": "TCTM Kids IT Education Inc. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GATE"
+   "yahoo_symbol": "TCTM"
   },
   {
-   "symbol": "EFSH",
-   "name": "1847 Holdings LLC Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "EFSH"
+   "symbol": "CDNA",
+   "name": "CI Bio-Revolution Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CDNA.TO",
+   "instruments": [
+    {
+     "name": "CI Bio-Revolution Un",
+     "symbol": "CDNA"
+    }
+   ]
   },
   {
-   "symbol": "GATEU",
-   "name": "Marblegate Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GATEU"
-  },
-  {
-   "symbol": "HCVIU",
-   "name": "Hennessy Capital Investment Corp. VI - Unit",
+   "symbol": "GLACU",
+   "name": "Global Lights Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCVIU"
+   "yahoo_symbol": "GLACU"
   },
   {
-   "symbol": "VRPX",
-   "name": "Virpax Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VRPX"
+   "symbol": "OPTG",
+   "name": "Optegra Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPTG.V",
+   "instruments": [
+    {
+     "name": "Optegra Ventures Inc.",
+     "symbol": "OPTG"
+    }
+   ]
+  },
+  {
+   "symbol": "TEA",
+   "name": "Tearlach Resources Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TEA.V",
+   "instruments": [
+    {
+     "name": "Tearlach Resources Limited",
+     "symbol": "TEA"
+    }
+   ]
+  },
+  {
+   "symbol": "GLACR",
+   "name": "Global Lights Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLACR"
+  },
+  {
+   "symbol": "CMVX",
+   "name": "CI Galaxy Metaverse Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMVX.TO",
+   "instruments": [
+    {
+     "name": "CI Galaxy Metavrs Un",
+     "symbol": "CMVX"
+    }
+   ]
+  },
+  {
+   "symbol": "HANK",
+   "name": "Hank Payments Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HANK.V",
+   "instruments": [
+    {
+     "name": "Hank Payments Corp.",
+     "symbol": "HANK"
+    }
+   ]
+  },
+  {
+   "symbol": "JQC.R",
+   "name": "Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JQC.R"
+  },
+  {
+   "symbol": "LGTY",
+   "name": "Logility Supply Chain Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LGTY"
+  },
+  {
+   "symbol": "STSB",
+   "name": "Stance Sustainable Beta ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STSB"
+  },
+  {
+   "symbol": "GLAC",
+   "name": "Global Lights Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLAC"
+  },
+  {
+   "symbol": "FGB",
+   "name": "CI Short Term Government Bond Index Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGB.TO",
+   "instruments": [
+    {
+     "name": "CI ST GovtBondCl ETF",
+     "symbol": "FGB"
+    }
+   ]
+  },
+  {
+   "symbol": "AIM",
+   "name": "AIM ImmunoTech Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AIM"
   }
  ]
 }
