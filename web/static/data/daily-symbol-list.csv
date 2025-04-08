@@ -558,6 +558,7 @@ GLB,Goldbank Mining Corporation,TSXV,GLB.V,Goldbank Mining Corporation,GLB
 GCN,Goldcliff Resource Corporation,TSXV,GCN.V,Goldcliff Resource Corporation,GCN
 GRG,Golden Arrow Resources Corporation,TSXV,GRG.V,Golden Arrow Resources Corporation,GRG
 GNG,Golden Goliath Resources Ltd.,TSXV,GNG.V,Golden Goliath Resources Ltd.,GNG
+GDP,Golden Pursuit Resources Ltd.,TSXV,GDP.V,Golden Pursuit Resources Ltd.,GDP
 GLDN,Golden Ridge Resources Ltd.,TSXV,GLDN.V,Golden Ridge Resources Ltd.,GLDN
 AUEN,Golden Sky Minerals Corp.,TSXV,AUEN.V,Golden Sky Minerals Corp.,AUEN
 GCV.P,Golden Star Capital Ventures Inc.,TSXV,GCV.P.V,Golden Star Capital Ventures Inc.,GCV.P
@@ -2547,7 +2548,7 @@ ISC,Information Services Corporation,TSX,ISC.TO,Info Serv Corp. A LV,ISC
 IS,Infrastructure Dividend Split Corp.,TSX,IS.TO,Infr're DivSplit A U,IS,Infr're DivSplit PrS,IS.PR.A
 INE,Innergex Renewable Energy Inc.,TSX,INE.TO,Innergex Renew Engy,INE,Innergex Renew4.75Db,INE.DB.B,Innergex Renew4.65Db,INE.DB.C,Innergex Renew Pr A,INE.PR.A,Innergex Renew Pr C,INE.PR.C
 INO.UN,Inovalis Real Estate Investment Trust,TSX,INO.UN.TO,Inovalis REIT Un,INO.UN
-IPO,InPlay Oil Corp.,TSX,IPO.TO,InPlay Oil Corp.,IPO,InPlay Oil Corp RCT,IPO.R
+IPO,InPlay Oil Corp.,TSX,IPO.TO,InPlay Oil Corp.,IPO
 IFC,Intact Financial Corporation,TSX,IFC.TO,Intact Fin Corp.,IFC,Intact Fin A Ser 1,IFC.PR.A,Intact Fin A Ser 3,IFC.PR.C,Intact Fin A Ser 5,IFC.PR.E,Intact Fin A Sr 6 Pr,IFC.PR.F,Intact Fin A Sr 7 Pr,IFC.PR.G,Intact Fin A Ser 9,IFC.PR.I,Intact Fin A Ser 11 ,IFC.PR.K
 IFP,Interfor Corporation,TSX,IFP.TO,Interfor Corporation,IFP
 IMP,Intermap Technologies Corporation,TSX,IMP.TO,Intermap Technology,IMP
@@ -2879,7 +2880,6 @@ MSFT,Microsoft CDR (CAD Hedged),TSX,MSFT.TO,Microsoft CDR CAD HD,MSFT
 MDIV,Middlefield Global Dividend Growers ETF,TSX,MDIV.TO,Midfld Glb Div Grwer,MDIV
 MINF,Middlefield Global Infrastructure Dividend ETF,TSX,MINF.TO,Midfldf GlbInfrasDiv,MINF
 MHCD,Middlefield Healthcare Dividend ETF,TSX,MHCD.TO,Middlefld Hlthcr Div,MHCD
-MINN,Middlefield Innovation Dividend ETF,TSX,MINN.TO,Middlefld Innov Div,MINN
 MREL,Middlefield Real Estate Dividend ETF,TSX,MREL.TO,Middlefld Rl Est Div,MREL
 MUSA,Middlefield U.S. Equity Dividend ETF,TSX,MUSA.TO,Middlefld US EqtyDiv,MUSA
 MSV,Minco Silver Corporation,TSX,MSV.TO,Minco Silver Corp J,MSV
@@ -3386,6 +3386,8 @@ XTRA,Xtract One Technologies Inc.,TSX,XTRA.TO,Xtract One Tech J,XTRA,Xtract One 
 YGR,Yangarra Resources Ltd.,TSX,YGR.TO,Yangarra Res Ltd.,YGR
 Y,Yellow Pages Limited,TSX,Y.TO,Yellow Pages Limited,Y
 YRB,Yorbeau Resources Inc.,TSX,YRB.TO,Yorbeau Resources J,YRB
+AACB,Artius II Acquisition Inc. - Class A Ordinary Shares,NASDAQ Global MarketSM,AACB
+AACBR,Artius II Acquisition Inc. - Rights,NASDAQ Global MarketSM,AACBR
 AACBU,Artius II Acquisition Inc. - Units,NASDAQ Global MarketSM,AACBU
 AACG,"ATA Creativity Global - American Depositary Shares, each representing two common shares",NASDAQ Global MarketSM,AACG
 AADR,AdvisorShares Dorsey Wright ADR ETF,NASDAQ Global MarketSM,AADR
@@ -5016,6 +5018,8 @@ FMST,Foremost Clean Energy Ltd. - Common Shares,NASDAQ Capital Market,FMST
 FMSTW,Foremost Clean Energy Ltd. - Warrant,NASDAQ Capital Market,FMSTW
 FMTM,MarketDesk Focused U.S. Momentum ETF,NASDAQ Global MarketSM,FMTM
 FMTO,Femto Technologies Inc. - Common Stock,NASDAQ Capital Market,FMTO
+FMUB,Fidelity Municipal Bond Opportunities ETF,NASDAQ Global MarketSM,FMUB
+FMUN,Fidelity Systematic Municipal Bond Index ETF,NASDAQ Global MarketSM,FMUN
 FNGR,"FingerMotion, Inc. - common stock",NASDAQ Capital Market,FNGR
 FNK,First Trust Mid Cap Value AlphaDEX Fund,NASDAQ Global MarketSM,FNK
 FNKO,"Funko, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,FNKO
@@ -5721,6 +5725,7 @@ JNVR,Janover Inc. - Common Stock,NASDAQ Capital Market,JNVR
 JOUT,Johnson Outdoors Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,JOUT
 JOYY,JOYY Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,JOYY
 JPEF,JPMorgan Equity Focus ETF,NASDAQ Global MarketSM,JPEF
+JPY,Lazard Japanese Equity ETF,NASDAQ Global MarketSM,JPY
 JRSH,"Jerash Holdings (US), Inc. - Common Stock",NASDAQ Capital Market,JRSH
 JRVR,"James River Group Holdings, Ltd. - Common Shares",NASDAQ Global Select MarketSM,JRVR
 JSM,"Navient Corporation - 6% Senior Notes due December 15, 2043",NASDAQ Global Select MarketSM,JSM
@@ -5770,6 +5775,8 @@ KFIIU,K&F Growth Acquisition Corp. II - Unit,NASDAQ Global MarketSM,KFIIU
 KGEI,Kolibri Global Energy Inc. - Common stock,NASDAQ Capital Market,KGEI
 KHC,The Kraft Heinz Company - Common Stock,NASDAQ Global Select MarketSM,KHC
 KIDS,OrthoPediatrics Corp. - Common Stock,NASDAQ Global MarketSM,KIDS
+KIDZ,"Classover Holdings, Inc. - Class B Common Stock",NASDAQ Global MarketSM,KIDZ
+KIDZW,"Classover Holdings, Inc. - Warrants",NASDAQ Capital Market,KIDZW
 KINS,"Kingstone Companies, Inc - Common Stock",NASDAQ Capital Market,KINS
 KIRK,"Kirkland's, Inc. - Common Stock",NASDAQ Global Select MarketSM,KIRK
 KITT,"Nauticus Robotics, Inc. - Common stock",NASDAQ Capital Market,KITT
@@ -6986,6 +6993,7 @@ RBBN,Ribbon Communications Inc.  - Common Stock,NASDAQ Global Select MarketSM,RB
 RBCAA,"Republic Bancorp, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RBCAA
 RBIL,F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF,NASDAQ Global MarketSM,RBIL
 RBKB,"Rhinebeck Bancorp, Inc. - Common Stock",NASDAQ Capital Market,RBKB
+RBNEV,Robin Energy Ltd. - Common Stock When Issued,NASDAQ Capital Market,RBNEV
 RCAT,"Red Cat Holdings, Inc. - Common Stock",NASDAQ Capital Market,RCAT
 RCEL,"Avita Medical, Inc. - Common Stock",NASDAQ Capital Market,RCEL
 RCGE,RockCreek Global Equality ETF,NASDAQ Global MarketSM,RCGE
@@ -7596,6 +7604,7 @@ TECH,Bio-Techne Corp - Common Stock,NASDAQ Global Select MarketSM,TECH
 TECTP,"Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NASDAQ Capital Market,TECTP
 TECX,"Tectonic Therapeutic, Inc. - Common Stock",NASDAQ Global MarketSM,TECX
 TEKX,SPDR Galaxy Transformative Tech Accelerators ETF,NASDAQ Global MarketSM,TEKX
+TEKY,Lazard Next Gen Technologies ETF,NASDAQ Global MarketSM,TEKY
 TELA,"TELA Bio, Inc. - Common stock",NASDAQ Global MarketSM,TELA
 TELO,"Telomir Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,TELO
 TEM,"Tempus AI, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,TEM
@@ -7612,6 +7621,7 @@ TH,Target Hospitality Corp. - Common Stock,NASDAQ Capital Market,TH
 THAR,"Tharimmune, Inc. - Common Stock",NASDAQ Capital Market,THAR
 THCH,TH International Limited - Ordinary shares,NASDAQ Capital Market,THCH
 THFF,First Financial Corporation  - Common Stock,NASDAQ Global Select MarketSM,THFF
+THMZ,Lazard Equity Megatrends ETF,NASDAQ Global MarketSM,THMZ
 THRD,"Third Harmonic Bio, Inc. - Common Stock",NASDAQ Global MarketSM,THRD
 THRM,Gentherm Inc - Common Stock,NASDAQ Global Select MarketSM,THRM
 THRY,"Thryv Holdings, Inc. - Common Stock",NASDAQ Capital Market,THRY
@@ -7657,6 +7667,7 @@ TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",NASDAQ Capital Market,T
 TOP,TOP Financial Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,TOP
 TOPW,Top Win International Limited - Ordinary Shares,NASDAQ Capital Market,TOPW
 TORO,Toro Corp. - Common stock,NASDAQ Capital Market,TORO
+TOROV,Toro Corp. - Common Stock Ex-distribution When Issued,NASDAQ Capital Market,TOROV
 TOUR,Tuniu Corporation - American Depositary Shares,NASDAQ Global MarketSM,TOUR
 TOWN,Towne Bank - Common Stock,NASDAQ Global Select MarketSM,TOWN
 TOYO,"TOYO Co., Ltd - Ordinary Shares",NASDAQ Capital Market,TOYO
@@ -9380,7 +9391,6 @@ FPH,"Five Point Holdings, LLC Class A Common Shares",NYSE,FPH
 FPI,Farmland Partners Inc. Common Stock,NYSE,FPI
 FR,"First Industrial Realty Trust, Inc. Common Stock",NYSE,FR
 FRA,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock,NYSE,FRA
-FRD,Friedman Industries Inc. Common Stock,NYSE MKT,FRD
 FRGE,"Forge Global Holdings, Inc. Common Stock",NYSE,FRGE
 FRO,Frontline Plc Ordinary Shares,NYSE,FRO
 FRT,Federal Realty Investment Trust Common Stock,NYSE,FRT
@@ -10910,7 +10920,6 @@ SSB,SouthState Corporation Common Stock,NYSE,SSB
 SSD,"Simpson Manufacturing Company, Inc. Common Stock",NYSE,SSD
 SSL,Sasol Ltd. American Depositary Shares,NYSE,SSL
 SST,"System1, Inc. Class A Common Stock",NYSE,SST
-SST.W,"System1, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",NYSE,SST.W
 SSTK,"Shutterstock, Inc. Common Stock",NYSE,SSTK
 SSY,"SunLink Health Systems, Inc. Common Stock",NYSE MKT,SSY
 ST,Sensata Technologies Holding plc Ordinary Shares,NYSE,ST
