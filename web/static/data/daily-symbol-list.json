@@ -1,5 +1,5 @@
 {
- "date": "2025-04-09",
+ "date": "2025-04-10",
  "data": [
   {
    "symbol": "ONE",
@@ -4332,7 +4332,7 @@
      "symbol": "DE"
     },
     {
-     "name": "Decisive Dividend Corporation wt 13Apr2025",
+     "name": "Decisive Dividend Corporation wt 14Apr2025",
      "symbol": "DE.WT"
     }
    ]
@@ -4454,18 +4454,6 @@
     {
      "name": "Destiny Media Technologies Inc.",
      "symbol": "DSY"
-    }
-   ]
-  },
-  {
-   "symbol": "GSD",
-   "name": "Devonian Health Group Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GSD.V",
-   "instruments": [
-    {
-     "name": "Devonian Health Group Inc.",
-     "symbol": "GSD"
     }
    ]
   },
@@ -17042,6 +17030,18 @@
     {
      "name": "Uniserve Communications Corporation",
      "symbol": "USS"
+    }
+   ]
+  },
+  {
+   "symbol": "IBO",
+   "name": "Universal Ibogaine Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IBO.V",
+   "instruments": [
+    {
+     "name": "Universal Ibogaine Inc.",
+     "symbol": "IBO"
     }
    ]
   },
@@ -43868,6 +43868,12 @@
    "yahoo_symbol": "ABEO"
   },
   {
+   "symbol": "ABIG",
+   "name": "Argent Large Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABIG"
+  },
+  {
    "symbol": "ABL",
    "name": "Abacus Global Management, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -44906,6 +44912,12 @@
    "yahoo_symbol": "ALHC"
   },
   {
+   "symbol": "ALIL",
+   "name": "Argent Focused Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALIL"
+  },
+  {
    "symbol": "ALKS",
    "name": "Alkermes plc - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -45183,7 +45195,7 @@
   },
   {
    "symbol": "AMRN",
-   "name": "Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",
+   "name": "Amarin Corporation plc - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AMRN"
   },
@@ -49356,30 +49368,6 @@
    "name": "Cellectar Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CLRB"
-  },
-  {
-   "symbol": "CLRC",
-   "name": "ClimateRock - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLRC"
-  },
-  {
-   "symbol": "CLRCR",
-   "name": "ClimateRock - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLRCR"
-  },
-  {
-   "symbol": "CLRCU",
-   "name": "ClimateRock - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLRCU"
-  },
-  {
-   "symbol": "CLRCW",
-   "name": "ClimateRock - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLRCW"
   },
   {
    "symbol": "CLRO",
@@ -54783,7 +54771,7 @@
   },
   {
    "symbol": "GLXG",
-   "name": "Galaxy Payroll Group Limited - Ordinary Shares",
+   "name": "Galaxy Payroll Group Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GLXG"
   },
@@ -55426,7 +55414,7 @@
   {
    "symbol": "HCWB",
    "name": "HCW Biologics Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HCWB"
   },
   {
@@ -62240,12 +62228,6 @@
    "yahoo_symbol": "NXTT"
   },
   {
-   "symbol": "NXU",
-   "name": "Nxu, Inc.  - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NXU"
-  },
-  {
    "symbol": "NXXT",
    "name": "NextNRG, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -66381,13 +66363,13 @@
   },
   {
    "symbol": "RZLV",
-   "name": "Rezolve AI Limited - Ordinary Shares",
+   "name": "Rezolve AI PLC - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RZLV"
   },
   {
    "symbol": "RZLVW",
-   "name": "Rezolve AI Limited - Warrants",
+   "name": "Rezolve AI PLC - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RZLVW"
   },
@@ -68712,6 +68694,12 @@
    "name": "Sizzle Acquisition Corp. II - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SZZLU"
+  },
+  {
+   "symbol": "TACHU",
+   "name": "Titan Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACHU"
   },
   {
    "symbol": "TACT",

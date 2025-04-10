@@ -1,78 +1,90 @@
 {
  "added": [
   {
-   "symbol": "FATN",
-   "name": "FatPipe, Inc. - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FATN"
-  },
-  {
-   "symbol": "FRD",
-   "name": "Friedman Industries Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FRD"
-  },
-  {
-   "symbol": "RYET",
-   "name": "Ruanyun Edai Technology Inc. - Ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RYET"
-  },
-  {
-   "symbol": "SLSN",
-   "name": "Solesence, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLSN"
-  }
- ],
- "removed": [
-  {
-   "symbol": "MSSAW",
-   "name": "Metal Sky Star Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSSAW"
-  },
-  {
-   "symbol": "MSSAR",
-   "name": "Metal Sky Star Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSSAR"
-  },
-  {
-   "symbol": "MSSA",
-   "name": "Metal Sky Star Acquisition Corporation - Ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSSA"
-  },
-  {
-   "symbol": "ACCD",
-   "name": "Accolade, Inc. - common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ACCD"
-  },
-  {
-   "symbol": "PRIF$H",
-   "name": "Priority Income Fund, Inc. 6.00% Series H Term Preferred Stock due 2026",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRIF$H"
-  },
-  {
-   "symbol": "ENTG",
-   "name": "Entourage Health Corp.",
+   "symbol": "IBO",
+   "name": "Universal Ibogaine Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ENTG.V",
+   "yahoo_symbol": "IBO.V",
    "instruments": [
     {
-     "name": "Entourage Health Corp.",
-     "symbol": "ENTG"
+     "name": "Universal Ibogaine Inc.",
+     "symbol": "IBO"
     }
    ]
   },
   {
-   "symbol": "MSSAU",
-   "name": "Metal Sky Star Acquisition Corporation - Unit",
+   "symbol": "ABIG",
+   "name": "Argent Large Cap ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSSAU"
+   "yahoo_symbol": "ABIG"
+  },
+  {
+   "symbol": "ALIL",
+   "name": "Argent Focused Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALIL"
+  },
+  {
+   "symbol": "HCWB",
+   "name": "HCW Biologics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCWB"
+  },
+  {
+   "symbol": "TACHU",
+   "name": "Titan Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACHU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HCWB",
+   "name": "HCW Biologics Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCWB"
+  },
+  {
+   "symbol": "CLRCW",
+   "name": "ClimateRock - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLRCW"
+  },
+  {
+   "symbol": "CLRC",
+   "name": "ClimateRock - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLRC"
+  },
+  {
+   "symbol": "CLRCU",
+   "name": "ClimateRock - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLRCU"
+  },
+  {
+   "symbol": "NXU",
+   "name": "Nxu, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXU"
+  },
+  {
+   "symbol": "GSD",
+   "name": "Devonian Health Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GSD.V",
+   "instruments": [
+    {
+     "name": "Devonian Health Group Inc.",
+     "symbol": "GSD"
+    }
+   ]
+  },
+  {
+   "symbol": "CLRCR",
+   "name": "ClimateRock - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLRCR"
   }
  ]
 }
