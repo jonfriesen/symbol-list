@@ -1,90 +1,102 @@
 {
  "added": [
   {
-   "symbol": "IBO",
-   "name": "Universal Ibogaine Inc.",
+   "symbol": "PDQ",
+   "name": "Paradigm Gold Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "IBO.V",
+   "yahoo_symbol": "PDQ.V",
    "instruments": [
     {
-     "name": "Universal Ibogaine Inc.",
-     "symbol": "IBO"
+     "name": "Paradigm Gold Corporation",
+     "symbol": "PDQ"
     }
    ]
   },
   {
-   "symbol": "ABIG",
-   "name": "Argent Large Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ABIG"
-  },
-  {
-   "symbol": "ALIL",
-   "name": "Argent Focused Small Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALIL"
-  },
-  {
-   "symbol": "HCWB",
-   "name": "HCW Biologics Inc. - Common Stock",
+   "symbol": "ATHR",
+   "name": "Aether Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HCWB"
+   "yahoo_symbol": "ATHR"
   },
   {
-   "symbol": "TACHU",
-   "name": "Titan Acquisition Corp. - Units",
+   "symbol": "CIIT",
+   "name": "Tianci International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CIIT"
+  },
+  {
+   "symbol": "CUPR",
+   "name": "Cuprina Holdings (Cayman) Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CUPR"
+  },
+  {
+   "symbol": "ELFY",
+   "name": "ALPS Electrification Infrastructure ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TACHU"
+   "yahoo_symbol": "ELFY"
+  },
+  {
+   "symbol": "ENDW",
+   "name": "Cambria Endowment Style ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENDW"
+  },
+  {
+   "symbol": "IOTR",
+   "name": "iOThree Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IOTR"
+  },
+  {
+   "symbol": "MB",
+   "name": "MasterBeef Group - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MB"
   }
  ],
  "removed": [
   {
-   "symbol": "HCWB",
-   "name": "HCW Biologics Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCWB"
-  },
-  {
-   "symbol": "CLRCW",
-   "name": "ClimateRock - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLRCW"
-  },
-  {
-   "symbol": "CLRC",
-   "name": "ClimateRock - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLRC"
-  },
-  {
-   "symbol": "CLRCU",
-   "name": "ClimateRock - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLRCU"
-  },
-  {
-   "symbol": "NXU",
-   "name": "Nxu, Inc.  - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NXU"
-  },
-  {
-   "symbol": "GSD",
-   "name": "Devonian Health Group Inc.",
+   "symbol": "NICK",
+   "name": "Nickelex Resource Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "GSD.V",
+   "yahoo_symbol": "NICK.V",
    "instruments": [
     {
-     "name": "Devonian Health Group Inc.",
-     "symbol": "GSD"
+     "name": "Nickelex Resource Corporation",
+     "symbol": "NICK"
     }
    ]
   },
   {
-   "symbol": "CLRCR",
-   "name": "ClimateRock - Right",
+   "symbol": "SKGRU",
+   "name": "SK Growth Opportunities Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CLRCR"
+   "yahoo_symbol": "SKGRU"
+  },
+  {
+   "symbol": "SKGRW",
+   "name": "SK Growth Opportunities Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKGRW"
+  },
+  {
+   "symbol": "SKGR",
+   "name": "SK Growth Opportunities Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKGR"
+  },
+  {
+   "symbol": "XCYT",
+   "name": "Xcyte Digital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XCYT.V",
+   "instruments": [
+    {
+     "name": "Xcyte Digital Corp.",
+     "symbol": "XCYT"
+    }
+   ]
   }
  ]
 }
