@@ -1,5 +1,5 @@
 {
- "date": "2025-04-11",
+ "date": "2025-04-14",
  "data": [
   {
    "symbol": "ONE",
@@ -4330,10 +4330,6 @@
     {
      "name": "Decisive Dividend Corporation",
      "symbol": "DE"
-    },
-    {
-     "name": "Decisive Dividend Corporation wt 14Apr2025",
-     "symbol": "DE.WT"
     }
    ]
   },
@@ -7190,6 +7186,18 @@
     {
      "name": "Greenheart Gold Inc.",
      "symbol": "GHRT"
+    }
+   ]
+  },
+  {
+   "symbol": "GRL",
+   "name": "GreenLight Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GRL.V",
+   "instruments": [
+    {
+     "name": "GreenLight Metals Inc.",
+     "symbol": "GRL"
     }
    ]
   },
@@ -16514,6 +16522,10 @@
     {
      "name": "Tiny Ltd.",
      "symbol": "TINY"
+    },
+    {
+     "name": "Tiny Ltd. Sub Rec",
+     "symbol": "TINY.R"
     }
    ]
   },
@@ -46154,12 +46166,6 @@
    "yahoo_symbol": "ATRO"
   },
   {
-   "symbol": "ATSG",
-   "name": "Air Transport Services Group, Inc - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ATSG"
-  },
-  {
    "symbol": "ATXG",
    "name": "Addentax Group Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -48042,6 +48048,24 @@
    "name": "Pacer BlueStar Engineering the Future ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BULD"
+  },
+  {
+   "symbol": "BULL",
+   "name": "Webull Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BULL"
+  },
+  {
+   "symbol": "BULLW",
+   "name": "Webull Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BULLW"
+  },
+  {
+   "symbol": "BULLZ",
+   "name": "Webull Corporation - Incentive Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BULLZ"
   },
   {
    "symbol": "BUSE",
@@ -64935,7 +64959,7 @@
   },
   {
    "symbol": "QMMM",
-   "name": "QMMM Holdings Limited - Ordinary Shares",
+   "name": "QMMM Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QMMM"
   },

@@ -1,102 +1,42 @@
 {
  "added": [
   {
-   "symbol": "PDQ",
-   "name": "Paradigm Gold Corporation",
+   "symbol": "GRL",
+   "name": "GreenLight Metals Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PDQ.V",
+   "yahoo_symbol": "GRL.V",
    "instruments": [
     {
-     "name": "Paradigm Gold Corporation",
-     "symbol": "PDQ"
+     "name": "GreenLight Metals Inc.",
+     "symbol": "GRL"
     }
    ]
   },
   {
-   "symbol": "ATHR",
-   "name": "Aether Holdings, Inc. - Common Stock",
+   "symbol": "BULL",
+   "name": "Webull Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATHR"
+   "yahoo_symbol": "BULL"
   },
   {
-   "symbol": "CIIT",
-   "name": "Tianci International, Inc. - Common Stock",
+   "symbol": "BULLW",
+   "name": "Webull Corporation - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CIIT"
+   "yahoo_symbol": "BULLW"
   },
   {
-   "symbol": "CUPR",
-   "name": "Cuprina Holdings (Cayman) Limited - Ordinary shares",
+   "symbol": "BULLZ",
+   "name": "Webull Corporation - Incentive Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CUPR"
-  },
-  {
-   "symbol": "ELFY",
-   "name": "ALPS Electrification Infrastructure ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ELFY"
-  },
-  {
-   "symbol": "ENDW",
-   "name": "Cambria Endowment Style ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ENDW"
-  },
-  {
-   "symbol": "IOTR",
-   "name": "iOThree Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IOTR"
-  },
-  {
-   "symbol": "MB",
-   "name": "MasterBeef Group - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MB"
+   "yahoo_symbol": "BULLZ"
   }
  ],
  "removed": [
   {
-   "symbol": "NICK",
-   "name": "Nickelex Resource Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NICK.V",
-   "instruments": [
-    {
-     "name": "Nickelex Resource Corporation",
-     "symbol": "NICK"
-    }
-   ]
-  },
-  {
-   "symbol": "SKGRU",
-   "name": "SK Growth Opportunities Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SKGRU"
-  },
-  {
-   "symbol": "SKGRW",
-   "name": "SK Growth Opportunities Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SKGRW"
-  },
-  {
-   "symbol": "SKGR",
-   "name": "SK Growth Opportunities Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SKGR"
-  },
-  {
-   "symbol": "XCYT",
-   "name": "Xcyte Digital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "XCYT.V",
-   "instruments": [
-    {
-     "name": "Xcyte Digital Corp.",
-     "symbol": "XCYT"
-    }
-   ]
+   "symbol": "ATSG",
+   "name": "Air Transport Services Group, Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ATSG"
   }
  ]
 }
