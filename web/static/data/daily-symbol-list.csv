@@ -185,6 +185,7 @@ MOON,Blue Moon Metals Inc.,TSXV,MOON.V,Blue Moon Metals Inc.,MOON
 BGE,Blue Sky Global Energy Corp.,TSXV,BGE.V,Blue Sky Global Energy Corp.,BGE
 BSK,Blue Sky Uranium Corp.,TSXV,BSK.V,Blue Sky Uranium Corp.,BSK
 BAU,Blue Star Gold Corp.,TSXV,BAU.V,Blue Star Gold Corp.,BAU
+BLU,BluEnergies Ltd.,TSXV,BLU.V,BluEnergies Ltd.,BLU
 BLM,BluMetric Environmental Inc.,TSXV,BLM.V,BluMetric Environmental Inc.,BLM
 BWLK,Boardwalktech Software Corp.,TSXV,BWLK.V,Boardwalktech Software Corp.,BWLK
 BOCA,Bocana Resources Corp.,TSXV,BOCA.V,Bocana Resources Corp.,BOCA
@@ -2498,6 +2499,8 @@ HGR,Harvest Global REIT Leaders Income ETF,TSX,HGR.TO,HarvestGlblREITLdr A,HGR
 HHLE,Harvest Healthcare Leaders Enhanced Income ETF,TSX,HHLE.TO,Harvest HlthcrIncm A,HHLE
 HHL,Harvest Healthcare Leaders Income ETF,TSX,HHL.TO,Harvest HlthcrLdr Un,HHL,HarvestHealthcrB U-H,HHL.B,HarvestHealthcare US,HHL.U
 HIND,Harvest Industrial Leaders Income ETF,TSX,HIND.TO,Harv Ind Ldr Inc Etf,HIND
+HVOL,Harvest Low Volatility Canadian Equity ETF,TSX,HVOL.TO,Harvest LowVol Ca Eq,HVOL
+HVOI,Harvest Low Volatility Canadian Equity Income ETF,TSX,HVOI.TO,Harvst LoVo CaEq Inc,HVOI
 METE,Harvest Meta Enhanced High Income Shares ETF,TSX,METE.TO,Harvest MeE HIS ETF,METE
 MSHE,Harvest Microsoft Enhanced High Income Shares ETF,TSX,MSHE.TO,HvMsft EHgIn ShrETFA,MSHE,HvMsft EHgIn ShrETFU,MSHE.U
 MSFH,Harvest Microsoft High Income Shares ETF,TSX,MSFH.TO,HvMsft HghIn ShrETFA,MSFH,HvMsft HghIn ShrETFU,MSFH.U
@@ -3215,6 +3218,7 @@ TPRF,TD Active Preferred Share ETF,TSX,TPRF.TO,TD Active Pref ShrUn,TPRF
 TUEX,TD Active U.S. Enhanced Dividend CAD Hedged ETF,TSX,TUEX.TO,TD ActvUS EnhncDivHg,TUEX
 TUED,TD Active U.S. Enhanced Dividend ETF,TSX,TUED.TO,TD ActvUS EnhanDivCA,TUED,TD ActvUS EnhanDivUS,TUED.U
 TUHY,TD Active U.S. High Yield Bond ETF,TSX,TUHY.TO,TD ActvUS HiYldBndUn,TUHY
+TEQT,TD All-Equity ETF Portfolio,TSX,TEQT.TO,TD All Eq ETF Portfo,TEQT
 TBAL,TD Balanced ETF Portfolio,TSX,TBAL.TO,TD Balanced Port Un,TBAL
 TDB,TD Canadian Aggregate Bond Index ETF,TSX,TDB.TO,TD Cdn Aggregate Bnd,TDB
 TBNK,TD Canadian Bank Dividend Index ETF,TSX,TBNK.TO,TD Cdn Bank Div Un,TBNK
@@ -5148,9 +5152,6 @@ GAN,GAN Limited - Ordinary Shares,NASDAQ Capital Market,GAN
 GANX,"Gain Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,GANX
 GASS,"StealthGas, Inc. - common stock",NASDAQ Global Select MarketSM,GASS
 GAUZ,Gauzy Ltd. - Ordinary Shares,NASDAQ Global MarketSM,GAUZ
-GBBK,Global Blockchain Acquisition Corp. - Common Stock,NASDAQ Capital Market,GBBK
-GBBKR,Global Blockchain Acquisition Corp. - Right,NASDAQ Capital Market,GBBKR
-GBBKW,Global Blockchain Acquisition Corp. - Warrant,NASDAQ Capital Market,GBBKW
 GBDC,"Golub Capital BDC, Inc. - Closed End Fund",NASDAQ Global Select MarketSM,GBDC
 GBIO,Generation Bio Co. - Common stock,NASDAQ Global Select MarketSM,GBIO
 GBUG,Sprott Active Gold & Silver Miners ETF,NASDAQ Global MarketSM,GBUG
@@ -6705,7 +6706,6 @@ PET,Wag! Group Co. - Common Stock,NASDAQ Global MarketSM,PET
 PETS,"PetMed Express, Inc. - Common Stock",NASDAQ Global Select MarketSM,PETS
 PETWW,Wag! Group Co. - Warrant,NASDAQ Global MarketSM,PETWW
 PETZ,"TDH Holdings, Inc. - Common Shares",NASDAQ Capital Market,PETZ
-PEV,Phoenix Motor Inc. - Common Stock,NASDAQ Capital Market,PEV
 PEY,Invesco High Yield Equity Dividend Achievers ETF,NASDAQ Global MarketSM,PEY
 PEZ,Invesco Dorsey Wright Consumer Cyclicals Momentum ETF,NASDAQ Global MarketSM,PEZ
 PFBC,Preferred Bank - Common Stock,NASDAQ Global Select MarketSM,PFBC
@@ -6892,7 +6892,6 @@ PXLW,"Pixelworks, Inc. - Common Stock",NASDAQ Capital Market,PXLW
 PXS,Pyxis Tankers Inc. - Common Stock,NASDAQ Capital Market,PXS
 PXSAW,Pyxis Tankers Inc. - Warrant,NASDAQ Capital Market,PXSAW
 PY,Principal Value ETF,NASDAQ Global MarketSM,PY
-PYCR,"Paycor HCM, Inc. - Common Stock",NASDAQ Global Select MarketSM,PYCR
 PYPD,PolyPid Ltd. - Ordinary Shares,NASDAQ Capital Market,PYPD
 PYPG,Leverage Shares 2X Long PYPL Daily ETF,NASDAQ Global MarketSM,PYPG
 PYPL,"PayPal Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,PYPL
@@ -6995,7 +6994,7 @@ RBBN,Ribbon Communications Inc.  - Common Stock,NASDAQ Global Select MarketSM,RB
 RBCAA,"Republic Bancorp, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RBCAA
 RBIL,F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF,NASDAQ Global MarketSM,RBIL
 RBKB,"Rhinebeck Bancorp, Inc. - Common Stock",NASDAQ Capital Market,RBKB
-RBNEV,Robin Energy Ltd. - Common Stock When Issued,NASDAQ Capital Market,RBNEV
+RBNE,Robin Energy Ltd. - Common Stock,NASDAQ Capital Market,RBNE
 RCAT,"Red Cat Holdings, Inc. - Common Stock",NASDAQ Capital Market,RCAT
 RCEL,"Avita Medical, Inc. - Common Stock",NASDAQ Capital Market,RCEL
 RCGE,RockCreek Global Equality ETF,NASDAQ Global MarketSM,RCGE
@@ -7669,7 +7668,6 @@ TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",NASDAQ Capital Market,T
 TOP,TOP Financial Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,TOP
 TOPW,Top Win International Limited - Ordinary Shares,NASDAQ Capital Market,TOPW
 TORO,Toro Corp. - Common stock,NASDAQ Capital Market,TORO
-TOROV,Toro Corp. - Common Stock Ex-distribution When Issued,NASDAQ Capital Market,TOROV
 TOUR,Tuniu Corporation - American Depositary Shares,NASDAQ Global MarketSM,TOUR
 TOWN,Towne Bank - Common Stock,NASDAQ Global Select MarketSM,TOWN
 TOYO,"TOYO Co., Ltd - Ordinary Shares",NASDAQ Capital Market,TOYO

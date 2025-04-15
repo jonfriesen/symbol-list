@@ -1,5 +1,5 @@
 {
- "date": "2025-04-14",
+ "date": "2025-04-15",
  "data": [
   {
    "symbol": "ONE",
@@ -2242,6 +2242,18 @@
     {
      "name": "Blue Star Gold Corp.",
      "symbol": "BAU"
+    }
+   ]
+  },
+  {
+   "symbol": "BLU",
+   "name": "BluEnergies Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BLU.V",
+   "instruments": [
+    {
+     "name": "BluEnergies Ltd.",
+     "symbol": "BLU"
     }
    ]
   },
@@ -31978,6 +31990,30 @@
    ]
   },
   {
+   "symbol": "HVOL",
+   "name": "Harvest Low Volatility Canadian Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HVOL.TO",
+   "instruments": [
+    {
+     "name": "Harvest LowVol Ca Eq",
+     "symbol": "HVOL"
+    }
+   ]
+  },
+  {
+   "symbol": "HVOI",
+   "name": "Harvest Low Volatility Canadian Equity Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HVOI.TO",
+   "instruments": [
+    {
+     "name": "Harvst LoVo CaEq Inc",
+     "symbol": "HVOI"
+    }
+   ]
+  },
+  {
    "symbol": "METE",
    "name": "Harvest Meta Enhanced High Income Shares ETF",
    "exchange": "TSX",
@@ -41566,6 +41602,18 @@
     {
      "name": "TD ActvUS HiYldBndUn",
      "symbol": "TUHY"
+    }
+   ]
+  },
+  {
+   "symbol": "TEQT",
+   "name": "TD All-Equity ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "TEQT.TO",
+   "instruments": [
+    {
+     "name": "TD All Eq ETF Portfo",
+     "symbol": "TEQT"
     }
    ]
   },
@@ -54320,24 +54368,6 @@
    "yahoo_symbol": "GAUZ"
   },
   {
-   "symbol": "GBBK",
-   "name": "Global Blockchain Acquisition Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBBK"
-  },
-  {
-   "symbol": "GBBKR",
-   "name": "Global Blockchain Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBBKR"
-  },
-  {
-   "symbol": "GBBKW",
-   "name": "Global Blockchain Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GBBKW"
-  },
-  {
    "symbol": "GBDC",
    "name": "Golub Capital BDC, Inc. - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63662,12 +63692,6 @@
    "yahoo_symbol": "PETZ"
   },
   {
-   "symbol": "PEV",
-   "name": "Phoenix Motor Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PEV"
-  },
-  {
    "symbol": "PEY",
    "name": "Invesco High Yield Equity Dividend Achievers ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -64784,12 +64808,6 @@
    "yahoo_symbol": "PY"
   },
   {
-   "symbol": "PYCR",
-   "name": "Paycor HCM, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PYCR"
-  },
-  {
    "symbol": "PYPD",
    "name": "PolyPid Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -65402,10 +65420,10 @@
    "yahoo_symbol": "RBKB"
   },
   {
-   "symbol": "RBNEV",
-   "name": "Robin Energy Ltd. - Common Stock When Issued",
+   "symbol": "RBNE",
+   "name": "Robin Energy Ltd. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RBNEV"
+   "yahoo_symbol": "RBNE"
   },
   {
    "symbol": "RCAT",
@@ -69444,12 +69462,6 @@
    "name": "Toro Corp. - Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TORO"
-  },
-  {
-   "symbol": "TOROV",
-   "name": "Toro Corp. - Common Stock Ex-distribution When Issued",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TOROV"
   },
   {
    "symbol": "TOUR",
