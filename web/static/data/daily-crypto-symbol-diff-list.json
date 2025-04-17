@@ -1,96 +1,86 @@
 {
  "added": [
   {
-   "symbol": "DEEPS",
-   "name": "DeepSeek AI (DEEPS)",
-   "built_on": "SOL"
+   "symbol": "RWA",
+   "name": "Xend Finance (RWA)",
+   "built_on": "BASE"
   },
   {
-   "symbol": "BULLSEYE",
-   "name": "bulls-eye (BULLSEYE)",
-   "built_on": "SOL"
+   "symbol": "BDTC",
+   "name": "BDTCOIN (BDTC)"
   },
   {
-   "symbol": "LVVA",
-   "name": "Levva Protocol Token (LVVA)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "COCOROERC",
-   "name": "COCORO (COCOROERC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "KLKSYNC",
-   "name": "KLK Sync Protocol (KLKSYNC)",
+   "symbol": "GMUBARAK",
+   "name": "Ghibli Mubarak (GMUBARAK)",
    "built_on": "BNB"
   },
   {
-   "symbol": "DEEPSEE",
-   "name": "DeepSeek AI (DEEPSEE)",
+   "symbol": "DETH",
+   "name": "DarkEther (DETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AQA",
+   "name": " AQA Token (AQA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WAVESCOMM",
+   "name": "Waves Community Token (WAVESCOMM)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "JARVIS",
+   "name": "Jarvis AI (JARVIS)",
    "built_on": "BNB"
   },
   {
-   "symbol": "DEEPSE",
-   "name": "DeepSeek AI Assistant (DEEPSE)",
-   "built_on": "SOL"
+   "symbol": "BINAN",
+   "name": "Binance Mascot (BINAN)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "FHE",
-   "name": "MindNetwork FHE Token (FHE)"
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
   },
   {
-   "symbol": "WCT",
-   "name": "Waves Community Token (WCT)",
-   "built_on": "OP"
+   "symbol": "TOADCOIN",
+   "name": "TOAD (TOADCOIN)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "SOLEY",
-   "name": "Soley (SOLEY)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "KULA",
-   "name": "Kula (KULA)",
-   "built_on": "AVAX"
-  },
-  {
-   "symbol": "CBBTCBASE",
-   "name": "cbBTC (CBBTCBASE)"
-  },
-  {
-   "symbol": "DEEPSEEKAI",
-   "name": "DeepSeek AI Agent (DEEPSEEKAI)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "D",
-   "name": "Dar Open Network (D)",
+   "symbol": "UPT",
+   "name": "Universal Protocol Token (UPT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "IAOMIN",
-   "name": "Yao Ming (IAOMIN)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (G)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "PALCOINV1",
-   "name": "PALCOIN Venture Capital v1 (PALCOINV1)"
-  },
-  {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "XEND",
+   "name": "Xend Finance (XEND)"
   }
  ],
  "removed": [
   {
-   "symbol": "WCT",
-   "name": "Waves Community Token (WCT)"
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "RWA",
+   "name": "Xend Finance (RWA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XEND",
+   "name": "Xend Finance (XEND)",
+   "built_on": "ETH"
   }
  ]
 }
