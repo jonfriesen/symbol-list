@@ -1,86 +1,75 @@
 {
  "added": [
   {
-   "symbol": "RWA",
-   "name": "Xend Finance (RWA)",
-   "built_on": "BASE"
+   "symbol": "WIOTA",
+   "name": "wIOTA (WIOTA)",
+   "built_on": "MIOTA"
   },
   {
-   "symbol": "BDTC",
-   "name": "BDTCOIN (BDTC)"
-  },
-  {
-   "symbol": "GMUBARAK",
-   "name": "Ghibli Mubarak (GMUBARAK)",
+   "symbol": "NUMITOR",
+   "name": "Numitor (NUMITOR)",
    "built_on": "BNB"
   },
   {
-   "symbol": "DETH",
-   "name": "DarkEther (DETH)"
+   "symbol": "XENDV1",
+   "name": "Xend Finance (XENDV1)"
   },
   {
-   "symbol": "BANK",
-   "name": "Float Protocol (BANK)",
+   "symbol": "USDD",
+   "name": "USDD (USDD)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "NUMI",
+   "name": "NUMINE Token (NUMI)",
    "built_on": "ETH"
   },
   {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
-   "built_on": "BASE"
-  },
-  {
-   "symbol": "AQA",
-   "name": " AQA Token (AQA)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "WAVESCOMM",
-   "name": "Waves Community Token (WAVESCOMM)",
-   "built_on": "WAVES"
-  },
-  {
-   "symbol": "JARVIS",
-   "name": "Jarvis AI (JARVIS)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "BINAN",
-   "name": "Binance Mascot (BINAN)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "TOADCOIN",
-   "name": "TOAD (TOADCOIN)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "UPT",
-   "name": "Universal Protocol Token (UPT)",
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
    "built_on": "ETH"
   },
   {
-   "symbol": "XEND",
-   "name": "Xend Finance (XEND)"
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "XENDV2",
+   "name": "Xend Finance (XENDV2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "VRTX",
+   "name": "Vertex Protocol (VRTX)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
   }
  ],
  "removed": [
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "RWA",
-   "name": "Xend Finance (RWA)",
-   "built_on": "ETH"
-  },
-  {
    "symbol": "XEND",
-   "name": "Xend Finance (XEND)",
-   "built_on": "ETH"
+   "name": "Xend Finance (XEND)"
+  },
+  {
+   "symbol": "NUMI",
+   "name": "Numitor (NUMI)"
+  },
+  {
+   "symbol": "USDD",
+   "name": "USDD (USDD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VRTX",
+   "name": "Vertex Protocol (VRTX)"
   }
  ]
 }
