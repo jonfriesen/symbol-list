@@ -942,7 +942,6 @@ NXG,NexgenRx Inc.,TSXV,NXG.V,NexgenRx Inc.,NXG
 NEXG,NeXGold Mining Corp.,TSXV,NEXG.V,NeXGold Mining Corp.,NEXG
 NXLV,NexLiving Communities Inc.,TSXV,NXLV.V,NexLiving Communities Inc.,NXLV
 NXO,NexOptic Technology Corp.,TSXV,NXO.V,NexOptic Technology Corp.,NXO
-NHT.U,NexPoint Hospitality Trust,TSXV,NHT.U.V,Nexpoint Hospitality Trust,NHT.U
 NXH,Next Hydrogen Solutions Inc.,TSXV,NXH.V,Next Hydrogen Solutions Inc.,NXH
 NXS,Nexus Gold Corp.,TSXV,NXS.V,Nexus Gold Corp.,NXS
 GASX,NG Energy International Corp.,TSXV,GASX.V,NG Energy International Corp.,GASX,NG Energy International Corp. db 20May2027,GASX.DB,NG Energy International Corp. wt 20May2027,GASX.WT.A
@@ -1844,6 +1843,7 @@ CLSA,Brompton Split Corp. Class A Share ETF,TSX,CLSA.TO,Brmp SpltCrp ClA ETF,CLS
 SPLT,Brompton Split Corp. Preferred Share ETF,TSX,SPLT.TO,Brompton SpltPref Un,SPLT
 TLF,Brompton Tech Leaders Income ETF,TSX,TLF.TO,Brompton TechLdr CAD,TLF,Brompton TechLdr USD,TLF.U
 KNGU,Brompton U.S. Cash Flow Kings ETF,TSX,KNGU.TO,Bromp USCflw Kng ETF,KNGU
+BAAA,Brompton Wellington Square AAA CLO ETF,TSX,BAAA.TO,Brompton WeS AAA CLO,BAAA,Bromp WeS AAA CLO US,BAAA.U
 BAM,Brookfield Asset Management Ltd.,TSX,BAM.TO,Brookfld AstMgt LV A,BAM
 BBUC,Brookfield Business Corporation,TSX,BBUC.TO,Brookfld Bus Corp SV,BBUC
 BBU.UN,Brookfield Business Partners L.P.,TSX,BBU.UN.TO,Brookfield Bus LP Un,BBU.UN
@@ -4092,7 +4092,7 @@ BTM,Bitcoin Depot Inc. - Class A Common Stock,NASDAQ Capital Market,BTM
 BTMD,Biote Corp. - Class A common stock,NASDAQ Global MarketSM,BTMD
 BTMWW,Bitcoin Depot Inc. - Warrant,NASDAQ Capital Market,BTMWW
 BTOC,Armlogi Holding Corp. - common stock,NASDAQ Global MarketSM,BTOC
-BTOG,Bit Origin Limited - Ordinary Shares,NASDAQ Capital Market,BTOG
+BTOG,Bit Origin Limited - Class A Ordinary Shares,NASDAQ Capital Market,BTOG
 BTSG,"BrightSpring Health Services, Inc. - Common Stock",NASDAQ Global Select MarketSM,BTSG
 BTSGU,"BrightSpring Health Services, Inc. - Tangible Equity Unit",NASDAQ Global Select MarketSM,BTSGU
 BUFC,AB Conservative Buffer ETF,NASDAQ Global MarketSM,BUFC
@@ -4295,6 +4295,7 @@ CIBR,First Trust NASDAQ Cybersecurity ETF,NASDAQ Global MarketSM,CIBR
 CIFR,Cipher Mining Inc. - Common Stock,NASDAQ Global Select MarketSM,CIFR
 CIFRW,Cipher Mining Inc. - Warrant,NASDAQ Global Select MarketSM,CIFRW
 CIGI,Colliers International Group Inc.  - Subordinate Voting Shares,NASDAQ Global Select MarketSM,CIGI
+CIGL,Concorde International Group Ltd - Class A Ordinary Shares,NASDAQ Capital Market,CIGL
 CIIT,"Tianci International, Inc. - Common Stock",NASDAQ Capital Market,CIIT
 CIL,VictoryShares International Volatility Wtd ETF,NASDAQ Global MarketSM,CIL
 CINF,Cincinnati Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,CINF
@@ -5856,6 +5857,7 @@ LBRDP,Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred S
 LBTYA,Liberty Global Ltd. - Class A Common Shares,NASDAQ Global Select MarketSM,LBTYA
 LBTYB,Liberty Global Ltd. - Class B Common Shares,NASDAQ Global Select MarketSM,LBTYB
 LBTYK,Liberty Global Ltd. - Class C Common Shares,NASDAQ Global Select MarketSM,LBTYK
+LCDL,GraniteShares 2x Long LCID Daily ETF,NASDAQ Global MarketSM,LCDL
 LCDS,JPMorgan Fundamental Data Science Large Core ETF,NASDAQ Global MarketSM,LCDS
 LCFY,Locafy Limited - Ordinary Share,NASDAQ Capital Market,LCFY
 LCFYW,Locafy Limited - Warrant,NASDAQ Capital Market,LCFYW
@@ -6043,6 +6045,7 @@ MBAV,M3-Brigade Acquisition V Corp. - Class A Ordinary shares,NASDAQ Global Mark
 MBAVU,M3-Brigade Acquisition V Corp. - Units,NASDAQ Global MarketSM,MBAVU
 MBAVW,M3-Brigade Acquisition V Corp. - Warrant,NASDAQ Global MarketSM,MBAVW
 MBB,iShares MBS ETF,NASDAQ Global MarketSM,MBB
+MBBC,"Marathon Bancorp, Inc. - Common Stock",NASDAQ Capital Market,MBBC
 MBCN,Middlefield Banc Corp. - Common Stock,NASDAQ Capital Market,MBCN
 MBIN,Merchants Bancorp - Common Stock,NASDAQ Capital Market,MBIN
 MBINL,"Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value",NASDAQ Capital Market,MBINL
@@ -6706,6 +6709,7 @@ PETWW,Wag! Group Co. - Warrant,NASDAQ Global MarketSM,PETWW
 PETZ,"TDH Holdings, Inc. - Common Shares",NASDAQ Capital Market,PETZ
 PEY,Invesco High Yield Equity Dividend Achievers ETF,NASDAQ Global MarketSM,PEY
 PEZ,Invesco Dorsey Wright Consumer Cyclicals Momentum ETF,NASDAQ Global MarketSM,PEZ
+PFAI,Pinnacle Food Group Limited - Class A Common Shares,NASDAQ Capital Market,PFAI
 PFBC,Preferred Bank - Common Stock,NASDAQ Global Select MarketSM,PFBC
 PFF,iShares Preferred and Income Securities ETF,NASDAQ Global MarketSM,PFF
 PFG,Principal Financial Group Inc - Common Stock,NASDAQ Global Select MarketSM,PFG
@@ -7145,6 +7149,7 @@ RUSHA,"Rush Enterprises, Inc. - Class A Common Stock",NASDAQ Global Select Marke
 RUSHB,"Rush Enterprises, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,RUSHB
 RVMD,"Revolution Medicines, Inc. - Common Stock",NASDAQ Global Select MarketSM,RVMD
 RVMDW,"Revolution Medicines, Inc. - Warrant",NASDAQ Global Select MarketSM,RVMDW
+RVNL,GraniteShares 2x Long RIVN Daily ETF,NASDAQ Global MarketSM,RVNL
 RVPH,"Reviva Pharmaceuticals Holdings, Inc. - Common Stock",NASDAQ Capital Market,RVPH
 RVPHW,"Reviva Pharmaceuticals Holdings, Inc. - Warrants",NASDAQ Capital Market,RVPHW
 RVSB,Riverview Bancorp Inc - Common Stock,NASDAQ Global Select MarketSM,RVSB
@@ -7911,7 +7916,6 @@ VIAV,Viavi Solutions Inc. - Common Stock,NASDAQ Global Select MarketSM,VIAV
 VICR,Vicor Corporation - Common Stock,NASDAQ Global Select MarketSM,VICR
 VIGI,Vanguard International Dividend Appreciation ETF,NASDAQ Global MarketSM,VIGI
 VIGL,"Vigil Neuroscience, Inc. - Common Stock",NASDAQ Global Select MarketSM,VIGL
-VINC,"Vincerx Pharma, Inc. - Common Stock",NASDAQ Capital Market,VINC
 VINP,Vinci Partners Investments Ltd. - Class A Common Shares,NASDAQ Global Select MarketSM,VINP
 VIOT,"Viomi Technology Co., Ltd - American Depositary Shares",NASDAQ Global Select MarketSM,VIOT
 VIR,"Vir Biotechnology, Inc. - Common Stock",NASDAQ Global Select MarketSM,VIR
@@ -9110,7 +9114,6 @@ DSX$B,Diana Shipping Inc. Perpetual Preferred Shares Series B (Marshall Islands)
 DSX.W,Diana Shipping inc. Warrants,NYSE,DSX.W
 DT,"Dynatrace, Inc. Common Stock",NYSE,DT
 DTB,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,NYSE,DTB
-DTC,"Solo Brands, Inc. Class A Common Stock",NYSE,DTC
 DTE,DTE Energy Company Common Stock,NYSE,DTE
 DTF,DTF Tax-Free Income 2028 Term Fund Inc. Common Stock,NYSE,DTF
 DTG,DTE Energy Company 2021 Series E 4.375% Junior Subordinated Debentures,NYSE,DTG
@@ -9348,7 +9351,7 @@ FICO,Fair Isaac Corporation Common Stock,NYSE,FICO
 FIGS,"FIGS, Inc. Class A Common Stock",NYSE,FIGS
 FIHL,Fidelis Insurance Holdings Limited Common Shares,NYSE,FIHL
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,NYSE,FINS
-FINS.V,"Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued",NYSE,FINS.V
+FINS.R,"Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights",NYSE,FINS.R
 FINV,FinVolution Group American Depositary Shares,NYSE,FINV
 FIS,"Fidelity National Information Services, Inc. Common Stock",NYSE,FIS
 FISK,"Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests",NYSE ARCA,FISK

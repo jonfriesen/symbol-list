@@ -1,5 +1,5 @@
 {
- "date": "2025-04-22",
+ "date": "2025-04-23",
  "data": [
   {
    "symbol": "ONE",
@@ -11410,18 +11410,6 @@
     {
      "name": "NexOptic Technology Corp.",
      "symbol": "NXO"
-    }
-   ]
-  },
-  {
-   "symbol": "NHT.U",
-   "name": "NexPoint Hospitality Trust",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NHT.U.V",
-   "instruments": [
-    {
-     "name": "Nexpoint Hospitality Trust",
-     "symbol": "NHT.U"
     }
    ]
   },
@@ -22862,6 +22850,22 @@
     {
      "name": "Bromp USCflw Kng ETF",
      "symbol": "KNGU"
+    }
+   ]
+  },
+  {
+   "symbol": "BAAA",
+   "name": "Brompton Wellington Square AAA CLO ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BAAA.TO",
+   "instruments": [
+    {
+     "name": "Brompton WeS AAA CLO",
+     "symbol": "BAAA"
+    },
+    {
+     "name": "Bromp WeS AAA CLO US",
+     "symbol": "BAAA.U"
     }
    ]
   },
@@ -48027,7 +48031,7 @@
   },
   {
    "symbol": "BTOG",
-   "name": "Bit Origin Limited - Ordinary Shares",
+   "name": "Bit Origin Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BTOG"
   },
@@ -49242,6 +49246,12 @@
    "name": "Colliers International Group Inc.  - Subordinate Voting Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CIGI"
+  },
+  {
+   "symbol": "CIGL",
+   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CIGL"
   },
   {
    "symbol": "CIIT",
@@ -58610,6 +58620,12 @@
    "yahoo_symbol": "LBTYK"
   },
   {
+   "symbol": "LCDL",
+   "name": "GraniteShares 2x Long LCID Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCDL"
+  },
+  {
    "symbol": "LCDS",
    "name": "JPMorgan Fundamental Data Science Large Core ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -59730,6 +59746,12 @@
    "name": "iShares MBS ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MBB"
+  },
+  {
+   "symbol": "MBBC",
+   "name": "Marathon Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBBC"
   },
   {
    "symbol": "MBCN",
@@ -63710,6 +63732,12 @@
    "yahoo_symbol": "PEZ"
   },
   {
+   "symbol": "PFAI",
+   "name": "Pinnacle Food Group Limited - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFAI"
+  },
+  {
    "symbol": "PFBC",
    "name": "Preferred Bank - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -66342,6 +66370,12 @@
    "name": "Revolution Medicines, Inc. - Warrant",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "RVMDW"
+  },
+  {
+   "symbol": "RVNL",
+   "name": "GraniteShares 2x Long RIVN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RVNL"
   },
   {
    "symbol": "RVPH",
@@ -70938,12 +70972,6 @@
    "name": "Vigil Neuroscience, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VIGL"
-  },
-  {
-   "symbol": "VINC",
-   "name": "Vincerx Pharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VINC"
   },
   {
    "symbol": "VINP",
@@ -78134,12 +78162,6 @@
    "yahoo_symbol": "DTB"
   },
   {
-   "symbol": "DTC",
-   "name": "Solo Brands, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DTC"
-  },
-  {
    "symbol": "DTE",
    "name": "DTE Energy Company Common Stock",
    "exchange": "NYSE",
@@ -79562,10 +79584,10 @@
    "yahoo_symbol": "FINS"
   },
   {
-   "symbol": "FINS.V",
-   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued",
+   "symbol": "FINS.R",
+   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "FINS.V"
+   "yahoo_symbol": "FINS.R"
   },
   {
    "symbol": "FINV",
