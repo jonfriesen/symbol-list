@@ -1,88 +1,90 @@
 {
  "added": [
   {
-   "symbol": "BAAA",
-   "name": "Brompton Wellington Square AAA CLO ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BAAA.TO",
-   "instruments": [
-    {
-     "name": "Brompton WeS AAA CLO",
-     "symbol": "BAAA"
-    },
-    {
-     "name": "Bromp WeS AAA CLO US",
-     "symbol": "BAAA.U"
-    }
-   ]
-  },
-  {
-   "symbol": "CIGL",
-   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CIGL"
-  },
-  {
-   "symbol": "LCDL",
-   "name": "GraniteShares 2x Long LCID Daily ETF",
+   "symbol": "BOED",
+   "name": "Direxion Daily BA Bear 1X Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LCDL"
+   "yahoo_symbol": "BOED"
   },
   {
-   "symbol": "MBBC",
-   "name": "Marathon Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBBC"
-  },
-  {
-   "symbol": "PFAI",
-   "name": "Pinnacle Food Group Limited - Class A Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PFAI"
-  },
-  {
-   "symbol": "RVNL",
-   "name": "GraniteShares 2x Long RIVN Daily ETF",
+   "symbol": "BOEU",
+   "name": "Direxion Daily BA Bull 2X Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RVNL"
+   "yahoo_symbol": "BOEU"
   },
   {
-   "symbol": "FINS.R",
-   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FINS.R"
+   "symbol": "TVACU",
+   "name": "Texas Ventures Acquisition III Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVACU"
+  },
+  {
+   "symbol": "VIVS",
+   "name": "VivoSim Labs, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIVS"
+  },
+  {
+   "symbol": "XOMX",
+   "name": "Direxion Daily XOM Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMX"
+  },
+  {
+   "symbol": "XOMZ",
+   "name": "Direxion Daily XOM Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMZ"
   }
  ],
  "removed": [
   {
-   "symbol": "VINC",
-   "name": "Vincerx Pharma, Inc. - Common Stock",
+   "symbol": "OCEAW",
+   "name": "Ocean Biomedical, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VINC"
+   "yahoo_symbol": "OCEAW"
   },
   {
-   "symbol": "FINS.V",
-   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FINS.V"
+   "symbol": "CSF",
+   "name": "VictoryShares US Discovery Enhanced Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSF"
   },
   {
-   "symbol": "DTC",
-   "name": "Solo Brands, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DTC"
+   "symbol": "MDCP",
+   "name": "VictoryShares THB Mid Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MDCP"
   },
   {
-   "symbol": "NHT.U",
-   "name": "NexPoint Hospitality Trust",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NHT.U.V",
+   "symbol": "ONVO",
+   "name": "Organovo Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONVO"
+  },
+  {
+   "symbol": "OCEA",
+   "name": "Ocean Biomedical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCEA"
+  },
+  {
+   "symbol": "CTS",
+   "name": "Converge Technology Solutions Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTS.TO",
    "instruments": [
     {
-     "name": "Nexpoint Hospitality Trust",
-     "symbol": "NHT.U"
+     "name": "Converge TechSoltn J",
+     "symbol": "CTS"
     }
    ]
+  },
+  {
+   "symbol": "CSA",
+   "name": "VictoryShares US Small Cap Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSA"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2025-04-23",
+ "date": "2025-04-24",
  "data": [
   {
    "symbol": "ONE",
@@ -25670,18 +25670,6 @@
    ]
   },
   {
-   "symbol": "CTS",
-   "name": "Converge Technology Solutions Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CTS.TO",
-   "instruments": [
-    {
-     "name": "Converge TechSoltn J",
-     "symbol": "CTS"
-    }
-   ]
-  },
-  {
    "symbol": "COPR",
    "name": "Coppernico Metals Inc.",
    "exchange": "TSX",
@@ -47454,6 +47442,18 @@
    "yahoo_symbol": "BNZIW"
   },
   {
+   "symbol": "BOED",
+   "name": "Direxion Daily BA Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOED"
+  },
+  {
+   "symbol": "BOEU",
+   "name": "Direxion Daily BA Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOEU"
+  },
+  {
    "symbol": "BOF",
    "name": "BranchOut Food Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -50232,12 +50232,6 @@
    "yahoo_symbol": "CRWV"
   },
   {
-   "symbol": "CSA",
-   "name": "VictoryShares US Small Cap Volatility Wtd ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CSA"
-  },
-  {
    "symbol": "CSAI",
    "name": "Cloudastructure, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -50266,12 +50260,6 @@
    "name": "Cisco Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CSCO"
-  },
-  {
-   "symbol": "CSF",
-   "name": "VictoryShares US Discovery Enhanced Volatility Wtd ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CSF"
   },
   {
    "symbol": "CSGP",
@@ -59946,12 +59934,6 @@
    "yahoo_symbol": "MDBH"
   },
   {
-   "symbol": "MDCP",
-   "name": "VictoryShares THB Mid Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MDCP"
-  },
-  {
    "symbol": "MDCX",
    "name": "Medicus Pharma Ltd. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -62532,18 +62514,6 @@
    "yahoo_symbol": "OCCIO"
   },
   {
-   "symbol": "OCEA",
-   "name": "Ocean Biomedical, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OCEA"
-  },
-  {
-   "symbol": "OCEAW",
-   "name": "Ocean Biomedical, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OCEAW"
-  },
-  {
    "symbol": "OCFC",
    "name": "OceanFirst Financial Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62854,12 +62824,6 @@
    "name": "OneMedNet Corp - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ONMDW"
-  },
-  {
-   "symbol": "ONVO",
-   "name": "Organovo Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ONVO"
   },
   {
    "symbol": "OOQB",
@@ -69960,6 +69924,12 @@
    "yahoo_symbol": "TUSK"
   },
   {
+   "symbol": "TVACU",
+   "name": "Texas Ventures Acquisition III Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVACU"
+  },
+  {
    "symbol": "TVGN",
    "name": "Tevogen Bio Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -71016,6 +70986,12 @@
    "yahoo_symbol": "VIVK"
   },
   {
+   "symbol": "VIVS",
+   "name": "VivoSim Labs, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIVS"
+  },
+  {
    "symbol": "VKTX",
    "name": "Viking Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -71263,7 +71239,7 @@
   },
   {
    "symbol": "VS",
-   "name": "Versus Systems Inc. - Common Shares",
+   "name": "Versus Systems Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VS"
   },
@@ -72250,6 +72226,18 @@
    "name": "XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "XOMAP"
+  },
+  {
+   "symbol": "XOMX",
+   "name": "Direxion Daily XOM Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMX"
+  },
+  {
+   "symbol": "XOMZ",
+   "name": "Direxion Daily XOM Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMZ"
   },
   {
    "symbol": "XOS",
