@@ -1,5 +1,5 @@
 {
- "date": "2025-04-24",
+ "date": "2025-04-25",
  "data": [
   {
    "symbol": "ONE",
@@ -36834,18 +36834,6 @@
    ]
   },
   {
-   "symbol": "MR.UN",
-   "name": "Melcor Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "MR.UN.TO",
-   "instruments": [
-    {
-     "name": "Melcor REIT Un",
-     "symbol": "MR.UN"
-    }
-   ]
-  },
-  {
    "symbol": "SPAC.RT.U",
    "name": "Mercer Park Opportunities Corp.",
    "exchange": "TSX",
@@ -40430,14 +40418,22 @@
    ]
   },
   {
-   "symbol": "SLT.U",
+   "symbol": "SLT",
    "name": "Saltire Capital Ltd.",
    "exchange": "TSX",
-   "yahoo_symbol": "SLT.U.TO",
+   "yahoo_symbol": "SLT.TO",
    "instruments": [
+    {
+     "name": "Saltire Capital CAD",
+     "symbol": "SLT"
+    },
     {
      "name": "Saltire Capital USD",
      "symbol": "SLT.U"
+    },
+    {
+     "name": "Saltire Cap Wts CAD",
+     "symbol": "SLT.WT"
     },
     {
      "name": "Saltire Cap Wts USD ",
@@ -50344,12 +50340,6 @@
    "name": "Global X CleanTech ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CTEC"
-  },
-  {
-   "symbol": "CTHR",
-   "name": "Charles \u0026 Colvard Ltd. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CTHR"
   },
   {
    "symbol": "CTKB",
@@ -61786,6 +61776,12 @@
    "name": "Novanta Inc. - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "NOVT"
+  },
+  {
+   "symbol": "NPACU",
+   "name": "New Providence Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPACU"
   },
   {
    "symbol": "NPCE",
@@ -83838,12 +83834,6 @@
    "yahoo_symbol": "MKC.V"
   },
   {
-   "symbol": "MKFG",
-   "name": "Markforged Holding Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MKFG"
-  },
-  {
    "symbol": "MKL",
    "name": "Markel Group Inc. Common Stock",
    "exchange": "NYSE",
@@ -91036,12 +91026,6 @@
    "name": "Wallbox N.V. Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "WBX"
-  },
-  {
-   "symbol": "WBX.W",
-   "name": "Wallbox N.V. Warrants, each warrant to purchase one Class A Ordinary Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WBX.W"
   },
   {
    "symbol": "WCC",
