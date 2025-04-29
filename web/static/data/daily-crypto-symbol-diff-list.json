@@ -1,20 +1,26 @@
 {
  "added": [
   {
-   "symbol": "CROS",
-   "name": "Cros Token (CROS)"
+   "symbol": "FOCAI",
+   "name": "focai.fun (FOCAI)"
   },
   {
-   "symbol": "EZSWAP",
-   "name": "EZswap Protocol (EZSWAP)"
+   "symbol": "WHYPAD",
+   "name": "Unamano (WHYPAD)"
   },
   {
-   "symbol": "XYRO",
-   "name": "XYRO (XYRO)"
+   "symbol": "ESCC",
+   "name": "Eos Stable Coin Chain (ESCC)"
   },
   {
-   "symbol": "SS20",
-   "name": "Shell Trade (SS20)"
+   "symbol": "PLENA",
+   "name": "PLENA (PLENA)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
   }
  ]
 }

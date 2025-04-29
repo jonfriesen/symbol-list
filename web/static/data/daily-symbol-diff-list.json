@@ -1,108 +1,102 @@
 {
  "added": [
   {
-   "symbol": "APPX",
-   "name": "Tradr 2X Long APP Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "APPX"
-  },
-  {
-   "symbol": "BCTXZ",
-   "name": "BriaCell Therapeutics Corp. - Warrant",
+   "symbol": "JBIO",
+   "name": "Jade Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BCTXZ"
+   "yahoo_symbol": "JBIO"
   },
   {
-   "symbol": "CHACU",
-   "name": "Crane Harbor Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHACU"
-  },
-  {
-   "symbol": "INEO",
-   "name": "INNEOVA Holdings Limited - Ordinary Shares",
+   "symbol": "XBP",
+   "name": "XBP Europe Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "INEO"
+   "yahoo_symbol": "XBP"
   },
   {
-   "symbol": "IPCXU",
-   "name": "Inflection Point Acquisition Corp. III - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPCXU"
-  },
-  {
-   "symbol": "IVF",
-   "name": "INVO Fertility, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IVF"
-  },
-  {
-   "symbol": "PHOE",
-   "name": "Phoenix Asia Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PHOE"
-  },
-  {
-   "symbol": "PLTG",
-   "name": "Leverage Shares 2X Long PLTR Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLTG"
-  },
-  {
-   "symbol": "SSII",
-   "name": "SS Innovations International Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SSII"
-  },
-  {
-   "symbol": "MIX",
-   "name": "Hamilton Enhanced Mixed Asset ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MIX.TO",
-   "instruments": [
-    {
-     "name": "Hamilton Enh Mix Ase",
-     "symbol": "MIX"
-    }
-   ]
+   "symbol": "FLYY",
+   "name": "Spirit Aviation Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLYY"
   }
  ],
  "removed": [
   {
-   "symbol": "YOTAR",
-   "name": "Yotta Acquisition Corporation - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YOTAR"
+   "symbol": "MAU",
+   "name": "Montage Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MAU.V",
+   "instruments": [
+    {
+     "name": "Montage Gold Corp.",
+     "symbol": "MAU"
+    }
+   ]
   },
   {
-   "symbol": "SAG",
-   "name": "SAG Holdings Limited - Ordinary Shares",
+   "symbol": "PITAW",
+   "name": "Heramba Electric plc - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SAG"
+   "yahoo_symbol": "PITAW"
   },
   {
-   "symbol": "YOTAU",
-   "name": "Yotta Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YOTAU"
+   "symbol": "AVTE",
+   "name": "Aerovate Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVTE"
   },
   {
-   "symbol": "YOTA",
-   "name": "Yotta Acquisition Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YOTA"
+   "symbol": "SEV",
+   "name": "Spectra7 Microsystems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SEV.V",
+   "instruments": [
+    {
+     "name": "Spectra7 Microsystems Inc.",
+     "symbol": "SEV"
+    }
+   ]
   },
   {
-   "symbol": "NAYA",
-   "name": "NAYA Biosciences, Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NAYA"
+   "symbol": "QIE",
+   "name": "AGF Systematic International Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QIE.TO",
+   "instruments": [
+    {
+     "name": "AGF Sys Intl Eqty Un",
+     "symbol": "QIE"
+    }
+   ]
   },
   {
-   "symbol": "YOTAW",
-   "name": "Yotta Acquisition Corporation - Warrant",
+   "symbol": "PITA",
+   "name": "Heramba Electric plc - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YOTAW"
+   "yahoo_symbol": "PITA"
+  },
+  {
+   "symbol": "QUS",
+   "name": "AGF Systematic US Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QUS.TO",
+   "instruments": [
+    {
+     "name": "AGF Sys US Eqty Un",
+     "symbol": "QUS"
+    }
+   ]
+  },
+  {
+   "symbol": "SPRB",
+   "name": "Spruce Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPRB"
+  },
+  {
+   "symbol": "XBP",
+   "name": "XBP Europe Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XBP"
   }
  ]
 }
