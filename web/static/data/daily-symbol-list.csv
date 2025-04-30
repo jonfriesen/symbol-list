@@ -370,6 +370,7 @@ DBC.P,Departure Bay Capital Corp.,TSXV,DBC.P.V,Departure Bay Capital Corp.,DBC.P
 DAU,Desert Gold Ventures Inc.,TSXV,DAU.V,Desert Gold Ventures Inc.,DAU
 DME,Desert Mountain Energy Corp.,TSXV,DME.V,Desert Mountain Energy Corp.,DME
 DSY,Destiny Media Technologies Inc.,TSXV,DSY.V,Destiny Media Technologies Inc.,DSY
+GSD,Devonian Health Group Inc.,TSXV,GSD.V,Devonian Health Group Inc.,GSD
 DFR,DFR Gold Inc.,TSXV,DFR.V,DFR Gold Inc.,DFR
 DGL.P,DGL Investments No.1 Inc,TSXV,DGL.P.V,DGL Investments No. 1 Inc.,DGL.P
 ADK,Diagnos Inc.,TSXV,ADK.V,Diagnos Inc.,ADK
@@ -2338,12 +2339,15 @@ HCON,Global X Conservative Asset Allocation ETF,TSX,HCON.TO,GblX Cosv Ast Aloc E
 COPP,Global X Copper Producers Index ETF,TSX,COPP.TO,GblX Copper Ppd InxA,COPP
 HUC,Global X Crude Oil ETF,TSX,HUC.TO,Glbl X CrudOil ETF,HUC
 HBUG,Global X Cybersecurity Index ETF,TSX,HBUG.TO,GblX Cybrsec Inx ETF,HBUG
+SHLD,Global X Defence Tech Index ETF,TSX,SHLD.TO,Global X Def Tech Id,SHLD
 HXEM,Global X Emerging Markets Equity Index Corporate Class ETF,TSX,HXEM.TO,GblX EmergMkt EqIdx,HXEM
 EQCL,Global X Enhanced All-Equity Asset Allocation Covered Call ETF,TSX,EQCL.TO,GblX EhEqAstAlocCvCl,EQCL
 HEQL,Global X Enhanced All-Equity Asset Allocation ETF,TSX,HEQL.TO,GblX EhEq AsstAlloc,HEQL
 ENCL,Global X Enhanced Canadian Oil and Gas Equity Covered Call ETF,TSX,ENCL.TO,GblX EhCdn O&GEqCvCl,ENCL
 BNKL,Global X Enhanced Equal Weight Banks Index ETF,TSX,BNKL.TO,GblX EnEqWgtBnk Idx,BNKL
 BKCL,Global X Enhanced Equal Weight Canadian Banks Covered Call ETF,TSX,BKCL.TO,GblX EnEqWgtCdnBk Cv,BKCL
+RNCL,Global X Enhanced Equal Weight Canadian Telecommunications Covered Call ETF,TSX,RNCL.TO,Glob X EnEqWe CDN Te,RNCL
+GLCL,Global X Enhanced Gold Producer Equity Covered Call ETF,TSX,GLCL.TO,Globl X Enh Gold Pro,GLCL
 QQCL,Global X Enhanced Nasdaq-100 Covered Call ETF,TSX,QQCL.TO,GblX EhNASDQ100CvrCl,QQCL
 QQQL,Global X Enhanced Nasdaq-100 Index ETF,TSX,QQQL.TO,GblX EnNas100Idx ETF,QQQL
 USCL,Global X Enhanced S&P 500 Covered Call ETF,TSX,USCL.TO,GblX EnhnSP500 CvCal,USCL
@@ -2358,8 +2362,13 @@ SAFE,Global X Equal Weight Canadian Insurance Index ETF,TSX,SAFE.TO,Global X EWC
 NRGY,Global X Equal Weight Canadian Oil & Gas Index ETF,TSX,NRGY.TO,Global X EWC OGI ETF,NRGY
 PPLN,Global X Equal Weight Canadian Pipelines Index ETF,TSX,PPLN.TO,GblX EqlW CadPI ETF,PPLN
 HCRE,Global X Equal Weight Canadian REITs Index Corporate Class ETF,TSX,HCRE.TO,GblX EqlWgtCA REIT,HCRE
+REIT,Global X Equal Weight Canadian REITs Index ETF,TSX,REIT.TO,Globl X EqWe CDN REI,REIT
+RNCC,Global X Equal Weight Canadian Telecommunications Covered Call ETF,TSX,RNCC.TO,Globl X EqWe CDN Tel,RNCC
 RING,Global X Equal Weight Canadian Telecommunications Index ETF,TSX,RING.TO,Global X EWCT Id ETF,RING
 UTIL,Global X Equal Weight Canadian Utilities Index ETF,TSX,UTIL.TO,GblX EqW CdUtIdx ETF,UTIL
+MEDX,Global X Equal Weight Global Healthcare Index ETF,TSX,MEDX.TO,Globl X EqWe Gl Heal,MEDX
+UBNK,Global X Equal Weight U.S. Banks Index ETF,TSX,UBNK.TO,Global X EqWe US Bnk,UBNK
+UMRT,Global X Equal Weight U.S. Groceries & Staples Index ETF,TSX,UMRT.TO,Global X EqWe US Gro,UMRT
 HXX,Global X Europe 50 Index Corporate Class ETF,TSX,HXX.TO,GblX EURO 50IndxShr,HXX
 ETHI,Global X Global Sustainability Leaders Index ETF,TSX,ETHI.TO,GblX GlbSustLdr Inx ,ETHI
 HUG,Global X Gold ETF,TSX,HUG.TO,Glbl X Gold ETF,HUG
@@ -2885,6 +2894,7 @@ MID.UN,MINT Income Fund,TSX,MID.UN.TO,MINT Incme Fnd Tr Un,MID.UN
 MI.UN,Minto Apartment Real Estate Investment Trust,TSX,MI.UN.TO,Minto Apart REIT Un,MI.UN
 MOGO,Mogo Inc.,TSX,MOGO.TO,Mogo Inc. J,MOGO
 TPX.A,Molson Coors Canada Inc.,TSX,TPX.A.TO,MolsonCoors Cda A LV,TPX.A,MolsonCoors Cda B NV,TPX.B
+MAU,Montage Gold Corp.,TSX,MAU.TO,Montage Gold Corp,MAU
 MRC,Morguard Corporation,TSX,MRC.TO,Morguard Corporation,MRC
 MRG.DB.B,Morguard North American Residential Real Estate Investment Trust,TSX,MRG.DB.B.TO,Morgaurd NA Rl 6% Db,MRG.DB.B,Morguard NA REIT UN,MRG.UN
 MRT.DB.A,Morguard Real Estate Investment Trust,TSX,MRT.DB.A.TO,Morguard REIT 5.25Db,MRT.DB.A,Morguard Real Est Un,MRT.UN
@@ -3890,7 +3900,6 @@ BEAGU,Bold Eagle Acquisition Corp. - Units,NASDAQ Global MarketSM,BEAGU
 BEAM,Beam Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,BEAM
 BEAT,"Heartbeam, Inc. - Common Stock",NASDAQ Capital Market,BEAT
 BEATW,"Heartbeam, Inc. - Warrant",NASDAQ Capital Market,BEATW
-BECN,"Beacon Roofing Supply, Inc. - Common Stock",NASDAQ Global Select MarketSM,BECN
 BEEM,Beam Global - Common Stock,NASDAQ Capital Market,BEEM
 BEEX,The Beehive ETF,NASDAQ Global MarketSM,BEEX
 BEEZ,Honeytree U.S. Equity ETF,NASDAQ Global MarketSM,BEEZ
@@ -4528,6 +4537,7 @@ CZFS,"Citizens Financial Services, Inc. - Common Stock",NASDAQ Capital Market,CZ
 CZNC,Citizens & Northern Corp - Common Stock,NASDAQ Capital Market,CZNC
 CZR,"Caesars Entertainment, Inc. - Common Stock",NASDAQ Global Select MarketSM,CZR
 CZWI,"Citizens Community Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,CZWI
+DAAQU,Digital Asset Acquisition Corp. - Units,NASDAQ Global MarketSM,DAAQU
 DADA,Dada Nexus Limited - American Depositary Shares,NASDAQ Global Select MarketSM,DADA
 DAIO,Data I/O Corporation - Common Stock,NASDAQ Capital Market,DAIO
 DAKT,"Daktronics, Inc. - Common Stock",NASDAQ Global Select MarketSM,DAKT
@@ -5185,8 +5195,8 @@ GFS,GlobalFoundries Inc. - Ordinary Share,NASDAQ Global Select MarketSM,GFS
 GGAL,"Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying",NASDAQ Capital Market,GGAL
 GGLL,Direxion Daily GOOGL Bull 2X Shares,NASDAQ Global MarketSM,GGLL
 GGLS,Direxion Daily GOOGL Bear 1X Shares,NASDAQ Global MarketSM,GGLS
-GGR,Gogoro Inc. - Ordinary Shares,NASDAQ Global Select MarketSM,GGR
-GGROW,Gogoro Inc. - Warrant,NASDAQ Global Select MarketSM,GGROW
+GGR,Gogoro Inc. - Ordinary Shares,NASDAQ Capital Market,GGR
+GGROW,Gogoro Inc. - Warrant,NASDAQ Capital Market,GGROW
 GH,"Guardant Health, Inc. - Common Stock",NASDAQ Global Select MarketSM,GH
 GHRS,GH Research PLC - Ordinary Shares,NASDAQ Global MarketSM,GHRS
 GIFI,"Gulf Island Fabrication, Inc. - Common Stock",NASDAQ Global Select MarketSM,GIFI
@@ -5256,8 +5266,8 @@ GPAT,GP-Act III Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketS
 GPATU,GP-Act III Acquisition Corp. - Units,NASDAQ Global MarketSM,GPATU
 GPATW,GP-Act III Acquisition Corp. - Warrants,NASDAQ Global MarketSM,GPATW
 GPCR,Structure Therapeutics Inc. - American Depositary Shares,NASDAQ Global MarketSM,GPCR
-GPIQ,Goldman Sachs Nasdaq-100 Core Premium Income ETF,NASDAQ Global MarketSM,GPIQ
-GPIX,Goldman Sachs S&P 500 Core Premium Income ETF,NASDAQ Global MarketSM,GPIX
+GPIQ,Goldman Sachs Nasdaq-100 Premium Income ETF,NASDAQ Global MarketSM,GPIQ
+GPIX,Goldman Sachs S&P 500 Premium Income ETF,NASDAQ Global MarketSM,GPIX
 GPRE,"Green Plains, Inc. - Common Stock",NASDAQ Global Select MarketSM,GPRE
 GPRF,Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF,NASDAQ Global MarketSM,GPRF
 GPRO,"GoPro, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,GPRO
@@ -6971,6 +6981,7 @@ QXQ,SGI Enhanced Nasdaq-100 ETF,NASDAQ Global MarketSM,QXQ
 QYLD,Global X NASDAQ 100 Covered Call ETF,NASDAQ Global MarketSM,QYLD
 QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,NASDAQ Global MarketSM,QYLG
 RAA,SMI 3Fourteen REAL Asset Allocation ETF,NASDAQ Global MarketSM,RAA
+RAAQU,Real Asset Acquisition Corp. - Unit,NASDAQ Global MarketSM,RAAQU
 RADX,Radiopharm Theranostics Limited - American Depositary Shares,NASDAQ Capital Market,RADX
 RAIL,"Freightcar America, Inc. - Common Stock",NASDAQ Global Select MarketSM,RAIL
 RAIN,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",NASDAQ Global MarketSM,RAIN
@@ -8569,7 +8580,6 @@ BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A S
 BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,NYSE,BEPH
 BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,NYSE,BEPI
 BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,NYSE,BEPJ
-BERY,"Berry Global Group, Inc. Common Stock",NYSE,BERY
 BF.A,Brown Forman Inc Class A Common Stock,NYSE,BF.A
 BF.B,Brown Forman Inc Class B Common Stock,NYSE,BF.B
 BFAM,Bright Horizons Family Solutions Inc. Common Stock,NYSE,BFAM
@@ -8703,7 +8713,6 @@ BTG,B2Gold Corp Common shares (Canada),NYSE MKT,BTG
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR",NYSE,BTI
 BTO,John Hancock Financial Opportunities Fund Common Stock,NYSE,BTO
 BTT,BlackRock Municipal 2030 Target Term Trust,NYSE,BTT
-BTTR,Better Choice Company Inc. Common Stock,NYSE MKT,BTTR
 BTU,Peabody Energy Corporation Common Stock ,NYSE,BTU
 BTX,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,NYSE,BTX
 BTZ,BlackRock Credit Allocation Income Trust,NYSE,BTZ
@@ -10090,6 +10099,7 @@ MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,NYSE,MPA
 MPC,Marathon Petroleum Corporation Common Stock,NYSE,MPC
 MPLX,MPLX LP Common Units Representing Limited Partner Interests,NYSE,MPLX
 MPTI,"M-tron Industries, Inc. Common Stock",NYSE MKT,MPTI
+MPTI.W,"M-tron Industries, Inc. Warrants to Purchase Shares of Common Stock, Expiring on or before April 25, 2028",NYSE MKT,MPTI.W
 MPU,Mega Matrix Inc. Class A Ordinary Shares,NYSE MKT,MPU
 MPV,Barings Participation Investors Common Stock,NYSE,MPV
 MPW,"Medical Properties Trust, Inc. common stock",NYSE,MPW
@@ -10910,6 +10920,7 @@ SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred 
 SRI,"Stoneridge, Inc. Common Stock",NYSE,SRI
 SRL,Scully Royalty Ltd.,NYSE,SRL
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NYSE,SRV
+SRXH,"SRX Health Solutions, Inc. Common Stock",NYSE MKT,SRXH
 SSB,SouthState Corporation Common Stock,NYSE,SSB
 SSD,"Simpson Manufacturing Company, Inc. Common Stock",NYSE,SSD
 SSL,Sasol Ltd. American Depositary Shares,NYSE,SSL
