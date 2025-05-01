@@ -1,5 +1,5 @@
 {
- "date": "2025-04-30",
+ "date": "2025-05-01",
  "data": [
   {
    "symbol": "ONE",
@@ -4002,6 +4002,18 @@
     {
      "name": "Copper Fox Metals Inc.",
      "symbol": "CUU"
+    }
+   ]
+  },
+  {
+   "symbol": "CGNT",
+   "name": "Copper Giant Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CGNT.V",
+   "instruments": [
+    {
+     "name": "Copper Giant Resources Corp.",
+     "symbol": "CGNT"
     }
    ]
   },
@@ -9450,18 +9462,6 @@
    ]
   },
   {
-   "symbol": "LBC",
-   "name": "Libero Copper \u0026 Gold Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LBC.V",
-   "instruments": [
-    {
-     "name": "Libero Copper \u0026 Gold Corporation",
-     "symbol": "LBC"
-    }
-   ]
-  },
-  {
    "symbol": "SCAN",
    "name": "Liberty Defense Holdings, Ltd.",
    "exchange": "TSXV",
@@ -13450,18 +13450,6 @@
     {
      "name": "Quartz Mountain Resources Ltd.",
      "symbol": "QZM"
-    }
-   ]
-  },
-  {
-   "symbol": "QPM",
-   "name": "Quebec Precious Metals Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "QPM.V",
-   "instruments": [
-    {
-     "name": "Quebec Precious Metals Corporation",
-     "symbol": "QPM"
     }
    ]
   },
@@ -29119,7 +29107,7 @@
   },
   {
    "symbol": "FBGO",
-   "name": "Franklin Brandywine Global Sustainable Income Optimiser Fund",
+   "name": "Franklin Brandywine Global Income Optimiser Fund",
    "exchange": "TSX",
    "yahoo_symbol": "FBGO.TO",
    "instruments": [
@@ -29191,7 +29179,7 @@
   },
   {
    "symbol": "FCII",
-   "name": "Franklin ClearBridge Sustainable Global Infrastructure Income Fund",
+   "name": "Franklin ClearBridge Global Infrastructure Income Fund",
    "exchange": "TSX",
    "yahoo_symbol": "FCII.TO",
    "instruments": [
@@ -29203,7 +29191,7 @@
   },
   {
    "symbol": "FCSI",
-   "name": "Franklin ClearBridge Sustainable International Growth Fund",
+   "name": "Franklin ClearBridge International Growth Fund",
    "exchange": "TSX",
    "yahoo_symbol": "FCSI.TO",
    "instruments": [
@@ -35838,6 +35826,18 @@
    ]
   },
   {
+   "symbol": "MAAA",
+   "name": "Mackenzie AAA CLO ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAAA.TO",
+   "instruments": [
+    {
+     "name": "Macknzie AAA CLO ETF",
+     "symbol": "MAAA"
+    }
+   ]
+  },
+  {
    "symbol": "MEQT",
    "name": "Mackenzie All-Equity Allocation ETF",
    "exchange": "TSX",
@@ -36222,6 +36222,30 @@
     {
      "name": "MacKenzie Master Un",
      "symbol": "MKZ.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "MTBA",
+   "name": "Mackenzie Target 2027 North American IG Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MTBA.TO",
+   "instruments": [
+    {
+     "name": "Macknzie Tg2027 NAIG",
+     "symbol": "MTBA"
+    }
+   ]
+  },
+  {
+   "symbol": "MTBB",
+   "name": "Mackenzie Target 2029 North American IG Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MTBB.TO",
+   "instruments": [
+    {
+     "name": "Macknzie Tg2029 NAIG",
+     "symbol": "MTBB"
     }
    ]
   },
@@ -38742,10 +38766,6 @@
     {
      "name": "Premium Brands Hldgs",
      "symbol": "PBH"
-    },
-    {
-     "name": "Premium Brand 4.65Db",
-     "symbol": "PBH.DB.G"
     },
     {
      "name": "Premium Brand 4.2 Db",
@@ -54430,6 +54450,12 @@
    "yahoo_symbol": "GBDC"
   },
   {
+   "symbol": "GBFH",
+   "name": "GBank Financial Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBFH"
+  },
+  {
    "symbol": "GBIO",
    "name": "Generation Bio Co. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58712,6 +58738,12 @@
    "name": "Liberty Global Ltd. - Class C Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LBTYK"
+  },
+  {
+   "symbol": "LCCCU",
+   "name": "Lakeshore Acquisition III Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCCU"
   },
   {
    "symbol": "LCDL",
@@ -63466,12 +63498,6 @@
    "yahoo_symbol": "PAVM"
   },
   {
-   "symbol": "PAVMZ",
-   "name": "PAVmed Inc. - Series Z Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PAVMZ"
-  },
-  {
    "symbol": "PAVS",
    "name": "Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -67746,7 +67772,7 @@
   {
    "symbol": "SMXT",
    "name": "Solarmax Technology Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SMXT"
   },
   {
@@ -68870,6 +68896,12 @@
    "name": "Titan Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TACHU"
+  },
+  {
+   "symbol": "TACOU",
+   "name": "Berto Acquisition Corp. - unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACOU"
   },
   {
    "symbol": "TACT",
@@ -71932,12 +71964,6 @@
    "yahoo_symbol": "WMG"
   },
   {
-   "symbol": "WMPN",
-   "name": "William Penn Bancorporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WMPN"
-  },
-  {
    "symbol": "WNDY",
    "name": "Global X Wind Energy ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -72452,6 +72478,12 @@
    "name": "Youxin Technology Ltd - Class A Ordinary shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "YAAS"
+  },
+  {
+   "symbol": "YB",
+   "name": "Yuanbao Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YB"
   },
   {
    "symbol": "YGMZ",
@@ -76744,6 +76776,12 @@
    "yahoo_symbol": "CMCM"
   },
   {
+   "symbol": "CMDB.V",
+   "name": "Costamare Bulkers Holdings Limited Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMDB.V"
+  },
+  {
    "symbol": "CMG",
    "name": "Chipotle Mexican Grill, Inc. Common Stock",
    "exchange": "NYSE",
@@ -76784,6 +76822,12 @@
    "name": "Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CMRE$D"
+  },
+  {
+   "symbol": "CMRE.V",
+   "name": "Costamare Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMRE.V"
   },
   {
    "symbol": "CMS",
@@ -77048,6 +77092,12 @@
    "name": "ConocoPhillips Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "COP"
+  },
+  {
+   "symbol": "COPL.U",
+   "name": "Copley Acquisition Corp Units, each consisting of one ordinary share and one-half warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COPL.U"
   },
   {
    "symbol": "COR",
@@ -83320,6 +83370,12 @@
    "yahoo_symbol": "LUV"
   },
   {
+   "symbol": "LUXE",
+   "name": "LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LUXE"
+  },
+  {
    "symbol": "LVS",
    "name": "Las Vegas Sands Corp. Common Stock",
    "exchange": "NYSE",
@@ -84548,12 +84604,6 @@
    "name": "Myomo Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "MYO"
-  },
-  {
-   "symbol": "MYTE",
-   "name": "MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MYTE"
   },
   {
    "symbol": "NABL",
