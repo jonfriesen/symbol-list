@@ -1,48 +1,84 @@
 {
  "added": [
   {
-   "symbol": "HTO",
-   "name": "H2O America  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HTO"
+   "symbol": "CMDB",
+   "name": "Costamare Bulkers Holdings Limited Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMDB"
   },
   {
-   "symbol": "LDRX",
-   "name": "SGI Enhanced Market Leaders ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LDRX"
-  },
-  {
-   "symbol": "TGEN",
-   "name": "Tecogen Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "TGEN"
+   "symbol": "LION",
+   "name": "Lionsgate Studios Corp Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LION"
   }
  ],
  "removed": [
   {
-   "symbol": "YCBD$A",
-   "name": "cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "YCBD$A"
+   "symbol": "LION",
+   "name": "Lionsgate Studios Corp. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LION"
   },
   {
-   "symbol": "HPQ",
-   "name": "HPQ Silicon Inc.",
+   "symbol": "CMDB.V",
+   "name": "Costamare Bulkers Holdings Limited Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMDB.V"
+  },
+  {
+   "symbol": "LGF.B",
+   "name": "Lions Gate Entertainment Corporation Class B Non-Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LGF.B"
+  },
+  {
+   "symbol": "CMRE.V",
+   "name": "Costamare Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMRE.V"
+  },
+  {
+   "symbol": "GNFI",
+   "name": "Genifi Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "HPQ.V",
+   "yahoo_symbol": "GNFI.V",
    "instruments": [
     {
-     "name": "HPQ Silicon Inc.",
-     "symbol": "HPQ"
+     "name": "Genifi Inc.",
+     "symbol": "GNFI"
     }
    ]
   },
   {
-   "symbol": "SJW",
-   "name": "SJW Group - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SJW"
+   "symbol": "LGF.A",
+   "name": "Lions Gate Entertainment Corporation Class A Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LGF.A"
+  },
+  {
+   "symbol": "BMK",
+   "name": "MacDonald Mines Exploration Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BMK.V",
+   "instruments": [
+    {
+     "name": "MacDonald Mines Exploration Ltd.",
+     "symbol": "BMK"
+    }
+   ]
+  },
+  {
+   "symbol": "EXN",
+   "name": "Excellon Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EXN.TO",
+   "instruments": [
+    {
+     "name": "Excellon Resources J",
+     "symbol": "EXN"
+    }
+   ]
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2025-05-06",
+ "date": "2025-05-07",
  "data": [
   {
    "symbol": "ONE",
@@ -6466,18 +6466,6 @@
    ]
   },
   {
-   "symbol": "GNFI",
-   "name": "Genifi Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GNFI.V",
-   "instruments": [
-    {
-     "name": "Genifi Inc.",
-     "symbol": "GNFI"
-    }
-   ]
-  },
-  {
    "symbol": "GENX",
    "name": "Genix Pharmaceuticals Corporation",
    "exchange": "TSXV",
@@ -9886,18 +9874,6 @@
     {
      "name": "Macarthur Minerals Limited",
      "symbol": "MMS"
-    }
-   ]
-  },
-  {
-   "symbol": "BMK",
-   "name": "MacDonald Mines Exploration Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BMK.V",
-   "instruments": [
-    {
-     "name": "MacDonald Mines Exploration Ltd.",
-     "symbol": "BMK"
     }
    ]
   },
@@ -27962,18 +27938,6 @@
     {
      "name": "Evovest Gbl Eqty ETF",
      "symbol": "EVO"
-    }
-   ]
-  },
-  {
-   "symbol": "EXN",
-   "name": "Excellon Resources Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "EXN.TO",
-   "instruments": [
-    {
-     "name": "Excellon Resources J",
-     "symbol": "EXN"
     }
    ]
   },
@@ -59098,12 +59062,6 @@
    "yahoo_symbol": "LINK"
   },
   {
-   "symbol": "LION",
-   "name": "Lionsgate Studios Corp. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LION"
-  },
-  {
    "symbol": "LIPO",
    "name": "Lipella Pharmaceuticals Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -76792,10 +76750,10 @@
    "yahoo_symbol": "CMCM"
   },
   {
-   "symbol": "CMDB.V",
-   "name": "Costamare Bulkers Holdings Limited Common Stock When-Issued",
+   "symbol": "CMDB",
+   "name": "Costamare Bulkers Holdings Limited Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CMDB.V"
+   "yahoo_symbol": "CMDB"
   },
   {
    "symbol": "CMG",
@@ -76838,12 +76796,6 @@
    "name": "Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CMRE$D"
-  },
-  {
-   "symbol": "CMRE.V",
-   "name": "Costamare Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CMRE.V"
   },
   {
    "symbol": "CMS",
@@ -83146,18 +83098,6 @@
    "yahoo_symbol": "LGCY"
   },
   {
-   "symbol": "LGF.A",
-   "name": "Lions Gate Entertainment Corporation Class A Voting Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LGF.A"
-  },
-  {
-   "symbol": "LGF.B",
-   "name": "Lions Gate Entertainment Corporation Class B Non-Voting Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LGF.B"
-  },
-  {
    "symbol": "LGI",
    "name": "Lazard Global Total Return and Income Fund Common Stock",
    "exchange": "NYSE",
@@ -83198,6 +83138,12 @@
    "name": "Lennox International, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LII"
+  },
+  {
+   "symbol": "LION",
+   "name": "Lionsgate Studios Corp Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LION"
   },
   {
    "symbol": "LITB",
