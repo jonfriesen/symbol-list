@@ -1,5 +1,5 @@
 {
- "date": "2025-05-09",
+ "date": "2025-05-12",
  "data": [
   {
    "symbol": "ONE",
@@ -658,6 +658,22 @@
     {
      "name": "Altiplano Metals Inc.",
      "symbol": "APN"
+    }
+   ]
+  },
+  {
+   "symbol": "ALTU",
+   "name": "Altura Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALTU.V",
+   "instruments": [
+    {
+     "name": "Altura Energy Corp.",
+     "symbol": "ALTU"
+    },
+    {
+     "name": "Altura Energy Corp. wt 08Nov2026",
+     "symbol": "ALTU.WT"
     }
    ]
   },
@@ -3302,18 +3318,6 @@
     {
      "name": "Celestial Acquisition Corp.",
      "symbol": "CES.P"
-    }
-   ]
-  },
-  {
-   "symbol": "CTA",
-   "name": "Centaurus Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CTA.V",
-   "instruments": [
-    {
-     "name": "Centaurus Energy Inc.",
-     "symbol": "CTA"
     }
    ]
   },
@@ -7022,18 +7026,6 @@
    ]
   },
   {
-   "symbol": "GRAT",
-   "name": "Gratomic Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GRAT.V",
-   "instruments": [
-    {
-     "name": "Gratomic Inc.",
-     "symbol": "GRAT"
-    }
-   ]
-  },
-  {
    "symbol": "GR",
    "name": "Great Atlantic Resources Corp.",
    "exchange": "TSXV",
@@ -8834,14 +8826,14 @@
    ]
   },
   {
-   "symbol": "KIDZ",
+   "symbol": "KDOZ",
    "name": "Kidoz Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "KIDZ.V",
+   "yahoo_symbol": "KDOZ.V",
    "instruments": [
     {
      "name": "Kidoz Inc.",
-     "symbol": "KIDZ"
+     "symbol": "KDOZ"
     }
    ]
   },
@@ -9530,22 +9522,6 @@
     {
      "name": "Little Fish Acquisition I Corp.",
      "symbol": "LILL.P"
-    }
-   ]
-  },
-  {
-   "symbol": "LNGE",
-   "name": "LNG Energy Group Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LNGE.V",
-   "instruments": [
-    {
-     "name": "LNG Energy Group Corp.",
-     "symbol": "LNGE"
-    },
-    {
-     "name": "LNG Energy Group Corp wt 15Aug2026",
-     "symbol": "LNGE.WT"
     }
    ]
   },
@@ -10738,18 +10714,6 @@
    ]
   },
   {
-   "symbol": "MTK",
-   "name": "Montauk Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MTK.V",
-   "instruments": [
-    {
-     "name": "Montauk Metals Inc.",
-     "symbol": "MTK"
-    }
-   ]
-  },
-  {
    "symbol": "MON",
    "name": "Montero Mining and Exploration Ltd.",
    "exchange": "TSXV",
@@ -10758,22 +10722,6 @@
     {
      "name": "Montero Mining and Exploration Ltd.",
      "symbol": "MON"
-    }
-   ]
-  },
-  {
-   "symbol": "MONT",
-   "name": "Montfort Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MONT.V",
-   "instruments": [
-    {
-     "name": "Montfort Capital Corp.",
-     "symbol": "MONT"
-    },
-    {
-     "name": "Montfort Capital Corp. Preferred A",
-     "symbol": "MONT.PR.A"
     }
    ]
   },
@@ -11194,18 +11142,6 @@
     {
      "name": "Newport Exploration Ltd.",
      "symbol": "NWX"
-    }
-   ]
-  },
-  {
-   "symbol": "NEWU",
-   "name": "Newtopia Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NEWU.V",
-   "instruments": [
-    {
-     "name": "Newtopia Inc.",
-     "symbol": "NEWU"
     }
    ]
   },
@@ -12466,18 +12402,6 @@
    ]
   },
   {
-   "symbol": "PRH",
-   "name": "Pearl River Holdings Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PRH.V",
-   "instruments": [
-    {
-     "name": "Pearl River Holdings Limited",
-     "symbol": "PRH"
-    }
-   ]
-  },
-  {
    "symbol": "PEGA",
    "name": "Pegasus Resources Inc.",
    "exchange": "TSXV",
@@ -13138,18 +13062,6 @@
     {
      "name": "Pulsar Helium Inc.",
      "symbol": "PLSR"
-    }
-   ]
-  },
-  {
-   "symbol": "PUL",
-   "name": "Pulse Oil Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PUL.V",
-   "instruments": [
-    {
-     "name": "Pulse Oil Corp.",
-     "symbol": "PUL"
     }
    ]
   },
@@ -14538,18 +14450,6 @@
    ]
   },
   {
-   "symbol": "SAF",
-   "name": "Seasif Exploration Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SAF.V",
-   "instruments": [
-    {
-     "name": "Seasif Exploration Inc.",
-     "symbol": "SAF"
-    }
-   ]
-  },
-  {
    "symbol": "SGZ",
    "name": "Sego Resources Inc.",
    "exchange": "TSXV",
@@ -15050,18 +14950,6 @@
    ]
   },
   {
-   "symbol": "SPN",
-   "name": "Snipp Interactive Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SPN.V",
-   "instruments": [
-    {
-     "name": "Snipp Interactive Inc.",
-     "symbol": "SPN"
-    }
-   ]
-  },
-  {
    "symbol": "SGD",
    "name": "Snowline Gold Corp.",
    "exchange": "TSXV",
@@ -15082,18 +14970,6 @@
     {
      "name": "Sokoman Minerals Corp.",
      "symbol": "SIC"
-    }
-   ]
-  },
-  {
-   "symbol": "SOLR",
-   "name": "Solar Alliance Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SOLR.V",
-   "instruments": [
-    {
-     "name": "Solar Alliance Energy Inc.",
-     "symbol": "SOLR"
     }
    ]
   },
@@ -15486,18 +15362,6 @@
    ]
   },
   {
-   "symbol": "STUD",
-   "name": "Stallion Uranium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "STUD.V",
-   "instruments": [
-    {
-     "name": "Stallion Uranium Corp.",
-     "symbol": "STUD"
-    }
-   ]
-  },
-  {
    "symbol": "SDI",
    "name": "Stampede Drilling Inc.",
    "exchange": "TSXV",
@@ -15706,18 +15570,6 @@
     {
      "name": "Strategic Resources Inc.",
      "symbol": "SR"
-    }
-   ]
-  },
-  {
-   "symbol": "SUU",
-   "name": "Strathmore Plus Uranium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SUU.V",
-   "instruments": [
-    {
-     "name": "Strathmore Plus Uranium Corp.",
-     "symbol": "SUU"
     }
    ]
   },
@@ -16514,22 +16366,6 @@
     {
      "name": "Torrent Capital Ltd.",
      "symbol": "TORR"
-    }
-   ]
-  },
-  {
-   "symbol": "TOH",
-   "name": "Total Helium Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TOH.V",
-   "instruments": [
-    {
-     "name": "Total Helium Ltd.",
-     "symbol": "TOH"
-    },
-    {
-     "name": "Total Helium Ltd. wt 08nov2026",
-     "symbol": "TOH.WT"
     }
    ]
   },
@@ -19592,7 +19428,7 @@
    "yahoo_symbol": "ABX.TO",
    "instruments": [
     {
-     "name": "Barrick Gold Corp",
+     "name": "Barrick Mining Corpo",
      "symbol": "ABX"
     }
    ]
@@ -51766,6 +51602,12 @@
    "yahoo_symbol": "EGGQ"
   },
   {
+   "symbol": "EGHAU",
+   "name": "EGH Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGHAU"
+  },
+  {
    "symbol": "EGHT",
    "name": "8x8 Inc - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53333,7 +53175,7 @@
   },
   {
    "symbol": "FIXD",
-   "name": "First Trust TCW Opportunistic Fixed Income ETF",
+   "name": "First Trust Smith Opportunistic Fixed Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FIXD"
   },
@@ -54572,6 +54414,18 @@
    "name": "GH Research PLC - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GHRS"
+  },
+  {
+   "symbol": "GIBO",
+   "name": "GIBO Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIBO"
+  },
+  {
+   "symbol": "GIBOW",
+   "name": "GIBO Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GIBOW"
   },
   {
    "symbol": "GIFI",
@@ -67666,12 +67520,6 @@
    "yahoo_symbol": "SNCR"
   },
   {
-   "symbol": "SNCRL",
-   "name": "Synchronoss Technologies, Inc. - 8.375% Senior Notes due 2026",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SNCRL"
-  },
-  {
    "symbol": "SNCY",
    "name": "Sun Country Airlines Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68363,7 +68211,7 @@
   },
   {
    "symbol": "STNC",
-   "name": "Hennessy Stance ESG ETF",
+   "name": "Hennessy Sustainable ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "STNC"
   },
@@ -90836,12 +90684,6 @@
    "name": "Veris Residential, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VRE"
-  },
-  {
-   "symbol": "VRN",
-   "name": "Veren Inc. Common shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VRN"
   },
   {
    "symbol": "VRT",
