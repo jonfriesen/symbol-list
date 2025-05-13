@@ -1,254 +1,148 @@
 {
  "added": [
   {
-   "symbol": "ALTU",
-   "name": "Altura Energy Corp.",
+   "symbol": "SIEN",
+   "name": "Sienna Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ALTU.V",
+   "yahoo_symbol": "SIEN.V",
    "instruments": [
     {
-     "name": "Altura Energy Corp.",
-     "symbol": "ALTU"
-    },
-    {
-     "name": "Altura Energy Corp. wt 08Nov2026",
-     "symbol": "ALTU.WT"
+     "name": "Sienna Resources Inc.",
+     "symbol": "SIEN"
     }
    ]
   },
   {
-   "symbol": "KDOZ",
-   "name": "Kidoz Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KDOZ.V",
+   "symbol": "CVVY",
+   "name": "Cavvy Energy Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CVVY.TO",
    "instruments": [
     {
-     "name": "Kidoz Inc.",
-     "symbol": "KDOZ"
+     "name": "Pieridae Energy",
+     "symbol": "CVVY"
     }
    ]
   },
   {
-   "symbol": "EGHAU",
-   "name": "EGH Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EGHAU"
+   "symbol": "HSLV",
+   "name": "Highlander Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSLV.TO",
+   "instruments": [
+    {
+     "name": "Highlander Silver Co",
+     "symbol": "HSLV"
+    }
+   ]
   },
   {
-   "symbol": "GIBO",
-   "name": "GIBO Holdings Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GIBO"
-  },
-  {
-   "symbol": "GIBOW",
-   "name": "GIBO Holdings Limited - Warrants",
+   "symbol": "DEFT",
+   "name": "Defi Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GIBOW"
+   "yahoo_symbol": "DEFT"
+  },
+  {
+   "symbol": "GSHR",
+   "name": "Gesher Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSHR"
+  },
+  {
+   "symbol": "GSHRW",
+   "name": "Gesher Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSHRW"
+  },
+  {
+   "symbol": "GTM",
+   "name": "ZoomInfo Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GTM"
+  },
+  {
+   "symbol": "ISBA",
+   "name": "Isabella Bank Corporation - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ISBA"
+  },
+  {
+   "symbol": "QSEA",
+   "name": "Quartzsea Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSEA"
+  },
+  {
+   "symbol": "QSEAR",
+   "name": "Quartzsea Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSEAR"
   }
  ],
  "removed": [
   {
-   "symbol": "PUL",
-   "name": "Pulse Oil Corp.",
+   "symbol": "HEPA",
+   "name": "Hepion Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HEPA"
+  },
+  {
+   "symbol": "ZI",
+   "name": "ZoomInfo Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ZI"
+  },
+  {
+   "symbol": "VLV",
+   "name": "Venerable Ventures Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PUL.V",
+   "yahoo_symbol": "VLV.V",
    "instruments": [
     {
-     "name": "Pulse Oil Corp.",
-     "symbol": "PUL"
+     "name": "Venerable Ventures Ltd.",
+     "symbol": "VLV"
     }
    ]
   },
   {
-   "symbol": "GRAT",
-   "name": "Gratomic Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GRAT.V",
-   "instruments": [
-    {
-     "name": "Gratomic Inc.",
-     "symbol": "GRAT"
-    }
-   ]
-  },
-  {
-   "symbol": "VRN",
-   "name": "Veren Inc. Common shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VRN"
-  },
-  {
-   "symbol": "MONT",
-   "name": "Montfort Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MONT.V",
-   "instruments": [
-    {
-     "name": "Montfort Capital Corp.",
-     "symbol": "MONT"
-    },
-    {
-     "name": "Montfort Capital Corp. Preferred A",
-     "symbol": "MONT.PR.A"
-    }
-   ]
-  },
-  {
-   "symbol": "SUU",
-   "name": "Strathmore Plus Uranium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SUU.V",
-   "instruments": [
-    {
-     "name": "Strathmore Plus Uranium Corp.",
-     "symbol": "SUU"
-    }
-   ]
-  },
-  {
-   "symbol": "NEWU",
-   "name": "Newtopia Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NEWU.V",
-   "instruments": [
-    {
-     "name": "Newtopia Inc.",
-     "symbol": "NEWU"
-    }
-   ]
-  },
-  {
-   "symbol": "SAF",
-   "name": "Seasif Exploration Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SAF.V",
-   "instruments": [
-    {
-     "name": "Seasif Exploration Inc.",
-     "symbol": "SAF"
-    }
-   ]
-  },
-  {
-   "symbol": "LNGE",
-   "name": "LNG Energy Group Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LNGE.V",
-   "instruments": [
-    {
-     "name": "LNG Energy Group Corp.",
-     "symbol": "LNGE"
-    },
-    {
-     "name": "LNG Energy Group Corp wt 15Aug2026",
-     "symbol": "LNGE.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "SNCRL",
-   "name": "Synchronoss Technologies, Inc. - 8.375% Senior Notes due 2026",
+   "symbol": "RENE",
+   "name": "Cartesian Growth Corporation II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SNCRL"
+   "yahoo_symbol": "RENE"
   },
   {
-   "symbol": "TOH",
-   "name": "Total Helium Ltd.",
+   "symbol": "RENEU",
+   "name": "Cartesian Growth Corporation II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RENEU"
+  },
+  {
+   "symbol": "RENEW",
+   "name": "Cartesian Growth Corporation II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RENEW"
+  },
+  {
+   "symbol": "SIE",
+   "name": "Sienna Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TOH.V",
+   "yahoo_symbol": "SIE.V",
    "instruments": [
     {
-     "name": "Total Helium Ltd.",
-     "symbol": "TOH"
-    },
-    {
-     "name": "Total Helium Ltd. wt 08nov2026",
-     "symbol": "TOH.WT"
+     "name": "Sienna Resources Inc.",
+     "symbol": "SIE"
     }
    ]
   },
   {
-   "symbol": "CTA",
-   "name": "Centaurus Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CTA.V",
+   "symbol": "PEA",
+   "name": "Pieridae Energy Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "PEA.TO",
    "instruments": [
     {
-     "name": "Centaurus Energy Inc.",
-     "symbol": "CTA"
-    }
-   ]
-  },
-  {
-   "symbol": "PRH",
-   "name": "Pearl River Holdings Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PRH.V",
-   "instruments": [
-    {
-     "name": "Pearl River Holdings Limited",
-     "symbol": "PRH"
-    }
-   ]
-  },
-  {
-   "symbol": "MTK",
-   "name": "Montauk Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MTK.V",
-   "instruments": [
-    {
-     "name": "Montauk Metals Inc.",
-     "symbol": "MTK"
-    }
-   ]
-  },
-  {
-   "symbol": "STUD",
-   "name": "Stallion Uranium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "STUD.V",
-   "instruments": [
-    {
-     "name": "Stallion Uranium Corp.",
-     "symbol": "STUD"
-    }
-   ]
-  },
-  {
-   "symbol": "SPN",
-   "name": "Snipp Interactive Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SPN.V",
-   "instruments": [
-    {
-     "name": "Snipp Interactive Inc.",
-     "symbol": "SPN"
-    }
-   ]
-  },
-  {
-   "symbol": "KIDZ",
-   "name": "Kidoz Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KIDZ.V",
-   "instruments": [
-    {
-     "name": "Kidoz Inc.",
-     "symbol": "KIDZ"
-    }
-   ]
-  },
-  {
-   "symbol": "SOLR",
-   "name": "Solar Alliance Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SOLR.V",
-   "instruments": [
-    {
-     "name": "Solar Alliance Energy Inc.",
-     "symbol": "SOLR"
+     "name": "Pieridae Energy",
+     "symbol": "PEA"
     }
    ]
   }

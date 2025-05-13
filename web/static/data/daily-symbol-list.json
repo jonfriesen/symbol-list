@@ -1,5 +1,5 @@
 {
- "date": "2025-05-12",
+ "date": "2025-05-13",
  "data": [
   {
    "symbol": "ONE",
@@ -14558,14 +14558,14 @@
    ]
   },
   {
-   "symbol": "SIE",
+   "symbol": "SIEN",
    "name": "Sienna Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SIE.V",
+   "yahoo_symbol": "SIEN.V",
    "instruments": [
     {
      "name": "Sienna Resources Inc.",
-     "symbol": "SIE"
+     "symbol": "SIEN"
     }
    ]
   },
@@ -16994,18 +16994,6 @@
     {
      "name": "Vendetta Mining Corp",
      "symbol": "VTT"
-    }
-   ]
-  },
-  {
-   "symbol": "VLV",
-   "name": "Venerable Ventures Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VLV.V",
-   "instruments": [
-    {
-     "name": "Venerable Ventures Ltd.",
-     "symbol": "VLV"
     }
    ]
   },
@@ -23530,6 +23518,18 @@
    ]
   },
   {
+   "symbol": "CVVY",
+   "name": "Cavvy Energy Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CVVY.TO",
+   "instruments": [
+    {
+     "name": "Pieridae Energy",
+     "symbol": "CVVY"
+    }
+   ]
+  },
+  {
    "symbol": "CCL.A",
    "name": "CCL Industries Inc.",
    "exchange": "TSX",
@@ -28236,10 +28236,6 @@
      "symbol": "FC"
     },
     {
-     "name": "Firm Cap Mtg 5.4% Db",
-     "symbol": "FC.DB.I"
-    },
-    {
      "name": "Firm Cap Mtg 5.5% Db",
      "symbol": "FC.DB.J"
     },
@@ -32090,6 +32086,18 @@
     {
      "name": "High Liner Foods Inc",
      "symbol": "HLF"
+    }
+   ]
+  },
+  {
+   "symbol": "HSLV",
+   "name": "Highlander Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSLV.TO",
+   "instruments": [
+    {
+     "name": "Highlander Silver Co",
+     "symbol": "HSLV"
     }
    ]
   },
@@ -37634,6 +37642,18 @@
    ]
   },
   {
+   "symbol": "OR",
+   "name": "OR Royalties Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "OR.TO",
+   "instruments": [
+    {
+     "name": "Osisko Gld Royalty",
+     "symbol": "OR"
+    }
+   ]
+  },
+  {
    "symbol": "OGD",
    "name": "Orbit Garant Drilling Inc.",
    "exchange": "TSX",
@@ -37690,18 +37710,6 @@
     {
      "name": "Orvana Minerals J",
      "symbol": "ORV"
-    }
-   ]
-  },
-  {
-   "symbol": "OR",
-   "name": "Osisko Gold Royalties Ltd",
-   "exchange": "TSX",
-   "yahoo_symbol": "OR.TO",
-   "instruments": [
-    {
-     "name": "Osisko Gld Royalty",
-     "symbol": "OR"
     }
    ]
   },
@@ -38074,18 +38082,6 @@
     {
      "name": "PictonMhnyFortSpeSit",
      "symbol": "PFSS"
-    }
-   ]
-  },
-  {
-   "symbol": "PEA",
-   "name": "Pieridae Energy Limited",
-   "exchange": "TSX",
-   "yahoo_symbol": "PEA.TO",
-   "instruments": [
-    {
-     "name": "Pieridae Energy",
-     "symbol": "PEA"
     }
    ]
   },
@@ -41194,6 +41190,10 @@
     {
      "name": "Talisker Res Ltd J",
      "symbol": "TSK"
+    },
+    {
+     "name": "Talisker Res Ltd Wts",
+     "symbol": "TSK.WT"
     }
    ]
   },
@@ -50594,6 +50594,12 @@
    "yahoo_symbol": "DECO"
   },
   {
+   "symbol": "DEFT",
+   "name": "Defi Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DEFT"
+  },
+  {
    "symbol": "DEMZ",
    "name": "Democratic Large Cap Core ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -54986,10 +54992,22 @@
    "yahoo_symbol": "GSHD"
   },
   {
+   "symbol": "GSHR",
+   "name": "Gesher Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSHR"
+  },
+  {
    "symbol": "GSHRU",
    "name": "Gesher Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GSHRU"
+  },
+  {
+   "symbol": "GSHRW",
+   "name": "Gesher Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSHRW"
   },
   {
    "symbol": "GSIB",
@@ -55080,6 +55098,12 @@
    "name": "GitLab Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GTLB"
+  },
+  {
+   "symbol": "GTM",
+   "name": "ZoomInfo Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GTM"
   },
   {
    "symbol": "GTR",
@@ -55320,12 +55344,6 @@
    "name": "Helen of Troy Limited - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HELE"
-  },
-  {
-   "symbol": "HEPA",
-   "name": "Hepion Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HEPA"
   },
   {
    "symbol": "HEPS",
@@ -57240,6 +57258,12 @@
    "name": "Ironwood Pharmaceuticals, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IRWD"
+  },
+  {
+   "symbol": "ISBA",
+   "name": "Isabella Bank Corporation - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ISBA"
   },
   {
    "symbol": "ISHG",
@@ -65000,6 +65024,18 @@
    "yahoo_symbol": "QRVO"
   },
   {
+   "symbol": "QSEA",
+   "name": "Quartzsea Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSEA"
+  },
+  {
+   "symbol": "QSEAR",
+   "name": "Quartzsea Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSEAR"
+  },
+  {
    "symbol": "QSEAU",
    "name": "Quartzsea Acquisition Corporation - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -65556,24 +65592,6 @@
    "name": "Renovaro Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RENB"
-  },
-  {
-   "symbol": "RENE",
-   "name": "Cartesian Growth Corporation II - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RENE"
-  },
-  {
-   "symbol": "RENEU",
-   "name": "Cartesian Growth Corporation II - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RENEU"
-  },
-  {
-   "symbol": "RENEW",
-   "name": "Cartesian Growth Corporation II - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RENEW"
   },
   {
    "symbol": "RENT",
@@ -72432,12 +72450,6 @@
    "name": "Zillow Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ZG"
-  },
-  {
-   "symbol": "ZI",
-   "name": "ZoomInfo Technologies Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ZI"
   },
   {
    "symbol": "ZIMV",
@@ -85575,7 +85587,7 @@
   },
   {
    "symbol": "OR",
-   "name": "Osisko Gold Royalties Ltd Common Shares",
+   "name": "OR Royalties Inc. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "OR"
   },
