@@ -1,148 +1,142 @@
 {
  "added": [
   {
-   "symbol": "SIEN",
-   "name": "Sienna Resources Inc.",
+   "symbol": "CALB",
+   "name": "CIBC Canadian Government Long-Term Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CALB.TO",
+   "instruments": [
+    {
+     "name": "CIBC Cdn Gvt LT Bond",
+     "symbol": "CALB"
+    }
+   ]
+  },
+  {
+   "symbol": "CCAD",
+   "name": "CIBC Premium Cash Management ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCAD.TO",
+   "instruments": [
+    {
+     "name": "CIBC Pre Cash Mg ETF",
+     "symbol": "CCAD"
+    }
+   ]
+  },
+  {
+   "symbol": "CUSD.U",
+   "name": "CIBC USD Premium Cash Management ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUSD.U.TO",
+   "instruments": [
+    {
+     "name": "CIBC US Pre Cash Mgt",
+     "symbol": "CUSD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ALTN",
+   "name": "Aeonian Resources Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SIEN.V",
+   "yahoo_symbol": "ALTN.V",
    "instruments": [
     {
-     "name": "Sienna Resources Inc.",
-     "symbol": "SIEN"
+     "name": "Aeonian Resources Corp.",
+     "symbol": "ALTN"
     }
    ]
   },
   {
-   "symbol": "CVVY",
-   "name": "Cavvy Energy Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CVVY.TO",
+   "symbol": "CSG",
+   "name": "Cosigo Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSG.V",
    "instruments": [
     {
-     "name": "Pieridae Energy",
-     "symbol": "CVVY"
+     "name": "Cosigo Resources Ltd.",
+     "symbol": "CSG"
     }
    ]
   },
   {
-   "symbol": "HSLV",
-   "name": "Highlander Silver Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "HSLV.TO",
-   "instruments": [
-    {
-     "name": "Highlander Silver Co",
-     "symbol": "HSLV"
-    }
-   ]
+   "symbol": "JAPN",
+   "name": "Horizon Kinetics Japan Owner Operator ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JAPN"
   },
   {
-   "symbol": "DEFT",
-   "name": "Defi Technologies, Inc. - Common Stock",
+   "symbol": "NVYY",
+   "name": "GraniteShares YieldBOOST NVDA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVYY"
+  },
+  {
+   "symbol": "OMSE",
+   "name": "OMS Energy Technologies Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DEFT"
+   "yahoo_symbol": "OMSE"
   },
   {
-   "symbol": "GSHR",
-   "name": "Gesher Acquisition Corp. II - Class A Ordinary Shares",
+   "symbol": "PMTRU",
+   "name": "Perimeter Acquisition Corp. I - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSHR"
+   "yahoo_symbol": "PMTRU"
   },
   {
-   "symbol": "GSHRW",
-   "name": "Gesher Acquisition Corp. II - Warrants",
+   "symbol": "XBTY",
+   "name": "GraniteShares YieldBOOST Bitcoin ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSHRW"
-  },
-  {
-   "symbol": "GTM",
-   "name": "ZoomInfo Technologies Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GTM"
-  },
-  {
-   "symbol": "ISBA",
-   "name": "Isabella Bank Corporation - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ISBA"
-  },
-  {
-   "symbol": "QSEA",
-   "name": "Quartzsea Acquisition Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QSEA"
-  },
-  {
-   "symbol": "QSEAR",
-   "name": "Quartzsea Acquisition Corporation - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QSEAR"
+   "yahoo_symbol": "XBTY"
   }
  ],
  "removed": [
   {
-   "symbol": "HEPA",
-   "name": "Hepion Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HEPA"
-  },
-  {
-   "symbol": "ZI",
-   "name": "ZoomInfo Technologies Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ZI"
-  },
-  {
-   "symbol": "VLV",
-   "name": "Venerable Ventures Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VLV.V",
-   "instruments": [
-    {
-     "name": "Venerable Ventures Ltd.",
-     "symbol": "VLV"
-    }
-   ]
-  },
-  {
-   "symbol": "RENE",
-   "name": "Cartesian Growth Corporation II - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RENE"
-  },
-  {
-   "symbol": "RENEU",
-   "name": "Cartesian Growth Corporation II - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RENEU"
-  },
-  {
-   "symbol": "RENEW",
-   "name": "Cartesian Growth Corporation II - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RENEW"
-  },
-  {
-   "symbol": "SIE",
-   "name": "Sienna Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SIE.V",
-   "instruments": [
-    {
-     "name": "Sienna Resources Inc.",
-     "symbol": "SIE"
-    }
-   ]
-  },
-  {
-   "symbol": "PEA",
-   "name": "Pieridae Energy Limited",
+   "symbol": "VRN",
+   "name": "Veren Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "PEA.TO",
+   "yahoo_symbol": "VRN.TO",
    "instruments": [
     {
-     "name": "Pieridae Energy",
-     "symbol": "PEA"
+     "name": "Veren Inc.",
+     "symbol": "VRN"
+    }
+   ]
+  },
+  {
+   "symbol": "TSVT",
+   "name": "2seventy bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TSVT"
+  },
+  {
+   "symbol": "AQS",
+   "name": "Aequus Pharmaceuticals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AQS.V",
+   "instruments": [
+    {
+     "name": "Aequus Pharmaceuticals Inc.",
+     "symbol": "AQS"
+    }
+   ]
+  },
+  {
+   "symbol": "FINS.R",
+   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FINS.R"
+  },
+  {
+   "symbol": "ALTN.P",
+   "name": "Altina Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALTN.P.V",
+   "instruments": [
+    {
+     "name": "Altina Capital Corp.",
+     "symbol": "ALTN.P"
     }
    ]
   }
