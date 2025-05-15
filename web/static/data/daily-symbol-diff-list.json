@@ -1,144 +1,128 @@
 {
  "added": [
   {
-   "symbol": "CALB",
-   "name": "CIBC Canadian Government Long-Term Bond ETF",
+   "symbol": "BTCO.B",
+   "name": "Purpose Core Bitcoin ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CALB.TO",
+   "yahoo_symbol": "BTCO.B.TO",
    "instruments": [
     {
-     "name": "CIBC Cdn Gvt LT Bond",
-     "symbol": "CALB"
+     "name": "Purpose CorBit CA HD",
+     "symbol": "BTCO.B"
+    },
+    {
+     "name": "Purpose CorBit US HD",
+     "symbol": "BTCO.U"
     }
    ]
   },
   {
-   "symbol": "CCAD",
-   "name": "CIBC Premium Cash Management ETF",
+   "symbol": "ETHO.B",
+   "name": "Purpose Core Ether ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CCAD.TO",
+   "yahoo_symbol": "ETHO.B.TO",
    "instruments": [
     {
-     "name": "CIBC Pre Cash Mg ETF",
-     "symbol": "CCAD"
+     "name": "Purpose CoEth CAD HD",
+     "symbol": "ETHO.B"
+    },
+    {
+     "name": "Purpose CoEth USD HD",
+     "symbol": "ETHO.U"
     }
    ]
   },
   {
-   "symbol": "CUSD.U",
-   "name": "CIBC USD Premium Cash Management ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CUSD.U.TO",
-   "instruments": [
-    {
-     "name": "CIBC US Pre Cash Mgt",
-     "symbol": "CUSD.U"
-    }
-   ]
-  },
-  {
-   "symbol": "ALTN",
-   "name": "Aeonian Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ALTN.V",
-   "instruments": [
-    {
-     "name": "Aeonian Resources Corp.",
-     "symbol": "ALTN"
-    }
-   ]
-  },
-  {
-   "symbol": "CSG",
-   "name": "Cosigo Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CSG.V",
-   "instruments": [
-    {
-     "name": "Cosigo Resources Ltd.",
-     "symbol": "CSG"
-    }
-   ]
-  },
-  {
-   "symbol": "JAPN",
-   "name": "Horizon Kinetics Japan Owner Operator ETF",
+   "symbol": "ANTA",
+   "name": "Antalpha Platform Holding Company - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JAPN"
+   "yahoo_symbol": "ANTA"
   },
   {
-   "symbol": "NVYY",
-   "name": "GraniteShares YieldBOOST NVDA ETF",
+   "symbol": "CCCXU",
+   "name": "Churchill Capital Corp X - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NVYY"
+   "yahoo_symbol": "CCCXU"
   },
   {
-   "symbol": "OMSE",
-   "name": "OMS Energy Technologies Inc. - Ordinary Shares",
+   "symbol": "ETOR",
+   "name": "eToro Group Ltd. - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ETOR"
+  },
+  {
+   "symbol": "IQST",
+   "name": "iQSTEL Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OMSE"
+   "yahoo_symbol": "IQST"
   },
   {
-   "symbol": "PMTRU",
-   "name": "Perimeter Acquisition Corp. I - Unit",
+   "symbol": "KWM",
+   "name": "K Wave Media, Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PMTRU"
+   "yahoo_symbol": "KWM"
   },
   {
-   "symbol": "XBTY",
-   "name": "GraniteShares YieldBOOST Bitcoin ETF",
+   "symbol": "KWMWW",
+   "name": "K Wave Media, Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWMWW"
+  },
+  {
+   "symbol": "RIFR",
+   "name": "Global Infrastructure Active ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XBTY"
+   "yahoo_symbol": "RIFR"
+  },
+  {
+   "symbol": "RINT",
+   "name": "International Developed Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RINT"
+  },
+  {
+   "symbol": "RUSC",
+   "name": "US Small Cap Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RUSC"
   }
  ],
  "removed": [
   {
-   "symbol": "VRN",
-   "name": "Veren Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "VRN.TO",
-   "instruments": [
-    {
-     "name": "Veren Inc.",
-     "symbol": "VRN"
-    }
-   ]
+   "symbol": "GRFX",
+   "name": "Graphex Group Limited American Depositary Shares, each representing twenty (20) Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRFX"
   },
   {
-   "symbol": "TSVT",
-   "name": "2seventy bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TSVT"
+   "symbol": "AXDX",
+   "name": "Accelerate Diagnostics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AXDX"
   },
   {
-   "symbol": "AQS",
-   "name": "Aequus Pharmaceuticals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AQS.V",
-   "instruments": [
-    {
-     "name": "Aequus Pharmaceuticals Inc.",
-     "symbol": "AQS"
-    }
-   ]
+   "symbol": "PAPL",
+   "name": "Pineapple Financial Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PAPL"
   },
   {
-   "symbol": "FINS.R",
-   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights",
+   "symbol": "DESP",
+   "name": "Despegar.com, Corp. Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "FINS.R"
+   "yahoo_symbol": "DESP"
   },
   {
-   "symbol": "ALTN.P",
-   "name": "Altina Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ALTN.P.V",
-   "instruments": [
-    {
-     "name": "Altina Capital Corp.",
-     "symbol": "ALTN.P"
-    }
-   ]
+   "symbol": "RTC",
+   "name": "Baijiayun Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTC"
+  },
+  {
+   "symbol": "FNGA",
+   "name": "MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "FNGA"
   }
  ]
 }
