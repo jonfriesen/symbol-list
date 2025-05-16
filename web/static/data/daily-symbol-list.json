@@ -1,5 +1,5 @@
 {
- "date": "2025-05-15",
+ "date": "2025-05-16",
  "data": [
   {
    "symbol": "ONE",
@@ -29087,7 +29087,7 @@
   },
   {
    "symbol": "GLXY",
-   "name": "Galaxy Digital Holdings Ltd.",
+   "name": "Galaxy Digital Inc.",
    "exchange": "TSX",
    "yahoo_symbol": "GLXY.TO",
    "instruments": [
@@ -32198,6 +32198,10 @@
     {
      "name": "i-80 Gold Corp WT",
      "symbol": "IAU.WT"
+    },
+    {
+     "name": "i-80 Gold Corp WT US",
+     "symbol": "IAU.WT.U"
     }
    ]
   },
@@ -44806,12 +44810,6 @@
    "yahoo_symbol": "ALKT"
   },
   {
-   "symbol": "ALLK",
-   "name": "Allakos Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ALLK"
-  },
-  {
    "symbol": "ALLO",
    "name": "Allogene Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -45470,6 +45468,12 @@
    "name": "Global X Clean Water ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AQWA"
+  },
+  {
+   "symbol": "ARAI",
+   "name": "Arrive AI Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARAI"
   },
   {
    "symbol": "ARAY",
@@ -52325,7 +52329,7 @@
   },
   {
    "symbol": "EVAX",
-   "name": "Evaxion Biotech A/S - American Depositary Share",
+   "name": "Evaxion A/S - American Depositary Share",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EVAX"
   },
@@ -60245,7 +60249,7 @@
   },
   {
    "symbol": "MKSI",
-   "name": "MKS Instruments, Inc. - Common Stock",
+   "name": "MKS Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MKSI"
   },
@@ -60563,7 +60567,7 @@
   },
   {
    "symbol": "MQQQ",
-   "name": "Tradr 2X Long Triple Q Monthly ETF",
+   "name": "Tradr 2X Long Innovation 100 Monthly ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MQQQ"
   },
@@ -63724,12 +63728,6 @@
    "yahoo_symbol": "PGEN"
   },
   {
-   "symbol": "PGHL",
-   "name": "Primega Group Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PGHL"
-  },
-  {
    "symbol": "PGJ",
    "name": "Invesco Golden Dragon China ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -65075,7 +65073,7 @@
   },
   {
    "symbol": "QQQP",
-   "name": "Tradr 2X Long Triple Q Quarterly ETF",
+   "name": "Tradr 2X Long Innovation 100 Quarterly ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QQQP"
   },
@@ -66106,6 +66104,12 @@
    "yahoo_symbol": "RNEW"
   },
   {
+   "symbol": "RNIN",
+   "name": "Bushido Capital US SMID Cap Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNIN"
+  },
+  {
    "symbol": "RNRG",
    "name": "Global X Renewable Energy Producers ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -66272,6 +66276,12 @@
    "name": "Reservoir Media, Inc.. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RSVRW"
+  },
+  {
+   "symbol": "RTACU",
+   "name": "Renatus Tactical Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTACU"
   },
   {
    "symbol": "RTH",
@@ -66929,7 +66939,7 @@
   },
   {
    "symbol": "SFHG",
-   "name": "Samfine Creation Holdings Group Limited - Ordinary Share",
+   "name": "Samfine Creation Holdings Group Limited - Class A Ordinary Share",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SFHG"
   },
@@ -69916,6 +69926,12 @@
    "yahoo_symbol": "TVACU"
   },
   {
+   "symbol": "TVAIU",
+   "name": "Thayer Ventures Acquisition Corporation II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVAIU"
+  },
+  {
    "symbol": "TVGN",
    "name": "Tevogen Bio Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -72010,12 +72026,6 @@
    "yahoo_symbol": "WVVIP"
   },
   {
-   "symbol": "WW",
-   "name": "WW International, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WW"
-  },
-  {
    "symbol": "WWD",
    "name": "Woodward, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72536,6 +72546,12 @@
    "name": "Ziff Davis, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ZD"
+  },
+  {
+   "symbol": "ZDAI",
+   "name": "Primega Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZDAI"
   },
   {
    "symbol": "ZENA",
@@ -90038,6 +90054,12 @@
    "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TWO$C"
+  },
+  {
+   "symbol": "TWOD",
+   "name": "Two Harbors Investments Corp 9.375% Senior Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWOD"
   },
   {
    "symbol": "TX",
