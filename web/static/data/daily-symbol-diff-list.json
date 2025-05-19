@@ -1,60 +1,78 @@
 {
  "added": [
   {
-   "symbol": "ARAI",
-   "name": "Arrive AI Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARAI"
-  },
-  {
-   "symbol": "RNIN",
-   "name": "Bushido Capital US SMID Cap Equity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNIN"
-  },
-  {
-   "symbol": "RTACU",
-   "name": "Renatus Tactical Acquisition Corp I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RTACU"
-  },
-  {
-   "symbol": "TVAIU",
-   "name": "Thayer Ventures Acquisition Corporation II - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TVAIU"
-  },
-  {
-   "symbol": "ZDAI",
-   "name": "Primega Group Holdings Limited - Ordinary Shares",
+   "symbol": "AACG",
+   "name": "ATA Creativity Global - American Depositary Shares, each representing two common shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZDAI"
+   "yahoo_symbol": "AACG"
   },
   {
-   "symbol": "TWOD",
-   "name": "Two Harbors Investments Corp 9.375% Senior Notes due 2030",
+   "symbol": "AVGG",
+   "name": "Leverage Shares 2X Long AVGO Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVGG"
+  },
+  {
+   "symbol": "CCCMU",
+   "name": "Columbus Circle Capital Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCMU"
+  },
+  {
+   "symbol": "GLXY",
+   "name": "Galaxy Digital Inc. - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLXY"
+  },
+  {
+   "symbol": "TVA",
+   "name": "Texas Ventures Acquisition III Corp - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVA"
+  },
+  {
+   "symbol": "TVACW",
+   "name": "Texas Ventures Acquisition III Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVACW"
+  },
+  {
+   "symbol": "WENNU",
+   "name": "Wen Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENNU"
+  },
+  {
+   "symbol": "MTEST",
+   "name": "NYSE Texas, Inc. TEST Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "MTEST"
+  },
+  {
+   "symbol": "TIC",
+   "name": "Acuren Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "TWOD"
+   "yahoo_symbol": "TIC"
   }
  ],
  "removed": [
   {
-   "symbol": "WW",
-   "name": "WW International, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WW"
+   "symbol": "AACG",
+   "name": "ATA Creativity Global - American Depositary Shares, each representing two common shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACG"
   },
   {
-   "symbol": "PGHL",
-   "name": "Primega Group Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PGHL"
+   "symbol": "DFS",
+   "name": "Discover Financial Services Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DFS"
   },
   {
-   "symbol": "ALLK",
-   "name": "Allakos Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ALLK"
+   "symbol": "TIC",
+   "name": "Acuren Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TIC"
   }
  ]
 }
