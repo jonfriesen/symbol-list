@@ -1,108 +1,72 @@
 {
  "added": [
   {
-   "symbol": "HPQ",
-   "name": "HPQ Silicon Inc.",
+   "symbol": "VMET",
+   "name": "Versamet Royalties Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "HPQ.V",
+   "yahoo_symbol": "VMET.V",
    "instruments": [
     {
-     "name": "HPQ Silicon Inc.",
-     "symbol": "HPQ"
+     "name": "Versamet Royalties Corporation",
+     "symbol": "VMET"
     }
    ]
   },
   {
-   "symbol": "MER",
-   "name": "Meren Energy Inc.",
+   "symbol": "MCAN",
+   "name": "Manulife Canadian Equity Class",
    "exchange": "TSX",
-   "yahoo_symbol": "MER.TO",
+   "yahoo_symbol": "MCAN.TO",
    "instruments": [
     {
-     "name": "Africa Oil Corp. J",
-     "symbol": "MER"
+     "name": "Manulife Cdn Eqt Cls",
+     "symbol": "MCAN"
     }
    ]
   },
   {
-   "symbol": "CHAC",
-   "name": "Crane Harbor Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHAC"
+   "symbol": "MCOR",
+   "name": "Manulife Core Plus Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCOR.TO",
+   "instruments": [
+    {
+     "name": "Manulife Cor Pl Bd F",
+     "symbol": "MCOR"
+    }
+   ]
   },
   {
-   "symbol": "CHACR",
-   "name": "Crane Harbor Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHACR"
+   "symbol": "MDIF",
+   "name": "Manulife Dividend Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MDIF.TO",
+   "instruments": [
+    {
+     "name": "Manulife Divd Inc Fd",
+     "symbol": "MDIF"
+    }
+   ]
   },
   {
-   "symbol": "NEE$U",
-   "name": "NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NEE$U"
+   "symbol": "MFUN",
+   "name": "Manulife Fundamental Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MFUN.TO",
+   "instruments": [
+    {
+     "name": "Manulife Fdml Eqt Fd",
+     "symbol": "MFUN"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "APCX",
-   "name": "AppTech Payments Corp. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APCX"
-  },
-  {
-   "symbol": "AOI",
-   "name": "Africa Oil Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AOI.TO",
-   "instruments": [
-    {
-     "name": "Africa Oil Corp. J",
-     "symbol": "AOI"
-    }
-   ]
-  },
-  {
-   "symbol": "APCXW",
-   "name": "AppTech Payments Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APCXW"
-  },
-  {
-   "symbol": "MMS",
-   "name": "Macarthur Minerals Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MMS.V",
-   "instruments": [
-    {
-     "name": "Macarthur Minerals Limited",
-     "symbol": "MMS"
-    }
-   ]
-  },
-  {
-   "symbol": "ZAPPW",
-   "name": "Zapp Electric Vehicles Group Limited - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZAPPW"
-  },
-  {
-   "symbol": "ZAPP",
-   "name": "Zapp Electric Vehicles Group Limited - Ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZAPP"
-  },
-  {
-   "symbol": "DMN",
-   "name": "Damon Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DMN"
-  },
-  {
-   "symbol": "AFMD",
-   "name": "Affimed N.V. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AFMD"
+   "symbol": "JWN",
+   "name": "Nordstrom, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JWN"
   }
  ]
 }

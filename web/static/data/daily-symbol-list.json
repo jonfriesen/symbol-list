@@ -1,5 +1,5 @@
 {
- "date": "2025-05-20",
+ "date": "2025-05-21",
  "data": [
   {
    "symbol": "ONE",
@@ -17018,6 +17018,18 @@
     {
      "name": "Venzee Technologies Inc.",
      "symbol": "VENZ"
+    }
+   ]
+  },
+  {
+   "symbol": "VMET",
+   "name": "Versamet Royalties Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VMET.V",
+   "instruments": [
+    {
+     "name": "Versamet Royalties Corporation",
+     "symbol": "VMET"
     }
    ]
   },
@@ -36182,6 +36194,42 @@
    ]
   },
   {
+   "symbol": "MCAN",
+   "name": "Manulife Canadian Equity Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCAN.TO",
+   "instruments": [
+    {
+     "name": "Manulife Cdn Eqt Cls",
+     "symbol": "MCAN"
+    }
+   ]
+  },
+  {
+   "symbol": "MCOR",
+   "name": "Manulife Core Plus Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCOR.TO",
+   "instruments": [
+    {
+     "name": "Manulife Cor Pl Bd F",
+     "symbol": "MCOR"
+    }
+   ]
+  },
+  {
+   "symbol": "MDIF",
+   "name": "Manulife Dividend Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MDIF.TO",
+   "instruments": [
+    {
+     "name": "Manulife Divd Inc Fd",
+     "symbol": "MDIF"
+    }
+   ]
+  },
+  {
    "symbol": "MFC",
    "name": "Manulife Financial Corporation",
    "exchange": "TSX",
@@ -36234,6 +36282,18 @@
     {
      "name": "Manulife Fin Sr25 Pr",
      "symbol": "MFC.PR.Q"
+    }
+   ]
+  },
+  {
+   "symbol": "MFUN",
+   "name": "Manulife Fundamental Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MFUN.TO",
+   "instruments": [
+    {
+     "name": "Manulife Fdml Eqt Fd",
+     "symbol": "MFUN"
     }
    ]
   },
@@ -36680,7 +36740,7 @@
    "yahoo_symbol": "MER.TO",
    "instruments": [
     {
-     "name": "Africa Oil Corp. J",
+     "name": "Meren Energy Inc",
      "symbol": "MER"
     }
    ]
@@ -82338,12 +82398,6 @@
    "name": "Nuveen Real Estate Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "JRS"
-  },
-  {
-   "symbol": "JWN",
-   "name": "Nordstrom, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JWN"
   },
   {
    "symbol": "JXN",
