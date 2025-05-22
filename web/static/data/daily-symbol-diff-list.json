@@ -1,72 +1,78 @@
 {
  "added": [
   {
-   "symbol": "VMET",
-   "name": "Versamet Royalties Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VMET.V",
-   "instruments": [
-    {
-     "name": "Versamet Royalties Corporation",
-     "symbol": "VMET"
-    }
-   ]
+   "symbol": "AACIU",
+   "name": "Armada Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIU"
   },
   {
-   "symbol": "MCAN",
-   "name": "Manulife Canadian Equity Class",
-   "exchange": "TSX",
-   "yahoo_symbol": "MCAN.TO",
-   "instruments": [
-    {
-     "name": "Manulife Cdn Eqt Cls",
-     "symbol": "MCAN"
-    }
-   ]
+   "symbol": "IDEF",
+   "name": "iShares Defense Industrials Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IDEF"
   },
   {
-   "symbol": "MCOR",
-   "name": "Manulife Core Plus Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "MCOR.TO",
-   "instruments": [
-    {
-     "name": "Manulife Cor Pl Bd F",
-     "symbol": "MCOR"
-    }
-   ]
+   "symbol": "OFAL",
+   "name": "OFA Group - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OFAL"
   },
   {
-   "symbol": "MDIF",
-   "name": "Manulife Dividend Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "MDIF.TO",
-   "instruments": [
-    {
-     "name": "Manulife Divd Inc Fd",
-     "symbol": "MDIF"
-    }
-   ]
+   "symbol": "PCAPU",
+   "name": "ProCap Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCAPU"
   },
   {
-   "symbol": "MFUN",
-   "name": "Manulife Fundamental Equity Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "MFUN.TO",
-   "instruments": [
-    {
-     "name": "Manulife Fdml Eqt Fd",
-     "symbol": "MFUN"
-    }
-   ]
+   "symbol": "HNGE",
+   "name": "Hinge Health, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HNGE"
+  },
+  {
+   "symbol": "MNTN",
+   "name": "MNTN, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MNTN"
   }
  ],
  "removed": [
   {
-   "symbol": "JWN",
-   "name": "Nordstrom, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JWN"
+   "symbol": "OPTN",
+   "name": "OptiNose, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPTN"
+  },
+  {
+   "symbol": "SLRN",
+   "name": "ACELYRIN, INC. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SLRN"
+  },
+  {
+   "symbol": "PTPI",
+   "name": "Petros Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTPI"
+  },
+  {
+   "symbol": "ICCT",
+   "name": "iCoreConnect Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ICCT"
+  },
+  {
+   "symbol": "ASND",
+   "name": "Ascendant Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ASND.TO",
+   "instruments": [
+    {
+     "name": "Ascendant Res J",
+     "symbol": "ASND"
+    }
+   ]
   }
  ]
 }
