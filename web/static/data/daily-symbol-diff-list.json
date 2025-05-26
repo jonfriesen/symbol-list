@@ -1,228 +1,114 @@
 {
  "added": [
   {
-   "symbol": "DSY",
-   "name": "Destiny Media Technologies Inc.",
+   "symbol": "KSM",
+   "name": "Kirkstone Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DSY.V",
+   "yahoo_symbol": "KSM.V",
    "instruments": [
     {
-     "name": "Destiny Media Technologies Inc.",
-     "symbol": "DSY"
+     "name": "Kirkstone Metals Corp.",
+     "symbol": "KSM"
     }
    ]
   },
   {
-   "symbol": "HIDE",
-   "name": "Hydaway Digital Corp.",
+   "symbol": "RFX",
+   "name": "Reeflex Solutions Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "HIDE.V",
+   "yahoo_symbol": "RFX.V",
    "instruments": [
     {
-     "name": "Hydaway Digital Corp.",
-     "symbol": "HIDE"
+     "name": "Reeflex Solutions Inc.",
+     "symbol": "RFX"
     }
    ]
   },
   {
-   "symbol": "NOBL",
-   "name": "Noble Plains Uranium Corp.",
+   "symbol": "TRBR",
+   "name": "TRUBAR Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "NOBL.V",
+   "yahoo_symbol": "TRBR.V",
    "instruments": [
     {
-     "name": "Noble Plains Uranium Corp.",
-     "symbol": "NOBL"
+     "name": "TRUBAR Inc.",
+     "symbol": "TRBR"
     }
    ]
   },
   {
-   "symbol": "QQQU",
-   "name": "MegaLong (3X) NASDAQ-100® Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQQU.TO",
+   "symbol": "VLD",
+   "name": "Vinland Lithium Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VLD.V",
    "instruments": [
     {
-     "name": "MegaLong 3X NASDAQ",
-     "symbol": "QQQU"
+     "name": "Vinland Lithium Inc.",
+     "symbol": "VLD"
     }
    ]
   },
   {
-   "symbol": "SPYU",
-   "name": "MegaLong (3X) S\u0026P 500® Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SPYU.TO",
-   "instruments": [
-    {
-     "name": "MegaLong (3X) S\u0026P 50",
-     "symbol": "SPYU"
-    }
-   ]
-  },
-  {
-   "symbol": "SOXU",
-   "name": "MegaLong (3X) US Semiconductors Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SOXU.TO",
-   "instruments": [
-    {
-     "name": "MegaLong(3X) US Semi",
-     "symbol": "SOXU"
-    }
-   ]
-  },
-  {
-   "symbol": "QQQD",
-   "name": "MegaShort (-3X) NASDAQ-100® Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQQD.TO",
-   "instruments": [
-    {
-     "name": "MegaShort -3X NASDAQ",
-     "symbol": "QQQD"
-    }
-   ]
-  },
-  {
-   "symbol": "SPYD",
-   "name": "MegaShort (-3X) S\u0026P 500® Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SPYD.TO",
-   "instruments": [
-    {
-     "name": "MegaShort -3X S\u0026P500",
-     "symbol": "SPYD"
-    }
-   ]
-  },
-  {
-   "symbol": "SOXD",
-   "name": "MegaShort (-3X) US Semiconductors Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SOXD.TO",
-   "instruments": [
-    {
-     "name": "MEGASHORT-3X US Semi",
-     "symbol": "SOXD"
-    }
-   ]
-  },
-  {
-   "symbol": "BHK.V",
-   "name": "Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BHK.V"
-  },
-  {
-   "symbol": "SOUL",
-   "name": "Soulpower Acquisition Corporation Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SOUL"
-  },
-  {
-   "symbol": "SOUL.R",
-   "name": "Soulpower Acquisition Corporation Rights, each right entitling the holder to receive one-tenth (1/10) of one Class A Ordinary Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SOUL.R"
-  },
-  {
-   "symbol": "CDT",
-   "name": "Conduit Pharmaceuticals Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CDT"
-  },
-  {
-   "symbol": "MBNKO",
-   "name": "Medallion Bank - Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series G, par value $1.00 per share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBNKO"
-  },
-  {
-   "symbol": "NAKA",
-   "name": "Kindly MD, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NAKA"
-  },
-  {
-   "symbol": "NAKAW",
-   "name": "Kindly MD, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NAKAW"
-  },
-  {
-   "symbol": "OYSEU",
-   "name": "Oyster Enterprises II Acquisition Corp - Units",
+   "symbol": "BEEP",
+   "name": "Mobile Infrastructure Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OYSEU"
+   "yahoo_symbol": "BEEP"
   },
   {
-   "symbol": "WTFCN",
-   "name": "Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WTFCN"
-  },
-  {
-   "symbol": "XRPI",
-   "name": "Volatility Shares Trust XRP ETF",
+   "symbol": "CRACU",
+   "name": "Cal Redwood Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XRPI"
+   "yahoo_symbol": "CRACU"
   },
   {
-   "symbol": "XRPT",
-   "name": "Volatility Shares Trust XRP 2X ETF",
+   "symbol": "FTRK",
+   "name": "FAST TRACK GROUP - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTRK"
+  },
+  {
+   "symbol": "PELIU",
+   "name": "Pelican Acquisition Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XRPT"
+   "yahoo_symbol": "PELIU"
+  },
+  {
+   "symbol": "SZZL",
+   "name": "Sizzle Acquisition Corp. II - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZL"
+  },
+  {
+   "symbol": "SZZLR",
+   "name": "Sizzle Acquisition Corp. II - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZLR"
   }
  ],
  "removed": [
   {
-   "symbol": "IXI",
-   "name": "Indigo Exploration Inc.",
+   "symbol": "STAK.P",
+   "name": "Bigstack Opportunities I Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "IXI.V",
+   "yahoo_symbol": "STAK.P.V",
    "instruments": [
     {
-     "name": "Indigo Exploration Inc.",
-     "symbol": "IXI"
+     "name": "BigStack Opportunities Inc.",
+     "symbol": "STAK.P"
     }
    ]
   },
   {
-   "symbol": "CDT",
-   "name": "Conduit Pharmaceuticals Inc.  - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CDT"
-  },
-  {
-   "symbol": "HIDE.P",
-   "name": "Hydaway Ventures Corp.",
+   "symbol": "SBBC",
+   "name": "Simply Better Brands Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "HIDE.P.V",
+   "yahoo_symbol": "SBBC.V",
    "instruments": [
     {
-     "name": "Hydaway Ventures Corp.",
-     "symbol": "HIDE.P"
+     "name": "Simply Better Brands Corp.",
+     "symbol": "SBBC"
     }
    ]
-  },
-  {
-   "symbol": "KDLYW",
-   "name": "Kindly MD, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KDLYW"
-  },
-  {
-   "symbol": "KDLY",
-   "name": "Kindly MD, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KDLY"
-  },
-  {
-   "symbol": "BEEP",
-   "name": "Mobile Infrastructure Corporation Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BEEP"
   }
  ]
 }
