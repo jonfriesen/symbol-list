@@ -1,59 +1,37 @@
 {
  "added": [
   {
-   "symbol": "KSM",
-   "name": "Kirkstone Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KSM.V",
+   "symbol": "ZWGD",
+   "name": "BMO Covered Call Spread Gold Bullion ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZWGD.TO",
    "instruments": [
     {
-     "name": "Kirkstone Metals Corp.",
-     "symbol": "KSM"
+     "name": "BMO Cov Call SpGoBul",
+     "symbol": "ZWGD"
     }
    ]
   },
   {
-   "symbol": "RFX",
-   "name": "Reeflex Solutions Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RFX.V",
-   "instruments": [
-    {
-     "name": "Reeflex Solutions Inc.",
-     "symbol": "RFX"
-    }
-   ]
-  },
-  {
-   "symbol": "TRBR",
-   "name": "TRUBAR Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TRBR.V",
-   "instruments": [
-    {
-     "name": "TRUBAR Inc.",
-     "symbol": "TRBR"
-    }
-   ]
-  },
-  {
-   "symbol": "VLD",
-   "name": "Vinland Lithium Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VLD.V",
-   "instruments": [
-    {
-     "name": "Vinland Lithium Inc.",
-     "symbol": "VLD"
-    }
-   ]
-  },
-  {
-   "symbol": "BEEP",
-   "name": "Mobile Infrastructure Corporation - Common Stock",
+   "symbol": "CRAQU",
+   "name": "Cal Redwood Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BEEP"
+   "yahoo_symbol": "CRAQU"
   },
+  {
+   "symbol": "SORA",
+   "name": "Top Win International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SORA"
+  },
+  {
+   "symbol": "AOMD",
+   "name": "Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AOMD"
+  }
+ ],
+ "removed": [
   {
    "symbol": "CRACU",
    "name": "Cal Redwood Acquisition Corp. - Units",
@@ -61,54 +39,28 @@
    "yahoo_symbol": "CRACU"
   },
   {
-   "symbol": "FTRK",
-   "name": "FAST TRACK GROUP - Ordinary shares",
+   "symbol": "VSTE",
+   "name": "Vast Renewables Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTRK"
+   "yahoo_symbol": "VSTE"
   },
   {
-   "symbol": "PELIU",
-   "name": "Pelican Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PELIU"
+   "symbol": "TOPW",
+   "name": "Top Win International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOPW"
   },
   {
-   "symbol": "SZZL",
-   "name": "Sizzle Acquisition Corp. II - Class A ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SZZL"
+   "symbol": "VSTEW",
+   "name": "Vast Renewables Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSTEW"
   },
   {
-   "symbol": "SZZLR",
-   "name": "Sizzle Acquisition Corp. II - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SZZLR"
-  }
- ],
- "removed": [
-  {
-   "symbol": "STAK.P",
-   "name": "Bigstack Opportunities I Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "STAK.P.V",
-   "instruments": [
-    {
-     "name": "BigStack Opportunities Inc.",
-     "symbol": "STAK.P"
-    }
-   ]
-  },
-  {
-   "symbol": "SBBC",
-   "name": "Simply Better Brands Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SBBC.V",
-   "instruments": [
-    {
-     "name": "Simply Better Brands Corp.",
-     "symbol": "SBBC"
-    }
-   ]
+   "symbol": "OCFCP",
+   "name": "OceanFirst Financial Corp. - Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OCFCP"
   }
  ]
 }

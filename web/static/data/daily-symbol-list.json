@@ -1,5 +1,5 @@
 {
- "date": "2025-05-26",
+ "date": "2025-05-27",
  "data": [
   {
    "symbol": "ONE",
@@ -20406,6 +20406,18 @@
     {
      "name": "BMO CovrdCallHthETF ",
      "symbol": "ZWHC"
+    }
+   ]
+  },
+  {
+   "symbol": "ZWGD",
+   "name": "BMO Covered Call Spread Gold Bullion ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZWGD.TO",
+   "instruments": [
+    {
+     "name": "BMO Cov Call SpGoBul",
+     "symbol": "ZWGD"
     }
    ]
   },
@@ -50014,16 +50026,16 @@
    "yahoo_symbol": "CPZ"
   },
   {
-   "symbol": "CRACU",
-   "name": "Cal Redwood Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRACU"
-  },
-  {
    "symbol": "CRAI",
    "name": "CRA International,Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CRAI"
+  },
+  {
+   "symbol": "CRAQU",
+   "name": "Cal Redwood Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAQU"
   },
   {
    "symbol": "CRBP",
@@ -62674,12 +62686,6 @@
    "yahoo_symbol": "OCFC"
   },
   {
-   "symbol": "OCFCP",
-   "name": "OceanFirst Financial Corp. - Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OCFCP"
-  },
-  {
    "symbol": "OCG",
    "name": "Oriental Culture Holding LTD - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -66179,7 +66185,7 @@
   },
   {
    "symbol": "RKLB",
-   "name": "Rocket Lab USA, Inc. - Common Stock",
+   "name": "Rocket Lab Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RKLB"
   },
@@ -68104,6 +68110,12 @@
    "yahoo_symbol": "SOPH"
   },
   {
+   "symbol": "SORA",
+   "name": "Top Win International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SORA"
+  },
+  {
    "symbol": "SOTK",
    "name": "Sono-Tek Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -69668,12 +69680,6 @@
    "name": "TOP Financial Group Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TOP"
-  },
-  {
-   "symbol": "TOPW",
-   "name": "Top Win International Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TOPW"
   },
   {
    "symbol": "TORO",
@@ -71516,18 +71522,6 @@
    "name": "Vasta Platform Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VSTA"
-  },
-  {
-   "symbol": "VSTE",
-   "name": "Vast Renewables Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSTE"
-  },
-  {
-   "symbol": "VSTEW",
-   "name": "Vast Renewables Limited - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSTEW"
   },
   {
    "symbol": "VSTM",
@@ -74000,6 +73994,12 @@
    "name": "abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "AOD"
+  },
+  {
+   "symbol": "AOMD",
+   "name": "Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AOMD"
   },
   {
    "symbol": "AOMN",

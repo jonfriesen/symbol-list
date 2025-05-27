@@ -1659,6 +1659,7 @@ ZWB,BMO Covered Call Canadian Banks ETF,TSX,ZWB.TO,BMO Coverd CallCdnBk,ZWB,BMO 
 ZWA,BMO Covered Call Dow Jones Industrial Average Hedged to CAD ETF,TSX,ZWA.TO,BMO DJ IndustAvg ETF,ZWA
 ZWEN,BMO Covered Call Energy ETF,TSX,ZWEN.TO,BMO CovrdCallEngyETF,ZWEN
 ZWHC,BMO Covered Call Health Care ETF,TSX,ZWHC.TO,BMO CovrdCallHthETF ,ZWHC
+ZWGD,BMO Covered Call Spread Gold Bullion ETF,TSX,ZWGD.TO,BMO Cov Call SpGoBul,ZWGD
 ZWT,BMO Covered Call Technology ETF,TSX,ZWT.TO,BMO CoverCallTechETF,ZWT
 ZWK,BMO Covered Call US Banks ETF,TSX,ZWK.TO,BMO CoverCalUSBkETF ,ZWK
 ZWU,BMO Covered Call Utilities ETF,TSX,ZWU.TO,BMO CoverdUtilityETF,ZWU
@@ -4423,8 +4424,8 @@ CPRX,"Catalyst Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,CPRX
 CPSH,CPS Technologies Corp. - Common Stock,NASDAQ Capital Market,CPSH
 CPSS,"Consumer Portfolio Services, Inc. - Common Stock",NASDAQ Global MarketSM,CPSS
 CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,NASDAQ Global Select MarketSM,CPZ
-CRACU,Cal Redwood Acquisition Corp. - Units,NASDAQ Global MarketSM,CRACU
 CRAI,"CRA International,Inc. - Common Stock",NASDAQ Global Select MarketSM,CRAI
+CRAQU,Cal Redwood Acquisition Corp. - Units,NASDAQ Global MarketSM,CRAQU
 CRBP,"Corbus Pharmaceuticals Holdings, Inc. - Common Stock",NASDAQ Capital Market,CRBP
 CRBU,"Caribou Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRBU
 CRCT,"Cricut, Inc. - Class A common stock",NASDAQ Global Select MarketSM,CRCT
@@ -6533,7 +6534,6 @@ OCCIM,"OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock",NASDAQ C
 OCCIN,"OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due 2026",NASDAQ Capital Market,OCCIN
 OCCIO,"OFS Credit Company, Inc. - 6.125% Series C Term Preferred Stock",NASDAQ Capital Market,OCCIO
 OCFC,OceanFirst Financial Corp. - Common Stock,NASDAQ Global Select MarketSM,OCFC
-OCFCP,OceanFirst Financial Corp. - Depositary Shares,NASDAQ Global Select MarketSM,OCFCP
 OCG,Oriental Culture Holding LTD - Ordinary Shares,NASDAQ Capital Market,OCG
 OCGN,"Ocugen, Inc. - Common Stock",NASDAQ Capital Market,OCGN
 OCS,Oculis Holding AG - Ordinary shares,NASDAQ Global MarketSM,OCS
@@ -7117,7 +7117,7 @@ RIOT,"Riot Platforms, Inc. - Common Stock",NASDAQ Capital Market,RIOT
 RITR,Reitar Logtech Holdings Limited - Ordinary shares,NASDAQ Capital Market,RITR
 RIVN,"Rivian Automotive, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RIVN
 RKDA,"Arcadia Biosciences, Inc. - Common Stock",NASDAQ Capital Market,RKDA
-RKLB,"Rocket Lab USA, Inc. - Common Stock",NASDAQ Capital Market,RKLB
+RKLB,Rocket Lab Corporation - Common Stock,NASDAQ Capital Market,RKLB
 RKLX,Defiance Daily Target 2X Long RKLB ETF,NASDAQ Global MarketSM,RKLX
 RLAY,"Relay Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,RLAY
 RLMD,"Relmada Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,RLMD
@@ -7438,6 +7438,7 @@ SONN,"Sonnet BioTherapeutics Holdings, Inc. - Common Stock",NASDAQ Capital Marke
 SONO,"Sonos, Inc. - Common Stock",NASDAQ Global Select MarketSM,SONO
 SOPA,Society Pass Incorporated - Common Stock,NASDAQ Capital Market,SOPA
 SOPH,SOPHiA GENETICS SA - Ordinary Shares,NASDAQ Global Select MarketSM,SOPH
+SORA,Top Win International Limited - Ordinary Shares,NASDAQ Capital Market,SORA
 SOTK,Sono-Tek Corporation - Common Stock,NASDAQ Capital Market,SOTK
 SOUN,"SoundHound AI, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SOUN
 SOUNW,"SoundHound AI, Inc. - Warrant",NASDAQ Global MarketSM,SOUNW
@@ -7699,7 +7700,6 @@ TOI,"The Oncology Institute, Inc. - Common Stock",NASDAQ Capital Market,TOI
 TOIIW,"The Oncology Institute, Inc. - Warrant",NASDAQ Capital Market,TOIIW
 TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",NASDAQ Capital Market,TOMZ
 TOP,TOP Financial Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,TOP
-TOPW,Top Win International Limited - Ordinary Shares,NASDAQ Capital Market,TOPW
 TORO,Toro Corp. - Common stock,NASDAQ Capital Market,TORO
 TOUR,Tuniu Corporation - American Depositary Shares,NASDAQ Global MarketSM,TOUR
 TOWN,Towne Bank - Common Stock,NASDAQ Global Select MarketSM,TOWN
@@ -8007,8 +8007,6 @@ VSME,VS Media Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,V
 VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ Global MarketSM,VSMV
 VSSYW,Versus Systems Inc. - Class A Warrants,NASDAQ Capital Market,VSSYW
 VSTA,Vasta Platform Limited - Class A Ordinary Shares,NASDAQ Global Select MarketSM,VSTA
-VSTE,Vast Renewables Limited - Ordinary Shares,NASDAQ Capital Market,VSTE
-VSTEW,Vast Renewables Limited - Warrants,NASDAQ Capital Market,VSTEW
 VSTM,"Verastem, Inc. - Common Stock",NASDAQ Capital Market,VSTM
 VTC,Vanguard Total Corporate Bond ETF,NASDAQ Global MarketSM,VTC
 VTGN,"Vistagen Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,VTGN
@@ -8421,6 +8419,7 @@ ANG$D,"American National Group Inc. Depositary Shares, each representing a 1/100
 ANRO,"Alto Neuroscience, Inc. Common Stock",NYSE,ANRO
 ANVS,"Annovis Bio, Inc. Common Stock",NYSE,ANVS
 AOD,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,NYSE,AOD
+AOMD,"Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030",NYSE,AOMD
 AOMN,"Angel Oak Mortgage REIT, Inc. 9.500% Senior Notes due 2029",NYSE,AOMN
 AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",NYSE,AOMR
 AON,Aon plc Class A Ordinary Shares (Ireland),NYSE,AON
