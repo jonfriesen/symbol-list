@@ -1,66 +1,66 @@
 {
  "added": [
   {
-   "symbol": "ZWGD",
-   "name": "BMO Covered Call Spread Gold Bullion ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZWGD.TO",
-   "instruments": [
-    {
-     "name": "BMO Cov Call SpGoBul",
-     "symbol": "ZWGD"
-    }
-   ]
-  },
-  {
-   "symbol": "CRAQU",
-   "name": "Cal Redwood Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRAQU"
-  },
-  {
-   "symbol": "SORA",
-   "name": "Top Win International Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SORA"
-  },
-  {
-   "symbol": "AOMD",
-   "name": "Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030",
+   "symbol": "EMA",
+   "name": "Emera Incorporated Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "AOMD"
+   "yahoo_symbol": "EMA"
+  },
+  {
+   "symbol": "KG",
+   "name": "Kestrel Group, Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KG"
+  },
+  {
+   "symbol": "UYSC",
+   "name": "UY Scuti Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UYSC"
+  },
+  {
+   "symbol": "UYSCR",
+   "name": "UY Scuti Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UYSCR"
   }
  ],
  "removed": [
   {
-   "symbol": "CRACU",
-   "name": "Cal Redwood Acquisition Corp. - Units",
+   "symbol": "CNCR",
+   "name": "Range Cancer Therapeutics ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRACU"
+   "yahoo_symbol": "CNCR"
   },
   {
-   "symbol": "VSTE",
-   "name": "Vast Renewables Limited - Ordinary Shares",
+   "symbol": "GAN",
+   "name": "GAN Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSTE"
+   "yahoo_symbol": "GAN"
   },
   {
-   "symbol": "TOPW",
-   "name": "Top Win International Limited - Ordinary Shares",
+   "symbol": "QVCGB",
+   "name": "QVC Group, Inc. - Series B Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TOPW"
+   "yahoo_symbol": "QVCGB"
   },
   {
-   "symbol": "VSTEW",
-   "name": "Vast Renewables Limited - Warrants",
+   "symbol": "MHLD",
+   "name": "Maiden Holdings, Ltd. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSTEW"
+   "yahoo_symbol": "MHLD"
   },
   {
-   "symbol": "OCFCP",
-   "name": "OceanFirst Financial Corp. - Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OCFCP"
+   "symbol": "FCEM",
+   "name": "Fidelity Emerging Markets Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCEM.TO",
+   "instruments": [
+    {
+     "name": "Fid Emerg Mkt FndETF",
+     "symbol": "FCEM"
+    }
+   ]
   }
  ]
 }
