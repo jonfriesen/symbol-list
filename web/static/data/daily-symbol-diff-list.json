@@ -1,66 +1,102 @@
 {
  "added": [
   {
-   "symbol": "EMA",
-   "name": "Emera Incorporated Common Shares",
+   "symbol": "TLTU",
+   "name": "MegaLong (3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLTU.TO",
+   "instruments": [
+    {
+     "name": "MegaLong 3X 20+Yr US",
+     "symbol": "TLTU"
+    }
+   ]
+  },
+  {
+   "symbol": "BNKU",
+   "name": "MegaLong (3X) Canadian Banks Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BNKU.TO",
+   "instruments": [
+    {
+     "name": "MegaLong 3X Cdn Bank",
+     "symbol": "BNKU"
+    }
+   ]
+  },
+  {
+   "symbol": "CGMU",
+   "name": "MegaLong (3X) Canadian Gold Miners Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGMU.TO",
+   "instruments": [
+    {
+     "name": "MegaLong 3X Cdn Gold",
+     "symbol": "CGMU"
+    }
+   ]
+  },
+  {
+   "symbol": "TLTD",
+   "name": "MegaShort (-3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLTD.TO",
+   "instruments": [
+    {
+     "name": "MegaShort-3X 20+Y US",
+     "symbol": "TLTD"
+    }
+   ]
+  },
+  {
+   "symbol": "CGMD",
+   "name": "MegaShort (-3X) Canadian Gold Miners Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGMD.TO",
+   "instruments": [
+    {
+     "name": "MegaShort-3X Cdn Gol",
+     "symbol": "CGMD"
+    }
+   ]
+  },
+  {
+   "symbol": "CHPGU",
+   "name": "ChampionsGate Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPGU"
+  },
+  {
+   "symbol": "KCHVU",
+   "name": "Kochav Defense Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KCHVU"
+  },
+  {
+   "symbol": "LOGO",
+   "name": "Alpha Brands Consumption Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOGO"
+  },
+  {
+   "symbol": "JENA.U",
+   "name": "Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right",
    "exchange": "NYSE",
-   "yahoo_symbol": "EMA"
-  },
-  {
-   "symbol": "KG",
-   "name": "Kestrel Group, Ltd. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KG"
-  },
-  {
-   "symbol": "UYSC",
-   "name": "UY Scuti Acquisition Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UYSC"
-  },
-  {
-   "symbol": "UYSCR",
-   "name": "UY Scuti Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UYSCR"
+   "yahoo_symbol": "JENA.U"
   }
  ],
  "removed": [
   {
-   "symbol": "CNCR",
-   "name": "Range Cancer Therapeutics ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNCR"
-  },
-  {
-   "symbol": "GAN",
-   "name": "GAN Limited - Ordinary Shares",
+   "symbol": "SYT",
+   "name": "SYLA Technologies Co., Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GAN"
+   "yahoo_symbol": "SYT"
   },
   {
-   "symbol": "QVCGB",
-   "name": "QVC Group, Inc. - Series B Common Stock",
+   "symbol": "HYMCW",
+   "name": "Hycroft Mining Holding Corporation - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QVCGB"
-  },
-  {
-   "symbol": "MHLD",
-   "name": "Maiden Holdings, Ltd. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MHLD"
-  },
-  {
-   "symbol": "FCEM",
-   "name": "Fidelity Emerging Markets Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCEM.TO",
-   "instruments": [
-    {
-     "name": "Fid Emerg Mkt FndETF",
-     "symbol": "FCEM"
-    }
-   ]
+   "yahoo_symbol": "HYMCW"
   }
  ]
 }
