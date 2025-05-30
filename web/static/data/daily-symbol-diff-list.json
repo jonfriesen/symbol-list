@@ -1,102 +1,66 @@
 {
  "added": [
   {
-   "symbol": "TLTU",
-   "name": "MegaLong (3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TLTU.TO",
-   "instruments": [
-    {
-     "name": "MegaLong 3X 20+Yr US",
-     "symbol": "TLTU"
-    }
-   ]
-  },
-  {
-   "symbol": "BNKU",
-   "name": "MegaLong (3X) Canadian Banks Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BNKU.TO",
-   "instruments": [
-    {
-     "name": "MegaLong 3X Cdn Bank",
-     "symbol": "BNKU"
-    }
-   ]
-  },
-  {
-   "symbol": "CGMU",
-   "name": "MegaLong (3X) Canadian Gold Miners Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CGMU.TO",
-   "instruments": [
-    {
-     "name": "MegaLong 3X Cdn Gold",
-     "symbol": "CGMU"
-    }
-   ]
-  },
-  {
-   "symbol": "TLTD",
-   "name": "MegaShort (-3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TLTD.TO",
-   "instruments": [
-    {
-     "name": "MegaShort-3X 20+Y US",
-     "symbol": "TLTD"
-    }
-   ]
-  },
-  {
-   "symbol": "CGMD",
-   "name": "MegaShort (-3X) Canadian Gold Miners Daily Leveraged Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CGMD.TO",
-   "instruments": [
-    {
-     "name": "MegaShort-3X Cdn Gol",
-     "symbol": "CGMD"
-    }
-   ]
-  },
-  {
-   "symbol": "CHPGU",
-   "name": "ChampionsGate Acquisition Corporation - Unit",
+   "symbol": "CVNX",
+   "name": "Defiance Daily Target 2X Long CVNA ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHPGU"
+   "yahoo_symbol": "CVNX"
   },
   {
-   "symbol": "KCHVU",
-   "name": "Kochav Defense Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KCHVU"
+   "symbol": "TLPH",
+   "name": "Talphera, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLPH"
   },
   {
-   "symbol": "LOGO",
-   "name": "Alpha Brands Consumption Leaders ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LOGO"
+   "symbol": "WTGUU",
+   "name": "Wintergreen Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTGUU"
   },
   {
-   "symbol": "JENA.U",
-   "name": "Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right",
+   "symbol": "BHK.R",
+   "name": "Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "JENA.U"
+   "yahoo_symbol": "BHK.R"
+  },
+  {
+   "symbol": "KKRT",
+   "name": "KKR \u0026 Co. Inc. 6.875% Subordinated Notes due 2065",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KKRT"
+  },
+  {
+   "symbol": "QXO$B",
+   "name": "QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QXO$B"
   }
  ],
  "removed": [
   {
-   "symbol": "SYT",
-   "name": "SYLA Technologies Co., Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SYT"
+   "symbol": "BHK.V",
+   "name": "Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BHK.V"
   },
   {
-   "symbol": "HYMCW",
-   "name": "Hycroft Mining Holding Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HYMCW"
+   "symbol": "KMB",
+   "name": "Kimberly-Clark Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KMB"
+  },
+  {
+   "symbol": "TLPH",
+   "name": "Talphera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLPH"
+  },
+  {
+   "symbol": "AZUL",
+   "name": "Azul S.A. American Depositary Shares (each representing three preferred shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AZUL"
   }
  ]
 }

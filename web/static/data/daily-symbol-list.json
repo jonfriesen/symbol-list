@@ -1,5 +1,5 @@
 {
- "date": "2025-05-29",
+ "date": "2025-05-30",
  "data": [
   {
    "symbol": "ONE",
@@ -18674,6 +18674,10 @@
     {
      "name": "Alaris EqPart 6.25Db",
      "symbol": "AD.DB.A"
+    },
+    {
+     "name": "Alaris Eq PIT 6.5 Db",
+     "symbol": "AD.DB.B"
     },
     {
      "name": "Alaris Eq Part Tr Un",
@@ -45477,7 +45481,7 @@
   },
   {
    "symbol": "ANTE",
-   "name": "AirNet Technology Inc. - American Depositary Shares, each representing one ordinary shares",
+   "name": "AirNet Technology Inc. - Ordinary Share",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ANTE"
   },
@@ -50586,6 +50590,12 @@
    "name": "Commvault Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CVLT"
+  },
+  {
+   "symbol": "CVNX",
+   "name": "Defiance Daily Target 2X Long CVNA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVNX"
   },
   {
    "symbol": "CVRX",
@@ -69562,7 +69572,7 @@
   {
    "symbol": "TLPH",
    "name": "Talphera, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TLPH"
   },
   {
@@ -72254,6 +72264,12 @@
    "yahoo_symbol": "WTFCP"
   },
   {
+   "symbol": "WTGUU",
+   "name": "Wintergreen Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTGUU"
+  },
+  {
    "symbol": "WTMU",
    "name": "WisdomTree Core Laddered Municipal Fund",
    "exchange": "NASDAQ Global MarketSM",
@@ -74744,12 +74760,6 @@
    "yahoo_symbol": "AZTR"
   },
   {
-   "symbol": "AZUL",
-   "name": "Azul S.A. American Depositary Shares (each representing three preferred shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AZUL"
-  },
-  {
    "symbol": "AZZ",
    "name": "AZZ Inc.",
    "exchange": "NYSE",
@@ -75344,10 +75354,10 @@
    "yahoo_symbol": "BHK"
   },
   {
-   "symbol": "BHK.V",
-   "name": "Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued",
+   "symbol": "BHK.R",
+   "name": "Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "BHK.V"
+   "yahoo_symbol": "BHK.R"
   },
   {
    "symbol": "BHLB",
@@ -82838,6 +82848,12 @@
    "yahoo_symbol": "KKRS"
   },
   {
+   "symbol": "KKRT",
+   "name": "KKR \u0026 Co. Inc. 6.875% Subordinated Notes due 2065",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KKRT"
+  },
+  {
    "symbol": "KLC",
    "name": "KinderCare Learning Companies, Inc. Common Stock",
    "exchange": "NYSE",
@@ -82848,12 +82864,6 @@
    "name": "WK Kellogg Co Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "KLG"
-  },
-  {
-   "symbol": "KMB",
-   "name": "Kimberly-Clark Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KMB"
   },
   {
    "symbol": "KMI",
@@ -87348,6 +87358,12 @@
    "name": "QXO, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "QXO"
+  },
+  {
+   "symbol": "QXO$B",
+   "name": "QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QXO$B"
   },
   {
    "symbol": "R",

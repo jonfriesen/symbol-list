@@ -1530,7 +1530,7 @@ AC,Air Canada,TSX,AC.TO,Air Canada Vote & VV,AC
 BOS,AirBoss of America Corp.,TSX,BOS.TO,Airboss of America J,BOS
 AKT.A,Akita Drilling Ltd.,TSX,AKT.A.TO,Akita Drill Cl A NV,AKT.A,Akita Drilling Cl B,AKT.B
 AGI,Alamos Gold Inc.,TSX,AGI.TO,Alamos Gold Inc. J,AGI
-AD.DB.A,Alaris Equity Partners Income Trust,TSX,AD.DB.A.TO,Alaris EqPart 6.25Db,AD.DB.A,Alaris Eq Part Tr Un,AD.UN
+AD.DB.A,Alaris Equity Partners Income Trust,TSX,AD.DB.A.TO,Alaris EqPart 6.25Db,AD.DB.A,Alaris Eq PIT 6.5 Db,AD.DB.B,Alaris Eq Part Tr Un,AD.UN
 ALC,Algoma Central Corporation,TSX,ALC.TO,Algoma Central Corp,ALC
 ASTL,Algoma Steel Group Inc.,TSX,ASTL.TO,Algoma Steel Grp Inc,ASTL,Algoma Steel Grp Wt,ASTL.WT
 AQN,Algonquin Power & Utilities Corp.,TSX,AQN.TO,Algonquin Pwr & Util,AQN,Algonquin Pwr A Pr,AQN.PR.A,Algonquin Pwr D Pr,AQN.PR.D
@@ -3661,7 +3661,7 @@ ANSCU,Agriculture & Natural Solutions Acquisition Corporation - Unit,NASDAQ Glob
 ANSCW,Agriculture & Natural Solutions Acquisition Corporation - Warrant,NASDAQ Global MarketSM,ANSCW
 ANSS,"ANSYS, Inc. - Common Stock",NASDAQ Global Select MarketSM,ANSS
 ANTA,Antalpha Platform Holding Company - Ordinary Shares,NASDAQ Global MarketSM,ANTA
-ANTE,"AirNet Technology Inc. - American Depositary Shares, each representing one ordinary shares",NASDAQ Capital Market,ANTE
+ANTE,AirNet Technology Inc. - Ordinary Share,NASDAQ Capital Market,ANTE
 ANTX,"AN2 Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,ANTX
 ANY,Sphere 3D Corp. - Common Shares,NASDAQ Capital Market,ANY
 AOHY,Angel Oak High Yield Opportunities ETF,NASDAQ Global MarketSM,AOHY
@@ -4513,6 +4513,7 @@ CVGI,"Commercial Vehicle Group, Inc. - Common Stock",NASDAQ Global Select Market
 CVGW,"Calavo Growers, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVGW
 CVKD,"Cadrenal Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CVKD
 CVLT,"Commvault Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVLT
+CVNX,Defiance Daily Target 2X Long CVNA ETF,NASDAQ Global MarketSM,CVNX
 CVRX,"CVRx, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVRX
 CVV,CVD Equipment Corporation - Common Stock,NASDAQ Capital Market,CVV
 CWBC,Community West Bancshares - Common Stock,NASDAQ Capital Market,CWBC
@@ -7675,7 +7676,7 @@ TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",NASDAQ Capital Mar
 TKNO,"Alpha Teknova, Inc. - Common Stock",NASDAQ Global MarketSM,TKNO
 TLF,"Tandy Leather Factory, Inc. - common stock",NASDAQ Capital Market,TLF
 TLN,Talen Energy Corporation - Common Stock,NASDAQ Global Select MarketSM,TLN
-TLPH,"Talphera, Inc. - Common Stock",NASDAQ Global MarketSM,TLPH
+TLPH,"Talphera, Inc. - Common Stock",NASDAQ Capital Market,TLPH
 TLRY,"Tilray Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,TLRY
 TLS,Telos Corporation - Common Stock,NASDAQ Global MarketSM,TLS
 TLSA,Tiziana Life Sciences Ltd - Common Shares,NASDAQ Capital Market,TLSA
@@ -8124,6 +8125,7 @@ WTFC,Wintrust Financial Corporation - Common Stock,NASDAQ Global Select MarketSM
 WTFCM,"Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",NASDAQ Global Select MarketSM,WTFCM
 WTFCN,"Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share",NASDAQ Global Select MarketSM,WTFCN
 WTFCP,"Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",NASDAQ Global Select MarketSM,WTFCP
+WTGUU,Wintergreen Acquisition Corp. - Unit,NASDAQ Capital Market,WTGUU
 WTMU,WisdomTree Core Laddered Municipal Fund,NASDAQ Global MarketSM,WTMU
 WTMY,WisdomTree High Income Laddered Municipal Fund,NASDAQ Global MarketSM,WTMY
 WTO,UTime Limited - Ordinary Shares,NASDAQ Capital Market,WTO
@@ -8539,7 +8541,6 @@ AYI,Acuity Inc. Common Stock,NYSE,AYI
 AZEK,The AZEK Company Inc. Class A Common Stock,NYSE,AZEK
 AZO,"AutoZone, Inc. Common Stock",NYSE,AZO
 AZTR,Azitra Inc Common Stock,NYSE MKT,AZTR
-AZUL,Azul S.A. American Depositary Shares (each representing three preferred shares),NYSE,AZUL
 AZZ,AZZ Inc.,NYSE,AZZ
 B,Barrick Mining Corporation Common Shares,NYSE,B
 BA,Boeing Company (The) Common Stock,NYSE,BA
@@ -8639,7 +8640,7 @@ BHB,"Bar Harbor Bankshares, Inc. Common Stock",NYSE MKT,BHB
 BHC,Bausch Health Companies Inc. Common Stock,NYSE,BHC
 BHE,"Benchmark Electronics, Inc. Common Stock",NYSE,BHE
 BHK,Blackrock Core Bond Trust,NYSE,BHK
-BHK.V,"Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued",NYSE,BHK.V
+BHK.R,"Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights",NYSE,BHK.R
 BHLB,"Berkshire Hills Bancorp, Inc. Common Stock",NYSE,BHLB
 BHM,"Bluerock Homes Trust, Inc. Class A Common Stock",NYSE MKT,BHM
 BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),NYSE,BHP
@@ -9888,9 +9889,9 @@ KIO,KKR Income Opportunities Fund Common Shares,NYSE,KIO
 KKR,KKR & Co. Inc. Common Stock,NYSE,KKR
 KKR$D,KKR & Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock,NYSE,KKR$D
 KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,NYSE,KKRS
+KKRT,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,NYSE,KKRT
 KLC,"KinderCare Learning Companies, Inc. Common Stock",NYSE,KLC
 KLG,WK Kellogg Co Common Stock,NYSE,KLG
-KMB,Kimberly-Clark Corporation Common Stock,NYSE,KMB
 KMI,"Kinder Morgan, Inc. Common Stock",NYSE,KMI
 KMPB,Kemper Corporation 5.875% Fixed-Rate Reset Junior Subordinated Debentures due 2062,NYSE,KMPB
 KMPR,Kemper Corporation,NYSE,KMPR
@@ -10640,6 +10641,7 @@ QUAD,"Quad Graphics, Inc Class A Common Stock",NYSE,QUAD
 QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",NYSE,QVCC
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",NYSE,QVCD
 QXO,"QXO, Inc. Common Stock",NYSE,QXO
+QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",NYSE,QXO$B
 R,"Ryder System, Inc. Common Stock",NYSE,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,RA
 RAC,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,RAC
