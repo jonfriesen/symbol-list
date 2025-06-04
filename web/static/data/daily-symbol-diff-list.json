@@ -1,90 +1,96 @@
 {
  "added": [
   {
-   "symbol": "DAAQ",
-   "name": "Digital Asset Acquisition Corp. - Class A Ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DAAQ"
-  },
-  {
-   "symbol": "DAAQW",
-   "name": "Digital Asset Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DAAQW"
-  },
-  {
-   "symbol": "MINM",
-   "name": "Minim, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MINM"
-  },
-  {
-   "symbol": "RAAQ",
-   "name": "Real Asset Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RAAQ"
-  },
-  {
-   "symbol": "RAAQW",
-   "name": "Real Asset Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RAAQW"
-  },
-  {
-   "symbol": "TACH",
-   "name": "Titan Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TACH"
-  },
-  {
-   "symbol": "TACHW",
-   "name": "Titan Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TACHW"
-  },
-  {
-   "symbol": "TRUG",
-   "name": "TruGolf Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TRUG"
-  }
- ],
- "removed": [
-  {
-   "symbol": "CMD",
-   "name": "Commander Resources Ltd.",
+   "symbol": "PUL",
+   "name": "Pulse Oil Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CMD.V",
+   "yahoo_symbol": "PUL.V",
    "instruments": [
     {
-     "name": "Commander Resources Ltd.",
-     "symbol": "CMD"
+     "name": "Pulse Oil Corp.",
+     "symbol": "PUL"
     }
    ]
   },
   {
-   "symbol": "TRUG",
-   "name": "TruGolf Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRUG"
+   "symbol": "AAPU",
+   "name": "SavvyLong (2X) AAPL ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AAPU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) AAPL",
+     "symbol": "AAPU"
+    }
+   ]
   },
   {
-   "symbol": "HEES",
-   "name": "H\u0026E Equipment Services, Inc. - Common Stock",
+   "symbol": "AMZU",
+   "name": "SavvyLong (2X) AMZN ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMZU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) AMZN",
+     "symbol": "AMZU"
+    }
+   ]
+  },
+  {
+   "symbol": "ALPU",
+   "name": "SavvyLong (2X) GOOGL ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ALPU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2X GOOGL E",
+     "symbol": "ALPU"
+    }
+   ]
+  },
+  {
+   "symbol": "MSFU",
+   "name": "SavvyLong (2X) MSFT ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSFU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) MSFT",
+     "symbol": "MSFU"
+    }
+   ]
+  },
+  {
+   "symbol": "NVDU",
+   "name": "SavvyLong (2X) NVDA ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVDU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) NVDA",
+     "symbol": "NVDU"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLU",
+   "name": "SavvyLong (2X) TSLA ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) TSLA",
+     "symbol": "TSLU"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LOGC",
+   "name": "ContextLogic Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HEES"
-  },
-  {
-   "symbol": "CLEU",
-   "name": "China Liberal Education Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CLEU"
-  },
-  {
-   "symbol": "BLUE",
-   "name": "bluebird bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BLUE"
+   "yahoo_symbol": "LOGC"
   }
  ]
 }
