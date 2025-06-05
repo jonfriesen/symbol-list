@@ -136,6 +136,7 @@ AVCR,Avricore Health Inc.,TSXV,AVCR.V,Avricore Health Inc.,AVCR
 AVU,Avrupa Minerals Ltd.,TSXV,AVU.V,Avrupa Minerals Ltd.,AVU
 ARIC,Awale Resources Limited,TSXV,ARIC.V,Awale Resources Limited,ARIC
 AXET.P,Axe2 Acquisitions Inc.,TSXV,AXET.P.V,Axe2 Acquisitions Inc.,AXET.P
+AXO,Axo Copper Corp.,TSXV,AXO.V,Axo Copper Corp.,AXO
 AZR,Azarga Metals Corp.,TSXV,AZR.V,Azarga Metals Corp.,AZR
 AZM,Azimut Exploration Inc.,TSXV,AZM.V,Azimut Exploration Inc.,AZM
 AAZ,Azincourt Energy Corp.,TSXV,AAZ.V,Azincourt Energy Corp.,AAZ
@@ -2804,7 +2805,6 @@ MGDV,Mackenzie Global Dividend ETF,TSX,MGDV.TO,Mack Global Div ETF,MGDV
 MGQE,Mackenzie Global Equity ETF,TSX,MGQE.TO,Mack Glbl Equity ETF,MGQE
 MGAB,Mackenzie Global Fixed Income Allocation ETF,TSX,MGAB.TO,Mackenzie GlbFixIncm,MGAB
 QINF,Mackenzie Global Infrastructure Index ETF,TSX,QINF.TO,MackenzieGlbl Infras,QINF
-MDVD,Mackenzie Global Sustainable Dividend Index ETF,TSX,MDVD.TO,MackenzieGlbl SusDiv,MDVD,MackenzieGlbSusDivUS,MDVD.U
 MGRW,Mackenzie Growth Allocation ETF,TSX,MGRW.TO,Mackenzie GrwthAlloc,MGRW
 MIQE,Mackenzie International Equity ETF,TSX,MIQE.TO,Mack Intl Eqty ETF,MIQE
 QDX,Mackenzie International Equity Index ETF,TSX,QDX.TO,Mackenzie IntlEq Idx,QDX
@@ -2818,7 +2818,7 @@ MUB,Mackenzie Unconstrained Bond ETF,TSX,MUB.TO,Mackenzie Uncnstrn E,MUB
 QTLT,Mackenzie US Government Long Bond Index ETF,TSX,QTLT.TO,Mackenzie USGvtLgBnd,QTLT
 QHY,Mackenzie US High Yield Bond Index ETF (CAD-Hedged),TSX,QHY.TO,Mackenzie USBndCAD-H,QHY
 QUIG,Mackenzie US Investment Grade Corporate Bond Index ETF (CAD-Hedged),TSX,QUIG.TO,Mackenzie USCrpBnd E,QUIG
-QUU,Mackenzie US Large Cap Equity Index ETF,TSX,QUU.TO,Mackenzie USLrgCapEq,QUU,MackenzieUSLrgCpEqUS,QUU.U
+QUU,Mackenzie US Large Cap Equity Index ETF,TSX,QUU.TO,Mackenzie USLrgCapEq,QUU
 QAH,Mackenzie US Large Cap Equity Index ETF (CAD-Hedged),TSX,QAH.TO,MackenzieUS LrgCapCH,QAH
 MULV,Mackenzie US Low Volatility ETF,TSX,MULV.TO,Mack US Low Vol ETF,MULV
 MWLV,Mackenzie World Low Volatility ETF,TSX,MWLV.TO,Mack Wrld L Vol ETF,MWLV
@@ -4065,9 +4065,6 @@ BSCX,Invesco BulletShares 2033 Corporate Bond ETF,NASDAQ Global MarketSM,BSCX
 BSCY,Invesco BulletShares 2034 Corporate Bond ETF,NASDAQ Global MarketSM,BSCY
 BSET,"Bassett Furniture Industries, Incorporated - Common Stock",NASDAQ Global Select MarketSM,BSET
 BSGM,"BioSig Technologies, Inc. - Common Stock",NASDAQ Capital Market,BSGM
-BSII,Black Spade Acquisition II Co - Class A Ordinary Share,NASDAQ Global MarketSM,BSII
-BSIIU,Black Spade Acquisition II Co - unit,NASDAQ Global MarketSM,BSIIU
-BSIIW,Black Spade Acquisition II Co - Warrant,NASDAQ Global MarketSM,BSIIW
 BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJP
 BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJQ
 BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJR
@@ -4118,6 +4115,7 @@ BULL,Webull Corporation - Class A Ordinary Shares,NASDAQ Capital Market,BULL
 BULLW,Webull Corporation - Warrants,NASDAQ Capital Market,BULLW
 BULLZ,Webull Corporation - Incentive Warrant,NASDAQ Capital Market,BULLZ
 BUSE,First Busey Corporation - Common Stock,NASDAQ Global Select MarketSM,BUSE
+BUSEP,"First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value",NASDAQ Global Select MarketSM,BUSEP
 BVFL,"BV Financial, Inc. - Common Stock",NASDAQ Capital Market,BVFL
 BVS,Bioventus Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,BVS
 BWAY,BrainsWay Ltd. - American Depositary Shares,NASDAQ Global MarketSM,BWAY
@@ -6046,7 +6044,7 @@ LYRA,"Lyra Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,LYRA
 LYTS,LSI Industries Inc. - Common Stock,NASDAQ Global Select MarketSM,LYTS
 LZ,"LegalZoom.com, Inc. - Common Stock",NASDAQ Global Select MarketSM,LZ
 LZMH,LZ Technology Holdings Limited - Class B Ordinary Shares,NASDAQ Capital Market,LZMH
-MAAS,Highest Performances Holdings Inc. - American Depository Shares,NASDAQ Global MarketSM,MAAS
+MAAS,Maase Inc. - American Depository Shares,NASDAQ Global MarketSM,MAAS
 MACI,Melar Acquisition Corp. I - Class A Ordinary Shares,NASDAQ Global MarketSM,MACI
 MACIU,Melar Acquisition Corp. I - Unit,NASDAQ Global MarketSM,MACIU
 MACIW,Melar Acquisition Corp. I - Warrant,NASDAQ Global MarketSM,MACIW
@@ -7262,6 +7260,8 @@ SDA,SunCar Technology Group Inc. - Ordinary Shares,NASDAQ Capital Market,SDA
 SDAWW,SunCar Technology Group Inc. - Warrant,NASDAQ Capital Market,SDAWW
 SDG,iShares MSCI Global Sustainable Development Goals ETF,NASDAQ Global MarketSM,SDG
 SDGR,"Schrodinger, Inc. - Common Stock",NASDAQ Global Select MarketSM,SDGR
+SDHI,Siddhi Acquisition Corp - Class A Common stock,NASDAQ Global MarketSM,SDHI
+SDHIR,Siddhi Acquisition Corp - Right,NASDAQ Global MarketSM,SDHIR
 SDHIU,Siddhi Acquisition Corp - Unit,NASDAQ Global MarketSM,SDHIU
 SDM,Smart Digital Group Limited - Ordinary Shares,NASDAQ Capital Market,SDM
 SDOT,Sadot Group Inc. - Common Stock,NASDAQ Capital Market,SDOT
@@ -8706,6 +8706,7 @@ BML$H,"Bank of America Corporation Depositary Shares (Each representing a 1/1200
 BML$J,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)",NYSE,BML$J
 BML$L,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)",NYSE,BML$L
 BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,NYSE,BMN
+BMNR,"BitMine Immersion Technologies, Inc. Common Stock",NYSE MKT,BMNR
 BMO,Bank Of Montreal Common Stock,NYSE,BMO
 BMY,Bristol-Myers Squibb Company Common Stock,NYSE,BMY
 BN,Brookfield Corporation Class A Limited Voting Shares,NYSE,BN
@@ -8993,6 +8994,7 @@ CR,Crane Company Common Stock,NYSE,CR
 CRBD,Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064,NYSE,CRBD
 CRBG,Corebridge Financial Inc. Common Stock,NYSE,CRBG
 CRC,California Resources Corporation Common Stock,NYSE,CRC
+CRCL,"Circle Internet Group, Inc. Class A Common Stock",NYSE,CRCL
 CRD.A,Crawford & Company Common Stock,NYSE,CRD.A
 CRD.B,Crawford & Company Common Stock,NYSE,CRD.B
 CRF,"Cornerstone Total Return Fund, Inc. (The) Common Stock",NYSE MKT,CRF
@@ -11067,6 +11069,8 @@ TFSA,"Terra Income Fund 6, LLC 7.00% Notes due 2026",NYSE,TFSA
 TFX,Teleflex Incorporated Common Stock,NYSE,TFX
 TG,Tredegar Corporation Common Stock,NYSE,TG
 TGB,"Taseko Mines, Ltd. Common Stock",NYSE MKT,TGB
+TGE,The Generation Essentials Group Class A Ordinary Shares,NYSE,TGE
+TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",NYSE MKT,TGE.W
 TGEN,Tecogen Inc. Common Stock,NYSE MKT,TGEN
 TGI,"Triumph Group, Inc. Common Stock",NYSE,TGI
 TGLS,Tecnoglass Inc. Ordinary Shares,NYSE,TGLS

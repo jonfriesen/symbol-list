@@ -1,5 +1,5 @@
 {
- "date": "2025-06-04",
+ "date": "2025-06-05",
  "data": [
   {
    "symbol": "ONE",
@@ -1654,6 +1654,18 @@
     {
      "name": "Axe2 Acquisitions Inc.",
      "symbol": "AXET.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AXO",
+   "name": "Axo Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AXO.V",
+   "instruments": [
+    {
+     "name": "Axo Copper Corp.",
+     "symbol": "AXO"
     }
    ]
   },
@@ -35954,22 +35966,6 @@
    ]
   },
   {
-   "symbol": "MDVD",
-   "name": "Mackenzie Global Sustainable Dividend Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MDVD.TO",
-   "instruments": [
-    {
-     "name": "MackenzieGlbl SusDiv",
-     "symbol": "MDVD"
-    },
-    {
-     "name": "MackenzieGlbSusDivUS",
-     "symbol": "MDVD.U"
-    }
-   ]
-  },
-  {
    "symbol": "MGRW",
    "name": "Mackenzie Growth Allocation ETF",
    "exchange": "TSX",
@@ -36134,10 +36130,6 @@
     {
      "name": "Mackenzie USLrgCapEq",
      "symbol": "QUU"
-    },
-    {
-     "name": "MackenzieUSLrgCpEqUS",
-     "symbol": "QUU.U"
     }
    ]
   },
@@ -47962,24 +47954,6 @@
    "yahoo_symbol": "BSGM"
   },
   {
-   "symbol": "BSII",
-   "name": "Black Spade Acquisition II Co - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSII"
-  },
-  {
-   "symbol": "BSIIU",
-   "name": "Black Spade Acquisition II Co - unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSIIU"
-  },
-  {
-   "symbol": "BSIIW",
-   "name": "Black Spade Acquisition II Co - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSIIW"
-  },
-  {
    "symbol": "BSJP",
    "name": "Invesco BulletShares 2025 High Yield Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -48278,6 +48252,12 @@
    "name": "First Busey Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BUSE"
+  },
+  {
+   "symbol": "BUSEP",
+   "name": "First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BUSEP"
   },
   {
    "symbol": "BVFL",
@@ -59849,7 +59829,7 @@
   },
   {
    "symbol": "MAAS",
-   "name": "Highest Performances Holdings Inc. - American Depository Shares",
+   "name": "Maase Inc. - American Depository Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MAAS"
   },
@@ -67142,6 +67122,18 @@
    "name": "Schrodinger, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SDGR"
+  },
+  {
+   "symbol": "SDHI",
+   "name": "Siddhi Acquisition Corp - Class A Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDHI"
+  },
+  {
+   "symbol": "SDHIR",
+   "name": "Siddhi Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDHIR"
   },
   {
    "symbol": "SDHIU",
@@ -75808,6 +75800,12 @@
    "yahoo_symbol": "BMN"
   },
   {
+   "symbol": "BMNR",
+   "name": "BitMine Immersion Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BMNR"
+  },
+  {
    "symbol": "BMO",
    "name": "Bank Of Montreal Common Stock",
    "exchange": "NYSE",
@@ -77528,6 +77526,12 @@
    "name": "California Resources Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CRC"
+  },
+  {
+   "symbol": "CRCL",
+   "name": "Circle Internet Group, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CRCL"
   },
   {
    "symbol": "CRD.A",
@@ -89972,6 +89976,18 @@
    "name": "Taseko Mines, Ltd. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "TGB"
+  },
+  {
+   "symbol": "TGE",
+   "name": "The Generation Essentials Group Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGE"
+  },
+  {
+   "symbol": "TGE.W",
+   "name": "The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TGE.W"
   },
   {
    "symbol": "TGEN",
