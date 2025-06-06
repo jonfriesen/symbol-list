@@ -512,6 +512,7 @@ FREQ,Frequency Exchange Corp.,TSXV,FREQ.V,Frequency Exchange Corp.,FREQ
 FRNT,FRNT Financial Inc.,TSXV,FRNT.V,FRNT Financial Inc.,FRNT
 FL,Frontier Lithium Inc.,TSXV,FL.V,Frontier Lithium Inc.,FL
 FTI,FTI Foodtech International Inc.,TSXV,FTI.V,FTI Foodtech International Inc.,FTI
+NHHH,FuelPositive Corporation,TSXV,NHHH.V,FuelPositive Corporation,NHHH
 FMT,Fuerte Metals Corporation.,TSXV,FMT.V,Fuerte Metals Corporation.,FMT
 FCLI,Full Circle Lithium Corp.,TSXV,FCLI.V,Full Circle Lithium Corp.,FCLI
 FMM,Full Metal Minerals Ltd.,TSXV,FMM.V,Full Metal Minerals Ltd.,FMM
@@ -1522,7 +1523,7 @@ AMD,Advanced Micro Devices CDR (CAD Hedged),TSX,AMD.TO,AMD CDR CAD Hedged,AMD
 AAV,Advantage Energy Ltd.,TSX,AAV.TO,Advantage Energy Ltd,AAV,Adv Engy5.0 USub Db ,AAV.DB
 ARE,Aecon Group Inc.,TSX,ARE.TO,Aecon Group Inc.,ARE
 AEG,Aegis Brands Inc.,TSX,AEG.TO,Aegis Brands Inc.,AEG
-AFN,Ag Growth International Inc.,TSX,AFN.TO,Ag Growth Int'l Inc.,AFN,AG GrowthIntlDec26Db,AFN.DB.H,Ag Growth Intl 5% DB,AFN.DB.I,Ag Growth Intl 5.2Db,AFN.DB.J
+AFN,Ag Growth International Inc.,TSX,AFN.TO,Ag Growth Int'l Inc.,AFN,AG GrowthIntlDec26Db,AFN.DB.H,Ag Growth Intl 5% DB,AFN.DB.I,Ag Growth Intl 5.2Db,AFN.DB.J,Ag Growth Intl 7.5DB,AFN.DB.K
 AGF.B,AGF Management Limited,TSX,AGF.B.TO,AGF Management B NV,AGF.B
 QBTL,AGF US Market Neutral Anti-Beta CAD-Hedged ETF,TSX,QBTL.TO,AGF US Anti-BetaCAHg,QBTL
 AEM,Agnico Eagle Mines Limited,TSX,AEM.TO,Agnico Eagle Mines,AEM
@@ -4974,6 +4975,7 @@ FFBC,First Financial Bancorp. - Common Stock,NASDAQ Global Select MarketSM,FFBC
 FFIC,Flushing Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,FFIC
 FFIN,"First Financial Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,FFIN
 FFIV,"F5, Inc. - Common Stock",NASDAQ Global Select MarketSM,FFIV
+FFUT,Fidelity Managed Futures ETF,NASDAQ Global MarketSM,FFUT
 FGBI,"First Guaranty Bancshares, Inc. - Common Stock",NASDAQ Global MarketSM,FGBI
 FGBIP,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",NASDAQ Global MarketSM,FGBIP
 FGEN,"FibroGen, Inc - Common Stock",NASDAQ Global Select MarketSM,FGEN
@@ -5801,7 +5803,7 @@ KG,"Kestrel Group, Ltd. - Common Stock",NASDAQ Capital Market,KG
 KGEI,Kolibri Global Energy Inc. - Common stock,NASDAQ Capital Market,KGEI
 KHC,The Kraft Heinz Company - Common Stock,NASDAQ Global Select MarketSM,KHC
 KIDS,OrthoPediatrics Corp. - Common Stock,NASDAQ Global MarketSM,KIDS
-KIDZ,"Classover Holdings, Inc. - Class B Common Stock",NASDAQ Global MarketSM,KIDZ
+KIDZ,"Classover Holdings, Inc. - Class B Common Stock",NASDAQ Capital Market,KIDZ
 KIDZW,"Classover Holdings, Inc. - Warrants",NASDAQ Capital Market,KIDZW
 KINS,"Kingstone Companies, Inc - Common Stock",NASDAQ Capital Market,KINS
 KIRK,"Kirkland's, Inc. - Common Stock",NASDAQ Global Select MarketSM,KIRK
@@ -5821,6 +5823,7 @@ KNDI,"Kandi Technologies Group, Inc. - Ordinary Shares",NASDAQ Global Select Mar
 KNGZ,First Trust S&P 500 Diversified Dividend Aristocrats ETF,NASDAQ Global MarketSM,KNGZ
 KNSA,"Kiniksa Pharmaceuticals, Ltd. - Class A Ordinary Shares",NASDAQ Global Select MarketSM,KNSA
 KOD,Kodiak Sciences Inc - Common Stock,NASDAQ Global MarketSM,KOD
+KOID,KraneShares Global Humanoid and Embodied Intelligence Index ETF,NASDAQ Global MarketSM,KOID
 KOPN,Kopin Corporation - Common Stock,NASDAQ Capital Market,KOPN
 KOSS,Koss Corporation - Common Stock,NASDAQ Capital Market,KOSS
 KPDD,KraneShares 2x Long PDD Daily ETF,NASDAQ Global MarketSM,KPDD
@@ -6153,7 +6156,7 @@ MGRX,"Mangoceuticals, Inc. - Common Stock",NASDAQ Capital Market,MGRX
 MGTX,MeiraGTx Holdings plc - Ordinary Shares,NASDAQ Global Select MarketSM,MGTX
 MGX,"Metagenomi, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGX
 MGYR,"Magyar Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,MGYR
-MHUA,"Meihua International Medical Technologies Co., Ltd. - Ordinary Shares",NASDAQ Global MarketSM,MHUA
+MHUA,"Meihua International Medical Technologies Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,MHUA
 MIDD,The Middleby Corporation - Common Stock,NASDAQ Global Select MarketSM,MIDD
 MIGI,Mawson Infrastructure Group Inc. - Common Stock,NASDAQ Capital Market,MIGI
 MILN,Global X Millennial Consumer ETF,NASDAQ Global MarketSM,MILN
@@ -7599,7 +7602,9 @@ SZZLU,Sizzle Acquisition Corp. II - Unit,NASDAQ Global MarketSM,SZZLU
 TACH,Titan Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,TACH
 TACHU,Titan Acquisition Corp. - Units,NASDAQ Global MarketSM,TACHU
 TACHW,Titan Acquisition Corp. - Warrants,NASDAQ Global MarketSM,TACHW
+TACO,Berto Acquisition Corp. - Ordinary Shares,NASDAQ Global MarketSM,TACO
 TACOU,Berto Acquisition Corp. - unit,NASDAQ Global MarketSM,TACOU
+TACOW,Berto Acquisition Corp. - Warrant,NASDAQ Global MarketSM,TACOW
 TACT,TransAct Technologies Incorporated - Common Stock,NASDAQ Global MarketSM,TACT
 TAIT,Taitron Components Incorporated - Class A Common Stock,NASDAQ Capital Market,TAIT
 TALK,"Talkspace, Inc. - Common Stock",NASDAQ Capital Market,TALK
@@ -7923,6 +7928,7 @@ VALN,Valneva SE - American Depositary Shares,NASDAQ Global Select MarketSM,VALN
 VALU,"Value Line, Inc. - Common Stock",NASDAQ Capital Market,VALU
 VANI,"Vivani Medical, Inc.  - Common Stock",NASDAQ Capital Market,VANI
 VBIL,Vanguard 0-3 Month Treasury Bill ETF,NASDAQ Global MarketSM,VBIL
+VBIX,Viewbix Inc. - Common Stock ,NASDAQ Capital Market,VBIX
 VBNK,VersaBank - Common Shares,NASDAQ Global Select MarketSM,VBNK
 VBTX,"Veritex Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,VBTX
 VC,Visteon Corporation - Common Stock,NASDAQ Global Select MarketSM,VC

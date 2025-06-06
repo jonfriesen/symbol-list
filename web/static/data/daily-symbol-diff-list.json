@@ -1,94 +1,72 @@
 {
  "added": [
   {
-   "symbol": "AXO",
-   "name": "Axo Copper Corp.",
+   "symbol": "NHHH",
+   "name": "FuelPositive Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "AXO.V",
+   "yahoo_symbol": "NHHH.V",
    "instruments": [
     {
-     "name": "Axo Copper Corp.",
-     "symbol": "AXO"
+     "name": "FuelPositive Corporation",
+     "symbol": "NHHH"
     }
    ]
   },
   {
-   "symbol": "BUSEP",
-   "name": "First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BUSEP"
-  },
-  {
-   "symbol": "SDHI",
-   "name": "Siddhi Acquisition Corp - Class A Common stock",
+   "symbol": "FFUT",
+   "name": "Fidelity Managed Futures ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SDHI"
+   "yahoo_symbol": "FFUT"
   },
   {
-   "symbol": "SDHIR",
-   "name": "Siddhi Acquisition Corp - Right",
+   "symbol": "KIDZ",
+   "name": "Classover Holdings, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KIDZ"
+  },
+  {
+   "symbol": "KOID",
+   "name": "KraneShares Global Humanoid and Embodied Intelligence Index ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SDHIR"
+   "yahoo_symbol": "KOID"
   },
   {
-   "symbol": "BMNR",
-   "name": "BitMine Immersion Technologies, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BMNR"
+   "symbol": "MHUA",
+   "name": "Meihua International Medical Technologies Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MHUA"
   },
   {
-   "symbol": "CRCL",
-   "name": "Circle Internet Group, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CRCL"
+   "symbol": "TACO",
+   "name": "Berto Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACO"
   },
   {
-   "symbol": "TGE",
-   "name": "The Generation Essentials Group Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TGE"
+   "symbol": "TACOW",
+   "name": "Berto Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACOW"
   },
   {
-   "symbol": "TGE.W",
-   "name": "The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "TGE.W"
+   "symbol": "VBIX",
+   "name": "Viewbix Inc. - Common Stock ",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBIX"
   }
  ],
  "removed": [
   {
-   "symbol": "BSIIU",
-   "name": "Black Spade Acquisition II Co - unit",
+   "symbol": "KIDZ",
+   "name": "Classover Holdings, Inc. - Class B Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSIIU"
+   "yahoo_symbol": "KIDZ"
   },
   {
-   "symbol": "BSII",
-   "name": "Black Spade Acquisition II Co - Class A Ordinary Share",
+   "symbol": "MHUA",
+   "name": "Meihua International Medical Technologies Co., Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSII"
-  },
-  {
-   "symbol": "MDVD",
-   "name": "Mackenzie Global Sustainable Dividend Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MDVD.TO",
-   "instruments": [
-    {
-     "name": "MackenzieGlbl SusDiv",
-     "symbol": "MDVD"
-    },
-    {
-     "name": "MackenzieGlbSusDivUS",
-     "symbol": "MDVD.U"
-    }
-   ]
-  },
-  {
-   "symbol": "BSIIW",
-   "name": "Black Spade Acquisition II Co - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSIIW"
+   "yahoo_symbol": "MHUA"
   }
  ]
 }
