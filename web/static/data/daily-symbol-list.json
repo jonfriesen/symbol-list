@@ -1,5 +1,5 @@
 {
- "date": "2025-06-06",
+ "date": "2025-06-09",
  "data": [
   {
    "symbol": "ONE",
@@ -12522,14 +12522,14 @@
    ]
   },
   {
-   "symbol": "PRSN",
+   "symbol": "KEEK",
    "name": "Personas Social Incorporated",
    "exchange": "TSXV",
-   "yahoo_symbol": "PRSN.V",
+   "yahoo_symbol": "KEEK.V",
    "instruments": [
     {
      "name": "Personas Social Incorporated",
-     "symbol": "PRSN"
+     "symbol": "KEEK"
     }
    ]
   },
@@ -50490,12 +50490,6 @@
    "yahoo_symbol": "CSWCZ"
   },
   {
-   "symbol": "CSWI",
-   "name": "CSW Industrials, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CSWI"
-  },
-  {
    "symbol": "CSX",
    "name": "CSX Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61452,6 +61446,18 @@
    "yahoo_symbol": "NAMI"
   },
   {
+   "symbol": "NAMM",
+   "name": "Namib Minerals - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NAMM"
+  },
+  {
+   "symbol": "NAMMW",
+   "name": "Namib Minerals - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAMMW"
+  },
+  {
    "symbol": "NAMS",
    "name": "NewAmsterdam Pharma Company N.V. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -63042,6 +63048,12 @@
    "yahoo_symbol": "OMCL"
   },
   {
+   "symbol": "OMDA",
+   "name": "Omada Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OMDA"
+  },
+  {
    "symbol": "OMER",
    "name": "Omeros Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -64354,6 +64366,12 @@
    "name": "Direxion Daily PLTR Bull 2X Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PLTU"
+  },
+  {
+   "symbol": "PLTZ",
+   "name": "Defiance Daily Target 2x Short PLTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLTZ"
   },
   {
    "symbol": "PLUG",
@@ -66676,6 +66694,12 @@
    "name": "VanEck Retail ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RTH"
+  },
+  {
+   "symbol": "RTXG",
+   "name": "Leverage Shares 2X Long RTX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTXG"
   },
   {
    "symbol": "RUM",
@@ -73284,6 +73308,12 @@
    "yahoo_symbol": "AAT"
   },
   {
+   "symbol": "AAUC",
+   "name": "Allied Gold Corporation Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAUC"
+  },
+  {
    "symbol": "AB",
    "name": "AllianceBernstein Holding L.P.  Units",
    "exchange": "NYSE",
@@ -77674,6 +77704,12 @@
    "name": "Carriage Services, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CSV"
+  },
+  {
+   "symbol": "CSW",
+   "name": "CSW Industrials, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSW"
   },
   {
    "symbol": "CTA$A",
@@ -88158,10 +88194,10 @@
    "yahoo_symbol": "RSF"
   },
   {
-   "symbol": "RSF.V",
-   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights when issued",
+   "symbol": "RSF.R",
+   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "RSF.V"
+   "yahoo_symbol": "RSF.R"
   },
   {
    "symbol": "RSG",

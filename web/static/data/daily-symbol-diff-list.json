@@ -1,72 +1,90 @@
 {
  "added": [
   {
-   "symbol": "NHHH",
-   "name": "FuelPositive Corporation",
+   "symbol": "KEEK",
+   "name": "Personas Social Incorporated",
    "exchange": "TSXV",
-   "yahoo_symbol": "NHHH.V",
+   "yahoo_symbol": "KEEK.V",
    "instruments": [
     {
-     "name": "FuelPositive Corporation",
-     "symbol": "NHHH"
+     "name": "Personas Social Incorporated",
+     "symbol": "KEEK"
     }
    ]
   },
   {
-   "symbol": "FFUT",
-   "name": "Fidelity Managed Futures ETF",
+   "symbol": "NAMM",
+   "name": "Namib Minerals - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FFUT"
+   "yahoo_symbol": "NAMM"
   },
   {
-   "symbol": "KIDZ",
-   "name": "Classover Holdings, Inc. - Class B Common Stock",
+   "symbol": "NAMMW",
+   "name": "Namib Minerals - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KIDZ"
+   "yahoo_symbol": "NAMMW"
   },
   {
-   "symbol": "KOID",
-   "name": "KraneShares Global Humanoid and Embodied Intelligence Index ETF",
+   "symbol": "OMDA",
+   "name": "Omada Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OMDA"
+  },
+  {
+   "symbol": "PLTZ",
+   "name": "Defiance Daily Target 2x Short PLTR ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KOID"
+   "yahoo_symbol": "PLTZ"
   },
   {
-   "symbol": "MHUA",
-   "name": "Meihua International Medical Technologies Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MHUA"
-  },
-  {
-   "symbol": "TACO",
-   "name": "Berto Acquisition Corp. - Ordinary Shares",
+   "symbol": "RTXG",
+   "name": "Leverage Shares 2X Long RTX Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TACO"
+   "yahoo_symbol": "RTXG"
   },
   {
-   "symbol": "TACOW",
-   "name": "Berto Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TACOW"
+   "symbol": "AAUC",
+   "name": "Allied Gold Corporation Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAUC"
   },
   {
-   "symbol": "VBIX",
-   "name": "Viewbix Inc. - Common Stock ",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VBIX"
+   "symbol": "CSW",
+   "name": "CSW Industrials, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSW"
+  },
+  {
+   "symbol": "RSF.R",
+   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RSF.R"
   }
  ],
  "removed": [
   {
-   "symbol": "KIDZ",
-   "name": "Classover Holdings, Inc. - Class B Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KIDZ"
+   "symbol": "PRSN",
+   "name": "Personas Social Incorporated",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PRSN.V",
+   "instruments": [
+    {
+     "name": "Personas Social Incorporated",
+     "symbol": "PRSN"
+    }
+   ]
   },
   {
-   "symbol": "MHUA",
-   "name": "Meihua International Medical Technologies Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MHUA"
+   "symbol": "CSWI",
+   "name": "CSW Industrials, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSWI"
+  },
+  {
+   "symbol": "RSF.V",
+   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RSF.V"
   }
  ]
 }
