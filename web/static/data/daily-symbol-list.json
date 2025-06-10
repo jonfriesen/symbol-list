@@ -1,5 +1,5 @@
 {
- "date": "2025-06-09",
+ "date": "2025-06-10",
  "data": [
   {
    "symbol": "ONE",
@@ -6902,18 +6902,6 @@
    ]
   },
   {
-   "symbol": "GODB.P",
-   "name": "Goodbridge Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GODB.P.V",
-   "instruments": [
-    {
-     "name": "Goodbridge Capital Corp.",
-     "symbol": "GODB.P"
-    }
-   ]
-  },
-  {
    "symbol": "GSS",
    "name": "Gossan Resources Limited",
    "exchange": "TSXV",
@@ -7998,6 +7986,18 @@
     {
      "name": "Identillect Technologies Corp.",
      "symbol": "ID"
+    }
+   ]
+  },
+  {
+   "symbol": "IDEX",
+   "name": "IDEX Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IDEX.V",
+   "instruments": [
+    {
+     "name": "IDEX Metals Corp.",
+     "symbol": "IDEX"
     }
    ]
   },
@@ -14590,18 +14590,6 @@
     {
      "name": "Sherpa II Holdings Corp.",
      "symbol": "SHRP"
-    }
-   ]
-  },
-  {
-   "symbol": "RENT.P",
-   "name": "Shine Box Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RENT.P.V",
-   "instruments": [
-    {
-     "name": "Shine Box Capital Corp.",
-     "symbol": "RENT.P"
     }
    ]
   },
@@ -48684,10 +48672,22 @@
    "yahoo_symbol": "CCCC"
   },
   {
+   "symbol": "CCCM",
+   "name": "Columbus Circle Capital Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCM"
+  },
+  {
    "symbol": "CCCMU",
    "name": "Columbus Circle Capital Corp I - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CCCMU"
+  },
+  {
+   "symbol": "CCCMW",
+   "name": "Columbus Circle Capital Corp I - Warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCMW"
   },
   {
    "symbol": "CCCS",
@@ -57990,6 +57990,12 @@
    "yahoo_symbol": "JDZG"
   },
   {
+   "symbol": "JEM",
+   "name": "707 Cayman Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JEM"
+  },
+  {
    "symbol": "JEPQ",
    "name": "JPMorgan Nasdaq Equity Premium Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -59750,7 +59756,7 @@
   {
    "symbol": "LVLU",
    "name": "Lulu's Fashion Lounge Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LVLU"
   },
   {
@@ -62782,12 +62788,6 @@
    "name": "Oak Woods Acquisition Corporation - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "OAKUW"
-  },
-  {
-   "symbol": "OB",
-   "name": "Outbrain Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OB"
   },
   {
    "symbol": "OBIL",
@@ -66684,10 +66684,22 @@
    "yahoo_symbol": "RSVRW"
   },
   {
+   "symbol": "RTAC",
+   "name": "Renatus Tactical Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTAC"
+  },
+  {
    "symbol": "RTACU",
    "name": "Renatus Tactical Acquisition Corp I - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RTACU"
+  },
+  {
+   "symbol": "RTACW",
+   "name": "Renatus Tactical Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTACW"
   },
   {
    "symbol": "RTH",
@@ -66892,6 +66904,12 @@
    "name": "Safety Insurance Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SAFT"
+  },
+  {
+   "symbol": "SAFX",
+   "name": "XCF Global, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAFX"
   },
   {
    "symbol": "SAGE",
@@ -69526,6 +69544,12 @@
    "name": "ThredUp Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TDUP"
+  },
+  {
+   "symbol": "TEAD",
+   "name": "Teads Holding Co. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TEAD"
   },
   {
    "symbol": "TEAM",
@@ -80538,12 +80562,6 @@
    "yahoo_symbol": "GB"
   },
   {
-   "symbol": "GB.W",
-   "name": "Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holding AG at a price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GB.W"
-  },
-  {
    "symbol": "GBAB",
    "name": "Guggenheim Taxable Municipal Bond \u0026 Investment Grade Debt Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -85570,12 +85588,6 @@
    "name": "NOV Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "NOV"
-  },
-  {
-   "symbol": "NOVA",
-   "name": "Sunnova Energy International Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NOVA"
   },
   {
    "symbol": "NOW",

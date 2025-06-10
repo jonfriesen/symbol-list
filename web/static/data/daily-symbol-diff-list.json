@@ -1,90 +1,114 @@
 {
  "added": [
   {
-   "symbol": "KEEK",
-   "name": "Personas Social Incorporated",
+   "symbol": "IDEX",
+   "name": "IDEX Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "KEEK.V",
+   "yahoo_symbol": "IDEX.V",
    "instruments": [
     {
-     "name": "Personas Social Incorporated",
-     "symbol": "KEEK"
+     "name": "IDEX Metals Corp.",
+     "symbol": "IDEX"
     }
    ]
   },
   {
-   "symbol": "NAMM",
-   "name": "Namib Minerals - Ordinary Shares",
+   "symbol": "CCCM",
+   "name": "Columbus Circle Capital Corp I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NAMM"
+   "yahoo_symbol": "CCCM"
   },
   {
-   "symbol": "NAMMW",
-   "name": "Namib Minerals - Warrants",
+   "symbol": "CCCMW",
+   "name": "Columbus Circle Capital Corp I - Warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCMW"
+  },
+  {
+   "symbol": "JEM",
+   "name": "707 Cayman Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NAMMW"
+   "yahoo_symbol": "JEM"
   },
   {
-   "symbol": "OMDA",
-   "name": "Omada Health, Inc. - Common Stock",
+   "symbol": "LVLU",
+   "name": "Lulu's Fashion Lounge Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LVLU"
+  },
+  {
+   "symbol": "RTAC",
+   "name": "Renatus Tactical Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTAC"
+  },
+  {
+   "symbol": "RTACW",
+   "name": "Renatus Tactical Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTACW"
+  },
+  {
+   "symbol": "SAFX",
+   "name": "XCF Global, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAFX"
+  },
+  {
+   "symbol": "TEAD",
+   "name": "Teads Holding Co. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OMDA"
-  },
-  {
-   "symbol": "PLTZ",
-   "name": "Defiance Daily Target 2x Short PLTR ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLTZ"
-  },
-  {
-   "symbol": "RTXG",
-   "name": "Leverage Shares 2X Long RTX Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RTXG"
-  },
-  {
-   "symbol": "AAUC",
-   "name": "Allied Gold Corporation Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAUC"
-  },
-  {
-   "symbol": "CSW",
-   "name": "CSW Industrials, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CSW"
-  },
-  {
-   "symbol": "RSF.R",
-   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RSF.R"
+   "yahoo_symbol": "TEAD"
   }
  ],
  "removed": [
   {
-   "symbol": "PRSN",
-   "name": "Personas Social Incorporated",
+   "symbol": "NOVA",
+   "name": "Sunnova Energy International Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NOVA"
+  },
+  {
+   "symbol": "OB",
+   "name": "Outbrain Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OB"
+  },
+  {
+   "symbol": "GODB.P",
+   "name": "Goodbridge Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PRSN.V",
+   "yahoo_symbol": "GODB.P.V",
    "instruments": [
     {
-     "name": "Personas Social Incorporated",
-     "symbol": "PRSN"
+     "name": "Goodbridge Capital Corp.",
+     "symbol": "GODB.P"
     }
    ]
   },
   {
-   "symbol": "CSWI",
-   "name": "CSW Industrials, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CSWI"
+   "symbol": "RENT.P",
+   "name": "Shine Box Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RENT.P.V",
+   "instruments": [
+    {
+     "name": "Shine Box Capital Corp.",
+     "symbol": "RENT.P"
+    }
+   ]
   },
   {
-   "symbol": "RSF.V",
-   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights when issued",
+   "symbol": "LVLU",
+   "name": "Lulu's Fashion Lounge Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVLU"
+  },
+  {
+   "symbol": "GB.W",
+   "name": "Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holding AG at a price of $11.50 per share",
    "exchange": "NYSE",
-   "yahoo_symbol": "RSF.V"
+   "yahoo_symbol": "GB.W"
   }
  ]
 }
