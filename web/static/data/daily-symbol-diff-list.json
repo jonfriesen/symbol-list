@@ -1,114 +1,108 @@
 {
  "added": [
   {
-   "symbol": "IDEX",
-   "name": "IDEX Metals Corp.",
+   "symbol": "NEXM",
+   "name": "NexMetals Mining Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "IDEX.V",
+   "yahoo_symbol": "NEXM.V",
    "instruments": [
     {
-     "name": "IDEX Metals Corp.",
-     "symbol": "IDEX"
+     "name": "NexMetals Mining Corp.",
+     "symbol": "NEXM"
     }
    ]
   },
   {
-   "symbol": "CCCM",
-   "name": "Columbus Circle Capital Corp I - Class A Ordinary Shares",
+   "symbol": "BLUWU",
+   "name": "Blue Water Acquisition Corp. III - Unit.",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCCM"
+   "yahoo_symbol": "BLUWU"
   },
   {
-   "symbol": "CCCMW",
-   "name": "Columbus Circle Capital Corp I - Warrant.",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCCMW"
-  },
-  {
-   "symbol": "JEM",
-   "name": "707 Cayman Holdings Limited - Ordinary Shares",
+   "symbol": "HUBC",
+   "name": "Hub Cyber Security Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JEM"
+   "yahoo_symbol": "HUBC"
   },
   {
-   "symbol": "LVLU",
-   "name": "Lulu's Fashion Lounge Holdings, Inc. - Common Stock",
+   "symbol": "HUBCZ",
+   "name": "Hub Cyber Security Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LVLU"
+   "yahoo_symbol": "HUBCZ"
   },
   {
-   "symbol": "RTAC",
-   "name": "Renatus Tactical Acquisition Corp I - Class A Ordinary Shares",
+   "symbol": "MSDD",
+   "name": "GraniteShares 2x Short MSTR Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RTAC"
+   "yahoo_symbol": "MSDD"
   },
   {
-   "symbol": "RTACW",
-   "name": "Renatus Tactical Acquisition Corp I - Warrant",
+   "symbol": "MSTP",
+   "name": "GraniteShares 2x Long MSTR Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RTACW"
+   "yahoo_symbol": "MSTP"
   },
   {
-   "symbol": "SAFX",
-   "name": "XCF Global, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SAFX"
+   "symbol": "ASIC",
+   "name": "Ategrity Specialty Insurance Company Holdings Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASIC"
   },
   {
-   "symbol": "TEAD",
-   "name": "Teads Holding Co. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TEAD"
+   "symbol": "SCD.V",
+   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCD.V"
+  },
+  {
+   "symbol": "VOYG",
+   "name": "Voyager Technologies, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VOYG"
   }
  ],
  "removed": [
   {
-   "symbol": "NOVA",
-   "name": "Sunnova Energy International Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NOVA"
-  },
-  {
-   "symbol": "OB",
-   "name": "Outbrain Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OB"
-  },
-  {
-   "symbol": "GODB.P",
-   "name": "Goodbridge Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GODB.P.V",
-   "instruments": [
-    {
-     "name": "Goodbridge Capital Corp.",
-     "symbol": "GODB.P"
-    }
-   ]
-  },
-  {
-   "symbol": "RENT.P",
-   "name": "Shine Box Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RENT.P.V",
-   "instruments": [
-    {
-     "name": "Shine Box Capital Corp.",
-     "symbol": "RENT.P"
-    }
-   ]
-  },
-  {
-   "symbol": "LVLU",
-   "name": "Lulu's Fashion Lounge Holdings, Inc. - Common Stock",
+   "symbol": "HUBC",
+   "name": "Hub Cyber Security Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVLU"
+   "yahoo_symbol": "HUBC"
   },
   {
-   "symbol": "GB.W",
-   "name": "Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holding AG at a price of $11.50 per share",
+   "symbol": "HUBCZ",
+   "name": "Hub Cyber Security Ltd. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUBCZ"
+  },
+  {
+   "symbol": "PRIF$F",
+   "name": "Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",
    "exchange": "NYSE",
-   "yahoo_symbol": "GB.W"
+   "yahoo_symbol": "PRIF$F"
+  },
+  {
+   "symbol": "JNH",
+   "name": "Jack Nathan Medical Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JNH.V",
+   "instruments": [
+    {
+     "name": "Jack Nathan Medical Corp.",
+     "symbol": "JNH"
+    }
+   ]
+  },
+  {
+   "symbol": "PREM",
+   "name": "Premium Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PREM.V",
+   "instruments": [
+    {
+     "name": "Premium Resources Ltd.",
+     "symbol": "PREM"
+    }
+   ]
   }
  ]
 }

@@ -702,7 +702,6 @@ IFOS,Itafos Inc.,TSXV,IFOS.V,Itafos Inc.,IFOS
 JTWO,J2 Metals Inc.,TSXV,JTWO.V,J2 Metals Inc.,JTWO
 JJJJ.P,J4 Ventures Inc.,TSXV,JJJJ.P.V,J4 Ventures Inc.,JJJJ.P
 JAB.P,Jabbo Capital Corp.,TSXV,JAB.P.V,Jabbo Capital Corp.,JAB.P
-JNH,Jack Nathan Medical Corp.,TSXV,JNH.V,Jack Nathan Medical Corp.,JNH
 JJ,Jackpot Digital Inc.,TSXV,JJ.V,Jackpot Digital Inc.,JJ,Jackpot Digital Inc. wt 20Nov2025,JJ.WT.C
 JADE,Jade Leader Corp.,TSXV,JADE.V,Jade Leader Corp.,JADE
 JG,Japan Gold Corp.,TSXV,JG.V,Japan Gold Corp.,JG
@@ -927,6 +926,7 @@ NGY,Nexera Energy Inc.,TSXV,NGY.V,Nexera Energy Inc.,NGY
 NXG,NexgenRx Inc.,TSXV,NXG.V,NexgenRx Inc.,NXG
 NEXG,NeXGold Mining Corp.,TSXV,NEXG.V,NeXGold Mining Corp.,NEXG
 NXLV,NexLiving Communities Inc.,TSXV,NXLV.V,NexLiving Communities Inc.,NXLV
+NEXM,NexMetals Mining Corp.,TSXV,NEXM.V,NexMetals Mining Corp.,NEXM
 NXO,NexOptic Technology Corp.,TSXV,NXO.V,NexOptic Technology Corp.,NXO
 NXH,Next Hydrogen Solutions Inc.,TSXV,NXH.V,Next Hydrogen Solutions Inc.,NXH
 NXS,Nexus Gold Corp.,TSXV,NXS.V,Nexus Gold Corp.,NXS
@@ -1066,7 +1066,6 @@ PPX,PPX Mining Corp.,TSXV,PPX.V,PPX Mining Corp.,PPX
 PRG,Precipitate Gold Corp.,TSXV,PRG.V,Precipitate Gold Corp.,PRG
 PUR,Premier American Uranium Inc.,TSXV,PUR.V,Premier American Uranium Inc.,PUR
 PHA,Premier Health of America Inc.,TSXV,PHA.V,Premier Health of America Inc.,PHA
-PREM,Premium Resources Ltd.,TSXV,PREM.V,Premium Resources Ltd.,PREM
 HDRO,Primary Hydrogen Corp.,TSXV,HDRO.V,Primary Hydrogen Corp.,HDRO
 PTEC,Principal Technologies Inc.,TSXV,PTEC.V,Principal Technologies Inc.,PTEC
 PMX,ProAm Explorations Corporation,TSXV,PMX.V,ProAm Explorations Corporation,PMX
@@ -3986,6 +3985,7 @@ BLNE,"Beeline Holdings, Inc. - Common Stock",NASDAQ Capital Market,BLNE
 BLNK,Blink Charging Co. - Common Stock,NASDAQ Capital Market,BLNK
 BLRX,BioLineRx Ltd. - American Depositary Shares,NASDAQ Capital Market,BLRX
 BLTE,"Belite Bio, Inc - American Depositary Shares",NASDAQ Capital Market,BLTE
+BLUWU,Blue Water Acquisition Corp. III - Unit.,NASDAQ Global MarketSM,BLUWU
 BLZE,"Backblaze, Inc. - Class A Common Stock",NASDAQ Global MarketSM,BLZE
 BMAX,REX Bitcoin Corporate Treasury Convertible Bond ETF,NASDAQ Global MarketSM,BMAX
 BMBL,Bumble Inc. - common stock,NASDAQ Global Select MarketSM,BMBL
@@ -5464,9 +5464,9 @@ HTOO,Fusion Fuel Green PLC - Ordinary Shares,NASDAQ Capital Market,HTOO
 HTOOW,Fusion Fuel Green PLC - Warrant,NASDAQ Capital Market,HTOOW
 HTZ,"Hertz Global Holdings, Inc - Common Stock",NASDAQ Global Select MarketSM,HTZ
 HTZWW,"Hertz Global Holdings, Inc - Warrant",NASDAQ Global Select MarketSM,HTZWW
-HUBC,Hub Cyber Security Ltd. - Ordinary Shares,NASDAQ Global MarketSM,HUBC
+HUBC,Hub Cyber Security Ltd. - Ordinary Shares,NASDAQ Capital Market,HUBC
 HUBCW,Hub Cyber Security Ltd. - Warrant expiring 2/27/28,NASDAQ Capital Market,HUBCW
-HUBCZ,Hub Cyber Security Ltd. - Warrant,NASDAQ Global MarketSM,HUBCZ
+HUBCZ,Hub Cyber Security Ltd. - Warrant,NASDAQ Capital Market,HUBCZ
 HUBG,"Hub Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,HUBG
 HUDI,"Huadi International Group Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,HUDI
 HUHU,HUHUTECH International Group Inc. - Ordinary Shares,NASDAQ Capital Market,HUHU
@@ -6247,6 +6247,7 @@ MSAI,"MultiSensor AI Holdings, Inc. - Common Stock",NASDAQ Capital Market,MSAI
 MSAIW,"MultiSensor AI Holdings, Inc. - Warrants",NASDAQ Capital Market,MSAIW
 MSBI,"Midland States Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,MSBI
 MSBIP,"Midland States Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ Global Select MarketSM,MSBIP
+MSDD,GraniteShares 2x Short MSTR Daily ETF,NASDAQ Global MarketSM,MSDD
 MSEX,Middlesex Water Company - Common Stock,NASDAQ Global Select MarketSM,MSEX
 MSFD,Direxion Daily MSFT Bear 1X Shares,NASDAQ Global MarketSM,MSFD
 MSFL,GraniteShares 2x Long MSFT Daily ETF,NASDAQ Global MarketSM,MSFL
@@ -6258,6 +6259,7 @@ MSPRW,"MSP Recovery, Inc. - Warrant",NASDAQ Capital Market,MSPRW
 MSPRZ,"MSP Recovery, Inc. - Warrant",NASDAQ Capital Market,MSPRZ
 MSS,Maison Solutions Inc. - Class A Common Stock,NASDAQ Capital Market,MSS
 MST,Defiance Leveraged Long Income MSTR ETF,NASDAQ Global MarketSM,MST
+MSTP,GraniteShares 2x Long MSTR Daily ETF,NASDAQ Global MarketSM,MSTP
 MSTR,MicroStrategy Incorporated - Class A Common Stock,NASDAQ Global Select MarketSM,MSTR
 MSTX,Defiance Daily Target 2x Long MSTR ETF,NASDAQ Global MarketSM,MSTX
 MSW,Ming Shing Group Holdings Limited - Ordinary Shares,NASDAQ Capital Market,MSW
@@ -8508,6 +8510,7 @@ ASG,"Liberty All-Star Growth Fund, Inc.",NYSE,ASG
 ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,NYSE,ASGI
 ASGN,ASGN Incorporated Common Stock,NYSE,ASGN
 ASH,Ashland Inc. Common Stock,NYSE,ASH
+ASIC,Ategrity Specialty Insurance Company Holdings Common Stock,NYSE,ASIC
 ASIX,AdvanSix Inc. Common Stock ,NYSE,ASIX
 ASM,Avino Silver & Gold Mines Ltd. Common Shares (Canada),NYSE MKT,ASM
 ASPN,"Aspen Aerogels, Inc. Common Stock",NYSE,ASPN
@@ -10605,7 +10608,6 @@ PRGO,Perrigo Company plc Ordinary Shares,NYSE,PRGO
 PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062",NYSE,PRH
 PRI,"Primerica, Inc. Common Stock",NYSE,PRI
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",NYSE,PRIF$D
-PRIF$F,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",NYSE,PRIF$F
 PRIF$I,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028",NYSE,PRIF$I
 PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028",NYSE,PRIF$J
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",NYSE,PRIF$K
@@ -10836,6 +10838,7 @@ SCCF,Sachem Capital Corp. 7.125% Notes due 2027,NYSE MKT,SCCF
 SCCG,Sachem Capital Corp. 8.00% Notes due 2027,NYSE MKT,SCCG
 SCCO,Southern Copper Corporation Common Stock,NYSE,SCCO
 SCD,LMP Capital and Income Fund Inc. Common Stock,NYSE,SCD
+SCD.V,"LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued",NYSE,SCD.V
 SCE$G,SCE Trust II Trust Preferred Securities,NYSE,SCE$G
 SCE$J,Southern California Edison Company 5.375% Fixed-to-Floating Rate Trust Preference Securities,NYSE,SCE$J
 SCE$K,Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities,NYSE,SCE$K
@@ -11304,6 +11307,7 @@ VNT,Vontier Corporation Common Stock ,NYSE,VNT
 VOC,VOC Energy Trust Units of Beneficial Interest,NYSE,VOC
 VOYA,"Voya Financial, Inc. Common Stock",NYSE,VOYA
 VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",NYSE,VOYA$B
+VOYG,"Voyager Technologies, Inc. Class A Common Stock",NYSE,VOYG
 VPG,"Vishay Precision Group, Inc. Common Stock",NYSE,VPG
 VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),NYSE,VPV
 VRE,"Veris Residential, Inc. Common Stock",NYSE,VRE

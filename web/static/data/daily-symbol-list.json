@@ -1,5 +1,5 @@
 {
- "date": "2025-06-10",
+ "date": "2025-06-11",
  "data": [
   {
    "symbol": "ONE",
@@ -8498,18 +8498,6 @@
    ]
   },
   {
-   "symbol": "JNH",
-   "name": "Jack Nathan Medical Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JNH.V",
-   "instruments": [
-    {
-     "name": "Jack Nathan Medical Corp.",
-     "symbol": "JNH"
-    }
-   ]
-  },
-  {
    "symbol": "JJ",
    "name": "Jackpot Digital Inc.",
    "exchange": "TSXV",
@@ -11230,6 +11218,18 @@
    ]
   },
   {
+   "symbol": "NEXM",
+   "name": "NexMetals Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NEXM.V",
+   "instruments": [
+    {
+     "name": "NexMetals Mining Corp.",
+     "symbol": "NEXM"
+    }
+   ]
+  },
+  {
    "symbol": "NXO",
    "name": "NexOptic Technology Corp.",
    "exchange": "TSXV",
@@ -12954,18 +12954,6 @@
     {
      "name": "Premier Health of America Inc.",
      "symbol": "PHA"
-    }
-   ]
-  },
-  {
-   "symbol": "PREM",
-   "name": "Premium Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PREM.V",
-   "instruments": [
-    {
-     "name": "Premium Resources Ltd.",
-     "symbol": "PREM"
     }
    ]
   },
@@ -47484,6 +47472,12 @@
    "yahoo_symbol": "BLTE"
   },
   {
+   "symbol": "BLUWU",
+   "name": "Blue Water Acquisition Corp. III - Unit.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLUWU"
+  },
+  {
    "symbol": "BLZE",
    "name": "Backblaze, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -56354,7 +56348,7 @@
   {
    "symbol": "HUBC",
    "name": "Hub Cyber Security Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HUBC"
   },
   {
@@ -56366,7 +56360,7 @@
   {
    "symbol": "HUBCZ",
    "name": "Hub Cyber Security Ltd. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HUBCZ"
   },
   {
@@ -61050,6 +61044,12 @@
    "yahoo_symbol": "MSBIP"
   },
   {
+   "symbol": "MSDD",
+   "name": "GraniteShares 2x Short MSTR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSDD"
+  },
+  {
    "symbol": "MSEX",
    "name": "Middlesex Water Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61114,6 +61114,12 @@
    "name": "Defiance Leveraged Long Income MSTR ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MST"
+  },
+  {
+   "symbol": "MSTP",
+   "name": "GraniteShares 2x Long MSTR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSTP"
   },
   {
    "symbol": "MSTR",
@@ -74616,6 +74622,12 @@
    "yahoo_symbol": "ASH"
   },
   {
+   "symbol": "ASIC",
+   "name": "Ategrity Specialty Insurance Company Holdings Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASIC"
+  },
+  {
    "symbol": "ASIX",
    "name": "AdvanSix Inc. Common Stock ",
    "exchange": "NYSE",
@@ -87198,12 +87210,6 @@
    "yahoo_symbol": "PRIF$D"
   },
   {
-   "symbol": "PRIF$F",
-   "name": "Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRIF$F"
-  },
-  {
    "symbol": "PRIF$I",
    "name": "Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028",
    "exchange": "NYSE",
@@ -88582,6 +88588,12 @@
    "name": "LMP Capital and Income Fund Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SCD"
+  },
+  {
+   "symbol": "SCD.V",
+   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCD.V"
   },
   {
    "symbol": "SCE$G",
@@ -91390,6 +91402,12 @@
    "name": "Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",
    "exchange": "NYSE",
    "yahoo_symbol": "VOYA$B"
+  },
+  {
+   "symbol": "VOYG",
+   "name": "Voyager Technologies, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VOYG"
   },
   {
    "symbol": "VPG",
