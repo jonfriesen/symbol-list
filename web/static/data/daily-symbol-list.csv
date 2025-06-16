@@ -112,7 +112,7 @@ ASTR,Astra Exploration Inc.,TSXV,ASTR.V,Astra Exploration Inc.,ASTR
 AST,Astron Connect Inc.,TSXV,AST.V,Astron Connect Inc.,AST
 ATX,ATEX Resources Inc.,TSXV,ATX.V,ATEX Resources Inc.,ATX
 SASK,Atha Energy Corp.,TSXV,SASK.V,Atha Energy Corp.,SASK
-ATY,Atico Mining Corporation,TSXV,ATY.V,Atico Mining Corporation,ATY
+ATY,Atico Mining Corporation,TSXV,ATY.V,Atico Mining Corporation,ATY,Atico Mining Corporation rt ex 21Jul2025,ATY.RT
 AEP,Atlas Engineered Products Ltd.,TSXV,AEP.V,Atlas Engineered Products Ltd.,AEP
 ACAP.P,Atlas One Capital Corporation,TSXV,ACAP.P.V,Atlas One Capital Corporation,ACAP.P
 SALT,Atlas Salt Inc.,TSXV,SALT.V,Atlas Salt Inc.,SALT
@@ -520,13 +520,13 @@ FMM,Full Metal Minerals Ltd.,TSXV,FMM.V,Full Metal Minerals Ltd.,FMM
 FUSE,Fuse Battery Metals Inc.,TSXV,FUSE.V,Fuse Battery Metals Inc.,FUSE
 FTUR,Future Fuels Inc.,TSXV,FTUR.V,Future Fuels Inc.,FTUR
 GTM.P,G2M Cap Corp.,TSXV,GTM.P.V,G2M Cap Corp.,GTM.P
-GAB,Gabo Mining Ltd.,TSXV,GAB.V,Gabo Mining Ltd.,GAB
 GBU,Gabriel Resources Ltd.,TSXV,GBU.V,Gabriel Resources Ltd.,GBU
 GAL,Galantas Gold Corporation,TSXV,GAL.V,Galantas Gold Corporation,GAL
 GXY.P,Galaxy Ventures Inc.,TSXV,GXY.P.V,Galaxy Ventures Inc.,GXY.P
 GGO,Galleon Gold Corp.,TSXV,GGO.V,Galleon Gold Corp.,GGO
 GRI,Galore Resources Inc.,TSXV,GRI.V,Galore Resources Inc,GRI
 GWM,Galway Metals Inc.,TSXV,GWM.V,Galway Metals Inc.,GWM
+GAMA,Gamma Resources Ltd.,TSXV,GAMA.V,Gamma Resources Ltd.,GAMA
 GGI,Garibaldi Resources Corp.,TSXV,GGI.V,Garibaldi Resources Corp.,GGI
 GSI,Gatekeeper Systems Inc.,TSXV,GSI.V,Gatekeeper Systems Inc.,GSI
 GKO,Geekco Technologies Corporation,TSXV,GKO.V,Geekco Technologies Corporation,GKO
@@ -823,7 +823,7 @@ MGM,Maple Gold Mines Ltd.,TSXV,MGM.V,Maple Gold Mines Ltd.,MGM
 MAP,Maple Peak Investments Inc.,TSXV,MAP.V,Maple Peak Investments Inc.,MAP
 DIA,Margaret Lake Diamonds Inc.,TSXV,DIA.V,Margaret Lake Diamonds Inc.,DIA
 ALFA.UN,Margaux Real Estate Investment Trust,TSXV,ALFA.UN.V,Margaux Real Estate Investment Trust,ALFA.UN
-MAE,Maritime Resources Corp.,TSXV,MAE.V,Maritime Resources Corp,MAE
+MAE,Maritime Resources Corp.,TSXV,MAE.V,Maritime Resources Corp.,MAE
 MAH,Marksmen Energy Inc.,TSXV,MAH.V,Marksmen Energy Inc,MAH
 MTLO,Martello Technologies Group Inc.,TSXV,MTLO.V,Martello Technologies Group Inc.,MTLO
 MRVL,Marvel Biosciences Corp.,TSXV,MRVL.V,Marvel Biosciences Corp.,MRVL
@@ -1192,6 +1192,7 @@ SCD,Scandium Canada Ltd.,TSXV,SCD.V,Scandium Canada Ltd.,SCD
 SCY,Scandium International Mining Corp.,TSXV,SCY.V,Scandium International Mining Corp.,SCY
 SGN,Scorpio Gold Corporation,TSXV,SGN.V,Scorpio Gold Corporation,SGN
 SCOT,Scottie Resources Corp.,TSXV,SCOT.V,Scottie Resources Corp.,SCOT
+SMY,Search Minerals Inc.,TSXV,SMY.V,Search Minerals Inc.,SMY
 SLX.P,Searchlight Innovations Inc.,TSXV,SLX.P.V,Searchlight Innovations Inc.,SLX.P
 SCLT,Searchlight Resources Inc.,TSXV,SCLT.V,Searchlight Resources Inc.,SCLT
 SGZ,Sego Resources Inc.,TSXV,SGZ.V,Sego Resources Inc,SGZ
@@ -2463,6 +2464,7 @@ GOGY,Harvest Alphabet Enhanced High Income Shares ETF,TSX,GOGY.TO,Harv Alph EHIS
 AMHE,Harvest Amazon Enhanced High Income Shares ETF,TSX,AMHE.TO,HvAmzn EnhHIShr ETFA,AMHE,HvAmzn EnhHIShr ETFU,AMHE.U
 AMZH,Harvest Amazon High Income Shares ETF,TSX,AMZH.TO,HvAmzn HghInShr ETFA,AMZH,HvAmzn HghInShr ETFU,AMZH.U
 AMDY,Harvest AMD Enhanced High Income Shares ETF,TSX,AMDY.TO,Harv AMD EHIShrs ETF,AMDY
+APLE,Harvest Apple Enhanced High Income Shares ETF,TSX,APLE.TO,Harvest Apl EnhHigIn,APLE
 HBIE,Harvest Balanced Income & Growth Enhanced ETF,TSX,HBIE.TO,Harv Bl Inc GrEh Etf,HBIE
 HBIG,Harvest Balanced Income & Growth ETF,TSX,HBIG.TO,Harv Bl Inc & Gr Etf,HBIG
 HBF,Harvest Brand Leaders Plus Income ETF,TSX,HBF.TO,HarvestBrndLdr+ A Un,HBF,HarvestBrndLdr+B U-H,HBF.B,HarvestBrndLdr+US Un,HBF.U
@@ -2738,6 +2740,7 @@ JWEL,Jamieson Wellness Inc.,TSX,JWEL.TO,Jamieson Wellness,JWEL
 JFS.UN,JFT Strategies Fund,TSX,JFS.UN.TO,JFT Strategies A Un,JFS.UN
 JOY,Journey Energy Inc.,TSX,JOY.TO,Journey Energy Inc.,JOY
 JEPQ,JPMorgan Nasdaq Equity Premium Income Active ETF,TSX,JEPQ.TO,JPM NdEq PInc ActETF,JEPQ
+JCOR,JPMorgan US Core Active ETF,TSX,JCOR.TO,JPMorgan US Core Act,JCOR
 JEPI,JPMorgan US Equity Premium Income Active ETF,TSX,JEPI.TO,JPM USEq PInc ActETF,JEPI
 JGRO,JPMorgan US Growth Active ETF,TSX,JGRO.TO,JPM US Gr Active ETF,JGRO
 JAVA,JPMorgan US Value Active ETF,TSX,JAVA.TO,JPM USVal Active ETF,JAVA
@@ -3560,6 +3563,7 @@ AIRG,"Airgain, Inc. - Common Stock",NASDAQ Capital Market,AIRG
 AIRJ,AirJoule Technologies Corporation - Class A Common Stock,NASDAQ Capital Market,AIRJ
 AIRJW,AirJoule Technologies Corporation - Warrant,NASDAQ Capital Market,AIRJW
 AIRL,Themes Airlines ETF,NASDAQ Global MarketSM,AIRL
+AIRO,"AIRO Group Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,AIRO
 AIRR,First Trust RBA American Industrial Renaissance ETF,NASDAQ Global MarketSM,AIRR
 AIRS,"AirSculpt Technologies, Inc. - Common Stock",NASDAQ Global MarketSM,AIRS
 AIRT,"Air T, Inc. - Common Stock",NASDAQ Capital Market,AIRT
@@ -3852,6 +3856,7 @@ AZI,Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares,NASDAQ Gl
 AZN,AstraZeneca PLC - American Depositary Shares,NASDAQ Global Select MarketSM,AZN
 AZTA,"Azenta, Inc. - Common Stock",NASDAQ Global Select MarketSM,AZTA
 BABX,GraniteShares 2x Long BABA Daily ETF,NASDAQ Global MarketSM,BABX
+BACCU,Blue Acquisition Corp. - Unit,NASDAQ Global MarketSM,BACCU
 BACQ,Bleichroeder Acquisition Corp. I - Class A Ordinary Shares,NASDAQ Global MarketSM,BACQ
 BACQR,Bleichroeder Acquisition Corp. I - Right,NASDAQ Global MarketSM,BACQR
 BACQU,Bleichroeder Acquisition Corp. I - Unit,NASDAQ Global MarketSM,BACQU
@@ -4011,6 +4016,7 @@ BNTX,BioNTech SE - American Depositary Shares,NASDAQ Global Select MarketSM,BNTX
 BNZI,"Banzai International, Inc. - Class A Common Stock",NASDAQ Capital Market,BNZI
 BNZIW,"Banzai International, Inc. - Warrant",NASDAQ Capital Market,BNZIW
 BOED,Direxion Daily BA Bear 1X Shares,NASDAQ Global MarketSM,BOED
+BOEG,Leverage Shares 2X Long BA Daily ETF,NASDAQ Global MarketSM,BOEG
 BOEU,Direxion Daily BA Bull 2X Shares,NASDAQ Global MarketSM,BOEU
 BOF,BranchOut Food Inc. - Common Stock,NASDAQ Capital Market,BOF
 BOKF,BOK Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,BOKF
@@ -4054,6 +4060,7 @@ BRTR,iShares Total Return Active ETF,NASDAQ Global MarketSM,BRTR
 BRTX,"BioRestorative Therapies, Inc. - Common Stock",NASDAQ Capital Market,BRTX
 BRY,Berry Corporation (bry) - Common Stock,NASDAQ Global Select MarketSM,BRY
 BRZE,"Braze, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,BRZE
+BSAAU,BEST SPAC I Acquisition Corp. - Unit,NASDAQ Capital Market,BSAAU
 BSBK,Bogota Financial Corp. - Common Stock,NASDAQ Capital Market,BSBK
 BSCP,Invesco BulletShares 2025 Corporate Bond ETF,NASDAQ Global MarketSM,BSCP
 BSCQ,Invesco BulletShares 2026 Corporate Bond ETF,NASDAQ Global MarketSM,BSCQ
@@ -4179,6 +4186,7 @@ CATH,Global X S&P 500 Catholic Values ETF,NASDAQ Global MarketSM,CATH
 CATY,Cathay General Bancorp - Common Stock,NASDAQ Global Select MarketSM,CATY
 CBAT,"CBAK Energy Technology, Inc. - Common Stock",NASDAQ Capital Market,CBAT
 CBFV,"CB Financial Services, Inc. - Common Stock",NASDAQ Global MarketSM,CBFV
+CBIO,"Crescent Biopharma, Inc. - Common Stock",NASDAQ Capital Market,CBIO
 CBLL,"CeriBell, Inc. - Common Stock",NASDAQ Global Select MarketSM,CBLL
 CBNK,"Capital Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,CBNK
 CBRL,"Cracker Barrel Old Country Store, Inc. - Common Stock",NASDAQ Global Select MarketSM,CBRL
@@ -4566,7 +4574,6 @@ DAWN,"Day One Biopharmaceuticals, Inc. - Common Stock",NASDAQ Global Select Mark
 DAX,Global X DAX Germany ETF,NASDAQ Global MarketSM,DAX
 DBVT,DBV Technologies S.A. - American Depositary Shares,NASDAQ Capital Market,DBVT
 DBX,"Dropbox, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,DBX
-DCAP,Unity Wealth Partners Dynamic Capital Appreciation & Options ETF,NASDAQ Global MarketSM,DCAP
 DCBO,Docebo Inc. - Common Shares,NASDAQ Global Select MarketSM,DCBO
 DCGO,DocGo Inc. - Common Stock,NASDAQ Capital Market,DCGO
 DCOM,"Dime Community Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,DCOM
@@ -5252,7 +5259,6 @@ GLTO,"Galecto, Inc. - Common Stock",NASDAQ Capital Market,GLTO
 GLUE,"Monte Rosa Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,GLUE
 GLXG,Galaxy Payroll Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,GLXG
 GLXY,Galaxy Digital Inc. - Class A common stock,NASDAQ Global Select MarketSM,GLXY
-GLYC,"GlycoMimetics, Inc. - Common Stock",NASDAQ Capital Market,GLYC
 GMAB,Genmab A/S - American Depositary Shares,NASDAQ Global Select MarketSM,GMAB
 GMGI,"Golden Matrix Group, Inc. - Common Stock",NASDAQ Capital Market,GMGI
 GMHS,Gamehaus Holdings Inc. - Class A Ordinary Shares,NASDAQ Capital Market,GMHS
@@ -6818,7 +6824,6 @@ PLUR,Pluri Inc. - Common Stock,NASDAQ Capital Market,PLUR
 PLUS,ePlus inc. - Common Stock,NASDAQ Global Select MarketSM,PLUS
 PLUT,Plutus Financial Group Limited - Ordinary Shares,NASDAQ Capital Market,PLUT
 PLXS,Plexus Corp. - Common Stock,NASDAQ Global Select MarketSM,PLXS
-PLYA,Playa Hotels & Resorts N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,PLYA
 PMAX,Powell Max Limited - Class A Ordinary Shares,NASDAQ Capital Market,PMAX
 PMBS,PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund,NASDAQ Global MarketSM,PMBS
 PMCB,"PharmaCyte  Biotech, Inc. - Common Stock",NASDAQ Capital Market,PMCB
@@ -7886,6 +7891,7 @@ ULTA,"Ulta Beauty, Inc. - Common Stock",NASDAQ Global Select MarketSM,ULTA
 ULVM,VictoryShares US Value Momentum ETF,NASDAQ Global MarketSM,ULVM
 ULY,Urgent.ly Inc. - Common Stock,NASDAQ Capital Market,ULY
 UMBF,UMB Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,UMBF
+UMBFO,"UMB Financial Corporation - Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",NASDAQ Global Select MarketSM,UMBFO
 UMBFP,"UMB Financial Corporation - Depositary Shares, each representing a 1/400th of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock",NASDAQ Global Select MarketSM,UMBFP
 UMMA,Wahed Dow Jones Islamic World ETF,NASDAQ Global MarketSM,UMMA
 UNB,"Union Bankshares, Inc. - Common Stock",NASDAQ Global MarketSM,UNB
@@ -9074,7 +9080,6 @@ CTVA,"Corteva, Inc. Common Stock ",NYSE,CTVA
 CUBB,"Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034",NYSE,CUBB
 CUBE,CubeSmart Common Shares,NYSE,CUBE
 CUBI,"Customers Bancorp, Inc Common Stock",NYSE,CUBI
-CUBI$E,"Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series E",NYSE,CUBI$E
 CUBI$F,"Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",NYSE,CUBI$F
 CUK,Carnival Plc ADS ADS,NYSE,CUK
 CULP,"Culp, Inc. Common Stock",NYSE,CULP
@@ -9159,6 +9164,7 @@ DIN,"Dine Brands Global, Inc. Common Stock",NYSE,DIN
 DINO,HF Sinclair Corporation Common Stock,NYSE,DINO
 DIS,Walt Disney Company (The) Common Stock,NYSE,DIS
 DIT,AMCON Distributing Company Common Stock,NYSE MKT,DIT
+DIVZ,Listed Funds Trust Opal Dividend Income ETF,NYSE ARCA,DIVZ
 DJP,iPath Bloomberg Commodity Index Total Return ETN,NYSE ARCA,DJP
 DK,"Delek US Holdings, Inc. Common Stock",NYSE,DK
 DKL,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests",NYSE,DKL

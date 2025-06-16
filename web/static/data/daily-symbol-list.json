@@ -1,5 +1,5 @@
 {
- "date": "2025-06-13",
+ "date": "2025-06-16",
  "data": [
   {
    "symbol": "ONE",
@@ -1374,6 +1374,10 @@
     {
      "name": "Atico Mining Corporation",
      "symbol": "ATY"
+    },
+    {
+     "name": "Atico Mining Corporation rt ex 21Jul2025",
+     "symbol": "ATY.RT"
     }
    ]
   },
@@ -6302,18 +6306,6 @@
    ]
   },
   {
-   "symbol": "GAB",
-   "name": "Gabo Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GAB.V",
-   "instruments": [
-    {
-     "name": "Gabo Mining Ltd.",
-     "symbol": "GAB"
-    }
-   ]
-  },
-  {
    "symbol": "GBU",
    "name": "Gabriel Resources Ltd.",
    "exchange": "TSXV",
@@ -6382,6 +6374,18 @@
     {
      "name": "Galway Metals Inc.",
      "symbol": "GWM"
+    }
+   ]
+  },
+  {
+   "symbol": "GAMA",
+   "name": "Gamma Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GAMA.V",
+   "instruments": [
+    {
+     "name": "Gamma Resources Ltd.",
+     "symbol": "GAMA"
     }
    ]
   },
@@ -9984,7 +9988,7 @@
    "yahoo_symbol": "MAE.V",
    "instruments": [
     {
-     "name": "Maritime Resources Corp",
+     "name": "Maritime Resources Corp.",
      "symbol": "MAE"
     }
    ]
@@ -14482,6 +14486,18 @@
     {
      "name": "Scottie Resources Corp.",
      "symbol": "SCOT"
+    }
+   ]
+  },
+  {
+   "symbol": "SMY",
+   "name": "Search Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMY.V",
+   "instruments": [
+    {
+     "name": "Search Minerals Inc.",
+     "symbol": "SMY"
     }
    ]
   },
@@ -31538,6 +31554,18 @@
    ]
   },
   {
+   "symbol": "APLE",
+   "name": "Harvest Apple Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "APLE.TO",
+   "instruments": [
+    {
+     "name": "Harvest Apl EnhHigIn",
+     "symbol": "APLE"
+    }
+   ]
+  },
+  {
    "symbol": "HBIE",
    "name": "Harvest Balanced Income \u0026 Growth Enhanced ETF",
    "exchange": "TSX",
@@ -35146,6 +35174,18 @@
     {
      "name": "JPM NdEq PInc ActETF",
      "symbol": "JEPQ"
+    }
+   ]
+  },
+  {
+   "symbol": "JCOR",
+   "name": "JPMorgan US Core Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JCOR.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan US Core Act",
+     "symbol": "JCOR"
     }
    ]
   },
@@ -44934,6 +44974,12 @@
    "yahoo_symbol": "AIRL"
   },
   {
+   "symbol": "AIRO",
+   "name": "AIRO Group Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIRO"
+  },
+  {
    "symbol": "AIRR",
    "name": "First Trust RBA American Industrial Renaissance ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -46686,6 +46732,12 @@
    "yahoo_symbol": "BABX"
   },
   {
+   "symbol": "BACCU",
+   "name": "Blue Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACCU"
+  },
+  {
    "symbol": "BACQ",
    "name": "Bleichroeder Acquisition Corp. I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -47640,6 +47692,12 @@
    "yahoo_symbol": "BOED"
   },
   {
+   "symbol": "BOEG",
+   "name": "Leverage Shares 2X Long BA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOEG"
+  },
+  {
    "symbol": "BOEU",
    "name": "Direxion Daily BA Bull 2X Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -47896,6 +47954,12 @@
    "name": "Braze, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BRZE"
+  },
+  {
+   "symbol": "BSAAU",
+   "name": "BEST SPAC I Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSAAU"
   },
   {
    "symbol": "BSBK",
@@ -48646,6 +48710,12 @@
    "name": "CB Financial Services, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CBFV"
+  },
+  {
+   "symbol": "CBIO",
+   "name": "Crescent Biopharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBIO"
   },
   {
    "symbol": "CBLL",
@@ -50968,12 +51038,6 @@
    "name": "Dropbox, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DBX"
-  },
-  {
-   "symbol": "DCAP",
-   "name": "Unity Wealth Partners Dynamic Capital Appreciation \u0026 Options ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DCAP"
   },
   {
    "symbol": "DCBO",
@@ -55084,12 +55148,6 @@
    "name": "Galaxy Digital Inc. - Class A common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GLXY"
-  },
-  {
-   "symbol": "GLYC",
-   "name": "GlycoMimetics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLYC"
   },
   {
    "symbol": "GMAB",
@@ -64482,12 +64540,6 @@
    "yahoo_symbol": "PLXS"
   },
   {
-   "symbol": "PLYA",
-   "name": "Playa Hotels \u0026 Resorts N.V. - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PLYA"
-  },
-  {
    "symbol": "PMAX",
    "name": "Powell Max Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -70888,6 +70940,12 @@
    "name": "UMB Financial Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "UMBF"
+  },
+  {
+   "symbol": "UMBFO",
+   "name": "UMB Financial Corporation - Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UMBFO"
   },
   {
    "symbol": "UMBFP",
@@ -78018,12 +78076,6 @@
    "yahoo_symbol": "CUBI"
   },
   {
-   "symbol": "CUBI$E",
-   "name": "Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series E",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CUBI$E"
-  },
-  {
    "symbol": "CUBI$F",
    "name": "Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",
    "exchange": "NYSE",
@@ -78526,6 +78578,12 @@
    "name": "AMCON Distributing Company Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "DIT"
+  },
+  {
+   "symbol": "DIVZ",
+   "name": "Listed Funds Trust Opal Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "DIVZ"
   },
   {
    "symbol": "DJP",
