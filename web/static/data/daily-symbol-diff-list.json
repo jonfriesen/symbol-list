@@ -1,132 +1,168 @@
 {
  "added": [
   {
-   "symbol": "GAMA",
-   "name": "Gamma Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GAMA.V",
-   "instruments": [
-    {
-     "name": "Gamma Resources Ltd.",
-     "symbol": "GAMA"
-    }
-   ]
+   "symbol": "BASG",
+   "name": "Brown Advisory Sustainable Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BASG"
   },
   {
-   "symbol": "SMY",
-   "name": "Search Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SMY.V",
-   "instruments": [
-    {
-     "name": "Search Minerals Inc.",
-     "symbol": "SMY"
-    }
-   ]
+   "symbol": "BASV",
+   "name": "Brown Advisory Sustainable Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BASV"
   },
   {
-   "symbol": "APLE",
-   "name": "Harvest Apple Enhanced High Income Shares ETF",
+   "symbol": "IPCX",
+   "name": "Inflection Point Acquisition Corp. III - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPCX"
+  },
+  {
+   "symbol": "IPCXR",
+   "name": "Inflection Point Acquisition Corp. III - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPCXR"
+  },
+  {
+   "symbol": "NPAC",
+   "name": "New Providence Acquisition Corp. III - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPAC"
+  },
+  {
+   "symbol": "NPACW",
+   "name": "New Providence Acquisition Corp. III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPACW"
+  },
+  {
+   "symbol": "SQQQ",
+   "name": "BetaPro -3x Nasdaq-100 Daily Leveraged Bear Alternative ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "APLE.TO",
+   "yahoo_symbol": "SQQQ.TO",
    "instruments": [
     {
-     "name": "Harvest Apl EnhHigIn",
-     "symbol": "APLE"
+     "name": "Bp-3xNq100 dlba ETF ",
+     "symbol": "SQQQ"
     }
    ]
   },
   {
-   "symbol": "JCOR",
-   "name": "JPMorgan US Core Active ETF",
+   "symbol": "SSPX",
+   "name": "BetaPro -3x S\u0026P 500 Daily Leveraged Bear Alternative ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "JCOR.TO",
+   "yahoo_symbol": "SSPX.TO",
    "instruments": [
     {
-     "name": "JPMorgan US Core Act",
-     "symbol": "JCOR"
+     "name": "Bp-3xSP500 dlba ETF ",
+     "symbol": "SSPX"
     }
    ]
   },
   {
-   "symbol": "AIRO",
-   "name": "AIRO Group Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIRO"
+   "symbol": "TQQQ",
+   "name": "BetaPro 3x Nasdaq-100 Daily Leveraged Bull Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TQQQ.TO",
+   "instruments": [
+    {
+     "name": "Bp3x Nq100 dlba ETF ",
+     "symbol": "TQQQ"
+    }
+   ]
   },
   {
-   "symbol": "BACCU",
-   "name": "Blue Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BACCU"
+   "symbol": "TSPX",
+   "name": "BetaPro 3x S\u0026P 500 Daily Leveraged Bull Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSPX.TO",
+   "instruments": [
+    {
+     "name": "Bp3x SP500 dlba ETF ",
+     "symbol": "TSPX"
+    }
+   ]
   },
   {
-   "symbol": "BOEG",
-   "name": "Leverage Shares 2X Long BA Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOEG"
+   "symbol": "NTGA",
+   "name": "NBI Target 2026 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGA.TO",
+   "instruments": [
+    {
+     "name": "NBI Ta2026 InGrBd Fd",
+     "symbol": "NTGA"
+    }
+   ]
   },
   {
-   "symbol": "BSAAU",
-   "name": "BEST SPAC I Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BSAAU"
+   "symbol": "NTGB",
+   "name": "NBI Target 2027 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGB.TO",
+   "instruments": [
+    {
+     "name": "NBI Ta2027 InGrBd Fd",
+     "symbol": "NTGB"
+    }
+   ]
   },
   {
-   "symbol": "CBIO",
-   "name": "Crescent Biopharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CBIO"
+   "symbol": "NTGC",
+   "name": "NBI Target 2028 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGC.TO",
+   "instruments": [
+    {
+     "name": "NBI Ta2028 InGrBd Fd",
+     "symbol": "NTGC"
+    }
+   ]
   },
   {
-   "symbol": "UMBFO",
-   "name": "UMB Financial Corporation - Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "UMBFO"
+   "symbol": "AIM",
+   "name": "AIM ImmunoTech Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AIM"
   },
   {
-   "symbol": "DIVZ",
-   "name": "Listed Funds Trust Opal Dividend Income ETF",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "DIVZ"
+   "symbol": "SCD.R",
+   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCD.R"
+  },
+  {
+   "symbol": "VIRT",
+   "name": "Virtu Financial, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VIRT"
   }
  ],
  "removed": [
   {
-   "symbol": "PLYA",
-   "name": "Playa Hotels \u0026 Resorts N.V. - Ordinary Shares",
+   "symbol": "VIRT",
+   "name": "Virtu Financial, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PLYA"
+   "yahoo_symbol": "VIRT"
   },
   {
-   "symbol": "DCAP",
-   "name": "Unity Wealth Partners Dynamic Capital Appreciation \u0026 Options ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DCAP"
+   "symbol": "DADA",
+   "name": "Dada Nexus Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DADA"
   },
   {
-   "symbol": "GAB",
-   "name": "Gabo Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GAB.V",
-   "instruments": [
-    {
-     "name": "Gabo Mining Ltd.",
-     "symbol": "GAB"
-    }
-   ]
-  },
-  {
-   "symbol": "CUBI$E",
-   "name": "Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series E",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CUBI$E"
-  },
-  {
-   "symbol": "GLYC",
-   "name": "GlycoMimetics, Inc. - Common Stock",
+   "symbol": "LGHLW",
+   "name": "Lion Group Holding Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLYC"
+   "yahoo_symbol": "LGHLW"
+  },
+  {
+   "symbol": "SCD.V",
+   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCD.V"
   }
  ]
 }
