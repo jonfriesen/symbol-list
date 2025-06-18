@@ -1,168 +1,124 @@
 {
  "added": [
   {
-   "symbol": "BASG",
-   "name": "Brown Advisory Sustainable Growth ETF",
+   "symbol": "XRPQ",
+   "name": "3iQ XRP ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XRPQ.TO",
+   "instruments": [
+    {
+     "name": "3iQ XRP ETF",
+     "symbol": "XRPQ"
+    },
+    {
+     "name": "3iQ XRP ETF USF",
+     "symbol": "XRPQ.U"
+    }
+   ]
+  },
+  {
+   "symbol": "XRP",
+   "name": "Evolve XRP ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XRP.TO",
+   "instruments": [
+    {
+     "name": "Evolve XRP ETF CAD U",
+     "symbol": "XRP"
+    },
+    {
+     "name": "Evolve XRP ETF USF",
+     "symbol": "XRP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "PFCO",
+   "name": "PICTON Credit Opportunities Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFCO.TO",
+   "instruments": [
+    {
+     "name": "PictonMhnyFortSpeSit",
+     "symbol": "PFCO"
+    }
+   ]
+  },
+  {
+   "symbol": "XRPP",
+   "name": "Purpose XRP ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XRPP.TO",
+   "instruments": [
+    {
+     "name": "Purpose XRP CAD CuHd",
+     "symbol": "XRPP"
+    },
+    {
+     "name": "Purpose XRP CAD NoCu",
+     "symbol": "XRPP.B"
+    },
+    {
+     "name": "Purpose XRP ETF USF",
+     "symbol": "XRPP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "IMDX",
+   "name": "Insight Molecular Diagnostics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMDX"
+  },
+  {
+   "symbol": "MENS",
+   "name": "Jyong Biotech Ltd. - Ordinary shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BASG"
+   "yahoo_symbol": "MENS"
   },
   {
-   "symbol": "BASV",
-   "name": "Brown Advisory Sustainable Value ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BASV"
-  },
-  {
-   "symbol": "IPCX",
-   "name": "Inflection Point Acquisition Corp. III - Class A ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPCX"
-  },
-  {
-   "symbol": "IPCXR",
-   "name": "Inflection Point Acquisition Corp. III - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPCXR"
-  },
-  {
-   "symbol": "NPAC",
-   "name": "New Providence Acquisition Corp. III - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NPAC"
-  },
-  {
-   "symbol": "NPACW",
-   "name": "New Providence Acquisition Corp. III - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NPACW"
-  },
-  {
-   "symbol": "SQQQ",
-   "name": "BetaPro -3x Nasdaq-100 Daily Leveraged Bear Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SQQQ.TO",
-   "instruments": [
-    {
-     "name": "Bp-3xNq100 dlba ETF ",
-     "symbol": "SQQQ"
-    }
-   ]
-  },
-  {
-   "symbol": "SSPX",
-   "name": "BetaPro -3x S\u0026P 500 Daily Leveraged Bear Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SSPX.TO",
-   "instruments": [
-    {
-     "name": "Bp-3xSP500 dlba ETF ",
-     "symbol": "SSPX"
-    }
-   ]
-  },
-  {
-   "symbol": "TQQQ",
-   "name": "BetaPro 3x Nasdaq-100 Daily Leveraged Bull Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TQQQ.TO",
-   "instruments": [
-    {
-     "name": "Bp3x Nq100 dlba ETF ",
-     "symbol": "TQQQ"
-    }
-   ]
-  },
-  {
-   "symbol": "TSPX",
-   "name": "BetaPro 3x S\u0026P 500 Daily Leveraged Bull Alternative ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TSPX.TO",
-   "instruments": [
-    {
-     "name": "Bp3x SP500 dlba ETF ",
-     "symbol": "TSPX"
-    }
-   ]
-  },
-  {
-   "symbol": "NTGA",
-   "name": "NBI Target 2026 Investment Grade Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "NTGA.TO",
-   "instruments": [
-    {
-     "name": "NBI Ta2026 InGrBd Fd",
-     "symbol": "NTGA"
-    }
-   ]
-  },
-  {
-   "symbol": "NTGB",
-   "name": "NBI Target 2027 Investment Grade Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "NTGB.TO",
-   "instruments": [
-    {
-     "name": "NBI Ta2027 InGrBd Fd",
-     "symbol": "NTGB"
-    }
-   ]
-  },
-  {
-   "symbol": "NTGC",
-   "name": "NBI Target 2028 Investment Grade Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "NTGC.TO",
-   "instruments": [
-    {
-     "name": "NBI Ta2028 InGrBd Fd",
-     "symbol": "NTGC"
-    }
-   ]
-  },
-  {
-   "symbol": "AIM",
-   "name": "AIM ImmunoTech Inc. Common Stock",
+   "symbol": "EGG",
+   "name": "Enigmatig Limited Class A Ordinary Shares",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "AIM"
-  },
-  {
-   "symbol": "SCD.R",
-   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SCD.R"
-  },
-  {
-   "symbol": "VIRT",
-   "name": "Virtu Financial, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VIRT"
+   "yahoo_symbol": "EGG"
   }
  ],
  "removed": [
   {
-   "symbol": "VIRT",
-   "name": "Virtu Financial, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VIRT"
-  },
-  {
-   "symbol": "DADA",
-   "name": "Dada Nexus Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DADA"
-  },
-  {
-   "symbol": "LGHLW",
-   "name": "Lion Group Holding Ltd. - Warrant",
+   "symbol": "OCX",
+   "name": "Oncocyte Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGHLW"
+   "yahoo_symbol": "OCX"
   },
   {
-   "symbol": "SCD.V",
-   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued",
+   "symbol": "PFSS",
+   "name": "Picton Mahoney Fortified Special Situations Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFSS.TO",
+   "instruments": [
+    {
+     "name": "PictonMhnyFortSpeSit",
+     "symbol": "PFSS"
+    }
+   ]
+  },
+  {
+   "symbol": "BHK.R",
+   "name": "Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "SCD.V"
+   "yahoo_symbol": "BHK.R"
+  },
+  {
+   "symbol": "X",
+   "name": "United States Steel Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "X"
+  },
+  {
+   "symbol": "DMF",
+   "name": "BNY Mellon Municipal Income Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DMF"
   }
  ]
 }
