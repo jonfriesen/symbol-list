@@ -477,6 +477,7 @@ FHR,Fiddlehead Resources Corp.,TSXV,FHR.V,Fiddlehead Resources Corp.,FHR,Fiddleh
 FMN,Fidelity Minerals Corp.,TSXV,FMN.V,Fidelity Minerals Corp.,FMN
 FFC.P,Fife Capital Corp.,TSXV,FFC.P.V,Fife Capital Corp.,FFC.P
 FDI,Findev Inc.,TSXV,FDI.V,Findev Inc.,FDI
+FINX,FinEx Metals Ltd.,TSXV,FINX.V,FinEx Metals Ltd.,FINX
 FYL,Finlay Minerals Ltd.,TSXV,FYL.V,Finlay Minerals Ltd,FYL
 FTEC,Fintech Select Ltd.,TSXV,FTEC.V,Fintech Select Ltd.,FTEC
 FFOX,Firefox Gold Corp.,TSXV,FFOX.V,Firefox Gold Corp.,FFOX
@@ -1850,7 +1851,6 @@ CWL,Caldwell Partners International Inc. (The),TSX,CWL.TO,Caldwell Partners,CWL
 UDA,Caldwell U.S. Dividend Advantage Fund,TSX,UDA.TO,Caldwell US DivAdvan,UDA
 CFW,Calfrac Well Services Ltd.,TSX,CFW.TO,Calfrac Well Serv,CFW
 CGY,Calian Group Ltd.,TSX,CGY.TO,Calian Group Ltd.,CGY
-CXB,Calibre Mining Corp.,TSX,CXB.TO,Calibre Mining Corp.,CXB
 CCO,Cameco Corporation,TSX,CCO.TO,Cameco Corporation,CCO
 CF,Canaccord Genuity Group Inc.,TSX,CF.TO,Canaccord Genuity,CF,Canaccord Gen A Pr,CF.PR.A,Canaccord Gen C Pr,CF.PR.C
 CNE,Canacol Energy Ltd.,TSX,CNE.TO,Canacol Energy,CNE
@@ -2756,7 +2756,7 @@ KRN,Karnalyte Resources Inc.,TSX,KRN.TO,Karnalyte Res J,KRN
 KEG.UN,Keg Royalties Income Fund (The),TSX,KEG.UN.TO,Keg Royalties Fnd Un,KEG.UN
 KLS,Kelso Technologies Inc.,TSX,KLS.TO,Kelso Technologies,KLS
 KEL,Kelt Exploration Ltd.,TSX,KEL.TO,Kelt Expl Ltd.,KEL
-KEY,Keyera Corp.,TSX,KEY.TO,Keyera Corp.,KEY
+KEY,Keyera Corp.,TSX,KEY.TO,Keyera Corp.,KEY,Keyera Corp RCT,KEY.R
 KMP.UN,Killam Apartment Real Estate Investment Trust,TSX,KMP.UN.TO,Killam Apt REIT Un J,KMP.UN
 KXS,Kinaxis Inc.,TSX,KXS.TO,Kinaxis Inc. J,KXS
 K,Kinross Gold Corporation,TSX,K.TO,Kinross Gold Corp.,K
@@ -2992,15 +2992,15 @@ TAL,PetroTal Corp.,TSX,TAL.TO,PetroTal Corp. J,TAL
 PRQ,Petrus Resources Ltd.,TSX,PRQ.TO,Petrus Resources,PRQ
 PEY,Peyto Exploration & Development Corp.,TSX,PEY.TO,Peyto Expl & Dev ,PEY
 PHX,PHX Energy Services Corp.,TSX,PHX.TO,PHX Energy Services,PHX
-PFIA,PICTON  Long Short Income  Alternative Fund,TSX,PFIA.TO,Picton Mahoney Incm,PFIA
-PFCB,PICTON Core Bond Fund,TSX,PFCB.TO,Picton MhnyFortCrBnd,PFCB
-PFCO,PICTON Credit Opportunities Alternative Fund,TSX,PFCO.TO,PictonMhnyFortSpeSit,PFCO
-PFIG,PICTON Investment Grade Alternative Fund,TSX,PFIG.TO,Picton Mah Fort IGAF,PFIG
-PFAE,PICTON Long Short Equity (130/30) Alternative Fund,TSX,PFAE.TO,Picton MahoneyActive,PFAE
-PFLS,PICTON Long Short Equity Alternative Fund,TSX,PFLS.TO,PictonMahony LnShAlt,PFLS
-PFMN,PICTON Market Neutral Equity Alternative Fund,TSX,PFMN.TO,Picton MahoneyMktNeu,PFMN
-PFAA,PICTON Multi-Strategy Alpha Alternative Fund,TSX,PFAA.TO,Picton MhnyFortAltUn,PFAA
-PFMS,PICTON Multi-Strategy Alternative Fund,TSX,PFMS.TO,PictonMahnyMult-Stgy,PFMS
+PFIA,PICTON  Long Short Income  Alternative Fund,TSX,PFIA.TO,Picton LnSh Inc Alte,PFIA
+PFCB,PICTON Core Bond Fund,TSX,PFCB.TO,Picton Core Bnd Fd E,PFCB
+PFCO,PICTON Credit Opportunities Alternative Fund,TSX,PFCO.TO,Picton Crdt Oppt Alt,PFCO
+PFIG,PICTON Investment Grade Alternative Fund,TSX,PFIG.TO,Picton Invmn Grd Alt,PFIG
+PFAE,PICTON Long Short Equity (130/30) Alternative Fund,TSX,PFAE.TO,Picton LnShEq 130/30,PFAE
+PFLS,PICTON Long Short Equity Alternative Fund,TSX,PFLS.TO,Picton LnSh Eqt Alt,PFLS
+PFMN,PICTON Market Neutral Equity Alternative Fund,TSX,PFMN.TO,Picton Mkt Neu Eq Al,PFMN
+PFAA,PICTON Multi-Strategy Alpha Alternative Fund,TSX,PFAA.TO,Picton MultStgy Alph,PFAA
+PFMS,PICTON Multi-Strategy Alternative Fund,TSX,PFMS.TO,Picton Mult-Stgy Alt,PFMS
 CORE,PIMCO Canadian Core Bond Fund,TSX,CORE.TO,Pimco CdCr BndFndETF,CORE
 PGI.UN,PIMCO Global Income Opportunities Fund,TSX,PGI.UN.TO,PIMCO Gbl IncmOpp Un,PGI.UN
 PMNT,PIMCO Global Short Maturity Fund (Canada),TSX,PMNT.TO,PIMCO Glbl ShrtCda,PMNT
@@ -3189,7 +3189,6 @@ SKE,Skeena Resources Limited,TSX,SKE.TO,Skeena Resources J,SKE
 SGR.U,Slate Grocery REIT,TSX,SGR.U.TO,Slate GroceryREIT US,SGR.U,Slate GroceryREIT Un,SGR.UN
 SRU.UN,SmartCentres Real Estate Investment Trust,TSX,SRU.UN.TO,SmartCtr REIT VV Un,SRU.UN
 SLS,Solaris Resources Inc.,TSX,SLS.TO,Solaris Res Inc. J,SLS
-SOLG,SolGold plc,TSX,SOLG.TO,SolGold plc J Ord,SOLG
 SLR,Solitario Resources Corp.,TSX,SLR.TO,Solitario Res J,SLR
 SFI,Solution Financial Inc.,TSX,SFI.TO,Solution Financial J,SFI
 SHLE,Source Energy Services Ltd.,TSX,SHLE.TO,Source Energy Serv J,SHLE
@@ -3856,6 +3855,7 @@ AVXC,Avantis Emerging Markets ex-China Equity ETF,NASDAQ Global MarketSM,AVXC
 AVXL,Anavex Life Sciences Corp. - Common Stock,NASDAQ Global Select MarketSM,AVXL
 AWRE,"Aware, Inc. - Common Stock",NASDAQ Global MarketSM,AWRE
 AXGN,"Axogen, Inc. - Common Stock",NASDAQ Capital Market,AXGN
+AXINU,Axiom Intelligence Acquisition Corp 1 - Units,NASDAQ Global MarketSM,AXINU
 AXON,"Axon Enterprise, Inc. - Common Stock",NASDAQ Global Select MarketSM,AXON
 AXSM,"Axsome Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,AXSM
 AXTI,AXT Inc - Common Stock,NASDAQ Global Select MarketSM,AXTI
@@ -4165,6 +4165,7 @@ CAC,Camden National Corporation - Common Stock,NASDAQ Global Select MarketSM,CAC
 CACC,Credit Acceptance Corporation - Common Stock,NASDAQ Global Select MarketSM,CACC
 CADL,"Candel Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,CADL
 CAFG,Pacer US Small Cap Cash Cows Growth Leaders ETF,NASDAQ Global MarketSM,CAFG
+CAI,"Caris Life Sciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,CAI
 CAKE,The Cheesecake Factory Incorporated - Common Stock,NASDAQ Global Select MarketSM,CAKE
 CALC,"CalciMedica, Inc. - Common Stock",NASDAQ Capital Market,CALC
 CALI,iShares Short-Term California Muni Active ETF,NASDAQ Global MarketSM,CALI
@@ -4906,6 +4907,7 @@ EXPE,"Expedia Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,EXPE
 EXPI,"eXp World Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,EXPI
 EXPO,"Exponent, Inc. - Common Stock",NASDAQ Global Select MarketSM,EXPO
 EXTR,"Extreme Networks, Inc. - Common Stock",NASDAQ Global Select MarketSM,EXTR
+EXUS,Macquarie Focused International Core ETF,NASDAQ Global MarketSM,EXUS
 EYE,"National Vision Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,EYE
 EYEG,AB Corporate Bond ETF,NASDAQ Global MarketSM,EYEG
 EYEN,"Eyenovia, Inc. - Common Stock",NASDAQ Capital Market,EYEN
@@ -6704,6 +6706,7 @@ PAA,"Plains All American Pipeline, L.P. - Common Units representing Limited Part
 PABD,iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF,NASDAQ Global MarketSM,PABD
 PABU,iShares Paris-Aligned Climate Optimized MSCI USA ETF,NASDAQ Global MarketSM,PABU
 PACB,"Pacific Biosciences of California, Inc. - Common Stock",NASDAQ Global Select MarketSM,PACB
+PACHU,Pioneer Acquisition I Corp - Units,NASDAQ Global MarketSM,PACHU
 PAGP,"Plains GP Holdings, L.P. - Class A Shares representing limited partner interests",NASDAQ Global Select MarketSM,PAGP
 PAHC,Phibro Animal Health Corporation - Class A Common Stock,NASDAQ Global MarketSM,PAHC
 PAL,"Proficient Auto Logistics, Inc. - Common Stock",NASDAQ Global Select MarketSM,PAL
@@ -7411,6 +7414,7 @@ SKYX,SKYX Platforms Corp. - Common Stock,NASDAQ Capital Market,SKYX
 SKYY,First Trust Cloud Computing ETF,NASDAQ Global MarketSM,SKYY
 SLAB,"Silicon Laboratories, Inc. - Common Stock",NASDAQ Global Select MarketSM,SLAB
 SLDB,Solid Biosciences Inc. - Common Stock,NASDAQ Global Select MarketSM,SLDB
+SLDE,"Slide Insurance Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SLDE
 SLDP,"Solid Power, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SLDP
 SLDPW,"Solid Power, Inc. - Warrant",NASDAQ Global Select MarketSM,SLDPW
 SLE,"Super League Enterprise, Inc. - Common Stock",NASDAQ Capital Market,SLE
@@ -8194,6 +8198,7 @@ WTFCM,"Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Pe
 WTFCN,"Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share",NASDAQ Global Select MarketSM,WTFCN
 WTFCP,"Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",NASDAQ Global Select MarketSM,WTFCP
 WTGUU,Wintergreen Acquisition Corp. - Unit,NASDAQ Capital Market,WTGUU
+WTIP,WisdomTree Inflation Plus Fund,NASDAQ Global MarketSM,WTIP
 WTMU,WisdomTree Core Laddered Municipal Fund,NASDAQ Global MarketSM,WTMU
 WTMY,WisdomTree High Income Laddered Municipal Fund,NASDAQ Global MarketSM,WTMY
 WTO,UTime Limited - Ordinary Shares,NASDAQ Capital Market,WTO

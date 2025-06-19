@@ -1,5 +1,5 @@
 {
- "date": "2025-06-18",
+ "date": "2025-06-19",
  "data": [
   {
    "symbol": "ONE",
@@ -5778,6 +5778,18 @@
     {
      "name": "Findev Inc.",
      "symbol": "FDI"
+    }
+   ]
+  },
+  {
+   "symbol": "FINX",
+   "name": "FinEx Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FINX.V",
+   "instruments": [
+    {
+     "name": "FinEx Metals Ltd.",
+     "symbol": "FINX"
     }
    ]
   },
@@ -23138,18 +23150,6 @@
    ]
   },
   {
-   "symbol": "CXB",
-   "name": "Calibre Mining Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CXB.TO",
-   "instruments": [
-    {
-     "name": "Calibre Mining Corp.",
-     "symbol": "CXB"
-    }
-   ]
-  },
-  {
    "symbol": "CCO",
    "name": "Cameco Corporation",
    "exchange": "TSX",
@@ -35386,6 +35386,10 @@
     {
      "name": "Keyera Corp.",
      "symbol": "KEY"
+    },
+    {
+     "name": "Keyera Corp RCT",
+     "symbol": "KEY.R"
     }
    ]
   },
@@ -38452,7 +38456,7 @@
    "yahoo_symbol": "PFIA.TO",
    "instruments": [
     {
-     "name": "Picton Mahoney Incm",
+     "name": "Picton LnSh Inc Alte",
      "symbol": "PFIA"
     }
    ]
@@ -38464,7 +38468,7 @@
    "yahoo_symbol": "PFCB.TO",
    "instruments": [
     {
-     "name": "Picton MhnyFortCrBnd",
+     "name": "Picton Core Bnd Fd E",
      "symbol": "PFCB"
     }
    ]
@@ -38476,7 +38480,7 @@
    "yahoo_symbol": "PFCO.TO",
    "instruments": [
     {
-     "name": "PictonMhnyFortSpeSit",
+     "name": "Picton Crdt Oppt Alt",
      "symbol": "PFCO"
     }
    ]
@@ -38488,7 +38492,7 @@
    "yahoo_symbol": "PFIG.TO",
    "instruments": [
     {
-     "name": "Picton Mah Fort IGAF",
+     "name": "Picton Invmn Grd Alt",
      "symbol": "PFIG"
     }
    ]
@@ -38500,7 +38504,7 @@
    "yahoo_symbol": "PFAE.TO",
    "instruments": [
     {
-     "name": "Picton MahoneyActive",
+     "name": "Picton LnShEq 130/30",
      "symbol": "PFAE"
     }
    ]
@@ -38512,7 +38516,7 @@
    "yahoo_symbol": "PFLS.TO",
    "instruments": [
     {
-     "name": "PictonMahony LnShAlt",
+     "name": "Picton LnSh Eqt Alt",
      "symbol": "PFLS"
     }
    ]
@@ -38524,7 +38528,7 @@
    "yahoo_symbol": "PFMN.TO",
    "instruments": [
     {
-     "name": "Picton MahoneyMktNeu",
+     "name": "Picton Mkt Neu Eq Al",
      "symbol": "PFMN"
     }
    ]
@@ -38536,7 +38540,7 @@
    "yahoo_symbol": "PFAA.TO",
    "instruments": [
     {
-     "name": "Picton MhnyFortAltUn",
+     "name": "Picton MultStgy Alph",
      "symbol": "PFAA"
     }
    ]
@@ -38548,7 +38552,7 @@
    "yahoo_symbol": "PFMS.TO",
    "instruments": [
     {
-     "name": "PictonMahnyMult-Stgy",
+     "name": "Picton Mult-Stgy Alt",
      "symbol": "PFMS"
     }
    ]
@@ -41170,18 +41174,6 @@
     {
      "name": "Solaris Res Inc. J",
      "symbol": "SLS"
-    }
-   ]
-  },
-  {
-   "symbol": "SOLG",
-   "name": "SolGold plc",
-   "exchange": "TSX",
-   "yahoo_symbol": "SOLG.TO",
-   "instruments": [
-    {
-     "name": "SolGold plc J Ord",
-     "symbol": "SOLG"
     }
    ]
   },
@@ -46808,6 +46800,12 @@
    "yahoo_symbol": "AXGN"
   },
   {
+   "symbol": "AXINU",
+   "name": "Axiom Intelligence Acquisition Corp 1 - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AXINU"
+  },
+  {
    "symbol": "AXON",
    "name": "Axon Enterprise, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48660,6 +48658,12 @@
    "name": "Pacer US Small Cap Cash Cows Growth Leaders ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CAFG"
+  },
+  {
+   "symbol": "CAI",
+   "name": "Caris Life Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CAI"
   },
   {
    "symbol": "CAKE",
@@ -53106,6 +53110,12 @@
    "name": "Extreme Networks, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "EXTR"
+  },
+  {
+   "symbol": "EXUS",
+   "name": "Macquarie Focused International Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EXUS"
   },
   {
    "symbol": "EYE",
@@ -63896,6 +63906,12 @@
    "yahoo_symbol": "PACB"
   },
   {
+   "symbol": "PACHU",
+   "name": "Pioneer Acquisition I Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PACHU"
+  },
+  {
    "symbol": "PAGP",
    "name": "Plains GP Holdings, L.P. - Class A Shares representing limited partner interests",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68136,6 +68152,12 @@
    "name": "Solid Biosciences Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SLDB"
+  },
+  {
+   "symbol": "SLDE",
+   "name": "Slide Insurance Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SLDE"
   },
   {
    "symbol": "SLDP",
@@ -72834,6 +72856,12 @@
    "name": "Wintergreen Acquisition Corp. - Unit",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WTGUU"
+  },
+  {
+   "symbol": "WTIP",
+   "name": "WisdomTree Inflation Plus Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTIP"
   },
   {
    "symbol": "WTMU",
