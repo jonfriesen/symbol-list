@@ -486,6 +486,7 @@ FCA.U,Firm Capital Apartment Real Estate Investment Trust,TSXV,FCA.U.V,Firm Capi
 FGCC.P,First and Goal Capital Corp.,TSXV,FGCC.P.V,First and Goal Capital Corp.,FGCC.P
 FAS,First Andes Silver Ltd.,TSXV,FAS.V,First Andes Silver Ltd.,FAS
 FAN,First Atlantic Nickel Corp.,TSXV,FAN.V,First Atlantic Nickel Corp.,FAN
+FCI,First Canadian Graphite Inc.,TSXV,FCI.V,First Canadian Graphite Inc.,FCI
 HELI,First Helium Inc.,TSXV,HELI.V,First Helium Inc.,HELI
 FHYD,First Hydrogen Corp.,TSXV,FHYD.V,First Hydrogen Corp.,FHYD
 FNM,First Nordic Metals Corp.,TSXV,FNM.V,First Nordic Metals Corp.,FNM
@@ -586,7 +587,6 @@ GR,Great Atlantic Resources Corp.,TSXV,GR.V,Great Atlantic Resources Corp.,GR
 GPAC,Great Pacific Gold Corp.,TSXV,GPAC.V,Great Pacific Gold Corp.,GPAC
 GPS,Great Plains Metals Corp.,TSXV,GPS.V,Great Plains Metals Corp.,GPS
 GQ,Great Quest Gold Ltd.,TSXV,GQ.V,Great Quest Gold Ltd.,GQ
-GEM,Green Battery Minerals Inc.,TSXV,GEM.V,Green Battery Minerals Inc.,GEM
 GIP,Green Impact Partners Inc.,TSXV,GIP.V,Green Impact Partners Inc.,GIP
 GPCC.P,Green Panda Capital Corp.,TSXV,GPCC.P.V,Green Panda Capital Corp.,GPCC.P
 GRF,Green Rise Foods Inc.,TSXV,GRF.V,Green Rise Foods Inc.,GRF
@@ -2056,6 +2056,7 @@ DCU,Desjardins Canadian Universe Bond Index ETF,TSX,DCU.TO,DesjardinCA UnivBnd,D
 DMEE,Desjardins Emerging Markets Equity Index ETF,TSX,DMEE.TO,Desjrdn EmMaEqIn ETF,DMEE
 DMEI,Desjardins International Equity Index ETF,TSX,DMEI.TO,Des Int Eq Index Etf,DMEI
 DANC,Desjardins Market Neutral ETF,TSX,DANC.TO,Desjardins MktNe UHN,DANC,Desjardn MktNe Hd US,DANC.U
+DMQC,Desjardins Quebec Equity ETF,TSX,DMQC.TO,Desjardins Quebec Eq,DMQC
 DRCU,Desjardins RI Active Canadian Bond - Net-Zero Emissions Pathway ETF,TSX,DRCU.TO,Desjardins RI CA Bnd,DRCU
 DRMC,Desjardins RI Canada - Net-Zero Emissions Pathway ETF,TSX,DRMC.TO,DesjardinsRI CdaNZEm,DRMC
 DRFC,Desjardins RI Canada Multifactor - Net-Zero Emissions Pathway ETF,TSX,DRFC.TO,DesjardnsRI CA MF0Em,DRFC
@@ -4066,7 +4067,6 @@ BRLSW,Borealis Foods Inc. - Warrant,NASDAQ Capital Market,BRLSW
 BRLT,"Brilliant Earth Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,BRLT
 BRNS,Barinthus Biotherapeutics plc - American Depositary Shares,NASDAQ Global MarketSM,BRNS
 BRNY,Burney U.S. Factor Rotation ETF,NASDAQ Global MarketSM,BRNY
-BROG,Brooge Energy Limited  - Ordinary Shares,NASDAQ Capital Market,BROG
 BRRR,Coinshares Valkyrie Bitcoin Fund,NASDAQ Global MarketSM,BRRR
 BRTR,iShares Total Return Active ETF,NASDAQ Global MarketSM,BRTR
 BRTX,"BioRestorative Therapies, Inc. - Common Stock",NASDAQ Capital Market,BRTX
@@ -5928,8 +5928,6 @@ LCUT,"Lifetime Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,LCUT
 LDEM,iShares ESG MSCI EM Leaders ETF,NASDAQ Global MarketSM,LDEM
 LDRX,SGI Enhanced Market Leaders ETF,NASDAQ Global MarketSM,LDRX
 LDSF,First Trust Low Duration Strategic Focus ETF,NASDAQ Global MarketSM,LDSF
-LDTC,LeddarTech Holdings Inc. - Common Shares,NASDAQ Capital Market,LDTC
-LDTCW,LeddarTech Holdings Inc. - Warrants,NASDAQ Capital Market,LDTCW
 LDWY,"Lendway, Inc. - Common Stock",NASDAQ Capital Market,LDWY
 LE,"Lands' End, Inc. - Common Stock",NASDAQ Capital Market,LE
 LECO,"Lincoln Electric Holdings, Inc. - Common Shares",NASDAQ Global Select MarketSM,LECO
@@ -5976,7 +5974,6 @@ LINC,Lincoln Educational Services Corporation - Common Stock,NASDAQ Global Selec
 LIND,Lindblad Expeditions Holdings Inc.  - Common Stock,NASDAQ Capital Market,LIND
 LINE,"Lineage, Inc. - Common Stock",NASDAQ Global Select MarketSM,LINE
 LINK,"Interlink Electronics, Inc. - Common Stock",NASDAQ Capital Market,LINK
-LIPO,Lipella Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,LIPO
 LIQT,"LiqTech International, Inc. - Common Stock",NASDAQ Capital Market,LIQT
 LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,LITE
 LITM,Snow Lake Resources Ltd. - Common Shares,NASDAQ Capital Market,LITM
@@ -6077,7 +6074,7 @@ LYRA,"Lyra Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,LYRA
 LYTS,LSI Industries Inc. - Common Stock,NASDAQ Global Select MarketSM,LYTS
 LZ,"LegalZoom.com, Inc. - Common Stock",NASDAQ Global Select MarketSM,LZ
 LZMH,LZ Technology Holdings Limited - Class B Ordinary Shares,NASDAQ Capital Market,LZMH
-MAAS,Maase Inc. - American Depository Shares,NASDAQ Global MarketSM,MAAS
+MAAS,Maase Inc. - Class A Ordinary Shares,NASDAQ Global MarketSM,MAAS
 MACI,Melar Acquisition Corp. I - Class A Ordinary Shares,NASDAQ Global MarketSM,MACI
 MACIU,Melar Acquisition Corp. I - Unit,NASDAQ Global MarketSM,MACIU
 MACIW,Melar Acquisition Corp. I - Warrant,NASDAQ Global MarketSM,MACIW
@@ -10558,7 +10555,7 @@ PCQ,PIMCO California Municipal Income Fund Common Stock,NYSE,PCQ
 PD,"PagerDuty, Inc. Common Stock",NYSE,PD
 PDCC,Pearl Diver Credit Company Inc. Common Stock,NYSE,PDCC
 PDI,PIMCO Dynamic Income Fund Common Stock,NYSE,PDI
-PDM,"Piedmont Office Realty Trust, Inc. Class A Common Stock",NYSE,PDM
+PDM,"Piedmont Realty Trust, Inc. Class A Common Stock",NYSE,PDM
 PDO,PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest,NYSE,PDO
 PDPA,Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029,NYSE,PDPA
 PDS,Precision Drilling Corporation Common Stock,NYSE,PDS
