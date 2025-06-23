@@ -1575,6 +1575,7 @@ AOT,Ascot Resources Ltd.,TSX,AOT.TO,Ascot Resources J,AOT
 ACO.X,ATCO Ltd.,TSX,ACO.X.TO,ATCO Ltd. Cl I NV,ACO.X,ATCO Ltd. Cl II,ACO.Y
 ATH,Athabasca Oil Corporation,TSX,ATH.TO,Athabasca Oil Corp,ATH
 ATRL,AtkinsRéalis Group Inc.,TSX,ATRL.TO,AtkinsRealis GrpInc,ATRL
+ATLE,Atlas Energy Corp.,TSX,ATLE.TO,Atlas Energy Corp,ATLE
 AI,Atrium Mortgage Investment Corporation,TSX,AI.TO,Atrium Mtg Invest,AI,Atrium Mtg Inv 5.5Db,AI.DB.D,Atrium Mtg Inv 5% Db,AI.DB.F,Atrium Mtg 5.1% Deb,AI.DB.G
 ATS,ATS Corporation,TSX,ATS.TO,ATS Corporation,ATS
 G,Augusta Gold Corp.,TSX,G.TO,Augusta Gold Corp. J,G
@@ -2803,7 +2804,7 @@ MCSB,Mackenzie Canadian Short Term Fixed Income ETF,TSX,MCSB.TO,MackenzieCA Fixd
 QSB,Mackenzie Canadian Short-Term Bond Index ETF,TSX,QSB.TO,Mackenzie CdnSTBndE ,QSB
 QASH,Mackenzie Canadian Ultra Short Bond Index ETF,TSX,QASH.TO,Mackenzie CA SH Bond,QASH
 MCON,Mackenzie Conservative Allocation ETF,TSX,MCON.TO,Mackenzie ConsrvAllo,MCON
-MKB,Mackenzie Core Plus Canadian Fixed Income ETF,TSX,MKB.TO,Mackenzie CAFxIncm E,MKB
+MKB,Mackenzie Core Plus Canadian Fixed Income ETF,TSX,MKB.TO,Mackenzie Cdn StFxIn,MKB
 MGB,Mackenzie Core Plus Global Fixed Income ETF,TSX,MGB.TO,Mackenzie GlbFxIncmE,MGB
 MORE,Mackenzie Core Resources ETF,TSX,MORE.TO,Mack Core Res ETF,MORE
 QDXB,Mackenzie Developed ex-North America Aggregate Bond Index ETF (CAD-Hedged),TSX,QDXB.TO,MackenzieDvExNABndCH,QDXB
@@ -3406,7 +3407,6 @@ WTE,Westshore Terminals Investment Corporation,TSX,WTE.TO,Westshore Terminals,WT
 WPM,Wheaton Precious Metals Corp.,TSX,WPM.TO,Wheaton Precious Mtl,WPM
 WCP,Whitecap Resources Inc.,TSX,WCP.TO,Whitecap Resources,WCP
 WILD,WildBrain Ltd.,TSX,WILD.TO,WildBrain Ltd Com&VV,WILD
-WLLW,Willow Biosciences Inc.,TSX,WLLW.TO,Willow BioSci Inc. J,WLLW
 WCM.A,Wilmington Capital Management Inc.,TSX,WCM.A.TO,Wilmington Cap A NV,WCM.A,Wilmington Cap B,WCM.B
 WPK,Winpak Ltd.,TSX,WPK.TO,Winpak Limited,WPK
 WNDR,WonderFi Technologies Inc.,TSX,WNDR.TO,WonderFi Tech J,WNDR
@@ -3639,7 +3639,6 @@ AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ Global Select MarketSM,
 AMDD,Direxion Daily AMD Bear 1X Shares,NASDAQ Global MarketSM,AMDD
 AMDG,Leverage Shares 2X Long AMD Daily ETF,NASDAQ Global MarketSM,AMDG
 AMDL,GraniteShares 2x Long AMD Daily ETF,NASDAQ Global MarketSM,AMDL
-AMDS,GraniteShares 1x Short AMD Daily ETF,NASDAQ Global MarketSM,AMDS
 AMED,Amedisys Inc - Common Stock,NASDAQ Global Select MarketSM,AMED
 AMGN,Amgen Inc. - Common Stock,NASDAQ Global Select MarketSM,AMGN
 AMID,Argent Mid Cap ETF,NASDAQ Global MarketSM,AMID
@@ -4317,6 +4316,8 @@ CHI,Calamos Convertible Opportunities and Income Fund - Closed End Fund,NASDAQ G
 CHKP,Check Point Software Technologies Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CHKP
 CHMG,Chemung Financial Corp  - Common Stock,NASDAQ Global Select MarketSM,CHMG
 CHNR,"China Natural Resources, Inc. - Common Shares",NASDAQ Capital Market,CHNR
+CHPG,ChampionsGate Acquisition Corporation - Class A Ordinary Share,NASDAQ Global MarketSM,CHPG
+CHPGR,ChampionsGate Acquisition Corporation - Rights,NASDAQ Global MarketSM,CHPGR
 CHPGU,ChampionsGate Acquisition Corporation - Unit,NASDAQ Global MarketSM,CHPGU
 CHPS,Xtrackers Semiconductor Select Equity ETF,NASDAQ Global MarketSM,CHPS
 CHR,"Cheer Holding, Inc.  - Class A Ordinary Share",NASDAQ Capital Market,CHR
@@ -4571,6 +4572,8 @@ CZWI,"Citizens Community Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,CZ
 DAAQ,Digital Asset Acquisition Corp. - Class A Ordinary shares,NASDAQ Global MarketSM,DAAQ
 DAAQU,Digital Asset Acquisition Corp. - Units,NASDAQ Global MarketSM,DAAQU
 DAAQW,Digital Asset Acquisition Corp. - Warrant,NASDAQ Global MarketSM,DAAQW
+DAIC,"CID HoldCo, Inc. - Common Stock",NASDAQ Global MarketSM,DAIC
+DAICW,"CID HoldCo, Inc. - Warrants",NASDAQ Global MarketSM,DAICW
 DAIO,Data I/O Corporation - Common Stock,NASDAQ Capital Market,DAIO
 DAKT,"Daktronics, Inc. - Common Stock",NASDAQ Global Select MarketSM,DAKT
 DALI,First Trust Dorsey Wright DALI Equity ETF,NASDAQ Global MarketSM,DALI
@@ -5060,7 +5063,6 @@ FMNB,Farmers National Banc Corp. - Common Stock,NASDAQ Capital Market,FMNB
 FMST,Foremost Clean Energy Ltd. - Common Shares,NASDAQ Capital Market,FMST
 FMSTW,Foremost Clean Energy Ltd. - Warrant,NASDAQ Capital Market,FMSTW
 FMTM,MarketDesk Focused U.S. Momentum ETF,NASDAQ Global MarketSM,FMTM
-FMTO,Femto Technologies Inc. - Common Stock,NASDAQ Capital Market,FMTO
 FMUB,Fidelity Municipal Bond Opportunities ETF,NASDAQ Global MarketSM,FMUB
 FMUN,Fidelity Systematic Municipal Bond Index ETF,NASDAQ Global MarketSM,FMUN
 FNGR,"FingerMotion, Inc. - common stock",NASDAQ Capital Market,FNGR
@@ -5868,7 +5870,6 @@ KRMA,Global X Conscious Companies ETF,NASDAQ Global MarketSM,KRMA
 KRMD,"KORU Medical Systems, Inc. - Common Stock",NASDAQ Capital Market,KRMD
 KRNT,Kornit Digital Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,KRNT
 KRNY,Kearny Financial - Common Stock,NASDAQ Global Select MarketSM,KRNY
-KRON,"Kronos Bio, Inc. - Common Stock",NASDAQ Capital Market,KRON
 KROP,Global X AgTech & Food Innovation ETF,NASDAQ Global MarketSM,KROP
 KROS,"Keros Therapeutics, Inc. - common stock",NASDAQ Global MarketSM,KROS
 KRRO,"Korro Bio, Inc. - Common Stock",NASDAQ Capital Market,KRRO
@@ -6844,7 +6845,9 @@ PMBS,PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund,NASDAQ Global 
 PMCB,"PharmaCyte  Biotech, Inc. - Common Stock",NASDAQ Capital Market,PMCB
 PMEC,Primech Holdings Ltd. - Ordinary Shares,NASDAQ Capital Market,PMEC
 PMN,ProMIS Neurosciences Inc. - Common Shares,NASDAQ Capital Market,PMN
+PMTR,Perimeter Acquisition Corp. I - Class A Ordinary Shares,NASDAQ Global MarketSM,PMTR
 PMTRU,Perimeter Acquisition Corp. I - Unit,NASDAQ Global MarketSM,PMTRU
+PMTRW,Perimeter Acquisition Corp. I - Warrant,NASDAQ Global MarketSM,PMTRW
 PMTS,CPI Card Group Inc. - Common Stock,NASDAQ Global MarketSM,PMTS
 PMVP,"PMV Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,PMVP
 PN,Skycorp Solar Group Limited - Ordinary Shares,NASDAQ Capital Market,PN
@@ -8480,6 +8483,7 @@ AMPX.W,"Amprius Technologies, Inc. Warrants to purchase one share of Common Stoc
 AMPY,Amplify Energy Corp. Common Stock,NYSE,AMPY
 AMR,"Alpha Metallurgical Resources, Inc. Common Stock",NYSE,AMR
 AMRC,"Ameresco, Inc. Class A Common Stock",NYSE,AMRC
+AMRZ,Amrize Ltd Ordinary Shares,NYSE,AMRZ
 AMS,American Shared Hospital Services Common Stock,NYSE MKT,AMS
 AMT,American Tower Corporation (REIT) Common Stock,NYSE,AMT
 AMTB,Amerant Bancorp Inc. Class A Common Stock,NYSE,AMTB
@@ -11388,7 +11392,6 @@ WBS$F,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,00
 WBS$G,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",NYSE,WBS$G
 WBX,Wallbox N.V. Class A Ordinary Shares,NYSE,WBX
 WCC,"WESCO International, Inc. Common Stock",NYSE,WCC
-WCC$A,"WESCO International, Inc. Depositary Shares each representing 1/1,000th interest in a share of Series A Fixed-Rate Reset Cumulative Perpetual Preferred Stock",NYSE,WCC$A
 WCN,"Waste Connections, Inc. Common Shares",NYSE,WCN
 WD,"Walker & Dunlop, Inc Common Stock",NYSE,WD
 WDH,Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),NYSE,WDH

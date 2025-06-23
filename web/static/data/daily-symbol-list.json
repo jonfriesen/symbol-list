@@ -1,5 +1,5 @@
 {
- "date": "2025-06-20",
+ "date": "2025-06-23",
  "data": [
   {
    "symbol": "ONE",
@@ -19282,6 +19282,18 @@
    ]
   },
   {
+   "symbol": "ATLE",
+   "name": "Atlas Energy Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATLE.TO",
+   "instruments": [
+    {
+     "name": "Atlas Energy Corp",
+     "symbol": "ATLE"
+    }
+   ]
+  },
+  {
    "symbol": "AI",
    "name": "Atrium Mortgage Investment Corporation",
    "exchange": "TSX",
@@ -35968,7 +35980,7 @@
    "yahoo_symbol": "MKB.TO",
    "instruments": [
     {
-     "name": "Mackenzie CAFxIncm E",
+     "name": "Mackenzie Cdn StFxIn",
      "symbol": "MKB"
     }
    ]
@@ -44038,18 +44050,6 @@
    ]
   },
   {
-   "symbol": "WLLW",
-   "name": "Willow Biosciences Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "WLLW.TO",
-   "instruments": [
-    {
-     "name": "Willow BioSci Inc. J",
-     "symbol": "WLLW"
-    }
-   ]
-  },
-  {
    "symbol": "WCM.A",
    "name": "Wilmington Capital Management Inc.",
    "exchange": "TSX",
@@ -45508,12 +45508,6 @@
    "name": "GraniteShares 2x Long AMD Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AMDL"
-  },
-  {
-   "symbol": "AMDS",
-   "name": "GraniteShares 1x Short AMD Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMDS"
   },
   {
    "symbol": "AMED",
@@ -49578,6 +49572,18 @@
    "yahoo_symbol": "CHNR"
   },
   {
+   "symbol": "CHPG",
+   "name": "ChampionsGate Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPG"
+  },
+  {
+   "symbol": "CHPGR",
+   "name": "ChampionsGate Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPGR"
+  },
+  {
    "symbol": "CHPGU",
    "name": "ChampionsGate Acquisition Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
@@ -51100,6 +51106,18 @@
    "name": "Digital Asset Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DAAQW"
+  },
+  {
+   "symbol": "DAIC",
+   "name": "CID HoldCo, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAIC"
+  },
+  {
+   "symbol": "DAICW",
+   "name": "CID HoldCo, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAICW"
   },
   {
    "symbol": "DAIO",
@@ -54034,12 +54052,6 @@
    "name": "MarketDesk Focused U.S. Momentum ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FMTM"
-  },
-  {
-   "symbol": "FMTO",
-   "name": "Femto Technologies Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FMTO"
   },
   {
    "symbol": "FMUB",
@@ -58882,12 +58894,6 @@
    "name": "Kearny Financial - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "KRNY"
-  },
-  {
-   "symbol": "KRON",
-   "name": "Kronos Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KRON"
   },
   {
    "symbol": "KROP",
@@ -64740,10 +64746,22 @@
    "yahoo_symbol": "PMN"
   },
   {
+   "symbol": "PMTR",
+   "name": "Perimeter Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PMTR"
+  },
+  {
    "symbol": "PMTRU",
    "name": "Perimeter Acquisition Corp. I - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PMTRU"
+  },
+  {
+   "symbol": "PMTRW",
+   "name": "Perimeter Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PMTRW"
   },
   {
    "symbol": "PMTS",
@@ -74554,6 +74572,12 @@
    "name": "Ameresco, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "AMRC"
+  },
+  {
+   "symbol": "AMRZ",
+   "name": "Amrize Ltd Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMRZ"
   },
   {
    "symbol": "AMS",
@@ -92002,12 +92026,6 @@
    "name": "WESCO International, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "WCC"
-  },
-  {
-   "symbol": "WCC$A",
-   "name": "WESCO International, Inc. Depositary Shares each representing 1/1,000th interest in a share of Series A Fixed-Rate Reset Cumulative Perpetual Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WCC$A"
   },
   {
    "symbol": "WCN",

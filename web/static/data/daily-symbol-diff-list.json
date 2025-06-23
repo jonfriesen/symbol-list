@@ -1,66 +1,96 @@
 {
  "added": [
   {
-   "symbol": "FCI",
-   "name": "First Canadian Graphite Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FCI.V",
+   "symbol": "ATLE",
+   "name": "Atlas Energy Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATLE.TO",
    "instruments": [
     {
-     "name": "First Canadian Graphite Inc.",
-     "symbol": "FCI"
+     "name": "Atlas Energy Corp",
+     "symbol": "ATLE"
     }
    ]
   },
   {
-   "symbol": "DMQC",
-   "name": "Desjardins Quebec Equity ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DMQC.TO",
-   "instruments": [
-    {
-     "name": "Desjardins Quebec Eq",
-     "symbol": "DMQC"
-    }
-   ]
+   "symbol": "CHPG",
+   "name": "ChampionsGate Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPG"
+  },
+  {
+   "symbol": "CHPGR",
+   "name": "ChampionsGate Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPGR"
+  },
+  {
+   "symbol": "DAIC",
+   "name": "CID HoldCo, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAIC"
+  },
+  {
+   "symbol": "DAICW",
+   "name": "CID HoldCo, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAICW"
+  },
+  {
+   "symbol": "PMTR",
+   "name": "Perimeter Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PMTR"
+  },
+  {
+   "symbol": "PMTRW",
+   "name": "Perimeter Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PMTRW"
+  },
+  {
+   "symbol": "AMRZ",
+   "name": "Amrize Ltd Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMRZ"
   }
  ],
  "removed": [
   {
-   "symbol": "LDTC",
-   "name": "LeddarTech Holdings Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LDTC"
+   "symbol": "AMDS",
+   "name": "GraniteShares 1x Short AMD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDS"
   },
   {
-   "symbol": "BROG",
-   "name": "Brooge Energy Limited  - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BROG"
-  },
-  {
-   "symbol": "GEM",
-   "name": "Green Battery Minerals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GEM.V",
+   "symbol": "WLLW",
+   "name": "Willow Biosciences Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "WLLW.TO",
    "instruments": [
     {
-     "name": "Green Battery Minerals Inc.",
-     "symbol": "GEM"
+     "name": "Willow BioSci Inc. J",
+     "symbol": "WLLW"
     }
    ]
   },
   {
-   "symbol": "LIPO",
-   "name": "Lipella Pharmaceuticals Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LIPO"
+   "symbol": "WCC$A",
+   "name": "WESCO International, Inc. Depositary Shares each representing 1/1,000th interest in a share of Series A Fixed-Rate Reset Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WCC$A"
   },
   {
-   "symbol": "LDTCW",
-   "name": "LeddarTech Holdings Inc. - Warrants",
+   "symbol": "FMTO",
+   "name": "Femto Technologies Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LDTCW"
+   "yahoo_symbol": "FMTO"
+  },
+  {
+   "symbol": "KRON",
+   "name": "Kronos Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KRON"
   }
  ]
 }
