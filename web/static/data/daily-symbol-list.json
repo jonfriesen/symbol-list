@@ -1,5 +1,5 @@
 {
- "date": "2025-06-23",
+ "date": "2025-06-24",
  "data": [
   {
    "symbol": "ONE",
@@ -15062,18 +15062,6 @@
    ]
   },
   {
-   "symbol": "SLMN",
-   "name": "Solis Minerals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SLMN.V",
-   "instruments": [
-    {
-     "name": "Solis Minerals Ltd.",
-     "symbol": "SLMN"
-    }
-   ]
-  },
-  {
    "symbol": "SGC",
    "name": "Solstice Gold Corp.",
    "exchange": "TSXV",
@@ -15350,6 +15338,10 @@
     {
      "name": "SPC Nickel Corp.",
      "symbol": "SPC"
+    },
+    {
+     "name": "SPC Nickel Corp rt ex 25july2025",
+     "symbol": "SPC.RT"
     }
    ]
   },
@@ -19278,18 +19270,6 @@
     {
      "name": "AtkinsRealis GrpInc",
      "symbol": "ATRL"
-    }
-   ]
-  },
-  {
-   "symbol": "ATLE",
-   "name": "Atlas Energy Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ATLE.TO",
-   "instruments": [
-    {
-     "name": "Atlas Energy Corp",
-     "symbol": "ATLE"
     }
    ]
   },
@@ -50442,6 +50422,18 @@
    "yahoo_symbol": "CRAI"
   },
   {
+   "symbol": "CRAQ",
+   "name": "Cal Redwood Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAQ"
+  },
+  {
+   "symbol": "CRAQR",
+   "name": "Cal Redwood Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAQR"
+  },
+  {
    "symbol": "CRAQU",
    "name": "Cal Redwood Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -55752,10 +55744,22 @@
    "yahoo_symbol": "GTEC"
   },
   {
+   "symbol": "GTEN",
+   "name": "Gores Holdings X, Inc. - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTEN"
+  },
+  {
    "symbol": "GTENU",
    "name": "Gores Holdings X, Inc. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GTENU"
+  },
+  {
+   "symbol": "GTENW",
+   "name": "Gores Holdings X, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTENW"
   },
   {
    "symbol": "GTI",
@@ -59182,6 +59186,18 @@
    "name": "Liberty Global Ltd. - Class C Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LBTYK"
+  },
+  {
+   "symbol": "LCCC",
+   "name": "Lakeshore Acquisition III Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCC"
+  },
+  {
+   "symbol": "LCCCR",
+   "name": "Lakeshore Acquisition III Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCCR"
   },
   {
    "symbol": "LCCCU",
@@ -66216,10 +66232,22 @@
    "yahoo_symbol": "RDACU"
   },
   {
+   "symbol": "RDAG",
+   "name": "Republic Digital Acquisition Company - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RDAG"
+  },
+  {
    "symbol": "RDAGU",
    "name": "Republic Digital Acquisition Company - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RDAGU"
+  },
+  {
+   "symbol": "RDAGW",
+   "name": "Republic Digital Acquisition Company - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RDAGW"
   },
   {
    "symbol": "RDCM",
@@ -66832,12 +66860,6 @@
    "name": "Emerging Markets Equity Select ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RNEM"
-  },
-  {
-   "symbol": "RNEW",
-   "name": "VanEck Green Infrastructure ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNEW"
   },
   {
    "symbol": "RNIN",
@@ -72058,12 +72080,6 @@
    "name": "VerifyMe, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VRME"
-  },
-  {
-   "symbol": "VRMEW",
-   "name": "VerifyMe, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VRMEW"
   },
   {
    "symbol": "VRNA",
@@ -78778,12 +78794,6 @@
    "name": "AMCON Distributing Company Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "DIT"
-  },
-  {
-   "symbol": "DIVZ",
-   "name": "Listed Funds Trust Opal Dividend Income ETF",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "DIVZ"
   },
   {
    "symbol": "DJP",
@@ -87286,12 +87296,6 @@
    "name": "Pioneer High Income Fund, Inc.",
    "exchange": "NYSE",
    "yahoo_symbol": "PHT"
-  },
-  {
-   "symbol": "PHX",
-   "name": "PHX Minerals Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PHX"
   },
   {
    "symbol": "PII",

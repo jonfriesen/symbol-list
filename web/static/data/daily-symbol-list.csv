@@ -1239,7 +1239,6 @@ SPN,Snipp Interactive Inc.,TSXV,SPN.V,Snipp Interactive Inc.,SPN
 SGD,Snowline Gold Corp.,TSXV,SGD.V,Snowline Gold Corp.,SGD
 SIC,Sokoman Minerals Corp.,TSXV,SIC.V,Sokoman Minerals Corp.,SIC
 SOLI.P,Solid Impact Investments Corp.,TSXV,SOLI.P.V,Solid Impact Investments Corp.,SOLI.P
-SLMN,Solis Minerals Ltd.,TSXV,SLMN.V,Solis Minerals Ltd.,SLMN
 SGC,Solstice Gold Corp.,TSXV,SGC.V,Solstice Gold Corp.,SGC
 SOMA,Soma Gold Corp.,TSXV,SOMA.V,Soma Gold Corp.,SOMA
 SNI.PR.A,Sonor Investments Limited,TSXV,SNI.PR.A.V,Sonor Investments Limited 9% cum red 1st prf,SNI.PR.A
@@ -1262,7 +1261,7 @@ SQG,Spackman Equities Group Inc.,TSXV,SQG.V,Spackman Equities Group Inc.,SQG
 SPA,Spanish Mountain Gold Ltd.,TSXV,SPA.V,Spanish Mountain Gold Ltd,SPA
 SPRQ,Sparq Systems Inc.,TSXV,SPRQ.V,Sparq Systems Inc.,SPRQ
 SRI,Sparton Resources Inc.,TSXV,SRI.V,Sparton Resources Inc.,SRI
-SPC,SPC Nickel Corp.,TSXV,SPC.V,SPC Nickel Corp.,SPC
+SPC,SPC Nickel Corp.,TSXV,SPC.V,SPC Nickel Corp.,SPC,SPC Nickel Corp rt ex 25july2025,SPC.RT
 SSA,Spectra Products Inc.,TSXV,SSA.V,Spectra Products Inc.,SSA
 SOO.P,Spectre Capital Corp.,TSXV,SOO.P.V,Spectre Capital Corp.,SOO.P
 SPRO.P,Sprock-It Acquisitions Ltd.,TSXV,SPRO.P.V,Sprock-It Acquisitions Ltd.,SPRO.P
@@ -1575,7 +1574,6 @@ AOT,Ascot Resources Ltd.,TSX,AOT.TO,Ascot Resources J,AOT
 ACO.X,ATCO Ltd.,TSX,ACO.X.TO,ATCO Ltd. Cl I NV,ACO.X,ATCO Ltd. Cl II,ACO.Y
 ATH,Athabasca Oil Corporation,TSX,ATH.TO,Athabasca Oil Corp,ATH
 ATRL,AtkinsRéalis Group Inc.,TSX,ATRL.TO,AtkinsRealis GrpInc,ATRL
-ATLE,Atlas Energy Corp.,TSX,ATLE.TO,Atlas Energy Corp,ATLE
 AI,Atrium Mortgage Investment Corporation,TSX,AI.TO,Atrium Mtg Invest,AI,Atrium Mtg Inv 5.5Db,AI.DB.D,Atrium Mtg Inv 5% Db,AI.DB.F,Atrium Mtg 5.1% Deb,AI.DB.G
 ATS,ATS Corporation,TSX,ATS.TO,ATS Corporation,ATS
 G,Augusta Gold Corp.,TSX,G.TO,Augusta Gold Corp. J,G
@@ -4461,6 +4459,8 @@ CPSH,CPS Technologies Corp. - Common Stock,NASDAQ Capital Market,CPSH
 CPSS,"Consumer Portfolio Services, Inc. - Common Stock",NASDAQ Global MarketSM,CPSS
 CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,NASDAQ Global Select MarketSM,CPZ
 CRAI,"CRA International,Inc. - Common Stock",NASDAQ Global Select MarketSM,CRAI
+CRAQ,Cal Redwood Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,CRAQ
+CRAQR,Cal Redwood Acquisition Corp. - Right,NASDAQ Global MarketSM,CRAQR
 CRAQU,Cal Redwood Acquisition Corp. - Units,NASDAQ Global MarketSM,CRAQU
 CRBP,"Corbus Pharmaceuticals Holdings, Inc. - Common Stock",NASDAQ Capital Market,CRBP
 CRBU,"Caribou Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRBU
@@ -5346,7 +5346,9 @@ GSUN,Golden Sun Health Technology Group Limited - Class A Ordinary Shares,NASDAQ
 GT,The Goodyear Tire & Rubber Company - Common Stock,NASDAQ Global Select MarketSM,GT
 GTBP,"GT Biopharma, Inc. - Common Stock",NASDAQ Capital Market,GTBP
 GTEC,Greenland Technologies Holding Corporation - Ordinary Shares,NASDAQ Capital Market,GTEC
+GTEN,"Gores Holdings X, Inc. - Class A ordinary shares",NASDAQ Global MarketSM,GTEN
 GTENU,"Gores Holdings X, Inc. - Units",NASDAQ Global MarketSM,GTENU
+GTENW,"Gores Holdings X, Inc. - Warrants",NASDAQ Global MarketSM,GTENW
 GTI,Graphjet Technology - Class A Ordinary Shares,NASDAQ Global MarketSM,GTI
 GTIM,Good Times Restaurants Inc. - Common Stock,NASDAQ Capital Market,GTIM
 GTLB,GitLab Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,GTLB
@@ -5918,6 +5920,8 @@ LBRDP,Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred S
 LBTYA,Liberty Global Ltd. - Class A Common Shares,NASDAQ Global Select MarketSM,LBTYA
 LBTYB,Liberty Global Ltd. - Class B Common Shares,NASDAQ Global Select MarketSM,LBTYB
 LBTYK,Liberty Global Ltd. - Class C Common Shares,NASDAQ Global Select MarketSM,LBTYK
+LCCC,Lakeshore Acquisition III Corp. - Ordinary Shares,NASDAQ Global MarketSM,LCCC
+LCCCR,Lakeshore Acquisition III Corp. - Rights,NASDAQ Global MarketSM,LCCCR
 LCCCU,Lakeshore Acquisition III Corp. - Unit,NASDAQ Global MarketSM,LCCCU
 LCDL,GraniteShares 2x Long LCID Daily ETF,NASDAQ Global MarketSM,LCDL
 LCDS,JPMorgan Fundamental Data Science Large Core ETF,NASDAQ Global MarketSM,LCDS
@@ -7090,7 +7094,9 @@ RCT,RedCloud Holdings plc - Ordinary Shares,NASDAQ Capital Market,RCT
 RDAC,Rising Dragon Acquisition Corp. - Ordinary Shares,NASDAQ Capital Market,RDAC
 RDACR,Rising Dragon Acquisition Corp. - Rights,NASDAQ Capital Market,RDACR
 RDACU,Rising Dragon Acquisition Corp. - Unit,NASDAQ Capital Market,RDACU
+RDAG,Republic Digital Acquisition Company - Class A Ordinary Shares,NASDAQ Global MarketSM,RDAG
 RDAGU,Republic Digital Acquisition Company - Unit,NASDAQ Global MarketSM,RDAGU
+RDAGW,Republic Digital Acquisition Company - Warrants,NASDAQ Global MarketSM,RDAGW
 RDCM,Radcom Ltd. - Ordinary Shares,NASDAQ Capital Market,RDCM
 RDFN,Redfin Corporation - Common Stock,NASDAQ Global Select MarketSM,RDFN
 RDGT,"Ridgetech, Inc. - Ordinary Shares",NASDAQ Capital Market,RDGT
@@ -7193,7 +7199,6 @@ RNA,"Avidity Biosciences, Inc. - Common Stock",NASDAQ Global MarketSM,RNA
 RNAC,"Cartesian Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,RNAC
 RNAZ,"TransCode Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,RNAZ
 RNEM,Emerging Markets Equity Select ETF,NASDAQ Global MarketSM,RNEM
-RNEW,VanEck Green Infrastructure ETF,NASDAQ Global MarketSM,RNEW
 RNIN,Bushido Capital US SMID Cap Equity ETF,NASDAQ Global MarketSM,RNIN
 RNRG,Global X Renewable Energy Producers ETF,NASDAQ Global MarketSM,RNRG
 RNTX,"Rein Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,RNTX
@@ -8064,7 +8069,6 @@ VREX,Varex Imaging Corporation - Common Stock,NASDAQ Global Select MarketSM,VREX
 VRIG,Invesco Variable Rate Investment Grade ETF,NASDAQ Global MarketSM,VRIG
 VRM,"Vroom, Inc. - Common Stock",NASDAQ Global MarketSM,VRM
 VRME,"VerifyMe, Inc. - Common Stock",NASDAQ Capital Market,VRME
-VRMEW,"VerifyMe, Inc. - Warrant",NASDAQ Capital Market,VRMEW
 VRNA,Verona Pharma plc - American Depositary Shares,NASDAQ Global MarketSM,VRNA
 VRNS,"Varonis Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,VRNS
 VRNT,Verint Systems Inc. - Common Stock,NASDAQ Global Select MarketSM,VRNT
@@ -9184,7 +9188,6 @@ DIN,"Dine Brands Global, Inc. Common Stock",NYSE,DIN
 DINO,HF Sinclair Corporation Common Stock,NYSE,DINO
 DIS,Walt Disney Company (The) Common Stock,NYSE,DIS
 DIT,AMCON Distributing Company Common Stock,NYSE MKT,DIT
-DIVZ,Listed Funds Trust Opal Dividend Income ETF,NYSE ARCA,DIVZ
 DJP,iPath Bloomberg Commodity Index Total Return ETN,NYSE ARCA,DJP
 DK,"Delek US Holdings, Inc. Common Stock",NYSE,DK
 DKL,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests",NYSE,DKL
@@ -10602,7 +10605,6 @@ PHK,Pimco High Income Fund,NYSE,PHK
 PHM,"PulteGroup, Inc. Common Stock",NYSE,PHM
 PHR,"Phreesia, Inc. Common Stock",NYSE,PHR
 PHT,"Pioneer High Income Fund, Inc.",NYSE,PHT
-PHX,PHX Minerals Inc. Common Stock,NYSE,PHX
 PII,Polaris Inc. Common Stock,NYSE,PII
 PIM,Putnam Master Intermediate Income Trust Common Stock,NYSE,PIM
 PINE,"Alpine Income Property Trust, Inc. Common Stock",NYSE,PINE
