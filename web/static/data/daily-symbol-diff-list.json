@@ -1,102 +1,132 @@
 {
  "added": [
   {
-   "symbol": "CRAQ",
-   "name": "Cal Redwood Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRAQ"
+   "symbol": "FCRC",
+   "name": "Franklin Canadian Core Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCRC.TO",
+   "instruments": [
+    {
+     "name": "Franklin Cdn CoEq Fd",
+     "symbol": "FCRC"
+    }
+   ]
   },
   {
-   "symbol": "CRAQR",
-   "name": "Cal Redwood Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRAQR"
+   "symbol": "FCRI",
+   "name": "Franklin International Core Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCRI.TO",
+   "instruments": [
+    {
+     "name": "Franklin Inter CorEq",
+     "symbol": "FCRI"
+    }
+   ]
   },
   {
-   "symbol": "GTEN",
-   "name": "Gores Holdings X, Inc. - Class A ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GTEN"
-  },
-  {
-   "symbol": "GTENW",
-   "name": "Gores Holdings X, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GTENW"
-  },
-  {
-   "symbol": "LCCC",
-   "name": "Lakeshore Acquisition III Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LCCC"
-  },
-  {
-   "symbol": "LCCCR",
-   "name": "Lakeshore Acquisition III Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LCCCR"
-  },
-  {
-   "symbol": "RDAG",
-   "name": "Republic Digital Acquisition Company - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RDAG"
-  },
-  {
-   "symbol": "RDAGW",
-   "name": "Republic Digital Acquisition Company - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RDAGW"
-  }
- ],
- "removed": [
-  {
-   "symbol": "DIVZ",
-   "name": "Listed Funds Trust Opal Dividend Income ETF",
-   "exchange": "NYSE ARCA",
-   "yahoo_symbol": "DIVZ"
-  },
-  {
-   "symbol": "VRMEW",
-   "name": "VerifyMe, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VRMEW"
+   "symbol": "FCRU",
+   "name": "Franklin U.S. Core Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCRU.TO",
+   "instruments": [
+    {
+     "name": "Franklin US Core Eqt",
+     "symbol": "FCRU"
+    }
+   ]
   },
   {
    "symbol": "ATLE",
    "name": "Atlas Energy Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ATLE.TO",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATLE.V",
    "instruments": [
     {
-     "name": "Atlas Energy Corp",
+     "name": "Atlas Energy Corp.",
      "symbol": "ATLE"
     }
    ]
   },
   {
-   "symbol": "PHX",
-   "name": "PHX Minerals Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PHX"
-  },
-  {
-   "symbol": "SLMN",
-   "name": "Solis Minerals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SLMN.V",
-   "instruments": [
-    {
-     "name": "Solis Minerals Ltd.",
-     "symbol": "SLMN"
-    }
-   ]
-  },
-  {
-   "symbol": "RNEW",
-   "name": "VanEck Green Infrastructure ETF",
+   "symbol": "AACI",
+   "name": "Armada Acquisition Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNEW"
+   "yahoo_symbol": "AACI"
+  },
+  {
+   "symbol": "AACIW",
+   "name": "Armada Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIW"
+  },
+  {
+   "symbol": "CGCT",
+   "name": "Cartesian Growth Corporation III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGCT"
+  },
+  {
+   "symbol": "CGCTW",
+   "name": "Cartesian Growth Corporation III - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGCTW"
+  },
+  {
+   "symbol": "HCHL",
+   "name": "Happy City Holdings Limited - Class A Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCHL"
+  },
+  {
+   "symbol": "IONZ",
+   "name": "Defiance Daily Target 2x Short IONQ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IONZ"
+  },
+  {
+   "symbol": "OKLL",
+   "name": "Defiance Daily Target 2x Long OKLO ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OKLL"
+  },
+  {
+   "symbol": "SOUX",
+   "name": "Defiance Daily Target 2X Long SOUN ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOUX"
+  },
+  {
+   "symbol": "TEXN",
+   "name": "iShares Texas Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TEXN"
+  },
+  {
+   "symbol": "FTV.V",
+   "name": "Fortive Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTV.V"
+  },
+  {
+   "symbol": "RAL.V",
+   "name": "Ralliant Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAL.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SUP",
+   "name": "Superior Industries International, Inc. Common Stock (DE)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUP"
+  },
+  {
+   "symbol": "DYNI",
+   "name": "IDX Dynamic Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNI"
   }
  ]
 }
