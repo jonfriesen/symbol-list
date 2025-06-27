@@ -1,5 +1,5 @@
 {
- "date": "2025-06-26",
+ "date": "2025-06-27",
  "data": [
   {
    "symbol": "ONE",
@@ -2898,18 +2898,6 @@
     {
      "name": "Canex Metals Inc.",
      "symbol": "CANX"
-    }
-   ]
-  },
-  {
-   "symbol": "CML",
-   "name": "CaNickel Mining Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CML.V",
-   "instruments": [
-    {
-     "name": "Canickel Mining Limited",
-     "symbol": "CML"
     }
    ]
   },
@@ -11182,6 +11170,18 @@
     {
      "name": "New Tymbal Resources Ltd.",
      "symbol": "NTB"
+    }
+   ]
+  },
+  {
+   "symbol": "NZ",
+   "name": "New Zealand Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NZ.V",
+   "instruments": [
+    {
+     "name": "New Zealand Energy Corp.",
+     "symbol": "NZ"
     }
    ]
   },
@@ -44366,6 +44366,12 @@
    "yahoo_symbol": "ABEO"
   },
   {
+   "symbol": "ABI",
+   "name": "VictoryShares Pioneer Asset-Based Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABI"
+  },
+  {
    "symbol": "ABIG",
    "name": "Argent Large Cap ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -44898,6 +44904,12 @@
    "name": "Aimei Health Technology Co., Ltd - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AFJKU"
+  },
+  {
+   "symbol": "AFOS",
+   "name": "ARS Focused Opportunity Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFOS"
   },
   {
    "symbol": "AFRI",
@@ -47402,10 +47414,22 @@
    "yahoo_symbol": "BGFV"
   },
   {
+   "symbol": "BGL",
+   "name": "Blue Gold Limited - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGL"
+  },
+  {
    "symbol": "BGLC",
    "name": "BioNexus Gene Lab Corp - Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BGLC"
+  },
+  {
+   "symbol": "BGLWW",
+   "name": "Blue Gold Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGLWW"
   },
   {
    "symbol": "BGM",
@@ -48708,6 +48732,12 @@
    "name": "Candel Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CADL"
+  },
+  {
+   "symbol": "CAEP",
+   "name": "Cantor Equity Partners III, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAEP"
   },
   {
    "symbol": "CAFG",
@@ -53852,6 +53882,12 @@
    "yahoo_symbol": "FGMCU"
   },
   {
+   "symbol": "FGSI",
+   "name": "FT Vest Growth Strength \u0026 Target Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGSI"
+  },
+  {
    "symbol": "FHB",
    "name": "First Hawaiian, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -55694,6 +55730,12 @@
    "yahoo_symbol": "GRID"
   },
   {
+   "symbol": "GRIN",
+   "name": "VictoryShares International Free Cash Flow Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRIN"
+  },
+  {
    "symbol": "GRNQ",
    "name": "Greenpro Capital Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -56354,18 +56396,6 @@
    "yahoo_symbol": "HOFT"
   },
   {
-   "symbol": "HOFV",
-   "name": "Hall of Fame Resort \u0026 Entertainment Company - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HOFV"
-  },
-  {
-   "symbol": "HOFVW",
-   "name": "Hall of Fame Resort \u0026 Entertainment Company - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HOFVW"
-  },
-  {
    "symbol": "HOLO",
    "name": "MicroCloud Hologram Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -56547,7 +56577,7 @@
   },
   {
    "symbol": "HRTS",
-   "name": "Tema GLP-1, Obesity \u0026 Cardiometabolic ETF",
+   "name": "Tema Heart \u0026 Health ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HRTS"
   },
@@ -57276,6 +57306,12 @@
    "name": "iShares International Developed Real Estate ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IFGL"
+  },
+  {
+   "symbol": "IFLO",
+   "name": "VictoryShares International Free Cash Flow ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IFLO"
   },
   {
    "symbol": "IFRX",
@@ -58370,6 +58406,12 @@
    "yahoo_symbol": "JBSS"
   },
   {
+   "symbol": "JCAP",
+   "name": "Jefferson Capital, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "JCAP"
+  },
+  {
    "symbol": "JCSE",
    "name": "JE Cleantech Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -58476,6 +58518,12 @@
    "name": "J-Long Group Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JL"
+  },
+  {
+   "symbol": "JLHL",
+   "name": "Julong Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JLHL"
   },
   {
    "symbol": "JMID",
@@ -65652,6 +65700,12 @@
    "name": "iShares MSCI Qatar ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QAT"
+  },
+  {
+   "symbol": "QB",
+   "name": "ProShares Nasdaq-100 Dynamic Buffer ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QB"
   },
   {
    "symbol": "QBIG",

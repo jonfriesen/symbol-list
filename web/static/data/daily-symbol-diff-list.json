@@ -1,132 +1,108 @@
 {
  "added": [
   {
-   "symbol": "BTCT",
-   "name": "Bitcoin Treasury Corporation",
+   "symbol": "NZ",
+   "name": "New Zealand Energy Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "BTCT.V",
+   "yahoo_symbol": "NZ.V",
    "instruments": [
     {
-     "name": "Bitcoin Treasury Corporation",
-     "symbol": "BTCT"
+     "name": "New Zealand Energy Corp.",
+     "symbol": "NZ"
     }
    ]
   },
   {
-   "symbol": "LIB",
-   "name": "LibertyStream Infrastructure Partners Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LIB.V",
-   "instruments": [
-    {
-     "name": "LibertyStream Infrastructure Partners Inc.",
-     "symbol": "LIB"
-    }
-   ]
-  },
-  {
-   "symbol": "XTOH",
-   "name": "iShares Core S\u0026P Total U.S. Stock Market Index ETF (CAD-Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "XTOH.TO",
-   "instruments": [
-    {
-     "name": "iShares Core SP Tota",
-     "symbol": "XTOH"
-    }
-   ]
-  },
-  {
-   "symbol": "CSCL",
-   "name": "Direxion Daily CSCO Bull 2X ETF",
+   "symbol": "ABI",
+   "name": "VictoryShares Pioneer Asset-Based Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CSCL"
+   "yahoo_symbol": "ABI"
   },
   {
-   "symbol": "CSCS",
-   "name": "Direxion Daily CSCO Bear 1X ETF",
+   "symbol": "AFOS",
+   "name": "ARS Focused Opportunity Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CSCS"
+   "yahoo_symbol": "AFOS"
   },
   {
-   "symbol": "FMFC",
-   "name": "Kandal M Venture Limited - Class A ordinary Shares",
+   "symbol": "BGL",
+   "name": "Blue Gold Limited - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGL"
+  },
+  {
+   "symbol": "BGLWW",
+   "name": "Blue Gold Limited - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FMFC"
+   "yahoo_symbol": "BGLWW"
   },
   {
-   "symbol": "LWACU",
-   "name": "LightWave Acquisition Corp. - Units",
+   "symbol": "CAEP",
+   "name": "Cantor Equity Partners III, Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LWACU"
+   "yahoo_symbol": "CAEP"
   },
   {
-   "symbol": "OBAWU",
-   "name": "Oxley Bridge Acquisition Limited - Unit",
+   "symbol": "FGSI",
+   "name": "FT Vest Growth Strength \u0026 Target Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OBAWU"
+   "yahoo_symbol": "FGSI"
   },
   {
-   "symbol": "QCMD",
-   "name": "Direxion Daily QCOM Bear 1X ETF",
+   "symbol": "GRIN",
+   "name": "VictoryShares International Free Cash Flow Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QCMD"
+   "yahoo_symbol": "GRIN"
   },
   {
-   "symbol": "QCMU",
-   "name": "Direxion Daily QCOM Bull 2X ETF",
+   "symbol": "IFLO",
+   "name": "VictoryShares International Free Cash Flow ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QCMU"
+   "yahoo_symbol": "IFLO"
+  },
+  {
+   "symbol": "JCAP",
+   "name": "Jefferson Capital, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "JCAP"
+  },
+  {
+   "symbol": "JLHL",
+   "name": "Julong Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JLHL"
+  },
+  {
+   "symbol": "QB",
+   "name": "ProShares Nasdaq-100 Dynamic Buffer ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QB"
   }
  ],
  "removed": [
   {
-   "symbol": "MRIN",
-   "name": "Marin Software Incorporated - Common Stock",
+   "symbol": "HOFVW",
+   "name": "Hall of Fame Resort \u0026 Entertainment Company - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MRIN"
+   "yahoo_symbol": "HOFVW"
   },
   {
-   "symbol": "RGLS",
-   "name": "Regulus Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RGLS"
-  },
-  {
-   "symbol": "LSEA",
-   "name": "Landsea Homes Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LSEA"
-  },
-  {
-   "symbol": "VLT",
-   "name": "Volt Lithium Corp.",
+   "symbol": "CML",
+   "name": "CaNickel Mining Limited",
    "exchange": "TSXV",
-   "yahoo_symbol": "VLT.V",
+   "yahoo_symbol": "CML.V",
    "instruments": [
     {
-     "name": "Volt Lithium Corp.",
-     "symbol": "VLT"
+     "name": "Canickel Mining Limited",
+     "symbol": "CML"
     }
    ]
   },
   {
-   "symbol": "LSEAW",
-   "name": "Landsea Homes Corporation - Warrant",
+   "symbol": "HOFV",
+   "name": "Hall of Fame Resort \u0026 Entertainment Company - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LSEAW"
-  },
-  {
-   "symbol": "LUM",
-   "name": "Lumina Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LUM.V",
-   "instruments": [
-    {
-     "name": "Lumina Gold Corp.",
-     "symbol": "LUM"
-    }
-   ]
+   "yahoo_symbol": "HOFV"
   }
  ]
 }
