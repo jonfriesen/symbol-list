@@ -1,170 +1,120 @@
 {
  "added": [
   {
-   "symbol": "DFSC",
-   "name": "DEFSEC Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DFSC.V",
-   "instruments": [
-    {
-     "name": "DEFSEC Technologies Inc.",
-     "symbol": "DFSC"
-    },
-    {
-     "name": "DEFSEC Technologies Inc. wt 09Dec2027",
-     "symbol": "DFSC.WT.U"
-    }
-   ]
-  },
-  {
-   "symbol": "TGC",
-   "name": "TooGood Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TGC.V",
-   "instruments": [
-    {
-     "name": "TooGood Gold Corp.",
-     "symbol": "TGC"
-    }
-   ]
-  },
-  {
-   "symbol": "RAL",
-   "name": "Ralliant Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RAL"
-  },
-  {
-   "symbol": "SEG",
-   "name": "Seaport Entertainment Group Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEG"
-  },
-  {
-   "symbol": "AIFD",
-   "name": "TCW Artificial Intelligence ETF",
+   "symbol": "EGHA",
+   "name": "EGH Acquisition Corp. - Class A ordinary shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIFD"
+   "yahoo_symbol": "EGHA"
   },
   {
-   "symbol": "DFSC",
-   "name": "DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering",
+   "symbol": "EGHAR",
+   "name": "EGH Acquisition Corp. - rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGHAR"
+  },
+  {
+   "symbol": "MZTI",
+   "name": "The Marzetti Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MZTI"
+  },
+  {
+   "symbol": "OPPJ",
+   "name": "WisdomTree Japan Opportunities Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OPPJ"
+  },
+  {
+   "symbol": "SCAG",
+   "name": "Scage Future - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCAG"
+  },
+  {
+   "symbol": "SCAGW",
+   "name": "Scage Future - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DFSC"
+   "yahoo_symbol": "SCAGW"
   },
   {
-   "symbol": "DFSCW",
-   "name": "DEFSEC Technologies Inc. - warrant",
+   "symbol": "TAOX",
+   "name": "Tao Synergies Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DFSCW"
-  },
-  {
-   "symbol": "FIGXU",
-   "name": "FIGX Capital Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIGXU"
-  },
-  {
-   "symbol": "GRW",
-   "name": "TCW Compounders ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRW"
-  },
-  {
-   "symbol": "PWRD",
-   "name": "TCW Transform Systems ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PWRD"
-  },
-  {
-   "symbol": "SUPP",
-   "name": "TCW Transform Supply Chain ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SUPP"
-  },
-  {
-   "symbol": "VOTE",
-   "name": "TCW Transform 500 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VOTE"
-  },
-  {
-   "symbol": "YORKU",
-   "name": "Yorkville Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YORKU"
+   "yahoo_symbol": "TAOX"
   }
  ],
  "removed": [
   {
-   "symbol": "KWESW",
-   "name": "KWESST Micro Systems Inc. - warrant",
+   "symbol": "BPT",
+   "name": "BP Prudhoe Bay Royalty Trust Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BPT"
+  },
+  {
+   "symbol": "AGS",
+   "name": "PlayAGS, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGS"
+  },
+  {
+   "symbol": "EVRI",
+   "name": "Everi Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVRI"
+  },
+  {
+   "symbol": "JVSA",
+   "name": "JVSPAC Acquisition Corp. - Class A Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KWESW"
+   "yahoo_symbol": "JVSA"
   },
   {
-   "symbol": "FTV.V",
-   "name": "Fortive Corporation Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FTV.V"
-  },
-  {
-   "symbol": "SMTH.P",
-   "name": "Smithe Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SMTH.P.V",
-   "instruments": [
-    {
-     "name": "Smithe Resources Corp.",
-     "symbol": "SMTH.P"
-    }
-   ]
-  },
-  {
-   "symbol": "FGB",
-   "name": "First Trust Specialty Finance and Financial Opportunities Fund",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FGB"
-  },
-  {
-   "symbol": "KWE",
-   "name": "KWESST Micro Systems Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KWE.V",
-   "instruments": [
-    {
-     "name": "KWESST Micro Systems Inc.",
-     "symbol": "KWE"
-    },
-    {
-     "name": "Kwesst Micro Systems Inc. wt 09Dec2027",
-     "symbol": "KWE.WT.U"
-    }
-   ]
-  },
-  {
-   "symbol": "RAL.V",
-   "name": "Ralliant Corporation Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RAL.V"
-  },
-  {
-   "symbol": "KWE",
-   "name": "KWESST Micro Systems Inc. - common stock, no R/S concurrent with offering",
+   "symbol": "SNPX",
+   "name": "Synaptogenix, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KWE"
+   "yahoo_symbol": "SNPX"
   },
   {
-   "symbol": "ATH$C",
-   "name": "Athene Holding Ltd. Depositary Shares, each representing a 1/1,000th Interest in a Share of 6.375% Fixed-Rate Reset Perpetual Non-Cumulative Preference Shares, Series C",
+   "symbol": "JVSAR",
+   "name": "JVSPAC Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JVSAR"
+  },
+  {
+   "symbol": "DXJS",
+   "name": "WisdomTree Japan Hedged SmallCap Equity Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DXJS"
+  },
+  {
+   "symbol": "JVSAU",
+   "name": "JVSPAC Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JVSAU"
+  },
+  {
+   "symbol": "AZEK",
+   "name": "The AZEK Company Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ATH$C"
+   "yahoo_symbol": "AZEK"
   },
   {
-   "symbol": "SEG",
-   "name": "Seaport Entertainment Group Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SEG"
+   "symbol": "BULLZ",
+   "name": "Webull Corporation - Incentive Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BULLZ"
+  },
+  {
+   "symbol": "IMTXW",
+   "name": "Immatics N.V. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMTXW"
+  },
+  {
+   "symbol": "LANC",
+   "name": "Lancaster Colony Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LANC"
   }
  ]
 }
