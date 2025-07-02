@@ -1,5 +1,5 @@
 {
- "date": "2025-07-01",
+ "date": "2025-07-02",
  "data": [
   {
    "symbol": "ONE",
@@ -906,18 +906,6 @@
     {
      "name": "Angkor Resources Corp.",
      "symbol": "ANK"
-    }
-   ]
-  },
-  {
-   "symbol": "GUS",
-   "name": "Angus Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GUS.V",
-   "instruments": [
-    {
-     "name": "Angus Gold Inc.",
-     "symbol": "GUS"
     }
    ]
   },
@@ -15198,18 +15186,6 @@
    ]
   },
   {
-   "symbol": "SXGC",
-   "name": "Southern Cross Gold Consolidated Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SXGC.V",
-   "instruments": [
-    {
-     "name": "Southern Cross Gold Consolidated Ltd.",
-     "symbol": "SXGC"
-    }
-   ]
-  },
-  {
    "symbol": "SMP",
    "name": "Southern Empire Resources Corp.",
    "exchange": "TSXV",
@@ -18026,18 +18002,6 @@
     {
      "name": "Yangaroo Inc.",
      "symbol": "YOO"
-    }
-   ]
-  },
-  {
-   "symbol": "YERB.U",
-   "name": "Yerbae Brands Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "YERB.U.V",
-   "instruments": [
-    {
-     "name": "Yerbae Brands Corp.",
-     "symbol": "YERB.U"
     }
    ]
   },
@@ -22842,15 +22806,11 @@
    ]
   },
   {
-   "symbol": "BIP.PR.A",
+   "symbol": "BIP.PR.B",
    "name": "Brookfield Infrastructure Partners L.P.",
    "exchange": "TSX",
-   "yahoo_symbol": "BIP.PR.A.TO",
+   "yahoo_symbol": "BIP.PR.B.TO",
    "instruments": [
-    {
-     "name": "Brookfield InfrasPr1",
-     "symbol": "BIP.PR.A"
-    },
     {
      "name": "Brookfield InfrasPr3",
      "symbol": "BIP.PR.B"
@@ -23746,10 +23706,6 @@
     {
      "name": "Cenovus Engy Sr 2 Pr",
      "symbol": "CVE.PR.B"
-    },
-    {
-     "name": "Cenovus Engy Sr 7 Pr",
-     "symbol": "CVE.PR.G"
     },
     {
      "name": "Cenovus Energy Wt",
@@ -32668,10 +32624,6 @@
      "symbol": "INE"
     },
     {
-     "name": "Innergex Renew4.75Db",
-     "symbol": "INE.DB.B"
-    },
-    {
      "name": "Innergex Renew4.65Db",
      "symbol": "INE.DB.C"
     },
@@ -35642,6 +35594,30 @@
    ]
   },
   {
+   "symbol": "COIU",
+   "name": "LFG Daily (2X) COIN Long ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COIU.TO",
+   "instruments": [
+    {
+     "name": "LFG Daily 2X COIN Lg",
+     "symbol": "COIU"
+    }
+   ]
+  },
+  {
+   "symbol": "MSTU",
+   "name": "LFG Daily (2X) MSTR Long ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTU.TO",
+   "instruments": [
+    {
+     "name": "LFG Daily 2X MSTR Lg",
+     "symbol": "MSTU"
+    }
+   ]
+  },
+  {
    "symbol": "LGD",
    "name": "Liberty Gold Corp.",
    "exchange": "TSX",
@@ -35666,18 +35642,6 @@
     {
      "name": "Life \u0026 Banc Split Pr",
      "symbol": "LBS.PR.A"
-    }
-   ]
-  },
-  {
-   "symbol": "LSPK",
-   "name": "LifeSpeak Inc",
-   "exchange": "TSX",
-   "yahoo_symbol": "LSPK.TO",
-   "instruments": [
-    {
-     "name": "LifeSpeak Inc. J",
-     "symbol": "LSPK"
     }
    ]
   },
@@ -38422,10 +38386,6 @@
     {
      "name": "Pembina Pipe Pr 17",
      "symbol": "PPL.PR.Q"
-    },
-    {
-     "name": "Pembina Pipe Pr 19",
-     "symbol": "PPL.PR.S"
     }
    ]
   },
@@ -40592,10 +40552,6 @@
      "symbol": "RSI"
     },
     {
-     "name": "Rogers Sugar 4.75Db7",
-     "symbol": "RSI.DB.F"
-    },
-    {
      "name": "Rogers Sugar I 6 Deb",
      "symbol": "RSI.DB.G"
     }
@@ -41286,6 +41242,18 @@
     {
      "name": "South Bow Corp",
      "symbol": "SOBO"
+    }
+   ]
+  },
+  {
+   "symbol": "SXGC",
+   "name": "Southern Cross Gold Consolidated Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SXGC.TO",
+   "instruments": [
+    {
+     "name": "Southern Cross Gold ",
+     "symbol": "SXGC"
     }
    ]
   },
@@ -44792,6 +44760,12 @@
    "name": "Addex Therapeutics Ltd - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ADXN"
+  },
+  {
+   "symbol": "AEBI",
+   "name": "Aebi Schmidt Holding AG - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AEBI"
   },
   {
    "symbol": "AEHL",
@@ -49072,6 +49046,12 @@
    "yahoo_symbol": "CCGWW"
   },
   {
+   "symbol": "CCIIU",
+   "name": "Cohen Circle Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIIU"
+  },
+  {
    "symbol": "CCIR",
    "name": "Cohen Circle Acquisition Corp. I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -52214,12 +52194,6 @@
    "name": "Ebang International Holdings Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "EBON"
-  },
-  {
-   "symbol": "EBTC",
-   "name": "Enterprise Bancorp Inc - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EBTC"
   },
   {
    "symbol": "ECBK",
@@ -55714,6 +55688,12 @@
    "yahoo_symbol": "GRAL"
   },
   {
+   "symbol": "GRAN",
+   "name": "Grande Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRAN"
+  },
+  {
    "symbol": "GRCE",
    "name": "Grace Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -56096,6 +56076,12 @@
    "name": "Harvard Bioscience, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HBIO"
+  },
+  {
+   "symbol": "HBNB",
+   "name": "Hotel101 Global Holdings Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HBNB"
   },
   {
    "symbol": "HBNC",
@@ -57622,6 +57608,12 @@
    "yahoo_symbol": "INAB"
   },
   {
+   "symbol": "INACU",
+   "name": "Indigo Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INACU"
+  },
+  {
    "symbol": "INBK",
    "name": "First Internet Bancorp - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -57872,12 +57864,6 @@
    "name": "Innoviz Technologies Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INVZW"
-  },
-  {
-   "symbol": "INZY",
-   "name": "Inozyme Pharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "INZY"
   },
   {
    "symbol": "IOBT",
@@ -62458,6 +62444,12 @@
    "yahoo_symbol": "NMIH"
   },
   {
+   "symbol": "NMPAU",
+   "name": "NMP Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMPAU"
+  },
+  {
    "symbol": "NMRA",
    "name": "Neumora Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -66436,12 +66428,6 @@
    "yahoo_symbol": "RDCM"
   },
   {
-   "symbol": "RDFN",
-   "name": "Redfin Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RDFN"
-  },
-  {
    "symbol": "RDGT",
    "name": "Ridgetech, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -68140,12 +68126,6 @@
    "yahoo_symbol": "SHY"
   },
   {
-   "symbol": "SHYF",
-   "name": "The Shyft Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SHYF"
-  },
-  {
    "symbol": "SIBN",
    "name": "SI-BONE, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -69196,12 +69176,6 @@
    "yahoo_symbol": "SSBI"
   },
   {
-   "symbol": "SSBK",
-   "name": "Southern States Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SSBK"
-  },
-  {
    "symbol": "SSII",
    "name": "SS Innovations International Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -69656,12 +69630,6 @@
    "name": "SWP Growth \u0026 Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SWP"
-  },
-  {
-   "symbol": "SWTX",
-   "name": "SpringWorks Therapeutics, Inc. - common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SWTX"
   },
   {
    "symbol": "SWVL",
@@ -76720,6 +76688,12 @@
    "yahoo_symbol": "BROS"
   },
   {
+   "symbol": "BRSL",
+   "name": "Brightstar Lottery Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRSL"
+  },
+  {
    "symbol": "BRSP",
    "name": "BrightSpire Capital, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -77482,12 +77456,6 @@
    "yahoo_symbol": "CHPT"
   },
   {
-   "symbol": "CHRO",
-   "name": "Channel Therapeutics Corporation Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CHRO"
-  },
-  {
    "symbol": "CHT",
    "name": "Chunghwa Telecom Co., Ltd.",
    "exchange": "NYSE",
@@ -78116,6 +78084,12 @@
    "name": "Cencora, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "COR"
+  },
+  {
+   "symbol": "COSO",
+   "name": "CoastalSouth Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COSO"
   },
   {
    "symbol": "COTY",
@@ -80288,6 +80262,12 @@
    "name": "Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",
    "exchange": "NYSE",
    "yahoo_symbol": "ETY"
+  },
+  {
+   "symbol": "EVAC.U",
+   "name": "EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVAC.U"
   },
   {
    "symbol": "EVC",
@@ -82834,12 +82814,6 @@
    "yahoo_symbol": "IGR"
   },
   {
-   "symbol": "IGT",
-   "name": "International Game Technology Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IGT"
-  },
-  {
    "symbol": "IGZ",
    "name": "IGZ (Listing Market NYSE Arca Network B F) Common Stock",
    "exchange": "NYSE ARCA",
@@ -83366,12 +83340,6 @@
    "name": "Johnson \u0026 Johnson Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "JNJ"
-  },
-  {
-   "symbol": "JNPR",
-   "name": "Juniper Networks, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JNPR"
   },
   {
    "symbol": "JOB",
@@ -88048,6 +88016,12 @@
    "yahoo_symbol": "PTA"
   },
   {
+   "symbol": "PTHS",
+   "name": "Pelthos Therapeutics Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PTHS"
+  },
+  {
    "symbol": "PTY",
    "name": "Pimco Corporate \u0026 Income Opportunity Fund",
    "exchange": "NYSE",
@@ -89030,12 +89004,6 @@
    "name": "Saratoga Investment Corp 6.00% Notes due 2027",
    "exchange": "NYSE",
    "yahoo_symbol": "SAT"
-  },
-  {
-   "symbol": "SATX",
-   "name": "SatixFy Communications Ltd. Ordinary Share",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SATX"
   },
   {
    "symbol": "SAY",
