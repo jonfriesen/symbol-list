@@ -1,5 +1,5 @@
 {
- "date": "2025-07-04",
+ "date": "2025-07-07",
  "data": [
   {
    "symbol": "ONE",
@@ -9846,22 +9846,6 @@
    ]
   },
   {
-   "symbol": "MNC",
-   "name": "Magnetic North Acquisition Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MNC.V",
-   "instruments": [
-    {
-     "name": "Magnetic North Acquisition Corp.",
-     "symbol": "MNC"
-    },
-    {
-     "name": "Magnetic North Acquisition Corp. pref a",
-     "symbol": "MNC.PR.A"
-    }
-   ]
-  },
-  {
    "symbol": "MGI",
    "name": "Magnum Goldcorp Inc.",
    "exchange": "TSXV",
@@ -12278,18 +12262,6 @@
     {
      "name": "Palisades Goldcorp Ltd wt 06Dec2026",
      "symbol": "PALI.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "PNN",
-   "name": "Pambili Natural Resources Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PNN.V",
-   "instruments": [
-    {
-     "name": "Pambili Natural Resources Corporation",
-     "symbol": "PNN"
     }
    ]
   },
@@ -15418,6 +15390,18 @@
     {
      "name": "Stakeholder Gold Corp.",
      "symbol": "SRC"
+    }
+   ]
+  },
+  {
+   "symbol": "STUD",
+   "name": "Stallion Uranium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STUD.V",
+   "instruments": [
+    {
+     "name": "Stallion Uranium Corp.",
+     "symbol": "STUD"
     }
    ]
   },
@@ -46418,12 +46402,6 @@
    "yahoo_symbol": "ATAT"
   },
   {
-   "symbol": "ATCOL",
-   "name": "Atlas Corp. - 7.125% Notes due 2027",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATCOL"
-  },
-  {
    "symbol": "ATEC",
    "name": "Alphatec Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -50946,12 +50924,6 @@
    "name": "Lionheart Holdings - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CUB"
-  },
-  {
-   "symbol": "CUBA",
-   "name": "The Herzfeld Caribbean Basin Fund, Inc. - Closed End Fund",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CUBA"
   },
   {
    "symbol": "CUBWU",
@@ -56210,6 +56182,12 @@
    "yahoo_symbol": "HERO"
   },
   {
+   "symbol": "HERZ",
+   "name": "Herzfeld Credit Income Fund, Inc.  - Closed End Fund",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HERZ"
+  },
+  {
    "symbol": "HFBL",
    "name": "Home Federal Bancorp, Inc. of Louisiana - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -57723,7 +57701,7 @@
   },
   {
    "symbol": "INLF",
-   "name": "INLIF LIMITED - ordinary shares",
+   "name": "INLIF LIMITED - Class A Ordinary shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INLF"
   },
@@ -60232,7 +60210,7 @@
   {
    "symbol": "LXRX",
    "name": "Lexicon Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LXRX"
   },
   {
@@ -60504,12 +60482,6 @@
    "name": "Medallion Bank - Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series G, par value $1.00 per share",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MBNKO"
-  },
-  {
-   "symbol": "MBNKP",
-   "name": "Medallion Bank - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBNKP"
   },
   {
    "symbol": "MBOT",
@@ -85509,7 +85481,7 @@
   },
   {
    "symbol": "MUX",
-   "name": "McEwen Mining Inc. Common Stock",
+   "name": "McEwen Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MUX"
   },
@@ -88808,12 +88780,6 @@
    "yahoo_symbol": "RSF"
   },
   {
-   "symbol": "RSF.R",
-   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RSF.R"
-  },
-  {
    "symbol": "RSG",
    "name": "Republic Services, Inc. Common Stock",
    "exchange": "NYSE",
@@ -89775,7 +89741,7 @@
   },
   {
    "symbol": "SNOW",
-   "name": "Snowflake Inc. Class A Common Stock",
+   "name": "Snowflake Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SNOW"
   },
@@ -90294,12 +90260,6 @@
    "name": "Silvercorp Metals Inc. Common Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "SVM"
-  },
-  {
-   "symbol": "SVT",
-   "name": "Servotronics, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SVT"
   },
   {
    "symbol": "SVV",
