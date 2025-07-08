@@ -1,94 +1,100 @@
 {
  "added": [
   {
-   "symbol": "STUD",
-   "name": "Stallion Uranium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "STUD.V",
-   "instruments": [
-    {
-     "name": "Stallion Uranium Corp.",
-     "symbol": "STUD"
-    }
-   ]
+   "symbol": "CCCX",
+   "name": "Churchill Capital Corp X - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCX"
   },
   {
-   "symbol": "HERZ",
-   "name": "Herzfeld Credit Income Fund, Inc.  - Closed End Fund",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HERZ"
+   "symbol": "CCCXW",
+   "name": "Churchill Capital Corp X - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCXW"
   },
   {
-   "symbol": "LXRX",
-   "name": "Lexicon Pharmaceuticals, Inc. - Common Stock",
+   "symbol": "MAMK",
+   "name": "MaxsMaking Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LXRX"
+   "yahoo_symbol": "MAMK"
+  },
+  {
+   "symbol": "SEGG",
+   "name": "Lottery.com, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEGG"
+  },
+  {
+   "symbol": "WENN",
+   "name": "Wen Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENN"
+  },
+  {
+   "symbol": "WENNW",
+   "name": "Wen Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENNW"
+  },
+  {
+   "symbol": "WW",
+   "name": "WW International, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WW"
   }
  ],
  "removed": [
   {
-   "symbol": "MNC",
-   "name": "Magnetic North Acquisition Corp.",
+   "symbol": "JHC",
+   "name": "Jinhua Capital Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "MNC.V",
+   "yahoo_symbol": "JHC.V",
    "instruments": [
     {
-     "name": "Magnetic North Acquisition Corp.",
-     "symbol": "MNC"
+     "name": "Jinhua Capital Corporation",
+     "symbol": "JHC"
+    }
+   ]
+  },
+  {
+   "symbol": "ADD",
+   "name": "Arctic Star Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADD.V",
+   "instruments": [
+    {
+     "name": "Arctic Star Exploration Corp.",
+     "symbol": "ADD"
+    }
+   ]
+  },
+  {
+   "symbol": "VXRT",
+   "name": "Vaxart, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VXRT"
+  },
+  {
+   "symbol": "LTRY",
+   "name": "Lottery.com, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTRY"
+  },
+  {
+   "symbol": "CUB",
+   "name": "Cubicfarm Systems Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUB.V",
+   "instruments": [
+    {
+     "name": "Cubicfarm Systems Corp.",
+     "symbol": "CUB"
     },
     {
-     "name": "Magnetic North Acquisition Corp. pref a",
-     "symbol": "MNC.PR.A"
+     "name": "CubicFarm Systems Corp. db 02Jun2027",
+     "symbol": "CUB.DB"
     }
    ]
-  },
-  {
-   "symbol": "SVT",
-   "name": "Servotronics, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SVT"
-  },
-  {
-   "symbol": "LXRX",
-   "name": "Lexicon Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LXRX"
-  },
-  {
-   "symbol": "MBNKP",
-   "name": "Medallion Bank - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBNKP"
-  },
-  {
-   "symbol": "ATCOL",
-   "name": "Atlas Corp. - 7.125% Notes due 2027",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATCOL"
-  },
-  {
-   "symbol": "RSF.R",
-   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RSF.R"
-  },
-  {
-   "symbol": "PNN",
-   "name": "Pambili Natural Resources Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PNN.V",
-   "instruments": [
-    {
-     "name": "Pambili Natural Resources Corporation",
-     "symbol": "PNN"
-    }
-   ]
-  },
-  {
-   "symbol": "CUBA",
-   "name": "The Herzfeld Caribbean Basin Fund, Inc. - Closed End Fund",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CUBA"
   }
  ]
 }

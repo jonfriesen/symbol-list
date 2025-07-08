@@ -1,5 +1,5 @@
 {
- "date": "2025-07-07",
+ "date": "2025-07-08",
  "data": [
   {
    "symbol": "ONE",
@@ -1086,18 +1086,6 @@
     {
      "name": "ARCpoint Inc.",
      "symbol": "ARC"
-    }
-   ]
-  },
-  {
-   "symbol": "ADD",
-   "name": "Arctic Star Exploration Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ADD.V",
-   "instruments": [
-    {
-     "name": "Arctic Star Exploration Corp.",
-     "symbol": "ADD"
     }
    ]
   },
@@ -4166,22 +4154,6 @@
     {
      "name": "Cryptostar Corp.",
      "symbol": "CSTR"
-    }
-   ]
-  },
-  {
-   "symbol": "CUB",
-   "name": "Cubicfarm Systems Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CUB.V",
-   "instruments": [
-    {
-     "name": "Cubicfarm Systems Corp.",
-     "symbol": "CUB"
-    },
-    {
-     "name": "CubicFarm Systems Corp. db 02Jun2027",
-     "symbol": "CUB.DB"
     }
    ]
   },
@@ -8626,18 +8598,6 @@
     {
      "name": "Jesmond Capital Ltd.",
      "symbol": "JES.P"
-    }
-   ]
-  },
-  {
-   "symbol": "JHC",
-   "name": "Jinhua Capital Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JHC.V",
-   "instruments": [
-    {
-     "name": "Jinhua Capital Corporation",
-     "symbol": "JHC"
     }
    ]
   },
@@ -48982,10 +48942,22 @@
    "yahoo_symbol": "CCCS"
   },
   {
+   "symbol": "CCCX",
+   "name": "Churchill Capital Corp X - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCX"
+  },
+  {
    "symbol": "CCCXU",
    "name": "Churchill Capital Corp X - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CCCXU"
+  },
+  {
+   "symbol": "CCCXW",
+   "name": "Churchill Capital Corp X - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCXW"
   },
   {
    "symbol": "CCD",
@@ -60088,12 +60060,6 @@
    "yahoo_symbol": "LTRX"
   },
   {
-   "symbol": "LTRY",
-   "name": "Lottery.com, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LTRY"
-  },
-  {
    "symbol": "LTRYW",
    "name": "Lottery.com, Inc. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
@@ -60278,6 +60244,12 @@
    "name": "Mama's Creations, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MAMA"
+  },
+  {
+   "symbol": "MAMK",
+   "name": "MaxsMaking Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAMK"
   },
   {
    "symbol": "MAMO",
@@ -67804,6 +67776,12 @@
    "yahoo_symbol": "SEER"
   },
   {
+   "symbol": "SEGG",
+   "name": "Lottery.com, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEGG"
+  },
+  {
    "symbol": "SEIC",
    "name": "SEI Investments Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72023,7 +72001,7 @@
   },
   {
    "symbol": "VINP",
-   "name": "Vinci Partners Investments Ltd. - Class A Common Shares",
+   "name": "Vinci Compass Investments Ltd. - Class A Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VINP"
   },
@@ -72478,12 +72456,6 @@
    "yahoo_symbol": "VWOB"
   },
   {
-   "symbol": "VXRT",
-   "name": "Vaxart, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VXRT"
-  },
-  {
    "symbol": "VXUS",
    "name": "Vanguard Total International Stock ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -72664,10 +72636,22 @@
    "yahoo_symbol": "WEN"
   },
   {
+   "symbol": "WENN",
+   "name": "Wen Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENN"
+  },
+  {
    "symbol": "WENNU",
    "name": "Wen Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WENNU"
+  },
+  {
+   "symbol": "WENNW",
+   "name": "Wen Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENNW"
   },
   {
    "symbol": "WERN",
@@ -73118,6 +73102,12 @@
    "name": "Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WVVIP"
+  },
+  {
+   "symbol": "WW",
+   "name": "WW International, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WW"
   },
   {
    "symbol": "WWD",
