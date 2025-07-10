@@ -1,72 +1,108 @@
 {
  "added": [
   {
-   "symbol": "ANPA",
-   "name": "Rich Sparkle Holdings Limited - Ordinary Shares",
+   "symbol": "DLXY",
+   "name": "Delixy Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ANPA"
+   "yahoo_symbol": "DLXY"
   },
   {
-   "symbol": "MSGY",
-   "name": "Masonglory Limited - Ordinary Shares",
+   "symbol": "FIEE",
+   "name": "FiEE, Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MSGY"
+   "yahoo_symbol": "FIEE"
   },
   {
-   "symbol": "TLIH",
-   "name": "Ten-League International Holdings Limited - Ordinary Shares",
+   "symbol": "GTERU",
+   "name": "Globa Terra Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTERU"
+  },
+  {
+   "symbol": "IXHL",
+   "name": "Incannex Healthcare Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TLIH"
+   "yahoo_symbol": "IXHL"
+  },
+  {
+   "symbol": "NYMTH",
+   "name": "New York Mortgage Trust, Inc. - 9.875% Senior Notes Due 2030",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NYMTH"
   }
  ],
  "removed": [
   {
-   "symbol": "AKYA",
-   "name": "Akoya BioSciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AKYA"
+   "symbol": "IXHL",
+   "name": "Incannex Healthcare Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IXHL"
   },
   {
-   "symbol": "CRP",
-   "name": "Ceres Global Ag Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CRP.TO",
-   "instruments": [
-    {
-     "name": "Ceres Global Ag Corp",
-     "symbol": "CRP"
-    }
-   ]
-  },
-  {
-   "symbol": "CAND",
-   "name": "Candelaria Mining Corp.",
+   "symbol": "WRI",
+   "name": "Waseco Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CAND.V",
+   "yahoo_symbol": "WRI.V",
    "instruments": [
     {
-     "name": "Candelaria Mining Corp.",
-     "symbol": "CAND"
+     "name": "Waseco Resources Inc",
+     "symbol": "WRI"
     }
    ]
   },
   {
-   "symbol": "GOFL",
-   "name": "Goldflare Exploration Inc.",
+   "symbol": "DISTW",
+   "name": "Distoken Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DISTW"
+  },
+  {
+   "symbol": "DIST",
+   "name": "Distoken Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DIST"
+  },
+  {
+   "symbol": "ATCO$D",
+   "name": "Atlas Corp. 7.95% Series D",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATCO$D"
+  },
+  {
+   "symbol": "MINM",
+   "name": "Minim, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MINM"
+  },
+  {
+   "symbol": "PLY",
+   "name": "Playfair Mining Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GOFL.V",
+   "yahoo_symbol": "PLY.V",
    "instruments": [
     {
-     "name": "Goldflare Exploration Inc.",
-     "symbol": "GOFL"
+     "name": "Playfair Mining Ltd.",
+     "symbol": "PLY"
     }
    ]
   },
   {
-   "symbol": "UBX",
-   "name": "Unity Biotechnology, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "UBX"
+   "symbol": "LEXI",
+   "name": "Lithium Energi Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LEXI.V",
+   "instruments": [
+    {
+     "name": "Lithium Energi Exploration Inc.",
+     "symbol": "LEXI"
+    }
+   ]
+  },
+  {
+   "symbol": "DISTR",
+   "name": "Distoken Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DISTR"
   }
  ]
 }
