@@ -1,14 +1,38 @@
 {
  "added": [
   {
-   "symbol": "MRBEAST",
-   "name": "X Super Official CEO (MRBEAST)",
+   "symbol": "BRAM",
+   "name": "Defibox bRAM (BRAM)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "WMDR",
+   "name": "WaterMinder (WMDR)",
    "built_on": "SOL"
   },
   {
-   "symbol": "CRYPSURE",
-   "name": "CrypSure (CRYPSURE)",
+   "symbol": "LIS",
+   "name": "Realis Network (LIS)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "FACT",
+   "name": "Orcfax (FACT)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "TALE",
+   "name": "PrompTale AI (TALE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
   },
   {
    "symbol": "CBBTC",
@@ -16,26 +40,63 @@
    "built_on": "BASE"
   },
   {
-   "symbol": "RBT",
-   "name": "RebootWorld (RBT)",
-   "built_on": "ETH"
+   "symbol": "3FT",
+   "name": "ThreeFold Token (3FT)",
+   "built_on": "XLM"
   },
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "DSLV",
+   "name": "iShares Silver Trust Defichain (DSLV)",
+   "built_on": "DFI"
   },
   {
-   "symbol": "DFTV1",
-   "name": "DigiFinexToken v1 (DFTV1)"
+   "symbol": "SARM",
+   "name": "Stella Armada (SARM)",
+   "built_on": "BNB"
   },
   {
-   "symbol": "PMX",
-   "name": "Phillip Morris xStock (PMX)",
+   "symbol": "NOL",
+   "name": "NORDO MILE (NOL)",
    "built_on": "SOL"
   },
   {
-   "symbol": "CARATSTOKEN",
-   "name": "Carats Token (CARATSTOKEN)",
+   "symbol": "MNTA",
+   "name": "MantaDAO (MNTA)",
+   "built_on": "KUJI"
+  },
+  {
+   "symbol": "NDQ",
+   "name": "Nasdaq666 (NDQ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BIGPUMP",
+   "name": "Big Pump (BIGPUMP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DGME",
+   "name": "GameStop Tokenized Stock Defichain (DGME)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun (PUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DRDR",
+   "name": "DRDR Token (DRDR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROSCOE",
+   "name": "Roscoe (ROSCOE)",
    "built_on": "ETH"
   },
   {
@@ -44,144 +105,63 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "HUSTLE",
-   "name": "Agent Hustle (HUSTLE)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "METAX",
-   "name": "Meta xStock (METAX)",
-   "built_on": "SOL"
-  },
-  {
-   "symbol": "KUAI",
-   "name": "Kuai Token (KUAI)",
+   "symbol": "TFT",
+   "name": "The Famous Token (TFT)",
    "built_on": "ETH"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "GETP",
-   "name": "GET Protocol (GETP)"
-  },
-  {
-   "symbol": "CARAT",
-   "name": "AlaskaGoldRush (CARAT)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "ZARO",
-   "name": "Zaro Coin (ZARO)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "CRS",
-   "name": "CYRUS (CRS)",
-   "built_on": "POL"
-  },
-  {
-   "symbol": "ASI",
-   "name": "Sender AI Token (ASI)",
-   "built_on": "NEAR"
-  },
-  {
-   "symbol": "KT",
-   "name": "KingdomX (KT)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "BBBTC",
-   "name": "Big Back Bitcoin (BBBTC)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "MAX",
-   "name": "Mastercard xStock (MAX)",
+   "symbol": "MOONDOGE",
+   "name": "MOONDOGE (MOONDOGE)",
    "built_on": "SOL"
   },
   {
-   "symbol": "STARTUP",
-   "name": "Startup (STARTUP)",
+   "symbol": "LNCHM",
+   "name": "Launchium (LNCHM)",
    "built_on": "SOL"
-  },
-  {
-   "symbol": "GET",
-   "name": "Global Entertainment Token (GET)",
-   "built_on": "ADA"
-  },
-  {
-   "symbol": "BEAVER",
-   "name": "beaver (BEAVER)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "HDX",
-   "name": "Home Depot xStock (HDX)",
-   "built_on": "SOL"
-  }
- ],
- "removed": [
-  {
-   "symbol": "KT",
-   "name": "Kuai Token (KT)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "GET",
-   "name": "Guaranteed Entrance Token (GET)",
-   "built_on": "ETH"
-  },
-  {
-   "symbol": "HDX",
-   "name": "Home Depot xStock (HDX)"
-  },
-  {
-   "symbol": "ZARO",
-   "name": "Zaro Coin (ZARO)"
-  },
-  {
-   "symbol": "MRBEAST",
-   "name": "X Super Official CEO (MRBEAST)"
-  },
-  {
-   "symbol": "BBBTC",
-   "name": "Big Back Bitcoin (BBBTC)"
   },
   {
    "symbol": "MAOMEME",
    "name": "Mao (MAOMEME)",
    "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MNTA",
+   "name": "MantaDAO (MNTA)"
   },
   {
-   "symbol": "STARTUP",
-   "name": "Startup (STARTUP)"
+   "symbol": "BRAM",
+   "name": "Defibox bRAM (BRAM)"
   },
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
+   "symbol": "DSLV",
+   "name": "iShares Silver Trust Defichain (DSLV)"
   },
   {
-   "symbol": "HUSTLE",
-   "name": "Agent Hustle (HUSTLE)"
+   "symbol": "LIS",
+   "name": "Realis Network (LIS)"
   },
   {
-   "symbol": "RBT",
-   "name": "RebootWorld (RBT)"
+   "symbol": "DGME",
+   "name": "GameStop Tokenized Stock Defichain (DGME)"
   },
   {
-   "symbol": "CARAT",
-   "name": "Carats Token (CARAT)",
-   "built_on": "ETH"
+   "symbol": "TFT",
+   "name": "The Famous Token (TFT)"
   },
   {
-   "symbol": "ASI",
-   "name": "Sender AI Token (ASI)"
+   "symbol": "3FT",
+   "name": "ThreeFold Token (3FT)"
   },
   {
-   "symbol": "BEAVER",
-   "name": "beaver (BEAVER)"
+   "symbol": "FACT",
+   "name": "Orcfax (FACT)"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Big Pump (PUMP)",
+   "built_on": "BNB"
   }
  ]
 }

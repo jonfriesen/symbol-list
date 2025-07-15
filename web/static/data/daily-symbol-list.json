@@ -1,5 +1,5 @@
 {
- "date": "2025-07-14",
+ "date": "2025-07-15",
  "data": [
   {
    "symbol": "ONE",
@@ -45264,6 +45264,12 @@
    "yahoo_symbol": "ALLW"
   },
   {
+   "symbol": "ALM",
+   "name": "Almonty Industries Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALM"
+  },
+  {
    "symbol": "ALMS",
    "name": "Alumis Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -47989,7 +47995,7 @@
   },
   {
    "symbol": "BRRR",
-   "name": "Coinshares Valkyrie Bitcoin Fund",
+   "name": "Coinshares Bitcoin ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BRRR"
   },
@@ -48301,13 +48307,13 @@
   },
   {
    "symbol": "BTF",
-   "name": "CoinShares Valkyrie Bitcoin and Ether Strategy ETF",
+   "name": "CoinShares Bitcoin and Ether ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BTF"
   },
   {
    "symbol": "BTFX",
-   "name": "CoinShares Valkyrie Bitcoin Futures Leveraged Strategy ETF",
+   "name": "CoinShares Bitcoin Leverage ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BTFX"
   },
@@ -55170,22 +55176,10 @@
    "yahoo_symbol": "GLADZ"
   },
   {
-   "symbol": "GLBAV",
-   "name": "GCI Liberty, Inc. - Series A GCI Group Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLBAV"
-  },
-  {
    "symbol": "GLBE",
    "name": "Global-E Online Ltd. - ordinary shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GLBE"
-  },
-  {
-   "symbol": "GLBKV",
-   "name": "GCI Liberty, Inc. - Series C GCI Group Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLBKV"
   },
   {
    "symbol": "GLBS",
@@ -55228,6 +55222,18 @@
    "name": "Global Engine Group Holding Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GLE"
+  },
+  {
+   "symbol": "GLIBA",
+   "name": "GCI Liberty, Inc. - Series A GCI Group Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLIBA"
+  },
+  {
+   "symbol": "GLIBK",
+   "name": "GCI Liberty, Inc. - Series C GCI Group Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLIBK"
   },
   {
    "symbol": "GLMD",
@@ -59146,18 +59152,6 @@
    "name": "Luminar Technologies, Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LAZR"
-  },
-  {
-   "symbol": "LBDAV",
-   "name": "Liberty Broadband Corporation - Class A Common Stock Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBDAV"
-  },
-  {
-   "symbol": "LBDKV",
-   "name": "Liberty Broadband Corporation - Class C Common Stock Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBDKV"
   },
   {
    "symbol": "LBGJ",
@@ -63774,6 +63768,12 @@
    "yahoo_symbol": "OTEX"
   },
   {
+   "symbol": "OTGL",
+   "name": "OTG Latin America ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OTGL"
+  },
+  {
    "symbol": "OTLK",
    "name": "Outlook Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -64480,6 +64480,12 @@
    "name": "Invesco Dividend Achievers ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PFM"
+  },
+  {
+   "symbol": "PFSA",
+   "name": "Profusa, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFSA"
   },
   {
    "symbol": "PFX",
@@ -71274,12 +71280,6 @@
    "yahoo_symbol": "UMBFO"
   },
   {
-   "symbol": "UMBFP",
-   "name": "UMB Financial Corporation - Depositary Shares, each representing a 1/400th of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "UMBFP"
-  },
-  {
    "symbol": "UMMA",
    "name": "Wahed Dow Jones Islamic World ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -72661,7 +72661,7 @@
   },
   {
    "symbol": "WGMI",
-   "name": "CoinShares Valkyrie Bitcoin Miners ETF",
+   "name": "CoinShares Bitcoin Mining ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WGMI"
   },
@@ -72984,22 +72984,10 @@
    "yahoo_symbol": "WTFC"
   },
   {
-   "symbol": "WTFCM",
-   "name": "Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WTFCM"
-  },
-  {
    "symbol": "WTFCN",
    "name": "Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series F, no par value, with a liquidation preference of $25,000 per share",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WTFCN"
-  },
-  {
-   "symbol": "WTFCP",
-   "name": "Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WTFCP"
   },
   {
    "symbol": "WTGUU",
