@@ -286,6 +286,7 @@ CBA,Champion Bear Resources Ltd.,TSXV,CBA.V,Champion Bear Resources Ltd.,CBA
 YES,Char Technologies Ltd.,TSXV,YES.V,Char Technologies Ltd.,YES
 CH,Charbone Hydrogen Corporation,TSXV,CH.V,Charbone Hydrogen Corporation,CH
 NZP,Chatham Rock Phosphate Limited,TSXV,NZP.V,Chatham Rock Phosphate Limited,NZP
+CHER,Cheelcare Inc.,TSXV,CHER.V,Cheelcare Inc.,CHER
 CKG,Chesapeake Gold Corp.,TSXV,CKG.V,Chesapeake Gold Corp.,CKG
 CBG,Chibougamau Independent Mines Inc.,TSXV,CBG.V,Chibougamau Independent Mines Inc.,CBG
 CCIC.P,Chicane Capital I Corp.,TSXV,CCIC.P.V,Chicane Capital I Corp.,CCIC.P
@@ -364,7 +365,6 @@ DFSC,DEFSEC Technologies Inc.,TSXV,DFSC.V,DEFSEC Technologies Inc.,DFSC,DEFSEC T
 DHB,Delivra Health Brands Inc.,TSXV,DHB.V,Delivra Health Brands Inc.,DHB
 DELX,DelphX Capital Markets Inc.,TSXV,DELX.V,DelphX Capital Markets Inc.,DELX
 DLTA,Delta Resources Limited,TSXV,DLTA.V,Delta Resources Limited,DLTA
-DBC.P,Departure Bay Capital Corp.,TSXV,DBC.P.V,Departure Bay Capital Corp.,DBC.P
 DAU,Desert Gold Ventures Inc.,TSXV,DAU.V,Desert Gold Ventures Inc.,DAU
 DME,Desert Mountain Energy Corp.,TSXV,DME.V,Desert Mountain Energy Corp.,DME
 DSY,Destiny Media Technologies Inc.,TSXV,DSY.V,Destiny Media Technologies Inc.,DSY
@@ -1355,7 +1355,7 @@ XTM,Transition Metals Corp.,TSXV,XTM.V,Transition Metals Corp.,XTM
 TOP.P,Transition Opportunities Corp.,TSXV,TOP.P.V,Transition Opportunities Corp.,TOP.P
 TRS,Tres-Or Resources Ltd.,TSXV,TRS.V,Tres-Or Resources Ltd.,TRS
 TRV.P,Treviso Capital Corp.,TSXV,TRV.P.V,Treviso Capital Corp.,TRV.P
-TRBE,Tribe Property Technologies Inc.,TSXV,TRBE.V,Tribe Property Technologies Inc.,TRBE
+TRBE,Tribe Property Technologies Inc.,TSXV,TRBE.V,Tribe Property Technologies Inc.,TRBE,Tribe Property Technologies Inc. wt 07Jul2028,TRBE.WT
 TRBC,Tribeca Resources Corporation,TSXV,TRBC.V,Tribeca Resources Corporation,TRBC
 ROCK,Trident Resources Corp.,TSXV,ROCK.V,Trident Resources Corp.,ROCK
 TG,Trifecta Gold Ltd.,TSXV,TG.V,Trifecta Gold Ltd.,TG
@@ -1517,7 +1517,6 @@ AFN,Ag Growth International Inc.,TSX,AFN.TO,Ag Growth Int'l Inc.,AFN,AG GrowthIn
 AGF.B,AGF Management Limited,TSX,AGF.B.TO,AGF Management B NV,AGF.B
 QBTL,AGF US Market Neutral Anti-Beta CAD-Hedged ETF,TSX,QBTL.TO,AGF US Anti-BetaCAHg,QBTL
 AEM,Agnico Eagle Mines Limited,TSX,AEM.TO,Agnico Eagle Mines,AEM
-AGRI.RT.U,Agrinam Acquisition Corporation,TSX,AGRI.RT.U.TO,AgrinamAcqui J Rt US,AGRI.RT.U,AgrinamAcqui J RV US,AGRI.U,AgrinamAcqui J Wt US,AGRI.WT.U
 AIM,Aimia Inc.,TSX,AIM.TO,Aimia Inc.,AIM,Aimia Inc. Ser 1 Pr,AIM.PR.A,Aimia Inc. Ser 3 Pr,AIM.PR.C,Aimia Inc. Ser 4 Pr,AIM.PR.D
 AC,Air Canada,TSX,AC.TO,Air Canada Vote & VV,AC
 BOS,AirBoss of America Corp.,TSX,BOS.TO,Airboss of America J,BOS
@@ -2085,7 +2084,6 @@ DXCB,Dynamic Active Corporate Bond ETF,TSX,DXCB.TO,Dynamic Act CB ETF,DXCB
 DXO,Dynamic Active Crossover Bond ETF,TSX,DXO.TO,Dynamic ActvCrossBnd,DXO
 DXDB,Dynamic Active Discount Bond ETF,TSX,DXDB.TO,Dynamic Discount Bnd,DXDB
 DXEM,Dynamic Active Emerging Markets ETF,TSX,DXEM.TO,DynamicActvEmrgMktUn,DXEM
-DXET,Dynamic Active Energy Evolution ETF,TSX,DXET.TO,DynamicActv EngyEvol,DXET
 DXQ,Dynamic Active Enhanced Yield Covered Options ETF,TSX,DXQ.TO,DynamicActvYldCovrOp,DXQ
 DXG,Dynamic Active Global Dividend ETF,TSX,DXG.TO,Dynamic Actv GlblDiv,DXG,Dyna Actv GlblDiv US,DXG.U
 DXGE,Dynamic Active Global Equity Income ETF,TSX,DXGE.TO,Dynamic ActGlbEqIncm,DXGE
@@ -2938,6 +2936,10 @@ NXR.UN,Nexus Industrial REIT,TSX,NXR.UN.TO,Nexus Industrl REIT,NXR.UN
 NFI,NFI Group Inc.,TSX,NFI.TO,NFI Group Inc.,NFI,NFI Group Inc 5% Deb,NFI.DB
 NGEX,NGEx Minerals Ltd.,TSX,NGEX.TO,NGEx Minerals Ltd.,NGEX
 TKN,Ninepoint Crypto and AI Leaders ETF,TSX,TKN.TO,Np Crypto AI Ldr ETF,TKN,Np Cryp AILdr ETF US,TKN.U
+INFR,Ninepoint Global Infrastructure Fund,TSX,INFR.TO,Ninepoint Glbl Infra,INFR
+GLDE,Ninepoint Gold and Precious Minerals Fund,TSX,GLDE.TO,Ninepoint Gold&Pre M,GLDE
+GBUL,Ninepoint Gold Bullion Fund,TSX,GBUL.TO,Ninepoint Gld Bulion,GBUL
+SBUL,Ninepoint Silver Bullion Fund,TSX,SBUL.TO,Ninepoint Slvr Bulli,SBUL
 NOA,North American Construction Group Ltd.,TSX,NOA.TO,N.A. Construction,NOA,N.A. Constr 5% Deb,NOA.DB.A
 FFN,North American Financial 15 Split Corp.,TSX,FFN.TO,NA Fin 15 Split A ,FFN,NA Fin 15 Split 2 Pr,FFN.PR.A
 NWC,North West Company Inc. (The),TSX,NWC.TO,NW Company VarV&ComV,NWC
@@ -3837,6 +3839,7 @@ AVDX,"AvidXchange Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,A
 AVGB,Avantis Credit ETF,NASDAQ Global MarketSM,AVGB
 AVGG,Leverage Shares 2X Long AVGO Daily ETF,NASDAQ Global MarketSM,AVGG
 AVGO,Broadcom Inc. - Common Stock,NASDAQ Global Select MarketSM,AVGO
+AVGU,GraniteShares 2x Long AVGO Daily ETF,NASDAQ Global MarketSM,AVGU
 AVGX,Defiance Daily Target 2X Long AVGO ETF,NASDAQ Global MarketSM,AVGX
 AVIR,"Atea Pharmaceuticals, Inc. - common stock",NASDAQ Global Select MarketSM,AVIR
 AVL,Direxion Daily AVGO Bull 2X Shares,NASDAQ Global MarketSM,AVL
@@ -6047,7 +6050,6 @@ LQDA,Liquidia Corporation - Common Stock,NASDAQ Capital Market,LQDA
 LQDT,"Liquidity Services, Inc. - Common Stock",NASDAQ Global Select MarketSM,LQDT
 LRCX,Lam Research Corporation - Common Stock,NASDAQ Global Select MarketSM,LRCX
 LRE,"Lead Real Estate Co., Ltd - American Depositary Shares",NASDAQ Capital Market,LRE
-LRFC,Logan Ridge Finance Corporation - Common Stock,NASDAQ Global Select MarketSM,LRFC
 LRGE,ClearBridge Large Cap Growth ESG ETF,NASDAQ Global MarketSM,LRGE
 LRHC,La Rosa Holdings Corp. - Common Stock,NASDAQ Capital Market,LRHC
 LRMR,"Larimar Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,LRMR
@@ -6471,6 +6473,7 @@ NOEMU,CO2 Energy Transition Corp. - Unit,NASDAQ Global MarketSM,NOEMU
 NOEMW,CO2 Energy Transition Corp. - Warrant,NASDAQ Global MarketSM,NOEMW
 NOTV,"Inotiv, Inc. - Common Stock",NASDAQ Capital Market,NOTV
 NOVT,Novanta Inc. - Common Shares,NASDAQ Global Select MarketSM,NOVT
+NOWL,GraniteShares 2x Long NOW Daily ETF,NASDAQ Global MarketSM,NOWL
 NPAC,New Providence Acquisition Corp. III - Ordinary Shares,NASDAQ Global MarketSM,NPAC
 NPACU,New Providence Acquisition Corp. III - Units,NASDAQ Global MarketSM,NPACU
 NPACW,New Providence Acquisition Corp. III - Warrants,NASDAQ Global MarketSM,NPACW
@@ -6780,6 +6783,7 @@ PCYO,Pure Cycle Corporation - Common Stock,NASDAQ Capital Market,PCYO
 PDBA,Invesco Agriculture Commodity Strategy No K-1 ETF,NASDAQ Global MarketSM,PDBA
 PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,NASDAQ Global MarketSM,PDBC
 PDD,PDD Holdings Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,PDD
+PDDL,GraniteShares 2x Long PDD Daily ETF,NASDAQ Global MarketSM,PDDL
 PDEX,"Pro-Dex, Inc. - Common Stock",NASDAQ Capital Market,PDEX
 PDFS,"PDF Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,PDFS
 PDLB,"Ponce Financial Group, Inc. - Common Stock",NASDAQ Global MarketSM,PDLB
@@ -7467,7 +7471,7 @@ SLS,"SELLAS Life Sciences Group, Inc.  - Common Stock",NASDAQ Capital Market,SLS
 SLSN,"Solesence, Inc. - Common stock",NASDAQ Capital Market,SLSN
 SLVO,"ETRACS Silver Shares Covered Call ETNs due April 21, 2033",NASDAQ Global MarketSM,SLVO
 SLVR,Sprott Silver Miners & Physical Silver ETF,NASDAQ Global MarketSM,SLVR
-SLXN,Silexion Therapeutics Corp - Ordinary Shares,NASDAQ Global MarketSM,SLXN
+SLXN,Silexion Therapeutics Corp - Ordinary Shares,NASDAQ Capital Market,SLXN
 SLXNW,Silexion Therapeutics Corp - Warrant,NASDAQ Capital Market,SLXNW
 SMBC,"Southern Missouri Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,SMBC
 SMCF,Themes US Small Cap Cash Flow Champions ETF,NASDAQ Global MarketSM,SMCF
@@ -7549,6 +7553,7 @@ SPC,CrossingBridge Pre-Merger SPAC ETF,NASDAQ Global MarketSM,SPC
 SPCB,"SuperCom, Ltd. - Ordinary Shares",NASDAQ Capital Market,SPCB
 SPCX,SPAC and New Issue ETF,NASDAQ Global MarketSM,SPCX
 SPCY,STKd 100% SMCI & 100% NVDA ETF,NASDAQ Global MarketSM,SPCY
+SPEGU,Silver Pegasus Acquisition Corp - Unit,NASDAQ Global MarketSM,SPEGU
 SPFI,"South Plains Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,SPFI
 SPHL,Springview Holdings Ltd - Ordinary shares,NASDAQ Capital Market,SPHL
 SPKL,Spark I Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,SPKL
@@ -8135,6 +8140,8 @@ VTYX,"Ventyx Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,VTY
 VUZI,Vuzix Corporation  - Common Stock,NASDAQ Capital Market,VUZI
 VVOS,"Vivos Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,VVOS
 VVPR,VivoPower International PLC - Ordinary Shares,NASDAQ Capital Market,VVPR
+VWAV,"VisionWave Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,VWAV
+VWAVW,"VisionWave Holdings, Inc. - Warrant",NASDAQ Global MarketSM,VWAVW
 VWOB,Vanguard Emerging Markets Government Bond ETF,NASDAQ Global MarketSM,VWOB
 VXUS,Vanguard Total International Stock ETF,NASDAQ Global MarketSM,VXUS
 VYGR,"Voyager Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,VYGR
@@ -8996,9 +9003,6 @@ CIX,CompX International Inc. Common Stock,NYSE MKT,CIX
 CKX,"CKX Lands, Inc. Common Stock",NYSE MKT,CKX
 CL,Colgate-Palmolive Company Common Stock,NYSE,CL
 CLB,Core Laboratories Inc. Common Stock,NYSE,CLB
-CLBR,Colombier Acquisition Corp. II Class A Ordinary Shares,NYSE,CLBR
-CLBR.U,"Colombier Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,CLBR.U
-CLBR.W,"Colombier Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",NYSE,CLBR.W
 CLCO,Cool Company Ltd. Common Shares,NYSE,CLCO
 CLDI,"Calidi Biotherapeutics, Inc. Common Stock",NYSE MKT,CLDI
 CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,NYSE,CLDT
@@ -10607,6 +10611,8 @@ PEN,"Penumbra, Inc. Common Stock",NYSE,PEN
 PEO,"Adams Natural Resources Fund, Inc. Common Stock",NYSE,PEO
 PERF,Perfect Corp. Class A Ordinary Share,NYSE,PERF
 PERF.W,"Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share",NYSE,PERF.W
+PEW,GrabAGun Digital Holdings Inc. Common Stock,NYSE,PEW
+PEW.W,"GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",NYSE,PEW.W
 PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated,NYSE,PFD
 PFE,"Pfizer, Inc. Common Stock",NYSE,PFE
 PFFL,"ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN due September 25, 2048",NYSE ARCA,PFFL

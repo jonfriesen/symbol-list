@@ -1,78 +1,194 @@
 {
  "added": [
   {
-   "symbol": "ALM",
-   "name": "Almonty Industries Inc. - Common Shares",
+   "symbol": "CHER",
+   "name": "Cheelcare Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CHER.V",
+   "instruments": [
+    {
+     "name": "Cheelcare Inc.",
+     "symbol": "CHER"
+    }
+   ]
+  },
+  {
+   "symbol": "INFR",
+   "name": "Ninepoint Global Infrastructure Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "INFR.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Glbl Infra",
+     "symbol": "INFR"
+    }
+   ]
+  },
+  {
+   "symbol": "GLDE",
+   "name": "Ninepoint Gold and Precious Minerals Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLDE.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Gold\u0026Pre M",
+     "symbol": "GLDE"
+    }
+   ]
+  },
+  {
+   "symbol": "GBUL",
+   "name": "Ninepoint Gold Bullion Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GBUL.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Gld Bulion",
+     "symbol": "GBUL"
+    }
+   ]
+  },
+  {
+   "symbol": "SBUL",
+   "name": "Ninepoint Silver Bullion Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBUL.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Slvr Bulli",
+     "symbol": "SBUL"
+    }
+   ]
+  },
+  {
+   "symbol": "AVGU",
+   "name": "GraniteShares 2x Long AVGO Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVGU"
+  },
+  {
+   "symbol": "NOWL",
+   "name": "GraniteShares 2x Long NOW Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NOWL"
+  },
+  {
+   "symbol": "PDDL",
+   "name": "GraniteShares 2x Long PDD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PDDL"
+  },
+  {
+   "symbol": "SLXN",
+   "name": "Silexion Therapeutics Corp - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALM"
+   "yahoo_symbol": "SLXN"
   },
   {
-   "symbol": "GLIBA",
-   "name": "GCI Liberty, Inc. - Series A GCI Group Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLIBA"
-  },
-  {
-   "symbol": "GLIBK",
-   "name": "GCI Liberty, Inc. - Series C GCI Group Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLIBK"
-  },
-  {
-   "symbol": "OTGL",
-   "name": "OTG Latin America ETF",
+   "symbol": "SPEGU",
+   "name": "Silver Pegasus Acquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OTGL"
+   "yahoo_symbol": "SPEGU"
   },
   {
-   "symbol": "PFSA",
-   "name": "Profusa, Inc. - Common Stock",
+   "symbol": "VWAV",
+   "name": "VisionWave Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PFSA"
+   "yahoo_symbol": "VWAV"
+  },
+  {
+   "symbol": "VWAVW",
+   "name": "VisionWave Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VWAVW"
+  },
+  {
+   "symbol": "PEW",
+   "name": "GrabAGun Digital Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PEW"
+  },
+  {
+   "symbol": "PEW.W",
+   "name": "GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PEW.W"
   }
  ],
  "removed": [
   {
-   "symbol": "GLBAV",
-   "name": "GCI Liberty, Inc. - Series A GCI Group Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLBAV"
+   "symbol": "DXET",
+   "name": "Dynamic Active Energy Evolution ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXET.TO",
+   "instruments": [
+    {
+     "name": "DynamicActv EngyEvol",
+     "symbol": "DXET"
+    }
+   ]
   },
   {
-   "symbol": "LBDKV",
-   "name": "Liberty Broadband Corporation - Class C Common Stock Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBDKV"
+   "symbol": "CLBR.W",
+   "name": "Colombier Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR.W"
   },
   {
-   "symbol": "GLBKV",
-   "name": "GCI Liberty, Inc. - Series C GCI Group Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLBKV"
+   "symbol": "CLBR.U",
+   "name": "Colombier Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR.U"
   },
   {
-   "symbol": "LBDAV",
-   "name": "Liberty Broadband Corporation - Class A Common Stock Ex-distribution When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBDAV"
+   "symbol": "SLXN",
+   "name": "Silexion Therapeutics Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLXN"
   },
   {
-   "symbol": "WTFCM",
-   "name": "Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WTFCM"
+   "symbol": "DBC.P",
+   "name": "Departure Bay Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DBC.P.V",
+   "instruments": [
+    {
+     "name": "Departure Bay Capital Corp.",
+     "symbol": "DBC.P"
+    }
+   ]
   },
   {
-   "symbol": "UMBFP",
-   "name": "UMB Financial Corporation - Depositary Shares, each representing a 1/400th of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "UMBFP"
+   "symbol": "CLBR",
+   "name": "Colombier Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR"
   },
   {
-   "symbol": "WTFCP",
-   "name": "Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",
+   "symbol": "LRFC",
+   "name": "Logan Ridge Finance Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WTFCP"
+   "yahoo_symbol": "LRFC"
+  },
+  {
+   "symbol": "AGRI.RT.U",
+   "name": "Agrinam Acquisition Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGRI.RT.U.TO",
+   "instruments": [
+    {
+     "name": "AgrinamAcqui J Rt US",
+     "symbol": "AGRI.RT.U"
+    },
+    {
+     "name": "AgrinamAcqui J RV US",
+     "symbol": "AGRI.U"
+    },
+    {
+     "name": "AgrinamAcqui J Wt US",
+     "symbol": "AGRI.WT.U"
+    }
+   ]
   }
  ]
 }
