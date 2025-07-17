@@ -1,5 +1,5 @@
 {
- "date": "2025-07-16",
+ "date": "2025-07-17",
  "data": [
   {
    "symbol": "ONE",
@@ -727,12 +727,12 @@
   },
   {
    "symbol": "AMRQ",
-   "name": "Amaroq Minerals Ltd.",
+   "name": "Amaroq Ltd.",
    "exchange": "TSXV",
    "yahoo_symbol": "AMRQ.V",
    "instruments": [
     {
-     "name": "Amaroq Minerals Ltd.",
+     "name": "Amaroq Ltd.",
      "symbol": "AMRQ"
     }
    ]
@@ -46538,6 +46538,12 @@
    "yahoo_symbol": "AUDC"
   },
   {
+   "symbol": "AUGO",
+   "name": "Aura Minerals Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AUGO"
+  },
+  {
    "symbol": "AUID",
    "name": "authID Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -49364,18 +49370,6 @@
    "yahoo_symbol": "CGBDL"
   },
   {
-   "symbol": "CGBS",
-   "name": "Crown LNG Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGBS"
-  },
-  {
-   "symbol": "CGBSW",
-   "name": "Crown LNG Holdings Limited - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGBSW"
-  },
-  {
    "symbol": "CGC",
    "name": "Canopy Growth Corporation - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -49644,12 +49638,6 @@
    "name": "Calamos Global Dynamic Income Fund - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CHW"
-  },
-  {
-   "symbol": "CHX",
-   "name": "ChampionX Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CHX"
   },
   {
    "symbol": "CHY",
@@ -53264,12 +53252,6 @@
    "yahoo_symbol": "FATBP"
   },
   {
-   "symbol": "FATBW",
-   "name": "FAT Brands Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FATBW"
-  },
-  {
    "symbol": "FATE",
    "name": "Fate Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -54465,7 +54447,7 @@
   },
   {
    "symbol": "FTEL",
-   "name": "Fitell Corporation - Ordinary Shares",
+   "name": "Fitell Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FTEL"
   },
@@ -58838,6 +58820,12 @@
    "yahoo_symbol": "KMLI"
   },
   {
+   "symbol": "KMRK",
+   "name": "K-Tech Solutions Company Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KMRK"
+  },
+  {
    "symbol": "KMTS",
    "name": "Kestra Medical Technologies, Ltd. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -60794,6 +60782,12 @@
    "yahoo_symbol": "MGRM"
   },
   {
+   "symbol": "MGRT",
+   "name": "Mega Fortune Company Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGRT"
+  },
+  {
    "symbol": "MGRX",
    "name": "Mangoceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -62124,6 +62118,12 @@
    "name": "StockSnips AI-Powered Sentiment US All Cap ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NEWZ"
+  },
+  {
+   "symbol": "NEXM",
+   "name": "NexMetals Mining Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEXM"
   },
   {
    "symbol": "NEXN",
@@ -68720,6 +68720,12 @@
    "yahoo_symbol": "SOBR"
   },
   {
+   "symbol": "SOCAU",
+   "name": "Solarius Capital Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOCAU"
+  },
+  {
    "symbol": "SOCL",
    "name": "Global X Social Media ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -69102,12 +69108,6 @@
    "name": "Global X SuperDividend REIT ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SRET"
-  },
-  {
-   "symbol": "SRM",
-   "name": "SRM Entertainment, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SRM"
   },
   {
    "symbol": "SRPT",
@@ -70632,6 +70632,12 @@
    "name": "Transcat, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TRNS"
+  },
+  {
+   "symbol": "TRON",
+   "name": "Tron Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRON"
   },
   {
    "symbol": "TROO",
@@ -72454,7 +72460,7 @@
   {
    "symbol": "VWAVW",
    "name": "VisionWave Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VWAVW"
   },
   {
@@ -73818,12 +73824,6 @@
    "name": "Zevra Therapeutics, Inc.  - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ZVRA"
-  },
-  {
-   "symbol": "ZVSA",
-   "name": "ZyVersa Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZVSA"
   },
   {
    "symbol": "ZYBT",
@@ -86958,6 +86958,12 @@
    "name": "Western Asset Investment Grade Income Fund Inc.",
    "exchange": "NYSE",
    "yahoo_symbol": "PAI"
+  },
+  {
+   "symbol": "PAII.U",
+   "name": "Pyrophyte Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PAII.U"
   },
   {
    "symbol": "PAM",

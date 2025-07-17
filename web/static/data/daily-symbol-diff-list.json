@@ -1,101 +1,55 @@
 {
  "added": [
   {
-   "symbol": "CHER",
-   "name": "Cheelcare Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CHER.V",
-   "instruments": [
-    {
-     "name": "Cheelcare Inc.",
-     "symbol": "CHER"
-    }
-   ]
+   "symbol": "AUGO",
+   "name": "Aura Minerals Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AUGO"
   },
   {
-   "symbol": "INFR",
-   "name": "Ninepoint Global Infrastructure Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "INFR.TO",
-   "instruments": [
-    {
-     "name": "Ninepoint Glbl Infra",
-     "symbol": "INFR"
-    }
-   ]
-  },
-  {
-   "symbol": "GLDE",
-   "name": "Ninepoint Gold and Precious Minerals Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GLDE.TO",
-   "instruments": [
-    {
-     "name": "Ninepoint Gold\u0026Pre M",
-     "symbol": "GLDE"
-    }
-   ]
-  },
-  {
-   "symbol": "GBUL",
-   "name": "Ninepoint Gold Bullion Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GBUL.TO",
-   "instruments": [
-    {
-     "name": "Ninepoint Gld Bulion",
-     "symbol": "GBUL"
-    }
-   ]
-  },
-  {
-   "symbol": "SBUL",
-   "name": "Ninepoint Silver Bullion Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "SBUL.TO",
-   "instruments": [
-    {
-     "name": "Ninepoint Slvr Bulli",
-     "symbol": "SBUL"
-    }
-   ]
-  },
-  {
-   "symbol": "AVGU",
-   "name": "GraniteShares 2x Long AVGO Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVGU"
-  },
-  {
-   "symbol": "NOWL",
-   "name": "GraniteShares 2x Long NOW Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NOWL"
-  },
-  {
-   "symbol": "PDDL",
-   "name": "GraniteShares 2x Long PDD Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PDDL"
-  },
-  {
-   "symbol": "SLXN",
-   "name": "Silexion Therapeutics Corp - Ordinary Shares",
+   "symbol": "KMRK",
+   "name": "K-Tech Solutions Company Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLXN"
+   "yahoo_symbol": "KMRK"
   },
   {
-   "symbol": "SPEGU",
-   "name": "Silver Pegasus Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPEGU"
+   "symbol": "MGRT",
+   "name": "Mega Fortune Company Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGRT"
   },
   {
-   "symbol": "VWAV",
-   "name": "VisionWave Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VWAV"
+   "symbol": "NEXM",
+   "name": "NexMetals Mining Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEXM"
   },
+  {
+   "symbol": "SOCAU",
+   "name": "Solarius Capital Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOCAU"
+  },
+  {
+   "symbol": "TRON",
+   "name": "Tron Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRON"
+  },
+  {
+   "symbol": "VWAVW",
+   "name": "VisionWave Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VWAVW"
+  },
+  {
+   "symbol": "PAII.U",
+   "name": "Pyrophyte Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PAII.U"
+  }
+ ],
+ "removed": [
   {
    "symbol": "VWAVW",
    "name": "VisionWave Holdings, Inc. - Warrant",
@@ -103,92 +57,40 @@
    "yahoo_symbol": "VWAVW"
   },
   {
-   "symbol": "PEW",
-   "name": "GrabAGun Digital Holdings Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PEW"
+   "symbol": "CGBSW",
+   "name": "Crown LNG Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGBSW"
   },
   {
-   "symbol": "PEW.W",
-   "name": "GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PEW.W"
-  }
- ],
- "removed": [
-  {
-   "symbol": "DXET",
-   "name": "Dynamic Active Energy Evolution ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DXET.TO",
-   "instruments": [
-    {
-     "name": "DynamicActv EngyEvol",
-     "symbol": "DXET"
-    }
-   ]
+   "symbol": "FATBW",
+   "name": "FAT Brands Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FATBW"
   },
   {
-   "symbol": "CLBR.W",
-   "name": "Colombier Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CLBR.W"
+   "symbol": "CGBS",
+   "name": "Crown LNG Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGBS"
   },
   {
-   "symbol": "CLBR.U",
-   "name": "Colombier Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CLBR.U"
+   "symbol": "SRM",
+   "name": "SRM Entertainment, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SRM"
   },
   {
-   "symbol": "SLXN",
-   "name": "Silexion Therapeutics Corp - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLXN"
-  },
-  {
-   "symbol": "DBC.P",
-   "name": "Departure Bay Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DBC.P.V",
-   "instruments": [
-    {
-     "name": "Departure Bay Capital Corp.",
-     "symbol": "DBC.P"
-    }
-   ]
-  },
-  {
-   "symbol": "CLBR",
-   "name": "Colombier Acquisition Corp. II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CLBR"
-  },
-  {
-   "symbol": "LRFC",
-   "name": "Logan Ridge Finance Corporation - Common Stock",
+   "symbol": "CHX",
+   "name": "ChampionX Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LRFC"
+   "yahoo_symbol": "CHX"
   },
   {
-   "symbol": "AGRI.RT.U",
-   "name": "Agrinam Acquisition Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "AGRI.RT.U.TO",
-   "instruments": [
-    {
-     "name": "AgrinamAcqui J Rt US",
-     "symbol": "AGRI.RT.U"
-    },
-    {
-     "name": "AgrinamAcqui J RV US",
-     "symbol": "AGRI.U"
-    },
-    {
-     "name": "AgrinamAcqui J Wt US",
-     "symbol": "AGRI.WT.U"
-    }
-   ]
+   "symbol": "ZVSA",
+   "name": "ZyVersa Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZVSA"
   }
  ]
 }
