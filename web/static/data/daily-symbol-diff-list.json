@@ -1,96 +1,66 @@
 {
  "added": [
   {
-   "symbol": "AUGO",
-   "name": "Aura Minerals Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AUGO"
-  },
-  {
-   "symbol": "KMRK",
-   "name": "K-Tech Solutions Company Limited - Class A Ordinary Shares",
+   "symbol": "LAWR",
+   "name": "Robot Consulting Co., Ltd. - ADS",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KMRK"
+   "yahoo_symbol": "LAWR"
   },
   {
-   "symbol": "MGRT",
-   "name": "Mega Fortune Company Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MGRT"
-  },
-  {
-   "symbol": "NEXM",
-   "name": "NexMetals Mining Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NEXM"
-  },
-  {
-   "symbol": "SOCAU",
-   "name": "Solarius Capital Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SOCAU"
-  },
-  {
-   "symbol": "TRON",
-   "name": "Tron Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TRON"
-  },
-  {
-   "symbol": "VWAVW",
-   "name": "VisionWave Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VWAVW"
-  },
-  {
-   "symbol": "PAII.U",
-   "name": "Pyrophyte Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "symbol": "DTC",
+   "name": "Solo Brands, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "PAII.U"
+   "yahoo_symbol": "DTC"
+  },
+  {
+   "symbol": "NXG.V",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.V"
+  },
+  {
+   "symbol": "SPME",
+   "name": "Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPME"
   }
  ],
  "removed": [
   {
-   "symbol": "VWAVW",
-   "name": "VisionWave Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VWAVW"
-  },
-  {
-   "symbol": "CGBSW",
-   "name": "Crown LNG Holdings Limited - Warrants",
+   "symbol": "NESRW",
+   "name": "National Energy Services Reunited Corp - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGBSW"
+   "yahoo_symbol": "NESRW"
   },
   {
-   "symbol": "FATBW",
-   "name": "FAT Brands Inc. - Warrant",
+   "symbol": "NXO",
+   "name": "NexOptic Technology Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NXO.V",
+   "instruments": [
+    {
+     "name": "NexOptic Technology Corp.",
+     "symbol": "NXO"
+    }
+   ]
+  },
+  {
+   "symbol": "BCLI",
+   "name": "Brainstorm Cell Therapeutics Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FATBW"
+   "yahoo_symbol": "BCLI"
   },
   {
-   "symbol": "CGBS",
-   "name": "Crown LNG Holdings Limited - Ordinary Shares",
+   "symbol": "ICAD",
+   "name": "icad inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGBS"
+   "yahoo_symbol": "ICAD"
   },
   {
-   "symbol": "SRM",
-   "name": "SRM Entertainment, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SRM"
-  },
-  {
-   "symbol": "CHX",
-   "name": "ChampionX Corporation - Common Stock",
+   "symbol": "ANSS",
+   "name": "ANSYS, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CHX"
-  },
-  {
-   "symbol": "ZVSA",
-   "name": "ZyVersa Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZVSA"
+   "yahoo_symbol": "ANSS"
   }
  ]
 }
