@@ -1,66 +1,72 @@
 {
  "added": [
   {
-   "symbol": "LAWR",
-   "name": "Robot Consulting Co., Ltd. - ADS",
+   "symbol": "JENA",
+   "name": "Jena Acquisition Corporation II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JENA"
+  },
+  {
+   "symbol": "JENA.R",
+   "name": "Jena Acquisition Corporation II Rights, each right to acquire one-twentieth (1/20) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JENA.R"
+  },
+  {
+   "symbol": "NXDR",
+   "name": "Nextdoor Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXDR"
+  },
+  {
+   "symbol": "MJID",
+   "name": "Majestic Ideal Holdings Ltd - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LAWR"
+   "yahoo_symbol": "MJID"
   },
   {
-   "symbol": "DTC",
-   "name": "Solo Brands, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DTC"
-  },
-  {
-   "symbol": "NXG.V",
-   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXG.V"
-  },
-  {
-   "symbol": "SPME",
-   "name": "Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 2030",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SPME"
-  }
- ],
- "removed": [
-  {
-   "symbol": "NESRW",
-   "name": "National Energy Services Reunited Corp - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NESRW"
-  },
-  {
-   "symbol": "NXO",
-   "name": "NexOptic Technology Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NXO.V",
+   "symbol": "FTLS",
+   "name": "First Trust Long/Short Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FTLS.TO",
    "instruments": [
     {
-     "name": "NexOptic Technology Corp.",
-     "symbol": "NXO"
+     "name": "First Trust Lg Sh Eq",
+     "symbol": "FTLS"
     }
    ]
   },
   {
-   "symbol": "BCLI",
-   "name": "Brainstorm Cell Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BCLI"
-  },
+   "symbol": "GTRI",
+   "name": "IA Clarington Agile Global Total Return Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GTRI.TO",
+   "instruments": [
+    {
+     "name": "IA Clarngtn Agl Glb ",
+     "symbol": "GTRI"
+    }
+   ]
+  }
+ ],
+ "removed": [
   {
-   "symbol": "ICAD",
-   "name": "icad inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ICAD"
-  },
-  {
-   "symbol": "ANSS",
-   "name": "ANSYS, Inc. - Common Stock",
+   "symbol": "BPMC",
+   "name": "Blueprint Medicines Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ANSS"
+   "yahoo_symbol": "BPMC"
+  },
+  {
+   "symbol": "KIND",
+   "name": "Nextdoor Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KIND"
+  },
+  {
+   "symbol": "HES",
+   "name": "Hess Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HES"
   }
  ]
 }
