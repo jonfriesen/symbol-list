@@ -742,7 +742,6 @@ KRI,Kobo Resources Inc.,TSXV,KRI.V,Kobo Resources Inc.,KRI
 KDK,Kodiak Copper Corp.,TSXV,KDK.V,Kodiak Copper Corp.,KDK
 KTRI,Kootenay Resources Inc.,TSXV,KTRI.V,Kootenay Resources Inc.,KTRI
 KTN,Kootenay Silver Inc.,TSXV,KTN.V,Kootenay Silver Inc.,KTN
-KORE,Kore Mining Ltd.,TSXV,KORE.V,Kore Mining Ltd.,KORE
 KRY,Koryx Copper Inc.,TSXV,KRY.V,Koryx Copper Inc.,KRY
 KOVO,Kovo+ Holdings Inc.,TSXV,KOVO.V,Kovo+ Holdings Inc.,KOVO
 KPEN.P,KP3993 Resources Inc.,TSXV,KPEN.P.V,KP3993 Resources Inc.,KPEN.P
@@ -880,6 +879,7 @@ MMN,Monarca Minerals Inc.,TSXV,MMN.V,Monarca Minerals Inc.,MMN
 MONA.P,Monarch West Ventures Inc.,TSXV,MONA.P.V,Monarch West Ventures Inc.,MONA.P
 YAK,Mongolia Growth Group Ltd.,TSXV,YAK.V,Mongolia Growth Group Ltd.,YAK
 MON,Montero Mining and Exploration Ltd.,TSXV,MON.V,Montero Mining and Exploration Ltd.,MON
+MONT,Montfort Capital Corp.,TSXV,MONT.V,Montfort Capital Corp.,MONT,Montfort Capital Corp. Preferred A,MONT.PR.A
 MMY,Monument Mining Limited,TSXV,MMY.V,Monument Mining Limited,MMY
 MNRG,Monumental Energy Corp.,TSXV,MNRG.V,Monumental Energy Corp.,MNRG
 MOO,Moon River Moly Ltd.,TSXV,MOO.V,Moon River Moly Ltd.,MOO
@@ -1464,6 +1464,7 @@ GIG,XAU Resources Inc.,TSXV,GIG.V,XAU Resources Inc.,GIG
 XIM,Ximen Mining Corp.,TSXV,XIM.V,Ximen Mining Corp.,XIM
 XRTX,XORTX Therapeutics Inc.,TSXV,XRTX.V,XORTX Therapeutics Inc.,XRTX
 XPLR,Xplore Resources Corp.,TSXV,XPLR.V,Xplore Resources Corp.,XPLR
+XTAO.U,XTAO Inc.,TSXV,XTAO.U.V,XTAO Inc.,XTAO.U
 XXIX,XXIX Metal Corp.,TSXV,XXIX.V,XXIX Metal Corp.,XXIX
 XL,XXL Energy Corp.,TSXV,XL.V,XXL Energy Corp,XL
 YOO,Yangaroo Inc.,TSXV,YOO.V,Yangaroo Inc.,YOO
@@ -1914,7 +1915,7 @@ CFRT,CI Floating Rate Income Fund,TSX,CFRT.TO,CI Fltg Rate Incm C$,CFRT
 BTCX.B,CI Galaxy Bitcoin ETF,TSX,BTCX.B.TO,CI GalBitcnCA ETF UH,BTCX.B,CI GalBitcnETF UH US,BTCX.U
 CBCX,CI Galaxy Blockchain Index ETF,TSX,CBCX.TO,CI Galaxy Blkchn Un,CBCX
 ETHX.B,CI Galaxy Ethereum ETF,TSX,ETHX.B.TO,CI GalxyEthermCA UHG,ETHX.B,CI GalxyEthermUS UH,ETHX.U
-CMCX.B,CI Galaxy Multi-Crypto Navigator ETF,TSX,CMCX.B.TO,CI Galxy MltCrypC$UH,CMCX.B,CI GalxyMltCrypUH US,CMCX.U
+CMCX.B,CI Galaxy Multi-Crypto Navigator ETF,TSX,CMCX.B.TO,CI Galxy MltCryNa CA,CMCX.B,CI GalxyMltCryNav US,CMCX.U
 SOLX.B,CI Galaxy Solana ETF,TSX,SOLX.B.TO,CI Galaxy Sol ETF CA,SOLX.B,CI Galaxy Sol ETF US,SOLX.U
 CINV,CI Global Alpha Innovation ETF,TSX,CINV.TO,CI Glb AlphaInnov CA,CINV,CI Glb AlphaInnov US,CINV.U
 CIAI,CI Global Artificial Intelligence Fund,TSX,CIAI.TO,CI ArtInt ETF C$SRUN,CIAI
@@ -2531,7 +2532,6 @@ IMO,Imperial Oil Limited,TSX,IMO.TO,Imperial Oil Ltd.,IMO
 INC.UN,Income Financial Trust,TSX,INC.UN.TO,Income Fin Tr Un,INC.UN
 ISC,Information Services Corporation,TSX,ISC.TO,Info Serv Corp. A LV,ISC
 IS,Infrastructure Dividend Split Corp.,TSX,IS.TO,Infr're DivSplit A U,IS,Infr're DivSplit PrS,IS.PR.A
-INE,Innergex Renewable Energy Inc.,TSX,INE.TO,Innergex Renew Engy,INE,Innergex Renew4.65Db,INE.DB.C,Innergex Renew Pr A,INE.PR.A,Innergex Renew Pr C,INE.PR.C
 INO.UN,Inovalis Real Estate Investment Trust,TSX,INO.UN.TO,Inovalis REIT Un,INO.UN
 IPO,InPlay Oil Corp.,TSX,IPO.TO,InPlay Oil Corp.,IPO
 IFC,Intact Financial Corporation,TSX,IFC.TO,Intact Fin Corp.,IFC,Intact Fin A Ser 1,IFC.PR.A,Intact Fin A Ser 3,IFC.PR.C,Intact Fin A Ser 5,IFC.PR.E,Intact Fin A Sr 6 Pr,IFC.PR.F,Intact Fin A Sr 7 Pr,IFC.PR.G,Intact Fin A Ser 9,IFC.PR.I,Intact Fin A Ser 11 ,IFC.PR.K
@@ -2934,6 +2934,7 @@ NEXT,NextSource Materials Inc.,TSX,NEXT.TO,NextSource Materl J,NEXT
 NXR.UN,Nexus Industrial REIT,TSX,NXR.UN.TO,Nexus Industrl REIT,NXR.UN
 NFI,NFI Group Inc.,TSX,NFI.TO,NFI Group Inc.,NFI,NFI Group Inc 5% Deb,NFI.DB
 NGEX,NGEx Minerals Ltd.,TSX,NGEX.TO,NGEx Minerals Ltd.,NGEX
+NCAP,Ninepoint Capital Appreciation Fund,TSX,NCAP.TO,Ninepoint Cptl App F,NCAP
 TKN,Ninepoint Crypto and AI Leaders ETF,TSX,TKN.TO,Np Crypto AI Ldr ETF,TKN,Np Cryp AILdr ETF US,TKN.U
 INFR,Ninepoint Global Infrastructure Fund,TSX,INFR.TO,Ninepoint Glbl Infra,INFR
 GLDE,Ninepoint Gold and Precious Minerals Fund,TSX,GLDE.TO,Ninepoint Gold&Pre M,GLDE
@@ -5422,6 +5423,7 @@ NIE,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest
 NIM,Nuveen Select Maturities Municipal Fund Common Stock,NYSE,NIM
 NINE,"Nine Energy Service, Inc. Common Stock",NYSE,NINE
 NIO,"NIO Inc. American depositary shares, each  representing one Class A ordinary share",NYSE,NIO
+NIQ,NIQ Global Intelligence plc Ordinary Shares,NYSE,NIQ
 NJR,NewJersey Resources Corporation Common Stock,NYSE,NJR
 NKE,"Nike, Inc. Common Stock",NYSE,NKE
 NKX,Nuveen California AMT-Free Quality Municipal Income Fund,NYSE,NKX
@@ -8003,6 +8005,7 @@ ENTO,Entero Therapeutics Inc. - Common Stock,NASDAQ Capital Market,ENTO
 ENTX,Entera Bio Ltd. - Ordinary Shares,NASDAQ Capital Market,ENTX
 ENVB,"Enveric Biosciences, Inc.  - Common Stock",NASDAQ Capital Market,ENVB
 ENVX,Enovix Corporation - Common Stock,NASDAQ Global Select MarketSM,ENVX
+ENVXW,Enovix Corporation - Warrant,NASDAQ Global Select MarketSM,ENVXW
 ENZL,iShares MSCI New Zealand ETF,NASDAQ Global MarketSM,ENZL
 EOLS,"Evolus, Inc. - Common Stock",NASDAQ Global MarketSM,EOLS
 EOSE,"Eos Energy Enterprises, Inc. - Common Stock",NASDAQ Capital Market,EOSE
@@ -10591,7 +10594,7 @@ SHY,iShares 1-3 Year Treasury Bond ETF,NASDAQ Global MarketSM,SHY
 SIBN,"SI-BONE, Inc. - Common Stock",NASDAQ Global MarketSM,SIBN
 SIDU,"Sidus Space, Inc. - Class A Common Stock",NASDAQ Capital Market,SIDU
 SIEB,Siebert Financial Corp. - Common Stock,NASDAQ Capital Market,SIEB
-SIFY,"Sify Technologies Limited - American Depository Shares, each represented by one Equity Share",NASDAQ Capital Market,SIFY
+SIFY,Sify Technologies Limited - American Depository Shares,NASDAQ Capital Market,SIFY
 SIGA,SIGA Technologies Inc. - Common Stock,NASDAQ Global MarketSM,SIGA
 SIGI,"Selective Insurance Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,SIGI
 SIGIP,"Selective Insurance Group, Inc. - Depositary Shares, each representing a 1/1,000th interest in a share of 4.60% Non-Cumulative Preferred Stock, Series B",NASDAQ Global Select MarketSM,SIGIP
@@ -11130,6 +11133,7 @@ UMBFO,"UMB Financial Corporation - Depositary Shares Each Representing a 1/400th
 UMMA,Wahed Dow Jones Islamic World ETF,NASDAQ Global MarketSM,UMMA
 UNB,"Union Bankshares, Inc. - Common Stock",NASDAQ Global MarketSM,UNB
 UNCY,"Unicycive Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,UNCY
+UNHG,Leverage Shares 2X Long UNH Daily ETF,NASDAQ Global MarketSM,UNHG
 UNIT,Uniti Group Inc. - Common Stock,NASDAQ Global Select MarketSM,UNIT
 UNIY,WisdomTree Voya Yield Enhanced USD Universal Bond Fund,NASDAQ Global MarketSM,UNIY
 UNTY,"Unity Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,UNTY
@@ -11300,6 +11304,7 @@ VSME,VS Media Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,V
 VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ Global MarketSM,VSMV
 VSSYW,Versus Systems Inc. - Class A Warrants,NASDAQ Capital Market,VSSYW
 VSTA,Vasta Platform Limited - Class A Ordinary Shares,NASDAQ Global Select MarketSM,VSTA
+VSTL,Defiance Daily Target 2X Long VST ETF,NASDAQ Global MarketSM,VSTL
 VSTM,"Verastem, Inc. - Common Stock",NASDAQ Capital Market,VSTM
 VTC,Vanguard Total Corporate Bond ETF,NASDAQ Global MarketSM,VTC
 VTGN,"Vistagen Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,VTGN

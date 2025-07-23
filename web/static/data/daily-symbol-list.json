@@ -1,5 +1,5 @@
 {
- "date": "2025-07-22",
+ "date": "2025-07-23",
  "data": [
   {
    "symbol": "ONE",
@@ -8982,18 +8982,6 @@
    ]
   },
   {
-   "symbol": "KORE",
-   "name": "Kore Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KORE.V",
-   "instruments": [
-    {
-     "name": "Kore Mining Ltd.",
-     "symbol": "KORE"
-    }
-   ]
-  },
-  {
    "symbol": "KRY",
    "name": "Koryx Copper Inc.",
    "exchange": "TSXV",
@@ -10654,6 +10642,22 @@
     {
      "name": "Montero Mining and Exploration Ltd.",
      "symbol": "MON"
+    }
+   ]
+  },
+  {
+   "symbol": "MONT",
+   "name": "Montfort Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MONT.V",
+   "instruments": [
+    {
+     "name": "Montfort Capital Corp.",
+     "symbol": "MONT"
+    },
+    {
+     "name": "Montfort Capital Corp. Preferred A",
+     "symbol": "MONT.PR.A"
     }
    ]
   },
@@ -17806,6 +17810,18 @@
    ]
   },
   {
+   "symbol": "XTAO.U",
+   "name": "XTAO Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XTAO.U.V",
+   "instruments": [
+    {
+     "name": "XTAO Inc.",
+     "symbol": "XTAO.U"
+    }
+   ]
+  },
+  {
    "symbol": "XXIX",
    "name": "XXIX Metal Corp.",
    "exchange": "TSXV",
@@ -24088,11 +24104,11 @@
    "yahoo_symbol": "CMCX.B.TO",
    "instruments": [
     {
-     "name": "CI Galxy MltCrypC$UH",
+     "name": "CI Galxy MltCryNa CA",
      "symbol": "CMCX.B"
     },
     {
-     "name": "CI GalxyMltCrypUH US",
+     "name": "CI GalxyMltCryNav US",
      "symbol": "CMCX.U"
     }
    ]
@@ -32430,30 +32446,6 @@
    ]
   },
   {
-   "symbol": "INE",
-   "name": "Innergex Renewable Energy Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "INE.TO",
-   "instruments": [
-    {
-     "name": "Innergex Renew Engy",
-     "symbol": "INE"
-    },
-    {
-     "name": "Innergex Renew4.65Db",
-     "symbol": "INE.DB.C"
-    },
-    {
-     "name": "Innergex Renew Pr A",
-     "symbol": "INE.PR.A"
-    },
-    {
-     "name": "Innergex Renew Pr C",
-     "symbol": "INE.PR.C"
-    }
-   ]
-  },
-  {
    "symbol": "INO.UN",
    "name": "Inovalis Real Estate Investment Trust",
    "exchange": "TSX",
@@ -37638,6 +37630,18 @@
     {
      "name": "NGEx Minerals Ltd.",
      "symbol": "NGEX"
+    }
+   ]
+  },
+  {
+   "symbol": "NCAP",
+   "name": "Ninepoint Capital Appreciation Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCAP.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Cptl App F",
+     "symbol": "NCAP"
     }
    ]
   },
@@ -56128,6 +56132,12 @@
    "yahoo_symbol": "NIO"
   },
   {
+   "symbol": "NIQ",
+   "name": "NIQ Global Intelligence plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NIQ"
+  },
+  {
    "symbol": "NJR",
    "name": "NewJersey Resources Corporation Common Stock",
    "exchange": "NYSE",
@@ -71612,6 +71622,12 @@
    "name": "Enovix Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ENVX"
+  },
+  {
+   "symbol": "ENVXW",
+   "name": "Enovix Corporation - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ENVXW"
   },
   {
    "symbol": "ENZL",
@@ -87143,7 +87159,7 @@
   },
   {
    "symbol": "SIFY",
-   "name": "Sify Technologies Limited - American Depository Shares, each represented by one Equity Share",
+   "name": "Sify Technologies Limited - American Depository Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SIFY"
   },
@@ -90376,6 +90392,12 @@
    "yahoo_symbol": "UNCY"
   },
   {
+   "symbol": "UNHG",
+   "name": "Leverage Shares 2X Long UNH Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UNHG"
+  },
+  {
    "symbol": "UNIT",
    "name": "Uniti Group Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -91394,6 +91416,12 @@
    "name": "Vasta Platform Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VSTA"
+  },
+  {
+   "symbol": "VSTL",
+   "name": "Defiance Daily Target 2X Long VST ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSTL"
   },
   {
    "symbol": "VSTM",
