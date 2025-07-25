@@ -1,5 +1,5 @@
 {
- "date": "2025-07-24",
+ "date": "2025-07-25",
  "data": [
   {
    "symbol": "ONE",
@@ -15178,10 +15178,6 @@
     {
      "name": "SPC Nickel Corp.",
      "symbol": "SPC"
-    },
-    {
-     "name": "SPC Nickel Corp rt ex 25july2025",
-     "symbol": "SPC.RT"
     }
    ]
   },
@@ -30574,6 +30570,18 @@
    ]
   },
   {
+   "symbol": "GO.U",
+   "name": "GO Residential Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "GO.U.TO",
+   "instruments": [
+    {
+     "name": "GO Resid REIT USD WI",
+     "symbol": "GO.U"
+    }
+   ]
+  },
+  {
    "symbol": "GSY",
    "name": "goeasy Ltd.",
    "exchange": "TSX",
@@ -44342,6 +44350,12 @@
    "yahoo_symbol": "ACET"
   },
   {
+   "symbol": "ACFN",
+   "name": "Acorn Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACFN"
+  },
+  {
    "symbol": "ACGL",
    "name": "Arch Capital Group Ltd. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -47841,7 +47855,7 @@
   },
   {
    "symbol": "BOTT",
-   "name": "Themes Robotics \u0026 Automation ETF",
+   "name": "Themes Humanoid Robotics ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BOTT"
   },
@@ -52866,12 +52880,6 @@
    "name": "Esquire Financial Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ESQ"
-  },
-  {
-   "symbol": "ESSA",
-   "name": "ESSA Bancorp, Inc. - common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ESSA"
   },
   {
    "symbol": "ESTA",
@@ -58502,6 +58510,12 @@
    "yahoo_symbol": "JPEF"
   },
   {
+   "symbol": "JPX",
+   "name": "Defiance Daily Target 2X Long JPM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JPX"
+  },
+  {
    "symbol": "JPY",
    "name": "Lazard Japanese Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -59538,6 +59552,12 @@
    "name": "Longeveron Inc. - Class A Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LGVN"
+  },
+  {
+   "symbol": "LHAI",
+   "name": "Linkhome Holdings Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LHAI"
   },
   {
    "symbol": "LHSW",
@@ -63390,6 +63410,12 @@
    "name": "OFS Capital Corporation - 4.95% Notes due 2028",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OFSSH"
+  },
+  {
+   "symbol": "OFSSO",
+   "name": "OFS Capital Corporation - 7.50% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OFSSO"
   },
   {
    "symbol": "OGI",
@@ -69114,6 +69140,12 @@
    "name": "Complete Solaria, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SPWRW"
+  },
+  {
+   "symbol": "SPXD",
+   "name": "Xtrackers S\u0026P 500 Diversified Sector Weight ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPXD"
   },
   {
    "symbol": "SPYQ",
@@ -79092,12 +79124,6 @@
    "name": "Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units",
    "exchange": "NYSE",
    "yahoo_symbol": "DLNG$A"
-  },
-  {
-   "symbol": "DLNG$B",
-   "name": "Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Preferred Units, liquidation preference $25.00 per Uni",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DLNG$B"
   },
   {
    "symbol": "DLR",
@@ -90768,12 +90794,6 @@
    "name": "Tecogen Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "TGEN"
-  },
-  {
-   "symbol": "TGI",
-   "name": "Triumph Group, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TGI"
   },
   {
    "symbol": "TGLS",

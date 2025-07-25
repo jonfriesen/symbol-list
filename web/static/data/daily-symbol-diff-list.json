@@ -1,168 +1,66 @@
 {
  "added": [
   {
-   "symbol": "AAUS",
-   "name": "Alpha Architect US Equity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AAUS"
+   "symbol": "GO.U",
+   "name": "GO Residential Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "GO.U.TO",
+   "instruments": [
+    {
+     "name": "GO Resid REIT USD WI",
+     "symbol": "GO.U"
+    }
+   ]
   },
   {
-   "symbol": "CARL",
-   "name": "Carlsmed, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CARL"
-  },
-  {
-   "symbol": "CRE",
-   "name": "Cre8 Enterprise Limited - Class A Ordinary Shares",
+   "symbol": "ACFN",
+   "name": "Acorn Energy, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CRE"
+   "yahoo_symbol": "ACFN"
   },
   {
-   "symbol": "DVIN",
-   "name": "WEBs Defined Volatility XLI ETF",
+   "symbol": "JPX",
+   "name": "Defiance Daily Target 2X Long JPM ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVIN"
+   "yahoo_symbol": "JPX"
   },
   {
-   "symbol": "DVRE",
-   "name": "WEBs Defined Volatility XLRE ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVRE"
-  },
-  {
-   "symbol": "DVUT",
-   "name": "WEBS Defined Volatility XLU ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVUT"
-  },
-  {
-   "symbol": "DVXB",
-   "name": "WEBs Defined Volatility XLB ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVXB"
-  },
-  {
-   "symbol": "DVXC",
-   "name": "WEBs Defined Volatility XLC ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVXC"
-  },
-  {
-   "symbol": "DVXE",
-   "name": "WEBs Defined Volatility XLE ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVXE"
-  },
-  {
-   "symbol": "DVXF",
-   "name": "WEBs Defined Volatility XLF ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVXF"
-  },
-  {
-   "symbol": "DVXK",
-   "name": "WEBs Defined Volatility XLK ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVXK"
-  },
-  {
-   "symbol": "DVXP",
-   "name": "WEBs Defined Volatility XLP ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVXP"
-  },
-  {
-   "symbol": "DVXV",
-   "name": "WEBs Defined Volatility XLV ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVXV"
-  },
-  {
-   "symbol": "DVXY",
-   "name": "WEBs Defined Volatility XLY ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DVXY"
-  },
-  {
-   "symbol": "FRDD",
-   "name": "Direxion Daily F Bear 1X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRDD"
-  },
-  {
-   "symbol": "FRDU",
-   "name": "Direxion Daily F Bull 2X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRDU"
-  },
-  {
-   "symbol": "RLMD",
-   "name": "Relmada Therapeutics, Inc. - Common Stock",
+   "symbol": "LHAI",
+   "name": "Linkhome Holdings Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RLMD"
+   "yahoo_symbol": "LHAI"
   },
   {
-   "symbol": "RMCF",
-   "name": "Rocky Mountain Chocolate Factory, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RMCF"
+   "symbol": "OFSSO",
+   "name": "OFS Capital Corporation - 7.50% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OFSSO"
   },
   {
-   "symbol": "TDIC",
-   "name": "Dreamland Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TDIC"
-  },
-  {
-   "symbol": "ARX",
-   "name": "Accelerant Holdings Class A Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ARX"
-  },
-  {
-   "symbol": "MH",
-   "name": "McGraw Hill, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MH"
-  },
-  {
-   "symbol": "SBDS",
-   "name": "Solo Brands, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SBDS"
+   "symbol": "SPXD",
+   "name": "Xtrackers S\u0026P 500 Diversified Sector Weight ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPXD"
   }
  ],
  "removed": [
   {
-   "symbol": "RMCF",
-   "name": "Rocky Mountain Chocolate Factory, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RMCF"
-  },
-  {
-   "symbol": "DTC",
-   "name": "Solo Brands, Inc. Class A Common Stock",
+   "symbol": "TGI",
+   "name": "Triumph Group, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "DTC"
+   "yahoo_symbol": "TGI"
   },
   {
-   "symbol": "ELEV",
-   "name": "Elevation Oncology, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ELEV"
-  },
-  {
-   "symbol": "SBEV.W",
-   "name": "Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SBEV.W"
-  },
-  {
-   "symbol": "RLMD",
-   "name": "Relmada Therapeutics, Inc. - Common Stock",
+   "symbol": "ESSA",
+   "name": "ESSA Bancorp, Inc. - common stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RLMD"
+   "yahoo_symbol": "ESSA"
+  },
+  {
+   "symbol": "DLNG$B",
+   "name": "Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Preferred Units, liquidation preference $25.00 per Uni",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DLNG$B"
   }
  ]
 }
