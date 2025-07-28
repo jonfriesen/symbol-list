@@ -1,66 +1,90 @@
 {
  "added": [
   {
-   "symbol": "GO.U",
-   "name": "GO Residential Real Estate Investment Trust",
+   "symbol": "JGLO",
+   "name": "JPMorgan Global Select Equity Active ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "GO.U.TO",
+   "yahoo_symbol": "JGLO.TO",
    "instruments": [
     {
-     "name": "GO Resid REIT USD WI",
-     "symbol": "GO.U"
+     "name": "JPMorgan Glb SeEqAct",
+     "symbol": "JGLO"
     }
    ]
   },
   {
-   "symbol": "ACFN",
-   "name": "Acorn Energy, Inc. - Common Stock",
+   "symbol": "AIPO",
+   "name": "Defiance AI \u0026 Power Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIPO"
+  },
+  {
+   "symbol": "BINI",
+   "name": "Bollinger Innovations, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACFN"
+   "yahoo_symbol": "BINI"
   },
   {
-   "symbol": "JPX",
-   "name": "Defiance Daily Target 2X Long JPM ETF",
+   "symbol": "GTERA",
+   "name": "Globa Terra Acquisition Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JPX"
+   "yahoo_symbol": "GTERA"
   },
   {
-   "symbol": "LHAI",
-   "name": "Linkhome Holdings Inc. - Common stock",
+   "symbol": "GTERR",
+   "name": "Globa Terra Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTERR"
+  },
+  {
+   "symbol": "GTERW",
+   "name": "Globa Terra Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTERW"
+  },
+  {
+   "symbol": "IMA",
+   "name": "ImageneBio, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LHAI"
+   "yahoo_symbol": "IMA"
   },
   {
-   "symbol": "OFSSO",
-   "name": "OFS Capital Corporation - 7.50% Notes due 2028",
+   "symbol": "YORK",
+   "name": "Yorkville Acquisition Corp. - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OFSSO"
+   "yahoo_symbol": "YORK"
   },
   {
-   "symbol": "SPXD",
-   "name": "Xtrackers S\u0026P 500 Diversified Sector Weight ETF",
+   "symbol": "YORKW",
+   "name": "Yorkville Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPXD"
+   "yahoo_symbol": "YORKW"
+  },
+  {
+   "symbol": "IAUX.W",
+   "name": "i-80 Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $0.70",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IAUX.W"
   }
  ],
  "removed": [
   {
-   "symbol": "TGI",
-   "name": "Triumph Group, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TGI"
+   "symbol": "MULN",
+   "name": "Mullen Automotive, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MULN"
   },
   {
-   "symbol": "ESSA",
-   "name": "ESSA Bancorp, Inc. - common stock",
+   "symbol": "VERV",
+   "name": "Verve Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ESSA"
+   "yahoo_symbol": "VERV"
   },
   {
-   "symbol": "DLNG$B",
-   "name": "Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Preferred Units, liquidation preference $25.00 per Uni",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DLNG$B"
+   "symbol": "IKNA",
+   "name": "Ikena Oncology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IKNA"
   }
  ]
 }
