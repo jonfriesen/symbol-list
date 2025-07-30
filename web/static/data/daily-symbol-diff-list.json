@@ -1,54 +1,30 @@
 {
  "added": [
   {
-   "symbol": "LORD",
-   "name": "St. James Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LORD.V",
-   "instruments": [
-    {
-     "name": "St. James Gold Corp.",
-     "symbol": "LORD"
-    }
-   ]
+   "symbol": "AMBQ",
+   "name": "Ambiq Micro, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMBQ"
   },
   {
-   "symbol": "TBHC",
-   "name": "The Brand House Collective, Inc - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TBHC"
+   "symbol": "COYY",
+   "name": "GraniteShares YieldBOOST COIN ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COYY"
   }
  ],
  "removed": [
   {
-   "symbol": "PWOD",
-   "name": "Penns Woods Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PWOD"
+   "symbol": "PETWW",
+   "name": "Wag! Group Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PETWW"
   },
   {
-   "symbol": "SGMA",
-   "name": "SigmaTron International, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SGMA"
-  },
-  {
-   "symbol": "KIRK",
-   "name": "Kirkland's, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KIRK"
-  },
-  {
-   "symbol": "RUG",
-   "name": "Rugby Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RUG.V",
-   "instruments": [
-    {
-     "name": "Rugby Resources Ltd.",
-     "symbol": "RUG"
-    }
-   ]
+   "symbol": "PET",
+   "name": "Wag! Group Co. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PET"
   }
  ]
 }
