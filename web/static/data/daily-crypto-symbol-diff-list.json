@@ -1,28 +1,26 @@
 {
  "added": [
   {
-   "symbol": "HUSTLEV1",
-   "name": "Tensorium (HUSTLEV1)"
+   "symbol": "BBITBTC",
+   "name": "BounceBit BTC (BBITBTC)"
   },
   {
-   "symbol": "TREEOFALPHA",
-   "name": "Tree (TREEOFALPHA)"
+   "symbol": "MMV1",
+   "name": "Millimeter v1 (MMV1)"
   },
   {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
+   "symbol": "SAFESV1",
+   "name": "SafeSwap v1 (SAFESV1)"
+  }
+ ],
+ "removed": [
   {
    "symbol": "MAOMEME",
    "name": "Mao (MAOMEME)"
   },
   {
-   "symbol": "MILC",
-   "name": "Micro Licensing Coin (MILC)"
-  },
-  {
-   "symbol": "GSX",
-   "name": "Goldman Sachs xStock (GSX)"
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
   }
  ]
 }
