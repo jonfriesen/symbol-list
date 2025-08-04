@@ -1,66 +1,84 @@
 {
  "added": [
   {
-   "symbol": "BCARU",
-   "name": "D. Boral ARC Acquisition I Corp. - Units",
+   "symbol": "AXIN",
+   "name": "Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCARU"
+   "yahoo_symbol": "AXIN"
   },
   {
-   "symbol": "BLUW",
-   "name": "Blue Water Acquisition Corp. III - Class A Ordinary Shares",
+   "symbol": "AXINR",
+   "name": "Axiom Intelligence Acquisition Corp 1 - Right",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLUW"
+   "yahoo_symbol": "AXINR"
   },
   {
-   "symbol": "BLUWW",
-   "name": "Blue Water Acquisition Corp. III - Warrant.",
+   "symbol": "HCMAU",
+   "name": "HCM III Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLUWW"
+   "yahoo_symbol": "HCMAU"
   },
   {
-   "symbol": "CMRC",
-   "name": "Commerce.com, Inc. - Series 1 Common Stock",
+   "symbol": "METCI",
+   "name": "Ramaco Resources, Inc. - 8.250% Senior Notes due 2030",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMRC"
-  },
-  {
-   "symbol": "DKNX",
-   "name": "Defiance Daily Target 2X Long DKNG ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DKNX"
-  },
-  {
-   "symbol": "AVBC",
-   "name": "Avidia Bancorp, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AVBC"
-  },
-  {
-   "symbol": "CFG$I",
-   "name": "Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.500% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CFG$I"
+   "yahoo_symbol": "METCI"
   }
  ],
  "removed": [
   {
-   "symbol": "FHN$B",
-   "name": "First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series B",
+   "symbol": "PZC",
+   "name": "PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest",
    "exchange": "NYSE",
-   "yahoo_symbol": "FHN$B"
+   "yahoo_symbol": "PZC"
   },
   {
-   "symbol": "BIGC",
-   "name": "BigCommerce Holdings, Inc. - Series 1 Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BIGC"
+   "symbol": "METCL",
+   "name": "Ramaco Resources, Inc. - 9.00% Senior Notes due 2026",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METCL"
   },
   {
-   "symbol": "SAGE",
-   "name": "Sage Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SAGE"
+   "symbol": "PCK",
+   "name": "Pimco California Municipal Income Fund II Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PCK"
+  },
+  {
+   "symbol": "SANW",
+   "name": "S\u0026W Seed Company - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SANW"
+  },
+  {
+   "symbol": "PMF",
+   "name": "PIMCO Municipal Income Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PMF"
+  },
+  {
+   "symbol": "PNF",
+   "name": "PIMCO New York Municipal Income Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNF"
+  },
+  {
+   "symbol": "PMX",
+   "name": "PIMCO Municipal Income Fund III Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PMX"
+  },
+  {
+   "symbol": "PYN",
+   "name": "PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PYN"
+  },
+  {
+   "symbol": "ETWO",
+   "name": "E2open Parent Holdings, Inc.Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETWO"
   }
  ]
 }
