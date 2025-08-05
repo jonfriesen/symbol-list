@@ -1,84 +1,126 @@
 {
  "added": [
   {
-   "symbol": "AXIN",
-   "name": "Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AXIN"
+   "symbol": "BEM",
+   "name": "Brasnova Energy Materials Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BEM.V",
+   "instruments": [
+    {
+     "name": "Brasnova Energy Materials Inc.",
+     "symbol": "BEM"
+    }
+   ]
   },
   {
-   "symbol": "AXINR",
-   "name": "Axiom Intelligence Acquisition Corp 1 - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AXINR"
+   "symbol": "W",
+   "name": "Spartan Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "W.V",
+   "instruments": [
+    {
+     "name": "Spartan Metals Corp.",
+     "symbol": "W"
+    }
+   ]
   },
   {
-   "symbol": "HCMAU",
-   "name": "HCM III Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCMAU"
+   "symbol": "STW",
+   "name": "Stockworks Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STW.V",
+   "instruments": [
+    {
+     "name": "Stockworks Gold Inc.",
+     "symbol": "STW"
+    }
+   ]
   },
   {
-   "symbol": "METCI",
-   "name": "Ramaco Resources, Inc. - 8.250% Senior Notes due 2030",
+   "symbol": "BACC",
+   "name": "Blue Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "METCI"
+   "yahoo_symbol": "BACC"
+  },
+  {
+   "symbol": "BACCR",
+   "name": "Blue Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACCR"
+  },
+  {
+   "symbol": "RUBI",
+   "name": "Rubico Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RUBI"
   }
  ],
  "removed": [
   {
-   "symbol": "PZC",
-   "name": "PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PZC"
+   "symbol": "SDCU",
+   "name": "Sonoran Desert Copper Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SDCU.V",
+   "instruments": [
+    {
+     "name": "Sonoran Desert Copper Corporation",
+     "symbol": "SDCU"
+    }
+   ]
   },
   {
-   "symbol": "METCL",
-   "name": "Ramaco Resources, Inc. - 9.00% Senior Notes due 2026",
+   "symbol": "ROVR",
+   "name": "Rover Critical Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ROVR.V",
+   "instruments": [
+    {
+     "name": "Rover Critical Minerals Corp.",
+     "symbol": "ROVR"
+    }
+   ]
+  },
+  {
+   "symbol": "GMTN",
+   "name": "Gold Mountain Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GMTN.TO",
+   "instruments": [
+    {
+     "name": "Gold Mountain Mng J",
+     "symbol": "GMTN"
+    }
+   ]
+  },
+  {
+   "symbol": "XAM",
+   "name": "Xanadu Mines Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "XAM.TO",
+   "instruments": [
+    {
+     "name": "Xanadu Mines J Ord",
+     "symbol": "XAM"
+    }
+   ]
+  },
+  {
+   "symbol": "BRMI",
+   "name": "Boat Rocker Media Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BRMI.TO",
+   "instruments": [
+    {
+     "name": "Boat RockrMedia J SV",
+     "symbol": "BRMI"
+    }
+   ]
+  },
+  {
+   "symbol": "NVEE",
+   "name": "NV5 Global, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "METCL"
-  },
-  {
-   "symbol": "PCK",
-   "name": "Pimco California Municipal Income Fund II Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PCK"
-  },
-  {
-   "symbol": "SANW",
-   "name": "S\u0026W Seed Company - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SANW"
-  },
-  {
-   "symbol": "PMF",
-   "name": "PIMCO Municipal Income Fund Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PMF"
-  },
-  {
-   "symbol": "PNF",
-   "name": "PIMCO New York Municipal Income Fund Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PNF"
-  },
-  {
-   "symbol": "PMX",
-   "name": "PIMCO Municipal Income Fund III Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PMX"
-  },
-  {
-   "symbol": "PYN",
-   "name": "PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PYN"
-  },
-  {
-   "symbol": "ETWO",
-   "name": "E2open Parent Holdings, Inc.Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ETWO"
+   "yahoo_symbol": "NVEE"
   }
  ]
 }
