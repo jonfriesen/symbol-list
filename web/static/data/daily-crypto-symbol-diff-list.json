@@ -1,18 +1,52 @@
 {
  "added": [
   {
-   "symbol": "BANKETH",
-   "name": "BankEth (BANKETH)"
+   "symbol": "JOHN",
+   "name": "John Tsubasa Rivals (JOHN)",
+   "built_on": "KAIA"
   },
   {
-   "symbol": "MACRO",
-   "name": "Macro Millions (MACRO)",
+   "symbol": "FELIS",
+   "name": "Felis (FELIS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RUG",
+   "name": "Rug (RUG)",
+   "built_on": "HYPE"
+  },
+  {
+   "symbol": "DEPIN",
+   "name": "DEPIN (DEPIN)",
+   "built_on": "HYPE"
+  },
+  {
+   "symbol": "IFR",
+   "name": "Inferium (IFR)",
    "built_on": "BASE"
   },
   {
-   "symbol": "PROVE",
-   "name": "Succinct (PROVE)",
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
    "built_on": "ETH"
+  },
+  {
+   "symbol": "CONSCIOUS",
+   "name": "Conscious Token (CONSCIOUS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "ASP",
+   "name": "Aspecta (ASP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ASPIRE",
+   "name": "Aspire (ASPIRE)"
   },
   {
    "symbol": "D",
@@ -20,48 +54,35 @@
    "built_on": "ETH"
   },
   {
-   "symbol": "MAOMEME",
-   "name": "Mao (MAOMEME)",
-   "built_on": "ETH"
+   "symbol": "BUDDY",
+   "name": "BUDDY (BUDDY)",
+   "built_on": "HYPE"
   },
   {
-   "symbol": "GETH",
-   "name": "Guarded Ether (GETH)"
-  },
-  {
-   "symbol": "FROGGIE",
-   "name": "Froggie (FROGGIE)",
+   "symbol": "FIR",
+   "name": "Fireverse (FIR)",
    "built_on": "BNB"
   },
   {
-   "symbol": "NOBIKO",
-   "name": "Longcat (NOBIKO)",
+   "symbol": "G",
+   "name": "Gravity (G)",
    "built_on": "ETH"
-  },
-  {
-   "symbol": "METAVERSEM",
-   "name": "MetaVerse-M (METAVERSEM)",
-   "built_on": "BNB"
-  },
-  {
-   "symbol": "M",
-   "name": "MemeCore (M)"
-  },
-  {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  },
-  {
-   "symbol": "CBBTC",
-   "name": "Coinbase Wrapped BTC (CBBTC)",
-   "built_on": "BASE"
   }
  ],
  "removed": [
   {
-   "symbol": "M",
-   "name": "MetaVerse-M (M)",
-   "built_on": "BNB"
+   "symbol": "RUG",
+   "name": "Rug (RUG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUDDY",
+   "name": "BUDDY (BUDDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ASP",
+   "name": "Aspire (ASP)"
   }
  ]
 }
