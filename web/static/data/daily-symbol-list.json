@@ -1,5 +1,5 @@
 {
- "date": "2025-08-08",
+ "date": "2025-08-11",
  "data": [
   {
    "symbol": "ONE",
@@ -1826,18 +1826,6 @@
    ]
   },
   {
-   "symbol": "BAT",
-   "name": "Batero Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BAT.V",
-   "instruments": [
-    {
-     "name": "Batero Gold Corp",
-     "symbol": "BAT"
-    }
-   ]
-  },
-  {
    "symbol": "BMV",
    "name": "Bathurst Metals Corp.",
    "exchange": "TSXV",
@@ -2162,6 +2150,18 @@
     {
      "name": "Blende Silver Corp.",
      "symbol": "BAG"
+    }
+   ]
+  },
+  {
+   "symbol": "BITK",
+   "name": "Blockchaink2 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BITK.V",
+   "instruments": [
+    {
+     "name": "Blockchaink2 Corp.",
+     "symbol": "BITK"
     }
    ]
   },
@@ -4490,18 +4490,6 @@
     {
      "name": "Diagnos Inc.",
      "symbol": "ADK"
-    }
-   ]
-  },
-  {
-   "symbol": "DMI",
-   "name": "Diamcor Mining Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DMI.V",
-   "instruments": [
-    {
-     "name": "Diamcor Mining Inc",
-     "symbol": "DMI"
     }
    ]
   },
@@ -46474,6 +46462,12 @@
    "yahoo_symbol": "AVAV"
   },
   {
+   "symbol": "AVBH",
+   "name": "Avidbank Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AVBH"
+  },
+  {
    "symbol": "AVBP",
    "name": "ArriVent BioPharma, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -47342,6 +47336,12 @@
    "name": "BioVie Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BIVI"
+  },
+  {
+   "symbol": "BIVIW",
+   "name": "BioVie Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BIVIW"
   },
   {
    "symbol": "BIYA",
@@ -51112,18 +51112,6 @@
    "yahoo_symbol": "DASH"
   },
   {
-   "symbol": "DATS",
-   "name": "DatChat, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DATS"
-  },
-  {
-   "symbol": "DATSW",
-   "name": "DatChat, Inc. - Series A Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DATSW"
-  },
-  {
    "symbol": "DAVE",
    "name": "Dave Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -51434,6 +51422,12 @@
    "name": "Trump Media \u0026 Technology Group Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DJTWW"
+  },
+  {
+   "symbol": "DKI",
+   "name": "DarkIris Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DKI"
   },
   {
    "symbol": "DKNG",
@@ -52268,6 +52262,12 @@
    "name": "Eagle Financial Services Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EFSI"
+  },
+  {
+   "symbol": "EFTY",
+   "name": "Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EFTY"
   },
   {
    "symbol": "EGAN",
@@ -53698,18 +53698,6 @@
    "yahoo_symbol": "FGEN"
   },
   {
-   "symbol": "FGF",
-   "name": "Fundamental Global Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FGF"
-  },
-  {
-   "symbol": "FGFPP",
-   "name": "Fundamental Global Inc. - 8.00% Cumulative Series A Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FGFPP"
-  },
-  {
    "symbol": "FGI",
    "name": "FGI Industries Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -53750,6 +53738,18 @@
    "name": "FG Merger II Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FGMCU"
+  },
+  {
+   "symbol": "FGNX",
+   "name": "Fundamental Global Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGNX"
+  },
+  {
+   "symbol": "FGNXP",
+   "name": "Fundamental Global Inc. - 8.00% Cumulative Series A Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGNXP"
   },
   {
    "symbol": "FGSI",
@@ -56666,6 +56666,12 @@
    "name": "Heartcore Enterprises, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HTCR"
+  },
+  {
+   "symbol": "HTFL",
+   "name": "Heartflow, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTFL"
   },
   {
    "symbol": "HTHT",
@@ -61816,6 +61822,18 @@
    "yahoo_symbol": "MYRG"
   },
   {
+   "symbol": "MYSE",
+   "name": "Myseum, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYSE"
+  },
+  {
+   "symbol": "MYSEW",
+   "name": "Myseum, Inc. - Series A Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYSEW"
+  },
+  {
    "symbol": "MYSZ",
    "name": "My Size, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -64796,6 +64814,12 @@
    "name": "Plumas Bancorp - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PLBC"
+  },
+  {
+   "symbol": "PLBL",
+   "name": "Polibeli Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLBL"
   },
   {
    "symbol": "PLBY",
@@ -69256,6 +69280,12 @@
    "yahoo_symbol": "SSBI"
   },
   {
+   "symbol": "SSEAU",
+   "name": "Starry Sea Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SSEAU"
+  },
+  {
    "symbol": "SSII",
    "name": "SS Innovations International Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -72164,6 +72194,12 @@
    "name": "VivoSim Labs, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VIVS"
+  },
+  {
+   "symbol": "VIXI",
+   "name": "Defiance Enhanced Long Vol ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VIXI"
   },
   {
    "symbol": "VKTX",
@@ -90242,12 +90278,6 @@
    "name": "Shutterstock, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SSTK"
-  },
-  {
-   "symbol": "SSY",
-   "name": "SunLink Health Systems, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SSY"
   },
   {
    "symbol": "ST",
