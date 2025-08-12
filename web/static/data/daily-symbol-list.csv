@@ -1582,8 +1582,10 @@ BNG,Bengal Energy Ltd.,TSX,BNG.TO,Bengal Energy Ltd. J,BNG
 BRK,Berkshire Hathaway CDR (CAD Hedged),TSX,BRK.TO,Berk Hath CDR CAD HD,BRK
 SQQQ,BetaPro -3x Nasdaq-100 Daily Leveraged Bear Alternative ETF,TSX,SQQQ.TO,Bp-3xNq100 dlba ETF ,SQQQ
 SSPX,BetaPro -3x S&P 500 Daily Leveraged Bear Alternative ETF,TSX,SSPX.TO,Bp-3xSP500 dlba ETF ,SSPX
+SCND,BetaPro -3x S&P/TSX 60 Daily Leveraged Bear Alternative ETF,TSX,SCND.TO,BetaPro-3xSPTSX60 Be,SCND
 TQQQ,BetaPro 3x Nasdaq-100 Daily Leveraged Bull Alternative ETF,TSX,TQQQ.TO,Bp3x Nq100 dlba ETF ,TQQQ
 TSPX,BetaPro 3x S&P 500 Daily Leveraged Bull Alternative ETF,TSX,TSPX.TO,Bp3x SP500 dlba ETF ,TSPX
+TCND,BetaPro 3x S&P/TSX 60 Daily Leveraged Bull Alternative ETF,TSX,TCND.TO,BetaPro 3xSPTSX60 Bu,TCND
 GDXD,BetaPro Canadian Gold Miners -2x Daily Bear ETF,TSX,GDXD.TO,BetaProCdnGldMn-2xBr,GDXD
 GDXU,BetaPro Canadian Gold Miners 2x Daily Bull ETF,TSX,GDXU.TO,BetaProCdnGldMnr2xBl,GDXU
 HOD,BetaPro Crude Oil Inverse Leveraged Daily Bear ETF,TSX,HOD.TO,BetaPro CrdOilInvrBr,HOD
@@ -1914,6 +1916,7 @@ CINV,CI Global Alpha Innovation ETF,TSX,CINV.TO,CI Glb AlphaInnov CA,CINV,CI Glb
 CIAI,CI Global Artificial Intelligence Fund,TSX,CIAI.TO,CI ArtInt ETF C$SRUN,CIAI
 CGAA,CI Global Asset Allocation Private Pool,TSX,CGAA.TO,CI GlbAsstAlloc C$Sr,CGAA
 CLML,CI Global Climate Leaders Fund,TSX,CLML.TO,CI GlbClimate Ldr C$,CLML,CI GlbClimateLdrHgUS,CLML.U
+CGDI,CI Global Dividend Private Pool,TSX,CGDI.TO,CI Glbl Div PP ETF,CGDI
 FSF,CI Global Financial Sector ETF,TSX,FSF.TO,CI Glbl Fin Sectr Un,FSF
 CGRB,CI Global Green Bond Fund,TSX,CGRB.TO,CI Glbl GreenBond C$,CGRB,CI GlbGreenBnd HgUS$,CGRB.U
 CINF,CI Global Infrastructure Private Pool,TSX,CINF.TO,CI GlbInfrasPrivPl$C,CINF
@@ -1956,7 +1959,9 @@ CVLU,CI U.S. Enhanced Value Index Fund,TSX,CVLU.TO,CI US Enhanc Val Heg,CVLU,CI 
 UMI,CI U.S. MidCap Dividend Index ETF,TSX,UMI.TO,CI US MdDv Idx ETFHg,UMI,CIUS MdDv Idx ETFNHg,UMI.B
 CUDV,CI U.S. Minimum Downside Volatility Index ETF,TSX,CUDV.TO,CI US MinDwnsVoltyHG,CUDV,CI US MinDwnsVoltyUH,CUDV.B
 UMNY.U,CI U.S. Money Market ETF,TSX,UMNY.U.TO,CI US Money Mkt US,UMNY.U
+CUIG,CI U.S. Monthly Income Private Pool,TSX,CUIG.TO,CI US Mipp C$ SrETF ,CUIG,CIUS Mipp US$ HSrETF,CUIG.U
 DGR,CI U.S. Quality Dividend Growth Index ETF,TSX,DGR.TO,CI USDiv GrIdx ETFH ,DGR,CI USDivGrIdx ETFNHG,DGR.B,CI USQlyDiv GrIdxETF,DGR.U
+CSMD,CI U.S. Small/Mid Cap Equity Private Pool,TSX,CSMD.TO,CI US SmM CapEqPriPo,CSMD
 CUTL,CI Utilities Giants Covered Call ETF,TSX,CUTL.TO,CI Util GianCall Heg,CUTL,CI Util GianCal Unhg,CUTL.B
 CACB,CIBC Active Investment Grade Corporate Bond ETF,TSX,CACB.TO,CIBC ActvInvCorpBond,CACB
 CAFR,CIBC Active Investment Grade Floating Rate Bond ETF,TSX,CAFR.TO,CIBC ActvInvFltgBond,CAFR
@@ -3892,6 +3897,7 @@ BBIO,"BridgeBio Pharma, Inc. - Common Stock",NASDAQ Global Select MarketSM,BBIO
 BBLG,Bone Biologics Corp - Common Stock,NASDAQ Capital Market,BBLG
 BBLGW,Bone Biologics Corp - warrants,NASDAQ Capital Market,BBLGW
 BBNX,"Beta Bionics, Inc. - Common Stock",NASDAQ Global MarketSM,BBNX
+BBOT,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,BBOT
 BBSI,"Barrett Business Services, Inc. - Common Stock",NASDAQ Global Select MarketSM,BBSI
 BCAB,"BioAtla, Inc. - Common Stock",NASDAQ Global MarketSM,BCAB
 BCAL,California BanCorp - Common Stock,NASDAQ Capital Market,BCAL
@@ -4141,6 +4147,7 @@ BUFI,AB International Buffer ETF,NASDAQ Global MarketSM,BUFI
 BUFM,AB Moderate Buffer ETF,NASDAQ Global MarketSM,BUFM
 BUG,Global X Cybersecurity ETF,NASDAQ Global MarketSM,BUG
 BULD,Pacer BlueStar Engineering the Future ETF,NASDAQ Global MarketSM,BULD
+BULG,Leverage Shares 2X Long BULL Daily ETF,NASDAQ Global MarketSM,BULG
 BULL,Webull Corporation - Class A Ordinary Shares,NASDAQ Capital Market,BULL
 BULLW,Webull Corporation - Warrants,NASDAQ Capital Market,BULLW
 BUSE,First Busey Corporation - Common Stock,NASDAQ Global Select MarketSM,BUSE
@@ -4254,9 +4261,9 @@ CDNA,"CareDx, Inc. - Common Stock",NASDAQ Global MarketSM,CDNA
 CDNS,"Cadence Design Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,CDNS
 CDRO,"Codere Online Luxembourg, S.A. - Ordinary Shares",NASDAQ Capital Market,CDRO
 CDROW,"Codere Online Luxembourg, S.A. - Warrants",NASDAQ Capital Market,CDROW
-CDT,Conduit Pharmaceuticals Inc.  - Common Stock,NASDAQ Capital Market,CDT
+CDT,CDT Equity Inc. - Common Stock,NASDAQ Capital Market,CDT
 CDTG,CDT Environmental Technology Investment Holdings Limited - ordinary shares,NASDAQ Capital Market,CDTG
-CDTTW,Conduit Pharmaceuticals Inc.  - Warrant,NASDAQ Capital Market,CDTTW
+CDTTW,CDT Equity Inc. - Warrant,NASDAQ Capital Market,CDTTW
 CDTX,"Cidara Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CDTX
 CDW,CDW Corporation - Common Stock,NASDAQ Global Select MarketSM,CDW
 CDXS,"Codexis, Inc. - Common Stock",NASDAQ Global Select MarketSM,CDXS
@@ -4476,6 +4483,7 @@ CRAQR,Cal Redwood Acquisition Corp. - Right,NASDAQ Global MarketSM,CRAQR
 CRAQU,Cal Redwood Acquisition Corp. - Units,NASDAQ Global MarketSM,CRAQU
 CRBP,"Corbus Pharmaceuticals Holdings, Inc. - Common Stock",NASDAQ Capital Market,CRBP
 CRBU,"Caribou Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRBU
+CRCG,Leverage Shares 2X Long CRCL Daily ETF,NASDAQ Global MarketSM,CRCG
 CRCT,"Cricut, Inc. - Class A common stock",NASDAQ Global Select MarketSM,CRCT
 CRDF,"Cardiff Oncology, Inc. - Common Stock",NASDAQ Capital Market,CRDF
 CRDL,Cardiol Therapeutics Inc. - Class A Common Shares,NASDAQ Capital Market,CRDL
@@ -4509,6 +4517,7 @@ CRVL,CorVel Corp. - Common Stock,NASDAQ Global Select MarketSM,CRVL
 CRVO,CervoMed Inc. - Common Stock,NASDAQ Capital Market,CRVO
 CRVS,"Corvus Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,CRVS
 CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CRWD
+CRWG,Leverage Shares 2X Long CRWV Daily ETF,NASDAQ Global MarketSM,CRWG
 CRWL,GraniteShares 2x Long CRWD Daily ETF,NASDAQ Global MarketSM,CRWL
 CRWS,"Crown Crafts, Inc. - Common Stock",NASDAQ Capital Market,CRWS
 CRWV,"CoreWeave, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CRWV
@@ -5464,7 +5473,6 @@ HLMN,Hillman Solutions Corp. - Common Stock,NASDAQ Global MarketSM,HLMN
 HLNE,Hamilton Lane Incorporated - Class A Common Stock,NASDAQ Global Select MarketSM,HLNE
 HLP,Hongli Group Inc. - Ordinary Shares,NASDAQ Capital Market,HLP
 HLVX,"HilleVax, Inc. - Common Stock",NASDAQ Global Select MarketSM,HLVX
-HLXB,Helix Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,HLXB
 HMR,Heidmar Maritime Holdings Corp. - Common Stock,NASDAQ Capital Market,HMR
 HMST,"HomeStreet, Inc. - Common Stock",NASDAQ Global Select MarketSM,HMST
 HNDL,Strategy Shares Nasdaq 7HANDL Index ETF,NASDAQ Global MarketSM,HNDL
@@ -6337,7 +6345,7 @@ MSPRZ,"MSP Recovery, Inc. - Warrant",NASDAQ Capital Market,MSPRZ
 MSS,Maison Solutions Inc. - Class A Common Stock,NASDAQ Capital Market,MSS
 MST,Defiance Leveraged Long Income MSTR ETF,NASDAQ Global MarketSM,MST
 MSTP,GraniteShares 2x Long MSTR Daily ETF,NASDAQ Global MarketSM,MSTP
-MSTR,MicroStrategy Incorporated - Class A Common Stock,NASDAQ Global Select MarketSM,MSTR
+MSTR,Strategy Inc - Class A Common Stock,NASDAQ Global Select MarketSM,MSTR
 MSTX,Defiance Daily Target 2x Long MSTR ETF,NASDAQ Global MarketSM,MSTX
 MSW,Ming Shing Group Holdings Limited - Ordinary Shares,NASDAQ Capital Market,MSW
 MTC,"MMTec, Inc. - Common Shares",NASDAQ Capital Market,MTC
@@ -7656,10 +7664,10 @@ STNC,Hennessy Sustainable ETF,NASDAQ Global MarketSM,STNC
 STNE,StoneCo Ltd. - Class A Common Share,NASDAQ Global Select MarketSM,STNE
 STOK,"Stoke Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,STOK
 STRA,"Strategic Education, Inc. - Common Stock",NASDAQ Global Select MarketSM,STRA
-STRC,MicroStrategy Incorporated - Variable Rate Series A Perpetual Stretch Preferred Stock,NASDAQ Global Select MarketSM,STRC
-STRD,MicroStrategy Incorporated - 10.00% Series A Perpetual Stride Preferred Stock,NASDAQ Global Select MarketSM,STRD
-STRF,MicroStrategy Incorporated - 10.00% Series A Perpetual Strife Preferred Stock,NASDAQ Global Select MarketSM,STRF
-STRK,MicroStrategy Incorporated - 8.00% Series A Perpetual Strike Preferred Stock,NASDAQ Global Select MarketSM,STRK
+STRC,Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock,NASDAQ Global Select MarketSM,STRC
+STRD,Strategy Inc - 10.00% Series A Perpetual Stride Preferred Stock,NASDAQ Global Select MarketSM,STRD
+STRF,Strategy Inc - 10.00% Series A Perpetual Strife Preferred Stock,NASDAQ Global Select MarketSM,STRF
+STRK,Strategy Inc - 8.00% Series A Perpetual Strike Preferred Stock,NASDAQ Global Select MarketSM,STRK
 STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ Global Select MarketSM,STRL
 STRM,"Streamline Health Solutions, Inc. - Common Stock",NASDAQ Capital Market,STRM
 STRO,"Sutro Biopharma, Inc. - Common Stock",NASDAQ Global MarketSM,STRO
@@ -7894,7 +7902,6 @@ TRVG,trivago N.V. - American Depositary Shares,NASDAQ Global Select MarketSM,TRV
 TRVI,"Trevi Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TRVI
 TSAT,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares,NASDAQ Global Select MarketSM,TSAT
 TSBK,"Timberland Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,TSBK
-TSBX,Turnstone Biologics Corp. - Common Stock,NASDAQ Capital Market,TSBX
 TSCO,Tractor Supply Company - Common Stock,NASDAQ Global Select MarketSM,TSCO
 TSDD,GraniteShares 2x Short TSLA Daily ETF,NASDAQ Global MarketSM,TSDD
 TSEL,Touchstone Sands Capital US Select Growth ETF,NASDAQ Global MarketSM,TSEL
@@ -8463,6 +8470,7 @@ ACRE,Ares Commercial Real Estate Corporation Common Stock,NYSE,ACRE
 ACU,Acme United Corporation. Common Stock,NYSE MKT,ACU
 ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,NYSE,ACV
 ACVA,ACV Auctions Inc. Class A Common Stock,NYSE,ACVA
+AD,"Array Digital Infrastructure, Inc. Common Shares",NYSE,AD
 ADC,Agree Realty Corporation Common Stock,NYSE,ADC
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",NYSE,ADC$A
 ADCT,ADC Therapeutics SA Common Shares,NYSE,ADCT
@@ -11127,6 +11135,7 @@ SSD,"Simpson Manufacturing Company, Inc. Common Stock",NYSE,SSD
 SSL,Sasol Ltd. American Depositary Shares,NYSE,SSL
 SST,"System1, Inc. Class A Common Stock",NYSE,SST
 SSTK,"Shutterstock, Inc. Common Stock",NYSE,SSTK
+SSY,"SunLink Health Systems, Inc. Common Stock",NYSE MKT,SSY
 ST,Sensata Technologies Holding plc Ordinary Shares,NYSE,ST
 STAG,"Stag Industrial, Inc. Common Stock",NYSE,STAG
 STC,Stewart Information Services Corporation Common Stock,NYSE,STC
@@ -11370,7 +11379,6 @@ USB$Q,"U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in
 USB$R,"U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series M Non-Cumulative Perpetual Preferred Stock",NYSE,USB$R
 USB$S,"U.S. Bancorp Depositary Shares, each representing a 1/1,000th interest in a share of Series O Non-Cumulative Perpetual Preferred Stock",NYSE,USB$S
 USFD,US Foods Holding Corp. Common Stock,NYSE,USFD
-USM,United States Cellular Corporation Common Stock,NYSE,USM
 USNA,"USANA Health Sciences, Inc. Common Stock",NYSE,USNA
 USPH,"U.S. Physical Therapy, Inc. Common Stock",NYSE,USPH
 UTF,"Cohen & Steers Infrastructure Fund, Inc Common Stock",NYSE,UTF
@@ -11384,9 +11392,9 @@ UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,NYSE,UVE
 UVV,Universal Corporation Common Stock,NYSE,UVV
 UWMC,UWM Holdings Corporation Class A Common Stock,NYSE,UWMC
 UWMC.W,UWM Holdings Corporation Warrant,NYSE,UWMC.W
-UZD,United States Cellular Corporation 6.250% Senior Notes due 2069,NYSE,UZD
-UZE,United States Cellular Corporation 5.500% Senior Notes due 2070,NYSE,UZE
-UZF,United States Cellular Corporation 5.500% Senior Notes due 2070,NYSE,UZF
+UZD,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069",NYSE,UZD
+UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",NYSE,UZE
+UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",NYSE,UZF
 V,Visa Inc.,NYSE,V
 VAC,Marriott Vacations Worldwide Corporation Common Stock,NYSE,VAC
 VAL,Valaris Limited Common Shares,NYSE,VAL

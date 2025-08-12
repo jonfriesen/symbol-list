@@ -1,5 +1,5 @@
 {
- "date": "2025-08-11",
+ "date": "2025-08-12",
  "data": [
   {
    "symbol": "ONE",
@@ -19450,6 +19450,18 @@
    ]
   },
   {
+   "symbol": "SCND",
+   "name": "BetaPro -3x S\u0026P/TSX 60 Daily Leveraged Bear Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCND.TO",
+   "instruments": [
+    {
+     "name": "BetaPro-3xSPTSX60 Be",
+     "symbol": "SCND"
+    }
+   ]
+  },
+  {
    "symbol": "TQQQ",
    "name": "BetaPro 3x Nasdaq-100 Daily Leveraged Bull Alternative ETF",
    "exchange": "TSX",
@@ -19470,6 +19482,18 @@
     {
      "name": "Bp3x SP500 dlba ETF ",
      "symbol": "TSPX"
+    }
+   ]
+  },
+  {
+   "symbol": "TCND",
+   "name": "BetaPro 3x S\u0026P/TSX 60 Daily Leveraged Bull Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCND.TO",
+   "instruments": [
+    {
+     "name": "BetaPro 3xSPTSX60 Bu",
+     "symbol": "TCND"
     }
    ]
   },
@@ -24086,6 +24110,18 @@
    ]
   },
   {
+   "symbol": "CGDI",
+   "name": "CI Global Dividend Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGDI.TO",
+   "instruments": [
+    {
+     "name": "CI Glbl Div PP ETF",
+     "symbol": "CGDI"
+    }
+   ]
+  },
+  {
    "symbol": "FSF",
    "name": "CI Global Financial Sector ETF",
    "exchange": "TSX",
@@ -24690,6 +24726,22 @@
    ]
   },
   {
+   "symbol": "CUIG",
+   "name": "CI U.S. Monthly Income Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUIG.TO",
+   "instruments": [
+    {
+     "name": "CI US Mipp C$ SrETF ",
+     "symbol": "CUIG"
+    },
+    {
+     "name": "CIUS Mipp US$ HSrETF",
+     "symbol": "CUIG.U"
+    }
+   ]
+  },
+  {
    "symbol": "DGR",
    "name": "CI U.S. Quality Dividend Growth Index ETF",
    "exchange": "TSX",
@@ -24706,6 +24758,18 @@
     {
      "name": "CI USQlyDiv GrIdxETF",
      "symbol": "DGR.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CSMD",
+   "name": "CI U.S. Small/Mid Cap Equity Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSMD.TO",
+   "instruments": [
+    {
+     "name": "CI US SmM CapEqPriPo",
+     "symbol": "CSMD"
     }
    ]
   },
@@ -46870,6 +46934,12 @@
    "yahoo_symbol": "BBNX"
   },
   {
+   "symbol": "BBOT",
+   "name": "BridgeBio Oncology Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBOT"
+  },
+  {
    "symbol": "BBSI",
    "name": "Barrett Business Services, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48364,6 +48434,12 @@
    "yahoo_symbol": "BULD"
   },
   {
+   "symbol": "BULG",
+   "name": "Leverage Shares 2X Long BULL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BULG"
+  },
+  {
    "symbol": "BULL",
    "name": "Webull Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -49043,7 +49119,7 @@
   },
   {
    "symbol": "CDT",
-   "name": "Conduit Pharmaceuticals Inc.  - Common Stock",
+   "name": "CDT Equity Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CDT"
   },
@@ -49055,7 +49131,7 @@
   },
   {
    "symbol": "CDTTW",
-   "name": "Conduit Pharmaceuticals Inc.  - Warrant",
+   "name": "CDT Equity Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CDTTW"
   },
@@ -50374,6 +50450,12 @@
    "yahoo_symbol": "CRBU"
   },
   {
+   "symbol": "CRCG",
+   "name": "Leverage Shares 2X Long CRCL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRCG"
+  },
+  {
    "symbol": "CRCT",
    "name": "Cricut, Inc. - Class A common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -50570,6 +50652,12 @@
    "name": "CrowdStrike Holdings, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CRWD"
+  },
+  {
+   "symbol": "CRWG",
+   "name": "Leverage Shares 2X Long CRWV Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRWG"
   },
   {
    "symbol": "CRWL",
@@ -56302,12 +56390,6 @@
    "yahoo_symbol": "HLVX"
   },
   {
-   "symbol": "HLXB",
-   "name": "Helix Acquisition Corp. II - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HLXB"
-  },
-  {
    "symbol": "HMR",
    "name": "Heidmar Maritime Holdings Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -61541,7 +61623,7 @@
   },
   {
    "symbol": "MSTR",
-   "name": "MicroStrategy Incorporated - Class A Common Stock",
+   "name": "Strategy Inc - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MSTR"
   },
@@ -69455,25 +69537,25 @@
   },
   {
    "symbol": "STRC",
-   "name": "MicroStrategy Incorporated - Variable Rate Series A Perpetual Stretch Preferred Stock",
+   "name": "Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "STRC"
   },
   {
    "symbol": "STRD",
-   "name": "MicroStrategy Incorporated - 10.00% Series A Perpetual Stride Preferred Stock",
+   "name": "Strategy Inc - 10.00% Series A Perpetual Stride Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "STRD"
   },
   {
    "symbol": "STRF",
-   "name": "MicroStrategy Incorporated - 10.00% Series A Perpetual Strife Preferred Stock",
+   "name": "Strategy Inc - 10.00% Series A Perpetual Strife Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "STRF"
   },
   {
    "symbol": "STRK",
-   "name": "MicroStrategy Incorporated - 8.00% Series A Perpetual Strike Preferred Stock",
+   "name": "Strategy Inc - 8.00% Series A Perpetual Strike Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "STRK"
   },
@@ -70880,12 +70962,6 @@
    "name": "Timberland Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TSBK"
-  },
-  {
-   "symbol": "TSBX",
-   "name": "Turnstone Biologics Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TSBX"
   },
   {
    "symbol": "TSCO",
@@ -74294,6 +74370,12 @@
    "name": "ACV Auctions Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ACVA"
+  },
+  {
+   "symbol": "AD",
+   "name": "Array Digital Infrastructure, Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AD"
   },
   {
    "symbol": "ADC",
@@ -90280,6 +90362,12 @@
    "yahoo_symbol": "SSTK"
   },
   {
+   "symbol": "SSY",
+   "name": "SunLink Health Systems, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SSY"
+  },
+  {
    "symbol": "ST",
    "name": "Sensata Technologies Holding plc Ordinary Shares",
    "exchange": "NYSE",
@@ -91738,12 +91826,6 @@
    "yahoo_symbol": "USFD"
   },
   {
-   "symbol": "USM",
-   "name": "United States Cellular Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "USM"
-  },
-  {
    "symbol": "USNA",
    "name": "USANA Health Sciences, Inc. Common Stock",
    "exchange": "NYSE",
@@ -91823,19 +91905,19 @@
   },
   {
    "symbol": "UZD",
-   "name": "United States Cellular Corporation 6.250% Senior Notes due 2069",
+   "name": "Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069",
    "exchange": "NYSE",
    "yahoo_symbol": "UZD"
   },
   {
    "symbol": "UZE",
-   "name": "United States Cellular Corporation 5.500% Senior Notes due 2070",
+   "name": "Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",
    "exchange": "NYSE",
    "yahoo_symbol": "UZE"
   },
   {
    "symbol": "UZF",
-   "name": "United States Cellular Corporation 5.500% Senior Notes due 2070",
+   "name": "Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",
    "exchange": "NYSE",
    "yahoo_symbol": "UZF"
   },
