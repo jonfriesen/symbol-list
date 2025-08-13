@@ -1,5 +1,5 @@
 {
- "date": "2025-08-12",
+ "date": "2025-08-13",
  "data": [
   {
    "symbol": "ONE",
@@ -18578,18 +18578,6 @@
    ]
   },
   {
-   "symbol": "AMM",
-   "name": "Almaden Minerals Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AMM.TO",
-   "instruments": [
-    {
-     "name": "Almaden Minerals",
-     "symbol": "AMM"
-    }
-   ]
-  },
-  {
    "symbol": "AII",
    "name": "Almonty Industries Inc.",
    "exchange": "TSX",
@@ -35142,18 +35130,6 @@
    ]
   },
   {
-   "symbol": "KEG.UN",
-   "name": "Keg Royalties Income Fund (The)",
-   "exchange": "TSX",
-   "yahoo_symbol": "KEG.UN.TO",
-   "instruments": [
-    {
-     "name": "Keg Royalties Fnd Un",
-     "symbol": "KEG.UN"
-    }
-   ]
-  },
-  {
    "symbol": "KLS",
    "name": "Kelso Technologies Inc.",
    "exchange": "TSX",
@@ -40770,6 +40746,30 @@
     {
      "name": "SavvyLong GeNaGa ETF",
      "symbol": "NGUP"
+    }
+   ]
+  },
+  {
+   "symbol": "NVDD",
+   "name": "SavvyShort (-2X) NVDA ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVDD.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort -2X NVDA",
+     "symbol": "NVDD"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLD",
+   "name": "SavvyShort (-2X) TSLA ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLD.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort -2X TSLA",
+     "symbol": "TSLD"
     }
    ]
   },
@@ -50348,6 +50348,12 @@
    "yahoo_symbol": "COYY"
   },
   {
+   "symbol": "CPAG",
+   "name": "F/m Compoundr U.S. Aggregate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPAG"
+  },
+  {
    "symbol": "CPB",
    "name": "The Campbell's Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -50364,6 +50370,12 @@
    "name": "Canterbury Park Holding Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CPHC"
+  },
+  {
+   "symbol": "CPHY",
+   "name": "F/m Compoundr High Yield Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPHY"
   },
   {
    "symbol": "CPIX",
@@ -56900,6 +56912,12 @@
    "yahoo_symbol": "HVIIU"
   },
   {
+   "symbol": "HVMCU",
+   "name": "Highview Merger Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVMCU"
+  },
+  {
    "symbol": "HWAY",
    "name": "Themes US Infrastructure ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58569,7 +58587,7 @@
   },
   {
    "symbol": "JL",
-   "name": "J-Long Group Limited - Ordinary Shares",
+   "name": "J-Long Group Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JL"
   },
@@ -60368,6 +60386,12 @@
    "yahoo_symbol": "MACIW"
   },
   {
+   "symbol": "MAGH",
+   "name": "Magnitude International Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAGH"
+  },
+  {
    "symbol": "MAMA",
    "name": "Mama's Creations, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -61092,6 +61116,12 @@
    "name": "MKDWELL Tech Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MKDWW"
+  },
+  {
+   "symbol": "MKLYU",
+   "name": "McKinley Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MKLYU"
   },
   {
    "symbol": "MKSI",
@@ -62192,18 +62222,6 @@
    "yahoo_symbol": "NEGG"
   },
   {
-   "symbol": "NEHC",
-   "name": "New Era Helium Inc - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NEHC"
-  },
-  {
-   "symbol": "NEHCW",
-   "name": "New Era Helium Inc - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NEHCW"
-  },
-  {
    "symbol": "NEO",
    "name": "NeoGenomics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -62886,6 +62904,18 @@
    "name": "Newbury Street II Acquisition Corp - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NTWOW"
+  },
+  {
+   "symbol": "NUAI",
+   "name": "New Era Energy \u0026 Digital, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUAI"
+  },
+  {
+   "symbol": "NUAIW",
+   "name": "New Era Energy \u0026 Digital, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUAIW"
   },
   {
    "symbol": "NUKK",
@@ -64128,6 +64158,12 @@
    "name": "Oxford Square Capital Corp. - 5.50% Notes due 2028",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OXSQG"
+  },
+  {
+   "symbol": "OXSQH",
+   "name": "Oxford Square Capital Corp. - 7.75% Notes due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXSQH"
   },
   {
    "symbol": "OXSQZ",
@@ -66632,6 +66668,12 @@
    "yahoo_symbol": "RDNT"
   },
   {
+   "symbol": "RDNW",
+   "name": "RideNow Group, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RDNW"
+  },
+  {
    "symbol": "RDTL",
    "name": "GraniteShares 2x Long RDDT Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -67104,12 +67146,6 @@
    "name": "Richmond Mutual Bancorporation, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RMBI"
-  },
-  {
-   "symbol": "RMBL",
-   "name": "RumbleOn, Inc. - Class B Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RMBL"
   },
   {
    "symbol": "RMBS",
@@ -69564,12 +69600,6 @@
    "name": "Sterling Infrastructure, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "STRL"
-  },
-  {
-   "symbol": "STRM",
-   "name": "Streamline Health Solutions, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "STRM"
   },
   {
    "symbol": "STRO",
@@ -76694,6 +76724,12 @@
    "yahoo_symbol": "BLND"
   },
   {
+   "symbol": "BLSH",
+   "name": "Bullish Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BLSH"
+  },
+  {
    "symbol": "BLW",
    "name": "Blackrock Limited Duration Income Trust",
    "exchange": "NYSE",
@@ -81126,12 +81162,6 @@
    "name": "Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FOUR$A"
-  },
-  {
-   "symbol": "FOXO",
-   "name": "FOXO Technologies Inc. Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "FOXO"
   },
   {
    "symbol": "FPF",
@@ -86582,6 +86612,12 @@
    "yahoo_symbol": "NSP"
   },
   {
+   "symbol": "NSRX",
+   "name": "Nasus Pharma Ltd. Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSRX"
+  },
+  {
    "symbol": "NTB",
    "name": "Bank of N.T. Butterfield \u0026 Son Limited (The) Voting Ordinary Shares",
    "exchange": "NYSE",
@@ -86778,12 +86814,6 @@
    "name": "NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "NXG"
-  },
-  {
-   "symbol": "NXG.R",
-   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXG.R"
   },
   {
    "symbol": "NXJ",

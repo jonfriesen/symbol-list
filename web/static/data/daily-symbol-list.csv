@@ -1521,7 +1521,6 @@ ALYA,Alithya Group inc.,TSX,ALYA.TO,Alithya Group J A SV,ALYA
 ALK,Alkane Resources Limited,TSX,ALK.TO,Alkane Resources Ltd,ALK
 AAUC,Allied Gold Corporation,TSX,AAUC.TO,Allied Gold Corp,AAUC,Allied Gld Crp Db US,AAUC.DB.U
 AP.UN,Allied Properties Real Estate Investment Trust,TSX,AP.UN.TO,Allied Prop. REIT Un,AP.UN
-AMM,Almaden Minerals Ltd.,TSX,AMM.TO,Almaden Minerals,AMM
 AII,Almonty Industries Inc.,TSX,AII.TO,Almonty Industries J,AII
 GOOG,Alphabet CDR (CAD Hedged),TSX,GOOG.TO,Alphabet CDR CAD HD,GOOG
 ATCU,Alta Copper Corp.,TSX,ATCU.TO,Alta Copper Corp. J,ATCU
@@ -2740,7 +2739,6 @@ JAVA,JPMorgan US Value Active ETF,TSX,JAVA.TO,JPM USVal Active ETF,JAVA
 KBL,K-Bro Linen Inc.,TSX,KBL.TO,K-Bro Linen Inc.,KBL
 KNT,K92 Mining Inc.,TSX,KNT.TO,K92 Mining Inc. J,KNT
 KRN,Karnalyte Resources Inc.,TSX,KRN.TO,Karnalyte Res J,KRN
-KEG.UN,Keg Royalties Income Fund (The),TSX,KEG.UN.TO,Keg Royalties Fnd Un,KEG.UN
 KLS,Kelso Technologies Inc.,TSX,KLS.TO,Kelso Technologies,KLS
 KEL,Kelt Exploration Ltd.,TSX,KEL.TO,Kelt Expl Ltd.,KEL
 KEY,Keyera Corp.,TSX,KEY.TO,Keyera Corp.,KEY,Keyera Corp RCT,KEY.R
@@ -3160,6 +3158,8 @@ NVDU,SavvyLong (2X) NVDA ETF,TSX,NVDU.TO,SavvyLong (2X) NVDA,NVDU
 TSLU,SavvyLong (2X) TSLA ETF,TSX,TSLU.TO,SavvyLong (2X) TSLA,TSLU
 CLUP,SavvyLong Geared Crude Oil ETF,TSX,CLUP.TO,SavvyLong GeCrOi ETF,CLUP
 NGUP,SavvyLong Geared Natural Gas ETF,TSX,NGUP.TO,SavvyLong GeNaGa ETF,NGUP
+NVDD,SavvyShort (-2X) NVDA ETF,TSX,NVDD.TO,SavvyShort -2X NVDA,NVDD
+TSLD,SavvyShort (-2X) TSLA ETF,TSX,TSLD.TO,SavvyShort -2X TSLA,TSLD
 CLDN,SavvyShort Geared Crude Oil ETF,TSX,CLDN.TO,SavvyShort GeCrO ETF,CLDN
 NGDN,SavvyShort Geared Natural Gas ETF,TSX,NGDN.TO,SavvyShort GeNaG ETF,NGDN
 SEA,Seabridge Gold Inc.,TSX,SEA.TO,Seabridge Gold Inc J,SEA
@@ -4466,9 +4466,11 @@ COWG,Pacer US Large Cap Cash Cows Growth Leaders ETF,NASDAQ Global MarketSM,COWG
 COWS,Amplify Cash Flow Dividend Leaders ETF,NASDAQ Global MarketSM,COWS
 COYA,"Coya Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,COYA
 COYY,GraniteShares YieldBOOST COIN ETF,NASDAQ Global MarketSM,COYY
+CPAG,F/m Compoundr U.S. Aggregate Bond ETF,NASDAQ Global MarketSM,CPAG
 CPB,The Campbell's Company - Common Stock,NASDAQ Global Select MarketSM,CPB
 CPBI,"Central Plains Bancshares, Inc. - Common Stock",NASDAQ Capital Market,CPBI
 CPHC,Canterbury Park Holding Corporation - Common Stock,NASDAQ Global MarketSM,CPHC
+CPHY,F/m Compoundr High Yield Bond ETF,NASDAQ Global MarketSM,CPHY
 CPIX,Cumberland Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,CPIX
 CPLS,AB Core Plus Bond ETF,NASDAQ Global MarketSM,CPLS
 CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",NASDAQ Capital Market,CPOP
@@ -5558,6 +5560,7 @@ HUT,Hut 8 Corp. - Common Stock,NASDAQ Global Select MarketSM,HUT
 HVII,Hennessy Capital Investment Corp. VII - Ordinary Shares,NASDAQ Global MarketSM,HVII
 HVIIR,Hennessy Capital Investment Corp. VII - Rights,NASDAQ Global MarketSM,HVIIR
 HVIIU,Hennessy Capital Investment Corp. VII - Unit,NASDAQ Global MarketSM,HVIIU
+HVMCU,Highview Merger Corp. - Units,NASDAQ Global MarketSM,HVMCU
 HWAY,Themes US Infrastructure ETF,NASDAQ Global MarketSM,HWAY
 HWBK,"Hawthorn Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,HWBK
 HWC,Hancock Whitney Corporation - Common Stock,NASDAQ Global Select MarketSM,HWC
@@ -5836,7 +5839,7 @@ JGLO,JPMorgan Global Select Equity ETF,NASDAQ Global MarketSM,JGLO
 JIVE,JPMorgan International Value ETF,NASDAQ Global MarketSM,JIVE
 JJSF,J & J Snack Foods Corp. - Common Stock,NASDAQ Global Select MarketSM,JJSF
 JKHY,"Jack Henry & Associates, Inc. - Common Stock",NASDAQ Global Select MarketSM,JKHY
-JL,J-Long Group Limited - Ordinary Shares,NASDAQ Capital Market,JL
+JL,J-Long Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,JL
 JLHL,Julong Holding Limited - Class A Ordinary Shares,NASDAQ Capital Market,JLHL
 JMID,Janus Henderson Mid Cap Growth Alpha ETF,NASDAQ Global MarketSM,JMID
 JMSB,"John Marshall Bancorp, Inc. - Common Stock",NASDAQ Capital Market,JMSB
@@ -6136,6 +6139,7 @@ MAAS,Maase Inc. - Class A Ordinary Shares,NASDAQ Global MarketSM,MAAS
 MACI,Melar Acquisition Corp. I - Class A Ordinary Shares,NASDAQ Global MarketSM,MACI
 MACIU,Melar Acquisition Corp. I - Unit,NASDAQ Global MarketSM,MACIU
 MACIW,Melar Acquisition Corp. I - Warrant,NASDAQ Global MarketSM,MACIW
+MAGH,Magnitude International Ltd - Ordinary Shares,NASDAQ Capital Market,MAGH
 MAMA,"Mama's Creations, Inc. - Common Stock",NASDAQ Capital Market,MAMA
 MAMK,MaxsMaking Inc. - Class A Ordinary Shares,NASDAQ Capital Market,MAMK
 MAMO,Massimo Group - Common Stock,NASDAQ Capital Market,MAMO
@@ -6257,6 +6261,7 @@ MJID,Majestic Ideal Holdings Ltd - Ordinary Shares,NASDAQ Capital Market,MJID
 MKAM,MKAM ETF,NASDAQ Global MarketSM,MKAM
 MKDW,MKDWELL Tech Inc. - Ordinary Shares,NASDAQ Capital Market,MKDW
 MKDWW,MKDWELL Tech Inc. - Warrants,NASDAQ Capital Market,MKDWW
+MKLYU,McKinley Acquisition Corporation - Units,NASDAQ Global MarketSM,MKLYU
 MKSI,MKS Inc. - Common Stock,NASDAQ Global Select MarketSM,MKSI
 MKTW,"MarketWise, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MKTW
 MKTX,"MarketAxess Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MKTX
@@ -6440,8 +6445,6 @@ NDRA,ENDRA Life Sciences Inc. - Common Stock,NASDAQ Capital Market,NDRA
 NDSN,Nordson Corporation - Common Stock,NASDAQ Global Select MarketSM,NDSN
 NECB,"NorthEast Community Bancorp, Inc. - Common Stock",NASDAQ Capital Market,NECB
 NEGG,"Newegg Commerce, Inc. - Common Shares",NASDAQ Capital Market,NEGG
-NEHC,New Era Helium Inc - Common Stock,NASDAQ Global MarketSM,NEHC
-NEHCW,New Era Helium Inc - Warrants,NASDAQ Capital Market,NEHCW
 NEO,"NeoGenomics, Inc. - Common Stock",NASDAQ Capital Market,NEO
 NEOG,Neogen Corporation - Common Stock,NASDAQ Global Select MarketSM,NEOG
 NEON,Neonode Inc. - Common Stock,NASDAQ Capital Market,NEON
@@ -6556,6 +6559,8 @@ NTWK,NETSOL Technologies Inc. - Common Stock,NASDAQ Capital Market,NTWK
 NTWO,Newbury Street II Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,NTWO
 NTWOU,Newbury Street II Acquisition Corp - Unit,NASDAQ Global MarketSM,NTWOU
 NTWOW,Newbury Street II Acquisition Corp - Warrant,NASDAQ Global MarketSM,NTWOW
+NUAI,"New Era Energy & Digital, Inc. - Common Stock",NASDAQ Global MarketSM,NUAI
+NUAIW,"New Era Energy & Digital, Inc. - Warrants",NASDAQ Capital Market,NUAIW
 NUKK,Nukkleus Inc. - Ordinary Shares,NASDAQ Global MarketSM,NUKK
 NUKKW,Nukkleus Inc. - Warrants,NASDAQ Capital Market,NUKKW
 NUSB,Nuveen Ultra Short Income ETF,NASDAQ Global MarketSM,NUSB
@@ -6763,6 +6768,7 @@ OXLCP,Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares,NASDAQ
 OXLCZ,Oxford Lane Capital Corp. - 5.00% Notes due 2027,NASDAQ Global Select MarketSM,OXLCZ
 OXSQ,Oxford Square Capital Corp. - Closed End Fund,NASDAQ Global Select MarketSM,OXSQ
 OXSQG,Oxford Square Capital Corp. - 5.50% Notes due 2028,NASDAQ Global Select MarketSM,OXSQG
+OXSQH,Oxford Square Capital Corp. - 7.75% Notes due 2030,NASDAQ Global Select MarketSM,OXSQH
 OXSQZ,Oxford Square Capital Corp. - 6.25% Notes due 2026,NASDAQ Global Select MarketSM,OXSQZ
 OYSE,Oyster Enterprises II Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,OYSE
 OYSER,Oyster Enterprises II Acquisition Corp - Rights,NASDAQ Global MarketSM,OYSER
@@ -7180,6 +7186,7 @@ RDHL,Redhill Biopharma Ltd. - American Depositary Shares,NASDAQ Capital Market,R
 RDI,Reading International Inc - Class A Non-voting Common Stock,NASDAQ Capital Market,RDI
 RDIB,Reading International Inc - Class B Voting Common Stock,NASDAQ Capital Market,RDIB
 RDNT,"RadNet, Inc. - Common Stock",NASDAQ Global MarketSM,RDNT
+RDNW,"RideNow Group, Inc. - Class B Common Stock",NASDAQ Capital Market,RDNW
 RDTL,GraniteShares 2x Long RDDT Daily ETF,NASDAQ Global MarketSM,RDTL
 RDTY,YieldMax R2000 0DTE Covered Strategy ETF,NASDAQ Global MarketSM,RDTY
 RDVT,"Red Violet, Inc. - Common Stock ",NASDAQ Capital Market,RDVT
@@ -7259,7 +7266,6 @@ RLAY,"Relay Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,RLAY
 RLMD,"Relmada Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,RLMD
 RLYB,Rallybio Corporation - Common Stock,NASDAQ Global Select MarketSM,RLYB
 RMBI,"Richmond Mutual Bancorporation, Inc. - Common Stock",NASDAQ Capital Market,RMBI
-RMBL,"RumbleOn, Inc. - Class B Common Stock",NASDAQ Capital Market,RMBL
 RMBS,"Rambus, Inc. - Common Stock",NASDAQ Global Select MarketSM,RMBS
 RMCF,"Rocky Mountain Chocolate Factory, Inc. - Common Stock",NASDAQ Capital Market,RMCF
 RMCO,Royalty Management Holding Corporation - Class A Common Stock,NASDAQ Capital Market,RMCO
@@ -7669,7 +7675,6 @@ STRD,Strategy Inc - 10.00% Series A Perpetual Stride Preferred Stock,NASDAQ Glob
 STRF,Strategy Inc - 10.00% Series A Perpetual Strife Preferred Stock,NASDAQ Global Select MarketSM,STRF
 STRK,Strategy Inc - 8.00% Series A Perpetual Strike Preferred Stock,NASDAQ Global Select MarketSM,STRK
 STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ Global Select MarketSM,STRL
-STRM,"Streamline Health Solutions, Inc. - Common Stock",NASDAQ Capital Market,STRM
 STRO,"Sutro Biopharma, Inc. - Common Stock",NASDAQ Global MarketSM,STRO
 STRR,"Star Equity Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,STRR
 STRRP,"Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock",NASDAQ Global MarketSM,STRRP
@@ -8857,6 +8862,7 @@ BLDR,"Builders FirstSource, Inc. Common Stock",NYSE,BLDR
 BLE,BlackRock Municipal Income Trust II,NYSE,BLE
 BLK,"BlackRock, Inc. Common Stock",NYSE,BLK
 BLND,"Blend Labs, Inc. Class A Common Stock",NYSE,BLND
+BLSH,Bullish Ordinary Shares,NYSE,BLSH
 BLW,Blackrock Limited Duration Income Trust,NYSE,BLW
 BLX,"Banco Latinoamericano de Comercio Exterior, S.A.",NYSE,BLX
 BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),NYSE,BMA
@@ -9596,7 +9602,6 @@ FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock",NYSE,FOF
 FOR,Forestar Group Inc Common Stock ,NYSE,FOR
 FOUR,"Shift4 Payments, Inc. Class A Common Stock",NYSE,FOUR
 FOUR$A,"Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock",NYSE,FOUR$A
-FOXO,FOXO Technologies Inc. Class A Common Stock,NYSE MKT,FOXO
 FPF,First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest,NYSE,FPF
 FPH,"Five Point Holdings, LLC Class A Common Shares",NYSE,FPH
 FPI,Farmland Partners Inc. Common Stock,NYSE,FPI
@@ -10505,6 +10510,7 @@ NSA$A,National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Pr
 NSA$B,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE,NSA$B
 NSC,Norfolk Southern Corporation Common Stock,NYSE,NSC
 NSP,"Insperity, Inc. Common Stock",NYSE,NSP
+NSRX,Nasus Pharma Ltd. Ordinary Shares,NYSE MKT,NSRX
 NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,NYSE,NTB
 NTEST,NYSE Tick Pilot Test Sym-Control,NYSE,NTEST
 NTEST.A,NYSE Tick Pilot Test Sym-G1,NYSE,NTEST.A
@@ -10538,7 +10544,6 @@ NXDT,NexPoint Diversified Real Estate Trust Common Stock,NYSE,NXDT
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NYSE,NXDT$A
 NXE,Nexgen Energy Ltd. Common Shares,NYSE,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NYSE,NXG
-NXG.R,"NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights",NYSE,NXG.R
 NXJ,Nuveen New Jersey Qualified Municipal Fund ,NYSE,NXJ
 NXN,Nuveen New York Select Tax-Free Income Portfolio Common Stock,NYSE,NXN
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,NYSE,NXP
