@@ -1,156 +1,132 @@
 {
  "added": [
   {
-   "symbol": "NVDD",
-   "name": "SavvyShort (-2X) NVDA ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "NVDD.TO",
-   "instruments": [
-    {
-     "name": "SavvyShort -2X NVDA",
-     "symbol": "NVDD"
-    }
-   ]
-  },
-  {
-   "symbol": "TSLD",
-   "name": "SavvyShort (-2X) TSLA ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TSLD.TO",
-   "instruments": [
-    {
-     "name": "SavvyShort -2X TSLA",
-     "symbol": "TSLD"
-    }
-   ]
-  },
-  {
-   "symbol": "CPAG",
-   "name": "F/m Compoundr U.S. Aggregate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CPAG"
-  },
-  {
-   "symbol": "CPHY",
-   "name": "F/m Compoundr High Yield Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CPHY"
-  },
-  {
-   "symbol": "HVMCU",
-   "name": "Highview Merger Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HVMCU"
-  },
-  {
-   "symbol": "MAGH",
-   "name": "Magnitude International Ltd - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MAGH"
-  },
-  {
-   "symbol": "MKLYU",
-   "name": "McKinley Acquisition Corporation - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MKLYU"
-  },
-  {
-   "symbol": "NUAI",
-   "name": "New Era Energy \u0026 Digital, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUAI"
-  },
-  {
-   "symbol": "NUAIW",
-   "name": "New Era Energy \u0026 Digital, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NUAIW"
-  },
-  {
-   "symbol": "OXSQH",
-   "name": "Oxford Square Capital Corp. - 7.75% Notes due 2030",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OXSQH"
-  },
-  {
-   "symbol": "RDNW",
-   "name": "RideNow Group, Inc. - Class B Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RDNW"
-  },
-  {
-   "symbol": "BLSH",
-   "name": "Bullish Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BLSH"
-  },
-  {
-   "symbol": "NSRX",
-   "name": "Nasus Pharma Ltd. Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NSRX"
-  }
- ],
- "removed": [
-  {
-   "symbol": "NXG.R",
-   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXG.R"
-  },
-  {
-   "symbol": "FOXO",
-   "name": "FOXO Technologies Inc. Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "FOXO"
-  },
-  {
-   "symbol": "KEG.UN",
-   "name": "Keg Royalties Income Fund (The)",
-   "exchange": "TSX",
-   "yahoo_symbol": "KEG.UN.TO",
-   "instruments": [
-    {
-     "name": "Keg Royalties Fnd Un",
-     "symbol": "KEG.UN"
-    }
-   ]
-  },
-  {
    "symbol": "AMM",
    "name": "Almaden Minerals Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AMM.TO",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMM.V",
    "instruments": [
     {
-     "name": "Almaden Minerals",
+     "name": "Almaden Minerals Ltd.",
      "symbol": "AMM"
     }
    ]
   },
   {
-   "symbol": "NEHCW",
-   "name": "New Era Helium Inc - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NEHCW"
+   "symbol": "TOM",
+   "name": "Trinity One Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TOM.V",
+   "instruments": [
+    {
+     "name": "Trinity One Metals Ltd.",
+     "symbol": "TOM"
+    }
+   ]
   },
   {
-   "symbol": "NEHC",
-   "name": "New Era Helium Inc - Common Stock",
+   "symbol": "OVID",
+   "name": "Ovid Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OVID"
+  },
+  {
+   "symbol": "SOHO",
+   "name": "Sotherly Hotels Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOHO"
+  },
+  {
+   "symbol": "MIAX",
+   "name": "Miami International Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MIAX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RITD",
+   "name": "BetaPro Equal Weight Canadian REIT -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RITD.TO",
+   "instruments": [
+    {
+     "name": "BetProEqCA REIT-2xBr",
+     "symbol": "RITD"
+    }
+   ]
+  },
+  {
+   "symbol": "ATMD",
+   "name": "BetaPro Equal Weight Canadian Bank -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATMD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro EqCdnBnk2xBr",
+     "symbol": "ATMD"
+    }
+   ]
+  },
+  {
+   "symbol": "RITU",
+   "name": "BetaPro Equal Weight Canadian REIT 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RITU.TO",
+   "instruments": [
+    {
+     "name": "BetaProEqCA REIT2xBl",
+     "symbol": "RITU"
+    }
+   ]
+  },
+  {
+   "symbol": "OVID",
+   "name": "Ovid Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OVID"
+  },
+  {
+   "symbol": "HBUG",
+   "name": "Global X Cybersecurity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBUG.TO",
+   "instruments": [
+    {
+     "name": "GblX Cybrsec Inx ETF",
+     "symbol": "HBUG"
+    }
+   ]
+  },
+  {
+   "symbol": "SOHO",
+   "name": "Sotherly Hotels Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NEHC"
+   "yahoo_symbol": "SOHO"
   },
   {
-   "symbol": "RMBL",
-   "name": "RumbleOn, Inc. - Class B Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RMBL"
+   "symbol": "ARJN",
+   "name": "Aranjin Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARJN.V",
+   "instruments": [
+    {
+     "name": "Aranjin Resources Ltd.",
+     "symbol": "ARJN"
+    }
+   ]
   },
   {
-   "symbol": "STRM",
-   "name": "Streamline Health Solutions, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "STRM"
+   "symbol": "ATMU",
+   "name": "BetaPro Equal Weight Canadian Bank 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATMU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro EqCdnBnk2xBl",
+     "symbol": "ATMU"
+    }
+   ]
   }
  ]
 }
