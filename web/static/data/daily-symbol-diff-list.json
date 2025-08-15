@@ -1,132 +1,150 @@
 {
  "added": [
   {
-   "symbol": "AMM",
-   "name": "Almaden Minerals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMM.V",
-   "instruments": [
-    {
-     "name": "Almaden Minerals Ltd.",
-     "symbol": "AMM"
-    }
-   ]
-  },
-  {
-   "symbol": "TOM",
-   "name": "Trinity One Metals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TOM.V",
-   "instruments": [
-    {
-     "name": "Trinity One Metals Ltd.",
-     "symbol": "TOM"
-    }
-   ]
-  },
-  {
-   "symbol": "OVID",
-   "name": "Ovid Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OVID"
-  },
-  {
-   "symbol": "SOHO",
-   "name": "Sotherly Hotels Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SOHO"
-  },
-  {
-   "symbol": "MIAX",
-   "name": "Miami International Holdings, Inc. Common Stock",
+   "symbol": "CMA$B",
+   "name": "Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
    "exchange": "NYSE",
-   "yahoo_symbol": "MIAX"
+   "yahoo_symbol": "CMA$B"
+  },
+  {
+   "symbol": "NLY$J",
+   "name": "Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NLY$J"
+  },
+  {
+   "symbol": "USBC",
+   "name": "USBC, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "USBC"
+  },
+  {
+   "symbol": "APLT",
+   "name": "Applied Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APLT"
+  },
+  {
+   "symbol": "BUUU",
+   "name": "BUUU Group Limited - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BUUU"
+  },
+  {
+   "symbol": "HIND",
+   "name": "Vyome Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HIND"
+  },
+  {
+   "symbol": "NAKA",
+   "name": "Kindly MD, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NAKA"
+  },
+  {
+   "symbol": "RYOJ",
+   "name": "rYojbaba Co., Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RYOJ"
   }
  ],
  "removed": [
   {
-   "symbol": "RITD",
-   "name": "BetaPro Equal Weight Canadian REIT -2x Daily Bear ETF",
+   "symbol": "CIX",
+   "name": "CI Financial Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "RITD.TO",
+   "yahoo_symbol": "CIX.TO",
    "instruments": [
     {
-     "name": "BetProEqCA REIT-2xBr",
-     "symbol": "RITD"
+     "name": "CI Financial Corp.",
+     "symbol": "CIX"
     }
    ]
   },
   {
-   "symbol": "ATMD",
-   "name": "BetaPro Equal Weight Canadian Bank -2x Daily Bear ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ATMD.TO",
-   "instruments": [
-    {
-     "name": "BetaPro EqCdnBnk2xBr",
-     "symbol": "ATMD"
-    }
-   ]
+   "symbol": "ABLLW",
+   "name": "Abacus Global Management, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABLLW"
   },
   {
-   "symbol": "RITU",
-   "name": "BetaPro Equal Weight Canadian REIT 2x Daily Bull ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RITU.TO",
-   "instruments": [
-    {
-     "name": "BetaProEqCA REIT2xBl",
-     "symbol": "RITU"
-    }
-   ]
-  },
-  {
-   "symbol": "OVID",
-   "name": "Ovid Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OVID"
-  },
-  {
-   "symbol": "HBUG",
-   "name": "Global X Cybersecurity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HBUG.TO",
-   "instruments": [
-    {
-     "name": "GblX Cybrsec Inx ETF",
-     "symbol": "HBUG"
-    }
-   ]
-  },
-  {
-   "symbol": "SOHO",
-   "name": "Sotherly Hotels Inc. - Common Stock",
+   "symbol": "CCIRW",
+   "name": "Cohen Circle Acquisition Corp. I - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SOHO"
+   "yahoo_symbol": "CCIRW"
   },
   {
-   "symbol": "ARJN",
-   "name": "Aranjin Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ARJN.V",
-   "instruments": [
-    {
-     "name": "Aranjin Resources Ltd.",
-     "symbol": "ARJN"
-    }
-   ]
+   "symbol": "SSY",
+   "name": "SunLink Health Systems, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SSY"
   },
   {
-   "symbol": "ATMU",
-   "name": "BetaPro Equal Weight Canadian Bank 2x Daily Bull ETF",
+   "symbol": "CCIR",
+   "name": "Cohen Circle Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIR"
+  },
+  {
+   "symbol": "APLT",
+   "name": "Applied Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APLT"
+  },
+  {
+   "symbol": "AMED",
+   "name": "Amedisys Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMED"
+  },
+  {
+   "symbol": "RSLS",
+   "name": "ReShape Lifesciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RSLS"
+  },
+  {
+   "symbol": "KNW",
+   "name": "Know Labs, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KNW"
+  },
+  {
+   "symbol": "NAKA",
+   "name": "Kindly MD, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAKA"
+  },
+  {
+   "symbol": "NAKAW",
+   "name": "Kindly MD, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAKAW"
+  },
+  {
+   "symbol": "CCIRU",
+   "name": "Cohen Circle Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIRU"
+  },
+  {
+   "symbol": "SZLS",
+   "name": "StageZero Life Sciences Ltd.",
    "exchange": "TSX",
-   "yahoo_symbol": "ATMU.TO",
+   "yahoo_symbol": "SZLS.TO",
    "instruments": [
     {
-     "name": "BetaPro EqCdnBnk2xBl",
-     "symbol": "ATMU"
+     "name": "StageZero Life Sci J",
+     "symbol": "SZLS"
     }
    ]
+  },
+  {
+   "symbol": "IGMS",
+   "name": "IGM Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IGMS"
   }
  ]
 }
