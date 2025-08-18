@@ -1,150 +1,156 @@
 {
  "added": [
   {
-   "symbol": "CMA$B",
-   "name": "Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CMA$B"
+   "symbol": "TT",
+   "name": "Total Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TT.V",
+   "instruments": [
+    {
+     "name": "Total Metals Corp.",
+     "symbol": "TT"
+    }
+   ]
   },
   {
-   "symbol": "NLY$J",
-   "name": "Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NLY$J"
-  },
-  {
-   "symbol": "USBC",
-   "name": "USBC, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "USBC"
-  },
-  {
-   "symbol": "APLT",
-   "name": "Applied Therapeutics, Inc. - Common Stock",
+   "symbol": "ETHZ",
+   "name": "ETHZilla Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APLT"
+   "yahoo_symbol": "ETHZ"
   },
   {
-   "symbol": "BUUU",
-   "name": "BUUU Group Limited - Class A Ordinary Share",
+   "symbol": "ETHZW",
+   "name": "ETHZilla Corporation - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BUUU"
+   "yahoo_symbol": "ETHZW"
   },
   {
-   "symbol": "HIND",
-   "name": "Vyome Holdings, Inc. - Common Stock",
+   "symbol": "KYIV",
+   "name": "Kyivstar Group Ltd. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KYIV"
+  },
+  {
+   "symbol": "KYIVW",
+   "name": "Kyivstar Group Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HIND"
+   "yahoo_symbol": "KYIVW"
   },
   {
-   "symbol": "NAKA",
-   "name": "Kindly MD, Inc. - Common Stock",
+   "symbol": "LWAC",
+   "name": "LightWave Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NAKA"
+   "yahoo_symbol": "LWAC"
   },
   {
-   "symbol": "RYOJ",
-   "name": "rYojbaba Co., Ltd. - Common Shares",
+   "symbol": "LWACW",
+   "name": "LightWave Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LWACW"
+  },
+  {
+   "symbol": "NUTR",
+   "name": "Nusatrip Incorporated - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RYOJ"
+   "yahoo_symbol": "NUTR"
+  },
+  {
+   "symbol": "OBA",
+   "name": "Oxley Bridge Acquisition Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBA"
+  },
+  {
+   "symbol": "OBAWW",
+   "name": "Oxley Bridge Acquisition Limited - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBAWW"
+  },
+  {
+   "symbol": "PACH",
+   "name": "Pioneer Acquisition I Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PACH"
+  },
+  {
+   "symbol": "PACHW",
+   "name": "Pioneer Acquisition I Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PACHW"
+  },
+  {
+   "symbol": "PPCB",
+   "name": "Propanc Biopharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPCB"
+  },
+  {
+   "symbol": "QQXL",
+   "name": "ProShares Ultra QQQ Top 30",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQXL"
+  },
+  {
+   "symbol": "BIT.V",
+   "name": "BlackRock Multi-Sector Income Trust Rights (expiring September 9, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIT.V"
   }
  ],
  "removed": [
   {
-   "symbol": "CIX",
-   "name": "CI Financial Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CIX.TO",
+   "symbol": "PACE",
+   "name": "Pace Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PACE.V",
    "instruments": [
     {
-     "name": "CI Financial Corp.",
-     "symbol": "CIX"
+     "name": "Pace Metals Ltd.",
+     "symbol": "PACE"
     }
    ]
   },
   {
-   "symbol": "ABLLW",
-   "name": "Abacus Global Management, Inc. - Warrant",
+   "symbol": "ATNF",
+   "name": "180 Life Sciences Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ABLLW"
+   "yahoo_symbol": "ATNF"
   },
   {
-   "symbol": "CCIRW",
-   "name": "Cohen Circle Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCIRW"
+   "symbol": "OTRK",
+   "name": "Ontrak, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTRK"
   },
   {
-   "symbol": "SSY",
-   "name": "SunLink Health Systems, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SSY"
-  },
-  {
-   "symbol": "CCIR",
-   "name": "Cohen Circle Acquisition Corp. I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCIR"
-  },
-  {
-   "symbol": "APLT",
-   "name": "Applied Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "APLT"
-  },
-  {
-   "symbol": "AMED",
-   "name": "Amedisys Inc - Common Stock",
+   "symbol": "SNRE",
+   "name": "Sunrise Communications AG - American Depositary Shares representing Class A shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AMED"
+   "yahoo_symbol": "SNRE"
   },
   {
-   "symbol": "RSLS",
-   "name": "ReShape Lifesciences, Inc. - Common Stock",
+   "symbol": "GB",
+   "name": "Global Blue Group Holding AG Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GB"
+  },
+  {
+   "symbol": "ATNFW",
+   "name": "180 Life Sciences Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RSLS"
+   "yahoo_symbol": "ATNFW"
   },
   {
-   "symbol": "KNW",
-   "name": "Know Labs, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "KNW"
-  },
-  {
-   "symbol": "NAKA",
-   "name": "Kindly MD, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NAKA"
-  },
-  {
-   "symbol": "NAKAW",
-   "name": "Kindly MD, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NAKAW"
-  },
-  {
-   "symbol": "CCIRU",
-   "name": "Cohen Circle Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCIRU"
-  },
-  {
-   "symbol": "SZLS",
-   "name": "StageZero Life Sciences Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SZLS.TO",
+   "symbol": "GCX",
+   "name": "Granite Creek Copper Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GCX.V",
    "instruments": [
     {
-     "name": "StageZero Life Sci J",
-     "symbol": "SZLS"
+     "name": "Granite Creek Copper Ltd.",
+     "symbol": "GCX"
     }
    ]
-  },
-  {
-   "symbol": "IGMS",
-   "name": "IGM Biosciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IGMS"
   }
  ]
 }
