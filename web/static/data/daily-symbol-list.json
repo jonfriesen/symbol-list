@@ -1,5 +1,5 @@
 {
- "date": "2025-08-18",
+ "date": "2025-08-19",
  "data": [
   {
    "symbol": "ONE",
@@ -13742,10 +13742,6 @@
     {
      "name": "Rock Tech Lithium Inc.",
      "symbol": "RCK"
-    },
-    {
-     "name": "Rock Tech Lithium Inc. wt 19aug2025",
-     "symbol": "RCK.WT"
     }
    ]
   },
@@ -31642,6 +31638,18 @@
    ]
   },
   {
+   "symbol": "HHIH",
+   "name": "Harvest High Income Equity Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHIH.TO",
+   "instruments": [
+    {
+     "name": "Harv HiIn Eq Shr ETF",
+     "symbol": "HHIH"
+    }
+   ]
+  },
+  {
    "symbol": "HIND",
    "name": "Harvest Industrial Leaders Income ETF",
    "exchange": "TSX",
@@ -35830,6 +35838,18 @@
    ]
   },
   {
+   "symbol": "MALX",
+   "name": "Mackenzie GQE US Alpha Extension ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MALX.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie GQE US Alp",
+     "symbol": "MALX"
+    }
+   ]
+  },
+  {
    "symbol": "MULV",
    "name": "Mackenzie GQE US Low Volatility ETF",
    "exchange": "TSX",
@@ -35910,6 +35930,18 @@
     {
      "name": "MacKenzie Master Un",
      "symbol": "MKZ.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "QQQQ",
+   "name": "Mackenzie NASDAQ 100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQQQ.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie NASDAQ 100",
+     "symbol": "QQQQ"
     }
    ]
   },
@@ -45521,7 +45553,7 @@
   },
   {
    "symbol": "ANTA",
-   "name": "Antalpha Platform Holding Company - Ordinary Shares",
+   "name": "Antalpha Platform Holding Company - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ANTA"
   },
@@ -53782,10 +53814,22 @@
    "yahoo_symbol": "FIEE"
   },
   {
+   "symbol": "FIGX",
+   "name": "FIGX Capital Acquisition Corp. - Class A ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIGX"
+  },
+  {
    "symbol": "FIGXU",
    "name": "FIGX Capital Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FIGXU"
+  },
+  {
+   "symbol": "FIGXW",
+   "name": "FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIGXW"
   },
   {
    "symbol": "FINE",
@@ -58240,12 +58284,6 @@
    "yahoo_symbol": "IVDAW"
   },
   {
-   "symbol": "IVEG",
-   "name": "iShares Emergent Food and AgTech Multisector ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IVEG"
-  },
-  {
    "symbol": "IVF",
    "name": "INVO Fertility, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -58262,12 +58300,6 @@
    "name": "Invivyd, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IVVD"
-  },
-  {
-   "symbol": "IWTR",
-   "name": "iShares MSCI Water Management Multisector ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IWTR"
   },
   {
    "symbol": "IXHL",
@@ -70342,18 +70374,6 @@
    "yahoo_symbol": "TEXN"
   },
   {
-   "symbol": "TFIN",
-   "name": "Triumph Financial, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TFIN"
-  },
-  {
-   "symbol": "TFINP",
-   "name": "Triumph Financial, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TFINP"
-  },
-  {
    "symbol": "TFNS",
    "name": "T. Rowe Price Financials ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -70730,12 +70750,6 @@
    "name": "TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TPGXL"
-  },
-  {
-   "symbol": "TPIC",
-   "name": "TPI Composites, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TPIC"
   },
   {
    "symbol": "TPLS",
@@ -90418,12 +90432,6 @@
    "yahoo_symbol": "STNG"
   },
   {
-   "symbol": "STR",
-   "name": "Sitio Royalties Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "STR"
-  },
-  {
    "symbol": "STRW",
    "name": "Strawberry Fields REIT, Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -90836,6 +90844,18 @@
    "name": "TFI International Inc. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "TFII"
+  },
+  {
+   "symbol": "TFIN",
+   "name": "Triumph Financial, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TFIN"
+  },
+  {
+   "symbol": "TFIN$",
+   "name": "Triumph Financial, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TFIN$"
   },
   {
    "symbol": "TFPM",
