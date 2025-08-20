@@ -1,102 +1,78 @@
 {
  "added": [
   {
-   "symbol": "HHIH",
-   "name": "Harvest High Income Equity Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HHIH.TO",
+   "symbol": "BMR",
+   "name": "Battery Mineral Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BMR.V",
    "instruments": [
     {
-     "name": "Harv HiIn Eq Shr ETF",
-     "symbol": "HHIH"
+     "name": "Battery Mineral Resources Corp.",
+     "symbol": "BMR"
     }
    ]
   },
   {
-   "symbol": "MALX",
-   "name": "Mackenzie GQE US Alpha Extension ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MALX.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie GQE US Alp",
-     "symbol": "MALX"
-    }
-   ]
-  },
-  {
-   "symbol": "QQQQ",
-   "name": "Mackenzie NASDAQ 100 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQQQ.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie NASDAQ 100",
-     "symbol": "QQQQ"
-    }
-   ]
-  },
-  {
-   "symbol": "FIGX",
-   "name": "FIGX Capital Acquisition Corp. - Class A ordinary share",
+   "symbol": "HIMY",
+   "name": "Defiance Leveraged Long Income HIMS ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIGX"
+   "yahoo_symbol": "HIMY"
   },
   {
-   "symbol": "FIGXW",
-   "name": "FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.",
+   "symbol": "HOOI",
+   "name": "Defiance Leveraged Long Income HOOD ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIGXW"
+   "yahoo_symbol": "HOOI"
   },
   {
-   "symbol": "TFIN",
-   "name": "Triumph Financial, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TFIN"
+   "symbol": "PLT",
+   "name": "Defiance Leveraged Long Income PLTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLT"
   },
   {
-   "symbol": "TFIN$",
-   "name": "Triumph Financial, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TFIN$"
+   "symbol": "TAXI",
+   "name": "Northern Trust Intermediate Tax-Exempt Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAXI"
+  },
+  {
+   "symbol": "TAXS",
+   "name": "Northern Trust Short-Term Tax-Exempt Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAXS"
+  },
+  {
+   "symbol": "TAXT",
+   "name": "Northern Trust Tax-Exempt Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAXT"
+  },
+  {
+   "symbol": "VELO",
+   "name": "Velo3D, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VELO"
+  },
+  {
+   "symbol": "YMT",
+   "name": "Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YMT"
+  },
+  {
+   "symbol": "POAS",
+   "name": "Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "POAS"
   }
  ],
  "removed": [
   {
-   "symbol": "TFINP",
-   "name": "Triumph Financial, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+   "symbol": "CRGX",
+   "name": "CARGO Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TFINP"
-  },
-  {
-   "symbol": "STR",
-   "name": "Sitio Royalties Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "STR"
-  },
-  {
-   "symbol": "TPIC",
-   "name": "TPI Composites, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TPIC"
-  },
-  {
-   "symbol": "IVEG",
-   "name": "iShares Emergent Food and AgTech Multisector ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IVEG"
-  },
-  {
-   "symbol": "TFIN",
-   "name": "Triumph Financial, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TFIN"
-  },
-  {
-   "symbol": "IWTR",
-   "name": "iShares MSCI Water Management Multisector ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IWTR"
+   "yahoo_symbol": "CRGX"
   }
  ]
 }

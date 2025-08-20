@@ -1,5 +1,5 @@
 {
- "date": "2025-08-19",
+ "date": "2025-08-20",
  "data": [
   {
    "symbol": "ONE",
@@ -1834,6 +1834,18 @@
     {
      "name": "Bathurst Metals Corp.",
      "symbol": "BMV"
+    }
+   ]
+  },
+  {
+   "symbol": "BMR",
+   "name": "Battery Mineral Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BMR.V",
+   "instruments": [
+    {
+     "name": "Battery Mineral Resources Corp.",
+     "symbol": "BMR"
     }
    ]
   },
@@ -48703,7 +48715,7 @@
   },
   {
    "symbol": "CARZ",
-   "name": "First Trust S-Network Electric \u0026 Future Vehicle Ecosystem ETF",
+   "name": "First Trust S-Network Future Vehicles \u0026 Technology ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CARZ"
   },
@@ -50452,12 +50464,6 @@
    "name": "Freightos Limited - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CRGOW"
-  },
-  {
-   "symbol": "CRGX",
-   "name": "CARGO Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CRGX"
   },
   {
    "symbol": "CRIS",
@@ -56256,6 +56262,12 @@
    "yahoo_symbol": "HIMX"
   },
   {
+   "symbol": "HIMY",
+   "name": "Defiance Leveraged Long Income HIMS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HIMY"
+  },
+  {
    "symbol": "HIMZ",
    "name": "Defiance Daily Target 2X Long HIMS ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -56452,6 +56464,12 @@
    "name": "Leverage Shares 2X Long HOOD Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HOOG"
+  },
+  {
+   "symbol": "HOOI",
+   "name": "Defiance Leveraged Long Income HOOD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOOI"
   },
   {
    "symbol": "HOOX",
@@ -64968,6 +64986,12 @@
    "yahoo_symbol": "PLSE"
   },
   {
+   "symbol": "PLT",
+   "name": "Defiance Leveraged Long Income PLTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLT"
+  },
+  {
    "symbol": "PLTD",
    "name": "Direxion Daily PLTR Bear 1X Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -70068,6 +70092,24 @@
    "yahoo_symbol": "TAXE"
   },
   {
+   "symbol": "TAXI",
+   "name": "Northern Trust Intermediate Tax-Exempt Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAXI"
+  },
+  {
+   "symbol": "TAXS",
+   "name": "Northern Trust Short-Term Tax-Exempt Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAXS"
+  },
+  {
+   "symbol": "TAXT",
+   "name": "Northern Trust Tax-Exempt Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAXT"
+  },
+  {
    "symbol": "TAYD",
    "name": "Taylor Devices, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -72078,6 +72120,12 @@
    "yahoo_symbol": "VEEE"
   },
   {
+   "symbol": "VELO",
+   "name": "Velo3D, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VELO"
+  },
+  {
    "symbol": "VEON",
    "name": "VEON Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -73756,6 +73804,12 @@
    "name": "J-Star Holding Co., Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "YMAT"
+  },
+  {
+   "symbol": "YMT",
+   "name": "Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YMT"
   },
   {
    "symbol": "YNOT",
@@ -87964,6 +88018,12 @@
    "name": "Pinnacle West Capital Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "PNW"
+  },
+  {
+   "symbol": "POAS",
+   "name": "Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "POAS"
   },
   {
    "symbol": "POR",
