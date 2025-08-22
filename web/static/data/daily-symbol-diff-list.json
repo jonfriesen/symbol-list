@@ -1,210 +1,252 @@
 {
  "added": [
   {
-   "symbol": "AEME",
-   "name": "Harvest Agnico Eagle Enhanced High Income Shares ETF",
+   "symbol": "ABHI",
+   "name": "Ninepoint Barrick HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "AEME.TO",
+   "yahoo_symbol": "ABHI.TO",
    "instruments": [
     {
-     "name": "Harvest Agnico Eagle",
-     "symbol": "AEME"
+     "name": "Ninepoint Barric ETF",
+     "symbol": "ABHI"
     }
    ]
   },
   {
-   "symbol": "BCEE",
-   "name": "Harvest BCE Enhanced High Income Shares ETF",
+   "symbol": "BCHI",
+   "name": "Ninepoint BCE HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "BCEE.TO",
+   "yahoo_symbol": "BCHI.TO",
    "instruments": [
     {
-     "name": "Harvest BCE Enh HiIn",
-     "symbol": "BCEE"
+     "name": "Ninepoint BCE Hi ETF",
+     "symbol": "BCHI"
     }
    ]
   },
   {
-   "symbol": "CCOE",
-   "name": "Harvest Cameco Enhanced High Income Shares ETF",
+   "symbol": "CCHI",
+   "name": "Ninepoint Cameco HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CCOE.TO",
+   "yahoo_symbol": "CCHI.TO",
    "instruments": [
     {
-     "name": "Harvest Cameco EnHiI",
-     "symbol": "CCOE"
+     "name": "Ninepoint Cameco ETF",
+     "symbol": "CCHI"
     }
    ]
   },
   {
-   "symbol": "HHIC",
-   "name": "Harvest Canadian High Income Shares ETF",
+   "symbol": "CQHI",
+   "name": "Ninepoint Canadian Natural Resources HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "HHIC.TO",
+   "yahoo_symbol": "CQHI.TO",
    "instruments": [
     {
-     "name": "Harvest Cdn High Inc",
-     "symbol": "HHIC"
+     "name": "Ninepoint Cdn NaReHi",
+     "symbol": "CQHI"
     }
    ]
   },
   {
-   "symbol": "CNQE",
-   "name": "Harvest CNQ Enhanced High Income Shares ETF",
+   "symbol": "CRHI",
+   "name": "Ninepoint CNR HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CNQE.TO",
+   "yahoo_symbol": "CRHI.TO",
    "instruments": [
     {
-     "name": "Harvest CNQ Enh HiIn",
-     "symbol": "CNQE"
+     "name": "Ninepoint CNR Hi ETF",
+     "symbol": "CRHI"
     }
    ]
   },
   {
-   "symbol": "ENBE",
-   "name": "Harvest Enbridge Enhanced High Income Shares ETF",
+   "symbol": "ENHI",
+   "name": "Ninepoint Enbridge HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "ENBE.TO",
+   "yahoo_symbol": "ENHI.TO",
    "instruments": [
     {
-     "name": "Harvest Enbridge Enh",
-     "symbol": "ENBE"
+     "name": "Np Enh Enb HghSh ETF",
+     "symbol": "ENHI"
     }
    ]
   },
   {
-   "symbol": "RYHE",
-   "name": "Harvest Royal Bank Enhanced High Income Shares ETF",
+   "symbol": "ECHI",
+   "name": "Ninepoint Enhanced Canadian HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "RYHE.TO",
+   "yahoo_symbol": "ECHI.TO",
    "instruments": [
     {
-     "name": "Harv RB Enh HiSh ETF",
-     "symbol": "RYHE"
+     "name": "Np Enh Cd HighSh ETF",
+     "symbol": "ECHI"
     }
    ]
   },
   {
-   "symbol": "SHPE",
-   "name": "Harvest Shopify Enhanced High Income Shares ETF",
+   "symbol": "RYHI",
+   "name": "Ninepoint Royal Bank HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "SHPE.TO",
+   "yahoo_symbol": "RYHI.TO",
    "instruments": [
     {
-     "name": "Hrv Shp Enh HiSh ETF",
-     "symbol": "SHPE"
+     "name": "Np RylBnk HighSh ETF",
+     "symbol": "RYHI"
     }
    ]
   },
   {
-   "symbol": "SUHE",
-   "name": "Harvest Suncor Enhanced High Income Shares ETF",
+   "symbol": "SHHI",
+   "name": "Ninepoint Shopify HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "SUHE.TO",
+   "yahoo_symbol": "SHHI.TO",
    "instruments": [
     {
-     "name": "Hrv Sun Enh HiSh ETF",
-     "symbol": "SUHE"
+     "name": "Np Shopfy HighSh ETF",
+     "symbol": "SHHI"
     }
    ]
   },
   {
-   "symbol": "TDHE",
-   "name": "Harvest TD Bank Enhanced High Income Shares ETF",
+   "symbol": "SUHI",
+   "name": "Ninepoint Suncor HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "TDHE.TO",
+   "yahoo_symbol": "SUHI.TO",
    "instruments": [
     {
-     "name": "Hrv TD Enh HiSh ETF",
-     "symbol": "TDHE"
+     "name": "Np Suncor HighSh ETF",
+     "symbol": "SUHI"
     }
    ]
   },
   {
-   "symbol": "TEHE",
-   "name": "Harvest TELUS Enhanced High Income Shares ETF",
+   "symbol": "TDHI",
+   "name": "Ninepoint TD HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "TEHE.TO",
+   "yahoo_symbol": "TDHI.TO",
    "instruments": [
     {
-     "name": "Hrv Tel Enh HiSh ETF",
-     "symbol": "TEHE"
+     "name": "Np TD HighShares ETF",
+     "symbol": "TDHI"
     }
    ]
   },
   {
-   "symbol": "AMDU",
-   "name": "Defiance Leveraged Long + Income AMD ETF",
+   "symbol": "OM",
+   "name": "Osisko Metals Incorporated",
+   "exchange": "TSX",
+   "yahoo_symbol": "OM.TO",
+   "instruments": [
+    {
+     "name": "Osisko Metals Incorp",
+     "symbol": "OM"
+    }
+   ]
+  },
+  {
+   "symbol": "EVAC",
+   "name": "EQV Ventures Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVAC"
+  },
+  {
+   "symbol": "EVAC.W",
+   "name": "EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVAC.W"
+  },
+  {
+   "symbol": "BAIG",
+   "name": "Leverage Shares 2X Long BBAI Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMDU"
+   "yahoo_symbol": "BAIG"
   },
   {
-   "symbol": "BCAR",
-   "name": "D. Boral ARC Acquisition I Corp. - Class A Ordinary Shares",
+   "symbol": "CEPF",
+   "name": "Cantor Equity Partners IV, Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCAR"
+   "yahoo_symbol": "CEPF"
   },
   {
-   "symbol": "BCARW",
-   "name": "D. Boral ARC Acquisition I Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCARW"
-  },
-  {
-   "symbol": "DBGI",
-   "name": "Digital Brands Group, Inc. - Common Stock",
+   "symbol": "ETS",
+   "name": "Elite Express Holding Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DBGI"
+   "yahoo_symbol": "ETS"
   },
   {
-   "symbol": "JHAI",
-   "name": "Janus Henderson Global Artificial Intelligence ETF",
+   "symbol": "GLGG",
+   "name": "Leverage Shares 2X Long GLXY Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JHAI"
+   "yahoo_symbol": "GLGG"
   },
   {
-   "symbol": "SMCC",
-   "name": "Defiance Leveraged Long + Income SMCI ETF",
+   "symbol": "TRUD",
+   "name": "VanEck Consumer Discretionary TruSector ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMCC"
+   "yahoo_symbol": "TRUD"
+  },
+  {
+   "symbol": "TRUT",
+   "name": "VanEck Technology TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUT"
+  },
+  {
+   "symbol": "ZNB",
+   "name": "Zeta Network Group - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZNB"
   }
  ],
  "removed": [
   {
-   "symbol": "EMCGW",
-   "name": "Embrace Change Acquisition Corp - Warrants",
+   "symbol": "STRRP",
+   "name": "Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMCGW"
+   "yahoo_symbol": "STRRP"
   },
   {
-   "symbol": "EMCGR",
-   "name": "Embrace Change Acquisition Corp - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMCGR"
+   "symbol": "OM",
+   "name": "Osisko Metals Incorporated",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OM.V",
+   "instruments": [
+    {
+     "name": "Osisko Metals Incorporated",
+     "symbol": "OM"
+    }
+   ]
   },
   {
-   "symbol": "WINT",
-   "name": "Windtree Therapeutics, Inc. - Common Stock",
+   "symbol": "HPKEW",
+   "name": "HighPeak Energy, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HPKEW"
+  },
+  {
+   "symbol": "ADD",
+   "name": "Color Star Technology Co., Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WINT"
+   "yahoo_symbol": "ADD"
   },
   {
-   "symbol": "EMCGU",
-   "name": "Embrace Change Acquisition Corp - Units",
+   "symbol": "STRR",
+   "name": "Star Equity Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMCGU"
+   "yahoo_symbol": "STRR"
   },
   {
-   "symbol": "EMCG",
-   "name": "Embrace Change Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMCG"
-  },
-  {
-   "symbol": "GOGL",
-   "name": "Golden Ocean Group Limited - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GOGL"
+   "symbol": "RSLV",
+   "name": "Reyna Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RSLV.V",
+   "instruments": [
+    {
+     "name": "Reyna Silver Corp.",
+     "symbol": "RSLV"
+    }
+   ]
   }
  ]
 }
