@@ -1,252 +1,340 @@
 {
  "added": [
   {
-   "symbol": "ABHI",
-   "name": "Ninepoint Barrick HighShares ETF",
+   "symbol": "BTCX",
+   "name": "CI Galaxy Bitcoin ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "ABHI.TO",
+   "yahoo_symbol": "BTCX.TO",
    "instruments": [
     {
-     "name": "Ninepoint Barric ETF",
-     "symbol": "ABHI"
+     "name": "CI Galaxy BTC ETF",
+     "symbol": "BTCX"
+    },
+    {
+     "name": "CI GalBitcnCA ETF UH",
+     "symbol": "BTCX.B"
+    },
+    {
+     "name": "CI GalBitcnETF UH US",
+     "symbol": "BTCX.U"
     }
    ]
   },
   {
-   "symbol": "BCHI",
-   "name": "Ninepoint BCE HighShares ETF",
+   "symbol": "ETHX",
+   "name": "CI Galaxy Ethereum ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "BCHI.TO",
+   "yahoo_symbol": "ETHX.TO",
    "instruments": [
     {
-     "name": "Ninepoint BCE Hi ETF",
-     "symbol": "BCHI"
+     "name": "CI Galaxy Eth ETF",
+     "symbol": "ETHX"
+    },
+    {
+     "name": "CI GalxyEthermCA UHG",
+     "symbol": "ETHX.B"
+    },
+    {
+     "name": "CI GalxyEthermUS UH",
+     "symbol": "ETHX.U"
     }
    ]
   },
   {
-   "symbol": "CCHI",
-   "name": "Ninepoint Cameco HighShares ETF",
+   "symbol": "CMCX",
+   "name": "CI Galaxy Multi-Crypto Navigator ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CCHI.TO",
+   "yahoo_symbol": "CMCX.TO",
    "instruments": [
     {
-     "name": "Ninepoint Cameco ETF",
-     "symbol": "CCHI"
+     "name": "CI Galxy MltCryNa HD",
+     "symbol": "CMCX"
+    },
+    {
+     "name": "CI Galxy MltCryNa CA",
+     "symbol": "CMCX.B"
+    },
+    {
+     "name": "CI GalxyMltCryNav US",
+     "symbol": "CMCX.U"
     }
    ]
   },
   {
-   "symbol": "CQHI",
-   "name": "Ninepoint Canadian Natural Resources HighShares ETF",
+   "symbol": "SOLX",
+   "name": "CI Galaxy Solana ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CQHI.TO",
+   "yahoo_symbol": "SOLX.TO",
    "instruments": [
     {
-     "name": "Ninepoint Cdn NaReHi",
-     "symbol": "CQHI"
+     "name": "CI Galaxy Sol ETF Hd",
+     "symbol": "SOLX"
+    },
+    {
+     "name": "CI Galaxy Sol ETF CA",
+     "symbol": "SOLX.B"
+    },
+    {
+     "name": "CI Galaxy Sol ETF US",
+     "symbol": "SOLX.U"
     }
    ]
   },
   {
-   "symbol": "CRHI",
-   "name": "Ninepoint CNR HighShares ETF",
+   "symbol": "CEQY",
+   "name": "CIBC All-Equity ETF Portfolio",
    "exchange": "TSX",
-   "yahoo_symbol": "CRHI.TO",
+   "yahoo_symbol": "CEQY.TO",
    "instruments": [
     {
-     "name": "Ninepoint CNR Hi ETF",
-     "symbol": "CRHI"
+     "name": "CIBC All Equity ETF",
+     "symbol": "CEQY"
     }
    ]
   },
   {
-   "symbol": "ENHI",
-   "name": "Ninepoint Enbridge HighShares ETF",
+   "symbol": "CCCB",
+   "name": "CIBC Canadian Banks Covered Call ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "ENHI.TO",
+   "yahoo_symbol": "CCCB.TO",
    "instruments": [
     {
-     "name": "Np Enh Enb HghSh ETF",
-     "symbol": "ENHI"
+     "name": "CIBC Cdn Bnk CoC ETF",
+     "symbol": "CCCB"
     }
    ]
   },
   {
-   "symbol": "ECHI",
-   "name": "Ninepoint Enhanced Canadian HighShares ETF",
+   "symbol": "CCDC",
+   "name": "CIBC Canadian High Dividend Covered Call ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "ECHI.TO",
+   "yahoo_symbol": "CCDC.TO",
    "instruments": [
     {
-     "name": "Np Enh Cd HighSh ETF",
-     "symbol": "ECHI"
+     "name": "CIBC Cdn HighDvd ETF",
+     "symbol": "CCDC"
     }
    ]
   },
   {
-   "symbol": "RYHI",
-   "name": "Ninepoint Royal Bank HighShares ETF",
+   "symbol": "CUDC",
+   "name": "CIBC U.S. High Dividend Covered Call ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "RYHI.TO",
+   "yahoo_symbol": "CUDC.TO",
    "instruments": [
     {
-     "name": "Np RylBnk HighSh ETF",
-     "symbol": "RYHI"
+     "name": "CIBC US High Dvd ETF",
+     "symbol": "CUDC"
+    },
+    {
+     "name": "CIBC US HghDvdHd ETF",
+     "symbol": "CUDC.F"
     }
    ]
   },
   {
-   "symbol": "SHHI",
-   "name": "Ninepoint Shopify HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SHHI.TO",
-   "instruments": [
-    {
-     "name": "Np Shopfy HighSh ETF",
-     "symbol": "SHHI"
-    }
-   ]
+   "symbol": "BCIC",
+   "name": "BCP Investment Corporation - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BCIC"
   },
   {
-   "symbol": "SUHI",
-   "name": "Ninepoint Suncor HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SUHI.TO",
-   "instruments": [
-    {
-     "name": "Np Suncor HighSh ETF",
-     "symbol": "SUHI"
-    }
-   ]
-  },
-  {
-   "symbol": "TDHI",
-   "name": "Ninepoint TD HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TDHI.TO",
-   "instruments": [
-    {
-     "name": "Np TD HighShares ETF",
-     "symbol": "TDHI"
-    }
-   ]
-  },
-  {
-   "symbol": "OM",
-   "name": "Osisko Metals Incorporated",
-   "exchange": "TSX",
-   "yahoo_symbol": "OM.TO",
-   "instruments": [
-    {
-     "name": "Osisko Metals Incorp",
-     "symbol": "OM"
-    }
-   ]
-  },
-  {
-   "symbol": "EVAC",
-   "name": "EQV Ventures Acquisition Corp. II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EVAC"
-  },
-  {
-   "symbol": "EVAC.W",
-   "name": "EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EVAC.W"
-  },
-  {
-   "symbol": "BAIG",
-   "name": "Leverage Shares 2X Long BBAI Daily ETF",
+   "symbol": "CCII",
+   "name": "Cohen Circle Acquisition Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BAIG"
+   "yahoo_symbol": "CCII"
   },
   {
-   "symbol": "CEPF",
-   "name": "Cantor Equity Partners IV, Inc. - Class A Ordinary Shares",
+   "symbol": "CCIIW",
+   "name": "Cohen Circle Acquisition Corp. II - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CEPF"
+   "yahoo_symbol": "CCIIW"
   },
   {
-   "symbol": "ETS",
-   "name": "Elite Express Holding Inc. - Class A Common Stock",
+   "symbol": "HSONP",
+   "name": "Hudson Global, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HSONP"
+  },
+  {
+   "symbol": "SBLX",
+   "name": "StableX Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ETS"
+   "yahoo_symbol": "SBLX"
   },
   {
-   "symbol": "GLGG",
-   "name": "Leverage Shares 2X Long GLXY Daily ETF",
+   "symbol": "VNME",
+   "name": "Vendome Acquisition Corporation I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLGG"
+   "yahoo_symbol": "VNME"
   },
   {
-   "symbol": "TRUD",
-   "name": "VanEck Consumer Discretionary TruSector ETF",
+   "symbol": "VNMEW",
+   "name": "Vendome Acquisition Corporation I - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRUD"
+   "yahoo_symbol": "VNMEW"
   },
   {
-   "symbol": "TRUT",
-   "name": "VanEck Technology TruSector ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRUT"
-  },
-  {
-   "symbol": "ZNB",
-   "name": "Zeta Network Group - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZNB"
+   "symbol": "BIT.R",
+   "name": "BlackRock Multi-Sector Income Trust Rights (expiring September 9, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIT.R"
   }
  ],
  "removed": [
   {
-   "symbol": "STRRP",
-   "name": "Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock",
+   "symbol": "PTEC",
+   "name": "Global X PropTech ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STRRP"
+   "yahoo_symbol": "PTEC"
   },
   {
-   "symbol": "OM",
-   "name": "Osisko Metals Incorporated",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OM.V",
+   "symbol": "WNDY",
+   "name": "Global X Wind Energy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WNDY"
+  },
+  {
+   "symbol": "ETHX.B",
+   "name": "CI Galaxy Ethereum ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ETHX.B.TO",
    "instruments": [
     {
-     "name": "Osisko Metals Incorporated",
-     "symbol": "OM"
+     "name": "CI GalxyEthermCA UHG",
+     "symbol": "ETHX.B"
+    },
+    {
+     "name": "CI GalxyEthermUS UH",
+     "symbol": "ETHX.U"
     }
    ]
   },
   {
-   "symbol": "HPKEW",
-   "name": "HighPeak Energy, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HPKEW"
+   "symbol": "PTMN",
+   "name": "Portman Ridge Finance Corporation - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PTMN"
   },
   {
-   "symbol": "ADD",
-   "name": "Color Star Technology Co., Ltd. - Class A Ordinary Shares",
+   "symbol": "SOLX.B",
+   "name": "CI Galaxy Solana ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOLX.B.TO",
+   "instruments": [
+    {
+     "name": "CI Galaxy Sol ETF CA",
+     "symbol": "SOLX.B"
+    },
+    {
+     "name": "CI Galaxy Sol ETF US",
+     "symbol": "SOLX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BIT.V",
+   "name": "BlackRock Multi-Sector Income Trust Rights (expiring September 9, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIT.V"
+  },
+  {
+   "symbol": "POAS",
+   "name": "Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "POAS"
+  },
+  {
+   "symbol": "ONC",
+   "name": "Oncolytics Biotech Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ONC.TO",
+   "instruments": [
+    {
+     "name": "Oncolytics Biotech",
+     "symbol": "ONC"
+    }
+   ]
+  },
+  {
+   "symbol": "MHI",
+   "name": "Pioneer Municipal High Income Fund, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MHI"
+  },
+  {
+   "symbol": "WBND",
+   "name": "Western Asset Total Return ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WBND"
+  },
+  {
+   "symbol": "CMCX.B",
+   "name": "CI Galaxy Multi-Crypto Navigator ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMCX.B.TO",
+   "instruments": [
+    {
+     "name": "CI Galxy MltCryNa CA",
+     "symbol": "CMCX.B"
+    },
+    {
+     "name": "CI GalxyMltCryNav US",
+     "symbol": "CMCX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AYRO",
+   "name": "AYRO, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADD"
+   "yahoo_symbol": "AYRO"
   },
   {
-   "symbol": "STRR",
-   "name": "Star Equity Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STRR"
-  },
-  {
-   "symbol": "RSLV",
-   "name": "Reyna Silver Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RSLV.V",
+   "symbol": "BTCX.B",
+   "name": "CI Galaxy Bitcoin ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BTCX.B.TO",
    "instruments": [
     {
-     "name": "Reyna Silver Corp.",
-     "symbol": "RSLV"
+     "name": "CI GalBitcnCA ETF UH",
+     "symbol": "BTCX.B"
+    },
+    {
+     "name": "CI GalBitcnETF UH US",
+     "symbol": "BTCX.U"
     }
    ]
+  },
+  {
+   "symbol": "MIO",
+   "name": "Pioneer Municipal High Income Opportunities Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MIO"
+  },
+  {
+   "symbol": "MAV",
+   "name": "Pioneer Municipal High Income Advantage Fund, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MAV"
+  },
+  {
+   "symbol": "WINC",
+   "name": "Western Asset Short Duration Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WINC"
+  },
+  {
+   "symbol": "RAYS",
+   "name": "Global X Solar ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAYS"
+  },
+  {
+   "symbol": "XYLO",
+   "name": "Xylo Technologies Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XYLO"
   }
  ]
 }
