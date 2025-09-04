@@ -1,5 +1,5 @@
 {
- "date": "2025-09-03",
+ "date": "2025-09-04",
  "data": [
   {
    "symbol": "ONE",
@@ -6650,6 +6650,18 @@
    ]
   },
   {
+   "symbol": "AUXX",
+   "name": "Gold X2 Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUXX.V",
+   "instruments": [
+    {
+     "name": "Gold X2 Mining Inc.",
+     "symbol": "AUXX"
+    }
+   ]
+  },
+  {
    "symbol": "GLB",
    "name": "Goldbank Mining Corporation",
    "exchange": "TSXV",
@@ -6790,18 +6802,6 @@
     {
      "name": "GoldQuest Mining Corp.",
      "symbol": "GQC"
-    }
-   ]
-  },
-  {
-   "symbol": "GSHR",
-   "name": "Goldshore Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GSHR.V",
-   "instruments": [
-    {
-     "name": "Goldshore Resources Inc.",
-     "symbol": "GSHR"
     }
    ]
   },
@@ -13310,18 +13310,6 @@
    ]
   },
   {
-   "symbol": "REEM.P",
-   "name": "Reem Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "REEM.P.V",
-   "instruments": [
-    {
-     "name": "Reem Capital Corp.",
-     "symbol": "REEM.P"
-    }
-   ]
-  },
-  {
    "symbol": "GIII",
    "name": "ReGen III Corp.",
    "exchange": "TSXV",
@@ -14214,6 +14202,18 @@
     {
      "name": "Searchlight Resources Inc.",
      "symbol": "SCLT"
+    }
+   ]
+  },
+  {
+   "symbol": "SEGN",
+   "name": "Seegnal Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SEGN.V",
+   "instruments": [
+    {
+     "name": "Seegnal Inc.",
+     "symbol": "SEGN"
     }
    ]
   },
@@ -39594,6 +39594,10 @@
     {
      "name": "Purpose Gbl Bnd Fund",
      "symbol": "BND"
+    },
+    {
+     "name": "Purpose Glbl Bd USD",
+     "symbol": "BND.U"
     }
    ]
   },
@@ -46822,6 +46826,12 @@
    "yahoo_symbol": "ATOM"
   },
   {
+   "symbol": "ATON",
+   "name": "AlphaTON Capital Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATON"
+  },
+  {
    "symbol": "ATOS",
    "name": "Atossa Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -48214,6 +48224,12 @@
    "yahoo_symbol": "BNZIW"
   },
   {
+   "symbol": "BODI",
+   "name": "The Beachbody Company, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BODI"
+  },
+  {
    "symbol": "BOED",
    "name": "Direxion Daily BA Bear 1X Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -48884,6 +48900,12 @@
    "name": "Webull Corporation - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BULLW"
+  },
+  {
+   "symbol": "BULX",
+   "name": "GraniteShares 2x Long BULL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BULX"
   },
   {
    "symbol": "BUSE",
@@ -51140,12 +51162,6 @@
    "name": "Champions Oncology, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CSBR"
-  },
-  {
-   "symbol": "CSCI",
-   "name": "COSCIENS Biopharma Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSCI"
   },
   {
    "symbol": "CSCL",
@@ -53432,6 +53448,12 @@
    "name": "eToro Group Ltd. - Class A Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ETOR"
+  },
+  {
+   "symbol": "ETRL",
+   "name": "GraniteShares 2x Long ETOR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETRL"
   },
   {
    "symbol": "ETS",
@@ -57454,6 +57476,12 @@
    "yahoo_symbol": "HYFM"
   },
   {
+   "symbol": "HYFT",
+   "name": "MindWalk Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYFT"
+  },
+  {
    "symbol": "HYLS",
    "name": "First Trust Tactical High Yield ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58448,12 +58476,6 @@
    "name": "Iovance Biotherapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IOVA"
-  },
-  {
-   "symbol": "IPA",
-   "name": "ImmunoPrecise Antibodies Ltd. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IPA"
   },
   {
    "symbol": "IPAR",
@@ -60320,6 +60342,12 @@
    "name": "Liberty Media Corporation - Series C Liberty Live Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LLYVK"
+  },
+  {
+   "symbol": "LLYZ",
+   "name": "Defiance Daily Target 2X Short LLY ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LLYZ"
   },
   {
    "symbol": "LMAT",
@@ -63044,6 +63072,18 @@
    "name": "NMI Holdings Inc - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NMIH"
+  },
+  {
+   "symbol": "NMP",
+   "name": "NMP Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMP"
+  },
+  {
+   "symbol": "NMPAR",
+   "name": "NMP Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMPAR"
   },
   {
    "symbol": "NMPAU",
@@ -65930,12 +65970,6 @@
    "name": "PureTech Health plc - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PRTC"
-  },
-  {
-   "symbol": "PRTG",
-   "name": "Portage Biotech Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PRTG"
   },
   {
    "symbol": "PRTH",
@@ -85210,12 +85244,6 @@
    "yahoo_symbol": "MAC"
   },
   {
-   "symbol": "MAG",
-   "name": "MAG Silver Corporation Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MAG"
-  },
-  {
    "symbol": "MAGN",
    "name": "Magnera Corporation Common Stock",
    "exchange": "NYSE",
@@ -93386,12 +93414,6 @@
    "name": "XPLR Infrastructure, LP Common Units representing limited partner interests",
    "exchange": "NYSE",
    "yahoo_symbol": "XIFR"
-  },
-  {
-   "symbol": "XIN",
-   "name": "Xinyuan Real Estate Co Ltd American Depositary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "XIN"
   },
   {
    "symbol": "XOM",
