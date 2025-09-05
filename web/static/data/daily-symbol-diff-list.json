@@ -1,132 +1,72 @@
 {
  "added": [
   {
-   "symbol": "AUXX",
-   "name": "Gold X2 Mining Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AUXX.V",
-   "instruments": [
-    {
-     "name": "Gold X2 Mining Inc.",
-     "symbol": "AUXX"
-    }
-   ]
+   "symbol": "ANEL",
+   "name": "Defiance Daily Target 2x Long ANET ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANEL"
   },
   {
-   "symbol": "SEGN",
-   "name": "Seegnal Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SEGN.V",
-   "instruments": [
-    {
-     "name": "Seegnal Inc.",
-     "symbol": "SEGN"
-    }
-   ]
-  },
-  {
-   "symbol": "ATON",
-   "name": "AlphaTON Capital Corp. - Common Stock",
+   "symbol": "FCHL",
+   "name": "Fitness Champs Holdings Limited - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATON"
+   "yahoo_symbol": "FCHL"
   },
   {
-   "symbol": "BODI",
-   "name": "The Beachbody Company, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BODI"
-  },
-  {
-   "symbol": "BULX",
-   "name": "GraniteShares 2x Long BULL Daily ETF",
+   "symbol": "GSRFU",
+   "name": "GSR IV Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BULX"
+   "yahoo_symbol": "GSRFU"
   },
   {
-   "symbol": "ETRL",
-   "name": "GraniteShares 2x Long ETOR Daily ETF",
+   "symbol": "STRR",
+   "name": "Star Equity Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRR"
+  },
+  {
+   "symbol": "STRRP",
+   "name": "Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRRP"
+  },
+  {
+   "symbol": "SVACU",
+   "name": "Spring Valley Acquisition Corp. III - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ETRL"
+   "yahoo_symbol": "SVACU"
   },
   {
-   "symbol": "HYFT",
-   "name": "MindWalk Holdings Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HYFT"
-  },
-  {
-   "symbol": "LLYZ",
-   "name": "Defiance Daily Target 2X Short LLY ETF",
+   "symbol": "ZYN",
+   "name": "Defiance Daily Target 2x Long PM ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LLYZ"
-  },
-  {
-   "symbol": "NMP",
-   "name": "NMP Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NMP"
-  },
-  {
-   "symbol": "NMPAR",
-   "name": "NMP Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NMPAR"
+   "yahoo_symbol": "ZYN"
   }
  ],
  "removed": [
   {
-   "symbol": "MAG",
-   "name": "MAG Silver Corporation Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MAG"
+   "symbol": "HSON",
+   "name": "Hudson Global, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HSON"
   },
   {
-   "symbol": "PRTG",
-   "name": "Portage Biotech Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PRTG"
-  },
-  {
-   "symbol": "GSHR",
-   "name": "Goldshore Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GSHR.V",
-   "instruments": [
-    {
-     "name": "Goldshore Resources Inc.",
-     "symbol": "GSHR"
-    }
-   ]
-  },
-  {
-   "symbol": "REEM.P",
-   "name": "Reem Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "REEM.P.V",
-   "instruments": [
-    {
-     "name": "Reem Capital Corp.",
-     "symbol": "REEM.P"
-    }
-   ]
-  },
-  {
-   "symbol": "IPA",
-   "name": "ImmunoPrecise Antibodies Ltd. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IPA"
-  },
-  {
-   "symbol": "XIN",
-   "name": "Xinyuan Real Estate Co Ltd American Depositary Shares",
+   "symbol": "AC",
+   "name": "Associated Capital Group, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "XIN"
+   "yahoo_symbol": "AC"
   },
   {
-   "symbol": "CSCI",
-   "name": "COSCIENS Biopharma Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSCI"
+   "symbol": "HSONP",
+   "name": "Hudson Global, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HSONP"
+  },
+  {
+   "symbol": "GMS",
+   "name": "GMS Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GMS"
   }
  ]
 }
