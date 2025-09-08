@@ -52,7 +52,6 @@ ATI,Altai Resources Inc.,TSXV,ATI.V,Altai Resources Inc,ATI
 AVX,Altair Resources Inc.,TSXV,AVX.V,Altair Resources Inc.,AVX
 ALTA,Altamira Gold Corp.,TSXV,ALTA.V,Altamira Gold Corp.,ALTA
 ALTR.P,Alterego Ventures 24 Corp.,TSXV,ALTR.P.V,Alterego Ventures 24 Corp.,ALTR.P
-ARH,Altima Energy Inc.,TSXV,ARH.V,Altima Energy Inc.,ARH
 APN,Altiplano Metals Inc.,TSXV,APN.V,Altiplano Metals Inc.,APN
 ALTU,Altura Energy Corp.,TSXV,ALTU.V,Altura Energy Corp.,ALTU,Altura Energy Corp. wt 08Nov2026,ALTU.WT
 ALT,Alturas Minerals Corp.,TSXV,ALT.V,Alturas Minerals Corp,ALT
@@ -62,7 +61,6 @@ AHR,Amarc Resources Ltd.,TSXV,AHR.V,Amarc Resources Ltd.,AHR
 AMRQ,Amaroq Ltd.,TSXV,AMRQ.V,Amaroq Ltd.,AMRQ
 AMYA.P,Amaya Big Sky Capital Corp.,TSXV,AMYA.P.V,Amaya Big Sky Capital Corp.,AMYA.P
 MEGO.P,Amego Capital Corp.,TSXV,MEGO.P.V,Amego Capital Corp.,MEGO.P
-AMK,American Creek Resources Ltd.,TSXV,AMK.V,American Creek Resources Ltd.,AMK
 AE,American Eagle Gold Corp.,TSXV,AE.V,American Eagle Gold Corp.,AE
 LI,American Lithium Corp.,TSXV,LI.V,American Lithium Corp.,LI
 AMT,AmeriTrust Financial Technologies Inc.,TSXV,AMT.V,AmeriTrust Financial Technologies Inc.,AMT
@@ -587,6 +585,7 @@ GRB,Greenbriar Sustainable Living Inc.,TSXV,GRB.V,Greenbriar Sustainable Living 
 VGN,Greencastle Resources Ltd.,TSXV,VGN.V,Greencastle Resources Ltd.,VGN
 GHRT,Greenheart Gold Inc.,TSXV,GHRT.V,Greenheart Gold Inc.,GHRT
 GRL,GreenLight Metals Inc.,TSXV,GRL.V,GreenLight Metals Inc.,GRL
+GPV,GreenPower Motor Company Inc.,TSXV,GPV.V,GreenPower Motor Company Inc.,GPV
 WOLF,Grey Wolf Animal Health Corp.,TSXV,WOLF.V,Grey Wolf Animal Health Corp.,WOLF
 CELL,Grid Battery Metals Inc.,TSXV,CELL.V,Grid Battery Metals Inc.,CELL
 GRDM,Grid Metals Corp.,TSXV,GRDM.V,Grid Metals Corp.,GRDM
@@ -1303,6 +1302,7 @@ TMG,Thermal Energy International Inc.,TSXV,TMG.V,Thermal Energy International In
 TAU,Thesis Gold Inc.,TSXV,TAU.V,Thesis Gold Inc.,TAU
 TTI,"Thiogenesis Therapeutics, Corp.",TSXV,TTI.V,"Thiogenesis Therapeutics, Corp.",TTI
 THX,Thor Explorations Ltd.,TSXV,THX.V,Thor Explorations Ltd,THX
+TVC,Three Valley Copper Corp.,TSXV,TVC.V,Three Valley Copper Corp.,TVC
 YAY,THS Maple Holdings Ltd.,TSXV,YAY.V,THS Maple Holdings Ltd.,YAY
 TGOL,Thunder Gold Corp.,TSXV,TGOL.V,Thunder Gold Corp.,TGOL
 THM,"Thunder Mountain Gold, Inc.",TSXV,THM.V,"Thunder Mountain Gold, Inc.",THM
@@ -2837,7 +2837,6 @@ QUIG,Mackenzie US Investment Grade Corporate Bond Index ETF (CAD-Hedged),TSX,QUI
 QUU,Mackenzie US Large Cap Equity Index ETF,TSX,QUU.TO,Mackenzie USLrgCapEq,QUU
 QAH,Mackenzie US Large Cap Equity Index ETF (CAD-Hedged),TSX,QAH.TO,MackenzieUS LrgCapCH,QAH
 MPC,Madison Pacific Properties Inc.,TSX,MPC.TO,Madison Pacific Cl B,MPC,Madison Pacific NV C,MPC.C
-MAG,MAG Silver Corp.,TSX,MAG.TO,MAG Silver Corp. J,MAG
 MAL,Magellan Aerospace Corporation,TSX,MAL.TO,Magellan Aerospace,MAL
 MG,Magna International Inc.,TSX,MG.TO,Magna Int'l Inc.,MG
 MEQ,Mainstreet Equity Corp.,TSX,MEQ.TO,Mainstreet Equity J,MEQ
@@ -6238,6 +6237,9 @@ MBX,"MBX Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,MBX
 MCBS,"MetroCity Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCBS
 MCDS,JPMorgan Fundamental Data Science Mid Core ETF,NASDAQ Global MarketSM,MCDS
 MCFT,"MasterCraft Boat Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,MCFT
+MCGA,Yorkville Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,MCGA
+MCGAU,Yorkville Acquisition Corp. - Unit,NASDAQ Global MarketSM,MCGAU
+MCGAW,Yorkville Acquisition Corp. - Warrant,NASDAQ Global MarketSM,MCGAW
 MCHB,Mechanics Bancorp - Class A Common Stock,NASDAQ Global Select MarketSM,MCHB
 MCHI,iShares MSCI China ETF,NASDAQ Global MarketSM,MCHI
 MCHP,Microchip Technology Incorporated - Common Stock,NASDAQ Global Select MarketSM,MCHP
@@ -7617,7 +7619,9 @@ SNWV,"SANUWAVE Health, Inc. - Common Stock",NASDAQ Global MarketSM,SNWV
 SNY,Sanofi - American Depositary Shares,NASDAQ Global Select MarketSM,SNY
 SNYR,Synergy CHC Corp. - Common Stock,NASDAQ Capital Market,SNYR
 SOBR,"SOBR Safe, Inc. - Common Stock",NASDAQ Capital Market,SOBR
+SOCA,Solarius Capital Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,SOCA
 SOCAU,Solarius Capital Acquisition Corp. - Units,NASDAQ Global MarketSM,SOCAU
+SOCAW,Solarius Capital Acquisition Corp. - Warrant,NASDAQ Global MarketSM,SOCAW
 SOCL,Global X Social Media ETF,NASDAQ Global MarketSM,SOCL
 SOFI,"SoFi Technologies, Inc.  - Common Stock",NASDAQ Global Select MarketSM,SOFI
 SOFX,Defiance Daily Target 2X Long SOFI ETF,NASDAQ Global MarketSM,SOFX
@@ -7694,6 +7698,7 @@ SSBI,Summit State Bank - Common Stock,NASDAQ Global MarketSM,SSBI
 SSEAU,Starry Sea Acquisition Corp - Unit,NASDAQ Capital Market,SSEAU
 SSII,SS Innovations International Inc. - Common Stock,NASDAQ Capital Market,SSII
 SSKN,"Strata Skin Sciences, Inc. - Common Stock",NASDAQ Capital Market,SSKN
+SSM,Sono Group N.V. - Ordinary Shares,NASDAQ Capital Market,SSM
 SSNC,"SS&C Technologies Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SSNC
 SSP,E.W. Scripps Company (The) - Class A Common Stock,NASDAQ Global Select MarketSM,SSP
 SSRM,SSR Mining Inc. - Common Stock,NASDAQ Global Select MarketSM,SSRM
@@ -8434,9 +8439,6 @@ YMAT,"J-Star Holding Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,YMAT
 YMT,Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares,NASDAQ Global MarketSM,YMT
 YNOT,Horizon Digital Frontier ETF,NASDAQ Global MarketSM,YNOT
 YOKE,YOKE Core ETF,NASDAQ Global MarketSM,YOKE
-YORK,Yorkville Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,YORK
-YORKU,Yorkville Acquisition Corp. - Unit,NASDAQ Global MarketSM,YORKU
-YORKW,Yorkville Acquisition Corp. - Warrant,NASDAQ Global MarketSM,YORKW
 YORW,The York Water Company - Common Stock,NASDAQ Global Select MarketSM,YORW
 YOUL,Youlife Group Inc. - American Depositary Shares,NASDAQ Capital Market,YOUL
 YQ,17 Education & Technology Group Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,YQ
@@ -9628,7 +9630,6 @@ FINV,FinVolution Group American Depositary Shares,NYSE,FINV
 FIS,"Fidelity National Information Services, Inc. Common Stock",NYSE,FIS
 FISK,"Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests",NYSE ARCA,FISK
 FIX,"Comfort Systems USA, Inc. Common Stock",NYSE,FIX
-FL,"Foot Locker, Inc.",NYSE,FL
 FLC,Flaherty & Crumrine Total Return Fund Inc Common Stock,NYSE,FLC
 FLG,"Flagstar Financial, Inc. Common Stock",NYSE,FLG
 FLG$A,"Flagstar Financial, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",NYSE,FLG$A
@@ -10674,7 +10675,9 @@ PACS,"PACS Group, Inc. Common Stock",NYSE,PACS
 PAG,"Penske Automotive Group, Inc. Common Stock",NYSE,PAG
 PAGS,PagSeguro Digital Ltd. Class A Common Shares,NYSE,PAGS
 PAI,Western Asset Investment Grade Income Fund Inc.,NYSE,PAI
+PAII,Pyrophyte Acquisition Corp. II Class A Ordinary Shares,NYSE,PAII
 PAII.U,"Pyrophyte Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,PAII.U
+PAII.W,"Pyrophyte Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",NYSE,PAII.W
 PAM,Pampa Energia S.A.,NYSE,PAM
 PAPL,Pineapple Financial Inc. Common Stock,NYSE MKT,PAPL
 PAR,PAR Technology Corporation Common Stock,NYSE,PAR
@@ -11149,7 +11152,7 @@ SOLV,Solventum Corporation Common Stock,NYSE,SOLV
 SON,Sonoco Products Company Common Stock,NYSE,SON
 SONY,Sony Group Corporation American Depositary Shares ,NYSE,SONY
 SOR,"Source Capital, Inc. Cmn Shs of BI",NYSE,SOR
-SOS,"SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares",NYSE,SOS
+SOS,SOS Limited Class A Ordinary Shares,NYSE,SOS
 SOUL,Soulpower Acquisition Corporation Class A Ordinary Shares,NYSE,SOUL
 SOUL.R,"Soulpower Acquisition Corporation Rights, each right entitling the holder to receive one-tenth (1/10) of one Class A Ordinary Share",NYSE,SOUL.R
 SOUL.U,"Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",NYSE,SOUL.U

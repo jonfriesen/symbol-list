@@ -1,5 +1,5 @@
 {
- "date": "2025-09-05",
+ "date": "2025-09-08",
  "data": [
   {
    "symbol": "ONE",
@@ -638,18 +638,6 @@
    ]
   },
   {
-   "symbol": "ARH",
-   "name": "Altima Energy Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ARH.V",
-   "instruments": [
-    {
-     "name": "Altima Energy Inc.",
-     "symbol": "ARH"
-    }
-   ]
-  },
-  {
    "symbol": "APN",
    "name": "Altiplano Metals Inc.",
    "exchange": "TSXV",
@@ -758,18 +746,6 @@
     {
      "name": "Amego Capital Corp.",
      "symbol": "MEGO.P"
-    }
-   ]
-  },
-  {
-   "symbol": "AMK",
-   "name": "American Creek Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMK.V",
-   "instruments": [
-    {
-     "name": "American Creek Resources Ltd.",
-     "symbol": "AMK"
     }
    ]
   },
@@ -7110,6 +7086,18 @@
     {
      "name": "GreenLight Metals Inc.",
      "symbol": "GRL"
+    }
+   ]
+  },
+  {
+   "symbol": "GPV",
+   "name": "GreenPower Motor Company Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPV.V",
+   "instruments": [
+    {
+     "name": "GreenPower Motor Company Inc.",
+     "symbol": "GPV"
     }
    ]
   },
@@ -15830,6 +15818,18 @@
     {
      "name": "Thor Explorations Ltd",
      "symbol": "THX"
+    }
+   ]
+  },
+  {
+   "symbol": "TVC",
+   "name": "Three Valley Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TVC.V",
+   "instruments": [
+    {
+     "name": "Three Valley Copper Corp.",
+     "symbol": "TVC"
     }
    ]
   },
@@ -36358,18 +36358,6 @@
     {
      "name": "Madison Pacific NV C",
      "symbol": "MPC.C"
-    }
-   ]
-  },
-  {
-   "symbol": "MAG",
-   "name": "MAG Silver Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MAG.TO",
-   "instruments": [
-    {
-     "name": "MAG Silver Corp. J",
-     "symbol": "MAG"
     }
    ]
   },
@@ -61190,6 +61178,24 @@
    "yahoo_symbol": "MCFT"
   },
   {
+   "symbol": "MCGA",
+   "name": "Yorkville Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCGA"
+  },
+  {
+   "symbol": "MCGAU",
+   "name": "Yorkville Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCGAU"
+  },
+  {
+   "symbol": "MCGAW",
+   "name": "Yorkville Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCGAW"
+  },
+  {
    "symbol": "MCHB",
    "name": "Mechanics Bancorp - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69464,10 +69470,22 @@
    "yahoo_symbol": "SOBR"
   },
   {
+   "symbol": "SOCA",
+   "name": "Solarius Capital Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOCA"
+  },
+  {
    "symbol": "SOCAU",
    "name": "Solarius Capital Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SOCAU"
+  },
+  {
+   "symbol": "SOCAW",
+   "name": "Solarius Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOCAW"
   },
   {
    "symbol": "SOCL",
@@ -69924,6 +69942,12 @@
    "name": "Strata Skin Sciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SSKN"
+  },
+  {
+   "symbol": "SSM",
+   "name": "Sono Group N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SSM"
   },
   {
    "symbol": "SSNC",
@@ -74364,24 +74388,6 @@
    "name": "YOKE Core ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "YOKE"
-  },
-  {
-   "symbol": "YORK",
-   "name": "Yorkville Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YORK"
-  },
-  {
-   "symbol": "YORKU",
-   "name": "Yorkville Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YORKU"
-  },
-  {
-   "symbol": "YORKW",
-   "name": "Yorkville Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YORKW"
   },
   {
    "symbol": "YORW",
@@ -81530,12 +81536,6 @@
    "yahoo_symbol": "FIX"
   },
   {
-   "symbol": "FL",
-   "name": "Foot Locker, Inc.",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FL"
-  },
-  {
    "symbol": "FLC",
    "name": "Flaherty \u0026 Crumrine Total Return Fund Inc Common Stock",
    "exchange": "NYSE",
@@ -87806,10 +87806,22 @@
    "yahoo_symbol": "PAI"
   },
   {
+   "symbol": "PAII",
+   "name": "Pyrophyte Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PAII"
+  },
+  {
    "symbol": "PAII.U",
    "name": "Pyrophyte Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "PAII.U"
+  },
+  {
+   "symbol": "PAII.W",
+   "name": "Pyrophyte Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PAII.W"
   },
   {
    "symbol": "PAM",
@@ -90657,7 +90669,7 @@
   },
   {
    "symbol": "SOS",
-   "name": "SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares",
+   "name": "SOS Limited Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "SOS"
   },
