@@ -1,5 +1,5 @@
 {
- "date": "2025-09-08",
+ "date": "2025-09-09",
  "data": [
   {
    "symbol": "ONE",
@@ -12214,6 +12214,18 @@
     {
      "name": "PC 1 Corp.",
      "symbol": "PCAA.P"
+    }
+   ]
+  },
+  {
+   "symbol": "PCU",
+   "name": "Pecoy Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCU.V",
+   "instruments": [
+    {
+     "name": "Pecoy Copper Corp.",
+     "symbol": "PCU"
     }
    ]
   },
@@ -38686,6 +38698,18 @@
    ]
   },
   {
+   "symbol": "PFIN",
+   "name": "PICTON Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFIN.TO",
+   "instruments": [
+    {
+     "name": "PICTON Income Fd ETF",
+     "symbol": "PFIN"
+    }
+   ]
+  },
+  {
    "symbol": "PFIG",
    "name": "PICTON Investment Grade Alternative Fund",
    "exchange": "TSX",
@@ -54309,13 +54333,13 @@
   },
   {
    "symbol": "FGNX",
-   "name": "Fundamental Global Inc. - Common Stock",
+   "name": "FG Nexus Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FGNX"
   },
   {
    "symbol": "FGNXP",
-   "name": "Fundamental Global Inc. - 8.00% Cumulative Series A Preferred Stock",
+   "name": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FGNXP"
   },
@@ -67323,7 +67347,7 @@
   },
   {
    "symbol": "RENB",
-   "name": "Renovaro Inc. - Common Stock",
+   "name": "Lunai Bioworks Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RENB"
   },
@@ -69690,6 +69714,18 @@
    "name": "STKd 100% SMCI \u0026 100% NVDA ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SPCY"
+  },
+  {
+   "symbol": "SPEG",
+   "name": "Silver Pegasus Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPEG"
+  },
+  {
+   "symbol": "SPEGR",
+   "name": "Silver Pegasus Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPEGR"
   },
   {
    "symbol": "SPEGU",
@@ -77154,12 +77190,6 @@
    "name": "BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "BIT"
-  },
-  {
-   "symbol": "BIT.R",
-   "name": "BlackRock Multi-Sector Income Trust Rights (expiring September 9, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIT.R"
   },
   {
    "symbol": "BJ",
