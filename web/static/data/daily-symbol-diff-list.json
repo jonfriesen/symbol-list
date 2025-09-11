@@ -1,112 +1,184 @@
 {
  "added": [
   {
-   "symbol": "BIGY",
-   "name": "Evolve US Equity UltraYield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BIGY.TO",
+   "symbol": "EXCL",
+   "name": "Excalibur Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EXCL.V",
    "instruments": [
     {
-     "name": "Evolve US Eq UY C Hg",
-     "symbol": "BIGY"
+     "name": "Excalibur Metals Corp.",
+     "symbol": "EXCL"
     }
    ]
   },
   {
-   "symbol": "FMR",
-   "name": "Future Mineral Resources Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "FMR.TO",
-   "instruments": [
-    {
-     "name": "Sulliden Mng Cap J",
-     "symbol": "FMR"
-    }
-   ]
-  },
-  {
-   "symbol": "KLAR",
-   "name": "Klarna Group plc Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KLAR"
-  },
-  {
-   "symbol": "RIV.V",
-   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RIV.V"
-  },
-  {
-   "symbol": "BRKRP",
-   "name": "Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A",
+   "symbol": "AGNCZ",
+   "name": "AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BRKRP"
+   "yahoo_symbol": "AGNCZ"
   },
   {
-   "symbol": "ORIQ",
-   "name": "Origin Investment Corp I - Ordinary Shares",
+   "symbol": "BLZRU",
+   "name": "Trailblazer Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ORIQ"
+   "yahoo_symbol": "BLZRU"
   },
   {
-   "symbol": "ORIQW",
-   "name": "Origin Investment Corp I - one-half of one redeemable warrant.",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ORIQW"
-  },
-  {
-   "symbol": "STKE",
-   "name": "Sol Strategies Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "STKE"
-  },
-  {
-   "symbol": "TLNCU",
-   "name": "Talon Capital Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLNCU"
-  },
-  {
-   "symbol": "ZGM",
-   "name": "Zenta Group Company Limited - Ordinary Shares",
+   "symbol": "LITS",
+   "name": "Lite Strategy, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZGM"
+   "yahoo_symbol": "LITS"
+  },
+  {
+   "symbol": "METL",
+   "name": "Sprott Active Metals \u0026 Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "METL"
+  },
+  {
+   "symbol": "ORBS",
+   "name": "Eightco Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORBS"
+  },
+  {
+   "symbol": "SMOM",
+   "name": "Symmetry Panoramic Sector Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMOM"
+  },
+  {
+   "symbol": "ANGX",
+   "name": "Angel Studios, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANGX"
+  },
+  {
+   "symbol": "EMO.V",
+   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EMO.V"
   }
  ],
  "removed": [
   {
-   "symbol": "CSPN",
-   "name": "CareSpan Health, Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CSPN.V",
-   "instruments": [
-    {
-     "name": "CareSpan Health, Inc.",
-     "symbol": "CSPN"
-    }
-   ]
-  },
-  {
-   "symbol": "VXTR",
-   "name": "Voxtur Analytics Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VXTR.V",
-   "instruments": [
-    {
-     "name": "Voxtur Analytics Corp.",
-     "symbol": "VXTR"
-    }
-   ]
-  },
-  {
-   "symbol": "SMC",
-   "name": "Sulliden Mining Capital Inc.",
+   "symbol": "RXD",
+   "name": "RBC Quant Emerging Markets Dividend Leaders ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "SMC.TO",
+   "yahoo_symbol": "RXD.TO",
    "instruments": [
     {
-     "name": "Sulliden Mng Cap J",
-     "symbol": "SMC"
+     "name": "RBC Quant EmrgMktDiv",
+     "symbol": "RXD"
+    },
+    {
+     "name": "RBC Quant EmrgMkt US",
+     "symbol": "RXD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RQN",
+   "name": "RBC Target 2025 Canadian Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQN.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt25CDNCorp Bnd",
+     "symbol": "RQN"
+    }
+   ]
+  },
+  {
+   "symbol": "RUBY",
+   "name": "RBC U.S. Banks Yield Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUBY.TO",
+   "instruments": [
+    {
+     "name": "RBC US Banks Yld CAD",
+     "symbol": "RUBY"
+    },
+    {
+     "name": "RBC US Banks Yld USF",
+     "symbol": "RUBY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQN",
+   "name": "RBC Target 2025 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQN.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt 25USCrpCaBnd",
+     "symbol": "RUQN"
+    },
+    {
+     "name": "RBC Tgt25USCrpUSBnd",
+     "symbol": "RUQN.U"
+    }
+   ]
+  },
+  {
+   "symbol": "VOC.P",
+   "name": "Victory Opportunities 1 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOC.P.V",
+   "instruments": [
+    {
+     "name": "Victory Opportunities 1 Corp.",
+     "symbol": "VOC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "RGQN",
+   "name": "RBC Target 2025 Canadian Government Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RGQN.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt25 CDN GovBnd",
+     "symbol": "RGQN"
+    }
+   ]
+  },
+  {
+   "symbol": "RPSB",
+   "name": "RBC PH\u0026N Short Term Canadian Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPSB.TO",
+   "instruments": [
+    {
+     "name": "RBC PH\u0026N ST CA Bond",
+     "symbol": "RPSB"
+    }
+   ]
+  },
+  {
+   "symbol": "OCTO",
+   "name": "Eightco Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCTO"
+  },
+  {
+   "symbol": "MEIP",
+   "name": "MEI Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEIP"
+  },
+  {
+   "symbol": "RUBH",
+   "name": "RBC U.S. Banks Yield (CAD Hedged) Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUBH.TO",
+   "instruments": [
+    {
+     "name": "RBC USBanksYld CA-Hg",
+     "symbol": "RUBH"
     }
    ]
   }
