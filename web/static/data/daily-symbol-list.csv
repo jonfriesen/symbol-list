@@ -6,6 +6,7 @@ FNR,49 North Resources Inc.,TSXV,FNR.V,49 North Resources Inc.,FNR
 FIVD.P,5D Acquisition Corp.,TSXV,FIVD.P.V,5D Acquisition Corp.,FIVD.P
 ALAB.P,A-Labs Capital II Corp.,TSXV,ALAB.P.V,A-Labs Capital II Corp.,ALAB.P
 AIS,A.I.S. Resources Limited,TSXV,AIS.V,A.I.S. Resources Limited,AIS
+AUAU,A2 Gold Corp.,TSXV,AUAU.V,A2 Gold Corp.,AUAU
 AZC.P,A2ZCryptocap Inc.,TSXV,AZC.P.V,A2ZCryptocap Inc.,AZC.P
 AAAJ.P,AAJ Capital 3 Corp.,TSXV,AAAJ.P.V,AAJ Capital 3 Corp.,AAAJ.P
 AME,Abacus Mining & Exploration Corporation,TSXV,AME.V,Abacus Mining & Exploration Corporation,AME
@@ -41,7 +42,6 @@ WAM,Alaska Silver Corp.,TSXV,WAM.V,Alaska Silver Corp.,WAM
 ALBT.P,Albatros Acquisition Corporation Inc.,TSXV,ALBT.P.V,Albatros Acquisition Corporation Inc.,ALBT.P
 ALDD.P,ALDD Ventures Corp.,TSXV,ALDD.P.V,ALDD Ventures Corp.,ALDD.P
 ALDE,Aldebaran Resources Inc.,TSXV,ALDE.V,Aldebaran Resources Inc.,ALDE
-AUAU,Allegiant Gold Ltd.,TSXV,AUAU.V,Allegiant Gold Ltd.,AUAU
 ALM,Alliance Mining Corp.,TSXV,ALM.V,Alliance Mining Corp.,ALM
 AMM,Almaden Minerals Ltd.,TSXV,AMM.V,Almaden Minerals Ltd.,AMM
 DEX,Almadex Minerals Ltd.,TSXV,DEX.V,Almadex Minerals Ltd.,DEX
@@ -859,6 +859,7 @@ MHI,Mineral Hill Industries Ltd.,TSXV,MHI.V,Mineral Hill Industries Ltd.,MHI
 BLUE,Mines D'or Orbec Inc.,TSXV,BLUE.V,Mines D'or Orbec Inc.,BLUE
 MNLX,Miniluxe Holding Corp.,TSXV,MNLX.V,Miniluxe Holding Corp.,MNLX
 MINK,Mink Ventures Corporation,TSXV,MINK.V,Mink Ventures Corporation,MINK
+MCI,Minnova Corp.,TSXV,MCI.V,Minnova Corp.,MCI
 MSR,Minsud Resources Corp.,TSXV,MSR.V,Minsud Resources Corp.,MSR
 MRZ,Mirasol Resources Ltd.,TSXV,MRZ.V,Mirasol Resources Ltd.,MRZ
 MSG,Mithril Silver and Gold Limited,TSXV,MSG.V,Mithril Silver and Gold Limited,MSG
@@ -969,6 +970,7 @@ ONYX,Onyx Gold Corp.,TSXV,ONYX.V,Onyx Gold Corp.,ONYX
 OPW,Opawica Explorations Inc.,TSXV,OPW.V,Opawica Explorations Inc.,OPW
 OPEN.P,OpenSesame Acquisition Corp.,TSXV,OPEN.P.V,OpenSesame Acquisition Corp.,OPEN.P
 OPHR,Ophir Metals Corp.,TSXV,OPHR.V,Ophir Metals Corp.,OPHR
+OPTG,Optegra Ventures Inc.,TSXV,OPTG.V,Optegra Ventures Inc.,OPTG
 OOR,Opus One Gold Corporation,TSXV,OOR.V,Opus One Gold Corporation,OOR
 ORCL,Oracle Commodity Holding Corp.,TSXV,ORCL.V,Oracle Commodity Holding Corp.,ORCL
 ORC.A,Orca Energy Group Inc.,TSXV,ORC.A.V,Orca Energy Group Inc. ser A,ORC.A,Orca Energy Group Inc. ser B,ORC.B
@@ -1868,7 +1870,7 @@ GIB.A,CGI Inc.,TSX,GIB.A.TO,CGI Inc. Cl A SV,GIB.A
 CIA,Champion Iron Limited,TSX,CIA.TO,Champion Iron Ord J,CIA
 CWEB,"Charlotte's Web Holdings, Inc.",TSX,CWEB.TO,Charlotte's Web Hldg,CWEB
 CSH.UN,Chartwell Retirement Residences,TSX,CSH.UN.TO,Chartwell Retire Un,CSH.UN
-CHE.DB.E,Chemtrade Logistics Income Fund,TSX,CHE.DB.E.TO,Chemtrade Lgst6.5Deb,CHE.DB.E,Chemtrade Lgst6.25Db,CHE.DB.G,Chemtrade Lgst 7% Db,CHE.DB.H,Chemtrade Logistc Un,CHE.UN
+CHE.DB.G,Chemtrade Logistics Income Fund,TSX,CHE.DB.G.TO,Chemtrade Lgst6.25Db,CHE.DB.G,Chemtrade Lgst 7% Db,CHE.DB.H,Chemtrade Logistc Un,CHE.UN
 CGG,China Gold International Resources Corp. Ltd.,TSX,CGG.TO,China Gld Intl Res J,CGG
 CHP.UN,Choice Properties Real Estate Investment Trust,TSX,CHP.UN.TO,Choice Ppty REIT Un,CHP.UN
 CHR,Chorus Aviation Inc.,TSX,CHR.TO,Chorus Aviation V&VV,CHR,Chorus Aviatn 6%26Db,CHR.DB.B,Chorus Aviatn5.75DbC,CHR.DB.C
@@ -2060,7 +2062,7 @@ DOL,Dollarama Inc.,TSX,DOL.TO,Dollarama Inc.,DOL
 DBM,Doman Building Materials Group Ltd.,TSX,DBM.TO,Doman Bldg Materials,DBM
 DLCG,Dominion Lending Centres Inc.,TSX,DLCG.TO,Dominion Lending J A,DLCG
 DII.A,Dorel Industries Inc.,TSX,DII.A.TO,Dorel Ind Inc A MV,DII.A,Dorel Ind Inc B SV,DII.B
-DPM,DPM Metals Inc.,TSX,DPM.TO,Dundee Precious Mtl,DPM
+DPM,DPM Metals Inc.,TSX,DPM.TO,DPM Metals Inc.,DPM
 MPCT.DB,Dream Impact Trust,TSX,MPCT.DB.TO,Dream Impact 5.5 Deb,MPCT.DB,Dream Impact 5.75 Db,MPCT.DB.A,Dream Impact Tr Un,MPCT.UN
 DIR.UN,Dream Industrial Real Estate Investment Trust,TSX,DIR.UN.TO,Dream Industrl REIT,DIR.UN
 D.UN,Dream Office Real Estate Investment Trust,TSX,D.UN.TO,Dream Office REIT Un,D.UN
@@ -2925,11 +2927,19 @@ NA,National Bank of Canada,TSX,NA.TO,Nat'l Bank of Canada,NA,Nat'l Bank Ser 38 P
 NPRF,NBI Active Canadian Preferred Shares ETF,TSX,NPRF.TO,NBI ActvCdnPrShr Un ,NPRF
 NINT,NBI Active International Equity ETF,TSX,NINT.TO,NBI ActiveIntl Eq Un,NINT
 NUSA,NBI Active U.S. Equity ETF,TSX,NUSA.TO,NBI Active US Eq Un,NUSA,NBI Active US Eq Hdg,NUSA.F
+NCPB,NBI Canadian Core Plus Bond Fund,TSX,NCPB.TO,NBI Cdn CoPls Bd ETF,NCPB
 NDIV,NBI Canadian Dividend Income ETF,TSX,NDIV.TO,NBI Cdn Div Incom Un,NDIV
+NBGE,NBI Global Equity Fund,TSX,NBGE.TO,NBI Glb Eqty Fnd ETF,NBGE,NBI Gl Eqty Fnd ETFH,NBGE.F
 NGPE,NBI Global Private Equity ETF,TSX,NGPE.TO,NBI GlblPrivateEq Un,NGPE
 NREA,NBI Global Real Assets Income ETF,TSX,NREA.TO,NBI GlblRl AssetIncm,NREA
+NBSC,NBI Global Small Cap Fund,TSX,NBSC.TO,NBI Glb Sml CpFd ETF,NBSC,NBI Glb Sl CpFd ETFH,NBSC.F
 NHYB,NBI High Yield Bond ETF,TSX,NHYB.TO,NBI HighYld Bond Un,NHYB
+NINV,NBI Innovators Fund,TSX,NINV.TO,NBI Innovator Fd ETF,NINV,NBI Innvtors Fd ETFH,NINV.F
+NBIE,NBI International Equity Fund,TSX,NBIE.TO,NBI Intl Eqty Fd ETF,NBIE,NBI Intl EqtyFd ETFH,NBIE.F
 NALT,NBI Liquid Alternatives ETF,TSX,NALT.TO,NBI Liquid Alternatv,NALT
+NBQC,NBI Quebec Growth Fund,TSX,NBQC.TO,NBI Quebec Grwth Fd,NBQC
+NSDI,NBI SmartData International Equity Fund,TSX,NSDI.TO,NBI SmtDta IntEq ETF,NSDI,NBI SmDta IntEq ETFH,NSDI.F
+NSDU,NBI SmartData U.S. Equity Fund,TSX,NSDU.TO,NBI SmaData USEq ETF,NSDU,NBI SmData USEq ETFH,NSDU.F
 NSCB,NBI Sustainable Canadian Bond ETF,TSX,NSCB.TO,NBI SustainCdnBnd Un,NSCB
 NSCC,NBI Sustainable Canadian Corporate Bond ETF,TSX,NSCC.TO,NBI SustainCA CrpBnd,NSCC
 NSCE,NBI Sustainable Canadian Equity ETF,TSX,NSCE.TO,NBI SustainCdnEq Un,NSCE
@@ -2938,6 +2948,10 @@ NSGE,NBI Sustainable Global Equity ETF,TSX,NSGE.TO,NBI SustainGlblEq Un,NSGE
 NTGA,NBI Target 2026 Investment Grade Bond Fund,TSX,NTGA.TO,NBI Ta2026 InGrBd Fd,NTGA
 NTGB,NBI Target 2027 Investment Grade Bond Fund,TSX,NTGB.TO,NBI Ta2027 InGrBd Fd,NTGB
 NTGC,NBI Target 2028 Investment Grade Bond Fund,TSX,NTGC.TO,NBI Ta2028 InGrBd Fd,NTGC
+NTGD,NBI Target 2029 Investment Grade Bond Fund,TSX,NTGD.TO,NBI T2029 Igb Fd ETF,NTGD
+NTGE,NBI Target 2030 Investment Grade Bond Fund,TSX,NTGE.TO,NBI Trgt 2030 Inv Fd,NTGE
+NTGF,NBI Target 2031 Investment Grade Bond Fund,TSX,NTGF.TO,NBI Trgt 2031 Inv GB,NTGF
+NBUE,NBI U.S. Equity Fund,TSX,NBUE.TO,NBI US Equity Fd ETF,NBUE,NBI US Eqty Fd ETFH,NBUE.F
 NUBF,NBI Unconstrained Fixed Income ETF,TSX,NUBF.TO,NBI Unconstr FxdIncm,NUBF
 NEO,Neo Performance Materials Inc.,TSX,NEO.TO,Neo Perform Material,NEO
 NGD,New Gold Inc.,TSX,NGD.TO,New Gold Inc.,NGD
@@ -3275,6 +3289,7 @@ TEC,TD Global Technology Leaders Index ETF,TSX,TEC.TO,TD Glbl TechLeadrsCA,TEC,T
 TGRO,TD Growth ETF Portfolio,TSX,TGRO.TO,TD Growth Port Un,TGRO
 THE,TD International Equity CAD Hedged Index ETF,TSX,THE.TO,TD Int'l Eqty CA Heg,THE
 TPE,TD International Equity Index ETF,TSX,TPE.TO,TD Int'l Eqty Idx Un,TPE
+TDNA,TD North American Dividend Fund,TSX,TDNA.TO,TD NA Divd Fund ETF,TDNA
 TQCD,TD Q Canadian Dividend ETF,TSX,TQCD.TO,TD Q Cdn Div ETF Un,TQCD
 TCLV,TD Q Canadian Low Volatility ETF,TSX,TCLV.TO,TD Q Cdn LowVolty CA,TCLV
 TQGD,TD Q Global Dividend ETF,TSX,TQGD.TO,TD Q Glbl Div ETF Un,TQGD
@@ -3957,6 +3972,8 @@ BDMDW,Baird Medical Investment Holdings Ltd - Warrant,NASDAQ Capital Market,BDMD
 BDRX,Biodexa Pharmaceuticals plc - American Depositary Shares,NASDAQ Capital Market,BDRX
 BDSX,"Biodesix, Inc. - Common Stock",NASDAQ Global MarketSM,BDSX
 BDTX,"Black Diamond Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,BDTX
+BDVL,iShares Disciplined Volatility Equity Active ETF,NASDAQ Global MarketSM,BDVL
+BDYN,iShares Dynamic Equity Active ETF,NASDAQ Global MarketSM,BDYN
 BEAG,Bold Eagle Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,BEAG
 BEAGR,Bold Eagle Acquisition Corp. - Right,NASDAQ Global MarketSM,BEAGR
 BEAGU,Bold Eagle Acquisition Corp. - Units,NASDAQ Global MarketSM,BEAGU
@@ -5416,7 +5433,7 @@ GRPN,"Groupon, Inc. - Common Stock",NASDAQ Global Select MarketSM,GRPN
 GRRR,Gorilla Technology Group Inc. - Ordinary shares,NASDAQ Capital Market,GRRR
 GRRRW,Gorilla Technology Group Inc. - Warrant,NASDAQ Capital Market,GRRRW
 GRVY,"GRAVITY Co., Ltd. - American depositary shares, each representing one common share.",NASDAQ Global MarketSM,GRVY
-GRW,TCW Compounders ETF,NASDAQ Global MarketSM,GRW
+GRW,TCW Durable Growth ETF,NASDAQ Global MarketSM,GRW
 GRWG,GrowGeneration Corp. - Common Stock,NASDAQ Capital Market,GRWG
 GSAT,"Globalstar, Inc. - Common Stock",NASDAQ Global Select MarketSM,GSAT
 GSBC,"Great Southern Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,GSBC
@@ -6324,6 +6341,7 @@ MLAB,"Mesa Laboratories, Inc. - Common Stock",NASDAQ Global Select MarketSM,MLAB
 MLAC,Mountain Lake Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,MLAC
 MLACR,Mountain Lake Acquisition Corp. - Right,NASDAQ Global MarketSM,MLACR
 MLACU,Mountain Lake Acquisition Corp. - Units,NASDAQ Global MarketSM,MLACU
+MLCI,Mount Logan Capital Inc. - Common Stock,NASDAQ Capital Market,MLCI
 MLCO,Melco Resorts & Entertainment Limited - American Depositary Shares ,NASDAQ Global Select MarketSM,MLCO
 MLEC,Moolec Science SA - Ordinary shares,NASDAQ Capital Market,MLEC
 MLECW,Moolec Science SA - Warrant,NASDAQ Capital Market,MLECW
@@ -6778,7 +6796,7 @@ ORGO,Organogenesis Holdings Inc.  - Class A ,NASDAQ Capital Market,ORGO
 ORIC,"Oric Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ORIC
 ORIQ,Origin Investment Corp I - Ordinary Shares,NASDAQ Global MarketSM,ORIQ
 ORIQU,Origin Investment Corp I - Units,NASDAQ Global MarketSM,ORIQU
-ORIQW,Origin Investment Corp I - one-half of one redeemable warrant.,NASDAQ Global MarketSM,ORIQW
+ORIQW,Origin Investment Corp I - Redeemable Warrant,NASDAQ Global MarketSM,ORIQW
 ORIS,Oriental Rise Holdings Limited - Ordinary Shares,NASDAQ Capital Market,ORIS
 ORKA,"Oruka Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,ORKA
 ORKT,Orangekloud Technology Inc. - Class A Ordinary Shares,NASDAQ Capital Market,ORKT
@@ -7673,6 +7691,7 @@ SPKLW,Spark I Acquisition Corp. - Warrant,NASDAQ Global MarketSM,SPKLW
 SPNS,Sapiens International Corporation N.V. - Common Shares,NASDAQ Global Select MarketSM,SPNS
 SPOK,"Spok Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SPOK
 SPPL,SIMPPLE LTD. - Ordinary Shares,NASDAQ Capital Market,SPPL
+SPRB,"Spruce Biosciences, Inc. - Common Stock",NASDAQ Capital Market,SPRB
 SPRC,SciSparc Ltd. - Ordinary Shares,NASDAQ Capital Market,SPRC
 SPRO,"Spero Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,SPRO
 SPRX,Spear Alpha ETF,NASDAQ Global MarketSM,SPRX
@@ -7799,6 +7818,7 @@ SYPR,"Sypris Solutions, Inc. - Common Stock",NASDAQ Global MarketSM,SYPR
 SYRE,"Spyre Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,SYRE
 SYTA,"Siyata Mobile, Inc. - Common Shares",NASDAQ Capital Market,SYTA
 SYTAW,"Siyata Mobile, Inc. - Warrant",NASDAQ Capital Market,SYTAW
+SYZ,Lazard US Systematic Small Cap Equity ETF,NASDAQ Global MarketSM,SYZ
 SZZL,Sizzle Acquisition Corp. II - Class A ordinary shares,NASDAQ Global MarketSM,SZZL
 SZZLR,Sizzle Acquisition Corp. II - Right,NASDAQ Global MarketSM,SZZLR
 SZZLU,Sizzle Acquisition Corp. II - Unit,NASDAQ Global MarketSM,SZZLU
@@ -9102,6 +9122,7 @@ CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,NYSE,CHMI
 CHMI$A,Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Redeemable Preferred Stock,NYSE,CHMI$A
 CHMI$B,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,CHMI$B
 CHN,"China Fund, Inc. (The) Common Stock",NYSE,CHN
+CHOW,ChowChow Cloud International Holdings Limited Ordinary Shares,NYSE MKT,CHOW
 CHPT,"ChargePoint Holdings, Inc. Common Stock",NYSE,CHPT
 CHT,"Chunghwa Telecom Co., Ltd.",NYSE,CHT
 CHWY,"Chewy, Inc. Class A Common Stock",NYSE,CHWY
