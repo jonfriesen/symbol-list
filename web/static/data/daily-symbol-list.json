@@ -1,14 +1,14 @@
 {
- "date": "2025-09-16",
+ "date": "2025-09-17",
  "data": [
   {
    "symbol": "ONE",
-   "name": "01 Communique Laboratory Inc.",
+   "name": "01 Quantum Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "ONE.V",
    "instruments": [
     {
-     "name": "01 Communique Laboratory Inc.",
+     "name": "01 Quantum Inc.",
      "symbol": "ONE"
     }
    ]
@@ -2198,18 +2198,6 @@
     {
      "name": "Blue Moon Metals Inc.",
      "symbol": "MOON"
-    }
-   ]
-  },
-  {
-   "symbol": "BGE",
-   "name": "Blue Sky Global Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BGE.V",
-   "instruments": [
-    {
-     "name": "Blue Sky Global Energy Corp.",
-     "symbol": "BGE"
     }
    ]
   },
@@ -12048,7 +12036,7 @@
    "yahoo_symbol": "PALI.V",
    "instruments": [
     {
-     "name": "Palisades Goldcorp Ltd.",
+     "name": "Palisades Goldcorp Ltd. ",
      "symbol": "PALI"
     },
     {
@@ -13626,6 +13614,18 @@
    ]
   },
   {
+   "symbol": "RRRL",
+   "name": "River Road Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RRRL.V",
+   "instruments": [
+    {
+     "name": "River Road Resources Ltd.",
+     "symbol": "RRRL"
+    }
+   ]
+  },
+  {
    "symbol": "RRI",
    "name": "Riverside Resources Inc.",
    "exchange": "TSXV",
@@ -13950,6 +13950,18 @@
     {
      "name": "Rusoro Mining Ltd",
      "symbol": "RML"
+    }
+   ]
+  },
+  {
+   "symbol": "SABA",
+   "name": "Saba Energy Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SABA.V",
+   "instruments": [
+    {
+     "name": "Saba Energy Ltd.",
+     "symbol": "SABA"
     }
    ]
   },
@@ -38138,6 +38150,18 @@
    ]
   },
   {
+   "symbol": "GBSL",
+   "name": "Ninepoint Global Select Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GBSL.TO",
+   "instruments": [
+    {
+     "name": "NP Glb Slct Fd ETF",
+     "symbol": "GBSL"
+    }
+   ]
+  },
+  {
    "symbol": "GLDE",
    "name": "Ninepoint Gold and Precious Minerals Fund",
    "exchange": "TSX",
@@ -46026,6 +46050,12 @@
    "yahoo_symbol": "AMWD"
   },
   {
+   "symbol": "AMYY",
+   "name": "GraniteShares YieldBOOST AMD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMYY"
+  },
+  {
    "symbol": "AMZD",
    "name": "Direxion Daily AMZN Bear 1X Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -47284,6 +47314,12 @@
    "name": "Azenta, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AZTA"
+  },
+  {
+   "symbol": "AZYY",
+   "name": "GraniteShares YieldBoost AMZN ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AZYY"
   },
   {
    "symbol": "BABX",
@@ -50104,6 +50140,12 @@
    "name": "Churchill Downs, Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CHDN"
+  },
+  {
+   "symbol": "CHECU",
+   "name": "Chenghe Acquisition III Co. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHECU"
   },
   {
    "symbol": "CHEF",
@@ -74610,12 +74652,6 @@
    "yahoo_symbol": "YLDE"
   },
   {
-   "symbol": "YMAB",
-   "name": "Y-mAbs Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "YMAB"
-  },
-  {
    "symbol": "YMAT",
    "name": "J-Star Holding Co., Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -80916,10 +80952,10 @@
    "yahoo_symbol": "EMO"
   },
   {
-   "symbol": "EMO.V",
-   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights when issued",
+   "symbol": "EMO.R",
+   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "EMO.V"
+   "yahoo_symbol": "EMO.R"
   },
   {
    "symbol": "EMP",
@@ -89640,10 +89676,10 @@
    "yahoo_symbol": "RIV$A"
   },
   {
-   "symbol": "RIV.V",
-   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights when issued",
+   "symbol": "RIV.R",
+   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "RIV.V"
+   "yahoo_symbol": "RIV.R"
   },
   {
    "symbol": "RJF",
@@ -91075,7 +91111,7 @@
   },
   {
    "symbol": "SQNS",
-   "name": "Sequans Communications S.A. American Depositary Shares (each representing ten (10) Ordinary Shares)",
+   "name": "Sequans Communications S.A. American Depositary Shares (each representing one hundred (100) Ordinary Shares)",
    "exchange": "NYSE",
    "yahoo_symbol": "SQNS"
   },
@@ -91270,6 +91306,12 @@
    "name": "State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative",
    "exchange": "NYSE",
    "yahoo_symbol": "STT$G"
+  },
+  {
+   "symbol": "STUB",
+   "name": "StubHub Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STUB"
   },
   {
    "symbol": "STVN",
@@ -93220,6 +93262,12 @@
    "name": "Waters Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "WAT"
+  },
+  {
+   "symbol": "WBI",
+   "name": "WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WBI"
   },
   {
    "symbol": "WBS",
