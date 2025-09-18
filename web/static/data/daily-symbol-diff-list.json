@@ -1,114 +1,108 @@
 {
  "added": [
   {
-   "symbol": "RRRL",
-   "name": "River Road Resources Ltd.",
+   "symbol": "XGC",
+   "name": "Xali Gold Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "RRRL.V",
+   "yahoo_symbol": "XGC.V",
    "instruments": [
     {
-     "name": "River Road Resources Ltd.",
-     "symbol": "RRRL"
+     "name": "Xali Gold Corp.",
+     "symbol": "XGC"
     }
    ]
   },
   {
-   "symbol": "SABA",
-   "name": "Saba Energy Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SABA.V",
-   "instruments": [
-    {
-     "name": "Saba Energy Ltd.",
-     "symbol": "SABA"
-    }
-   ]
-  },
-  {
-   "symbol": "GBSL",
-   "name": "Ninepoint Global Select Fund",
+   "symbol": "SRSL",
+   "name": "BetaPro -3x Russell 2000 Daily Leveraged Bear Alternative ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "GBSL.TO",
+   "yahoo_symbol": "SRSL.TO",
    "instruments": [
     {
-     "name": "NP Glb Slct Fd ETF",
-     "symbol": "GBSL"
+     "name": "BtaPro 3x R Lvrg A E",
+     "symbol": "SRSL"
     }
    ]
   },
   {
-   "symbol": "AMYY",
-   "name": "GraniteShares YieldBOOST AMD ETF",
+   "symbol": "TRSL",
+   "name": "BetaPro 3x Russell 2000 Daily Leveraged Bull Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TRSL.TO",
+   "instruments": [
+    {
+     "name": "Bp3x R2000 Dlvba ETF",
+     "symbol": "TRSL"
+    }
+   ]
+  },
+  {
+   "symbol": "QQI",
+   "name": "BetaPro Nasdaq-100 Daily Inverse ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQI.TO",
+   "instruments": [
+    {
+     "name": "BtaPro Nsdq100 D I E",
+     "symbol": "QQI"
+    }
+   ]
+  },
+  {
+   "symbol": "CANY",
+   "name": "Evolve Canadian Equity UltraYield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CANY.TO",
+   "instruments": [
+    {
+     "name": "Ev Cd Eqty U Yld ETF",
+     "symbol": "CANY"
+    }
+   ]
+  },
+  {
+   "symbol": "CIMP",
+   "name": "Chimera Investment Corporation 8.875% Senior Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIMP"
+  },
+  {
+   "symbol": "BRBI",
+   "name": "BRBI BR Partners S.A. - ADSs",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRBI"
+  },
+  {
+   "symbol": "BSMZ",
+   "name": "Invesco BulletShares 2035 Municipal Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMYY"
+   "yahoo_symbol": "BSMZ"
   },
   {
-   "symbol": "AZYY",
-   "name": "GraniteShares YieldBoost AMZN ETF",
+   "symbol": "CDIG",
+   "name": "City Different Investments Global Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AZYY"
+   "yahoo_symbol": "CDIG"
   },
   {
-   "symbol": "CHECU",
-   "name": "Chenghe Acquisition III Co. - Units",
+   "symbol": "MYCO",
+   "name": "SPDR SSGA My2035 Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHECU"
+   "yahoo_symbol": "MYCO"
   },
   {
-   "symbol": "EMO.R",
-   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EMO.R"
-  },
-  {
-   "symbol": "RIV.R",
-   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RIV.R"
-  },
-  {
-   "symbol": "STUB",
-   "name": "StubHub Holdings, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "STUB"
-  },
-  {
-   "symbol": "WBI",
-   "name": "WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WBI"
+   "symbol": "MYMK",
+   "name": "SPDR SSGA My2031 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMK"
   }
  ],
  "removed": [
   {
-   "symbol": "YMAB",
-   "name": "Y-mAbs Therapeutics, Inc. - Common Stock",
+   "symbol": "HLVX",
+   "name": "HilleVax, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "YMAB"
-  },
-  {
-   "symbol": "BGE",
-   "name": "Blue Sky Global Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BGE.V",
-   "instruments": [
-    {
-     "name": "Blue Sky Global Energy Corp.",
-     "symbol": "BGE"
-    }
-   ]
-  },
-  {
-   "symbol": "EMO.V",
-   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EMO.V"
-  },
-  {
-   "symbol": "RIV.V",
-   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RIV.V"
+   "yahoo_symbol": "HLVX"
   }
  ]
 }
