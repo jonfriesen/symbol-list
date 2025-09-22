@@ -1,98 +1,124 @@
 {
  "added": [
   {
-   "symbol": "AEC",
-   "name": "Anfield Energy Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEC"
+   "symbol": "SLCA",
+   "name": "Sun Life Core Advantage Credit Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLCA.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Cacpp ETF",
+     "symbol": "SLCA"
+    }
+   ]
   },
   {
-   "symbol": "COTG",
-   "name": "Leverage Shares 2X Long COST Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "COTG"
+   "symbol": "SLSC",
+   "name": "Sun Life Crescent Specialty Credit Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLSC.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Crs Spcl C",
+     "symbol": "SLSC"
+    }
+   ]
   },
   {
-   "symbol": "ETHI",
-   "name": "Defiance Leveraged Long Income Ethereum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ETHI"
+   "symbol": "SLGC",
+   "name": "Sun Life MFS Global Core Plus Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLGC.TO",
+   "instruments": [
+    {
+     "name": "Sun Lfe Glb C P B F",
+     "symbol": "SLGC"
+    }
+   ]
   },
   {
-   "symbol": "NA",
-   "name": "Nano Labs Ltd - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NA"
-  },
-  {
-   "symbol": "NTSK",
-   "name": "Netskope, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NTSK"
-  },
-  {
-   "symbol": "QLDY",
-   "name": "Defiance Nasdaq 100 LightningSpread Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QLDY"
-  },
-  {
-   "symbol": "YDKG",
-   "name": "Yueda Digital Holding - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YDKG"
-  },
-  {
-   "symbol": "UTF.V",
-   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights when issued",
+   "symbol": "DTK",
+   "name": "DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085",
    "exchange": "NYSE",
-   "yahoo_symbol": "UTF.V"
+   "yahoo_symbol": "DTK"
+  },
+  {
+   "symbol": "IPST",
+   "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPST"
+  },
+  {
+   "symbol": "KOYN",
+   "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYN"
+  },
+  {
+   "symbol": "KOYNW",
+   "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYNW"
+  },
+  {
+   "symbol": "LATAU",
+   "name": "Galata Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATAU"
+  },
+  {
+   "symbol": "PLTS",
+   "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLTS"
+  },
+  {
+   "symbol": "PTRN",
+   "name": "Pattern Group Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PTRN"
   }
  ],
  "removed": [
   {
-   "symbol": "NA",
-   "name": "Nano Labs Ltd - Class A Ordinary Shares",
+   "symbol": "JPI",
+   "name": "Nuveen Preferred Securities \u0026 Income Opportunities Fund Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JPI"
+  },
+  {
+   "symbol": "LSB",
+   "name": "LakeShore Biopharma Co., Ltd - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NA"
+   "yahoo_symbol": "LSB"
   },
   {
-   "symbol": "ANTE",
-   "name": "AirNet Technology Inc. - Ordinary Share",
+   "symbol": "LSBPW",
+   "name": "LakeShore Biopharma Co., Ltd - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ANTE"
+   "yahoo_symbol": "LSBPW"
   },
   {
-   "symbol": "FAASW",
-   "name": "DigiAsia Corp. - Warrant",
+   "symbol": "NXLIW",
+   "name": "Nexalin Technology, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FAASW"
+   "yahoo_symbol": "NXLIW"
   },
   {
-   "symbol": "OXSQZ",
-   "name": "Oxford Square Capital Corp. - 6.25% Notes due 2026",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OXSQZ"
-  },
-  {
-   "symbol": "FAAS",
-   "name": "DigiAsia Corp. - Ordinary Shares",
+   "symbol": "CASK",
+   "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FAAS"
+   "yahoo_symbol": "CASK"
   },
   {
-   "symbol": "EXRO",
-   "name": "Exro Technologies Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "EXRO.TO",
+   "symbol": "SRES",
+   "name": "Sun Residential Real Estate Investment Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SRES.V",
    "instruments": [
     {
-     "name": "Exro Tech Inc. J",
-     "symbol": "EXRO"
-    },
-    {
-     "name": "Exro Tech Inc Wts",
-     "symbol": "EXRO.WT.A"
+     "name": "Sun Residential Real Estate Investment Trust",
+     "symbol": "SRES"
     }
    ]
   }
