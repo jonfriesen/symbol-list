@@ -1,126 +1,72 @@
 {
  "added": [
   {
-   "symbol": "SLCA",
-   "name": "Sun Life Core Advantage Credit Private Pool",
-   "exchange": "TSX",
-   "yahoo_symbol": "SLCA.TO",
-   "instruments": [
-    {
-     "name": "Sun Life Cacpp ETF",
-     "symbol": "SLCA"
-    }
-   ]
+   "symbol": "BCAB",
+   "name": "BioAtla, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCAB"
   },
   {
-   "symbol": "SLSC",
-   "name": "Sun Life Crescent Specialty Credit Private Pool",
-   "exchange": "TSX",
-   "yahoo_symbol": "SLSC.TO",
-   "instruments": [
-    {
-     "name": "Sun Life Crs Spcl C",
-     "symbol": "SLSC"
-    }
-   ]
+   "symbol": "HCMA",
+   "name": "HCM III Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCMA"
   },
   {
-   "symbol": "SLGC",
-   "name": "Sun Life MFS Global Core Plus Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "SLGC.TO",
-   "instruments": [
-    {
-     "name": "Sun Lfe Glb C P B F",
-     "symbol": "SLGC"
-    }
-   ]
+   "symbol": "HCMAW",
+   "name": "HCM III Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCMAW"
   },
   {
-   "symbol": "DTK",
-   "name": "DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085",
+   "symbol": "CMPO",
+   "name": "CompoSecure, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "DTK"
+   "yahoo_symbol": "CMPO"
   },
   {
-   "symbol": "IPST",
-   "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IPST"
-  },
-  {
-   "symbol": "KOYN",
-   "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KOYN"
-  },
-  {
-   "symbol": "KOYNW",
-   "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KOYNW"
-  },
-  {
-   "symbol": "LATAU",
-   "name": "Galata Acquisition Corp. II - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LATAU"
-  },
-  {
-   "symbol": "PLTS",
-   "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLTS"
-  },
-  {
-   "symbol": "PTRN",
-   "name": "Pattern Group Inc. - Series A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PTRN"
+   "symbol": "RHLD",
+   "name": "Resolute Holdings Management Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RHLD"
   }
  ],
  "removed": [
   {
-   "symbol": "JPI",
-   "name": "Nuveen Preferred Securities \u0026 Income Opportunities Fund Common Shares",
+   "symbol": "CMPO",
+   "name": "CompoSecure, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMPO"
+  },
+  {
+   "symbol": "VHC",
+   "name": "VirnetX Holding Corp Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "JPI"
+   "yahoo_symbol": "VHC"
   },
   {
-   "symbol": "LSB",
-   "name": "LakeShore Biopharma Co., Ltd - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LSB"
+   "symbol": "BRFS",
+   "name": "BRF S.A.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRFS"
   },
   {
-   "symbol": "LSBPW",
-   "name": "LakeShore Biopharma Co., Ltd - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LSBPW"
+   "symbol": "RHLD",
+   "name": "Resolute Holdings Management - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RHLD"
   },
   {
-   "symbol": "NXLIW",
-   "name": "Nexalin Technology, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NXLIW"
+   "symbol": "SPTN",
+   "name": "SpartanNash Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPTN"
   },
   {
-   "symbol": "CASK",
-   "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CASK"
-  },
-  {
-   "symbol": "SRES",
-   "name": "Sun Residential Real Estate Investment Trust",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SRES.V",
-   "instruments": [
-    {
-     "name": "Sun Residential Real Estate Investment Trust",
-     "symbol": "SRES"
-    }
-   ]
+   "symbol": "BCAB",
+   "name": "BioAtla, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCAB"
   }
  ]
 }
