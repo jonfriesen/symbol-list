@@ -1,126 +1,102 @@
 {
  "added": [
   {
-   "symbol": "ASE",
-   "name": "Asante Gold Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ASE.V",
-   "instruments": [
-    {
-     "name": "Asante Gold Corporation",
-     "symbol": "ASE"
-    }
-   ]
-  },
-  {
-   "symbol": "LXM",
-   "name": "Lux Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LXM.V",
-   "instruments": [
-    {
-     "name": "Lux Metals Corp.",
-     "symbol": "LXM"
-    }
-   ]
-  },
-  {
-   "symbol": "CHRI",
-   "name": "Global X S\u0026P 500 Christian Values ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHRI"
-  },
-  {
-   "symbol": "DYNB",
-   "name": "Hartford Dynamic Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DYNB"
-  },
-  {
-   "symbol": "QCLS",
-   "name": "Q/C Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QCLS"
-  },
-  {
-   "symbol": "UTF.R",
-   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights",
+   "symbol": "AEXA",
+   "name": "American Exceptionalism Acquisition Corp. A Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "UTF.R"
+   "yahoo_symbol": "AEXA"
+  },
+  {
+   "symbol": "BKT.V",
+   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKT.V"
+  },
+  {
+   "symbol": "FCRS.U",
+   "name": "FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FCRS.U"
+  },
+  {
+   "symbol": "DMIIU",
+   "name": "Drugs Made In America Acquisition II Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMIIU"
+  },
+  {
+   "symbol": "EMISU",
+   "name": "Emmis Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMISU"
+  },
+  {
+   "symbol": "GDFN",
+   "name": "Tema International Defense Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GDFN"
+  },
+  {
+   "symbol": "GEW",
+   "name": "Cambria Global EW ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEW"
+  },
+  {
+   "symbol": "KDK",
+   "name": "Kodiak AI, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KDK"
+  },
+  {
+   "symbol": "KDKRW",
+   "name": "Kodiak AI, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KDKRW"
+  },
+  {
+   "symbol": "OSCX",
+   "name": "Defiance Daily Target 2x Long OSCR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSCX"
   }
  ],
  "removed": [
   {
-   "symbol": "AACT.U",
-   "name": "Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "symbol": "PHT",
+   "name": "Pioneer High Income Fund, Inc.",
    "exchange": "NYSE",
-   "yahoo_symbol": "AACT.U"
+   "yahoo_symbol": "PHT"
   },
   {
-   "symbol": "TNFA",
-   "name": "TNF Pharmaceuticals, Inc.  - Common Stock",
+   "symbol": "HNW",
+   "name": "Pioneer Diversified High Income Fund, Inc.",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HNW"
+  },
+  {
+   "symbol": "THTX",
+   "name": "Theratechnologies Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TNFA"
+   "yahoo_symbol": "THTX"
   },
   {
-   "symbol": "AACT",
-   "name": "Ares Acquisition Corporation II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AACT"
-  },
-  {
-   "symbol": "DALN",
-   "name": "DallasNews Corporation - Series A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DALN"
-  },
-  {
-   "symbol": "SYTAW",
-   "name": "Siyata Mobile, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SYTAW"
-  },
-  {
-   "symbol": "NGT",
-   "name": "Newmont Corporation",
+   "symbol": "ORA",
+   "name": "Aura Minerals Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "NGT.TO",
+   "yahoo_symbol": "ORA.TO",
    "instruments": [
     {
-     "name": "Newmont Corporation",
-     "symbol": "NGT"
+     "name": "Aura Minerals Inc. J",
+     "symbol": "ORA"
     }
    ]
   },
   {
-   "symbol": "UTF.V",
-   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights when issued",
+   "symbol": "KLG",
+   "name": "WK Kellogg Co Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "UTF.V"
-  },
-  {
-   "symbol": "AACT.W",
-   "name": "Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AACT.W"
-  },
-  {
-   "symbol": "HMAN",
-   "name": "Huntsman Exploration Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HMAN.V",
-   "instruments": [
-    {
-     "name": "Huntsman Exploration Inc.",
-     "symbol": "HMAN"
-    }
-   ]
-  },
-  {
-   "symbol": "BASE",
-   "name": "Couchbase, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BASE"
+   "yahoo_symbol": "KLG"
   }
  ]
 }
