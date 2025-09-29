@@ -1,102 +1,96 @@
 {
  "added": [
   {
-   "symbol": "AEXA",
-   "name": "American Exceptionalism Acquisition Corp. A Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AEXA"
-  },
-  {
-   "symbol": "BKT.V",
-   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKT.V"
-  },
-  {
-   "symbol": "FCRS.U",
-   "name": "FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FCRS.U"
-  },
-  {
-   "symbol": "DMIIU",
-   "name": "Drugs Made In America Acquisition II Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DMIIU"
-  },
-  {
-   "symbol": "EMISU",
-   "name": "Emmis Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMISU"
-  },
-  {
-   "symbol": "GDFN",
-   "name": "Tema International Defense Innovation ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GDFN"
-  },
-  {
-   "symbol": "GEW",
-   "name": "Cambria Global EW ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GEW"
-  },
-  {
-   "symbol": "KDK",
-   "name": "Kodiak AI, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KDK"
-  },
-  {
-   "symbol": "KDKRW",
-   "name": "Kodiak AI, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KDKRW"
-  },
-  {
-   "symbol": "OSCX",
-   "name": "Defiance Daily Target 2x Long OSCR ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OSCX"
-  }
- ],
- "removed": [
-  {
-   "symbol": "PHT",
-   "name": "Pioneer High Income Fund, Inc.",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PHT"
-  },
-  {
-   "symbol": "HNW",
-   "name": "Pioneer Diversified High Income Fund, Inc.",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "HNW"
-  },
-  {
-   "symbol": "THTX",
-   "name": "Theratechnologies Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "THTX"
-  },
-  {
-   "symbol": "ORA",
-   "name": "Aura Minerals Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ORA.TO",
+   "symbol": "BPAG",
+   "name": "BP Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BPAG.V",
    "instruments": [
     {
-     "name": "Aura Minerals Inc. J",
-     "symbol": "ORA"
+     "name": "BP Silver Corp.",
+     "symbol": "BPAG"
     }
    ]
   },
   {
-   "symbol": "KLG",
-   "name": "WK Kellogg Co Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KLG"
+   "symbol": "KORE",
+   "name": "Kore Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KORE.V",
+   "instruments": [
+    {
+     "name": "Kore Mining Ltd.",
+     "symbol": "KORE"
+    }
+   ]
+  },
+  {
+   "symbol": "BTQ",
+   "name": "BTQ Technologies Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTQ"
+  },
+  {
+   "symbol": "CNQQ",
+   "name": "Rayliant-ChinaAMC Transformative China Tech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNQQ"
+  },
+  {
+   "symbol": "GPT",
+   "name": "Intelligent Alpha Atlas ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPT"
+  },
+  {
+   "symbol": "MGN",
+   "name": "Megan Holdings Limited - Ordinary shares.",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGN"
+  },
+  {
+   "symbol": "KNRX",
+   "name": "KNOREX LTD. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KNRX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TH",
+   "name": "Theratechnologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TH.TO",
+   "instruments": [
+    {
+     "name": "Theratechnologies",
+     "symbol": "TH"
+    }
+   ]
+  },
+  {
+   "symbol": "FRS.P",
+   "name": "Farstarcap Investment Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRS.P.V",
+   "instruments": [
+    {
+     "name": "Farstarcap Investment Corp.",
+     "symbol": "FRS.P"
+    }
+   ]
+  },
+  {
+   "symbol": "LIVR",
+   "name": "Intelligent Livermore ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIVR"
+  },
+  {
+   "symbol": "GOVXW",
+   "name": "GeoVax Labs, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GOVXW"
   }
  ]
 }
