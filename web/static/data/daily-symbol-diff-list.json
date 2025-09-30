@@ -1,96 +1,90 @@
 {
  "added": [
   {
-   "symbol": "BPAG",
-   "name": "BP Silver Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BPAG.V",
+   "symbol": "CPKR",
+   "name": "Canada Packers Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CPKR.TO",
    "instruments": [
     {
-     "name": "BP Silver Corp.",
-     "symbol": "BPAG"
+     "name": "Canada Packers Inc",
+     "symbol": "CPKR"
     }
    ]
   },
   {
-   "symbol": "KORE",
-   "name": "Kore Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KORE.V",
-   "instruments": [
-    {
-     "name": "Kore Mining Ltd.",
-     "symbol": "KORE"
-    }
-   ]
-  },
-  {
-   "symbol": "BTQ",
-   "name": "BTQ Technologies Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BTQ"
-  },
-  {
-   "symbol": "CNQQ",
-   "name": "Rayliant-ChinaAMC Transformative China Tech ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNQQ"
-  },
-  {
-   "symbol": "GPT",
-   "name": "Intelligent Alpha Atlas ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GPT"
-  },
-  {
-   "symbol": "MGN",
-   "name": "Megan Holdings Limited - Ordinary shares.",
+   "symbol": "PRHI",
+   "name": "Presurance Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MGN"
+   "yahoo_symbol": "PRHI"
   },
   {
-   "symbol": "KNRX",
-   "name": "KNOREX LTD. Class A Ordinary Shares",
+   "symbol": "PRHIZ",
+   "name": "Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRHIZ"
+  },
+  {
+   "symbol": "BCSS.U",
+   "name": "Bain Capital GSS Investment Corp. Units, each consisting of one Class A Ordinary Share and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BCSS.U"
+  },
+  {
+   "symbol": "PHXE$",
+   "name": "Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "KNRX"
+   "yahoo_symbol": "PHXE$"
+  },
+  {
+   "symbol": "RITM$E",
+   "name": "Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RITM$E"
   }
  ],
  "removed": [
   {
-   "symbol": "TH",
-   "name": "Theratechnologies Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "TH.TO",
-   "instruments": [
-    {
-     "name": "Theratechnologies",
-     "symbol": "TH"
-    }
-   ]
-  },
-  {
-   "symbol": "FRS.P",
-   "name": "Farstarcap Investment Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FRS.P.V",
-   "instruments": [
-    {
-     "name": "Farstarcap Investment Corp.",
-     "symbol": "FRS.P"
-    }
-   ]
-  },
-  {
-   "symbol": "LIVR",
-   "name": "Intelligent Livermore ETF",
+   "symbol": "CNFRZ",
+   "name": "Conifer Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LIVR"
+   "yahoo_symbol": "CNFRZ"
   },
   {
-   "symbol": "GOVXW",
-   "name": "GeoVax Labs, Inc. - Warrants",
+   "symbol": "GECCZ",
+   "name": "Great Elm Capital Corp. - 8.75% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCZ"
+  },
+  {
+   "symbol": "CNFR",
+   "name": "Conifer Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GOVXW"
+   "yahoo_symbol": "CNFR"
+  },
+  {
+   "symbol": "DMYY",
+   "name": "dMY Squared Technology Group, Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DMYY"
+  },
+  {
+   "symbol": "DMYY.U",
+   "name": "dMY Squared Technology Group, Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DMYY.U"
+  },
+  {
+   "symbol": "SCCC",
+   "name": "Sachem Capital Corp. 7.75% Notes due 2025",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SCCC"
+  },
+  {
+   "symbol": "DMYY.W",
+   "name": "dMY Squared Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DMYY.W"
   }
  ]
 }
