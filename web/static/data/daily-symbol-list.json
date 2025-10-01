@@ -1,5 +1,5 @@
 {
- "date": "2025-09-30",
+ "date": "2025-10-01",
  "data": [
   {
    "symbol": "IGBT.UN",
@@ -666,14 +666,6 @@
     {
      "name": "AltaGas Ltd.",
      "symbol": "ALA"
-    },
-    {
-     "name": "AltaGas Ltd Sr A Pr",
-     "symbol": "ALA.PR.A"
-    },
-    {
-     "name": "AltaGas Ltd Sr B Pr",
-     "symbol": "ALA.PR.B"
     },
     {
      "name": "AltaGas Ltd Sr G Pr",
@@ -5620,10 +5612,6 @@
      "symbol": "CHR"
     },
     {
-     "name": "Chorus Aviatn 6%26Db",
-     "symbol": "CHR.DB.B"
-    },
-    {
      "name": "Chorus Aviatn5.75DbC",
      "symbol": "CHR.DB.C"
     }
@@ -6634,6 +6622,42 @@
     {
      "name": "CI Preferred Shr Un",
      "symbol": "FPR"
+    }
+   ]
+  },
+  {
+   "symbol": "CTMA",
+   "name": "CI Target 2028 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTMA.TO",
+   "instruments": [
+    {
+     "name": "CI Trg 2028 Inv Grd",
+     "symbol": "CTMA"
+    }
+   ]
+  },
+  {
+   "symbol": "CTMB",
+   "name": "CI Target 2029 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTMB.TO",
+   "instruments": [
+    {
+     "name": "CI Trg 2029 Inv Grd",
+     "symbol": "CTMB"
+    }
+   ]
+  },
+  {
+   "symbol": "CTMC",
+   "name": "CI Target 2030 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTMC.TO",
+   "instruments": [
+    {
+     "name": "CI Trg 2030 Inv Grd",
+     "symbol": "CTMC"
     }
    ]
   },
@@ -9846,14 +9870,6 @@
     {
      "name": "Fairfax Financial SV",
      "symbol": "FFH"
-    },
-    {
-     "name": "Fairfax Fin Ser G Pr",
-     "symbol": "FFH.PR.G"
-    },
-    {
-     "name": "Fairfax Fin Ser H Pr",
-     "symbol": "FFH.PR.H"
     },
     {
      "name": "Fairfax Fin Ser I Pr",
@@ -13702,6 +13718,18 @@
    ]
   },
   {
+   "symbol": "CRCY",
+   "name": "Harvest Circle Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRCY.TO",
+   "instruments": [
+    {
+     "name": "Harv Crc Enh H I S E",
+     "symbol": "CRCY"
+    }
+   ]
+  },
+  {
    "symbol": "HCLN",
    "name": "Harvest Clean Energy ETF",
    "exchange": "TSX",
@@ -14146,6 +14174,30 @@
    ]
   },
   {
+   "symbol": "RDDY",
+   "name": "Harvest Reddit Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RDDY.TO",
+   "instruments": [
+    {
+     "name": "Harv Rdt EnH H Inc S",
+     "symbol": "RDDY"
+    }
+   ]
+  },
+  {
+   "symbol": "HODY",
+   "name": "Harvest Robinhood Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HODY.TO",
+   "instruments": [
+    {
+     "name": "Harv Rbnh EnH H In E",
+     "symbol": "HODY"
+    }
+   ]
+  },
+  {
    "symbol": "RYHE",
    "name": "Harvest Royal Bank Enhanced High Income Shares ETF",
    "exchange": "TSX",
@@ -14166,6 +14218,18 @@
     {
      "name": "Hrv Shp Enh HiSh ETF",
      "symbol": "SHPE"
+    }
+   ]
+  },
+  {
+   "symbol": "SOFY",
+   "name": "Harvest SoFi Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOFY.TO",
+   "instruments": [
+    {
+     "name": "Harv SoFi En H I S E",
+     "symbol": "SOFY"
     }
    ]
   },
@@ -17338,6 +17402,18 @@
    ]
   },
   {
+   "symbol": "JBND",
+   "name": "JPMorgan US Bond Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JBND.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan US Bd Act E",
+     "symbol": "JBND"
+    }
+   ]
+  },
+  {
    "symbol": "JCOR",
    "name": "JPMorgan US Core Active ETF",
    "exchange": "TSX",
@@ -17370,6 +17446,18 @@
     {
      "name": "JPM US Gr Active ETF",
      "symbol": "JGRO"
+    }
+   ]
+  },
+  {
+   "symbol": "JPST",
+   "name": "JPMorgan US Ultra-Short Income Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JPST.TO",
+   "instruments": [
+    {
+     "name": "JPMrgn US UlShrt I A",
+     "symbol": "JPST"
     }
    ]
   },
@@ -18874,6 +18962,10 @@
     {
      "name": "Maple Leaf Foods Inc",
      "symbol": "MFI"
+    },
+    {
+     "name": "Maple Leaf Foods WI",
+     "symbol": "MFI.W"
     }
    ]
   },
@@ -25210,6 +25302,22 @@
     {
      "name": "Timbercrk Fin 7.5 Db",
      "symbol": "TF.DB.F"
+    }
+   ]
+  },
+  {
+   "symbol": "TINY",
+   "name": "Tiny Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TINY.TO",
+   "instruments": [
+    {
+     "name": "Tiny Ltd",
+     "symbol": "TINY"
+    },
+    {
+     "name": "Tiny Ltd Wts",
+     "symbol": "TINY.WT"
     }
    ]
   },
@@ -34942,6 +35050,18 @@
    ]
   },
   {
+   "symbol": "IMI",
+   "name": "Ironman International Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMI.V",
+   "instruments": [
+    {
+     "name": "Ironman International Ltd.",
+     "symbol": "IMI"
+    }
+   ]
+  },
+  {
    "symbol": "IFOS",
    "name": "Itafos Inc.",
    "exchange": "TSXV",
@@ -35902,18 +36022,6 @@
     {
      "name": "Lions Bay Capital Inc.",
      "symbol": "LBI"
-    }
-   ]
-  },
-  {
-   "symbol": "LTE",
-   "name": "Lite Access Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LTE.V",
-   "instruments": [
-    {
-     "name": "Lite Access Technologies Inc.",
-     "symbol": "LTE"
     }
    ]
   },
@@ -42646,22 +42754,6 @@
    ]
   },
   {
-   "symbol": "TINY",
-   "name": "Tiny Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TINY.V",
-   "instruments": [
-    {
-     "name": "Tiny Ltd.",
-     "symbol": "TINY"
-    },
-    {
-     "name": "Tiny Ltd. wt 09Apr2027",
-     "symbol": "TINY.WT"
-    }
-   ]
-  },
-  {
    "symbol": "TLA",
    "name": "Titan Logix Corp.",
    "exchange": "TSXV",
@@ -46330,6 +46422,12 @@
    "yahoo_symbol": "APA"
   },
   {
+   "symbol": "APACU",
+   "name": "StoneBridge Acquisition II Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APACU"
+  },
+  {
    "symbol": "APAD",
    "name": "A Paradise Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -47726,6 +47824,12 @@
    "name": "Bicycle Therapeutics plc - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BCYC"
+  },
+  {
+   "symbol": "BDCIU",
+   "name": "BTC Development Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BDCIU"
   },
   {
    "symbol": "BDGS",
@@ -52876,6 +52980,12 @@
    "yahoo_symbol": "EA"
   },
   {
+   "symbol": "EASY",
+   "name": "Liberty One Defensive Dividend Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EASY"
+  },
+  {
    "symbol": "EBAY",
    "name": "eBay Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -57358,6 +57468,12 @@
    "yahoo_symbol": "HOWL"
   },
   {
+   "symbol": "HOYY",
+   "name": "GraniteShares YieldBOOST HOOD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOYY"
+  },
+  {
    "symbol": "HPAI",
    "name": "Helport AI Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -57455,7 +57571,7 @@
   },
   {
    "symbol": "HSDT",
-   "name": "Helius Medical Technologies, Inc. - Class A Common Stock",
+   "name": "Solana Company - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HSDT"
   },
@@ -58928,30 +59044,6 @@
    "name": "iRadimed Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IRMD"
-  },
-  {
-   "symbol": "IROH",
-   "name": "Iron Horse Acquisitions Corp. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IROH"
-  },
-  {
-   "symbol": "IROHR",
-   "name": "Iron Horse Acquisitions Corp. - one right to one-fifth (1/5) of one share of common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IROHR"
-  },
-  {
-   "symbol": "IROHU",
-   "name": "Iron Horse Acquisitions Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IROHU"
-  },
-  {
-   "symbol": "IROHW",
-   "name": "Iron Horse Acquisitions Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IROHW"
   },
   {
    "symbol": "IRON",
@@ -60736,6 +60828,12 @@
    "yahoo_symbol": "LMTS"
   },
   {
+   "symbol": "LNAI",
+   "name": "Lunai Bioworks Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LNAI"
+  },
+  {
    "symbol": "LNKB",
    "name": "LINKBANCORP, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -60848,6 +60946,12 @@
    "name": "Lotus Technology Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LOT"
+  },
+  {
+   "symbol": "LOTI",
+   "name": "Liberty One Tactical Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOTI"
   },
   {
    "symbol": "LOTWW",
@@ -61970,12 +62074,6 @@
    "name": "Mitek Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MITK"
-  },
-  {
-   "symbol": "MJID",
-   "name": "Majestic Ideal Holdings Ltd - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MJID"
   },
   {
    "symbol": "MKAM",
@@ -63152,12 +63250,6 @@
    "name": "Nephros, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NEPH"
-  },
-  {
-   "symbol": "NERD",
-   "name": "Roundhill Video Games ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NERD"
   },
   {
    "symbol": "NERV",
@@ -64954,12 +65046,6 @@
    "yahoo_symbol": "OUST"
   },
   {
-   "symbol": "OUSTW",
-   "name": "Ouster, Inc. - Warrants",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OUSTW"
-  },
-  {
    "symbol": "OUSTZ",
    "name": "Ouster, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
@@ -65204,6 +65290,12 @@
    "name": "Passage Bio, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PASG"
+  },
+  {
+   "symbol": "PASW",
+   "name": "Ping An Biomedical Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PASW"
   },
   {
    "symbol": "PATK",
@@ -67276,6 +67368,18 @@
    "yahoo_symbol": "QUIK"
   },
   {
+   "symbol": "QUMS",
+   "name": "Quantumsphere Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QUMS"
+  },
+  {
+   "symbol": "QUMSR",
+   "name": "Quantumsphere Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QUMSR"
+  },
+  {
    "symbol": "QUMSU",
    "name": "Quantumsphere Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -67763,15 +67867,9 @@
   },
   {
    "symbol": "REMG",
-   "name": "Emerging Markets Active ETF",
+   "name": "Russell Investments Emerging Markets Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "REMG"
-  },
-  {
-   "symbol": "RENB",
-   "name": "Lunai Bioworks Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RENB"
   },
   {
    "symbol": "RENT",
@@ -67877,7 +67975,7 @@
   },
   {
    "symbol": "RGLO",
-   "name": "Global Equity Active ETF",
+   "name": "Russell Investments Global Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RGLO"
   },
@@ -67943,7 +68041,7 @@
   },
   {
    "symbol": "RIFR",
-   "name": "Global Infrastructure Active ETF",
+   "name": "Russell Investments Global Infrastructure ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RIFR"
   },
@@ -68015,7 +68113,7 @@
   },
   {
    "symbol": "RINT",
-   "name": "International Developed Equity Active ETF",
+   "name": "Russell Investments International Developed Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RINT"
   },
@@ -68387,7 +68485,7 @@
   },
   {
    "symbol": "RUSC",
-   "name": "US Small Cap Equity Active ETF",
+   "name": "Russell Investments U.S. Small Cap Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RUSC"
   },
@@ -69778,6 +69876,12 @@
    "yahoo_symbol": "SMXWW"
   },
   {
+   "symbol": "SMYY",
+   "name": "GraniteShares YieldBOOST SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMYY"
+  },
+  {
    "symbol": "SNAL",
    "name": "Snail, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -70124,6 +70228,12 @@
    "name": "SuperCom, Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SPCB"
+  },
+  {
+   "symbol": "SPCT",
+   "name": "Liberty One Spectrum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPCT"
   },
   {
    "symbol": "SPCX",
@@ -70744,10 +70854,22 @@
    "yahoo_symbol": "SVA"
   },
   {
+   "symbol": "SVAC",
+   "name": "Spring Valley Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVAC"
+  },
+  {
    "symbol": "SVACU",
    "name": "Spring Valley Acquisition Corp. III - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SVACU"
+  },
+  {
+   "symbol": "SVACW",
+   "name": "Spring Valley Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVACW"
   },
   {
    "symbol": "SVC",
@@ -71512,6 +71634,12 @@
    "yahoo_symbol": "THRM"
   },
   {
+   "symbol": "THRV",
+   "name": "Prospera Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THRV"
+  },
+  {
    "symbol": "THRY",
    "name": "Thryv Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -71882,6 +72010,12 @@
    "name": "Trinity Biotech plc - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TRIB"
+  },
+  {
+   "symbol": "TRIL",
+   "name": "Defiance Trillion Dollar Club Index ETF  ",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRIL"
   },
   {
    "symbol": "TRIN",
@@ -72458,6 +72592,18 @@
    "name": "U Power Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "UCAR"
+  },
+  {
+   "symbol": "UCFI",
+   "name": "CN Healthy Food Tech Group Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UCFI"
+  },
+  {
+   "symbol": "UCFIW",
+   "name": "CN Healthy Food Tech Group Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UCFIW"
   },
   {
    "symbol": "UCL",
@@ -74963,7 +75109,7 @@
   },
   {
    "symbol": "ZDAI",
-   "name": "Primega Group Holdings Limited - Ordinary Shares",
+   "name": "DirectBooking Technology Co., Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZDAI"
   },
@@ -75062,6 +75208,12 @@
    "name": "Zoom Communications, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ZM"
+  },
+  {
+   "symbol": "ZMUN",
+   "name": "F/m Callable Tax-Free Municipal ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZMUN"
   },
   {
    "symbol": "ZNB",
@@ -77686,10 +77838,10 @@
    "yahoo_symbol": "BKT"
   },
   {
-   "symbol": "BKT.V",
-   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights when issued",
+   "symbol": "BKT.R",
+   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "BKT.V"
+   "yahoo_symbol": "BKT.R"
   },
   {
    "symbol": "BKTI",
@@ -82960,12 +83112,6 @@
    "yahoo_symbol": "GNT$A"
   },
   {
-   "symbol": "GNTY",
-   "name": "Guaranty Bancshares, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GNTY"
-  },
-  {
    "symbol": "GNW",
    "name": "Genworth Financial Inc Common Stock",
    "exchange": "NYSE",
@@ -85106,6 +85252,12 @@
    "name": "Kimbell Royalty Partners Common Units Representing Limited Partner Interests",
    "exchange": "NYSE",
    "yahoo_symbol": "KRP"
+  },
+  {
+   "symbol": "KRSP.U",
+   "name": "Rice Acquisition Corporation 3 Units, each consisting of one Class A ordinary share, and one-sixth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KRSP.U"
   },
   {
    "symbol": "KSS",
@@ -87428,6 +87580,12 @@
    "name": "ServiceNow, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "NOW"
+  },
+  {
+   "symbol": "NP",
+   "name": "Neptune Insurance Holdings Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NP"
   },
   {
    "symbol": "NPB",
@@ -93998,6 +94156,12 @@
    "name": "cbdMD, Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "YCBD"
+  },
+  {
+   "symbol": "YCY.U",
+   "name": "AA Mission Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "YCY.U"
   },
   {
    "symbol": "YELP",
