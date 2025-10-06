@@ -1,120 +1,168 @@
 {
  "added": [
   {
-   "symbol": "WEC",
-   "name": "Winchester Equity Corporation",
+   "symbol": "CART",
+   "name": "Carcetti Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "WEC.V",
+   "yahoo_symbol": "CART.V",
    "instruments": [
     {
-     "name": "Winchester Equity Corporation",
-     "symbol": "WEC"
+     "name": "Carcetti Capital Corp.",
+     "symbol": "CART"
     }
    ]
   },
   {
-   "symbol": "BTTC",
-   "name": "Black Titan Corp - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BTTC"
+   "symbol": "RTO.P",
+   "name": "Chrysalis 12 Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RTO.P.V",
+   "instruments": [
+    {
+     "name": "Chrysalis 12 Inc.",
+     "symbol": "RTO.P"
+    }
+   ]
   },
   {
-   "symbol": "CBK",
-   "name": "Commercial Bancgroup, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CBK"
+   "symbol": "BBBB",
+   "name": "Brompton Wellington Square Investment Grade CLO ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BBBB.TO",
+   "instruments": [
+    {
+     "name": "Br Wl Sq Inv Grd C E",
+     "symbol": "BBBB"
+    },
+    {
+     "name": "Br Wl Sq In Gd C E U",
+     "symbol": "BBBB.U"
+    }
+   ]
   },
   {
-   "symbol": "HBIO",
-   "name": "Harvard Bioscience, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HBIO"
+   "symbol": "PVS.PR.H",
+   "name": "Partners Value Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PVS.PR.H.TO",
+   "instruments": [
+    {
+     "name": "Partners ValAA Pr 10",
+     "symbol": "PVS.PR.H"
+    },
+    {
+     "name": "Partners ValAA Pr 12",
+     "symbol": "PVS.PR.J"
+    },
+    {
+     "name": "Partners ValAA Pr 13",
+     "symbol": "PVS.PR.K"
+    },
+    {
+     "name": "Partners Val AA Pr14",
+     "symbol": "PVS.PR.L"
+    },
+    {
+     "name": "Partners Val AA Pr15",
+     "symbol": "PVS.PR.M"
+    },
+    {
+     "name": "Partners ValAA Pr 16",
+     "symbol": "PVS.PR.U"
+    }
+   ]
   },
   {
-   "symbol": "HVMC",
-   "name": "Highview Merger Corp. - Class A Ordinary Share",
+   "symbol": "CCHH",
+   "name": "CCH Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CCHH"
+  },
+  {
+   "symbol": "RNGTU",
+   "name": "Range Capital Acquisition Corp II - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HVMC"
+   "yahoo_symbol": "RNGTU"
   },
   {
-   "symbol": "HVMCW",
-   "name": "Highview Merger Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HVMCW"
-  },
-  {
-   "symbol": "MKLY",
-   "name": "McKinley Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MKLY"
-  },
-  {
-   "symbol": "MKLYR",
-   "name": "McKinley Acquisition Corporation - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MKLYR"
-  },
-  {
-   "symbol": "SLMT",
-   "name": "Brera Holdings PLC - Class B Ordinary Shares",
+   "symbol": "XLO",
+   "name": "Xilio Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLMT"
+   "yahoo_symbol": "XLO"
   },
   {
-   "symbol": "SSEA",
-   "name": "Starry Sea Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SSEA"
-  },
-  {
-   "symbol": "SSEAR",
-   "name": "Starry Sea Acquisition Corp - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SSEAR"
-  },
-  {
-   "symbol": "AIIA.U",
-   "name": "AI Infrastructure Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one Right",
+   "symbol": "TCBX",
+   "name": "Third Coast Bancshares, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "AIIA.U"
-  },
-  {
-   "symbol": "BRW.V",
-   "name": "Saba Capital Income \u0026 Opportunities Fund Rights (expiring October 28, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BRW.V"
+   "yahoo_symbol": "TCBX"
   }
  ],
  "removed": [
   {
-   "symbol": "BREA",
-   "name": "Brera Holdings PLC - Class B Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BREA"
-  },
-  {
-   "symbol": "TVC",
-   "name": "Three Valley Copper Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TVC.V",
+   "symbol": "PVS.PR.G",
+   "name": "Partners Value Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PVS.PR.G.TO",
    "instruments": [
     {
-     "name": "Three Valley Copper Corp.",
-     "symbol": "TVC"
+     "name": "Partners Val AA Pr 9",
+     "symbol": "PVS.PR.G"
+    },
+    {
+     "name": "Partners ValAA Pr 10",
+     "symbol": "PVS.PR.H"
+    },
+    {
+     "name": "Partners ValAA Pr 12",
+     "symbol": "PVS.PR.J"
+    },
+    {
+     "name": "Partners ValAA Pr 13",
+     "symbol": "PVS.PR.K"
+    },
+    {
+     "name": "Partners Val AA Pr14",
+     "symbol": "PVS.PR.L"
+    },
+    {
+     "name": "Partners Val AA Pr15",
+     "symbol": "PVS.PR.M"
+    },
+    {
+     "name": "Partners ValAA Pr 16",
+     "symbol": "PVS.PR.U"
     }
    ]
   },
   {
-   "symbol": "BGFV",
-   "name": "Big 5 Sporting Goods Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BGFV"
+   "symbol": "HYMCL",
+   "name": "Hycroft Mining Holding Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYMCL"
   },
   {
-   "symbol": "HBIO",
-   "name": "Harvard Bioscience, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HBIO"
+   "symbol": "TCBX",
+   "name": "Third Coast Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TCBX"
+  },
+  {
+   "symbol": "ANG$B",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANG$B"
+  },
+  {
+   "symbol": "XLO",
+   "name": "Xilio Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "XLO"
+  },
+  {
+   "symbol": "RIV.R",
+   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RIV.R"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2025-10-03",
+ "date": "2025-10-06",
  "data": [
   {
    "symbol": "ONE",
@@ -3058,6 +3058,18 @@
    ]
   },
   {
+   "symbol": "CART",
+   "name": "Carcetti Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CART.V",
+   "instruments": [
+    {
+     "name": "Carcetti Capital Corp.",
+     "symbol": "CART"
+    }
+   ]
+  },
+  {
    "symbol": "EKG",
    "name": "CardioComm Solutions, Inc.",
    "exchange": "TSXV",
@@ -3486,6 +3498,18 @@
     {
      "name": "Chicane Capital II Corp.",
      "symbol": "CHII.P"
+    }
+   ]
+  },
+  {
+   "symbol": "RTO.P",
+   "name": "Chrysalis 12 Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RTO.P.V",
+   "instruments": [
+    {
+     "name": "Chrysalis 12 Inc.",
+     "symbol": "RTO.P"
     }
    ]
   },
@@ -4811,12 +4835,12 @@
   },
   {
    "symbol": "EW",
-   "name": "East West Petroleum Corp.",
+   "name": "East West Minerals Ltd.",
    "exchange": "TSXV",
    "yahoo_symbol": "EW.V",
    "instruments": [
     {
-     "name": "East West Petroleum Corp",
+     "name": "East West Minerals Ltd.",
      "symbol": "EW"
     }
    ]
@@ -11484,10 +11508,6 @@
      "symbol": "NOW"
     },
     {
-     "name": "NowVertical Group Inc. 05Oct2025",
-     "symbol": "NOW.WT.A"
-    },
-    {
      "name": "NowVertical Group Inc. wt 28Feb2026",
      "symbol": "NOW.WT.B"
     }
@@ -13282,6 +13302,10 @@
     {
      "name": "Reconnaissance Energy Africa Ltd wt 17Jun2027",
      "symbol": "RECO.WT.A"
+    },
+    {
+     "name": "Reconnaissance Energy Africa Ltd WtB 29Sep2027",
+     "symbol": "RECO.WT.B"
     }
    ]
   },
@@ -22354,6 +22378,22 @@
     {
      "name": "Bromp WeS AAA CLO US",
      "symbol": "BAAA.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BBBB",
+   "name": "Brompton Wellington Square Investment Grade CLO ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BBBB.TO",
+   "instruments": [
+    {
+     "name": "Br Wl Sq Inv Grd C E",
+     "symbol": "BBBB"
+    },
+    {
+     "name": "Br Wl Sq In Gd C E U",
+     "symbol": "BBBB.U"
     }
    ]
   },
@@ -38806,15 +38846,11 @@
    ]
   },
   {
-   "symbol": "PVS.PR.G",
+   "symbol": "PVS.PR.H",
    "name": "Partners Value Split Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "PVS.PR.G.TO",
+   "yahoo_symbol": "PVS.PR.H.TO",
    "instruments": [
-    {
-     "name": "Partners Val AA Pr 9",
-     "symbol": "PVS.PR.G"
-    },
     {
      "name": "Partners ValAA Pr 10",
      "symbol": "PVS.PR.H"
@@ -49784,6 +49820,12 @@
    "yahoo_symbol": "CCGWW"
   },
   {
+   "symbol": "CCHH",
+   "name": "CCH Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CCHH"
+  },
+  {
    "symbol": "CCII",
    "name": "Cohen Circle Acquisition Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -57918,12 +57960,6 @@
    "name": "Hycroft Mining Holding Corporation - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HYMC"
-  },
-  {
-   "symbol": "HYMCL",
-   "name": "Hycroft Mining Holding Corporation - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HYMCL"
   },
   {
    "symbol": "HYP",
@@ -68288,6 +68324,12 @@
    "yahoo_symbol": "RNEM"
   },
   {
+   "symbol": "RNGTU",
+   "name": "Range Capital Acquisition Corp II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNGTU"
+  },
+  {
    "symbol": "RNIN",
    "name": "Bushido Capital US SMID Cap Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -71412,12 +71454,6 @@
    "name": "Texas Community Bancshares, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TCBS"
-  },
-  {
-   "symbol": "TCBX",
-   "name": "Third Coast Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TCBX"
   },
   {
    "symbol": "TCHI",
@@ -74764,7 +74800,7 @@
   {
    "symbol": "XLO",
    "name": "Xilio Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "XLO"
   },
   {
@@ -76374,12 +76410,6 @@
    "name": "Abercrombie \u0026 Fitch Company Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ANF"
-  },
-  {
-   "symbol": "ANG$B",
-   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ANG$B"
   },
   {
    "symbol": "ANG$D",
@@ -90062,12 +90092,6 @@
    "yahoo_symbol": "RIV$A"
   },
   {
-   "symbol": "RIV.R",
-   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RIV.R"
-  },
-  {
    "symbol": "RJF",
    "name": "Raymond James Financial, Inc. Common Stock",
    "exchange": "NYSE",
@@ -91914,6 +91938,12 @@
    "name": "Tamboran Resources Corporation Common stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TBN"
+  },
+  {
+   "symbol": "TCBX",
+   "name": "Third Coast Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TCBX"
   },
   {
    "symbol": "TCI",
