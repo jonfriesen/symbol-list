@@ -1,5 +1,5 @@
 {
- "date": "2025-10-06",
+ "date": "2025-10-07",
  "data": [
   {
    "symbol": "ONE",
@@ -70,18 +70,6 @@
     {
      "name": "A-Labs Capital II Corp.",
      "symbol": "ALAB.P"
-    }
-   ]
-  },
-  {
-   "symbol": "AIS",
-   "name": "A.I.S. Resources Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AIS.V",
-   "instruments": [
-    {
-     "name": "A.I.S. Resources Limited",
-     "symbol": "AIS"
     }
    ]
   },
@@ -17270,18 +17258,6 @@
    ]
   },
   {
-   "symbol": "WFLD",
-   "name": "Wellfield Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WFLD.V",
-   "instruments": [
-    {
-     "name": "Wellfield Technologies Inc.",
-     "symbol": "WFLD"
-    }
-   ]
-  },
-  {
    "symbol": "WCE",
    "name": "Wescan Energy Corp.",
    "exchange": "TSXV",
@@ -27670,6 +27646,10 @@
     {
      "name": "Evolve NASDAQ TecHeg",
      "symbol": "QQQY"
+    },
+    {
+     "name": "Evolve ND Tech Enh Y",
+     "symbol": "QQQY.U"
     }
    ]
   },
@@ -31802,6 +31782,10 @@
     {
      "name": "Harvest Dive HIS ETF",
      "symbol": "HHIS"
+    },
+    {
+     "name": "Harv Div Hi Inc ETF",
+     "symbol": "HHIS.U"
     }
    ]
   },
@@ -46484,12 +46468,6 @@
    "yahoo_symbol": "APADU"
   },
   {
-   "symbol": "APDN",
-   "name": "Applied DNA Sciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APDN"
-  },
-  {
    "symbol": "APED",
    "name": "STKd 100% MSTR \u0026 100% COIN ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -48530,6 +48508,12 @@
    "yahoo_symbol": "BNAIW"
   },
   {
+   "symbol": "BNBX",
+   "name": "Applied DNA Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNBX"
+  },
+  {
    "symbol": "BNC",
    "name": "CEA Industries Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -50340,6 +50324,12 @@
    "name": "Crane Harbor Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CHACU"
+  },
+  {
+   "symbol": "CHAI",
+   "name": "Core AI Holdings, Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHAI"
   },
   {
    "symbol": "CHAR",
@@ -56250,6 +56240,12 @@
    "name": "Global Interactive Technologies, Inc. Common Stock - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GITS"
+  },
+  {
+   "symbol": "GIWWU",
+   "name": "GigCapital8 Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIWWU"
   },
   {
    "symbol": "GKAT",
@@ -64838,18 +64834,6 @@
    "yahoo_symbol": "OPEN"
   },
   {
-   "symbol": "OPI",
-   "name": "Office Properties Income Trust - Common Shares of Beneficial Interest",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OPI"
-  },
-  {
-   "symbol": "OPINL",
-   "name": "Office Properties Income Trust - 6.375% Senior Notes due 2050",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OPINL"
-  },
-  {
    "symbol": "OPK",
    "name": "Opko Health, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69548,12 +69532,6 @@
    "yahoo_symbol": "SIRI"
   },
   {
-   "symbol": "SISI",
-   "name": "Shineco, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SISI"
-  },
-  {
    "symbol": "SITM",
    "name": "SiTime Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -70358,6 +70336,12 @@
    "yahoo_symbol": "SPHL"
   },
   {
+   "symbol": "SPIT",
+   "name": "F/m Emerald Special Situations ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPIT"
+  },
+  {
    "symbol": "SPKL",
    "name": "Spark I Acquisition Corp. - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
@@ -71160,12 +71144,6 @@
    "name": "Spyre Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SYRE"
-  },
-  {
-   "symbol": "SYTA",
-   "name": "Siyata Mobile, Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SYTA"
   },
   {
    "symbol": "SYZ",
@@ -74502,6 +74480,12 @@
    "name": "WesBanco, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WSBC"
+  },
+  {
+   "symbol": "WSBCO",
+   "name": "WesBanco, Inc. - Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WSBCO"
   },
   {
    "symbol": "WSBCP",
