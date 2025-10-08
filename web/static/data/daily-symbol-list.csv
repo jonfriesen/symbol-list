@@ -547,6 +547,7 @@ GG,Golconda Gold Ltd.,TSXV,GG.V,Golconda Gold Ltd.,GG
 GLD,Gold Finder Resources Ltd.,TSXV,GLD.V,Gold Finder Resources Ltd.,GLD
 HART,Gold Hart Copper Corp.,TSXV,HART.V,Gold Hart Copper Corp.,HART
 GRZ,Gold Reserve Ltd.,TSXV,GRZ.V,Gold Reserve Ltd.,GRZ
+GSR,Gold Strike Resources Corp.,TSXV,GSR.V,Gold Strike Resources Corp.,GSR
 YGT,Gold Terra Resource Corp.,TSXV,YGT.V,Gold Terra Resource Corp.,YGT
 AUXX,Gold X2 Mining Inc.,TSXV,AUXX.V,Gold X2 Mining Inc.,AUXX
 GLB,Goldbank Mining Corporation,TSXV,GLB.V,Goldbank Mining Corporation,GLB
@@ -1160,7 +1161,6 @@ SRL,Salazar Resources Limited,TSXV,SRL.V,Salazar Resources Limited,SRL
 SME,Sama Resources Inc.,TSXV,SME.V,Sama Resources Inc.,SME
 SSS.P,Samurai Capital Corp.,TSXV,SSS.P.V,Samurai Capital Corp.,SSS.P
 SLG,San Lorenzo Gold Corp.,TSXV,SLG.V,San Lorenzo Gold Corp.,SLG
-STA,Sanatana Resources Inc.,TSXV,STA.V,Sanatana Resources Inc.,STA
 SFR,Sandfire Resources America Inc.,TSXV,SFR.V,Sandfire Resources America Inc.,SFR
 SCZ,Santacruz Silver Mining Ltd.,TSXV,SCZ.V,Santacruz Silver Mining Ltd.,SCZ
 SWA,Sarama Resources Ltd.,TSXV,SWA.V,Sarama Resources Ltd.,SWA
@@ -2300,6 +2300,8 @@ GDV,Global Dividend Growth Split Corp.,TSX,GDV.TO,Glbl Div GrowSplit A,GDV,Glbl 
 GEC,Global Education Communities Corp.,TSX,GEC.TO,Glbl Education Com J,GEC
 CBIL,Global X 0-3 Month T-Bill ETF,TSX,CBIL.TO,GblX 0-3 Mon T-bl E,CBIL,GblX 0-3Mo TB ETF US,CBIL.U
 UBIL.U,Global X 0-3 Month U.S. T-Bill ETF,TSX,UBIL.U.TO,GblX 0-3Mon US Tbl E,UBIL.U
+TSTX,Global X 1-3 Year U.S. Treasury Bond Index ETF,TSX,TSTX.TO,Glbl X 20 Yr T Bd UH,TSTX,Glb X 1-3 Yr T Bd Hg,TSTX.F,Glbl X 20 Yr T Bd US,TSTX.U
+TLTX,Global X 20+ Year U.S. Treasury Bond Index ETF,TSX,TLTX.TO,Glbl X 20 Yr T Bd UH,TLTX,Glbl X 20 Yr T Bd Hg,TLTX.F,Glbl X 20 Yr T Bd US,TLTX.U
 HAD,Global X Active Canadian Bond ETF,TSX,HAD.TO,GblX ActvCdnBnd E Un,HAD
 HAL,Global X Active Canadian Dividend ETF,TSX,HAL.TO,GblX Act Cn Div ETF,HAL
 HMP,Global X Active Canadian Municipal Bond ETF,TSX,HMP.TO,Glbl X ActCn MunBd E,HMP
@@ -2320,6 +2322,7 @@ HXH,Global X Canadian High Dividend Index Corporate Class ETF,TSX,HXH.TO,GblX Cd
 ENCC,Global X Canadian Oil and Gas Equity Covered Call ETF,TSX,ENCC.TO,GblX CA O&G Eq Cal E,ENCC
 HBB,Global X Canadian Select Universe Bond Index Corporate Class ETF,TSX,HBB.TO,GblX Cdn SlctUniv BD,HBB
 HSAV,Global X Cash Maximizer Corporate Class ETF,TSX,HSAV.TO,GblX CshMaxShare Cls,HSAV
+CHQQ,Global X China Hang Seng TECH Index ETF,TSX,CHQQ.TO,GlbX ChnHangSnTechIn,CHQQ
 HCON,Global X Conservative Asset Allocation ETF,TSX,HCON.TO,GblX Cosv Ast Aloc E,HCON
 COPP,Global X Copper Producers Index ETF,TSX,COPP.TO,GblX Copper Ppd InxA,COPP
 HUC,Global X Crude Oil ETF,TSX,HUC.TO,Glbl X CrudOil ETF,HUC
@@ -2391,6 +2394,7 @@ HXF,Global X S&P/TSX Capped Financials Index Corporate Class ETF,TSX,HXF.TO,GblX
 HAC,Global X Seasonal Rotation ETF,TSX,HAC.TO,GblX Sznal Rota E Un,HAC
 PAYS,Global X Short-Term Government Bond Premium Yield ETF,TSX,PAYS.TO,GblX StGvBnd PrY ETF,PAYS
 SPAY,Global X Short-Term U.S. Treasury Premium Yield ETF,TSX,SPAY.TO,GblX ST USTreas Pr,SPAY,GblX ST USTreas PrUS,SPAY.U
+AGCC,Global X Silver Covered Call ETF,TSX,AGCC.TO,GlbX SlvCov Call ETF,AGCC
 HUZ,Global X Silver ETF,TSX,HUZ.TO,Glbl X Silver ETF,HUZ
 HURA,Global X Uranium Index ETF,TSX,HURA.TO,GblX Uranium Inx E A,HURA
 HTB,Global X US 7-10 Year Treasury Bond Index Corporate Class ETF,TSX,HTB.TO,GblX US7-10TreasBd,HTB,GblX US7-10TreaBdUS,HTB.U
@@ -2989,6 +2993,7 @@ INFR,Ninepoint Global Infrastructure Fund,TSX,INFR.TO,Ninepoint Glbl Infra,INFR
 GBSL,Ninepoint Global Select Fund,TSX,GBSL.TO,NP Glb Slct Fd ETF,GBSL
 GLDE,Ninepoint Gold and Precious Minerals Fund,TSX,GLDE.TO,Ninepoint Gold&Pre M,GLDE
 GBUL,Ninepoint Gold Bullion Fund,TSX,GBUL.TO,Ninepoint Gld Bulion,GBUL
+NMNG,Ninepoint Mining Evolution Fund,TSX,NMNG.TO,Ninepnt Mining EvFnd,NMNG
 RYHI,Ninepoint Royal Bank HighShares ETF,TSX,RYHI.TO,Np RylBnk HighSh ETF,RYHI
 SHHI,Ninepoint Shopify HighShares ETF,TSX,SHHI.TO,Np Shopfy HighSh ETF,SHHI
 SBUL,Ninepoint Silver Bullion Fund,TSX,SBUL.TO,Ninepoint Slvr Bulli,SBUL
@@ -4737,6 +4742,7 @@ DHCNI,Diversified Healthcare Trust  - 5.625% Senior Notes due 2042,NASDAQ Global
 DHCNL,Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046,NASDAQ Global Select MarketSM,DHCNL
 DHIL,"Diamond Hill Investment Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,DHIL
 DIBS,"1stdibs.com, Inc. - Common Stock",NASDAQ Global MarketSM,DIBS
+DIME,CoinShares Altcoins ETF,NASDAQ Global MarketSM,DIME
 DIOD,Diodes Incorporated - Common Stock,NASDAQ Global Select MarketSM,DIOD
 DIVD,Altrius Global Dividend ETF,NASDAQ Global MarketSM,DIVD
 DJCO,Daily Journal Corp. (S.C.) - Common Stock,NASDAQ Capital Market,DJCO
@@ -5880,6 +5886,7 @@ ISRLW,Israel Acquisitions Corp - Warrant,NASDAQ Global MarketSM,ISRLW
 ISSC,"Innovative Solutions and Support, Inc. - Common Stock",NASDAQ Global Select MarketSM,ISSC
 ISTB,iShares Core 1-5 Year USD Bond ETF,NASDAQ Global MarketSM,ISTB
 ISTR,Investar Holding Corporation - Common Stock,NASDAQ Global MarketSM,ISTR
+ISUL,GraniteShares 2x Long ISRG Daily ETF,NASDAQ Global MarketSM,ISUL
 ITIC,Investors Title Company - Common Stock,NASDAQ Global Select MarketSM,ITIC
 ITRI,"Itron, Inc. - Common Stock",NASDAQ Global Select MarketSM,ITRI
 ITRM,Iterum Therapeutics plc - Ordinary Share,NASDAQ Capital Market,ITRM
@@ -6149,6 +6156,7 @@ LIXT,"Lixte Biotechnology Holdings, Inc. - Common Stock",NASDAQ Capital Market,L
 LIXTW,"Lixte Biotechnology Holdings, Inc. - Warrants",NASDAQ Capital Market,LIXTW
 LKFN,Lakeland Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,LKFN
 LKQ,LKQ Corporation - Common Stock,NASDAQ Global Select MarketSM,LKQ
+LKSPU,Lake Superior Acquisition Corp. - Units,NASDAQ Global MarketSM,LKSPU
 LLYVA,Liberty Media Corporation - Series A Liberty Live Common Stock,NASDAQ Global Select MarketSM,LLYVA
 LLYVK,Liberty Media Corporation - Series C Liberty Live Common Stock,NASDAQ Global Select MarketSM,LLYVK
 LLYZ,Defiance Daily Target 2X Short LLY ETF,NASDAQ Global MarketSM,LLYZ
@@ -6351,7 +6359,6 @@ MGNI,"Magnite, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGNI
 MGNX,"MacroGenics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGNX
 MGPI,"MGP Ingredients, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGPI
 MGRC,McGrath RentCorp - Common Stock,NASDAQ Global Select MarketSM,MGRC
-MGRM,Monogram Technologies Inc. - Common Stock,NASDAQ Capital Market,MGRM
 MGRT,Mega Fortune Company Limited - Ordinary Shares,NASDAQ Capital Market,MGRT
 MGRX,"Mangoceuticals, Inc. - Common Stock",NASDAQ Capital Market,MGRX
 MGTX,MeiraGTx Holdings plc - Ordinary Shares,NASDAQ Global Select MarketSM,MGTX
@@ -6534,6 +6541,7 @@ NAUT,"Nautilus Biotechnology, Inc. - Common Stock",NASDAQ Global Select MarketSM
 NAVI,Navient Corporation - Common Stock,NASDAQ Global Select MarketSM,NAVI
 NB,NioCorp Developments Ltd. - Common Stock,NASDAQ Global MarketSM,NB
 NBBK,"NB Bancorp, Inc. - Common Stock",NASDAQ Capital Market,NBBK
+NBIL,GraniteShares 2x Long NBIS Daily ETF,NASDAQ Global MarketSM,NBIL
 NBIS,Nebius Group N.V. - Class A Ordinary Shares,NASDAQ Global Select MarketSM,NBIS
 NBIX,"Neurocrine Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,NBIX
 NBN,Northeast Bank - Common Stock,NASDAQ Global MarketSM,NBN
@@ -7173,6 +7181,7 @@ QALT,SEI DBi Multi-Strategy Alternative ETF,NASDAQ Global MarketSM,QALT
 QAT,iShares MSCI Qatar ETF,NASDAQ Global MarketSM,QAT
 QB,ProShares Nasdaq-100 Dynamic Buffer ETF,NASDAQ Global MarketSM,QB
 QBIG,Invesco Top QQQ ETF,NASDAQ Global MarketSM,QBIG
+QBTZ,Defiance Daily Target 2x Short QBTS ETF,NASDAQ Global MarketSM,QBTZ
 QBUF,Innovator Nasdaq-100 10 Buffer ETF Quarterly,NASDAQ Global MarketSM,QBUF
 QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,NASDAQ Global MarketSM,QCLN
 QCLR,Global X NASDAQ 100 Collar 95-110 ETF,NASDAQ Global MarketSM,QCLR
@@ -7505,7 +7514,6 @@ SCLXW,Scilex Holding Company - Warrant,NASDAQ Capital Market,SCLXW
 SCNI,Scinai Immunotherapeutics Ltd. - American Depositary Shares,NASDAQ Capital Market,SCNI
 SCNX,"Scienture Holdings, Inc. - Common Stock",NASDAQ Capital Market,SCNX
 SCOR,"comScore, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCOR
-SCPH,scPharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,SCPH
 SCSC,"ScanSource, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCSC
 SCVL,"Shoe Carnival, Inc. - Common Stock",NASDAQ Global Select MarketSM,SCVL
 SCWO,374Water Inc. - common stock,NASDAQ Capital Market,SCWO
@@ -8021,6 +8029,7 @@ TPST,"Tempest Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,TPST
 TQQQ,ProShares UltraPro QQQ,NASDAQ Global MarketSM,TQQQ
 TQQY,GraniteShares YieldBOOST QQQ ETF,NASDAQ Global MarketSM,TQQY
 TRAW,"Traws Pharma, Inc. - Common Stock",NASDAQ Capital Market,TRAW
+TRBF,Angel Oak Total Return ETF,NASDAQ Global MarketSM,TRBF
 TRDA,"Entrada Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TRDA
 TREE,"LendingTree, Inc. - Common Stock",NASDAQ Global Select MarketSM,TREE
 TRI,Thomson Reuters Corp - Common Shares,NASDAQ Global Select MarketSM,TRI
@@ -8306,7 +8315,6 @@ VREX,Varex Imaging Corporation - Common Stock,NASDAQ Global Select MarketSM,VREX
 VRIG,Invesco Variable Rate Investment Grade ETF,NASDAQ Global MarketSM,VRIG
 VRM,"Vroom, Inc. - Common Stock",NASDAQ Global MarketSM,VRM
 VRME,"VerifyMe, Inc. - Common Stock",NASDAQ Capital Market,VRME
-VRNA,Verona Pharma plc - American Depositary Shares,NASDAQ Global MarketSM,VRNA
 VRNS,"Varonis Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,VRNS
 VRNT,Verint Systems Inc. - Common Stock,NASDAQ Global Select MarketSM,VRNT
 VRRM,Verra Mobility Corporation - Class A Common Stock,NASDAQ Capital Market,VRRM
@@ -8531,7 +8539,7 @@ YSPY,GraniteShares YieldBOOST SPY ETF,NASDAQ Global MarketSM,YSPY
 YSXT,"YSX Tech. Co., Ltd  - Class A Ordinary Shares",NASDAQ Capital Market,YSXT
 YTRA,"Yatra Online, Inc. - Ordinary Shares",NASDAQ Capital Market,YTRA
 YXT,YXT.COM GROUP HOLDING LIMITED - American Depository Shares,NASDAQ Global MarketSM,YXT
-YYAI,Connexa Sports Technologies Inc. - Common Stock,NASDAQ Capital Market,YYAI
+YYAI,AiRWA Inc. - Common Stock,NASDAQ Capital Market,YYAI
 YYGH,YY Group Holding Limited - Class A Ordinary Shares,NASDAQ Capital Market,YYGH
 Z,"Zillow Group, Inc. - Class C Capital Stock",NASDAQ Global Select MarketSM,Z
 ZAP,Global X U.S. Electrification ETF,NASDAQ Global MarketSM,ZAP
@@ -9055,7 +9063,7 @@ BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock",NYSE,BRSP
 BRT,BRT Apartments Corp. (MD) Common Stock,NYSE,BRT
 BRW,Saba Capital Income & Opportunities Fund SBI,NYSE,BRW
-BRW.V,"Saba Capital Income & Opportunities Fund Rights (expiring October 28, 2025) Rights when issued",NYSE,BRW.V
+BRW.R,"Saba Capital Income & Opportunities Fund Rights (expiring October 28, 2025) Rights",NYSE,BRW.R
 BRX,Brixmor Property Group Inc. Common Stock,NYSE,BRX
 BSAC,Banco Santander - Chile ADS,NYSE,BSAC
 BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit",NYSE,BSBR
@@ -9862,6 +9870,7 @@ GLV,Clough Global Dividend and Income Fund Common Shares of beneficial interest,
 GLW,Corning Incorporated Common Stock,NYSE,GLW
 GM,General Motors Company Common Stock,NYSE,GM
 GME,GameStop Corporation Common Stock,NYSE,GME
+GME.W,GameStop Corporation Warrants to Purchase Common Stock,NYSE,GME.W
 GMED,"Globus Medical, Inc. Class A Common Stock",NYSE,GMED
 GMRE,Global Medical REIT Inc. Common Stock,NYSE,GMRE
 GMRE$A,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,NYSE,GMRE$A
@@ -11190,7 +11199,7 @@ SKT,Tanger Inc. Common Stock,NYSE,SKT
 SKY,"Champion Homes, Inc. Common Stock",NYSE,SKY
 SKYH,Sky Harbour Group Corporation Class A Common Stock,NYSE,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE,SKYH.W
-SLB,Schlumberger N.V. Common Stock,NYSE,SLB
+SLB,SLB Limited Common Shares,NYSE,SLB
 SLF,Sun Life Financial Inc. Common Stock,NYSE,SLF
 SLG,SL Green Realty Corp Common Stock,NYSE,SLG
 SLG$I,SL Green Realty Corporation Preferred Series I,NYSE,SLG$I
