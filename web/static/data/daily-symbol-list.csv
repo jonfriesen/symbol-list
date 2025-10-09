@@ -24,7 +24,6 @@ ADY,Adyton Resources Corporation,TSXV,ADY.V,Adyton Resources Corporation,ADY
 ALTN,Aeonian Resources Corp.,TSXV,ALTN.V,Aeonian Resources Corp.,ALTN
 AERO,Aero Energy Limited,TSXV,AERO.V,Aero Energy Limited,AERO
 AF.P,AF2 Capital Corp.,TSXV,AF.P.V,AF2 Capital Corp.,AF.P
-AFR,AFR NuVenture Resources Inc.,TSXV,AFR.V,AFR NuVenture Resources Inc.,AFR
 AFE,Africa Energy Corp.,TSXV,AFE.V,Africa Energy Corp.,AFE
 AAG,Aftermath Silver Ltd.,TSXV,AAG.V,Aftermath Silver Ltd.,AAG
 AGET,AGEDB Technology Ltd.,TSXV,AGET.V,AGEDB Technology Ltd.,AGET
@@ -650,6 +649,7 @@ NURS,Hydreight Technologies Inc.,TSXV,NURS.V,Hydreight Technologies Inc.,NURS
 HC,Hypercharge Networks Corp.,TSXV,HC.V,Hypercharge Networks Corp.,HC
 IB,IBC Advanced Alloys Corp.,TSXV,IB.V,IBC Advanced Alloys Corp.,IB
 ICGH,IC Group Holdings Inc.,TSXV,ICGH.V,IC Group Holdings Inc.,ICGH
+ICRS,Icarus Capital Corp.,TSXV,ICRS.V,Icarus Capital Corp.,ICRS
 ICM,Iconic Minerals Ltd.,TSXV,ICM.V,Iconic Minerals Ltd.,ICM
 ICWY.P,ICWHY Capital Ventures Inc.,TSXV,ICWY.P.V,ICWHY Capital Ventures Inc.,ICWY.P
 IDEX,IDEX Metals Corp.,TSXV,IDEX.V,IDEX Metals Corp.,IDEX
@@ -761,6 +761,7 @@ LFC.P,Left Field Capital Corp.,TSXV,LFC.P.V,Left Field Capital Corp.,LFC.P
 LEGY,Legacy Gold Mines Ltd.,TSXV,LEGY.V,Legacy Gold Mines Ltd.,LEGY
 LPS,Legend Power Systems Inc.,TSXV,LPS.V,Legend Power Systems Inc.,LPS
 LTV,LeoNovus Inc.,TSXV,LTV.V,Leonovus Inc.,LTV
+JUMP,LevelJump Healthcare Corp.,TSXV,JUMP.V,Leveljump Healthcare Corp.,JUMP
 LVX,Leviathan Gold Ltd.,TSXV,LVX.V,Leviathan Gold Ltd,LVX
 LIFT,Li-FT Power Ltd.,TSXV,LIFT.V,Li-FT Power Ltd.,LIFT
 SCAN,"Liberty Defense Holdings, Ltd.",TSXV,SCAN.V,"Liberty Defense Holdings, Ltd.",SCAN,"Liberty Defense Holdings, Ltd wt 20Mar2027",SCAN.WT
@@ -1035,6 +1036,7 @@ PLXX.P,Planet X II Capital Corp.,TSXV,PLXX.P.V,Planet X II Capital Corp.,PLXX.P
 PTFY,"Plantify Foods, Inc.",TSXV,PTFY.V,"Plantify Foods, Inc.",PTFY
 PLA,Plata Latina Minerals Corporation,TSXV,PLA.V,Plata Latina Minerals Corporation,PLA
 PGC,Plato Gold Corp.,TSXV,PGC.V,Plato Gold Corp.,PGC
+PLY,Playfair Mining Ltd.,TSXV,PLY.V,Playfair Mining Ltd.,PLY
 DEAL,Playgon Games Inc.,TSXV,DEAL.V,Playgon Games Inc.,DEAL
 PLUR,Plurilock Security Inc.,TSXV,PLUR.V,Plurilock Security Inc.,PLUR
 POC.P,POCML 7 Inc.,TSXV,POC.P.V,POCML 7 INC.,POC.P
@@ -3185,6 +3187,7 @@ RPI.UN,Richards Packaging Income Fund,TSX,RPI.UN.TO,Richards Pckng Un,RPI.UN
 RCH,Richelieu Hardware Ltd.,TSX,RCH.TO,Richelieu Hardware,RCH
 RIO,Rio2 Limited,TSX,RIO.TO,Rio2 Limited ,RIO
 REI.UN,RioCan Real Estate Investment Trust,TSX,REI.UN.TO,RioCan Rl Est Tr Un,REI.UN
+RGSI,Rockpoint Gas Storage Inc.,TSX,RGSI.TO,Rockpoint Gs Strg In,RGSI
 RCI.A,Rogers Communications Inc.,TSX,RCI.A.TO,Rogers Comm Cl A,RCI.A,Rogers Comm Cl B NV,RCI.B
 RSI,Rogers Sugar Inc.,TSX,RSI.TO,Rogers Sugar Inc.,RSI,Rogers Sugar I 6 Deb,RSI.DB.G
 ROOT,Roots Corporation,TSX,ROOT.TO,Roots Corporation,ROOT
@@ -3512,7 +3515,7 @@ ABVX,Abivax SA - American Depositary Shares,NASDAQ Global MarketSM,ABVX
 ACAD,ACADIA Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,ACAD
 ACB,Aurora Cannabis Inc. - Common Shares,NASDAQ Capital Market,ACB
 ACDC,ProFrac Holding Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,ACDC
-ACET,"Adicet Bio, Inc. - Common Stock",NASDAQ Global MarketSM,ACET
+ACET,"Adicet Bio, Inc. - Common Stock",NASDAQ Capital Market,ACET
 ACFN,"Acorn Energy, Inc. - Common Stock",NASDAQ Capital Market,ACFN
 ACGL,Arch Capital Group Ltd. - Common Stock,NASDAQ Global Select MarketSM,ACGL
 ACGLN,"Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",NASDAQ Global Select MarketSM,ACGLN
@@ -5614,7 +5617,6 @@ HQY,"HealthEquity, Inc. - Common Stock",NASDAQ Global Select MarketSM,HQY
 HRMY,"Harmony Biosciences Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,HRMY
 HROW,"Harrow, Inc. - Common Stock",NASDAQ Global MarketSM,HROW
 HROWL,"Harrow, Inc. - 8.625% senior notes due 2026",NASDAQ Global MarketSM,HROWL
-HROWM,"Harrow, Inc. - 11.875% Senior Notes due 2027",NASDAQ Global MarketSM,HROWM
 HRTS,Tema Heart & Health ETF,NASDAQ Global MarketSM,HRTS
 HRTX,"Heron Therapeutics, Inc.   - Common Stock",NASDAQ Capital Market,HRTX
 HRZN,Horizon Technology Finance Corporation - Common Stock,NASDAQ Global Select MarketSM,HRZN
@@ -6345,7 +6347,7 @@ METCZ,"Ramaco Resources, Inc. - 8.375% Senior Notes due 2029",NASDAQ Global Sele
 METD,Direxion Daily META Bear 1X Shares,NASDAQ Global MarketSM,METD
 METL,Sprott Active Metals & Miners ETF,NASDAQ Global MarketSM,METL
 METU,Direxion Daily META Bull 2X Shares,NASDAQ Global MarketSM,METU
-MFH,Mercurity Fintech Holding Inc. - American Ordinary Shares,NASDAQ Capital Market,MFH
+MFH,Mercurity Fintech Holding Inc. - American Ordinary Shares,NASDAQ Global MarketSM,MFH
 MFI,mF International Limited - Class A Ordinary Shares,NASDAQ Capital Market,MFI
 MFIC,MidCap Financial Investment Corporation - Closed End Fund,NASDAQ Global Select MarketSM,MFIC
 MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,NASDAQ Global Select MarketSM,MFICL
@@ -7068,6 +7070,7 @@ POLA,"Polar Power, Inc. - Common Stock",NASDAQ Capital Market,POLA
 POLE,Andretti Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,POLE
 POLEU,Andretti Acquisition Corp. II - Unit,NASDAQ Global MarketSM,POLEU
 POLEW,Andretti Acquisition Corp. II - Warrant,NASDAQ Global MarketSM,POLEW
+POM,POMDOCTOR LIMITED - American Depositary Shares,NASDAQ Global MarketSM,POM
 PONY,Pony AI Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,PONY
 POOL,Pool Corporation - Common Stock,NASDAQ Global Select MarketSM,POOL
 POWI,"Power Integrations, Inc. - Common Stock",NASDAQ Global Select MarketSM,POWI
@@ -7985,7 +7988,9 @@ TKNO,"Alpha Teknova, Inc. - Common Stock",NASDAQ Global MarketSM,TKNO
 TLF,"Tandy Leather Factory, Inc. - common stock",NASDAQ Capital Market,TLF
 TLIH,Ten-League International Holdings Limited - Ordinary Shares,NASDAQ Capital Market,TLIH
 TLN,Talen Energy Corporation - Common Stock,NASDAQ Global Select MarketSM,TLN
+TLNC,Talon Capital Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,TLNC
 TLNCU,Talon Capital Corp. - Units,NASDAQ Global MarketSM,TLNCU
+TLNCW,Talon Capital Corp. - Warrants,NASDAQ Global MarketSM,TLNCW
 TLPH,"Talphera, Inc. - Common Stock",NASDAQ Capital Market,TLPH
 TLRY,"Tilray Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,TLRY
 TLS,Telos Corporation - Common Stock,NASDAQ Global MarketSM,TLS
@@ -8086,6 +8091,7 @@ TTEK,"Tetra Tech, Inc. - Common Stock",NASDAQ Global Select MarketSM,TTEK
 TTEQ,T. Rowe Price Technology ETF,NASDAQ Global MarketSM,TTEQ
 TTGT,"TechTarget, Inc. - Common Stock",NASDAQ Global Select MarketSM,TTGT
 TTMI,"TTM Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,TTMI
+TTRX,Turn Therapeutics Inc. - Common Stock,NASDAQ Global MarketSM,TTRX
 TTSH,"Tile Shop Holdings, Inc. - Common Stock",NASDAQ Capital Market,TTSH
 TTWO,"Take-Two Interactive Software, Inc. - Common Stock",NASDAQ Global Select MarketSM,TTWO
 TUG,STF Tactical Growth ETF,NASDAQ Global MarketSM,TUG
@@ -8477,6 +8483,7 @@ XCNY,SPDR S&P Emerging Markets ex-China ETF,NASDAQ Global MarketSM,XCNY
 XCUR,"Exicure, Inc. - Common Stock",NASDAQ Capital Market,XCUR
 XEL,Xcel Energy Inc. - Common Stock,NASDAQ Global Select MarketSM,XEL
 XELB,"Xcel Brands, Inc - Common Stock",NASDAQ Capital Market,XELB
+XELLL,"Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085",NASDAQ Global MarketSM,XELLL
 XENE,Xenon Pharmaceuticals Inc. - Common Shares,NASDAQ Global MarketSM,XENE
 XERS,"Xeris Biopharma Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,XERS
 XFIX,F/m Opportunistic Income ETF,NASDAQ Global MarketSM,XFIX
@@ -8702,6 +8709,7 @@ ALC,Alcon Inc. Ordinary Shares,NYSE,ALC
 ALE,"Allete, Inc.",NYSE,ALE
 ALEX,"Alexander & Baldwin, Inc. Common Stock REIT Holding Company",NYSE,ALEX
 ALG,"Alamo Group, Inc. Common Stock",NYSE,ALG
+ALH,Alliance Laundry Holdings Inc. Common Stock,NYSE,ALH
 ALIT,"Alight, Inc. Class A Common Stock",NYSE,ALIT
 ALK,"Alaska Air Group, Inc. Common Stock",NYSE,ALK
 ALL,Allstate Corporation (The) Common Stock,NYSE,ALL
@@ -10954,6 +10962,7 @@ PW,Power REIT (MD) Common Stock,NYSE MKT,PW
 PW$A,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,NYSE MKT,PW$A
 PWR,"Quanta Services, Inc. Common Stock",NYSE,PWR
 PX,"P10, Inc. Class A Common Stock",NYSE,PX
+PXED,"Phoenix Education Partners, Inc. Common Stock",NYSE,PXED
 PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,PYT
 PZG,Paramount Gold Nevada Corp. Common Stock,NYSE MKT,PZG
 QBTS,D-Wave Quantum Inc. Common Shares,NYSE,QBTS

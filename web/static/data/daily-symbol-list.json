@@ -1,5 +1,5 @@
 {
- "date": "2025-10-08",
+ "date": "2025-10-09",
  "data": [
   {
    "symbol": "ONE",
@@ -298,18 +298,6 @@
     {
      "name": "AF2 Capital Corp.",
      "symbol": "AF.P"
-    }
-   ]
-  },
-  {
-   "symbol": "AFR",
-   "name": "AFR NuVenture Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AFR.V",
-   "instruments": [
-    {
-     "name": "AFR NuVenture Resources Inc.",
-     "symbol": "AFR"
     }
    ]
   },
@@ -7874,6 +7862,18 @@
    ]
   },
   {
+   "symbol": "ICRS",
+   "name": "Icarus Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICRS.V",
+   "instruments": [
+    {
+     "name": "Icarus Capital Corp.",
+     "symbol": "ICRS"
+    }
+   ]
+  },
+  {
    "symbol": "ICM",
    "name": "Iconic Minerals Ltd.",
    "exchange": "TSXV",
@@ -9210,6 +9210,18 @@
     {
      "name": "Leonovus Inc.",
      "symbol": "LTV"
+    }
+   ]
+  },
+  {
+   "symbol": "JUMP",
+   "name": "LevelJump Healthcare Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JUMP.V",
+   "instruments": [
+    {
+     "name": "Leveljump Healthcare Corp.",
+     "symbol": "JUMP"
     }
    ]
   },
@@ -12574,6 +12586,18 @@
     {
      "name": "Plato Gold Corp.",
      "symbol": "PGC"
+    }
+   ]
+  },
+  {
+   "symbol": "PLY",
+   "name": "Playfair Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PLY.V",
+   "instruments": [
+    {
+     "name": "Playfair Mining Ltd.",
+     "symbol": "PLY"
     }
    ]
   },
@@ -41082,6 +41106,18 @@
    ]
   },
   {
+   "symbol": "RGSI",
+   "name": "Rockpoint Gas Storage Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RGSI.TO",
+   "instruments": [
+    {
+     "name": "Rockpoint Gs Strg In",
+     "symbol": "RGSI"
+    }
+   ]
+  },
+  {
    "symbol": "RCI.A",
    "name": "Rogers Communications Inc.",
    "exchange": "TSX",
@@ -45046,7 +45082,7 @@
   {
    "symbol": "ACET",
    "name": "Adicet Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ACET"
   },
   {
@@ -57656,12 +57692,6 @@
    "yahoo_symbol": "HROWL"
   },
   {
-   "symbol": "HROWM",
-   "name": "Harrow, Inc. - 11.875% Senior Notes due 2027",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HROWM"
-  },
-  {
    "symbol": "HRTS",
    "name": "Tema Heart \u0026 Health ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -62044,7 +62074,7 @@
   {
    "symbol": "MFH",
    "name": "Mercurity Fintech Holding Inc. - American Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MFH"
   },
   {
@@ -66378,6 +66408,12 @@
    "name": "Andretti Acquisition Corp. II - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "POLEW"
+  },
+  {
+   "symbol": "POM",
+   "name": "POMDOCTOR LIMITED - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "POM"
   },
   {
    "symbol": "PONY",
@@ -71882,10 +71918,22 @@
    "yahoo_symbol": "TLN"
   },
   {
+   "symbol": "TLNC",
+   "name": "Talon Capital Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLNC"
+  },
+  {
    "symbol": "TLNCU",
    "name": "Talon Capital Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TLNCU"
+  },
+  {
+   "symbol": "TLNCW",
+   "name": "Talon Capital Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLNCW"
   },
   {
    "symbol": "TLPH",
@@ -72486,6 +72534,12 @@
    "name": "TTM Technologies, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TTMI"
+  },
+  {
+   "symbol": "TTRX",
+   "name": "Turn Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TTRX"
   },
   {
    "symbol": "TTSH",
@@ -74834,6 +74888,12 @@
    "yahoo_symbol": "XELB"
   },
   {
+   "symbol": "XELLL",
+   "name": "Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XELLL"
+  },
+  {
    "symbol": "XENE",
    "name": "Xenon Pharmaceuticals Inc. - Common Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -76182,6 +76242,12 @@
    "name": "Alamo Group, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ALG"
+  },
+  {
+   "symbol": "ALH",
+   "name": "Alliance Laundry Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALH"
   },
   {
    "symbol": "ALIT",
@@ -89694,6 +89760,12 @@
    "name": "P10, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "PX"
+  },
+  {
+   "symbol": "PXED",
+   "name": "Phoenix Education Partners, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PXED"
   },
   {
    "symbol": "PYT",
