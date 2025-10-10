@@ -1,138 +1,126 @@
 {
  "added": [
   {
-   "symbol": "ICRS",
-   "name": "Icarus Capital Corp.",
+   "symbol": "WCSB",
+   "name": "Decimus Oil Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ICRS.V",
+   "yahoo_symbol": "WCSB.V",
    "instruments": [
     {
-     "name": "Icarus Capital Corp.",
-     "symbol": "ICRS"
+     "name": "Decimus Oil Corp.",
+     "symbol": "WCSB"
     }
    ]
   },
   {
-   "symbol": "JUMP",
-   "name": "LevelJump Healthcare Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JUMP.V",
-   "instruments": [
-    {
-     "name": "Leveljump Healthcare Corp.",
-     "symbol": "JUMP"
-    }
-   ]
-  },
-  {
-   "symbol": "PLY",
-   "name": "Playfair Mining Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PLY.V",
-   "instruments": [
-    {
-     "name": "Playfair Mining Ltd.",
-     "symbol": "PLY"
-    }
-   ]
-  },
-  {
-   "symbol": "RGSI",
-   "name": "Rockpoint Gas Storage Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "RGSI.TO",
-   "instruments": [
-    {
-     "name": "Rockpoint Gs Strg In",
-     "symbol": "RGSI"
-    }
-   ]
-  },
-  {
-   "symbol": "ACET",
-   "name": "Adicet Bio, Inc. - Common Stock",
+   "symbol": "AXG",
+   "name": "Solowin Holdings - Class A Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACET"
+   "yahoo_symbol": "AXG"
   },
   {
-   "symbol": "MFH",
-   "name": "Mercurity Fintech Holding Inc. - American Ordinary Shares",
+   "symbol": "BNKK",
+   "name": "Bonk, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNKK"
+  },
+  {
+   "symbol": "BNKKW",
+   "name": "Bonk, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNKKW"
+  },
+  {
+   "symbol": "BSLK",
+   "name": "Bolt Projects Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSLK"
+  },
+  {
+   "symbol": "LFS",
+   "name": "LEIFRAS Co., Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFS"
+  },
+  {
+   "symbol": "RGTZ",
+   "name": "Defiance Daily Target 2x Short RGTI ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MFH"
+   "yahoo_symbol": "RGTZ"
   },
   {
-   "symbol": "POM",
-   "name": "POMDOCTOR LIMITED - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "POM"
-  },
-  {
-   "symbol": "TLNC",
-   "name": "Talon Capital Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLNC"
-  },
-  {
-   "symbol": "TLNCW",
-   "name": "Talon Capital Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLNCW"
-  },
-  {
-   "symbol": "TTRX",
-   "name": "Turn Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TTRX"
-  },
-  {
-   "symbol": "XELLL",
-   "name": "Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XELLL"
-  },
-  {
-   "symbol": "ALH",
-   "name": "Alliance Laundry Holdings Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ALH"
-  },
-  {
-   "symbol": "PXED",
-   "name": "Phoenix Education Partners, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PXED"
+   "symbol": "YDDL",
+   "name": "One and One Green Technologies. INC - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YDDL"
   }
  ],
  "removed": [
   {
-   "symbol": "HROWM",
-   "name": "Harrow, Inc. - 11.875% Senior Notes due 2027",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HROWM"
+   "symbol": "EMO.R",
+   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EMO.R"
   },
   {
-   "symbol": "AFR",
-   "name": "AFR NuVenture Resources Inc.",
+   "symbol": "GSRTR",
+   "name": "GSR III Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRTR"
+  },
+  {
+   "symbol": "BSLK",
+   "name": "Bolt Projects Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSLK"
+  },
+  {
+   "symbol": "GSRT",
+   "name": "GSR III Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRT"
+  },
+  {
+   "symbol": "SWIN",
+   "name": "Solowin Holdings - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWIN"
+  },
+  {
+   "symbol": "SHOTW",
+   "name": "Safety Shot, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHOTW"
+  },
+  {
+   "symbol": "GSRTU",
+   "name": "GSR III Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRTU"
+  },
+  {
+   "symbol": "SHOT",
+   "name": "Safety Shot, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHOT"
+  },
+  {
+   "symbol": "EPIX",
+   "name": "ESSA Pharma Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EPIX"
+  },
+  {
+   "symbol": "TPC",
+   "name": "Tenth Avenue Petroleum Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AFR.V",
+   "yahoo_symbol": "TPC.V",
    "instruments": [
     {
-     "name": "AFR NuVenture Resources Inc.",
-     "symbol": "AFR"
+     "name": "Tenth Avenue Petroleum Corp.",
+     "symbol": "TPC"
     }
    ]
-  },
-  {
-   "symbol": "ACET",
-   "name": "Adicet Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACET"
-  },
-  {
-   "symbol": "MFH",
-   "name": "Mercurity Fintech Holding Inc. - American Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MFH"
   }
  ]
 }

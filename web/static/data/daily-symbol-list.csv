@@ -355,6 +355,7 @@ DGC,Daura Gold Corp.,TSXV,DGC.V,Daura Gold Corp.,DGC
 DTEA,DAVIDsTEA Inc.,TSXV,DTEA.V,DAVIDsTEA Inc.,DTEA
 DEC,Decade Resources Ltd.,TSXV,DEC.V,Decade Resources Ltd.,DEC
 DB,Decibel Cannabis Company Inc.,TSXV,DB.V,Decibel Cannabis Company Inc.,DB
+WCSB,Decimus Oil Corp.,TSXV,WCSB.V,Decimus Oil Corp.,WCSB
 DE,Decisive Dividend Corporation,TSXV,DE.V,Decisive Dividend Corporation,DE
 MKT,DeepMarkit Corp.,TSXV,MKT.V,DeepMarkit Corp.,MKT
 DEFN,Defense Metals Corp.,TSXV,DEFN.V,Defense Metals Corp.,DEFN
@@ -1294,7 +1295,6 @@ TORA,Taura Gold Inc.,TSXV,TORA.V,Taura Gold Inc.,TORA
 TDG,TDG Gold Corp.,TSXV,TDG.V,TDG Gold Corp.,TDG
 TECT,Tectonic Metals Inc.,TSXV,TECT.V,Tectonic Metals Inc.,TECT
 TELO,Telo Genomics Corp.,TSXV,TELO.V,Telo Genomics Corp.,TELO
-TPC,Tenth Avenue Petroleum Corp.,TSXV,TPC.V,Tenth Avenue Petroleum Corp.,TPC
 TES,Tesoro Minerals Corp.,TSXV,TES.V,Tesoro Minerals Corp.,TES
 TPL,Tethys Petroleum Limited,TSXV,TPL.V,Tethys Petroleum Limited,TPL
 TUO,Teuton Resources Corp.,TSXV,TUO.V,Teuton Resources Corp,TUO
@@ -1863,7 +1863,7 @@ CSE.PR.A,Capstone Infrastructure Corporation,TSX,CSE.PR.A.TO,Capstone Infr Pr A,
 CJ,Cardinal Energy Ltd.,TSX,CJ.TO,Cardinal Energy,CJ,Cardinal 7.75 Deb,CJ.DB,Cardinal 8.25 Db,CJ.DB.A,Cardinal Energy Wts,CJ.WT
 CRDL,Cardiol Therapeutics Inc.,TSX,CRDL.TO,Cardiol Therapeutc A,CRDL
 CRRX,CareRx Corporation,TSX,CRRX.TO,CareRx Corp. J,CRRX
-CJT,Cargojet Inc.,TSX,CJT.TO,Cargojet Inc. Com&VV,CJT,Cargojet 5.25% Deb F,CJT.DB.F
+CJT,Cargojet Inc.,TSX,CJT.TO,Cargojet Inc. Com&VV,CJT
 CUP.U,"Caribbean Utilities Company, Ltd.",TSX,CUP.U.TO,Caribbean Ut Cl A US,CUP.U
 CAS,Cascades Inc.,TSX,CAS.TO,Cascades Inc.,CAS
 CVVY,Cavvy Energy Ltd.,TSX,CVVY.TO,Cavvy Energy Ltd,CVVY
@@ -2218,7 +2218,7 @@ FTN,Financial 15 Split Corp.,TSX,FTN.TO,Financial 15 Splt A,FTN,Financial 15 Spl
 FTT,Finning International Inc.,TSX,FTT.TO,Finning Int'l Inc.,FTT
 FTG,Firan Technology Group Corporation,TSX,FTG.TO,Firan Tech Grp Corp.,FTG
 FFM,FireFly Metals Ltd.,TSX,FFM.TO,FireFly Metals Ltd,FFM
-FC,Firm Capital Mortgage Investment Corporation,TSX,FC.TO,Firm Cap Mtg Invest ,FC,Firm Cap Mtg 5.5% Db,FC.DB.J,Firm Cap Mtg 5% Deb ,FC.DB.K,Firm Cap Mtg 5% L Db,FC.DB.L
+FC,Firm Capital Mortgage Investment Corporation,TSX,FC.TO,Firm Cap Mtg Invest ,FC,Firm Cap Mtg 5.5% Db,FC.DB.J,Firm Cap Mtg 5% Deb ,FC.DB.K,Firm Cap Mtg 5% L Db,FC.DB.L,Firm Cap Mrt Inv Crp,FC.DB.M
 FCD.UN,Firm Capital Property Trust,TSX,FCD.UN.TO,Firm Cap Ppty Tr Un,FCD.UN
 FCR.UN,First Capital Real Estate Investment Trust,TSX,FCR.UN.TO,First Cap REIT Un,FCR.UN
 AG,First Majestic Silver Corp.,TSX,AG.TO,First Majestic J,AG
@@ -3926,6 +3926,7 @@ AVUQ,Avantis U.S. Quality ETF,NASDAQ Global MarketSM,AVUQ
 AVXC,Avantis Emerging Markets ex-China Equity ETF,NASDAQ Global MarketSM,AVXC
 AVXL,Anavex Life Sciences Corp. - Common Stock,NASDAQ Global Select MarketSM,AVXL
 AWRE,"Aware, Inc. - Common Stock",NASDAQ Global MarketSM,AWRE
+AXG,Solowin Holdings - Class A Ordinary Share,NASDAQ Capital Market,AXG
 AXGN,"Axogen, Inc. - Common Stock",NASDAQ Capital Market,AXGN
 AXIN,Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares,NASDAQ Global MarketSM,AXIN
 AXINR,Axiom Intelligence Acquisition Corp 1 - Right,NASDAQ Global MarketSM,AXINR
@@ -4112,6 +4113,8 @@ BND,Vanguard Total Bond Market ETF,NASDAQ Global MarketSM,BND
 BNDW,Vanguard Total World Bond ETF,NASDAQ Global MarketSM,BNDW
 BNDX,Vanguard Total International Bond ETF,NASDAQ Global MarketSM,BNDX
 BNGO,"Bionano Genomics, Inc. - Common Stock",NASDAQ Capital Market,BNGO
+BNKK,"Bonk, Inc. - Common Stock",NASDAQ Capital Market,BNKK
+BNKKW,"Bonk, Inc. - Warrant",NASDAQ Capital Market,BNKKW
 BNR,Burning Rock Biotech Limited - American Depositary Shares,NASDAQ Global MarketSM,BNR
 BNRG,Brenmiller Energy Ltd - Ordinary Shares,NASDAQ Capital Market,BNRG
 BNTC,Benitec Biopharma Inc. - Common Stock,NASDAQ Capital Market,BNTC
@@ -4191,7 +4194,7 @@ BSJU,Invesco BulletShares 2030 High Yield Corporate Bond ETF,NASDAQ Global Marke
 BSJV,Invesco BulletShares 2031 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJV
 BSJW,Invesco BulletShares 2032 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJW
 BSJX,Invesco BulletShares 2033 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJX
-BSLK,"Bolt Projects Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,BSLK
+BSLK,"Bolt Projects Holdings, Inc. - Common Stock",NASDAQ Capital Market,BSLK
 BSLKW,"Bolt Projects Holdings, Inc. - Warrant",NASDAQ Capital Market,BSLKW
 BSMP,Invesco BulletShares 2025 Municipal Bond ETF,NASDAQ Global MarketSM,BSMP
 BSMQ,Invesco BulletShares 2026 Municipal Bond ETF,NASDAQ Global MarketSM,BSMQ
@@ -4953,7 +4956,6 @@ ENZL,iShares MSCI New Zealand ETF,NASDAQ Global MarketSM,ENZL
 EOLS,"Evolus, Inc. - Common Stock",NASDAQ Global MarketSM,EOLS
 EOSE,"Eos Energy Enterprises, Inc. - Common Stock",NASDAQ Capital Market,EOSE
 EOSEW,"Eos Energy Enterprises, Inc. - Warrant",NASDAQ Capital Market,EOSEW
-EPIX,ESSA Pharma Inc. - Common Stock,NASDAQ Capital Market,EPIX
 EPOW,"Sunrise New Energy Co., Ltd - Class A Ordinary Shares",NASDAQ Capital Market,EPOW
 EPRX,Eupraxia Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,EPRX
 EPSM,Epsium Enterprise Limited - Class A Ordinary Shares,NASDAQ Capital Market,EPSM
@@ -5488,9 +5490,6 @@ GSIT,"GSI Technology, Inc. - Common Stock",NASDAQ Global Select MarketSM,GSIT
 GSIW,Garden Stage Limited - Ordinary Shares,NASDAQ Capital Market,GSIW
 GSM,Ferroglobe PLC - Ordinary Shares,NASDAQ Capital Market,GSM
 GSRFU,GSR IV Acquisition Corp. - Units,NASDAQ Global MarketSM,GSRFU
-GSRT,GSR III Acquisition Corp. - Ordinary Shares,NASDAQ Global MarketSM,GSRT
-GSRTR,GSR III Acquisition Corp. - Right,NASDAQ Global MarketSM,GSRTR
-GSRTU,GSR III Acquisition Corp. - Unit,NASDAQ Global MarketSM,GSRTU
 GSUN,Golden Sun Health Technology Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,GSUN
 GT,The Goodyear Tire & Rubber Company - Common Stock,NASDAQ Global Select MarketSM,GT
 GTBP,"GT Biopharma, Inc. - Common Stock",NASDAQ Capital Market,GTBP
@@ -6115,6 +6114,7 @@ LEXXW,Lexaria Bioscience Corp. - Warrant,NASDAQ Capital Market,LEXXW
 LFCR,"Lifecore Biomedical, Inc. - Common Stock",NASDAQ Global Select MarketSM,LFCR
 LFMD,"LifeMD, Inc. - Common Stock",NASDAQ Global MarketSM,LFMD
 LFMDP,"LifeMD, Inc. - 8.875% Series A Cumulative Perpetual Preferred Stock",NASDAQ Global MarketSM,LFMDP
+LFS,"LEIFRAS Co., Ltd. - American Depositary Shares",NASDAQ Capital Market,LFS
 LFSC,F/m Emerald Life Sciences Innovation ETF,NASDAQ Global MarketSM,LFSC
 LFST,"LifeStance Health Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,LFST
 LFUS,"Littelfuse, Inc. - Common Stock",NASDAQ Global Select MarketSM,LFUS
@@ -6122,7 +6122,7 @@ LFVN,Lifevantage Corporation - Common Stock,NASDAQ Capital Market,LFVN
 LFWD,Lifeward Ltd. - Ordinary Shares,NASDAQ Capital Market,LFWD
 LGCB,Linkage Global Inc - Class A Ordinary Shares,NASDAQ Capital Market,LGCB
 LGCF,Themes US Cash Flow Champions ETF,NASDAQ Global MarketSM,LGCF
-LGCL,Lucas GC Limited - Ordinary Shares,NASDAQ Capital Market,LGCL
+LGCL,Lucas GC Limited - Class A Ordinary Shares,NASDAQ Capital Market,LGCL
 LGHL,Lion Group Holding Ltd. - American Depositary Share,NASDAQ Capital Market,LGHL
 LGIH,"LGI Homes, Inc. - Common Stock",NASDAQ Global Select MarketSM,LGIH
 LGN,Legence Corp. - Class A Common stock,NASDAQ Global Select MarketSM,LGN
@@ -7369,6 +7369,7 @@ RGS,Regis Corporation - Common Stock,NASDAQ Global MarketSM,RGS
 RGTI,"Rigetti Computing, Inc.  - Common stock",NASDAQ Capital Market,RGTI
 RGTIW,"Rigetti Computing, Inc.  - Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NASDAQ Capital Market,RGTIW
 RGTX,Defiance Daily Target 2X Long RGTI ETF,NASDAQ Global MarketSM,RGTX
+RGTZ,Defiance Daily Target 2x Short RGTI ETF,NASDAQ Global MarketSM,RGTZ
 RIBB,Ribbon Acquisition Corp - Class A Ordinary Shares,NASDAQ Capital Market,RIBB
 RIBBR,Ribbon Acquisition Corp - Rights,NASDAQ Capital Market,RIBBR
 RIBBU,Ribbon Acquisition Corp - Unit,NASDAQ Capital Market,RIBBU
@@ -7588,8 +7589,6 @@ SHMD,SCHMID Group N.V. - Class A Ordinary Shares,NASDAQ Global MarketSM,SHMD
 SHMDW,SCHMID Group N.V. - Warrants,NASDAQ Capital Market,SHMDW
 SHOO,"Steven Madden, Ltd. - Common Stock",NASDAQ Global Select MarketSM,SHOO
 SHOP,Shopify Inc. - Class A Subordinate Voting Shares,NASDAQ Global Select MarketSM,SHOP
-SHOT,"Safety Shot, Inc. - Common Stock",NASDAQ Capital Market,SHOT
-SHOTW,"Safety Shot, Inc. - Warrant",NASDAQ Capital Market,SHOTW
 SHPD,Direxion Daily SHOP Bear 1X ETF,NASDAQ Global MarketSM,SHPD
 SHPH,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",NASDAQ Capital Market,SHPH
 SHPU,Direxion Daily SHOP Bull 2X ETF,NASDAQ Global MarketSM,SHPU
@@ -7838,7 +7837,7 @@ SUNE,"SUNation Energy, Inc. - Common Stock",NASDAQ Capital Market,SUNE
 SUNS,"Sunrise Realty Trust, Inc. - Common Stock",NASDAQ Capital Market,SUNS
 SUPN,"Supernus Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,SUPN
 SUPP,TCW Transform Supply Chain ETF,NASDAQ Global MarketSM,SUPP
-SUPX,Super X AI Technology Limited - Ordinary Shares,NASDAQ Capital Market,SUPX
+SUPX,SuperX AI Technology Limited - Ordinary Shares,NASDAQ Capital Market,SUPX
 SURG,"SurgePays, Inc. - Common Stock",NASDAQ Capital Market,SURG
 SUSB,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,NASDAQ Global MarketSM,SUSB
 SUSC,iShares ESG Aware USD Corporate Bond ETF,NASDAQ Global MarketSM,SUSC
@@ -7864,7 +7863,6 @@ SWAG,"Stran & Company, Inc. - Common Stock",NASDAQ Capital Market,SWAG
 SWAGW,"Stran & Company, Inc. - Warrant",NASDAQ Capital Market,SWAGW
 SWBI,"Smith & Wesson Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWBI
 SWIM,"Latham Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWIM
-SWIN,Solowin Holdings - Class A Ordinary Share,NASDAQ Capital Market,SWIN
 SWKH,SWK Holdings Corporation - Common Stock,NASDAQ Global MarketSM,SWKH
 SWKHL,SWK Holdings Corporation - 9.00% Senior Notes due 2027,NASDAQ Global MarketSM,SWKHL
 SWKS,"Skyworks Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWKS
@@ -8329,7 +8327,7 @@ VRSN,"VeriSign, Inc. - Common Stock",NASDAQ Global Select MarketSM,VRSN
 VRTL,GraniteShares 2x Long VRT Daily ETF,NASDAQ Global MarketSM,VRTL
 VRTX,Vertex Pharmaceuticals Incorporated - Common Stock,NASDAQ Global Select MarketSM,VRTX
 VS,Versus Systems Inc. - Common Stock,NASDAQ Capital Market,VS
-VSA,VisionSys AI Inc - American Depositary Shares,NASDAQ Capital Market,VSA
+VSA,VisionSys AI Inc. - American Depositary Shares,NASDAQ Capital Market,VSA
 VSAT,"ViaSat, Inc. - Common Stock",NASDAQ Global Select MarketSM,VSAT
 VSDA,VictoryShares Dividend Accelerator ETF,NASDAQ Global MarketSM,VSDA
 VSEC,VSE Corporation - Common Stock,NASDAQ Global Select MarketSM,VSEC
@@ -8521,6 +8519,7 @@ XXII,"22nd Century Group, Inc - Common Stock",NASDAQ Capital Market,XXII
 XYZG,Leverage Shares 2X Long XYZ Daily ETF,NASDAQ Global MarketSM,XYZG
 YAAS,Youxin Technology Ltd - Class A Ordinary shares,NASDAQ Capital Market,YAAS
 YB,Yuanbao Inc. - American Depositary Shares,NASDAQ Global MarketSM,YB
+YDDL,One and One Green Technologies. INC - Class A Ordinary Shares,NASDAQ Capital Market,YDDL
 YDES,YD Bio Limited - Ordinary Shares,NASDAQ Global MarketSM,YDES
 YDESW,YD Bio Limited - Warrants,NASDAQ Global MarketSM,YDESW
 YDKG,Yueda Digital Holding - Class A Ordinary Share,NASDAQ Capital Market,YDKG
@@ -9586,7 +9585,6 @@ EME,"EMCOR Group, Inc. Common Stock",NYSE,EME
 EMF,Templeton Emerging Markets Fund Common Stock,NYSE,EMF
 EMN,Eastman Chemical Company Common Stock,NYSE,EMN
 EMO,ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock,NYSE,EMO
-EMO.R,"ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights",NYSE,EMO.R
 EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066",NYSE,EMP
 EMR,Emerson Electric Company Common Stock,NYSE,EMR
 EMX,EMX Royalty Corporation Common Shares (Canada),NYSE MKT,EMX

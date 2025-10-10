@@ -1,5 +1,5 @@
 {
- "date": "2025-10-09",
+ "date": "2025-10-10",
  "data": [
   {
    "symbol": "ONE",
@@ -4294,6 +4294,18 @@
     {
      "name": "Decibel Cannabis Company Inc.",
      "symbol": "DB"
+    }
+   ]
+  },
+  {
+   "symbol": "WCSB",
+   "name": "Decimus Oil Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WCSB.V",
+   "instruments": [
+    {
+     "name": "Decimus Oil Corp.",
+     "symbol": "WCSB"
     }
    ]
   },
@@ -15726,18 +15738,6 @@
    ]
   },
   {
-   "symbol": "TPC",
-   "name": "Tenth Avenue Petroleum Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TPC.V",
-   "instruments": [
-    {
-     "name": "Tenth Avenue Petroleum Corp.",
-     "symbol": "TPC"
-    }
-   ]
-  },
-  {
    "symbol": "TES",
    "name": "Tesoro Minerals Corp.",
    "exchange": "TSXV",
@@ -23358,10 +23358,6 @@
     {
      "name": "Cargojet Inc. Com\u0026VV",
      "symbol": "CJT"
-    },
-    {
-     "name": "Cargojet 5.25% Deb F",
-     "symbol": "CJT.DB.F"
     }
    ]
   },
@@ -28334,6 +28330,10 @@
     {
      "name": "Firm Cap Mtg 5% L Db",
      "symbol": "FC.DB.L"
+    },
+    {
+     "name": "Firm Cap Mrt Inv Crp",
+     "symbol": "FC.DB.M"
     }
    ]
   },
@@ -47546,6 +47546,12 @@
    "yahoo_symbol": "AWRE"
   },
   {
+   "symbol": "AXG",
+   "name": "Solowin Holdings - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AXG"
+  },
+  {
    "symbol": "AXGN",
    "name": "Axogen, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -48662,6 +48668,18 @@
    "yahoo_symbol": "BNGO"
   },
   {
+   "symbol": "BNKK",
+   "name": "Bonk, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNKK"
+  },
+  {
+   "symbol": "BNKKW",
+   "name": "Bonk, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNKKW"
+  },
+  {
    "symbol": "BNR",
    "name": "Burning Rock Biotech Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -49138,7 +49156,7 @@
   {
    "symbol": "BSLK",
    "name": "Bolt Projects Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BSLK"
   },
   {
@@ -53708,12 +53726,6 @@
    "yahoo_symbol": "EOSEW"
   },
   {
-   "symbol": "EPIX",
-   "name": "ESSA Pharma Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EPIX"
-  },
-  {
    "symbol": "EPOW",
    "name": "Sunrise New Energy Co., Ltd - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -56916,24 +56928,6 @@
    "name": "GSR IV Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GSRFU"
-  },
-  {
-   "symbol": "GSRT",
-   "name": "GSR III Acquisition Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRT"
-  },
-  {
-   "symbol": "GSRTR",
-   "name": "GSR III Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRTR"
-  },
-  {
-   "symbol": "GSRTU",
-   "name": "GSR III Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRTU"
   },
   {
    "symbol": "GSUN",
@@ -60680,6 +60674,12 @@
    "yahoo_symbol": "LFMDP"
   },
   {
+   "symbol": "LFS",
+   "name": "LEIFRAS Co., Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFS"
+  },
+  {
    "symbol": "LFSC",
    "name": "F/m Emerald Life Sciences Innovation ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -60723,7 +60723,7 @@
   },
   {
    "symbol": "LGCL",
-   "name": "Lucas GC Limited - Ordinary Shares",
+   "name": "Lucas GC Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LGCL"
   },
@@ -68204,6 +68204,12 @@
    "yahoo_symbol": "RGTX"
   },
   {
+   "symbol": "RGTZ",
+   "name": "Defiance Daily Target 2x Short RGTI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGTZ"
+  },
+  {
    "symbol": "RIBB",
    "name": "Ribbon Acquisition Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -69516,18 +69522,6 @@
    "name": "Shopify Inc. - Class A Subordinate Voting Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SHOP"
-  },
-  {
-   "symbol": "SHOT",
-   "name": "Safety Shot, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHOT"
-  },
-  {
-   "symbol": "SHOTW",
-   "name": "Safety Shot, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHOTW"
   },
   {
    "symbol": "SHPD",
@@ -71019,7 +71013,7 @@
   },
   {
    "symbol": "SUPX",
-   "name": "Super X AI Technology Limited - Ordinary Shares",
+   "name": "SuperX AI Technology Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SUPX"
   },
@@ -71172,12 +71166,6 @@
    "name": "Latham Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SWIM"
-  },
-  {
-   "symbol": "SWIN",
-   "name": "Solowin Holdings - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SWIN"
   },
   {
    "symbol": "SWKH",
@@ -73965,7 +73953,7 @@
   },
   {
    "symbol": "VSA",
-   "name": "VisionSys AI Inc - American Depositary Shares",
+   "name": "VisionSys AI Inc. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VSA"
   },
@@ -75114,6 +75102,12 @@
    "name": "Yuanbao Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "YB"
+  },
+  {
+   "symbol": "YDDL",
+   "name": "One and One Green Technologies. INC - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YDDL"
   },
   {
    "symbol": "YDES",
@@ -81504,12 +81498,6 @@
    "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "EMO"
-  },
-  {
-   "symbol": "EMO.R",
-   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EMO.R"
   },
   {
    "symbol": "EMP",
