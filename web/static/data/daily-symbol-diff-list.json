@@ -1,126 +1,84 @@
 {
  "added": [
   {
-   "symbol": "WCSB",
-   "name": "Decimus Oil Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WCSB.V",
-   "instruments": [
-    {
-     "name": "Decimus Oil Corp.",
-     "symbol": "WCSB"
-    }
-   ]
-  },
-  {
-   "symbol": "AXG",
-   "name": "Solowin Holdings - Class A Ordinary Share",
+   "symbol": "AURE",
+   "name": "Prestige Wealth Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AXG"
+   "yahoo_symbol": "AURE"
   },
   {
-   "symbol": "BNKK",
-   "name": "Bonk, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNKK"
-  },
-  {
-   "symbol": "BNKKW",
-   "name": "Bonk, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNKKW"
-  },
-  {
-   "symbol": "BSLK",
-   "name": "Bolt Projects Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BSLK"
-  },
-  {
-   "symbol": "LFS",
-   "name": "LEIFRAS Co., Ltd. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LFS"
-  },
-  {
-   "symbol": "RGTZ",
-   "name": "Defiance Daily Target 2x Short RGTI ETF",
+   "symbol": "NKLR",
+   "name": "Terra Innovatum Global N.V. - Ordinary shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RGTZ"
+   "yahoo_symbol": "NKLR"
   },
   {
-   "symbol": "YDDL",
-   "name": "One and One Green Technologies. INC - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YDDL"
+   "symbol": "ETSY",
+   "name": "Etsy, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETSY"
   }
  ],
  "removed": [
   {
-   "symbol": "EMO.R",
-   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights",
+   "symbol": "ETSY",
+   "name": "Etsy, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ETSY"
+  },
+  {
+   "symbol": "CARM",
+   "name": "Carisma Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CARM"
+  },
+  {
+   "symbol": "PXSAW",
+   "name": "Pyxis Tankers Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXSAW"
+  },
+  {
+   "symbol": "CSWCZ",
+   "name": "Capital Southwest Corporation - 7.75% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSWCZ"
+  },
+  {
+   "symbol": "PWM",
+   "name": "Prestige Wealth Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PWM"
+  },
+  {
+   "symbol": "JEQ",
+   "name": "abrdn Japan Equity Fund, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "EMO.R"
+   "yahoo_symbol": "JEQ"
   },
   {
-   "symbol": "GSRTR",
-   "name": "GSR III Acquisition Corp. - Right",
+   "symbol": "HROWL",
+   "name": "Harrow, Inc. - 8.625% senior notes due 2026",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRTR"
+   "yahoo_symbol": "HROWL"
   },
   {
-   "symbol": "BSLK",
-   "name": "Bolt Projects Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BSLK"
+   "symbol": "MTAL",
+   "name": "MAC Copper Limited Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTAL"
   },
   {
-   "symbol": "GSRT",
-   "name": "GSR III Acquisition Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRT"
+   "symbol": "PHD",
+   "name": "Pioneer Floating Rate Fund, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHD"
   },
   {
-   "symbol": "SWIN",
-   "name": "Solowin Holdings - Class A Ordinary Share",
+   "symbol": "BINI",
+   "name": "Bollinger Innovations, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SWIN"
-  },
-  {
-   "symbol": "SHOTW",
-   "name": "Safety Shot, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHOTW"
-  },
-  {
-   "symbol": "GSRTU",
-   "name": "GSR III Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRTU"
-  },
-  {
-   "symbol": "SHOT",
-   "name": "Safety Shot, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHOT"
-  },
-  {
-   "symbol": "EPIX",
-   "name": "ESSA Pharma Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EPIX"
-  },
-  {
-   "symbol": "TPC",
-   "name": "Tenth Avenue Petroleum Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TPC.V",
-   "instruments": [
-    {
-     "name": "Tenth Avenue Petroleum Corp.",
-     "symbol": "TPC"
-    }
-   ]
+   "yahoo_symbol": "BINI"
   }
  ]
 }
