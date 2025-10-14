@@ -47,7 +47,7 @@ AORO,Aloro Mining Corp.,TSXV,AORO.V,Aloro Mining Corp.,AORO
 ALEX,Alpha Exploration Ltd.,TSXV,ALEX.V,Alpha Exploration Ltd.,ALEX
 AFM,Alphamin Resources Corp.,TSXV,AFM.V,Alphamin Resources Corp.,AFM
 GPUS,Alset AI Ventures Inc.,TSXV,GPUS.V,Alset AI Ventures Inc.,GPUS
-ATI,Altai Resources Inc.,TSXV,ATI.V,Altai Resources Inc,ATI
+ATI,Altai Resources Inc.,TSXV,ATI.V,Altai Resources Inc.,ATI
 AVX,Altair Resources Inc.,TSXV,AVX.V,Altair Resources Inc.,AVX
 ALTA,Altamira Gold Corp.,TSXV,ALTA.V,Altamira Gold Corp.,ALTA
 ALTR.P,Alterego Ventures 24 Corp.,TSXV,ALTR.P.V,Alterego Ventures 24 Corp.,ALTR.P
@@ -268,6 +268,7 @@ CBIT,Cathedra Bitcoin Inc.,TSXV,CBIT.V,Cathedra Bitcoin Inc.,CBIT
 CVY.P,Cavalry Capital Corp.,TSXV,CVY.P.V,Cavalry Capital Corp.,CVY.P
 CBLT,CBLT Inc.,TSXV,CBLT.V,CBLT Inc.,CBLT
 CES.P,Celestial Acquisition Corp.,TSXV,CES.P.V,Celestial Acquisition Corp.,CES.P
+CTA,Centaurus Energy Inc.,TSXV,CTA.V,Centaurus Energy Inc.,CTA
 CTG,Centenario Gold Corp.,TSXV,CTG.V,Centenario Gold Corp.,CTG
 CIO,Central Iron Ore Limited,TSXV,CIO.V,Central Iron Ore Limited,CIO
 CTN,Centurion Minerals Ltd.,TSXV,CTN.V,Centurion Minerals Ltd.,CTN
@@ -1549,7 +1550,6 @@ ADIV,Arrow EC Equity Advantage Alternative Fund,TSX,ADIV.TO,Arrow EC EqAdvntgAlt
 RATE,Arrow EC Income Advantage Alternative Fund,TSX,RATE.TO,Arrow EC IncmAdvanUn,RATE
 ACAA,Arrow Long/Short Alternative Fund,TSX,ACAA.TO,Arrow Lng/Sh Alt ETF,ACAA
 AX.PR.E,Artis Real Estate Investment Trust,TSX,AX.PR.E.TO,Artis REIT Ser E Pr,AX.PR.E,Artis REIT Ser I Pr,AX.PR.I,Artis REIT Un,AX.UN
-AOT,Ascot Resources Ltd.,TSX,AOT.TO,Ascot Resources J,AOT
 ACO.X,ATCO Ltd.,TSX,ACO.X.TO,ATCO Ltd. Cl I NV,ACO.X,ATCO Ltd. Cl II,ACO.Y
 ATH,Athabasca Oil Corporation,TSX,ATH.TO,Athabasca Oil Corp,ATH
 ATRL,AtkinsRéalis Group Inc.,TSX,ATRL.TO,AtkinsRealis GrpInc,ATRL
@@ -2218,7 +2218,7 @@ FTN,Financial 15 Split Corp.,TSX,FTN.TO,Financial 15 Splt A,FTN,Financial 15 Spl
 FTT,Finning International Inc.,TSX,FTT.TO,Finning Int'l Inc.,FTT
 FTG,Firan Technology Group Corporation,TSX,FTG.TO,Firan Tech Grp Corp.,FTG
 FFM,FireFly Metals Ltd.,TSX,FFM.TO,FireFly Metals Ltd,FFM
-FC,Firm Capital Mortgage Investment Corporation,TSX,FC.TO,Firm Cap Mtg Invest ,FC,Firm Cap Mtg 5.5% Db,FC.DB.J,Firm Cap Mtg 5% Deb ,FC.DB.K,Firm Cap Mtg 5% L Db,FC.DB.L,Firm Cap Mrt Inv Crp,FC.DB.M
+FC,Firm Capital Mortgage Investment Corporation,TSX,FC.TO,Firm Cap Mtg Invest ,FC,Firm Cap Mtg 5.5% Db,FC.DB.J,Firm Cap Mtg 5% Deb ,FC.DB.K,Firm Cap Mtg 5% L Db,FC.DB.L,Firm Cap Mtg 5.5% DB,FC.DB.M
 FCD.UN,Firm Capital Property Trust,TSX,FCD.UN.TO,Firm Cap Ppty Tr Un,FCD.UN
 FCR.UN,First Capital Real Estate Investment Trust,TSX,FCR.UN.TO,First Cap REIT Un,FCR.UN
 AG,First Majestic Silver Corp.,TSX,AG.TO,First Majestic J,AG
@@ -8907,6 +8907,7 @@ BBAI,"BigBear.ai, Inc. Common Stock",NYSE,BBAI
 BBAI.W,"BigBear.ai, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",NYSE,BBAI.W
 BBAR,Banco BBVA Argentina S.A. ADS,NYSE,BBAR
 BBBY,"Bed Bath & Beyond, Inc. Common Stock",NYSE,BBBY
+BBBY.W,"Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock",NYSE,BBBY.W
 BBD,Banco Bradesco Sa American Depositary Shares,NYSE,BBD
 BBDC,"Barings BDC, Inc. Common Stock",NYSE,BBDC
 BBDO,Banco Bradesco Sa American Depositary Shares (each representing one Common Share),NYSE,BBDO
@@ -9335,7 +9336,7 @@ CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series",NYSE,CTA$A
 CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series",NYSE,CTA$B
 CTBB,Qwest Corporation 6.5% Notes due 2056,NYSE,CTBB
 CTDD,Qwest Corporation 6.75% Notes due 2057,NYSE,CTDD
-CTEST,NYSE Test One Common Stock,NYSE,CTEST
+CTEST,NYSE Test One Common Stock,NYSE MKT,CTEST
 CTEST.E,NYSE Test One Common Stock,NYSE,CTEST.E
 CTEST.G,NYSE Test One Common Stock,NYSE,CTEST.G
 CTEST.L,NYSE Test One Common Stock,NYSE,CTEST.L
@@ -9584,7 +9585,6 @@ EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 
 EMR,Emerson Electric Company Common Stock,NYSE,EMR
 EMX,EMX Royalty Corporation Common Shares (Canada),NYSE MKT,EMX
 ENB,Enbridge Inc Common Stock,NYSE,ENB
-ENFY,Enlightify Inc. Common Stock,NYSE,ENFY
 ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),NYSE,ENIC
 ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052",NYSE,ENJ
 ENO,"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",NYSE,ENO
