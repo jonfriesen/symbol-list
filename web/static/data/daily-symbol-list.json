@@ -1,5 +1,5 @@
 {
- "date": "2025-10-14",
+ "date": "2025-10-15",
  "data": [
   {
    "symbol": "ONE",
@@ -12406,6 +12406,18 @@
    ]
   },
   {
+   "symbol": "PMI",
+   "name": "Perseverance Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PMI.V",
+   "instruments": [
+    {
+     "name": "Perseverance Metals Inc.",
+     "symbol": "PMI"
+    }
+   ]
+  },
+  {
    "symbol": "PER",
    "name": "Peruvian Metals Corp.",
    "exchange": "TSXV",
@@ -18814,6 +18826,18 @@
     {
      "name": "Apple CDR CAD HD",
      "symbol": "AAPL"
+    }
+   ]
+  },
+  {
+   "symbol": "APPS",
+   "name": "AppLovin CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "APPS.TO",
+   "instruments": [
+    {
+     "name": "AppLovin CDR CAD Hgd",
+     "symbol": "APPS"
     }
    ]
   },
@@ -25354,6 +25378,18 @@
    ]
   },
   {
+   "symbol": "CEGS",
+   "name": "Constellation Energy CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEGS.TO",
+   "instruments": [
+    {
+     "name": "Constl Enrgy CDR HG ",
+     "symbol": "CEGS"
+    }
+   ]
+  },
+  {
    "symbol": "CSU",
    "name": "Constellation Software Inc.",
    "exchange": "TSX",
@@ -28046,6 +28082,18 @@
    ]
   },
   {
+   "symbol": "FMPB",
+   "name": "Fidelity Global Balanced Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMPB.TO",
+   "instruments": [
+    {
+     "name": "Fidelity GBl BalcPor",
+     "symbol": "FMPB"
+    }
+   ]
+  },
+  {
    "symbol": "FGEB",
    "name": "Fidelity Global Equity+ Balanced Fund",
    "exchange": "TSX",
@@ -28074,6 +28122,30 @@
    ]
   },
   {
+   "symbol": "FMPG",
+   "name": "Fidelity Global Growth Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMPG.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Glb GrowPol",
+     "symbol": "FMPG"
+    }
+   ]
+  },
+  {
+   "symbol": "FMPI",
+   "name": "Fidelity Global Income Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMPI.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Glb InC Pol",
+     "symbol": "FMPI"
+    }
+   ]
+  },
+  {
    "symbol": "FCGI",
    "name": "Fidelity Global Monthly High Income ETF",
    "exchange": "TSX",
@@ -28082,6 +28154,18 @@
     {
      "name": "Fidelity GlbMoIncm L",
      "symbol": "FCGI"
+    }
+   ]
+  },
+  {
+   "symbol": "FGSM",
+   "name": "Fidelity Global Small-Mid Cap Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGSM.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Gbl Sll Md ",
+     "symbol": "FGSM"
     }
    ]
   },
@@ -28122,6 +28206,18 @@
     {
      "name": "Fidelity Intl Val L",
      "symbol": "FCIV"
+    }
+   ]
+  },
+  {
+   "symbol": "FMAE",
+   "name": "Fidelity Multi-Alt Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMAE.TO",
+   "instruments": [
+    {
+     "name": "Fidelity MulAlt EqFd",
+     "symbol": "FMAE"
     }
    ]
   },
@@ -39094,6 +39190,18 @@
    ]
   },
   {
+   "symbol": "ZYNS",
+   "name": "Philip Morris CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZYNS.TO",
+   "instruments": [
+    {
+     "name": "Phil Mor Hgd CDR C",
+     "symbol": "ZYNS"
+    }
+   ]
+  },
+  {
    "symbol": "PHX",
    "name": "PHX Energy Services Corp.",
    "exchange": "TSX",
@@ -40990,6 +41098,18 @@
    ]
   },
   {
+   "symbol": "RDDT",
+   "name": "Reddit CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "RDDT.TO",
+   "instruments": [
+    {
+     "name": "Reddit CDR CAD Hgd",
+     "symbol": "RDDT"
+    }
+   ]
+  },
+  {
    "symbol": "QSR",
    "name": "Restaurant Brands International Inc.",
    "exchange": "TSX",
@@ -41102,6 +41222,18 @@
     {
      "name": "RioCan Rl Est Tr Un",
      "symbol": "REI.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "HOOD",
+   "name": "Robinhood CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "HOOD.TO",
+   "instruments": [
+    {
+     "name": "Robinhood CDR CAD HD",
+     "symbol": "HOOD"
     }
    ]
   },
@@ -42170,6 +42302,18 @@
     {
      "name": "StorageVault 5% Deb",
      "symbol": "SVI.DB.C"
+    }
+   ]
+  },
+  {
+   "symbol": "MSTR",
+   "name": "Strategy CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTR.TO",
+   "instruments": [
+    {
+     "name": "Strategy CDR CAD HD",
+     "symbol": "MSTR"
     }
    ]
   },
@@ -54884,6 +55028,12 @@
    "yahoo_symbol": "FIEE"
   },
   {
+   "symbol": "FIGG",
+   "name": "Leverage Shares 2x Long FIG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIGG"
+  },
+  {
    "symbol": "FIGR",
    "name": "Figure Technology Solutions, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -55778,6 +55928,12 @@
    "yahoo_symbol": "FUSB"
   },
   {
+   "symbol": "FUTG",
+   "name": "Leverage Shares 2x Long FUTU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FUTG"
+  },
+  {
    "symbol": "FUTU",
    "name": "Futu Holdings Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -56370,12 +56526,6 @@
    "name": "Gladstone Capital Corporation - Closed End Fund",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GLAD"
-  },
-  {
-   "symbol": "GLADZ",
-   "name": "Gladstone Capital Corporation - 7.75% Notes due 2028",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLADZ"
   },
   {
    "symbol": "GLBE",
@@ -68534,6 +68684,12 @@
    "yahoo_symbol": "RPD"
   },
   {
+   "symbol": "RPGL",
+   "name": "Republic Power Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RPGL"
+  },
+  {
    "symbol": "RPID",
    "name": "Rapid Micro Biosystems, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -75393,7 +75549,7 @@
   },
   {
    "symbol": "ZMUN",
-   "name": "F/m Callable Tax-Free Municipal ETF",
+   "name": "F/m Ultrashort Tax-Free Municipal ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ZMUN"
   },
@@ -76722,12 +76878,6 @@
    "name": "Apollo Commercial Real Estate Finance, Inc",
    "exchange": "NYSE",
    "yahoo_symbol": "ARI"
-  },
-  {
-   "symbol": "ARIS",
-   "name": "Aris Water Solutions, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ARIS"
   },
   {
    "symbol": "ARL",
@@ -92048,10 +92198,22 @@
    "yahoo_symbol": "TCBX"
   },
   {
+   "symbol": "TCGL",
+   "name": "TechCreate Group Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TCGL"
+  },
+  {
    "symbol": "TCI",
    "name": "Transcontinental Realty Investors, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TCI"
+  },
+  {
+   "symbol": "TCPA",
+   "name": "TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TCPA"
   },
   {
    "symbol": "TD",
