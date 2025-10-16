@@ -1,5 +1,5 @@
 {
- "date": "2025-10-15",
+ "date": "2025-10-16",
  "data": [
   {
    "symbol": "ONE",
@@ -18594,6 +18594,18 @@
    ]
   },
   {
+   "symbol": "ALZ",
+   "name": "Allianz CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ALZ.TO",
+   "instruments": [
+    {
+     "name": "Allianz CDR CAD Hed",
+     "symbol": "ALZ"
+    }
+   ]
+  },
+  {
    "symbol": "AAUC",
    "name": "Allied Gold Corporation",
    "exchange": "TSX",
@@ -18966,6 +18978,18 @@
     {
      "name": "Artis REIT Un",
      "symbol": "AX.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "ASML",
+   "name": "ASML CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ASML.TO",
+   "instruments": [
+    {
+     "name": "ASML CDR CAD Hedged",
+     "symbol": "ASML"
     }
    ]
   },
@@ -21974,6 +21998,18 @@
     {
      "name": "BMTC Group Inc.",
      "symbol": "GBT"
+    }
+   ]
+  },
+  {
+   "symbol": "BMW",
+   "name": "BMW CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BMW.TO",
+   "instruments": [
+    {
+     "name": "BMW CDR CAD Hedged",
+     "symbol": "BMW"
     }
    ]
   },
@@ -32914,6 +32950,18 @@
    ]
   },
   {
+   "symbol": "INGS",
+   "name": "ING CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "INGS.TO",
+   "instruments": [
+    {
+     "name": "ING CDR CAD Hedged",
+     "symbol": "INGS"
+    }
+   ]
+  },
+  {
    "symbol": "INO.UN",
    "name": "Inovalis Real Estate Investment Trust",
    "exchange": "TSX",
@@ -37438,6 +37486,18 @@
    ]
   },
   {
+   "symbol": "BENZ",
+   "name": "Mercedes-Benz CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BENZ.TO",
+   "instruments": [
+    {
+     "name": "MercedesBenzCDR CaHD",
+     "symbol": "BENZ"
+    }
+   ]
+  },
+  {
    "symbol": "SPAC.RT.U",
    "name": "Mercer Park Opportunities Corp.",
    "exchange": "TSX",
@@ -38262,6 +38322,18 @@
    ]
   },
   {
+   "symbol": "NSTL",
+   "name": "Nestlé CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSTL.TO",
+   "instruments": [
+    {
+     "name": "Nestle CDR CAD Hedg",
+     "symbol": "NSTL"
+    }
+   ]
+  },
+  {
    "symbol": "NGD",
    "name": "New Gold Inc.",
    "exchange": "TSX",
@@ -38722,6 +38794,18 @@
     {
      "name": "NovaGold Resources J",
      "symbol": "NG"
+    }
+   ]
+  },
+  {
+   "symbol": "NVS",
+   "name": "Novartis CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVS.TO",
+   "instruments": [
+    {
+     "name": "Novartis CDR CAD Hed",
+     "symbol": "NVS"
     }
    ]
   },
@@ -41238,6 +41322,18 @@
    ]
   },
   {
+   "symbol": "ROG",
+   "name": "Roche CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ROG.TO",
+   "instruments": [
+    {
+     "name": "Roche CDR CAD Hedge",
+     "symbol": "ROG"
+    }
+   ]
+  },
+  {
    "symbol": "RGSI",
    "name": "Rockpoint Gas Storage Inc.",
    "exchange": "TSX",
@@ -41518,6 +41614,18 @@
     {
      "name": "Sangoma Tech Corp.",
      "symbol": "STC"
+    }
+   ]
+  },
+  {
+   "symbol": "SAPS",
+   "name": "SAP CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SAPS.TO",
+   "instruments": [
+    {
+     "name": "SAP CDR CAD Hedged",
+     "symbol": "SAPS"
     }
    ]
   },
@@ -41806,6 +41914,18 @@
     {
      "name": "Shopify Inc A SV",
      "symbol": "SHOP"
+    }
+   ]
+  },
+  {
+   "symbol": "SMNS",
+   "name": "Siemens CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMNS.TO",
+   "instruments": [
+    {
+     "name": "Siemens CDR CAD Hed",
+     "symbol": "SMNS"
     }
    ]
   },
@@ -43886,6 +44006,18 @@
     {
      "name": "TWC Enterprises Ltd.",
      "symbol": "TWC"
+    }
+   ]
+  },
+  {
+   "symbol": "UBSS",
+   "name": "UBS CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "UBSS.TO",
+   "instruments": [
+    {
+     "name": "UBS CDR CAD Hedged",
+     "symbol": "UBSS"
     }
    ]
   },
@@ -47580,12 +47712,6 @@
    "name": "Avadel Pharmaceuticals plc - Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AVDL"
-  },
-  {
-   "symbol": "AVDX",
-   "name": "AvidXchange Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AVDX"
   },
   {
    "symbol": "AVGB",
@@ -52038,12 +52164,6 @@
    "name": "CuriosityStream Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CURI"
-  },
-  {
-   "symbol": "CURIW",
-   "name": "CuriosityStream Inc.  - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CURIW"
   },
   {
    "symbol": "CURR",
@@ -60128,6 +60248,12 @@
    "yahoo_symbol": "KITTW"
   },
   {
+   "symbol": "KJD",
+   "name": "KraneShares 2x Long JD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KJD"
+  },
+  {
    "symbol": "KLAC",
    "name": "KLA Corporation  - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61191,7 +61317,7 @@
   },
   {
    "symbol": "LOBO",
-   "name": "LOBO EV TECHNOLOGIES LTD. - Ordinary shares",
+   "name": "LOBO TECHNOLOGIES LTD. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LOBO"
   },
@@ -69926,6 +70052,12 @@
    "yahoo_symbol": "SLE"
   },
   {
+   "symbol": "SLGB",
+   "name": "Smart Logistics Global Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLGB"
+  },
+  {
    "symbol": "SLGL",
    "name": "Sol-Gel Technologies Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -72339,7 +72471,7 @@
   },
   {
    "symbol": "TRIL",
-   "name": "Defiance Trillion Dollar Club Index ETF  ",
+   "name": "Defiance Trillion Dollar Club Index ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TRIL"
   },
@@ -75586,7 +75718,7 @@
   {
    "symbol": "ZSPC",
    "name": "zSpace, Inc. - Common stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZSPC"
   },
   {
@@ -93372,12 +93504,6 @@
    "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "UTF"
-  },
-  {
-   "symbol": "UTF.R",
-   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "UTF.R"
   },
   {
    "symbol": "UTG",

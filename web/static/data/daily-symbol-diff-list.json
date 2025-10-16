@@ -1,192 +1,180 @@
 {
  "added": [
   {
-   "symbol": "PMI",
-   "name": "Perseverance Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PMI.V",
-   "instruments": [
-    {
-     "name": "Perseverance Metals Inc.",
-     "symbol": "PMI"
-    }
-   ]
-  },
-  {
-   "symbol": "APPS",
-   "name": "AppLovin CDR (CAD Hedged)",
+   "symbol": "ALZ",
+   "name": "Allianz CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "APPS.TO",
+   "yahoo_symbol": "ALZ.TO",
    "instruments": [
     {
-     "name": "AppLovin CDR CAD Hgd",
-     "symbol": "APPS"
+     "name": "Allianz CDR CAD Hed",
+     "symbol": "ALZ"
     }
    ]
   },
   {
-   "symbol": "CEGS",
-   "name": "Constellation Energy CDR (CAD Hedged)",
+   "symbol": "ASML",
+   "name": "ASML CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "CEGS.TO",
+   "yahoo_symbol": "ASML.TO",
    "instruments": [
     {
-     "name": "Constl Enrgy CDR HG ",
-     "symbol": "CEGS"
+     "name": "ASML CDR CAD Hedged",
+     "symbol": "ASML"
     }
    ]
   },
   {
-   "symbol": "FMPB",
-   "name": "Fidelity Global Balanced Portfolio",
+   "symbol": "BMW",
+   "name": "BMW CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "FMPB.TO",
+   "yahoo_symbol": "BMW.TO",
    "instruments": [
     {
-     "name": "Fidelity GBl BalcPor",
-     "symbol": "FMPB"
+     "name": "BMW CDR CAD Hedged",
+     "symbol": "BMW"
     }
    ]
   },
   {
-   "symbol": "FMPG",
-   "name": "Fidelity Global Growth Portfolio",
+   "symbol": "INGS",
+   "name": "ING CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "FMPG.TO",
+   "yahoo_symbol": "INGS.TO",
    "instruments": [
     {
-     "name": "Fidelity Glb GrowPol",
-     "symbol": "FMPG"
+     "name": "ING CDR CAD Hedged",
+     "symbol": "INGS"
     }
    ]
   },
   {
-   "symbol": "FMPI",
-   "name": "Fidelity Global Income Portfolio",
+   "symbol": "BENZ",
+   "name": "Mercedes-Benz CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "FMPI.TO",
+   "yahoo_symbol": "BENZ.TO",
    "instruments": [
     {
-     "name": "Fidelity Glb InC Pol",
-     "symbol": "FMPI"
+     "name": "MercedesBenzCDR CaHD",
+     "symbol": "BENZ"
     }
    ]
   },
   {
-   "symbol": "FGSM",
-   "name": "Fidelity Global Small-Mid Cap Equity Fund",
+   "symbol": "NSTL",
+   "name": "Nestlé CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "FGSM.TO",
+   "yahoo_symbol": "NSTL.TO",
    "instruments": [
     {
-     "name": "Fidelity Gbl Sll Md ",
-     "symbol": "FGSM"
+     "name": "Nestle CDR CAD Hedg",
+     "symbol": "NSTL"
     }
    ]
   },
   {
-   "symbol": "FMAE",
-   "name": "Fidelity Multi-Alt Equity Fund",
+   "symbol": "NVS",
+   "name": "Novartis CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "FMAE.TO",
+   "yahoo_symbol": "NVS.TO",
    "instruments": [
     {
-     "name": "Fidelity MulAlt EqFd",
-     "symbol": "FMAE"
+     "name": "Novartis CDR CAD Hed",
+     "symbol": "NVS"
     }
    ]
   },
   {
-   "symbol": "ZYNS",
-   "name": "Philip Morris CDR (CAD Hedged)",
+   "symbol": "ROG",
+   "name": "Roche CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "ZYNS.TO",
+   "yahoo_symbol": "ROG.TO",
    "instruments": [
     {
-     "name": "Phil Mor Hgd CDR C",
-     "symbol": "ZYNS"
+     "name": "Roche CDR CAD Hedge",
+     "symbol": "ROG"
     }
    ]
   },
   {
-   "symbol": "RDDT",
-   "name": "Reddit CDR (CAD Hedged)",
+   "symbol": "SAPS",
+   "name": "SAP CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "RDDT.TO",
+   "yahoo_symbol": "SAPS.TO",
    "instruments": [
     {
-     "name": "Reddit CDR CAD Hgd",
-     "symbol": "RDDT"
+     "name": "SAP CDR CAD Hedged",
+     "symbol": "SAPS"
     }
    ]
   },
   {
-   "symbol": "HOOD",
-   "name": "Robinhood CDR (CAD Hedged)",
+   "symbol": "SMNS",
+   "name": "Siemens CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "HOOD.TO",
+   "yahoo_symbol": "SMNS.TO",
    "instruments": [
     {
-     "name": "Robinhood CDR CAD HD",
-     "symbol": "HOOD"
+     "name": "Siemens CDR CAD Hed",
+     "symbol": "SMNS"
     }
    ]
   },
   {
-   "symbol": "MSTR",
-   "name": "Strategy CDR (CAD Hedged)",
+   "symbol": "UBSS",
+   "name": "UBS CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "MSTR.TO",
+   "yahoo_symbol": "UBSS.TO",
    "instruments": [
     {
-     "name": "Strategy CDR CAD HD",
-     "symbol": "MSTR"
+     "name": "UBS CDR CAD Hedged",
+     "symbol": "UBSS"
     }
    ]
   },
   {
-   "symbol": "FIGG",
-   "name": "Leverage Shares 2x Long FIG Daily ETF",
+   "symbol": "KJD",
+   "name": "KraneShares 2x Long JD Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIGG"
+   "yahoo_symbol": "KJD"
   },
   {
-   "symbol": "FUTG",
-   "name": "Leverage Shares 2x Long FUTU Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FUTG"
-  },
-  {
-   "symbol": "RPGL",
-   "name": "Republic Power Group Limited - Class A Ordinary Shares",
+   "symbol": "SLGB",
+   "name": "Smart Logistics Global Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RPGL"
+   "yahoo_symbol": "SLGB"
   },
   {
-   "symbol": "TCGL",
-   "name": "TechCreate Group Ltd. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "TCGL"
-  },
-  {
-   "symbol": "TCPA",
-   "name": "TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TCPA"
+   "symbol": "ZSPC",
+   "name": "zSpace, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZSPC"
   }
  ],
  "removed": [
   {
-   "symbol": "ARIS",
-   "name": "Aris Water Solutions, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ARIS"
+   "symbol": "CURIW",
+   "name": "CuriosityStream Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CURIW"
   },
   {
-   "symbol": "GLADZ",
-   "name": "Gladstone Capital Corporation - 7.75% Notes due 2028",
+   "symbol": "UTF.R",
+   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UTF.R"
+  },
+  {
+   "symbol": "ZSPC",
+   "name": "zSpace, Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZSPC"
+  },
+  {
+   "symbol": "AVDX",
+   "name": "AvidXchange Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLADZ"
+   "yahoo_symbol": "AVDX"
   }
  ]
 }
