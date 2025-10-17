@@ -1,180 +1,78 @@
 {
  "added": [
   {
-   "symbol": "ALZ",
-   "name": "Allianz CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "ALZ.TO",
-   "instruments": [
-    {
-     "name": "Allianz CDR CAD Hed",
-     "symbol": "ALZ"
-    }
-   ]
-  },
-  {
-   "symbol": "ASML",
-   "name": "ASML CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "ASML.TO",
-   "instruments": [
-    {
-     "name": "ASML CDR CAD Hedged",
-     "symbol": "ASML"
-    }
-   ]
-  },
-  {
-   "symbol": "BMW",
-   "name": "BMW CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "BMW.TO",
-   "instruments": [
-    {
-     "name": "BMW CDR CAD Hedged",
-     "symbol": "BMW"
-    }
-   ]
-  },
-  {
-   "symbol": "INGS",
-   "name": "ING CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "INGS.TO",
-   "instruments": [
-    {
-     "name": "ING CDR CAD Hedged",
-     "symbol": "INGS"
-    }
-   ]
-  },
-  {
-   "symbol": "BENZ",
-   "name": "Mercedes-Benz CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "BENZ.TO",
-   "instruments": [
-    {
-     "name": "MercedesBenzCDR CaHD",
-     "symbol": "BENZ"
-    }
-   ]
-  },
-  {
-   "symbol": "NSTL",
-   "name": "Nestlé CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "NSTL.TO",
-   "instruments": [
-    {
-     "name": "Nestle CDR CAD Hedg",
-     "symbol": "NSTL"
-    }
-   ]
-  },
-  {
-   "symbol": "NVS",
-   "name": "Novartis CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "NVS.TO",
-   "instruments": [
-    {
-     "name": "Novartis CDR CAD Hed",
-     "symbol": "NVS"
-    }
-   ]
-  },
-  {
-   "symbol": "ROG",
-   "name": "Roche CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "ROG.TO",
-   "instruments": [
-    {
-     "name": "Roche CDR CAD Hedge",
-     "symbol": "ROG"
-    }
-   ]
-  },
-  {
-   "symbol": "SAPS",
-   "name": "SAP CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "SAPS.TO",
-   "instruments": [
-    {
-     "name": "SAP CDR CAD Hedged",
-     "symbol": "SAPS"
-    }
-   ]
-  },
-  {
-   "symbol": "SMNS",
-   "name": "Siemens CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "SMNS.TO",
-   "instruments": [
-    {
-     "name": "Siemens CDR CAD Hed",
-     "symbol": "SMNS"
-    }
-   ]
-  },
-  {
-   "symbol": "UBSS",
-   "name": "UBS CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "UBSS.TO",
-   "instruments": [
-    {
-     "name": "UBS CDR CAD Hedged",
-     "symbol": "UBSS"
-    }
-   ]
-  },
-  {
-   "symbol": "KJD",
-   "name": "KraneShares 2x Long JD Daily ETF",
+   "symbol": "BDCI",
+   "name": "BTC Development Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KJD"
+   "yahoo_symbol": "BDCI"
   },
   {
-   "symbol": "SLGB",
-   "name": "Smart Logistics Global Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLGB"
+   "symbol": "BDCIW",
+   "name": "BTC Development Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BDCIW"
   },
   {
-   "symbol": "ZSPC",
-   "name": "zSpace, Inc. - Common stock",
+   "symbol": "BREM",
+   "name": "iShares Emerging Markets Bond Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BREM"
+  },
+  {
+   "symbol": "EZMO",
+   "name": "AlphaDroid Broad Markets Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EZMO"
+  },
+  {
+   "symbol": "EZRO",
+   "name": "AlphaDroid Defensive Sector Rotation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EZRO"
+  },
+  {
+   "symbol": "LMNX",
+   "name": "Defiance Daily Target 2x Long LMND ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LMNX"
+  },
+  {
+   "symbol": "OWLS",
+   "name": "OBOOK Holdings Inc. - Class A Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OWLS"
+  },
+  {
+   "symbol": "SEV",
+   "name": "Aptera Motors Corp. - Class B Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZSPC"
+   "yahoo_symbol": "SEV"
   }
  ],
  "removed": [
   {
-   "symbol": "CURIW",
-   "name": "CuriosityStream Inc.  - Warrant",
+   "symbol": "FORL",
+   "name": "Four Leaf Acquisition Corporation - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CURIW"
+   "yahoo_symbol": "FORL"
   },
   {
-   "symbol": "UTF.R",
-   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights",
+   "symbol": "FORLU",
+   "name": "Four Leaf Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORLU"
+  },
+  {
+   "symbol": "FORLW",
+   "name": "Four Leaf Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORLW"
+  },
+  {
+   "symbol": "WNS",
+   "name": "WNS (Holdings) Limited Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "UTF.R"
-  },
-  {
-   "symbol": "ZSPC",
-   "name": "zSpace, Inc. - Common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZSPC"
-  },
-  {
-   "symbol": "AVDX",
-   "name": "AvidXchange Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AVDX"
+   "yahoo_symbol": "WNS"
   }
  ]
 }
