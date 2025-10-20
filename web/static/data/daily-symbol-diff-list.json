@@ -1,78 +1,78 @@
 {
  "added": [
   {
-   "symbol": "BDCI",
-   "name": "BTC Development Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BDCI"
-  },
-  {
-   "symbol": "BDCIW",
-   "name": "BTC Development Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BDCIW"
-  },
-  {
-   "symbol": "BREM",
-   "name": "iShares Emerging Markets Bond Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BREM"
-  },
-  {
-   "symbol": "EZMO",
-   "name": "AlphaDroid Broad Markets Momentum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EZMO"
-  },
-  {
-   "symbol": "EZRO",
-   "name": "AlphaDroid Defensive Sector Rotation ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EZRO"
-  },
-  {
-   "symbol": "LMNX",
-   "name": "Defiance Daily Target 2x Long LMND ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LMNX"
-  },
-  {
-   "symbol": "OWLS",
-   "name": "OBOOK Holdings Inc. - Class A Common Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OWLS"
-  },
-  {
-   "symbol": "SEV",
-   "name": "Aptera Motors Corp. - Class B Common Stock",
+   "symbol": "ACCL",
+   "name": "Acco Group Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SEV"
+   "yahoo_symbol": "ACCL"
+  },
+  {
+   "symbol": "GIBO",
+   "name": "GIBO Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GIBO"
+  },
+  {
+   "symbol": "MBVI",
+   "name": "M3-Brigade Acquisition VI Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBVI"
+  },
+  {
+   "symbol": "MBVIW",
+   "name": "M3-Brigade Acquisition VI Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBVIW"
+  },
+  {
+   "symbol": "VRCA",
+   "name": "Verrica Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VRCA"
+  },
+  {
+   "symbol": "JGH.V",
+   "name": "Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JGH.V"
+  },
+  {
+   "symbol": "SLAI",
+   "name": "SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SLAI"
   }
  ],
  "removed": [
   {
-   "symbol": "FORL",
-   "name": "Four Leaf Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FORL"
+   "symbol": "GIBO",
+   "name": "GIBO Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIBO"
   },
   {
-   "symbol": "FORLU",
-   "name": "Four Leaf Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FORLU"
+   "symbol": "VRCA",
+   "name": "Verrica Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VRCA"
   },
   {
-   "symbol": "FORLW",
-   "name": "Four Leaf Acquisition Corporation - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FORLW"
-  },
-  {
-   "symbol": "WNS",
-   "name": "WNS (Holdings) Limited Ordinary Shares",
+   "symbol": "BKT.R",
+   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "WNS"
+   "yahoo_symbol": "BKT.R"
+  },
+  {
+   "symbol": "SAND",
+   "name": "Sandstorm Gold Ltd. Ordinary Shares (Canada)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAND"
+  },
+  {
+   "symbol": "BTCM",
+   "name": "BIT Mining Limited ADS",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BTCM"
   }
  ]
 }

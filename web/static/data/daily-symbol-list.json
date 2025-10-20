@@ -1,5 +1,5 @@
 {
- "date": "2025-10-17",
+ "date": "2025-10-20",
  "data": [
   {
    "symbol": "ONE",
@@ -43486,10 +43486,6 @@
     {
      "name": "TeraGo Inc.",
      "symbol": "TGO"
-    },
-    {
-     "name": "TeraGo Inc Rts",
-     "symbol": "TGO.RT"
     }
    ]
   },
@@ -45348,6 +45344,12 @@
    "name": "Aurora Cannabis Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ACB"
+  },
+  {
+   "symbol": "ACCL",
+   "name": "Acco Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACCL"
   },
   {
    "symbol": "ACDC",
@@ -56548,7 +56550,7 @@
   {
    "symbol": "GIBO",
    "name": "GIBO Holdings Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GIBO"
   },
   {
@@ -62030,10 +62032,22 @@
    "yahoo_symbol": "MBUU"
   },
   {
+   "symbol": "MBVI",
+   "name": "M3-Brigade Acquisition VI Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBVI"
+  },
+  {
    "symbol": "MBVIU",
    "name": "M3-Brigade Acquisition VI Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MBVIU"
+  },
+  {
+   "symbol": "MBVIW",
+   "name": "M3-Brigade Acquisition VI Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBVIW"
   },
   {
    "symbol": "MBWM",
@@ -70839,13 +70853,13 @@
   },
   {
    "symbol": "SPWR",
-   "name": "Complete Solaria, Inc. - Common Stock",
+   "name": "SunPower Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SPWR"
   },
   {
    "symbol": "SPWRW",
-   "name": "Complete Solaria, Inc. - Warrant",
+   "name": "SunPower Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SPWRW"
   },
@@ -74158,7 +74172,7 @@
   {
    "symbol": "VRCA",
    "name": "Verrica Pharmaceuticals Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VRCA"
   },
   {
@@ -75729,13 +75743,13 @@
   },
   {
    "symbol": "ZOOZ",
-   "name": "ZOOZ Power Ltd. - Ordinary Shares",
+   "name": "ZOOZ Strategy Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZOOZ"
   },
   {
    "symbol": "ZOOZW",
-   "name": "ZOOZ Power Ltd. - Warrant",
+   "name": "ZOOZ Strategy Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZOOZW"
   },
@@ -78344,12 +78358,6 @@
    "yahoo_symbol": "BKT"
   },
   {
-   "symbol": "BKT.R",
-   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKT.R"
-  },
-  {
    "symbol": "BKTI",
    "name": "BK Technologies Corporation Common Stock",
    "exchange": "NYSE MKT",
@@ -78756,12 +78764,6 @@
    "name": "BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "BTA"
-  },
-  {
-   "symbol": "BTCM",
-   "name": "BIT Mining Limited ADS",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BTCM"
   },
   {
    "symbol": "BTE",
@@ -82671,19 +82673,19 @@
   },
   {
    "symbol": "FLG",
-   "name": "Flagstar Financial, Inc. Common Stock",
+   "name": "Flagstar Bank, N.A. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FLG"
   },
   {
    "symbol": "FLG$A",
-   "name": "Flagstar Financial, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",
+   "name": "Flagstar Bank, N.A. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FLG$A"
   },
   {
    "symbol": "FLG$U",
-   "name": "Flagstar Financial, Inc. Bifurcated Option Note Unit SecuritiES",
+   "name": "Flagstar Bank, N.A. Bifurcated Option Note Unit SecuritiES",
    "exchange": "NYSE",
    "yahoo_symbol": "FLG$U"
   },
@@ -85218,6 +85220,12 @@
    "name": "Nuveen Global High Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "JGH"
+  },
+  {
+   "symbol": "JGH.V",
+   "name": "Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JGH.V"
   },
   {
    "symbol": "JHG",
@@ -90920,12 +90928,6 @@
    "yahoo_symbol": "SAN"
   },
   {
-   "symbol": "SAND",
-   "name": "Sandstorm Gold Ltd. Ordinary Shares (Canada)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SAND"
-  },
-  {
    "symbol": "SAP",
    "name": "SAP  SE ADS",
    "exchange": "NYSE",
@@ -91494,6 +91496,12 @@
    "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
    "exchange": "NYSE",
    "yahoo_symbol": "SKYH.W"
+  },
+  {
+   "symbol": "SLAI",
+   "name": "SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SLAI"
   },
   {
    "symbol": "SLB",

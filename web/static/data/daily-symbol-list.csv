@@ -3367,7 +3367,7 @@ TSAT,Telesat Corporation,TSX,TSAT.TO,Telesat Corp A & B,TSAT
 T,TELUS Corporation,TSX,T.TO,TELUS Corporation,T
 TIXT,TELUS International (Cda) Inc.,TSX,TIXT.TO,TELUS Int'l (Cda) SV,TIXT
 TNZ,Tenaz Energy Corp.,TSX,TNZ.TO,Tenaz Energy Corp.,TNZ
-TGO,TeraGo Inc.,TSX,TGO.TO,TeraGo Inc.,TGO,TeraGo Inc Rts,TGO.RT
+TGO,TeraGo Inc.,TSX,TGO.TO,TeraGo Inc.,TGO
 TSND,TerrAscend Corp.,TSX,TSND.TO,TerrAscend Corp. J,TSND
 TVK,TerraVest Industries Inc.,TSX,TVK.TO,TerraVest Industries,TVK
 TSLA,Tesla CDR (CAD Hedged),TSX,TSLA.TO,Tesla CDR CAD HD,TSLA
@@ -3537,6 +3537,7 @@ ABVEW,Above Food Ingredients Inc. - Warrant,NASDAQ Global MarketSM,ABVEW
 ABVX,Abivax SA - American Depositary Shares,NASDAQ Global MarketSM,ABVX
 ACAD,ACADIA Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,ACAD
 ACB,Aurora Cannabis Inc. - Common Shares,NASDAQ Capital Market,ACB
+ACCL,Acco Group Holdings Limited - Ordinary Shares,NASDAQ Capital Market,ACCL
 ACDC,ProFrac Holding Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,ACDC
 ACET,"Adicet Bio, Inc. - Common Stock",NASDAQ Capital Market,ACET
 ACFN,"Acorn Energy, Inc. - Common Stock",NASDAQ Capital Market,ACFN
@@ -5403,7 +5404,7 @@ GGR,Gogoro Inc. - Ordinary Shares,NASDAQ Capital Market,GGR
 GGROW,Gogoro Inc. - Warrant,NASDAQ Capital Market,GGROW
 GH,"Guardant Health, Inc. - Common Stock",NASDAQ Global Select MarketSM,GH
 GHRS,GH Research PLC - Ordinary Shares,NASDAQ Global MarketSM,GHRS
-GIBO,GIBO Holdings Limited - Class A Ordinary Shares,NASDAQ Global MarketSM,GIBO
+GIBO,GIBO Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,GIBO
 GIBOW,GIBO Holdings Limited - Warrants,NASDAQ Capital Market,GIBOW
 GIFI,"Gulf Island Fabrication, Inc. - Common Stock",NASDAQ Global Select MarketSM,GIFI
 GIFT,"Giftify, Inc. - Common Stock",NASDAQ Capital Market,GIFT
@@ -6317,7 +6318,9 @@ MBOT,Microbot Medical Inc.  - Common Stock,NASDAQ Capital Market,MBOT
 MBRX,"Moleculin Biotech, Inc. - Common Stock",NASDAQ Capital Market,MBRX
 MBS,Angel Oak Mortgage-Backed Securities ETF,NASDAQ Global MarketSM,MBS
 MBUU,"Malibu Boats, Inc. - Common Stock",NASDAQ Global MarketSM,MBUU
+MBVI,M3-Brigade Acquisition VI Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,MBVI
 MBVIU,M3-Brigade Acquisition VI Corp. - Units,NASDAQ Global MarketSM,MBVIU
+MBVIW,M3-Brigade Acquisition VI Corp. - Warrant,NASDAQ Global MarketSM,MBVIW
 MBWM,Mercantile Bank Corporation - Common Stock,NASDAQ Global Select MarketSM,MBWM
 MBX,"MBX Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,MBX
 MCBS,"MetroCity Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCBS
@@ -7785,8 +7788,8 @@ SPRY,"ARS Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,SPRY
 SPSC,"SPS Commerce, Inc. - Common Stock",NASDAQ Global Select MarketSM,SPSC
 SPT,"Sprout Social, Inc - Class A Common Stock",NASDAQ Capital Market,SPT
 SPWH,"Sportsman's Warehouse Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SPWH
-SPWR,"Complete Solaria, Inc. - Common Stock",NASDAQ Global MarketSM,SPWR
-SPWRW,"Complete Solaria, Inc. - Warrant",NASDAQ Capital Market,SPWRW
+SPWR,SunPower Inc. - Common Stock,NASDAQ Global MarketSM,SPWR
+SPWRW,SunPower Inc. - Warrant,NASDAQ Capital Market,SPWRW
 SPXD,Xtrackers S&P 500 Diversified Sector Weight ETF,NASDAQ Global MarketSM,SPXD
 SPYQ,Tradr 2X Long SPY Quarterly ETF,NASDAQ Global MarketSM,SPYQ
 SQFT,"Presidio Property Trust, Inc. - Class A Common Stock",NASDAQ Capital Market,SQFT
@@ -8338,7 +8341,7 @@ VPLS,Vanguard Core Plus Bond ETF,NASDAQ Global MarketSM,VPLS
 VRA,"Vera Bradley, Inc. - Common Stock",NASDAQ Global Select MarketSM,VRA
 VRAR,"The Glimpse Group, Inc. - Common Stock",NASDAQ Capital Market,VRAR
 VRAX,Virax Biolabs Group Limited - Ordinary Shares,NASDAQ Capital Market,VRAX
-VRCA,Verrica Pharmaceuticals Inc. - Common Stock,NASDAQ Global MarketSM,VRCA
+VRCA,Verrica Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,VRCA
 VRDN,"Viridian Therapeutics, Inc.  - Common Stock",NASDAQ Capital Market,VRDN
 VREX,Varex Imaging Corporation - Common Stock,NASDAQ Global Select MarketSM,VREX
 VRIG,Invesco Variable Rate Investment Grade ETF,NASDAQ Global MarketSM,VRIG
@@ -8600,8 +8603,8 @@ ZM,"Zoom Communications, Inc. - Class A Common Stock",NASDAQ Global Select Marke
 ZMUN,F/m Ultrashort Tax-Free Municipal ETF,NASDAQ Global MarketSM,ZMUN
 ZNB,Zeta Network Group - Class A Ordinary Shares,NASDAQ Capital Market,ZNB
 ZNTL,"Zentalis Pharmaceuticals, Inc. - common stock",NASDAQ Global MarketSM,ZNTL
-ZOOZ,ZOOZ Power Ltd. - Ordinary Shares,NASDAQ Capital Market,ZOOZ
-ZOOZW,ZOOZ Power Ltd. - Warrant,NASDAQ Capital Market,ZOOZW
+ZOOZ,ZOOZ Strategy Ltd. - Ordinary Shares,NASDAQ Capital Market,ZOOZ
+ZOOZW,ZOOZ Strategy Ltd. - Warrant,NASDAQ Capital Market,ZOOZW
 ZS,"Zscaler, Inc. - Common Stock",NASDAQ Global Select MarketSM,ZS
 ZSPC,"zSpace, Inc. - Common stock",NASDAQ Capital Market,ZSPC
 ZTEK,Zentek Ltd. - common stock,NASDAQ Capital Market,ZTEK
@@ -9036,7 +9039,6 @@ BKN,BlackRock Investment Quality Municipal Trust Inc. (The),NYSE,BKN
 BKSY,BlackSky Technology Inc. Class A Common Stock,NYSE,BKSY
 BKSY.W,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",NYSE,BKSY.W
 BKT,BlackRock Income Trust Inc. (The),NYSE,BKT
-BKT.R,"BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights",NYSE,BKT.R
 BKTI,BK Technologies Corporation Common Stock,NYSE MKT,BKTI
 BKU,"BankUnited, Inc. Common Stock",NYSE,BKU
 BKV,BKV Corporation Common Stock,NYSE,BKV
@@ -9105,7 +9107,6 @@ BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest,
 BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,NYSE,BSTZ
 BSX,Boston Scientific Corporation Common Stock,NYSE,BSX
 BTA,BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest,NYSE,BTA
-BTCM,BIT Mining Limited ADS,NYSE,BTCM
 BTE,Baytex Energy Corp Common Shares,NYSE,BTE
 BTG,B2Gold Corp Common shares (Canada),NYSE MKT,BTG
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR",NYSE,BTI
@@ -9757,9 +9758,9 @@ FIS,"Fidelity National Information Services, Inc. Common Stock",NYSE,FIS
 FISK,"Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests",NYSE ARCA,FISK
 FIX,"Comfort Systems USA, Inc. Common Stock",NYSE,FIX
 FLC,Flaherty & Crumrine Total Return Fund Inc Common Stock,NYSE,FLC
-FLG,"Flagstar Financial, Inc. Common Stock",NYSE,FLG
-FLG$A,"Flagstar Financial, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",NYSE,FLG$A
-FLG$U,"Flagstar Financial, Inc. Bifurcated Option Note Unit SecuritiES",NYSE,FLG$U
+FLG,"Flagstar Bank, N.A. Common Stock",NYSE,FLG
+FLG$A,"Flagstar Bank, N.A. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",NYSE,FLG$A
+FLG$U,"Flagstar Bank, N.A. Bifurcated Option Note Unit SecuritiES",NYSE,FLG$U
 FLNG,FLEX LNG Ltd. Ordinary Shares,NYSE,FLNG
 FLO,"Flowers Foods, Inc. Common Stock",NYSE,FLO
 FLOC,Flowco Holdings Inc. Class A Common Stock,NYSE,FLOC
@@ -10182,6 +10183,7 @@ JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one-twenti
 JENA.U,"Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right",NYSE,JENA.U
 JFR,Nuveen Floating Rate Income Fund Common Stock,NYSE,JFR
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,NYSE,JGH
+JGH.V,"Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights when issued",NYSE,JGH.V
 JHG,Janus Henderson Group plc Ordinary Shares,NYSE,JHG
 JHI,John Hancock Investors Trust Common Stock,NYSE,JHI
 JHS,John Hancock Income Securities Trust Common Stock,NYSE,JHS
@@ -11132,7 +11134,6 @@ SAH,"Sonic Automotive, Inc. Common Stock",NYSE,SAH
 SAJ,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,SAJ
 SAM,"Boston Beer Company, Inc. (The) Common Stock",NYSE,SAM
 SAN,"Banco Santander, S.A. Sponsored ADR (Spain)",NYSE,SAN
-SAND,Sandstorm Gold Ltd. Ordinary Shares (Canada),NYSE,SAND
 SAP,SAP  SE ADS,NYSE,SAP
 SAR,Saratoga Investment Corp New,NYSE,SAR
 SARO,"StandardAero, Inc. Common Stock",NYSE,SARO
@@ -11228,6 +11229,7 @@ SKT,Tanger Inc. Common Stock,NYSE,SKT
 SKY,"Champion Homes, Inc. Common Stock",NYSE,SKY
 SKYH,Sky Harbour Group Corporation Class A Common Stock,NYSE,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE,SKYH.W
+SLAI,SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),NYSE,SLAI
 SLB,SLB Limited Common Shares,NYSE,SLB
 SLF,Sun Life Financial Inc. Common Stock,NYSE,SLF
 SLG,SL Green Realty Corp Common Stock,NYSE,SLG
