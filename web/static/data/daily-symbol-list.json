@@ -1,5 +1,5 @@
 {
- "date": "2025-10-20",
+ "date": "2025-10-21",
  "data": [
   {
    "symbol": "ONE",
@@ -4502,6 +4502,18 @@
     {
      "name": "Diagnos Inc.",
      "symbol": "ADK"
+    }
+   ]
+  },
+  {
+   "symbol": "DWS",
+   "name": "Diamond Estates Wines \u0026 Spirits Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DWS.V",
+   "instruments": [
+    {
+     "name": "Diamond Estates Wines \u0026 Spirits Inc.",
+     "symbol": "DWS"
     }
    ]
   },
@@ -9256,7 +9268,7 @@
    "yahoo_symbol": "LVX.V",
    "instruments": [
     {
-     "name": "Leviathan Gold Ltd",
+     "name": "Leviathan Gold Ltd.",
      "symbol": "LVX"
     }
    ]
@@ -9966,6 +9978,18 @@
     {
      "name": "Matador Technologies Inc.",
      "symbol": "MATA"
+    }
+   ]
+  },
+  {
+   "symbol": "MPV.P",
+   "name": "Matchpoint Ventures Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MPV.P.V",
+   "instruments": [
+    {
+     "name": "Matchpoint Ventures Corp.",
+     "symbol": "MPV.P"
     }
    ]
   },
@@ -44650,18 +44674,6 @@
    ]
   },
   {
-   "symbol": "VQS",
-   "name": "VIQ Solutions Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "VQS.TO",
-   "instruments": [
-    {
-     "name": "VIQ Solutions Inc. J",
-     "symbol": "VQS"
-    }
-   ]
-  },
-  {
    "symbol": "VGZ",
    "name": "Vista Gold Corp.",
    "exchange": "TSX",
@@ -46624,6 +46636,12 @@
    "yahoo_symbol": "AMTX"
   },
   {
+   "symbol": "AMUN",
+   "name": "abrdn Ultra Short Municipal Income Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMUN"
+  },
+  {
    "symbol": "AMUU",
    "name": "Direxion Daily AMD Bull 2X Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -47224,10 +47242,10 @@
    "yahoo_symbol": "ASBPW"
   },
   {
-   "symbol": "ASET",
-   "name": "FlexShares Real Assets Allocation Index Fund",
+   "symbol": "ASCI",
+   "name": "abrdn International Small Cap Active ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASET"
+   "yahoo_symbol": "ASCI"
   },
   {
    "symbol": "ASLE",
@@ -57190,6 +57208,18 @@
    "yahoo_symbol": "GSM"
   },
   {
+   "symbol": "GSRF",
+   "name": "GSR IV Acquisition Corp. - Class A ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRF"
+  },
+  {
+   "symbol": "GSRFR",
+   "name": "GSR IV Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRFR"
+  },
+  {
    "symbol": "GSRFU",
    "name": "GSR IV Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -57824,6 +57854,12 @@
    "name": "HarborOne Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HONE"
+  },
+  {
+   "symbol": "HONIV",
+   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONIV"
   },
   {
    "symbol": "HOOD",
@@ -70343,7 +70379,7 @@
   },
   {
    "symbol": "SMX",
-   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
+   "name": "SMX (Security Matters) Public Limited Company - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SMX"
   },
@@ -70574,6 +70610,12 @@
    "name": "Sohu.com Limited  - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SOHU"
+  },
+  {
+   "symbol": "SOLSV",
+   "name": "Solstice Advanced Materials Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SOLSV"
   },
   {
    "symbol": "SOLT",
@@ -71402,30 +71444,6 @@
    "name": "Silvaco Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SVCO"
-  },
-  {
-   "symbol": "SVII",
-   "name": "Spring Valley Acquisition Corp. II - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVII"
-  },
-  {
-   "symbol": "SVIIR",
-   "name": "Spring Valley Acquisition Corp. II - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVIIR"
-  },
-  {
-   "symbol": "SVIIU",
-   "name": "Spring Valley Acquisition Corp. II - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVIIU"
-  },
-  {
-   "symbol": "SVIIW",
-   "name": "Spring Valley Acquisition Corp. II - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVIIW"
   },
   {
    "symbol": "SVRA",
@@ -73708,12 +73726,6 @@
    "yahoo_symbol": "VBNK"
   },
   {
-   "symbol": "VBTX",
-   "name": "Veritex Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VBTX"
-  },
-  {
    "symbol": "VC",
    "name": "Visteon Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -75668,12 +75680,6 @@
    "name": "Zenta Group Company Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZGM"
-  },
-  {
-   "symbol": "ZIMV",
-   "name": "ZimVie Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ZIMV"
   },
   {
    "symbol": "ZION",
@@ -93842,12 +93848,6 @@
    "name": "Invesco Municipal Opportunity Trust Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VMO"
-  },
-  {
-   "symbol": "VNCE",
-   "name": "Vince Holding Corp. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VNCE"
   },
   {
    "symbol": "VNO",

@@ -1,78 +1,126 @@
 {
  "added": [
   {
-   "symbol": "ACCL",
-   "name": "Acco Group Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACCL"
+   "symbol": "DWS",
+   "name": "Diamond Estates Wines \u0026 Spirits Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DWS.V",
+   "instruments": [
+    {
+     "name": "Diamond Estates Wines \u0026 Spirits Inc.",
+     "symbol": "DWS"
+    }
+   ]
   },
   {
-   "symbol": "GIBO",
-   "name": "GIBO Holdings Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GIBO"
+   "symbol": "MPV.P",
+   "name": "Matchpoint Ventures Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MPV.P.V",
+   "instruments": [
+    {
+     "name": "Matchpoint Ventures Corp.",
+     "symbol": "MPV.P"
+    }
+   ]
   },
   {
-   "symbol": "MBVI",
-   "name": "M3-Brigade Acquisition VI Corp. - Class A Ordinary Shares",
+   "symbol": "AMUN",
+   "name": "abrdn Ultra Short Municipal Income Active ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MBVI"
+   "yahoo_symbol": "AMUN"
   },
   {
-   "symbol": "MBVIW",
-   "name": "M3-Brigade Acquisition VI Corp. - Warrant",
+   "symbol": "ASCI",
+   "name": "abrdn International Small Cap Active ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MBVIW"
+   "yahoo_symbol": "ASCI"
   },
   {
-   "symbol": "VRCA",
-   "name": "Verrica Pharmaceuticals Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VRCA"
+   "symbol": "GSRF",
+   "name": "GSR IV Acquisition Corp. - Class A ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRF"
   },
   {
-   "symbol": "JGH.V",
-   "name": "Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JGH.V"
+   "symbol": "GSRFR",
+   "name": "GSR IV Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRFR"
   },
   {
-   "symbol": "SLAI",
-   "name": "SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SLAI"
+   "symbol": "HONIV",
+   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONIV"
+  },
+  {
+   "symbol": "SOLSV",
+   "name": "Solstice Advanced Materials Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SOLSV"
   }
  ],
  "removed": [
   {
-   "symbol": "GIBO",
-   "name": "GIBO Holdings Limited - Class A Ordinary Shares",
+   "symbol": "ASET",
+   "name": "FlexShares Real Assets Allocation Index Fund",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GIBO"
+   "yahoo_symbol": "ASET"
   },
   {
-   "symbol": "VRCA",
-   "name": "Verrica Pharmaceuticals Inc. - Common Stock",
+   "symbol": "ZIMV",
+   "name": "ZimVie Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ZIMV"
+  },
+  {
+   "symbol": "VQS",
+   "name": "VIQ Solutions Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VQS.TO",
+   "instruments": [
+    {
+     "name": "VIQ Solutions Inc. J",
+     "symbol": "VQS"
+    }
+   ]
+  },
+  {
+   "symbol": "SVIIU",
+   "name": "Spring Valley Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VRCA"
+   "yahoo_symbol": "SVIIU"
   },
   {
-   "symbol": "BKT.R",
-   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKT.R"
+   "symbol": "SVIIW",
+   "name": "Spring Valley Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIIW"
   },
   {
-   "symbol": "SAND",
-   "name": "Sandstorm Gold Ltd. Ordinary Shares (Canada)",
+   "symbol": "VNCE",
+   "name": "Vince Holding Corp. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "SAND"
+   "yahoo_symbol": "VNCE"
   },
   {
-   "symbol": "BTCM",
-   "name": "BIT Mining Limited ADS",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BTCM"
+   "symbol": "VBTX",
+   "name": "Veritex Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBTX"
+  },
+  {
+   "symbol": "SVIIR",
+   "name": "Spring Valley Acquisition Corp. II - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIIR"
+  },
+  {
+   "symbol": "SVII",
+   "name": "Spring Valley Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVII"
   }
  ]
 }
