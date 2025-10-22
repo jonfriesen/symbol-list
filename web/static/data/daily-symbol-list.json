@@ -1,5 +1,5 @@
 {
- "date": "2025-10-21",
+ "date": "2025-10-22",
  "data": [
   {
    "symbol": "ONE",
@@ -10,6 +10,18 @@
     {
      "name": "01 Quantum Inc.",
      "symbol": "ONE"
+    }
+   ]
+  },
+  {
+   "symbol": "TRR",
+   "name": "0749116 B.C. Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TRR.V",
+   "instruments": [
+    {
+     "name": "0749116 B.C. Ltd.",
+     "symbol": "TRR"
     }
    ]
   },
@@ -1762,18 +1774,6 @@
     {
      "name": "Barksdale Resources Corp.",
      "symbol": "BRO"
-    }
-   ]
-  },
-  {
-   "symbol": "BGS",
-   "name": "Baroyeca Gold \u0026 Silver Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BGS.V",
-   "instruments": [
-    {
-     "name": "Baroyeca Gold \u0026 Silver Inc.",
-     "symbol": "BGS"
     }
    ]
   },
@@ -7778,18 +7778,6 @@
    ]
   },
   {
-   "symbol": "HCU",
-   "name": "Horizon Copper Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HCU.V",
-   "instruments": [
-    {
-     "name": "Horizon Copper Corp.",
-     "symbol": "HCU"
-    }
-   ]
-  },
-  {
    "symbol": "HPL",
    "name": "Horizon Petroleum Ltd.",
    "exchange": "TSXV",
@@ -9534,18 +9522,6 @@
     {
      "name": "Lomiko Metals Inc.",
      "symbol": "LMR"
-    }
-   ]
-  },
-  {
-   "symbol": "LPC",
-   "name": "Lorne Park Capital Partners Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LPC.V",
-   "instruments": [
-    {
-     "name": "Lorne Park Capital Partners Inc.",
-     "symbol": "LPC"
     }
    ]
   },
@@ -16182,14 +16158,14 @@
    ]
   },
   {
-   "symbol": "TLX.P",
+   "symbol": "RZL",
    "name": "Torchlight Innovations Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TLX.P.V",
+   "yahoo_symbol": "RZL.V",
    "instruments": [
     {
      "name": "Torchlight Innovations Inc.",
-     "symbol": "TLX.P"
+     "symbol": "RZL"
     }
    ]
   },
@@ -17002,6 +16978,18 @@
     {
      "name": "Vior Inc.",
      "symbol": "VIO"
+    }
+   ]
+  },
+  {
+   "symbol": "VQS",
+   "name": "VIQ Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VQS.V",
+   "instruments": [
+    {
+     "name": "VIQ Solutions Inc.",
+     "symbol": "VQS"
     }
    ]
   },
@@ -41618,18 +41606,6 @@
    ]
   },
   {
-   "symbol": "SSL",
-   "name": "Sandstorm Gold Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SSL.TO",
-   "instruments": [
-    {
-     "name": "Sandstorm Gold Ltd.",
-     "symbol": "SSL"
-    }
-   ]
-  },
-  {
    "symbol": "STC",
    "name": "Sangoma Technologies Corporation",
    "exchange": "TSX",
@@ -41726,6 +41702,54 @@
    ]
   },
   {
+   "symbol": "ABXU",
+   "name": "SavvyLong (2X) Barrick ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABXU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong2x BarriETF",
+     "symbol": "ABXU"
+    }
+   ]
+  },
+  {
+   "symbol": "CCOU",
+   "name": "SavvyLong (2X) Cameco ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCOU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLng2X Camec ETF",
+     "symbol": "CCOU"
+    }
+   ]
+  },
+  {
+   "symbol": "CNQU",
+   "name": "SavvyLong (2X) Cdn Natural Resources ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNQU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLng2XCdnNResETF",
+     "symbol": "CNQU"
+    }
+   ]
+  },
+  {
+   "symbol": "CSUU",
+   "name": "SavvyLong (2X) Constellation Software ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSUU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2X CoSoft ETF",
+     "symbol": "CSUU"
+    }
+   ]
+  },
+  {
    "symbol": "ALPU",
    "name": "SavvyLong (2X) GOOGL ETF",
    "exchange": "TSX",
@@ -41762,6 +41786,18 @@
    ]
   },
   {
+   "symbol": "SHPU",
+   "name": "SavvyLong (2X) Shopify ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SHPU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2X Shopi ETF ",
+     "symbol": "SHPU"
+    }
+   ]
+  },
+  {
    "symbol": "TSLU",
    "name": "SavvyLong (2X) TSLA ETF",
    "exchange": "TSX",
@@ -41770,6 +41806,54 @@
     {
      "name": "SavvyLong (2X) TSLA",
      "symbol": "TSLU"
+    }
+   ]
+  },
+  {
+   "symbol": "COMU",
+   "name": "SavvyLong 2X CIBC (CM) Equity-Linked ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COMU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2XCIBC EqtETF",
+     "symbol": "COMU"
+    }
+   ]
+  },
+  {
+   "symbol": "NBCU",
+   "name": "SavvyLong 2X NBC (NA) Equity-Linked ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBCU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLng2xNB EQTETF ",
+     "symbol": "NBCU"
+    }
+   ]
+  },
+  {
+   "symbol": "RBCU",
+   "name": "SavvyLong 2X RBC (RY) Equity-Linked ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RBCU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2X RBC EqtETF",
+     "symbol": "RBCU"
+    }
+   ]
+  },
+  {
+   "symbol": "TDU",
+   "name": "SavvyLong 2X TDB (TD) Equity-Linked ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TDU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2X TDB EqtETF",
+     "symbol": "TDU"
     }
    ]
   },
@@ -46018,6 +46102,12 @@
    "yahoo_symbol": "AHG"
   },
   {
+   "symbol": "AHMA",
+   "name": "Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AHMA"
+  },
+  {
    "symbol": "AIA",
    "name": "iShares Asia 50 ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -48142,6 +48232,12 @@
    "yahoo_symbol": "BBSI"
   },
   {
+   "symbol": "BBYY",
+   "name": "GraniteShares YieldBOOST BABA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBYY"
+  },
+  {
    "symbol": "BCAB",
    "name": "BioAtla, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -48470,6 +48566,12 @@
    "name": "BGC Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BGC"
+  },
+  {
+   "symbol": "BGIN",
+   "name": "Bgin Blockchain Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGIN"
   },
   {
    "symbol": "BGL",
@@ -53866,12 +53968,6 @@
    "yahoo_symbol": "EMIF"
   },
   {
-   "symbol": "EMISU",
-   "name": "Emmis Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMISU"
-  },
-  {
    "symbol": "EML",
    "name": "Eastern Company (The) - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -54764,6 +54860,12 @@
    "name": "Falcon's Beyond Global, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FBYDW"
+  },
+  {
+   "symbol": "FBYY",
+   "name": "GraniteShares YieldBOOST META ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBYY"
   },
   {
    "symbol": "FCA",
@@ -62188,6 +62290,12 @@
    "yahoo_symbol": "MCSE"
   },
   {
+   "symbol": "MCTA",
+   "name": "Charming Medical Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCTA"
+  },
+  {
    "symbol": "MCTR",
    "name": "CTRL Group Limited - ordinary shares",
    "exchange": "NASDAQ Capital Market",
@@ -66320,12 +66428,6 @@
    "name": "Phio Pharmaceuticals Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PHIO"
-  },
-  {
-   "symbol": "PHLT",
-   "name": "Performant Healthcare, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PHLT"
   },
   {
    "symbol": "PHO",
@@ -73343,7 +73445,7 @@
   },
   {
    "symbol": "UOKA",
-   "name": "MDJM LTD - Ordinary Shares",
+   "name": "MDJM LTD - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "UOKA"
   },
@@ -74066,6 +74168,12 @@
    "name": "Vimeo, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VMEO"
+  },
+  {
+   "symbol": "VNCE",
+   "name": "Vince Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VNCE"
   },
   {
    "symbol": "VNDA",
@@ -85814,12 +85922,6 @@
    "name": "Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)",
    "exchange": "NYSE",
    "yahoo_symbol": "KTN"
-  },
-  {
-   "symbol": "KUKE",
-   "name": "Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KUKE"
   },
   {
    "symbol": "KULR",

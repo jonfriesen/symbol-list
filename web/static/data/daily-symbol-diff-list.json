@@ -1,126 +1,264 @@
 {
  "added": [
   {
-   "symbol": "DWS",
-   "name": "Diamond Estates Wines \u0026 Spirits Inc.",
+   "symbol": "TRR",
+   "name": "0749116 B.C. Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DWS.V",
+   "yahoo_symbol": "TRR.V",
    "instruments": [
     {
-     "name": "Diamond Estates Wines \u0026 Spirits Inc.",
-     "symbol": "DWS"
+     "name": "0749116 B.C. Ltd.",
+     "symbol": "TRR"
     }
    ]
   },
   {
-   "symbol": "MPV.P",
-   "name": "Matchpoint Ventures Corp.",
+   "symbol": "RZL",
+   "name": "Torchlight Innovations Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MPV.P.V",
+   "yahoo_symbol": "RZL.V",
    "instruments": [
     {
-     "name": "Matchpoint Ventures Corp.",
-     "symbol": "MPV.P"
+     "name": "Torchlight Innovations Inc.",
+     "symbol": "RZL"
     }
    ]
-  },
-  {
-   "symbol": "AMUN",
-   "name": "abrdn Ultra Short Municipal Income Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMUN"
-  },
-  {
-   "symbol": "ASCI",
-   "name": "abrdn International Small Cap Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASCI"
-  },
-  {
-   "symbol": "GSRF",
-   "name": "GSR IV Acquisition Corp. - Class A ordinary share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRF"
-  },
-  {
-   "symbol": "GSRFR",
-   "name": "GSR IV Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GSRFR"
-  },
-  {
-   "symbol": "HONIV",
-   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HONIV"
-  },
-  {
-   "symbol": "SOLSV",
-   "name": "Solstice Advanced Materials Inc. - Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SOLSV"
-  }
- ],
- "removed": [
-  {
-   "symbol": "ASET",
-   "name": "FlexShares Real Assets Allocation Index Fund",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASET"
-  },
-  {
-   "symbol": "ZIMV",
-   "name": "ZimVie Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ZIMV"
   },
   {
    "symbol": "VQS",
    "name": "VIQ Solutions Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "VQS.TO",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VQS.V",
    "instruments": [
     {
-     "name": "VIQ Solutions Inc. J",
+     "name": "VIQ Solutions Inc.",
      "symbol": "VQS"
     }
    ]
   },
   {
-   "symbol": "SVIIU",
-   "name": "Spring Valley Acquisition Corp. II - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVIIU"
+   "symbol": "ABXU",
+   "name": "SavvyLong (2X) Barrick ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABXU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong2x BarriETF",
+     "symbol": "ABXU"
+    }
+   ]
   },
   {
-   "symbol": "SVIIW",
-   "name": "Spring Valley Acquisition Corp. II - Warrant",
+   "symbol": "CCOU",
+   "name": "SavvyLong (2X) Cameco ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCOU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLng2X Camec ETF",
+     "symbol": "CCOU"
+    }
+   ]
+  },
+  {
+   "symbol": "CNQU",
+   "name": "SavvyLong (2X) Cdn Natural Resources ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNQU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLng2XCdnNResETF",
+     "symbol": "CNQU"
+    }
+   ]
+  },
+  {
+   "symbol": "CSUU",
+   "name": "SavvyLong (2X) Constellation Software ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSUU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2X CoSoft ETF",
+     "symbol": "CSUU"
+    }
+   ]
+  },
+  {
+   "symbol": "SHPU",
+   "name": "SavvyLong (2X) Shopify ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SHPU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2X Shopi ETF ",
+     "symbol": "SHPU"
+    }
+   ]
+  },
+  {
+   "symbol": "COMU",
+   "name": "SavvyLong 2X CIBC (CM) Equity-Linked ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COMU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2XCIBC EqtETF",
+     "symbol": "COMU"
+    }
+   ]
+  },
+  {
+   "symbol": "NBCU",
+   "name": "SavvyLong 2X NBC (NA) Equity-Linked ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBCU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLng2xNB EQTETF ",
+     "symbol": "NBCU"
+    }
+   ]
+  },
+  {
+   "symbol": "RBCU",
+   "name": "SavvyLong 2X RBC (RY) Equity-Linked ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RBCU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2X RBC EqtETF",
+     "symbol": "RBCU"
+    }
+   ]
+  },
+  {
+   "symbol": "TDU",
+   "name": "SavvyLong 2X TDB (TD) Equity-Linked ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TDU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLg2X TDB EqtETF",
+     "symbol": "TDU"
+    }
+   ]
+  },
+  {
+   "symbol": "AHMA",
+   "name": "Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AHMA"
+  },
+  {
+   "symbol": "BBYY",
+   "name": "GraniteShares YieldBOOST BABA ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVIIW"
+   "yahoo_symbol": "BBYY"
+  },
+  {
+   "symbol": "BGIN",
+   "name": "Bgin Blockchain Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGIN"
+  },
+  {
+   "symbol": "FBYY",
+   "name": "GraniteShares YieldBOOST META ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBYY"
+  },
+  {
+   "symbol": "MCTA",
+   "name": "Charming Medical Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCTA"
   },
   {
    "symbol": "VNCE",
-   "name": "Vince Holding Corp. Common Stock",
-   "exchange": "NYSE",
+   "name": "Vince Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VNCE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PHLT",
+   "name": "Performant Healthcare, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PHLT"
   },
   {
-   "symbol": "VBTX",
-   "name": "Veritex Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VBTX"
+   "symbol": "TLX.P",
+   "name": "Torchlight Innovations Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TLX.P.V",
+   "instruments": [
+    {
+     "name": "Torchlight Innovations Inc.",
+     "symbol": "TLX.P"
+    }
+   ]
   },
   {
-   "symbol": "SVIIR",
-   "name": "Spring Valley Acquisition Corp. II - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVIIR"
+   "symbol": "HCU",
+   "name": "Horizon Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HCU.V",
+   "instruments": [
+    {
+     "name": "Horizon Copper Corp.",
+     "symbol": "HCU"
+    }
+   ]
   },
   {
-   "symbol": "SVII",
-   "name": "Spring Valley Acquisition Corp. II - Class A Ordinary Shares",
+   "symbol": "KUKE",
+   "name": "Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KUKE"
+  },
+  {
+   "symbol": "LPC",
+   "name": "Lorne Park Capital Partners Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LPC.V",
+   "instruments": [
+    {
+     "name": "Lorne Park Capital Partners Inc.",
+     "symbol": "LPC"
+    }
+   ]
+  },
+  {
+   "symbol": "SSL",
+   "name": "Sandstorm Gold Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SSL.TO",
+   "instruments": [
+    {
+     "name": "Sandstorm Gold Ltd.",
+     "symbol": "SSL"
+    }
+   ]
+  },
+  {
+   "symbol": "BGS",
+   "name": "Baroyeca Gold \u0026 Silver Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BGS.V",
+   "instruments": [
+    {
+     "name": "Baroyeca Gold \u0026 Silver Inc.",
+     "symbol": "BGS"
+    }
+   ]
+  },
+  {
+   "symbol": "EMISU",
+   "name": "Emmis Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVII"
+   "yahoo_symbol": "EMISU"
   }
  ]
 }
