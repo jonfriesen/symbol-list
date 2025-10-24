@@ -1,132 +1,132 @@
 {
  "added": [
   {
-   "symbol": "ESXR",
-   "name": "Essex Resources Corp.",
+   "symbol": "FUSE",
+   "name": "Fusemachines Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FUSE"
+  },
+  {
+   "symbol": "FUSEW",
+   "name": "Fusemachines Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FUSEW"
+  },
+  {
+   "symbol": "GTPE",
+   "name": "Goldman Sachs MSCI World Private Equity Return Tracker ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTPE"
+  },
+  {
+   "symbol": "HAVAU",
+   "name": "Harvard Ave Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HAVAU"
+  },
+  {
+   "symbol": "MMTXU",
+   "name": "Miluna Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MMTXU"
+  },
+  {
+   "symbol": "IN",
+   "name": "Infield Minerals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ESXR.V",
+   "yahoo_symbol": "IN.V",
    "instruments": [
     {
-     "name": "Essex Resources Corp.",
-     "symbol": "ESXR"
+     "name": "Infield Minerals Corp.",
+     "symbol": "IN"
     }
    ]
   },
   {
-   "symbol": "SICO",
-   "name": "Quetzal Copper Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SICO.V",
+   "symbol": "FN.PR.A",
+   "name": "First National Financial Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "FN.PR.A.TO",
    "instruments": [
     {
-     "name": "Quetzal Copper Corp.",
-     "symbol": "SICO"
+     "name": "1st Natl Fin Sr 1 Pr",
+     "symbol": "FN.PR.A"
+    },
+    {
+     "name": "1st Natl Fin Sr 2 Pr",
+     "symbol": "FN.PR.B"
     }
    ]
-  },
-  {
-   "symbol": "JGH.R",
-   "name": "Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JGH.R"
-  },
-  {
-   "symbol": "OPP.V",
-   "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OPP.V"
-  },
-  {
-   "symbol": "AGCC",
-   "name": "Agencia Comercial Spirits Ltd - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGCC"
-  },
-  {
-   "symbol": "ALISU",
-   "name": "Calisa Acquisition Corp - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALISU"
-  },
-  {
-   "symbol": "EMIS",
-   "name": "Emmis Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMIS"
-  },
-  {
-   "symbol": "EMISR",
-   "name": "Emmis Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMISR"
-  },
-  {
-   "symbol": "NPT",
-   "name": "Texxon Holding Limited - Ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NPT"
-  },
-  {
-   "symbol": "RAIN",
-   "name": "Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RAIN"
-  },
-  {
-   "symbol": "RAINW",
-   "name": "Rain Enhancement Technologies Holdco, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RAINW"
   }
  ],
  "removed": [
   {
-   "symbol": "RAINW",
-   "name": "Rain Enhancement Technologies Holdco, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RAINW"
-  },
-  {
-   "symbol": "JGH.V",
-   "name": "Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JGH.V"
-  },
-  {
-   "symbol": "RAIN",
-   "name": "Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RAIN"
-  },
-  {
-   "symbol": "TCBN",
-   "name": "TD Global Carbon Credit Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TCBN.TO",
-   "instruments": [
-    {
-     "name": "TD Glbl CarbonCdtIdx",
-     "symbol": "TCBN"
-    }
-   ]
-  },
-  {
-   "symbol": "Q",
-   "name": "Quetzal Copper Corp.",
+   "symbol": "MAC",
+   "name": "Themac Resources Group Limited",
    "exchange": "TSXV",
-   "yahoo_symbol": "Q.V",
+   "yahoo_symbol": "MAC.V",
    "instruments": [
     {
-     "name": "Quetzal Copper Corp.",
-     "symbol": "Q"
+     "name": "Themac Resources Group Limited",
+     "symbol": "MAC"
     }
    ]
   },
   {
-   "symbol": "FPAY",
-   "name": "FlexShopper, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FPAY"
+   "symbol": "PBPB",
+   "name": "Potbelly Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PBPB"
+  },
+  {
+   "symbol": "MLNK",
+   "name": "MeridianLink, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MLNK"
+  },
+  {
+   "symbol": "PRYM",
+   "name": "Prime Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRYM.TO",
+   "instruments": [
+    {
+     "name": "Prime Mining Corp. J",
+     "symbol": "PRYM"
+    }
+   ]
+  },
+  {
+   "symbol": "INFD",
+   "name": "Infield Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INFD.V",
+   "instruments": [
+    {
+     "name": "Infield Minerals Corp.",
+     "symbol": "INFD"
+    }
+   ]
+  },
+  {
+   "symbol": "FN",
+   "name": "First National Financial Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "FN.TO",
+   "instruments": [
+    {
+     "name": "First Nat'l Fin Corp",
+     "symbol": "FN"
+    },
+    {
+     "name": "1st Natl Fin Sr 1 Pr",
+     "symbol": "FN.PR.A"
+    },
+    {
+     "name": "1st Natl Fin Sr 2 Pr",
+     "symbol": "FN.PR.B"
+    }
+   ]
   }
  ]
 }
