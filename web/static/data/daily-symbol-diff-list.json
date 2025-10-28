@@ -1,132 +1,72 @@
 {
  "added": [
   {
-   "symbol": "AFV.P ",
-   "name": "Apolo V Acquisition Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AFV.P .V",
-   "instruments": [
-    {
-     "name": "Apolo V Acquisition Corp.",
-     "symbol": "AFV.P "
-    }
-   ]
-  },
-  {
-   "symbol": "BEEP",
-   "name": "Geiger Energy Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BEEP.V",
-   "instruments": [
-    {
-     "name": "Geiger Energy Corporation",
-     "symbol": "BEEP"
-    }
-   ]
-  },
-  {
-   "symbol": "NTLX",
-   "name": "NeuroThera Labs Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NTLX.V",
-   "instruments": [
-    {
-     "name": "NeuroThera Labs Inc.",
-     "symbol": "NTLX"
-    }
-   ]
-  },
-  {
-   "symbol": "AVXX",
-   "name": "Defiance Daily Target 2x Long AVAV ETF",
+   "symbol": "BLSG",
+   "name": "Leverage Shares 2X Long BLSH Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVXX"
+   "yahoo_symbol": "BLSG"
   },
   {
-   "symbol": "GLDB",
-   "name": "IDX Alternative FIAT ETF",
+   "symbol": "BMNG",
+   "name": "Leverage Shares 2X Long BMNR Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLDB"
+   "yahoo_symbol": "BMNG"
   },
   {
-   "symbol": "LAES",
-   "name": "SEALSQ Corp - Ordinary Shares",
+   "symbol": "BYAH",
+   "name": "Park Ha Biological Technology Co., Ltd. - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYAH"
+  },
+  {
+   "symbol": "GIW",
+   "name": "GigCapital8 Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIW"
+  },
+  {
+   "symbol": "GIWWR",
+   "name": "GigCapital8 Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIWWR"
+  },
+  {
+   "symbol": "MPG",
+   "name": "Leverage Shares 2X Long MP Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MPG"
+  },
+  {
+   "symbol": "MPLT",
+   "name": "MapLight Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LAES"
+   "yahoo_symbol": "MPLT"
   },
   {
-   "symbol": "LAFAU",
-   "name": "LaFayette Acquisition Corp. - Unit",
+   "symbol": "NBIG",
+   "name": "Leverage Shares 2X Long NBIS Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LAFAU"
-  },
-  {
-   "symbol": "DD.V",
-   "name": "DuPont de Nemours, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DD.V"
-  },
-  {
-   "symbol": "Q.V",
-   "name": "Qnity Electronics, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "Q.V"
+   "yahoo_symbol": "NBIG"
   }
  ],
  "removed": [
   {
-   "symbol": "EVM",
-   "name": "Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "EVM"
-  },
-  {
-   "symbol": "G",
-   "name": "Augusta Gold Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "G.TO",
-   "instruments": [
-    {
-     "name": "Augusta Gold Corp. J",
-     "symbol": "G"
-    }
-   ]
-  },
-  {
-   "symbol": "FIND",
-   "name": "Baselode Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FIND.V",
-   "instruments": [
-    {
-     "name": "Baselode Energy Corp.",
-     "symbol": "FIND"
-    }
-   ]
-  },
-  {
-   "symbol": "LAES",
-   "name": "SEALSQ Corp - Ordinary Shares",
+   "symbol": "ADAP",
+   "name": "Adaptimmune Therapeutics plc - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LAES"
+   "yahoo_symbol": "ADAP"
   },
   {
-   "symbol": "ENX",
-   "name": "Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ENX"
+   "symbol": "BRW.R",
+   "name": "Saba Capital Income \u0026 Opportunities Fund Rights (expiring October 28, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRW.R"
   },
   {
-   "symbol": "MIZA.P",
-   "name": "Miza III Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MIZA.P.V",
-   "instruments": [
-    {
-     "name": "Miza III Ventures Inc.",
-     "symbol": "MIZA.P"
-    }
-   ]
+   "symbol": "PHH",
+   "name": "Park Ha Biological Technology Co., Ltd. - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PHH"
   }
  ]
 }

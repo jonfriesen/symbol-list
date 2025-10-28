@@ -1,5 +1,5 @@
 {
- "date": "2025-10-27",
+ "date": "2025-10-28",
  "data": [
   {
    "symbol": "ONE",
@@ -4758,18 +4758,6 @@
     {
      "name": "Dynasty Gold Corp.",
      "symbol": "DYG"
-    }
-   ]
-  },
-  {
-   "symbol": "REE",
-   "name": "E-Tech Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "REE.V",
-   "instruments": [
-    {
-     "name": "E-Tech Resources Inc.",
-     "symbol": "REE"
     }
    ]
   },
@@ -13438,6 +13426,18 @@
     {
      "name": "Reeflex Solutions Inc.",
      "symbol": "RFX"
+    }
+   ]
+  },
+  {
+   "symbol": "REE",
+   "name": "ReeXploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REE.V",
+   "instruments": [
+    {
+     "name": "ReeXploration Inc.",
+     "symbol": "REE"
     }
    ]
   },
@@ -45632,12 +45632,6 @@
    "yahoo_symbol": "ADAMZ"
   },
   {
-   "symbol": "ADAP",
-   "name": "Adaptimmune Therapeutics plc - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADAP"
-  },
-  {
    "symbol": "ADBE",
    "name": "Adobe Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48908,6 +48902,12 @@
    "yahoo_symbol": "BLRX"
   },
   {
+   "symbol": "BLSG",
+   "name": "Leverage Shares 2X Long BLSH Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLSG"
+  },
+  {
    "symbol": "BLTE",
    "name": "Belite Bio, Inc - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -48978,6 +48978,12 @@
    "name": "Bluemount Holdings Limited - Class B Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BMHL"
+  },
+  {
+   "symbol": "BMNG",
+   "name": "Leverage Shares 2X Long BMNR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMNG"
   },
   {
    "symbol": "BMR",
@@ -49890,6 +49896,12 @@
    "name": "Bowman Consulting Group Ltd. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BWMN"
+  },
+  {
+   "symbol": "BYAH",
+   "name": "Park Ha Biological Technology Co., Ltd. - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYAH"
   },
   {
    "symbol": "BYFC",
@@ -56768,6 +56780,18 @@
    "yahoo_symbol": "GITS"
   },
   {
+   "symbol": "GIW",
+   "name": "GigCapital8 Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIW"
+  },
+  {
+   "symbol": "GIWWR",
+   "name": "GigCapital8 Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIWWR"
+  },
+  {
    "symbol": "GIWWU",
    "name": "GigCapital8 Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -63044,6 +63068,18 @@
    "yahoo_symbol": "MPB"
   },
   {
+   "symbol": "MPG",
+   "name": "Leverage Shares 2X Long MP Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MPG"
+  },
+  {
+   "symbol": "MPLT",
+   "name": "MapLight Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MPLT"
+  },
+  {
    "symbol": "MPWR",
    "name": "Monolithic Power Systems, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63708,6 +63744,12 @@
    "name": "NB Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NBBK"
+  },
+  {
+   "symbol": "NBIG",
+   "name": "Leverage Shares 2X Long NBIS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NBIG"
   },
   {
    "symbol": "NBIL",
@@ -66450,12 +66492,6 @@
    "name": "Phathom Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PHAT"
-  },
-  {
-   "symbol": "PHH",
-   "name": "Park Ha Biological Technology Co., Ltd. - ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PHH"
   },
   {
    "symbol": "PHIO",
@@ -78852,12 +78888,6 @@
    "name": "Saba Capital Income \u0026 Opportunities Fund SBI",
    "exchange": "NYSE",
    "yahoo_symbol": "BRW"
-  },
-  {
-   "symbol": "BRW.R",
-   "name": "Saba Capital Income \u0026 Opportunities Fund Rights (expiring October 28, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BRW.R"
   },
   {
    "symbol": "BRX",
