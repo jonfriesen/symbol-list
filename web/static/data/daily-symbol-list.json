@@ -1,5 +1,5 @@
 {
- "date": "2025-10-31",
+ "date": "2025-11-03",
  "data": [
   {
    "symbol": "ONE",
@@ -982,14 +982,14 @@
    ]
   },
   {
-   "symbol": "AFV.P ",
+   "symbol": "AFV.P",
    "name": "Apolo V Acquisition Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AFV.P .V",
+   "yahoo_symbol": "AFV.P.V",
    "instruments": [
     {
      "name": "Apolo V Acquisition Corp.",
-     "symbol": "AFV.P "
+     "symbol": "AFV.P"
     }
    ]
   },
@@ -4938,6 +4938,18 @@
     {
      "name": "Eddy Smart Home Solutions Ltd.",
      "symbol": "EDY"
+    }
+   ]
+  },
+  {
+   "symbol": "EDCU",
+   "name": "Edge Copper Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EDCU.V",
+   "instruments": [
+    {
+     "name": "Edge Copper Corporation",
+     "symbol": "EDCU"
     }
    ]
   },
@@ -12610,18 +12622,6 @@
     {
      "name": "Plantify Foods, Inc.",
      "symbol": "PTFY"
-    }
-   ]
-  },
-  {
-   "symbol": "PLA",
-   "name": "Plata Latina Minerals Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PLA.V",
-   "instruments": [
-    {
-     "name": "Plata Latina Minerals Corporation",
-     "symbol": "PLA"
     }
    ]
   },
@@ -24986,18 +24986,6 @@
    ]
   },
   {
-   "symbol": "CCEI",
-   "name": "CIBC Canadian Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CCEI.TO",
-   "instruments": [
-    {
-     "name": "CIBC Cdn Eqty Un",
-     "symbol": "CCEI"
-    }
-   ]
-  },
-  {
    "symbol": "CALB",
    "name": "CIBC Canadian Government Long-Term Bond ETF",
    "exchange": "TSX",
@@ -25070,18 +25058,6 @@
    ]
   },
   {
-   "symbol": "CEMI",
-   "name": "CIBC Emerging Markets Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CEMI.TO",
-   "instruments": [
-    {
-     "name": "CIBC Emrg Mkt Eq U",
-     "symbol": "CEMI"
-    }
-   ]
-  },
-  {
    "symbol": "CFLX",
    "name": "CIBC Flexible Yield ETF (CAD-Hedged)",
    "exchange": "TSX",
@@ -25130,8 +25106,20 @@
    ]
   },
   {
+   "symbol": "CCEI",
+   "name": "CIBC MSCI Canada Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCEI.TO",
+   "instruments": [
+    {
+     "name": "CIBC Cdn Eqty Un",
+     "symbol": "CCEI"
+    }
+   ]
+  },
+  {
    "symbol": "CIEI",
-   "name": "CIBC International Equity Index ETF",
+   "name": "CIBC MSCI EAFE Equity Index ETF",
    "exchange": "TSX",
    "yahoo_symbol": "CIEI.TO",
    "instruments": [
@@ -25143,13 +25131,49 @@
   },
   {
    "symbol": "CIEH",
-   "name": "CIBC International Equity Index ETF (CAD-Hedged)",
+   "name": "CIBC MSCI EAFE Equity Index ETF (CAD Hedged)",
    "exchange": "TSX",
    "yahoo_symbol": "CIEH.TO",
    "instruments": [
     {
      "name": "CIBC Inter Eq CA-Hgd",
      "symbol": "CIEH"
+    }
+   ]
+  },
+  {
+   "symbol": "CEMI",
+   "name": "CIBC MSCI Emerging Markets Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEMI.TO",
+   "instruments": [
+    {
+     "name": "CIBC Emrg Mkt Eq U",
+     "symbol": "CEMI"
+    }
+   ]
+  },
+  {
+   "symbol": "CUEI",
+   "name": "CIBC MSCI USA Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUEI.TO",
+   "instruments": [
+    {
+     "name": "CIBC US Eqty Idx U",
+     "symbol": "CUEI"
+    }
+   ]
+  },
+  {
+   "symbol": "CUEH",
+   "name": "CIBC MSCI USA Equity Index ETF (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUEH.TO",
+   "instruments": [
+    {
+     "name": "CIBC US EqIdx C Hg",
+     "symbol": "CUEH"
     }
    ]
   },
@@ -25162,30 +25186,6 @@
     {
      "name": "CIBC Pre Cash Mg ETF",
      "symbol": "CCAD"
-    }
-   ]
-  },
-  {
-   "symbol": "CUEI",
-   "name": "CIBC U.S. Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CUEI.TO",
-   "instruments": [
-    {
-     "name": "CIBC US Eqty Idx U",
-     "symbol": "CUEI"
-    }
-   ]
-  },
-  {
-   "symbol": "CUEH",
-   "name": "CIBC U.S. Equity Index ETF (CAD-Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "CUEH.TO",
-   "instruments": [
-    {
-     "name": "CIBC US EqIdx C Hg",
-     "symbol": "CUEH"
     }
    ]
   },
@@ -38462,6 +38462,18 @@
    ]
   },
   {
+   "symbol": "NBAL",
+   "name": "Ninepoint Balanced+ Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBAL.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Cptl App F",
+     "symbol": "NBAL"
+    }
+   ]
+  },
+  {
    "symbol": "ABHI",
    "name": "Ninepoint Barrick HighShares ETF",
    "exchange": "TSX",
@@ -38506,18 +38518,6 @@
     {
      "name": "Ninepoint Cdn NaReHi",
      "symbol": "CQHI"
-    }
-   ]
-  },
-  {
-   "symbol": "NCAP",
-   "name": "Ninepoint Capital Appreciation Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "NCAP.TO",
-   "instruments": [
-    {
-     "name": "Ninepoint Cptl App F",
-     "symbol": "NCAP"
     }
    ]
   },
@@ -43860,10 +43860,6 @@
      "symbol": "TD.PF.A"
     },
     {
-     "name": "T.D. Bank Ser 9 Pr",
-     "symbol": "TD.PF.E"
-    },
-    {
      "name": "T.D. Bank Ser 16 Pr",
      "symbol": "TD.PF.I"
     },
@@ -46466,6 +46462,12 @@
    "yahoo_symbol": "ALOT"
   },
   {
+   "symbol": "ALPS",
+   "name": "ALPS Group Inc - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALPS"
+  },
+  {
    "symbol": "ALRM",
    "name": "Alarm.com Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48944,10 +48946,22 @@
    "yahoo_symbol": "BLZE"
   },
   {
+   "symbol": "BLZR",
+   "name": "Trailblazer Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLZR"
+  },
+  {
    "symbol": "BLZRU",
    "name": "Trailblazer Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BLZRU"
+  },
+  {
+   "symbol": "BLZRW",
+   "name": "Trailblazer Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLZRW"
   },
   {
    "symbol": "BMAX",
@@ -49200,24 +49214,6 @@
    "name": "Global X Robotics \u0026 Artificial Intelligence ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BOTZ"
-  },
-  {
-   "symbol": "BOWN",
-   "name": "Bowen Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOWN"
-  },
-  {
-   "symbol": "BOWNR",
-   "name": "Bowen Acquisition Corp - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOWNR"
-  },
-  {
-   "symbol": "BOWNU",
-   "name": "Bowen Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOWNU"
   },
   {
    "symbol": "BOXL",
@@ -50571,7 +50567,7 @@
   },
   {
    "symbol": "CEG",
-   "name": "Constellation Energy Corporation - Common Stock",
+   "name": "Constellation Energy Corporation - Common Stock When-Issued",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CEG"
   },
@@ -57992,12 +57988,6 @@
    "yahoo_symbol": "HON"
   },
   {
-   "symbol": "HONE",
-   "name": "HarborOne Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HONE"
-  },
-  {
    "symbol": "HOOD",
    "name": "Robinhood Markets, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -64358,6 +64348,12 @@
    "yahoo_symbol": "NOEMW"
   },
   {
+   "symbol": "NOMA",
+   "name": "NOMADAR Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NOMA"
+  },
+  {
    "symbol": "NOTV",
    "name": "Inotiv, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67911,7 +67907,7 @@
   },
   {
    "symbol": "QQQY",
-   "name": "Defiance Nasdaq 100 Target 30 Income ETF",
+   "name": "Defiance Nasdaq 100 Enhanced Options \u0026 0DTE Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QQQY"
   },
@@ -70893,7 +70889,7 @@
   },
   {
    "symbol": "SOXX",
-   "name": "iShares Semiconductor ETF",
+   "name": "iShares PHLX SOX Semiconductor Sector Index Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SOXX"
   },
@@ -73446,6 +73442,12 @@
    "name": "Ulta Beauty, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ULTA"
+  },
+  {
+   "symbol": "ULTI",
+   "name": "REX IncomeMax Option Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ULTI"
   },
   {
    "symbol": "ULVM",
@@ -79370,12 +79372,6 @@
    "yahoo_symbol": "CCI"
   },
   {
-   "symbol": "CCIA",
-   "name": "Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CCIA"
-  },
-  {
    "symbol": "CCIF",
    "name": "Carlyle Credit Income Fund Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -80942,12 +80938,6 @@
    "yahoo_symbol": "DD"
   },
   {
-   "symbol": "DD.V",
-   "name": "DuPont de Nemours, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DD.V"
-  },
-  {
    "symbol": "DDC",
    "name": "DDC Enterprise Limited Class A Ordinary Shares",
    "exchange": "NYSE MKT",
@@ -81938,6 +81928,12 @@
    "yahoo_symbol": "EMA"
   },
   {
+   "symbol": "EMBJ",
+   "name": "Embraer S.A. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EMBJ"
+  },
+  {
    "symbol": "EMD",
    "name": "Western Asset Emerging Markets Debt Fund Inc Common Stock",
    "exchange": "NYSE",
@@ -82196,24 +82192,6 @@
    "yahoo_symbol": "EQT"
   },
   {
-   "symbol": "EQV",
-   "name": "EQV Ventures Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQV"
-  },
-  {
-   "symbol": "EQV.U",
-   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQV.U"
-  },
-  {
-   "symbol": "EQV.W",
-   "name": "EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQV.W"
-  },
-  {
    "symbol": "EQX",
    "name": "Equinox Gold Corp. Common Shares",
    "exchange": "NYSE MKT",
@@ -82230,12 +82208,6 @@
    "name": "Allspring Utilities and High Income Fund Common Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "ERH"
-  },
-  {
-   "symbol": "ERJ",
-   "name": "Embraer S.A. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ERJ"
   },
   {
    "symbol": "ERO",
@@ -83142,6 +83114,24 @@
    "name": "Fortive Corporation Common Stock ",
    "exchange": "NYSE",
    "yahoo_symbol": "FTV"
+  },
+  {
+   "symbol": "FTW",
+   "name": "EQV Ventures Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTW"
+  },
+  {
+   "symbol": "FTW.U",
+   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTW.U"
+  },
+  {
+   "symbol": "FTW.W",
+   "name": "EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTW.W"
   },
   {
    "symbol": "FUBO",
@@ -90068,12 +90058,6 @@
    "yahoo_symbol": "PSFE"
   },
   {
-   "symbol": "PSFE.W",
-   "name": "Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PSFE.W"
-  },
-  {
    "symbol": "PSN",
    "name": "Parsons Corporation Common Stock",
    "exchange": "NYSE",
@@ -90200,10 +90184,10 @@
    "yahoo_symbol": "PZG"
   },
   {
-   "symbol": "Q.V",
-   "name": "Qnity Electronics, Inc. Common Stock When-Issued",
+   "symbol": "Q",
+   "name": "Qnity Electronics, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "Q.V"
+   "yahoo_symbol": "Q"
   },
   {
    "symbol": "QBTS",
@@ -92340,6 +92324,12 @@
    "name": "Sunoco LP Common Units representing limited partner interests",
    "exchange": "NYSE",
    "yahoo_symbol": "SUN"
+  },
+  {
+   "symbol": "SUNC",
+   "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUNC"
   },
   {
    "symbol": "SUPV",

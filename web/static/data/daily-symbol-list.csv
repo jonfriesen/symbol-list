@@ -80,7 +80,7 @@ APX,Apex Resources Inc.,TSXV,APX.V,Apex Resources Inc.,APX
 APMI,Apogee Minerals Ltd.,TSXV,APMI.V,Apogee Minerals Ltd.,APMI
 APGO,Apollo Silver Corp.,TSXV,APGO.V,Apollo Silver Corp.,APGO
 AIV.P,Apolo IV Acquisition Corp.,TSXV,AIV.P.V,Apolo IV Acquisition Corp.,AIV.P
-AFV.P ,Apolo V Acquisition Corp.,TSXV,AFV.P .V,Apolo V Acquisition Corp.,AFV.P 
+AFV.P,Apolo V Acquisition Corp.,TSXV,AFV.P.V,Apolo V Acquisition Corp.,AFV.P
 AGT,Applied Graphite Technologies Corporation,TSXV,AGT.V,Applied Graphite Technologies Corporation,AGT
 APL,Appulse Corporation,TSXV,APL.V,Appulse Corporation,APL
 ABR,Arbor Metals Corp.,TSXV,ABR.V,Arbor Metals Corp.,ABR
@@ -408,6 +408,7 @@ ECCS.P,ECC Ventures 6 Corp.,TSXV,ECCS.P.V,ECC Ventures 6 Corp.,ECCS.P
 EOG,Eco (Atlantic) Oil & Gas Ltd.,TSXV,EOG.V,Eco (Atlantic) Oil & Gas Ltd.,EOG
 ECM,Ecolomondo Corporation,TSXV,ECM.V,Ecolomondo Corporation,ECM
 EDY,Eddy Smart Home Solutions Ltd.,TSXV,EDY.V,Eddy Smart Home Solutions Ltd.,EDY
+EDCU,Edge Copper Corporation,TSXV,EDCU.V,Edge Copper Corporation,EDCU
 CTRL,Edge Total Intelligence Inc.,TSXV,CTRL.V,Edge Total Intelligence Inc.,CTRL
 YFI,Edgewater Wireless Systems Inc.,TSXV,YFI.V,Edgewater Wireless Systems Inc.,YFI
 EDDY,Edison Lithium Corp.,TSXV,EDDY.V,Edison Lithium Corp.,EDDY
@@ -1038,7 +1039,6 @@ PJX,PJX Resources Inc.,TSXV,PJX.V,PJX Resources Inc.,PJX
 XOX.P,Planet X Capital Corp.,TSXV,XOX.P.V,Planet X Capital Corp.,XOX.P
 PLXX.P,Planet X II Capital Corp.,TSXV,PLXX.P.V,Planet X II Capital Corp.,PLXX.P
 PTFY,"Plantify Foods, Inc.",TSXV,PTFY.V,"Plantify Foods, Inc.",PTFY
-PLA,Plata Latina Minerals Corporation,TSXV,PLA.V,Plata Latina Minerals Corporation,PLA
 PGC,Plato Gold Corp.,TSXV,PGC.V,Plato Gold Corp.,PGC
 PLY,Playfair Mining Ltd.,TSXV,PLY.V,Playfair Mining Ltd.,PLY
 DEAL,Playgon Games Inc.,TSXV,DEAL.V,Playgon Games Inc.,DEAL
@@ -1980,23 +1980,23 @@ CAFR,CIBC Active Investment Grade Floating Rate Bond ETF,TSX,CAFR.TO,CIBC ActvIn
 CEQY,CIBC All-Equity ETF Portfolio,TSX,CEQY.TO,CIBC All Equity ETF,CEQY
 CCCB,CIBC Canadian Banks Covered Call ETF,TSX,CCCB.TO,CIBC Cdn Bnk CoC ETF,CCCB
 CCBI,CIBC Canadian Bond Index ETF,TSX,CCBI.TO,CIBC Cdn Bond ETF Un,CCBI
-CCEI,CIBC Canadian Equity Index ETF,TSX,CCEI.TO,CIBC Cdn Eqty Un,CCEI
 CALB,CIBC Canadian Government Long-Term Bond ETF,TSX,CALB.TO,CIBC Cdn Gvt LT Bond,CALB
 CCDC,CIBC Canadian High Dividend Covered Call ETF,TSX,CCDC.TO,CIBC Cdn HighDvd ETF,CCDC
 CSBI,CIBC Canadian Short-Term Bond Index ETF,TSX,CSBI.TO,CIBC Cdn ST Bond Idx,CSBI
 CCNS,CIBC Conservative Fixed Income Pool,TSX,CCNS.TO,CIBC ConservFixdIncm,CCNS
 CCRE,CIBC Core Fixed Income Pool,TSX,CCRE.TO,CIBC CoreFixdIncm Un,CCRE
 CPLS,CIBC Core Plus Fixed Income Pool,TSX,CPLS.TO,CIBC Core+Fixed Incm,CPLS
-CEMI,CIBC Emerging Markets Equity Index ETF,TSX,CEMI.TO,CIBC Emrg Mkt Eq U,CEMI
 CFLX,CIBC Flexible Yield ETF (CAD-Hedged),TSX,CFLX.TO,CIBC FlexYldCA-Hg Un,CFLX
 CGBI,CIBC Global Bond ex-Canada Index ETF (CAD-Hedged),TSX,CGBI.TO,CIBC Glb Bnd exCA-HG,CGBI
 CGLO,CIBC Global Growth ETF,TSX,CGLO.TO,CIBC Glbl Growth Un,CGLO
 CINT,CIBC International Equity ETF,TSX,CINT.TO,CIBC Int'l Equity Un,CINT
-CIEI,CIBC International Equity Index ETF,TSX,CIEI.TO,CIBC In EA Eq Idx Un,CIEI
-CIEH,CIBC International Equity Index ETF (CAD-Hedged),TSX,CIEH.TO,CIBC Inter Eq CA-Hgd,CIEH
+CCEI,CIBC MSCI Canada Equity Index ETF,TSX,CCEI.TO,CIBC Cdn Eqty Un,CCEI
+CIEI,CIBC MSCI EAFE Equity Index ETF,TSX,CIEI.TO,CIBC In EA Eq Idx Un,CIEI
+CIEH,CIBC MSCI EAFE Equity Index ETF (CAD Hedged),TSX,CIEH.TO,CIBC Inter Eq CA-Hgd,CIEH
+CEMI,CIBC MSCI Emerging Markets Equity Index ETF,TSX,CEMI.TO,CIBC Emrg Mkt Eq U,CEMI
+CUEI,CIBC MSCI USA Equity Index ETF,TSX,CUEI.TO,CIBC US Eqty Idx U,CUEI
+CUEH,CIBC MSCI USA Equity Index ETF (CAD Hedged),TSX,CUEH.TO,CIBC US EqIdx C Hg,CUEH
 CCAD,CIBC Premium Cash Management ETF,TSX,CCAD.TO,CIBC Pre Cash Mg ETF,CCAD
-CUEI,CIBC U.S. Equity Index ETF,TSX,CUEI.TO,CIBC US Eqty Idx U,CUEI
-CUEH,CIBC U.S. Equity Index ETF (CAD-Hedged),TSX,CUEH.TO,CIBC US EqIdx C Hg,CUEH
 CUDC,CIBC U.S. High Dividend Covered Call ETF,TSX,CUDC.TO,CIBC US High Dvd ETF,CUDC,CIBC US HghDvdHd ETF,CUDC.F
 CUSD.U,CIBC USD Premium Cash Management ETF,TSX,CUSD.U.TO,CIBC US Pre Cash Mgt,CUSD.U
 CGX,Cineplex Inc.,TSX,CGX.TO,Cineplex Inc.,CGX,Cineplex Inc7.75% Db,CGX.DB.B
@@ -3000,11 +3000,11 @@ NEXT,NextSource Materials Inc.,TSX,NEXT.TO,NextSource Materl J,NEXT
 NXR.UN,Nexus Industrial REIT,TSX,NXR.UN.TO,Nexus Industrl REIT,NXR.UN
 NFI,NFI Group Inc.,TSX,NFI.TO,NFI Group Inc.,NFI,NFI Group Inc 5% Deb,NFI.DB
 NGEX,NGEx Minerals Ltd.,TSX,NGEX.TO,NGEx Minerals Ltd.,NGEX
+NBAL,Ninepoint Balanced+ Fund,TSX,NBAL.TO,Ninepoint Cptl App F,NBAL
 ABHI,Ninepoint Barrick HighShares ETF,TSX,ABHI.TO,Ninepoint Barric ETF,ABHI
 BCHI,Ninepoint BCE HighShares ETF,TSX,BCHI.TO,Ninepoint BCE Hi ETF,BCHI
 CCHI,Ninepoint Cameco HighShares ETF,TSX,CCHI.TO,Ninepoint Cameco ETF,CCHI
 CQHI,Ninepoint Canadian Natural Resources HighShares ETF,TSX,CQHI.TO,Ninepoint Cdn NaReHi,CQHI
-NCAP,Ninepoint Capital Appreciation Fund,TSX,NCAP.TO,Ninepoint Cptl App F,NCAP
 CRHI,Ninepoint CNR HighShares ETF,TSX,CRHI.TO,Ninepoint CNR Hi ETF,CRHI
 TKN,Ninepoint Crypto and AI Leaders ETF,TSX,TKN.TO,Np Crypto AI Ldr ETF,TKN,Np Cryp AILdr ETF US,TKN.U
 ENHI,Ninepoint Enbridge HighShares ETF,TSX,ENHI.TO,Np Enh Enb HghSh ETF,ENHI
@@ -3396,7 +3396,7 @@ X,TMX Group Limited,TSX,X.TO,TMX Group Limited,X
 TPZ,Topaz Energy Corp.,TSX,TPZ.TO,Topaz Energy Corp.,TPZ
 TXG,Torex Gold Resources Inc.,TSX,TXG.TO,Torex Gold Res J,TXG
 TIH,Toromont Industries Ltd.,TSX,TIH.TO,Toromont Industries,TIH
-TD,Toronto-Dominion Bank (The),TSX,TD.TO,T.D. Bank,TD,T.D. Bank Ser 1 Pr,TD.PF.A,T.D. Bank Ser 9 Pr,TD.PF.E,T.D. Bank Ser 16 Pr,TD.PF.I,T.D. Bank Ser 18 Pr,TD.PF.J
+TD,Toronto-Dominion Bank (The),TSX,TD.TO,T.D. Bank,TD,T.D. Bank Ser 1 Pr,TD.PF.A,T.D. Bank Ser 16 Pr,TD.PF.I,T.D. Bank Ser 18 Pr,TD.PF.J
 TOT,Total Energy Services Inc.,TSX,TOT.TO,Total Engy Serv Inc.,TOT
 TXP,Touchstone Exploration Inc.,TSX,TXP.TO,Touchstone Expl Inc.,TXP
 TOU,Tourmaline Oil Corp.,TSX,TOU.TO,Tourmaline Oil Corp.,TOU
@@ -3716,6 +3716,7 @@ ALMU,"Aeluma, Inc. - Common Stock",NASDAQ Capital Market,ALMU
 ALNT,Allient Inc. - Common Stock,NASDAQ Global MarketSM,ALNT
 ALNY,"Alnylam Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALNY
 ALOT,"AstroNova, Inc. - Common Stock",NASDAQ Global MarketSM,ALOT
+ALPS,ALPS Group Inc - Ordinary Share,NASDAQ Global MarketSM,ALPS
 ALRM,"Alarm.com Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALRM
 ALRS,Alerus Financial Corporation - Common Stock,NASDAQ Capital Market,ALRS
 ALT,"Altimmune, Inc. - Common Stock",NASDAQ Global MarketSM,ALT
@@ -4129,7 +4130,9 @@ BLUW,Blue Water Acquisition Corp. III - Class A Ordinary Shares,NASDAQ Global Ma
 BLUWU,Blue Water Acquisition Corp. III - Unit.,NASDAQ Global MarketSM,BLUWU
 BLUWW,Blue Water Acquisition Corp. III - Warrant.,NASDAQ Global MarketSM,BLUWW
 BLZE,"Backblaze, Inc. - Common Stock",NASDAQ Global MarketSM,BLZE
+BLZR,Trailblazer Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,BLZR
 BLZRU,Trailblazer Acquisition Corp. - Unit,NASDAQ Global MarketSM,BLZRU
+BLZRW,Trailblazer Acquisition Corp. - Warrant,NASDAQ Global MarketSM,BLZRW
 BMAX,REX Bitcoin Corporate Treasury Convertible Bond ETF,NASDAQ Global MarketSM,BMAX
 BMBL,Bumble Inc. - common stock,NASDAQ Global Select MarketSM,BMBL
 BMDL,VictoryShares WestEnd Economic Cycle Bond ETF,NASDAQ Global MarketSM,BMDL
@@ -4172,9 +4175,6 @@ BOSC,B.O.S. Better Online Solutions - Ordinary Shares,NASDAQ Capital Market,BOSC
 BOTJ,"Bank of the James Financial Group, Inc. - Common Stock",NASDAQ Capital Market,BOTJ
 BOTT,Themes Humanoid Robotics ETF,NASDAQ Global MarketSM,BOTT
 BOTZ,Global X Robotics & Artificial Intelligence ETF,NASDAQ Global MarketSM,BOTZ
-BOWN,Bowen Acquisition Corp - Ordinary Shares,NASDAQ Global MarketSM,BOWN
-BOWNR,Bowen Acquisition Corp - Rights,NASDAQ Global MarketSM,BOWNR
-BOWNU,Bowen Acquisition Corp - Unit,NASDAQ Global MarketSM,BOWNU
 BOXL,Boxlight Corporation - Class A Common Stock,NASDAQ Capital Market,BOXL
 BPOP,"Popular, Inc. - Common Stock",NASDAQ Global Select MarketSM,BPOP
 BPOPM,"Popular, Inc. - Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",NASDAQ Global Select MarketSM,BPOPM
@@ -4400,7 +4400,7 @@ CDZI,"Cadiz, Inc. - Common Stock",NASDAQ Global MarketSM,CDZI
 CDZIP,"Cadiz, Inc. - Depositary Shares",NASDAQ Global MarketSM,CDZIP
 CECO,CECO Environmental Corp. - Common Stock,NASDAQ Global Select MarketSM,CECO
 CEFA,Global X S&P Catholic Values Developed ex-U.S. ETF,NASDAQ Global MarketSM,CEFA
-CEG,Constellation Energy Corporation - Common Stock,NASDAQ Global Select MarketSM,CEG
+CEG,Constellation Energy Corporation - Common Stock When-Issued,NASDAQ Global Select MarketSM,CEG
 CELC,Celcuity Inc. - Common Stock,NASDAQ Capital Market,CELC
 CELH,"Celsius Holdings, Inc. - Common Stock",NASDAQ Capital Market,CELH
 CELU,Celularity Inc. - Class A Common Stock,NASDAQ Capital Market,CELU
@@ -5637,7 +5637,6 @@ HOLO,MicroCloud Hologram Inc. - Ordinary Shares,NASDAQ Capital Market,HOLO
 HOLOW,MicroCloud Hologram Inc. - Warrant,NASDAQ Capital Market,HOLOW
 HOLX,"Hologic, Inc. - Common Stock",NASDAQ Global Select MarketSM,HOLX
 HON,Honeywell International Inc. - Common Stock,NASDAQ Global Select MarketSM,HON
-HONE,"HarborOne Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,HONE
 HOOD,"Robinhood Markets, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,HOOD
 HOOG,Leverage Shares 2X Long HOOD Daily ETF,NASDAQ Global MarketSM,HOOG
 HOOI,Defiance Leveraged Long Income HOOD ETF,NASDAQ Global MarketSM,HOOI
@@ -6698,6 +6697,7 @@ NOEM,CO2 Energy Transition Corp. - Common Stock,NASDAQ Global MarketSM,NOEM
 NOEMR,CO2 Energy Transition Corp. - Right,NASDAQ Global MarketSM,NOEMR
 NOEMU,CO2 Energy Transition Corp. - Unit,NASDAQ Global MarketSM,NOEMU
 NOEMW,CO2 Energy Transition Corp. - Warrant,NASDAQ Global MarketSM,NOEMW
+NOMA,NOMADAR Corp. - Class A Common Stock,NASDAQ Capital Market,NOMA
 NOTV,"Inotiv, Inc. - Common Stock",NASDAQ Capital Market,NOTV
 NOVT,Novanta Inc. - Common Shares,NASDAQ Global Select MarketSM,NOVT
 NOWL,GraniteShares 2x Long NOW Daily ETF,NASDAQ Global MarketSM,NOWL
@@ -7290,7 +7290,7 @@ QQQP,Tradr 2X Long Innovation 100 Quarterly ETF,NASDAQ Global MarketSM,QQQP
 QQQS,Invesco NASDAQ Future Gen 200 ETF,NASDAQ Global MarketSM,QQQS
 QQQT,Defiance Nasdaq 100 Income Target ETF,NASDAQ Global MarketSM,QQQT
 QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund - Closed End Fund,NASDAQ Global Select MarketSM,QQQX
-QQQY,Defiance Nasdaq 100 Target 30 Income ETF,NASDAQ Global MarketSM,QQQY
+QQQY,Defiance Nasdaq 100 Enhanced Options & 0DTE Income ETF,NASDAQ Global MarketSM,QQQY
 QQUP,ProShares Ultra QQQ Mega,NASDAQ Global MarketSM,QQUP
 QQWZ,Pacer Cash COWZ 100-Nasdaq 100 Rotator ETF,NASDAQ Global MarketSM,QQWZ
 QQXL,ProShares Ultra QQQ Top 30,NASDAQ Global MarketSM,QQXL
@@ -7787,7 +7787,7 @@ SOUNW,"SoundHound AI, Inc. - Warrant",NASDAQ Global MarketSM,SOUNW
 SOUX,Defiance Daily Target 2X Long SOUN ETF,NASDAQ Global MarketSM,SOUX
 SOWG,Sow Good Inc. - Common Stock,NASDAQ Capital Market,SOWG
 SOXQ,Invesco PHLX Semiconductor ETF,NASDAQ Global MarketSM,SOXQ
-SOXX,iShares Semiconductor ETF,NASDAQ Global MarketSM,SOXX
+SOXX,iShares PHLX SOX Semiconductor Sector Index Fund,NASDAQ Global MarketSM,SOXX
 SPAI,Safe Pro Group Inc. - Common Stock,NASDAQ Capital Market,SPAI
 SPAM,Themes Cybersecurity ETF,NASDAQ Global MarketSM,SPAM
 SPAQ,Horizon Kinetics SPAC Active ETF,NASDAQ Global MarketSM,SPAQ
@@ -8213,6 +8213,7 @@ ULBI,Ultralife Corporation - Common Stock,NASDAQ Global MarketSM,ULBI
 ULCC,"Frontier Group Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ULCC
 ULH,"Universal Logistics Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ULH
 ULTA,"Ulta Beauty, Inc. - Common Stock",NASDAQ Global Select MarketSM,ULTA
+ULTI,REX IncomeMax Option Strategy ETF,NASDAQ Global MarketSM,ULTI
 ULVM,VictoryShares US Value Momentum ETF,NASDAQ Global MarketSM,ULVM
 ULY,Urgent.ly Inc. - Common Stock,NASDAQ Capital Market,ULY
 UMBF,UMB Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,UMBF
@@ -9200,7 +9201,6 @@ CBZ,"CBIZ, Inc. Common Stock",NYSE,CBZ
 CC,Chemours Company (The) Common Stock,NYSE,CC
 CCEL,"Cryo-Cell International, Inc. Common Stock",NYSE MKT,CCEL
 CCI,Crown Castle Inc. Common Stock,NYSE,CCI
-CCIA,Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028,NYSE,CCIA
 CCIF,Carlyle Credit Income Fund Shares of Beneficial Interest,NYSE,CCIF
 CCJ,Cameco Corporation Common Stock,NYSE,CCJ
 CCK,"Crown Holdings, Inc.",NYSE,CCK
@@ -9462,7 +9462,6 @@ DC.W,"Dakota Gold Corp. Warrants, each warrant exercisable for one Common Share 
 DCI,"Donaldson Company, Inc. Common Stock",NYSE,DCI
 DCO,Ducommun Incorporated Common Stock,NYSE,DCO
 DD,"DuPont de Nemours, Inc. Common Stock",NYSE,DD
-DD.V,"DuPont de Nemours, Inc. Common Stock When-Issued",NYSE,DD.V
 DDC,DDC Enterprise Limited Class A Ordinary Shares,NYSE MKT,DDC
 DDD,3D Systems Corporation Common Stock,NYSE,DDD
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE,DDL
@@ -9628,6 +9627,7 @@ ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each re
 ELS,"Equity Lifestyle Properties, Inc. Common Stock",NYSE,ELS
 ELV,"Elevance Health, Inc. Common Stock",NYSE,ELV
 EMA,Emera Incorporated Common Shares,NYSE,EMA
+EMBJ,Embraer S.A. Common Stock,NYSE,EMBJ
 EMD,Western Asset Emerging Markets Debt Fund Inc Common Stock,NYSE,EMD
 EME,"EMCOR Group, Inc. Common Stock",NYSE,EME
 EMF,Templeton Emerging Markets Fund Common Stock,NYSE,EMF
@@ -9671,13 +9671,9 @@ EQNR,Equinor ASA,NYSE,EQNR
 EQR,Equity Residential Common Shares of Beneficial Interest,NYSE,EQR
 EQS,"Equus Total Return, Inc. Common Stock",NYSE,EQS
 EQT,EQT Corporation Common Stock,NYSE,EQT
-EQV,EQV Ventures Acquisition Corp. Class A Ordinary Shares,NYSE,EQV
-EQV.U,"EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,EQV.U
-EQV.W,"EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",NYSE,EQV.W
 EQX,Equinox Gold Corp. Common Shares,NYSE MKT,EQX
 ERC,Allspring Multi-Sector Income Fund Common Stock,NYSE MKT,ERC
 ERH,Allspring Utilities and High Income Fund Common Shares,NYSE MKT,ERH
-ERJ,Embraer S.A. Common Stock,NYSE,ERJ
 ERO,Ero Copper Corp. Common Shares,NYSE,ERO
 ES,Eversource Energy (D/B/A) Common Stock,NYSE,ES
 ESAB,ESAB Corporation Common Stock,NYSE,ESAB
@@ -9829,6 +9825,9 @@ FTI,TechnipFMC plc Ordinary Share,NYSE,FTI
 FTK,"Flotek Industries, Inc. Common Stock",NYSE,FTK
 FTS,Fortis Inc. Common Shares,NYSE,FTS
 FTV,Fortive Corporation Common Stock ,NYSE,FTV
+FTW,EQV Ventures Acquisition Corp. Class A Ordinary Shares,NYSE,FTW
+FTW.U,"EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,FTW.U
+FTW.W,"EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",NYSE,FTW.W
 FUBO,FuboTV Inc. Class A Common Stock,NYSE,FUBO
 FUL,H. B. Fuller Company Common Stock,NYSE,FUL
 FUN,Six Flags Entertainment Corporation Common Stock New,NYSE,FUN
@@ -10983,7 +10982,6 @@ PSBD,Palmer Square Capital BDC Inc. Common Stock,NYSE,PSBD
 PSEC$A,Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock,NYSE,PSEC$A
 PSF,"Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock",NYSE,PSF
 PSFE,Paysafe Limited Common Shares,NYSE,PSFE
-PSFE.W,"Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 per share",NYSE,PSFE.W
 PSN,Parsons Corporation Common Stock,NYSE,PSN
 PSO,"Pearson, Plc Common Stock",NYSE,PSO
 PSQH,"PSQ Holdings, Inc. Class A Common Stock",NYSE,PSQH
@@ -11005,7 +11003,7 @@ PX,"P10, Inc. Class A Common Stock",NYSE,PX
 PXED,"Phoenix Education Partners, Inc. Common Stock",NYSE,PXED
 PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,PYT
 PZG,Paramount Gold Nevada Corp. Common Stock,NYSE MKT,PZG
-Q.V,"Qnity Electronics, Inc. Common Stock When-Issued",NYSE,Q.V
+Q,"Qnity Electronics, Inc. Common Stock",NYSE,Q
 QBTS,D-Wave Quantum Inc. Common Shares,NYSE,QBTS
 QBTS.W,"D-Wave Quantum Inc. Warrants, each whole warrant exercisable for 1.4541326 Common Shares at an exercise price of $11.50",NYSE,QBTS.W
 QD,"Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE,QD
@@ -11362,6 +11360,7 @@ STZ,"Constellation Brands, Inc. Common Stock",NYSE,STZ
 SU,Suncor Energy  Inc. Common Stock,NYSE,SU
 SUI,"Sun Communities, Inc. Common Stock",NYSE,SUI
 SUN,Sunoco LP Common Units representing limited partner interests,NYSE,SUN
+SUNC,"SunocoCorp LLC Common Units, representing limited liability company interests",NYSE,SUNC
 SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,NYSE,SUPV
 SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),NYSE,SUZ
 SVM,Silvercorp Metals Inc. Common Shares,NYSE MKT,SVM
