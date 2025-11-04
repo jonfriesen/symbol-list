@@ -1,5 +1,5 @@
 {
- "date": "2025-11-03",
+ "date": "2025-11-04",
  "data": [
   {
    "symbol": "ONE",
@@ -82,6 +82,18 @@
     {
      "name": "A-Labs Capital II Corp.",
      "symbol": "ALAB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ALCC.P",
+   "name": "A-Labs Capital IV Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALCC.P.V",
+   "instruments": [
+    {
+     "name": "A-Labs Capital IV Corp.",
+     "symbol": "ALCC.P"
     }
    ]
   },
@@ -13142,18 +13154,6 @@
    ]
   },
   {
-   "symbol": "SICO",
-   "name": "Quetzal Copper Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SICO.V",
-   "instruments": [
-    {
-     "name": "Quetzal Copper Corp.",
-     "symbol": "SICO"
-    }
-   ]
-  },
-  {
    "symbol": "QIS",
    "name": "Quorum Information Technologies Inc.",
    "exchange": "TSXV",
@@ -14698,6 +14698,18 @@
     {
      "name": "Silver47 Exploration Corp.",
      "symbol": "AGA"
+    }
+   ]
+  },
+  {
+   "symbol": "SICO",
+   "name": "Silverco Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SICO.V",
+   "instruments": [
+    {
+     "name": "Silverco Mining Ltd.",
+     "symbol": "SICO"
     }
    ]
   },
@@ -16890,6 +16902,18 @@
     {
      "name": "Vendetta Mining Corp",
      "symbol": "VTT"
+    }
+   ]
+  },
+  {
+   "symbol": "SCMI",
+   "name": "Venerable Ventures Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCMI.V",
+   "instruments": [
+    {
+     "name": "Venerable Ventures Ltd.",
+     "symbol": "SCMI"
     }
    ]
   },
@@ -25112,7 +25136,7 @@
    "yahoo_symbol": "CCEI.TO",
    "instruments": [
     {
-     "name": "CIBC Cdn Eqty Un",
+     "name": "CIBC MS Cdn Eqty Un",
      "symbol": "CCEI"
     }
    ]
@@ -25124,7 +25148,7 @@
    "yahoo_symbol": "CIEI.TO",
    "instruments": [
     {
-     "name": "CIBC In EA Eq Idx Un",
+     "name": "CIBC MS EA Eq Idx Un",
      "symbol": "CIEI"
     }
    ]
@@ -25136,7 +25160,7 @@
    "yahoo_symbol": "CIEH.TO",
    "instruments": [
     {
-     "name": "CIBC Inter Eq CA-Hgd",
+     "name": "CIBC MSEA Eq CA-Hgd",
      "symbol": "CIEH"
     }
    ]
@@ -25148,7 +25172,7 @@
    "yahoo_symbol": "CEMI.TO",
    "instruments": [
     {
-     "name": "CIBC Emrg Mkt Eq U",
+     "name": "CIBC MSEmrg Mkt Eq U",
      "symbol": "CEMI"
     }
    ]
@@ -25160,7 +25184,7 @@
    "yahoo_symbol": "CUEI.TO",
    "instruments": [
     {
-     "name": "CIBC US Eqty Idx U",
+     "name": "CIBC M US Eqty Idx U",
      "symbol": "CUEI"
     }
    ]
@@ -25172,7 +25196,7 @@
    "yahoo_symbol": "CUEH.TO",
    "instruments": [
     {
-     "name": "CIBC US EqIdx C Hg",
+     "name": "CIBCMs US EqIdx C Hg",
      "symbol": "CUEH"
     }
    ]
@@ -38468,7 +38492,7 @@
    "yahoo_symbol": "NBAL.TO",
    "instruments": [
     {
-     "name": "Ninepoint Cptl App F",
+     "name": "Ninepoint Blncd+ F",
      "symbol": "NBAL"
     }
    ]
@@ -41274,22 +41298,6 @@
    ]
   },
   {
-   "symbol": "RCG",
-   "name": "RF Capital Group Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "RCG.TO",
-   "instruments": [
-    {
-     "name": "RF Capital Group Inc",
-     "symbol": "RCG"
-    },
-    {
-     "name": "RF Cap Grp Ser B Pr",
-     "symbol": "RCG.PR.B"
-    }
-   ]
-  },
-  {
    "symbol": "RPI.UN",
    "name": "Richards Packaging Income Fund",
    "exchange": "TSX",
@@ -43566,18 +43574,6 @@
    ]
   },
   {
-   "symbol": "TIXT",
-   "name": "TELUS International (Cda) Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "TIXT.TO",
-   "instruments": [
-    {
-     "name": "TELUS Int'l (Cda) SV",
-     "symbol": "TIXT"
-    }
-   ]
-  },
-  {
    "symbol": "TNZ",
    "name": "Tenaz Energy Corp.",
    "exchange": "TSX",
@@ -44050,6 +44046,18 @@
     {
      "name": "Troilus Gold Corp J",
      "symbol": "TLG"
+    }
+   ]
+  },
+  {
+   "symbol": "TERP",
+   "name": "TRU.X Exogenous Risk Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "TERP.TO",
+   "instruments": [
+    {
+     "name": "TRU.X Exog Risk Pool",
+     "symbol": "TERP"
     }
    ]
   },
@@ -49090,12 +49098,6 @@
    "yahoo_symbol": "BNKK"
   },
   {
-   "symbol": "BNKKW",
-   "name": "Bonk, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNKKW"
-  },
-  {
    "symbol": "BNR",
    "name": "Burning Rock Biotech Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -50720,12 +50722,6 @@
    "name": "VictoryShares US 500 Enhanced Volatility Wtd ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CFO"
-  },
-  {
-   "symbol": "CFSB",
-   "name": "CFSB Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CFSB"
   },
   {
    "symbol": "CG",
@@ -65704,10 +65700,22 @@
    "yahoo_symbol": "OTEX"
   },
   {
+   "symbol": "OTGA",
+   "name": "OTG Acquisition Corp. I - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OTGA"
+  },
+  {
    "symbol": "OTGAU",
    "name": "OTG Acquisition Corp. I - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "OTGAU"
+  },
+  {
+   "symbol": "OTGAW",
+   "name": "OTG Acquisition Corp. I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OTGAW"
   },
   {
    "symbol": "OTGL",
@@ -78196,6 +78204,12 @@
    "yahoo_symbol": "BEPJ"
   },
   {
+   "symbol": "BETA",
+   "name": "Beta Technologies, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BETA"
+  },
+  {
    "symbol": "BF.A",
    "name": "Brown Forman Inc Class A Common Stock",
    "exchange": "NYSE",
@@ -79370,6 +79384,12 @@
    "name": "Crown Castle Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CCI"
+  },
+  {
+   "symbol": "CCID",
+   "name": "Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCID"
   },
   {
    "symbol": "CCIF",
@@ -83240,12 +83260,6 @@
    "name": "Glacier Bancorp, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "GBCI"
-  },
-  {
-   "symbol": "GBLI",
-   "name": "Global Indemnity Group, LLC Class A Common Stock (DE)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GBLI"
   },
   {
    "symbol": "GBR",

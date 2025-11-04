@@ -1,216 +1,112 @@
 {
  "added": [
   {
-   "symbol": "AFV.P",
-   "name": "Apolo V Acquisition Corp.",
+   "symbol": "ALCC.P",
+   "name": "A-Labs Capital IV Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AFV.P.V",
+   "yahoo_symbol": "ALCC.P.V",
    "instruments": [
     {
-     "name": "Apolo V Acquisition Corp.",
-     "symbol": "AFV.P"
+     "name": "A-Labs Capital IV Corp.",
+     "symbol": "ALCC.P"
     }
    ]
   },
   {
-   "symbol": "EDCU",
-   "name": "Edge Copper Corporation",
+   "symbol": "SCMI",
+   "name": "Venerable Ventures Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "EDCU.V",
+   "yahoo_symbol": "SCMI.V",
    "instruments": [
     {
-     "name": "Edge Copper Corporation",
-     "symbol": "EDCU"
+     "name": "Venerable Ventures Ltd.",
+     "symbol": "SCMI"
     }
    ]
   },
   {
-   "symbol": "NBAL",
-   "name": "Ninepoint Balanced+ Fund",
+   "symbol": "TERP",
+   "name": "TRU.X Exogenous Risk Pool",
    "exchange": "TSX",
-   "yahoo_symbol": "NBAL.TO",
+   "yahoo_symbol": "TERP.TO",
    "instruments": [
     {
-     "name": "Ninepoint Cptl App F",
-     "symbol": "NBAL"
+     "name": "TRU.X Exog Risk Pool",
+     "symbol": "TERP"
     }
    ]
   },
   {
-   "symbol": "ALPS",
-   "name": "ALPS Group Inc - Ordinary Share",
+   "symbol": "OTGA",
+   "name": "OTG Acquisition Corp. I - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALPS"
+   "yahoo_symbol": "OTGA"
   },
   {
-   "symbol": "BLZR",
-   "name": "Trailblazer Acquisition Corp. - Class A Ordinary Shares",
+   "symbol": "OTGAW",
+   "name": "OTG Acquisition Corp. I - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLZR"
+   "yahoo_symbol": "OTGAW"
   },
   {
-   "symbol": "BLZRW",
-   "name": "Trailblazer Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLZRW"
-  },
-  {
-   "symbol": "NOMA",
-   "name": "NOMADAR Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NOMA"
-  },
-  {
-   "symbol": "ULTI",
-   "name": "REX IncomeMax Option Strategy ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ULTI"
-  },
-  {
-   "symbol": "EMBJ",
-   "name": "Embraer S.A. Common Stock",
+   "symbol": "BETA",
+   "name": "Beta Technologies, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "EMBJ"
+   "yahoo_symbol": "BETA"
   },
   {
-   "symbol": "FTW",
-   "name": "EQV Ventures Acquisition Corp. Class A Ordinary Shares",
+   "symbol": "CCID",
+   "name": "Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028",
    "exchange": "NYSE",
-   "yahoo_symbol": "FTW"
-  },
-  {
-   "symbol": "FTW.U",
-   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FTW.U"
-  },
-  {
-   "symbol": "FTW.W",
-   "name": "EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FTW.W"
-  },
-  {
-   "symbol": "Q",
-   "name": "Qnity Electronics, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "Q"
-  },
-  {
-   "symbol": "SUNC",
-   "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SUNC"
+   "yahoo_symbol": "CCID"
   }
  ],
  "removed": [
   {
-   "symbol": "BOWNU",
-   "name": "Bowen Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOWNU"
-  },
-  {
-   "symbol": "PLA",
-   "name": "Plata Latina Minerals Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PLA.V",
-   "instruments": [
-    {
-     "name": "Plata Latina Minerals Corporation",
-     "symbol": "PLA"
-    }
-   ]
-  },
-  {
-   "symbol": "PSFE.W",
-   "name": "Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PSFE.W"
-  },
-  {
-   "symbol": "DD.V",
-   "name": "DuPont de Nemours, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DD.V"
-  },
-  {
-   "symbol": "BOWN",
-   "name": "Bowen Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOWN"
-  },
-  {
-   "symbol": "ERJ",
-   "name": "Embraer S.A. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ERJ"
-  },
-  {
-   "symbol": "HONE",
-   "name": "HarborOne Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HONE"
-  },
-  {
-   "symbol": "EQV.W",
-   "name": "EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQV.W"
-  },
-  {
-   "symbol": "AFV.P ",
-   "name": "Apolo V Acquisition Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AFV.P .V",
-   "instruments": [
-    {
-     "name": "Apolo V Acquisition Corp.",
-     "symbol": "AFV.P "
-    }
-   ]
-  },
-  {
-   "symbol": "CCIA",
-   "name": "Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CCIA"
-  },
-  {
-   "symbol": "EQV",
-   "name": "EQV Ventures Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQV"
-  },
-  {
-   "symbol": "Q.V",
-   "name": "Qnity Electronics, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "Q.V"
-  },
-  {
-   "symbol": "EQV.U",
-   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EQV.U"
-  },
-  {
-   "symbol": "BOWNR",
-   "name": "Bowen Acquisition Corp - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOWNR"
-  },
-  {
-   "symbol": "NCAP",
-   "name": "Ninepoint Capital Appreciation Fund",
+   "symbol": "RCG",
+   "name": "RF Capital Group Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "NCAP.TO",
+   "yahoo_symbol": "RCG.TO",
    "instruments": [
     {
-     "name": "Ninepoint Cptl App F",
-     "symbol": "NCAP"
+     "name": "RF Capital Group Inc",
+     "symbol": "RCG"
+    },
+    {
+     "name": "RF Cap Grp Ser B Pr",
+     "symbol": "RCG.PR.B"
     }
    ]
+  },
+  {
+   "symbol": "TIXT",
+   "name": "TELUS International (Cda) Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TIXT.TO",
+   "instruments": [
+    {
+     "name": "TELUS Int'l (Cda) SV",
+     "symbol": "TIXT"
+    }
+   ]
+  },
+  {
+   "symbol": "CFSB",
+   "name": "CFSB Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFSB"
+  },
+  {
+   "symbol": "BNKKW",
+   "name": "Bonk, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNKKW"
+  },
+  {
+   "symbol": "GBLI",
+   "name": "Global Indemnity Group, LLC Class A Common Stock (DE)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GBLI"
   }
  ]
 }
