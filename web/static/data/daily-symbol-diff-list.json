@@ -1,112 +1,190 @@
 {
  "added": [
   {
-   "symbol": "ALCC.P",
-   "name": "A-Labs Capital IV Corp.",
+   "symbol": "GGAU",
+   "name": "Galactic Gold Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ALCC.P.V",
+   "yahoo_symbol": "GGAU.V",
    "instruments": [
     {
-     "name": "A-Labs Capital IV Corp.",
-     "symbol": "ALCC.P"
+     "name": "Galactic Gold Corp.",
+     "symbol": "GGAU"
     }
    ]
   },
   {
-   "symbol": "SCMI",
-   "name": "Venerable Ventures Ltd.",
+   "symbol": "MRZL",
+   "name": "Mont Royal Resources Limited.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SCMI.V",
+   "yahoo_symbol": "MRZL.V",
    "instruments": [
     {
-     "name": "Venerable Ventures Ltd.",
-     "symbol": "SCMI"
+     "name": "Mont Royal Resources Limited.",
+     "symbol": "MRZL"
     }
    ]
   },
   {
-   "symbol": "TERP",
-   "name": "TRU.X Exogenous Risk Pool",
+   "symbol": "CEPV",
+   "name": "Cantor Equity Partners V, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPV"
+  },
+  {
+   "symbol": "CMBO",
+   "name": "Wayfinder Dynamic U.S. Interest Rate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMBO"
+  },
+  {
+   "symbol": "GBLI",
+   "name": "Global Indemnity Group, LLC - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GBLI"
+  },
+  {
+   "symbol": "IOYY",
+   "name": "GraniteShares YieldBOOST IONQ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IOYY"
+  },
+  {
+   "symbol": "MAAY",
+   "name": "GraniteShares YieldBOOST MARA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAAY"
+  },
+  {
+   "symbol": "SCLS",
+   "name": "Stoneport Advisors Commodity Long Short ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCLS"
+  },
+  {
+   "symbol": "WSTNU",
+   "name": "Westin Acquisition Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSTNU"
+  },
+  {
+   "symbol": "CHE.DB.H",
+   "name": "Chemtrade Logistics Income Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "TERP.TO",
+   "yahoo_symbol": "CHE.DB.H.TO",
    "instruments": [
     {
-     "name": "TRU.X Exog Risk Pool",
-     "symbol": "TERP"
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade LgstIc 7Db",
+     "symbol": "CHE.DB.I"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
     }
    ]
   },
   {
-   "symbol": "OTGA",
-   "name": "OTG Acquisition Corp. I - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OTGA"
-  },
-  {
-   "symbol": "OTGAW",
-   "name": "OTG Acquisition Corp. I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OTGAW"
-  },
-  {
-   "symbol": "BETA",
-   "name": "Beta Technologies, Inc. Class A Common Stock",
+   "symbol": "PRT",
+   "name": "PermRock Royalty Trust Units of Beneficial Interest",
    "exchange": "NYSE",
-   "yahoo_symbol": "BETA"
+   "yahoo_symbol": "PRT"
   },
   {
-   "symbol": "CCID",
-   "name": "Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028",
+   "symbol": "XZO",
+   "name": "Exzeo Group, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CCID"
+   "yahoo_symbol": "XZO"
   }
  ],
  "removed": [
   {
-   "symbol": "RCG",
-   "name": "RF Capital Group Inc.",
+   "symbol": "SUNC",
+   "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUNC"
+  },
+  {
+   "symbol": "PKI",
+   "name": "Parkland Corporation",
    "exchange": "TSX",
-   "yahoo_symbol": "RCG.TO",
+   "yahoo_symbol": "PKI.TO",
    "instruments": [
     {
-     "name": "RF Capital Group Inc",
-     "symbol": "RCG"
+     "name": "Parkland Corp.",
+     "symbol": "PKI"
+    }
+   ]
+  },
+  {
+   "symbol": "LOG.P",
+   "name": "Logica Ventures Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LOG.P.V",
+   "instruments": [
+    {
+     "name": "Logica Ventures Corp.",
+     "symbol": "LOG.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AND",
+   "name": "Andlauer Healthcare Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AND.TO",
+   "instruments": [
+    {
+     "name": "AndlauerHlthcr GrpSV",
+     "symbol": "AND"
+    }
+   ]
+  },
+  {
+   "symbol": "CHE.DB.G",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.G.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst6.25Db",
+     "symbol": "CHE.DB.G"
     },
     {
-     "name": "RF Cap Grp Ser B Pr",
-     "symbol": "RCG.PR.B"
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
     }
    ]
   },
   {
-   "symbol": "TIXT",
-   "name": "TELUS International (Cda) Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "TIXT.TO",
+   "symbol": "CCE",
+   "name": "Commerce Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCE.V",
    "instruments": [
     {
-     "name": "TELUS Int'l (Cda) SV",
-     "symbol": "TIXT"
+     "name": "Commerce Resources Corp.",
+     "symbol": "CCE"
     }
    ]
   },
   {
-   "symbol": "CFSB",
-   "name": "CFSB Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CFSB"
-  },
-  {
-   "symbol": "BNKKW",
-   "name": "Bonk, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNKKW"
-  },
-  {
-   "symbol": "GBLI",
-   "name": "Global Indemnity Group, LLC Class A Common Stock (DE)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GBLI"
+   "symbol": "YAK",
+   "name": "Mongolia Growth Group Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YAK.V",
+   "instruments": [
+    {
+     "name": "Mongolia Growth Group Ltd.",
+     "symbol": "YAK"
+    }
+   ]
   }
  ]
 }
