@@ -1,190 +1,138 @@
 {
  "added": [
   {
-   "symbol": "GGAU",
-   "name": "Galactic Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GGAU.V",
-   "instruments": [
-    {
-     "name": "Galactic Gold Corp.",
-     "symbol": "GGAU"
-    }
-   ]
-  },
-  {
-   "symbol": "MRZL",
-   "name": "Mont Royal Resources Limited.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MRZL.V",
-   "instruments": [
-    {
-     "name": "Mont Royal Resources Limited.",
-     "symbol": "MRZL"
-    }
-   ]
-  },
-  {
-   "symbol": "CEPV",
-   "name": "Cantor Equity Partners V, Inc. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CEPV"
-  },
-  {
-   "symbol": "CMBO",
-   "name": "Wayfinder Dynamic U.S. Interest Rate ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMBO"
-  },
-  {
-   "symbol": "GBLI",
-   "name": "Global Indemnity Group, LLC - Class A Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GBLI"
-  },
-  {
-   "symbol": "IOYY",
-   "name": "GraniteShares YieldBOOST IONQ ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IOYY"
-  },
-  {
-   "symbol": "MAAY",
-   "name": "GraniteShares YieldBOOST MARA ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAAY"
-  },
-  {
-   "symbol": "SCLS",
-   "name": "Stoneport Advisors Commodity Long Short ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SCLS"
-  },
-  {
-   "symbol": "WSTNU",
-   "name": "Westin Acquisition Corp - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WSTNU"
-  },
-  {
-   "symbol": "CHE.DB.H",
-   "name": "Chemtrade Logistics Income Fund",
+   "symbol": "CBLN",
+   "name": "CIBC Balanced ETF Portfolio",
    "exchange": "TSX",
-   "yahoo_symbol": "CHE.DB.H.TO",
+   "yahoo_symbol": "CBLN.TO",
    "instruments": [
     {
-     "name": "Chemtrade Lgst 7% Db",
-     "symbol": "CHE.DB.H"
-    },
-    {
-     "name": "Chemtrade LgstIc 7Db",
-     "symbol": "CHE.DB.I"
-    },
-    {
-     "name": "Chemtrade Logistc Un",
-     "symbol": "CHE.UN"
+     "name": "CIBC BalETF Poli ETF",
+     "symbol": "CBLN"
     }
    ]
   },
   {
-   "symbol": "PRT",
-   "name": "PermRock Royalty Trust Units of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRT"
+   "symbol": "CGRW",
+   "name": "CIBC Balanced Growth ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGRW.TO",
+   "instruments": [
+    {
+     "name": "CIBC Blncd Grw E Prt",
+     "symbol": "CGRW"
+    }
+   ]
   },
   {
-   "symbol": "XZO",
-   "name": "Exzeo Group, Inc. Common Stock",
+   "symbol": "CCON",
+   "name": "CIBC Conservative ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCON.TO",
+   "instruments": [
+    {
+     "name": "CIBC Cons etf port U",
+     "symbol": "CCON"
+    }
+   ]
+  },
+  {
+   "symbol": "ELWT",
+   "name": "Elauwit Connection, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELWT"
+  },
+  {
+   "symbol": "ENHU",
+   "name": "iShares Enhanced Large Cap Core Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENHU"
+  },
+  {
+   "symbol": "GEMG",
+   "name": "Leverage Shares 2X Long GEMI Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEMG"
+  },
+  {
+   "symbol": "LULG",
+   "name": "Leverage Shares 2X Long LULU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LULG"
+  },
+  {
+   "symbol": "MEHA",
+   "name": "Functional Brands, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEHA"
+  },
+  {
+   "symbol": "OSCG",
+   "name": "Leverage Shares 2X Long OSCR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSCG"
+  },
+  {
+   "symbol": "AERO",
+   "name": "Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)",
    "exchange": "NYSE",
-   "yahoo_symbol": "XZO"
-  }
- ],
- "removed": [
+   "yahoo_symbol": "AERO"
+  },
+  {
+   "symbol": "EVMN",
+   "name": "Evommune, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVMN"
+  },
+  {
+   "symbol": "MTB$K",
+   "name": "M\u0026T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTB$K"
+  },
   {
    "symbol": "SUNC",
    "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
    "exchange": "NYSE",
    "yahoo_symbol": "SUNC"
-  },
+  }
+ ],
+ "removed": [
   {
-   "symbol": "PKI",
-   "name": "Parkland Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "PKI.TO",
-   "instruments": [
-    {
-     "name": "Parkland Corp.",
-     "symbol": "PKI"
-    }
-   ]
-  },
-  {
-   "symbol": "LOG.P",
-   "name": "Logica Ventures Corp.",
+   "symbol": "HILL",
+   "name": "Hill Incorporated",
    "exchange": "TSXV",
-   "yahoo_symbol": "LOG.P.V",
+   "yahoo_symbol": "HILL.V",
    "instruments": [
     {
-     "name": "Logica Ventures Corp.",
-     "symbol": "LOG.P"
+     "name": "Hill Incorporated",
+     "symbol": "HILL"
     }
    ]
   },
   {
-   "symbol": "AND",
-   "name": "Andlauer Healthcare Group Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AND.TO",
-   "instruments": [
-    {
-     "name": "AndlauerHlthcr GrpSV",
-     "symbol": "AND"
-    }
-   ]
-  },
-  {
-   "symbol": "CHE.DB.G",
-   "name": "Chemtrade Logistics Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CHE.DB.G.TO",
-   "instruments": [
-    {
-     "name": "Chemtrade Lgst6.25Db",
-     "symbol": "CHE.DB.G"
-    },
-    {
-     "name": "Chemtrade Lgst 7% Db",
-     "symbol": "CHE.DB.H"
-    },
-    {
-     "name": "Chemtrade Logistc Un",
-     "symbol": "CHE.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "CCE",
-   "name": "Commerce Resources Corp.",
+   "symbol": "IZ",
+   "name": "International Zeolite Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CCE.V",
+   "yahoo_symbol": "IZ.V",
    "instruments": [
     {
-     "name": "Commerce Resources Corp.",
-     "symbol": "CCE"
+     "name": "International Zeolite Corp.",
+     "symbol": "IZ"
     }
    ]
   },
   {
-   "symbol": "YAK",
-   "name": "Mongolia Growth Group Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "YAK.V",
-   "instruments": [
-    {
-     "name": "Mongolia Growth Group Ltd.",
-     "symbol": "YAK"
-    }
-   ]
+   "symbol": "MRC",
+   "name": "MRC Global Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRC"
+  },
+  {
+   "symbol": "ETHZW",
+   "name": "ETHZilla Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETHZW"
   }
  ]
 }
