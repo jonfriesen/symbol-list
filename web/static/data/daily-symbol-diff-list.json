@@ -1,138 +1,42 @@
 {
  "added": [
   {
-   "symbol": "CBLN",
-   "name": "CIBC Balanced ETF Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "CBLN.TO",
-   "instruments": [
-    {
-     "name": "CIBC BalETF Poli ETF",
-     "symbol": "CBLN"
-    }
-   ]
+   "symbol": "BLLN",
+   "name": "BillionToOne, Inc. - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLLN"
   },
   {
-   "symbol": "CGRW",
-   "name": "CIBC Balanced Growth ETF Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "CGRW.TO",
-   "instruments": [
-    {
-     "name": "CIBC Blncd Grw E Prt",
-     "symbol": "CGRW"
-    }
-   ]
-  },
-  {
-   "symbol": "CCON",
-   "name": "CIBC Conservative ETF Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "CCON.TO",
-   "instruments": [
-    {
-     "name": "CIBC Cons etf port U",
-     "symbol": "CCON"
-    }
-   ]
-  },
-  {
-   "symbol": "ELWT",
-   "name": "Elauwit Connection, Inc. - Common Stock",
+   "symbol": "DFDVW",
+   "name": "DeFi Development Corp. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ELWT"
+   "yahoo_symbol": "DFDVW"
   },
   {
-   "symbol": "ENHU",
-   "name": "iShares Enhanced Large Cap Core Active ETF",
+   "symbol": "LKSP",
+   "name": "Lake Superior Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ENHU"
+   "yahoo_symbol": "LKSP"
   },
   {
-   "symbol": "GEMG",
-   "name": "Leverage Shares 2X Long GEMI Daily ETF",
+   "symbol": "LKSPR",
+   "name": "Lake Superior Acquisition Corp. - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GEMG"
-  },
-  {
-   "symbol": "LULG",
-   "name": "Leverage Shares 2X Long LULU Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LULG"
-  },
-  {
-   "symbol": "MEHA",
-   "name": "Functional Brands, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MEHA"
-  },
-  {
-   "symbol": "OSCG",
-   "name": "Leverage Shares 2X Long OSCR Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OSCG"
-  },
-  {
-   "symbol": "AERO",
-   "name": "Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AERO"
-  },
-  {
-   "symbol": "EVMN",
-   "name": "Evommune, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EVMN"
-  },
-  {
-   "symbol": "MTB$K",
-   "name": "M\u0026T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTB$K"
-  },
-  {
-   "symbol": "SUNC",
-   "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SUNC"
+   "yahoo_symbol": "LKSPR"
   }
  ],
  "removed": [
   {
-   "symbol": "HILL",
-   "name": "Hill Incorporated",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HILL.V",
-   "instruments": [
-    {
-     "name": "Hill Incorporated",
-     "symbol": "HILL"
-    }
-   ]
-  },
-  {
-   "symbol": "IZ",
-   "name": "International Zeolite Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IZ.V",
-   "instruments": [
-    {
-     "name": "International Zeolite Corp.",
-     "symbol": "IZ"
-    }
-   ]
-  },
-  {
-   "symbol": "MRC",
-   "name": "MRC Global Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MRC"
-  },
-  {
-   "symbol": "ETHZW",
-   "name": "ETHZilla Corporation - Warrant",
+   "symbol": "DHAIW",
+   "name": "DIH Holding US, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ETHZW"
+   "yahoo_symbol": "DHAIW"
+  },
+  {
+   "symbol": "DHAI",
+   "name": "DIH Holding US, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DHAI"
   }
  ]
 }
