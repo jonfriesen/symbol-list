@@ -1,42 +1,84 @@
 {
  "added": [
   {
-   "symbol": "BLLN",
-   "name": "BillionToOne, Inc. - Class A common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BLLN"
+   "symbol": "SHPD",
+   "name": "SavvyShort (-2X) Shopify ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SHPD.TO",
+   "instruments": [
+    {
+     "name": "Savvy Shrt -2x Shp E",
+     "symbol": "SHPD"
+    }
+   ]
   },
   {
-   "symbol": "DFDVW",
-   "name": "DeFi Development Corp. - Warrant",
+   "symbol": "CRACU",
+   "name": "Crown Reserve Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRACU"
+  },
+  {
+   "symbol": "TDWDU",
+   "name": "Tailwind 2.0 Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDWDU"
+  },
+  {
+   "symbol": "XWIN",
+   "name": "XMAX, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DFDVW"
+   "yahoo_symbol": "XWIN"
   },
   {
-   "symbol": "LKSP",
-   "name": "Lake Superior Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LKSP"
+   "symbol": "AXIA",
+   "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA"
   },
   {
-   "symbol": "LKSPR",
-   "name": "Lake Superior Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LKSPR"
+   "symbol": "AXIA$",
+   "name": "AXIA Energia American Depositary Shares (Each representing one Preferred Share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA$"
   }
  ],
  "removed": [
   {
-   "symbol": "DHAIW",
-   "name": "DIH Holding US, Inc. - Warrant",
+   "symbol": "NVFY",
+   "name": "Nova Lifestyle, Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DHAIW"
+   "yahoo_symbol": "NVFY"
   },
   {
-   "symbol": "DHAI",
-   "name": "DIH Holding US, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DHAI"
+   "symbol": "TEAF",
+   "name": "Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TEAF"
+  },
+  {
+   "symbol": "EBR",
+   "name": "Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EBR"
+  },
+  {
+   "symbol": "EBR.B",
+   "name": "Centrais Electricas Brasileiras S.A. Sponsored ADS representing Pfd Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EBR.B"
+  },
+  {
+   "symbol": "STNG",
+   "name": "Stinger Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STNG.V",
+   "instruments": [
+    {
+     "name": "Stinger Resources Inc.",
+     "symbol": "STNG"
+    }
+   ]
   }
  ]
 }
