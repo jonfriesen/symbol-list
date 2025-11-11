@@ -1,5 +1,5 @@
 {
- "date": "2025-11-10",
+ "date": "2025-11-11",
  "data": [
   {
    "symbol": "ONE",
@@ -15546,6 +15546,18 @@
    ]
   },
   {
+   "symbol": "SUM",
+   "name": "Summit Royalties Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUM.V",
+   "instruments": [
+    {
+     "name": "Summit Royalties Ltd.",
+     "symbol": "SUM"
+    }
+   ]
+  },
+  {
    "symbol": "PEAK",
    "name": "Sun Peak Metals Corp.",
    "exchange": "TSXV",
@@ -22356,7 +22368,7 @@
    "yahoo_symbol": "CLSA.TO",
    "instruments": [
     {
-     "name": "Brmp SpltCrp ClA ETF",
+     "name": "Brmp SpltCrp E E ETF",
      "symbol": "CLSA"
     }
    ]
@@ -33054,6 +33066,10 @@
     {
      "name": "Intact Fin A Ser 11 ",
      "symbol": "IFC.PR.K"
+    },
+    {
+     "name": "Intct Fn Cls A sr 13",
+     "symbol": "IFC.PR.M"
     }
    ]
   },
@@ -57500,12 +57516,6 @@
    "yahoo_symbol": "GTX"
   },
   {
-   "symbol": "GURE",
-   "name": "Gulf Resources, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GURE"
-  },
-  {
    "symbol": "GUTS",
    "name": "Fractyl Health, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -57786,6 +57796,12 @@
    "name": "Pacer Cash Cows Fund of Funds ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HERD"
+  },
+  {
+   "symbol": "HERE",
+   "name": "Here Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HERE"
   },
   {
    "symbol": "HERO",
@@ -60896,10 +60912,22 @@
    "yahoo_symbol": "LASR"
   },
   {
+   "symbol": "LATA",
+   "name": "Galata Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATA"
+  },
+  {
    "symbol": "LATAU",
    "name": "Galata Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LATAU"
+  },
+  {
+   "symbol": "LATAW",
+   "name": "Galata Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATAW"
   },
   {
    "symbol": "LAUR",
@@ -68048,12 +68076,6 @@
    "yahoo_symbol": "QSEAU"
   },
   {
-   "symbol": "QSG",
-   "name": "QuantaSing Group Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QSG"
-  },
-  {
    "symbol": "QSI",
    "name": "Quantum-Si Incorporated - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -69512,6 +69534,12 @@
    "yahoo_symbol": "SARK"
   },
   {
+   "symbol": "SATA",
+   "name": "Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SATA"
+  },
+  {
    "symbol": "SATL",
    "name": "Satellogic Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -69912,6 +69940,12 @@
    "name": "Seven Hills Realty Trust  - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SEVN"
+  },
+  {
+   "symbol": "SEVNR",
+   "name": "Seven Hills Realty Trust  - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEVNR"
   },
   {
    "symbol": "SEZL",
@@ -82866,12 +82900,6 @@
    "name": "First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",
    "exchange": "NYSE",
    "yahoo_symbol": "FHN$F"
-  },
-  {
-   "symbol": "FI",
-   "name": "Fiserv, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FI"
   },
   {
    "symbol": "FICO",

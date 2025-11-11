@@ -1,84 +1,66 @@
 {
  "added": [
   {
-   "symbol": "SHPD",
-   "name": "SavvyShort (-2X) Shopify ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SHPD.TO",
+   "symbol": "SUM",
+   "name": "Summit Royalties Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUM.V",
    "instruments": [
     {
-     "name": "Savvy Shrt -2x Shp E",
-     "symbol": "SHPD"
+     "name": "Summit Royalties Ltd.",
+     "symbol": "SUM"
     }
    ]
   },
   {
-   "symbol": "CRACU",
-   "name": "Crown Reserve Acquisition Corp. I - Unit",
+   "symbol": "HERE",
+   "name": "Here Group Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRACU"
+   "yahoo_symbol": "HERE"
   },
   {
-   "symbol": "TDWDU",
-   "name": "Tailwind 2.0 Acquisition Corp. - Unit",
+   "symbol": "LATA",
+   "name": "Galata Acquisition Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDWDU"
+   "yahoo_symbol": "LATA"
   },
   {
-   "symbol": "XWIN",
-   "name": "XMAX, Inc. - Common Stock",
+   "symbol": "LATAW",
+   "name": "Galata Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATAW"
+  },
+  {
+   "symbol": "SATA",
+   "name": "Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SATA"
+  },
+  {
+   "symbol": "SEVNR",
+   "name": "Seven Hills Realty Trust  - Right",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XWIN"
-  },
-  {
-   "symbol": "AXIA",
-   "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AXIA"
-  },
-  {
-   "symbol": "AXIA$",
-   "name": "AXIA Energia American Depositary Shares (Each representing one Preferred Share)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AXIA$"
+   "yahoo_symbol": "SEVNR"
   }
  ],
  "removed": [
   {
-   "symbol": "NVFY",
-   "name": "Nova Lifestyle, Inc - Common Stock",
+   "symbol": "GURE",
+   "name": "Gulf Resources, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVFY"
+   "yahoo_symbol": "GURE"
   },
   {
-   "symbol": "TEAF",
-   "name": "Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest",
+   "symbol": "QSG",
+   "name": "QuantaSing Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSG"
+  },
+  {
+   "symbol": "FI",
+   "name": "Fiserv, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "TEAF"
-  },
-  {
-   "symbol": "EBR",
-   "name": "Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EBR"
-  },
-  {
-   "symbol": "EBR.B",
-   "name": "Centrais Electricas Brasileiras S.A. Sponsored ADS representing Pfd Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EBR.B"
-  },
-  {
-   "symbol": "STNG",
-   "name": "Stinger Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "STNG.V",
-   "instruments": [
-    {
-     "name": "Stinger Resources Inc.",
-     "symbol": "STNG"
-    }
-   ]
+   "yahoo_symbol": "FI"
   }
  ]
 }
