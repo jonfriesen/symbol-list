@@ -1,66 +1,64 @@
 {
  "added": [
   {
-   "symbol": "SUM",
-   "name": "Summit Royalties Ltd.",
+   "symbol": "ATLH.P",
+   "name": "Atlantic Horizon Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SUM.V",
+   "yahoo_symbol": "ATLH.P.V",
    "instruments": [
     {
-     "name": "Summit Royalties Ltd.",
-     "symbol": "SUM"
+     "name": "Atlantic Horizon Capital Corp.",
+     "symbol": "ATLH.P"
     }
    ]
   },
   {
-   "symbol": "HERE",
-   "name": "Here Group Limited - American Depositary Shares",
+   "symbol": "BAT",
+   "name": "Batero Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BAT.V",
+   "instruments": [
+    {
+     "name": "Batero Gold Corp",
+     "symbol": "BAT"
+    }
+   ]
+  },
+  {
+   "symbol": "CHEC",
+   "name": "Chenghe Acquisition III Co. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HERE"
+   "yahoo_symbol": "CHEC"
   },
   {
-   "symbol": "LATA",
-   "name": "Galata Acquisition Corp. II - Class A Ordinary Shares",
+   "symbol": "CHECW",
+   "name": "Chenghe Acquisition III Co. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LATA"
+   "yahoo_symbol": "CHECW"
   },
   {
-   "symbol": "LATAW",
-   "name": "Galata Acquisition Corp. II - Warrant",
+   "symbol": "EVOXU",
+   "name": "Evolution Global Acquisition Corp - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LATAW"
+   "yahoo_symbol": "EVOXU"
   },
   {
-   "symbol": "SATA",
-   "name": "Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SATA"
+   "symbol": "FISV",
+   "name": "Fiserv, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FISV"
   },
   {
-   "symbol": "SEVNR",
-   "name": "Seven Hills Realty Trust  - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SEVNR"
-  }
- ],
- "removed": [
-  {
-   "symbol": "GURE",
-   "name": "Gulf Resources, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GURE"
+   "symbol": "PTN",
+   "name": "Palatin Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PTN"
   },
   {
-   "symbol": "QSG",
-   "name": "QuantaSing Group Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QSG"
-  },
-  {
-   "symbol": "FI",
-   "name": "Fiserv, Inc. Common Stock",
+   "symbol": "SOMN",
+   "name": "Southern Company (The) 2025 Series A Corporate Units",
    "exchange": "NYSE",
-   "yahoo_symbol": "FI"
+   "yahoo_symbol": "SOMN"
   }
  ]
 }
