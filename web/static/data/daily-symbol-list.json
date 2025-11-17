@@ -1,5 +1,5 @@
 {
- "date": "2025-11-14",
+ "date": "2025-11-17",
  "data": [
   {
    "symbol": "ONE",
@@ -394,18 +394,6 @@
     {
      "name": "AIM5 Ventures Inc.",
      "symbol": "AIME.P"
-    }
-   ]
-  },
-  {
-   "symbol": "AIMF.P",
-   "name": "AIM6 Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AIMF.P.V",
-   "instruments": [
-    {
-     "name": "AIM6 Ventures Inc.",
-     "symbol": "AIMF.P"
     }
    ]
   },
@@ -5150,6 +5138,18 @@
    ]
   },
   {
+   "symbol": "SERV",
+   "name": "Elevate Service Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SERV.V",
+   "instruments": [
+    {
+     "name": "Elevate Service Group Inc.",
+     "symbol": "SERV"
+    }
+   ]
+  },
+  {
    "symbol": "ELC",
    "name": "Elysee Development Corp.",
    "exchange": "TSXV",
@@ -6942,18 +6942,6 @@
    ]
   },
   {
-   "symbol": "GXU",
-   "name": "GoviEx Uranium Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GXU.V",
-   "instruments": [
-    {
-     "name": "Goviex Uranium Inc.",
-     "symbol": "GXU"
-    }
-   ]
-  },
-  {
    "symbol": "GPM",
    "name": "GPM Metals Inc.",
    "exchange": "TSXV",
@@ -7186,18 +7174,6 @@
     {
      "name": "GreenLight Metals Inc.",
      "symbol": "GRL"
-    }
-   ]
-  },
-  {
-   "symbol": "GPV",
-   "name": "GreenPower Motor Company Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GPV.V",
-   "instruments": [
-    {
-     "name": "GreenPower Motor Company Inc.",
-     "symbol": "GPV"
     }
    ]
   },
@@ -12486,6 +12462,10 @@
     {
      "name": "PharmaCorp Rx Inc.",
      "symbol": "PCRX"
+    },
+    {
+     "name": "PharmaCorp Rx Inc wt 12Nov2027",
+     "symbol": "PCRX.WT"
     }
    ]
   },
@@ -31130,6 +31110,10 @@
     {
      "name": "Greenfire Res Ltd. ",
      "symbol": "GFR"
+    },
+    {
+     "name": "Greenfire Res LTD Rt",
+     "symbol": "GFR.RT"
     }
    ]
   },
@@ -37402,18 +37386,6 @@
    ]
   },
   {
-   "symbol": "MEG",
-   "name": "MEG Energy Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MEG.TO",
-   "instruments": [
-    {
-     "name": "MEG Energy Corp.",
-     "symbol": "MEG"
-    }
-   ]
-  },
-  {
    "symbol": "MGA",
    "name": "Mega Uranium Ltd.",
    "exchange": "TSX",
@@ -41906,26 +41878,26 @@
    ]
   },
   {
-   "symbol": "CLUP",
+   "symbol": "OILU",
    "name": "SavvyLong Geared Crude Oil ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CLUP.TO",
+   "yahoo_symbol": "OILU.TO",
    "instruments": [
     {
      "name": "SavvyLong GeCrOi ETF",
-     "symbol": "CLUP"
+     "symbol": "OILU"
     }
    ]
   },
   {
-   "symbol": "NGUP",
+   "symbol": "GASU",
    "name": "SavvyLong Geared Natural Gas ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "NGUP.TO",
+   "yahoo_symbol": "GASU.TO",
    "instruments": [
     {
      "name": "SavvyLong GeNaGa ETF",
-     "symbol": "NGUP"
+     "symbol": "GASU"
     }
    ]
   },
@@ -41966,26 +41938,26 @@
    ]
   },
   {
-   "symbol": "CLDN",
+   "symbol": "OILD",
    "name": "SavvyShort Geared Crude Oil ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CLDN.TO",
+   "yahoo_symbol": "OILD.TO",
    "instruments": [
     {
      "name": "SavvyShort GeCrO ETF",
-     "symbol": "CLDN"
+     "symbol": "OILD"
     }
    ]
   },
   {
-   "symbol": "NGDN",
+   "symbol": "GASD",
    "name": "SavvyShort Geared Natural Gas ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "NGDN.TO",
+   "yahoo_symbol": "GASD.TO",
    "instruments": [
     {
      "name": "SavvyShort GeNaG ETF",
-     "symbol": "NGDN"
+     "symbol": "GASD"
     }
    ]
   },
@@ -55794,12 +55766,6 @@
    "yahoo_symbol": "FORA"
   },
   {
-   "symbol": "FORD",
-   "name": "Forward Industries, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FORD"
-  },
-  {
    "symbol": "FORM",
    "name": "FormFactor, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -56344,6 +56310,12 @@
    "name": "Future Vision II Acquisition Corporation - Units",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FVNNU"
+  },
+  {
+   "symbol": "FWDI",
+   "name": "Forward Industries, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWDI"
   },
   {
    "symbol": "FWONA",
@@ -65574,12 +65546,6 @@
    "yahoo_symbol": "OOSB"
   },
   {
-   "symbol": "OP",
-   "name": "OceanPal Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OP"
-  },
-  {
    "symbol": "OPAL",
    "name": "OPAL Fuels Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67618,12 +67584,6 @@
    "name": "Pulmatrix, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PULM"
-  },
-  {
-   "symbol": "PVBC",
-   "name": "Provident Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PVBC"
   },
   {
    "symbol": "PVLA",
@@ -71796,6 +71756,12 @@
    "yahoo_symbol": "SVREW"
   },
   {
+   "symbol": "SVRN",
+   "name": "OceanPal Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVRN"
+  },
+  {
    "symbol": "SWAG",
    "name": "Stran \u0026 Company, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -75282,12 +75248,6 @@
    "yahoo_symbol": "WSBCO"
   },
   {
-   "symbol": "WSBCP",
-   "name": "WesBanco, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WSBCP"
-  },
-  {
    "symbol": "WSBF",
    "name": "Waterstone Financial, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -75310,6 +75270,12 @@
    "name": "WSFS Financial Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WSFS"
+  },
+  {
+   "symbol": "WSHP",
+   "name": "WeShop Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSHP"
   },
   {
    "symbol": "WSML",
@@ -79453,7 +79419,7 @@
   },
   {
    "symbol": "CANG",
-   "name": "Cango Inc. American Depositary Shares,  each representing two (2) Class A Ordinary Shares",
+   "name": "Cango Inc. Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "CANG"
   },
@@ -82806,10 +82772,22 @@
    "yahoo_symbol": "FCPT"
   },
   {
+   "symbol": "FCRS",
+   "name": "FutureCrest Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FCRS"
+  },
+  {
    "symbol": "FCRS.U",
    "name": "FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "FCRS.U"
+  },
+  {
+   "symbol": "FCRS.W",
+   "name": "FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FCRS.W"
   },
   {
    "symbol": "FCRX",
@@ -89796,6 +89774,12 @@
    "yahoo_symbol": "PINE"
   },
   {
+   "symbol": "PINE$A",
+   "name": "Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PINE$A"
+  },
+  {
    "symbol": "PINS",
    "name": "Pinterest, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -91612,12 +91596,6 @@
    "name": "SEMrush Holdings, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SEMR"
-  },
-  {
-   "symbol": "SENS",
-   "name": "Senseonics Holdings, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SENS"
   },
   {
    "symbol": "SER",
