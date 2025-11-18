@@ -1,228 +1,192 @@
 {
  "added": [
   {
-   "symbol": "SERV",
-   "name": "Elevate Service Group Inc.",
+   "symbol": "AMCO",
+   "name": "Americore Resources Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SERV.V",
+   "yahoo_symbol": "AMCO.V",
    "instruments": [
     {
-     "name": "Elevate Service Group Inc.",
-     "symbol": "SERV"
+     "name": "Americore Resources Corp.",
+     "symbol": "AMCO"
     }
    ]
   },
   {
-   "symbol": "OILU",
-   "name": "SavvyLong Geared Crude Oil ETF",
+   "symbol": "OCG",
+   "name": "Outcrop Silver \u0026 Gold Corporation",
    "exchange": "TSX",
-   "yahoo_symbol": "OILU.TO",
+   "yahoo_symbol": "OCG.TO",
    "instruments": [
     {
-     "name": "SavvyLong GeCrOi ETF",
-     "symbol": "OILU"
+     "name": "OutcropSil\u0026Gold Corp",
+     "symbol": "OCG"
     }
    ]
   },
   {
-   "symbol": "GASU",
-   "name": "SavvyLong Geared Natural Gas ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "GASU.TO",
-   "instruments": [
-    {
-     "name": "SavvyLong GeNaGa ETF",
-     "symbol": "GASU"
-    }
-   ]
+   "symbol": "ABNG",
+   "name": "Leverage Shares 2x Long ABNB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABNG"
   },
   {
-   "symbol": "OILD",
-   "name": "SavvyShort Geared Crude Oil ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "OILD.TO",
-   "instruments": [
-    {
-     "name": "SavvyShort GeCrO ETF",
-     "symbol": "OILD"
-    }
-   ]
+   "symbol": "APXT",
+   "name": "Apex Treasury Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXT"
   },
   {
-   "symbol": "GASD",
-   "name": "SavvyShort Geared Natural Gas ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "GASD.TO",
-   "instruments": [
-    {
-     "name": "SavvyShort GeNaG ETF",
-     "symbol": "GASD"
-    }
-   ]
+   "symbol": "APXTW",
+   "name": "Apex Treasury Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXTW"
   },
   {
-   "symbol": "FWDI",
-   "name": "Forward Industries, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FWDI"
+   "symbol": "CMGG",
+   "name": "Leverage Shares 2X Long CMG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMGG"
   },
   {
-   "symbol": "SVRN",
-   "name": "OceanPal Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SVRN"
+   "symbol": "GSGO",
+   "name": "Goldman Sachs Growth Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSGO"
   },
   {
-   "symbol": "WSHP",
-   "name": "WeShop Holdings Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WSHP"
+   "symbol": "GUSE",
+   "name": "Goldman Sachs Enhanced U.S. Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GUSE"
   },
   {
-   "symbol": "FCRS",
-   "name": "FutureCrest Acquisition Corp. Class A Ordinary Shares",
+   "symbol": "GVLE",
+   "name": "Goldman Sachs Value Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GVLE"
+  },
+  {
+   "symbol": "NEMG",
+   "name": "Leverage Shares 2x Long NEM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEMG"
+  },
+  {
+   "symbol": "NETG",
+   "name": "Leverage Shares 2X Long NET Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETG"
+  },
+  {
+   "symbol": "NUG",
+   "name": "Leverage Shares 2X Long NU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUG"
+  },
+  {
+   "symbol": "OKTG",
+   "name": "Leverage Shares 2X Long OKTA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OKTG"
+  },
+  {
+   "symbol": "SBU",
+   "name": "Leverage Shares 2X Long SBUX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SBU"
+  },
+  {
+   "symbol": "SENS",
+   "name": "Senseonics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SENS"
+  },
+  {
+   "symbol": "SPOG",
+   "name": "Leverage Shares 2X Long SPOT Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPOG"
+  },
+  {
+   "symbol": "TERG",
+   "name": "Leverage Shares 2X Long TER Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TERG"
+  },
+  {
+   "symbol": "VSOL",
+   "name": "VanEck Solana ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSOL"
+  },
+  {
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "FCRS"
+   "yahoo_symbol": "SRV.R"
   },
   {
-   "symbol": "FCRS.W",
-   "name": "FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "symbol": "TDAY",
+   "name": "USA TODAY Co., Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "FCRS.W"
-  },
-  {
-   "symbol": "PINE$A",
-   "name": "Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PINE$A"
+   "yahoo_symbol": "TDAY"
   }
  ],
  "removed": [
   {
-   "symbol": "CLDN",
-   "name": "SavvyShort Geared Crude Oil ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CLDN.TO",
-   "instruments": [
-    {
-     "name": "SavvyShort GeCrO ETF",
-     "symbol": "CLDN"
-    }
-   ]
-  },
-  {
-   "symbol": "GPV",
-   "name": "GreenPower Motor Company Inc.",
+   "symbol": "OCG",
+   "name": "Outcrop Silver \u0026 Gold Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "GPV.V",
+   "yahoo_symbol": "OCG.V",
    "instruments": [
     {
-     "name": "GreenPower Motor Company Inc.",
-     "symbol": "GPV"
+     "name": "Outcrop Silver \u0026 Gold Corporation",
+     "symbol": "OCG"
     }
    ]
   },
   {
-   "symbol": "GXU",
-   "name": "GoviEx Uranium Inc.",
+   "symbol": "QBTS.W",
+   "name": "D-Wave Quantum Inc. Warrants, each whole warrant exercisable for 1.4541326 Common Shares at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QBTS.W"
+  },
+  {
+   "symbol": "GCI",
+   "name": "Gannett Co., Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GCI"
+  },
+  {
+   "symbol": "EOSEW",
+   "name": "Eos Energy Enterprises, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EOSEW"
+  },
+  {
+   "symbol": "SRV.V",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.V"
+  },
+  {
+   "symbol": "OPP.R",
+   "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPP.R"
+  },
+  {
+   "symbol": "KNC",
+   "name": "K9 Gold Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GXU.V",
+   "yahoo_symbol": "KNC.V",
    "instruments": [
     {
-     "name": "Goviex Uranium Inc.",
-     "symbol": "GXU"
+     "name": "K9 Gold Corp.",
+     "symbol": "KNC"
     }
    ]
-  },
-  {
-   "symbol": "OP",
-   "name": "OceanPal Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OP"
-  },
-  {
-   "symbol": "MEG",
-   "name": "MEG Energy Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MEG.TO",
-   "instruments": [
-    {
-     "name": "MEG Energy Corp.",
-     "symbol": "MEG"
-    }
-   ]
-  },
-  {
-   "symbol": "CLUP",
-   "name": "SavvyLong Geared Crude Oil ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CLUP.TO",
-   "instruments": [
-    {
-     "name": "SavvyLong GeCrOi ETF",
-     "symbol": "CLUP"
-    }
-   ]
-  },
-  {
-   "symbol": "SENS",
-   "name": "Senseonics Holdings, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SENS"
-  },
-  {
-   "symbol": "AIMF.P",
-   "name": "AIM6 Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AIMF.P.V",
-   "instruments": [
-    {
-     "name": "AIM6 Ventures Inc.",
-     "symbol": "AIMF.P"
-    }
-   ]
-  },
-  {
-   "symbol": "NGUP",
-   "name": "SavvyLong Geared Natural Gas ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "NGUP.TO",
-   "instruments": [
-    {
-     "name": "SavvyLong GeNaGa ETF",
-     "symbol": "NGUP"
-    }
-   ]
-  },
-  {
-   "symbol": "NGDN",
-   "name": "SavvyShort Geared Natural Gas ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "NGDN.TO",
-   "instruments": [
-    {
-     "name": "SavvyShort GeNaG ETF",
-     "symbol": "NGDN"
-    }
-   ]
-  },
-  {
-   "symbol": "FORD",
-   "name": "Forward Industries, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FORD"
-  },
-  {
-   "symbol": "PVBC",
-   "name": "Provident Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PVBC"
-  },
-  {
-   "symbol": "WSBCP",
-   "name": "WesBanco, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WSBCP"
   }
  ]
 }

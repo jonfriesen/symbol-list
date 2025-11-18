@@ -1,5 +1,5 @@
 {
- "date": "2025-11-17",
+ "date": "2025-11-18",
  "data": [
   {
    "symbol": "ONE",
@@ -770,6 +770,18 @@
     {
      "name": "American Lithium Corp.",
      "symbol": "LI"
+    }
+   ]
+  },
+  {
+   "symbol": "AMCO",
+   "name": "Americore Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMCO.V",
+   "instruments": [
+    {
+     "name": "Americore Resources Corp.",
+     "symbol": "AMCO"
     }
    ]
   },
@@ -8594,18 +8606,6 @@
    ]
   },
   {
-   "symbol": "KNC",
-   "name": "K9 Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KNC.V",
-   "instruments": [
-    {
-     "name": "K9 Gold Corp.",
-     "symbol": "KNC"
-    }
-   ]
-  },
-  {
    "symbol": "KDSX",
    "name": "Kadestone Capital Corp.",
    "exchange": "TSXV",
@@ -11974,18 +11974,6 @@
     {
      "name": "Ostrom Climate Solutions Inc.",
      "symbol": "COO"
-    }
-   ]
-  },
-  {
-   "symbol": "OCG",
-   "name": "Outcrop Silver \u0026 Gold Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OCG.V",
-   "instruments": [
-    {
-     "name": "Outcrop Silver \u0026 Gold Corporation",
-     "symbol": "OCG"
     }
    ]
   },
@@ -31110,10 +31098,6 @@
     {
      "name": "Greenfire Res Ltd. ",
      "symbol": "GFR"
-    },
-    {
-     "name": "Greenfire Res LTD Rt",
-     "symbol": "GFR.RT"
     }
    ]
   },
@@ -39094,6 +39078,18 @@
    ]
   },
   {
+   "symbol": "OCG",
+   "name": "Outcrop Silver \u0026 Gold Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "OCG.TO",
+   "instruments": [
+    {
+     "name": "OutcropSil\u0026Gold Corp",
+     "symbol": "OCG"
+    }
+   ]
+  },
+  {
    "symbol": "OVV",
    "name": "Ovintiv Inc.",
    "exchange": "TSX",
@@ -45362,6 +45358,12 @@
    "yahoo_symbol": "ABNB"
   },
   {
+   "symbol": "ABNG",
+   "name": "Leverage Shares 2x Long ABNB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABNG"
+  },
+  {
    "symbol": "ABOS",
    "name": "Acumen Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -47066,10 +47068,22 @@
    "yahoo_symbol": "APWC"
   },
   {
+   "symbol": "APXT",
+   "name": "Apex Treasury Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXT"
+  },
+  {
    "symbol": "APXTU",
    "name": "Apex Treasury Corporation - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "APXTU"
+  },
+  {
+   "symbol": "APXTW",
+   "name": "Apex Treasury Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXTW"
   },
   {
    "symbol": "APYX",
@@ -49065,7 +49079,7 @@
   },
   {
    "symbol": "BNBX",
-   "name": "Applied DNA Sciences, Inc. - Common Stock",
+   "name": "BNB Plus Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BNBX"
   },
@@ -51402,6 +51416,12 @@
    "name": "CME Group Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CME"
+  },
+  {
+   "symbol": "CMGG",
+   "name": "Leverage Shares 2X Long CMG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMGG"
   },
   {
    "symbol": "CMMB",
@@ -54192,12 +54212,6 @@
    "name": "Eos Energy Enterprises, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EOSE"
-  },
-  {
-   "symbol": "EOSEW",
-   "name": "Eos Energy Enterprises, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EOSEW"
   },
   {
    "symbol": "EPOW",
@@ -57380,6 +57394,12 @@
    "yahoo_symbol": "GSBC"
   },
   {
+   "symbol": "GSGO",
+   "name": "Goldman Sachs Growth Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSGO"
+  },
+  {
    "symbol": "GSHD",
    "name": "Goosehead Insurance, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -57548,6 +57568,12 @@
    "yahoo_symbol": "GTX"
   },
   {
+   "symbol": "GUSE",
+   "name": "Goldman Sachs Enhanced U.S. Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GUSE"
+  },
+  {
    "symbol": "GUTS",
    "name": "Fractyl Health, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -57564,6 +57590,12 @@
    "name": "Globavend Holdings Limited - Ord Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GVH"
+  },
+  {
+   "symbol": "GVLE",
+   "name": "Goldman Sachs Value Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GVLE"
   },
   {
    "symbol": "GWAV",
@@ -64016,6 +64048,12 @@
    "yahoo_symbol": "NEGG"
   },
   {
+   "symbol": "NEMG",
+   "name": "Leverage Shares 2x Long NEM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEMG"
+  },
+  {
    "symbol": "NEO",
    "name": "NeoGenomics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -64080,6 +64118,12 @@
    "name": "Nabors Energy Transition Corp. II - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NETDW"
+  },
+  {
+   "symbol": "NETG",
+   "name": "Leverage Shares 2X Long NET Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETG"
   },
   {
    "symbol": "NEUP",
@@ -64742,6 +64786,12 @@
    "yahoo_symbol": "NUAIW"
   },
   {
+   "symbol": "NUG",
+   "name": "Leverage Shares 2X Long NU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUG"
+  },
+  {
    "symbol": "NUKK",
    "name": "Nukkleus Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -65328,6 +65378,12 @@
    "name": "Okta, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OKTA"
+  },
+  {
+   "symbol": "OKTG",
+   "name": "Leverage Shares 2X Long OKTA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OKTG"
   },
   {
    "symbol": "OKUR",
@@ -69638,6 +69694,12 @@
    "yahoo_symbol": "SBRA"
   },
   {
+   "symbol": "SBU",
+   "name": "Leverage Shares 2X Long SBUX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SBU"
+  },
+  {
    "symbol": "SBUX",
    "name": "Starbucks Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69906,6 +69968,12 @@
    "name": "Seneca Foods Corp. - Class B Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SENEB"
+  },
+  {
+   "symbol": "SENS",
+   "name": "Senseonics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SENS"
   },
   {
    "symbol": "SEPN",
@@ -71124,6 +71192,12 @@
    "name": "Sapiens International Corporation N.V. - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SPNS"
+  },
+  {
+   "symbol": "SPOG",
+   "name": "Leverage Shares 2X Long SPOT Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPOG"
   },
   {
    "symbol": "SPOK",
@@ -72354,6 +72428,12 @@
    "name": "Teradyne, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TER"
+  },
+  {
+   "symbol": "TERG",
+   "name": "Leverage Shares 2X Long TER Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TERG"
   },
   {
    "symbol": "TERN",
@@ -74622,6 +74702,12 @@
    "name": "VictoryShares US Multi-Factor Minimum Volatility ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VSMV"
+  },
+  {
+   "symbol": "VSOL",
+   "name": "VanEck Solana ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSOL"
   },
   {
    "symbol": "VSSYW",
@@ -83444,12 +83530,6 @@
    "yahoo_symbol": "GBX"
   },
   {
-   "symbol": "GCI",
-   "name": "Gannett Co., Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GCI"
-  },
-  {
    "symbol": "GCO",
    "name": "Genesco Inc. Common Stock",
    "exchange": "NYSE",
@@ -89078,12 +89158,6 @@
    "yahoo_symbol": "OPP$C"
   },
   {
-   "symbol": "OPP.R",
-   "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OPP.R"
-  },
-  {
    "symbol": "OPTT",
    "name": "Ocean Power Technologies, Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -90408,12 +90482,6 @@
    "name": "D-Wave Quantum Inc. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "QBTS"
-  },
-  {
-   "symbol": "QBTS.W",
-   "name": "D-Wave Quantum Inc. Warrants, each whole warrant exercisable for 1.4541326 Common Shares at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "QBTS.W"
   },
   {
    "symbol": "QD",
@@ -92360,10 +92428,10 @@
    "yahoo_symbol": "SRV"
   },
   {
-   "symbol": "SRV.V",
-   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights when issued",
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "SRV.V"
+   "yahoo_symbol": "SRV.R"
   },
   {
    "symbol": "SRXH",
@@ -92760,6 +92828,12 @@
    "name": "Toronto Dominion Bank (The) Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TD"
+  },
+  {
+   "symbol": "TDAY",
+   "name": "USA TODAY Co., Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TDAY"
   },
   {
    "symbol": "TDC",

@@ -63,6 +63,7 @@ AMYA.P,Amaya Big Sky Capital Corp.,TSXV,AMYA.P.V,Amaya Big Sky Capital Corp.,AMY
 MEGO.P,Amego Capital Corp.,TSXV,MEGO.P.V,Amego Capital Corp.,MEGO.P
 AE,American Eagle Gold Corp.,TSXV,AE.V,American Eagle Gold Corp.,AE
 LI,American Lithium Corp.,TSXV,LI.V,American Lithium Corp.,LI
+AMCO,Americore Resources Corp.,TSXV,AMCO.V,Americore Resources Corp.,AMCO
 AMT,AmeriTrust Financial Technologies Inc.,TSXV,AMT.V,AmeriTrust Financial Technologies Inc.,AMT
 AMX,Amex Exploration Inc.,TSXV,AMX.V,Amex Exploration Inc.,AMX
 AMG.P,AMG Acquisition Corp,TSXV,AMG.P.V,AMG Acquisition Corp.,AMG.P
@@ -709,7 +710,6 @@ JEC,Jura Energy Corporation,TSXV,JEC.V,Jura Energy Corporation,JEC
 JVR.P,JVR Ventures Inc.,TSXV,JVR.P.V,JVR Ventures Inc.,JVR.P
 JZR,JZR Gold Inc.,TSXV,JZR.V,JZR Gold Inc.,JZR
 KTO,K2 Gold Corporation,TSXV,KTO.V,K2 Gold Corporation,KTO
-KNC,K9 Gold Corp.,TSXV,KNC.V,K9 Gold Corp.,KNC
 KDSX,Kadestone Capital Corp.,TSXV,KDSX.V,Kadestone Capital Corp.,KDSX
 KALM.P,Kalma Capital Corp.,TSXV,KALM.P.V,Kalma Capital Corp.,KALM.P
 KALO,Kalo Gold Corp.,TSXV,KALO.V,Kalo Gold Corp.,KALO
@@ -987,7 +987,6 @@ OGN,Orogen Royalties Inc.,TSXV,OGN.V,Orogen Royalties Inc.,OGN
 OMI,Orosur Mining Inc.,TSXV,OMI.V,Orosur Mining Inc.,OMI
 ODV,Osisko Development Corp.,TSXV,ODV.V,Osisko Development Corp.,ODV,Osisko Development Corp. wts 02Mar2027,ODV.WT.A,Osisko Development Corp. wt 02Mar2026,ODV.WT.B,Osisko Development Corp. wts 27May2027,ODV.WT.U,Osisko Development Corp. wt 01Oct2029,ODV.WT.V
 COO,Ostrom Climate Solutions Inc.,TSXV,COO.V,Ostrom Climate Solutions Inc.,COO
-OCG,Outcrop Silver & Gold Corporation,TSXV,OCG.V,Outcrop Silver & Gold Corporation,OCG
 OAM,OverActive Media Corp.,TSXV,OAM.V,OverActive Media Corp.,OAM
 PGLD,P2 Gold Inc.,TSXV,PGLD.V,P2 Gold Inc.,PGLD
 PBM,Pacific Bay Minerals Ltd.,TSXV,PBM.V,Pacific Bay Minerals Ltd.,PBM
@@ -2431,7 +2430,7 @@ FOOD,Goodfood Market Corp.,TSX,FOOD.TO,Goodfood Market J,FOOD,Goodfood MktJ 5.75
 GTE,Gran Tierra Energy Inc.,TSX,GTE.TO,Gran Tierra Energy,GTE
 GRT.UN,Granite Real Estate Investment Trust,TSX,GRT.UN.TO,Granite Rl Est Tr Un,GRT.UN
 GWO,Great-West Lifeco Inc.,TSX,GWO.TO,Great-West Lifeco,GWO,Gt-West Lifeco Pr G,GWO.PR.G,Gt-West Lifeco Pr H ,GWO.PR.H,Gt-West Lifeco Pr I,GWO.PR.I,Gt-West Lifeco Pr L,GWO.PR.L,Gt-West Lifeco Pr M,GWO.PR.M,Gt-West Lifeco Pr N,GWO.PR.N,Gt-West Lifeco Pr P,GWO.PR.P,Gt-West Lifeco Pr Q,GWO.PR.Q,Gt-West Lifeco Pr R,GWO.PR.R,Gt-West Lifeco Pr S,GWO.PR.S,Gt-West Lifeco Pr T,GWO.PR.T,Gt-West Lifeco Pr Y,GWO.PR.Y,GrtWst L Co P S Sr Z,GWO.PR.Z
-GFR,Greenfire Resources Ltd.,TSX,GFR.TO,Greenfire Res Ltd. ,GFR,Greenfire Res LTD Rt,GFR.RT
+GFR,Greenfire Resources Ltd.,TSX,GFR.TO,Greenfire Res Ltd. ,GFR
 GFP,GreenFirst Forest Products Inc.,TSX,GFP.TO,Green1st ForestProdJ,GFP
 GRN,Greenlane Renewables Inc.,TSX,GRN.TO,Greenlane Renew J,GRN
 GRGD,Groupe Dynamite Inc.,TSX,GRGD.TO,Gr Dynamite SubV Sh ,GRGD
@@ -3048,6 +3047,7 @@ OGI,Organigram Global Inc.,TSX,OGI.TO,Organigram Global In,OGI
 OLA,Orla Mining Ltd,TSX,OLA.TO,Orla Mining Ltd. J,OLA
 ORV,Orvana Minerals Corp.,TSX,ORV.TO,Orvana Minerals J,ORV
 OM,Osisko Metals Incorporated,TSX,OM.TO,Osisko Metals Incorp,OM
+OCG,Outcrop Silver & Gold Corporation,TSX,OCG.TO,OutcropSil&Gold Corp,OCG
 OVV,Ovintiv Inc.,TSX,OVV.TO,Ovintiv Inc.,OVV
 PDN,Paladin Energy Ltd.,TSX,PDN.TO,Paladin Energy Ltd,PDN
 PAAS,Pan American Silver Corp.,TSX,PAAS.TO,Pan American Silver,PAAS
@@ -3529,6 +3529,7 @@ ABLLL,"Abacus Global Management, Inc. - 9.875% Fixed Rate Senior Notes due 2028"
 ABLV,Able View Global Inc. - Class B Ordinary Shares,NASDAQ Capital Market,ABLV
 ABLVW,Able View Global Inc. - Warrant,NASDAQ Capital Market,ABLVW
 ABNB,"Airbnb, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ABNB
+ABNG,Leverage Shares 2x Long ABNB Daily ETF,NASDAQ Global MarketSM,ABNG
 ABOS,"Acumen Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ABOS
 ABP,"Abpro Holdings, Inc - Common Stock",NASDAQ Global MarketSM,ABP
 ABPWW,"Abpro Holdings, Inc - Warrant",NASDAQ Capital Market,ABPWW
@@ -3813,7 +3814,9 @@ APPX,Tradr 2X Long APP Daily ETF,NASDAQ Global MarketSM,APPX
 APRE,"Aprea Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,APRE
 APVO,Aptevo Therapeutics Inc. - Common Stock,NASDAQ Capital Market,APVO
 APWC,"Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share",NASDAQ Capital Market,APWC
+APXT,Apex Treasury Corporation - Class A Ordinary Share,NASDAQ Global MarketSM,APXT
 APXTU,Apex Treasury Corporation - Units,NASDAQ Global MarketSM,APXTU
+APXTW,Apex Treasury Corporation - Warrants,NASDAQ Global MarketSM,APXTW
 APYX,Apyx Medical Corporation - Common Stock,NASDAQ Global Select MarketSM,APYX
 AQB,"AquaBounty Technologies, Inc. - Common Stock",NASDAQ Capital Market,AQB
 AQMS,"Aqua Metals, Inc. - Common Stock",NASDAQ Capital Market,AQMS
@@ -4146,7 +4149,7 @@ BMRC,Bank of Marin Bancorp - Common Stock,NASDAQ Capital Market,BMRC
 BMRN,BioMarin Pharmaceutical Inc. - Common Stock,NASDAQ Global Select MarketSM,BMRN
 BNAI,Brand Engagement Network Inc. - Common Stock,NASDAQ Capital Market,BNAI
 BNAIW,Brand Engagement Network Inc. - Warrant,NASDAQ Capital Market,BNAIW
-BNBX,"Applied DNA Sciences, Inc. - Common Stock",NASDAQ Capital Market,BNBX
+BNBX,BNB Plus Corp. - Common Stock,NASDAQ Capital Market,BNBX
 BNC,CEA Industries Inc. - Common Stock,NASDAQ Capital Market,BNC
 BNCWW,CEA Industries Inc. - Warrant,NASDAQ Capital Market,BNCWW
 BND,Vanguard Total Bond Market ETF,NASDAQ Global MarketSM,BND
@@ -4536,6 +4539,7 @@ CMCO,Columbus McKinnon Corporation - Common Stock,NASDAQ Global Select MarketSM,
 CMCSA,Comcast Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,CMCSA
 CMCT,Creative Media  - Common Stock,NASDAQ Capital Market,CMCT
 CME,CME Group Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,CME
+CMGG,Leverage Shares 2X Long CMG Daily ETF,NASDAQ Global MarketSM,CMGG
 CMMB,Chemomab Therapeutics Ltd.  - American Depositary Shares,NASDAQ Capital Market,CMMB
 CMND,Clearmind Medicine Inc. - Common Shares,NASDAQ Capital Market,CMND
 CMPOW,"CompoSecure, Inc.  - Warrant",NASDAQ Global MarketSM,CMPOW
@@ -5001,7 +5005,6 @@ ENVX,Enovix Corporation - Common Stock,NASDAQ Global Select MarketSM,ENVX
 ENZL,iShares MSCI New Zealand ETF,NASDAQ Global MarketSM,ENZL
 EOLS,"Evolus, Inc. - Common Stock",NASDAQ Global MarketSM,EOLS
 EOSE,"Eos Energy Enterprises, Inc. - Common Stock",NASDAQ Capital Market,EOSE
-EOSEW,"Eos Energy Enterprises, Inc. - Warrant",NASDAQ Capital Market,EOSEW
 EPOW,"Sunrise New Energy Co., Ltd - Class A Ordinary Shares",NASDAQ Capital Market,EPOW
 EPRX,Eupraxia Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,EPRX
 EPSM,Epsium Enterprise Limited - Class A Ordinary Shares,NASDAQ Capital Market,EPSM
@@ -5532,6 +5535,7 @@ GRW,TCW Durable Growth ETF,NASDAQ Global MarketSM,GRW
 GRWG,GrowGeneration Corp. - Common Stock,NASDAQ Capital Market,GRWG
 GSAT,"Globalstar, Inc. - Common Stock",NASDAQ Global Select MarketSM,GSAT
 GSBC,"Great Southern Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,GSBC
+GSGO,Goldman Sachs Growth Opportunities ETF,NASDAQ Global MarketSM,GSGO
 GSHD,"Goosehead Insurance, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,GSHD
 GSHR,Gesher Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,GSHR
 GSHRU,Gesher Acquisition Corp. II - Units,NASDAQ Global MarketSM,GSHRU
@@ -5560,9 +5564,11 @@ GTM,ZoomInfo Technologies Inc. - Common Stock,NASDAQ Global Select MarketSM,GTM
 GTPE,Goldman Sachs MSCI World Private Equity Return Tracker ETF,NASDAQ Global MarketSM,GTPE
 GTR,WisdomTree Target Range Fund,NASDAQ Global MarketSM,GTR
 GTX,Garrett Motion Inc. - Common Stock,NASDAQ Global Select MarketSM,GTX
+GUSE,Goldman Sachs Enhanced U.S. Equity ETF,NASDAQ Global MarketSM,GUSE
 GUTS,"Fractyl Health, Inc. - Common Stock",NASDAQ Global MarketSM,GUTS
 GV,Visionary Holdings Inc. - Common Shares,NASDAQ Capital Market,GV
 GVH,Globavend Holdings Limited - Ord Shares,NASDAQ Capital Market,GVH
+GVLE,Goldman Sachs Value Opportunities ETF,NASDAQ Global MarketSM,GVLE
 GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",NASDAQ Capital Market,GWAV
 GWRS,"Global Water Resources, Inc. - common stock",NASDAQ Global MarketSM,GWRS
 GXAI,Gaxos.ai Inc. - Common Stock,NASDAQ Capital Market,GXAI
@@ -6638,6 +6644,7 @@ NDRA,ENDRA Life Sciences Inc. - Common Stock,NASDAQ Capital Market,NDRA
 NDSN,Nordson Corporation - Common Stock,NASDAQ Global Select MarketSM,NDSN
 NECB,"NorthEast Community Bancorp, Inc. - Common Stock",NASDAQ Capital Market,NECB
 NEGG,"Newegg Commerce, Inc. - Common Shares",NASDAQ Capital Market,NEGG
+NEMG,Leverage Shares 2x Long NEM Daily ETF,NASDAQ Global MarketSM,NEMG
 NEO,"NeoGenomics, Inc. - Common Stock",NASDAQ Capital Market,NEO
 NEOG,Neogen Corporation - Common Stock,NASDAQ Global Select MarketSM,NEOG
 NEON,Neonode Inc. - Common Stock,NASDAQ Capital Market,NEON
@@ -6649,6 +6656,7 @@ NESR,National Energy Services Reunited Corp - Ordinary Shares,NASDAQ Capital Mar
 NETD,Nabors Energy Transition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,NETD
 NETDU,Nabors Energy Transition Corp. II - Unit,NASDAQ Global MarketSM,NETDU
 NETDW,Nabors Energy Transition Corp. II - Warrant,NASDAQ Global MarketSM,NETDW
+NETG,Leverage Shares 2X Long NET Daily ETF,NASDAQ Global MarketSM,NETG
 NEUP,Neuphoria Therapeutics Inc. - Common Stock,NASDAQ Global MarketSM,NEUP
 NEWT,"NewtekOne, Inc. - Common Stock",NASDAQ Global MarketSM,NEWT
 NEWTG,"NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2029",NASDAQ Global MarketSM,NEWTG
@@ -6759,6 +6767,7 @@ NTWOU,Newbury Street II Acquisition Corp - Unit,NASDAQ Global MarketSM,NTWOU
 NTWOW,Newbury Street II Acquisition Corp - Warrant,NASDAQ Global MarketSM,NTWOW
 NUAI,"New Era Energy & Digital, Inc. - Common Stock",NASDAQ Global MarketSM,NUAI
 NUAIW,"New Era Energy & Digital, Inc. - Warrants",NASDAQ Capital Market,NUAIW
+NUG,Leverage Shares 2X Long NU Daily ETF,NASDAQ Global MarketSM,NUG
 NUKK,Nukkleus Inc. - Ordinary Shares,NASDAQ Global MarketSM,NUKK
 NUKKW,Nukkleus Inc. - Warrants,NASDAQ Capital Market,NUKKW
 NUSB,Nuveen Ultra Short Income ETF,NASDAQ Global MarketSM,NUSB
@@ -6857,6 +6866,7 @@ OFSSO,OFS Capital Corporation - 7.50% Notes due 2028,NASDAQ Global MarketSM,OFSS
 OGI,Organigram Global Inc. - Common Shares,NASDAQ Global Select MarketSM,OGI
 OKLL,Defiance Daily Target 2x Long OKLO ETF,NASDAQ Global MarketSM,OKLL
 OKTA,"Okta, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,OKTA
+OKTG,Leverage Shares 2X Long OKTA Daily ETF,NASDAQ Global MarketSM,OKTG
 OKUR,"OnKure Therapeutics, Inc. - Class A Common Stock",NASDAQ Global MarketSM,OKUR
 OKYO,OKYO Pharma Limited - Ordinary Shares,NASDAQ Capital Market,OKYO
 OLB,"The OLB Group, Inc. - Common Stock",NASDAQ Capital Market,OLB
@@ -7575,6 +7585,7 @@ SBGI,"Sinclair, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SBGI
 SBLK,Star Bulk Carriers Corp. - Common Shares,NASDAQ Global Select MarketSM,SBLK
 SBLX,"StableX Technologies, Inc. - Common Stock",NASDAQ Capital Market,SBLX
 SBRA,"Sabra Health Care REIT, Inc. - Common Stock",NASDAQ Global Select MarketSM,SBRA
+SBU,Leverage Shares 2X Long SBUX Daily ETF,NASDAQ Global MarketSM,SBU
 SBUX,Starbucks Corporation - Common Stock,NASDAQ Global Select MarketSM,SBUX
 SCAG,Scage Future - American Depositary Shares,NASDAQ Global MarketSM,SCAG
 SCAGW,Scage Future - Warrants,NASDAQ Capital Market,SCAGW
@@ -7620,6 +7631,7 @@ SELF,"Global Self Storage, Inc. - Common Stock",NASDAQ Capital Market,SELF
 SELX,Semilux International Ltd. - Ordinary Shares,NASDAQ Capital Market,SELX
 SENEA,Seneca Foods Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,SENEA
 SENEB,Seneca Foods Corp. - Class B Common Stock,NASDAQ Global Select MarketSM,SENEB
+SENS,"Senseonics Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SENS
 SEPN,"Septerna, Inc. - Common Stock",NASDAQ Global MarketSM,SEPN
 SERA,"Sera Prognostics, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SERA
 SERV,Serve Robotics Inc. - Common Stock,NASDAQ Capital Market,SERV
@@ -7823,6 +7835,7 @@ SPKL,Spark I Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,S
 SPKLU,Spark I Acquisition Corp. - Unit,NASDAQ Global MarketSM,SPKLU
 SPKLW,Spark I Acquisition Corp. - Warrant,NASDAQ Global MarketSM,SPKLW
 SPNS,Sapiens International Corporation N.V. - Common Shares,NASDAQ Global Select MarketSM,SPNS
+SPOG,Leverage Shares 2X Long SPOT Daily ETF,NASDAQ Global MarketSM,SPOG
 SPOK,"Spok Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SPOK
 SPPL,SIMPPLE LTD. - Ordinary Shares,NASDAQ Capital Market,SPPL
 SPRB,"Spruce Biosciences, Inc. - Common Stock",NASDAQ Capital Market,SPRB
@@ -8028,6 +8041,7 @@ TEM,"Tempus AI, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,TEM
 TENB,"Tenable Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,TENB
 TENX,"Tenax Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,TENX
 TER,"Teradyne, Inc. - Common Stock",NASDAQ Global Select MarketSM,TER
+TERG,Leverage Shares 2X Long TER Daily ETF,NASDAQ Global MarketSM,TERG
 TERN,"Terns Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,TERN
 TEXN,iShares Texas Equity ETF,NASDAQ Global MarketSM,TEXN
 TFNS,T. Rowe Price Financials ETF,NASDAQ Global MarketSM,TFNS
@@ -8406,6 +8420,7 @@ VSEE,"VSee Health, Inc. - Common Stock",NASDAQ Capital Market,VSEE
 VSEEW,"VSee Health, Inc. - Warrant",NASDAQ Capital Market,VSEEW
 VSME,VS Media Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,VSME
 VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ Global MarketSM,VSMV
+VSOL,VanEck Solana ETF,NASDAQ Global MarketSM,VSOL
 VSSYW,Versus Systems Inc. - Class A Warrants,NASDAQ Capital Market,VSSYW
 VSTA,Vasta Platform Limited - Class A Ordinary Shares,NASDAQ Global Select MarketSM,VSTA
 VSTD,Vestand Inc.  - Class A Common Stock,NASDAQ Capital Market,VSTD
@@ -9876,7 +9891,6 @@ GBCI,"Glacier Bancorp, Inc. Common Stock",NYSE,GBCI
 GBR,"New Concept Energy, Inc Common Stock",NYSE MKT,GBR
 GBTG,"Global Business Travel Group, Inc. Class A Common Stock",NYSE,GBTG
 GBX,"Greenbrier Companies, Inc. (The) Common Stock",NYSE,GBX
-GCI,"Gannett Co., Inc. Common Stock",NYSE,GCI
 GCO,Genesco Inc. Common Stock,NYSE,GCO
 GCTS,"GCT Semiconductor Holding, Inc. Common Stock",NYSE,GCTS
 GCTS.W,"GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",NYSE,GCTS.W
@@ -10815,7 +10829,6 @@ OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",NYSE,O
 OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock",NYSE,OPP$A
 OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock",NYSE,OPP$B
 OPP$C,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)",NYSE MKT,OPP$C
-OPP.R,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights",NYSE,OPP.R
 OPTT,"Ocean Power Technologies, Inc. Common Stock",NYSE MKT,OPTT
 OPY,"Oppenheimer Holdings, Inc. Class A Common Stock (DE)",NYSE,OPY
 OR,OR Royalties Inc. Common Shares,NYSE,OR
@@ -11037,7 +11050,6 @@ PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,PYT
 PZG,Paramount Gold Nevada Corp. Common Stock,NYSE MKT,PZG
 Q,"Qnity Electronics, Inc. Common Stock",NYSE,Q
 QBTS,D-Wave Quantum Inc. Common Shares,NYSE,QBTS
-QBTS.W,"D-Wave Quantum Inc. Warrants, each whole warrant exercisable for 1.4541326 Common Shares at an exercise price of $11.50",NYSE,QBTS.W
 QD,"Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE,QD
 QGEN,Qiagen N.V. Common Shares,NYSE,QGEN
 QS,QuantumScape Corporation Class A Common Stock,NYSE,QS
@@ -11362,7 +11374,7 @@ SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred 
 SRI,"Stoneridge, Inc. Common Stock",NYSE,SRI
 SRL,Scully Royalty Ltd.,NYSE,SRL
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NYSE,SRV
-SRV.V,"NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights when issued",NYSE,SRV.V
+SRV.R,"NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights",NYSE,SRV.R
 SRXH,"SRX Health Solutions, Inc. Common Stock",NYSE MKT,SRXH
 SSB,SouthState Bank Corporation Common Stock,NYSE,SSB
 SSD,"Simpson Manufacturing Company, Inc. Common Stock",NYSE,SSD
@@ -11429,6 +11441,7 @@ TCGL,TechCreate Group Ltd. Class A Ordinary Shares,NYSE MKT,TCGL
 TCI,"Transcontinental Realty Investors, Inc. Common Stock",NYSE,TCI
 TCPA,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085,NYSE,TCPA
 TD,Toronto Dominion Bank (The) Common Stock,NYSE,TD
+TDAY,"USA TODAY Co., Inc. Common Stock",NYSE,TDAY
 TDC,Teradata Corporation Common Stock,NYSE,TDC
 TDF,"Templeton Dragon Fund, Inc. Common Stock",NYSE,TDF
 TDG,Transdigm Group Incorporated Common Stock,NYSE,TDG
