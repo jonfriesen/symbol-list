@@ -426,7 +426,7 @@ ELM,Element Lifestyle Retirement Inc.,TSXV,ELM.V,Element Lifestyle Retirement In
 ELE,Elemental Royalty Corporation,TSXV,ELE.V,Elemental Royalty Corporation,ELE
 SERV,Elevate Service Group Inc.,TSXV,SERV.V,Elevate Service Group Inc.,SERV
 ELC,Elysee Development Corp.,TSXV,ELC.V,Elysee Development Corp.,ELC
-ECOM,Emerge Commerce Ltd.,TSXV,ECOM.V,Emerge Commerce Ltd.,ECOM,Emerge Commerce Ltd. wt 24Nov2025,ECOM.WT
+ECOM,Emerge Commerce Ltd.,TSXV,ECOM.V,Emerge Commerce Ltd.,ECOM
 EMR,Emergent Metals Corp.,TSXV,EMR.V,Emergent Metals Corp.,EMR
 EMO,Emerita Resources Corp.,TSXV,EMO.V,Emerita Resources Corp.,EMO
 EMNT,Eminent Gold Corp.,TSXV,EMNT.V,Eminent Gold Corp.,EMNT
@@ -1291,7 +1291,6 @@ TAO,TAG Oil Ltd.,TSXV,TAO.V,TAG Oil Ltd.,TAO
 TAJ,Tajiri Resources Corp.,TSXV,TAJ.V,Tajiri Resources Corp.,TAJ
 TRO,Taranis Resources Inc.,TSXV,TRO.V,Taranis Resources Inc.,TRO
 TKU,Tarku Resources Ltd.,TSXV,TKU.V,Tarku Resources Ltd.,TKU
-TORA,Taura Gold Inc.,TSXV,TORA.V,Taura Gold Inc.,TORA
 TDG,TDG Gold Corp.,TSXV,TDG.V,TDG Gold Corp.,TDG
 TECT,Tectonic Metals Inc.,TSXV,TECT.V,Tectonic Metals Inc.,TECT
 TELO,Telo Genomics Corp.,TSXV,TELO.V,Telo Genomics Corp.,TELO
@@ -3548,6 +3547,7 @@ ACAD,ACADIA Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,AC
 ACB,Aurora Cannabis Inc. - Common Shares,NASDAQ Capital Market,ACB
 ACCL,Acco Group Holdings Limited - Ordinary Shares,NASDAQ Capital Market,ACCL
 ACDC,ProFrac Holding Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,ACDC
+ACEP,ARS Core Equity Portfolio ETF,NASDAQ Global MarketSM,ACEP
 ACET,"Adicet Bio, Inc. - Common Stock",NASDAQ Capital Market,ACET
 ACFN,"Acorn Energy, Inc. - Common Stock",NASDAQ Capital Market,ACFN
 ACGL,Arch Capital Group Ltd. - Common Stock,NASDAQ Global Select MarketSM,ACGL
@@ -3797,6 +3797,8 @@ AOSL,Alpha and Omega Semiconductor Limited - Common Shares,NASDAQ Global Select 
 AOTG,AOT Growth and Innovation ETF,NASDAQ Global MarketSM,AOTG
 AOUT,"American Outdoor Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,AOUT
 APA,APA Corporation - Common Stock,NASDAQ Global Select MarketSM,APA
+APAC,StoneBridge Acquisition II Corporation - Class A Ordinary Shares,NASDAQ Capital Market,APAC
+APACR,StoneBridge Acquisition II Corporation - Rights,NASDAQ Capital Market,APACR
 APACU,StoneBridge Acquisition II Corporation - Units,NASDAQ Capital Market,APACU
 APAD,A Paradise Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,APAD
 APADR,A Paradise Acquisition Corp. - Rights,NASDAQ Global MarketSM,APADR
@@ -5602,6 +5604,7 @@ HBNB,Hotel101 Global Holdings Corp. - Class A Ordinary Shares,NASDAQ Capital Mar
 HBNC,"Horizon Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,HBNC
 HBR,Canary HBAR ETF,NASDAQ Global MarketSM,HBR
 HBT,"HBT Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,HBT
+HCACU,Hall Chadwick Acquisition Corp. - Unit,NASDAQ Global MarketSM,HCACU
 HCAI,"Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,HCAI
 HCAT,"Health Catalyst, Inc - Common stock",NASDAQ Global Select MarketSM,HCAT
 HCHL,Happy City Holdings Limited - Class A Ordinary shares,NASDAQ Capital Market,HCHL
@@ -6312,7 +6315,6 @@ LVLU,"Lulu's Fashion Lounge Holdings, Inc. - Common Stock",NASDAQ Capital Market
 LVO,"LiveOne, Inc. - Common Stock",NASDAQ Capital Market,LVO
 LVRO,Lavoro Limited - Class A Ordinary Shares,NASDAQ Global MarketSM,LVRO
 LVROW,Lavoro Limited - Warrant,NASDAQ Global MarketSM,LVROW
-LVTX,LAVA Therapeutics N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,LVTX
 LWAC,LightWave Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,LWAC
 LWACU,LightWave Acquisition Corp. - Units,NASDAQ Global MarketSM,LWACU
 LWACW,LightWave Acquisition Corp. - Warrants,NASDAQ Global MarketSM,LWACW
@@ -7819,8 +7821,6 @@ SOLC,Canary Marinade Solana ETF,NASDAQ Global MarketSM,SOLC
 SOLS,Solstice Advanced Materials Inc. - Common Stock,NASDAQ Global Select MarketSM,SOLS
 SOLT,2x Solana ETF,NASDAQ Global MarketSM,SOLT
 SOLZ,Solana ETF,NASDAQ Global MarketSM,SOLZ
-SOND,Sonder Holdings Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,SOND
-SONDW,Sonder Holdings Inc. - Warrants,NASDAQ Global Select MarketSM,SONDW
 SONM,"Sonim Technologies, Inc. - Common Stock",NASDAQ Capital Market,SONM
 SONN,"Sonnet BioTherapeutics Holdings, Inc. - Common Stock",NASDAQ Capital Market,SONN
 SONO,"Sonos, Inc. - Common Stock",NASDAQ Global Select MarketSM,SONO
@@ -8127,7 +8127,7 @@ TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",NASDAQ Capital Market,T
 TONX,TON Strategy Company - Common Stock,NASDAQ Capital Market,TONX
 TOP,TOP Financial Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,TOP
 TORO,Toro Corp. - Common stock,NASDAQ Capital Market,TORO
-TOUR,Tuniu Corporation - American Depositary Shares,NASDAQ Global MarketSM,TOUR
+TOUR,Tuniu Corporation - American Depositary Shares,NASDAQ Capital Market,TOUR
 TOWN,Towne Bank - Common Stock,NASDAQ Global Select MarketSM,TOWN
 TOYO,"TOYO Co., Ltd - Ordinary Shares",NASDAQ Capital Market,TOYO
 TPCS,TechPrecision Corporation - Common stock,NASDAQ Capital Market,TPCS
@@ -8799,6 +8799,8 @@ AHT$I,Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock,NY
 AI,"C3.ai, Inc. Class A Common Stock",NYSE,AI
 AIG,"American International Group, Inc. New Common Stock",NYSE,AIG
 AII,"American Integrity Insurance Group, Inc. Common Stock",NYSE,AII
+AIIA,AI Infrastructure Acquisition Corp. Class A Ordinary Shares,NYSE,AIIA
+AIIA.R,"AI Infrastructure Acquisition Corp. Rights, each entitling the holder to receive one-fifth (1/5) of one Class A Ordinary Share",NYSE,AIIA.R
 AIIA.U,"AI Infrastructure Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one Right",NYSE,AIIA.U
 AIM,AIM ImmunoTech Inc. Common Stock,NYSE MKT,AIM
 AIN,Albany International Corporation Common Stock,NYSE,AIN
@@ -9532,7 +9534,7 @@ DDS,"Dillard's, Inc. Common Stock",NYSE,DDS
 DDT,Dillard's Capital Trust I,NYSE,DDT
 DE,Deere & Company Common Stock,NYSE,DE
 DEA,"Easterly Government Properties, Inc. Common Stock",NYSE,DEA
-DEC,Diversified Energy Company plc Ordinary Shares,NYSE,DEC
+DEC,Diversified Energy Company Common Stock,NYSE,DEC
 DECK,Deckers Outdoor Corporation Common Stock,NYSE,DECK
 DEI,"Douglas Emmett, Inc. Common Stock",NYSE,DEI
 DELL,Dell Technologies Inc. Class C Common Stock ,NYSE,DELL
@@ -9987,6 +9989,7 @@ GME.W,GameStop Corporation Warrants to Purchase Common Stock,NYSE,GME.W
 GMED,"Globus Medical, Inc. Class A Common Stock",NYSE,GMED
 GMRE,Global Medical REIT Inc. Common Stock,NYSE,GMRE
 GMRE$A,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,NYSE,GMRE$A
+GMRE$B,"Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",NYSE,GMRE$B
 GNE,Genie Energy Ltd. Class B Common Stock Stock,NYSE,GNE
 GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),NYSE,GNK
 GNL,"Global Net Lease, Inc. Common Stock",NYSE,GNL
@@ -10577,6 +10580,7 @@ MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock",NYSE,MQT
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock",NYSE,MQY
 MRK,"Merck & Company, Inc. Common Stock (new)",NYSE,MRK
 MRP,"Millrose Properties, Inc. Class A Common Stock",NYSE,MRP
+MRP.V,"Millrose Properties, Inc. Class A Common Stock When-Issued",NYSE,MRP.V
 MRT,"Marti Technologies, Inc. Class A Ordinary Shares",NYSE MKT,MRT
 MS,Morgan Stanley Common Stock,NYSE,MS
 MS$A,Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A,NYSE,MS$A
