@@ -1,96 +1,120 @@
 {
  "added": [
   {
-   "symbol": "ACEP",
-   "name": "ARS Core Equity Portfolio ETF",
+   "symbol": "ANDC",
+   "name": "Andina Copper Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ANDC.V",
+   "instruments": [
+    {
+     "name": "Andina Copper Corporation",
+     "symbol": "ANDC"
+    }
+   ]
+  },
+  {
+   "symbol": "GFR.R",
+   "name": "Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFR.R"
+  },
+  {
+   "symbol": "RWTQ",
+   "name": "Redwood Trust, Inc. 9.500% Senior Notes Due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RWTQ"
+  },
+  {
+   "symbol": "IPEX",
+   "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACEP"
+   "yahoo_symbol": "IPEX"
   },
   {
-   "symbol": "APAC",
-   "name": "StoneBridge Acquisition II Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APAC"
-  },
-  {
-   "symbol": "APACR",
-   "name": "StoneBridge Acquisition II Corporation - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APACR"
-  },
-  {
-   "symbol": "HCACU",
-   "name": "Hall Chadwick Acquisition Corp. - Unit",
+   "symbol": "IPEXR",
+   "name": "Inflection Point Acquisition Corp. - Right",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCACU"
+   "yahoo_symbol": "IPEXR"
   },
   {
-   "symbol": "TOUR",
-   "name": "Tuniu Corporation - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TOUR"
+   "symbol": "IPEXU",
+   "name": "Inflection Point Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPEXU"
   },
   {
-   "symbol": "AIIA",
-   "name": "AI Infrastructure Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AIIA"
+   "symbol": "OPENL",
+   "name": "Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPENL"
   },
   {
-   "symbol": "AIIA.R",
-   "name": "AI Infrastructure Acquisition Corp. Rights, each entitling the holder to receive one-fifth (1/5) of one Class A Ordinary Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AIIA.R"
+   "symbol": "OPENW",
+   "name": "Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPENW"
   },
   {
-   "symbol": "GMRE$B",
-   "name": "Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GMRE$B"
+   "symbol": "OPENZ",
+   "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPENZ"
   },
   {
-   "symbol": "MRP.V",
-   "name": "Millrose Properties, Inc. Class A Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MRP.V"
+   "symbol": "RJET",
+   "name": "Republic Airways Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RJET"
+  },
+  {
+   "symbol": "RNGT",
+   "name": "Range Capital Acquisition Corp II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNGT"
+  },
+  {
+   "symbol": "RNGTW",
+   "name": "Range Capital Acquisition Corp II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNGTW"
   }
  ],
  "removed": [
   {
-   "symbol": "SONDW",
-   "name": "Sonder Holdings Inc. - Warrants",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SONDW"
-  },
-  {
-   "symbol": "SOND",
-   "name": "Sonder Holdings Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SOND"
-  },
-  {
-   "symbol": "LVTX",
-   "name": "LAVA Therapeutics N.V. - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LVTX"
-  },
-  {
-   "symbol": "TOUR",
-   "name": "Tuniu Corporation - American Depositary Shares",
+   "symbol": "MAYA",
+   "name": "Maywood Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TOUR"
+   "yahoo_symbol": "MAYA"
   },
   {
-   "symbol": "TORA",
-   "name": "Taura Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TORA.V",
-   "instruments": [
-    {
-     "name": "Taura Gold Inc.",
-     "symbol": "TORA"
-    }
-   ]
+   "symbol": "MAYAR",
+   "name": "Maywood Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAYAR"
+  },
+  {
+   "symbol": "MESA",
+   "name": "Mesa Air Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MESA"
+  },
+  {
+   "symbol": "GFR.V",
+   "name": "Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFR.V"
+  },
+  {
+   "symbol": "VMEO",
+   "name": "Vimeo, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VMEO"
+  },
+  {
+   "symbol": "MAYAU",
+   "name": "Maywood Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAYAU"
   }
  ]
 }
