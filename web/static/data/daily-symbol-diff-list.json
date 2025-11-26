@@ -1,120 +1,96 @@
 {
  "added": [
   {
-   "symbol": "ANDC",
-   "name": "Andina Copper Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ANDC.V",
-   "instruments": [
-    {
-     "name": "Andina Copper Corporation",
-     "symbol": "ANDC"
-    }
-   ]
+   "symbol": "ABP",
+   "name": "Abpro Holdings, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABP"
   },
   {
-   "symbol": "GFR.R",
-   "name": "Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFR.R"
+   "symbol": "ELE",
+   "name": "Elemental Royalty Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELE"
   },
   {
-   "symbol": "RWTQ",
-   "name": "Redwood Trust, Inc. 9.500% Senior Notes Due 2030",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RWTQ"
-  },
-  {
-   "symbol": "IPEX",
-   "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares",
+   "symbol": "IGACU",
+   "name": "Invest Green Acquisition Corporation - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPEX"
+   "yahoo_symbol": "IGACU"
   },
   {
-   "symbol": "IPEXR",
-   "name": "Inflection Point Acquisition Corp. - Right",
+   "symbol": "IND",
+   "name": "Xtrackers Nifty 500 India ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPEXR"
+   "yahoo_symbol": "IND"
   },
   {
-   "symbol": "IPEXU",
-   "name": "Inflection Point Acquisition Corp. - Unit",
+   "symbol": "PBEU",
+   "name": "Portfolio Building Block European Banks Index ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPEXU"
+   "yahoo_symbol": "PBEU"
   },
   {
-   "symbol": "OPENL",
-   "name": "Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OPENL"
-  },
-  {
-   "symbol": "OPENW",
-   "name": "Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OPENW"
-  },
-  {
-   "symbol": "OPENZ",
-   "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OPENZ"
-  },
-  {
-   "symbol": "RJET",
-   "name": "Republic Airways Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RJET"
-  },
-  {
-   "symbol": "RNGT",
-   "name": "Range Capital Acquisition Corp II - Class A Ordinary Shares",
+   "symbol": "PBOG",
+   "name": "Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNGT"
+   "yahoo_symbol": "PBOG"
   },
   {
-   "symbol": "RNGTW",
-   "name": "Range Capital Acquisition Corp II - Warrants",
+   "symbol": "PBPH",
+   "name": "Portfolio Building Block World Pharma and Biotech Index ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNGTW"
+   "yahoo_symbol": "PBPH"
+  },
+  {
+   "symbol": "QBY",
+   "name": "GraniteShares YieldBoost QBTS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QBY"
+  },
+  {
+   "symbol": "RGYY",
+   "name": "GraniteShares YieldBoost RGTI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGYY"
+  },
+  {
+   "symbol": "YBMN",
+   "name": "Defiance BMNR Option Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YBMN"
   }
  ],
  "removed": [
   {
-   "symbol": "MAYA",
-   "name": "Maywood Acquisition Corp. - Class A Ordinary Shares",
+   "symbol": "ABP",
+   "name": "Abpro Holdings, Inc - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAYA"
+   "yahoo_symbol": "ABP"
   },
   {
-   "symbol": "MAYAR",
-   "name": "Maywood Acquisition Corp. - Right",
+   "symbol": "NETDU",
+   "name": "Nabors Energy Transition Corp. II - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAYAR"
+   "yahoo_symbol": "NETDU"
   },
   {
-   "symbol": "MESA",
-   "name": "Mesa Air Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MESA"
+   "symbol": "NETD",
+   "name": "Nabors Energy Transition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETD"
   },
   {
-   "symbol": "GFR.V",
-   "name": "Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GFR.V"
+   "symbol": "NETDW",
+   "name": "Nabors Energy Transition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETDW"
   },
   {
-   "symbol": "VMEO",
-   "name": "Vimeo, Inc. - Common Stock",
+   "symbol": "PINC",
+   "name": "Premier, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VMEO"
-  },
-  {
-   "symbol": "MAYAU",
-   "name": "Maywood Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MAYAU"
+   "yahoo_symbol": "PINC"
   }
  ]
 }
