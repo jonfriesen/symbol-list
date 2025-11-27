@@ -1,5 +1,5 @@
 {
- "date": "2025-11-26",
+ "date": "2025-11-27",
  "data": [
   {
    "symbol": "ONE",
@@ -6710,6 +6710,18 @@
    ]
   },
   {
+   "symbol": "GST",
+   "name": "Gold Strategy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GST.V",
+   "instruments": [
+    {
+     "name": "Gold Strategy Inc.",
+     "symbol": "GST"
+    }
+   ]
+  },
+  {
    "symbol": "GSR",
    "name": "Gold Strike Resources Corp.",
    "exchange": "TSXV",
@@ -10390,18 +10402,6 @@
     {
      "name": "Minera Alamos Inc.",
      "symbol": "MAI"
-    }
-   ]
-  },
-  {
-   "symbol": "MHI",
-   "name": "Mineral Hill Industries Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MHI.V",
-   "instruments": [
-    {
-     "name": "Mineral Hill Industries Ltd.",
-     "symbol": "MHI"
     }
    ]
   },
@@ -20074,30 +20074,6 @@
    ]
   },
   {
-   "symbol": "TOWR",
-   "name": "BMO Brookfield Global Real Estate Tech Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "TOWR.TO",
-   "instruments": [
-    {
-     "name": "BMO Brookfld Glb RET",
-     "symbol": "TOWR"
-    }
-   ]
-  },
-  {
-   "symbol": "GRNI",
-   "name": "BMO Brookfield Global Renewables Infrastructure Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GRNI.TO",
-   "instruments": [
-    {
-     "name": "BMO BrkfldRenwInfras",
-     "symbol": "GRNI"
-    }
-   ]
-  },
-  {
    "symbol": "ZBI",
    "name": "BMO Canadian Bank Income Index ETF",
    "exchange": "TSX",
@@ -20166,18 +20142,6 @@
     {
      "name": "BMO Conservative ETF",
      "symbol": "ZCON"
-    }
-   ]
-  },
-  {
-   "symbol": "ZCPB",
-   "name": "BMO Core Plus Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZCPB.TO",
-   "instruments": [
-    {
-     "name": "BMO Core+Bond ETF Sr",
-     "symbol": "ZCPB"
     }
    ]
   },
@@ -20614,18 +20578,6 @@
     {
      "name": "BMO Gbl Infrastr ETF",
      "symbol": "ZGI"
-    }
-   ]
-  },
-  {
-   "symbol": "ZGSB",
-   "name": "BMO Global Strategic Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZGSB.TO",
-   "instruments": [
-    {
-     "name": "BMO Glb Stratgc Bond",
-     "symbol": "ZGSB"
     }
    ]
   },
@@ -21682,18 +21634,6 @@
    ]
   },
   {
-   "symbol": "ZMSB",
-   "name": "BMO Sustainable Global Multi-Sector Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZMSB.TO",
-   "instruments": [
-    {
-     "name": "BMO Glb Mult-SctrBnd",
-     "symbol": "ZMSB"
-    }
-   ]
-  },
-  {
    "symbol": "ZZZD",
    "name": "BMO Tactical Dividend ETF Fund",
    "exchange": "TSX",
@@ -21930,18 +21870,6 @@
     {
      "name": "BMO USD Cash MmtETF",
      "symbol": "ZUCM.U"
-    }
-   ]
-  },
-  {
-   "symbol": "WOMN",
-   "name": "BMO Women in Leadership Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "WOMN.TO",
-   "instruments": [
-    {
-     "name": "BMO Women LeadrshpUn",
-     "symbol": "WOMN"
     }
    ]
   },
@@ -30898,6 +30826,10 @@
     {
      "name": "GoGold Resources J",
      "symbol": "GGD"
+    },
+    {
+     "name": "GoGold Resou Inc Wts",
+     "symbol": "GGD.WT"
     }
    ]
   },
@@ -42610,6 +42542,10 @@
     {
      "name": "StorageVault 5% Deb",
      "symbol": "SVI.DB.C"
+    },
+    {
+     "name": "StrgVlt Canada Inc",
+     "symbol": "SVI.DB.D"
     }
    ]
   },
@@ -57090,6 +57026,12 @@
    "yahoo_symbol": "GLIBK"
   },
   {
+   "symbol": "GLIBR",
+   "name": "GCI Liberty, Inc. - GCI Liberty, Inc. Series C Purchase Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLIBR"
+  },
+  {
    "symbol": "GLMD",
    "name": "Galmed Pharmaceuticals Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -61072,6 +61014,18 @@
    "name": "SEALSQ Corp - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LAES"
+  },
+  {
+   "symbol": "LAFA",
+   "name": "LaFayette Acquisition Corp. - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAFA"
+  },
+  {
+   "symbol": "LAFAR",
+   "name": "LaFayette Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAFAR"
   },
   {
    "symbol": "LAFAU",
@@ -69922,6 +69876,12 @@
    "name": "Scholastic Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SCHL"
+  },
+  {
+   "symbol": "SCIIU",
+   "name": "SC II Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCIIU"
   },
   {
    "symbol": "SCKT",

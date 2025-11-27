@@ -554,6 +554,7 @@ GG,Golconda Gold Ltd.,TSXV,GG.V,Golconda Gold Ltd.,GG
 GLD,Gold Finder Resources Ltd.,TSXV,GLD.V,Gold Finder Resources Ltd.,GLD
 HART,Gold Hart Copper Corp.,TSXV,HART.V,Gold Hart Copper Corp.,HART
 GRZ,Gold Reserve Ltd.,TSXV,GRZ.V,Gold Reserve Ltd.,GRZ
+GST,Gold Strategy Inc.,TSXV,GST.V,Gold Strategy Inc.,GST
 GSR,Gold Strike Resources Corp.,TSXV,GSR.V,Gold Strike Resources Corp.,GSR
 YGT,Gold Terra Resource Corp.,TSXV,YGT.V,Gold Terra Resource Corp.,YGT
 AUXX,Gold X2 Mining Inc.,TSXV,AUXX.V,Gold X2 Mining Inc.,AUXX
@@ -859,7 +860,6 @@ MGG,Minaurum Gold Inc.,TSXV,MGG.V,Minaurum Gold Inc.,MGG
 MMM,Minco Capital Corp.,TSXV,MMM.V,Minco Capital Corp.,MMM
 MHUB,Minehub Technologies Inc.,TSXV,MHUB.V,Minehub Technologies Inc.,MHUB
 MAI,Minera Alamos Inc.,TSXV,MAI.V,Minera Alamos Inc.,MAI
-MHI,Mineral Hill Industries Ltd.,TSXV,MHI.V,Mineral Hill Industries Ltd.,MHI
 BLUE,Mines D'or Orbec Inc.,TSXV,BLUE.V,Mines D'or Orbec Inc.,BLUE
 MNLX,Miniluxe Holding Corp.,TSXV,MNLX.V,Miniluxe Holding Corp.,MNLX
 MINK,Mink Ventures Corporation,TSXV,MINK.V,Mink Ventures Corporation,MINK
@@ -1634,15 +1634,12 @@ ZEQT,BMO All-Equity ETF,TSX,ZEQT.TO,BMO All-Eqty ETF ,ZEQT
 ZESG,BMO Balanced ESG ETF,TSX,ZESG.TO,BMO BalanceESG ETF,ZESG
 ZBAL,BMO Balanced ETF,TSX,ZBAL.TO,BMO Balanced ETF ,ZBAL,BMO Balanced ETF,ZBAL.T
 ZBBB,BMO BBB Corporate Bond Index ETF,TSX,ZBBB.TO,BMO BBB CorpBnd ETF,ZBBB
-TOWR,BMO Brookfield Global Real Estate Tech Fund,TSX,TOWR.TO,BMO Brookfld Glb RET,TOWR
-GRNI,BMO Brookfield Global Renewables Infrastructure Fund,TSX,GRNI.TO,BMO BrkfldRenwInfras,GRNI
 ZBI,BMO Canadian Bank Income Index ETF,TSX,ZBI.TO,BMO Cdn Bnk Incm Inx,ZBI
 ZDV,BMO Canadian Dividend ETF,TSX,ZDV.TO,BMO Cdn Dividend ETF,ZDV
 ZWC,BMO Canadian High Dividend Covered Call ETF,TSX,ZWC.TO,BMO Cdn HiDivCovCall,ZWC
 ZMBS,BMO Canadian MBS Index ETF,TSX,ZMBS.TO,BMO CdnMBS Idx ETF,ZMBS
 ZCLN,BMO Clean Energy Index ETF,TSX,ZCLN.TO,BMO Clean Engy ETF,ZCLN
 ZCON,BMO Conservative ETF,TSX,ZCON.TO,BMO Conservative ETF,ZCON
-ZCPB,BMO Core Plus Bond Fund,TSX,ZCPB.TO,BMO Core+Bond ETF Sr,ZCPB
 ZCB,BMO Corporate Bond Index ETF,TSX,ZCB.TO,BMO Corp Bond IdxETF,ZCB
 ZCDB,BMO Corporate Discount Bond ETF,TSX,ZCDB.TO,BMO CrpDiscountBdETF,ZCDB
 ZWB,BMO Covered Call Canadian Banks ETF,TSX,ZWB.TO,BMO Coverd CallCdnBk,ZWB,BMO CoverCallCdnBkUS,ZWB.U
@@ -1679,7 +1676,6 @@ STPL,BMO Global Consumer Staples Hedged to CAD Index ETF,TSX,STPL.TO,BMO Glbl Co
 ZWQT,BMO Global Enhanced Income Fund,TSX,ZWQT.TO,BMO Glbl Enhanc Incm,ZWQT
 ZWG,BMO Global High Dividend Covered Call ETF,TSX,ZWG.TO,BMO Glbl HiDivCovCal,ZWG
 ZGI,BMO Global Infrastructure Index ETF,TSX,ZGI.TO,BMO Gbl Infrastr ETF,ZGI
-ZGSB,BMO Global Strategic Bond Fund,TSX,ZGSB.TO,BMO Glb Stratgc Bond,ZGSB
 ZGLD,BMO Gold Bullion ETF,TSX,ZGLD.TO,BMO Gld Bull ETF,ZGLD,BMO Gld Bull ETF USD,ZGLD.U
 ZGLH,BMO Gold Bullion Hedged to CAD ETF,TSX,ZGLH.TO,BMO Gld Bull Fnd ETF,ZGLH
 ZGB,BMO Government Bond Index ETF,TSX,ZGB.TO,BMO Gov't Bond Un,ZGB
@@ -1756,7 +1752,6 @@ ZXLB,BMO SPDR Materials Select Sector Index ETF,TSX,ZXLB.TO,BMO SPDR MaSelSe ETF
 ZXLR,BMO SPDR Real Estate Select Sector Index ETF,TSX,ZXLR.TO,BMO SPDR ReSSI ETF,ZXLR,BMO SPDR ReSSI ETFHg,ZXLR.F
 ZXLK,BMO SPDR Technology Select Sector Index ETF,TSX,ZXLK.TO,BMO SPDR TechSSI ETF,ZXLK,BMOSPDR TechSI ETFHg,ZXLK.F
 ZXLU,BMO SPDR Utilities Select Sector Index ETF,TSX,ZXLU.TO,BMO SPDPR UtSSI ETF,ZXLU,BMO SPDPR UtSI ETFHg,ZXLU.F
-ZMSB,BMO Sustainable Global Multi-Sector Bond Fund,TSX,ZMSB.TO,BMO Glb Mult-SctrBnd,ZMSB
 ZZZD,BMO Tactical Dividend ETF Fund,TSX,ZZZD.TO,BMO Tactical Div Un,ZZZD
 ZXCO,BMO Target 2027 Canadian Corporate Bond ETF,TSX,ZXCO.TO,BMO Tgt 2027 CCB ETF,ZXCO
 ZXCP,BMO Target 2028 Canadian Corporate Bond ETF,TSX,ZXCP.TO,BMO Tgt 2028 CCB ETF,ZXCP
@@ -1774,7 +1769,6 @@ ZUP,BMO US Preferred Share Index ETF,TSX,ZUP.TO,BMO US PrefShr ETFUn,ZUP,BMO US 
 ZPW,BMO US Put Write ETF,TSX,ZPW.TO,BMO US Put Write ETF,ZPW,BMO US Put WriteETF,ZPW.U
 ZPH,BMO US Put Write Hedged to CAD ETF,TSX,ZPH.TO,BMO US PutWrte Hg-CA,ZPH
 ZUCM,BMO USD Cash Management ETF,TSX,ZUCM.TO,BMO USD Cash Mgmt Un,ZUCM,BMO USD Cash MmtETF,ZUCM.U
-WOMN,BMO Women in Leadership Fund,TSX,WOMN.TO,BMO Women LeadrshpUn,WOMN
 GBT,BMTC Group Inc.,TSX,GBT.TO,BMTC Group Inc.,GBT
 BMW,BMW CDR (CAD Hedged),TSX,BMW.TO,BMW CDR CAD Hedged,BMW
 BEI.UN,Boardwalk Real Estate Investment Trust,TSX,BEI.UN.TO,Boardwalk REIT Un,BEI.UN
@@ -2418,7 +2412,7 @@ UCSH.U,Global X USD High Interest Savings ETF,TSX,UCSH.U.TO,GblX USD HiIntSvUS,U
 GMX,Globex Mining Enterprises Inc.,TSX,GMX.TO,Globex Mining Ent J,GMX
 GO.U,GO Residential Real Estate Investment Trust,TSX,GO.U.TO,GO Resid REIT USD,GO.U
 GSY,goeasy Ltd.,TSX,GSY.TO,goeasy Ltd.,GSY
-GGD,GoGold Resources Inc.,TSX,GGD.TO,GoGold Resources J,GGD
+GGD,GoGold Resources Inc.,TSX,GGD.TO,GoGold Resources J,GGD,GoGold Resou Inc Wts,GGD.WT
 GRC,Gold Springs Resource Corp.,TSX,GRC.TO,Gold Springs Res J,GRC
 AUMN,Golden Minerals Company,TSX,AUMN.TO,Golden Minerals J,AUMN
 GOLD,GoldMining Inc.,TSX,GOLD.TO,GoldMining Inc. J,GOLD
@@ -3302,7 +3296,7 @@ STEP,STEP Energy Services Ltd.,TSX,STEP.TO,STEP Energy Serv,STEP
 STGO,Steppe Gold Ltd.,TSX,STGO.TO,Steppe Gold Ltd. J,STGO
 RAY.A,Stingray Group Inc.,TSX,RAY.A.TO,Stingray Group SV,RAY.A,Stingray Vary SV,RAY.B
 STLR,STLLR Gold Inc.,TSX,STLR.TO,STLLR Gold Inc.,STLR
-SVI,StorageVault Canada Inc.,TSX,SVI.TO,StorageVault Cda,SVI,StorageVault 5.75 Db,SVI.DB,StorageVault 5.5 Deb,SVI.DB.B,StorageVault 5% Deb,SVI.DB.C
+SVI,StorageVault Canada Inc.,TSX,SVI.TO,StorageVault Cda,SVI,StorageVault 5.75 Db,SVI.DB,StorageVault 5.5 Deb,SVI.DB.B,StorageVault 5% Deb,SVI.DB.C,StrgVlt Canada Inc,SVI.DB.D
 MSTR,Strategy CDR (CAD Hedged),TSX,MSTR.TO,Strategy CDR CAD HD,MSTR
 SCR,Strathcona Resources Ltd.,TSX,SCR.TO,Strathcona Res Ltd.,SCR
 SLCA,Sun Life Core Advantage Credit Private Pool,TSX,SLCA.TO,Sun Life Cacpp ETF,SLCA
@@ -5480,6 +5474,7 @@ GLE,Global Engine Group Holding Limited - Class A Ordinary Shares,NASDAQ Capital
 GLGG,Leverage Shares 2X Long GLXY Daily ETF,NASDAQ Global MarketSM,GLGG
 GLIBA,"GCI Liberty, Inc. - Series A GCI Group Common Stock",NASDAQ Global Select MarketSM,GLIBA
 GLIBK,"GCI Liberty, Inc. - Series C GCI Group Common Stock",NASDAQ Global Select MarketSM,GLIBK
+GLIBR,"GCI Liberty, Inc. - GCI Liberty, Inc. Series C Purchase Right",NASDAQ Global Select MarketSM,GLIBR
 GLMD,Galmed Pharmaceuticals Ltd. - Ordinary Shares,NASDAQ Capital Market,GLMD
 GLNG,Golar LNG Limited - Common Shares,NASDAQ Global Select MarketSM,GLNG
 GLOO,"Gloo Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,GLOO
@@ -6144,6 +6139,8 @@ KZIA,Kazia Therapeutics Limited - American Depositary Shares,NASDAQ Capital Mark
 KZR,"Kezar Life Sciences, Inc. - Common Stock",NASDAQ Capital Market,KZR
 LAB,Standard BioTools Inc. - Common Stock,NASDAQ Global Select MarketSM,LAB
 LAES,SEALSQ Corp - Ordinary Shares,NASDAQ Global Select MarketSM,LAES
+LAFA,LaFayette Acquisition Corp. - Ordinary Share,NASDAQ Global MarketSM,LAFA
+LAFAR,LaFayette Acquisition Corp. - Rights,NASDAQ Global MarketSM,LAFAR
 LAFAU,LaFayette Acquisition Corp. - Unit,NASDAQ Global MarketSM,LAFAU
 LAKE,"Lakeland Industries, Inc. - Common Stock",NASDAQ Global MarketSM,LAKE
 LAMR,Lamar Advertising Company - Class A Common Stock,NASDAQ Global Select MarketSM,LAMR
@@ -7619,6 +7616,7 @@ SCAG,Scage Future - American Depositary Shares,NASDAQ Global MarketSM,SCAG
 SCAGW,Scage Future - Warrants,NASDAQ Capital Market,SCAGW
 SCDS,JPMorgan Fundamental Data Science Small Core ETF,NASDAQ Global MarketSM,SCDS
 SCHL,Scholastic Corporation - Common Stock,NASDAQ Global Select MarketSM,SCHL
+SCIIU,SC II Acquisition Corp. - Units,NASDAQ Global MarketSM,SCIIU
 SCKT,"Socket Mobile, Inc. - Common Stock",NASDAQ Capital Market,SCKT
 SCLS,Stoneport Advisors Commodity Long Short ETF,NASDAQ Global MarketSM,SCLS
 SCLX,Scilex Holding Company - Common Stock,NASDAQ Capital Market,SCLX
