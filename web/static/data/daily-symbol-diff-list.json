@@ -1,150 +1,84 @@
 {
  "added": [
   {
-   "symbol": "BARK",
-   "name": "Black Spruce Exploration Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BARK.V",
+   "symbol": "MOLY",
+   "name": "Greenland Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MOLY.TO",
    "instruments": [
     {
-     "name": "Black Spruce Exploration Inc.",
-     "symbol": "BARK"
+     "name": "Greenland Resrce Inc",
+     "symbol": "MOLY"
     }
    ]
   },
   {
-   "symbol": "BALQ",
-   "name": "iShares Nasdaq Premium Income Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BALQ"
+   "symbol": "REED",
+   "name": "Reed's, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "REED"
   },
   {
-   "symbol": "DMII",
-   "name": "Drugs Made In America Acquisition II Corp. - Ordinary Shares",
+   "symbol": "AEAQU",
+   "name": "Activate Energy Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DMII"
+   "yahoo_symbol": "AEAQU"
   },
   {
-   "symbol": "DMIIR",
-   "name": "Drugs Made In America Acquisition II Corp. - Right",
+   "symbol": "BNDP",
+   "name": "Vanguard Core-Plus Bond Index ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DMIIR"
+   "yahoo_symbol": "BNDP"
   },
   {
-   "symbol": "EVOX",
-   "name": "Evolution Global Acquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVOX"
-  },
-  {
-   "symbol": "EVOXW",
-   "name": "Evolution Global Acquisition Corp - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVOXW"
-  },
-  {
-   "symbol": "GPACU",
-   "name": "General Purpose Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GPACU"
-  },
-  {
-   "symbol": "PARK",
-   "name": "Park Dental Partners, Inc. - Common Stock",
+   "symbol": "HYNE",
+   "name": "Hoyne Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PARK"
+   "yahoo_symbol": "HYNE"
   },
   {
-   "symbol": "PURR",
-   "name": "Hyperliquid Strategies Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PURR"
+   "symbol": "IVSS",
+   "name": "Applied Finance IVS US SMID ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVSS"
   },
   {
-   "symbol": "CITR",
-   "name": "General Enterprise Ventures, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CITR"
-  },
-  {
-   "symbol": "LEU",
-   "name": "Centrus Energy Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LEU"
-  },
-  {
-   "symbol": "NWAX.U",
-   "name": "New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NWAX.U"
-  },
-  {
-   "symbol": "RGNT",
-   "name": "Regentis Biomaterials Ltd. Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "RGNT"
-  },
-  {
-   "symbol": "SAC.U",
-   "name": "Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SAC.U"
-  },
-  {
-   "symbol": "SMJF",
-   "name": "SMJ International Holdings Inc. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SMJF"
+   "symbol": "TXXS",
+   "name": "21Shares 2x Long Sui ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXXS"
   }
  ],
  "removed": [
   {
-   "symbol": "ISRL",
-   "name": "Israel Acquisitions Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ISRL"
-  },
-  {
-   "symbol": "LONE",
-   "name": "Lithium One Metals Inc.",
+   "symbol": "TKU",
+   "name": "Tarku Resources Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "LONE.V",
+   "yahoo_symbol": "TKU.V",
    "instruments": [
     {
-     "name": "Lithium One Metals Inc.",
-     "symbol": "LONE"
+     "name": "Tarku Resources Ltd.",
+     "symbol": "TKU"
     }
    ]
   },
   {
-   "symbol": "TAIT",
-   "name": "Taitron Components Incorporated - Class A Common Stock",
+   "symbol": "SEVNR",
+   "name": "Seven Hills Realty Trust  - Right",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TAIT"
+   "yahoo_symbol": "SEVNR"
   },
   {
-   "symbol": "LEU",
-   "name": "Centrus Energy Corp. Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LEU"
-  },
-  {
-   "symbol": "CMPOW",
-   "name": "CompoSecure, Inc.  - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMPOW"
-  },
-  {
-   "symbol": "ISRLW",
-   "name": "Israel Acquisitions Corp - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ISRLW"
-  },
-  {
-   "symbol": "ISRLU",
-   "name": "Israel Acquisitions Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ISRLU"
+   "symbol": "ETU",
+   "name": "E2Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ETU.V",
+   "instruments": [
+    {
+     "name": "E2Gold Inc.",
+     "symbol": "ETU"
+    }
+   ]
   }
  ]
 }
