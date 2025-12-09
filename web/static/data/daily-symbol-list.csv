@@ -2582,11 +2582,8 @@ PFL,Invesco Canadian Government Floating Rate Index ETF,TSX,PFL.TO,Invesco CdnGo
 BESG,Invesco ESG Canadian Core Plus Bond ETF,TSX,BESG.TO,InvescoESG CA CorBnd,BESG
 IWBE,Invesco ESG Global Bond ETF,TSX,IWBE.TO,InvescoESG GlbBnd CA,IWBE
 QQCE,Invesco ESG NASDAQ 100 Index ETF,TSX,QQCE.TO,Invesco NSDQ100IDXCA,QQCE,InvescNSDQ100IdxCAHG,QQCE.F
-QQJE,Invesco ESG NASDAQ Next Gen 100 Index ETF,TSX,QQJE.TO,InvescoNSDQNxGn100CA,QQJE,InvescoNSDQNG100CAHg,QQJE.F
-PFH.F,Invesco Fundamental High Yield Corporate Bond Index ETF,TSX,PFH.F.TO,Invesco CorpBndCA$Hg,PFH.F
 ICGB,Invesco Global Bond ETF,TSX,ICGB.TO,Inv Global Bond ETF,ICGB
 IIMF,Invesco International Developed Dynamic-Multifactor Index ETF,TSX,IIMF.TO,InvescoIntlDevDynmMF,IIMF,InvescoIntlDevDynmHg,IIMF.F
-PLV,Invesco Low Volatility Portfolio ETF,TSX,PLV.TO,Invesco LowVolPortfl,PLV
 IGET,Invesco Morningstar Global Energy Transition Index ETF,TSX,IGET.TO,Invesco MS Glb Engy,IGET,Invesco MS Enrgy Heg,IGET.F
 INAI,Invesco Morningstar Global Next Gen AI Index ETF,TSX,INAI.TO,Invesco MrnNxtGenAI,INAI,Invesco MrnNxGenAIHg,INAI.F
 QQEQ,Invesco NASDAQ 100 Equal Weight Index ETF,TSX,QQEQ.TO,Invesco NASDQ100=Wgt,QQEQ,Invesco NASDQ100=Heg,QQEQ.F
@@ -2601,19 +2598,13 @@ IUMF,Invesco Russell 1000 Dynamic-Multifactor Index ETF,TSX,IUMF.TO,InvescoRus10
 EQLI,Invesco S&P 500 Equal Weight Income Advantage ETF,TSX,EQLI.TO,IvSP500 EqWInc AdETF,EQLI,INV S&P500 Ew Ic CA,EQLI.F,INV S&P500 Ew Ic USD,EQLI.U
 EQL,Invesco S&P 500 Equal Weight Index ETF,TSX,EQL.TO,Invesco S&P500 EqWgt,EQL,Invesco S&P500EqCA-H,EQL.F,Invesco S&P500Eq USF,EQL.U
 ESG,Invesco S&P 500 ESG Index ETF,TSX,ESG.TO,Invesco S&P500ESG Un,ESG,InvescoS&P500ESG Heg,ESG.F
-ISTE,Invesco S&P 500 ESG Tilt Index ETF,TSX,ISTE.TO,InvescoS&P500 Tlt CA,ISTE,InvescoS&P500 T CaHg,ISTE.F
 ULV.C,Invesco S&P 500 Low Volatility Index ETF,TSX,ULV.C.TO,Invesco 500LowVol CA,ULV.C,Invesco500LowVolCAHg,ULV.F,Invesco 500LowVol US,ULV.U
 IIAE,Invesco S&P International Developed Dividend Aristocrats ESG Index ETF,TSX,IIAE.TO,InvescoS&P IntlDevDv,IIAE,InvescoS&PIntDevDvHg,IIAE.F
 IICE,Invesco S&P International Developed ESG Index ETF,TSX,IICE.TO,InvscoS&PIntlDvESGCa,IICE,InvscoS&PIntDvESGCaH,IICE.F
-IITE,Invesco S&P International Developed ESG Tilt Index ETF,TSX,IITE.TO,InvscoSPIntDvESGTlCa,IITE,InvscoSPIntDvESGTlCH,IITE.F
 IUAE,Invesco S&P US Dividend Aristocrats ESG Index ETF,TSX,IUAE.TO,InvescoS&P USDvArist,IUAE,InvescoS&P USDvArisH,IUAE.F
-IUCE,Invesco S&P US Total Market ESG Index ETF,TSX,IUCE.TO,InvscoSP USMktESG CA,IUCE,InvscoSP USMktESG CH,IUCE.F
-IUTE,Invesco S&P US Total Market ESG Tilt Index ETF,TSX,IUTE.TO,InvscoSP USMktESGTlC,IUTE,InvscoSP USMktESGTlH,IUTE.F
 EQLT,Invesco S&P/TSX 60 Equal Weight Index ETF,TSX,EQLT.TO,Invesco SP TSX60 EWI,EQLT
-IXTE,Invesco S&P/TSX 60 ESG Tilt Index ETF,TSX,IXTE.TO,Invesco SPTSX60TltCA,IXTE
 ICAE,Invesco S&P/TSX Canadian Dividend Aristocrats ESG Index ETF,TSX,ICAE.TO,InvscoS&PTSXCdnDvESG,ICAE
 ESGC,Invesco S&P/TSX Composite ESG Index ETF,TSX,ESGC.TO,Invesco S&PTSXComESG,ESGC
-ICTE,Invesco S&P/TSX Composite ESG Tilt Index ETF,TSX,ICTE.TO,InvscoSP/TSXCmpESGTl,ICTE
 TLV,Invesco S&P/TSX Composite Low Volatility Index ETF,TSX,TLV.TO,InvescoCompVltlty Un,TLV
 IUFR.U,Invesco US Treasury Floating Rate Note Index ETF (USD),TSX,IUFR.U.TO,Invesco USTreasNt US,IUFR.U
 IVQ,Invesque Inc.,TSX,IVQ.TO,Invesque Inc.,IVQ,Invesque 9.75 Deb US,IVQ.NT.U,Invesque Inc. USF,IVQ.U
@@ -4051,6 +4042,7 @@ BEAGU,Bold Eagle Acquisition Corp. - Units,NASDAQ Global MarketSM,BEAGU
 BEAM,Beam Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,BEAM
 BEAT,"Heartbeam, Inc. - Common Stock",NASDAQ Capital Market,BEAT
 BEATW,"Heartbeam, Inc. - Warrant",NASDAQ Capital Market,BEATW
+BEDY,BNY Mellon Enhanced Dividend and Income ETF,NASDAQ Global MarketSM,BEDY
 BEEM,Beam Global - Common Stock,NASDAQ Capital Market,BEEM
 BEEP,Mobile Infrastructure Corporation - Common Stock,NASDAQ Global MarketSM,BEEP
 BEEX,The Beehive ETF,NASDAQ Global MarketSM,BEEX
@@ -4421,7 +4413,6 @@ CENN,Cenntro Inc. - Common Stock,NASDAQ Capital Market,CENN
 CENT,Central Garden & Pet Company - Common Stock,NASDAQ Global Select MarketSM,CENT
 CENTA,Central Garden & Pet Company - Class A Common Stock Nonvoting,NASDAQ Global Select MarketSM,CENTA
 CENX,Century Aluminum Company - Common Stock,NASDAQ Global Select MarketSM,CENX
-CEP,"Cantor Equity Partners, Inc. - Class A ordinary shares",NASDAQ Global MarketSM,CEP
 CEPF,"Cantor Equity Partners IV, Inc. - Class A Ordinary Shares",NASDAQ Global MarketSM,CEPF
 CEPI,REX Crypto Equity Premium Income ETF,NASDAQ Global MarketSM,CEPI
 CEPO,"Cantor Equity Partners I, Inc. - Class A Ordinary Shares",NASDAQ Global MarketSM,CEPO
@@ -5105,7 +5096,7 @@ EXTR,"Extreme Networks, Inc. - Common Stock",NASDAQ Global Select MarketSM,EXTR
 EXUS,Nomura Focused International Core ETF,NASDAQ Global MarketSM,EXUS
 EYE,"National Vision Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,EYE
 EYEG,AB Corporate Bond ETF,NASDAQ Global MarketSM,EYEG
-EYPT,"EyePoint Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,EYPT
+EYPT,"EyePoint, Inc. - Common Stock",NASDAQ Global MarketSM,EYPT
 EZGO,EZGO Technologies Ltd. - Ordinary Shares,NASDAQ Capital Market,EZGO
 EZMO,AlphaDroid Broad Markets Momentum ETF,NASDAQ Global MarketSM,EZMO
 EZPW,"EZCORP, Inc. - Class A Non-Voting Common Stock",NASDAQ Global Select MarketSM,EZPW
@@ -5314,6 +5305,7 @@ FSHP,Flag Ship Acquisition Corp. - Ordinary Shares,NASDAQ Global MarketSM,FSHP
 FSHPR,Flag Ship Acquisition Corp. - Right,NASDAQ Global MarketSM,FSHPR
 FSHPU,Flag Ship Acquisition Corp. - Unit,NASDAQ Global MarketSM,FSHPU
 FSLR,"First Solar, Inc. - Common Stock",NASDAQ Global Select MarketSM,FSLR
+FSLY,"Fastly, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,FSLY
 FSTR,L.B. Foster Company - Common Stock,NASDAQ Global Select MarketSM,FSTR
 FSUN,FirstSun Capital Bancorp - Common Stock,NASDAQ Global Select MarketSM,FSUN
 FSV,FirstService Corporation - Common Shares,NASDAQ Global Select MarketSM,FSV
@@ -5573,6 +5565,7 @@ GTERW,Globa Terra Acquisition Corporation - Warrants,NASDAQ Global MarketSM,GTER
 GTIM,Good Times Restaurants Inc. - Common Stock,NASDAQ Capital Market,GTIM
 GTLB,GitLab Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,GTLB
 GTM,ZoomInfo Technologies Inc. - Common Stock,NASDAQ Global Select MarketSM,GTM
+GTOP,Goldman Sachs Technology Opportunities ETF,NASDAQ Global MarketSM,GTOP
 GTPE,Goldman Sachs MSCI World Private Equity Return Tracker ETF,NASDAQ Global MarketSM,GTPE
 GTR,WisdomTree Target Range Fund,NASDAQ Global MarketSM,GTR
 GTX,Garrett Motion Inc. - Common Stock,NASDAQ Global Select MarketSM,GTX
@@ -6455,7 +6448,6 @@ MGRX,"Mangoceuticals, Inc. - Common Stock",NASDAQ Capital Market,MGRX
 MGTX,MeiraGTx Holdings plc - Ordinary Shares,NASDAQ Global Select MarketSM,MGTX
 MGX,"Metagenomi, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGX
 MGYR,"Magyar Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,MGYR
-MHUA,"Meihua International Medical Technologies Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,MHUA
 MIDD,The Middleby Corporation - Common Stock,NASDAQ Global Select MarketSM,MIDD
 MIGI,Mawson Infrastructure Group Inc. - Common Stock,NASDAQ Capital Market,MIGI
 MILN,Global X Millennial Consumer ETF,NASDAQ Global MarketSM,MILN
@@ -8056,6 +8048,8 @@ TDSB,ETC Cabana Target Beta ETF,NASDAQ Global MarketSM,TDSB
 TDSC,ETC Cabana Target Drawdown 10 ETF,NASDAQ Global MarketSM,TDSC
 TDTH,Trident Digital Tech Holdings Ltd - American Depository Shares,NASDAQ Capital Market,TDTH
 TDUP,ThredUp Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,TDUP
+TDWD,Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,TDWD
+TDWDR,Tailwind 2.0 Acquisition Corp. - Rights,NASDAQ Global MarketSM,TDWDR
 TDWDU,Tailwind 2.0 Acquisition Corp. - Unit,NASDAQ Global MarketSM,TDWDU
 TEAD,Teads Holding Co. - Common Stock,NASDAQ Global Select MarketSM,TEAD
 TEAM,Atlassian Corporation  - Class A Common Stock,NASDAQ Global Select MarketSM,TEAM
@@ -8235,7 +8229,6 @@ TXG,"10x Genomics, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXG
 TXMD,"TherapeuticsMD, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXMD
 TXN,Texas Instruments Incorporated - Common Stock,NASDAQ Global Select MarketSM,TXN
 TXRH,"Texas Roadhouse, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXRH
-TXSS,Texas Capital Texas Small Cap Equity Index ETF,NASDAQ Global MarketSM,TXSS
 TXUE,Thornburg International Equity ETF,NASDAQ Global MarketSM,TXUE
 TXUG,Thornburg International Growth Fund ETF,NASDAQ Global MarketSM,TXUG
 TXXD,21Shares 2x Long Dogecoin ETF,NASDAQ Global MarketSM,TXXD
@@ -8543,6 +8536,7 @@ WLDS,Wearable Devices Ltd. - Ordinary Share,NASDAQ Capital Market,WLDS
 WLDSW,Wearable Devices Ltd. - Warrant,NASDAQ Capital Market,WLDSW
 WLFC,Willis Lease Finance Corporation - Common Stock,NASDAQ Global MarketSM,WLFC
 WMG,Warner Music Group Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,WMG
+WMT,Walmart Inc. - Common Stock,NASDAQ Global Select MarketSM,WMT
 WNEB,"Western New England Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,WNEB
 WNW,Meiwu Technology Company Limited - Ordinary Shares,NASDAQ Capital Market,WNW
 WOK,WORK Medical Technology Group LTD - Class A Ordinary Shares,NASDAQ Capital Market,WOK
@@ -9888,7 +9882,6 @@ FRT$C,"Federal Realty Investment Trust Depositary Shares, each representing a 1/
 FSCO,FS Credit Opportunities Corp. Common Stock,NYSE,FSCO
 FSI,Flexible Solutions International Inc. Common Stock (CDA),NYSE MKT,FSI
 FSK,FS KKR Capital Corp. Common Stock,NYSE,FSK
-FSLY,"Fastly, Inc. Class A Common Stock",NYSE,FSLY
 FSM,Fortuna Mining Corp. Common Shares,NYSE,FSM
 FSP,Franklin Street Properties Corp. Common Stock,NYSE MKT,FSP
 FSS,Federal Signal Corporation Common Stock,NYSE,FSS
@@ -11036,7 +11029,6 @@ PRKS,United Parks & Resorts Inc. Common Stock,NYSE,PRKS
 PRLB,"Proto Labs, Inc. Common stock",NYSE,PRLB
 PRM,"Perimeter Solutions, SA Common Stock",NYSE,PRM
 PRMB,Primo Brands Corporation Class A Common Stock,NYSE,PRMB
-PRO,"PROS Holdings, Inc. Common Stock",NYSE,PRO
 PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",NYSE,PRS
 PRSU,"Pursuit Attractions and Hospitality, Inc. Common Stock",NYSE,PRSU
 PRT,PermRock Royalty Trust Units of Beneficial Interest,NYSE,PRT
@@ -11641,7 +11633,7 @@ UHS,"Universal Health Services, Inc. Common Stock",NYSE,UHS
 UHT,Universal Health Realty Income Trust Common Stock,NYSE,UHT
 UI,Ubiquiti Inc. Common Stock,NYSE,UI
 UIS,Unisys Corporation New Common Stock,NYSE,UIS
-UL,Unilever PLC Common Stock,NYSE,UL
+UL,Unilever PLC American Depositary Shares (each representing One Ordinary Share),NYSE,UL
 ULS,UL Solutions Inc. Class A Common Stock,NYSE,ULS
 UMAC,"Unusual Machines, Inc. Common Stock",NYSE MKT,UMAC
 UMC,United Microelectronics Corporation (NEW) Common Stock,NYSE,UMC
@@ -11811,7 +11803,6 @@ WM,"Waste Management, Inc. Common Stock",NYSE,WM
 WMB,"Williams Companies, Inc. (The) Common Stock",NYSE,WMB
 WMK,"Weis Markets, Inc. Common Stock",NYSE,WMK
 WMS,"Advanced Drainage Systems, Inc. Common Stock",NYSE,WMS
-WMT,Walmart Inc. Common Stock,NYSE,WMT
 WNC,Wabash National Corporation Common Stock,NYSE,WNC
 WOLF,"Wolfspeed, Inc. Common Stock New",NYSE,WOLF
 WOR,"Worthington Enterprises, Inc. Common Shares",NYSE,WOR
@@ -11854,6 +11845,7 @@ XPO,"XPO, Inc. Common Stock",NYSE,XPO
 XPOF,"Xponential Fitness, Inc. Class A Common Stock",NYSE,XPOF
 XPRO,Expro Group Holdings N.V. Common Stock,NYSE,XPRO
 XTNT,"Xtant Medical Holdings, Inc. Common Stock",NYSE MKT,XTNT
+XXI,"Twenty One Capital, Inc. Class A Common Stock",NYSE,XXI
 XYF,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares",NYSE,XYF
 XYL,Xylem Inc. Common Stock New,NYSE,XYL
 XYZ,"Block, Inc. Class A Common Stock,",NYSE,XYZ

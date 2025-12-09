@@ -1,5 +1,5 @@
 {
- "date": "2025-12-08",
+ "date": "2025-12-09",
  "data": [
   {
    "symbol": "ONE",
@@ -33090,34 +33090,6 @@
    ]
   },
   {
-   "symbol": "QQJE",
-   "name": "Invesco ESG NASDAQ Next Gen 100 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQJE.TO",
-   "instruments": [
-    {
-     "name": "InvescoNSDQNxGn100CA",
-     "symbol": "QQJE"
-    },
-    {
-     "name": "InvescoNSDQNG100CAHg",
-     "symbol": "QQJE.F"
-    }
-   ]
-  },
-  {
-   "symbol": "PFH.F",
-   "name": "Invesco Fundamental High Yield Corporate Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PFH.F.TO",
-   "instruments": [
-    {
-     "name": "Invesco CorpBndCA$Hg",
-     "symbol": "PFH.F"
-    }
-   ]
-  },
-  {
    "symbol": "ICGB",
    "name": "Invesco Global Bond ETF",
    "exchange": "TSX",
@@ -33142,18 +33114,6 @@
     {
      "name": "InvescoIntlDevDynmHg",
      "symbol": "IIMF.F"
-    }
-   ]
-  },
-  {
-   "symbol": "PLV",
-   "name": "Invesco Low Volatility Portfolio ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PLV.TO",
-   "instruments": [
-    {
-     "name": "Invesco LowVolPortfl",
-     "symbol": "PLV"
     }
    ]
   },
@@ -33390,22 +33350,6 @@
    ]
   },
   {
-   "symbol": "ISTE",
-   "name": "Invesco S\u0026P 500 ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ISTE.TO",
-   "instruments": [
-    {
-     "name": "InvescoS\u0026P500 Tlt CA",
-     "symbol": "ISTE"
-    },
-    {
-     "name": "InvescoS\u0026P500 T CaHg",
-     "symbol": "ISTE.F"
-    }
-   ]
-  },
-  {
    "symbol": "ULV.C",
    "name": "Invesco S\u0026P 500 Low Volatility Index ETF",
    "exchange": "TSX",
@@ -33458,22 +33402,6 @@
    ]
   },
   {
-   "symbol": "IITE",
-   "name": "Invesco S\u0026P International Developed ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IITE.TO",
-   "instruments": [
-    {
-     "name": "InvscoSPIntDvESGTlCa",
-     "symbol": "IITE"
-    },
-    {
-     "name": "InvscoSPIntDvESGTlCH",
-     "symbol": "IITE.F"
-    }
-   ]
-  },
-  {
    "symbol": "IUAE",
    "name": "Invesco S\u0026P US Dividend Aristocrats ESG Index ETF",
    "exchange": "TSX",
@@ -33490,38 +33418,6 @@
    ]
   },
   {
-   "symbol": "IUCE",
-   "name": "Invesco S\u0026P US Total Market ESG Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IUCE.TO",
-   "instruments": [
-    {
-     "name": "InvscoSP USMktESG CA",
-     "symbol": "IUCE"
-    },
-    {
-     "name": "InvscoSP USMktESG CH",
-     "symbol": "IUCE.F"
-    }
-   ]
-  },
-  {
-   "symbol": "IUTE",
-   "name": "Invesco S\u0026P US Total Market ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IUTE.TO",
-   "instruments": [
-    {
-     "name": "InvscoSP USMktESGTlC",
-     "symbol": "IUTE"
-    },
-    {
-     "name": "InvscoSP USMktESGTlH",
-     "symbol": "IUTE.F"
-    }
-   ]
-  },
-  {
    "symbol": "EQLT",
    "name": "Invesco S\u0026P/TSX 60 Equal Weight Index ETF",
    "exchange": "TSX",
@@ -33530,18 +33426,6 @@
     {
      "name": "Invesco SP TSX60 EWI",
      "symbol": "EQLT"
-    }
-   ]
-  },
-  {
-   "symbol": "IXTE",
-   "name": "Invesco S\u0026P/TSX 60 ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IXTE.TO",
-   "instruments": [
-    {
-     "name": "Invesco SPTSX60TltCA",
-     "symbol": "IXTE"
     }
    ]
   },
@@ -33566,18 +33450,6 @@
     {
      "name": "Invesco S\u0026PTSXComESG",
      "symbol": "ESGC"
-    }
-   ]
-  },
-  {
-   "symbol": "ICTE",
-   "name": "Invesco S\u0026P/TSX Composite ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ICTE.TO",
-   "instruments": [
-    {
-     "name": "InvscoSP/TSXCmpESGTl",
-     "symbol": "ICTE"
     }
    ]
   },
@@ -48458,6 +48330,12 @@
    "yahoo_symbol": "BEATW"
   },
   {
+   "symbol": "BEDY",
+   "name": "BNY Mellon Enhanced Dividend and Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BEDY"
+  },
+  {
    "symbol": "BEEM",
    "name": "Beam Global - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -50676,12 +50554,6 @@
    "name": "Century Aluminum Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CENX"
-  },
-  {
-   "symbol": "CEP",
-   "name": "Cantor Equity Partners, Inc. - Class A ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CEP"
   },
   {
    "symbol": "CEPF",
@@ -54783,7 +54655,7 @@
   },
   {
    "symbol": "EYPT",
-   "name": "EyePoint Pharmaceuticals, Inc. - Common Stock",
+   "name": "EyePoint, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "EYPT"
   },
@@ -56034,6 +55906,12 @@
    "name": "First Solar, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FSLR"
+  },
+  {
+   "symbol": "FSLY",
+   "name": "Fastly, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FSLY"
   },
   {
    "symbol": "FSTR",
@@ -57588,6 +57466,12 @@
    "name": "ZoomInfo Technologies Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GTM"
+  },
+  {
+   "symbol": "GTOP",
+   "name": "Goldman Sachs Technology Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTOP"
   },
   {
    "symbol": "GTPE",
@@ -62880,12 +62764,6 @@
    "name": "Magyar Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MGYR"
-  },
-  {
-   "symbol": "MHUA",
-   "name": "Meihua International Medical Technologies Co., Ltd. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MHUA"
   },
   {
    "symbol": "MIDD",
@@ -72488,6 +72366,18 @@
    "yahoo_symbol": "TDUP"
   },
   {
+   "symbol": "TDWD",
+   "name": "Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDWD"
+  },
+  {
+   "symbol": "TDWDR",
+   "name": "Tailwind 2.0 Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDWDR"
+  },
+  {
    "symbol": "TDWDU",
    "name": "Tailwind 2.0 Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
@@ -73560,12 +73450,6 @@
    "name": "Texas Roadhouse, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TXRH"
-  },
-  {
-   "symbol": "TXSS",
-   "name": "Texas Capital Texas Small Cap Equity Index ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TXSS"
   },
   {
    "symbol": "TXUE",
@@ -75408,6 +75292,12 @@
    "name": "Warner Music Group Corp. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WMG"
+  },
+  {
+   "symbol": "WMT",
+   "name": "Walmart Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WMT"
   },
   {
    "symbol": "WNEB",
@@ -83480,12 +83370,6 @@
    "yahoo_symbol": "FSK"
   },
   {
-   "symbol": "FSLY",
-   "name": "Fastly, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FSLY"
-  },
-  {
    "symbol": "FSM",
    "name": "Fortuna Mining Corp. Common Shares",
    "exchange": "NYSE",
@@ -90368,12 +90252,6 @@
    "yahoo_symbol": "PRMB"
   },
   {
-   "symbol": "PRO",
-   "name": "PROS Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRO"
-  },
-  {
    "symbol": "PRS",
    "name": "Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",
    "exchange": "NYSE",
@@ -93999,7 +93877,7 @@
   },
   {
    "symbol": "UL",
-   "name": "Unilever PLC Common Stock",
+   "name": "Unilever PLC American Depositary Shares (each representing One Ordinary Share)",
    "exchange": "NYSE",
    "yahoo_symbol": "UL"
   },
@@ -95018,12 +94896,6 @@
    "yahoo_symbol": "WMS"
   },
   {
-   "symbol": "WMT",
-   "name": "Walmart Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WMT"
-  },
-  {
    "symbol": "WNC",
    "name": "Wabash National Corporation Common Stock",
    "exchange": "NYSE",
@@ -95274,6 +95146,12 @@
    "name": "Xtant Medical Holdings, Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "XTNT"
+  },
+  {
+   "symbol": "XXI",
+   "name": "Twenty One Capital, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XXI"
   },
   {
    "symbol": "XYF",
