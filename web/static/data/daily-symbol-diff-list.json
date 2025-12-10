@@ -1,212 +1,210 @@
 {
  "added": [
   {
-   "symbol": "BEDY",
-   "name": "BNY Mellon Enhanced Dividend and Income ETF",
+   "symbol": "TNX",
+   "name": "TenX Protocols Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TNX.V",
+   "instruments": [
+    {
+     "name": "TenX Protocols Inc.",
+     "symbol": "TNX"
+    }
+   ]
+  },
+  {
+   "symbol": "VMET",
+   "name": "Versamet Royalties Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "VMET.TO",
+   "instruments": [
+    {
+     "name": "Versamet Rylt Corp",
+     "symbol": "VMET"
+    }
+   ]
+  },
+  {
+   "symbol": "AMCI",
+   "name": "AMC Robotics Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMCI"
+  },
+  {
+   "symbol": "BRRWW",
+   "name": "ProCap Financial, Inc. - Warrant.",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRRWW"
+  },
+  {
+   "symbol": "CRAC",
+   "name": "Crown Reserve Acquisition Corp. I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BEDY"
+   "yahoo_symbol": "CRAC"
   },
   {
-   "symbol": "FSLY",
-   "name": "Fastly, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FSLY"
-  },
-  {
-   "symbol": "GTOP",
-   "name": "Goldman Sachs Technology Opportunities ETF",
+   "symbol": "CRACR",
+   "name": "Crown Reserve Acquisition Corp. I - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GTOP"
+   "yahoo_symbol": "CRACR"
   },
   {
-   "symbol": "TDWD",
-   "name": "Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares",
+   "symbol": "CRACW",
+   "name": "Crown Reserve Acquisition Corp. I - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDWD"
+   "yahoo_symbol": "CRACW"
   },
   {
-   "symbol": "TDWDR",
-   "name": "Tailwind 2.0 Acquisition Corp. - Rights",
+   "symbol": "DCX",
+   "name": "Digital Currency X Technology Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DCX"
+  },
+  {
+   "symbol": "DSACU",
+   "name": "Daedalus Special Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDWDR"
+   "yahoo_symbol": "DSACU"
   },
   {
-   "symbol": "WMT",
-   "name": "Walmart Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WMT"
+   "symbol": "MFIG",
+   "name": "Motley Fool Innovative Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFIG"
   },
   {
-   "symbol": "XXI",
-   "name": "Twenty One Capital, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "XXI"
+   "symbol": "MFMO",
+   "name": "Motley Fool Momentum Factor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFMO"
+  },
+  {
+   "symbol": "MFVL",
+   "name": "Motley Fool Value Factor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFVL"
+  },
+  {
+   "symbol": "PRMR",
+   "name": "PeakShares RMR Prime Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRMR"
+  },
+  {
+   "symbol": "TJGC",
+   "name": "TJGC Group Limited - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TJGC"
+  },
+  {
+   "symbol": "TWAV",
+   "name": "TaoWeave, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TWAV"
+  },
+  {
+   "symbol": "WSGE",
+   "name": "Warren Street Global Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WSGE"
+  },
+  {
+   "symbol": "JMG",
+   "name": "JM Group Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JMG"
   }
  ],
  "removed": [
   {
-   "symbol": "PLV",
-   "name": "Invesco Low Volatility Portfolio ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PLV.TO",
-   "instruments": [
-    {
-     "name": "Invesco LowVolPortfl",
-     "symbol": "PLV"
-    }
-   ]
-  },
-  {
-   "symbol": "MHUA",
-   "name": "Meihua International Medical Technologies Co., Ltd. - Class A Ordinary Shares",
+   "symbol": "ATMVR",
+   "name": "AlphaVest Acquisition Corp - Right",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MHUA"
+   "yahoo_symbol": "ATMVR"
   },
   {
-   "symbol": "ICTE",
-   "name": "Invesco S\u0026P/TSX Composite ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ICTE.TO",
+   "symbol": "ADVM",
+   "name": "Adverum Biotechnologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADVM"
+  },
+  {
+   "symbol": "ICY.P",
+   "name": "Iocaste Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICY.P.V",
    "instruments": [
     {
-     "name": "InvscoSP/TSXCmpESGTl",
-     "symbol": "ICTE"
+     "name": "Iocaste Ventures Inc.",
+     "symbol": "ICY.P"
     }
    ]
   },
   {
-   "symbol": "WMT",
-   "name": "Walmart Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WMT"
-  },
-  {
-   "symbol": "QQJE",
-   "name": "Invesco ESG NASDAQ Next Gen 100 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQJE.TO",
+   "symbol": "VMET",
+   "name": "Versamet Royalties Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VMET.V",
    "instruments": [
     {
-     "name": "InvescoNSDQNxGn100CA",
-     "symbol": "QQJE"
-    },
-    {
-     "name": "InvescoNSDQNG100CAHg",
-     "symbol": "QQJE.F"
+     "name": "Versamet Royalties Corporation",
+     "symbol": "VMET"
     }
    ]
   },
   {
-   "symbol": "ISTE",
-   "name": "Invesco S\u0026P 500 ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ISTE.TO",
-   "instruments": [
-    {
-     "name": "InvescoS\u0026P500 Tlt CA",
-     "symbol": "ISTE"
-    },
-    {
-     "name": "InvescoS\u0026P500 T CaHg",
-     "symbol": "ISTE.F"
-    }
-   ]
-  },
-  {
-   "symbol": "IUCE",
-   "name": "Invesco S\u0026P US Total Market ESG Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IUCE.TO",
-   "instruments": [
-    {
-     "name": "InvscoSP USMktESG CA",
-     "symbol": "IUCE"
-    },
-    {
-     "name": "InvscoSP USMktESG CH",
-     "symbol": "IUCE.F"
-    }
-   ]
-  },
-  {
-   "symbol": "IXTE",
-   "name": "Invesco S\u0026P/TSX 60 ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IXTE.TO",
-   "instruments": [
-    {
-     "name": "Invesco SPTSX60TltCA",
-     "symbol": "IXTE"
-    }
-   ]
-  },
-  {
-   "symbol": "PRO",
-   "name": "PROS Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRO"
-  },
-  {
-   "symbol": "PFH.F",
-   "name": "Invesco Fundamental High Yield Corporate Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PFH.F.TO",
-   "instruments": [
-    {
-     "name": "Invesco CorpBndCA$Hg",
-     "symbol": "PFH.F"
-    }
-   ]
-  },
-  {
-   "symbol": "CEP",
-   "name": "Cantor Equity Partners, Inc. - Class A ordinary shares",
+   "symbol": "BRRWW",
+   "name": "ProCap Financial, Inc. - Warrant.",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CEP"
+   "yahoo_symbol": "BRRWW"
   },
   {
-   "symbol": "FSLY",
-   "name": "Fastly, Inc. Class A Common Stock",
+   "symbol": "AKRO",
+   "name": "Akero Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AKRO"
+  },
+  {
+   "symbol": "OBLG",
+   "name": "Oblong Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OBLG"
+  },
+  {
+   "symbol": "SCS",
+   "name": "Steelcase Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "FSLY"
+   "yahoo_symbol": "SCS"
   },
   {
-   "symbol": "IUTE",
-   "name": "Invesco S\u0026P US Total Market ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IUTE.TO",
-   "instruments": [
-    {
-     "name": "InvscoSP USMktESGTlC",
-     "symbol": "IUTE"
-    },
-    {
-     "name": "InvscoSP USMktESGTlH",
-     "symbol": "IUTE.F"
-    }
-   ]
+   "symbol": "RFL.W",
+   "name": "Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RFL.W"
   },
   {
-   "symbol": "TXSS",
-   "name": "Texas Capital Texas Small Cap Equity Index ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TXSS"
+   "symbol": "ATMV",
+   "name": "AlphaVest Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMV"
   },
   {
-   "symbol": "IITE",
-   "name": "Invesco S\u0026P International Developed ESG Tilt Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IITE.TO",
-   "instruments": [
-    {
-     "name": "InvscoSPIntDvESGTlCa",
-     "symbol": "IITE"
-    },
-    {
-     "name": "InvscoSPIntDvESGTlCH",
-     "symbol": "IITE.F"
-    }
-   ]
+   "symbol": "ATMVU",
+   "name": "AlphaVest Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMVU"
+  },
+  {
+   "symbol": "MCTR",
+   "name": "CTRL Group Limited - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCTR"
+  },
+  {
+   "symbol": "CJET",
+   "name": "Chijet Motor Company, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CJET"
   }
  ]
 }

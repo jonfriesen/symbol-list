@@ -1,5 +1,5 @@
 {
- "date": "2025-12-09",
+ "date": "2025-12-10",
  "data": [
   {
    "symbol": "ONE",
@@ -8370,18 +8370,6 @@
    ]
   },
   {
-   "symbol": "ICY.P",
-   "name": "Iocaste Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ICY.P.V",
-   "instruments": [
-    {
-     "name": "Iocaste Ventures Inc.",
-     "symbol": "ICY.P"
-    }
-   ]
-  },
-  {
    "symbol": "INIK",
    "name": "Ionik Corporation",
    "exchange": "TSXV",
@@ -15682,6 +15670,18 @@
    ]
   },
   {
+   "symbol": "TNX",
+   "name": "TenX Protocols Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TNX.V",
+   "instruments": [
+    {
+     "name": "TenX Protocols Inc.",
+     "symbol": "TNX"
+    }
+   ]
+  },
+  {
    "symbol": "TRR",
    "name": "Terra Rossa Gold Ltd.",
    "exchange": "TSXV",
@@ -16814,18 +16814,6 @@
     {
      "name": "Venzee Technologies Inc.",
      "symbol": "VENZ"
-    }
-   ]
-  },
-  {
-   "symbol": "VMET",
-   "name": "Versamet Royalties Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VMET.V",
-   "instruments": [
-    {
-     "name": "Versamet Royalties Corporation",
-     "symbol": "VMET"
     }
    ]
   },
@@ -37363,7 +37351,7 @@
   },
   {
    "symbol": "MNO",
-   "name": "Meridian Mining UK Societas",
+   "name": "Meridian Mining plc",
    "exchange": "TSX",
    "yahoo_symbol": "MNO.TO",
    "instruments": [
@@ -43855,7 +43843,7 @@
   },
   {
    "symbol": "TLG",
-   "name": "Troilus Gold Corp.",
+   "name": "Troilus Mining Corp.",
    "exchange": "TSX",
    "yahoo_symbol": "TLG.TO",
    "instruments": [
@@ -44558,6 +44546,18 @@
     {
      "name": "VersaBank J",
      "symbol": "VBNK"
+    }
+   ]
+  },
+  {
+   "symbol": "VMET",
+   "name": "Versamet Royalties Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "VMET.TO",
+   "instruments": [
+    {
+     "name": "Versamet Rylt Corp",
+     "symbol": "VMET"
     }
    ]
   },
@@ -45594,12 +45594,6 @@
    "yahoo_symbol": "ADVB"
   },
   {
-   "symbol": "ADVM",
-   "name": "Adverum Biotechnologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADVM"
-  },
-  {
    "symbol": "ADXN",
    "name": "Addex Therapeutics Ltd - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -46092,12 +46086,6 @@
    "yahoo_symbol": "AKBA"
   },
   {
-   "symbol": "AKRO",
-   "name": "Akero Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AKRO"
-  },
-  {
    "symbol": "AKTX",
    "name": "Akari Therapeutics Plc - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -46414,6 +46402,12 @@
    "name": "Amber International Holding Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AMBR"
+  },
+  {
+   "symbol": "AMCI",
+   "name": "AMC Robotics Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMCI"
   },
   {
    "symbol": "AMCX",
@@ -47488,24 +47482,6 @@
    "name": "AlphaTime Acquisition Corp - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ATMCW"
-  },
-  {
-   "symbol": "ATMV",
-   "name": "AlphaVest Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMV"
-  },
-  {
-   "symbol": "ATMVR",
-   "name": "AlphaVest Acquisition Corp - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMVR"
-  },
-  {
-   "symbol": "ATMVU",
-   "name": "AlphaVest Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMVU"
   },
   {
    "symbol": "ATNI",
@@ -49286,7 +49262,7 @@
   {
    "symbol": "BRRWW",
    "name": "ProCap Financial, Inc. - Warrant.",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BRRWW"
   },
   {
@@ -51060,12 +51036,6 @@
    "yahoo_symbol": "CIVB"
   },
   {
-   "symbol": "CJET",
-   "name": "Chijet Motor Company, Inc. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CJET"
-  },
-  {
    "symbol": "CJMB",
    "name": "Callan JMB Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -51750,10 +51720,28 @@
    "yahoo_symbol": "CPZ"
   },
   {
+   "symbol": "CRAC",
+   "name": "Crown Reserve Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAC"
+  },
+  {
+   "symbol": "CRACR",
+   "name": "Crown Reserve Acquisition Corp. I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRACR"
+  },
+  {
    "symbol": "CRACU",
    "name": "Crown Reserve Acquisition Corp. I - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CRACU"
+  },
+  {
+   "symbol": "CRACW",
+   "name": "Crown Reserve Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRACW"
   },
   {
    "symbol": "CRAI",
@@ -52590,6 +52578,12 @@
    "yahoo_symbol": "DCTH"
   },
   {
+   "symbol": "DCX",
+   "name": "Digital Currency X Technology Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DCX"
+  },
+  {
    "symbol": "DDI",
    "name": "DoubleDown Interactive Co., Ltd. - American Depository Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53140,6 +53134,12 @@
    "name": "Driven Brands Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DRVN"
+  },
+  {
+   "symbol": "DSACU",
+   "name": "Daedalus Special Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSACU"
   },
   {
    "symbol": "DSGN",
@@ -62454,12 +62454,6 @@
    "yahoo_symbol": "MCTA"
   },
   {
-   "symbol": "MCTR",
-   "name": "CTRL Group Limited - ordinary shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCTR"
-  },
-  {
    "symbol": "MCW",
    "name": "Mister Car Wash, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62676,6 +62670,12 @@
    "yahoo_symbol": "MFICL"
   },
   {
+   "symbol": "MFIG",
+   "name": "Motley Fool Innovative Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFIG"
+  },
+  {
    "symbol": "MFIN",
    "name": "Medallion Financial Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62686,6 +62686,18 @@
    "name": "First Trust Flexible Municipal High Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MFLX"
+  },
+  {
+   "symbol": "MFMO",
+   "name": "Motley Fool Momentum Factor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFMO"
+  },
+  {
+   "symbol": "MFVL",
+   "name": "Motley Fool Value Factor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFVL"
   },
   {
    "symbol": "MGEE",
@@ -65154,12 +65166,6 @@
    "yahoo_symbol": "OBIO"
   },
   {
-   "symbol": "OBLG",
-   "name": "Oblong Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OBLG"
-  },
-  {
    "symbol": "OBT",
    "name": "Orange County Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67276,6 +67282,12 @@
    "name": "Prime Medicine, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PRME"
+  },
+  {
+   "symbol": "PRMR",
+   "name": "PeakShares RMR Prime Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRMR"
   },
   {
    "symbol": "PRN",
@@ -70285,7 +70297,7 @@
   },
   {
    "symbol": "SHV",
-   "name": "iShares Short Treasury Bond ETF",
+   "name": "iShares 0-1 Year Treasury Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SHV"
   },
@@ -72618,6 +72630,12 @@
    "yahoo_symbol": "TIVC"
   },
   {
+   "symbol": "TJGC",
+   "name": "TJGC Group Limited - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TJGC"
+  },
+  {
    "symbol": "TKLF",
    "name": "Tokyo Lifestyle Co., Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -73396,6 +73414,12 @@
    "name": "Tradeweb Markets Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "TW"
+  },
+  {
+   "symbol": "TWAV",
+   "name": "TaoWeave, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TWAV"
   },
   {
    "symbol": "TWFG",
@@ -75400,6 +75424,12 @@
    "name": "WSFS Financial Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WSFS"
+  },
+  {
+   "symbol": "WSGE",
+   "name": "Warren Street Global Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WSGE"
   },
   {
    "symbol": "WSHP",
@@ -85722,6 +85752,12 @@
    "yahoo_symbol": "JLS"
   },
   {
+   "symbol": "JMG",
+   "name": "JM Group Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JMG"
+  },
+  {
    "symbol": "JMIA",
    "name": "Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",
    "exchange": "NYSE",
@@ -90876,12 +90912,6 @@
    "yahoo_symbol": "RFL"
   },
   {
-   "symbol": "RFL.W",
-   "name": "Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RFL.W"
-  },
-  {
    "symbol": "RFM",
    "name": "RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",
    "exchange": "NYSE",
@@ -91660,12 +91690,6 @@
    "name": "Stellus Capital Investment Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SCM"
-  },
-  {
-   "symbol": "SCS",
-   "name": "Steelcase Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SCS"
   },
   {
    "symbol": "SD",

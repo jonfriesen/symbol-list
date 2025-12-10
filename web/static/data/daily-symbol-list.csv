@@ -691,7 +691,6 @@ INTR,Intrepid Metals Corp.,TSXV,INTR.V,Intrepid Metals Corp.,INTR
 IVX,Inventronics Limited,TSXV,IVX.V,Inventronics Limited,IVX
 IVS,Inventus Mining Corp.,TSXV,IVS.V,Inventus Mining Corp.,IVS
 IZN,InZinc Mining Ltd.,TSXV,IZN.V,InZinc Mining Ltd.,IZN
-ICY.P,Iocaste Ventures Inc.,TSXV,ICY.P.V,Iocaste Ventures Inc.,ICY.P
 INIK,Ionik Corporation,TSXV,INIK.V,Ionik Corporation,INIK
 IMI,Ironman International Ltd.,TSXV,IMI.V,Ironman International Ltd.,IMI
 IFOS,Itafos Inc.,TSXV,IFOS.V,Itafos Inc.,IFOS
@@ -1291,6 +1290,7 @@ TRO,Taranis Resources Inc.,TSXV,TRO.V,Taranis Resources Inc.,TRO
 TDG,TDG Gold Corp.,TSXV,TDG.V,TDG Gold Corp.,TDG
 TECT,Tectonic Metals Inc.,TSXV,TECT.V,Tectonic Metals Inc.,TECT
 TELO,Telo Genomics Corp.,TSXV,TELO.V,Telo Genomics Corp.,TELO
+TNX,TenX Protocols Inc.,TSXV,TNX.V,TenX Protocols Inc.,TNX
 TRR,Terra Rossa Gold Ltd.,TSXV,TRR.V,Terra Rossa Gold Ltd.,TRR
 TES,Tesoro Minerals Corp.,TSXV,TES.V,Tesoro Minerals Corp.,TES
 TPL,Tethys Petroleum Limited,TSXV,TPL.V,Tethys Petroleum Limited,TPL
@@ -1385,7 +1385,6 @@ VLX,Velox Energy Materials Inc.,TSXV,VLX.V,Velox Energy Materials Inc.,VLX
 VTT,Vendetta Mining Corp.,TSXV,VTT.V,Vendetta Mining Corp,VTT
 VPT,VentriPoint Diagnostics Ltd.,TSXV,VPT.V,VentriPoint Diagnostics Ltd.,VPT
 VENZ,Venzee Technologies Inc.,TSXV,VENZ.V,Venzee Technologies Inc.,VENZ
-VMET,Versamet Royalties Corporation,TSXV,VMET.V,Versamet Royalties Corporation,VMET
 VTX,Vertex Resource Group Ltd.,TSXV,VTX.V,Vertex Resource Group Ltd.,VTX
 VERT,Vertical Exploration Inc.,TSXV,VERT.V,Vertical Exploration Inc.,VERT
 VCC.P,Veteran Capital Corp.,TSXV,VCC.P.V,Veteran Capital Corp.,VCC.P
@@ -2914,7 +2913,7 @@ MRD,Melcor Developments Ltd.,TSX,MRD.TO,Melcor Developments,MRD
 BENZ,Mercedes-Benz CDR (CAD Hedged),TSX,BENZ.TO,MercedesBenzCDR CaHD,BENZ
 SPAC.RT.U,Mercer Park Opportunities Corp.,TSX,SPAC.RT.U.TO,Mercer PrkOpp Corp R,SPAC.RT.U,Mercer PrkOpp Corp A,SPAC.U,Mercer PrkOpp Corp W,SPAC.WT.U
 MER,Meren Energy Inc.,TSX,MER.TO,Meren Energy Inc,MER
-MNO,Meridian Mining UK Societas,TSX,MNO.TO,Meridian MinUK Soc J,MNO
+MNO,Meridian Mining plc,TSX,MNO.TO,Meridian MinUK Soc J,MNO
 META,Meta CDR (CAD Hedged),TSX,META.TO,Meta CDR CAD Hedged,META
 MX,Methanex Corporation,TSX,MX.TO,Methanex Corporation,MX
 MRU,Metro Inc.,TSX,MRU.TO,Metro Inc.,MRU
@@ -3394,7 +3393,7 @@ TCW,Trican Well Service Ltd.,TSX,TCW.TO,Trican Well Service,TCW
 TMQ,Trilogy Metals Inc.,TSX,TMQ.TO,Trilogy Metals Inc J,TMQ
 TFPM,Triple Flag Precious Metals Corp.,TSX,TFPM.TO,Triple Flag Precious,TFPM
 TSU,Trisura Group Ltd.,TSX,TSU.TO,Trisura Group J,TSU
-TLG,Troilus Gold Corp.,TSX,TLG.TO,Troilus Gold Corp J,TLG
+TLG,Troilus Mining Corp.,TSX,TLG.TO,Troilus Gold Corp J,TLG
 TERP,TRU.X Exogenous Risk Pool,TSX,TERP.TO,TRU.X Exog Risk Pool,TERP,TRU.XExogRiskPool Us,TERP.U
 TNT.UN,True North Commercial Real Estate Investment Trust,TSX,TNT.UN.TO,True NthCommrcl J Un,TNT.UN
 TRX,TRX Gold Corporation,TSX,TRX.TO,TRX Gold Corp J,TRX
@@ -3451,6 +3450,7 @@ VLN,Velan Inc.,TSX,VLN.TO,Velan Inc. SV,VLN
 NPK,Verde Agritech Ltd.,TSX,NPK.TO,Verde Agritech J Ord,NPK
 VET,Vermilion Energy Inc.,TSX,VET.TO,Vermilion Energy Inc,VET
 VBNK,VersaBank,TSX,VBNK.TO,VersaBank J,VBNK
+VMET,Versamet Royalties Corporation,TSX,VMET.TO,Versamet Rylt Corp,VMET
 FORA,VerticalScope Holdings Inc.,TSX,FORA.TO,VerticalScope J SV,FORA
 VRTS,Vertiqal Studios Corp.,TSX,VRTS.TO,Vertiqal StudiosCorp,VRTS
 VGZ,Vista Gold Corp.,TSX,VGZ.TO,Vista Gold Corp,VGZ
@@ -3586,7 +3586,6 @@ ADUR,Aduro Clean Technologies Inc. - Common Stock,NASDAQ Capital Market,ADUR
 ADUS,Addus HomeCare Corporation - Common Stock,NASDAQ Global Select MarketSM,ADUS
 ADV,Advantage Solutions Inc.  - Class A Common Stock,NASDAQ Global Select MarketSM,ADV
 ADVB,Advanced Biomed Inc. - Common Stock,NASDAQ Capital Market,ADVB
-ADVM,"Adverum Biotechnologies, Inc. - Common Stock",NASDAQ Capital Market,ADVM
 ADXN,Addex Therapeutics Ltd - American Depositary Shares,NASDAQ Capital Market,ADXN
 AEAQU,Activate Energy Acquisition Corp. - Unit,NASDAQ Global MarketSM,AEAQU
 AEBI,Aebi Schmidt Holding AG - Common Stock,NASDAQ Global Select MarketSM,AEBI
@@ -3669,7 +3668,6 @@ AIXI,XIAO-I Corporation - American Depositary Shares,NASDAQ Global MarketSM,AIXI
 AKAM,"Akamai Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,AKAM
 AKAN,Akanda Corp. - Common Shares,NASDAQ Capital Market,AKAN
 AKBA,"Akebia Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,AKBA
-AKRO,"Akero Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,AKRO
 AKTX,Akari Therapeutics Plc - American Depositary Shares,NASDAQ Capital Market,AKTX
 ALAB,"Astera Labs, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALAB
 ALAR,Alarum Technologies Ltd. - American Depositary Shares,NASDAQ Capital Market,ALAR
@@ -3723,6 +3721,7 @@ AMAL,Amalgamated Financial Corp. - Common Stock,NASDAQ Global MarketSM,AMAL
 AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMAT
 AMBA,"Ambarella, Inc. - Ordinary Shares",NASDAQ Global Select MarketSM,AMBA
 AMBR,Amber International Holding Limited - American Depositary Shares,NASDAQ Global MarketSM,AMBR
+AMCI,AMC Robotics Corporation - Common Stock,NASDAQ Capital Market,AMCI
 AMCX,AMC Networks Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,AMCX
 AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMD
 AMDD,Direxion Daily AMD Bear 1X Shares,NASDAQ Global MarketSM,AMDD
@@ -3902,9 +3901,6 @@ ATMC,AlphaTime Acquisition Corp - Ordinary Shares,NASDAQ Capital Market,ATMC
 ATMCR,AlphaTime Acquisition Corp - Right,NASDAQ Capital Market,ATMCR
 ATMCU,AlphaTime Acquisition Corp - Unit,NASDAQ Capital Market,ATMCU
 ATMCW,AlphaTime Acquisition Corp - Warrant,NASDAQ Capital Market,ATMCW
-ATMV,AlphaVest Acquisition Corp - Ordinary Shares,NASDAQ Capital Market,ATMV
-ATMVR,AlphaVest Acquisition Corp - Right,NASDAQ Capital Market,ATMVR
-ATMVU,AlphaVest Acquisition Corp - Unit,NASDAQ Capital Market,ATMVU
 ATNI,"ATN International, Inc. - Common Stock",NASDAQ Global Select MarketSM,ATNI
 ATOM,Atomera Incorporated - Common Stock,NASDAQ Capital Market,ATOM
 ATON,AlphaTON Capital Corp. - Common Stock,NASDAQ Capital Market,ATON
@@ -4201,7 +4197,7 @@ BRNS,Barinthus Biotherapeutics plc - American Depositary Shares,NASDAQ Global Ma
 BRNY,Burney U.S. Factor Rotation ETF,NASDAQ Global MarketSM,BRNY
 BRR,"ProCap Financial, Inc. - Common Stock",NASDAQ Global MarketSM,BRR
 BRRR,Coinshares Bitcoin ETF,NASDAQ Global MarketSM,BRRR
-BRRWW,"ProCap Financial, Inc. - Warrant.",NASDAQ Global MarketSM,BRRWW
+BRRWW,"ProCap Financial, Inc. - Warrant.",NASDAQ Capital Market,BRRWW
 BRTR,iShares Total Return Active ETF,NASDAQ Global MarketSM,BRTR
 BRTX,"BioRestorative Therapies, Inc. - Common Stock",NASDAQ Capital Market,BRTX
 BRY,Berry Corporation (bry) - Common Stock,NASDAQ Global Select MarketSM,BRY
@@ -4497,7 +4493,6 @@ CINGW,Cingulate Inc. - Warrants,NASDAQ Capital Market,CINGW
 CISO,"CISO Global, Inc. - Common Stock",NASDAQ Capital Market,CISO
 CISS,C3is Inc. - Common Stock,NASDAQ Capital Market,CISS
 CIVB,"Civista Bancshares, Inc.  - Common Stock",NASDAQ Capital Market,CIVB
-CJET,"Chijet Motor Company, Inc. - Class A Ordinary Shares",NASDAQ Capital Market,CJET
 CJMB,Callan JMB Inc. - Common Stock,NASDAQ Capital Market,CJMB
 CLAR,Clarus Corporation - Common Stock,NASDAQ Global Select MarketSM,CLAR
 CLBK,"Columbia Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,CLBK
@@ -4612,7 +4607,10 @@ CPRX,"Catalyst Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,CPRX
 CPSH,CPS Technologies Corp. - Common Stock,NASDAQ Capital Market,CPSH
 CPSS,"Consumer Portfolio Services, Inc. - Common Stock",NASDAQ Global MarketSM,CPSS
 CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,NASDAQ Global Select MarketSM,CPZ
+CRAC,Crown Reserve Acquisition Corp. I - Class A Ordinary Shares,NASDAQ Global MarketSM,CRAC
+CRACR,Crown Reserve Acquisition Corp. I - Rights,NASDAQ Global MarketSM,CRACR
 CRACU,Crown Reserve Acquisition Corp. I - Unit,NASDAQ Global MarketSM,CRACU
+CRACW,Crown Reserve Acquisition Corp. I - Warrant,NASDAQ Global MarketSM,CRACW
 CRAI,"CRA International,Inc. - Common Stock",NASDAQ Global Select MarketSM,CRAI
 CRAQ,Cal Redwood Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,CRAQ
 CRAQR,Cal Redwood Acquisition Corp. - Right,NASDAQ Global MarketSM,CRAQR
@@ -4752,6 +4750,7 @@ DCOM,"Dime Community Bancshares, Inc. - Common Stock",NASDAQ Global Select Marke
 DCOMG,"Dime Community Bancshares, Inc. - 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",NASDAQ Global MarketSM,DCOMG
 DCOMP,"Dime Community Bancshares, Inc. - Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ Global Select MarketSM,DCOMP
 DCTH,"Delcath Systems, Inc. - Common Stock",NASDAQ Capital Market,DCTH
+DCX,Digital Currency X Technology Inc. - Class A Ordinary Shares,NASDAQ Capital Market,DCX
 DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares",NASDAQ Global Select MarketSM,DDI
 DDIV,First Trust Dorsey Wright Momentum & Dividend ETF,NASDAQ Global MarketSM,DDIV
 DDOG,"Datadog, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,DDOG
@@ -4844,6 +4843,7 @@ DRTS,Alpha Tau Medical Ltd. - Ordinary Shares,NASDAQ Capital Market,DRTS
 DRTSW,Alpha Tau Medical Ltd. - Warrant,NASDAQ Capital Market,DRTSW
 DRUG,Bright Minds Biosciences Inc. - common stock,NASDAQ Capital Market,DRUG
 DRVN,Driven Brands Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,DRVN
+DSACU,Daedalus Special Acquisition Corp. - Unit,NASDAQ Global MarketSM,DSACU
 DSGN,"Design Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,DSGN
 DSGR,"Distribution Solutions Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,DSGR
 DSGX,The Descartes Systems Group Inc. - Common Stock,NASDAQ Global Select MarketSM,DSGX
@@ -6396,7 +6396,6 @@ MCRB,"Seres Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCR
 MCRI,"Monarch Casino & Resort, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCRI
 MCSE,Franklin Sustainable International Equity ETF,NASDAQ Global MarketSM,MCSE
 MCTA,Charming Medical Limited - Class A Ordinary Shares,NASDAQ Capital Market,MCTA
-MCTR,CTRL Group Limited - ordinary shares,NASDAQ Capital Market,MCTR
 MCW,"Mister Car Wash, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCW
 MDAI,"Spectral AI, Inc. - Class A Common Stock",NASDAQ Capital Market,MDAI
 MDAIW,"Spectral AI, Inc. - Warrants",NASDAQ Capital Market,MDAIW
@@ -6433,8 +6432,11 @@ METU,Direxion Daily META Bull 2X Shares,NASDAQ Global MarketSM,METU
 MFI,mF International Limited - Class A Ordinary Shares,NASDAQ Capital Market,MFI
 MFIC,MidCap Financial Investment Corporation - Closed End Fund,NASDAQ Global Select MarketSM,MFIC
 MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,NASDAQ Global Select MarketSM,MFICL
+MFIG,Motley Fool Innovative Growth ETF,NASDAQ Global MarketSM,MFIG
 MFIN,Medallion Financial Corp. - Common Stock,NASDAQ Global Select MarketSM,MFIN
 MFLX,First Trust Flexible Municipal High Income ETF,NASDAQ Global MarketSM,MFLX
+MFMO,Motley Fool Momentum Factor ETF,NASDAQ Global MarketSM,MFMO
+MFVL,Motley Fool Value Factor ETF,NASDAQ Global MarketSM,MFVL
 MGEE,MGE Energy Inc. - Common Stock,NASDAQ Global Select MarketSM,MGEE
 MGIC,Magic Software Enterprises Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,MGIC
 MGIH,Millennium Group International Holdings Limited - Ordinary Shares,NASDAQ Capital Market,MGIH
@@ -6846,7 +6848,6 @@ OBAWU,Oxley Bridge Acquisition Limited - Unit,NASDAQ Global MarketSM,OBAWU
 OBAWW,Oxley Bridge Acquisition Limited - Warrants,NASDAQ Global MarketSM,OBAWW
 OBIL,US Treasury 12 Month Bill ETF,NASDAQ Global MarketSM,OBIL
 OBIO,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",NASDAQ Global MarketSM,OBIO
-OBLG,Oblong Inc. - Common Stock,NASDAQ Capital Market,OBLG
 OBT,"Orange County Bancorp, Inc. - Common Stock",NASDAQ Capital Market,OBT
 OCC,Optical Cable Corporation - Common Stock,NASDAQ Global MarketSM,OCC
 OCCI,"OFS Credit Company, Inc. - Closed End Fund",NASDAQ Capital Market,OCCI
@@ -7200,6 +7201,7 @@ PRHI,"Presurance Holdings, Inc. - Common Stock",NASDAQ Capital Market,PRHI
 PRHIZ,"Presurance Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028",NASDAQ Global MarketSM,PRHIZ
 PRLD,Prelude Therapeutics Incorporated - Common Stock,NASDAQ Global Select MarketSM,PRLD
 PRME,"Prime Medicine, Inc. - Common Stock",NASDAQ Global MarketSM,PRME
+PRMR,PeakShares RMR Prime Equity ETF,NASDAQ Global MarketSM,PRMR
 PRN,Invesco Dorsey Wright Industrials Momentum ETF,NASDAQ Global MarketSM,PRN
 PROF,Profound Medical Corp. - common stock,NASDAQ Capital Market,PROF
 PROK,ProKidney Corp. - Class A Ordinary Shares,NASDAQ Capital Market,PROK
@@ -7701,7 +7703,7 @@ SHPD,Direxion Daily SHOP Bear 1X ETF,NASDAQ Global MarketSM,SHPD
 SHPH,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",NASDAQ Capital Market,SHPH
 SHPU,Direxion Daily SHOP Bull 2X ETF,NASDAQ Global MarketSM,SHPU
 SHRY,First Trust Bloomberg Shareholder Yield ETF,NASDAQ Global MarketSM,SHRY
-SHV,iShares Short Treasury Bond ETF,NASDAQ Global MarketSM,SHV
+SHV,iShares 0-1 Year Treasury Bond ETF,NASDAQ Global MarketSM,SHV
 SHY,iShares 1-3 Year Treasury Bond ETF,NASDAQ Global MarketSM,SHY
 SIBN,"SI-BONE, Inc. - Common Stock",NASDAQ Global MarketSM,SIBN
 SIDU,"Sidus Space, Inc. - Class A Common Stock",NASDAQ Capital Market,SIDU
@@ -8090,6 +8092,7 @@ TIPT,Tiptree Inc. - Common Stock,NASDAQ Capital Market,TIPT
 TIRX,TIAN RUIXIANG Holdings Ltd - Class A Ordinary Shares,NASDAQ Capital Market,TIRX
 TITN,Titan Machinery Inc. - Common Stock,NASDAQ Global Select MarketSM,TITN
 TIVC,"Tivic Health Systems, Inc. - Common stock",NASDAQ Capital Market,TIVC
+TJGC,TJGC Group Limited - ordinary shares,NASDAQ Capital Market,TJGC
 TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",NASDAQ Capital Market,TKLF
 TKNO,"Alpha Teknova, Inc. - Common Stock",NASDAQ Global MarketSM,TKNO
 TLF,"Tandy Leather Factory, Inc. - common stock",NASDAQ Capital Market,TLF
@@ -8220,6 +8223,7 @@ TVGNW,Tevogen Bio Holdings Inc. - Warrant,NASDAQ Capital Market,TVGNW
 TVRD,"Tvardi Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,TVRD
 TVTX,"Travere Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TVTX
 TW,Tradeweb Markets Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,TW
+TWAV,"TaoWeave, Inc. - Common Stock",NASDAQ Capital Market,TWAV
 TWFG,"TWFG, Inc. - Common Stock",NASDAQ Global Select MarketSM,TWFG
 TWG,Top Wealth Group Holding Limited - Class A Ordinary Shares,NASDAQ Capital Market,TWG
 TWIN,"Twin Disc, Incorporated - Common Stock",NASDAQ Global Select MarketSM,TWIN
@@ -8554,6 +8558,7 @@ WSBF,"Waterstone Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,W
 WSBK,"Winchester Bancorp, Inc. - Common Stock",NASDAQ Capital Market,WSBK
 WSC,WillScot Holdings Corporation - Class A Common Stock,NASDAQ Capital Market,WSC
 WSFS,WSFS Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,WSFS
+WSGE,Warren Street Global Equity ETF,NASDAQ Global MarketSM,WSGE
 WSHP,WeShop Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,WSHP
 WSML,iShares MSCI World Small-Cap ETF,NASDAQ Global MarketSM,WSML
 WSTNU,Westin Acquisition Corp - Units,NASDAQ Capital Market,WSTNU
@@ -10274,6 +10279,7 @@ JILL,"J. Jill, Inc. Common Stock",NYSE,JILL
 JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),NYSE,JKS
 JLL,Jones Lang LaSalle Incorporated Common Stock,NYSE,JLL
 JLS,Nuveen Mortgage and Income Fund,NYSE,JLS
+JMG,JM Group Limited Ordinary Shares,NYSE MKT,JMG
 JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",NYSE,JMIA
 JMM,Nuveen Multi-Market Income Fund (MA),NYSE,JMM
 JNJ,Johnson & Johnson Common Stock,NYSE,JNJ
@@ -11133,7 +11139,6 @@ RF$E,"Regions Financial Corporation Depositary Shares, Each Representing a 1/40t
 RF$F,"Regions Financial Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",NYSE,RF$F
 RFI,"Cohen & Steers Total Return Realty Fund, Inc. Common Stock",NYSE,RFI
 RFL,"Rafael Holdings, Inc. Class B Common Stock",NYSE,RFL
-RFL.W,"Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock",NYSE,RFL.W
 RFM,"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",NYSE,RFM
 RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock",NYSE,RFMZ
 RGA,"Reinsurance Group of America, Incorporated Common Stock",NYSE,RGA
@@ -11264,7 +11269,6 @@ SCHW$J,"The Charles Schwab Corporation Depositary Shares, Each Representing a 1/
 SCI,Service Corporation International Common Stock,NYSE,SCI
 SCL,Stepan Company Common Stock,NYSE,SCL
 SCM,Stellus Capital Investment Corporation Common Stock,NYSE,SCM
-SCS,Steelcase Inc. Common Stock,NYSE,SCS
 SD,"SandRidge Energy, Inc. Common Stock",NYSE,SD
 SDHC,Smith Douglas Homes Corp. Class A Common Stock,NYSE,SDHC
 SDHY,PGIM Short Duration High Yield Opportunities Fund Common Shares,NYSE,SDHY
