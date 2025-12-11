@@ -1,5 +1,5 @@
 {
- "date": "2025-12-10",
+ "date": "2025-12-11",
  "data": [
   {
    "symbol": "ONE",
@@ -16074,18 +16074,6 @@
     {
      "name": "Topicus.com Inc.",
      "symbol": "TOI"
-    }
-   ]
-  },
-  {
-   "symbol": "TGH",
-   "name": "Tornado Infrastructure Equipment Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TGH.V",
-   "instruments": [
-    {
-     "name": "Tornado Infrastructure Equipment Ltd.",
-     "symbol": "TGH"
     }
    ]
   },
@@ -37356,7 +37344,7 @@
    "yahoo_symbol": "MNO.TO",
    "instruments": [
     {
-     "name": "Meridian MinUK Soc J",
+     "name": "Meridian Mining PLC",
      "symbol": "MNO"
     }
    ]
@@ -43848,7 +43836,7 @@
    "yahoo_symbol": "TLG.TO",
    "instruments": [
     {
-     "name": "Troilus Gold Corp J",
+     "name": "Troilus Mining Corp",
      "symbol": "TLG"
     }
    ]
@@ -45022,6 +45010,12 @@
    "name": "AdvisorShares Dorsey Wright ADR ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AADR"
+  },
+  {
+   "symbol": "AAEQ",
+   "name": "Alpha Architect US Equity 2 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAEQ"
   },
   {
    "symbol": "AAL",
@@ -50392,6 +50386,12 @@
    "name": "CareDx, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CDNA"
+  },
+  {
+   "symbol": "CDNL",
+   "name": "Cardinal Infrastructure Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CDNL"
   },
   {
    "symbol": "CDNS",
@@ -58212,12 +58212,6 @@
    "yahoo_symbol": "HSIC"
   },
   {
-   "symbol": "HSII",
-   "name": "Heidrick \u0026 Struggles International, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HSII"
-  },
-  {
    "symbol": "HSPO",
    "name": "Horizon Space Acquisition I Corp. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -58324,12 +58318,6 @@
    "name": "Fusion Fuel Green PLC - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HTOO"
-  },
-  {
-   "symbol": "HTOOW",
-   "name": "Fusion Fuel Green PLC - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HTOOW"
   },
   {
    "symbol": "HTZ",
@@ -58582,6 +58570,12 @@
    "name": "IAC Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IAC"
+  },
+  {
+   "symbol": "IALT",
+   "name": "iShares Systematic Alternatives Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IALT"
   },
   {
    "symbol": "IART",
@@ -62598,6 +62592,12 @@
    "yahoo_symbol": "MERC"
   },
   {
+   "symbol": "MESHU",
+   "name": "Meshflow Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MESHU"
+  },
+  {
    "symbol": "MESO",
    "name": "Mesoblast Limited - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63799,7 +63799,7 @@
   },
   {
    "symbol": "NAOV",
-   "name": "NanoVibronix, Inc. - Common Stock",
+   "name": "ENvue Medical, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NAOV"
   },
@@ -65260,12 +65260,6 @@
    "name": "Old Dominion Freight Line, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ODFL"
-  },
-  {
-   "symbol": "ODP",
-   "name": "The ODP Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ODP"
   },
   {
    "symbol": "ODVWZ",
@@ -76021,7 +76015,7 @@
   },
   {
    "symbol": "YMAT",
-   "name": "J-Star Holding Co., Ltd. - Ordinary Shares",
+   "name": "J-Star Holding Co., Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "YMAT"
   },
@@ -85884,12 +85878,6 @@
    "yahoo_symbol": "JXN$A"
   },
   {
-   "symbol": "K",
-   "name": "Kellanova Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "K"
-  },
-  {
    "symbol": "KAI",
    "name": "Kadant Inc Common Stock",
    "exchange": "NYSE",
@@ -92530,12 +92518,6 @@
    "name": "NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "SRV"
-  },
-  {
-   "symbol": "SRV.R",
-   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRV.R"
   },
   {
    "symbol": "SRXH",

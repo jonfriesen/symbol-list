@@ -1324,7 +1324,6 @@ LOT,TomaGold Corporation,TSXV,LOT.V,TomaGold Corporation,LOT
 TBLL,Tombill Mines Limited,TSXV,TBLL.V,Tombill Mines Limited,TBLL
 TGC,TooGood Gold Corp.,TSXV,TGC.V,TooGood Gold Corp.,TGC
 TOI,Topicus.com Inc.,TSXV,TOI.V,Topicus.com Inc.,TOI
-TGH,Tornado Infrastructure Equipment Ltd.,TSXV,TGH.V,Tornado Infrastructure Equipment Ltd.,TGH
 TORQ,Torq Resources Inc.,TSXV,TORQ.V,Torq Resources Inc.,TORQ
 TMET,Torr Metals Inc.,TSXV,TMET.V,Torr Metals Inc.,TMET
 TORR,Torrent Capital Ltd.,TSXV,TORR.V,Torrent Capital Ltd.,TORR
@@ -2913,7 +2912,7 @@ MRD,Melcor Developments Ltd.,TSX,MRD.TO,Melcor Developments,MRD
 BENZ,Mercedes-Benz CDR (CAD Hedged),TSX,BENZ.TO,MercedesBenzCDR CaHD,BENZ
 SPAC.RT.U,Mercer Park Opportunities Corp.,TSX,SPAC.RT.U.TO,Mercer PrkOpp Corp R,SPAC.RT.U,Mercer PrkOpp Corp A,SPAC.U,Mercer PrkOpp Corp W,SPAC.WT.U
 MER,Meren Energy Inc.,TSX,MER.TO,Meren Energy Inc,MER
-MNO,Meridian Mining plc,TSX,MNO.TO,Meridian MinUK Soc J,MNO
+MNO,Meridian Mining plc,TSX,MNO.TO,Meridian Mining PLC,MNO
 META,Meta CDR (CAD Hedged),TSX,META.TO,Meta CDR CAD Hedged,META
 MX,Methanex Corporation,TSX,MX.TO,Methanex Corporation,MX
 MRU,Metro Inc.,TSX,MRU.TO,Metro Inc.,MRU
@@ -3393,7 +3392,7 @@ TCW,Trican Well Service Ltd.,TSX,TCW.TO,Trican Well Service,TCW
 TMQ,Trilogy Metals Inc.,TSX,TMQ.TO,Trilogy Metals Inc J,TMQ
 TFPM,Triple Flag Precious Metals Corp.,TSX,TFPM.TO,Triple Flag Precious,TFPM
 TSU,Trisura Group Ltd.,TSX,TSU.TO,Trisura Group J,TSU
-TLG,Troilus Mining Corp.,TSX,TLG.TO,Troilus Gold Corp J,TLG
+TLG,Troilus Mining Corp.,TSX,TLG.TO,Troilus Mining Corp,TLG
 TERP,TRU.X Exogenous Risk Pool,TSX,TERP.TO,TRU.X Exog Risk Pool,TERP,TRU.XExogRiskPool Us,TERP.U
 TNT.UN,True North Commercial Real Estate Investment Trust,TSX,TNT.UN.TO,True NthCommrcl J Un,TNT.UN
 TRX,TRX Gold Corporation,TSX,TRX.TO,TRX Gold Corp J,TRX
@@ -3491,6 +3490,7 @@ AACBR,Artius II Acquisition Inc. - Rights,NASDAQ Global MarketSM,AACBR
 AACBU,Artius II Acquisition Inc. - Units,NASDAQ Global MarketSM,AACBU
 AACG,"ATA Creativity Global - American Depositary Shares, each representing two common shares",NASDAQ Capital Market,AACG
 AADR,AdvisorShares Dorsey Wright ADR ETF,NASDAQ Global MarketSM,AADR
+AAEQ,Alpha Architect US Equity 2 ETF,NASDAQ Global MarketSM,AAEQ
 AAL,"American Airlines Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,AAL
 AALG,Leverage Shares 2X Long AAL Daily ETF,NASDAQ Global MarketSM,AALG
 AAME,Atlantic American Corporation - Common Stock,NASDAQ Global MarketSM,AAME
@@ -4386,6 +4386,7 @@ CDIOW,Cardio Diagnostics Holdings Inc. - Warrant,NASDAQ Capital Market,CDIOW
 CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,NASDAQ Global MarketSM,CDL
 CDLX,"Cardlytics, Inc. - Common Stock",NASDAQ Global MarketSM,CDLX
 CDNA,"CareDx, Inc. - Common Stock",NASDAQ Global MarketSM,CDNA
+CDNL,Cardinal Infrastructure Group Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,CDNL
 CDNS,"Cadence Design Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,CDNS
 CDRO,"Codere Online Luxembourg, S.A. - Ordinary Shares",NASDAQ Capital Market,CDRO
 CDROW,"Codere Online Luxembourg, S.A. - Warrants",NASDAQ Capital Market,CDROW
@@ -5689,7 +5690,6 @@ HSCS,HeartSciences Inc. - Common Stock,NASDAQ Capital Market,HSCS
 HSCSW,HeartSciences Inc. - Warrant,NASDAQ Capital Market,HSCSW
 HSDT,Solana Company - Class A Common Stock,NASDAQ Capital Market,HSDT
 HSIC,"Henry Schein, Inc. - Common Stock",NASDAQ Global Select MarketSM,HSIC
-HSII,"Heidrick & Struggles International, Inc. - Common Stock",NASDAQ Global Select MarketSM,HSII
 HSPO,Horizon Space Acquisition I Corp. - Ordinary Shares,NASDAQ Capital Market,HSPO
 HSPOR,Horizon Space Acquisition I Corp. - Right,NASDAQ Capital Market,HSPOR
 HSPOU,Horizon Space Acquisition I Corp. - Unit,NASDAQ Capital Market,HSPOU
@@ -5708,7 +5708,6 @@ HTLD,"Heartland Express, Inc. - Common Stock",NASDAQ Global Select MarketSM,HTLD
 HTLM,HomesToLife Ltd - Ordinary Shares,NASDAQ Capital Market,HTLM
 HTO,H2O America  - Common Stock,NASDAQ Global Select MarketSM,HTO
 HTOO,Fusion Fuel Green PLC - Ordinary Shares,NASDAQ Capital Market,HTOO
-HTOOW,Fusion Fuel Green PLC - Warrant,NASDAQ Capital Market,HTOOW
 HTZ,"Hertz Global Holdings, Inc - Common Stock",NASDAQ Global Select MarketSM,HTZ
 HTZWW,"Hertz Global Holdings, Inc - Warrant",NASDAQ Global Select MarketSM,HTZWW
 HUBC,Hub Cyber Security Ltd. - Ordinary Shares,NASDAQ Capital Market,HUBC
@@ -5751,6 +5750,7 @@ HYPR,"Hyperfine, Inc.  - Class A Common Stock",NASDAQ Global MarketSM,HYPR
 HYXF,iShares ESG Advanced High Yield Corporate Bond ETF,NASDAQ Global MarketSM,HYXF
 HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,NASDAQ Global MarketSM,HYZD
 IAC,IAC Inc. - Common Stock,NASDAQ Global Select MarketSM,IAC
+IALT,iShares Systematic Alternatives Active ETF,NASDAQ Global MarketSM,IALT
 IART,Integra LifeSciences Holdings Corporation - Common Stock,NASDAQ Global Select MarketSM,IART
 IAS,Integral Ad Science Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,IAS
 IBAC,IB Acquisition Corp. - Common Stock,NASDAQ Global MarketSM,IBAC
@@ -6420,6 +6420,7 @@ MEMS,Matthews Emerging Markets Discovery Active ETF,NASDAQ Global MarketSM,MEMS
 MENS,Jyong Biotech Ltd. - Ordinary shares,NASDAQ Global MarketSM,MENS
 MEOH,Methanex Corporation - Common Stock,NASDAQ Global Select MarketSM,MEOH
 MERC,Mercer International Inc. - Common Stock,NASDAQ Global Select MarketSM,MERC
+MESHU,Meshflow Acquisition Corp. - Units,NASDAQ Global MarketSM,MESHU
 MESO,Mesoblast Limited - American Depositary Shares,NASDAQ Global Select MarketSM,MESO
 META,"Meta Platforms, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,META
 METC,"Ramaco Resources, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,METC
@@ -6620,7 +6621,7 @@ NAMM,Namib Minerals - Ordinary Shares,NASDAQ Global MarketSM,NAMM
 NAMMW,Namib Minerals - Warrants,NASDAQ Capital Market,NAMMW
 NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,NASDAQ Global MarketSM,NAMS
 NAMSW,NewAmsterdam Pharma Company N.V. - Warrant,NASDAQ Global MarketSM,NAMSW
-NAOV,"NanoVibronix, Inc. - Common Stock",NASDAQ Capital Market,NAOV
+NAOV,"ENvue Medical, Inc. - Common Stock",NASDAQ Capital Market,NAOV
 NATH,"Nathan's Famous, Inc. - Common Stock",NASDAQ Global Select MarketSM,NATH
 NATO,Themes Transatlantic Defense ETF,NASDAQ Global MarketSM,NATO
 NATR,"Nature's Sunshine Products, Inc. - Common Stock",NASDAQ Capital Market,NATR
@@ -6864,7 +6865,6 @@ OCUL,"Ocular Therapeutix, Inc. - Common Stock",NASDAQ Global MarketSM,OCUL
 ODD,ODDITY Tech Ltd. - Class A Ordinary Shares,NASDAQ Global MarketSM,ODD
 ODDS,Pacer BlueStar Digital Entertainment ETF,NASDAQ Global MarketSM,ODDS
 ODFL,"Old Dominion Freight Line, Inc. - Common Stock",NASDAQ Global Select MarketSM,ODFL
-ODP,The ODP Corporation - Common Stock,NASDAQ Global Select MarketSM,ODP
 ODVWZ,Osisko Development Corp. - Warrant,NASDAQ Capital Market,ODVWZ
 ODYS,Odysight.ai Inc. - Common Stock,NASDAQ Capital Market,ODYS
 OESX,"Orion Energy Systems, Inc. - Common Stock",NASDAQ Capital Market,OESX
@@ -8657,7 +8657,7 @@ YI,"111, Inc. - American Depositary Shares",NASDAQ Global MarketSM,YI
 YIBO,Planet Image International Limited - Class A Ordinary Shares,NASDAQ Capital Market,YIBO
 YJ,Yunji Inc. - American Depository Shares,NASDAQ Capital Market,YJ
 YLDE,Franklin ClearBridge Enhanced Income ETF,NASDAQ Global MarketSM,YLDE
-YMAT,"J-Star Holding Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,YMAT
+YMAT,"J-Star Holding Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,YMAT
 YMT,Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares,NASDAQ Global MarketSM,YMT
 YNOT,Horizon Digital Frontier ETF,NASDAQ Global MarketSM,YNOT
 YOKE,YOKE Core ETF,NASDAQ Global MarketSM,YOKE
@@ -10301,7 +10301,6 @@ JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interes
 JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,NYSE,JRS
 JXN,Jackson Financial Inc. Class A Common Stock ,NYSE,JXN
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",NYSE,JXN$A
-K,Kellanova Common Stock,NYSE,K
 KAI,Kadant Inc Common Stock,NYSE,KAI
 KAPA,"Kairos Pharma, Ltd. Common Stock",NYSE MKT,KAPA
 KAR,"OPENLANE, Inc. Common Stock",NYSE,KAR
@@ -11409,7 +11408,6 @@ SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred 
 SRI,"Stoneridge, Inc. Common Stock",NYSE,SRI
 SRL,Scully Royalty Ltd.,NYSE,SRL
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NYSE,SRV
-SRV.R,"NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights",NYSE,SRV.R
 SRXH,"SRX Health Solutions, Inc. Common Stock",NYSE MKT,SRXH
 SSB,SouthState Bank Corporation Common Stock,NYSE,SSB
 SSD,"Simpson Manufacturing Company, Inc. Common Stock",NYSE,SSD
