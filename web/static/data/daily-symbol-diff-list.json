@@ -1,72 +1,144 @@
 {
  "added": [
   {
-   "symbol": "AAEQ",
-   "name": "Alpha Architect US Equity 2 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AAEQ"
-  },
-  {
-   "symbol": "CDNL",
-   "name": "Cardinal Infrastructure Group Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CDNL"
-  },
-  {
-   "symbol": "IALT",
-   "name": "iShares Systematic Alternatives Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IALT"
-  },
-  {
-   "symbol": "MESHU",
-   "name": "Meshflow Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MESHU"
-  }
- ],
- "removed": [
-  {
-   "symbol": "HSII",
-   "name": "Heidrick \u0026 Struggles International, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HSII"
-  },
-  {
-   "symbol": "ODP",
-   "name": "The ODP Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ODP"
-  },
-  {
-   "symbol": "SRV.R",
-   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SRV.R"
-  },
-  {
-   "symbol": "HTOOW",
-   "name": "Fusion Fuel Green PLC - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HTOOW"
-  },
-  {
-   "symbol": "TGH",
-   "name": "Tornado Infrastructure Equipment Ltd.",
+   "symbol": "PALS",
+   "name": "Paragon Advanced Labs Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TGH.V",
+   "yahoo_symbol": "PALS.V",
    "instruments": [
     {
-     "name": "Tornado Infrastructure Equipment Ltd.",
-     "symbol": "TGH"
+     "name": "Paragon Advanced Labs Inc.",
+     "symbol": "PALS"
     }
    ]
   },
   {
-   "symbol": "K",
-   "name": "Kellanova Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "K"
+   "symbol": "ESAF",
+   "name": "Syntholene Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESAF.V",
+   "instruments": [
+    {
+     "name": "Syntholene Energy Corp.",
+     "symbol": "ESAF"
+    }
+   ]
+  },
+  {
+   "symbol": "AGPU",
+   "name": "Axe Compute Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGPU"
+  },
+  {
+   "symbol": "BLRKU",
+   "name": "Bluerock Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLRKU"
+  },
+  {
+   "symbol": "CIFG",
+   "name": "Leverage Shares 2X Long CIFR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIFG"
+  },
+  {
+   "symbol": "DUOG",
+   "name": "Leverage Shares 2X Long DUOL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUOG"
+  },
+  {
+   "symbol": "FEED",
+   "name": "ENvue Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEED"
+  },
+  {
+   "symbol": "GRAG",
+   "name": "Leverage Shares 2X Long GRAB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRAG"
+  },
+  {
+   "symbol": "IVSI",
+   "name": "Applied Finance IVS International Large ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVSI"
+  },
+  {
+   "symbol": "KBONU",
+   "name": "Karbon Capital Partners Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBONU"
+  },
+  {
+   "symbol": "LACG",
+   "name": "Leverage Shares 2X Long LAC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LACG"
+  },
+  {
+   "symbol": "LMRI",
+   "name": "Lumexa Imaging Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LMRI"
+  },
+  {
+   "symbol": "OPEG",
+   "name": "Leverage Shares 2X Long OPEN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OPEG"
+  },
+  {
+   "symbol": "UPSG",
+   "name": "Leverage Shares 2X Long UPS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UPSG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "POAI",
+   "name": "Predictive Oncology Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "POAI"
+  },
+  {
+   "symbol": "HSPOU",
+   "name": "Horizon Space Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPOU"
+  },
+  {
+   "symbol": "HSPOR",
+   "name": "Horizon Space Acquisition I Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPOR"
+  },
+  {
+   "symbol": "NAOV",
+   "name": "ENvue Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAOV"
+  },
+  {
+   "symbol": "HSPO",
+   "name": "Horizon Space Acquisition I Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPO"
+  },
+  {
+   "symbol": "HSPOW",
+   "name": "Horizon Space Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPOW"
+  },
+  {
+   "symbol": "YGMZ",
+   "name": "MingZhu Logistics Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YGMZ"
   }
  ]
 }
