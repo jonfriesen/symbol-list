@@ -1,144 +1,84 @@
 {
  "added": [
   {
-   "symbol": "PALS",
-   "name": "Paragon Advanced Labs Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PALS.V",
-   "instruments": [
-    {
-     "name": "Paragon Advanced Labs Inc.",
-     "symbol": "PALS"
-    }
-   ]
-  },
-  {
-   "symbol": "ESAF",
-   "name": "Syntholene Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ESAF.V",
-   "instruments": [
-    {
-     "name": "Syntholene Energy Corp.",
-     "symbol": "ESAF"
-    }
-   ]
-  },
-  {
-   "symbol": "AGPU",
-   "name": "Axe Compute Inc. - Common Stock",
+   "symbol": "ASBP",
+   "name": "Aspire Biopharma Holdings, Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGPU"
+   "yahoo_symbol": "ASBP"
   },
   {
-   "symbol": "BLRKU",
-   "name": "Bluerock Acquisition Corp. - Units",
+   "symbol": "ITHAU",
+   "name": "ITHAX Acquisition Corp III - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLRKU"
+   "yahoo_symbol": "ITHAU"
   },
   {
-   "symbol": "CIFG",
-   "name": "Leverage Shares 2X Long CIFR Daily ETF",
+   "symbol": "TWLVU",
+   "name": "Twelve Seas Investment Company III - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CIFG"
+   "yahoo_symbol": "TWLVU"
   },
   {
-   "symbol": "DUOG",
-   "name": "Leverage Shares 2X Long DUOL Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DUOG"
-  },
-  {
-   "symbol": "FEED",
-   "name": "ENvue Medical, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FEED"
-  },
-  {
-   "symbol": "GRAG",
-   "name": "Leverage Shares 2X Long GRAB Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRAG"
-  },
-  {
-   "symbol": "IVSI",
-   "name": "Applied Finance IVS International Large ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IVSI"
-  },
-  {
-   "symbol": "KBONU",
-   "name": "Karbon Capital Partners Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KBONU"
-  },
-  {
-   "symbol": "LACG",
-   "name": "Leverage Shares 2X Long LAC Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LACG"
-  },
-  {
-   "symbol": "LMRI",
-   "name": "Lumexa Imaging Holdings, Inc. - Common Stock",
+   "symbol": "WLTH",
+   "name": "Wealthfront Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LMRI"
-  },
-  {
-   "symbol": "OPEG",
-   "name": "Leverage Shares 2X Long OPEN Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OPEG"
-  },
-  {
-   "symbol": "UPSG",
-   "name": "Leverage Shares 2X Long UPS Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UPSG"
+   "yahoo_symbol": "WLTH"
   }
  ],
  "removed": [
   {
-   "symbol": "POAI",
-   "name": "Predictive Oncology Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "POAI"
+   "symbol": "ARBKL",
+   "name": "Argo Blockchain plc - 8.75% Senior Notes due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARBKL"
   },
   {
-   "symbol": "HSPOU",
-   "name": "Horizon Space Acquisition I Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSPOU"
+   "symbol": "SOL",
+   "name": "Emeren Group Ltd American Depositary Shares, each representing 10 shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOL"
   },
   {
-   "symbol": "HSPOR",
-   "name": "Horizon Space Acquisition I Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSPOR"
+   "symbol": "CUBI$F",
+   "name": "Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CUBI$F"
   },
   {
-   "symbol": "NAOV",
-   "name": "ENvue Medical, Inc. - Common Stock",
+   "symbol": "RVPHW",
+   "name": "Reviva Pharmaceuticals Holdings, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NAOV"
+   "yahoo_symbol": "RVPHW"
   },
   {
-   "symbol": "HSPO",
-   "name": "Horizon Space Acquisition I Corp. - Ordinary Shares",
+   "symbol": "BLMZ",
+   "name": "Harrison Global Holdings Inc. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSPO"
+   "yahoo_symbol": "BLMZ"
   },
   {
-   "symbol": "HSPOW",
-   "name": "Horizon Space Acquisition I Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HSPOW"
+   "symbol": "ASBP",
+   "name": "Aspire Biopharma Holdings, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASBP"
   },
   {
-   "symbol": "YGMZ",
-   "name": "MingZhu Logistics Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YGMZ"
+   "symbol": "ALE",
+   "name": "Allete, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALE"
+  },
+  {
+   "symbol": "VTLE",
+   "name": "Vital Energy, Inc. Common Stock, par value $0.01 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VTLE"
+  },
+  {
+   "symbol": "GTLS$B",
+   "name": "Chart Industries, Inc. Depositary Shares, each Representing a 1/20th Interest in a Share of 6.75% Series B Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GTLS$B"
   }
  ]
 }
