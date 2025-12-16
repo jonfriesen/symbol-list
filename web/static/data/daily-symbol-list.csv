@@ -549,6 +549,7 @@ GLAD,Gladiator Metals Corp.,TSXV,GLAD.V,Gladiator Metals Corp.,GLAD
 GBML,Global Battery Metals Ltd.,TSXV,GBML.V,Global Battery Metals Ltd.,GBML
 CUCU,Global Copper Corp.,TSXV,CUCU.V,Global Copper Corp.,CUCU
 GEMC,Global Energy Metals Corporation,TSXV,GEMC.V,Global Energy Metals Corporation,GEMC
+PWER,Global Power Solutions Corp.,TSXV,PWER.V,Global Power Solutions Corp.,PWER
 GMV,GMV Minerals Inc.,TSXV,GMV.V,GMV Minerals Inc,GMV
 GG,Golconda Gold Ltd.,TSXV,GG.V,Golconda Gold Ltd.,GG
 GLD,Gold Finder Resources Ltd.,TSXV,GLD.V,Gold Finder Resources Ltd.,GLD
@@ -852,7 +853,6 @@ MIVO,Miivo Holdings Corp.,TSXV,MIVO.V,Miivo Holdings Corp.,MIVO
 MLP,Millennial Potash Corp.,TSXV,MLP.V,Millennial Potash Corp.,MLP
 MSC,Millennium Silver Corp.,TSXV,MSC.V,Millennium Silver Corp.,MSC
 MIM,MiMedia Holdings Inc.,TSXV,MIM.V,MiMedia Holdings Inc.,MIM
-MSP,Minaean SP Construction Corp.,TSXV,MSP.V,Minaean SP Construction Corp.,MSP
 MGG,Minaurum Gold Inc.,TSXV,MGG.V,Minaurum Gold Inc.,MGG
 MMM,Minco Capital Corp.,TSXV,MMM.V,Minco Capital Corp.,MMM
 MHUB,Minehub Technologies Inc.,TSXV,MHUB.V,Minehub Technologies Inc.,MHUB
@@ -1547,7 +1547,7 @@ RATE,Arrow EC Income Advantage Alternative Fund,TSX,RATE.TO,Arrow EC IncmAdvanUn
 ACAA,Arrow Long/Short Alternative Fund,TSX,ACAA.TO,Arrow Lng/Sh Alt ETF,ACAA
 AX.PR.E,Artis Real Estate Investment Trust,TSX,AX.PR.E.TO,Artis REIT Ser E Pr,AX.PR.E,Artis REIT Ser I Pr,AX.PR.I,Artis REIT Un,AX.UN
 ASML,ASML CDR (CAD Hedged),TSX,ASML.TO,ASML CDR CAD Hedged,ASML
-ACO.X,ATCO Ltd.,TSX,ACO.X.TO,ATCO Ltd. Cl I NV,ACO.X,ATCO Ltd. Cl II,ACO.Y
+ACO.X,ATCO Ltd.,TSX,ACO.X.TO,ATCO Ltd. Cl I NV,ACO.X
 ATH,Athabasca Oil Corporation,TSX,ATH.TO,Athabasca Oil Corp,ATH
 ATRL,AtkinsRéalis Group Inc.,TSX,ATRL.TO,AtkinsRealis GrpInc,ATRL
 AI,Atrium Mortgage Investment Corporation,TSX,AI.TO,Atrium Mtg Invest,AI,Atrium Mtg Inv 5.5Db,AI.DB.D,Atrium Mtg Inv 5% Db,AI.DB.F,Atrium Mtg 5.1% Deb,AI.DB.G
@@ -4012,6 +4012,7 @@ BCARW,D. Boral ARC Acquisition I Corp. - Warrant,NASDAQ Global MarketSM,BCARW
 BCAX,Bicara Therapeutics Inc. - Common Stock,NASDAQ Global MarketSM,BCAX
 BCBP,"BCB Bancorp, Inc. (NJ) - Common Stock",NASDAQ Global MarketSM,BCBP
 BCDA,"BioCardia, Inc. - Common Stock",NASDAQ Capital Market,BCDA
+BCFN,Baron Financials ETF,NASDAQ Global MarketSM,BCFN
 BCG,"Binah Capital Group, Inc. - Common Stock",NASDAQ Global MarketSM,BCG
 BCGWW,"Binah Capital Group, Inc. - Warrants",NASDAQ Capital Market,BCGWW
 BCIC,BCP Investment Corporation - Closed End Fund,NASDAQ Global Select MarketSM,BCIC
@@ -4019,6 +4020,7 @@ BCLO,iShares BBB-B CLO Active ETF,NASDAQ Global MarketSM,BCLO
 BCML,BayCom Corp - Common Stock,NASDAQ Global Select MarketSM,BCML
 BCPC,Balchem Corporation - Common Stock,NASDAQ Global Select MarketSM,BCPC
 BCRX,"BioCryst Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,BCRX
+BCTK,Baron Technology ETF,NASDAQ Global MarketSM,BCTK
 BCTX,BriaCell Therapeutics Corp. - Common Shares,NASDAQ Capital Market,BCTX
 BCTXW,BriaCell Therapeutics Corp. - Warrant,NASDAQ Capital Market,BCTXW
 BCTXZ,BriaCell Therapeutics Corp. - Warrant,NASDAQ Capital Market,BCTXZ
@@ -4208,7 +4210,6 @@ BSAA,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,NASDAQ Capital Mark
 BSAAR,BEST SPAC I Acquisition Corp. - Rights,NASDAQ Capital Market,BSAAR
 BSAAU,BEST SPAC I Acquisition Corp. - Unit,NASDAQ Capital Market,BSAAU
 BSBK,Bogota Financial Corp. - Common Stock,NASDAQ Capital Market,BSBK
-BSCP,Invesco BulletShares 2025 Corporate Bond ETF,NASDAQ Global MarketSM,BSCP
 BSCQ,Invesco BulletShares 2026 Corporate Bond ETF,NASDAQ Global MarketSM,BSCQ
 BSCR,Invesco BulletShares 2027 Corporate Bond ETF,NASDAQ Global MarketSM,BSCR
 BSCS,Invesco BulletShares 2028 Corporate Bond ETF,NASDAQ Global MarketSM,BSCS
@@ -4220,7 +4221,6 @@ BSCX,Invesco BulletShares 2033 Corporate Bond ETF,NASDAQ Global MarketSM,BSCX
 BSCY,Invesco BulletShares 2034 Corporate Bond ETF,NASDAQ Global MarketSM,BSCY
 BSCZ,Invesco BulletShares 2035 Corporate Bond ETF,NASDAQ Global MarketSM,BSCZ
 BSET,"Bassett Furniture Industries, Incorporated - Common Stock",NASDAQ Global Select MarketSM,BSET
-BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJP
 BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJQ
 BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJR
 BSJS,Invesco BulletShares 2028 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJS
@@ -4231,7 +4231,6 @@ BSJW,Invesco BulletShares 2032 High Yield Corporate Bond ETF,NASDAQ Global Marke
 BSJX,Invesco BulletShares 2033 High Yield Corporate Bond ETF,NASDAQ Global MarketSM,BSJX
 BSLK,"Bolt Projects Holdings, Inc. - Common Stock",NASDAQ Capital Market,BSLK
 BSLKW,"Bolt Projects Holdings, Inc. - Warrant",NASDAQ Capital Market,BSLKW
-BSMP,Invesco BulletShares 2025 Municipal Bond ETF,NASDAQ Global MarketSM,BSMP
 BSMQ,Invesco BulletShares 2026 Municipal Bond ETF,NASDAQ Global MarketSM,BSMQ
 BSMR,Invesco BulletShares 2027 Municipal Bond ETF,NASDAQ Global MarketSM,BSMR
 BSMS,Invesco BulletShares 2028 Municipal Bond ETF,NASDAQ Global MarketSM,BSMS
@@ -4254,7 +4253,6 @@ BTCS,BTCS Inc. - Common Stock,NASDAQ Capital Market,BTCS
 BTCT,BTC Digital Ltd. - Ordinary Shares,NASDAQ Capital Market,BTCT
 BTDR,Bitdeer Technologies Group - Ordinary Shares,NASDAQ Capital Market,BTDR
 BTF,CoinShares Bitcoin and Ether ETF,NASDAQ Global MarketSM,BTF
-BTFX,CoinShares Bitcoin Leverage ETF,NASDAQ Global MarketSM,BTFX
 BTGD,STKd 100% Bitcoin & 100% Gold ETF,NASDAQ Global MarketSM,BTGD
 BTM,Bitcoin Depot Inc. - Class A Common Stock,NASDAQ Capital Market,BTM
 BTMD,Biote Corp. - Class A common stock,NASDAQ Global MarketSM,BTMD
@@ -4530,6 +4528,7 @@ CMBM,Cambium Networks Corporation - Ordinary Shares,NASDAQ Global MarketSM,CMBM
 CMBO,Wayfinder Dynamic U.S. Interest Rate ETF,NASDAQ Global MarketSM,CMBO
 CMCO,Columbus McKinnon Corporation - Common Stock,NASDAQ Global Select MarketSM,CMCO
 CMCSA,Comcast Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,CMCSA
+CMCSV,Comcast Corporation - Class A Common Stock Ex-Distribution When Issued,NASDAQ Global Select MarketSM,CMCSV
 CMCT,Creative Media  - Common Stock,NASDAQ Capital Market,CMCT
 CME,CME Group Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,CME
 CMGG,Leverage Shares 2X Long CMG Daily ETF,NASDAQ Global MarketSM,CMGG
@@ -4857,6 +4856,7 @@ DSY,Big Tree Cloud Holdings Limited - Ordinary Shares,NASDAQ Global MarketSM,DSY
 DSYWW,Big Tree Cloud Holdings Limited - Warrants,NASDAQ Capital Market,DSYWW
 DTCK,Davis Commodities Limited - Class A Ordinary Shares,NASDAQ Capital Market,DTCK
 DTCR,Global X Data Center & Digital Infrastructure ETF,NASDAQ Global MarketSM,DTCR
+DTCX,"Datacentrex, Inc. - Common Stock",NASDAQ Capital Market,DTCX
 DTI,Drilling Tools International Corporation  - Common Stock,NASDAQ Capital Market,DTI
 DTIL,"Precision BioSciences, Inc. - Common Stock",NASDAQ Capital Market,DTIL
 DTSQ,DT Cloud Star Acquisition Corporation - Ordinary Shares,NASDAQ Global MarketSM,DTSQ
@@ -5379,7 +5379,6 @@ GABC,"German American Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketS
 GAIA,"Gaia, Inc. - Class A Common Stock",NASDAQ Global MarketSM,GAIA
 GAIN,Gladstone Investment Corporation - Business Development Company,NASDAQ Global Select MarketSM,GAIN
 GAINI,Gladstone Investment Corporation - 7.875% Notes due 2030,NASDAQ Global Select MarketSM,GAINI
-GAINL,Gladstone Investment Corporation - 8.00% Notes due 2028,NASDAQ Global Select MarketSM,GAINL
 GAINN,Gladstone Investment Corporation - 5.00% Notes Due 2026,NASDAQ Global Select MarketSM,GAINN
 GAINZ,Gladstone Investment Corporation - 4.875% Notes due 2028,NASDAQ Global Select MarketSM,GAINZ
 GALT,Galectin Therapeutics Inc. - Common Stock,NASDAQ Capital Market,GALT
@@ -5593,6 +5592,8 @@ HAIN,"The Hain Celestial Group, Inc. - Common Stock",NASDAQ Global Select Market
 HALO,"Halozyme Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,HALO
 HAO,Haoxi Health Technology Limited - Class A Ord Share,NASDAQ Capital Market,HAO
 HAS,"Hasbro, Inc. - Common Stock",NASDAQ Global Select MarketSM,HAS
+HAVA,Harvard Ave Acquisition Corporation - Class A Ordinary Share,NASDAQ Global MarketSM,HAVA
+HAVAR,Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares,NASDAQ Global MarketSM,HAVAR
 HAVAU,Harvard Ave Acquisition Corporation - Unit,NASDAQ Global MarketSM,HAVAU
 HBAN,Huntington Bancshares Incorporated - Common Stock,NASDAQ Global Select MarketSM,HBAN
 HBANL,"Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock",NASDAQ Global Select MarketSM,HBANL
@@ -5773,7 +5774,6 @@ IBKR,"Interactive Brokers Group, Inc. - Class A Common Stock",NASDAQ Global Sele
 IBOC,International Bancshares Corporation - Common Stock,NASDAQ Global Select MarketSM,IBOC
 IBOT,VanEck Robotics ETF,NASDAQ Global MarketSM,IBOT
 IBRX,"ImmunityBio, Inc. - Common Stock",NASDAQ Global Select MarketSM,IBRX
-IBTF,iShares iBonds Dec 2025 Term Treasury ETF,NASDAQ Global MarketSM,IBTF
 IBTG,iShares iBonds Dec 2026 Term Treasury ETF,NASDAQ Global MarketSM,IBTG
 IBTH,iShares iBonds Dec 2027 Term Treasury ETF,NASDAQ Global MarketSM,IBTH
 IBTI,iShares iBonds Dec 2028 Term Treasury ETF,NASDAQ Global MarketSM,IBTI
@@ -6246,8 +6246,6 @@ LKQ,LKQ Corporation - Common Stock,NASDAQ Global Select MarketSM,LKQ
 LKSP,Lake Superior Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,LKSP
 LKSPR,Lake Superior Acquisition Corp. - Rights,NASDAQ Global MarketSM,LKSPR
 LKSPU,Lake Superior Acquisition Corp. - Units,NASDAQ Global MarketSM,LKSPU
-LLYVA,Liberty Media Corporation - Series A Liberty Live Common Stock,NASDAQ Global Select MarketSM,LLYVA
-LLYVK,Liberty Media Corporation - Series C Liberty Live Common Stock,NASDAQ Global Select MarketSM,LLYVK
 LLYZ,Defiance Daily Target 2X Short LLY ETF,NASDAQ Global MarketSM,LLYZ
 LMAT,"LeMaitre Vascular, Inc. - Common Stock",NASDAQ Global MarketSM,LMAT
 LMB,"Limbach Holdings, Inc. - Common Stock",NASDAQ Capital Market,LMB
@@ -6491,7 +6489,9 @@ MLTX,MoonLake Immunotherapeutics - Class A Ordinary Shares,NASDAQ Capital Market
 MLYS,"Mineralys Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MLYS
 MMLP,Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests,NASDAQ Global Select MarketSM,MMLP
 MMSI,"Merit Medical Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,MMSI
+MMTX,Miluna Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,MMTX
 MMTXU,Miluna Acquisition Corp - Units,NASDAQ Global MarketSM,MMTXU
+MMTXW,Miluna Acquisition Corp - Warrant,NASDAQ Global MarketSM,MMTXW
 MMYT,MakeMyTrip Limited - Ordinary Shares,NASDAQ Global Select MarketSM,MMYT
 MNDO,MIND C.T.I. Ltd. - Ordinary Shares,NASDAQ Global MarketSM,MNDO
 MNDR,Mobile-health Network Solutions - Class A Ordinary Shares,NASDAQ Capital Market,MNDR
@@ -7221,7 +7221,7 @@ PRSO,Peraso Inc. - Common Stock,NASDAQ Capital Market,PRSO
 PRTA,Prothena Corporation plc - Ordinary Shares,NASDAQ Global Select MarketSM,PRTA
 PRTC,PureTech Health plc - American Depositary Shares,NASDAQ Global MarketSM,PRTC
 PRTH,"Priority Technology Holdings, Inc. - Common Stock",NASDAQ Capital Market,PRTH
-PRTS,"CarParts.com, Inc. - Common Stock",NASDAQ Global Select MarketSM,PRTS
+PRTS,"CarParts.com, Inc. - Common Stock",NASDAQ Capital Market,PRTS
 PRVA,"Privia Health Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,PRVA
 PRZO,ParaZero Technologies Ltd. - Ordinary Shares,NASDAQ Capital Market,PRZO
 PSC,Principal U.S. Small-Cap ETF,NASDAQ Global MarketSM,PSC
@@ -8246,7 +8246,6 @@ TXXS,21Shares 2x Long Sui ETF,NASDAQ Global MarketSM,TXXS
 TYGO,"Tigo Energy, Inc. - Common Stock",NASDAQ Capital Market,TYGO
 TYRA,"Tyra Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,TYRA
 TZOO,Travelzoo - Common Stock,NASDAQ Global Select MarketSM,TZOO
-TZUP,Thumzup Media Corporation - Common Stock,NASDAQ Capital Market,TZUP
 UAE,iShares MSCI UAE ETF,NASDAQ Global MarketSM,UAE
 UAL,"United Airlines Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,UAL
 UBCP,"United Bancorp, Inc. - Common Stock",NASDAQ Capital Market,UBCP
@@ -8455,6 +8454,7 @@ VSEE,"VSee Health, Inc. - Common Stock",NASDAQ Capital Market,VSEE
 VSEEW,"VSee Health, Inc. - Warrant",NASDAQ Capital Market,VSEEW
 VSME,VS Media Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,VSME
 VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ Global MarketSM,VSMV
+VSNTV,"Versant Media Group, Inc. - Class A Common Stock When-Issued",NASDAQ Global Select MarketSM,VSNTV
 VSOL,VanEck Solana ETF,NASDAQ Global MarketSM,VSOL
 VSSYW,Versus Systems Inc. - Class A Warrants,NASDAQ Capital Market,VSSYW
 VSTA,Vasta Platform Limited - Class A Ordinary Shares,NASDAQ Global Select MarketSM,VSTA
@@ -9032,7 +9032,6 @@ BANC$F,"Banc of California, Inc. Depositary Shares, each representing a 1/40th i
 BAP,Credicorp Ltd. Common Stock,NYSE,BAP
 BAR,GraniteShares Gold Trust Shares of Beneficial Interest,NYSE ARCA,BAR
 BARK,"BARK, Inc. Class A Common Stock",NYSE,BARK
-BARK.W,"BARK, Inc. Redeemable Warrants, each whole warrant exercisable for shares of Common Stock at an exercise price of $11.50 per share",NYSE,BARK.W
 BATL,Battalion Oil Corporation Common Stock,NYSE MKT,BATL
 BAX,Baxter International Inc. Common Stock,NYSE,BAX
 BB,BlackBerry Limited Common Stock,NYSE,BB
@@ -9074,7 +9073,6 @@ BDL,"Flanigan's Enterprises, Inc. Common Stock",NYSE MKT,BDL
 BDN,Brandywine Realty Trust Common Stock,NYSE,BDN
 BDX,"Becton, Dickinson and Company Common Stock",NYSE,BDX
 BE,Bloom Energy Corporation Class A Common Stock,NYSE,BE
-BEDU,"Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share",NYSE,BEDU
 BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,BEKE
 BEN,"Franklin Resources, Inc. Common Stock",NYSE,BEN
 BEP,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,BEP
@@ -9186,6 +9184,7 @@ BORR,Borr Drilling Limited Common Shares,NYSE,BORR
 BOW,Bowhead Specialty Holdings Inc. Common Stock,NYSE,BOW
 BOX,"Box, Inc. Class A Common Stock",NYSE,BOX
 BP,BP p.l.c. Common Stock,NYSE,BP
+BPRE,Bluerock Private Real Estate Fund Common Shares of Beneficial Interest,NYSE,BPRE
 BQ,Boqii Holding Limited Class A Ordinary Shares,NYSE MKT,BQ
 BR,"Broadridge Financial Solutions, Inc. Common Stock",NYSE,BR
 BRBR,"BellRing Brands, Inc. Common Stock ",NYSE,BRBR
@@ -9954,7 +9953,6 @@ GFF,Griffon Corporation Common Stock,NYSE,GFF
 GFI,Gold Fields Limited American Depositary Shares,NYSE,GFI
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value",NYSE,GFL
 GFR,Greenfire Resources Ltd. Common Shares,NYSE,GFR
-GFR.R,"Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights",NYSE,GFR.R
 GGB,Gerdau S.A. Common Stock,NYSE,GGB
 GGG,Graco Inc. Common Stock,NYSE,GGG
 GGN,"GAMCO Global Gold, Natural Resources & Income Trust",NYSE MKT,GGN
@@ -10644,7 +10642,7 @@ MVF,"Blackrock MuniVest Fund, Inc. Common Stock",NYSE,MVF
 MVO,MV Oil Trust Units of Beneficial Interests,NYSE,MVO
 MVT,"Blackrock MuniVest Fund II, Inc.  Common Stock",NYSE,MVT
 MWA,MUELLER WATER PRODUCTS Common Stock,NYSE,MWA
-MWG,Multi Ways Holdings Limited Ordinary Shares,NYSE MKT,MWG
+MWG,Multi Ways Holdings Limited Class A Ordinary Shares,NYSE MKT,MWG
 MX,Magnachip Semiconductor Corporation Common Stock,NYSE,MX
 MXC,Mexco Energy Corporation Common Stock,NYSE MKT,MXC
 MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock",NYSE,MXE
