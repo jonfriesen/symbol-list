@@ -1,30 +1,48 @@
 {
  "added": [
   {
-   "symbol": "OPLN",
-   "name": "OPENLANE, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OPLN"
+   "symbol": "AEF",
+   "name": "AE Fuels Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AEF.V",
+   "instruments": [
+    {
+     "name": "AE Fuels Corporation",
+     "symbol": "AEF"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "VIVK",
-   "name": "Vivakor, Inc. - Common Stock",
+   "symbol": "TTSH",
+   "name": "Tile Shop Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VIVK"
+   "yahoo_symbol": "TTSH"
   },
   {
-   "symbol": "ELP",
-   "name": "Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ELP"
+   "symbol": "CVY.P",
+   "name": "Cavalry Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CVY.P.V",
+   "instruments": [
+    {
+     "name": "Cavalry Capital Corp.",
+     "symbol": "CVY.P"
+    }
+   ]
   },
   {
-   "symbol": "KAR",
-   "name": "OPENLANE, Inc. Common Stock",
+   "symbol": "CIFRW",
+   "name": "Cipher Mining Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CIFRW"
+  },
+  {
+   "symbol": "EICB",
+   "name": "Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028",
    "exchange": "NYSE",
-   "yahoo_symbol": "KAR"
+   "yahoo_symbol": "EICB"
   }
  ]
 }

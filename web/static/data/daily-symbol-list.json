@@ -1,5 +1,5 @@
 {
- "date": "2025-12-26",
+ "date": "2025-12-29",
  "data": [
   {
    "symbol": "ONE",
@@ -262,6 +262,18 @@
     {
      "name": "Adyton Resources Corporation",
      "symbol": "ADY"
+    }
+   ]
+  },
+  {
+   "symbol": "AEF",
+   "name": "AE Fuels Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AEF.V",
+   "instruments": [
+    {
+     "name": "AE Fuels Corporation",
+     "symbol": "AEF"
     }
    ]
   },
@@ -3246,18 +3258,6 @@
     {
      "name": "Cathedra Bitcoin Inc.",
      "symbol": "CBIT"
-    }
-   ]
-  },
-  {
-   "symbol": "CVY.P",
-   "name": "Cavalry Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CVY.P.V",
-   "instruments": [
-    {
-     "name": "Cavalry Capital Corp.",
-     "symbol": "CVY.P"
     }
    ]
   },
@@ -51888,12 +51888,6 @@
    "yahoo_symbol": "CIFR"
   },
   {
-   "symbol": "CIFRW",
-   "name": "Cipher Mining Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CIFRW"
-  },
-  {
    "symbol": "CIGI",
    "name": "Colliers International Group Inc.  - Subordinate Voting Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -65929,7 +65923,7 @@
   },
   {
    "symbol": "NWGL",
-   "name": "Nature Wood Group Limited - American Depositary Shares",
+   "name": "CL Workshop Group Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NWGL"
   },
@@ -74292,12 +74286,6 @@
    "yahoo_symbol": "TTRX"
   },
   {
-   "symbol": "TTSH",
-   "name": "Tile Shop Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TTSH"
-  },
-  {
    "symbol": "TTWO",
    "name": "Take-Two Interactive Software, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -79009,7 +78997,7 @@
   },
   {
    "symbol": "AXIA$",
-   "name": "AXIA Energia American Depositary Shares (Each representing one Preferred Share)",
+   "name": "AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share)",
    "exchange": "NYSE",
    "yahoo_symbol": "AXIA$"
   },
@@ -83146,12 +83134,6 @@
    "name": "Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026",
    "exchange": "NYSE",
    "yahoo_symbol": "EICA"
-  },
-  {
-   "symbol": "EICB",
-   "name": "Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EICB"
   },
   {
    "symbol": "EICC",
