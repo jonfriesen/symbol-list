@@ -1,48 +1,78 @@
 {
  "added": [
   {
-   "symbol": "AEF",
-   "name": "AE Fuels Corporation",
+   "symbol": "JJJJ",
+   "name": "J4 Ventures Resources Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AEF.V",
+   "yahoo_symbol": "JJJJ.V",
    "instruments": [
     {
-     "name": "AE Fuels Corporation",
-     "symbol": "AEF"
+     "name": "J4 Ventures Resources Corp.",
+     "symbol": "JJJJ"
     }
    ]
+  },
+  {
+   "symbol": "ABX",
+   "name": "Abacus Global Management, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ABX"
+  },
+  {
+   "symbol": "AXIA$C",
+   "name": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA$C"
   }
  ],
  "removed": [
   {
-   "symbol": "TTSH",
-   "name": "Tile Shop Holdings, Inc. - Common Stock",
+   "symbol": "CLNNW",
+   "name": "Clene Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TTSH"
+   "yahoo_symbol": "CLNNW"
   },
   {
-   "symbol": "CVY.P",
-   "name": "Cavalry Capital Corp.",
+   "symbol": "LGL.W",
+   "name": "LGL Group, Inc. (The) Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGL.W"
+  },
+  {
+   "symbol": "ABLLL",
+   "name": "Abacus Global Management, Inc. - 9.875% Fixed Rate Senior Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABLLL"
+  },
+  {
+   "symbol": "ABL",
+   "name": "Abacus Global Management, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABL"
+  },
+  {
+   "symbol": "ILLR",
+   "name": "Triller Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLR"
+  },
+  {
+   "symbol": "ILLRW",
+   "name": "Triller Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLRW"
+  },
+  {
+   "symbol": "JJJJ.P",
+   "name": "J4 Ventures Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CVY.P.V",
+   "yahoo_symbol": "JJJJ.P.V",
    "instruments": [
     {
-     "name": "Cavalry Capital Corp.",
-     "symbol": "CVY.P"
+     "name": "J4 Ventures Inc.",
+     "symbol": "JJJJ.P"
     }
    ]
-  },
-  {
-   "symbol": "CIFRW",
-   "name": "Cipher Mining Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CIFRW"
-  },
-  {
-   "symbol": "EICB",
-   "name": "Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EICB"
   }
  ]
 }
