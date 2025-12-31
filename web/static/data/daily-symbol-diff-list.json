@@ -1,78 +1,54 @@
 {
  "added": [
   {
-   "symbol": "JJJJ",
-   "name": "J4 Ventures Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JJJJ.V",
-   "instruments": [
-    {
-     "name": "J4 Ventures Resources Corp.",
-     "symbol": "JJJJ"
-    }
-   ]
+   "symbol": "FDRS",
+   "name": "Founder-Led ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDRS"
   },
   {
-   "symbol": "ABX",
-   "name": "Abacus Global Management, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ABX"
+   "symbol": "TSCM",
+   "name": "TimesSquare Quality Mid Cap Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSCM"
   },
   {
-   "symbol": "AXIA$C",
-   "name": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",
+   "symbol": "ABXL",
+   "name": "Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",
    "exchange": "NYSE",
-   "yahoo_symbol": "AXIA$C"
+   "yahoo_symbol": "ABXL"
+  },
+  {
+   "symbol": "HYT.V",
+   "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYT.V"
   }
  ],
  "removed": [
   {
-   "symbol": "CLNNW",
-   "name": "Clene Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CLNNW"
+   "symbol": "DRH$A",
+   "name": "Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DRH$A"
   },
   {
-   "symbol": "LGL.W",
-   "name": "LGL Group, Inc. (The) Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LGL.W"
-  },
-  {
-   "symbol": "ABLLL",
-   "name": "Abacus Global Management, Inc. - 9.875% Fixed Rate Senior Notes due 2028",
+   "symbol": "MRUS",
+   "name": "Merus N.V. - Common Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ABLLL"
+   "yahoo_symbol": "MRUS"
   },
   {
-   "symbol": "ABL",
-   "name": "Abacus Global Management, Inc. - Class A Common Stock",
+   "symbol": "WSTNU",
+   "name": "Westin Acquisition Corp - Units",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ABL"
+   "yahoo_symbol": "WSTNU"
   },
   {
-   "symbol": "ILLR",
-   "name": "Triller Group Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ILLR"
-  },
-  {
-   "symbol": "ILLRW",
-   "name": "Triller Group Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ILLRW"
-  },
-  {
-   "symbol": "JJJJ.P",
-   "name": "J4 Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "JJJJ.P.V",
-   "instruments": [
-    {
-     "name": "J4 Ventures Inc.",
-     "symbol": "JJJJ.P"
-    }
-   ]
+   "symbol": "WOW",
+   "name": "WideOpenWest, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WOW"
   }
  ]
 }
