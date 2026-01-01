@@ -1,54 +1,28 @@
 {
  "added": [
   {
-   "symbol": "FDRS",
-   "name": "Founder-Led ETF",
+   "symbol": "PFDE",
+   "name": "Pathfinder Disciplined US Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FDRS"
+   "yahoo_symbol": "PFDE"
   },
   {
-   "symbol": "TSCM",
-   "name": "TimesSquare Quality Mid Cap Growth ETF",
+   "symbol": "PFOE",
+   "name": "Pathfinder Focused Opportunities ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSCM"
+   "yahoo_symbol": "PFOE"
   },
   {
-   "symbol": "ABXL",
-   "name": "Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ABXL"
-  },
-  {
-   "symbol": "HYT.V",
-   "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HYT.V"
-  }
- ],
- "removed": [
-  {
-   "symbol": "DRH$A",
-   "name": "Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DRH$A"
-  },
-  {
-   "symbol": "MRUS",
-   "name": "Merus N.V. - Common Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MRUS"
-  },
-  {
-   "symbol": "WSTNU",
-   "name": "Westin Acquisition Corp - Units",
+   "symbol": "WSTN",
+   "name": "Westin Acquisition Corp - Class A Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WSTNU"
+   "yahoo_symbol": "WSTN"
   },
   {
-   "symbol": "WOW",
-   "name": "WideOpenWest, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WOW"
+   "symbol": "WSTNR",
+   "name": "Westin Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSTNR"
   }
  ]
 }
