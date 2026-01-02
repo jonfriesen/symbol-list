@@ -1,5 +1,5 @@
 {
- "date": "2026-01-01",
+ "date": "2026-01-02",
  "data": [
   {
    "symbol": "ONE",
@@ -70,6 +70,18 @@
     {
      "name": "A-Labs Capital II Corp.",
      "symbol": "ALAB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AIS",
+   "name": "A.I.S. Resources Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AIS.V",
+   "instruments": [
+    {
+     "name": "A.I.S. Resources Limited",
+     "symbol": "AIS"
     }
    ]
   },
@@ -12366,6 +12378,18 @@
    ]
   },
   {
+   "symbol": "PCLO",
+   "name": "Pharmacielo Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCLO.V",
+   "instruments": [
+    {
+     "name": "Pharmacielo Ltd.",
+     "symbol": "PCLO"
+    }
+   ]
+  },
+  {
    "symbol": "PCRX",
    "name": "PharmaCorp Rx Inc.",
    "exchange": "TSXV",
@@ -19008,10 +19032,6 @@
      "symbol": "AI"
     },
     {
-     "name": "Atrium Mtg Inv 5.5Db",
-     "symbol": "AI.DB.D"
-    },
-    {
      "name": "Atrium Mtg Inv 5% Db",
      "symbol": "AI.DB.F"
     },
@@ -22508,10 +22528,6 @@
      "symbol": "BN.PF.G"
     },
     {
-     "name": "Brookfld Corp. Pr 44",
-     "symbol": "BN.PF.H"
-    },
-    {
      "name": "Brookfld Corp. Pr 46",
      "symbol": "BN.PF.I"
     },
@@ -22594,15 +22610,11 @@
    ]
   },
   {
-   "symbol": "BIP.PR.B",
+   "symbol": "BIP.PR.E",
    "name": "Brookfield Infrastructure Partners L.P.",
    "exchange": "TSX",
-   "yahoo_symbol": "BIP.PR.B.TO",
+   "yahoo_symbol": "BIP.PR.E.TO",
    "instruments": [
-    {
-     "name": "Brookfield InfrasPr3",
-     "symbol": "BIP.PR.B"
-    },
     {
      "name": "Brookfield InfrasPr9",
      "symbol": "BIP.PR.E"
@@ -25688,7 +25700,7 @@
      "symbol": "CRWN"
     },
     {
-     "name": "Crown CapPartJ 11%Db",
+     "name": "Crown CapPartJ 12%Db",
      "symbol": "CRWN.NT"
     }
    ]
@@ -28076,14 +28088,6 @@
      "symbol": "FFH"
     },
     {
-     "name": "Fairfax Fin Ser I Pr",
-     "symbol": "FFH.PR.I"
-    },
-    {
-     "name": "Fairfax Fin Ser J Pr",
-     "symbol": "FFH.PR.J"
-    },
-    {
      "name": "Fairfax Fin Ser K Pr",
      "symbol": "FFH.PR.K"
     },
@@ -28518,10 +28522,6 @@
     {
      "name": "Fiera Capital A SV",
      "symbol": "FSZ"
-    },
-    {
-     "name": "Fiera Capitl 8.25 Db",
-     "symbol": "FSZ.DB.B"
     },
     {
      "name": "Fiera Capitl 7.75 Db",
@@ -38022,18 +38022,6 @@
    ]
   },
   {
-   "symbol": "MOGO",
-   "name": "Mogo Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "MOGO.TO",
-   "instruments": [
-    {
-     "name": "Mogo Inc. J",
-     "symbol": "MOGO"
-    }
-   ]
-  },
-  {
    "symbol": "TPX.A",
    "name": "Molson Coors Canada Inc.",
    "exchange": "TSX",
@@ -39390,6 +39378,18 @@
     {
      "name": "Organigram Global In",
      "symbol": "OGI"
+    }
+   ]
+  },
+  {
+   "symbol": "ORIO",
+   "name": "Orion Digital Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ORIO.TO",
+   "instruments": [
+    {
+     "name": "Orion Digital Corp",
+     "symbol": "ORIO"
     }
    ]
   },
@@ -48223,7 +48223,7 @@
   },
   {
    "symbol": "ATAI",
-   "name": "Atai Beckley N.V - Common Shares",
+   "name": "AtaiBeckley Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ATAI"
   },
@@ -50617,7 +50617,7 @@
   },
   {
    "symbol": "BVC",
-   "name": "BitVentures Limited - American Depositary Shares",
+   "name": "BitVentures Limited - Ordinary Share",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BVC"
   },
@@ -58867,7 +58867,7 @@
   },
   {
    "symbol": "HKPD",
-   "name": "Hong Kong Pharma Digital Technology Holdings Limited - Ordinary shares",
+   "name": "Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HKPD"
   },
@@ -64098,12 +64098,6 @@
    "yahoo_symbol": "MOFG"
   },
   {
-   "symbol": "MOGO",
-   "name": "Mogo Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MOGO"
-  },
-  {
    "symbol": "MOLN",
    "name": "Molecular Partners AG - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -66342,12 +66336,6 @@
    "yahoo_symbol": "OMAB"
   },
   {
-   "symbol": "OMCC",
-   "name": "Old Market Capital Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OMCC"
-  },
-  {
    "symbol": "OMCL",
    "name": "Omnicell, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -66652,6 +66640,12 @@
    "name": "Oric Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ORIC"
+  },
+  {
+   "symbol": "ORIO",
+   "name": "Orion Digital Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORIO"
   },
   {
    "symbol": "ORIQ",
@@ -67966,18 +67960,6 @@
    "name": "Patriot National Bancorp Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PNBK"
-  },
-  {
-   "symbol": "PNFP",
-   "name": "Pinnacle Financial Partners, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PNFP"
-  },
-  {
-   "symbol": "PNFPP",
-   "name": "Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PNFPP"
   },
   {
    "symbol": "PNQI",
@@ -74515,7 +74497,7 @@
   },
   {
    "symbol": "UBND",
-   "name": "VictoryShares Core Plus Intermediate Bond ETF",
+   "name": "VictoryShares Core Plus Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UBND"
   },
@@ -76674,12 +76656,6 @@
    "yahoo_symbol": "XERS"
   },
   {
-   "symbol": "XFIX",
-   "name": "F/m Opportunistic Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XFIX"
-  },
-  {
    "symbol": "XFOR",
    "name": "X4 Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -77190,6 +77166,12 @@
    "yahoo_symbol": "ZGM"
   },
   {
+   "symbol": "ZHOG",
+   "name": "F/m Opportunistic Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZHOG"
+  },
+  {
    "symbol": "ZION",
    "name": "Zions Bancorporation N.A. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -77488,6 +77470,12 @@
    "name": "Accel Entertainment, Inc. ",
    "exchange": "NYSE",
    "yahoo_symbol": "ACEL"
+  },
+  {
+   "symbol": "ACH",
+   "name": "Accendra Health, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACH"
   },
   {
    "symbol": "ACHR",
@@ -85302,12 +85290,6 @@
    "yahoo_symbol": "GROY.W"
   },
   {
-   "symbol": "GRP.U",
-   "name": "Granite Real Estate Inc. Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GRP.U"
-  },
-  {
    "symbol": "GRX",
    "name": "The Gabelli Healthcare \u0026 Wellness Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -90096,12 +90078,6 @@
    "yahoo_symbol": "OMF"
   },
   {
-   "symbol": "OMI",
-   "name": "Owens \u0026 Minor, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OMI"
-  },
-  {
    "symbol": "ONIT",
    "name": "Onity Group Inc. Common Stock",
    "exchange": "NYSE",
@@ -91080,6 +91056,30 @@
    "yahoo_symbol": "PNC"
   },
   {
+   "symbol": "PNFP",
+   "name": "Pinnacle Financial Partners, Inc. Common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNFP"
+  },
+  {
+   "symbol": "PNFP$A",
+   "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNFP$A"
+  },
+  {
+   "symbol": "PNFP$B",
+   "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNFP$B"
+  },
+  {
+   "symbol": "PNFP$C",
+   "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNFP$C"
+  },
+  {
    "symbol": "PNI",
    "name": "Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest",
    "exchange": "NYSE",
@@ -91966,12 +91966,6 @@
    "name": "Raymond James Financial, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RJF"
-  },
-  {
-   "symbol": "RJF$B",
-   "name": "Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RJF$B"
   },
   {
    "symbol": "RKT",
@@ -93136,24 +93130,6 @@
    "name": "Snowflake Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SNOW"
-  },
-  {
-   "symbol": "SNV",
-   "name": "Synovus Financial Corp. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SNV"
-  },
-  {
-   "symbol": "SNV$D",
-   "name": "Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SNV$D"
-  },
-  {
-   "symbol": "SNV$E",
-   "name": "Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SNV$E"
   },
   {
    "symbol": "SNX",

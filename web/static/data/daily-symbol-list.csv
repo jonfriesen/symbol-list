@@ -1,10 +1,11 @@
-Symbol,Name,Exchange,Yahoo Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol
+Symbol,Name,Exchange,Yahoo Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol,Instrument Name,Instrument Symbol
 ONE,01 Quantum Inc.,TSXV,ONE.V,01 Quantum Inc.,ONE
 EFF,1844 Resources Inc.,TSXV,EFF.V,1844 Resources Inc.,EFF
 AUMB,1911 Gold Corporation,TSXV,AUMB.V,1911 Gold Corporation,AUMB
 FNR,49 North Resources Inc.,TSXV,FNR.V,49 North Resources Inc.,FNR
 FIVD.P,5D Acquisition Corp.,TSXV,FIVD.P.V,5D Acquisition Corp.,FIVD.P
 ALAB.P,A-Labs Capital II Corp.,TSXV,ALAB.P.V,A-Labs Capital II Corp.,ALAB.P
+AIS,A.I.S. Resources Limited,TSXV,AIS.V,A.I.S. Resources Limited,AIS
 AUAU,A2 Gold Corp.,TSXV,AUAU.V,A2 Gold Corp.,AUAU
 AZC.P,A2ZCryptocap Inc.,TSXV,AZC.P.V,A2ZCryptocap Inc.,AZC.P
 AAAJ.P,AAJ Capital 3 Corp.,TSXV,AAAJ.P.V,AAJ Capital 3 Corp.,AAAJ.P
@@ -1018,6 +1019,7 @@ PESO,Pesorama Inc.,TSXV,PESO.V,Pesorama Inc.,PESO
 VRY,Petro-Victory Energy Corp.,TSXV,VRY.V,Petro-Victory Energy Corp.,VRY
 PCQ,Petrolympic Ltd.,TSXV,PCQ.V,Petrolympic Ltd,PCQ
 PTC,Petrox Resources Corp.,TSXV,PTC.V,Petrox Resources Corp.,PTC
+PCLO,Pharmacielo Ltd.,TSXV,PCLO.V,Pharmacielo Ltd.,PCLO
 PCRX,PharmaCorp Rx Inc.,TSXV,PCRX.V,PharmaCorp Rx Inc.,PCRX,PharmaCorp Rx Inc wt 12Nov2027,PCRX.WT
 PHNM,Phenom Resources Corp.,TSXV,PHNM.V,Phenom Resources Corp.,PHNM
 PINE.U,Pine Trail Real Estate Investment Trust,TSXV,PINE.U.V,Pine Trail Real Estate Investment Trust USD,PINE.U,Pine Trail Real Estate Investment Trust,PINE.UN
@@ -1555,7 +1557,7 @@ ASML,ASML CDR (CAD Hedged),TSX,ASML.TO,ASML CDR CAD Hedged,ASML
 ACO.X,ATCO Ltd.,TSX,ACO.X.TO,ATCO Ltd. Cl I NV,ACO.X
 ATH,Athabasca Oil Corporation,TSX,ATH.TO,Athabasca Oil Corp,ATH
 ATRL,AtkinsRéalis Group Inc.,TSX,ATRL.TO,AtkinsRealis GrpInc,ATRL
-AI,Atrium Mortgage Investment Corporation,TSX,AI.TO,Atrium Mtg Invest,AI,Atrium Mtg Inv 5.5Db,AI.DB.D,Atrium Mtg Inv 5% Db,AI.DB.F,Atrium Mtg 5.1% Deb,AI.DB.G
+AI,Atrium Mortgage Investment Corporation,TSX,AI.TO,Atrium Mtg Invest,AI,Atrium Mtg Inv 5% Db,AI.DB.F,Atrium Mtg 5.1% Deb,AI.DB.G
 ATS,ATS Corporation,TSX,ATS.TO,ATS Corporation,ATS
 ACB,Aurora Cannabis Inc.,TSX,ACB.TO,Aurora Cannabis J,ACB
 ACQ,AutoCanada Inc.,TSX,ACQ.TO,AutoCanada Inc.,ACQ
@@ -1814,10 +1816,10 @@ BBBB,Brompton Wellington Square Investment Grade CLO ETF,TSX,BBBB.TO,Br Wl Sq In
 BAM,Brookfield Asset Management Ltd.,TSX,BAM.TO,Brookfld AstMgt LV A,BAM
 BBUC,Brookfield Business Corporation,TSX,BBUC.TO,Brookfld Bus Corp SV,BBUC
 BBU.UN,Brookfield Business Partners L.P.,TSX,BBU.UN.TO,Brookfield Bus LP Un,BBU.UN
-BN,Brookfield Corporation,TSX,BN.TO,Brookfield Corp A LV,BN,Brookfld Corp. Pr 32,BN.PF.A,Brookfld Corp. Pr 34,BN.PF.B,Brookfld Corp. Pr 36,BN.PF.C,Brookfld Corp. Pr 37,BN.PF.D,Brookfld Corp. Pr 38,BN.PF.E,Brookfld Corp Pr 40,BN.PF.F,Brookfld Corp. Pr 42,BN.PF.G,Brookfld Corp. Pr 44,BN.PF.H,Brookfld Corp. Pr 46,BN.PF.I,Brookfld Corp. Pr 48,BN.PF.J,Brookfld Corp Pr 51,BN.PF.K,Brookfld Corp Pr 52,BN.PF.L,Brookfield CoA PR54,BN.PF.M,Brookfld Corp Pr 2,BN.PR.B,Brookfld Corp Pr 4,BN.PR.C,Brookfld Corp Pr 13,BN.PR.K,Brookfld Corp Pr 17,BN.PR.M,Brookfld Corp Pr 18,BN.PR.N,Brookfld Corp. Pr 24,BN.PR.R,Brookfld Corp. Pr 26,BN.PR.T,Brookfld Corp. Pr 28,BN.PR.X,Brookfld Corp. Pr 30,BN.PR.Z
+BN,Brookfield Corporation,TSX,BN.TO,Brookfield Corp A LV,BN,Brookfld Corp. Pr 32,BN.PF.A,Brookfld Corp. Pr 34,BN.PF.B,Brookfld Corp. Pr 36,BN.PF.C,Brookfld Corp. Pr 37,BN.PF.D,Brookfld Corp. Pr 38,BN.PF.E,Brookfld Corp Pr 40,BN.PF.F,Brookfld Corp. Pr 42,BN.PF.G,Brookfld Corp. Pr 46,BN.PF.I,Brookfld Corp. Pr 48,BN.PF.J,Brookfld Corp Pr 51,BN.PF.K,Brookfld Corp Pr 52,BN.PF.L,Brookfield CoA PR54,BN.PF.M,Brookfld Corp Pr 2,BN.PR.B,Brookfld Corp Pr 4,BN.PR.C,Brookfld Corp Pr 13,BN.PR.K,Brookfld Corp Pr 17,BN.PR.M,Brookfld Corp Pr 18,BN.PR.N,Brookfld Corp. Pr 24,BN.PR.R,Brookfld Corp. Pr 26,BN.PR.T,Brookfld Corp. Pr 28,BN.PR.X,Brookfld Corp. Pr 30,BN.PR.Z
 BGI.UN,Brookfield Global Infrastructure Securities Income Fund,TSX,BGI.UN.TO,Brkfld GlbInfras Sec,BGI.UN
 BIPC,Brookfield Infrastructure Corporation,TSX,BIPC.TO,Brookfld Infras A SV,BIPC
-BIP.PR.B,Brookfield Infrastructure Partners L.P.,TSX,BIP.PR.B.TO,Brookfield InfrasPr3,BIP.PR.B,Brookfield InfrasPr9,BIP.PR.E,Brookfield InfraPr11,BIP.PR.F,Brookfield Infras Un,BIP.UN
+BIP.PR.E,Brookfield Infrastructure Partners L.P.,TSX,BIP.PR.E.TO,Brookfield InfrasPr9,BIP.PR.E,Brookfield InfraPr11,BIP.PR.F,Brookfield Infras Un,BIP.UN
 BPO.PR.A,Brookfield Office Properties Inc.,TSX,BPO.PR.A.TO,Brookfld Office PrAA,BPO.PR.A,Brookfld Office PrCC,BPO.PR.C,Brookfld Office PrEE,BPO.PR.E,Brookfld Office PrGG,BPO.PR.G,Brookfld Office PrII,BPO.PR.I,Brookfld Office Pr N,BPO.PR.N,Brookfld Office Pr P,BPO.PR.P,Brookfld Office Pr R,BPO.PR.R,Brookfld Office Pr T,BPO.PR.T,Brookfld Office Pr W,BPO.PR.W,Brookfld Office Pr V,BPO.PR.X,Brookfld Office Pr Y,BPO.PR.Y
 BPYP.PR.A,Brookfield Property Preferred L.P.,TSX,BPYP.PR.A.TO,Brookfld PptyPref Un,BPYP.PR.A
 BPS.PR.A,Brookfield Property Split Corp.,TSX,BPS.PR.A.TO,Brookfld Ppty Pr 2,BPS.PR.A,Brookfld Ppty Pr 3,BPS.PR.B,Brookfld Ppty Pr 4,BPS.PR.C,Brookfld Pty Pr 1 US,BPS.PR.U
@@ -2036,7 +2038,7 @@ CTX,Crescita Therapeutics Inc.,TSX,CTX.TO,Crescita Therpeutc J,CTX
 CRR.UN,Crombie Real Estate Investment Trust,TSX,CRR.UN.TO,Crombie Real Est Un,CRR.UN
 CRON,Cronos Group Inc.,TSX,CRON.TO,Cronos Group Inc. J,CRON
 CRWD,CrowdStrike CDR (CAD Hedged),TSX,CRWD.TO,CrowdStrike CDR Hgd,CRWD
-CRWN,Crown Capital Partners Inc.,TSX,CRWN.TO,Crown Cap Partners J,CRWN,Crown CapPartJ 11%Db,CRWN.NT
+CRWN,Crown Capital Partners Inc.,TSX,CRWN.TO,Crown Cap Partners J,CRWN,Crown CapPartJ 12%Db,CRWN.NT
 CRT.UN,CT Real Estate Investment Trust,TSX,CRT.UN.TO,CT Rl Est Invest Un,CRT.UN
 CIU.PR.A,CU Inc.,TSX,CIU.PR.A.TO,CU Inc. Pr Ser 1,CIU.PR.A,CU Inc. Pr Ser 4,CIU.PR.C
 CURA,"Curaleaf Holdings, Inc.",TSX,CURA.TO,Curaleaf Holdings J,CURA
@@ -2205,7 +2207,7 @@ XTC,Exco Technologies Limited,TSX,XTC.TO,Exco Technologies,XTC
 EGIF,Exemplar Growth and Income Fund,TSX,EGIF.TO,Exemplar GrwthIncmUn,EGIF
 EXE,Extendicare Inc.,TSX,EXE.TO,Extendicare Inc.,EXE
 XOM,Exxon Mobil CDR (CAD Hedged),TSX,XOM.TO,Exxon Mobil CDR Hgd,XOM
-FFH,Fairfax Financial Holdings Limited,TSX,FFH.TO,Fairfax Financial SV,FFH,Fairfax Fin Ser I Pr,FFH.PR.I,Fairfax Fin Ser J Pr,FFH.PR.J,Fairfax Fin Ser K Pr,FFH.PR.K,Fairfax Fin SV USF,FFH.U
+FFH,Fairfax Financial Holdings Limited,TSX,FFH.TO,Fairfax Financial SV,FFH,Fairfax Fin Ser K Pr,FFH.PR.K,Fairfax Fin SV USF,FFH.U
 FIH.U,Fairfax India Holdings Corporation,TSX,FIH.U.TO,Fairfax India SV USF,FIH.U
 FDY,Faraday Copper Corp.,TSX,FDY.TO,Faraday Copper CorpJ,FDY
 FRX,Fennec Pharmaceuticals Inc.,TSX,FRX.TO,Fennec Pharmaceut J,FRX
@@ -2237,7 +2239,7 @@ FCQH,Fidelity U.S. High Quality Currency Neutral ETF,TSX,FCQH.TO,FidelityUS HiCu
 FCUQ,Fidelity U.S. High Quality ETF,TSX,FCUQ.TO,FidelityUS HiQual L,FCUQ,FidelityUS HiQual US,FCUQ.U
 FCVH,Fidelity U.S. Value Currency Neutral ETF,TSX,FCVH.TO,Fidelity USValCurNeu,FCVH
 FCUV,Fidelity U.S. Value ETF,TSX,FCUV.TO,Fidelity US Val L Un,FCUV,Fidelity US Val L US,FCUV.U
-FSZ,Fiera Capital Corporation,TSX,FSZ.TO,Fiera Capital A SV,FSZ,Fiera Capitl 8.25 Db,FSZ.DB.B,Fiera Capitl 7.75 Db,FSZ.DB.C
+FSZ,Fiera Capital Corporation,TSX,FSZ.TO,Fiera Capital A SV,FSZ,Fiera Capitl 7.75 Db,FSZ.DB.C
 FTN,Financial 15 Split Corp.,TSX,FTN.TO,Financial 15 Splt A,FTN,Financial 15 Splt Pr,FTN.PR.A
 FTT,Finning International Inc.,TSX,FTT.TO,Finning Int'l Inc.,FTT
 FTG,Firan Technology Group Corporation,TSX,FTG.TO,Firan Tech Grp Corp.,FTG
@@ -2970,7 +2972,6 @@ MSV,Minco Silver Corporation,TSX,MSV.TO,Minco Silver Corp J,MSV
 MSA,Mineros S.A.,TSX,MSA.TO,Mineros S.A.,MSA
 MID.UN,MINT Income Fund,TSX,MID.UN.TO,MINT Incme Fnd Tr Un,MID.UN
 MI.UN,Minto Apartment Real Estate Investment Trust,TSX,MI.UN.TO,Minto Apart REIT Un,MI.UN
-MOGO,Mogo Inc.,TSX,MOGO.TO,Mogo Inc. J,MOGO
 TPX.A,Molson Coors Canada Inc.,TSX,TPX.A.TO,MolsonCoors Cda A LV,TPX.A,MolsonCoors Cda B NV,TPX.B
 MAU,Montage Gold Corp.,TSX,MAU.TO,Montage Gold Corp,MAU
 MS,Morgan Stanley CDR (CAD Hedged),TSX,MS.TO,MorganStan CDR Hgd,MS
@@ -3076,6 +3077,7 @@ ORAC,Oracle CDR (CAD Hedged),TSX,ORAC.TO,Oracle CDR Hgd,ORAC
 OGD,Orbit Garant Drilling Inc.,TSX,OGD.TO,Orbit Garant Drill,OGD
 ORE,Orezone Gold Corporation,TSX,ORE.TO,Orezone Gold Corp J,ORE
 OGI,Organigram Global Inc.,TSX,OGI.TO,Organigram Global In,OGI
+ORIO,Orion Digital Corp.,TSX,ORIO.TO,Orion Digital Corp,ORIO
 OLA,Orla Mining Ltd,TSX,OLA.TO,Orla Mining Ltd. J,OLA
 ORV,Orvana Minerals Corp.,TSX,ORV.TO,Orvana Minerals J,ORV
 OM,Osisko Metals Incorporated,TSX,OM.TO,Osisko Metals Incorp,OM
@@ -3950,7 +3952,7 @@ ASTLW,Algoma Steel Group Inc. - Warrant,NASDAQ Global MarketSM,ASTLW
 ASTS,"AST SpaceMobile, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ASTS
 ASUR,Asure Software Inc - Common Stock,NASDAQ Capital Market,ASUR
 ASYS,"Amtech Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,ASYS
-ATAI,Atai Beckley N.V - Common Shares,NASDAQ Global MarketSM,ATAI
+ATAI,AtaiBeckley Inc. - Common Stock,NASDAQ Global MarketSM,ATAI
 ATAT,Atour Lifestyle Holdings Limited - American Depositary Shares,NASDAQ Global Select MarketSM,ATAT
 ATEC,"Alphatec Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ATEC
 ATER,"Aterian, Inc. - Common Stock",NASDAQ Capital Market,ATER
@@ -4349,7 +4351,7 @@ BULX,GraniteShares 2x Long BULL Daily ETF,NASDAQ Global MarketSM,BULX
 BUSE,First Busey Corporation - Common Stock,NASDAQ Global Select MarketSM,BUSE
 BUSEP,"First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value",NASDAQ Global Select MarketSM,BUSEP
 BUUU,BUUU Group Limited - Class A Ordinary Share,NASDAQ Capital Market,BUUU
-BVC,BitVentures Limited - American Depositary Shares,NASDAQ Capital Market,BVC
+BVC,BitVentures Limited - Ordinary Share,NASDAQ Capital Market,BVC
 BVFL,"BV Financial, Inc. - Common Stock",NASDAQ Capital Market,BVFL
 BVS,Bioventus Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,BVS
 BWAY,BrainsWay Ltd. - American Depositary Shares,NASDAQ Global MarketSM,BWAY
@@ -5724,7 +5726,7 @@ HIT,"Health In Tech, Inc. - Class A Common Stock",NASDAQ Capital Market,HIT
 HITI,High Tide Inc. - Common Shares,NASDAQ Capital Market,HITI
 HIVE,HIVE Digital Technologies Ltd - Common Shares,NASDAQ Capital Market,HIVE
 HKIT,Hitek Global Inc. - Class A Ordinary Share,NASDAQ Capital Market,HKIT
-HKPD,Hong Kong Pharma Digital Technology Holdings Limited - Ordinary shares,NASDAQ Capital Market,HKPD
+HKPD,"Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares",NASDAQ Capital Market,HKPD
 HLAL,Wahed FTSE USA Shariah ETF,NASDAQ Global MarketSM,HLAL
 HLIT,Harmonic Inc. - Common Stock,NASDAQ Global Select MarketSM,HLIT
 HLMN,Hillman Solutions Corp. - Common Stock,NASDAQ Global MarketSM,HLMN
@@ -6596,7 +6598,6 @@ MOBXW,"Mobix Labs, Inc. - Warrants",NASDAQ Capital Market,MOBXW
 MODD,"Modular Medical, Inc. - common stock",NASDAQ Capital Market,MODD
 MODL,VictoryShares WestEnd U.S. Sector ETF,NASDAQ Global MarketSM,MODL
 MOFG,"MidWestOne Financial Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,MOFG
-MOGO,Mogo Inc. - Common Shares,NASDAQ Capital Market,MOGO
 MOLN,Molecular Partners AG - American Depositary Shares,NASDAQ Global Select MarketSM,MOLN
 MOMO,Hello Group Inc.  - American Depositary Shares,NASDAQ Global Select MarketSM,MOMO
 MOOD,Relative Sentiment Tactical Allocation ETF,NASDAQ Global MarketSM,MOOD
@@ -6970,7 +6971,6 @@ OLMA,"Olema Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,
 OLPX,"Olaplex Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,OLPX
 OM,"Outset Medical, Inc. - Common Stock",NASDAQ Global Select MarketSM,OM
 OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares,NASDAQ Global Select MarketSM,OMAB
-OMCC,Old Market Capital Corporation - Common Stock,NASDAQ Global Select MarketSM,OMCC
 OMCL,"Omnicell, Inc. - Common Stock",NASDAQ Global Select MarketSM,OMCL
 OMDA,"Omada Health, Inc. - Common Stock",NASDAQ Global Select MarketSM,OMDA
 OMER,Omeros Corporation - Common Stock,NASDAQ Global MarketSM,OMER
@@ -7022,6 +7022,7 @@ ORGN,"Origin Materials, Inc. - Class A Common Stock",NASDAQ Capital Market,ORGN
 ORGNW,"Origin Materials, Inc. - Warrant",NASDAQ Capital Market,ORGNW
 ORGO,Organogenesis Holdings Inc.  - Class A ,NASDAQ Capital Market,ORGO
 ORIC,"Oric Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ORIC
+ORIO,Orion Digital Corp. - Common Shares,NASDAQ Capital Market,ORIO
 ORIQ,Origin Investment Corp I - Ordinary Shares,NASDAQ Global MarketSM,ORIQ
 ORIQU,Origin Investment Corp I - Units,NASDAQ Global MarketSM,ORIQU
 ORIQW,Origin Investment Corp I - Redeemable Warrant,NASDAQ Global MarketSM,ORIQW
@@ -7241,8 +7242,6 @@ PMTS,CPI Card Group Inc. - Common Stock,NASDAQ Global MarketSM,PMTS
 PMVP,"PMV Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,PMVP
 PN,Skycorp Solar Group Limited - Ordinary Shares,NASDAQ Capital Market,PN
 PNBK,Patriot National Bancorp Inc. - Common Stock,NASDAQ Global MarketSM,PNBK
-PNFP,"Pinnacle Financial Partners, Inc. - Common Stock",NASDAQ Global Select MarketSM,PNFP
-PNFPP,"Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B",NASDAQ Global Select MarketSM,PNFPP
 PNQI,Invesco Nasdaq Internet ETF,NASDAQ Global MarketSM,PNQI
 PNRG,PrimeEnergy Resources Corporation - Common Stock,NASDAQ Capital Market,PNRG
 PNTG,"The Pennant Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,PNTG
@@ -8332,7 +8331,7 @@ UAE,iShares MSCI UAE ETF,NASDAQ Global MarketSM,UAE
 UAL,"United Airlines Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,UAL
 UBCP,"United Bancorp, Inc. - Common Stock",NASDAQ Capital Market,UBCP
 UBFO,United Security Bancshares - Common Stock,NASDAQ Global Select MarketSM,UBFO
-UBND,VictoryShares Core Plus Intermediate Bond ETF,NASDAQ Global MarketSM,UBND
+UBND,VictoryShares Core Plus Bond ETF,NASDAQ Global MarketSM,UBND
 UBRL,GraniteShares 2x Long UBER Daily ETF,NASDAQ Global MarketSM,UBRL
 UBSI,"United Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,UBSI
 UBXG,U-BX Technology Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,UBXG
@@ -8692,7 +8691,6 @@ XELB,"Xcel Brands, Inc - Common Stock",NASDAQ Capital Market,XELB
 XELLL,"Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085",NASDAQ Global MarketSM,XELLL
 XENE,Xenon Pharmaceuticals Inc. - Common Shares,NASDAQ Global MarketSM,XENE
 XERS,"Xeris Biopharma Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,XERS
-XFIX,F/m Opportunistic Income ETF,NASDAQ Global MarketSM,XFIX
 XFOR,"X4 Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,XFOR
 XGN,Exagen Inc. - Common Stock,NASDAQ Global MarketSM,XGN
 XHG,XChange TEC.INC - American Depositary Shares,NASDAQ Capital Market,XHG
@@ -8778,6 +8776,7 @@ ZEOWW,Zeo Energy Corporation - Warrants,NASDAQ Capital Market,ZEOWW
 ZEUS,"Olympic Steel, Inc. - Common Stock",NASDAQ Global Select MarketSM,ZEUS
 ZG,"Zillow Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ZG
 ZGM,Zenta Group Company Limited - Ordinary Shares,NASDAQ Capital Market,ZGM
+ZHOG,F/m Opportunistic Income ETF,NASDAQ Global MarketSM,ZHOG
 ZION,Zions Bancorporation N.A. - Common Stock,NASDAQ Global Select MarketSM,ZION
 ZIONP,Zions Bancorporation N.A. - Depositary Shares each representing a 1/40th ownership interest in a share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock,NASDAQ Global MarketSM,ZIONP
 ZJK,"ZJK Industrial Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,ZJK
@@ -8828,6 +8827,7 @@ ACA,"Arcosa, Inc. Common Stock ",NYSE,ACA
 ACCO,Acco Brands Corporation Common Stock,NYSE,ACCO
 ACCS,ACCESS Newswire Inc. Common Stock,NYSE MKT,ACCS
 ACEL,"Accel Entertainment, Inc. ",NYSE,ACEL
+ACH,"Accendra Health, Inc. Common Stock",NYSE,ACH
 ACHR,Archer Aviation Inc. Class A Common Stock,NYSE,ACHR
 ACHR.W,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",NYSE,ACHR.W
 ACI,"Albertsons Companies, Inc. Class A Common Stock",NYSE,ACI
@@ -10130,7 +10130,6 @@ GRO,Brazil Potash Corp. Common Shares,NYSE MKT,GRO
 GROV,"Grove Collaborative Holdings, Inc. Class A Common Stock",NYSE,GROV
 GROY,Gold Royalty Corp. Common Shares,NYSE MKT,GROY
 GROY.W,Gold Royalty Corp. Warrants,NYSE MKT,GROY.W
-GRP.U,Granite Real Estate Inc. Units,NYSE,GRP.U
 GRX,The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest,NYSE,GRX
 GS,"Goldman Sachs Group, Inc. (The) Common Stock",NYSE,GS
 GS$A,"Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series A",NYSE,GS$A
@@ -10929,7 +10928,6 @@ OLN,Olin Corporation Common Stock,NYSE,OLN
 OLP,"One Liberty Properties, Inc. Common Stock",NYSE,OLP
 OMC,Omnicom Group Inc. Common Stock,NYSE,OMC
 OMF,"OneMain Holdings, Inc. Common Stock",NYSE,OMF
-OMI,"Owens & Minor, Inc. Common Stock",NYSE,OMI
 ONIT,Onity Group Inc. Common Stock,NYSE,ONIT
 ONL,Orion Properties Inc. Common Stock,NYSE,ONL
 ONON,On Holding AG Class A Ordinary Shares,NYSE,ONON
@@ -11093,6 +11091,10 @@ PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,NYSE,PMTU
 PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,NYSE,PMTV
 PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,NYSE,PMTW
 PNC,"PNC Financial Services Group, Inc. (The) Common Stock",NYSE,PNC
+PNFP,"Pinnacle Financial Partners, Inc. Common stock",NYSE,PNFP
+PNFP$A,"Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",NYSE,PNFP$A
+PNFP$B,"Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series B",NYSE,PNFP$B
+PNFP$C,"Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C",NYSE,PNFP$C
 PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,NYSE,PNI
 PNNT,PennantPark Investment Corporation Common Stock,NYSE,PNNT
 PNR,Pentair plc. Ordinary Share,NYSE,PNR
@@ -11241,7 +11243,6 @@ RITM$E,Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable Prefe
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock",NYSE,RIV
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",NYSE,RIV$A
 RJF,"Raymond James Financial, Inc. Common Stock",NYSE,RJF
-RJF$B,"Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NYSE,RJF$B
 RKT,"Rocket Companies, Inc. Class A Common Stock",NYSE,RKT
 RL,Ralph Lauren Corporation Common Stock,NYSE,RL
 RLGT,"Radiant Logistics, Inc. Common Stock",NYSE MKT,RLGT
@@ -11436,9 +11437,6 @@ SNDA,"Sonida Senior Living, Inc. Common Stock",NYSE,SNDA
 SNDR,"Schneider National, Inc. Common Stock",NYSE,SNDR
 SNN,"Smith & Nephew SNATS, Inc. Common Stock",NYSE,SNN
 SNOW,Snowflake Inc. Common Stock,NYSE,SNOW
-SNV,Synovus Financial Corp. Common Stock,NYSE,SNV
-SNV$D,"Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share",NYSE,SNV$D
-SNV$E,"Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",NYSE,SNV$E
 SNX,TD SYNNEX Corporation Common Stock,NYSE,SNX
 SO,Southern Company (The) Common Stock,NYSE,SO
 SOAR,"Volato Group, Inc. Class A Common Stock",NYSE MKT,SOAR
