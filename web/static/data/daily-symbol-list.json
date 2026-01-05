@@ -1,5 +1,5 @@
 {
- "date": "2026-01-02",
+ "date": "2026-01-05",
  "data": [
   {
    "symbol": "ONE",
@@ -1098,6 +1098,18 @@
     {
      "name": "ARCpoint Inc.",
      "symbol": "ARC"
+    }
+   ]
+  },
+  {
+   "symbol": "ADG",
+   "name": "Arcus Development Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADG.V",
+   "instruments": [
+    {
+     "name": "Arcus Development Group Inc.",
+     "symbol": "ADG"
     }
    ]
   },
@@ -23530,10 +23542,6 @@
     {
      "name": "Cenovus Engy Sr 2 Pr",
      "symbol": "CVE.PR.B"
-    },
-    {
-     "name": "Cenovus Energy Wt",
-     "symbol": "CVE.WT"
     }
    ]
   },
@@ -39310,18 +39318,6 @@
    ]
   },
   {
-   "symbol": "OPT",
-   "name": "Optiva Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "OPT.TO",
-   "instruments": [
-    {
-     "name": "Optiva Inc. J",
-     "symbol": "OPT"
-    }
-   ]
-  },
-  {
    "symbol": "OR",
    "name": "OR Royalties Inc.",
    "exchange": "TSX",
@@ -40278,10 +40274,6 @@
     {
      "name": "Prem Brnd Hld Corp 5",
      "symbol": "PBH.DB.K"
-    },
-    {
-     "name": "Prem Brnd Hl Sub Rec",
-     "symbol": "PBH.R"
     }
    ]
   },
@@ -49278,12 +49270,6 @@
    "yahoo_symbol": "BFC"
   },
   {
-   "symbol": "BFIN",
-   "name": "BankFinancial Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BFIN"
-  },
-  {
    "symbol": "BFRG",
    "name": "Bullfrog AI Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -50332,18 +50318,6 @@
    "name": "Invesco BulletShares 2033 High Yield Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BSJX"
-  },
-  {
-   "symbol": "BSLK",
-   "name": "Bolt Projects Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BSLK"
-  },
-  {
-   "symbol": "BSLKW",
-   "name": "Bolt Projects Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BSLKW"
   },
   {
    "symbol": "BSMQ",
@@ -52126,12 +52100,6 @@
    "name": "Comcast Corporation - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CMCSA"
-  },
-  {
-   "symbol": "CMCSV",
-   "name": "Comcast Corporation - Class A Common Stock Ex-Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CMCSV"
   },
   {
    "symbol": "CMCT",
@@ -68262,12 +68230,6 @@
    "yahoo_symbol": "PROV"
   },
   {
-   "symbol": "PRPH",
-   "name": "ProPhase Labs, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PRPH"
-  },
-  {
    "symbol": "PRPL",
    "name": "Purple Innovation, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68524,18 +68486,6 @@
    "name": "GraniteShares 2x Long PLTR Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PTIR"
-  },
-  {
-   "symbol": "PTIX",
-   "name": "Protagenic Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTIX"
-  },
-  {
-   "symbol": "PTIXW",
-   "name": "Protagenic Therapeutics, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTIXW"
   },
   {
    "symbol": "PTLE",
@@ -75720,10 +75670,10 @@
    "yahoo_symbol": "VSMV"
   },
   {
-   "symbol": "VSNTV",
-   "name": "Versant Media Group, Inc. - Class A Common Stock When-Issued",
+   "symbol": "VSNT",
+   "name": "Versant Media Group, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VSNTV"
+   "yahoo_symbol": "VSNT"
   },
   {
    "symbol": "VSOL",
@@ -80569,7 +80519,7 @@
   },
   {
    "symbol": "CANF",
-   "name": "Can-Fite Biopharma Ltd Sponsored ADR (Israel)",
+   "name": "Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "CANF"
   },
@@ -82132,12 +82082,6 @@
    "name": "CoreCivic, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CXW"
-  },
-  {
-   "symbol": "CYBN",
-   "name": "Cybin Inc. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CYBN"
   },
   {
    "symbol": "CYD",
