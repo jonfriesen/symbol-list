@@ -1,54 +1,90 @@
 {
  "added": [
   {
-   "symbol": "HELP",
-   "name": "Cybin Inc. - Common Stock",
+   "symbol": "BUFF",
+   "name": "Buffalo Potash Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BUFF.V",
+   "instruments": [
+    {
+     "name": "Buffalo Potash Corporation",
+     "symbol": "BUFF"
+    }
+   ]
+  },
+  {
+   "symbol": "ARTCU",
+   "name": "Art Technology Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HELP"
+   "yahoo_symbol": "ARTCU"
   },
   {
-   "symbol": "ALUB",
-   "name": "Alussa Energy Acquisition Corp. II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ALUB"
+   "symbol": "BPAC",
+   "name": "Blueport Acquisition Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BPAC"
   },
   {
-   "symbol": "ALUB.W",
-   "name": "Alussa Energy Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ALUB.W"
+   "symbol": "BPACR",
+   "name": "Blueport Acquisition Ltd - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BPACR"
   },
   {
-   "symbol": "BIII.U",
-   "name": "Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIII.U"
+   "symbol": "EMAT",
+   "name": "Evolution Metals \u0026 Technologies Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMAT"
+  },
+  {
+   "symbol": "IMUX",
+   "name": "Immunic, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMUX"
   }
  ],
  "removed": [
   {
-   "symbol": "PBBK",
-   "name": "PB Bankshares, Inc. - Common Stock",
+   "symbol": "MRSN",
+   "name": "Mersana Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MRSN"
+  },
+  {
+   "symbol": "ATMCR",
+   "name": "AlphaTime Acquisition Corp - Right",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PBBK"
+   "yahoo_symbol": "ATMCR"
   },
   {
-   "symbol": "CVE.W",
-   "name": "Cenovus Energy Inc Warrants (each warrant entitles the holder to purchase one common share at an exercise price of C$6.54 per share)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CVE.W"
+   "symbol": "ATMCW",
+   "name": "AlphaTime Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMCW"
   },
   {
-   "symbol": "BNXA",
-   "name": "Banxa Holdings Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BNXA.V",
-   "instruments": [
-    {
-     "name": "Banxa Holdings Inc.",
-     "symbol": "BNXA"
-    }
-   ]
+   "symbol": "IMUX",
+   "name": "Immunic, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IMUX"
+  },
+  {
+   "symbol": "CVAC",
+   "name": "CureVac N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVAC"
+  },
+  {
+   "symbol": "ATMCU",
+   "name": "AlphaTime Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMCU"
+  },
+  {
+   "symbol": "ATMC",
+   "name": "AlphaTime Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMC"
   }
  ]
 }
