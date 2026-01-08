@@ -230,7 +230,6 @@ CONE,Canada One Mining Corp.,TSXV,CONE.V,Canada One Mining Corp.,CONE
 LL,Canada Rare Earth Corp.,TSXV,LL.V,Canada Rare Earth Corp.,LL
 CANB,CanadaBis Capital Inc.,TSXV,CANB.V,Canadabis Capital Inc.,CANB
 CCMI,Canadian Critical Minerals Inc.,TSXV,CCMI.V,Canadian Critical Minerals Inc.,CCMI
-CGC,Canadian Gold Corp.,TSXV,CGC.V,Canadian Gold Corp.,CGC
 CAN,Canadian Gold Resources Ltd.,TSXV,CAN.V,Canadian Gold Resources Ltd.,CAN
 NET.UN,Canadian Net Real Estate Investment Trust,TSXV,NET.UN.V,Canadian Net Real Estate Investment Trust,NET.UN
 CNRI,Canadian North Resources Inc.,TSXV,CNRI.V,Canadian North Resources Inc.,CNRI
@@ -1505,6 +1504,8 @@ AAV,Advantage Energy Ltd.,TSX,AAV.TO,Advantage Energy Ltd,AAV,Adv Engy5.0 USub D
 ARE,Aecon Group Inc.,TSX,ARE.TO,Aecon Group Inc.,ARE
 AEG,Aegis Brands Inc.,TSX,AEG.TO,Aegis Brands Inc.,AEG
 AFN,Ag Growth International Inc.,TSX,AFN.TO,Ag Growth Int'l Inc.,AFN,AG GrowthIntlDec26Db,AFN.DB.H,Ag Growth Intl 5% DB,AFN.DB.I,Ag Growth Intl 5.2Db,AFN.DB.J,Ag Growth Intl 7.5DB,AFN.DB.K
+AMGR,AGF American Growth Fund,TSX,AMGR.TO,AGF Amrcn Grwth Fd E,AMGR
+AGSL,AGF Global Select Fund,TSX,AGSL.TO,AGF Glb Select Fund,AGSL
 AGF.B,AGF Management Limited,TSX,AGF.B.TO,AGF Management B NV,AGF.B
 QBTL,AGF US Market Neutral Anti-Beta CAD-Hedged ETF,TSX,QBTL.TO,AGF US Anti-BetaCAHg,QBTL
 AEM,Agnico Eagle Mines Limited,TSX,AEM.TO,Agnico Eagle Mines,AEM
@@ -4466,7 +4467,6 @@ CDROW,"Codere Online Luxembourg, S.A. - Warrants",NASDAQ Capital Market,CDROW
 CDT,CDT Equity Inc. - Common Stock,NASDAQ Capital Market,CDT
 CDTG,CDT Environmental Technology Investment Holdings Limited - ordinary shares,NASDAQ Capital Market,CDTG
 CDTTW,CDT Equity Inc. - Warrant,NASDAQ Capital Market,CDTTW
-CDTX,"Cidara Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CDTX
 CDW,CDW Corporation - Common Stock,NASDAQ Global Select MarketSM,CDW
 CDXS,"Codexis, Inc. - Common Stock",NASDAQ Global Select MarketSM,CDXS
 CDZI,"Cadiz, Inc. - Common Stock",NASDAQ Global MarketSM,CDZI
@@ -4824,6 +4824,7 @@ DCGO,DocGo Inc. - Common Stock,NASDAQ Capital Market,DCGO
 DCOM,"Dime Community Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,DCOM
 DCOMG,"Dime Community Bancshares, Inc. - 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",NASDAQ Global MarketSM,DCOMG
 DCOMP,"Dime Community Bancshares, Inc. - Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ Global Select MarketSM,DCOMP
+DCOY,Decoy Therapeutics Inc. - Common Stock,NASDAQ Capital Market,DCOY
 DCTH,"Delcath Systems, Inc. - Common Stock",NASDAQ Capital Market,DCTH
 DCX,Digital Currency X Technology Inc. - Class A Ordinary Shares,NASDAQ Capital Market,DCX
 DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares",NASDAQ Global Select MarketSM,DDI
@@ -4848,7 +4849,6 @@ DGICA,"Donegal Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM
 DGICB,"Donegal Group, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,DGICB
 DGII,Digi International Inc. - Common Stock,NASDAQ Global Select MarketSM,DGII
 DGLO,First Trust RBA Deglobalization ETF,NASDAQ Global MarketSM,DGLO
-DGLY,"Digital Ally, Inc. - Common Stock",NASDAQ Capital Market,DGLY
 DGNX,Diginex Limited - Ordinary Shares,NASDAQ Capital Market,DGNX
 DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,NASDAQ Global MarketSM,DGRE
 DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,NASDAQ Global MarketSM,DGRS
@@ -5264,7 +5264,6 @@ FFIV,"F5, Inc. - Common Stock",NASDAQ Global Select MarketSM,FFIV
 FFUT,Fidelity Managed Futures ETF,NASDAQ Global MarketSM,FFUT
 FGBI,"First Guaranty Bancshares, Inc. - Common Stock",NASDAQ Global MarketSM,FGBI
 FGBIP,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",NASDAQ Global MarketSM,FGBIP
-FGEN,"FibroGen, Inc - Common Stock",NASDAQ Global Select MarketSM,FGEN
 FGI,FGI Industries Ltd. - Ordinary Shares,NASDAQ Capital Market,FGI
 FGIWW,FGI Industries Ltd. - warrant,NASDAQ Capital Market,FGIWW
 FGL,Founder Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,FGL
@@ -6148,6 +6147,7 @@ KIDS,OrthoPediatrics Corp. - Common Stock,NASDAQ Global MarketSM,KIDS
 KIDZ,"Classover Holdings, Inc. - Class B Common Stock",NASDAQ Capital Market,KIDZ
 KIDZW,"Classover Holdings, Inc. - Warrants",NASDAQ Capital Market,KIDZW
 KINS,"Kingstone Companies, Inc - Common Stock",NASDAQ Capital Market,KINS
+KIQQ,KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF,NASDAQ Global MarketSM,KIQQ
 KITT,"Nauticus Robotics, Inc. - Common stock",NASDAQ Capital Market,KITT
 KITTW,"Nauticus Robotics, Inc. - Warrant",NASDAQ Capital Market,KITTW
 KJD,KraneShares 2x Long JD Daily ETF,NASDAQ Global MarketSM,KJD
@@ -6198,6 +6198,7 @@ KTOS,"Kratos Defense & Security Solutions, Inc. - Common Stock",NASDAQ Global Se
 KTTA,Pasithea Therapeutics Corp. - Common Stock,NASDAQ Capital Market,KTTA
 KTTAW,Pasithea Therapeutics Corp. - Warrant,NASDAQ Capital Market,KTTAW
 KURA,"Kura Oncology, Inc. - Common Stock",NASDAQ Global Select MarketSM,KURA
+KUST,"Kustom Entertainment, Inc. - Common Stock",NASDAQ Capital Market,KUST
 KVAC,Keen Vision Acquisition Corporation - Ordinary Shares,NASDAQ Global MarketSM,KVAC
 KVACU,Keen Vision Acquisition Corporation - Units,NASDAQ Global MarketSM,KVACU
 KVACW,Keen Vision Acquisition Corporation - Warrant,NASDAQ Global MarketSM,KVACW
@@ -6208,6 +6209,7 @@ KXIN,Kaixin Holdings - Ordinary Shares,NASDAQ Capital Market,KXIN
 KYIV,Kyivstar Group Ltd. - Common Shares,NASDAQ Global Select MarketSM,KYIV
 KYIVW,Kyivstar Group Ltd. - Warrant,NASDAQ Capital Market,KYIVW
 KYMR,"Kymera Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,KYMR
+KYNB,"Kyntra Bio, Inc. - Common Stock",NASDAQ Global Select MarketSM,KYNB
 KYTX,"Kyverna Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,KYTX
 KZIA,Kazia Therapeutics Limited - American Depositary Shares,NASDAQ Capital Market,KZIA
 KZR,"Kezar Life Sciences, Inc. - Common Stock",NASDAQ Capital Market,KZR
@@ -7836,7 +7838,6 @@ SLNO,"Soleno Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,SLNO
 SLP,"Simulations Plus, Inc. - Common Stock",NASDAQ Global Select MarketSM,SLP
 SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,NASDAQ Global MarketSM,SLQD
 SLRC,SLR Investment Corp. - Closed End Fund,NASDAQ Global Select MarketSM,SLRC
-SLRX,"Salarius Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,SLRX
 SLS,"SELLAS Life Sciences Group, Inc.  - Common Stock",NASDAQ Capital Market,SLS
 SLSN,"Solesence, Inc. - Common stock",NASDAQ Capital Market,SLSN
 SLVO,"ETRACS Silver Shares Covered Call ETNs due April 21, 2033",NASDAQ Global MarketSM,SLVO
@@ -7913,6 +7914,7 @@ SONO,"Sonos, Inc. - Common Stock",NASDAQ Global Select MarketSM,SONO
 SOPA,Society Pass Incorporated - Common Stock,NASDAQ Capital Market,SOPA
 SOPH,SOPHiA GENETICS SA - Ordinary Shares,NASDAQ Global Select MarketSM,SOPH
 SORA,AsiaStrategy - Ordinary Shares,NASDAQ Capital Market,SORA
+SORNU,Soren Acquisition Corp. - Unit,NASDAQ Global MarketSM,SORNU
 SOTK,Sono-Tek Corporation - Common Stock,NASDAQ Capital Market,SOTK
 SOUN,"SoundHound AI, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SOUN
 SOUNW,"SoundHound AI, Inc. - Warrant",NASDAQ Global MarketSM,SOUNW
@@ -8273,6 +8275,7 @@ TSMX,Direxion Daily TSM Bull 2X Shares,NASDAQ Global MarketSM,TSMX
 TSMZ,Direxion Daily TSM Bear 1X Shares,NASDAQ Global MarketSM,TSMZ
 TSPY,TappAlpha SPY Growth & Daily Income ETF,NASDAQ Global MarketSM,TSPY
 TSSI,"TSS, Inc. - Common Stock",NASDAQ Capital Market,TSSI
+TSYX,TSPY Lift ETF,NASDAQ Global MarketSM,TSYX
 TSYY,GraniteShares YieldBOOST TSLA ETF,NASDAQ Global MarketSM,TSYY
 TTAN,"ServiceTitan, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,TTAN
 TTD,"The Trade Desk, Inc. - Class A Common Stock",NASDAQ Global MarketSM,TTD
@@ -9300,6 +9303,7 @@ BTU,Peabody Energy Corporation Common Stock ,NYSE,BTU
 BTX,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,NYSE,BTX
 BTZ,BlackRock Credit Allocation Income Trust,NYSE,BTZ
 BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),NYSE,BUD
+BUDA,"Buda Juice, Inc. Common Stock",NYSE MKT,BUDA
 BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust",NYSE,BUI
 BUR,Burford Capital Limited Ordinary Shares,NYSE,BUR
 BURL,"Burlington Stores, Inc. Common Stock",NYSE,BURL

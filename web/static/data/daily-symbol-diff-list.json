@@ -1,90 +1,108 @@
 {
  "added": [
   {
-   "symbol": "BUFF",
-   "name": "Buffalo Potash Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BUFF.V",
+   "symbol": "AMGR",
+   "name": "AGF American Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMGR.TO",
    "instruments": [
     {
-     "name": "Buffalo Potash Corporation",
-     "symbol": "BUFF"
+     "name": "AGF Amrcn Grwth Fd E",
+     "symbol": "AMGR"
     }
    ]
   },
   {
-   "symbol": "ARTCU",
-   "name": "Art Technology Acquisition Corp. - Units",
+   "symbol": "AGSL",
+   "name": "AGF Global Select Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGSL.TO",
+   "instruments": [
+    {
+     "name": "AGF Glb Select Fund",
+     "symbol": "AGSL"
+    }
+   ]
+  },
+  {
+   "symbol": "DCOY",
+   "name": "Decoy Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DCOY"
+  },
+  {
+   "symbol": "KIQQ",
+   "name": "KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARTCU"
+   "yahoo_symbol": "KIQQ"
   },
   {
-   "symbol": "BPAC",
-   "name": "Blueport Acquisition Ltd - Class A Ordinary Shares",
+   "symbol": "KUST",
+   "name": "Kustom Entertainment, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BPAC"
+   "yahoo_symbol": "KUST"
   },
   {
-   "symbol": "BPACR",
-   "name": "Blueport Acquisition Ltd - Rights",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BPACR"
+   "symbol": "KYNB",
+   "name": "Kyntra Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KYNB"
   },
   {
-   "symbol": "EMAT",
-   "name": "Evolution Metals \u0026 Technologies Corp. - Common Stock",
+   "symbol": "SORNU",
+   "name": "Soren Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMAT"
+   "yahoo_symbol": "SORNU"
   },
   {
-   "symbol": "IMUX",
-   "name": "Immunic, Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IMUX"
+   "symbol": "TSYX",
+   "name": "TSPY Lift ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSYX"
+  },
+  {
+   "symbol": "BUDA",
+   "name": "Buda Juice, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BUDA"
   }
  ],
  "removed": [
   {
-   "symbol": "MRSN",
-   "name": "Mersana Therapeutics, Inc. - Common Stock",
+   "symbol": "CDTX",
+   "name": "Cidara Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CDTX"
+  },
+  {
+   "symbol": "FGEN",
+   "name": "FibroGen, Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MRSN"
+   "yahoo_symbol": "FGEN"
   },
   {
-   "symbol": "ATMCR",
-   "name": "AlphaTime Acquisition Corp - Right",
+   "symbol": "CGC",
+   "name": "Canadian Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CGC.V",
+   "instruments": [
+    {
+     "name": "Canadian Gold Corp.",
+     "symbol": "CGC"
+    }
+   ]
+  },
+  {
+   "symbol": "DGLY",
+   "name": "Digital Ally, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMCR"
+   "yahoo_symbol": "DGLY"
   },
   {
-   "symbol": "ATMCW",
-   "name": "AlphaTime Acquisition Corp - Warrant",
+   "symbol": "SLRX",
+   "name": "Salarius Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMCW"
-  },
-  {
-   "symbol": "IMUX",
-   "name": "Immunic, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IMUX"
-  },
-  {
-   "symbol": "CVAC",
-   "name": "CureVac N.V. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CVAC"
-  },
-  {
-   "symbol": "ATMCU",
-   "name": "AlphaTime Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMCU"
-  },
-  {
-   "symbol": "ATMC",
-   "name": "AlphaTime Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATMC"
+   "yahoo_symbol": "SLRX"
   }
  ]
 }
