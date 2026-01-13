@@ -1,5 +1,5 @@
 {
- "date": "2026-01-12",
+ "date": "2026-01-13",
  "data": [
   {
    "symbol": "ONE",
@@ -49568,6 +49568,18 @@
    "yahoo_symbol": "BKHAU"
   },
   {
+   "symbol": "BKMI",
+   "name": "BNY Mellon Municipal Intermediate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKMI"
+  },
+  {
+   "symbol": "BKMS",
+   "name": "BNY Mellon Municipal Short Duration ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKMS"
+  },
+  {
    "symbol": "BKNG",
    "name": "Booking Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -49784,6 +49796,12 @@
    "yahoo_symbol": "BMNG"
   },
   {
+   "symbol": "BMOP",
+   "name": "BNY Mellon Municipal Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMOP"
+  },
+  {
    "symbol": "BMR",
    "name": "Beamr Imaging Ltd. - Ordinary Share",
    "exchange": "NASDAQ Capital Market",
@@ -49798,7 +49816,7 @@
   {
    "symbol": "BMRC",
    "name": "Bank of Marin Bancorp - Common Stock",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BMRC"
   },
   {
@@ -52626,6 +52644,18 @@
    "name": "CRA International,Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CRAI"
+  },
+  {
+   "symbol": "CRAN",
+   "name": "Crane Harbor Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAN"
+  },
+  {
+   "symbol": "CRANR",
+   "name": "Crane Harbor Acquisition Corp. II - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRANR"
   },
   {
    "symbol": "CRANU",
@@ -60621,7 +60651,7 @@
   },
   {
    "symbol": "IRTC",
-   "name": "iRhythm Technologies, Inc. - Common Stock",
+   "name": "iRhythm Holdings, Inc.  - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IRTC"
   },
@@ -63711,7 +63741,7 @@
   },
   {
    "symbol": "MGX",
-   "name": "Metagenomi, Inc. - Common Stock",
+   "name": "Metagenomi Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MGX"
   },
@@ -63969,7 +63999,7 @@
   },
   {
    "symbol": "MNMD",
-   "name": "Mind Medicine (MindMed) Inc. - Common Shares",
+   "name": "Denium Therapeutics, Inc - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MNMD"
   },
@@ -84558,6 +84588,12 @@
    "name": "Greenbrier Companies, Inc. (The) Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "GBX"
+  },
+  {
+   "symbol": "GCDT",
+   "name": "Green Circle Decarbonize Technology Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GCDT"
   },
   {
    "symbol": "GCO",
