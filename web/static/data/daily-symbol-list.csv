@@ -824,7 +824,7 @@ MPV.P,Matchpoint Ventures Corp.,TSXV,MPV.P.V,Matchpoint Ventures Corp.,MPV.P
 MAX,MAX Resource Corp.,TSXV,MAX.V,MAX Resource Corp.,MAX
 MFA.P,Mayfair Acquisition Corporation,TSXV,MFA.P.V,Mayfair Acquisition Corporation,MFA.P
 MFG,Mayfair Gold Corp.,TSXV,MFG.V,Mayfair Gold Corp.,MFG
-MCS,McChip Resources Inc.,TSXV,MCS.V,McChip Resources Inc,MCS
+MCS,McChip Resources Inc.,TSXV,MCS.V,McChip Resources Inc.,MCS
 MCF,MCF Energy Ltd.,TSXV,MCF.V,MCF Energy Ltd.,MCF
 MDK.P,MDK Acquisition Inc.,TSXV,MDK.P.V,MDK Acquisition Inc.,MDK.P
 MPH,Medicure Inc.,TSXV,MPH.V,Medicure Inc.,MPH
@@ -1296,7 +1296,6 @@ FRSH,The Fresh Factory B.C. Ltd.,TSXV,FRSH.V,The Fresh Factory B.C. Ltd,FRSH
 FTRC,The FUTR Corporation,TSXV,FTRC.V,The FUTR Corporation,FTRC
 WED,The Westaim Corporation,TSXV,WED.V,The Westaim Corporation,WED
 WI,The Western Investment Company of Canada Limited,TSXV,WI.V,The Western Investment Company of Canada Limited,WI
-TLT,Theralase Technologies Inc.,TSXV,TLT.V,Theralase Technologies Inc.,TLT
 THRM,Therma Bright Inc.,TSXV,THRM.V,Therma Bright Inc.,THRM
 TMG,Thermal Energy International Inc.,TSXV,TMG.V,Thermal Energy International Inc.,TMG
 TAU,Thesis Gold Inc.,TSXV,TAU.V,Thesis Gold Inc.,TAU
@@ -2973,6 +2972,7 @@ MSV,Minco Silver Corporation,TSX,MSV.TO,Minco Silver Corp J,MSV
 MSA,Mineros S.A.,TSX,MSA.TO,Mineros S.A.,MSA
 MID.UN,MINT Income Fund,TSX,MID.UN.TO,MINT Incme Fnd Tr Un,MID.UN
 MI.UN,Minto Apartment Real Estate Investment Trust,TSX,MI.UN.TO,Minto Apart REIT Un,MI.UN
+MOAT,Moat Active Premium Yield ETF,TSX,MOAT.TO,Moat Act Pre Yld ETF,MOAT
 TPX.A,Molson Coors Canada Inc.,TSX,TPX.A.TO,MolsonCoors Cda A LV,TPX.A,MolsonCoors Cda B NV,TPX.B
 MAU,Montage Gold Corp.,TSX,MAU.TO,Montage Gold Corp,MAU
 MS,Morgan Stanley CDR (CAD Hedged),TSX,MS.TO,MorganStan CDR Hgd,MS
@@ -3364,7 +3364,6 @@ SIH.UN,Sustainable Innovation & Health Dividend Fund,TSX,SIH.UN.TO,Sustain Innov
 PWI,Sustainable Power & Infrastructure Split Corp.,TSX,PWI.TO,Sustain Pwr&Infras A,PWI,Sustain Pwr&InfrasPr,PWI.PR.A
 SWP,Swiss Water Decaffeinated Coffee Inc.,TSX,SWP.TO,Swiss Water Coffee ,SWP
 SYZ,Sylogist Ltd.,TSX,SYZ.TO,Sylogist Ltd.,SYZ
-SSF.UN,Symphony Floating Rate Senior Loan Fund,TSX,SSF.UN.TO,Symphony FltgLoan Un,SSF.UN
 TBL,Taiga Building Products Ltd.,TSX,TBL.TO,Taiga Building Prod,TBL
 TSK,Talisker Resources Ltd.,TSX,TSK.TO,Talisker Res Ltd J,TSK,Talisker Res Ltd Wts,TSK.WT
 TLO,Talon Metals Corp.,TSX,TLO.TO,Talon Metals Corp. J,TLO
@@ -3749,6 +3748,7 @@ AKTS,"Aktis Oncology, Inc. - Common stock",NASDAQ Global Select MarketSM,AKTS
 AKTX,Akari Therapeutics Plc - American Depositary Shares,NASDAQ Capital Market,AKTX
 ALAB,"Astera Labs, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALAB
 ALAR,Alarum Technologies Ltd. - American Depositary Shares,NASDAQ Capital Market,ALAR
+ALBG,Leverage Shares 2X Long ALB Daily ETF,NASDAQ Global MarketSM,ALBG
 ALBT,Avalon GloboCare Corp. - Common Stock,NASDAQ Capital Market,ALBT
 ALCO,"Alico, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALCO
 ALCY,Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares,NASDAQ Capital Market,ALCY
@@ -4093,7 +4093,7 @@ BCPC,Balchem Corporation - Common Stock,NASDAQ Global Select MarketSM,BCPC
 BCRX,"BioCryst Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,BCRX
 BCTK,Baron Technology ETF,NASDAQ Global MarketSM,BCTK
 BCTX,BriaCell Therapeutics Corp. - Common Shares,NASDAQ Capital Market,BCTX
-BCTXW,BriaCell Therapeutics Corp. - Warrant,NASDAQ Capital Market,BCTXW
+BCTXW,BriaCell Therapeutics Corp. - Warrant expiring 2026,NASDAQ Capital Market,BCTXW
 BCTXZ,BriaCell Therapeutics Corp. - Warrant,NASDAQ Capital Market,BCTXZ
 BCYC,Bicycle Therapeutics plc - American Depositary Shares,NASDAQ Global Select MarketSM,BCYC
 BDCI,BTC Development Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,BDCI
@@ -4635,7 +4635,6 @@ COCHW,"Envoy Medical, Inc. - Warrant",NASDAQ Capital Market,COCHW
 COCO,"The Vita Coco Company, Inc. - Common Stock",NASDAQ Global Select MarketSM,COCO
 COCP,"Cocrystal Pharma, Inc. - Common Stock",NASDAQ Capital Market,COCP
 CODA,"Coda Octopus Group, Inc. - Common stock",NASDAQ Capital Market,CODA
-CODX,"Co-Diagnostics, Inc. - Common Stock",NASDAQ Capital Market,CODX
 COEP,"Coeptis Therapeutics Holdings, Inc. - Common Stock",NASDAQ Capital Market,COEP
 COEPW,"Coeptis Therapeutics Holdings, Inc. - Warrants",NASDAQ Capital Market,COEPW
 COFS,"ChoiceOne Financial Services, Inc. - Common Stock",NASDAQ Capital Market,COFS
@@ -4650,7 +4649,6 @@ COLAU,Columbus Acquisition Corp - Unit,NASDAQ Global MarketSM,COLAU
 COLB,"Columbia Banking System, Inc. - Common Stock",NASDAQ Global Select MarketSM,COLB
 COLL,"Collegium Pharmaceutical, Inc. - Common Stock",NASDAQ Global Select MarketSM,COLL
 COLM,Columbia Sportswear Company - Common Stock,NASDAQ Global Select MarketSM,COLM
-COMM,"CommScope Holding Company, Inc. - Common Stock",NASDAQ Global Select MarketSM,COMM
 COMT,iShares GSCI Commodity Dynamic Roll Strategy ETF,NASDAQ Global MarketSM,COMT
 CONI,GraniteShares 2x Short COIN Daily ETF,NASDAQ Global MarketSM,CONI
 CONL,GraniteShares 2x Long COIN Daily ETF,NASDAQ Global MarketSM,CONL
@@ -5378,6 +5376,7 @@ FRPT,"Freshpet, Inc. - Common Stock",NASDAQ Global MarketSM,FRPT
 FRSH,Freshworks Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,FRSH
 FRST,Primis Financial Corp. - Common Stock,NASDAQ Global MarketSM,FRST
 FRSX,Foresight Autonomous Holdings Ltd. - American Depositary Shares,NASDAQ Capital Market,FRSX
+FRWD,Nomura Transformational Technologies ETF,NASDAQ Global MarketSM,FRWD
 FSBC,Five Star Bancorp - Common Stock,NASDAQ Global Select MarketSM,FSBC
 FSBW,"FS Bancorp, Inc. - Common Stock",NASDAQ Capital Market,FSBW
 FSCS,First Trust SMID Capital Strength ETF,NASDAQ Global MarketSM,FSCS
@@ -5804,6 +5803,7 @@ HURA,"TuHURA Biosciences, Inc. - Common Stock",NASDAQ Capital Market,HURA
 HURC,"Hurco Companies, Inc. - Common Stock",NASDAQ Global Select MarketSM,HURC
 HURN,Huron Consulting Group Inc. - Common Stock,NASDAQ Global Select MarketSM,HURN
 HUT,Hut 8 Corp. - Common Stock,NASDAQ Global Select MarketSM,HUT
+HUTG,Leverage Shares 2X Long HUT Daily ETF,NASDAQ Global MarketSM,HUTG
 HVII,Hennessy Capital Investment Corp. VII - Ordinary Shares,NASDAQ Global MarketSM,HVII
 HVIIR,Hennessy Capital Investment Corp. VII - Rights,NASDAQ Global MarketSM,HVIIR
 HVIIU,Hennessy Capital Investment Corp. VII - Unit,NASDAQ Global MarketSM,HVIIU
@@ -6273,7 +6273,6 @@ LENZ,"LENZ Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,LENZ
 LESL,"Leslie's, Inc. - Common Stock",NASDAQ Global Select MarketSM,LESL
 LEXI,Alexis Practical Tactical ETF,NASDAQ Global MarketSM,LEXI
 LEXX,Lexaria Bioscience Corp. - Common Stock,NASDAQ Capital Market,LEXX
-LEXXW,Lexaria Bioscience Corp. - Warrant,NASDAQ Capital Market,LEXXW
 LFACU,Leapfrog Acquisition Corporation - Units,NASDAQ Global MarketSM,LFACU
 LFCR,"Lifecore Biomedical, Inc. - Common Stock",NASDAQ Global Select MarketSM,LFCR
 LFMD,"LifeMD, Inc. - Common Stock",NASDAQ Global MarketSM,LFMD
@@ -6582,7 +6581,7 @@ MNDO,MIND C.T.I. Ltd. - Ordinary Shares,NASDAQ Global MarketSM,MNDO
 MNDR,Mobile-health Network Solutions - Class A Ordinary Shares,NASDAQ Capital Market,MNDR
 MNDY,monday.com Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,MNDY
 MNKD,MannKind Corporation - Common Stock,NASDAQ Global MarketSM,MNKD
-MNMD,"Denium Therapeutics, Inc - Common Shares",NASDAQ Global Select MarketSM,MNMD
+MNMD,Mind Medicine (MindMed) Inc. - Common Shares,NASDAQ Global Select MarketSM,MNMD
 MNOV,"MediciNova, Inc. - Common Stock",NASDAQ Global MarketSM,MNOV
 MNPR,Monopar Therapeutics Inc. - Common Stock,NASDAQ Capital Market,MNPR
 MNRO,"Monro, Inc.  - Common Stock",NASDAQ Global Select MarketSM,MNRO
@@ -6991,6 +6990,7 @@ ONCHU,1RT Acquisition Corp. - Units,NASDAQ Global MarketSM,ONCHU
 ONCHW,1RT Acquisition Corp. - Warrant,NASDAQ Global MarketSM,ONCHW
 ONCO,"Onconetix, Inc.  - Common Stock",NASDAQ Capital Market,ONCO
 ONCY,Oncolytics Biotech Inc. - Common Shares,NASDAQ Capital Market,ONCY
+ONDG,Leverage Shares 2X Long ONDS Daily ETF,NASDAQ Global MarketSM,ONDG
 ONDS,Ondas Holdings Inc. - Common Stock,NASDAQ Capital Market,ONDS
 ONEG,OneConstruction Group Limited - Ordinary Shares,NASDAQ Capital Market,ONEG
 ONEQ,Fidelity Nasdaq Composite Index ETF,NASDAQ Global MarketSM,ONEQ
@@ -7228,6 +7228,7 @@ PLTS,Platinum Analytics Cayman Limited - Class A Ordinary Shares,NASDAQ Capital 
 PLTU,Direxion Daily PLTR Bull 2X Shares,NASDAQ Global MarketSM,PLTU
 PLTZ,Defiance Daily Target 2x Short PLTR ETF,NASDAQ Global MarketSM,PLTZ
 PLUG,"Plug Power, Inc. - Common Stock",NASDAQ Capital Market,PLUG
+PLUL,Leverage Shares 2X Long PLUG Daily ETF,NASDAQ Global MarketSM,PLUL
 PLUR,Pluri Inc. - Common Stock,NASDAQ Capital Market,PLUR
 PLUS,ePlus inc. - Common Stock,NASDAQ Global Select MarketSM,PLUS
 PLUT,Plutus Financial Group Limited - Ordinary Shares,NASDAQ Capital Market,PLUT
@@ -8401,6 +8402,7 @@ USDX,SGI Enhanced Core ETF,NASDAQ Global MarketSM,USDX
 USEA,United Maritime Corporation - Common Stock,NASDAQ Capital Market,USEA
 USEG,U.S. Energy Corp. - Common Stock,NASDAQ Capital Market,USEG
 USFI,BrandywineGLOBAL - U.S. Fixed Income ETF,NASDAQ Global MarketSM,USFI
+USGG,Leverage Shares 2X Long USAR Daily ETF,NASDAQ Global MarketSM,USGG
 USGO,U.S. GoldMining Inc. - Common stock,NASDAQ Capital Market,USGO
 USGOW,U.S. GoldMining Inc. - Warrant,NASDAQ Capital Market,USGOW
 USIG,iShares Broad USD Investment Grade Corporate Bond ETF,NASDAQ Global MarketSM,USIG
@@ -8424,6 +8426,7 @@ UTRE,US Treasury 3 Year Note ETF,NASDAQ Global MarketSM,UTRE
 UTSI,UTStarcom Holdings Corp - Ordinary Shares,NASDAQ Global Select MarketSM,UTSI
 UTWO,US Treasury 2 Year Note ETF,NASDAQ Global MarketSM,UTWO
 UTWY,US Treasury 20 Year Bond ETF,NASDAQ Global MarketSM,UTWY
+UUUG,Leverage Shares 2X Long UUUU Daily ETF,NASDAQ Global MarketSM,UUUG
 UVSP,Univest Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,UVSP
 UXIN,Uxin Limited - American Depositary Shares,NASDAQ Global Select MarketSM,UXIN
 UYLD,Angel Oak UltraShort Income ETF,NASDAQ Global MarketSM,UYLD
@@ -8485,6 +8488,7 @@ VINP,Vinci Compass Investments Ltd. - Class A Common Shares,NASDAQ Global Select
 VIOT,"Viomi Technology Co., Ltd - American Depositary Shares",NASDAQ Global Select MarketSM,VIOT
 VIR,"Vir Biotechnology, Inc. - Common Stock",NASDAQ Global Select MarketSM,VIR
 VIRC,Virco Manufacturing Corporation - Common Stock,NASDAQ Global MarketSM,VIRC
+VISN,"Vistance Networks, Inc.  - Common Stock",NASDAQ Global Select MarketSM,VISN
 VITL,"Vital Farms, Inc. - Common Stock",NASDAQ Global MarketSM,VITL
 VIVS,"VivoSim Labs, Inc. - Common Stock",NASDAQ Capital Market,VIVS
 VKTX,"Viking Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,VKTX
@@ -10641,7 +10645,6 @@ MLPB,"ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040",NY
 MLR,"Miller Industries, Inc. Common Stock",NYSE,MLR
 MLSS,"Milestone Scientific, Inc. Common Stock",NYSE MKT,MLSS
 MMA,Mixed Martial Arts Group Limited Ordinary Shares,NYSE MKT,MMA
-MMC,"Marsh & McLennan Companies, Inc. Common Stock",NYSE,MMC
 MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,NYSE,MMD
 MMI,"Marcus & Millichap, Inc. Common Stock",NYSE,MMI
 MMM,3M Company Common Stock,NYSE,MMM
@@ -10673,6 +10676,7 @@ MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock",NYSE,MQT
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock",NYSE,MQY
 MRK,"Merck & Company, Inc. Common Stock (new)",NYSE,MRK
 MRP,"Millrose Properties, Inc. Class A Common Stock",NYSE,MRP
+MRSH,Marsh Common Stock,NYSE,MRSH
 MRT,"Marti Technologies, Inc. Class A Ordinary Shares",NYSE MKT,MRT
 MS,Morgan Stanley Common Stock,NYSE,MS
 MS$A,Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A,NYSE,MS$A

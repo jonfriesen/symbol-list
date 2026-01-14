@@ -1,5 +1,5 @@
 {
- "date": "2026-01-13",
+ "date": "2026-01-14",
  "data": [
   {
    "symbol": "ONE",
@@ -9980,7 +9980,7 @@
    "yahoo_symbol": "MCS.V",
    "instruments": [
     {
-     "name": "McChip Resources Inc",
+     "name": "McChip Resources Inc.",
      "symbol": "MCS"
     }
    ]
@@ -15734,18 +15734,6 @@
     {
      "name": "The Western Investment Company of Canada Limited",
      "symbol": "WI"
-    }
-   ]
-  },
-  {
-   "symbol": "TLT",
-   "name": "Theralase Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TLT.V",
-   "instruments": [
-    {
-     "name": "Theralase Technologies Inc.",
-     "symbol": "TLT"
     }
    ]
   },
@@ -38030,6 +38018,18 @@
    ]
   },
   {
+   "symbol": "MOAT",
+   "name": "Moat Active Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MOAT.TO",
+   "instruments": [
+    {
+     "name": "Moat Act Pre Yld ETF",
+     "symbol": "MOAT"
+    }
+   ]
+  },
+  {
    "symbol": "TPX.A",
    "name": "Molson Coors Canada Inc.",
    "exchange": "TSX",
@@ -43322,18 +43322,6 @@
    ]
   },
   {
-   "symbol": "SSF.UN",
-   "name": "Symphony Floating Rate Senior Loan Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "SSF.UN.TO",
-   "instruments": [
-    {
-     "name": "Symphony FltgLoan Un",
-     "symbol": "SSF.UN"
-    }
-   ]
-  },
-  {
    "symbol": "TBL",
    "name": "Taiga Building Products Ltd.",
    "exchange": "TSX",
@@ -47000,6 +46988,12 @@
    "yahoo_symbol": "ALAR"
   },
   {
+   "symbol": "ALBG",
+   "name": "Leverage Shares 2X Long ALB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALBG"
+  },
+  {
    "symbol": "ALBT",
    "name": "Avalon GloboCare Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -49065,7 +49059,7 @@
   },
   {
    "symbol": "BCTXW",
-   "name": "BriaCell Therapeutics Corp. - Warrant",
+   "name": "BriaCell Therapeutics Corp. - Warrant expiring 2026",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BCTXW"
   },
@@ -52316,12 +52310,6 @@
    "yahoo_symbol": "CODA"
   },
   {
-   "symbol": "CODX",
-   "name": "Co-Diagnostics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CODX"
-  },
-  {
    "symbol": "COEP",
    "name": "Coeptis Therapeutics Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -52404,12 +52392,6 @@
    "name": "Columbia Sportswear Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "COLM"
-  },
-  {
-   "symbol": "COMM",
-   "name": "CommScope Holding Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "COMM"
   },
   {
    "symbol": "COMT",
@@ -56774,6 +56756,12 @@
    "yahoo_symbol": "FRSX"
   },
   {
+   "symbol": "FRWD",
+   "name": "Nomura Transformational Technologies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FRWD"
+  },
+  {
    "symbol": "FSBC",
    "name": "Five Star Bancorp - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -59328,6 +59316,12 @@
    "name": "Hut 8 Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HUT"
+  },
+  {
+   "symbol": "HUTG",
+   "name": "Leverage Shares 2X Long HUT Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUTG"
   },
   {
    "symbol": "HVII",
@@ -62144,12 +62138,6 @@
    "yahoo_symbol": "LEXX"
   },
   {
-   "symbol": "LEXXW",
-   "name": "Lexaria Bioscience Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LEXXW"
-  },
-  {
    "symbol": "LFACU",
    "name": "Leapfrog Acquisition Corporation - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -63999,7 +63987,7 @@
   },
   {
    "symbol": "MNMD",
-   "name": "Denium Therapeutics, Inc - Common Shares",
+   "name": "Mind Medicine (MindMed) Inc. - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MNMD"
   },
@@ -66452,6 +66440,12 @@
    "yahoo_symbol": "ONCY"
   },
   {
+   "symbol": "ONDG",
+   "name": "Leverage Shares 2X Long ONDS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ONDG"
+  },
+  {
    "symbol": "ONDS",
    "name": "Ondas Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67872,6 +67866,12 @@
    "name": "Plug Power, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PLUG"
+  },
+  {
+   "symbol": "PLUL",
+   "name": "Leverage Shares 2X Long PLUG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLUL"
   },
   {
    "symbol": "PLUR",
@@ -74912,6 +74912,12 @@
    "yahoo_symbol": "USFI"
   },
   {
+   "symbol": "USGG",
+   "name": "Leverage Shares 2X Long USAR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USGG"
+  },
+  {
    "symbol": "USGO",
    "name": "U.S. GoldMining Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
@@ -75048,6 +75054,12 @@
    "name": "US Treasury 20 Year Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UTWY"
+  },
+  {
+   "symbol": "UUUG",
+   "name": "Leverage Shares 2X Long UUUU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UUUG"
   },
   {
    "symbol": "UVSP",
@@ -75414,6 +75426,12 @@
    "name": "Virco Manufacturing Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VIRC"
+  },
+  {
+   "symbol": "VISN",
+   "name": "Vistance Networks, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VISN"
   },
   {
    "symbol": "VITL",
@@ -88352,12 +88370,6 @@
    "yahoo_symbol": "MMA"
   },
   {
-   "symbol": "MMC",
-   "name": "Marsh \u0026 McLennan Companies, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MMC"
-  },
-  {
    "symbol": "MMD",
    "name": "NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares",
    "exchange": "NYSE",
@@ -88542,6 +88554,12 @@
    "name": "Millrose Properties, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MRP"
+  },
+  {
+   "symbol": "MRSH",
+   "name": "Marsh Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRSH"
   },
   {
    "symbol": "MRT",
