@@ -1,120 +1,126 @@
 {
  "added": [
   {
-   "symbol": "MOAT",
-   "name": "Moat Active Premium Yield ETF",
+   "symbol": "INTY",
+   "name": "Evolve International Equity UltraYield ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "MOAT.TO",
+   "yahoo_symbol": "INTY.TO",
    "instruments": [
     {
-     "name": "Moat Act Pre Yld ETF",
-     "symbol": "MOAT"
+     "name": "Evolve Int Eq UltY E",
+     "symbol": "INTY"
     }
    ]
   },
   {
-   "symbol": "ALBG",
-   "name": "Leverage Shares 2X Long ALB Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALBG"
+   "symbol": "BLKY",
+   "name": "Harvest Block Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BLKY.TO",
+   "instruments": [
+    {
+     "name": "Harv Blk Enh Hi In E",
+     "symbol": "BLKY"
+    }
+   ]
   },
   {
-   "symbol": "FRWD",
-   "name": "Nomura Transformational Technologies ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRWD"
+   "symbol": "CRWY",
+   "name": "Harvest CrowdStrike Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRWY.TO",
+   "instruments": [
+    {
+     "name": "Harv CrwdStrk En H E",
+     "symbol": "CRWY"
+    }
+   ]
   },
   {
-   "symbol": "HUTG",
-   "name": "Leverage Shares 2X Long HUT Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HUTG"
+   "symbol": "JNJY",
+   "name": "Harvest JnJ Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JNJY.TO",
+   "instruments": [
+    {
+     "name": "Harv JnJ En Hi Inc E",
+     "symbol": "JNJY"
+    }
+   ]
   },
   {
-   "symbol": "ONDG",
-   "name": "Leverage Shares 2X Long ONDS Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ONDG"
+   "symbol": "JPHE",
+   "name": "Harvest JPHE Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JPHE.TO",
+   "instruments": [
+    {
+     "name": "Harv JPHE En H Inc E",
+     "symbol": "JPHE"
+    }
+   ]
   },
   {
-   "symbol": "PLUL",
-   "name": "Leverage Shares 2X Long PLUG Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLUL"
+   "symbol": "NOVY",
+   "name": "Harvest Novo Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NOVY.TO",
+   "instruments": [
+    {
+     "name": "Harv Novo Enh H In E",
+     "symbol": "NOVY"
+    }
+   ]
   },
   {
-   "symbol": "USGG",
-   "name": "Leverage Shares 2X Long USAR Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "USGG"
+   "symbol": "ORCY",
+   "name": "Harvest Oracle Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ORCY.TO",
+   "instruments": [
+    {
+     "name": "Harv Oracle E H In E",
+     "symbol": "ORCY"
+    }
+   ]
   },
   {
-   "symbol": "UUUG",
-   "name": "Leverage Shares 2X Long UUUU Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UUUG"
-  },
-  {
-   "symbol": "VISN",
-   "name": "Vistance Networks, Inc.  - Common Stock",
+   "symbol": "ADAMO",
+   "name": "Adamas Trust, Inc. - 9.250% Senior Notes Due 2031",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VISN"
+   "yahoo_symbol": "ADAMO"
   },
   {
-   "symbol": "MRSH",
-   "name": "Marsh Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MRSH"
+   "symbol": "BCTXL",
+   "name": "BriaCell Therapeutics Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCTXL"
+  },
+  {
+   "symbol": "DFTX",
+   "name": "Definium Therapeutics, Inc.  - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DFTX"
+  },
+  {
+   "symbol": "OIMAU",
+   "name": "OneIM Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OIMAU"
   }
  ],
  "removed": [
   {
-   "symbol": "TLT",
-   "name": "Theralase Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TLT.V",
-   "instruments": [
-    {
-     "name": "Theralase Technologies Inc.",
-     "symbol": "TLT"
-    }
-   ]
-  },
-  {
-   "symbol": "COMM",
-   "name": "CommScope Holding Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "COMM"
-  },
-  {
-   "symbol": "MMC",
-   "name": "Marsh \u0026 McLennan Companies, Inc. Common Stock",
+   "symbol": "BFLY.W",
+   "name": "Butterfly Network, Inc. Warrants",
    "exchange": "NYSE",
-   "yahoo_symbol": "MMC"
+   "yahoo_symbol": "BFLY.W"
   },
   {
-   "symbol": "SSF.UN",
-   "name": "Symphony Floating Rate Senior Loan Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "SSF.UN.TO",
-   "instruments": [
-    {
-     "name": "Symphony FltgLoan Un",
-     "symbol": "SSF.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "CODX",
-   "name": "Co-Diagnostics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CODX"
-  },
-  {
-   "symbol": "LEXXW",
-   "name": "Lexaria Bioscience Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LEXXW"
+   "symbol": "MNMD",
+   "name": "Mind Medicine (MindMed) Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MNMD"
   }
  ]
 }
