@@ -1,5 +1,5 @@
 {
- "date": "2026-01-15",
+ "date": "2026-01-16",
  "data": [
   {
    "symbol": "IGBT.UN",
@@ -9116,7 +9116,7 @@
    "yahoo_symbol": "ECOR.TO",
    "instruments": [
     {
-     "name": "Ecora Resources Ord",
+     "name": "Ecora Royalties PLC",
      "symbol": "ECOR"
     }
    ]
@@ -54576,18 +54576,6 @@
    "yahoo_symbol": "ECBK"
   },
   {
-   "symbol": "ECDA",
-   "name": "ECD Automotive Design, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ECDA"
-  },
-  {
-   "symbol": "ECDAW",
-   "name": "ECD Automotive Design, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ECDAW"
-  },
-  {
    "symbol": "ECOR",
    "name": "electroCore, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -56014,6 +56002,12 @@
    "name": "Founder-Led ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FDRS"
+  },
+  {
+   "symbol": "FDRX",
+   "name": "Founder-Led 2X Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDRX"
   },
   {
    "symbol": "FDSB",
@@ -60846,6 +60840,12 @@
    "yahoo_symbol": "ITIC"
   },
   {
+   "symbol": "ITOC",
+   "name": "iTonic Holdings Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITOC"
+  },
+  {
    "symbol": "ITRI",
    "name": "Itron, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61084,6 +61084,12 @@
    "name": "JPMorgan Nasdaq Equity Premium Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "JEPQ"
+  },
+  {
+   "symbol": "JF",
+   "name": "J and Friends Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JF"
   },
   {
    "symbol": "JFB",
@@ -66804,6 +66810,12 @@
    "yahoo_symbol": "ORKT"
   },
   {
+   "symbol": "ORLG",
+   "name": "Leverage Shares 2X Long ORLY Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORLG"
+  },
+  {
    "symbol": "ORLY",
    "name": "O'Reilly Automotive, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68586,12 +68598,6 @@
    "yahoo_symbol": "PSWD"
   },
   {
-   "symbol": "PT",
-   "name": "Pintec Technology Holdings Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PT"
-  },
-  {
    "symbol": "PTC",
    "name": "PTC Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -68626,12 +68632,6 @@
    "name": "Invesco Dorsey Wright Healthcare Momentum ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PTH"
-  },
-  {
-   "symbol": "PTHL",
-   "name": "Pheton Holdings Ltd - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTHL"
   },
   {
    "symbol": "PTIR",
@@ -76902,6 +76902,12 @@
    "yahoo_symbol": "XP"
   },
   {
+   "symbol": "XPEG",
+   "name": "Leverage Shares 2X Long XPEV Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XPEG"
+  },
+  {
    "symbol": "XPEL",
    "name": "XPEL, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -80728,6 +80734,12 @@
    "name": "Calix, Inc Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CALX"
+  },
+  {
+   "symbol": "CALY",
+   "name": "Callaway Golf Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CALY"
   },
   {
    "symbol": "CANF",
@@ -88536,12 +88548,6 @@
    "yahoo_symbol": "MOD"
   },
   {
-   "symbol": "MODG",
-   "name": "Topgolf Callaway Brands Corp. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MODG"
-  },
-  {
    "symbol": "MOG.A",
    "name": "Moog Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -93534,6 +93540,12 @@
    "yahoo_symbol": "SRI"
   },
   {
+   "symbol": "SRJN",
+   "name": "Spire Inc. 6.375% Junior Subordinated Notes due 2086",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRJN"
+  },
+  {
    "symbol": "SRL",
    "name": "Scully Royalty Ltd.",
    "exchange": "NYSE",
@@ -94546,6 +94558,12 @@
    "name": "Triton International Limited 7.625% Series F Cumulative Redeemable Perpetual Preference Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "TRTN$F"
+  },
+  {
+   "symbol": "TRTN$G",
+   "name": "Triton International Limited 7.500% Series G Cumulative Redeemable Perpetual Preference Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRTN$G"
   },
   {
    "symbol": "TRTX",

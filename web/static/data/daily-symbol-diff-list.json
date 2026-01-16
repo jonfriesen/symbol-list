@@ -1,126 +1,84 @@
 {
  "added": [
   {
-   "symbol": "INTY",
-   "name": "Evolve International Equity UltraYield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "INTY.TO",
-   "instruments": [
-    {
-     "name": "Evolve Int Eq UltY E",
-     "symbol": "INTY"
-    }
-   ]
-  },
-  {
-   "symbol": "BLKY",
-   "name": "Harvest Block Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BLKY.TO",
-   "instruments": [
-    {
-     "name": "Harv Blk Enh Hi In E",
-     "symbol": "BLKY"
-    }
-   ]
-  },
-  {
-   "symbol": "CRWY",
-   "name": "Harvest CrowdStrike Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CRWY.TO",
-   "instruments": [
-    {
-     "name": "Harv CrwdStrk En H E",
-     "symbol": "CRWY"
-    }
-   ]
-  },
-  {
-   "symbol": "JNJY",
-   "name": "Harvest JnJ Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "JNJY.TO",
-   "instruments": [
-    {
-     "name": "Harv JnJ En Hi Inc E",
-     "symbol": "JNJY"
-    }
-   ]
-  },
-  {
-   "symbol": "JPHE",
-   "name": "Harvest JPHE Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "JPHE.TO",
-   "instruments": [
-    {
-     "name": "Harv JPHE En H Inc E",
-     "symbol": "JPHE"
-    }
-   ]
-  },
-  {
-   "symbol": "NOVY",
-   "name": "Harvest Novo Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "NOVY.TO",
-   "instruments": [
-    {
-     "name": "Harv Novo Enh H In E",
-     "symbol": "NOVY"
-    }
-   ]
-  },
-  {
-   "symbol": "ORCY",
-   "name": "Harvest Oracle Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ORCY.TO",
-   "instruments": [
-    {
-     "name": "Harv Oracle E H In E",
-     "symbol": "ORCY"
-    }
-   ]
-  },
-  {
-   "symbol": "ADAMO",
-   "name": "Adamas Trust, Inc. - 9.250% Senior Notes Due 2031",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ADAMO"
-  },
-  {
-   "symbol": "BCTXL",
-   "name": "BriaCell Therapeutics Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BCTXL"
-  },
-  {
-   "symbol": "DFTX",
-   "name": "Definium Therapeutics, Inc.  - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DFTX"
-  },
-  {
-   "symbol": "OIMAU",
-   "name": "OneIM Acquisition Corp. - Units",
+   "symbol": "FDRX",
+   "name": "Founder-Led 2X Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OIMAU"
+   "yahoo_symbol": "FDRX"
+  },
+  {
+   "symbol": "ITOC",
+   "name": "iTonic Holdings Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITOC"
+  },
+  {
+   "symbol": "JF",
+   "name": "J and Friends Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JF"
+  },
+  {
+   "symbol": "ORLG",
+   "name": "Leverage Shares 2X Long ORLY Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORLG"
+  },
+  {
+   "symbol": "XPEG",
+   "name": "Leverage Shares 2X Long XPEV Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XPEG"
+  },
+  {
+   "symbol": "CALY",
+   "name": "Callaway Golf Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CALY"
+  },
+  {
+   "symbol": "SRJN",
+   "name": "Spire Inc. 6.375% Junior Subordinated Notes due 2086",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRJN"
+  },
+  {
+   "symbol": "TRTN$G",
+   "name": "Triton International Limited 7.500% Series G Cumulative Redeemable Perpetual Preference Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRTN$G"
   }
  ],
  "removed": [
   {
-   "symbol": "BFLY.W",
-   "name": "Butterfly Network, Inc. Warrants",
+   "symbol": "MODG",
+   "name": "Topgolf Callaway Brands Corp. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "BFLY.W"
+   "yahoo_symbol": "MODG"
   },
   {
-   "symbol": "MNMD",
-   "name": "Mind Medicine (MindMed) Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MNMD"
+   "symbol": "PT",
+   "name": "Pintec Technology Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PT"
+  },
+  {
+   "symbol": "ECDA",
+   "name": "ECD Automotive Design, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ECDA"
+  },
+  {
+   "symbol": "PTHL",
+   "name": "Pheton Holdings Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTHL"
+  },
+  {
+   "symbol": "ECDAW",
+   "name": "ECD Automotive Design, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ECDAW"
   }
  ]
 }
