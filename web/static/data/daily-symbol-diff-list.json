@@ -1,66 +1,48 @@
 {
  "added": [
   {
-   "symbol": "NOVA",
-   "name": "EraNova Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NOVA.V",
-   "instruments": [
-    {
-     "name": "EraNova Metals Inc.",
-     "symbol": "NOVA"
-    }
-   ]
-  },
-  {
-   "symbol": "RCTR",
-   "name": "First Trust Bloomberg Nuclear Power ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RCTR.TO",
-   "instruments": [
-    {
-     "name": "First Trst Bl Nc P E",
-     "symbol": "RCTR"
-    }
-   ]
-  },
-  {
-   "symbol": "FGIIU",
-   "name": "FG Imperii Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FGIIU"
-  },
-  {
-   "symbol": "IEAGU",
-   "name": "Infinite Eagle Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IEAGU"
+   "symbol": "PDC",
+   "name": "Perpetuals.com Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PDC"
   }
  ],
  "removed": [
   {
-   "symbol": "STU",
-   "name": "Stuhini Exploration Ltd",
-   "exchange": "TSXV",
-   "yahoo_symbol": "STU.V",
-   "instruments": [
-    {
-     "name": "Stuhini Exploration Ltd.",
-     "symbol": "STU"
-    }
-   ]
+   "symbol": "VSSYW",
+   "name": "Versus Systems Inc. - Class A Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSSYW"
   },
   {
-   "symbol": "DNTL",
-   "name": "dentalcorp Holdings Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "DNTL.TO",
-   "instruments": [
-    {
-     "name": "dentalcorp Hldg J SV",
-     "symbol": "DNTL"
-    }
-   ]
+   "symbol": "DENN",
+   "name": "Denny's Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DENN"
+  },
+  {
+   "symbol": "TEF",
+   "name": "Telefonica SA Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TEF"
+  },
+  {
+   "symbol": "ELWS",
+   "name": "Earlyworks Co., Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELWS"
+  },
+  {
+   "symbol": "GIFI",
+   "name": "Gulf Island Fabrication, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GIFI"
+  },
+  {
+   "symbol": "SMLR",
+   "name": "Semler Scientific, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMLR"
   }
  ]
 }
