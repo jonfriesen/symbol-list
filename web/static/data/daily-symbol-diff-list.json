@@ -1,96 +1,84 @@
 {
  "added": [
   {
-   "symbol": "QMVP",
-   "name": "HAMILTON CHAMPIONS TM U.S. Technology Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QMVP.TO",
+   "symbol": "TOTC",
+   "name": "Totec Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TOTC.V",
    "instruments": [
     {
-     "name": "Ham ChampsUSTech ETF",
-     "symbol": "QMVP"
+     "name": "Totec Resources Ltd.",
+     "symbol": "TOTC"
     }
    ]
   },
   {
-   "symbol": "UMVP",
-   "name": "HAMILTON CHAMPIONS TM Utilities Index ETF",
+   "symbol": "TOKN",
+   "name": "Global X Tokenization Ecosystem Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "UMVP.TO",
+   "yahoo_symbol": "TOKN.TO",
    "instruments": [
     {
-     "name": "Ham ChampsUtilInd ET",
-     "symbol": "UMVP"
+     "name": "GlblX TkzEco Idx ETF",
+     "symbol": "TOKN"
     }
    ]
   },
   {
-   "symbol": "HPYB",
-   "name": "Harvest Premium Yield Canadian Bank ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HPYB.TO",
-   "instruments": [
-    {
-     "name": "Harv PreYelCanBk ETF",
-     "symbol": "HPYB"
-    }
-   ]
+   "symbol": "OLOX",
+   "name": "Olenox Industries Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OLOX"
   },
   {
-   "symbol": "HPYE",
-   "name": "Harvest Premium Yield Enhanced ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HPYE.TO",
-   "instruments": [
-    {
-     "name": "Harv PreYel Enhn ETF",
-     "symbol": "HPYE"
-    }
-   ]
+   "symbol": "PLSM",
+   "name": "Pulsenmore Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLSM"
   },
   {
-   "symbol": "ITHA",
-   "name": "ITHAX Acquisition Corp III - Class A Ordinary Shares",
+   "symbol": "SCZM",
+   "name": "Santacruz Silver Mining Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCZM"
+  },
+  {
+   "symbol": "XCBEU",
+   "name": "X3 Acquisition Corp. Ltd. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ITHA"
+   "yahoo_symbol": "XCBEU"
   },
   {
-   "symbol": "ITHAW",
-   "name": "ITHAX Acquisition Corp III - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ITHAW"
-  },
-  {
-   "symbol": "SCII",
-   "name": "SC II Acquisition Corp. - Class A ordinary share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SCII"
-  },
-  {
-   "symbol": "SCIIR",
-   "name": "SC II Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SCIIR"
+   "symbol": "BTGO",
+   "name": "BitGo Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BTGO"
   }
  ],
  "removed": [
   {
-   "symbol": "IVP",
-   "name": "Inspire Veterinary Partners, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IVP"
-  },
-  {
-   "symbol": "FYBR",
-   "name": "Frontier Communications Parent, Inc. - Common Stock",
+   "symbol": "TRUE",
+   "name": "TrueCar, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FYBR"
+   "yahoo_symbol": "TRUE"
   },
   {
-   "symbol": "SYBX",
-   "name": "Synlogic, Inc. - Common Stock",
+   "symbol": "SGBX",
+   "name": "Safe \u0026 Green Holdings Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SYBX"
+   "yahoo_symbol": "SGBX"
+  },
+  {
+   "symbol": "TOTC.P",
+   "name": "Totec Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TOTC.P.V",
+   "instruments": [
+    {
+     "name": "Totec Resources Ltd.",
+     "symbol": "TOTC.P"
+    }
+   ]
   }
  ]
 }
