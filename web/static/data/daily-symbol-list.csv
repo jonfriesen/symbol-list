@@ -3157,7 +3157,6 @@ PIC.A,Premium Income Corporation,TSX,PIC.A.TO,Premium Income Cl A,PIC.A,Premium 
 PMZ.UN,Primaris Real Estate Investment Trust,TSX,PMZ.UN.TO,Primaris REIT A Un,PMZ.UN
 PDV,Prime Dividend Corp.,TSX,PDV.TO,Prime Dividend Cl A ,PDV,Prime Dividend Pr,PDV.PR.A
 PRV.DB,PRO Real Estate Investment Trust,TSX,PRV.DB.TO,PRO Real Est Tr Deb,PRV.DB,PRO Real Est Tr Un,PRV.UN
-PRB,Probe Gold Inc.,TSX,PRB.TO,Probe Gold Inc. J,PRB
 PG,Procter & Gamble CDR (CAD Hedged),TSX,PG.TO,P&G CDR Hgd,PG
 PRN,Profound Medical Corp.,TSX,PRN.TO,Profound Medical,PRN
 PRL,Propel Holdings Inc.,TSX,PRL.TO,Propel Holdings J,PRL
@@ -3796,6 +3795,7 @@ ALMU,"Aeluma, Inc. - Common Stock",NASDAQ Capital Market,ALMU
 ALNT,Allient Inc. - Common Stock,NASDAQ Global MarketSM,ALNT
 ALNY,"Alnylam Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALNY
 ALOT,"AstroNova, Inc. - Common Stock",NASDAQ Global MarketSM,ALOT
+ALOVU,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",NASDAQ Global MarketSM,ALOVU
 ALPS,ALPS Group Inc - Ordinary Share,NASDAQ Global MarketSM,ALPS
 ALRM,"Alarm.com Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALRM
 ALRS,Alerus Financial Corporation - Common Stock,NASDAQ Capital Market,ALRS
@@ -5965,7 +5965,6 @@ INDP,"Indaptus Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,INDP
 INDV,Indivior PLC - Ordinary Shares,NASDAQ Global Select MarketSM,INDV
 INDY,iShares India 50 ETF,NASDAQ Global MarketSM,INDY
 INEO,INNEOVA Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,INEO
-INFR,ClearBridge Sustainable Infrastructure ETF,NASDAQ Global MarketSM,INFR
 INGN,"Inogen, Inc - Common Stock",NASDAQ Global Select MarketSM,INGN
 INHD,Inno Holdings Inc. - Common Stock,NASDAQ Capital Market,INHD
 INKT,"MiNK Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,INKT
@@ -7596,6 +7595,7 @@ RKDA,"Arcadia Biosciences, Inc. - Common Stock",NASDAQ Capital Market,RKDA
 RKLB,Rocket Lab Corporation - Common Stock,NASDAQ Capital Market,RKLB
 RKLX,Defiance Daily Target 2X Long RKLB ETF,NASDAQ Global MarketSM,RKLX
 RKLZ,Defiance Daily Target 2x Short RKLB ETF,NASDAQ Global MarketSM,RKLZ
+RKNG,Defiance Retail Kings ETF,NASDAQ Global MarketSM,RKNG
 RLAY,"Relay Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,RLAY
 RLMD,"Relmada Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,RLMD
 RLYB,Rallybio Corporation - Common Stock,NASDAQ Capital Market,RLYB
@@ -8149,6 +8149,7 @@ TDACW,Translational Development Acquisition Corp. - Warrants,NASDAQ Global Marke
 TDI,Touchstone Dynamic International ETF,NASDAQ Global MarketSM,TDI
 TDIC,Dreamland Limited - Class A Ordinary Shares,NASDAQ Capital Market,TDIC
 TDIV,First Trust NASDAQ Technology Dividend Index Fund,NASDAQ Global MarketSM,TDIV
+TDOG,21shares Dogecoin ETF,NASDAQ Global MarketSM,TDOG
 TDSB,ETC Cabana Target Beta ETF,NASDAQ Global MarketSM,TDSB
 TDSC,ETC Cabana Target Drawdown 10 ETF,NASDAQ Global MarketSM,TDSC
 TDTH,Trident Digital Tech Holdings Ltd - American Depository Shares,NASDAQ Capital Market,TDTH
@@ -8172,6 +8173,7 @@ TER,"Teradyne, Inc. - Common Stock",NASDAQ Global Select MarketSM,TER
 TERG,Leverage Shares 2X Long TER Daily ETF,NASDAQ Global MarketSM,TERG
 TERN,"Terns Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,TERN
 TEXN,iShares Texas Equity ETF,NASDAQ Global MarketSM,TEXN
+TEXX,Horizon Kinetics Texas ETF,NASDAQ Global MarketSM,TEXX
 TFNS,T. Rowe Price Financials ETF,NASDAQ Global MarketSM,TFNS
 TFSL,TFS Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,TFSL
 TGHL,The GrowHub Limited - Class A Ordinary Shares,NASDAQ Capital Market,TGHL
@@ -9487,7 +9489,6 @@ CMDB,Costamare Bulkers Holdings Limited Common Stock,NYSE,CMDB
 CMG,"Chipotle Mexican Grill, Inc. Common Stock",NYSE,CMG
 CMI,Cummins Inc. Common Stock,NYSE,CMI
 CMP,Compass Minerals Intl Inc Common Stock,NYSE,CMP
-CMPO,"CompoSecure, Inc. Class A Common Stock",NYSE,CMPO
 CMRE,Costamare Inc. Common Stock $0.0001 par value,NYSE,CMRE
 CMRE$B,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),NYSE,CMRE$B
 CMRE$C,Costamare Inc. Perpetual Preferred Series C (Marshall Islands),NYSE,CMRE$C
@@ -10056,7 +10057,6 @@ GEL,"Genesis Energy, L.P. Common Units",NYSE,GEL
 GENC,"Gencor Industries, Inc. Common Stock",NYSE MKT,GENC
 GENI,Genius Sports Limited Ordinary Shares,NYSE,GENI
 GEO,Geo Group Inc (The) REIT,NYSE,GEO
-GES,"Guess?, Inc. Common Stock",NYSE,GES
 GETY,"Getty Images Holdings, Inc. Class A Common Stock",NYSE,GETY
 GEV,GE Vernova Inc. Common Stock,NYSE,GEV
 GF,"New Germany Fund, Inc. (The) Common Stock",NYSE,GF
@@ -10130,6 +10130,7 @@ GOOS,Canada Goose Holdings Inc. Subordinate Voting Shares,NYSE,GOOS
 GORO,Gold Resource Corporation Common Stock,NYSE MKT,GORO
 GOTU,Gaotu Techedu Inc. American Depositary Shares,NYSE,GOTU
 GPC,Genuine Parts Company Common Stock,NYSE,GPC
+GPGI,"GPGI, Inc. Class A Common Stock",NYSE,GPGI
 GPI,"Group 1 Automotive, Inc. Common Stock",NYSE,GPI
 GPJA,"Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077",NYSE,GPJA
 GPK,Graphic Packaging Holding Company,NYSE,GPK
@@ -10506,6 +10507,7 @@ LDOS,"Leidos Holdings, Inc. Common Stock",NYSE,LDOS
 LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",NYSE,LDP
 LEA,Lear Corporation Common Stock,NYSE,LEA
 LEG,"Leggett & Platt, Incorporated Common Stock",NYSE,LEG
+LEGO.U,"Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",NYSE MKT,LEGO.U
 LEGT,Legato Merger Corp. III Ordinary Shares,NYSE MKT,LEGT
 LEGT.U,"Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",NYSE MKT,LEGT.U
 LEGT.W,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",NYSE MKT,LEGT.W
@@ -11354,7 +11356,9 @@ SBSW,D/B/A Sibanye-Stillwater Limited ADS,NYSE,SBSW
 SBXD,SilverBox Corp IV Class A Ordinary Shares,NYSE,SBXD
 SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,SBXD.U
 SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",NYSE,SBXD.W
+SBXE,SilverBox Corp V Class A Ordinary Shares,NYSE,SBXE
 SBXE.U,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",NYSE,SBXE.U
+SBXE.W,"SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",NYSE,SBXE.W
 SCCD,Sachem Capital Corp. 6.00% Notes due 2026,NYSE MKT,SCCD
 SCCE,Sachem Capital Corp. 6.00% Notes due 2027,NYSE MKT,SCCE
 SCCF,Sachem Capital Corp. 7.125% Notes due 2027,NYSE MKT,SCCF

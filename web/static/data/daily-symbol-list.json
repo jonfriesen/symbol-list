@@ -1,5 +1,5 @@
 {
- "date": "2026-01-22",
+ "date": "2026-01-23",
  "data": [
   {
    "symbol": "ONE",
@@ -40530,18 +40530,6 @@
    ]
   },
   {
-   "symbol": "PRB",
-   "name": "Probe Gold Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "PRB.TO",
-   "instruments": [
-    {
-     "name": "Probe Gold Inc. J",
-     "symbol": "PRB"
-    }
-   ]
-  },
-  {
    "symbol": "PG",
    "name": "Procter \u0026 Gamble CDR (CAD Hedged)",
    "exchange": "TSX",
@@ -47350,6 +47338,12 @@
    "name": "AstroNova, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ALOT"
+  },
+  {
+   "symbol": "ALOVU",
+   "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALOVU"
   },
   {
    "symbol": "ALPS",
@@ -60366,12 +60360,6 @@
    "yahoo_symbol": "INEO"
   },
   {
-   "symbol": "INFR",
-   "name": "ClearBridge Sustainable Infrastructure ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "INFR"
-  },
-  {
    "symbol": "INGN",
    "name": "Inogen, Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -70152,6 +70140,12 @@
    "yahoo_symbol": "RKLZ"
   },
   {
+   "symbol": "RKNG",
+   "name": "Defiance Retail Kings ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RKNG"
+  },
+  {
    "symbol": "RLAY",
    "name": "Relay Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -73470,6 +73464,12 @@
    "yahoo_symbol": "TDIV"
   },
   {
+   "symbol": "TDOG",
+   "name": "21shares Dogecoin ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDOG"
+  },
+  {
    "symbol": "TDSB",
    "name": "ETC Cabana Target Beta ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -73606,6 +73606,12 @@
    "name": "iShares Texas Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TEXN"
+  },
+  {
+   "symbol": "TEXX",
+   "name": "Horizon Kinetics Texas ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TEXX"
   },
   {
    "symbol": "TFNS",
@@ -81498,12 +81504,6 @@
    "yahoo_symbol": "CMP"
   },
   {
-   "symbol": "CMPO",
-   "name": "CompoSecure, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CMPO"
-  },
-  {
    "symbol": "CMRE",
    "name": "Costamare Inc. Common Stock $0.0001 par value",
    "exchange": "NYSE",
@@ -84912,12 +84912,6 @@
    "yahoo_symbol": "GEO"
   },
   {
-   "symbol": "GES",
-   "name": "Guess?, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GES"
-  },
-  {
    "symbol": "GETY",
    "name": "Getty Images Holdings, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -85354,6 +85348,12 @@
    "name": "Genuine Parts Company Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "GPC"
+  },
+  {
+   "symbol": "GPGI",
+   "name": "GPGI, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GPGI"
   },
   {
    "symbol": "GPI",
@@ -87610,6 +87610,12 @@
    "name": "Leggett \u0026 Platt, Incorporated Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LEG"
+  },
+  {
+   "symbol": "LEGO.U",
+   "name": "Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGO.U"
   },
   {
    "symbol": "LEGT",
@@ -92700,10 +92706,22 @@
    "yahoo_symbol": "SBXD.W"
   },
   {
+   "symbol": "SBXE",
+   "name": "SilverBox Corp V Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXE"
+  },
+  {
    "symbol": "SBXE.U",
    "name": "SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "SBXE.U"
+  },
+  {
+   "symbol": "SBXE.W",
+   "name": "SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXE.W"
   },
   {
    "symbol": "SCCD",
