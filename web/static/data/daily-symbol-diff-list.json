@@ -1,120 +1,138 @@
 {
  "added": [
   {
-   "symbol": "PBAL",
-   "name": "PIMCO Managed Balanced Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "PBAL.TO",
+   "symbol": "AFR",
+   "name": "AFR NuVenture Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFR.V",
    "instruments": [
     {
-     "name": "PIMCO mngd Blncd Prt",
-     "symbol": "PBAL"
+     "name": "AFR NuVenture Resources Inc.",
+     "symbol": "AFR"
     }
    ]
   },
   {
-   "symbol": "ARCIU",
-   "name": "Archimedes Tech SPAC Partners III Co. - Unit",
+   "symbol": "CBAP",
+   "name": "CI Balanced+ Asset Allocation ETF Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBAP.TO",
+   "instruments": [
+    {
+     "name": "CI BalAssetAlloc ETF",
+     "symbol": "CBAP"
+    }
+   ]
+  },
+  {
+   "symbol": "CEQP",
+   "name": "CI Equity+ Asset Allocation ETF Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEQP.TO",
+   "instruments": [
+    {
+     "name": "CI EqyAssetAlloc ETF",
+     "symbol": "CEQP"
+    }
+   ]
+  },
+  {
+   "symbol": "AEAQ",
+   "name": "Activate Energy Acquisition Corp. - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARCIU"
+   "yahoo_symbol": "AEAQ"
   },
   {
-   "symbol": "EQPT",
-   "name": "EquipmentShare.com Inc - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EQPT"
+   "symbol": "AEAQW",
+   "name": "Activate Energy Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AEAQW"
   },
   {
-   "symbol": "EZRA",
-   "name": "Reliance Global Group, Inc. - Common Stock",
+   "symbol": "BMM",
+   "name": "Blue Moon Metals Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EZRA"
+   "yahoo_symbol": "BMM"
   },
   {
-   "symbol": "EZRAW",
-   "name": "Reliance Global Group, Inc. - Series A Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EZRAW"
-  },
-  {
-   "symbol": "GPAC",
-   "name": "General Purpose Acquisition Corp. - Class A Ordinary Shares",
+   "symbol": "LFAC",
+   "name": "Leapfrog Acquisition Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GPAC"
+   "yahoo_symbol": "LFAC"
   },
   {
-   "symbol": "GPACW",
-   "name": "General Purpose Acquisition Corp. - Warrant",
+   "symbol": "LFACW",
+   "name": "Leapfrog Acquisition Corporation - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GPACW"
+   "yahoo_symbol": "LFACW"
   },
   {
-   "symbol": "HLXC",
-   "name": "Helix Acquisition Corp. III - Class A Ordinary Shares",
+   "symbol": "VAVX",
+   "name": "VanEck Avalanche ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HLXC"
+   "yahoo_symbol": "VAVX"
   },
   {
-   "symbol": "PTORU",
-   "name": "Praetorian Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PTORU"
-  },
-  {
-   "symbol": "NWAX",
-   "name": "New America Acquisition I Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NWAX"
-  },
-  {
-   "symbol": "NWAX.W",
-   "name": "New America Acquisition I Corp. Warrants, each whole warrant is exercisable to purchase one share of Class A common stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NWAX.W"
-  },
-  {
-   "symbol": "RITM$F",
-   "name": "Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RITM$F"
-  },
-  {
-   "symbol": "SAC",
-   "name": "Safeguard Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SAC"
-  },
-  {
-   "symbol": "SAC.W",
-   "name": "Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SAC.W"
+   "symbol": "MINE",
+   "name": "Mayfair Gold Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MINE"
   }
  ],
  "removed": [
   {
-   "symbol": "RELIW",
-   "name": "Reliance Global Group, Inc. - Series A Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RELIW"
-  },
-  {
-   "symbol": "RELI",
-   "name": "Reliance Global Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RELI"
-  },
-  {
-   "symbol": "ATXS",
-   "name": "Astria Therapeutics, Inc. - Common Stock",
+   "symbol": "AMDU",
+   "name": "Defiance Leveraged Long + Income AMD ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATXS"
+   "yahoo_symbol": "AMDU"
   },
   {
-   "symbol": "HYT.R",
-   "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights",
+   "symbol": "TRIL",
+   "name": "Defiance Trillion Dollar Club Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRIL"
+  },
+  {
+   "symbol": "PLYM",
+   "name": "Plymouth Industrial REIT, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "HYT.R"
+   "yahoo_symbol": "PLYM"
+  },
+  {
+   "symbol": "LLYZ",
+   "name": "Defiance Daily Target 2X Short LLY ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LLYZ"
+  },
+  {
+   "symbol": "SMCC",
+   "name": "Defiance Leveraged Long + Income SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCC"
+  },
+  {
+   "symbol": "HOOI",
+   "name": "Defiance Leveraged Long + Income HOOD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOOI"
+  },
+  {
+   "symbol": "HIMY",
+   "name": "Defiance Leveraged Long + Income HIMS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HIMY"
+  },
+  {
+   "symbol": "ETHI",
+   "name": "Defiance Leveraged Long + Income Ethereum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHI"
+  },
+  {
+   "symbol": "PLT",
+   "name": "Defiance Leveraged Long + Income PLTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLT"
   }
  ]
 }

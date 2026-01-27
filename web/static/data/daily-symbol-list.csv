@@ -26,6 +26,7 @@ AEF,AE Fuels Corporation,TSXV,AEF.V,AE Fuels Corporation,AEF
 ALTN,Aeonian Resources Corp.,TSXV,ALTN.V,Aeonian Resources Corp.,ALTN
 AERO,Aero Energy Limited,TSXV,AERO.V,Aero Energy Limited,AERO
 AF.P,AF2 Capital Corp.,TSXV,AF.P.V,AF2 Capital Corp.,AF.P
+AFR,AFR NuVenture Resources Inc.,TSXV,AFR.V,AFR NuVenture Resources Inc.,AFR
 AFE,Africa Energy Corp.,TSXV,AFE.V,Africa Energy Corp.,AFE
 AAG,Aftermath Silver Ltd.,TSXV,AAG.V,Aftermath Silver Ltd.,AAG
 AGET,AGEDB Technology Ltd.,TSXV,AGET.V,AGEDB Technology Ltd.,AGET
@@ -1901,6 +1902,7 @@ CCOM,CI Auspice Broad Commodity Fund,TSX,CCOM.TO,CI Auspice Cmdty Heg,CCOM
 CBAL,CI Balanced Asset Allocation ETF,TSX,CBAL.TO,CI Bal Asset ETF Un,CBAL
 CBGR,CI Balanced Growth Asset Allocation ETF,TSX,CBGR.TO,CI Bal GrowAsst Aloc,CBGR
 CBIN,CI Balanced Income Asset Allocation ETF,TSX,CBIN.TO,CI Bal IncmAst Alloc,CBIN
+CBAP,CI Balanced+ Asset Allocation ETF Fund,TSX,CBAP.TO,CI BalAssetAlloc ETF,CBAP
 DGRC,CI Canada Quality Dividend Growth Index ETF,TSX,DGRC.TO,CICA QualDvGr ETFNH,DGRC
 CAGG,CI Canadian Aggregate Bond Index ETF,TSX,CAGG.TO,CI CA Ag Bnd Idx Etf,CAGG
 CIC,CI Canadian Banks Covered Call Income Class ETF,TSX,CIC.TO,CI CdnBks CovCalIncm,CIC
@@ -1916,6 +1918,7 @@ NXF,CI Energy Giants Covered Call ETF,TSX,NXF.TO,CI EnergyGiantCovHeg,NXF,CI Eng
 FGO,CI Enhanced Government Bond ETF,TSX,FGO.TO,CI EnhancGovtBnd Heg,FGO,CI EnhancGvtBndHG US,FGO.U
 FSB,CI Enhanced Short Duration Bond Fund,TSX,FSB.TO,CI Enhnc ShrtDur Bnd,FSB,CI EnhancShrtBnd US,FSB.U
 CEQT,CI Equity Asset Allocation ETF,TSX,CEQT.TO,CI Eqty Asset Alloc,CEQT
+CEQP,CI Equity+ Asset Allocation ETF Fund,TSX,CEQP.TO,CI EqyAssetAlloc ETF,CEQP
 EHE,CI Europe Hedged Equity Index ETF,TSX,EHE.TO,CIEur HGEq IDXETF Hg,EHE,CIEur HEq IDXETF NHg,EHE.B
 CFRT,CI Floating Rate Income Fund,TSX,CFRT.TO,CI Fltg Rate Incm C$,CFRT
 BTCX,CI Galaxy Bitcoin ETF,TSX,BTCX.TO,CI Galaxy BTC ETF,BTCX,CI GalBitcnCA ETF UH,BTCX.B,CI GalBitcnETF UH US,BTCX.U
@@ -3675,7 +3678,9 @@ ADUS,Addus HomeCare Corporation - Common Stock,NASDAQ Global Select MarketSM,ADU
 ADV,Advantage Solutions Inc.  - Class A Common Stock,NASDAQ Global Select MarketSM,ADV
 ADVB,Advanced Biomed Inc. - Common Stock,NASDAQ Capital Market,ADVB
 ADXN,Addex Therapeutics Ltd - American Depositary Shares,NASDAQ Capital Market,ADXN
+AEAQ,Activate Energy Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,AEAQ
 AEAQU,Activate Energy Acquisition Corp. - Unit,NASDAQ Global MarketSM,AEAQU
+AEAQW,Activate Energy Acquisition Corp. - Warrant,NASDAQ Global MarketSM,AEAQW
 AEBI,Aebi Schmidt Holding AG - Common Stock,NASDAQ Global Select MarketSM,AEBI
 AEC,Anfield Energy Inc. - Common Shares,NASDAQ Capital Market,AEC
 AEHL,Antelope Enterprise Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,AEHL
@@ -3819,7 +3824,6 @@ AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ Global Select MarketSM,
 AMDD,Direxion Daily AMD Bear 1X Shares,NASDAQ Global MarketSM,AMDD
 AMDG,Leverage Shares 2X Long AMD Daily ETF,NASDAQ Global MarketSM,AMDG
 AMDL,GraniteShares 2x Long AMD Daily ETF,NASDAQ Global MarketSM,AMDL
-AMDU,Defiance Leveraged Long + Income AMD ETF,NASDAQ Global MarketSM,AMDU
 AMGN,Amgen Inc. - Common Stock,NASDAQ Global Select MarketSM,AMGN
 AMID,Argent Mid Cap ETF,NASDAQ Global MarketSM,AMID
 AMIX,"Autonomix Medical, Inc. - Common Stock",NASDAQ Capital Market,AMIX
@@ -4229,6 +4233,7 @@ BMDL,VictoryShares WestEnd Economic Cycle Bond ETF,NASDAQ Global MarketSM,BMDL
 BMEA,"Biomea Fusion, Inc. - Common Stock",NASDAQ Global Select MarketSM,BMEA
 BMGL,Basel Medical Group Ltd - ordinary shares,NASDAQ Capital Market,BMGL
 BMHL,Bluemount Holdings Limited - Class B Ordinary Shares,NASDAQ Capital Market,BMHL
+BMM,Blue Moon Metals Inc. - Common Shares,NASDAQ Capital Market,BMM
 BMNG,Leverage Shares 2X Long BMNR Daily ETF,NASDAQ Global MarketSM,BMNG
 BMOP,BNY Mellon Municipal Opportunities ETF,NASDAQ Global MarketSM,BMOP
 BMR,Beamr Imaging Ltd. - Ordinary Share,NASDAQ Capital Market,BMR
@@ -5134,7 +5139,6 @@ ESQ,"Esquire Financial Holdings, Inc. - Common Stock",NASDAQ Capital Market,ESQ
 ESTA,Establishment Labs Holdings Inc. - Common Shares,NASDAQ Capital Market,ESTA
 ETEC,iShares Breakthrough Environmental Solutions ETF,NASDAQ Global MarketSM,ETEC
 ETHA,iShares Ethereum Trust ETF,NASDAQ Global MarketSM,ETHA
-ETHI,Defiance Leveraged Long + Income Ethereum ETF,NASDAQ Global MarketSM,ETHI
 ETHM,Dynamix Corporation - Class A Ordinary Share,NASDAQ Global MarketSM,ETHM
 ETHMU,Dynamix Corporation - Unit,NASDAQ Global MarketSM,ETHMU
 ETHMW,Dynamix Corporation - Warrant,NASDAQ Global MarketSM,ETHMW
@@ -5735,7 +5739,6 @@ HIDE,Alpha Architect High Inflation and Deflation ETF,NASDAQ Global MarketSM,HID
 HIFS,Hingham Institution for Savings - Common Stock,NASDAQ Global MarketSM,HIFS
 HIHO,Highway Holdings Limited - Common Stock,NASDAQ Capital Market,HIHO
 HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",NASDAQ Global Select MarketSM,HIMX
-HIMY,Defiance Leveraged Long + Income HIMS ETF,NASDAQ Global MarketSM,HIMY
 HIMZ,Defiance Daily Target 2X Long HIMS ETF,NASDAQ Global MarketSM,HIMZ
 HIND,"Vyome Holdings, Inc. - Common Stock",NASDAQ Capital Market,HIND
 HISF,First Trust High Income Strategic Focus ETF,NASDAQ Global MarketSM,HISF
@@ -5766,7 +5769,6 @@ HOLX,"Hologic, Inc. - Common Stock",NASDAQ Global Select MarketSM,HOLX
 HON,Honeywell International Inc. - Common Stock,NASDAQ Global Select MarketSM,HON
 HOOD,"Robinhood Markets, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,HOOD
 HOOG,Leverage Shares 2X Long HOOD Daily ETF,NASDAQ Global MarketSM,HOOG
-HOOI,Defiance Leveraged Long + Income HOOD ETF,NASDAQ Global MarketSM,HOOI
 HOOX,Defiance Daily Target 2X Long HOOD ETF,NASDAQ Global MarketSM,HOOX
 HOPE,"Hope Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,HOPE
 HOTH,"Hoth Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,HOTH
@@ -6294,7 +6296,9 @@ LENZ,"LENZ Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,LENZ
 LESL,"Leslie's, Inc. - Common Stock",NASDAQ Global Select MarketSM,LESL
 LEXI,Alexis Practical Tactical ETF,NASDAQ Global MarketSM,LEXI
 LEXX,Lexaria Bioscience Corp. - Common Stock,NASDAQ Capital Market,LEXX
+LFAC,Leapfrog Acquisition Corporation - Class A Ordinary Shares,NASDAQ Global MarketSM,LFAC
 LFACU,Leapfrog Acquisition Corporation - Units,NASDAQ Global MarketSM,LFACU
+LFACW,Leapfrog Acquisition Corporation - Warrants,NASDAQ Global MarketSM,LFACW
 LFCR,"Lifecore Biomedical, Inc. - Common Stock",NASDAQ Global Select MarketSM,LFCR
 LFMD,"LifeMD, Inc. - Common Stock",NASDAQ Global MarketSM,LFMD
 LFMDP,"LifeMD, Inc. - 8.875% Series A Cumulative Perpetual Preferred Stock",NASDAQ Global MarketSM,LFMDP
@@ -6347,7 +6351,6 @@ LKSPR,Lake Superior Acquisition Corp. - Rights,NASDAQ Global MarketSM,LKSPR
 LKSPU,Lake Superior Acquisition Corp. - Units,NASDAQ Global MarketSM,LKSPU
 LLYVA,"Liberty Live Holdings, Inc. - Series A Liberty Live Group Common Stock",NASDAQ Global Select MarketSM,LLYVA
 LLYVK,"Liberty Live Holdings, Inc. - Series C Liberty Live Group Common Stock",NASDAQ Global Select MarketSM,LLYVK
-LLYZ,Defiance Daily Target 2X Short LLY ETF,NASDAQ Global MarketSM,LLYZ
 LMAT,"LeMaitre Vascular, Inc. - Common Stock",NASDAQ Global MarketSM,LMAT
 LMB,"Limbach Holdings, Inc. - Common Stock",NASDAQ Capital Market,LMB
 LMBS,First Trust Low Duration Opportunities ETF,NASDAQ Global MarketSM,LMBS
@@ -6754,7 +6757,7 @@ NCPL,Netcapital Inc. - Common Stock,NASDAQ Capital Market,NCPL
 NCPLW,Netcapital Inc. - warrants,NASDAQ Capital Market,NCPLW
 NCRA,"Nocera, Inc. - common stock",NASDAQ Capital Market,NCRA
 NCSM,"NCS Multistage Holdings, Inc. - Common Stock",NASDAQ Capital Market,NCSM
-NCT,Intercont (Cayman) Limited - Ordinary shares,NASDAQ Capital Market,NCT
+NCT,Intercont (Cayman) Limited - Class A Ordinary shares,NASDAQ Capital Market,NCT
 NCTY,The9 Limited - American Depository Shares,NASDAQ Capital Market,NCTY
 NDAA,Ned Davis Research 360 Dynamic Allocation ETF,NASDAQ Global MarketSM,NDAA
 NDAQ,"Nasdaq, Inc. - Common Stock",NASDAQ Global Select MarketSM,NDAQ
@@ -7244,7 +7247,6 @@ PLRX,"Pliant Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,PL
 PLRZ,Polyrizon Ltd. - Ordinary Shares,NASDAQ Capital Market,PLRZ
 PLSE,"Pulse Biosciences, Inc - Common Stock",NASDAQ Capital Market,PLSE
 PLSM,Pulsenmore Ltd. - Ordinary Shares,NASDAQ Capital Market,PLSM
-PLT,Defiance Leveraged Long + Income PLTR ETF,NASDAQ Global MarketSM,PLT
 PLTD,Direxion Daily PLTR Bear 1X Shares,NASDAQ Global MarketSM,PLTD
 PLTG,Leverage Shares 2X Long PLTR Daily ETF,NASDAQ Global MarketSM,PLTG
 PLTK,Playtika Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,PLTK
@@ -7877,7 +7879,6 @@ SLVR,Sprott Silver Miners & Physical Silver ETF,NASDAQ Global MarketSM,SLVR
 SLXN,Silexion Therapeutics Corp - Ordinary Shares,NASDAQ Capital Market,SLXN
 SLXNW,Silexion Therapeutics Corp - Warrant,NASDAQ Capital Market,SLXNW
 SMBC,"Southern Missouri Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,SMBC
-SMCC,Defiance Leveraged Long + Income SMCI ETF,NASDAQ Global MarketSM,SMCC
 SMCF,Themes US Small Cap Cash Flow Champions ETF,NASDAQ Global MarketSM,SMCF
 SMCI,"Super Micro Computer, Inc. - Common Stock",NASDAQ Global Select MarketSM,SMCI
 SMCL,GraniteShares 2x Long SMCI Daily ETF,NASDAQ Global MarketSM,SMCL
@@ -8263,7 +8264,6 @@ TRDA,"Entrada Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TRDA
 TREE,"LendingTree, Inc. - Common Stock",NASDAQ Global Select MarketSM,TREE
 TRI,Thomson Reuters Corp - Common Shares,NASDAQ Global Select MarketSM,TRI
 TRIB,Trinity Biotech plc - American Depositary Shares,NASDAQ Global Select MarketSM,TRIB
-TRIL,Defiance Trillion Dollar Club Index ETF,NASDAQ Global MarketSM,TRIL
 TRIN,Trinity Capital Inc. - Common Stock,NASDAQ Global Select MarketSM,TRIN
 TRINI,Trinity Capital Inc. - 7.875% Notes Due 2029,NASDAQ Global Select MarketSM,TRINI
 TRINZ,Trinity Capital Inc. - 7.875% Notes due 2029,NASDAQ Global Select MarketSM,TRINZ
@@ -8465,6 +8465,7 @@ VALG,Leverage Shares 2X Long VALE Daily ETF,NASDAQ Global MarketSM,VALG
 VALN,Valneva SE - American Depositary Shares,NASDAQ Global Select MarketSM,VALN
 VALU,"Value Line, Inc. - Common Stock",NASDAQ Capital Market,VALU
 VANI,"Vivani Medical, Inc.  - Common Stock",NASDAQ Capital Market,VANI
+VAVX,VanEck Avalanche ETF,NASDAQ Global MarketSM,VAVX
 VBIL,Vanguard 0-3 Month Treasury Bill ETF,NASDAQ Global MarketSM,VBIL
 VBIX,Viewbix Inc. - Common Stock ,NASDAQ Capital Market,VBIX
 VBNK,VersaBank - Common Shares,NASDAQ Global Select MarketSM,VBNK
@@ -10651,6 +10652,7 @@ MI,NFT Limited Class A Ordinary Share,NYSE MKT,MI
 MIAX,"Miami International Holdings, Inc. Common Stock",NYSE,MIAX
 MICC,The Magnum Ice Cream Company N.V. Ordinary Shares,NYSE,MICC
 MIN,MFS Intermediate Income Trust Common Stock,NYSE,MIN
+MINE,Mayfair Gold Corp. Common Shares,NYSE MKT,MINE
 MIR,"Mirion Technologies, Inc. Class A Common Stock",NYSE,MIR
 MITN,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",NYSE,MITN
 MITP,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",NYSE,MITP
@@ -11107,7 +11109,6 @@ PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),NYSE MKT,PLG
 PLNT,"Planet Fitness, Inc. Common Stock",NYSE,PLNT
 PLOW,"Douglas Dynamics, Inc. Common Stock",NYSE,PLOW
 PLX,"Protalix BioTherapeutics, Inc. (DE) Common Stock",NYSE MKT,PLX
-PLYM,"Plymouth Industrial REIT, Inc. Common Stock",NYSE,PLYM
 PM,Philip Morris International Inc Common Stock,NYSE,PM
 PMI,"Picard Medical, Inc. Common Stock",NYSE MKT,PMI
 PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,NYSE,PML

@@ -1,5 +1,5 @@
 {
- "date": "2026-01-26",
+ "date": "2026-01-27",
  "data": [
   {
    "symbol": "ONE",
@@ -322,6 +322,18 @@
     {
      "name": "AF2 Capital Corp.",
      "symbol": "AF.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AFR",
+   "name": "AFR NuVenture Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFR.V",
+   "instruments": [
+    {
+     "name": "AFR NuVenture Resources Inc.",
+     "symbol": "AFR"
     }
    ]
   },
@@ -23826,6 +23838,18 @@
    ]
   },
   {
+   "symbol": "CBAP",
+   "name": "CI Balanced+ Asset Allocation ETF Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBAP.TO",
+   "instruments": [
+    {
+     "name": "CI BalAssetAlloc ETF",
+     "symbol": "CBAP"
+    }
+   ]
+  },
+  {
    "symbol": "DGRC",
    "name": "CI Canada Quality Dividend Growth Index ETF",
    "exchange": "TSX",
@@ -24030,6 +24054,18 @@
     {
      "name": "CI Eqty Asset Alloc",
      "symbol": "CEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "CEQP",
+   "name": "CI Equity+ Asset Allocation ETF Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEQP.TO",
+   "instruments": [
+    {
+     "name": "CI EqyAssetAlloc ETF",
+     "symbol": "CEQP"
     }
    ]
   },
@@ -46622,10 +46658,22 @@
    "yahoo_symbol": "ADXN"
   },
   {
+   "symbol": "AEAQ",
+   "name": "Activate Energy Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AEAQ"
+  },
+  {
    "symbol": "AEAQU",
    "name": "Activate Energy Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AEAQU"
+  },
+  {
+   "symbol": "AEAQW",
+   "name": "Activate Energy Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AEAQW"
   },
   {
    "symbol": "AEBI",
@@ -47484,12 +47532,6 @@
    "name": "GraniteShares 2x Long AMD Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AMDL"
-  },
-  {
-   "symbol": "AMDU",
-   "name": "Defiance Leveraged Long + Income AMD ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMDU"
   },
   {
    "symbol": "AMGN",
@@ -49944,6 +49986,12 @@
    "name": "Bluemount Holdings Limited - Class B Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BMHL"
+  },
+  {
+   "symbol": "BMM",
+   "name": "Blue Moon Metals Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BMM"
   },
   {
    "symbol": "BMNG",
@@ -55376,12 +55424,6 @@
    "yahoo_symbol": "ETHA"
   },
   {
-   "symbol": "ETHI",
-   "name": "Defiance Leveraged Long + Income Ethereum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ETHI"
-  },
-  {
    "symbol": "ETHM",
    "name": "Dynamix Corporation - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
@@ -58982,12 +59024,6 @@
    "yahoo_symbol": "HIMX"
   },
   {
-   "symbol": "HIMY",
-   "name": "Defiance Leveraged Long + Income HIMS ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HIMY"
-  },
-  {
    "symbol": "HIMZ",
    "name": "Defiance Daily Target 2X Long HIMS ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -59166,12 +59202,6 @@
    "name": "Leverage Shares 2X Long HOOD Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HOOG"
-  },
-  {
-   "symbol": "HOOI",
-   "name": "Defiance Leveraged Long + Income HOOD ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HOOI"
   },
   {
    "symbol": "HOOX",
@@ -62336,10 +62366,22 @@
    "yahoo_symbol": "LEXX"
   },
   {
+   "symbol": "LFAC",
+   "name": "Leapfrog Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFAC"
+  },
+  {
    "symbol": "LFACU",
    "name": "Leapfrog Acquisition Corporation - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LFACU"
+  },
+  {
+   "symbol": "LFACW",
+   "name": "Leapfrog Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFACW"
   },
   {
    "symbol": "LFCR",
@@ -62652,12 +62694,6 @@
    "name": "Liberty Live Holdings, Inc. - Series C Liberty Live Group Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LLYVK"
-  },
-  {
-   "symbol": "LLYZ",
-   "name": "Defiance Daily Target 2X Short LLY ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LLYZ"
   },
   {
    "symbol": "LMAT",
@@ -65097,7 +65133,7 @@
   },
   {
    "symbol": "NCT",
-   "name": "Intercont (Cayman) Limited - Ordinary shares",
+   "name": "Intercont (Cayman) Limited - Class A Ordinary shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NCT"
   },
@@ -68034,12 +68070,6 @@
    "name": "Pulsenmore Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PLSM"
-  },
-  {
-   "symbol": "PLT",
-   "name": "Defiance Leveraged Long + Income PLTR ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLT"
   },
   {
    "symbol": "PLTD",
@@ -71834,12 +71864,6 @@
    "yahoo_symbol": "SMBC"
   },
   {
-   "symbol": "SMCC",
-   "name": "Defiance Leveraged Long + Income SMCI ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMCC"
-  },
-  {
    "symbol": "SMCF",
    "name": "Themes US Small Cap Cash Flow Champions ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -74150,12 +74174,6 @@
    "yahoo_symbol": "TRIB"
   },
   {
-   "symbol": "TRIL",
-   "name": "Defiance Trillion Dollar Club Index ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRIL"
-  },
-  {
    "symbol": "TRIN",
    "name": "Trinity Capital Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -75360,6 +75378,12 @@
    "name": "Vivani Medical, Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VANI"
+  },
+  {
+   "symbol": "VAVX",
+   "name": "VanEck Avalanche ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VAVX"
   },
   {
    "symbol": "VBIL",
@@ -88478,6 +88502,12 @@
    "yahoo_symbol": "MIN"
   },
   {
+   "symbol": "MINE",
+   "name": "Mayfair Gold Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MINE"
+  },
+  {
    "symbol": "MIR",
    "name": "Mirion Technologies, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -91212,12 +91242,6 @@
    "name": "Protalix BioTherapeutics, Inc. (DE) Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "PLX"
-  },
-  {
-   "symbol": "PLYM",
-   "name": "Plymouth Industrial REIT, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PLYM"
   },
   {
    "symbol": "PM",
