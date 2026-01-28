@@ -2276,7 +2276,7 @@ FEBB.F,First Trust Vest U.S. Equity Buffer ETF - February,TSX,FEBB.F.TO,1st Tr V
 MAYB.F,First Trust Vest U.S. Equity Buffer ETF - May,TSX,MAYB.F.TO,1stTr VestUSEqMay Hg,MAYB.F
 NOVB.F,First Trust Vest U.S. Equity Buffer ETF - November,TSX,NOVB.F.TO,1st Tr VestUSEqNv Hg,NOVB.F
 FSV,FirstService Corporation,TSX,FSV.TO,FirstService Corp.,FSV
-FI,Fiserv CDR (CAD Hedged),TSX,FI.TO,Fiserv CDR CAN Hgd,FI
+FISV,Fiserv CDR (CAD Hedged),TSX,FISV.TO,Fiserv CDR CAN Hgd,FISV
 MHC.U,Flagship Communities Real Estate Investment Trust,TSX,MHC.U.TO,FlagshpCommunREIT US,MHC.U,FlagshpCommunREIT C$,MHC.UN
 FLNT,FLINT Corp.,TSX,FLNT.TO,FLINT Corp.,FLNT
 FAR,Foraco International SA,TSX,FAR.TO,Foraco Int'l SA,FAR
@@ -2537,6 +2537,8 @@ LLHE,Harvest Eli Lilly Enhanced High Income Shares ETF,TSX,LLHE.TO,HELily EnHIn 
 LLYH,Harvest Eli Lilly High Income Shares ETF,TSX,LLYH.TO,HELily HInc ShrETFA,LLYH,HELily HInc ShrETFU,LLYH.U
 ENBE,Harvest Enbridge Enhanced High Income Shares ETF,TSX,ENBE.TO,Harvest Enbridge Enh,ENBE
 HPF,Harvest Energy Leaders Plus Income ETF,TSX,HPF.TO,HarvestEnergyLdr+ Un,HPF,HarvestEnergyLdr+ US,HPF.U
+RYHE,Harvest Enhanced High Income RY-Linked Shares ETF,TSX,RYHE.TO,Harv RB Enh HiSh ETF,RYHE
+TDHE,Harvest Enhanced High Income TD-Linked Shares ETF,TSX,TDHE.TO,Hrv TD Enh HiSh ETF,TDHE
 HUTE,Harvest Equal Weight Global Utilities Enhanced Income ETF,TSX,HUTE.TO,Harvest EqlWG Util A,HUTE
 HUTL,Harvest Equal Weight Global Utilities Income ETF,TSX,HUTL.TO,Harvest Eq Wght Util,HUTL
 HGGG,Harvest Global Gold Giants Index ETF,TSX,HGGG.TO,Harvest Glb GldGiant,HGGG
@@ -2565,12 +2567,10 @@ HPYE,Harvest Premium Yield Enhanced ETF,TSX,HPYE.TO,Harv PreYel Enhn ETF,HPYE
 HPYT,Harvest Premium Yield Treasury ETF,TSX,HPYT.TO,Harvest PremYldTreas,HPYT,Harv Prem Yld Tr ETF,HPYT.B,Harvst PremYldTreaUS,HPYT.U
 RDDY,Harvest Reddit Enhanced High Income Shares ETF,TSX,RDDY.TO,Harv Rdt EnH H Inc S,RDDY
 HODY,Harvest Robinhood Enhanced High Income Shares ETF,TSX,HODY.TO,Harv Rbnh EnH H In E,HODY
-RYHE,Harvest Royal Bank Enhanced High Income Shares ETF,TSX,RYHE.TO,Harv RB Enh HiSh ETF,RYHE
 SHPE,Harvest Shopify Enhanced High Income Shares ETF,TSX,SHPE.TO,Hrv Shp Enh HiSh ETF,SHPE
 SOFY,Harvest SoFi Enhanced High Income Shares ETF,TSX,SOFY.TO,Harv SoFi En H I S E,SOFY
 MSTY,Harvest Strategy Inc. High Income Shares ETF,TSX,MSTY.TO,Harvest Srat HIS ETF,MSTY
 SUHE,Harvest Suncor Enhanced High Income Shares ETF,TSX,SUHE.TO,Hrv Sun Enh HiSh ETF,SUHE
-TDHE,Harvest TD Bank Enhanced High Income Shares ETF,TSX,TDHE.TO,Hrv TD Enh HiSh ETF,TDHE
 HTAE,Harvest Tech Achievers Enhanced Income ETF,TSX,HTAE.TO,Harvest TechAchiev A,HTAE
 HTA,Harvest Tech Achievers Growth & Income ETF,TSX,HTA.TO,HarvestTechAchvGrw A,HTA,HarvestTecAchGroB UH,HTA.B,HarvestTechAchGrowUS,HTA.U
 TEHE,Harvest TELUS Enhanced High Income Shares ETF,TSX,TEHE.TO,Hrv Tel Enh HiSh ETF,TEHE
@@ -2812,6 +2812,7 @@ JNJ,Johnson & Johnson CDR (CAD Hedged),TSX,JNJ.TO,J&J CDR CAN Hgd,JNJ
 JOY,Journey Energy Inc.,TSX,JOY.TO,Journey Energy Inc.,JOY
 JPM,JPMorgan CDR (CAD Hedged),TSX,JPM.TO,JPMorgan CDR Hgd,JPM
 JGLO,JPMorgan Global Select Equity Active ETF,TSX,JGLO.TO,JPMorgan Glb SeEqAct,JGLO
+JIDE,JPMorgan International Developed Equity Active ETF,TSX,JIDE.TO,JPMorgan ID EqyAcETF,JIDE
 JEPQ,JPMorgan Nasdaq Equity Premium Income Active ETF,TSX,JEPQ.TO,JPM NdEq PInc ActETF,JEPQ
 JBND,JPMorgan US Bond Active ETF,TSX,JBND.TO,JPMorgan US Bd Act E,JBND
 JCOR,JPMorgan US Core Active ETF,TSX,JCOR.TO,JPMorgan US Core Act,JCOR
@@ -4791,6 +4792,7 @@ CUPR,Cuprina Holdings (Cayman) Limited - Ordinary shares,NASDAQ Capital Market,C
 CURI,CuriosityStream Inc.  - Class A Common Stock,NASDAQ Capital Market,CURI
 CURR,Currenc Group Inc. - Ordinary Shares,NASDAQ Global MarketSM,CURR
 CURX,Curanex Pharmaceuticals Inc - Common Stock,NASDAQ Capital Market,CURX
+CUSD,CrossingBridge Ultra-Short Duration ETF,NASDAQ Global MarketSM,CUSD
 CV,"CapsoVision, Inc. - Common Stock",NASDAQ Capital Market,CV
 CVBF,CVB Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,CVBF
 CVCO,"Cavco Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,CVCO
@@ -5555,6 +5557,7 @@ GITS,"Global Interactive Technologies, Inc. Common Stock - Common Stock",NASDAQ 
 GIW,GigCapital8 Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,GIW
 GIWWR,GigCapital8 Corp. - Rights,NASDAQ Global MarketSM,GIWWR
 GIWWU,GigCapital8 Corp. - Units,NASDAQ Global MarketSM,GIWWU
+GIXXU,GigCapital9 Corp. - Units,NASDAQ Global MarketSM,GIXXU
 GKAT,Scharf Global Opportunity ETF,NASDAQ Global MarketSM,GKAT
 GLAD,Gladstone Capital Corporation - Closed End Fund,NASDAQ Global Select MarketSM,GLAD
 GLBE,Global-E Online Ltd. - ordinary shares,NASDAQ Global Select MarketSM,GLBE
@@ -5703,6 +5706,8 @@ HBNB,Hotel101 Global Holdings Corp. - Class A Ordinary Shares,NASDAQ Capital Mar
 HBNC,"Horizon Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,HBNC
 HBR,Canary HBAR ETF,NASDAQ Global MarketSM,HBR
 HBT,"HBT Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,HBT
+HCAC,Hall Chadwick Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,HCAC
+HCACR,Hall Chadwick Acquisition Corp. - Rights,NASDAQ Global MarketSM,HCACR
 HCACU,Hall Chadwick Acquisition Corp. - Unit,NASDAQ Global MarketSM,HCACU
 HCAI,"Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,HCAI
 HCAT,"Health Catalyst, Inc - Common stock",NASDAQ Global Select MarketSM,HCAT
@@ -6146,7 +6151,9 @@ KARO,Karooooo Ltd. - Ordinary shares,NASDAQ Capital Market,KARO
 KAT,Scharf ETF,NASDAQ Global MarketSM,KAT
 KBAB,KraneShares 2x Long BABA Daily ETF,NASDAQ Global MarketSM,KBAB
 KBDU,KraneShares 2x Long BIDU Daily ETF,NASDAQ Global MarketSM,KBDU
+KBON,Karbon Capital Partners Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,KBON
 KBONU,Karbon Capital Partners Corp. - Units,NASDAQ Global MarketSM,KBONU
+KBONW,Karbon Capital Partners Corp. - Warrant,NASDAQ Global MarketSM,KBONW
 KBSX,FST Corp. - Ordinary Shares,NASDAQ Global MarketSM,KBSX
 KBWB,Invesco KBW Bank ETF,NASDAQ Global MarketSM,KBWB
 KBWD,Invesco KBW High Dividend Yield Financial ETF,NASDAQ Global MarketSM,KBWD
@@ -6583,6 +6590,7 @@ MKSI,MKS Inc. - Common Stock,NASDAQ Global Select MarketSM,MKSI
 MKTW,"MarketWise, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MKTW
 MKTX,"MarketAxess Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MKTX
 MKZR,"MacKenzie Realty Capital, Inc. - Common Stock",NASDAQ Capital Market,MKZR
+MLAAU,Mountain Lake Acquisition Corp. II - Units,NASDAQ Global MarketSM,MLAAU
 MLAB,"Mesa Laboratories, Inc. - Common Stock",NASDAQ Global Select MarketSM,MLAB
 MLAC,Mountain Lake Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,MLAC
 MLACR,Mountain Lake Acquisition Corp. - Right,NASDAQ Global MarketSM,MLACR
@@ -7958,7 +7966,6 @@ SPAI,Safe Pro Group Inc. - Common Stock,NASDAQ Capital Market,SPAI
 SPAM,Themes Cybersecurity ETF,NASDAQ Global MarketSM,SPAM
 SPAQ,Horizon Kinetics SPAC Active ETF,NASDAQ Global MarketSM,SPAQ
 SPBC,Simplify US Equity PLUS Bitcoin Strategy ETF,NASDAQ Global MarketSM,SPBC
-SPC,CrossingBridge Pre-Merger SPAC ETF,NASDAQ Global MarketSM,SPC
 SPCB,"SuperCom, Ltd. - Ordinary Shares",NASDAQ Capital Market,SPCB
 SPCT,Liberty One Spectrum ETF,NASDAQ Global MarketSM,SPCT
 SPCX,SPAC and New Issue ETF,NASDAQ Global MarketSM,SPCX
@@ -8576,6 +8583,7 @@ VTC,Vanguard Total Corporate Bond ETF,NASDAQ Global MarketSM,VTC
 VTGN,"Vistagen Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,VTGN
 VTHR,Vanguard Russell 3000 ETF,NASDAQ Global MarketSM,VTHR
 VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares,NASDAQ Global MarketSM,VTIP
+VTIX,Virtuix Holdings Inc. - Class A Common Stock,NASDAQ Global MarketSM,VTIX
 VTRS,Viatris Inc. - Common Stock,NASDAQ Global Select MarketSM,VTRS
 VTSI,"VirTra, Inc. - Common Stock",NASDAQ Capital Market,VTSI
 VTVT,vTv Therapeutics Inc. - Class A Common Stock,NASDAQ Capital Market,VTVT

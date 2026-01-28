@@ -1,5 +1,5 @@
 {
- "date": "2026-01-27",
+ "date": "2026-01-28",
  "data": [
   {
    "symbol": "ONE",
@@ -29002,14 +29002,14 @@
    ]
   },
   {
-   "symbol": "FI",
+   "symbol": "FISV",
    "name": "Fiserv CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "FI.TO",
+   "yahoo_symbol": "FISV.TO",
    "instruments": [
     {
      "name": "Fiserv CDR CAN Hgd",
-     "symbol": "FI"
+     "symbol": "FISV"
     }
    ]
   },
@@ -32414,6 +32414,30 @@
    ]
   },
   {
+   "symbol": "RYHE",
+   "name": "Harvest Enhanced High Income RY-Linked Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RYHE.TO",
+   "instruments": [
+    {
+     "name": "Harv RB Enh HiSh ETF",
+     "symbol": "RYHE"
+    }
+   ]
+  },
+  {
+   "symbol": "TDHE",
+   "name": "Harvest Enhanced High Income TD-Linked Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TDHE.TO",
+   "instruments": [
+    {
+     "name": "Hrv TD Enh HiSh ETF",
+     "symbol": "TDHE"
+    }
+   ]
+  },
+  {
    "symbol": "HUTE",
    "name": "Harvest Equal Weight Global Utilities Enhanced Income ETF",
    "exchange": "TSX",
@@ -32786,18 +32810,6 @@
    ]
   },
   {
-   "symbol": "RYHE",
-   "name": "Harvest Royal Bank Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RYHE.TO",
-   "instruments": [
-    {
-     "name": "Harv RB Enh HiSh ETF",
-     "symbol": "RYHE"
-    }
-   ]
-  },
-  {
    "symbol": "SHPE",
    "name": "Harvest Shopify Enhanced High Income Shares ETF",
    "exchange": "TSX",
@@ -32842,18 +32854,6 @@
     {
      "name": "Hrv Sun Enh HiSh ETF",
      "symbol": "SUHE"
-    }
-   ]
-  },
-  {
-   "symbol": "TDHE",
-   "name": "Harvest TD Bank Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TDHE.TO",
-   "instruments": [
-    {
-     "name": "Hrv TD Enh HiSh ETF",
-     "symbol": "TDHE"
     }
    ]
   },
@@ -35982,6 +35982,18 @@
     {
      "name": "JPMorgan Glb SeEqAct",
      "symbol": "JGLO"
+    }
+   ]
+  },
+  {
+   "symbol": "JIDE",
+   "name": "JPMorgan International Developed Equity Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JIDE.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan ID EqyAcETF",
+     "symbol": "JIDE"
     }
    ]
   },
@@ -53336,6 +53348,12 @@
    "yahoo_symbol": "CURX"
   },
   {
+   "symbol": "CUSD",
+   "name": "CrossingBridge Ultra-Short Duration ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CUSD"
+  },
+  {
    "symbol": "CV",
    "name": "CapsoVision, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -57920,6 +57938,12 @@
    "yahoo_symbol": "GIWWU"
   },
   {
+   "symbol": "GIXXU",
+   "name": "GigCapital9 Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIXXU"
+  },
+  {
    "symbol": "GKAT",
    "name": "Scharf Global Opportunity ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58806,6 +58830,18 @@
    "name": "HBT Financial, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HBT"
+  },
+  {
+   "symbol": "HCAC",
+   "name": "Hall Chadwick Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCAC"
+  },
+  {
+   "symbol": "HCACR",
+   "name": "Hall Chadwick Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCACR"
   },
   {
    "symbol": "HCACU",
@@ -61466,10 +61502,22 @@
    "yahoo_symbol": "KBDU"
   },
   {
+   "symbol": "KBON",
+   "name": "Karbon Capital Partners Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBON"
+  },
+  {
    "symbol": "KBONU",
    "name": "Karbon Capital Partners Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "KBONU"
+  },
+  {
+   "symbol": "KBONW",
+   "name": "Karbon Capital Partners Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBONW"
   },
   {
    "symbol": "KBSX",
@@ -64086,6 +64134,12 @@
    "name": "MacKenzie Realty Capital, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MKZR"
+  },
+  {
+   "symbol": "MLAAU",
+   "name": "Mountain Lake Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAAU"
   },
   {
    "symbol": "MLAB",
@@ -72338,12 +72392,6 @@
    "yahoo_symbol": "SPBC"
   },
   {
-   "symbol": "SPC",
-   "name": "CrossingBridge Pre-Merger SPAC ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPC"
-  },
-  {
    "symbol": "SPCB",
    "name": "SuperCom, Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -76044,6 +76092,12 @@
    "name": "Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VTIP"
+  },
+  {
+   "symbol": "VTIX",
+   "name": "Virtuix Holdings Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VTIX"
   },
   {
    "symbol": "VTRS",

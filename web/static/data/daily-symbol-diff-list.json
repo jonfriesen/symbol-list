@@ -1,138 +1,96 @@
 {
  "added": [
   {
-   "symbol": "AFR",
-   "name": "AFR NuVenture Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AFR.V",
-   "instruments": [
-    {
-     "name": "AFR NuVenture Resources Inc.",
-     "symbol": "AFR"
-    }
-   ]
-  },
-  {
-   "symbol": "CBAP",
-   "name": "CI Balanced+ Asset Allocation ETF Fund",
+   "symbol": "FISV",
+   "name": "Fiserv CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "CBAP.TO",
+   "yahoo_symbol": "FISV.TO",
    "instruments": [
     {
-     "name": "CI BalAssetAlloc ETF",
-     "symbol": "CBAP"
+     "name": "Fiserv CDR CAN Hgd",
+     "symbol": "FISV"
     }
    ]
   },
   {
-   "symbol": "CEQP",
-   "name": "CI Equity+ Asset Allocation ETF Fund",
+   "symbol": "JIDE",
+   "name": "JPMorgan International Developed Equity Active ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CEQP.TO",
+   "yahoo_symbol": "JIDE.TO",
    "instruments": [
     {
-     "name": "CI EqyAssetAlloc ETF",
-     "symbol": "CEQP"
+     "name": "JPMorgan ID EqyAcETF",
+     "symbol": "JIDE"
     }
    ]
   },
   {
-   "symbol": "AEAQ",
-   "name": "Activate Energy Acquisition Corp. - Class A Ordinary Share",
+   "symbol": "CUSD",
+   "name": "CrossingBridge Ultra-Short Duration ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AEAQ"
+   "yahoo_symbol": "CUSD"
   },
   {
-   "symbol": "AEAQW",
-   "name": "Activate Energy Acquisition Corp. - Warrant",
+   "symbol": "GIXXU",
+   "name": "GigCapital9 Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AEAQW"
+   "yahoo_symbol": "GIXXU"
   },
   {
-   "symbol": "BMM",
-   "name": "Blue Moon Metals Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BMM"
-  },
-  {
-   "symbol": "LFAC",
-   "name": "Leapfrog Acquisition Corporation - Class A Ordinary Shares",
+   "symbol": "HCAC",
+   "name": "Hall Chadwick Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LFAC"
+   "yahoo_symbol": "HCAC"
   },
   {
-   "symbol": "LFACW",
-   "name": "Leapfrog Acquisition Corporation - Warrants",
+   "symbol": "HCACR",
+   "name": "Hall Chadwick Acquisition Corp. - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LFACW"
+   "yahoo_symbol": "HCACR"
   },
   {
-   "symbol": "VAVX",
-   "name": "VanEck Avalanche ETF",
+   "symbol": "KBON",
+   "name": "Karbon Capital Partners Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VAVX"
+   "yahoo_symbol": "KBON"
   },
   {
-   "symbol": "MINE",
-   "name": "Mayfair Gold Corp. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MINE"
+   "symbol": "KBONW",
+   "name": "Karbon Capital Partners Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBONW"
+  },
+  {
+   "symbol": "MLAAU",
+   "name": "Mountain Lake Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAAU"
+  },
+  {
+   "symbol": "VTIX",
+   "name": "Virtuix Holdings Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VTIX"
   }
  ],
  "removed": [
   {
-   "symbol": "AMDU",
-   "name": "Defiance Leveraged Long + Income AMD ETF",
+   "symbol": "SPC",
+   "name": "CrossingBridge Pre-Merger SPAC ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMDU"
+   "yahoo_symbol": "SPC"
   },
   {
-   "symbol": "TRIL",
-   "name": "Defiance Trillion Dollar Club Index ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRIL"
-  },
-  {
-   "symbol": "PLYM",
-   "name": "Plymouth Industrial REIT, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PLYM"
-  },
-  {
-   "symbol": "LLYZ",
-   "name": "Defiance Daily Target 2X Short LLY ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LLYZ"
-  },
-  {
-   "symbol": "SMCC",
-   "name": "Defiance Leveraged Long + Income SMCI ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SMCC"
-  },
-  {
-   "symbol": "HOOI",
-   "name": "Defiance Leveraged Long + Income HOOD ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HOOI"
-  },
-  {
-   "symbol": "HIMY",
-   "name": "Defiance Leveraged Long + Income HIMS ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HIMY"
-  },
-  {
-   "symbol": "ETHI",
-   "name": "Defiance Leveraged Long + Income Ethereum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ETHI"
-  },
-  {
-   "symbol": "PLT",
-   "name": "Defiance Leveraged Long + Income PLTR ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLT"
+   "symbol": "FI",
+   "name": "Fiserv CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "FI.TO",
+   "instruments": [
+    {
+     "name": "Fiserv CDR CAN Hgd",
+     "symbol": "FI"
+    }
+   ]
   }
  ]
 }
