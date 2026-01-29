@@ -1,5 +1,5 @@
 {
- "date": "2026-01-28",
+ "date": "2026-01-29",
  "data": [
   {
    "symbol": "ONE",
@@ -13262,6 +13262,10 @@
     {
      "name": "Reconnaissance Energy Africa Ltd WtB 29Sep2027",
      "symbol": "RECO.WT.B"
+    },
+    {
+     "name": "Reconnaissance Energy Africa Ltd WtC 19Jan2029",
+     "symbol": "RECO.WT.C"
     }
    ]
   },
@@ -15712,7 +15716,7 @@
    "yahoo_symbol": "FRSH.V",
    "instruments": [
     {
-     "name": "The Fresh Factory B.C. Ltd",
+     "name": "The Fresh Factory B.C. Ltd.",
      "symbol": "FRSH"
     }
    ]
@@ -28222,6 +28226,18 @@
    ]
   },
   {
+   "symbol": "FCAE",
+   "name": "Fidelity American Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCAE.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Amrcn Eq Fd",
+     "symbol": "FCAE"
+    }
+   ]
+  },
+  {
    "symbol": "FCCD",
    "name": "Fidelity Canadian High Dividend ETF",
    "exchange": "TSX",
@@ -28358,6 +28374,18 @@
     {
      "name": "Fidelity GlbMoIncm L",
      "symbol": "FCGI"
+    }
+   ]
+  },
+  {
+   "symbol": "FLSE",
+   "name": "Fidelity Global Opportunities Long/Short Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLSE.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Glb Op LgSh",
+     "symbol": "FLSE"
     }
    ]
   },
@@ -32420,7 +32448,7 @@
    "yahoo_symbol": "RYHE.TO",
    "instruments": [
     {
-     "name": "Harv RB Enh HiSh ETF",
+     "name": "Harv Enh HiInc RY L",
      "symbol": "RYHE"
     }
    ]
@@ -32432,7 +32460,7 @@
    "yahoo_symbol": "TDHE.TO",
    "instruments": [
     {
-     "name": "Hrv TD Enh HiSh ETF",
+     "name": "Hrv Enh Hi Inc TD L",
      "symbol": "TDHE"
     }
    ]
@@ -49040,6 +49068,12 @@
    "yahoo_symbol": "BANX"
   },
   {
+   "symbol": "BANXR",
+   "name": "ArrowMark Financial Corp. - Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BANXR"
+  },
+  {
    "symbol": "BAOS",
    "name": "Baosheng Media Group Holdings Limited - Ordinary shares",
    "exchange": "NASDAQ Capital Market",
@@ -49100,10 +49134,22 @@
    "yahoo_symbol": "BBCP"
   },
   {
+   "symbol": "BBCQ",
+   "name": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCQ"
+  },
+  {
    "symbol": "BBCQU",
    "name": "Bleichroeder Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BBCQU"
+  },
+  {
+   "symbol": "BBCQW",
+   "name": "Bleichroeder Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCQW"
   },
   {
    "symbol": "BBGI",
@@ -49827,7 +49873,7 @@
   },
   {
    "symbol": "BLCN",
-   "name": "Siren Nasdaq NexGen Economy ETF",
+   "name": "Siren NexGen Economy ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BLCN"
   },
@@ -56594,12 +56640,6 @@
    "yahoo_symbol": "FLEX"
   },
   {
-   "symbol": "FLGC",
-   "name": "Flora Growth Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLGC"
-  },
-  {
    "symbol": "FLGT",
    "name": "Fulgent Genetics, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -58170,6 +58210,12 @@
    "name": "Grocery Outlet Holding Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GO"
+  },
+  {
+   "symbol": "GOAI",
+   "name": "Eva Live Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GOAI"
   },
   {
    "symbol": "GOCO",
@@ -61890,6 +61936,12 @@
    "name": "Kurv Technology Titans Select ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "KQQQ"
+  },
+  {
+   "symbol": "KRAQU",
+   "name": "KRAKacquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KRAQU"
   },
   {
    "symbol": "KRKR",
@@ -68414,6 +68466,12 @@
    "yahoo_symbol": "PPH"
   },
   {
+   "symbol": "PPHC",
+   "name": "Public Policy Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PPHC"
+  },
+  {
    "symbol": "PPI",
    "name": "Astoria Real Assets ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -69420,6 +69478,12 @@
    "name": "First Trust NASDAQ-100-Technology Sector Index Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QTEC"
+  },
+  {
+   "symbol": "QTI",
+   "name": "QT Imaging Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTI"
   },
   {
    "symbol": "QTOP",
@@ -70514,12 +70578,6 @@
    "yahoo_symbol": "RPRX"
   },
   {
-   "symbol": "RPTX",
-   "name": "Repare Therapeutics Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RPTX"
-  },
-  {
    "symbol": "RR",
    "name": "Richtech Robotics Inc. - Class B Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -70776,6 +70834,12 @@
    "name": "Rezolve AI PLC - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RZLVW"
+  },
+  {
+   "symbol": "SAAQU",
+   "name": "Space Asset Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAAQU"
   },
   {
    "symbol": "SABR",
@@ -76046,12 +76110,6 @@
    "yahoo_symbol": "VSOL"
   },
   {
-   "symbol": "VSTA",
-   "name": "Vasta Platform Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VSTA"
-  },
-  {
    "symbol": "VSTD",
    "name": "Vestand Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -77592,6 +77650,12 @@
    "name": "zSpace, Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZSPC"
+  },
+  {
+   "symbol": "ZSTK",
+   "name": "ZeroStack Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZSTK"
   },
   {
    "symbol": "ZTEK",
@@ -80084,10 +80148,22 @@
    "yahoo_symbol": "BHVN"
   },
   {
+   "symbol": "BIII",
+   "name": "Black Spade Acquisition III Co Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIII"
+  },
+  {
    "symbol": "BIII.U",
    "name": "Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "BIII.U"
+  },
+  {
+   "symbol": "BIII.W",
+   "name": "Black Spade Acquisition III Co Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIII.W"
   },
   {
    "symbol": "BILL",
@@ -93140,12 +93216,6 @@
    "yahoo_symbol": "SHAK"
   },
   {
-   "symbol": "SHCO",
-   "name": "Soho House \u0026 Co Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SHCO"
-  },
-  {
    "symbol": "SHEL",
    "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
    "exchange": "NYSE",
@@ -95036,6 +95106,12 @@
    "yahoo_symbol": "UAA"
   },
   {
+   "symbol": "UAC.U",
+   "name": "United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UAC.U"
+  },
+  {
    "symbol": "UAMY",
    "name": "United States Antimony Corporation Common Stock",
    "exchange": "NYSE MKT",
@@ -96510,6 +96586,12 @@
    "name": "Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "YSG"
+  },
+  {
+   "symbol": "YSS",
+   "name": "York Space Systems Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "YSS"
   },
   {
    "symbol": "YUM",
