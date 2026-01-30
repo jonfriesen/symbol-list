@@ -1,132 +1,108 @@
 {
  "added": [
   {
-   "symbol": "FCAE",
-   "name": "Fidelity American Equity Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FCAE.TO",
-   "instruments": [
-    {
-     "name": "Fidelity Amrcn Eq Fd",
-     "symbol": "FCAE"
-    }
-   ]
+   "symbol": "DSAC",
+   "name": "Daedalus Special Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSAC"
   },
   {
-   "symbol": "FLSE",
-   "name": "Fidelity Global Opportunities Long/Short Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "FLSE.TO",
-   "instruments": [
-    {
-     "name": "Fidelity Glb Op LgSh",
-     "symbol": "FLSE"
-    }
-   ]
+   "symbol": "DSACW",
+   "name": "Daedalus Special Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSACW"
   },
   {
-   "symbol": "BANXR",
-   "name": "ArrowMark Financial Corp. - Right",
+   "symbol": "KTWOU",
+   "name": "K2 Capital Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KTWOU"
+  },
+  {
+   "symbol": "LIFE",
+   "name": "Ethos Technologies Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BANXR"
+   "yahoo_symbol": "LIFE"
   },
   {
-   "symbol": "BBCQ",
-   "name": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares",
+   "symbol": "MLCI",
+   "name": "Mount Logan Capital Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BBCQ"
+   "yahoo_symbol": "MLCI"
   },
   {
-   "symbol": "BBCQW",
-   "name": "Bleichroeder Acquisition Corp. II - Warrants",
+   "symbol": "NEWTO",
+   "name": "NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2031",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BBCQW"
+   "yahoo_symbol": "NEWTO"
   },
   {
-   "symbol": "GOAI",
-   "name": "Eva Live Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GOAI"
+   "symbol": "PICS",
+   "name": "PicS N.V. - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PICS"
   },
   {
-   "symbol": "KRAQU",
-   "name": "KRAKacquisition Corp - Unit",
+   "symbol": "TNXT",
+   "name": "T. Rowe Price Innovation Leaders ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KRAQU"
+   "yahoo_symbol": "TNXT"
   },
   {
-   "symbol": "PPHC",
-   "name": "Public Policy Holding Company, Inc. - Common Stock",
+   "symbol": "XSLLU",
+   "name": "Xsolla SPAC 1 - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PPHC"
-  },
-  {
-   "symbol": "QTI",
-   "name": "QT Imaging Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QTI"
-  },
-  {
-   "symbol": "SAAQU",
-   "name": "Space Asset Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SAAQU"
-  },
-  {
-   "symbol": "ZSTK",
-   "name": "ZeroStack Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZSTK"
-  },
-  {
-   "symbol": "BIII",
-   "name": "Black Spade Acquisition III Co Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIII"
-  },
-  {
-   "symbol": "BIII.W",
-   "name": "Black Spade Acquisition III Co Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIII.W"
-  },
-  {
-   "symbol": "UAC.U",
-   "name": "United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "UAC.U"
-  },
-  {
-   "symbol": "YSS",
-   "name": "York Space Systems Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "YSS"
+   "yahoo_symbol": "XSLLU"
   }
  ],
  "removed": [
   {
-   "symbol": "SHCO",
-   "name": "Soho House \u0026 Co Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SHCO"
-  },
-  {
-   "symbol": "RPTX",
-   "name": "Repare Therapeutics Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RPTX"
-  },
-  {
-   "symbol": "VSTA",
-   "name": "Vasta Platform Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VSTA"
-  },
-  {
-   "symbol": "FLGC",
-   "name": "Flora Growth Corp. - Common Stock",
+   "symbol": "MLCI",
+   "name": "Mount Logan Capital Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLGC"
+   "yahoo_symbol": "MLCI"
+  },
+  {
+   "symbol": "LANDM",
+   "name": "Gladstone Land Corporation - 5.00% Series D Cumulative Term Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LANDM"
+  },
+  {
+   "symbol": "CIVI",
+   "name": "Civitas Resources, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIVI"
+  },
+  {
+   "symbol": "ECCF",
+   "name": "Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECCF"
+  },
+  {
+   "symbol": "HEJD",
+   "name": "VictoryShares Hedged Equity Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HEJD"
+  },
+  {
+   "symbol": "BMDL",
+   "name": "VictoryShares WestEnd Economic Cycle Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMDL"
+  },
+  {
+   "symbol": "NEWTZ",
+   "name": "NewtekOne, Inc. - 5.50% Notes Due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEWTZ"
+  },
+  {
+   "symbol": "CIL",
+   "name": "VictoryShares International Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIL"
   }
  ]
 }

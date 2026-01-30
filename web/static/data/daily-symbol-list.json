@@ -1,5 +1,5 @@
 {
- "date": "2026-01-29",
+ "date": "2026-01-30",
  "data": [
   {
    "symbol": "ONE",
@@ -50022,12 +50022,6 @@
    "yahoo_symbol": "BMBL"
   },
   {
-   "symbol": "BMDL",
-   "name": "VictoryShares WestEnd Economic Cycle Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BMDL"
-  },
-  {
    "symbol": "BMEA",
    "name": "Biomea Fusion, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -52150,12 +52144,6 @@
    "name": "Tianci International, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CIIT"
-  },
-  {
-   "symbol": "CIL",
-   "name": "VictoryShares International Volatility Wtd ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CIL"
   },
   {
    "symbol": "CINF",
@@ -54306,10 +54294,22 @@
    "yahoo_symbol": "DRVN"
   },
   {
+   "symbol": "DSAC",
+   "name": "Daedalus Special Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSAC"
+  },
+  {
    "symbol": "DSACU",
    "name": "Daedalus Special Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DSACU"
+  },
+  {
+   "symbol": "DSACW",
+   "name": "Daedalus Special Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSACW"
   },
   {
    "symbol": "DSGN",
@@ -58992,12 +58992,6 @@
    "yahoo_symbol": "HECO"
   },
   {
-   "symbol": "HEJD",
-   "name": "VictoryShares Hedged Equity Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HEJD"
-  },
-  {
    "symbol": "HELE",
    "name": "Helen of Troy Limited - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62046,6 +62040,12 @@
    "yahoo_symbol": "KTTAW"
   },
   {
+   "symbol": "KTWOU",
+   "name": "K2 Capital Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KTWOU"
+  },
+  {
    "symbol": "KURA",
    "name": "Kura Oncology, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62194,12 +62194,6 @@
    "name": "Gladstone Land Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LAND"
-  },
-  {
-   "symbol": "LANDM",
-   "name": "Gladstone Land Corporation - 5.00% Series D Cumulative Term Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LANDM"
   },
   {
    "symbol": "LANDO",
@@ -62644,6 +62638,12 @@
    "name": "Life360, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LIF"
+  },
+  {
+   "symbol": "LIFE",
+   "name": "Ethos Technologies Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LIFE"
   },
   {
    "symbol": "LILA",
@@ -63127,7 +63127,7 @@
   },
   {
    "symbol": "LSE",
-   "name": "Leishen Energy Holding Co., Ltd. - Ordinary Shares",
+   "name": "Leishen Energy Holding Co., Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LSE"
   },
@@ -64220,7 +64220,7 @@
   {
    "symbol": "MLCI",
    "name": "Mount Logan Capital Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
+   "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MLCI"
   },
   {
@@ -65382,16 +65382,16 @@
    "yahoo_symbol": "NEWTI"
   },
   {
+   "symbol": "NEWTO",
+   "name": "NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2031",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEWTO"
+  },
+  {
    "symbol": "NEWTP",
    "name": "NewtekOne, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.500% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NEWTP"
-  },
-  {
-   "symbol": "NEWTZ",
-   "name": "NewtekOne, Inc. - 5.50% Notes Due 2026",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NEWTZ"
   },
   {
    "symbol": "NEWZ",
@@ -67531,7 +67531,7 @@
   },
   {
    "symbol": "PBM",
-   "name": "Psyence Biomedical Ltd. - Ordinary Shares",
+   "name": "Psyence Biomedical Ltd. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PBM"
   },
@@ -68032,6 +68032,12 @@
    "name": "Impinj, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PI"
+  },
+  {
+   "symbol": "PICS",
+   "name": "PicS N.V. - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PICS"
   },
   {
    "symbol": "PID",
@@ -74148,6 +74154,12 @@
    "yahoo_symbol": "TNXP"
   },
   {
+   "symbol": "TNXT",
+   "name": "T. Rowe Price Innovation Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TNXT"
+  },
+  {
    "symbol": "TNYA",
    "name": "Tenaya Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -77218,6 +77230,12 @@
    "name": "Xerox Holdings Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "XRX"
+  },
+  {
+   "symbol": "XSLLU",
+   "name": "Xsolla SPAC 1 - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XSLLU"
   },
   {
    "symbol": "XT",
@@ -81534,12 +81552,6 @@
    "yahoo_symbol": "CITR"
   },
   {
-   "symbol": "CIVI",
-   "name": "Civitas Resources, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CIVI"
-  },
-  {
    "symbol": "CIX",
    "name": "CompX International Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -83308,12 +83320,6 @@
    "name": "Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031",
    "exchange": "NYSE",
    "yahoo_symbol": "ECCC"
-  },
-  {
-   "symbol": "ECCF",
-   "name": "Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ECCF"
   },
   {
    "symbol": "ECCU",
