@@ -1552,7 +1552,6 @@ ASCU,Arizona Sonoran Copper Company Inc.,TSX,ASCU.TO,Arizona Sonoran J,ASCU
 ADIV,Arrow EC Equity Advantage Alternative Fund,TSX,ADIV.TO,Arrow EC EqAdvntgAlt,ADIV
 RATE,Arrow EC Income Advantage Alternative Fund,TSX,RATE.TO,Arrow EC IncmAdvanUn,RATE
 ACAA,Arrow Long/Short Alternative Fund,TSX,ACAA.TO,Arrow Lng/Sh Alt ETF,ACAA
-AX.PR.E,Artis Real Estate Investment Trust,TSX,AX.PR.E.TO,Artis REIT Ser E Pr,AX.PR.E,Artis REIT Ser I Pr,AX.PR.I,Artis REIT Un,AX.UN
 ASML,ASML CDR (CAD Hedged),TSX,ASML.TO,ASML CDR CAD Hedged,ASML
 ACO.X,ATCO Ltd.,TSX,ACO.X.TO,ATCO Ltd. Cl I NV,ACO.X
 ATH,Athabasca Oil Corporation,TSX,ATH.TO,Athabasca Oil Corp,ATH
@@ -1982,7 +1981,7 @@ DGR,CI U.S. Quality Dividend Growth Index ETF,TSX,DGR.TO,CI USDiv GrIdx ETFH ,DG
 CSMD,CI U.S. Small/Mid Cap Equity Private Pool,TSX,CSMD.TO,CI US SmM CapEqPriPo,CSMD
 CUTL,CI Utilities Giants Covered Call ETF,TSX,CUTL.TO,CI Util GianCall Heg,CUTL,CI Util GianCal Unhg,CUTL.B
 CACB,CIBC Active Investment Grade Corporate Bond ETF,TSX,CACB.TO,CIBC ActvInvCorpBond,CACB
-CAFR,CIBC Active Investment Grade Floating Rate Bond ETF,TSX,CAFR.TO,CIBC ActvInvFltgBond,CAFR
+CFRN,CIBC Active Investment Grade Floating Rate Bond ETF,TSX,CFRN.TO,CIBC ActvInvFltgBond,CFRN
 CEQY,CIBC All-Equity ETF Portfolio,TSX,CEQY.TO,CIBC All Equity ETF,CEQY
 CBLN,CIBC Balanced ETF Portfolio,TSX,CBLN.TO,CIBC BalETF Poli ETF,CBLN
 CGRW,CIBC Balanced Growth ETF Portfolio,TSX,CGRW.TO,CIBC Blncd Grw E Prt,CGRW
@@ -3261,6 +3260,7 @@ QSR,Restaurant Brands International Inc.,TSX,QSR.TO,Restaurant Brnd Intl,QSR
 QSP.UN,Restaurant Brands International Limited Partnership,TSX,QSP.UN.TO,Restaurant BrndLP Un,QSP.UN
 RVX,Resverlogix Corp.,TSX,RVX.TO,Resverlogix Corp. J,RVX
 RGBM,Return Stacked® Global Balanced & Macro ETF,TSX,RGBM.TO,Return Sta GlBlM ETF,RGBM,Return Sta GlBlM USD,RGBM.U
+RFA,RFA Financial Inc.,TSX,RFA.TO,RFA Financial Inc,RFA,RFA Financial Inc P,RFA.PR.E,RFA Financial Inc I,RFA.PR.I
 RIC,Richards Group Inc.,TSX,RIC.TO,Richards Grp Inc Unt,RIC
 RCH,Richelieu Hardware Ltd.,TSX,RCH.TO,Richelieu Hardware,RCH
 RIO,Rio2 Limited,TSX,RIO.TO,Rio2 Limited ,RIO
@@ -3838,7 +3838,9 @@ AMLX,"Amylyx Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM
 AMOD,"Alpha Modus Holdings, Inc. - Class A Common Stock",NASDAQ Capital Market,AMOD
 AMODW,"Alpha Modus Holdings, Inc. - Warrant",NASDAQ Capital Market,AMODW
 AMPG,"Amplitech Group, Inc. - Common Stock",NASDAQ Capital Market,AMPG
+AMPGR,"Amplitech Group, Inc. - Series A Right",NASDAQ Capital Market,AMPGR
 AMPGW,"Amplitech Group, Inc. - Warrants",NASDAQ Capital Market,AMPGW
+AMPGZ,"Amplitech Group, Inc. - Series B Right",NASDAQ Capital Market,AMPGZ
 AMPH,"Amphastar Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,AMPH
 AMPL,"Amplitude, Inc. - Class A Common Stock",NASDAQ Capital Market,AMPL
 AMRN,Amarin Corporation plc - American Depositary Shares,NASDAQ Capital Market,AMRN
@@ -3877,6 +3879,7 @@ ANSCU,Agriculture & Natural Solutions Acquisition Corporation - Unit,NASDAQ Glob
 ANSCW,Agriculture & Natural Solutions Acquisition Corporation - Warrant,NASDAQ Global MarketSM,ANSCW
 ANTA,Antalpha Platform Holding Company - Class A Ordinary Shares,NASDAQ Global MarketSM,ANTA
 ANTX,"AN2 Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,ANTX
+ANV,GraniteShares Autocallable NVDA ETF,NASDAQ Global MarketSM,ANV
 ANY,Sphere 3D Corp. - Common Shares,NASDAQ Capital Market,ANY
 AOHY,Angel Oak High Yield Opportunities ETF,NASDAQ Global MarketSM,AOHY
 AOSL,Alpha and Omega Semiconductor Limited - Common Shares,NASDAQ Global Select MarketSM,AOSL
@@ -3896,7 +3899,6 @@ APLD,Applied Digital Corporation - Common Stock,NASDAQ Global Select MarketSM,AP
 APLM,Apollomics Inc. - Class A Ordinary Shares,NASDAQ Capital Market,APLM
 APLMW,Apollomics Inc. - Warrant,NASDAQ Capital Market,APLMW
 APLS,"Apellis Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,APLS
-APLT,"Applied Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,APLT
 APM,Aptorum Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,APM
 APOG,"Apogee Enterprises, Inc. - Common Stock",NASDAQ Global Select MarketSM,APOG
 APP,Applovin Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,APP
@@ -5225,9 +5227,6 @@ FAMI,"Farmmi, INC. - Ordinary Shares",NASDAQ Capital Market,FAMI
 FANG,"Diamondback Energy, Inc. - Common Stock",NASDAQ Global Select MarketSM,FANG
 FARM,Farmer Brothers Company - Common Stock,NASDAQ Global Select MarketSM,FARM
 FAST,Fastenal Company - Common Stock,NASDAQ Global Select MarketSM,FAST
-FAT,FAT Brands Inc. - Common Stock,NASDAQ Capital Market,FAT
-FATBB,FAT Brands Inc. - Class B Common Stock,NASDAQ Capital Market,FATBB
-FATBP,FAT Brands Inc. - 8.25% Series B Cumulative Preferred Stock,NASDAQ Capital Market,FATBP
 FATE,"Fate Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,FATE
 FATN,"FatPipe, Inc. - common stock",NASDAQ Capital Market,FATN
 FBGL,FBS Global Limited - Ordinary Shares,NASDAQ Capital Market,FBGL
@@ -6066,8 +6065,6 @@ ISBA,Isabella Bank Corporation - Common stock,NASDAQ Capital Market,ISBA
 ISHG,iShares 1-3 Year International Treasury Bond ETF,NASDAQ Global MarketSM,ISHG
 ISHP,First Trust S-Network E-Commerce ETF,NASDAQ Global MarketSM,ISHP
 ISPC,iSpecimen Inc. - Common Stock,NASDAQ Capital Market,ISPC
-ISPO,Inspirato Incorporated - Class A Common Stock,NASDAQ Global MarketSM,ISPO
-ISPOW,Inspirato Incorporated - Warrant,NASDAQ Global MarketSM,ISPOW
 ISPR,Ispire Technology Inc. - Common Stock,NASDAQ Capital Market,ISPR
 ISRG,"Intuitive Surgical, Inc. - Common Stock",NASDAQ Global Select MarketSM,ISRG
 ISSC,"Innovative Solutions and Support, Inc. - Common Stock",NASDAQ Global Select MarketSM,ISSC
@@ -7536,6 +7533,7 @@ RBIL,F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF,NASDAQ Glob
 RBKB,"Rhinebeck Bancorp, Inc. - Common Stock",NASDAQ Capital Market,RBKB
 RBNE,Robin Energy Ltd. - Common Stock,NASDAQ Capital Market,RBNE
 RCAT,"Red Cat Holdings, Inc. - Common Stock",NASDAQ Capital Market,RCAT
+RCAX,Defiance Daily Target 2x Long RCAT ETF,NASDAQ Global MarketSM,RCAX
 RCEL,"Avita Medical, Inc. - Common Stock",NASDAQ Capital Market,RCEL
 RCGE,RockCreek Global Equality ETF,NASDAQ Global MarketSM,RCGE
 RCKT,"Rocket Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,RCKT
@@ -7744,7 +7742,7 @@ SBAC,SBA Communications Corporation - Class A Common Stock,NASDAQ Global Select 
 SBC,SBC Medical Group Holdings Incorporated - Common Stock,NASDAQ Global MarketSM,SBC
 SBCF,Seacoast Banking Corporation of Florida - Common Stock,NASDAQ Global Select MarketSM,SBCF
 SBCWW,SBC Medical Group Holdings Incorporated - Warrants,NASDAQ Capital Market,SBCWW
-SBET,"SharpLink Gaming, Inc. - Common Stock",NASDAQ Capital Market,SBET
+SBET,"SharpLink, Inc. - Common Stock",NASDAQ Capital Market,SBET
 SBFG,"SB Financial Group, Inc. - Common Stock",NASDAQ Capital Market,SBFG
 SBFM,Sunshine Biopharma Inc. - Common stock,NASDAQ Capital Market,SBFM
 SBFMW,Sunshine Biopharma Inc. - Warrant,NASDAQ Capital Market,SBFMW
@@ -8236,6 +8234,7 @@ TIVC,"Tivic Health Systems, Inc. - Common stock",NASDAQ Capital Market,TIVC
 TJGC,TJGC Group Limited - ordinary shares,NASDAQ Capital Market,TJGC
 TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",NASDAQ Capital Market,TKLF
 TKNO,"Alpha Teknova, Inc. - Common Stock",NASDAQ Global MarketSM,TKNO
+TLA,GraniteShares Autocallable TSLA ETF,NASDAQ Global MarketSM,TLA
 TLF,"Tandy Leather Factory, Inc. - common stock",NASDAQ Capital Market,TLF
 TLIH,Ten-League International Holdings Limited - Ordinary Shares,NASDAQ Capital Market,TLIH
 TLN,Talen Energy Corporation - Common Stock,NASDAQ Global Select MarketSM,TLN
@@ -8372,7 +8371,6 @@ TWIN,"Twin Disc, Incorporated - Common Stock",NASDAQ Global Select MarketSM,TWIN
 TWLV,Twelve Seas Investment Company III - Class A Ordinary Shares,NASDAQ Global MarketSM,TWLV
 TWLVR,Twelve Seas Investment Company III - Rights,NASDAQ Global MarketSM,TWLVR
 TWLVU,Twelve Seas Investment Company III - Units,NASDAQ Global MarketSM,TWLVU
-TWNP,Twin Hospitality Group Inc. - Class A Common Stock,NASDAQ Global MarketSM,TWNP
 TWST,Twist Bioscience Corporation - Common Stock,NASDAQ Global Select MarketSM,TWST
 TXG,"10x Genomics, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXG
 TXMD,"TherapeuticsMD, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXMD
@@ -8740,6 +8738,7 @@ WYHG,Wing Yip Food Holdings Group Limited - American Depositary Shares,NASDAQ Ca
 WYNN,"Wynn Resorts, Limited - Common Stock",NASDAQ Global Select MarketSM,WYNN
 XAIR,"Beyond Air, Inc. - Common Stock",NASDAQ Capital Market,XAIR
 XAIX,Xtrackers Artificial Intelligence and Big Data ETF,NASDAQ Global MarketSM,XAIX
+XBCI,NEOS Boosted Bitcoin High Income ETF,NASDAQ Global MarketSM,XBCI
 XBIL,US Treasury 6 Month Bill ETF,NASDAQ Global MarketSM,XBIL
 XBIO,"Xenetic Biosciences, Inc. - Common Stock",NASDAQ Capital Market,XBIO
 XBIT,XBiotech Inc. - Common Stock,NASDAQ Global Select MarketSM,XBIT
@@ -8776,6 +8775,7 @@ XP,XP Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,XP
 XPEG,Leverage Shares 2X Long XPEV Daily ETF,NASDAQ Global MarketSM,XPEG
 XPEL,"XPEL, Inc. - Common Stock",NASDAQ Capital Market,XPEL
 XPON,Expion360 Inc. - Common Stock,NASDAQ Capital Market,XPON
+XQQI,NEOS Boosted Nasdaq-100 High Income ETF,NASDAQ Global MarketSM,XQQI
 XRAY,DENTSPLY SIRONA Inc. - Common Stock,NASDAQ Global Select MarketSM,XRAY
 XRPC,Canary XRP ETF,NASDAQ Global MarketSM,XRPC
 XRPI,Volatility Shares Trust XRP ETF,NASDAQ Global MarketSM,XRPI
@@ -8786,6 +8786,7 @@ XRPT,Volatility Shares Trust XRP 2X ETF,NASDAQ Global MarketSM,XRPT
 XRTX,XORTX Therapeutics Inc. - Common Stock,NASDAQ Capital Market,XRTX
 XRX,Xerox Holdings Corporation - Common Stock,NASDAQ Global Select MarketSM,XRX
 XSLLU,Xsolla SPAC 1 - Units,NASDAQ Global MarketSM,XSLLU
+XSPI,NEOS Boosted S&P 500 High Income ETF,NASDAQ Global MarketSM,XSPI
 XT,iShares Future Exponential Technologies ETF,NASDAQ Global MarketSM,XT
 XTIA,"XTI Aerospace, Inc. Common Stock  - Common Stock",NASDAQ Capital Market,XTIA
 XTKG,"X3 Holdings Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,XTKG
@@ -9506,6 +9507,7 @@ CIX,CompX International Inc. Common Stock,NYSE MKT,CIX
 CKX,"CKX Lands, Inc. Common Stock",NYSE MKT,CKX
 CL,Colgate-Palmolive Company Common Stock,NYSE,CL
 CLB,Core Laboratories Inc. Common Stock,NYSE,CLB
+CLBR.U,"Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-eighth of one warrant",NYSE,CLBR.U
 CLDI,"Calidi Biotherapeutics, Inc. Common Stock",NYSE MKT,CLDI
 CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,NYSE,CLDT
 CLDT$A,Chatham Lodging Trust (REIT) 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE,CLDT$A
@@ -9677,7 +9679,6 @@ DAN,Dana Incorporated Common Stock ,NYSE,DAN
 DAO,"Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE,DAO
 DAR,Darling Ingredients Inc. Common Stock,NYSE,DAR
 DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share),NYSE,DAVA
-DAY,"Dayforce, Inc. Common Stock",NYSE,DAY
 DB,Deutsche Bank AG Common Stock,NYSE,DB
 DBD,Diebold Nixdorf Incorporated Common stock,NYSE,DBD
 DBI,Designer Brands Inc. Class A Common Stock,NYSE,DBI
@@ -10294,7 +10295,6 @@ HSHP,Himalaya Shipping Ltd. Common Shares,NYSE,HSHP
 HSY,The Hershey Company Common Stock,NYSE,HSY
 HTB,"HomeTrust Bancshares, Inc. Common Stock",NYSE,HTB
 HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,NYSE,HTD
-HTFB,Horizon Technology Finance Corporation 4.875% Notes due 2026,NYSE,HTFB
 HTFC,Horizon Technology Finance Corporation 6.25% Notes due 2027,NYSE,HTFC
 HTGC,"Hercules Capital, Inc. Common Stock",NYSE,HTGC
 HTH,Hilltop Holdings Inc.,NYSE,HTH
@@ -10618,6 +10618,7 @@ MAGN,Magnera Corporation Common Stock,NYSE,MAGN
 MAIA,"MAIA Biotechnology, Inc. Common Stock",NYSE MKT,MAIA
 MAIN,Main Street Capital Corporation Common Stock,NYSE,MAIN
 MAN,ManpowerGroup Common Stock,NYSE,MAN
+MANE,"Veradermics, Incorporated Common Stock",NYSE,MANE
 MANU,Manchester United Ltd. Class A Ordinary Shares,NYSE,MANU
 MAS,Masco Corporation Common Stock,NYSE,MAS
 MATV,"Mativ Holdings, Inc. Common Stock",NYSE,MATV

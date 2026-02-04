@@ -1,146 +1,184 @@
 {
  "added": [
   {
-   "symbol": "BEP.PR.M",
-   "name": "Brookfield Renewable Partners L.P.",
+   "symbol": "CFRN",
+   "name": "CIBC Active Investment Grade Floating Rate Bond ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "BEP.PR.M.TO",
+   "yahoo_symbol": "CFRN.TO",
    "instruments": [
     {
-     "name": "Brookfield RenewPr13",
-     "symbol": "BEP.PR.M"
-    },
-    {
-     "name": "Brookfield RenewPr18",
-     "symbol": "BEP.PR.R"
-    },
-    {
-     "name": "Brookfld Renew LP Un",
-     "symbol": "BEP.UN"
+     "name": "CIBC ActvInvFltgBond",
+     "symbol": "CFRN"
     }
    ]
   },
   {
-   "symbol": "MSBP",
-   "name": "Middlefield Short Duration Bond Plus ETF",
+   "symbol": "RFA",
+   "name": "RFA Financial Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "MSBP.TO",
+   "yahoo_symbol": "RFA.TO",
    "instruments": [
     {
-     "name": "Midfld Sh Du Bd Pl E",
-     "symbol": "MSBP"
+     "name": "RFA Financial Inc",
+     "symbol": "RFA"
+    },
+    {
+     "name": "RFA Financial Inc P",
+     "symbol": "RFA.PR.E"
+    },
+    {
+     "name": "RFA Financial Inc I",
+     "symbol": "RFA.PR.I"
     }
    ]
   },
   {
-   "symbol": "BLRK",
-   "name": "Bluerock Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLRK"
-  },
-  {
-   "symbol": "BLRKW",
-   "name": "Bluerock Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLRKW"
-  },
-  {
-   "symbol": "CMTV",
-   "name": "Community Bancorp.  - Common stock",
+   "symbol": "AMPGR",
+   "name": "Amplitech Group, Inc. - Series A Right",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CMTV"
+   "yahoo_symbol": "AMPGR"
   },
   {
-   "symbol": "FITBM",
-   "name": "Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FITBM"
-  },
-  {
-   "symbol": "HBANZ",
-   "name": "Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/1000th Interest in a Share of 5.50% Series L Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HBANZ"
-  },
-  {
-   "symbol": "MLCIL",
-   "name": "Mount Logan Capital Inc. - 8.00% Notes Due 2031",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MLCIL"
-  },
-  {
-   "symbol": "PLYX",
-   "name": "Polaryx Therapeutics, Inc. - Common Stock",
+   "symbol": "AMPGZ",
+   "name": "Amplitech Group, Inc. - Series B Right",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLYX"
+   "yahoo_symbol": "AMPGZ"
   },
   {
-   "symbol": "IRAB.U",
-   "name": "Iris Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one-half of one redeemable Warrant",
+   "symbol": "ANV",
+   "name": "GraniteShares Autocallable NVDA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANV"
+  },
+  {
+   "symbol": "RCAX",
+   "name": "Defiance Daily Target 2x Long RCAT ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RCAX"
+  },
+  {
+   "symbol": "TLA",
+   "name": "GraniteShares Autocallable TSLA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLA"
+  },
+  {
+   "symbol": "XBCI",
+   "name": "NEOS Boosted Bitcoin High Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XBCI"
+  },
+  {
+   "symbol": "XQQI",
+   "name": "NEOS Boosted Nasdaq-100 High Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XQQI"
+  },
+  {
+   "symbol": "XSPI",
+   "name": "NEOS Boosted S\u0026P 500 High Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XSPI"
+  },
+  {
+   "symbol": "CLBR.U",
+   "name": "Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-eighth of one warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "IRAB.U"
+   "yahoo_symbol": "CLBR.U"
+  },
+  {
+   "symbol": "MANE",
+   "name": "Veradermics, Incorporated Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MANE"
   }
  ],
  "removed": [
   {
-   "symbol": "BEP.PR.G",
-   "name": "Brookfield Renewable Partners L.P.",
+   "symbol": "ISPO",
+   "name": "Inspirato Incorporated - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISPO"
+  },
+  {
+   "symbol": "FAT",
+   "name": "FAT Brands Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAT"
+  },
+  {
+   "symbol": "APLT",
+   "name": "Applied Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APLT"
+  },
+  {
+   "symbol": "DAY",
+   "name": "Dayforce, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DAY"
+  },
+  {
+   "symbol": "FATBB",
+   "name": "FAT Brands Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FATBB"
+  },
+  {
+   "symbol": "ISPOW",
+   "name": "Inspirato Incorporated - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISPOW"
+  },
+  {
+   "symbol": "TWNP",
+   "name": "Twin Hospitality Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWNP"
+  },
+  {
+   "symbol": "AX.PR.E",
+   "name": "Artis Real Estate Investment Trust",
    "exchange": "TSX",
-   "yahoo_symbol": "BEP.PR.G.TO",
+   "yahoo_symbol": "AX.PR.E.TO",
    "instruments": [
     {
-     "name": "Brookfield Renew Pr7",
-     "symbol": "BEP.PR.G"
+     "name": "Artis REIT Ser E Pr",
+     "symbol": "AX.PR.E"
     },
     {
-     "name": "Brookfield RenewPr13",
-     "symbol": "BEP.PR.M"
+     "name": "Artis REIT Ser I Pr",
+     "symbol": "AX.PR.I"
     },
     {
-     "name": "Brookfield RenewPr18",
-     "symbol": "BEP.PR.R"
-    },
-    {
-     "name": "Brookfld Renew LP Un",
-     "symbol": "BEP.UN"
+     "name": "Artis REIT Un",
+     "symbol": "AX.UN"
     }
    ]
   },
   {
-   "symbol": "NINE",
-   "name": "Nine Energy Service, Inc. Common Stock",
+   "symbol": "HTFB",
+   "name": "Horizon Technology Finance Corporation 4.875% Notes due 2026",
    "exchange": "NYSE",
-   "yahoo_symbol": "NINE"
+   "yahoo_symbol": "HTFB"
   },
   {
-   "symbol": "PCH",
-   "name": "PotlatchDeltic Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PCH"
-  },
-  {
-   "symbol": "AAM",
-   "name": "AA Mission Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAM"
-  },
-  {
-   "symbol": "AAM.U",
-   "name": "AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAM.U"
-  },
-  {
-   "symbol": "AAM.W",
-   "name": "AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AAM.W"
-  },
-  {
-   "symbol": "FSFG",
-   "name": "First Savings Financial Group, Inc. - Common Stock",
+   "symbol": "FATBP",
+   "name": "FAT Brands Inc. - 8.25% Series B Cumulative Preferred Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FSFG"
+   "yahoo_symbol": "FATBP"
+  },
+  {
+   "symbol": "CAFR",
+   "name": "CIBC Active Investment Grade Floating Rate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAFR.TO",
+   "instruments": [
+    {
+     "name": "CIBC ActvInvFltgBond",
+     "symbol": "CAFR"
+    }
+   ]
   }
  ]
 }
