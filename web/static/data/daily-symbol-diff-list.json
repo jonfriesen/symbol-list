@@ -1,138 +1,128 @@
 {
  "added": [
   {
-   "symbol": "NVRO",
-   "name": "EnviroGold Global Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NVRO.V",
-   "instruments": [
-    {
-     "name": "Envirogold Global Limited",
-     "symbol": "NVRO"
-    }
-   ]
-  },
-  {
-   "symbol": "RM",
-   "name": "Roxmore Resources Inc.",
+   "symbol": "ZDIV",
+   "name": "BMO MSCI Canada IMI High Dividend Yield Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "RM.TO",
+   "yahoo_symbol": "ZDIV.TO",
    "instruments": [
     {
-     "name": "Roxmore Resources In",
-     "symbol": "RM"
+     "name": "BMO MSCI CAN IMI HDY",
+     "symbol": "ZDIV"
     }
    ]
   },
   {
-   "symbol": "COID",
-   "name": "SavvyShort (-2X) COIN ETF",
+   "symbol": "ZESM",
+   "name": "BMO MSCI EAFE Small-Mid Cap Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "COID.TO",
+   "yahoo_symbol": "ZESM.TO",
    "instruments": [
     {
-     "name": "SavvyShort 2X CN ETF",
-     "symbol": "COID"
+     "name": "BMO MS EA Sm M Cp I",
+     "symbol": "ZESM"
     }
    ]
   },
   {
-   "symbol": "MSTZ",
-   "name": "SavvyShort (-2X) MSTR ETF",
+   "symbol": "ZEQL",
+   "name": "BMO MSCI USA Equal Weight Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "MSTZ.TO",
+   "yahoo_symbol": "ZEQL.TO",
    "instruments": [
     {
-     "name": "SavvyShort 2X MSTR E",
-     "symbol": "MSTZ"
+     "name": "BMO MSCU US Eq W I E",
+     "symbol": "ZEQL"
+    },
+    {
+     "name": "BMO MSCU US EW InE F",
+     "symbol": "ZEQL.F"
+    },
+    {
+     "name": "BMO MSCU US EW IE US",
+     "symbol": "ZEQL.U"
     }
    ]
   },
   {
-   "symbol": "BOBS",
-   "name": "Bob's Discount Furniture, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BOBS"
-  },
-  {
-   "symbol": "C$R",
-   "name": "Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.250% Noncumulative Preferred Stock, Series II",
-   "exchange": "NYSE",
-   "yahoo_symbol": "C$R"
-  },
-  {
-   "symbol": "DCH",
-   "name": "Dauch Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DCH"
-  },
-  {
-   "symbol": "FPS",
-   "name": "Forgent Power Solutions, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FPS"
-  },
-  {
-   "symbol": "JRI.V",
-   "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JRI.V"
-  },
-  {
-   "symbol": "OBAI",
-   "name": "TG-17, Inc. - Common Stock",
+   "symbol": "BRES",
+   "name": "Burney U.S. Equity Select ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OBAI"
+   "yahoo_symbol": "BRES"
   },
   {
-   "symbol": "RWAYI",
-   "name": "Runway Growth Finance Corp. - 7.25% Notes due 2031",
+   "symbol": "CEPS",
+   "name": "Cantor Equity Partners VI, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPS"
+  },
+  {
+   "symbol": "EIKN",
+   "name": "Eikon Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RWAYI"
+   "yahoo_symbol": "EIKN"
   },
   {
-   "symbol": "ZKP",
-   "name": "Lafayette Digital Acquisition Corp. I - Class A Ordinary Shares",
+   "symbol": "HCICU",
+   "name": "Hennessy Capital Investment Corp. VIII - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZKP"
+   "yahoo_symbol": "HCICU"
   },
   {
-   "symbol": "ZKPW",
-   "name": "Lafayette Digital Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZKPW"
+   "symbol": "VSECU",
+   "name": "VSE Corporation - Tangible Equity Units",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VSECU"
+  },
+  {
+   "symbol": "BEBE",
+   "name": "TGE Value Creative Solutions Corp Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BEBE"
+  },
+  {
+   "symbol": "BEBE.W",
+   "name": "TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BEBE.W"
+  },
+  {
+   "symbol": "OFRM",
+   "name": "Once Upon a Farm, PBC Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OFRM"
   }
  ],
  "removed": [
   {
-   "symbol": "IBO",
-   "name": "Universal Ibogaine Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IBO.V",
-   "instruments": [
-    {
-     "name": "Universal Ibogaine Inc.",
-     "symbol": "IBO"
-    }
-   ]
-  },
-  {
-   "symbol": "AXL",
-   "name": "American Axle \u0026 Manufacturing Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AXL"
-  },
-  {
-   "symbol": "NVA",
-   "name": "NuVista Energy Ltd.",
+   "symbol": "DAY",
+   "name": "Dayforce, Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "NVA.TO",
+   "yahoo_symbol": "DAY.TO",
    "instruments": [
     {
-     "name": "NuVista Energy Ltd.",
-     "symbol": "NVA"
+     "name": "Dayforce Inc",
+     "symbol": "DAY"
     }
    ]
+  },
+  {
+   "symbol": "ODD",
+   "name": "Odd Burger Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ODD.V",
+   "instruments": [
+    {
+     "name": "Odd Burger Corporation",
+     "symbol": "ODD"
+    }
+   ]
+  },
+  {
+   "symbol": "LMND.W",
+   "name": "Lemonade, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LMND.W"
   }
  ]
 }
