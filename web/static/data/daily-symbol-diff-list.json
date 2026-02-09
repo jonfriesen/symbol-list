@@ -1,128 +1,192 @@
 {
  "added": [
   {
-   "symbol": "ZDIV",
-   "name": "BMO MSCI Canada IMI High Dividend Yield Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZDIV.TO",
+   "symbol": "CLZ",
+   "name": "Canasil Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLZ.V",
    "instruments": [
     {
-     "name": "BMO MSCI CAN IMI HDY",
-     "symbol": "ZDIV"
+     "name": "Canasil Resources Inc.",
+     "symbol": "CLZ"
     }
    ]
   },
   {
-   "symbol": "ZESM",
-   "name": "BMO MSCI EAFE Small-Mid Cap Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZESM.TO",
+   "symbol": "UTWO",
+   "name": "Sprock-It Acquisitions Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UTWO.V",
    "instruments": [
     {
-     "name": "BMO MS EA Sm M Cp I",
-     "symbol": "ZESM"
+     "name": "U92 Energy Corp.",
+     "symbol": "UTWO"
     }
    ]
   },
   {
-   "symbol": "ZEQL",
-   "name": "BMO MSCI USA Equal Weight Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZEQL.TO",
-   "instruments": [
-    {
-     "name": "BMO MSCU US Eq W I E",
-     "symbol": "ZEQL"
-    },
-    {
-     "name": "BMO MSCU US EW InE F",
-     "symbol": "ZEQL.F"
-    },
-    {
-     "name": "BMO MSCU US EW IE US",
-     "symbol": "ZEQL.U"
-    }
-   ]
-  },
-  {
-   "symbol": "BRES",
-   "name": "Burney U.S. Equity Select ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRES"
-  },
-  {
-   "symbol": "CEPS",
-   "name": "Cantor Equity Partners VI, Inc. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CEPS"
-  },
-  {
-   "symbol": "EIKN",
-   "name": "Eikon Therapeutics, Inc. - Common Stock",
+   "symbol": "AGMB",
+   "name": "AgomAb Therapeutics NV - ADRs representing one common share.",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EIKN"
+   "yahoo_symbol": "AGMB"
   },
   {
-   "symbol": "HCICU",
-   "name": "Hennessy Capital Investment Corp. VIII - Units",
+   "symbol": "CAQUU",
+   "name": "Cambridge Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCICU"
+   "yahoo_symbol": "CAQUU"
   },
   {
-   "symbol": "VSECU",
-   "name": "VSE Corporation - Tangible Equity Units",
+   "symbol": "DFNS",
+   "name": "T3 Defense Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DFNS"
+  },
+  {
+   "symbol": "DFNSW",
+   "name": "T3 Defense Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DFNSW"
+  },
+  {
+   "symbol": "ERNAW",
+   "name": "Ernexa Therapeutics Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERNAW"
+  },
+  {
+   "symbol": "IRHO",
+   "name": "Iron Horse Acquisitions II Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IRHO"
+  },
+  {
+   "symbol": "IRHOR",
+   "name": "Iron Horse Acquisitions II Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IRHOR"
+  },
+  {
+   "symbol": "MSLE",
+   "name": "Satellos Bioscience Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSLE"
+  },
+  {
+   "symbol": "SGP",
+   "name": "SpyGlass Pharma, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VSECU"
+   "yahoo_symbol": "SGP"
   },
   {
-   "symbol": "BEBE",
-   "name": "TGE Value Creative Solutions Corp Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BEBE"
-  },
-  {
-   "symbol": "BEBE.W",
-   "name": "TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BEBE.W"
-  },
-  {
-   "symbol": "OFRM",
-   "name": "Once Upon a Farm, PBC Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OFRM"
+   "symbol": "SSACU",
+   "name": "SPACSphere Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SSACU"
   }
  ],
  "removed": [
   {
-   "symbol": "DAY",
-   "name": "Dayforce, Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "DAY.TO",
-   "instruments": [
-    {
-     "name": "Dayforce Inc",
-     "symbol": "DAY"
-    }
-   ]
+   "symbol": "BFK",
+   "name": "BlackRock Municipal Income Trust",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFK"
   },
   {
-   "symbol": "ODD",
-   "name": "Odd Burger Corporation",
+   "symbol": "CREVW",
+   "name": "Carbon Revolution Public Limited Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CREVW"
+  },
+  {
+   "symbol": "BNY",
+   "name": "BlackRock New York Municipal Income Trust",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNY"
+  },
+  {
+   "symbol": "MHN",
+   "name": "Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MHN"
+  },
+  {
+   "symbol": "NUKK",
+   "name": "Nukkleus Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUKK"
+  },
+  {
+   "symbol": "BYM",
+   "name": "Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BYM"
+  },
+  {
+   "symbol": "EXEEZ",
+   "name": "Expand Energy Corporation - Class B Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EXEEZ"
+  },
+  {
+   "symbol": "EXEEL",
+   "name": "Expand Energy Corporation - Class C Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EXEEL"
+  },
+  {
+   "symbol": "NUKKW",
+   "name": "Nukkleus Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUKKW"
+  },
+  {
+   "symbol": "CREV",
+   "name": "Carbon Revolution Public Limited Company - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CREV"
+  },
+  {
+   "symbol": "BFZ",
+   "name": "BlackRock California Municipal Income Trust",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFZ"
+  },
+  {
+   "symbol": "EXEEW",
+   "name": "Expand Energy Corporation - Class A Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EXEEW"
+  },
+  {
+   "symbol": "VERO",
+   "name": "Venus Concept Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VERO"
+  },
+  {
+   "symbol": "MUE",
+   "name": "Blackrock MuniHoldings Quality Fund II, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MUE"
+  },
+  {
+   "symbol": "SPRO.P",
+   "name": "Sprock-It Acquisitions Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ODD.V",
+   "yahoo_symbol": "SPRO.P.V",
    "instruments": [
     {
-     "name": "Odd Burger Corporation",
-     "symbol": "ODD"
+     "name": "Sprock-It Acquisitions Ltd.",
+     "symbol": "SPRO.P"
     }
    ]
   },
   {
-   "symbol": "LMND.W",
-   "name": "Lemonade, Inc. Warrants",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LMND.W"
+   "symbol": "BLE",
+   "name": "BlackRock Municipal Income Trust II",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BLE"
   }
  ]
 }

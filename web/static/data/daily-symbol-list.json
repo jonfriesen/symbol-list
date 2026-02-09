@@ -1,5 +1,5 @@
 {
- "date": "2026-02-06",
+ "date": "2026-02-09",
  "data": [
   {
    "symbol": "ONE",
@@ -2906,6 +2906,18 @@
     {
      "name": "Canasia Energy Corp.",
      "symbol": "CEC"
+    }
+   ]
+  },
+  {
+   "symbol": "CLZ",
+   "name": "Canasil Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLZ.V",
+   "instruments": [
+    {
+     "name": "Canasil Resources Inc.",
+     "symbol": "CLZ"
     }
    ]
   },
@@ -14448,10 +14460,6 @@
      "symbol": "AGMR"
     },
     {
-     "name": "Silver Mountain Resources Inc. wts A 09Feb2026",
-     "symbol": "AGMR.WT.A"
-    },
-    {
      "name": "Silver Mountain Resources Inc. wts B 24Apr2028",
      "symbol": "AGMR.WT.B"
     }
@@ -15086,14 +15094,14 @@
    ]
   },
   {
-   "symbol": "SPRO.P",
+   "symbol": "UTWO",
    "name": "Sprock-It Acquisitions Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SPRO.P.V",
+   "yahoo_symbol": "UTWO.V",
    "instruments": [
     {
-     "name": "Sprock-It Acquisitions Ltd.",
-     "symbol": "SPRO.P"
+     "name": "U92 Energy Corp.",
+     "symbol": "UTWO"
     }
    ]
   },
@@ -26262,6 +26270,10 @@
     {
      "name": "Divers Rylty 6% Deb",
      "symbol": "DIV.DB.A"
+    },
+    {
+     "name": "Divers Rylty 5.75 De",
+     "symbol": "DIV.DB.B"
     }
    ]
   },
@@ -46972,6 +46984,12 @@
    "yahoo_symbol": "AGIX"
   },
   {
+   "symbol": "AGMB",
+   "name": "AgomAb Therapeutics NV - ADRs representing one common share.",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AGMB"
+  },
+  {
    "symbol": "AGMH",
    "name": "AGM Group Holdings Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -51238,6 +51256,12 @@
    "yahoo_symbol": "CAPTW"
   },
   {
+   "symbol": "CAQUU",
+   "name": "Cambridge Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAQUU"
+  },
+  {
    "symbol": "CAR",
    "name": "Avis Budget Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53074,18 +53098,6 @@
    "yahoo_symbol": "CRESY"
   },
   {
-   "symbol": "CREV",
-   "name": "Carbon Revolution Public Limited Company - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CREV"
-  },
-  {
-   "symbol": "CREVW",
-   "name": "Carbon Revolution Public Limited Company - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CREVW"
-  },
-  {
    "symbol": "CREX",
    "name": "Creative Realities, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -53918,6 +53930,18 @@
    "name": "Dragonfly Energy Holdings Corp - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DFLIW"
+  },
+  {
+   "symbol": "DFNS",
+   "name": "T3 Defense Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DFNS"
+  },
+  {
+   "symbol": "DFNSW",
+   "name": "T3 Defense Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DFNSW"
   },
   {
    "symbol": "DFSC",
@@ -55456,6 +55480,12 @@
    "yahoo_symbol": "ERNA"
   },
   {
+   "symbol": "ERNAW",
+   "name": "Ernexa Therapeutics Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERNAW"
+  },
+  {
    "symbol": "ERNZ",
    "name": "TrueShares Active Yield ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -55826,24 +55856,6 @@
    "name": "Expand Energy Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "EXE"
-  },
-  {
-   "symbol": "EXEEL",
-   "name": "Expand Energy Corporation - Class C Warrants",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EXEEL"
-  },
-  {
-   "symbol": "EXEEW",
-   "name": "Expand Energy Corporation - Class A Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EXEEW"
-  },
-  {
-   "symbol": "EXEEZ",
-   "name": "Expand Energy Corporation - Class B Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EXEEZ"
   },
   {
    "symbol": "EXEL",
@@ -60994,6 +61006,18 @@
    "yahoo_symbol": "IREN"
   },
   {
+   "symbol": "IRHO",
+   "name": "Iron Horse Acquisitions II Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IRHO"
+  },
+  {
+   "symbol": "IRHOR",
+   "name": "Iron Horse Acquisitions II Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IRHOR"
+  },
+  {
    "symbol": "IRHOU",
    "name": "Iron Horse Acquisitions II Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -63245,7 +63269,7 @@
   },
   {
    "symbol": "LTRYW",
-   "name": "Lottery.com, Inc. - Warrant",
+   "name": "Sports Entertainment Gaming Global Corporation  - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LTRYW"
   },
@@ -64768,6 +64792,12 @@
    "yahoo_symbol": "MSGY"
   },
   {
+   "symbol": "MSLE",
+   "name": "Satellos Bioscience Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSLE"
+  },
+  {
    "symbol": "MSS",
    "name": "Maison Solutions Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -65291,7 +65321,7 @@
   },
   {
    "symbol": "NCIQ",
-   "name": "Hashdex Nasdaq Crypto Index US ETF",
+   "name": "Hashdex Nasdaq CME Crypto Index ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NCIQ"
   },
@@ -66146,18 +66176,6 @@
    "name": "GraniteShares YieldBOOST Gold Miners ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NUGY"
-  },
-  {
-   "symbol": "NUKK",
-   "name": "Nukkleus Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUKK"
-  },
-  {
-   "symbol": "NUKKW",
-   "name": "Nukkleus Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NUKKW"
   },
   {
    "symbol": "NUSB",
@@ -71441,7 +71459,7 @@
   },
   {
    "symbol": "SEGG",
-   "name": "Lottery.com, Inc. - Common Stock",
+   "name": "Sports Entertainment Gaming Global Corporation  - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SEGG"
   },
@@ -71636,6 +71654,12 @@
    "name": "Sagimet Biosciences Inc. - Series A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SGMT"
+  },
+  {
+   "symbol": "SGP",
+   "name": "SpyGlass Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SGP"
   },
   {
    "symbol": "SGRP",
@@ -72848,6 +72872,12 @@
    "name": "Surrozen, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SRZNW"
+  },
+  {
+   "symbol": "SSACU",
+   "name": "SPACSphere Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SSACU"
   },
   {
    "symbol": "SSBI",
@@ -75788,12 +75818,6 @@
    "name": "Veritone, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VERI"
-  },
-  {
-   "symbol": "VERO",
-   "name": "Venus Concept Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VERO"
   },
   {
    "symbol": "VERU",
@@ -80170,12 +80194,6 @@
    "yahoo_symbol": "BFH$A"
   },
   {
-   "symbol": "BFK",
-   "name": "BlackRock Municipal Income Trust",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BFK"
-  },
-  {
    "symbol": "BFLY",
    "name": "Butterfly Network, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -80198,12 +80216,6 @@
    "name": "Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BFS$E"
-  },
-  {
-   "symbol": "BFZ",
-   "name": "BlackRock California Municipal Income Trust",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BFZ"
   },
   {
    "symbol": "BG",
@@ -80548,12 +80560,6 @@
    "yahoo_symbol": "BLDR"
   },
   {
-   "symbol": "BLE",
-   "name": "BlackRock Municipal Income Trust II",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BLE"
-  },
-  {
    "symbol": "BLK",
    "name": "BlackRock, Inc. Common Stock",
    "exchange": "NYSE",
@@ -80696,12 +80702,6 @@
    "name": "Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "BNT"
-  },
-  {
-   "symbol": "BNY",
-   "name": "BlackRock New York Municipal Income Trust",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BNY"
   },
   {
    "symbol": "BOBS",
@@ -81122,12 +81122,6 @@
    "name": "Boyd Gaming Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "BYD"
-  },
-  {
-   "symbol": "BYM",
-   "name": "Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BYM"
   },
   {
    "symbol": "BZH",
@@ -88786,12 +88780,6 @@
    "yahoo_symbol": "MHLA"
   },
   {
-   "symbol": "MHN",
-   "name": "Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MHN"
-  },
-  {
    "symbol": "MHNC",
    "name": "Maiden Holdings North America, Ltd. 7.75% Notes due 2043",
    "exchange": "NYSE",
@@ -89396,12 +89384,6 @@
    "name": "Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "MUC"
-  },
-  {
-   "symbol": "MUE",
-   "name": "Blackrock MuniHoldings Quality Fund II, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MUE"
   },
   {
    "symbol": "MUFG",
