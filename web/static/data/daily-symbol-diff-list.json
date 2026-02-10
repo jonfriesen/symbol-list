@@ -1,192 +1,120 @@
 {
  "added": [
   {
-   "symbol": "CLZ",
-   "name": "Canasil Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CLZ.V",
-   "instruments": [
-    {
-     "name": "Canasil Resources Inc.",
-     "symbol": "CLZ"
-    }
-   ]
+   "symbol": "ADAC",
+   "name": "American Drive Acquisition Company - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADAC"
   },
   {
-   "symbol": "UTWO",
-   "name": "Sprock-It Acquisitions Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "UTWO.V",
-   "instruments": [
-    {
-     "name": "U92 Energy Corp.",
-     "symbol": "UTWO"
-    }
-   ]
+   "symbol": "ADACW",
+   "name": "American Drive Acquisition Company - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADACW"
   },
   {
-   "symbol": "AGMB",
-   "name": "AgomAb Therapeutics NV - ADRs representing one common share.",
+   "symbol": "CCXI",
+   "name": "Churchill Capital Corp XI - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXI"
+  },
+  {
+   "symbol": "CCXIW",
+   "name": "Churchill Capital Corp XI - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXIW"
+  },
+  {
+   "symbol": "FCNCN",
+   "name": "First Citizens BancShares, Inc. - Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AGMB"
+   "yahoo_symbol": "FCNCN"
   },
   {
-   "symbol": "CAQUU",
-   "name": "Cambridge Acquisition Corp. - Unit",
+   "symbol": "LPCV",
+   "name": "Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAQUU"
+   "yahoo_symbol": "LPCV"
   },
   {
-   "symbol": "DFNS",
-   "name": "T3 Defense Inc. - Common Stock",
+   "symbol": "LPCVW",
+   "name": "Launchpad Cadenza Acquisition Corp I - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DFNS"
+   "yahoo_symbol": "LPCVW"
   },
   {
-   "symbol": "DFNSW",
-   "name": "T3 Defense Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DFNSW"
-  },
-  {
-   "symbol": "ERNAW",
-   "name": "Ernexa Therapeutics Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ERNAW"
-  },
-  {
-   "symbol": "IRHO",
-   "name": "Iron Horse Acquisitions II Corp. - Common Stock",
+   "symbol": "VHCP",
+   "name": "Vine Hill Capital Investment Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IRHO"
+   "yahoo_symbol": "VHCP"
   },
   {
-   "symbol": "IRHOR",
-   "name": "Iron Horse Acquisitions II Corp. - Rights",
+   "symbol": "VHCPW",
+   "name": "Vine Hill Capital Investment Corp. II - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IRHOR"
+   "yahoo_symbol": "VHCPW"
   },
   {
-   "symbol": "MSLE",
-   "name": "Satellos Bioscience Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSLE"
+   "symbol": "JAGU",
+   "name": "Jaguar Uranium Corp. Class A Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JAGU"
   },
   {
-   "symbol": "SGP",
-   "name": "SpyGlass Pharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SGP"
+   "symbol": "JRI.R",
+   "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JRI.R"
   },
   {
-   "symbol": "SSACU",
-   "name": "SPACSphere Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SSACU"
+   "symbol": "ORCL$D",
+   "name": "Oracle Corporation Depositary Shares, each representing a 1/2,000th interest in a sh of 6.50% Series D Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ORCL$D"
   }
  ],
  "removed": [
   {
-   "symbol": "BFK",
-   "name": "BlackRock Municipal Income Trust",
+   "symbol": "HI",
+   "name": "Hillenbrand Inc Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "BFK"
+   "yahoo_symbol": "HI"
   },
   {
-   "symbol": "CREVW",
-   "name": "Carbon Revolution Public Limited Company - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CREVW"
-  },
-  {
-   "symbol": "BNY",
-   "name": "BlackRock New York Municipal Income Trust",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BNY"
-  },
-  {
-   "symbol": "MHN",
-   "name": "Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MHN"
-  },
-  {
-   "symbol": "NUKK",
-   "name": "Nukkleus Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUKK"
-  },
-  {
-   "symbol": "BYM",
-   "name": "Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BYM"
-  },
-  {
-   "symbol": "EXEEZ",
-   "name": "Expand Energy Corporation - Class B Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EXEEZ"
-  },
-  {
-   "symbol": "EXEEL",
-   "name": "Expand Energy Corporation - Class C Warrants",
+   "symbol": "GBIO",
+   "name": "Generation Bio Co. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EXEEL"
+   "yahoo_symbol": "GBIO"
   },
   {
-   "symbol": "NUKKW",
-   "name": "Nukkleus Inc. - Warrants",
+   "symbol": "EZRAW",
+   "name": "Reliance Global Group, Inc. - Series A Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NUKKW"
+   "yahoo_symbol": "EZRAW"
   },
   {
-   "symbol": "CREV",
-   "name": "Carbon Revolution Public Limited Company - Ordinary Shares",
+   "symbol": "JRI.V",
+   "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JRI.V"
+  },
+  {
+   "symbol": "STAI",
+   "name": "ScanTech AI Systems Inc. - Common stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CREV"
+   "yahoo_symbol": "STAI"
   },
   {
-   "symbol": "BFZ",
-   "name": "BlackRock California Municipal Income Trust",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BFZ"
-  },
-  {
-   "symbol": "EXEEW",
-   "name": "Expand Energy Corporation - Class A Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EXEEW"
-  },
-  {
-   "symbol": "VERO",
-   "name": "Venus Concept Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VERO"
-  },
-  {
-   "symbol": "MUE",
-   "name": "Blackrock MuniHoldings Quality Fund II, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MUE"
-  },
-  {
-   "symbol": "SPRO.P",
-   "name": "Sprock-It Acquisitions Ltd.",
+   "symbol": "TRBR",
+   "name": "TRUBAR Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SPRO.P.V",
+   "yahoo_symbol": "TRBR.V",
    "instruments": [
     {
-     "name": "Sprock-It Acquisitions Ltd.",
-     "symbol": "SPRO.P"
+     "name": "TRUBAR Inc.",
+     "symbol": "TRBR"
     }
    ]
-  },
-  {
-   "symbol": "BLE",
-   "name": "BlackRock Municipal Income Trust II",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BLE"
   }
  ]
 }
