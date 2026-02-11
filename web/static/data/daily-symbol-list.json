@@ -1,5 +1,5 @@
 {
- "date": "2026-02-10",
+ "date": "2026-02-11",
  "data": [
   {
    "symbol": "IGBT.UN",
@@ -12746,18 +12746,6 @@
     {
      "name": "GblX HiIntSvgs ETF A",
      "symbol": "CASH"
-    }
-   ]
-  },
-  {
-   "symbol": "FOUR",
-   "name": "Global X Industry 4.0 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FOUR.TO",
-   "instruments": [
-    {
-     "name": "GblX Indust 4.0Inx A",
-     "symbol": "FOUR"
     }
    ]
   },
@@ -43370,18 +43358,6 @@
    ]
   },
   {
-   "symbol": "UTWO",
-   "name": "Sprock-It Acquisitions Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "UTWO.V",
-   "instruments": [
-    {
-     "name": "U92 Energy Corp.",
-     "symbol": "UTWO"
-    }
-   ]
-  },
-  {
    "symbol": "SRQ",
    "name": "SRQ Resources Inc.",
    "exchange": "TSXV",
@@ -44730,6 +44706,18 @@
     {
      "name": "Tvi Pacific Inc.",
      "symbol": "TVI"
+    }
+   ]
+  },
+  {
+   "symbol": "UTWO",
+   "name": "U92 Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UTWO.V",
+   "instruments": [
+    {
+     "name": "U92 Energy Corp.",
+     "symbol": "UTWO"
     }
    ]
   },
@@ -47144,6 +47132,12 @@
    "name": "Ainos, Inc. - warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AIMDW"
+  },
+  {
+   "symbol": "AIMS",
+   "name": "Acuitas Small Cap Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIMS"
   },
   {
    "symbol": "AIOT",
@@ -53164,6 +53158,12 @@
    "yahoo_symbol": "CRMT"
   },
   {
+   "symbol": "CRMU",
+   "name": "Leverage Shares 2x Long CRML Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRMU"
+  },
+  {
    "symbol": "CRNC",
    "name": "Cerence Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -54256,6 +54256,12 @@
    "yahoo_symbol": "DNMXW"
   },
   {
+   "symbol": "DNNG",
+   "name": "Leverage Shares 2x Long DNN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DNNG"
+  },
+  {
    "symbol": "DNTH",
    "name": "Dianthus Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -54584,12 +54590,6 @@
    "name": "BrandywineGLOBAL-Dynamic US Large Cap Value ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DVAL"
-  },
-  {
-   "symbol": "DVAX",
-   "name": "Dynavax Technologies Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DVAX"
   },
   {
    "symbol": "DVGR",
@@ -73324,6 +73324,12 @@
    "yahoo_symbol": "SVCO"
   },
   {
+   "symbol": "SVIVU",
+   "name": "Spring Valley Acquisition Corp. IV - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIVU"
+  },
+  {
    "symbol": "SVRA",
    "name": "Savara, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -75116,6 +75122,12 @@
    "name": "Udemy, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "UDMY"
+  },
+  {
+   "symbol": "UECG",
+   "name": "Leverage Shares 2x Long UEC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UECG"
   },
   {
    "symbol": "UEIC",
@@ -78368,6 +78380,12 @@
    "name": "First Majestic Silver Corp. Ordinary Shares (Canada)",
    "exchange": "NYSE",
    "yahoo_symbol": "AG"
+  },
+  {
+   "symbol": "AGBK",
+   "name": "AGI Inc Class A Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGBK"
   },
   {
    "symbol": "AGCO",
@@ -92092,12 +92110,6 @@
    "yahoo_symbol": "PWR"
   },
   {
-   "symbol": "PX",
-   "name": "P10, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PX"
-  },
-  {
    "symbol": "PXED",
    "name": "Phoenix Education Partners, Inc. Common Stock",
    "exchange": "NYSE",
@@ -92734,6 +92746,12 @@
    "yahoo_symbol": "ROLR"
   },
   {
+   "symbol": "RPC",
+   "name": "Ridgepost Capital, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RPC"
+  },
+  {
    "symbol": "RPM",
    "name": "RPM International Inc. Common Stock",
    "exchange": "NYSE",
@@ -93026,6 +93044,12 @@
    "name": "Saratoga Investment Corp 6.00% Notes due 2027",
    "exchange": "NYSE",
    "yahoo_symbol": "SAT"
+  },
+  {
+   "symbol": "SAV",
+   "name": "Saratoga Investment Corp 7.50% Notes due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAV"
   },
   {
    "symbol": "SAY",
@@ -94730,12 +94754,6 @@
    "name": "Thermon Group Holdings, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "THR"
-  },
-  {
-   "symbol": "THS",
-   "name": "Treehouse Foods, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "THS"
   },
   {
    "symbol": "THW",

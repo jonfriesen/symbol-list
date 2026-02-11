@@ -933,7 +933,6 @@ HGY,Global X Gold Yield ETF,TSX,HGY.TO,Glbl X Gld Yld ETF,HGY
 GRCC,Global X Growth Asset Allocation Covered Call ETF,TSX,GRCC.TO,GblX GroAstAlocCvCl,GRCC
 HGRW,Global X Growth Asset Allocation ETF,TSX,HGRW.TO,GblX GroAsstAlloc,HGRW
 CASH,Global X High Interest Savings ETF,TSX,CASH.TO,GblX HiIntSvgs ETF A,CASH
-FOUR,Global X Industry 4.0 Index ETF,TSX,FOUR.TO,GblX Indust 4.0Inx A,FOUR
 TTTX,Global X Innovative Bluechip Top 10 Index ETF,TSX,TTTX.TO,GblX InoBluechipT100,TTTX
 INOC,Global X Inovestor Canadian Equity Index ETF,TSX,INOC.TO,GblX InovestCdnEq,INOC
 HXDM,Global X Intl Developed Markets Equity Index Corporate Class ETF,TSX,HXDM.TO,GblX IntlDivMkts Eq,HXDM,GblX IntlDivMktEqUS,HXDM.U
@@ -3357,7 +3356,6 @@ SRI,Sparton Resources Inc.,TSXV,SRI.V,Sparton Resources Inc.,SRI
 SPC,SPC Nickel Corp.,TSXV,SPC.V,SPC Nickel Corp.,SPC
 SSA,Spectra Products Inc.,TSXV,SSA.V,Spectra Products Inc.,SSA
 SOO.P,Spectre Capital Corp.,TSXV,SOO.P.V,Spectre Capital Corp.,SOO.P
-UTWO,Sprock-It Acquisitions Ltd.,TSXV,UTWO.V,U92 Energy Corp.,UTWO
 SRQ,SRQ Resources Inc.,TSXV,SRQ.V,SRQ Resources Inc.,SRQ
 SECU,SSC Security Services Corp.,TSXV,SECU.V,SSC Security Services Corp.,SECU
 SDCI.P,St. Davids Capital Inc.,TSXV,SDCI.P.V,St. Davids Capital Inc.,SDCI.P
@@ -3470,6 +3468,7 @@ TUD,Tudor Gold Corp.,TSXV,TUD.V,Tudor Gold Corp.,TUD
 TUK,Tuktu Resources Ltd.,TSXV,TUK.V,Tuktu Resources Ltd.,TUK,TUKTU RESOURCES LTD wt23Nov2026,TUK.WT
 TTGI,Turnium Technology Group Inc.,TSXV,TTGI.V,Turnium Technology Group Inc.,TTGI
 TVI,Tvi Pacific Inc.,TSXV,TVI.V,Tvi Pacific Inc.,TVI
+UTWO,U92 Energy Corp.,TSXV,UTWO.V,U92 Energy Corp.,UTWO
 UCU,Ucore Rare Metals Inc.,TSXV,UCU.V,Ucore Rare Metals Inc.,UCU
 ULT,Ultra Lithium Inc.,TSXV,ULT.V,Ultra Lithium Inc.,ULT
 UGD,Unigold Inc.,TSXV,UGD.V,Unigold Inc.,UGD
@@ -3753,6 +3752,7 @@ AIIO,Robo.ai Inc. - Class B Ordinary Shares,NASDAQ Capital Market,AIIO
 AIIOW,Robo.ai Inc. - Warrant,NASDAQ Capital Market,AIIOW
 AIMD,"Ainos, Inc. - Common Stock",NASDAQ Capital Market,AIMD
 AIMDW,"Ainos, Inc. - warrants",NASDAQ Capital Market,AIMDW
+AIMS,Acuitas Small Cap Active ETF,NASDAQ Global MarketSM,AIMS
 AIOT,"PowerFleet, Inc. - Common Stock",NASDAQ Global MarketSM,AIOT
 AIP,"Arteris, Inc.  - Common Stock",NASDAQ Global MarketSM,AIP
 AIPI,REX AI Equity Premium Income ETF,NASDAQ Global MarketSM,AIPI
@@ -4756,6 +4756,7 @@ CRMG,Leverage Shares 2X Long CRM Daily ETF,NASDAQ Global MarketSM,CRMG
 CRML,Critical Metals Corp. - Ordinary Shares,NASDAQ Global MarketSM,CRML
 CRMLW,Critical Metals Corp. - Warrants,NASDAQ Capital Market,CRMLW
 CRMT,"America's Car-Mart, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRMT
+CRMU,Leverage Shares 2x Long CRML Daily ETF,NASDAQ Global MarketSM,CRMU
 CRNC,Cerence Inc. - Common Stock,NASDAQ Global Select MarketSM,CRNC
 CRNT,Ceragon Networks Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,CRNT
 CRNX,"Crinetics Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRNX
@@ -4938,6 +4939,7 @@ DNLI,Denali Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,DNLI
 DNMX,Dynamix Corporation III - Class A Ordinary Shares,NASDAQ Global MarketSM,DNMX
 DNMXU,Dynamix Corporation III - Unit,NASDAQ Global MarketSM,DNMXU
 DNMXW,Dynamix Corporation III - Warrants,NASDAQ Global MarketSM,DNMXW
+DNNG,Leverage Shares 2x Long DNN Daily ETF,NASDAQ Global MarketSM,DNNG
 DNTH,"Dianthus Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,DNTH
 DNUT,"Krispy Kreme, Inc. - Common Stock",NASDAQ Global Select MarketSM,DNUT
 DOCU,"DocuSign, Inc. - Common Stock",NASDAQ Global Select MarketSM,DOCU
@@ -4993,7 +4995,6 @@ DUOG,Leverage Shares 2X Long DUOL Daily ETF,NASDAQ Global MarketSM,DUOG
 DUOL,"Duolingo, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,DUOL
 DUOT,"Duos Technologies Group, Inc. - Common Stock",NASDAQ Capital Market,DUOT
 DVAL,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,NASDAQ Global MarketSM,DVAL
-DVAX,Dynavax Technologies Corporation - Common Stock,NASDAQ Global Select MarketSM,DVAX
 DVGR,DAC 3D Dividend Growth ETF,NASDAQ Global MarketSM,DVGR
 DVIN,WEBs Industrials XLI Defined Volatility ETF,NASDAQ Global MarketSM,DVIN
 DVLT,Datavault AI Inc. - Common Stock,NASDAQ Capital Market,DVLT
@@ -8116,6 +8117,7 @@ SVCC,Stellar V Capital Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,SV
 SVCCU,Stellar V Capital Corp. - Unit,NASDAQ Global MarketSM,SVCCU
 SVCCW,Stellar V Capital Corp. - Warrant,NASDAQ Global MarketSM,SVCCW
 SVCO,"Silvaco Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,SVCO
+SVIVU,Spring Valley Acquisition Corp. IV - Units,NASDAQ Global MarketSM,SVIVU
 SVRA,"Savara, Inc. - Common Stock",NASDAQ Global Select MarketSM,SVRA
 SVRE,SaverOne 2014 Ltd. - American Depositary Shares,NASDAQ Capital Market,SVRE
 SVREW,SaverOne 2014 Ltd. - Warrant,NASDAQ Capital Market,SVREW
@@ -8415,6 +8417,7 @@ UCRD,VictoryShares Corporate Bond ETF,NASDAQ Global MarketSM,UCRD
 UCTT,"Ultra Clean Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,UCTT
 UCYB,ProShares Ultra Nasdaq Cybersecurity,NASDAQ Global MarketSM,UCYB
 UDMY,"Udemy, Inc. - Common Stock",NASDAQ Global Select MarketSM,UDMY
+UECG,Leverage Shares 2x Long UEC Daily ETF,NASDAQ Global MarketSM,UECG
 UEIC,Universal Electronics Inc. - Common Stock,NASDAQ Global Select MarketSM,UEIC
 UEVM,VictoryShares Emerging Markets Value Momentum ETF,NASDAQ Global MarketSM,UEVM
 UFCS,"United Fire Group, Inc - Common Stock",NASDAQ Global Select MarketSM,UFCS
@@ -8957,6 +8960,7 @@ AFGD,"American Financial Group, Inc. 5.625% Subordinated Debentures due 2060",NY
 AFGE,"American Financial Group, Inc. 4.500% Subordinated Debentures due 2060",NYSE,AFGE
 AFL,AFLAC Incorporated Common Stock,NYSE,AFL
 AG,First Majestic Silver Corp. Ordinary Shares (Canada),NYSE,AG
+AGBK,AGI Inc Class A Common Shares,NYSE,AGBK
 AGCO,AGCO Corporation Common Stock,NYSE,AGCO
 AGD,abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest,NYSE,AGD
 AGI,Alamos Gold Inc. Class A Common Shares,NYSE,AGI
@@ -11244,7 +11248,6 @@ PVL,Permianville Royalty Trust Units of Beneficial Interest,NYSE,PVL
 PW,Power REIT (MD) Common Stock,NYSE MKT,PW
 PW$A,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,NYSE MKT,PW$A
 PWR,"Quanta Services, Inc. Common Stock",NYSE,PWR
-PX,"P10, Inc. Class A Common Stock",NYSE,PX
 PXED,"Phoenix Education Partners, Inc. Common Stock",NYSE,PXED
 PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,PYT
 PZG,Paramount Gold Nevada Corp. Common Stock,NYSE MKT,PZG
@@ -11351,6 +11354,7 @@ ROG,Rogers Corporation Common Stock,NYSE,ROG
 ROK,"Rockwell Automation, Inc. Common Stock",NYSE,ROK
 ROL,"Rollins, Inc. Common Stock",NYSE,ROL
 ROLR,"High Roller Technologies, Inc. Common Stock",NYSE MKT,ROLR
+RPC,"Ridgepost Capital, Inc. Class A Common Stock",NYSE,RPC
 RPM,RPM International Inc. Common Stock,NYSE,RPM
 RPT,Rithm Property Trust Inc. Common stock,NYSE,RPT
 RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,RPT$C
@@ -11400,6 +11404,7 @@ SAP,SAP  SE ADS,NYSE,SAP
 SAR,Saratoga Investment Corp New,NYSE,SAR
 SARO,"StandardAero, Inc. Common Stock",NYSE,SARO
 SAT,Saratoga Investment Corp 6.00% Notes due 2027,NYSE,SAT
+SAV,Saratoga Investment Corp 7.50% Notes due 2031,NYSE,SAV
 SAY,Saratoga Investment Corp 8.125% Notes due 2027,NYSE,SAY
 SAZ,Saratoga Investment Corp 8.50% Notes due 2028,NYSE,SAZ
 SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)",NYSE,SB
@@ -11684,7 +11689,6 @@ THM,"International Tower Hill Mines, Ltd. Ordinary Shares (Canada)",NYSE MKT,THM
 THO,"Thor Industries, Inc. Common Stock",NYSE,THO
 THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,NYSE,THQ
 THR,"Thermon Group Holdings, Inc. Common Stock",NYSE,THR
-THS,"Treehouse Foods, Inc. Common Stock",NYSE,THS
 THW,abrdn World Healthcare Fund Shares of Beneficial Interest,NYSE,THW
 TIC,"TIC Solutions, Inc. Common Stock",NYSE,TIC
 TII,Titan Mining Corporation Common Shares,NYSE MKT,TII
