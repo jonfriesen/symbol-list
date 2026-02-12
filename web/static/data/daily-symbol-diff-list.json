@@ -1,84 +1,162 @@
 {
  "added": [
   {
-   "symbol": "AIMS",
-   "name": "Acuitas Small Cap Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIMS"
-  },
-  {
-   "symbol": "CRMU",
-   "name": "Leverage Shares 2x Long CRML Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRMU"
-  },
-  {
-   "symbol": "DNNG",
-   "name": "Leverage Shares 2x Long DNN Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DNNG"
-  },
-  {
-   "symbol": "SVIVU",
-   "name": "Spring Valley Acquisition Corp. IV - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVIVU"
-  },
-  {
-   "symbol": "UECG",
-   "name": "Leverage Shares 2x Long UEC Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UECG"
-  },
-  {
-   "symbol": "AGBK",
-   "name": "AGI Inc Class A Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AGBK"
-  },
-  {
-   "symbol": "RPC",
-   "name": "Ridgepost Capital, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RPC"
-  },
-  {
-   "symbol": "SAV",
-   "name": "Saratoga Investment Corp 7.50% Notes due 2031",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SAV"
-  }
- ],
- "removed": [
-  {
-   "symbol": "THS",
-   "name": "Treehouse Foods, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "THS"
-  },
-  {
-   "symbol": "FOUR",
-   "name": "Global X Industry 4.0 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FOUR.TO",
+   "symbol": "GEMG",
+   "name": "Gemdale Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GEMG.V",
    "instruments": [
     {
-     "name": "GblX Indust 4.0Inx A",
-     "symbol": "FOUR"
+     "name": "Gemdale Gold Inc.",
+     "symbol": "GEMG"
     }
    ]
   },
   {
-   "symbol": "PX",
-   "name": "P10, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PX"
+   "symbol": "OGW",
+   "name": "Ongwe Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OGW.V",
+   "instruments": [
+    {
+     "name": "Ongwe Minerals Inc.",
+     "symbol": "OGW"
+    }
+   ]
   },
   {
-   "symbol": "DVAX",
-   "name": "Dynavax Technologies Corporation - Common Stock",
+   "symbol": "CROC",
+   "name": "Purpose Credit Opportunities Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "CROC.TO",
+   "instruments": [
+    {
+     "name": "Purp Crd Opp Cls ETF",
+     "symbol": "CROC"
+    }
+   ]
+  },
+  {
+   "symbol": "AIOS",
+   "name": "AIOS Tech Inc. - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIOS"
+  },
+  {
+   "symbol": "ARBK",
+   "name": "Argo Blockchain plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBK"
+  },
+  {
+   "symbol": "ASMU",
+   "name": "Direxion Daily ASML Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASMU"
+  },
+  {
+   "symbol": "BABU",
+   "name": "Direxion Daily BABA Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BABU"
+  },
+  {
+   "symbol": "CMIIU",
+   "name": "Columbus Circle Capital Corp II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMIIU"
+  },
+  {
+   "symbol": "DBCAU",
+   "name": "D. Boral Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DBCAU"
+  },
+  {
+   "symbol": "IACOU",
+   "name": "Idea Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IACOU"
+  },
+  {
+   "symbol": "IDVY",
+   "name": "First Trust International Rising Dividend Achievers ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IDVY"
+  },
+  {
+   "symbol": "MRVU",
+   "name": "Direxion Daily MRVL Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRVU"
+  },
+  {
+   "symbol": "MWH",
+   "name": "SOLV Energy, Inc. - Class A common stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DVAX"
+   "yahoo_symbol": "MWH"
+  },
+  {
+   "symbol": "SOFA",
+   "name": "Direxion Daily SOFI Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOFA"
+  },
+  {
+   "symbol": "TMTSU",
+   "name": "Spartacus Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTSU"
+  },
+  {
+   "symbol": "CICC",
+   "name": "CION Investment Corporation 7.50% Notes due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CICC"
+  },
+  {
+   "symbol": "XFLH.U",
+   "name": "XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XFLH.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CYBR",
+   "name": "CyberArk Software Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CYBR"
+  },
+  {
+   "symbol": "NISN",
+   "name": "NiSun Intl Enterprise Development Group Co, Ltd - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NISN"
+  },
+  {
+   "symbol": "GQ",
+   "name": "Great Quest Gold Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GQ.V",
+   "instruments": [
+    {
+     "name": "Great Quest Gold Ltd.",
+     "symbol": "GQ"
+    }
+   ]
+  },
+  {
+   "symbol": "NUVB.W",
+   "name": "Nuvation Bio Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NUVB.W"
+  },
+  {
+   "symbol": "ARBK",
+   "name": "Argo Blockchain plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARBK"
   }
  ]
 }
