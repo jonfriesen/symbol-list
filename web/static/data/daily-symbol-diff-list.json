@@ -1,162 +1,148 @@
 {
  "added": [
   {
-   "symbol": "GEMG",
-   "name": "Gemdale Gold Inc.",
+   "symbol": "CAMB",
+   "name": "Cambria Gold Mines Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GEMG.V",
+   "yahoo_symbol": "CAMB.V",
    "instruments": [
     {
-     "name": "Gemdale Gold Inc.",
-     "symbol": "GEMG"
+     "name": "Cambria Gold Mines Inc.",
+     "symbol": "CAMB"
     }
    ]
   },
   {
-   "symbol": "OGW",
-   "name": "Ongwe Minerals Inc.",
+   "symbol": "MKR",
+   "name": "Melkior Resources Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "OGW.V",
+   "yahoo_symbol": "MKR.V",
    "instruments": [
     {
-     "name": "Ongwe Minerals Inc.",
-     "symbol": "OGW"
+     "name": "Melkior Resources Inc.",
+     "symbol": "MKR"
     }
    ]
   },
   {
-   "symbol": "CROC",
-   "name": "Purpose Credit Opportunities Class",
+   "symbol": "RAY",
+   "name": "Stingray Group Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "CROC.TO",
+   "yahoo_symbol": "RAY.TO",
    "instruments": [
     {
-     "name": "Purp Crd Opp Cls ETF",
-     "symbol": "CROC"
+     "name": "Stingray Group SV",
+     "symbol": "RAY"
     }
    ]
   },
   {
-   "symbol": "AIOS",
-   "name": "AIOS Tech Inc. - Class A Common Shares",
+   "symbol": "APC",
+   "name": "ARKO Petroleum Corp. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AIOS"
+   "yahoo_symbol": "APC"
   },
   {
-   "symbol": "ARBK",
-   "name": "Argo Blockchain plc - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARBK"
-  },
-  {
-   "symbol": "ASMU",
-   "name": "Direxion Daily ASML Bull 2X ETF",
+   "symbol": "BRAI",
+   "name": "Braiin Limited - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASMU"
+   "yahoo_symbol": "BRAI"
   },
   {
-   "symbol": "BABU",
-   "name": "Direxion Daily BABA Bull 2X ETF",
+   "symbol": "FAAA",
+   "name": "Fidelity AAA CLO ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BABU"
+   "yahoo_symbol": "FAAA"
   },
   {
-   "symbol": "CMIIU",
-   "name": "Columbus Circle Capital Corp II - Unit",
+   "symbol": "FCLO",
+   "name": "Fidelity CLO ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMIIU"
+   "yahoo_symbol": "FCLO"
   },
   {
-   "symbol": "DBCAU",
-   "name": "D. Boral Acquisition I Corp. - Unit",
+   "symbol": "HACQU",
+   "name": "HCM IV Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DBCAU"
+   "yahoo_symbol": "HACQU"
   },
   {
-   "symbol": "IACOU",
-   "name": "Idea Acquisition Corp. - Units",
+   "symbol": "PAACU",
+   "name": "Proem Acquisition Corp I - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IACOU"
+   "yahoo_symbol": "PAACU"
   },
   {
-   "symbol": "IDVY",
-   "name": "First Trust International Rising Dividend Achievers ETF",
+   "symbol": "SCPQ",
+   "name": "Social Commerce Partners Corporation - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IDVY"
+   "yahoo_symbol": "SCPQ"
   },
   {
-   "symbol": "MRVU",
-   "name": "Direxion Daily MRVL Bull 2X ETF",
+   "symbol": "SCPQW",
+   "name": "Social Commerce Partners Corporation - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MRVU"
+   "yahoo_symbol": "SCPQW"
   },
   {
-   "symbol": "MWH",
-   "name": "SOLV Energy, Inc. - Class A common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MWH"
-  },
-  {
-   "symbol": "SOFA",
-   "name": "Direxion Daily SOFI Bull 2X ETF",
+   "symbol": "SVAQ",
+   "name": "Silicon Valley Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SOFA"
+   "yahoo_symbol": "SVAQ"
   },
   {
-   "symbol": "TMTSU",
-   "name": "Spartacus Acquisition Corp. II - Unit",
+   "symbol": "SVAQW",
+   "name": "Silicon Valley Acquisition Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TMTSU"
-  },
-  {
-   "symbol": "CICC",
-   "name": "CION Investment Corporation 7.50% Notes due 2031",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CICC"
-  },
-  {
-   "symbol": "XFLH.U",
-   "name": "XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",
-   "exchange": "NYSE",
-   "yahoo_symbol": "XFLH.U"
+   "yahoo_symbol": "SVAQW"
   }
  ],
  "removed": [
   {
-   "symbol": "CYBR",
-   "name": "CyberArk Software Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CYBR"
-  },
-  {
-   "symbol": "NISN",
-   "name": "NiSun Intl Enterprise Development Group Co, Ltd - Class A Common Shares",
+   "symbol": "SOHO",
+   "name": "Sotherly Hotels Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NISN"
+   "yahoo_symbol": "SOHO"
   },
   {
-   "symbol": "GQ",
-   "name": "Great Quest Gold Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GQ.V",
+   "symbol": "LN",
+   "name": "Loncor Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LN.TO",
    "instruments": [
     {
-     "name": "Great Quest Gold Ltd.",
-     "symbol": "GQ"
+     "name": "Loncor Gold Inc. J",
+     "symbol": "LN"
     }
    ]
   },
   {
-   "symbol": "NUVB.W",
-   "name": "Nuvation Bio Inc. Warrants",
+   "symbol": "SR$A",
+   "name": "Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "NUVB.W"
+   "yahoo_symbol": "SR$A"
   },
   {
-   "symbol": "ARBK",
-   "name": "Argo Blockchain plc - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ARBK"
+   "symbol": "RAY.A",
+   "name": "Stingray Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RAY.A.TO",
+   "instruments": [
+    {
+     "name": "Stingray Group SV",
+     "symbol": "RAY.A"
+    },
+    {
+     "name": "Stingray Vary SV",
+     "symbol": "RAY.B"
+    }
+   ]
+  },
+  {
+   "symbol": "AVDL",
+   "name": "Avadel Pharmaceuticals plc - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVDL"
   }
  ]
 }
