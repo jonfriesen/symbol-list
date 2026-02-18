@@ -1,144 +1,108 @@
 {
  "added": [
   {
-   "symbol": "MAGV",
-   "name": "Mackenzie Global Value ETF",
+   "symbol": "AIAI",
+   "name": "NetraMark Holdings Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "MAGV.TO",
+   "yahoo_symbol": "AIAI.TO",
    "instruments": [
     {
-     "name": "Mackenzie Glb Val E",
-     "symbol": "MAGV"
+     "name": "NetraMark Hlding Inc",
+     "symbol": "AIAI"
     }
    ]
   },
   {
-   "symbol": "MBQG",
-   "name": "Mackenzie GQE Global Balanced ETF",
+   "symbol": "RBND",
+   "name": "Russell Investments Core Plus Fixed Income ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "MBQG.TO",
+   "yahoo_symbol": "RBND.TO",
    "instruments": [
     {
-     "name": "Mackenzie GQE Glb B ",
-     "symbol": "MBQG"
+     "name": "Russell InvCP Fx Inc",
+     "symbol": "RBND"
     }
    ]
   },
   {
-   "symbol": "MAUG",
-   "name": "Mackenzie US All Cap Growth ETF",
+   "symbol": "HALO",
+   "name": "Russell Investments Fallen Angels ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "MAUG.TO",
+   "yahoo_symbol": "HALO.TO",
    "instruments": [
     {
-     "name": "Macknzi US All Cap G",
-     "symbol": "MAUG"
+     "name": "Russell Iv Falln Ang",
+     "symbol": "HALO"
     }
    ]
   },
   {
-   "symbol": "MAUV",
-   "name": "Mackenzie US Value ETF",
+   "symbol": "RQCA",
+   "name": "Russell Investments Multi-Factor Canadian Equity Pool",
    "exchange": "TSX",
-   "yahoo_symbol": "MAUV.TO",
+   "yahoo_symbol": "RQCA.TO",
    "instruments": [
     {
-     "name": "Mackenzie US Value E",
-     "symbol": "MAUV"
+     "name": "Russell InvMF Cnd Eq",
+     "symbol": "RQCA"
     }
    ]
   },
   {
-   "symbol": "RUA",
-   "name": "Rua Gold Inc.",
+   "symbol": "RQIN",
+   "name": "Russell Investments Multi-Factor International Equity Pool",
    "exchange": "TSX",
-   "yahoo_symbol": "RUA.TO",
+   "yahoo_symbol": "RQIN.TO",
    "instruments": [
     {
-     "name": "Rua Gold Inc",
-     "symbol": "RUA"
+     "name": "Russell InvMF intl P",
+     "symbol": "RQIN"
     }
    ]
   },
   {
-   "symbol": "RFAMU",
-   "name": "RF Acquisition Corp III - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RFAMU"
+   "symbol": "RQUS",
+   "name": "Russell Investments Multi-Factor US Equity Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQUS.TO",
+   "instruments": [
+    {
+     "name": "Russell Inv MF US Eq",
+     "symbol": "RQUS"
+    }
+   ]
   },
   {
-   "symbol": "INFQ",
-   "name": "Infleqtion, Inc. Common Stock",
+   "symbol": "CNTN",
+   "name": "Canton Strategic Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNTN"
+  },
+  {
+   "symbol": "TSI.V",
+   "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "INFQ"
+   "yahoo_symbol": "TSI.V"
   },
   {
-   "symbol": "INFQ.W",
-   "name": "Infleqtion, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "INFQ.W"
+   "symbol": "UAC",
+   "name": "United Acquisition Corp. I Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UAC"
+  },
+  {
+   "symbol": "UAC.W",
+   "name": "United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UAC.W"
   }
  ],
  "removed": [
   {
-   "symbol": "SNCR",
-   "name": "Synchronoss Technologies, Inc. - Common Stock",
+   "symbol": "THAR",
+   "name": "Tharimmune, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SNCR"
-  },
-  {
-   "symbol": "RCC",
-   "name": "Ready Capital Corporation 5.75% Senior Notes due 2026",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RCC"
-  },
-  {
-   "symbol": "MOFG",
-   "name": "MidWestOne Financial Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MOFG"
-  },
-  {
-   "symbol": "TECTP",
-   "name": "Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TECTP"
-  },
-  {
-   "symbol": "CCCXW",
-   "name": "Churchill Capital Corp X - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCCXW"
-  },
-  {
-   "symbol": "ZEUS",
-   "name": "Olympic Steel, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ZEUS"
-  },
-  {
-   "symbol": "CCCX",
-   "name": "Churchill Capital Corp X - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCCX"
-  },
-  {
-   "symbol": "RUA",
-   "name": "Rua Gold Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RUA.V",
-   "instruments": [
-    {
-     "name": "Rua Gold Inc.",
-     "symbol": "RUA"
-    }
-   ]
-  },
-  {
-   "symbol": "CCCXU",
-   "name": "Churchill Capital Corp X - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCCXU"
+   "yahoo_symbol": "THAR"
   }
  ]
 }
