@@ -1,108 +1,132 @@
 {
  "added": [
   {
-   "symbol": "AIAI",
-   "name": "NetraMark Holdings Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AIAI.TO",
-   "instruments": [
-    {
-     "name": "NetraMark Hlding Inc",
-     "symbol": "AIAI"
-    }
-   ]
+   "symbol": "AACIU",
+   "name": "Armada Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIU"
   },
   {
-   "symbol": "RBND",
-   "name": "Russell Investments Core Plus Fixed Income ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RBND.TO",
-   "instruments": [
-    {
-     "name": "Russell InvCP Fx Inc",
-     "symbol": "RBND"
-    }
-   ]
-  },
-  {
-   "symbol": "HALO",
-   "name": "Russell Investments Fallen Angels ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HALO.TO",
-   "instruments": [
-    {
-     "name": "Russell Iv Falln Ang",
-     "symbol": "HALO"
-    }
-   ]
-  },
-  {
-   "symbol": "RQCA",
-   "name": "Russell Investments Multi-Factor Canadian Equity Pool",
-   "exchange": "TSX",
-   "yahoo_symbol": "RQCA.TO",
-   "instruments": [
-    {
-     "name": "Russell InvMF Cnd Eq",
-     "symbol": "RQCA"
-    }
-   ]
-  },
-  {
-   "symbol": "RQIN",
-   "name": "Russell Investments Multi-Factor International Equity Pool",
-   "exchange": "TSX",
-   "yahoo_symbol": "RQIN.TO",
-   "instruments": [
-    {
-     "name": "Russell InvMF intl P",
-     "symbol": "RQIN"
-    }
-   ]
-  },
-  {
-   "symbol": "RQUS",
-   "name": "Russell Investments Multi-Factor US Equity Pool",
-   "exchange": "TSX",
-   "yahoo_symbol": "RQUS.TO",
-   "instruments": [
-    {
-     "name": "Russell Inv MF US Eq",
-     "symbol": "RQUS"
-    }
-   ]
-  },
-  {
-   "symbol": "CNTN",
-   "name": "Canton Strategic Holdings, Inc. - Common Stock",
+   "symbol": "GGRP",
+   "name": "The Glimpse Group, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNTN"
+   "yahoo_symbol": "GGRP"
   },
   {
-   "symbol": "TSI.V",
-   "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued",
+   "symbol": "SHAZ",
+   "name": "SharonAI Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHAZ"
+  },
+  {
+   "symbol": "SUIS",
+   "name": "Canary Staked SUIS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUIS"
+  },
+  {
+   "symbol": "ARIS",
+   "name": "Aris Mining Corporation Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "TSI.V"
+   "yahoo_symbol": "ARIS"
   },
   {
-   "symbol": "UAC",
-   "name": "United Acquisition Corp. I Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "UAC"
+   "symbol": "JSPX",
+   "name": "JasperX Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JSPX.V",
+   "instruments": [
+    {
+     "name": "JasperX Technologies Inc.",
+     "symbol": "JSPX"
+    }
+   ]
   },
   {
-   "symbol": "UAC.W",
-   "name": "United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "UAC.W"
+   "symbol": "LAF",
+   "name": "Lithium Africa Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LAF.V",
+   "instruments": [
+    {
+     "name": "Lithium Africa Corp.",
+     "symbol": "LAF"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "THAR",
-   "name": "Tharimmune, Inc. - Common Stock",
+   "symbol": "LSC.P",
+   "name": "Lombard Street Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LSC.P.V",
+   "instruments": [
+    {
+     "name": "Lombard Street Capital Corp.",
+     "symbol": "LSC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "REVV",
+   "name": "Revolve Renewable Power Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REVV.V",
+   "instruments": [
+    {
+     "name": "Revolve Renewable Power Corp.",
+     "symbol": "REVV"
+    }
+   ]
+  },
+  {
+   "symbol": "BANXR",
+   "name": "ArrowMark Financial Corp. - Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BANXR"
+  },
+  {
+   "symbol": "SSKN",
+   "name": "Strata Skin Sciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "THAR"
+   "yahoo_symbol": "SSKN"
+  },
+  {
+   "symbol": "AMPGW",
+   "name": "Amplitech Group, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMPGW"
+  },
+  {
+   "symbol": "VRAR",
+   "name": "The Glimpse Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VRAR"
+  },
+  {
+   "symbol": "ARMN",
+   "name": "Aris Mining Corporation Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ARMN"
+  },
+  {
+   "symbol": "VENZ",
+   "name": "Venzee Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VENZ.V",
+   "instruments": [
+    {
+     "name": "Venzee Technologies Inc.",
+     "symbol": "VENZ"
+    }
+   ]
+  },
+  {
+   "symbol": "AUUDW",
+   "name": "Auddia Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AUUDW"
   }
  ]
 }
