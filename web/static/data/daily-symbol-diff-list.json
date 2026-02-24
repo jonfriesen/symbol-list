@@ -1,156 +1,108 @@
 {
  "added": [
   {
-   "symbol": "FDIQ",
-   "name": "Invesco Bloomberg Financial Data Providers ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FDIQ"
-  },
-  {
-   "symbol": "GTOQ",
-   "name": "Invesco High Yield Systematic Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GTOQ"
-  },
-  {
-   "symbol": "IVSX",
-   "name": "Applied Finance IVS International SMID ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IVSX"
-  },
-  {
-   "symbol": "ROC",
-   "name": "Rank One Computing Corporation - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ROC"
-  },
-  {
-   "symbol": "XRN",
-   "name": "Chiron Real Estate Inc. Common Stock",
+   "symbol": "CVSA",
+   "name": "Covista Inc. Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "XRN"
+   "yahoo_symbol": "CVSA"
   },
   {
-   "symbol": "XRN$A",
-   "name": "Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock",
+   "symbol": "IRAB",
+   "name": "Iris Acquisition Corp II Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "XRN$A"
+   "yahoo_symbol": "IRAB"
   },
   {
-   "symbol": "XRN$B",
-   "name": "Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",
+   "symbol": "IRAB.W",
+   "name": "Iris Acquisition Corp II Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
    "exchange": "NYSE",
-   "yahoo_symbol": "XRN$B"
+   "yahoo_symbol": "IRAB.W"
   },
   {
-   "symbol": "ACL",
-   "name": "A.C.L. Construction Ltd.",
+   "symbol": "QNC",
+   "name": "Quantum eMotion Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "QNC"
+  },
+  {
+   "symbol": "RYZ",
+   "name": "Ryerson Holding Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RYZ"
+  },
+  {
+   "symbol": "WPAC",
+   "name": "White Pearl Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPAC"
+  },
+  {
+   "symbol": "WPAC.R",
+   "name": "White Pearl Acquisition Corp. Rights, each right entitles the holder to receive one-fifth of one Class A ordinary share upon consummation of the initial business combination",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPAC.R"
+  },
+  {
+   "symbol": "V",
+   "name": "Verdera Energy Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ACL.V",
+   "yahoo_symbol": "V.V",
    "instruments": [
     {
-     "name": "A.C.L. Construction Ltd.",
-     "symbol": "ACL"
+     "name": "Verdera Energy Corp.",
+     "symbol": "V"
     }
    ]
   }
  ],
  "removed": [
   {
-   "symbol": "KBWR",
-   "name": "Invesco KBW Regional Banking ETF",
+   "symbol": "LVRO",
+   "name": "Lavoro Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KBWR"
+   "yahoo_symbol": "LVRO"
   },
   {
-   "symbol": "MQT",
-   "name": "Blackrock MuniYield Quality Fund II, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MQT"
+   "symbol": "LVROW",
+   "name": "Lavoro Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVROW"
   },
   {
-   "symbol": "GMRE$B",
-   "name": "Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GMRE$B"
-  },
-  {
-   "symbol": "GMRE$A",
-   "name": "Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GMRE$A"
-  },
-  {
-   "symbol": "MVF",
-   "name": "Blackrock MuniVest Fund, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MVF"
-  },
-  {
-   "symbol": "SSS.P",
-   "name": "Samurai Capital Corp.",
+   "symbol": "POC.P",
+   "name": "POCML 7 Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SSS.P.V",
+   "yahoo_symbol": "POC.P.V",
    "instruments": [
     {
-     "name": "Samurai Capital Corp.",
-     "symbol": "SSS.P"
+     "name": "POCML 7 INC.",
+     "symbol": "POC.P"
     }
    ]
   },
   {
-   "symbol": "GMRE",
-   "name": "Global Medical REIT Inc. Common Stock",
+   "symbol": "AHL",
+   "name": "Aspen Insurance Holdings Limited Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "GMRE"
+   "yahoo_symbol": "AHL"
   },
   {
-   "symbol": "BTA",
-   "name": "BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest",
+   "symbol": "RYI",
+   "name": "Ryerson Holding Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "BTA"
+   "yahoo_symbol": "RYI"
   },
   {
-   "symbol": "ABPWW",
-   "name": "Abpro Holdings, Inc - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ABPWW"
-  },
-  {
-   "symbol": "MVT",
-   "name": "Blackrock MuniVest Fund II, Inc.  Common Stock",
+   "symbol": "ATGE",
+   "name": "Adtalem Global Education Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MVT"
+   "yahoo_symbol": "ATGE"
   },
   {
-   "symbol": "IHYF",
-   "name": "Invesco High Yield Bond Factor ETF",
+   "symbol": "QQJG",
+   "name": "Invesco ESG NASDAQ Next Gen 100 ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IHYF"
-  },
-  {
-   "symbol": "MYD",
-   "name": "Blackrock MuniYield Fund, Inc.  Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MYD"
-  },
-  {
-   "symbol": "ABP",
-   "name": "Abpro Holdings, Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ABP"
-  },
-  {
-   "symbol": "BKN",
-   "name": "BlackRock Investment Quality Municipal Trust Inc. (The)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKN"
-  },
-  {
-   "symbol": "SHV",
-   "name": "iShares 0-1 Year Treasury Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHV"
+   "yahoo_symbol": "QQJG"
   }
  ]
 }
