@@ -1,108 +1,84 @@
 {
  "added": [
   {
-   "symbol": "CVSA",
-   "name": "Covista Inc. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CVSA"
-  },
-  {
-   "symbol": "IRAB",
-   "name": "Iris Acquisition Corp II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IRAB"
-  },
-  {
-   "symbol": "IRAB.W",
-   "name": "Iris Acquisition Corp II Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IRAB.W"
-  },
-  {
-   "symbol": "QNC",
-   "name": "Quantum eMotion Corp. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "QNC"
-  },
-  {
-   "symbol": "RYZ",
-   "name": "Ryerson Holding Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RYZ"
-  },
-  {
-   "symbol": "WPAC",
-   "name": "White Pearl Acquisition Corp. Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WPAC"
-  },
-  {
-   "symbol": "WPAC.R",
-   "name": "White Pearl Acquisition Corp. Rights, each right entitles the holder to receive one-fifth of one Class A ordinary share upon consummation of the initial business combination",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WPAC.R"
-  },
-  {
-   "symbol": "V",
-   "name": "Verdera Energy Corp.",
+   "symbol": "FOXT",
+   "name": "Fox Tungsten Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "V.V",
+   "yahoo_symbol": "FOXT.V",
    "instruments": [
     {
-     "name": "Verdera Energy Corp.",
-     "symbol": "V"
+     "name": "Fox Tungsten Ltd.",
+     "symbol": "FOXT"
     }
    ]
+  },
+  {
+   "symbol": "ALOY",
+   "name": "REalloys Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALOY"
+  },
+  {
+   "symbol": "CTAAU",
+   "name": "ClearThink 1 Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CTAAU"
+  },
+  {
+   "symbol": "TSUI",
+   "name": "21Shares Sui ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSUI"
+  },
+  {
+   "symbol": "MZYX.U",
+   "name": "MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MZYX.U"
+  },
+  {
+   "symbol": "TRAD.U",
+   "name": "APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAD.U"
+  },
+  {
+   "symbol": "TSI.R",
+   "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TSI.R"
   }
  ],
  "removed": [
   {
-   "symbol": "LVRO",
-   "name": "Lavoro Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVRO"
+   "symbol": "BLBX",
+   "name": "Blackboxstocks Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLBX"
   },
   {
-   "symbol": "LVROW",
-   "name": "Lavoro Limited - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVROW"
+   "symbol": "TSI.V",
+   "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TSI.V"
   },
   {
-   "symbol": "POC.P",
-   "name": "POCML 7 Inc.",
+   "symbol": "HPY",
+   "name": "Happy Creek Minerals Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "POC.P.V",
+   "yahoo_symbol": "HPY.V",
    "instruments": [
     {
-     "name": "POCML 7 INC.",
-     "symbol": "POC.P"
+     "name": "Happy Creek Minerals Ltd",
+     "symbol": "HPY"
     }
    ]
   },
   {
-   "symbol": "AHL",
-   "name": "Aspen Insurance Holdings Limited Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AHL"
-  },
-  {
-   "symbol": "RYI",
-   "name": "Ryerson Holding Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RYI"
-  },
-  {
-   "symbol": "ATGE",
-   "name": "Adtalem Global Education Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ATGE"
-  },
-  {
-   "symbol": "QQJG",
-   "name": "Invesco ESG NASDAQ Next Gen 100 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QQJG"
+   "symbol": "MGIC",
+   "name": "Magic Software Enterprises Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MGIC"
   }
  ]
 }
