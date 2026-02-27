@@ -1,116 +1,96 @@
 {
  "added": [
   {
-   "symbol": "AGMR",
-   "name": "Silver Mountain Resources Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AGMR.TO",
-   "instruments": [
-    {
-     "name": "Silver Mntn Rsrc Inc",
-     "symbol": "AGMR"
-    },
-    {
-     "name": "Silv Mntn Rsrc Inc W",
-     "symbol": "AGMR.WT.B"
-    }
-   ]
+   "symbol": "GAB.V",
+   "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GAB.V"
   },
   {
-   "symbol": "DBCA",
-   "name": "D. Boral Acquisition I Corp. - Class A Ordinary Shares",
+   "symbol": "BAIV",
+   "name": "Brown Advisory International Value Select ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DBCA"
+   "yahoo_symbol": "BAIV"
   },
   {
-   "symbol": "DBCAW",
-   "name": "D. Boral Acquisition I Corp. - Warrants",
+   "symbol": "FVAV",
+   "name": "Fortress Value Acquisition Corp. V - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DBCAW"
+   "yahoo_symbol": "FVAV"
   },
   {
-   "symbol": "KTWO",
-   "name": "K2 Capital Acquisition Corporation - Class A Ordinary Share",
+   "symbol": "MYHA",
+   "name": "State Street My2027 High Yield Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KTWO"
+   "yahoo_symbol": "MYHA"
   },
   {
-   "symbol": "KTWOR",
-   "name": "K2 Capital Acquisition Corporation - Rights",
+   "symbol": "MYHB",
+   "name": "State Street My2028 High Yield Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KTWOR"
+   "yahoo_symbol": "MYHB"
   },
   {
-   "symbol": "NUCL",
-   "name": "Eagle Nuclear Energy Corp. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NUCL"
-  },
-  {
-   "symbol": "NUCLW",
-   "name": "Eagle Nuclear Energy Corp. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NUCLW"
-  },
-  {
-   "symbol": "NXTS",
-   "name": "Nexentis Technologies Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NXTS"
-  },
-  {
-   "symbol": "RNAM",
-   "name": "Avidity Biosciences, Inc. - Common Stock",
+   "symbol": "MYHC",
+   "name": "State Street My2029 High Yield Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNAM"
+   "yahoo_symbol": "MYHC"
   },
   {
-   "symbol": "BCHT",
-   "name": "Birchtech Corp. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "BCHT"
+   "symbol": "MYHD",
+   "name": "State Street My2030 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYHD"
+  },
+  {
+   "symbol": "MYHE",
+   "name": "State Street My2031 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYHE"
+  },
+  {
+   "symbol": "RFAM",
+   "name": "RF Acquisition Corp III - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAM"
+  },
+  {
+   "symbol": "RFAMR",
+   "name": "RF Acquisition Corp III - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAMR"
+  },
+  {
+   "symbol": "TRGSU",
+   "name": "TRG Latin America Acquisitions Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRGSU"
   }
  ],
  "removed": [
   {
-   "symbol": "AGMR",
-   "name": "Silver Mountain Resources Inc.",
+   "symbol": "EFC$A",
+   "name": "Ellington Financial Inc. 6.750% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EFC$A"
+  },
+  {
+   "symbol": "BCTXW",
+   "name": "BriaCell Therapeutics Corp. - Warrant expiring 2026",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCTXW"
+  },
+  {
+   "symbol": "DGX",
+   "name": "Digi Power X Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AGMR.V",
+   "yahoo_symbol": "DGX.V",
    "instruments": [
     {
-     "name": "Silver Mountain Resources Inc.",
-     "symbol": "AGMR"
-    },
-    {
-     "name": "Silver Mountain Resources Inc. wts B 24Apr2028",
-     "symbol": "AGMR.WT.B"
+     "name": "Digi Power X Inc.",
+     "symbol": "DGX"
     }
    ]
-  },
-  {
-   "symbol": "NITO",
-   "name": "N2OFF, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NITO"
-  },
-  {
-   "symbol": "CASI",
-   "name": "CASI Pharmaceuticals, Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CASI"
-  },
-  {
-   "symbol": "SPNT$B",
-   "name": "SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SPNT$B"
-  },
-  {
-   "symbol": "RNA",
-   "name": "Avidity Biosciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNA"
   }
  ]
 }
