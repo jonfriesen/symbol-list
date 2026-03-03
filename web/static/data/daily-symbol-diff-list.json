@@ -1,174 +1,144 @@
 {
  "added": [
   {
-   "symbol": "LOVE",
-   "name": "Cannara Biotech Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "LOVE.TO",
+   "symbol": "BCM.WT",
+   "name": "Bear Creek Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BCM.WT.V",
    "instruments": [
     {
-     "name": "Cannara Biotech Inc",
-     "symbol": "LOVE"
+     "name": "Bear Creek Mining Corporation wt 05Oct2028",
+     "symbol": "BCM.WT"
     }
    ]
   },
   {
-   "symbol": "AHRT",
-   "name": "AH Realty Trust, Inc. Common Stock",
+   "symbol": "AGTF",
+   "name": "AGT Food and Ingredients Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGTF.TO",
+   "instruments": [
+    {
+     "name": "AGT F\u0026Ingr Inc WIsue",
+     "symbol": "AGTF"
+    }
+   ]
+  },
+  {
+   "symbol": "RPR.DB.A",
+   "name": "Ravelin Properties REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPR.DB.A.TO",
+   "instruments": [
+    {
+     "name": "Ravelin ProREIT Db A",
+     "symbol": "RPR.DB.A"
+    },
+    {
+     "name": "Ravelin ProREIT Db B",
+     "symbol": "RPR.DB.B"
+    },
+    {
+     "name": "Ravelin Prop REIT Un",
+     "symbol": "RPR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "WHR$A",
+   "name": "Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "AHRT"
+   "yahoo_symbol": "WHR$A"
   },
   {
-   "symbol": "AHRT$A",
-   "name": "AH Realty Trust, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AHRT$A"
-  },
-  {
-   "symbol": "SUNB",
-   "name": "Sunbelt Rentals Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SUNB"
-  },
-  {
-   "symbol": "ARTC",
-   "name": "Art Technology Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARTC"
-  },
-  {
-   "symbol": "ARTCW",
-   "name": "Art Technology Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARTCW"
-  },
-  {
-   "symbol": "CMII",
-   "name": "Columbus Circle Capital Corp II - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMII"
-  },
-  {
-   "symbol": "CMIIW",
-   "name": "Columbus Circle Capital Corp II - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMIIW"
-  },
-  {
-   "symbol": "EART",
-   "name": "Global X Rare Earth \u0026 Critical Materials ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EART"
-  },
-  {
-   "symbol": "FRMM",
-   "name": "Forum Markets, Incorporated - Common Stock",
+   "symbol": "MRDN",
+   "name": "Meridian Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRMM"
+   "yahoo_symbol": "MRDN"
   },
   {
-   "symbol": "GENB",
-   "name": "Generate Biomedicines, Inc. - Common Stock",
+   "symbol": "SVIV",
+   "name": "Spring Valley Acquisition Corp. IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIV"
+  },
+  {
+   "symbol": "SVIVW",
+   "name": "Spring Valley Acquisition Corp. IV - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIVW"
+  },
+  {
+   "symbol": "TNXP",
+   "name": "Tonix Pharmaceuticals Holding Corp. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GENB"
-  },
-  {
-   "symbol": "ILLUU",
-   "name": "Illumination Acquisition Corp I - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ILLUU"
-  },
-  {
-   "symbol": "RNA",
-   "name": "Atrium Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RNA"
-  },
-  {
-   "symbol": "SORN",
-   "name": "Soren Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SORN"
-  },
-  {
-   "symbol": "SORNW",
-   "name": "Soren Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SORNW"
-  },
-  {
-   "symbol": "SSAC",
-   "name": "SPACSphere Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SSAC"
-  },
-  {
-   "symbol": "SSACR",
-   "name": "SPACSphere Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SSACR"
-  },
-  {
-   "symbol": "SSACW",
-   "name": "SPACSphere Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SSACW"
+   "yahoo_symbol": "TNXP"
   }
  ],
  "removed": [
   {
-   "symbol": "DMAT",
-   "name": "Global X Disruptive Materials ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DMAT"
-  },
-  {
-   "symbol": "RNAM",
-   "name": "Avidity Biosciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RNAM"
-  },
-  {
-   "symbol": "FRGE",
-   "name": "Forge Global Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FRGE"
-  },
-  {
-   "symbol": "LOVE",
-   "name": "Cannara Biotech Inc.",
+   "symbol": "BCM",
+   "name": "Bear Creek Mining Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "LOVE.V",
+   "yahoo_symbol": "BCM.V",
    "instruments": [
     {
-     "name": "Cannara Biotech Inc.",
-     "symbol": "LOVE"
+     "name": "Bear Creek Mining Corporation",
+     "symbol": "BCM"
+    },
+    {
+     "name": "Bear Creek Mining Corporation wt 05Oct2028",
+     "symbol": "BCM.WT"
     }
    ]
   },
   {
-   "symbol": "AHH",
-   "name": "Armada Hoffler Properties, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AHH"
-  },
-  {
-   "symbol": "ETHZ",
-   "name": "ETHZilla Corporation - Common Stock",
+   "symbol": "MBCN",
+   "name": "Middlefield Banc Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ETHZ"
+   "yahoo_symbol": "MBCN"
   },
   {
-   "symbol": "ANEB",
-   "name": "Anebulo Pharmaceuticals, Inc. - Common Stock",
+   "symbol": "RPR.DB",
+   "name": "Ravelin Properties REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPR.DB.TO",
+   "instruments": [
+    {
+     "name": "Ravelin Pr REIT 9%Db",
+     "symbol": "RPR.DB"
+    },
+    {
+     "name": "Ravelin ProREIT Db A",
+     "symbol": "RPR.DB.A"
+    },
+    {
+     "name": "Ravelin ProREIT Db B",
+     "symbol": "RPR.DB.B"
+    },
+    {
+     "name": "Ravelin Prop REIT Un",
+     "symbol": "RPR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "GMGI",
+   "name": "Golden Matrix Group, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ANEB"
+   "yahoo_symbol": "GMGI"
   },
   {
-   "symbol": "AHH$A",
-   "name": "Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "symbol": "TNXP",
+   "name": "Tonix Pharmaceuticals Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TNXP"
+  },
+  {
+   "symbol": "TSE",
+   "name": "Trinseo PLC Ordinary Shares ",
    "exchange": "NYSE",
-   "yahoo_symbol": "AHH$A"
+   "yahoo_symbol": "TSE"
   }
  ]
 }
