@@ -1,144 +1,120 @@
 {
  "added": [
   {
-   "symbol": "BCM.WT",
-   "name": "Bear Creek Mining Corporation",
+   "symbol": "VTEN",
+   "name": "V Ten Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "BCM.WT.V",
+   "yahoo_symbol": "VTEN.V",
    "instruments": [
     {
-     "name": "Bear Creek Mining Corporation wt 05Oct2028",
-     "symbol": "BCM.WT"
+     "name": "V Ten Metals Corp.",
+     "symbol": "VTEN"
     }
    ]
   },
   {
-   "symbol": "AGTF",
-   "name": "AGT Food and Ingredients Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AGTF.TO",
-   "instruments": [
-    {
-     "name": "AGT F\u0026Ingr Inc WIsue",
-     "symbol": "AGTF"
-    }
-   ]
-  },
-  {
-   "symbol": "RPR.DB.A",
-   "name": "Ravelin Properties REIT",
-   "exchange": "TSX",
-   "yahoo_symbol": "RPR.DB.A.TO",
-   "instruments": [
-    {
-     "name": "Ravelin ProREIT Db A",
-     "symbol": "RPR.DB.A"
-    },
-    {
-     "name": "Ravelin ProREIT Db B",
-     "symbol": "RPR.DB.B"
-    },
-    {
-     "name": "Ravelin Prop REIT Un",
-     "symbol": "RPR.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "WHR$A",
-   "name": "Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock",
+   "symbol": "GLED.U",
+   "name": "GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share",
    "exchange": "NYSE",
-   "yahoo_symbol": "WHR$A"
+   "yahoo_symbol": "GLED.U"
   },
   {
-   "symbol": "MRDN",
-   "name": "Meridian Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MRDN"
+   "symbol": "KCAC.U",
+   "name": "Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCAC.U"
   },
   {
-   "symbol": "SVIV",
-   "name": "Spring Valley Acquisition Corp. IV - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVIV"
-  },
-  {
-   "symbol": "SVIVW",
-   "name": "Spring Valley Acquisition Corp. IV - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVIVW"
-  },
-  {
-   "symbol": "TNXP",
-   "name": "Tonix Pharmaceuticals Holding Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TNXP"
+   "symbol": "PPLC",
+   "name": "PPL Corporation Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PPLC"
   }
  ],
  "removed": [
   {
-   "symbol": "BCM",
-   "name": "Bear Creek Mining Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BCM.V",
-   "instruments": [
-    {
-     "name": "Bear Creek Mining Corporation",
-     "symbol": "BCM"
-    },
-    {
-     "name": "Bear Creek Mining Corporation wt 05Oct2028",
-     "symbol": "BCM.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "MBCN",
-   "name": "Middlefield Banc Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MBCN"
-  },
-  {
-   "symbol": "RPR.DB",
-   "name": "Ravelin Properties REIT",
+   "symbol": "GDI",
+   "name": "GDI Integrated Facility Services Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "RPR.DB.TO",
+   "yahoo_symbol": "GDI.TO",
    "instruments": [
     {
-     "name": "Ravelin Pr REIT 9%Db",
-     "symbol": "RPR.DB"
-    },
-    {
-     "name": "Ravelin ProREIT Db A",
-     "symbol": "RPR.DB.A"
-    },
-    {
-     "name": "Ravelin ProREIT Db B",
-     "symbol": "RPR.DB.B"
-    },
-    {
-     "name": "Ravelin Prop REIT Un",
-     "symbol": "RPR.UN"
+     "name": "GDI Integrated SV J",
+     "symbol": "GDI"
     }
    ]
   },
   {
-   "symbol": "GMGI",
-   "name": "Golden Matrix Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GMGI"
+   "symbol": "TLTD",
+   "name": "MegaShort (-3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLTD.TO",
+   "instruments": [
+    {
+     "name": "MegaShort-3X 20+Y US",
+     "symbol": "TLTD"
+    }
+   ]
   },
   {
-   "symbol": "TNXP",
-   "name": "Tonix Pharmaceuticals Holding Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TNXP"
+   "symbol": "TLTU",
+   "name": "MegaLong (3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLTU.TO",
+   "instruments": [
+    {
+     "name": "MegaLong 3X 20+Yr US",
+     "symbol": "TLTU"
+    }
+   ]
   },
   {
-   "symbol": "TSE",
-   "name": "Trinseo PLC Ordinary Shares ",
+   "symbol": "RAPT",
+   "name": "RAPT Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAPT"
+  },
+  {
+   "symbol": "IFX",
+   "name": "Imaflex Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IFX.V",
+   "instruments": [
+    {
+     "name": "Imaflex Inc.",
+     "symbol": "IFX"
+    }
+   ]
+  },
+  {
+   "symbol": "GIP",
+   "name": "Green Impact Partners Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GIP.V",
+   "instruments": [
+    {
+     "name": "Green Impact Partners Inc.",
+     "symbol": "GIP"
+    }
+   ]
+  },
+  {
+   "symbol": "RBOT",
+   "name": "Vicarious Surgical Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "TSE"
+   "yahoo_symbol": "RBOT"
+  },
+  {
+   "symbol": "VTEN.P",
+   "name": "V Ten Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VTEN.P.V",
+   "instruments": [
+    {
+     "name": "V Ten Capital Corp.",
+     "symbol": "VTEN.P"
+    }
+   ]
   }
  ]
 }
