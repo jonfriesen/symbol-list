@@ -1,35 +1,17 @@
 {
  "added": [
   {
-   "symbol": "RTP",
-   "name": "Return to Player (RTP)"
+   "symbol": "MANTRA",
+   "name": "Mantra (MANTRA)"
   },
   {
-   "symbol": "PANTH",
-   "name": "Panther AI (PANTH)"
+   "symbol": "COCA",
+   "name": "COCA (COCA)"
   },
   {
-   "symbol": "MUSA",
-   "name": "Mansa AI (MUSA)"
+   "symbol": "FWX",
+   "name": "Future Warriors X (FWX)"
   },
-  {
-   "symbol": "CZAI",
-   "name": "CZ AI Agent (CZAI)"
-  },
-  {
-   "symbol": "MAOMEME",
-   "name": "Mao (MAOMEME)"
-  },
-  {
-   "symbol": "GPST",
-   "name": "GPStarter (GPST)"
-  },
-  {
-   "symbol": "ZEDCOIN",
-   "name": "ZedCoin (ZEDCOIN)"
-  }
- ],
- "removed": [
   {
    "symbol": "BABY4",
    "name": "Baby 4 (BABY4)"
@@ -37,6 +19,28 @@
   {
    "symbol": "IMU",
    "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "AIBINANCE",
+   "name": "AI Binance (AIBINANCE)"
+  },
+  {
+   "symbol": "BCAK",
+   "name": "BCAK (BCAK)"
+  },
+  {
+   "symbol": "SUSDT",
+   "name": "SkyTrade Pro (SUSDT)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
   }
  ]
 }
