@@ -1,96 +1,72 @@
 {
  "added": [
   {
-   "symbol": "CRG",
-   "name": "Crossroads Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CRG.V",
-   "instruments": [
-    {
-     "name": "Crossroads Gold Corp.",
-     "symbol": "CRG"
-    }
-   ]
+   "symbol": "EVPF",
+   "name": "Eaton Vance Preferred Securities and Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVPF"
   },
   {
-   "symbol": "SKEL",
-   "name": "Skeleton Coast Uranium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SKEL.V",
-   "instruments": [
-    {
-     "name": "Skeleton Coast Uranium Corp.",
-     "symbol": "SKEL"
-    }
-   ]
+   "symbol": "IBAC",
+   "name": "IB Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IBAC"
   },
   {
-   "symbol": "GAB.R",
-   "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights",
+   "symbol": "IBACR",
+   "name": "IB Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IBACR"
+  },
+  {
+   "symbol": "BUI.V",
+   "name": "BlackRock Utility, Infrastructure \u0026 Power Opportun Rights (expiring April 2, 2026) Rights when issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "GAB.R"
+   "yahoo_symbol": "BUI.V"
   },
   {
-   "symbol": "NEE$V",
-   "name": "NextEra Energy, Inc. 7.375% Corporate Units",
+   "symbol": "RVI",
+   "name": "Robinhood Ventures Fund I Common Shares of Beneficial Interest",
    "exchange": "NYSE",
-   "yahoo_symbol": "NEE$V"
+   "yahoo_symbol": "RVI"
   }
  ],
  "removed": [
   {
-   "symbol": "FTW.U",
-   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FTW.U"
+   "symbol": "IBAC",
+   "name": "IB Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBAC"
   },
   {
-   "symbol": "PWH",
-   "name": "PureWave Hydrogen Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PWH.V",
-   "instruments": [
-    {
-     "name": "PureWave Hydrogen Corp.",
-     "symbol": "PWH"
-    }
-   ]
+   "symbol": "IBACR",
+   "name": "IB Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBACR"
   },
   {
-   "symbol": "GLI",
-   "name": "Glacier Lake Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GLI.V",
-   "instruments": [
-    {
-     "name": "Glacier Lake Resources Inc.",
-     "symbol": "GLI"
-    }
-   ]
-  },
-  {
-   "symbol": "VTYX",
-   "name": "Ventyx Biosciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VTYX"
-  },
-  {
-   "symbol": "RWAYZ",
-   "name": "Runway Growth Finance Corp. - 8.00% Notes due 2027",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RWAYZ"
-  },
-  {
-   "symbol": "TIRX",
-   "name": "TIAN RUIXIANG Holdings Ltd - Class A Ordinary Shares",
+   "symbol": "IMG",
+   "name": "CIMG Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TIRX"
+   "yahoo_symbol": "IMG"
   },
   {
-   "symbol": "GAB.V",
-   "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued",
+   "symbol": "AGTF",
+   "name": "AGT Food and Ingredients Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGTF.TO",
+   "instruments": [
+    {
+     "name": "AGT F\u0026Ingr Inc WIsue",
+     "symbol": "AGTF"
+    }
+   ]
+  },
+  {
+   "symbol": "CULP",
+   "name": "Culp, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "GAB.V"
+   "yahoo_symbol": "CULP"
   }
  ]
 }
