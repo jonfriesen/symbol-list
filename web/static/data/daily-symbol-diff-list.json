@@ -1,102 +1,102 @@
 {
  "added": [
   {
-   "symbol": "AGTF",
-   "name": "AGT Food and Ingredients Inc.",
+   "symbol": "GCEI",
+   "name": "Guardian Canadian Equity Income Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "AGTF.TO",
+   "yahoo_symbol": "GCEI.TO",
    "instruments": [
     {
-     "name": "AGT Food\u0026Ingr Inc WI",
-     "symbol": "AGTF"
+     "name": "Guardian Cdn Eq Incm",
+     "symbol": "GCEI"
     }
    ]
   },
   {
-   "symbol": "AVOS",
-   "name": "Avos Global Equities ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AVOS"
+   "symbol": "GFGE",
+   "name": "Guardian Fundamental Global Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GFGE.TO",
+   "instruments": [
+    {
+     "name": "Grdn Fndmtl Gbl Eq",
+     "symbol": "GFGE"
+    }
+   ]
   },
   {
-   "symbol": "CAPR",
-   "name": "Capricor Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CAPR"
+   "symbol": "GSDB",
+   "name": "Guardian Short Duration Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GSDB.TO",
+   "instruments": [
+    {
+     "name": "Grdn Short Dur Bnd",
+     "symbol": "GSDB"
+    }
+   ]
   },
   {
-   "symbol": "CULP",
-   "name": "Culp, Inc. - Common Shares",
+   "symbol": "DMRA",
+   "name": "Damora Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CULP"
+   "yahoo_symbol": "DMRA"
   },
   {
-   "symbol": "MMED",
-   "name": "MiniMed Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MMED"
-  },
-  {
-   "symbol": "OIM",
-   "name": "OneIM Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OIM"
-  },
-  {
-   "symbol": "OIMAW",
-   "name": "OneIM Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OIMAW"
-  },
-  {
-   "symbol": "TDOT",
-   "name": "21shares Polkadot ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDOT"
-  },
-  {
-   "symbol": "VMET",
-   "name": "Versamet Royalties Corporation - Common Stock",
+   "symbol": "OIO",
+   "name": "OIO Group - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VMET"
+   "yahoo_symbol": "OIO"
   },
   {
-   "symbol": "XFLH",
-   "name": "XFLH Capital Corporation Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "XFLH"
-  },
-  {
-   "symbol": "XFLH.R",
-   "name": "XFLH Capital Corporation Rights to receive one-seventh (1/7) of one Ordinary Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "XFLH.R"
+   "symbol": "OIOWW",
+   "name": "OIO Group - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OIOWW"
   }
  ],
  "removed": [
   {
-   "symbol": "ALUR",
-   "name": "Allurion Technologies, Inc. Common Stock",
+   "symbol": "EB",
+   "name": "Eventbrite, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ALUR"
+   "yahoo_symbol": "EB"
   },
   {
-   "symbol": "ALUR.W",
-   "name": "Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ALUR.W"
-  },
-  {
-   "symbol": "JRI.R",
-   "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JRI.R"
-  },
-  {
-   "symbol": "CAPR",
-   "name": "Capricor Therapeutics, Inc. - Common Stock",
+   "symbol": "CRESW",
+   "name": "Cresud S.A.C.I.F. y A. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CAPR"
+   "yahoo_symbol": "CRESW"
+  },
+  {
+   "symbol": "ESGLW",
+   "name": "ESGL Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESGLW"
+  },
+  {
+   "symbol": "GLTO",
+   "name": "Galecto, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLTO"
+  },
+  {
+   "symbol": "LIRC",
+   "name": "Lithium Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LIRC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Royalty J",
+     "symbol": "LIRC"
+    }
+   ]
+  },
+  {
+   "symbol": "ESGL",
+   "name": "ESGL Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESGL"
   }
  ]
 }
