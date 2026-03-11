@@ -1,102 +1,226 @@
 {
  "added": [
   {
-   "symbol": "GCEI",
-   "name": "Guardian Canadian Equity Income Fund",
+   "symbol": "TCCA",
+   "name": "Trading Central Quant Canada 50 Equity Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "GCEI.TO",
+   "yahoo_symbol": "TCCA.TO",
    "instruments": [
     {
-     "name": "Guardian Cdn Eq Incm",
-     "symbol": "GCEI"
+     "name": "TC Quant Can 50 ETF",
+     "symbol": "TCCA"
     }
    ]
   },
   {
-   "symbol": "GFGE",
-   "name": "Guardian Fundamental Global Equity Fund",
+   "symbol": "TCEU",
+   "name": "Trading Central Quant Europe 50 Equity Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "GFGE.TO",
+   "yahoo_symbol": "TCEU.TO",
    "instruments": [
     {
-     "name": "Grdn Fndmtl Gbl Eq",
-     "symbol": "GFGE"
+     "name": "TC Quant Eur 50 ETF",
+     "symbol": "TCEU"
     }
    ]
   },
   {
-   "symbol": "GSDB",
-   "name": "Guardian Short Duration Bond Fund",
+   "symbol": "TCWW",
+   "name": "Trading Central Quant Global 50 Equity Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "GSDB.TO",
+   "yahoo_symbol": "TCWW.TO",
    "instruments": [
     {
-     "name": "Grdn Short Dur Bnd",
-     "symbol": "GSDB"
+     "name": "TC Quant Gbl 50 ETF",
+     "symbol": "TCWW"
     }
    ]
   },
   {
-   "symbol": "DMRA",
-   "name": "Damora Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DMRA"
+   "symbol": "TCUS",
+   "name": "Trading Central Quant U.S. 50 Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCUS.TO",
+   "instruments": [
+    {
+     "name": "TC Quant US50 Eq ETF",
+     "symbol": "TCUS"
+    }
+   ]
   },
   {
-   "symbol": "OIO",
-   "name": "OIO Group - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OIO"
+   "symbol": "VITL.DB.H",
+   "name": "Vital Infrastructure Property Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "VITL.DB.H.TO",
+   "instruments": [
+    {
+     "name": "NW Healthcare 6.25Db",
+     "symbol": "VITL.DB.H"
+    },
+    {
+     "name": "NW Healthcare 7.75Db",
+     "symbol": "VITL.DB.I"
+    },
+    {
+     "name": "NW Healthcare Un",
+     "symbol": "VITL.UN"
+    }
+   ]
   },
   {
-   "symbol": "OIOWW",
-   "name": "OIO Group - Warrants",
+   "symbol": "CAST",
+   "name": "FreeCast, Inc. - Class A common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAST"
+  },
+  {
+   "symbol": "FGII",
+   "name": "FG Imperii Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGII"
+  },
+  {
+   "symbol": "FGIIW",
+   "name": "FG Imperii Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGIIW"
+  },
+  {
+   "symbol": "FLNA",
+   "name": "Filana Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OIOWW"
+   "yahoo_symbol": "FLNA"
+  },
+  {
+   "symbol": "GLWG",
+   "name": "Leverage Shares 2X Long GLW Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLWG"
+  },
+  {
+   "symbol": "IEAG",
+   "name": "Infinite Eagle Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IEAG"
+  },
+  {
+   "symbol": "IEAGR",
+   "name": "Infinite Eagle Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IEAGR"
+  },
+  {
+   "symbol": "LVIG",
+   "name": "Longview Advantage Fixed Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVIG"
+  },
+  {
+   "symbol": "HSLV",
+   "name": "Highlander Silver Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HSLV"
+  },
+  {
+   "symbol": "UAMY",
+   "name": "United States Antimony Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UAMY"
   }
  ],
  "removed": [
   {
-   "symbol": "EB",
-   "name": "Eventbrite, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EB"
+   "symbol": "UAMY",
+   "name": "United States Antimony Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UAMY"
   },
   {
-   "symbol": "CRESW",
-   "name": "Cresud S.A.C.I.F. y A. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CRESW"
-  },
-  {
-   "symbol": "ESGLW",
-   "name": "ESGL Holdings Limited - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ESGLW"
-  },
-  {
-   "symbol": "GLTO",
-   "name": "Galecto, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLTO"
-  },
-  {
-   "symbol": "LIRC",
-   "name": "Lithium Royalty Corp.",
+   "symbol": "ATCU",
+   "name": "Alta Copper Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "LIRC.TO",
+   "yahoo_symbol": "ATCU.TO",
    "instruments": [
     {
-     "name": "Lithium Royalty J",
-     "symbol": "LIRC"
+     "name": "Alta Copper Corp. J",
+     "symbol": "ATCU"
     }
    ]
   },
   {
-   "symbol": "ESGL",
-   "name": "ESGL Holdings Limited - Class A Ordinary Shares",
+   "symbol": "NWH.DB.H",
+   "name": "Northwest Healthcare Properties Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "NWH.DB.H.TO",
+   "instruments": [
+    {
+     "name": "NW Healthcare 6.25Db",
+     "symbol": "NWH.DB.H"
+    },
+    {
+     "name": "NW Healthcare 7.75Db",
+     "symbol": "NWH.DB.I"
+    },
+    {
+     "name": "NW Healthcare Un",
+     "symbol": "NWH.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "SAVA",
+   "name": "Cassava Sciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ESGL"
+   "yahoo_symbol": "SAVA"
+  },
+  {
+   "symbol": "ULT",
+   "name": "Ultra Lithium Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ULT.V",
+   "instruments": [
+    {
+     "name": "Ultra Lithium Inc.",
+     "symbol": "ULT"
+    }
+   ]
+  },
+  {
+   "symbol": "LL",
+   "name": "Canada Rare Earth Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LL.V",
+   "instruments": [
+    {
+     "name": "Canada Rare Earth Corp.",
+     "symbol": "LL"
+    }
+   ]
+  },
+  {
+   "symbol": "ESE",
+   "name": "ESE Entertainment Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESE.V",
+   "instruments": [
+    {
+     "name": "ESE Entertainment Inc.",
+     "symbol": "ESE"
+    }
+   ]
+  },
+  {
+   "symbol": "IMM",
+   "name": "International Metals Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMM.V",
+   "instruments": [
+    {
+     "name": "International Metals Mining Corp.",
+     "symbol": "IMM"
+    }
+   ]
   }
  ]
 }

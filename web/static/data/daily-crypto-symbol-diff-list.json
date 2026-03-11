@@ -1,24 +1,34 @@
 {
  "added": [
   {
-   "symbol": "LITCOIN",
-   "name": "Litcoin (LITCOIN)"
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
   },
   {
-   "symbol": "ZGC",
-   "name": "Z Generation Coin (ZGC)"
+   "symbol": "CRYPTO",
+   "name": "Cryptocurrency Coin (CRYPTO)"
   },
   {
-   "symbol": "CALCIFY",
-   "name": "CalcifyTech (CALCIFY)"
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
   },
   {
-   "symbol": "TENCENTAI",
-   "name": "Tencent AI (TENCENTAI)"
+   "symbol": "龙虾",
+   "name": "龙虾 (lobster)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
   },
   {
-   "symbol": "GAG",
-   "name": "GAG Token (GAG)"
+   "symbol": "BAS",
+   "name": "Basis Share (BAS)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
   }
  ]
 }
