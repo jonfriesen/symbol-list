@@ -1,226 +1,126 @@
 {
  "added": [
   {
-   "symbol": "TCCA",
-   "name": "Trading Central Quant Canada 50 Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TCCA.TO",
+   "symbol": "BEAR",
+   "name": "Big Bear Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BEAR.V",
    "instruments": [
     {
-     "name": "TC Quant Can 50 ETF",
-     "symbol": "TCCA"
+     "name": "Big Bear Gold Corp.",
+     "symbol": "BEAR"
     }
    ]
   },
   {
-   "symbol": "TCEU",
-   "name": "Trading Central Quant Europe 50 Equity Index ETF",
+   "symbol": "EASY",
+   "name": "Evolve All-in-One UltraYield ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "TCEU.TO",
+   "yahoo_symbol": "EASY.TO",
    "instruments": [
     {
-     "name": "TC Quant Eur 50 ETF",
-     "symbol": "TCEU"
+     "name": "Evolve AllIn1 UltY E",
+     "symbol": "EASY"
     }
    ]
   },
   {
-   "symbol": "TCWW",
-   "name": "Trading Central Quant Global 50 Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TCWW.TO",
-   "instruments": [
-    {
-     "name": "TC Quant Gbl 50 ETF",
-     "symbol": "TCWW"
-    }
-   ]
-  },
-  {
-   "symbol": "TCUS",
-   "name": "Trading Central Quant U.S. 50 Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TCUS.TO",
-   "instruments": [
-    {
-     "name": "TC Quant US50 Eq ETF",
-     "symbol": "TCUS"
-    }
-   ]
-  },
-  {
-   "symbol": "VITL.DB.H",
-   "name": "Vital Infrastructure Property Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "VITL.DB.H.TO",
-   "instruments": [
-    {
-     "name": "NW Healthcare 6.25Db",
-     "symbol": "VITL.DB.H"
-    },
-    {
-     "name": "NW Healthcare 7.75Db",
-     "symbol": "VITL.DB.I"
-    },
-    {
-     "name": "NW Healthcare Un",
-     "symbol": "VITL.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "CAST",
-   "name": "FreeCast, Inc. - Class A common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAST"
-  },
-  {
-   "symbol": "FGII",
-   "name": "FG Imperii Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FGII"
-  },
-  {
-   "symbol": "FGIIW",
-   "name": "FG Imperii Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FGIIW"
-  },
-  {
-   "symbol": "FLNA",
-   "name": "Filana Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLNA"
-  },
-  {
-   "symbol": "GLWG",
-   "name": "Leverage Shares 2X Long GLW Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLWG"
-  },
-  {
-   "symbol": "IEAG",
-   "name": "Infinite Eagle Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IEAG"
-  },
-  {
-   "symbol": "IEAGR",
-   "name": "Infinite Eagle Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IEAGR"
-  },
-  {
-   "symbol": "LVIG",
-   "name": "Longview Advantage Fixed Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LVIG"
-  },
-  {
-   "symbol": "HSLV",
-   "name": "Highlander Silver Corp. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "HSLV"
-  },
-  {
-   "symbol": "UAMY",
-   "name": "United States Antimony Corporation Common Stock",
+   "symbol": "MDA",
+   "name": "MDA Space Ltd. Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "UAMY"
+   "yahoo_symbol": "MDA"
+  },
+  {
+   "symbol": "MTAL.U",
+   "name": "Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTAL.U"
+  },
+  {
+   "symbol": "CODX",
+   "name": "Co-Diagnostics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CODX"
+  },
+  {
+   "symbol": "GMEX",
+   "name": "GMEX ROBOTICS CORPORATION - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMEX"
+  },
+  {
+   "symbol": "GRML",
+   "name": "Greenland Mines Ltd - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRML"
+  },
+  {
+   "symbol": "GRMLW",
+   "name": "Greenland Mines Ltd - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRMLW"
+  },
+  {
+   "symbol": "QUCY",
+   "name": "Mainz Biomed N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QUCY"
+  },
+  {
+   "symbol": "SUMAU",
+   "name": "SUMA Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUMAU"
   }
  ],
  "removed": [
   {
-   "symbol": "UAMY",
-   "name": "United States Antimony Corporation Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "UAMY"
+   "symbol": "AEVAW",
+   "name": "Aeva Technologies, Inc. - Redeemable Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AEVAW"
   },
   {
-   "symbol": "ATCU",
-   "name": "Alta Copper Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ATCU.TO",
-   "instruments": [
-    {
-     "name": "Alta Copper Corp. J",
-     "symbol": "ATCU"
-    }
-   ]
-  },
-  {
-   "symbol": "NWH.DB.H",
-   "name": "Northwest Healthcare Properties Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "NWH.DB.H.TO",
-   "instruments": [
-    {
-     "name": "NW Healthcare 6.25Db",
-     "symbol": "NWH.DB.H"
-    },
-    {
-     "name": "NW Healthcare 7.75Db",
-     "symbol": "NWH.DB.I"
-    },
-    {
-     "name": "NW Healthcare Un",
-     "symbol": "NWH.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "SAVA",
-   "name": "Cassava Sciences, Inc. - Common Stock",
+   "symbol": "OUSTZ",
+   "name": "Ouster, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SAVA"
+   "yahoo_symbol": "OUSTZ"
   },
   {
-   "symbol": "ULT",
-   "name": "Ultra Lithium Inc.",
+   "symbol": "MYNZ",
+   "name": "Mainz Biomed N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYNZ"
+  },
+  {
+   "symbol": "KLTOW",
+   "name": "Klotho Neurosciences, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KLTOW"
+  },
+  {
+   "symbol": "FTEL",
+   "name": "Fitell Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTEL"
+  },
+  {
+   "symbol": "WKG",
+   "name": "WestKam Gold Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ULT.V",
+   "yahoo_symbol": "WKG.V",
    "instruments": [
     {
-     "name": "Ultra Lithium Inc.",
-     "symbol": "ULT"
+     "name": "WestKam Gold Corp.",
+     "symbol": "WKG"
     }
    ]
   },
   {
-   "symbol": "LL",
-   "name": "Canada Rare Earth Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LL.V",
-   "instruments": [
-    {
-     "name": "Canada Rare Earth Corp.",
-     "symbol": "LL"
-    }
-   ]
-  },
-  {
-   "symbol": "ESE",
-   "name": "ESE Entertainment Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ESE.V",
-   "instruments": [
-    {
-     "name": "ESE Entertainment Inc.",
-     "symbol": "ESE"
-    }
-   ]
-  },
-  {
-   "symbol": "IMM",
-   "name": "International Metals Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IMM.V",
-   "instruments": [
-    {
-     "name": "International Metals Mining Corp.",
-     "symbol": "IMM"
-    }
-   ]
+   "symbol": "KLTO",
+   "name": "Klotho Neurosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KLTO"
   }
  ]
 }
