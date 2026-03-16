@@ -1,5 +1,5 @@
 {
- "date": "2026-03-13",
+ "date": "2026-03-16",
  "data": [
   {
    "symbol": "ONE",
@@ -25486,6 +25486,18 @@
    ]
   },
   {
+   "symbol": "CDE",
+   "name": "Coeur Mining, Inc",
+   "exchange": "TSX",
+   "yahoo_symbol": "CDE.TO",
+   "instruments": [
+    {
+     "name": "Coeur Mining Inc",
+     "symbol": "CDE"
+    }
+   ]
+  },
+  {
    "symbol": "CCA",
    "name": "Cogeco Communications Inc.",
    "exchange": "TSX",
@@ -49954,12 +49966,6 @@
    "yahoo_symbol": "BGRO"
   },
   {
-   "symbol": "BHAT",
-   "name": "Blue Hat Interactive Entertainment Technology - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BHAT"
-  },
-  {
    "symbol": "BHF",
    "name": "Brighthouse Financial, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53003,7 +53009,7 @@
   },
   {
    "symbol": "COIN",
-   "name": "Coinbase Global, Inc. - 3Class A Common Stock",
+   "name": "Coinbase Global, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "COIN"
   },
@@ -57274,6 +57280,12 @@
    "yahoo_symbol": "FNLC"
   },
   {
+   "symbol": "FNUC",
+   "name": "Frontier Nuclear and Minerals Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FNUC"
+  },
+  {
    "symbol": "FNWB",
    "name": "First Northwest Bancorp - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -61468,12 +61480,6 @@
    "yahoo_symbol": "IRON"
   },
   {
-   "symbol": "IROQ",
-   "name": "IF Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IROQ"
-  },
-  {
    "symbol": "IRTC",
    "name": "iRhythm Holdings, Inc.  - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63236,12 +63242,6 @@
    "name": "Lumentum Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LITE"
-  },
-  {
-   "symbol": "LITM",
-   "name": "Snow Lake Resources Ltd. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LITM"
   },
   {
    "symbol": "LITP",
@@ -69062,6 +69062,12 @@
    "name": "POMDOCTOR LIMITED - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "POM"
+  },
+  {
+   "symbol": "PONOU",
+   "name": "Pono Capital Four, Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PONOU"
   },
   {
    "symbol": "PONY",
@@ -76594,6 +76600,12 @@
    "yahoo_symbol": "VITL"
   },
   {
+   "symbol": "VIVO",
+   "name": "VivoPower PLC - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIVO"
+  },
+  {
    "symbol": "VIVS",
    "name": "VivoSim Labs, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -77012,12 +77024,6 @@
    "name": "Vivos Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VVOS"
-  },
-  {
-   "symbol": "VVPR",
-   "name": "VivoPower International PLC - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VVPR"
   },
   {
    "symbol": "VWAV",
@@ -77812,10 +77818,22 @@
    "yahoo_symbol": "XBTY"
   },
   {
+   "symbol": "XCBE",
+   "name": "X3 Acquisition Corp. Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XCBE"
+  },
+  {
    "symbol": "XCBEU",
    "name": "X3 Acquisition Corp. Ltd. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "XCBEU"
+  },
+  {
+   "symbol": "XCBEW",
+   "name": "X3 Acquisition Corp. Ltd. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XCBEW"
   },
   {
    "symbol": "XCH",
@@ -81616,10 +81634,10 @@
    "yahoo_symbol": "BUI"
   },
   {
-   "symbol": "BUI.V",
-   "name": "BlackRock Utility, Infrastructure \u0026 Power Opportun Rights (expiring April 2, 2026) Rights when issued",
+   "symbol": "BUI.R",
+   "name": "BlackRock Utility, Infrastructure \u0026 Power Opportun Rights (expiring April 2, 2026) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "BUI.V"
+   "yahoo_symbol": "BUI.R"
   },
   {
    "symbol": "BUR",
@@ -88612,10 +88630,22 @@
    "yahoo_symbol": "LEG"
   },
   {
+   "symbol": "LEGO",
+   "name": "Legato Merger Corp. IV Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGO"
+  },
+  {
    "symbol": "LEGO.U",
    "name": "Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "LEGO.U"
+  },
+  {
+   "symbol": "LEGO.W",
+   "name": "Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGO.W"
   },
   {
    "symbol": "LEGT",
