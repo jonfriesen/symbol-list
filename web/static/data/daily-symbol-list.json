@@ -1,5 +1,5 @@
 {
- "date": "2026-03-16",
+ "date": "2026-03-17",
  "data": [
   {
    "symbol": "ONE",
@@ -10786,18 +10786,6 @@
     {
      "name": "Neptune Digital Assets Corp.",
      "symbol": "NDA"
-    }
-   ]
-  },
-  {
-   "symbol": "NGEN",
-   "name": "NervGen Pharma Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NGEN.V",
-   "instruments": [
-    {
-     "name": "Nervgen Pharma Corp.",
-     "symbol": "NGEN"
     }
    ]
   },
@@ -25487,7 +25475,7 @@
   },
   {
    "symbol": "CDE",
-   "name": "Coeur Mining, Inc",
+   "name": "Coeur Mining, Inc.",
    "exchange": "TSX",
    "yahoo_symbol": "CDE.TO",
    "instruments": [
@@ -37450,6 +37438,18 @@
    ]
   },
   {
+   "symbol": "MMAC",
+   "name": "Manulife CQS Multi Asset Credit Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMAC.TO",
+   "instruments": [
+    {
+     "name": "Mnulfe CQS Mlt A C F",
+     "symbol": "MMAC"
+    }
+   ]
+  },
+  {
    "symbol": "MDIF",
    "name": "Manulife Dividend Income Fund",
    "exchange": "TSX",
@@ -47764,10 +47764,22 @@
    "yahoo_symbol": "ALOT"
   },
   {
+   "symbol": "ALOV",
+   "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALOV"
+  },
+  {
    "symbol": "ALOVU",
    "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ALOVU"
+  },
+  {
+   "symbol": "ALOVW",
+   "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALOVW"
   },
   {
    "symbol": "ALOY",
@@ -48472,10 +48484,22 @@
    "yahoo_symbol": "ARCC"
   },
   {
+   "symbol": "ARCI",
+   "name": "Archimedes Tech SPAC Partners III Co. - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCI"
+  },
+  {
    "symbol": "ARCIU",
    "name": "Archimedes Tech SPAC Partners III Co. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ARCIU"
+  },
+  {
+   "symbol": "ARCIW",
+   "name": "Archimedes Tech SPAC Partners III Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCIW"
   },
   {
    "symbol": "ARCT",
@@ -49334,24 +49358,6 @@
    "name": "Blue Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BACCU"
-  },
-  {
-   "symbol": "BACQ",
-   "name": "Inflection Point Acquisition Corp. IV - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BACQ"
-  },
-  {
-   "symbol": "BACQR",
-   "name": "Inflection Point Acquisition Corp. IV - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BACQR"
-  },
-  {
-   "symbol": "BACQU",
-   "name": "Inflection Point Acquisition Corp. IV - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BACQU"
   },
   {
    "symbol": "BAER",
@@ -63844,12 +63850,6 @@
    "yahoo_symbol": "LYFT"
   },
   {
-   "symbol": "LYRA",
-   "name": "Lyra Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LYRA"
-  },
-  {
    "symbol": "LYTS",
    "name": "LSI Industries Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -65108,6 +65108,12 @@
    "name": "Marker Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MRKR"
+  },
+  {
+   "symbol": "MRLN",
+   "name": "Merlin, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRLN"
   },
   {
    "symbol": "MRM",
@@ -69580,10 +69586,22 @@
    "yahoo_symbol": "PTON"
   },
   {
+   "symbol": "PTOR",
+   "name": "Praetorian Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTOR"
+  },
+  {
    "symbol": "PTORU",
    "name": "Praetorian Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PTORU"
+  },
+  {
+   "symbol": "PTORW",
+   "name": "Praetorian Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTORW"
   },
   {
    "symbol": "PTRN",
@@ -69842,12 +69860,6 @@
    "name": "Innovator Hedged Nasdaq-100 ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QHDG"
-  },
-  {
-   "symbol": "QIPT",
-   "name": "Quipt Home Medical Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QIPT"
   },
   {
    "symbol": "QLDY",
@@ -73354,6 +73366,12 @@
    "yahoo_symbol": "SQQQ"
   },
   {
+   "symbol": "SQS",
+   "name": "Sapient Quality Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SQS"
+  },
+  {
    "symbol": "SRAD",
    "name": "Sportradar Group AG - Class A Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73733,7 +73751,7 @@
   },
   {
    "symbol": "SUGP",
-   "name": "SU Group Holdings Limited - Ordinary Shares",
+   "name": "SU Group Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SUGP"
   },
@@ -74708,6 +74726,12 @@
    "name": "Tandy Leather Factory, Inc. - common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TLF"
+  },
+  {
+   "symbol": "TLG",
+   "name": "Touchstone Large Company Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLG"
   },
   {
    "symbol": "TLIH",
@@ -77267,7 +77291,7 @@
   },
   {
    "symbol": "WETO",
-   "name": "Webus International Limited - Ordinary Shares",
+   "name": "Wetour Robotics Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WETO"
   },
@@ -78449,7 +78473,7 @@
   },
   {
    "symbol": "ZJK",
-   "name": "ZJK Industrial Co., Ltd. - Ordinary Shares",
+   "name": "ZJK Industrial Co., Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZJK"
   },
@@ -79172,6 +79196,12 @@
    "name": "C3.ai, Inc. Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "AI"
+  },
+  {
+   "symbol": "AIB",
+   "name": "BlockchAIn Digital Infrastructure, Inc Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AIB"
   },
   {
    "symbol": "AIG",
@@ -85274,6 +85304,12 @@
    "name": "First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",
    "exchange": "NYSE",
    "yahoo_symbol": "FHN$F"
+  },
+  {
+   "symbol": "FHN$H",
+   "name": "First Horizon Corporation Depositary Shares each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series H",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FHN$H"
   },
   {
    "symbol": "FICO",
@@ -94034,12 +94070,6 @@
    "name": "Somnigroup International Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SGI"
-  },
-  {
-   "symbol": "SGN",
-   "name": "Signing Day Sports, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SGN"
   },
   {
    "symbol": "SGU",
