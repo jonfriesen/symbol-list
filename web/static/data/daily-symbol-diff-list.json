@@ -1,132 +1,132 @@
 {
  "added": [
   {
-   "symbol": "MMAC",
-   "name": "Manulife CQS Multi Asset Credit Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMAC.TO",
+   "symbol": "AURA",
+   "name": "Auranova Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AURA.V",
    "instruments": [
     {
-     "name": "Mnulfe CQS Mlt A C F",
-     "symbol": "MMAC"
+     "name": "Auranova Resources Inc.",
+     "symbol": "AURA"
     }
    ]
   },
   {
-   "symbol": "ALOV",
-   "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALOV"
+   "symbol": "MMX",
+   "name": "Mustang Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MMX.V",
+   "instruments": [
+    {
+     "name": "Mustang Minerals Limited",
+     "symbol": "MMX"
+    }
+   ]
   },
   {
-   "symbol": "ALOVW",
-   "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALOVW"
+   "symbol": "SEVA",
+   "name": "Seva Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SEVA.V",
+   "instruments": [
+    {
+     "name": "Seva Mining Corp.",
+     "symbol": "SEVA"
+    }
+   ]
   },
   {
-   "symbol": "ARCI",
-   "name": "Archimedes Tech SPAC Partners III Co. - Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARCI"
+   "symbol": "CAGE",
+   "name": "Avantis CIBC All-Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAGE.TO",
+   "instruments": [
+    {
+     "name": "Avant CIBC All Eq AA",
+     "symbol": "CAGE"
+    }
+   ]
   },
   {
-   "symbol": "ARCIW",
-   "name": "Archimedes Tech SPAC Partners III Co. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ARCIW"
+   "symbol": "MAEC",
+   "name": "Middlefield ActivEnergy Dividend Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAEC.TO",
+   "instruments": [
+    {
+     "name": "Mid Act En Div Cls E",
+     "symbol": "MAEC"
+    }
+   ]
   },
   {
-   "symbol": "MRLN",
-   "name": "Merlin, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MRLN"
+   "symbol": "MIPC",
+   "name": "Middlefield Income Plus Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "MIPC.TO",
+   "instruments": [
+    {
+     "name": "Mid Income Pls Cls E",
+     "symbol": "MIPC"
+    }
+   ]
   },
   {
-   "symbol": "PTOR",
-   "name": "Praetorian Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PTOR"
-  },
-  {
-   "symbol": "PTORW",
-   "name": "Praetorian Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PTORW"
-  },
-  {
-   "symbol": "SQS",
-   "name": "Sapient Quality Select ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SQS"
-  },
-  {
-   "symbol": "TLG",
-   "name": "Touchstone Large Company Growth ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLG"
-  },
-  {
-   "symbol": "AIB",
-   "name": "BlockchAIn Digital Infrastructure, Inc Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "AIB"
-  },
-  {
-   "symbol": "FHN$H",
-   "name": "First Horizon Corporation Depositary Shares each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series H",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FHN$H"
+   "symbol": "SWMR",
+   "name": "Swarmer, Inc - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWMR"
   }
  ],
  "removed": [
   {
-   "symbol": "SGN",
-   "name": "Signing Day Sports, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SGN"
+   "symbol": "TSI.R",
+   "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TSI.R"
   },
   {
-   "symbol": "BACQU",
-   "name": "Inflection Point Acquisition Corp. IV - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BACQU"
+   "symbol": "SCE$K",
+   "name": "Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCE$K"
   },
   {
-   "symbol": "NGEN",
-   "name": "NervGen Pharma Corp.",
+   "symbol": "ULY",
+   "name": "Urgent.ly Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ULY"
+  },
+  {
+   "symbol": "AMZ",
+   "name": "Azucar Minerals Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "NGEN.V",
+   "yahoo_symbol": "AMZ.V",
    "instruments": [
     {
-     "name": "Nervgen Pharma Corp.",
-     "symbol": "NGEN"
+     "name": "Azucar Minerals Ltd.",
+     "symbol": "AMZ"
     }
    ]
   },
   {
-   "symbol": "BACQ",
-   "name": "Inflection Point Acquisition Corp. IV - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BACQ"
+   "symbol": "CFLT",
+   "name": "Confluent, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CFLT"
   },
   {
    "symbol": "QIPT",
-   "name": "Quipt Home Medical Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QIPT"
-  },
-  {
-   "symbol": "BACQR",
-   "name": "Inflection Point Acquisition Corp. IV - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BACQR"
-  },
-  {
-   "symbol": "LYRA",
-   "name": "Lyra Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LYRA"
+   "name": "Quipt Home Medical Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "QIPT.TO",
+   "instruments": [
+    {
+     "name": "Quipt Home Medical J",
+     "symbol": "QIPT"
+    }
+   ]
   }
  ]
 }

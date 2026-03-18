@@ -1,5 +1,5 @@
 {
- "date": "2026-03-17",
+ "date": "2026-03-18",
  "data": [
   {
    "symbol": "ONE",
@@ -1550,6 +1550,18 @@
    ]
   },
   {
+   "symbol": "AURA",
+   "name": "Auranova Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AURA.V",
+   "instruments": [
+    {
+     "name": "Auranova Resources Inc.",
+     "symbol": "AURA"
+    }
+   ]
+  },
+  {
    "symbol": "RES",
    "name": "Auric Resources Corp.",
    "exchange": "TSXV",
@@ -1798,18 +1810,6 @@
     {
      "name": "Aztec Minerals Corp.",
      "symbol": "AZT"
-    }
-   ]
-  },
-  {
-   "symbol": "AMZ",
-   "name": "Azucar Minerals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMZ.V",
-   "instruments": [
-    {
-     "name": "Azucar Minerals Ltd.",
-     "symbol": "AMZ"
     }
    ]
   },
@@ -10658,6 +10658,18 @@
    ]
   },
   {
+   "symbol": "MMX",
+   "name": "Mustang Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MMX.V",
+   "instruments": [
+    {
+     "name": "Mustang Minerals Limited",
+     "symbol": "MMX"
+    }
+   ]
+  },
+  {
    "symbol": "MGRO",
    "name": "MustGrow Biologics Corp.",
    "exchange": "TSXV",
@@ -14226,6 +14238,18 @@
     {
      "name": "Sendero Resources Corp.",
      "symbol": "SEND"
+    }
+   ]
+  },
+  {
+   "symbol": "SEVA",
+   "name": "Seva Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SEVA.V",
+   "instruments": [
+    {
+     "name": "Seva Mining Corp.",
+     "symbol": "SEVA"
     }
    ]
   },
@@ -19006,6 +19030,18 @@
     {
      "name": "Avant Brands Inc. J",
      "symbol": "AVNT"
+    }
+   ]
+  },
+  {
+   "symbol": "CAGE",
+   "name": "Avantis CIBC All-Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAGE.TO",
+   "instruments": [
+    {
+     "name": "Avant CIBC All Eq AA",
+     "symbol": "CAGE"
     }
    ]
   },
@@ -38206,6 +38242,18 @@
    ]
   },
   {
+   "symbol": "MAEC",
+   "name": "Middlefield ActivEnergy Dividend Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAEC.TO",
+   "instruments": [
+    {
+     "name": "Mid Act En Div Cls E",
+     "symbol": "MAEC"
+    }
+   ]
+  },
+  {
    "symbol": "MDIV",
    "name": "Middlefield Global Dividend Growers ETF",
    "exchange": "TSX",
@@ -38238,6 +38286,18 @@
     {
      "name": "Middlefld Hlthcr Div",
      "symbol": "MHCD"
+    }
+   ]
+  },
+  {
+   "symbol": "MIPC",
+   "name": "Middlefield Income Plus Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "MIPC.TO",
+   "instruments": [
+    {
+     "name": "Mid Income Pls Cls E",
+     "symbol": "MIPC"
     }
    ]
   },
@@ -41402,18 +41462,6 @@
     {
      "name": "Questerre Corp.",
      "symbol": "QEC"
-    }
-   ]
-  },
-  {
-   "symbol": "QIPT",
-   "name": "Quipt Home Medical Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "QIPT.TO",
-   "instruments": [
-    {
-     "name": "Quipt Home Medical J",
-     "symbol": "QIPT"
     }
    ]
   },
@@ -52142,12 +52190,6 @@
    "name": "Capitol Federal Financial, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CFFN"
-  },
-  {
-   "symbol": "CFLT",
-   "name": "Confluent, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CFLT"
   },
   {
    "symbol": "CFO",
@@ -73990,6 +74032,12 @@
    "yahoo_symbol": "SWKS"
   },
   {
+   "symbol": "SWMR",
+   "name": "Swarmer, Inc - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWMR"
+  },
+  {
    "symbol": "SWP",
    "name": "SWP Growth \u0026 Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -75866,12 +75914,6 @@
    "name": "VictoryShares US Value Momentum ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ULVM"
-  },
-  {
-   "symbol": "ULY",
-   "name": "Urgent.ly Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ULY"
   },
   {
    "symbol": "UMBF",
@@ -93856,12 +93898,6 @@
    "yahoo_symbol": "SCE$G"
   },
   {
-   "symbol": "SCE$K",
-   "name": "Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SCE$K"
-  },
-  {
    "symbol": "SCE$L",
    "name": "SCE TRUST VI",
    "exchange": "NYSE",
@@ -95762,12 +95798,6 @@
    "name": "TCW Strategic Income Fund, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TSI"
-  },
-  {
-   "symbol": "TSI.R",
-   "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TSI.R"
   },
   {
    "symbol": "TSLX",
