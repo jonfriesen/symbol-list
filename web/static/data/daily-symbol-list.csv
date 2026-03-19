@@ -1856,7 +1856,6 @@ CTC,"Canadian Tire Corporation, Limited",TSX,CTC.TO,Canadian Tire Corp,CTC,Canad
 CU,Canadian Utilities Limited,TSX,CU.TO,Cdn Utilities A NV,CU,Cdn Util 2nd Pr Y,CU.PR.C,Cdn Util 2nd Pr AA,CU.PR.D,Cdn Util 2nd Pr BB,CU.PR.E,Cdn Util 2nd Pr CC,CU.PR.F,Cdn Util 2nd Pr DD,CU.PR.G,Cdn Util 2nd Pr EE,CU.PR.H,Cdn Util 2nd Pr HH,CU.PR.J,Cdn Utilities A PrJJ,CU.PR.K
 CCM,Canagold Resources Ltd.,TSX,CCM.TO,Canagold Res Ltd. J,CCM
 CFP,Canfor Corporation,TSX,CFP.TO,Canfor Corporation,CFP
-CFX,Canfor Pulp Products Inc.,TSX,CFX.TO,Canfor Pulp Products,CFX
 ICE,Canlan Ice Sports Corp.,TSX,ICE.TO,Canlan Ice Sports,ICE
 LOVE,Cannara Biotech Inc.,TSX,LOVE.TO,Cannara Biotech Inc,LOVE
 EIT.PR.A,Canoe EIT Income Fund,TSX,EIT.PR.A.TO,Canoe EIT Ser 1 Pr,EIT.PR.A,Canoe EIT Ser 2 Pr,EIT.PR.B,Canoe EIT Income Un,EIT.UN
@@ -2982,6 +2981,7 @@ MRK,Merck CDR (CAD Hedged),TSX,MRK.TO,Merck CDR Hgd,MRK
 MER,Meren Energy Inc.,TSX,MER.TO,Meren Energy Inc,MER
 MNO,Meridian Mining plc,TSX,MNO.TO,Meridian Mining PLC,MNO
 META,Meta CDR (CAD Hedged),TSX,META.TO,Meta CDR CAD Hedged,META
+MTEK,Metatek-Group Ltd.,TSX,MTEK.TO,Metatek-Group Ltd WI,MTEK
 MX,Methanex Corporation,TSX,MX.TO,Methanex Corporation,MX
 MRU,Metro Inc.,TSX,MRU.TO,Metro Inc.,MRU
 MBX,Microbix Biosystems Inc.,TSX,MBX.TO,Microbix Biosystms J,MBX
@@ -4204,6 +4204,7 @@ BGMS,"Bio Green Med Solution, Inc. - Common Stock",NASDAQ Capital Market,BGMS
 BGMSP,"Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock",NASDAQ Capital Market,BGMSP
 BGRN,iShares USD Green Bond ETF,NASDAQ Global MarketSM,BGRN
 BGRO,iShares Large Cap Growth Active ETF,NASDAQ Global MarketSM,BGRO
+BHDG,Nicholas Bitcoin Tail ETF,NASDAQ Global MarketSM,BHDG
 BHF,"Brighthouse Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,BHF
 BHFAL,"Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058",NASDAQ Global Select MarketSM,BHFAL
 BHFAM,"Brighthouse Financial, Inc. - Depositary shares each representing a 1/1,000th Interest in a Share of 4.625% Non-Cumulative Preferred Stock, Series D",NASDAQ Global Select MarketSM,BHFAM
@@ -4953,7 +4954,7 @@ DLO,DLocal Limited - Class A Common Shares,NASDAQ Global Select MarketSM,DLO
 DLPN,"Dolphin Entertainment, Inc. - Common Stock",NASDAQ Capital Market,DLPN
 DLTH,Duluth Holdings Inc. - Class B Common Stock,NASDAQ Global Select MarketSM,DLTH
 DLTR,"Dollar Tree, Inc. - Common Stock",NASDAQ Global Select MarketSM,DLTR
-DLXY,Delixy Holdings Limited - Ordinary Shares,NASDAQ Capital Market,DLXY
+DLXY,Delixy Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,DLXY
 DMAA,Drugs Made In America Acquisition Corp. - Ordinary Shares,NASDAQ Global MarketSM,DMAA
 DMAAR,Drugs Made In America Acquisition Corp. - Rights,NASDAQ Global MarketSM,DMAAR
 DMAAU,Drugs Made In America Acquisition Corp. - Units,NASDAQ Global MarketSM,DMAAU
@@ -6697,6 +6698,7 @@ MNST,Monster Beverage Corporation - Common Stock,NASDAQ Global Select MarketSM,M
 MNTK,"Montauk Renewables, Inc. - Common Stock",NASDAQ Capital Market,MNTK
 MNTS,Momentus Inc. - Class A Common Stock,NASDAQ Capital Market,MNTS
 MNTSW,Momentus Inc. - Warrant,NASDAQ Capital Market,MNTSW
+MNVT,Moonvest ETF,NASDAQ Global MarketSM,MNVT
 MNY,MoneyHero Limited - Class A Ordinary Shares,NASDAQ Global MarketSM,MNY
 MNYWW,MoneyHero Limited - Warrants,NASDAQ Global MarketSM,MNYWW
 MNZL,Manzil Russell Halal USA Broad Market ETF,NASDAQ Global MarketSM,MNZL
@@ -7008,7 +7010,6 @@ NVNIW,Nvni Group Limited - Warrants,NASDAQ Capital Market,NVNIW
 NVNO,enVVeno Medical Corporation - Common Stock,NASDAQ Capital Market,NVNO
 NVTS,Navitas Semiconductor Corporation - Common Stock,NASDAQ Global MarketSM,NVTS
 NVVE,Nuvve Holding Corp. - Common Stock,NASDAQ Capital Market,NVVE
-NVVEW,Nuvve Holding Corp. - Warrant,NASDAQ Capital Market,NVVEW
 NVX,NOVONIX Limited - American Depository Shares,NASDAQ Global MarketSM,NVX
 NVYY,GraniteShares YieldBOOST NVDA ETF,NASDAQ Global MarketSM,NVYY
 NWBI,"Northwest Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,NWBI
@@ -7514,6 +7515,7 @@ QDTY,YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF,NASDAQ Global MarketSM,Q
 QETA,Quetta Acquisition Corporation - Common Stock,NASDAQ Global MarketSM,QETA
 QETAR,Quetta Acquisition Corporation - Right,NASDAQ Global MarketSM,QETAR
 QETAU,Quetta Acquisition Corporation - Unit,NASDAQ Global MarketSM,QETAU
+QEW,Invesco QQQ Equal Weight ETF,NASDAQ Global MarketSM,QEW
 QFIN,"Qfin Holdings, Inc.  - American Depositary Shares",NASDAQ Global Select MarketSM,QFIN
 QGRD,Horizon Nasdaq-100 Defined Risk ETF,NASDAQ Global MarketSM,QGRD
 QH,Quhuo Limited - American Depository Shares,NASDAQ Global MarketSM,QH
@@ -8892,7 +8894,9 @@ XRPT,Volatility Shares Trust XRP 2X ETF,NASDAQ Global MarketSM,XRPT
 XRTX,XORTX Therapeutics Inc. - Common Stock,NASDAQ Capital Market,XRTX
 XRX,Xerox Holdings Corporation - Common Stock,NASDAQ Global Select MarketSM,XRX
 XRXDW,Xerox Holdings Corporation - Warrants,NASDAQ Global Select MarketSM,XRXDW
+XSLL,Xsolla SPAC 1 - Class A Ordinary Shares,NASDAQ Global MarketSM,XSLL
 XSLLU,Xsolla SPAC 1 - Units,NASDAQ Global MarketSM,XSLLU
+XSLLW,Xsolla SPAC 1 - Warrants,NASDAQ Global MarketSM,XSLLW
 XSPI,NEOS Boosted S&P 500 High Income ETF,NASDAQ Global MarketSM,XSPI
 XT,iShares Future Exponential Technologies ETF,NASDAQ Global MarketSM,XT
 XTIA,"XTI Aerospace, Inc. Common Stock  - Common Stock",NASDAQ Capital Market,XTIA
@@ -8945,7 +8949,6 @@ ZCMD,Zhongchao Inc. - Class A Ordinary Shares,NASDAQ Capital Market,ZCMD
 ZD,"Ziff Davis, Inc. - Common Stock",NASDAQ Global Select MarketSM,ZD
 ZDAI,"DirectBooking Technology Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,ZDAI
 ZENA,"ZenaTech, Inc. - Common Stock",NASDAQ Capital Market,ZENA
-ZENV,Zenvia Inc. - Class A Common Stock,NASDAQ Capital Market,ZENV
 ZEO,Zeo Energy Corporation - Class A Common Stock,NASDAQ Capital Market,ZEO
 ZEOWW,Zeo Energy Corporation - Warrants,NASDAQ Capital Market,ZEOWW
 ZG,"Zillow Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ZG
@@ -11943,6 +11946,7 @@ VALE,VALE S.A.  American Depositary Shares Each Representing one common share,NY
 VATE,INNOVATE Corp. Common Stock,NYSE,VATE
 VBF,Invesco Bond Fund Common Stock,NYSE,VBF
 VCV,Invesco California Value Municipal Income Trust Common Stock,NYSE,VCV
+VCX,"Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",NYSE,VCX
 VEEV,Veeva Systems Inc. Class A Common Stock,NYSE,VEEV
 VEL,"Velocity Financial, Inc. Common Stock",NYSE,VEL
 VENU,Venu Holding Corporation Common Stock,NYSE MKT,VENU

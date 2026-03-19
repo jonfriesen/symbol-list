@@ -1,5 +1,5 @@
 {
- "date": "2026-03-18",
+ "date": "2026-03-19",
  "data": [
   {
    "symbol": "ONE",
@@ -23270,18 +23270,6 @@
    ]
   },
   {
-   "symbol": "CFX",
-   "name": "Canfor Pulp Products Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CFX.TO",
-   "instruments": [
-    {
-     "name": "Canfor Pulp Products",
-     "symbol": "CFX"
-    }
-   ]
-  },
-  {
    "symbol": "ICE",
    "name": "Canlan Ice Sports Corp.",
    "exchange": "TSX",
@@ -38182,6 +38170,18 @@
    ]
   },
   {
+   "symbol": "MTEK",
+   "name": "Metatek-Group Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MTEK.TO",
+   "instruments": [
+    {
+     "name": "Metatek-Group Ltd WI",
+     "symbol": "MTEK"
+    }
+   ]
+  },
+  {
    "symbol": "MX",
    "name": "Methanex Corporation",
    "exchange": "TSX",
@@ -50020,6 +50020,12 @@
    "yahoo_symbol": "BGRO"
   },
   {
+   "symbol": "BHDG",
+   "name": "Nicholas Bitcoin Tail ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHDG"
+  },
+  {
    "symbol": "BHF",
    "name": "Brighthouse Financial, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -54515,7 +54521,7 @@
   },
   {
    "symbol": "DLXY",
-   "name": "Delixy Holdings Limited - Ordinary Shares",
+   "name": "Delixy Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DLXY"
   },
@@ -64978,6 +64984,12 @@
    "yahoo_symbol": "MNTSW"
   },
   {
+   "symbol": "MNVT",
+   "name": "Moonvest ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MNVT"
+  },
+  {
    "symbol": "MNY",
    "name": "MoneyHero Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -66842,12 +66854,6 @@
    "name": "Nuvve Holding Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NVVE"
-  },
-  {
-   "symbol": "NVVEW",
-   "name": "Nuvve Holding Corp. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVVEW"
   },
   {
    "symbol": "NVX",
@@ -69878,6 +69884,12 @@
    "name": "Quetta Acquisition Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QETAU"
+  },
+  {
+   "symbol": "QEW",
+   "name": "Invesco QQQ Equal Weight ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QEW"
   },
   {
    "symbol": "QFIN",
@@ -78148,10 +78160,22 @@
    "yahoo_symbol": "XRXDW"
   },
   {
+   "symbol": "XSLL",
+   "name": "Xsolla SPAC 1 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XSLL"
+  },
+  {
    "symbol": "XSLLU",
    "name": "Xsolla SPAC 1 - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "XSLLU"
+  },
+  {
+   "symbol": "XSLLW",
+   "name": "Xsolla SPAC 1 - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XSLLW"
   },
   {
    "symbol": "XSPI",
@@ -78464,12 +78488,6 @@
    "name": "ZenaTech, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ZENA"
-  },
-  {
-   "symbol": "ZENV",
-   "name": "Zenvia Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZENV"
   },
   {
    "symbol": "ZEO",
@@ -96452,6 +96470,12 @@
    "name": "Invesco California Value Municipal Income Trust Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VCV"
+  },
+  {
+   "symbol": "VCX",
+   "name": "Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VCX"
   },
   {
    "symbol": "VEEV",
