@@ -61,7 +61,6 @@ ALT,Alturas Minerals Corp.,TSXV,ALT.V,Alturas Minerals Corp,ALT
 AUUA,Aluula Composites Inc.,TSXV,AUUA.V,Aluula Composites Inc.,AUUA
 ALV,Alvopetro Energy Ltd.,TSXV,ALV.V,Alvopetro Energy Ltd.,ALV
 AHR,Amarc Resources Ltd.,TSXV,AHR.V,Amarc Resources Ltd.,AHR
-AMRQ,Amaroq Ltd.,TSXV,AMRQ.V,Amaroq Ltd.,AMRQ
 AMYA.P,Amaya Big Sky Capital Corp.,TSXV,AMYA.P.V,Amaya Big Sky Capital Corp.,AMYA.P
 MEGO.P,Amego Capital Corp.,TSXV,MEGO.P.V,Amego Capital Corp.,MEGO.P
 AE,American Eagle Gold Corp.,TSXV,AE.V,American Eagle Gold Corp.,AE
@@ -1395,7 +1394,6 @@ VCI,Vitreous Glass Inc.,TSXV,VCI.V,Vitreous Glass Inc,VCI
 VAU,Viva Gold Corp.,TSXV,VAU.V,Viva Gold Corp.,VAU
 VCU,Vizsla Copper Corp.,TSXV,VCU.V,Vizsla Copper Corp.,VCU
 VROY,Vizsla Royalties Corp.,TSXV,VROY.V,Vizsla Royalties Corp.,VROY
-FLT,Volatus Aerospace Inc.,TSXV,FLT.V,Volatus Aerospace Inc.,FLT
 VG,Volcanic Gold Mines Inc,TSXV,VG.V,Volcanic Gold Mines Inc.,VG
 VCT,Volt Carbon Technologies Inc.,TSXV,VCT.V,Volt Carbon Technologies Inc.,VCT
 VMS,Vortex Metals Inc.,TSXV,VMS.V,Vortex Metals Inc.,VMS
@@ -1432,7 +1430,7 @@ CANS,Wildpack Beverage Inc.,TSXV,CANS.V,Wildpack Beverage Inc.,CANS,Wildpack Bev
 WSK,Wildsky Resources Inc.,TSXV,WSK.V,Wildsky Resources Inc.,WSK
 WIL,Wilton Resources Inc.,TSXV,WIL.V,Wilton Resources Inc,WIL
 WEC,Winchester Equity Corporation,TSXV,WEC.V,Winchester Equity Corporation,WEC
-WINS,Winshear Gold Corp.,TSXV,WINS.V,Winshear Gold Corp.,WINS
+WINS,Winshear Metals Corp.,TSXV,WINS.V,Winshear Metals Corp.,WINS
 WISH,Wishpond Technologies Ltd.,TSXV,WISH.V,Wishpond Technologies Ltd.,WISH
 WITT.P,Wittering Capital Corp.,TSXV,WITT.P.V,Wittering Capital Corp.,WITT.P
 WLF,Wolfden Resources Corporation,TSXV,WLF.V,Wolfden Resources Corporation,WLF
@@ -2017,6 +2015,7 @@ CTF.UN,Citadel Income Fund,TSX,CTF.UN.TO,Citadel Incm Fund Un,CTF.UN
 CITI,Citigroup CDR (CAD Hedged),TSX,CITI.TO,Citigroup CDR Hgd,CITI
 CVG,Clairvest Group Inc.,TSX,CVG.TO,Clairvest Group Inc,CVG
 CKI,Clarke Inc.,TSX,CKI.TO,Clarke Inc.,CKI
+CLCH,Clinch Resources Ltd.,TSX,CLCH.TO,Clinch Resources Ltd,CLCH
 CCS.PR.C,Co-operators General Insurance Company,TSX,CCS.PR.C.TO,Co-operators Sr C Pr,CCS.PR.C
 COLA,Coca-Cola CDR (CAD Hedged),TSX,COLA.TO,Coca-Cola CDR CAD HD,COLA
 CDE,"Coeur Mining, Inc.",TSX,CDE.TO,Coeur Mining Inc,CDE
@@ -2321,7 +2320,6 @@ FURY,Fury Gold Mines Limited,TSX,FURY.TO,Fury Gld Mines Ltd J,FURY
 FMR,Future Mineral Resources Inc.,TSX,FMR.TO,Future Mnrl Res Inc,FMR
 GMIN,G Mining Ventures Corp.,TSX,GMIN.TO,G Mining Ventures J,GMIN
 GTWO,G2 Goldfields Inc.,TSX,GTWO.TO,G2 Goldfields Inc.,GTWO
-GLXY,Galaxy Digital Inc.,TSX,GLXY.TO,Galaxy Digital Inc,GLXY
 GAU,Galiano Gold Inc.,TSX,GAU.TO,Galiano Gold Inc. J,GAU
 GH,Gamehost Inc.,TSX,GH.TO,Gamehost Inc.,GH
 GE,GE Aerospace CDR (CAD Hedged),TSX,GE.TO,GE Aerospace CDR Hgd,GE
@@ -3571,6 +3569,7 @@ VGZ,Vista Gold Corp.,TSX,VGZ.TO,Vista Gold Corp,VGZ
 VITL.DB.H,Vital Infrastructure Property Trust,TSX,VITL.DB.H.TO,Vital Infra 6.25Db,VITL.DB.H,Vital Infrast 7.75Db,VITL.DB.I,Vital Infra Propt Un,VITL.UN
 VHI,Vitalhub Corp.,TSX,VHI.TO,Vitalhub Corp. J,VHI
 VZLA,Vizsla Silver Corp.,TSX,VZLA.TO,Vizsla Silver Corp,VZLA
+FLT,Volatus Aerospace Inc.,TSX,FLT.TO,Volatus Aerspce Inc,FLT
 VOXR,Vox Royalty Corp.,TSX,VOXR.TO,Vox Royalty Corp. J,VOXR
 WJX,Wajax Corporation,TSX,WJX.TO,Wajax Corporation,WJX
 WFC,Wall Financial Corporation,TSX,WFC.TO,Wall Financial Corp,WFC
@@ -4204,6 +4203,7 @@ BGMS,"Bio Green Med Solution, Inc. - Common Stock",NASDAQ Capital Market,BGMS
 BGMSP,"Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock",NASDAQ Capital Market,BGMSP
 BGRN,iShares USD Green Bond ETF,NASDAQ Global MarketSM,BGRN
 BGRO,iShares Large Cap Growth Active ETF,NASDAQ Global MarketSM,BGRO
+BHAVU,BHAV Acquisition Corp - Units,NASDAQ Global MarketSM,BHAVU
 BHDG,Nicholas Bitcoin Tail ETF,NASDAQ Global MarketSM,BHDG
 BHF,"Brighthouse Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,BHF
 BHFAL,"Brighthouse Financial, Inc. - Junior Subordinated Debentures due 2058",NASDAQ Global Select MarketSM,BHFAL
@@ -5621,6 +5621,8 @@ GITS,"Global Interactive Technologies, Inc. Common Stock - Common Stock",NASDAQ 
 GIW,GigCapital8 Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,GIW
 GIWWR,GigCapital8 Corp. - Rights,NASDAQ Global MarketSM,GIWWR
 GIWWU,GigCapital8 Corp. - Units,NASDAQ Global MarketSM,GIWWU
+GIX,GigCapital9 Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,GIX
+GIXXR,GigCapital9 Corp. - Rights,NASDAQ Global MarketSM,GIXXR
 GIXXU,GigCapital9 Corp. - Units,NASDAQ Global MarketSM,GIXXU
 GKAT,Scharf Global Opportunity ETF,NASDAQ Global MarketSM,GKAT
 GLAD,Gladstone Capital Corporation - Closed End Fund,NASDAQ Global Select MarketSM,GLAD
@@ -6664,7 +6666,9 @@ MKSI,MKS Inc. - Common Stock,NASDAQ Global Select MarketSM,MKSI
 MKTW,"MarketWise, Inc. - Class A Common Stock",NASDAQ Global MarketSM,MKTW
 MKTX,"MarketAxess Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,MKTX
 MKZR,"MacKenzie Realty Capital, Inc. - Common Stock",NASDAQ Capital Market,MKZR
+MLAA,Mountain Lake Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,MLAA
 MLAAU,Mountain Lake Acquisition Corp. II - Units,NASDAQ Global MarketSM,MLAAU
+MLAAW,Mountain Lake Acquisition Corp. II - Warrants,NASDAQ Global MarketSM,MLAAW
 MLAB,"Mesa Laboratories, Inc. - Common Stock",NASDAQ Global Select MarketSM,MLAB
 MLAC,Mountain Lake Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,MLAC
 MLACR,Mountain Lake Acquisition Corp. - Right,NASDAQ Global MarketSM,MLACR
@@ -7744,6 +7748,8 @@ ROAD,"Construction Partners, Inc. - Common Stock",NASDAQ Global Select MarketSM,
 ROBT,First Trust Nasdaq Artificial Intelligence and Robotics ETF,NASDAQ Global MarketSM,ROBT
 ROC,Rank One Computing Corporation - Common stock,NASDAQ Capital Market,ROC
 ROCK,"Gibraltar Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,ROCK
+ROCQ,JPMorgan Nasdaq Equity Premium Yield ETF,NASDAQ Global MarketSM,ROCQ
+ROCY,JPMorgan Equity Premium Yield ETF,NASDAQ Global MarketSM,ROCY
 ROE,Astoria US Equal Weight Quality Kings ETF,NASDAQ Global MarketSM,ROE
 ROIV,Roivant Sciences Ltd. - Common Shares,NASDAQ Global Select MarketSM,ROIV
 ROKU,"Roku, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ROKU
@@ -8531,7 +8537,6 @@ UNHG,Leverage Shares 2X Long UNH Daily ETF,NASDAQ Global MarketSM,UNHG
 UNIT,Uniti Group Inc. - Common Stock,NASDAQ Global Select MarketSM,UNIT
 UNIY,WisdomTree Voya Yield Enhanced USD Universal Bond Fund,NASDAQ Global MarketSM,UNIY
 UNTY,"Unity Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,UNTY
-UOKA,MDJM LTD - Class A Ordinary Shares,NASDAQ Capital Market,UOKA
 UONE,"Urban One, Inc.  - Class A Common Stock",NASDAQ Capital Market,UONE
 UONEK,"Urban One, Inc.  - Class D Common Stock",NASDAQ Capital Market,UONEK
 UPB,"Upstream Bio, Inc. - Common Stock",NASDAQ Global Select MarketSM,UPB
@@ -9498,6 +9503,7 @@ BW,"Babcock & Wilcox Enterprises, Inc. Common Stock",NYSE,BW
 BW$A,"Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock",NYSE,BW$A
 BWA,BorgWarner Inc. Common Stock,NYSE,BWA
 BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,NYSE,BWG
+BWIV.U,"Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,BWIV.U
 BWLP,BW LPG Limited Common Shares,NYSE,BWLP
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",NYSE,BWMX
 BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",NYSE,BWNB
@@ -10254,6 +10260,7 @@ GM,General Motors Company Common Stock,NYSE,GM
 GME,GameStop Corporation Common Stock,NYSE,GME
 GME.W,GameStop Corporation Warrants to Purchase Common Stock,NYSE,GME.W
 GMED,"Globus Medical, Inc. Class A Common Stock",NYSE,GMED
+GMTL.V,Guardian Metal Resources PLC ADS When-Issued,NYSE MKT,GMTL.V
 GNE,Genie Energy Ltd. Class B Common Stock Stock,NYSE,GNE
 GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),NYSE,GNK
 GNL,"Global Net Lease, Inc. Common Stock",NYSE,GNL
@@ -10516,6 +10523,7 @@ JACS,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,JACS
 JACS.R,"Jackson Acquisition Company II Rights, each right to acquire one-tenth (1/10) of one Class A ordinary share",NYSE,JACS.R
 JACS.U,"Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one-tenth (1/10) of one Class A ordinary share",NYSE,JACS.U
 JAGU,Jaguar Uranium Corp. Class A Common Shares,NYSE MKT,JAGU
+JAN,"Janus Living, Inc. Class A-1 Common Stock",NYSE,JAN
 JBGS,JBG SMITH Properties Common Shares ,NYSE,JBGS
 JBI,"Janus International Group, Inc. Common Stock",NYSE,JBI
 JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,JBK
@@ -10953,7 +10961,6 @@ NFG,National Fuel Gas Company Common Stock,NYSE,NFG
 NFGC,New Found Gold Corp Common Shares,NYSE MKT,NFGC
 NFJ,"Virtus Dividend, Interest & Premium Strategy Fund Common Shares of Beneficial Interest",NYSE,NFJ
 NG,Novagold Resources Inc.,NYSE MKT,NG
-NGD,New Gold Inc.,NYSE MKT,NGD
 NGG,"National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares",NYSE,NGG
 NGL,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,NYSE,NGL
 NGL$B,NGL ENERGY PARTNERS LP 9.00% Class B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partnership interests,NYSE,NGL$B
@@ -10964,6 +10971,7 @@ NGVT,Ingevity Corporation Common Stock ,NYSE,NGVT
 NHC,National HealthCare Corporation Common Stock,NYSE MKT,NHC
 NHI,"National Health Investors, Inc. Common Stock",NYSE,NHI
 NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,NYSE MKT,NHS
+NHS.V,"Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",NYSE MKT,NHS.V
 NI,NiSource Inc Common Stock,NYSE,NI
 NIC,Nicolet Bankshares Inc. Common Stock,NYSE,NIC
 NIE,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest,NYSE,NIE

@@ -1,5 +1,5 @@
 {
- "date": "2026-03-19",
+ "date": "2026-03-20",
  "data": [
   {
    "symbol": "ONE",
@@ -746,18 +746,6 @@
     {
      "name": "Amarc Resources Ltd.",
      "symbol": "AHR"
-    }
-   ]
-  },
-  {
-   "symbol": "AMRQ",
-   "name": "Amaroq Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMRQ.V",
-   "instruments": [
-    {
-     "name": "Amaroq Ltd.",
-     "symbol": "AMRQ"
     }
    ]
   },
@@ -16934,18 +16922,6 @@
    ]
   },
   {
-   "symbol": "FLT",
-   "name": "Volatus Aerospace Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FLT.V",
-   "instruments": [
-    {
-     "name": "Volatus Aerospace Inc.",
-     "symbol": "FLT"
-    }
-   ]
-  },
-  {
    "symbol": "VG",
    "name": "Volcanic Gold Mines Inc",
    "exchange": "TSXV",
@@ -17403,12 +17379,12 @@
   },
   {
    "symbol": "WINS",
-   "name": "Winshear Gold Corp.",
+   "name": "Winshear Metals Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "WINS.V",
    "instruments": [
     {
-     "name": "Winshear Gold Corp.",
+     "name": "Winshear Metals Corp.",
      "symbol": "WINS"
     }
    ]
@@ -25474,6 +25450,18 @@
    ]
   },
   {
+   "symbol": "CLCH",
+   "name": "Clinch Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLCH.TO",
+   "instruments": [
+    {
+     "name": "Clinch Resources Ltd",
+     "symbol": "CLCH"
+    }
+   ]
+  },
+  {
    "symbol": "CCS.PR.C",
    "name": "Co-operators General Insurance Company",
    "exchange": "TSX",
@@ -29614,18 +29602,6 @@
     {
      "name": "G2 Goldfields Inc.",
      "symbol": "GTWO"
-    }
-   ]
-  },
-  {
-   "symbol": "GLXY",
-   "name": "Galaxy Digital Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "GLXY.TO",
-   "instruments": [
-    {
-     "name": "Galaxy Digital Inc",
-     "symbol": "GLXY"
     }
    ]
   },
@@ -46006,6 +45982,18 @@
    ]
   },
   {
+   "symbol": "FLT",
+   "name": "Volatus Aerospace Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLT.TO",
+   "instruments": [
+    {
+     "name": "Volatus Aerspce Inc",
+     "symbol": "FLT"
+    }
+   ]
+  },
+  {
    "symbol": "VOXR",
    "name": "Vox Royalty Corp.",
    "exchange": "TSX",
@@ -50018,6 +50006,12 @@
    "name": "iShares Large Cap Growth Active ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BGRO"
+  },
+  {
+   "symbol": "BHAVU",
+   "name": "BHAV Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAVU"
   },
   {
    "symbol": "BHDG",
@@ -58522,6 +58516,18 @@
    "yahoo_symbol": "GIWWU"
   },
   {
+   "symbol": "GIX",
+   "name": "GigCapital9 Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIX"
+  },
+  {
+   "symbol": "GIXXR",
+   "name": "GigCapital9 Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIXXR"
+  },
+  {
    "symbol": "GIXXU",
    "name": "GigCapital9 Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -64780,10 +64786,22 @@
    "yahoo_symbol": "MKZR"
   },
   {
+   "symbol": "MLAA",
+   "name": "Mountain Lake Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAA"
+  },
+  {
    "symbol": "MLAAU",
    "name": "Mountain Lake Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MLAAU"
+  },
+  {
+   "symbol": "MLAAW",
+   "name": "Mountain Lake Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAAW"
   },
   {
    "symbol": "MLAB",
@@ -71260,6 +71278,18 @@
    "yahoo_symbol": "ROCK"
   },
   {
+   "symbol": "ROCQ",
+   "name": "JPMorgan Nasdaq Equity Premium Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCQ"
+  },
+  {
+   "symbol": "ROCY",
+   "name": "JPMorgan Equity Premium Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCY"
+  },
+  {
    "symbol": "ROE",
    "name": "Astoria US Equal Weight Quality Kings ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -75980,12 +76010,6 @@
    "name": "Unity Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "UNTY"
-  },
-  {
-   "symbol": "UOKA",
-   "name": "MDJM LTD - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UOKA"
   },
   {
    "symbol": "UONE",
@@ -81784,6 +81808,12 @@
    "yahoo_symbol": "BWG"
   },
   {
+   "symbol": "BWIV.U",
+   "name": "Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWIV.U"
+  },
+  {
    "symbol": "BWLP",
    "name": "BW LPG Limited Common Shares",
    "exchange": "NYSE",
@@ -86320,6 +86350,12 @@
    "yahoo_symbol": "GMED"
   },
   {
+   "symbol": "GMTL.V",
+   "name": "Guardian Metal Resources PLC ADS When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GMTL.V"
+  },
+  {
    "symbol": "GNE",
    "name": "Genie Energy Ltd. Class B Common Stock Stock",
    "exchange": "NYSE",
@@ -87890,6 +87926,12 @@
    "name": "Jaguar Uranium Corp. Class A Common Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "JAGU"
+  },
+  {
+   "symbol": "JAN",
+   "name": "Janus Living, Inc. Class A-1 Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JAN"
   },
   {
    "symbol": "JBGS",
@@ -90514,12 +90556,6 @@
    "yahoo_symbol": "NG"
   },
   {
-   "symbol": "NGD",
-   "name": "New Gold Inc.",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NGD"
-  },
-  {
    "symbol": "NGG",
    "name": "National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares",
    "exchange": "NYSE",
@@ -90578,6 +90614,12 @@
    "name": "Neuberger High Yield Strategies Fund Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "NHS"
+  },
+  {
+   "symbol": "NHS.V",
+   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.V"
   },
   {
    "symbol": "NI",

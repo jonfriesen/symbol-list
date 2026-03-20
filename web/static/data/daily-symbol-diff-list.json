@@ -1,78 +1,144 @@
 {
  "added": [
   {
-   "symbol": "MTEK",
-   "name": "Metatek-Group Ltd.",
+   "symbol": "CLCH",
+   "name": "Clinch Resources Ltd.",
    "exchange": "TSX",
-   "yahoo_symbol": "MTEK.TO",
+   "yahoo_symbol": "CLCH.TO",
    "instruments": [
     {
-     "name": "Metatek-Group Ltd WI",
-     "symbol": "MTEK"
+     "name": "Clinch Resources Ltd",
+     "symbol": "CLCH"
     }
    ]
   },
   {
-   "symbol": "BHDG",
-   "name": "Nicholas Bitcoin Tail ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BHDG"
+   "symbol": "FLT",
+   "name": "Volatus Aerospace Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLT.TO",
+   "instruments": [
+    {
+     "name": "Volatus Aerspce Inc",
+     "symbol": "FLT"
+    }
+   ]
   },
   {
-   "symbol": "MNVT",
-   "name": "Moonvest ETF",
+   "symbol": "BHAVU",
+   "name": "BHAV Acquisition Corp - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MNVT"
+   "yahoo_symbol": "BHAVU"
   },
   {
-   "symbol": "QEW",
-   "name": "Invesco QQQ Equal Weight ETF",
+   "symbol": "GIX",
+   "name": "GigCapital9 Corp. - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QEW"
+   "yahoo_symbol": "GIX"
   },
   {
-   "symbol": "XSLL",
-   "name": "Xsolla SPAC 1 - Class A Ordinary Shares",
+   "symbol": "GIXXR",
+   "name": "GigCapital9 Corp. - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XSLL"
+   "yahoo_symbol": "GIXXR"
   },
   {
-   "symbol": "XSLLW",
-   "name": "Xsolla SPAC 1 - Warrants",
+   "symbol": "MLAA",
+   "name": "Mountain Lake Acquisition Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XSLLW"
+   "yahoo_symbol": "MLAA"
   },
   {
-   "symbol": "VCX",
-   "name": "Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",
+   "symbol": "MLAAW",
+   "name": "Mountain Lake Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAAW"
+  },
+  {
+   "symbol": "ROCQ",
+   "name": "JPMorgan Nasdaq Equity Premium Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCQ"
+  },
+  {
+   "symbol": "ROCY",
+   "name": "JPMorgan Equity Premium Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCY"
+  },
+  {
+   "symbol": "BWIV.U",
+   "name": "Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "VCX"
+   "yahoo_symbol": "BWIV.U"
+  },
+  {
+   "symbol": "GMTL.V",
+   "name": "Guardian Metal Resources PLC ADS When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GMTL.V"
+  },
+  {
+   "symbol": "JAN",
+   "name": "Janus Living, Inc. Class A-1 Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JAN"
+  },
+  {
+   "symbol": "NHS.V",
+   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.V"
   }
  ],
  "removed": [
   {
-   "symbol": "CFX",
-   "name": "Canfor Pulp Products Inc.",
+   "symbol": "GLXY",
+   "name": "Galaxy Digital Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "CFX.TO",
+   "yahoo_symbol": "GLXY.TO",
    "instruments": [
     {
-     "name": "Canfor Pulp Products",
-     "symbol": "CFX"
+     "name": "Galaxy Digital Inc",
+     "symbol": "GLXY"
     }
    ]
   },
   {
-   "symbol": "ZENV",
-   "name": "Zenvia Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZENV"
+   "symbol": "AMRQ",
+   "name": "Amaroq Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMRQ.V",
+   "instruments": [
+    {
+     "name": "Amaroq Ltd.",
+     "symbol": "AMRQ"
+    }
+   ]
   },
   {
-   "symbol": "NVVEW",
-   "name": "Nuvve Holding Corp. - Warrant",
+   "symbol": "FLT",
+   "name": "Volatus Aerospace Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FLT.V",
+   "instruments": [
+    {
+     "name": "Volatus Aerospace Inc.",
+     "symbol": "FLT"
+    }
+   ]
+  },
+  {
+   "symbol": "UOKA",
+   "name": "MDJM LTD - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVVEW"
+   "yahoo_symbol": "UOKA"
+  },
+  {
+   "symbol": "NGD",
+   "name": "New Gold Inc.",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NGD"
   }
  ]
 }
