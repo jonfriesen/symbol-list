@@ -1,77 +1,61 @@
 {
  "added": [
   {
-   "symbol": "CLCH",
-   "name": "Clinch Resources Ltd.",
+   "symbol": "COIL",
+   "name": "All-Canadian Oil \u0026 Gas ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CLCH.TO",
+   "yahoo_symbol": "COIL.TO",
    "instruments": [
     {
-     "name": "Clinch Resources Ltd",
-     "symbol": "CLCH"
+     "name": "All CDN Oil\u0026 Gas ETF",
+     "symbol": "COIL"
     }
    ]
   },
   {
-   "symbol": "FLT",
-   "name": "Volatus Aerospace Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "FLT.TO",
-   "instruments": [
-    {
-     "name": "Volatus Aerspce Inc",
-     "symbol": "FLT"
-    }
-   ]
+   "symbol": "HQ",
+   "name": "Horizon Quantum Holdings Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HQ"
   },
   {
-   "symbol": "BHAVU",
-   "name": "BHAV Acquisition Corp - Units",
+   "symbol": "HQWWW",
+   "name": "Horizon Quantum Holdings Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HQWWW"
+  },
+  {
+   "symbol": "KRAQ",
+   "name": "KRAKacquisition Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BHAVU"
+   "yahoo_symbol": "KRAQ"
   },
   {
-   "symbol": "GIX",
-   "name": "GigCapital9 Corp. - Class A Ordinary Share",
+   "symbol": "KRAQW",
+   "name": "KRAKacquisition Corp - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GIX"
+   "yahoo_symbol": "KRAQW"
   },
   {
-   "symbol": "GIXXR",
-   "name": "GigCapital9 Corp. - Rights",
+   "symbol": "SAAQ",
+   "name": "Space Asset Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GIXXR"
+   "yahoo_symbol": "SAAQ"
   },
   {
-   "symbol": "MLAA",
-   "name": "Mountain Lake Acquisition Corp. II - Class A Ordinary Shares",
+   "symbol": "SAAQW",
+   "name": "Space Asset Acquisition Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MLAA"
+   "yahoo_symbol": "SAAQW"
   },
   {
-   "symbol": "MLAAW",
-   "name": "Mountain Lake Acquisition Corp. II - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MLAAW"
-  },
-  {
-   "symbol": "ROCQ",
-   "name": "JPMorgan Nasdaq Equity Premium Yield ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ROCQ"
-  },
-  {
-   "symbol": "ROCY",
-   "name": "JPMorgan Equity Premium Yield ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ROCY"
-  },
-  {
-   "symbol": "BWIV.U",
-   "name": "Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BWIV.U"
-  },
+   "symbol": "GMTL",
+   "name": "Guardian Metal Resources PLC ADS",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GMTL"
+  }
+ ],
+ "removed": [
   {
    "symbol": "GMTL.V",
    "name": "Guardian Metal Resources PLC ADS When-Issued",
@@ -79,66 +63,16 @@
    "yahoo_symbol": "GMTL.V"
   },
   {
-   "symbol": "JAN",
-   "name": "Janus Living, Inc. Class A-1 Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JAN"
-  },
-  {
-   "symbol": "NHS.V",
-   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NHS.V"
-  }
- ],
- "removed": [
-  {
-   "symbol": "GLXY",
-   "name": "Galaxy Digital Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "GLXY.TO",
-   "instruments": [
-    {
-     "name": "Galaxy Digital Inc",
-     "symbol": "GLXY"
-    }
-   ]
-  },
-  {
-   "symbol": "AMRQ",
-   "name": "Amaroq Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AMRQ.V",
-   "instruments": [
-    {
-     "name": "Amaroq Ltd.",
-     "symbol": "AMRQ"
-    }
-   ]
-  },
-  {
-   "symbol": "FLT",
-   "name": "Volatus Aerospace Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FLT.V",
-   "instruments": [
-    {
-     "name": "Volatus Aerospace Inc.",
-     "symbol": "FLT"
-    }
-   ]
-  },
-  {
-   "symbol": "UOKA",
-   "name": "MDJM LTD - Class A Ordinary Shares",
+   "symbol": "BGMSP",
+   "name": "Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UOKA"
+   "yahoo_symbol": "BGMSP"
   },
   {
-   "symbol": "NGD",
-   "name": "New Gold Inc.",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NGD"
+   "symbol": "TGNA",
+   "name": "TEGNA Inc",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGNA"
   }
  ]
 }

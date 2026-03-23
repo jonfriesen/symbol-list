@@ -1512,6 +1512,7 @@ AQN,Algonquin Power & Utilities Corp.,TSX,AQN.TO,Algonquin Pwr & Util,AQN,Algonq
 ATD,Alimentation Couche-Tard Inc.,TSX,ATD.TO,Alimentation Couche,ATD
 ALYA,Alithya Group inc.,TSX,ALYA.TO,Alithya Group J A SV,ALYA
 ALK,Alkane Resources Limited,TSX,ALK.TO,Alkane Resources Ltd,ALK
+COIL,All-Canadian Oil & Gas ETF,TSX,COIL.TO,All CDN Oil& Gas ETF,COIL
 ALZ,Allianz CDR (CAD Hedged),TSX,ALZ.TO,Allianz CDR CAD Hed,ALZ
 AAUC,Allied Gold Corporation,TSX,AAUC.TO,Allied Gold Corp,AAUC,Allied Gld Crp Db US,AAUC.DB.U
 AP.UN,Allied Properties Real Estate Investment Trust,TSX,AP.UN.TO,Allied Prop. REIT Un,AP.UN
@@ -4200,7 +4201,6 @@ BGLC,BioNexus Gene Lab Corp - Common stock,NASDAQ Capital Market,BGLC
 BGLWW,Blue Gold Limited - Warrant,NASDAQ Capital Market,BGLWW
 BGM,BGM Group Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,BGM
 BGMS,"Bio Green Med Solution, Inc. - Common Stock",NASDAQ Capital Market,BGMS
-BGMSP,"Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock",NASDAQ Capital Market,BGMSP
 BGRN,iShares USD Green Bond ETF,NASDAQ Global MarketSM,BGRN
 BGRO,iShares Large Cap Growth Active ETF,NASDAQ Global MarketSM,BGRO
 BHAVU,BHAV Acquisition Corp - Units,NASDAQ Global MarketSM,BHAVU
@@ -5858,8 +5858,10 @@ HOYY,GraniteShares YieldBOOST HOOD ETF,NASDAQ Global MarketSM,HOYY
 HPAI,Helport AI Limited - Ordinary Shares,NASDAQ Capital Market,HPAI
 HPAIW,Helport AI Limited - Warrants,NASDAQ Capital Market,HPAIW
 HPK,"HighPeak Energy, Inc. - Common Stock",NASDAQ Global MarketSM,HPK
+HQ,Horizon Quantum Holdings Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,HQ
 HQGO,Hartford US Quality Growth ETF,NASDAQ Global MarketSM,HQGO
 HQI,"HireQuest, Inc. - Common Stock",NASDAQ Capital Market,HQI
+HQWWW,Horizon Quantum Holdings Ltd. - Warrant,NASDAQ Capital Market,HQWWW
 HQY,"HealthEquity, Inc. - Common Stock",NASDAQ Global Select MarketSM,HQY
 HRMY,"Harmony Biosciences Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,HRMY
 HROW,"Harrow, Inc. - Common Stock",NASDAQ Global MarketSM,HROW
@@ -6287,7 +6289,9 @@ KPLTW,"Katapult Holdings, Inc. - Warrant",NASDAQ Global MarketSM,KPLTW
 KPRX,"Kiora Pharmaceuticals, Inc.  - Common Stock",NASDAQ Capital Market,KPRX
 KPTI,Karyopharm Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,KPTI
 KQQQ,Kurv Technology Titans Select ETF,NASDAQ Global MarketSM,KQQQ
+KRAQ,KRAKacquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,KRAQ
 KRAQU,KRAKacquisition Corp - Unit,NASDAQ Global MarketSM,KRAQU
+KRAQW,KRAKacquisition Corp - Warrants,NASDAQ Global MarketSM,KRAQW
 KRKR,36Kr Holdings Inc. - American Depositary Shares,NASDAQ Capital Market,KRKR
 KRMA,Global X Conscious Companies ETF,NASDAQ Global MarketSM,KRMA
 KRMD,"KORU Medical Systems, Inc. - Common Stock",NASDAQ Capital Market,KRMD
@@ -6716,7 +6720,7 @@ MOLN,Molecular Partners AG - American Depositary Shares,NASDAQ Global Select Mar
 MOMO,Hello Group Inc.  - American Depositary Shares,NASDAQ Global Select MarketSM,MOMO
 MOOD,Relative Sentiment Tactical Allocation ETF,NASDAQ Global MarketSM,MOOD
 MORN,"Morningstar, Inc. - Common Stock",NASDAQ Global Select MarketSM,MORN
-MOVE,Movano Inc. - Common Stock,NASDAQ Capital Market,MOVE
+MOVE,"Corvex, Inc. - Common Stock",NASDAQ Capital Market,MOVE
 MPAA,"Motorcar Parts of America, Inc. - Common Stock",NASDAQ Global Select MarketSM,MPAA
 MPB,Mid Penn Bancorp - Common Stock,NASDAQ Global MarketSM,MPB
 MPG,Leverage Shares 2X Long MP Daily ETF,NASDAQ Global MarketSM,MPG
@@ -7805,7 +7809,9 @@ RYTM,"Rhythm Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,RYTM
 RZLT,"Rezolute, Inc. - Common Stock (NV)",NASDAQ Capital Market,RZLT
 RZLV,Rezolve AI PLC - Ordinary Shares,NASDAQ Global MarketSM,RZLV
 RZLVW,Rezolve AI PLC - Warrants,NASDAQ Capital Market,RZLVW
+SAAQ,Space Asset Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,SAAQ
 SAAQU,Space Asset Acquisition Corp. - Units,NASDAQ Global MarketSM,SAAQU
+SAAQW,Space Asset Acquisition Corp. - Warrants,NASDAQ Global MarketSM,SAAQW
 SABR,Sabre Corporation - Common Stock,NASDAQ Global Select MarketSM,SABR
 SABS,"SAB Biotherapeutics, Inc. - Common Stock",NASDAQ Capital Market,SABS
 SABSW,"SAB Biotherapeutics, Inc. - Warrant",NASDAQ Capital Market,SABSW
@@ -10260,7 +10266,7 @@ GM,General Motors Company Common Stock,NYSE,GM
 GME,GameStop Corporation Common Stock,NYSE,GME
 GME.W,GameStop Corporation Warrants to Purchase Common Stock,NYSE,GME.W
 GMED,"Globus Medical, Inc. Class A Common Stock",NYSE,GMED
-GMTL.V,Guardian Metal Resources PLC ADS When-Issued,NYSE MKT,GMTL.V
+GMTL,Guardian Metal Resources PLC ADS,NYSE MKT,GMTL
 GNE,Genie Energy Ltd. Class B Common Stock Stock,NYSE,GNE
 GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),NYSE,GNK
 GNL,"Global Net Lease, Inc. Common Stock",NYSE,GNL
@@ -11774,7 +11780,6 @@ TGE,The Generation Essentials Group Class A Ordinary Shares,NYSE,TGE
 TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",NYSE MKT,TGE.W
 TGEN,Tecogen Inc. Common Stock,NYSE MKT,TGEN
 TGLS,Tecnoglass Inc. Ordinary Shares,NYSE,TGLS
-TGNA,TEGNA Inc,NYSE,TGNA
 TGS,Transportadora de Gas del Sur SA TGS Common Stock,NYSE,TGS
 TGT,Target Corporation Common Stock,NYSE,TGT
 THC,Tenet Healthcare Corporation Common Stock,NYSE,THC

@@ -1,5 +1,5 @@
 {
- "date": "2026-03-20",
+ "date": "2026-03-23",
  "data": [
   {
    "symbol": "ONE",
@@ -18450,6 +18450,18 @@
     {
      "name": "Alkane Resources Ltd",
      "symbol": "ALK"
+    }
+   ]
+  },
+  {
+   "symbol": "COIL",
+   "name": "All-Canadian Oil \u0026 Gas ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COIL.TO",
+   "instruments": [
+    {
+     "name": "All CDN Oil\u0026 Gas ETF",
+     "symbol": "COIL"
     }
    ]
   },
@@ -49990,12 +50002,6 @@
    "yahoo_symbol": "BGMS"
   },
   {
-   "symbol": "BGMSP",
-   "name": "Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BGMSP"
-  },
-  {
    "symbol": "BGRN",
    "name": "iShares USD Green Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -59938,6 +59944,12 @@
    "yahoo_symbol": "HPK"
   },
   {
+   "symbol": "HQ",
+   "name": "Horizon Quantum Holdings Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HQ"
+  },
+  {
    "symbol": "HQGO",
    "name": "Hartford US Quality Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -59948,6 +59960,12 @@
    "name": "HireQuest, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HQI"
+  },
+  {
+   "symbol": "HQWWW",
+   "name": "Horizon Quantum Holdings Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HQWWW"
   },
   {
    "symbol": "HQY",
@@ -62512,10 +62530,22 @@
    "yahoo_symbol": "KQQQ"
   },
   {
+   "symbol": "KRAQ",
+   "name": "KRAKacquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KRAQ"
+  },
+  {
    "symbol": "KRAQU",
    "name": "KRAKacquisition Corp - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "KRAQU"
+  },
+  {
+   "symbol": "KRAQW",
+   "name": "KRAKacquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KRAQW"
   },
   {
    "symbol": "KRKR",
@@ -65087,7 +65117,7 @@
   },
   {
    "symbol": "MOVE",
-   "name": "Movano Inc. - Common Stock",
+   "name": "Corvex, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MOVE"
   },
@@ -71620,10 +71650,22 @@
    "yahoo_symbol": "RZLVW"
   },
   {
+   "symbol": "SAAQ",
+   "name": "Space Asset Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAAQ"
+  },
+  {
    "symbol": "SAAQU",
    "name": "Space Asset Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SAAQU"
+  },
+  {
+   "symbol": "SAAQW",
+   "name": "Space Asset Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAAQW"
   },
   {
    "symbol": "SABR",
@@ -86350,10 +86392,10 @@
    "yahoo_symbol": "GMED"
   },
   {
-   "symbol": "GMTL.V",
-   "name": "Guardian Metal Resources PLC ADS When-Issued",
+   "symbol": "GMTL",
+   "name": "Guardian Metal Resources PLC ADS",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "GMTL.V"
+   "yahoo_symbol": "GMTL"
   },
   {
    "symbol": "GNE",
@@ -95432,12 +95474,6 @@
    "name": "Tecnoglass Inc. Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "TGLS"
-  },
-  {
-   "symbol": "TGNA",
-   "name": "TEGNA Inc",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TGNA"
   },
   {
    "symbol": "TGS",
