@@ -1,78 +1,60 @@
 {
  "added": [
   {
-   "symbol": "COIL",
-   "name": "All-Canadian Oil \u0026 Gas ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "COIL.TO",
+   "symbol": "THY.P",
+   "name": "Thermopylae Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "THY.P.V",
    "instruments": [
     {
-     "name": "All CDN Oil\u0026 Gas ETF",
-     "symbol": "COIL"
+     "name": "Thermopylae Capital Inc.",
+     "symbol": "THY.P"
     }
    ]
   },
   {
-   "symbol": "HQ",
-   "name": "Horizon Quantum Holdings Ltd. - Class A Ordinary Shares",
+   "symbol": "MUZE",
+   "name": "Muzero Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUZE"
+  },
+  {
+   "symbol": "MUZEW",
+   "name": "Muzero Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUZEW"
+  },
+  {
+   "symbol": "NBRG",
+   "name": "Newbridge Acquisition Limited - Class A Ordinary Share",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HQ"
+   "yahoo_symbol": "NBRG"
   },
   {
-   "symbol": "HQWWW",
-   "name": "Horizon Quantum Holdings Ltd. - Warrant",
+   "symbol": "NBRGR",
+   "name": "Newbridge Acquisition Limited - Rights",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HQWWW"
-  },
-  {
-   "symbol": "KRAQ",
-   "name": "KRAKacquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KRAQ"
-  },
-  {
-   "symbol": "KRAQW",
-   "name": "KRAKacquisition Corp - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KRAQW"
-  },
-  {
-   "symbol": "SAAQ",
-   "name": "Space Asset Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SAAQ"
-  },
-  {
-   "symbol": "SAAQW",
-   "name": "Space Asset Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SAAQW"
-  },
-  {
-   "symbol": "GMTL",
-   "name": "Guardian Metal Resources PLC ADS",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GMTL"
+   "yahoo_symbol": "NBRGR"
   }
  ],
  "removed": [
   {
-   "symbol": "GMTL.V",
-   "name": "Guardian Metal Resources PLC ADS When-Issued",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GMTL.V"
-  },
-  {
-   "symbol": "BGMSP",
-   "name": "Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock",
+   "symbol": "EXAS",
+   "name": "Exact Sciences Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BGMSP"
+   "yahoo_symbol": "EXAS"
   },
   {
-   "symbol": "TGNA",
-   "name": "TEGNA Inc",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TGNA"
+   "symbol": "NGD",
+   "name": "New Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NGD.TO",
+   "instruments": [
+    {
+     "name": "New Gold Inc.",
+     "symbol": "NGD"
+    }
+   ]
   }
  ]
 }
