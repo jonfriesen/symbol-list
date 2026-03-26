@@ -1,118 +1,82 @@
 {
  "added": [
   {
-   "symbol": "VENT",
-   "name": "Ventra Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VENT.V",
-   "instruments": [
-    {
-     "name": "Ventra Metals Corp.",
-     "symbol": "VENT"
-    }
-   ]
-  },
-  {
-   "symbol": "BNKR",
-   "name": "Bunker Hill Mining Corp.",
+   "symbol": "NYSX",
+   "name": "Global X NYSE 100 Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "BNKR.TO",
+   "yahoo_symbol": "NYSX.TO",
    "instruments": [
     {
-     "name": "Bunker Hill Min Corp",
-     "symbol": "BNKR"
+     "name": "Global X NYSE100 I E",
+     "symbol": "NYSX"
+    },
+    {
+     "name": "Global X NYSE100 I E",
+     "symbol": "NYSX.U"
     }
    ]
   },
   {
-   "symbol": "VUDV",
-   "name": "Vanguard U.S. High Dividend Yield Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "VUDV.TO",
-   "instruments": [
-    {
-     "name": "Vngrd US Hi Div Yld",
-     "symbol": "VUDV"
-    }
-   ]
+   "symbol": "MPTI.V",
+   "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MPTI.V"
   },
   {
-   "symbol": "OXLCM",
-   "name": "Oxford Lane Capital Corp. - Preferred Stock Shares, 8.25% Series 2031",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OXLCM"
-  },
-  {
-   "symbol": "NEE$W",
-   "name": "NextEra Energy Capital Holdings Inc. Series Z Junior Subordinated Debentures due April 15, 2086",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NEE$W"
+   "symbol": "NHS.R",
+   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.R"
   }
  ],
  "removed": [
   {
-   "symbol": "OAKUW",
-   "name": "Oak Woods Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OAKUW"
-  },
-  {
-   "symbol": "OAKUR",
-   "name": "Oak Woods Acquisition Corporation - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OAKUR"
-  },
-  {
-   "symbol": "OAKU",
-   "name": "Oak Woods Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OAKU"
-  },
-  {
-   "symbol": "GCG",
-   "name": "Guardian Capital Group Limited",
-   "exchange": "TSX",
-   "yahoo_symbol": "GCG.TO",
-   "instruments": [
-    {
-     "name": "Guardian Capital",
-     "symbol": "GCG"
-    },
-    {
-     "name": "Guardian Cap Cl A NV",
-     "symbol": "GCG.A"
-    }
-   ]
-  },
-  {
-   "symbol": "BNKR",
-   "name": "Bunker Hill Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BNKR.V",
-   "instruments": [
-    {
-     "name": "Bunker Hill Mining Corp.",
-     "symbol": "BNKR"
-    }
-   ]
-  },
-  {
-   "symbol": "DTCK",
-   "name": "Davis Commodities Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DTCK"
-  },
-  {
-   "symbol": "OAKUU",
-   "name": "Oak Woods Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OAKUU"
-  },
-  {
-   "symbol": "ERNZ",
-   "name": "TrueShares Active Yield ETF",
+   "symbol": "PELIR",
+   "name": "Pelican Acquisition Corporation - Right",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ERNZ"
+   "yahoo_symbol": "PELIR"
+  },
+  {
+   "symbol": "SBR",
+   "name": "Silver Bear Resources plc",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBR.TO",
+   "instruments": [
+    {
+     "name": "Silver Bear ResJ Ord",
+     "symbol": "SBR"
+    }
+   ]
+  },
+  {
+   "symbol": "NOTE",
+   "name": "FiscalNote Holdings, Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NOTE"
+  },
+  {
+   "symbol": "NHS.V",
+   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.V"
+  },
+  {
+   "symbol": "PELI",
+   "name": "Pelican Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PELI"
+  },
+  {
+   "symbol": "NOTE.W",
+   "name": "FiscalNote Holdings, Inc. Warrants to purchase one share of Class A common stock, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NOTE.W"
+  },
+  {
+   "symbol": "PELIU",
+   "name": "Pelican Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PELIU"
   }
  ]
 }
