@@ -1,82 +1,180 @@
 {
  "added": [
   {
-   "symbol": "NYSX",
-   "name": "Global X NYSE 100 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "NYSX.TO",
+   "symbol": "KIRO",
+   "name": "Kairos Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KIRO.V",
    "instruments": [
     {
-     "name": "Global X NYSE100 I E",
-     "symbol": "NYSX"
-    },
-    {
-     "name": "Global X NYSE100 I E",
-     "symbol": "NYSX.U"
+     "name": "Kairos Gold Inc.",
+     "symbol": "KIRO"
     }
    ]
   },
   {
-   "symbol": "MPTI.V",
-   "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights when issued",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MPTI.V"
+   "symbol": "XNDU",
+   "name": "Xanadu Quantum Technologies Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "XNDU.TO",
+   "instruments": [
+    {
+     "name": "Xanadu Quant Tch Ltd",
+     "symbol": "XNDU"
+    }
+   ]
   },
   {
-   "symbol": "NHS.R",
-   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NHS.R"
+   "symbol": "GLND",
+   "name": "Greenland Energy Company - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLND"
+  },
+  {
+   "symbol": "IBGC",
+   "name": "iShares iBonds Dec 2046 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBGC"
+  },
+  {
+   "symbol": "IBGM",
+   "name": "iShares iBonds Dec 2056 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBGM"
+  },
+  {
+   "symbol": "IBTR",
+   "name": "iShares iBonds Dec 2036 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBTR"
+  },
+  {
+   "symbol": "VBCA",
+   "name": "Vanguard Target Maturity 2027 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCA"
+  },
+  {
+   "symbol": "VBCB",
+   "name": "Vanguard Target Maturity 2028 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCB"
+  },
+  {
+   "symbol": "VBCC",
+   "name": "Vanguard Target Maturity 2029 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCC"
+  },
+  {
+   "symbol": "VBCD",
+   "name": "Vanguard Target Maturity 2030 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCD"
+  },
+  {
+   "symbol": "VBCE",
+   "name": "Vanguard Target Maturity 2031 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCE"
+  },
+  {
+   "symbol": "VBCF",
+   "name": "Vanguard Target Maturity 2032 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCF"
+  },
+  {
+   "symbol": "VBCG",
+   "name": "Vanguard Target Maturity 2033 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCG"
+  },
+  {
+   "symbol": "VBCH",
+   "name": "Vanguard Target Maturity 2034 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCH"
+  },
+  {
+   "symbol": "VBCI",
+   "name": "Vanguard Target Maturity 2035 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCI"
+  },
+  {
+   "symbol": "VBCJ",
+   "name": "Vanguard Target Maturity 2036 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCJ"
+  },
+  {
+   "symbol": "APTV.V",
+   "name": "Aptiv PLC Ordinary Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APTV.V"
+  },
+  {
+   "symbol": "CLBR",
+   "name": "Colombier Acquisition Corp. III Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR"
+  },
+  {
+   "symbol": "CLBR.W",
+   "name": "Colombier Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR.W"
+  },
+  {
+   "symbol": "VGNT.V",
+   "name": "Versigent PLC Ordinary Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VGNT.V"
   }
  ],
  "removed": [
   {
-   "symbol": "PELIR",
-   "name": "Pelican Acquisition Corporation - Right",
+   "symbol": "TBMCR",
+   "name": "Trailblazer Merger Corporation I - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PELIR"
+   "yahoo_symbol": "TBMCR"
   },
   {
-   "symbol": "SBR",
-   "name": "Silver Bear Resources plc",
-   "exchange": "TSX",
-   "yahoo_symbol": "SBR.TO",
-   "instruments": [
-    {
-     "name": "Silver Bear ResJ Ord",
-     "symbol": "SBR"
-    }
-   ]
+   "symbol": "CHACR",
+   "name": "Crane Harbor Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHACR"
   },
   {
-   "symbol": "NOTE",
-   "name": "FiscalNote Holdings, Inc. Class A common stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NOTE"
+   "symbol": "CHACU",
+   "name": "Crane Harbor Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHACU"
   },
   {
-   "symbol": "NHS.V",
-   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",
+   "symbol": "TBMC",
+   "name": "Trailblazer Merger Corporation I - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMC"
+  },
+  {
+   "symbol": "DVS",
+   "name": "Dolly Varden Silver Corporation Common Shares",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "NHS.V"
+   "yahoo_symbol": "DVS"
   },
   {
-   "symbol": "PELI",
-   "name": "Pelican Acquisition Corporation - Ordinary Shares",
+   "symbol": "CHAC",
+   "name": "Crane Harbor Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PELI"
+   "yahoo_symbol": "CHAC"
   },
   {
-   "symbol": "NOTE.W",
-   "name": "FiscalNote Holdings, Inc. Warrants to purchase one share of Class A common stock, each at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NOTE.W"
-  },
-  {
-   "symbol": "PELIU",
-   "name": "Pelican Acquisition Corporation - Unit",
+   "symbol": "CMBM",
+   "name": "Cambium Networks Corporation - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PELIU"
+   "yahoo_symbol": "CMBM"
   }
  ]
 }
