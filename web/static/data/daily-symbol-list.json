@@ -1,5 +1,5 @@
 {
- "date": "2026-03-27",
+ "date": "2026-03-30",
  "data": [
   {
    "symbol": "ONE",
@@ -4694,18 +4694,6 @@
     {
      "name": "DMG Blockchain Solutions Inc. wt 19Nov2029",
      "symbol": "DMGI.WT"
-    }
-   ]
-  },
-  {
-   "symbol": "DV",
-   "name": "Dolly Varden Silver Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DV.V",
-   "instruments": [
-    {
-     "name": "Dolly Varden Silver Corporation",
-     "symbol": "DV"
     }
    ]
   },
@@ -11266,6 +11254,18 @@
     {
      "name": "Nord Precious Metals Mining Inc.",
      "symbol": "NTH"
+    }
+   ]
+  },
+  {
+   "symbol": "VKG",
+   "name": "Norse Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VKG.V",
+   "instruments": [
+    {
+     "name": "Norse Gold Corp.",
+     "symbol": "VKG"
     }
    ]
   },
@@ -46486,10 +46486,22 @@
    "yahoo_symbol": "AACG"
   },
   {
+   "symbol": "AACI",
+   "name": "Armada Acquisition Corp. III - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACI"
+  },
+  {
    "symbol": "AACIU",
    "name": "Armada Acquisition Corp. III - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AACIU"
+  },
+  {
+   "symbol": "AACIW",
+   "name": "Armada Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIW"
   },
   {
    "symbol": "AACOU",
@@ -53968,6 +53980,12 @@
    "yahoo_symbol": "CXSE"
   },
   {
+   "symbol": "CYAB",
+   "name": "Cyabra, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CYAB"
+  },
+  {
    "symbol": "CYCN",
    "name": "Cyclerion Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -57224,6 +57242,12 @@
    "name": "Flywire Corporation - Voting Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FLYW"
+  },
+  {
+   "symbol": "FMACU",
+   "name": "Future Money Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMACU"
   },
   {
    "symbol": "FMAO",
@@ -61424,6 +61448,12 @@
    "name": "Inflection Point Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IPEXU"
+  },
+  {
+   "symbol": "IPFXU",
+   "name": "Inflection Point Acquisition Corp. VI - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPFXU"
   },
   {
    "symbol": "IPGP",
@@ -69820,6 +69850,12 @@
    "yahoo_symbol": "QABA"
   },
   {
+   "symbol": "QADRU",
+   "name": "QDRO Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QADRU"
+  },
+  {
    "symbol": "QALT",
    "name": "SEI DBi Multi-Strategy Alternative ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -71024,12 +71060,6 @@
    "name": "BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RILYG"
-  },
-  {
-   "symbol": "RILYK",
-   "name": "BRC Group Holdings, Inc. - 5.50% Senior Notes Due 2026",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RILYK"
   },
   {
    "symbol": "RILYL",
@@ -78136,6 +78166,12 @@
    "yahoo_symbol": "XNCR"
   },
   {
+   "symbol": "XNDU",
+   "name": "Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XNDU"
+  },
+  {
    "symbol": "XNET",
    "name": "Xunlei Limited - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -81958,12 +81994,6 @@
    "yahoo_symbol": "BXMT"
   },
   {
-   "symbol": "BXMX",
-   "name": "Nuveen S\u0026P 500 Buy-Write Income Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BXMX"
-  },
-  {
    "symbol": "BXP",
    "name": "BXP, Inc. Common Stock",
    "exchange": "NYSE",
@@ -83894,12 +83924,6 @@
    "name": "Credit Suisse High Yield Credit Fund Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "DHY"
-  },
-  {
-   "symbol": "DIAX",
-   "name": "Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "DIAX"
   },
   {
    "symbol": "DIN",

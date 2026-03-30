@@ -388,7 +388,6 @@ DG,Dixie Gold Inc.,TSXV,DG.V,Dixie Gold Inc.,DG
 DLC,DLC Holdings Corp.,TSXV,DLC.V,DLC Holdings Corp.,DLC
 DLP,DLP Resources Inc.,TSXV,DLP.V,DLP Resources Inc.,DLP
 DMGI,DMG Blockchain Solutions Inc.,TSXV,DMGI.V,DMG Blockchain Solutions Inc.,DMGI,DMG Blockchain Solutions Inc. wt 19Nov2029,DMGI.WT
-DV,Dolly Varden Silver Corporation,TSXV,DV.V,Dolly Varden Silver Corporation,DV
 DMCU,Domestic Metals Corp.,TSXV,DMCU.V,Domestic Metals Corp.,DMCU
 DAQ.P,Dominus Acquisition Corp.,TSXV,DAQ.P.V,Dominus Acquisition Corp.,DAQ.P
 DBG,Doubleview Gold Corp.,TSXV,DBG.V,Doubleview Gold Corp.,DBG
@@ -930,6 +929,7 @@ NOB,Noble Mineral Exploration Inc.,TSXV,NOB.V,Noble Mineral Exploration Inc.,NOB
 NOBL,Noble Plains Uranium Corp.,TSXV,NOBL.V,Noble Plains Uranium Corp.,NOBL
 NRM,Noram Lithium Corp.,TSXV,NRM.V,Noram Lithium Corp.,NRM
 NTH,Nord Precious Metals Mining Inc.,TSXV,NTH.V,Nord Precious Metals Mining Inc.,NTH
+VKG,Norse Gold Corp.,TSXV,VKG.V,Norse Gold Corp.,VKG
 NVT,Nortec Minerals Corp.,TSXV,NVT.V,Nortec Minerals Corp.,NVT
 NAR,North Arrow Minerals Inc.,TSXV,NAR.V,North Arrow Minerals Inc.,NAR
 NPR,North Peak Resources Ltd.,TSXV,NPR.V,North Peak Resources Ltd.,NPR
@@ -3612,7 +3612,9 @@ AACB,Artius II Acquisition Inc. - Class A Ordinary Shares,NASDAQ Global MarketSM
 AACBR,Artius II Acquisition Inc. - Rights,NASDAQ Global MarketSM,AACBR
 AACBU,Artius II Acquisition Inc. - Units,NASDAQ Global MarketSM,AACBU
 AACG,"ATA Creativity Global - American Depositary Shares, each representing two common shares",NASDAQ Capital Market,AACG
+AACI,Armada Acquisition Corp. III - Class A Ordinary Share,NASDAQ Global MarketSM,AACI
 AACIU,Armada Acquisition Corp. III - Units,NASDAQ Global MarketSM,AACIU
+AACIW,Armada Acquisition Corp. III - Warrant,NASDAQ Global MarketSM,AACIW
 AACOU,Abony Acquisition Corp. I - Units,NASDAQ Global MarketSM,AACOU
 AADR,AdvisorShares Dorsey Wright ADR ETF,NASDAQ Global MarketSM,AADR
 AAEQ,Alpha Architect US Equity 2 ETF,NASDAQ Global MarketSM,AAEQ
@@ -4859,6 +4861,7 @@ CXAI,CXApp Inc. - Class A Common Stock,NASDAQ Capital Market,CXAI
 CXAIW,CXApp Inc. - Warrant,NASDAQ Capital Market,CXAIW
 CXDO,"Crexendo, Inc. - Common Stock",NASDAQ Capital Market,CXDO
 CXSE,WisdomTree China ex-State-Owned Enterprises Fund,NASDAQ Global MarketSM,CXSE
+CYAB,"Cyabra, Inc. - Common Stock",NASDAQ Global MarketSM,CYAB
 CYCN,"Cyclerion Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CYCN
 CYCU,"Cycurion, Inc. - Common Stock",NASDAQ Global MarketSM,CYCU
 CYCUW,"Cycurion, Inc. - Warrants",NASDAQ Capital Market,CYCUW
@@ -5402,6 +5405,7 @@ FLXS,"Flexsteel Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,F
 FLY,Firefly Aerospace Inc. - Common Stock,NASDAQ Global MarketSM,FLY
 FLYE,"Fly-E Group, Inc. - Common Stock",NASDAQ Capital Market,FLYE
 FLYW,Flywire Corporation - Voting Common Stock,NASDAQ Global Select MarketSM,FLYW
+FMACU,Future Money Acquisition Corporation - Units,NASDAQ Global MarketSM,FMACU
 FMAO,"Farmers & Merchants Bancorp, Inc. - Common Stock",NASDAQ Capital Market,FMAO
 FMB,First Trust Managed Municipal ETF,NASDAQ Global MarketSM,FMB
 FMBH,"First Mid Bancshares, Inc. - Common Stock",NASDAQ Global MarketSM,FMBH
@@ -6102,6 +6106,7 @@ IPDN,"Professional Diversity Network, Inc. - Common Stock",NASDAQ Capital Market
 IPEX,Inflection Point Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,IPEX
 IPEXR,Inflection Point Acquisition Corp. - Right,NASDAQ Global MarketSM,IPEXR
 IPEXU,Inflection Point Acquisition Corp. - Unit,NASDAQ Global MarketSM,IPEXU
+IPFXU,Inflection Point Acquisition Corp. VI - Units,NASDAQ Global MarketSM,IPFXU
 IPGP,IPG Photonics Corporation - Common Stock,NASDAQ Global Select MarketSM,IPGP
 IPHA,Innate Pharma S.A. - American Depositary Shares,NASDAQ Global Select MarketSM,IPHA
 IPKW,Invesco International BuyBack Achievers ETF,NASDAQ Global MarketSM,IPKW
@@ -7501,6 +7506,7 @@ PYXS,"Pyxis Oncology, Inc. - Common Stock",NASDAQ Global Select MarketSM,PYXS
 PYZ,Invesco Dorsey Wright Basic Materials Momentum ETF,NASDAQ Global MarketSM,PYZ
 PZZA,"Papa John's International, Inc. - Common Stock",NASDAQ Global Select MarketSM,PZZA
 QABA,First Trust NASDAQ ABA Community Bank Index Fund,NASDAQ Global MarketSM,QABA
+QADRU,QDRO Acquisition Corp. - Units,NASDAQ Global MarketSM,QADRU
 QALT,SEI DBi Multi-Strategy Alternative ETF,NASDAQ Global MarketSM,QALT
 QAT,iShares MSCI Qatar ETF,NASDAQ Global MarketSM,QAT
 QB,ProShares Nasdaq-100 Dynamic Buffer ETF,NASDAQ Global MarketSM,QB
@@ -7702,7 +7708,6 @@ RIFR,Russell Investments Global Infrastructure ETF,NASDAQ Global MarketSM,RIFR
 RIGL,"Rigel Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,RIGL
 RILY,"BRC Group Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,RILY
 RILYG,"BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026",NASDAQ Global MarketSM,RILYG
-RILYK,"BRC Group Holdings, Inc. - 5.50% Senior Notes Due 2026",NASDAQ Global MarketSM,RILYK
 RILYL,"BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock",NASDAQ Global MarketSM,RILYL
 RILYN,"BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",NASDAQ Global MarketSM,RILYN
 RILYP,"BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",NASDAQ Global MarketSM,RILYP
@@ -8887,6 +8892,7 @@ XLO,"Xilio Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,XLO
 XMAG,Defiance Large Cap ex-Mag 7 ETF,NASDAQ Global MarketSM,XMAG
 XMTR,"Xometry, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,XMTR
 XNCR,"Xencor, Inc. - Common Stock",NASDAQ Global MarketSM,XNCR
+XNDU,Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares,NASDAQ Global MarketSM,XNDU
 XNET,Xunlei Limited - American Depositary Shares,NASDAQ Global Select MarketSM,XNET
 XOMA,XOMA Royalty Corporation - Common Stock,NASDAQ Global MarketSM,XOMA
 XOMAO,XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock,NASDAQ Global MarketSM,XOMAO
@@ -9524,7 +9530,6 @@ BWXT,"BWX Technologies, Inc. Common Stock",NYSE,BWXT
 BX,Blackstone Inc. Common Stock,NYSE,BX
 BXC,Bluelinx Holdings Inc. Common Stock,NYSE,BXC
 BXMT,"Blackstone Mortgage Trust, Inc. Common Stock",NYSE,BXMT
-BXMX,Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest,NYSE,BXMX
 BXP,"BXP, Inc. Common Stock",NYSE,BXP
 BXSL,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,NYSE,BXSL
 BY,"Byline Bancorp, Inc. Common Stock",NYSE,BY
@@ -9847,7 +9852,6 @@ DHR,Danaher Corporation Common Stock,NYSE,DHR
 DHT,"DHT Holdings, Inc.",NYSE,DHT
 DHX,"DHI Group, Inc. Common Stock",NYSE,DHX
 DHY,Credit Suisse High Yield Credit Fund Common Stock,NYSE MKT,DHY
-DIAX,Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest,NYSE,DIAX
 DIN,"Dine Brands Global, Inc. Common Stock",NYSE,DIN
 DINO,HF Sinclair Corporation Common Stock,NYSE,DINO
 DIS,Walt Disney Company (The) Common Stock,NYSE,DIS
