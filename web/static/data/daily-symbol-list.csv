@@ -2471,12 +2471,12 @@ GCBD,Guardian Canadian Bond Fund,TSX,GCBD.TO,Guardian Cdn Bond Un,GCBD
 GCSC,Guardian Canadian Diversified Core Equity Fund,TSX,GCSC.TO,Guardian CDN DivCoEq,GCSC
 GCEI,Guardian Canadian Equity Income Fund,TSX,GCEI.TO,Guardian Cdn Eq Incm,GCEI
 GCFE,Guardian Canadian Focused Equity Fund,TSX,GCFE.TO,Guardian CdnFocus Eq,GCFE
-GGEP,Guardian Directed Equity Path Portfolio,TSX,GGEP.TO,Guardian DirEq Unhg,GGEP,Guardian DirEqPth Hg,GGEP.F
-GGPY,Guardian Directed Premium Yield Portfolio,TSX,GGPY.TO,Guardian PremYldUnhg,GGPY,Guardian PremYld Heg,GGPY.F
+GGEP,Guardian Directed Equity Path Portfolio,TSX,GGEP.TO,Guardian DirEq Pth P,GGEP,Guardian DirEqPth Hg,GGEP.F
+GGPY,Guardian Directed Premium Yield Portfolio,TSX,GGPY.TO,Guardian Dir PremYld,GGPY,Guardian PremYld Heg,GGPY.F
 GFGE,Guardian Fundamental Global Equity Fund,TSX,GFGE.TO,Grdn Fndmtl Gbl Eq,GFGE
 GIDY,Guardian i3 Global Dividend Premium Yield Fund,TSX,GIDY.TO,Guard I3 GlDv Py Fnd,GIDY
 GIQG,Guardian i3 Global Quality Growth ETF,TSX,GIQG.TO,Guard i3 GlbGrow Heg,GIQG,Guard i3 GlbGro Unhg,GIQG.B
-GIUS,Guardian i3 U.S. Core Equity Fund,TSX,GIUS.TO,Gu i3 USQ GrFnd Unhg,GIUS,Gu i3 USQ Gr Fnd Hdg,GIUS.F
+GIUS,Guardian i3 U.S. Core Equity Fund,TSX,GIUS.TO,Gu i3 US Core Eq Fnd,GIUS,Gu i3 US Core Eq F H,GIUS.F
 GIES,Guardian International Equity Select Fund,TSX,GIES.TO,Guardian Intl EqSlct,GIES
 GIGC,Guardian Investment Grade Corporate Bond Fund,TSX,GIGC.TO,Guard Inv Gr CorpBnd,GIGC
 GSDB,Guardian Short Duration Bond Fund,TSX,GSDB.TO,Grdn Short Dur Bnd,GSDB
@@ -4261,7 +4261,6 @@ BLCN,Siren NexGen Economy ETF,NASDAQ Global MarketSM,BLCN
 BLCR,iShares Large Cap Core Active ETF,NASDAQ Global MarketSM,BLCR
 BLDP,"Ballard Power Systems, Inc. - Common Shares",NASDAQ Global MarketSM,BLDP
 BLFS,"BioLife Solutions, Inc. - Common Stock",NASDAQ Capital Market,BLFS
-BLFY,Blue Foundry Bancorp - Common Stock,NASDAQ Global Select MarketSM,BLFY
 BLIN,"Bridgeline Digital, Inc. - Common Stock",NASDAQ Capital Market,BLIN
 BLIV,BeLive Holdings - ordinary shares,NASDAQ Capital Market,BLIV
 BLKB,"Blackbaud, Inc. - Common Stock",NASDAQ Global Select MarketSM,BLKB
@@ -4818,6 +4817,8 @@ CSCO,"Cisco Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,CSCO
 CSCS,Direxion Daily CSCO Bear 1X ETF,NASDAQ Global MarketSM,CSCS
 CSGP,"CoStar Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,CSGP
 CSGS,"CSG Systems International, Inc. - Common Stock",NASDAQ Global Select MarketSM,CSGS
+CSHR,CoinShares PLC - Ordinary Shares,NASDAQ Global Select MarketSM,CSHR
+CSHRW,CoinShares PLC - Warrants,NASDAQ Capital Market,CSHRW
 CSIQ,Canadian Solar Inc. - Common Shares,NASDAQ Global Select MarketSM,CSIQ
 CSPI,CSP Inc. - Common Stock,NASDAQ Global MarketSM,CSPI
 CSQ,Calamos Strategic Total Return Fund - Closed End Fund,NASDAQ Global Select MarketSM,CSQ
@@ -5637,7 +5638,6 @@ GLBE,Global-E Online Ltd. - ordinary shares,NASDAQ Global Select MarketSM,GLBE
 GLBS,Globus Maritime Limited - Common Stock,NASDAQ Capital Market,GLBS
 GLCR,GlacierShares Nasdaq Iceland ETF,NASDAQ Global MarketSM,GLCR
 GLDB,IDX Alternative FIAT ETF,NASDAQ Global MarketSM,GLDB
-GLDD,Great Lakes Dredge & Dock Corporation - Common Stock,NASDAQ Global Select MarketSM,GLDD
 GLDI,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",NASDAQ Global MarketSM,GLDI
 GLDY,Defiance Gold Enhanced Options Income ETF,NASDAQ Global MarketSM,GLDY
 GLE,Global Engine Group Holding Limited - Class A Ordinary Shares,NASDAQ Capital Market,GLE
@@ -5840,6 +5840,7 @@ HLMN,Hillman Solutions Corp. - Common Stock,NASDAQ Global MarketSM,HLMN
 HLNE,Hamilton Lane Incorporated - Class A Common Stock,NASDAQ Global Select MarketSM,HLNE
 HLP,Hongli Group Inc. - Ordinary Shares,NASDAQ Capital Market,HLP
 HLXC,Helix Acquisition Corp. III - Class A Ordinary Shares,NASDAQ Global MarketSM,HLXC
+HMH,HMH Holding Inc. - Common Stock,NASDAQ Global Select MarketSM,HMH
 HMR,Heidmar Maritime Holdings Corp. - Common Stock,NASDAQ Capital Market,HMR
 HMYY,GraniteShares YieldBoost HIMS ETF,NASDAQ Global MarketSM,HMYY
 HNDL,Strategy Shares Nasdaq 7HANDL Index ETF,NASDAQ Global MarketSM,HNDL
@@ -6066,6 +6067,7 @@ INDB,Independent Bank Corp. - Common Stock,NASDAQ Global Select MarketSM,INDB
 INDH,WisdomTree India Hedged Equity Fund,NASDAQ Global MarketSM,INDH
 INDI,"indie Semiconductor, Inc. - Class A Common Stock",NASDAQ Capital Market,INDI
 INDP,"Indaptus Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,INDP
+INDQ,Pacer ActiveAlpha India Quality ETF,NASDAQ Global MarketSM,INDQ
 INDV,"Indivior Pharmaceuticals, Inc.  - Common Stock",NASDAQ Global Select MarketSM,INDV
 INDY,iShares India 50 ETF,NASDAQ Global MarketSM,INDY
 INEO,INNEOVA Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,INEO
@@ -7184,7 +7186,6 @@ ORLY,"O'Reilly Automotive, Inc. - Common Stock",NASDAQ Global Select MarketSM,OR
 ORMP,Oramed Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,ORMP
 ORR,Militia Long/Short Equity ETF,NASDAQ Global MarketSM,ORR
 ORRF,"Orrstown Financial Services, Inc. - Common Stock",NASDAQ Capital Market,ORRF
-OS,"OneStream, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,OS
 OSBC,"Old Second Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,OSBC
 OSCG,Leverage Shares 2X Long OSCR Daily ETF,NASDAQ Global MarketSM,OSCG
 OSCX,Defiance Daily Target 2x Long OSCR ETF,NASDAQ Global MarketSM,OSCX
@@ -8261,6 +8262,7 @@ TALKW,"Talkspace, Inc. - Warrant",NASDAQ Capital Market,TALKW
 TANH,Tantech Holdings Ltd. - Class A Common Shares,NASDAQ Capital Market,TANH
 TAOP,Taoping Inc. - Ordinary Shares,NASDAQ Capital Market,TAOP
 TAOX,Tao Synergies Inc. - Common Stock,NASDAQ Capital Market,TAOX
+TAOZ,Thornburg American Opportunities Fund,NASDAQ Global MarketSM,TAOZ
 TARA,"Protara Therapeutics, Inc.  - Common Stock",NASDAQ Global MarketSM,TARA
 TARK,Tradr 2X Long Innovation ETF,NASDAQ Global MarketSM,TARK
 TARS,"Tarsus Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,TARS
@@ -8328,6 +8330,7 @@ TERG,Leverage Shares 2X Long TER Daily ETF,NASDAQ Global MarketSM,TERG
 TERN,"Terns Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,TERN
 TEXN,iShares Texas Equity ETF,NASDAQ Global MarketSM,TEXN
 TEXX,Horizon Kinetics Texas ETF,NASDAQ Global MarketSM,TEXX
+TFGZ,Thornburg Focus Growth Fund,NASDAQ Global MarketSM,TFGZ
 TFNS,T. Rowe Price Financials ETF,NASDAQ Global MarketSM,TFNS
 TFSL,TFS Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,TFSL
 TGHL,The GrowHub Limited - Class A Ordinary Shares,NASDAQ Capital Market,TGHL
@@ -8509,7 +8512,6 @@ TZOO,Travelzoo - Common Stock,NASDAQ Global Select MarketSM,TZOO
 UAE,iShares MSCI UAE ETF,NASDAQ Global MarketSM,UAE
 UAL,"United Airlines Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,UAL
 UBCP,"United Bancorp, Inc. - Common Stock",NASDAQ Capital Market,UBCP
-UBFO,United Security Bancshares - Common Stock,NASDAQ Global Select MarketSM,UBFO
 UBND,VictoryShares Core Plus Bond ETF,NASDAQ Global MarketSM,UBND
 UBRL,GraniteShares 2x Long UBER Daily ETF,NASDAQ Global MarketSM,UBRL
 UBSI,"United Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,UBSI
@@ -8920,7 +8922,7 @@ XRPN,Armada Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketS
 XRPNU,Armada Acquisition Corp. II - Units,NASDAQ Global MarketSM,XRPNU
 XRPNW,Armada Acquisition Corp. II - Warrant,NASDAQ Global MarketSM,XRPNW
 XRPT,Volatility Shares Trust XRP 2X ETF,NASDAQ Global MarketSM,XRPT
-XRTX,XORTX Therapeutics Inc. - Common Stock,NASDAQ Capital Market,XRTX
+XRTX,XORTX Therapeutics Inc. - Common Shares,NASDAQ Capital Market,XRTX
 XRX,Xerox Holdings Corporation - Common Stock,NASDAQ Global Select MarketSM,XRX
 XRXDW,Xerox Holdings Corporation - Warrants,NASDAQ Global Select MarketSM,XRXDW
 XSLL,Xsolla SPAC 1 - Class A Ordinary Shares,NASDAQ Global MarketSM,XSLL
@@ -8929,7 +8931,6 @@ XSLLW,Xsolla SPAC 1 - Warrants,NASDAQ Global MarketSM,XSLLW
 XSPI,NEOS Boosted S&P 500 High Income ETF,NASDAQ Global MarketSM,XSPI
 XT,iShares Future Exponential Technologies ETF,NASDAQ Global MarketSM,XT
 XTIA,"XTI Aerospace, Inc. Common Stock  - Common Stock",NASDAQ Capital Market,XTIA
-XTKG,"X3 Holdings Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,XTKG
 XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,NASDAQ Capital Market,XTLB
 XWEL,"XWELL, Inc. - Common Stock",NASDAQ Capital Market,XWEL
 XWIN,"XMAX, Inc. - Common Stock",NASDAQ Capital Market,XWIN
@@ -9516,7 +9517,6 @@ BTZ,BlackRock Credit Allocation Income Trust,NYSE,BTZ
 BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),NYSE,BUD
 BUDA,"Buda Juice, Inc. Common Stock",NYSE MKT,BUDA
 BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust",NYSE,BUI
-BUI.R,"BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights",NYSE,BUI.R
 BUR,Burford Capital Limited Ordinary Shares,NYSE,BUR
 BURL,"Burlington Stores, Inc. Common Stock",NYSE,BURL
 BURU,"Nuburu, Inc. Common Stock",NYSE MKT,BURU
@@ -11099,6 +11099,7 @@ NXDT,NexPoint Diversified Real Estate Trust Common Stock,NYSE,NXDT
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NYSE,NXDT$A
 NXE,Nexgen Energy Ltd. Common Shares,NYSE,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NYSE,NXG
+NXG.V,"NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued",NYSE,NXG.V
 NXJ,Nuveen New Jersey Qualified Municipal Fund ,NYSE,NXJ
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,NYSE,NXP
 NXRT,"NexPoint Residential Trust, Inc. Common Stock",NYSE,NXRT

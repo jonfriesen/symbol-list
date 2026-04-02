@@ -1,5 +1,5 @@
 {
- "date": "2026-04-01",
+ "date": "2026-04-02",
  "data": [
   {
    "symbol": "ONE",
@@ -31580,7 +31580,7 @@
    "yahoo_symbol": "GGEP.TO",
    "instruments": [
     {
-     "name": "Guardian DirEq Unhg",
+     "name": "Guardian DirEq Pth P",
      "symbol": "GGEP"
     },
     {
@@ -31596,7 +31596,7 @@
    "yahoo_symbol": "GGPY.TO",
    "instruments": [
     {
-     "name": "Guardian PremYldUnhg",
+     "name": "Guardian Dir PremYld",
      "symbol": "GGPY"
     },
     {
@@ -31652,11 +31652,11 @@
    "yahoo_symbol": "GIUS.TO",
    "instruments": [
     {
-     "name": "Gu i3 USQ GrFnd Unhg",
+     "name": "Gu i3 US Core Eq Fnd",
      "symbol": "GIUS"
     },
     {
-     "name": "Gu i3 USQ Gr Fnd Hdg",
+     "name": "Gu i3 US Core Eq F H",
      "symbol": "GIUS.F"
     }
    ]
@@ -50390,12 +50390,6 @@
    "yahoo_symbol": "BLFS"
   },
   {
-   "symbol": "BLFY",
-   "name": "Blue Foundry Bancorp - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BLFY"
-  },
-  {
    "symbol": "BLIN",
    "name": "Bridgeline Digital, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -53730,6 +53724,18 @@
    "name": "CSG Systems International, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CSGS"
+  },
+  {
+   "symbol": "CSHR",
+   "name": "CoinShares PLC - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSHR"
+  },
+  {
+   "symbol": "CSHRW",
+   "name": "CoinShares PLC - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSHRW"
   },
   {
    "symbol": "CSIQ",
@@ -58646,12 +58652,6 @@
    "yahoo_symbol": "GLDB"
   },
   {
-   "symbol": "GLDD",
-   "name": "Great Lakes Dredge \u0026 Dock Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLDD"
-  },
-  {
    "symbol": "GLDI",
    "name": "ETRACS Gold Shares Covered Call ETNs due February 2, 2033",
    "exchange": "NASDAQ Global MarketSM",
@@ -59862,6 +59862,12 @@
    "name": "Helix Acquisition Corp. III - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HLXC"
+  },
+  {
+   "symbol": "HMH",
+   "name": "HMH Holding Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HMH"
   },
   {
    "symbol": "HMR",
@@ -61218,6 +61224,12 @@
    "name": "Indaptus Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "INDP"
+  },
+  {
+   "symbol": "INDQ",
+   "name": "Pacer ActiveAlpha India Quality ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INDQ"
   },
   {
    "symbol": "INDV",
@@ -67928,12 +67940,6 @@
    "yahoo_symbol": "ORRF"
   },
   {
-   "symbol": "OS",
-   "name": "OneStream, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OS"
-  },
-  {
    "symbol": "OSBC",
    "name": "Old Second Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -74390,6 +74396,12 @@
    "yahoo_symbol": "TAOX"
   },
   {
+   "symbol": "TAOZ",
+   "name": "Thornburg American Opportunities Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAOZ"
+  },
+  {
    "symbol": "TARA",
    "name": "Protara Therapeutics, Inc.  - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -74790,6 +74802,12 @@
    "name": "Horizon Kinetics Texas ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TEXX"
+  },
+  {
+   "symbol": "TFGZ",
+   "name": "Thornburg Focus Growth Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TFGZ"
   },
   {
    "symbol": "TFNS",
@@ -75876,12 +75894,6 @@
    "name": "United Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "UBCP"
-  },
-  {
-   "symbol": "UBFO",
-   "name": "United Security Bancshares - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "UBFO"
   },
   {
    "symbol": "UBND",
@@ -78345,7 +78357,7 @@
   },
   {
    "symbol": "XRTX",
-   "name": "XORTX Therapeutics Inc. - Common Stock",
+   "name": "XORTX Therapeutics Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "XRTX"
   },
@@ -78396,12 +78408,6 @@
    "name": "XTI Aerospace, Inc. Common Stock  - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "XTIA"
-  },
-  {
-   "symbol": "XTKG",
-   "name": "X3 Holdings Co., Ltd. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XTKG"
   },
   {
    "symbol": "XTLB",
@@ -81918,12 +81924,6 @@
    "name": "BlackRock Utility, Infrastructure \u0026 Power Opportunities Trust",
    "exchange": "NYSE",
    "yahoo_symbol": "BUI"
-  },
-  {
-   "symbol": "BUI.R",
-   "name": "BlackRock Utility, Infrastructure \u0026 Power Opportun Rights (expiring April 2, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BUI.R"
   },
   {
    "symbol": "BUR",
@@ -91416,6 +91416,12 @@
    "name": "NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "NXG"
+  },
+  {
+   "symbol": "NXG.V",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.V"
   },
   {
    "symbol": "NXJ",
