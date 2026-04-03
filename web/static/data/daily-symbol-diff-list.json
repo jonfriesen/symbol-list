@@ -1,84 +1,40 @@
 {
  "added": [
   {
-   "symbol": "CSHR",
-   "name": "CoinShares PLC - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CSHR"
-  },
-  {
-   "symbol": "CSHRW",
-   "name": "CoinShares PLC - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CSHRW"
-  },
-  {
-   "symbol": "HMH",
-   "name": "HMH Holding Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HMH"
-  },
-  {
-   "symbol": "INDQ",
-   "name": "Pacer ActiveAlpha India Quality ETF",
+   "symbol": "ODTE",
+   "name": "VegaShares SPX NDX RTY Premium Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "INDQ"
+   "yahoo_symbol": "ODTE"
   },
   {
-   "symbol": "TAOZ",
-   "name": "Thornburg American Opportunities Fund",
+   "symbol": "TMTS",
+   "name": "Spartacus Acquisition Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TAOZ"
+   "yahoo_symbol": "TMTS"
   },
   {
-   "symbol": "TFGZ",
-   "name": "Thornburg Focus Growth Fund",
+   "symbol": "TMTSW",
+   "name": "Spartacus Acquisition Corp. II - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TFGZ"
+   "yahoo_symbol": "TMTSW"
   },
   {
-   "symbol": "NXG.V",
-   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXG.V"
-  }
- ],
- "removed": [
-  {
-   "symbol": "BUI.R",
-   "name": "BlackRock Utility, Infrastructure \u0026 Power Opportun Rights (expiring April 2, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BUI.R"
+   "symbol": "TRUF",
+   "name": "VanEck Financials TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUF"
   },
   {
-   "symbol": "BLFY",
-   "name": "Blue Foundry Bancorp - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BLFY"
+   "symbol": "TRUH",
+   "name": "VanEck Healthcare TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUH"
   },
   {
-   "symbol": "XTKG",
-   "name": "X3 Holdings Co., Ltd. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XTKG"
-  },
-  {
-   "symbol": "GLDD",
-   "name": "Great Lakes Dredge \u0026 Dock Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLDD"
-  },
-  {
-   "symbol": "OS",
-   "name": "OneStream, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OS"
-  },
-  {
-   "symbol": "UBFO",
-   "name": "United Security Bancshares - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "UBFO"
+   "symbol": "VEFA",
+   "name": "VanEck MSCI EAFE Analyst Sentiment ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VEFA"
   }
  ]
 }
