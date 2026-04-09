@@ -1,5 +1,5 @@
 {
- "date": "2026-04-08",
+ "date": "2026-04-09",
  "data": [
   {
    "symbol": "ONE",
@@ -6270,18 +6270,6 @@
     {
      "name": "Futuregen Industries Corp.",
      "symbol": "LITT"
-    }
-   ]
-  },
-  {
-   "symbol": "GTM.P",
-   "name": "G2M Cap Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GTM.P.V",
-   "instruments": [
-    {
-     "name": "G2M Cap Corp.",
-     "symbol": "GTM.P"
     }
    ]
   },
@@ -13954,6 +13942,18 @@
    ]
   },
   {
+   "symbol": "SCAI",
+   "name": "SalesCloser Technologies Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCAI.V",
+   "instruments": [
+    {
+     "name": "SalesCloser Technologies Ltd.",
+     "symbol": "SCAI"
+    }
+   ]
+  },
+  {
    "symbol": "SME",
    "name": "Sama Resources Inc.",
    "exchange": "TSXV",
@@ -15890,6 +15890,18 @@
     {
      "name": "Titan Logix Corp",
      "symbol": "TLA"
+    }
+   ]
+  },
+  {
+   "symbol": "TITI",
+   "name": "Titiminas Silver Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TITI.V",
+   "instruments": [
+    {
+     "name": "Titiminas Silver Inc.",
+     "symbol": "TITI"
     }
    ]
   },
@@ -50324,12 +50336,6 @@
    "yahoo_symbol": "BJDX"
   },
   {
-   "symbol": "BJK",
-   "name": "VanEck Gaming ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BJK"
-  },
-  {
    "symbol": "BJRI",
    "name": "BJ's Restaurants, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -51696,18 +51702,6 @@
    "name": "Capstone Holding Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CAPS"
-  },
-  {
-   "symbol": "CAPT",
-   "name": "Captivision Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAPT"
-  },
-  {
-   "symbol": "CAPTW",
-   "name": "Captivision Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CAPTW"
   },
   {
    "symbol": "CAQ",
@@ -54946,7 +54940,7 @@
   {
    "symbol": "DSY",
    "name": "Big Tree Cloud Holdings Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DSY"
   },
   {
@@ -58398,6 +58392,12 @@
    "name": "Gen Digital Inc. - Contingent Value Rights",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GENVR"
+  },
+  {
+   "symbol": "GENZ",
+   "name": "VanEck Digital Native Economy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GENZ"
   },
   {
    "symbol": "GEOS",
@@ -66362,6 +66362,12 @@
    "yahoo_symbol": "NGEN"
   },
   {
+   "symbol": "NGHT",
+   "name": "Nicholas Bitcoin and Treasuries AfterDark ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NGHT"
+  },
+  {
    "symbol": "NGNE",
    "name": "Neurogene Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -71732,6 +71738,12 @@
    "yahoo_symbol": "RWAYL"
   },
   {
+   "symbol": "RWIN",
+   "name": "Rayliant NxtGen Multifactor International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RWIN"
+  },
+  {
    "symbol": "RXRX",
    "name": "Recursion Pharmaceuticals, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -75098,6 +75110,12 @@
    "yahoo_symbol": "TMCI"
   },
   {
+   "symbol": "TMCR",
+   "name": "The Metals Royalty Company Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TMCR"
+  },
+  {
    "symbol": "TMCWW",
    "name": "TMC the metals company Inc. - Warrant",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -76738,7 +76756,7 @@
   {
    "symbol": "VEEA",
    "name": "Veea Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VEEA"
   },
   {
@@ -79664,12 +79682,6 @@
    "yahoo_symbol": "AKR"
   },
   {
-   "symbol": "AL",
-   "name": "Air Lease Corporation Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "AL"
-  },
-  {
    "symbol": "ALB",
    "name": "Albemarle Corporation Common Stock",
    "exchange": "NYSE",
@@ -81658,7 +81670,7 @@
   {
    "symbol": "BMNR",
    "name": "BitMine Immersion Technologies, Inc. Common Stock",
-   "exchange": "NYSE MKT",
+   "exchange": "NYSE",
    "yahoo_symbol": "BMNR"
   },
   {
@@ -82530,6 +82542,12 @@
    "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",
    "exchange": "NYSE",
    "yahoo_symbol": "CFR$B"
+  },
+  {
+   "symbol": "CFTR$A",
+   "name": "Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CFTR$A"
   },
   {
    "symbol": "CGAU",
@@ -87576,24 +87594,6 @@
    "name": "Hyster-Yale, Inc. Class A common stock",
    "exchange": "NYSE",
    "yahoo_symbol": "HY"
-  },
-  {
-   "symbol": "HYAC",
-   "name": "Haymaker Acquisition Corp. 4 Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HYAC"
-  },
-  {
-   "symbol": "HYAC.U",
-   "name": "Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary Share and one-half of one redeemable Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HYAC.U"
-  },
-  {
-   "symbol": "HYAC.W",
-   "name": "Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HYAC.W"
   },
   {
    "symbol": "HYI",
@@ -93170,6 +93170,12 @@
    "yahoo_symbol": "QNC"
   },
   {
+   "symbol": "QRED.U",
+   "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QRED.U"
+  },
+  {
    "symbol": "QSR",
    "name": "Restaurant Brands International Inc. Common Shares",
    "exchange": "NYSE",
@@ -94326,12 +94332,6 @@
    "name": "Seaboard Corporation Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "SEB"
-  },
-  {
-   "symbol": "SEE",
-   "name": "Sealed Air Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEE"
   },
   {
    "symbol": "SEG",
