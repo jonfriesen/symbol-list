@@ -1,222 +1,96 @@
 {
  "added": [
   {
-   "symbol": "ACAA",
-   "name": "Averin Capital Acquisition Corp. - Class A Ordinary Shares",
+   "symbol": "AACO",
+   "name": "Abony Acquisition Corp. I - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAA"
+   "yahoo_symbol": "AACO"
   },
   {
-   "symbol": "ACAAW",
-   "name": "Averin Capital Acquisition Corp. - Warrants",
+   "symbol": "AACOW",
+   "name": "Abony Acquisition Corp. I - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACAAW"
+   "yahoo_symbol": "AACOW"
   },
   {
-   "symbol": "YOOV",
-   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "symbol": "PALO",
+   "name": "Paloma Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PALO"
+  },
+  {
+   "symbol": "PALOW",
+   "name": "Paloma Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PALOW"
+  },
+  {
+   "symbol": "ZTG",
+   "name": "Zenta Group Company Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YOOV"
+   "yahoo_symbol": "ZTG"
   },
   {
-   "symbol": "CCMM",
-   "name": "Coyote Copper Mines Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CCMM.V",
-   "instruments": [
-    {
-     "name": "Coyote Copper Mines Inc.",
-     "symbol": "CCMM"
-    }
-   ]
+   "symbol": "GLED",
+   "name": "GalaxyEdge Acquisition Corporation Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLED"
   },
   {
-   "symbol": "OCEN",
-   "name": "Transoceanic Investments Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OCEN.V",
-   "instruments": [
-    {
-     "name": "Transoceanic Investments Inc.",
-     "symbol": "OCEN"
-    }
-   ]
+   "symbol": "GLED.R",
+   "name": "GalaxyEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLED.R"
   },
   {
-   "symbol": "CTGO",
-   "name": "Contango Silver \u0026 Gold Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CTGO.TO",
-   "instruments": [
-    {
-     "name": "Contango Silv \u0026 Gold",
-     "symbol": "CTGO"
-    }
-   ]
+   "symbol": "MTAL",
+   "name": "Metals Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTAL"
   },
   {
-   "symbol": "IMFE",
-   "name": "IA Clarington Global Multifactor Equity Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "IMFE.TO",
-   "instruments": [
-    {
-     "name": "IA ClarGbl Multi EqF",
-     "symbol": "IMFE"
-    }
-   ]
-  },
-  {
-   "symbol": "ITIN",
-   "name": "IA Clarington Thematic Innovation Class",
-   "exchange": "TSX",
-   "yahoo_symbol": "ITIN.TO",
-   "instruments": [
-    {
-     "name": "IA Claring Thm Innov",
-     "symbol": "ITIN"
-    }
-   ]
-  },
-  {
-   "symbol": "CLHI",
-   "name": "Ninepoint Celestica HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CLHI.TO",
-   "instruments": [
-    {
-     "name": "Ninept Celest HghShr",
-     "symbol": "CLHI"
-    }
-   ]
-  },
-  {
-   "symbol": "CSUC",
-   "name": "Ninepoint Constellation Software CoreShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CSUC.TO",
-   "instruments": [
-    {
-     "name": "Ninept Constl CrShr",
-     "symbol": "CSUC"
-    }
-   ]
-  },
-  {
-   "symbol": "CSHI",
-   "name": "Ninepoint Constellation Software HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "CSHI.TO",
-   "instruments": [
-    {
-     "name": "NineptCon Sof HiShr",
-     "symbol": "CSHI"
-    }
-   ]
-  },
-  {
-   "symbol": "KGHI",
-   "name": "Ninepoint Kinross Gold HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "KGHI.TO",
-   "instruments": [
-    {
-     "name": "Ninept KinrGol HiShr",
-     "symbol": "KGHI"
-    }
-   ]
+   "symbol": "MTAL.W",
+   "name": "Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTAL.W"
   }
  ],
  "removed": [
   {
-   "symbol": "FRDD",
-   "name": "Direxion Daily F Bear 1X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRDD"
+   "symbol": "CANB",
+   "name": "CanadaBis Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CANB.V",
+   "instruments": [
+    {
+     "name": "Canadabis Capital Inc.",
+     "symbol": "CANB"
+    }
+   ]
   },
   {
-   "symbol": "CIGL",
-   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "symbol": "WORX",
+   "name": "SCWorx Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CIGL"
+   "yahoo_symbol": "WORX"
   },
   {
-   "symbol": "LLG",
-   "name": "Mason Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LLG.V",
-   "instruments": [
-    {
-     "name": "Mason Resources Inc.",
-     "symbol": "LLG"
-    }
-   ]
-  },
-  {
-   "symbol": "BRKD",
-   "name": "Direxion Daily BRKB Bear 1X ETF",
+   "symbol": "BMAX",
+   "name": "REX Bitcoin Corporate Treasury Convertible Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRKD"
+   "yahoo_symbol": "BMAX"
   },
   {
-   "symbol": "FGCC.P",
-   "name": "First and Goal Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FGCC.P.V",
-   "instruments": [
-    {
-     "name": "First and Goal Capital Corp.",
-     "symbol": "FGCC.P"
-    }
-   ]
+   "symbol": "QRED.U",
+   "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QRED.U"
   },
   {
-   "symbol": "SHPD",
-   "name": "Direxion Daily SHOP Bear 1X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SHPD"
-  },
-  {
-   "symbol": "OOSB",
-   "name": "One One S\u0026P 500 and Bitcoin ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OOSB"
-  },
-  {
-   "symbol": "XOMZ",
-   "name": "Direxion Daily XOM Bear 1X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XOMZ"
-  },
-  {
-   "symbol": "BOED",
-   "name": "Direxion Daily BA Bear 1X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BOED"
-  },
-  {
-   "symbol": "ELIS",
-   "name": "Direxion Daily LLY Bear 1X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ELIS"
-  },
-  {
-   "symbol": "OOQB",
-   "name": "One One Nasdaq-100 and Bitcoin ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OOQB"
-  },
-  {
-   "symbol": "LMTS",
-   "name": "Direxion Daily LMT Bear 1X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LMTS"
-  },
-  {
-   "symbol": "FRDU",
-   "name": "Direxion Daily F Bull 2X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FRDU"
+   "symbol": "ZGM",
+   "name": "Zenta Group Company Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZGM"
   }
  ]
 }
