@@ -1,96 +1,78 @@
 {
  "added": [
   {
-   "symbol": "AACO",
-   "name": "Abony Acquisition Corp. I - Class A Ordinary Share",
+   "symbol": "CWY",
+   "name": "GraniteShares YieldBOOST CRWV ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AACO"
+   "yahoo_symbol": "CWY"
   },
   {
-   "symbol": "AACOW",
-   "name": "Abony Acquisition Corp. I - Warrants",
+   "symbol": "MUYY",
+   "name": "GraniteShares YieldBOOST MU ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AACOW"
+   "yahoo_symbol": "MUYY"
   },
   {
-   "symbol": "PALO",
-   "name": "Paloma Acquisition Corp I - Class A Ordinary Shares",
+   "symbol": "MYXXU",
+   "name": "Maywood Acquisition Corp. 2 - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PALO"
+   "yahoo_symbol": "MYXXU"
   },
   {
-   "symbol": "PALOW",
-   "name": "Paloma Acquisition Corp I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PALOW"
-  },
-  {
-   "symbol": "ZTG",
-   "name": "Zenta Group Company Limited - Class A Ordinary Shares",
+   "symbol": "NICM",
+   "name": "Nicola Mining Inc. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZTG"
+   "yahoo_symbol": "NICM"
   },
   {
-   "symbol": "GLED",
-   "name": "GalaxyEdge Acquisition Corporation Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GLED"
-  },
-  {
-   "symbol": "GLED.R",
-   "name": "GalaxyEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one ordinary share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GLED.R"
-  },
-  {
-   "symbol": "MTAL",
-   "name": "Metals Acquisition Corp. II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTAL"
-  },
-  {
-   "symbol": "MTAL.W",
-   "name": "Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MTAL.W"
-  }
- ],
- "removed": [
-  {
-   "symbol": "CANB",
-   "name": "CanadaBis Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CANB.V",
-   "instruments": [
-    {
-     "name": "Canadabis Capital Inc.",
-     "symbol": "CANB"
-    }
-   ]
-  },
-  {
-   "symbol": "WORX",
-   "name": "SCWorx Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WORX"
-  },
-  {
-   "symbol": "BMAX",
-   "name": "REX Bitcoin Corporate Treasury Convertible Bond ETF",
+   "symbol": "TMYY",
+   "name": "GraniteShares YieldBOOST TSM ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BMAX"
+   "yahoo_symbol": "TMYY"
   },
   {
    "symbol": "QRED.U",
    "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
    "exchange": "NYSE",
    "yahoo_symbol": "QRED.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ELY",
+   "name": "Electrum Discovery Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ELY.V",
+   "instruments": [
+    {
+     "name": "Electrum Discovery Corp.",
+     "symbol": "ELY"
+    }
+   ]
   },
   {
-   "symbol": "ZGM",
-   "name": "Zenta Group Company Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZGM"
+   "symbol": "ELL",
+   "name": "Everybody Loves Languages Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ELL.V",
+   "instruments": [
+    {
+     "name": "Everybody Loves Languages Corp.",
+     "symbol": "ELL"
+    }
+   ]
+  },
+  {
+   "symbol": "MRCC",
+   "name": "Monroe Capital Corporation - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MRCC"
+  },
+  {
+   "symbol": "NHS.R",
+   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.R"
   }
  ]
 }

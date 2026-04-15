@@ -1,5 +1,5 @@
 {
- "date": "2026-04-14",
+ "date": "2026-04-15",
  "data": [
   {
    "symbol": "ONE",
@@ -5086,18 +5086,6 @@
    ]
   },
   {
-   "symbol": "ELY",
-   "name": "Electrum Discovery Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ELY.V",
-   "instruments": [
-    {
-     "name": "Electrum Discovery Corp.",
-     "symbol": "ELY"
-    }
-   ]
-  },
-  {
    "symbol": "ECU",
    "name": "Element 29 Resources Inc.",
    "exchange": "TSXV",
@@ -5466,18 +5454,6 @@
     {
      "name": "Evergold Corp.",
      "symbol": "EVER"
-    }
-   ]
-  },
-  {
-   "symbol": "ELL",
-   "name": "Everybody Loves Languages Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ELL.V",
-   "instruments": [
-    {
-     "name": "Everybody Loves Languages Corp.",
-     "symbol": "ELL"
     }
    ]
   },
@@ -48159,7 +48135,7 @@
   },
   {
    "symbol": "AMCX",
-   "name": "AMC Networks Inc. - Class A Common Stock",
+   "name": "AMC Global Media Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AMCX"
   },
@@ -54104,6 +54080,12 @@
    "yahoo_symbol": "CWST"
   },
   {
+   "symbol": "CWY",
+   "name": "GraniteShares YieldBOOST CRWV ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CWY"
+  },
+  {
    "symbol": "CXAI",
    "name": "CXApp Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -55047,7 +55029,7 @@
   },
   {
    "symbol": "DTSS",
-   "name": "Datasea Inc. - Common Stock",
+   "name": "Datasea Intelligent Technology Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DTSS"
   },
@@ -65354,12 +65336,6 @@
    "yahoo_symbol": "MRBK"
   },
   {
-   "symbol": "MRCC",
-   "name": "Monroe Capital Corporation - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MRCC"
-  },
-  {
    "symbol": "MRCY",
    "name": "Mercury Systems Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -65654,6 +65630,12 @@
    "yahoo_symbol": "MUU"
   },
   {
+   "symbol": "MUYY",
+   "name": "GraniteShares YieldBOOST MU ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUYY"
+  },
+  {
    "symbol": "MUZE",
    "name": "Muzero Acquisition Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -65898,6 +65880,12 @@
    "name": "My Size, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MYSZ"
+  },
+  {
+   "symbol": "MYXXU",
+   "name": "Maywood Acquisition Corp. 2 - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYXXU"
   },
   {
    "symbol": "MZTI",
@@ -66444,6 +66432,12 @@
    "name": "NICE Ltd - American Depositary Shares each representing one Ordinary Share",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "NICE"
+  },
+  {
+   "symbol": "NICM",
+   "name": "Nicola Mining Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NICM"
   },
   {
    "symbol": "NIKL",
@@ -75228,6 +75222,12 @@
    "name": "T-Mobile US, Inc. - 5.500% Senior Notes due March 2070",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TMUSZ"
+  },
+  {
+   "symbol": "TMYY",
+   "name": "GraniteShares YieldBOOST TSM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMYY"
   },
   {
    "symbol": "TNDM",
@@ -90932,12 +90932,6 @@
    "yahoo_symbol": "NHS"
   },
   {
-   "symbol": "NHS.R",
-   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NHS.R"
-  },
-  {
    "symbol": "NI",
    "name": "NiSource Inc Common Stock",
    "exchange": "NYSE",
@@ -93216,6 +93210,12 @@
    "name": "Quantum eMotion Corp. Common Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "QNC"
+  },
+  {
+   "symbol": "QRED.U",
+   "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QRED.U"
   },
   {
    "symbol": "QSR",
