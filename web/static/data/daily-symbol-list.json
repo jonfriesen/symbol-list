@@ -1,5 +1,5 @@
 {
- "date": "2026-04-15",
+ "date": "2026-04-16",
  "data": [
   {
    "symbol": "ONE",
@@ -29118,18 +29118,6 @@
    ]
   },
   {
-   "symbol": "FOM",
-   "name": "Foran Mining Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "FOM.TO",
-   "instruments": [
-    {
-     "name": "Foran Mining Corp J",
-     "symbol": "FOM"
-    }
-   ]
-  },
-  {
    "symbol": "F",
    "name": "Ford CDR (CAD Hedged)",
    "exchange": "TSX",
@@ -39162,6 +39150,18 @@
    ]
   },
   {
+   "symbol": "GOHI",
+   "name": "Ninepoint Alphabet HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GOHI.TO",
+   "instruments": [
+    {
+     "name": "Ninep Alphabet HiShr",
+     "symbol": "GOHI"
+    }
+   ]
+  },
+  {
    "symbol": "NBAL",
    "name": "Ninepoint Balanced+ Fund",
    "exchange": "TSX",
@@ -39358,6 +39358,18 @@
    ]
   },
   {
+   "symbol": "INHI",
+   "name": "Ninepoint Intel HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "INHI.TO",
+   "instruments": [
+    {
+     "name": "Ninept Intel HiShr E",
+     "symbol": "INHI"
+    }
+   ]
+  },
+  {
    "symbol": "KGHI",
    "name": "Ninepoint Kinross Gold HighShares ETF",
    "exchange": "TSX",
@@ -39378,6 +39390,30 @@
     {
      "name": "Ninepnt Mining EvFnd",
      "symbol": "NMNG"
+    }
+   ]
+  },
+  {
+   "symbol": "NVHI",
+   "name": "Ninepoint NVIDIA HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVHI.TO",
+   "instruments": [
+    {
+     "name": "Ninept NVIDIA HiShr",
+     "symbol": "NVHI"
+    }
+   ]
+  },
+  {
+   "symbol": "PLHI",
+   "name": "Ninepoint Palantir HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLHI.TO",
+   "instruments": [
+    {
+     "name": "Ninep Palantir HiShr",
+     "symbol": "PLHI"
     }
    ]
   },
@@ -39438,6 +39474,18 @@
     {
      "name": "Np TD HighShares ETF",
      "symbol": "TDHI"
+    }
+   ]
+  },
+  {
+   "symbol": "TSHI",
+   "name": "Ninepoint Tesla HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSHI.TO",
+   "instruments": [
+    {
+     "name": "Ninept Tesla HiShr E",
+     "symbol": "TSHI"
     }
    ]
   },
@@ -39546,6 +39594,10 @@
     {
      "name": "Nouveau Mond Gra Inc",
      "symbol": "NOU"
+    },
+    {
+     "name": "Nouv MondeGrf US Sub",
+     "symbol": "NOU.R.U"
     }
    ]
   },
@@ -50700,6 +50752,12 @@
    "name": "CEA Industries Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BNCWW"
+  },
+  {
+   "symbol": "BNCWZ",
+   "name": "CEA Industries Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNCWZ"
   },
   {
    "symbol": "BND",
@@ -66410,6 +66468,12 @@
    "yahoo_symbol": "NHICW"
   },
   {
+   "symbol": "NHIVU",
+   "name": "NewHold Investment Corp IV - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHIVU"
+  },
+  {
    "symbol": "NHPAP",
    "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -67872,6 +67936,12 @@
    "name": "Eightco Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ORBS"
+  },
+  {
+   "symbol": "ORBX",
+   "name": "Global X Space Tech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORBX"
   },
   {
    "symbol": "ORCS",
@@ -71016,6 +71086,12 @@
    "name": "Revelation Biosciences, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "REVBW"
+  },
+  {
+   "symbol": "REXC",
+   "name": "Sprott Rare Earths Ex-China ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "REXC"
   },
   {
    "symbol": "REYN",
@@ -89516,6 +89592,12 @@
    "yahoo_symbol": "MAIN"
   },
   {
+   "symbol": "MAIR",
+   "name": "Madison Air Solutions Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MAIR"
+  },
+  {
    "symbol": "MAN",
    "name": "ManpowerGroup Common Stock",
    "exchange": "NYSE",
@@ -92370,12 +92452,6 @@
    "name": "Perfect Corp. Class A Ordinary Share",
    "exchange": "NYSE",
    "yahoo_symbol": "PERF"
-  },
-  {
-   "symbol": "PERF.W",
-   "name": "Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PERF.W"
   },
   {
    "symbol": "PEW",

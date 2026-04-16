@@ -2283,7 +2283,6 @@ FISV,Fiserv CDR (CAD Hedged),TSX,FISV.TO,Fiserv CDR CAN Hgd,FISV
 MHC.U,Flagship Communities Real Estate Investment Trust,TSX,MHC.U.TO,FlagshpCommunREIT US,MHC.U,FlagshpCommunREIT C$,MHC.UN
 FLNT,FLINT Corp.,TSX,FLNT.TO,FLINT Corp.,FLNT
 FAR,Foraco International SA,TSX,FAR.TO,Foraco Int'l SA,FAR
-FOM,Foran Mining Corporation,TSX,FOM.TO,Foran Mining Corp J,FOM
 F,Ford CDR (CAD Hedged),TSX,F.TO,Ford CDR CAN Hgd,F
 FGBL,Forstrong Global Balanced ETF,TSX,FGBL.TO,Forstrong Gl Bl ETF,FGBL
 FGRW,Forstrong Global Growth ETF,TSX,FGRW.TO,Forstrong GlbGrowth,FGRW
@@ -3059,6 +3058,7 @@ NXR.UN,Nexus Industrial REIT,TSX,NXR.UN.TO,Nexus Industrl REIT,NXR.UN
 NFI,NFI Group Inc.,TSX,NFI.TO,NFI Group Inc.,NFI,NFI Group Inc 5% Deb,NFI.DB
 NGEX,NGEx Minerals Ltd.,TSX,NGEX.TO,NGEx Minerals Ltd.,NGEX
 NKE,NIKE CDR (CAD Hedged),TSX,NKE.TO,NIKE CDR Hgd,NKE
+GOHI,Ninepoint Alphabet HighShares ETF,TSX,GOHI.TO,Ninep Alphabet HiShr,GOHI
 NBAL,Ninepoint Balanced+ Fund,TSX,NBAL.TO,Ninepoint Blncd+ F,NBAL
 ABHI,Ninepoint Barrick HighShares ETF,TSX,ABHI.TO,Ninepoint Barric ETF,ABHI
 BCHI,Ninepoint BCE HighShares ETF,TSX,BCHI.TO,Ninepoint BCE Hi ETF,BCHI
@@ -3075,13 +3075,17 @@ INFR,Ninepoint Global Infrastructure Fund,TSX,INFR.TO,Ninepoint Glbl Infra,INFR
 GBSL,Ninepoint Global Select Fund,TSX,GBSL.TO,NP Glb Slct Fd ETF,GBSL
 GLDE,Ninepoint Gold and Precious Minerals Fund,TSX,GLDE.TO,Ninepoint Gold&Pre M,GLDE
 GBUL,Ninepoint Gold Bullion Fund,TSX,GBUL.TO,Ninepoint Gld Bulion,GBUL
+INHI,Ninepoint Intel HighShares ETF,TSX,INHI.TO,Ninept Intel HiShr E,INHI
 KGHI,Ninepoint Kinross Gold HighShares ETF,TSX,KGHI.TO,Ninept KinrGol HiShr,KGHI
 NMNG,Ninepoint Mining Evolution Fund,TSX,NMNG.TO,Ninepnt Mining EvFnd,NMNG
+NVHI,Ninepoint NVIDIA HighShares ETF,TSX,NVHI.TO,Ninept NVIDIA HiShr,NVHI
+PLHI,Ninepoint Palantir HighShares ETF,TSX,PLHI.TO,Ninep Palantir HiShr,PLHI
 RYHI,Ninepoint Royal Bank HighShares ETF,TSX,RYHI.TO,Np RylBnk HighSh ETF,RYHI
 SHHI,Ninepoint Shopify HighShares ETF,TSX,SHHI.TO,Np Shopfy HighSh ETF,SHHI
 SBUL,Ninepoint Silver Bullion Fund,TSX,SBUL.TO,Ninepoint Slvr Bulli,SBUL
 SUHI,Ninepoint Suncor HighShares ETF,TSX,SUHI.TO,Np Suncor HighSh ETF,SUHI
 TDHI,Ninepoint TD HighShares ETF,TSX,TDHI.TO,Np TD HighShares ETF,TDHI
+TSHI,Ninepoint Tesla HighShares ETF,TSX,TSHI.TO,Ninept Tesla HiShr E,TSHI
 NOA,North American Construction Group Ltd.,TSX,NOA.TO,N.A. Construction,NOA
 FFN,North American Financial 15 Split Corp.,TSX,FFN.TO,NA Fin 15 Split A ,FFN,NA Fin 15 Split 2 Pr,FFN.PR.A
 NWC,North West Company Inc. (The),TSX,NWC.TO,NW Company VarV&ComV,NWC
@@ -3089,7 +3093,7 @@ NCF,Northcliff Resources Ltd.,TSX,NCF.TO,Northcliff Res Ltd J,NCF
 NDM,Northern Dynasty Minerals Ltd.,TSX,NDM.TO,Nthrn Dynasty Min J,NDM
 NPI,Northland Power Inc.,TSX,NPI.TO,Northland Power Inc.,NPI,Northland Pwr Pr 1,NPI.PR.A,Northland Pwr Pr 2,NPI.PR.B
 NRR.UN,Northview Residential REIT,TSX,NRR.UN.TO,Northview Res REIT A,NRR.UN
-NOU,Nouveau Monde Graphite Inc.,TSX,NOU.TO,Nouveau Mond Gra Inc,NOU
+NOU,Nouveau Monde Graphite Inc.,TSX,NOU.TO,Nouveau Mond Gra Inc,NOU,Nouv MondeGrf US Sub,NOU.R.U
 NG,NovaGold Resources Inc.,TSX,NG.TO,NovaGold Resources J,NG
 NVS,Novartis CDR (CAD Hedged),TSX,NVS.TO,Novartis CDR CAD Hed,NVS
 NOVO,Novo Nordisk CDR (CAD Hedged),TSX,NOVO.TO,Novo NordiskCDR CAHg,NOVO
@@ -4306,6 +4310,7 @@ BNAIW,Brand Engagement Network Inc. - Warrant,NASDAQ Capital Market,BNAIW
 BNBX,BNB Plus Corp. - Common Stock,NASDAQ Capital Market,BNBX
 BNC,CEA Industries Inc. - Common Stock,NASDAQ Capital Market,BNC
 BNCWW,CEA Industries Inc. - Warrant,NASDAQ Capital Market,BNCWW
+BNCWZ,CEA Industries Inc. - Warrants,NASDAQ Capital Market,BNCWZ
 BND,Vanguard Total Bond Market ETF,NASDAQ Global MarketSM,BND
 BNDP,Vanguard Core-Plus Bond Index ETF,NASDAQ Global MarketSM,BNDP
 BNDW,Vanguard Total World Bond ETF,NASDAQ Global MarketSM,BNDW
@@ -6924,6 +6929,7 @@ NGNE,Neurogene Inc. - Common Stock,NASDAQ Global MarketSM,NGNE
 NHIC,NewHold Investment Corp III - Class A Ordinary shares,NASDAQ Global MarketSM,NHIC
 NHICU,NewHold Investment Corp III - Units,NASDAQ Global MarketSM,NHICU
 NHICW,NewHold Investment Corp III - Warrants,NASDAQ Global MarketSM,NHICW
+NHIVU,NewHold Investment Corp IV - Units,NASDAQ Global MarketSM,NHIVU
 NHPAP,"National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ Global MarketSM,NHPAP
 NHPBP,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",NASDAQ Global MarketSM,NHPBP
 NHTC,Natural Health Trends Corp. - Commn Stock,NASDAQ Capital Market,NHTC
@@ -7168,6 +7174,7 @@ OPTXW,"Syntec Optics Holdings, Inc. - Warrant",NASDAQ Capital Market,OPTXW
 OPTZ,Optimize Strategy Index ETF,NASDAQ Global MarketSM,OPTZ
 OPXS,"Optex Systems Holdings, Inc. - Common Stock",NASDAQ Capital Market,OPXS
 ORBS,Eightco Holdings Inc. - Common Stock,NASDAQ Capital Market,ORBS
+ORBX,Global X Space Tech ETF,NASDAQ Global MarketSM,ORBX
 ORCS,Direxion Daily ORCL Bear 1X ETF,NASDAQ Global MarketSM,ORCS
 ORCU,Direxion Daily ORCL Bull 2X ETF,NASDAQ Global MarketSM,ORCU
 ORCX,Defiance Daily Target 2X Long ORCL ETF,NASDAQ Global MarketSM,ORCX
@@ -7692,6 +7699,7 @@ REPL,"Replimune Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,REPL
 RETO,"ReTo Eco-Solutions, Inc. - Class A Shares",NASDAQ Capital Market,RETO
 REVB,"Revelation Biosciences, Inc. - Common Stock",NASDAQ Capital Market,REVB
 REVBW,"Revelation Biosciences, Inc. - Warrant",NASDAQ Capital Market,REVBW
+REXC,Sprott Rare Earths Ex-China ETF,NASDAQ Global MarketSM,REXC
 REYN,Reynolds Consumer Products Inc. - Common Stock,NASDAQ Global Select MarketSM,REYN
 RFAI,RF Acquisition Corp II - Ordinary Shares,NASDAQ Global MarketSM,RFAI
 RFAIR,RF Acquisition Corp II - Right,NASDAQ Global MarketSM,RFAIR
@@ -10775,6 +10783,7 @@ MAC,Macerich Company (The) Common Stock,NYSE,MAC
 MAGN,Magnera Corporation Common Stock,NYSE,MAGN
 MAIA,"MAIA Biotechnology, Inc. Common Stock",NYSE MKT,MAIA
 MAIN,Main Street Capital Corporation Common Stock,NYSE,MAIN
+MAIR,Madison Air Solutions Corporation Class A Common Stock,NYSE,MAIR
 MAN,ManpowerGroup Common Stock,NYSE,MAN
 MANE,"Veradermics, Incorporated Common Stock",NYSE,MANE
 MANU,Manchester United Ltd. Class A Ordinary Shares,NYSE,MANU
@@ -11251,7 +11260,6 @@ PEG,Public Service Enterprise Group Incorporated Common Stock,NYSE,PEG
 PEN,"Penumbra, Inc. Common Stock",NYSE,PEN
 PEO,"Adams Natural Resources Fund, Inc. Common Stock",NYSE,PEO
 PERF,Perfect Corp. Class A Ordinary Share,NYSE,PERF
-PERF.W,"Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share",NYSE,PERF.W
 PEW,GrabAGun Digital Holdings Inc. Common Stock,NYSE,PEW
 PEW.W,"GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",NYSE,PEW.W
 PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated,NYSE,PFD
