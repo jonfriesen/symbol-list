@@ -1,114 +1,84 @@
 {
  "added": [
   {
-   "symbol": "GOHI",
-   "name": "Ninepoint Alphabet HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "GOHI.TO",
-   "instruments": [
-    {
-     "name": "Ninep Alphabet HiShr",
-     "symbol": "GOHI"
-    }
-   ]
+   "symbol": "ARXS",
+   "name": "Arxis, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARXS"
   },
   {
-   "symbol": "INHI",
-   "name": "Ninepoint Intel HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "INHI.TO",
-   "instruments": [
-    {
-     "name": "Ninept Intel HiShr E",
-     "symbol": "INHI"
-    }
-   ]
+   "symbol": "BHAV",
+   "name": "BHAV Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAV"
   },
   {
-   "symbol": "NVHI",
-   "name": "Ninepoint NVIDIA HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "NVHI.TO",
-   "instruments": [
-    {
-     "name": "Ninept NVIDIA HiShr",
-     "symbol": "NVHI"
-    }
-   ]
+   "symbol": "BHAVR",
+   "name": "BHAV Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAVR"
   },
   {
-   "symbol": "PLHI",
-   "name": "Ninepoint Palantir HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PLHI.TO",
-   "instruments": [
-    {
-     "name": "Ninep Palantir HiShr",
-     "symbol": "PLHI"
-    }
-   ]
+   "symbol": "CTAA",
+   "name": "ClearThink 1 Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CTAA"
   },
   {
-   "symbol": "TSHI",
-   "name": "Ninepoint Tesla HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TSHI.TO",
-   "instruments": [
-    {
-     "name": "Ninept Tesla HiShr E",
-     "symbol": "TSHI"
-    }
-   ]
+   "symbol": "CTAAR",
+   "name": "ClearThink 1 Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CTAAR"
   },
   {
-   "symbol": "BNCWZ",
-   "name": "CEA Industries Inc. - Warrants",
+   "symbol": "ILLR",
+   "name": "Triller Group Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BNCWZ"
+   "yahoo_symbol": "ILLR"
   },
   {
-   "symbol": "NHIVU",
-   "name": "NewHold Investment Corp IV - Units",
+   "symbol": "ILLRW",
+   "name": "Triller Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLRW"
+  },
+  {
+   "symbol": "JEMA",
+   "name": "JPMorgan ActiveBuilders Emerging Markets Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NHIVU"
+   "yahoo_symbol": "JEMA"
   },
   {
-   "symbol": "ORBX",
-   "name": "Global X Space Tech ETF",
+   "symbol": "JOYT",
+   "name": "JPMorgan Equity and Options Total Return ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ORBX"
+   "yahoo_symbol": "JOYT"
   },
   {
-   "symbol": "REXC",
-   "name": "Sprott Rare Earths Ex-China ETF",
+   "symbol": "LVDS",
+   "name": "JPMorgan Fundamental Data Science Large Value ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "REXC"
+   "yahoo_symbol": "LVDS"
   },
   {
-   "symbol": "MAIR",
-   "name": "Madison Air Solutions Corporation Class A Common Stock",
+   "symbol": "AVEX",
+   "name": "AEVEX Corp. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MAIR"
+   "yahoo_symbol": "AVEX"
+  },
+  {
+   "symbol": "P",
+   "name": "Everpure, Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "P"
   }
  ],
  "removed": [
   {
-   "symbol": "PERF.W",
-   "name": "Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share",
+   "symbol": "PSTG",
+   "name": "Everpure, Inc. Class A common stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "PERF.W"
-  },
-  {
-   "symbol": "FOM",
-   "name": "Foran Mining Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "FOM.TO",
-   "instruments": [
-    {
-     "name": "Foran Mining Corp J",
-     "symbol": "FOM"
-    }
-   ]
+   "yahoo_symbol": "PSTG"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-04-16",
+ "date": "2026-04-17",
  "data": [
   {
    "symbol": "ONE",
@@ -48978,6 +48978,12 @@
    "yahoo_symbol": "ARWR"
   },
   {
+   "symbol": "ARXS",
+   "name": "Arxis, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARXS"
+  },
+  {
    "symbol": "ASBP",
    "name": "Aspire Biopharma Holdings, Inc.  - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -50266,6 +50272,18 @@
    "name": "iShares Large Cap Growth Active ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BGRO"
+  },
+  {
+   "symbol": "BHAV",
+   "name": "BHAV Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAV"
+  },
+  {
+   "symbol": "BHAVR",
+   "name": "BHAV Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAVR"
   },
   {
    "symbol": "BHAVU",
@@ -53896,6 +53914,18 @@
    "name": "CSX Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CSX"
+  },
+  {
+   "symbol": "CTAA",
+   "name": "ClearThink 1 Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CTAA"
+  },
+  {
+   "symbol": "CTAAR",
+   "name": "ClearThink 1 Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CTAAR"
   },
   {
    "symbol": "CTAAU",
@@ -61086,6 +61116,18 @@
    "yahoo_symbol": "ILIT"
   },
   {
+   "symbol": "ILLR",
+   "name": "Triller Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLR"
+  },
+  {
+   "symbol": "ILLRW",
+   "name": "Triller Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLRW"
+  },
+  {
    "symbol": "ILLUU",
    "name": "Illumination Acquisition Corp I - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -62106,6 +62148,12 @@
    "yahoo_symbol": "JEM"
   },
   {
+   "symbol": "JEMA",
+   "name": "JPMorgan ActiveBuilders Emerging Markets Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JEMA"
+  },
+  {
    "symbol": "JEPQ",
    "name": "JPMorgan Nasdaq Equity Premium Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -62200,6 +62248,12 @@
    "name": "Johnson Outdoors Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "JOUT"
+  },
+  {
+   "symbol": "JOYT",
+   "name": "JPMorgan Equity and Options Total Return ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JOYT"
   },
   {
    "symbol": "JOYY",
@@ -64048,6 +64102,12 @@
    "name": "Intuitive Machines, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LUNR"
+  },
+  {
+   "symbol": "LVDS",
+   "name": "JPMorgan Fundamental Data Science Large Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVDS"
   },
   {
    "symbol": "LVHD",
@@ -65923,13 +65983,13 @@
   },
   {
    "symbol": "MYSE",
-   "name": "Myseum, Inc. - Common Stock",
+   "name": "Myseum.AI, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MYSE"
   },
   {
    "symbol": "MYSEW",
-   "name": "Myseum, Inc. - Series A Warrant",
+   "name": "Myseum.AI, Inc. - Series A Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MYSEW"
   },
@@ -80658,6 +80718,12 @@
    "yahoo_symbol": "AVD"
   },
   {
+   "symbol": "AVEX",
+   "name": "AEVEX Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AVEX"
+  },
+  {
    "symbol": "AVK",
    "name": "Advent Convertible and Income Fund",
    "exchange": "NYSE",
@@ -92088,6 +92154,12 @@
    "yahoo_symbol": "OZ"
   },
   {
+   "symbol": "P",
+   "name": "Everpure, Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "P"
+  },
+  {
    "symbol": "PAAS",
    "name": "Pan American Silver Corp. Common Stock",
    "exchange": "NYSE",
@@ -93160,12 +93232,6 @@
    "name": "PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
    "exchange": "NYSE",
    "yahoo_symbol": "PSQH.W"
-  },
-  {
-   "symbol": "PSTG",
-   "name": "Everpure, Inc. Class A common stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PSTG"
   },
   {
    "symbol": "PSTL",
