@@ -1,5 +1,5 @@
 {
- "date": "2026-04-17",
+ "date": "2026-04-20",
  "data": [
   {
    "symbol": "ONE",
@@ -13518,18 +13518,6 @@
     {
      "name": "RJK Explorations Ltd.",
      "symbol": "RJX.A"
-    }
-   ]
-  },
-  {
-   "symbol": "RBX",
-   "name": "Robex Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "RBX.V",
-   "instruments": [
-    {
-     "name": "Robex Resources Inc.",
-     "symbol": "RBX"
     }
    ]
   },
@@ -28970,6 +28958,18 @@
    ]
   },
   {
+   "symbol": "SGRD",
+   "name": "First Trust Nasdaq® Clean Edge® Smart Grid Infrastructure ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGRD.TO",
+   "instruments": [
+    {
+     "name": "Frst Trst NDQ Cl Edg",
+     "symbol": "SGRD"
+    }
+   ]
+  },
+  {
    "symbol": "FBT",
    "name": "First Trust NYSE Arca Biotechnology ETF",
    "exchange": "TSX",
@@ -40726,6 +40726,18 @@
    ]
   },
   {
+   "symbol": "PDI",
+   "name": "Predictive Discovery Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "PDI.TO",
+   "instruments": [
+    {
+     "name": "Predictive Dscvr Ltd",
+     "symbol": "PDI"
+    }
+   ]
+  },
+  {
    "symbol": "PBH",
    "name": "Premium Brands Holdings Corporation",
    "exchange": "TSX",
@@ -48030,6 +48042,12 @@
    "yahoo_symbol": "ALM"
   },
   {
+   "symbol": "ALMR",
+   "name": "Alamar Biosciences, Inc. - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALMR"
+  },
+  {
    "symbol": "ALMS",
    "name": "Alumis Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -48376,12 +48394,6 @@
    "name": "AnaptysBio, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ANAB"
-  },
-  {
-   "symbol": "ANABV",
-   "name": "AnaptysBio, Inc. - Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ANABV"
   },
   {
    "symbol": "ANDE",
@@ -49033,7 +49045,7 @@
   },
   {
    "symbol": "ASND",
-   "name": "Ascendis Pharma A/S - American Depositary Shares",
+   "name": "Ascendis Pharma A/S - Ordinary Share",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ASND"
   },
@@ -60288,12 +60300,6 @@
    "yahoo_symbol": "HSTM"
   },
   {
-   "symbol": "HTBK",
-   "name": "Heritage Commerce Corp - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HTBK"
-  },
-  {
    "symbol": "HTCO",
    "name": "High-Trend International Group - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -62070,6 +62076,12 @@
    "yahoo_symbol": "JAPN"
   },
   {
+   "symbol": "JATT",
+   "name": "JATT II Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JATT"
+  },
+  {
    "symbol": "JAZZ",
    "name": "Jazz Pharmaceuticals plc - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -62650,6 +62662,12 @@
    "name": "Kulicke and Soffa Industries, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "KLIC"
+  },
+  {
+   "symbol": "KLRA",
+   "name": "Kailera Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KLRA"
   },
   {
    "symbol": "KLRS",
@@ -75516,10 +75534,10 @@
    "yahoo_symbol": "TRAW"
   },
   {
-   "symbol": "TRAXV",
+   "symbol": "TRAX",
    "name": "First Tracks Biotherapeutics, Inc. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TRAXV"
+   "yahoo_symbol": "TRAX"
   },
   {
    "symbol": "TRBF",
@@ -84240,6 +84258,12 @@
    "yahoo_symbol": "DHY"
   },
   {
+   "symbol": "DHY.V",
+   "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DHY.V"
+  },
+  {
    "symbol": "DIN",
    "name": "Dine Brands Global, Inc. Common Stock",
    "exchange": "NYSE",
@@ -90318,12 +90342,6 @@
    "yahoo_symbol": "MPTI"
   },
   {
-   "symbol": "MPTI.R",
-   "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MPTI.R"
-  },
-  {
    "symbol": "MPU",
    "name": "Mega Matrix Inc. Class A Ordinary Shares",
    "exchange": "NYSE MKT",
@@ -90750,10 +90768,22 @@
    "yahoo_symbol": "MYO"
   },
   {
+   "symbol": "MZYX",
+   "name": "MOZAYYX Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MZYX"
+  },
+  {
    "symbol": "MZYX.U",
    "name": "MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "MZYX.U"
+  },
+  {
+   "symbol": "MZYX.W",
+   "name": "MOZAYYX Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MZYX.W"
   },
   {
    "symbol": "NABL",
@@ -93376,18 +93406,6 @@
    "name": "Quad Graphics, Inc Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "QUAD"
-  },
-  {
-   "symbol": "QVCC",
-   "name": "QVC, Inc. 6.250% Senior Secured Notes due 2068",
-   "exchange": "NYSE",
-   "yahoo_symbol": "QVCC"
-  },
-  {
-   "symbol": "QVCD",
-   "name": "QVC, Inc. 6.375% Senior Secured Notes due 2067",
-   "exchange": "NYSE",
-   "yahoo_symbol": "QVCD"
   },
   {
    "symbol": "QXO",
@@ -96154,6 +96172,18 @@
    "name": "Tootsie Roll Industries, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TR"
+  },
+  {
+   "symbol": "TRAD",
+   "name": "APEX Tech Acquisition Inc. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAD"
+  },
+  {
+   "symbol": "TRAD.R",
+   "name": "APEX Tech Acquisition Inc. Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAD.R"
   },
   {
    "symbol": "TRAD.U",
