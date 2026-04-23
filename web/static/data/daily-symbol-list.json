@@ -1,5 +1,5 @@
 {
- "date": "2026-04-22",
+ "date": "2026-04-23",
  "data": [
   {
    "symbol": "ONE",
@@ -5350,6 +5350,18 @@
    ]
   },
   {
+   "symbol": "EM",
+   "name": "Errington Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EM.V",
+   "instruments": [
+    {
+     "name": "Errington Metals Corp.",
+     "symbol": "EM"
+    }
+   ]
+  },
+  {
    "symbol": "ESBL",
    "name": "Eshbal Functional Food Inc.",
    "exchange": "TSXV",
@@ -7954,6 +7966,18 @@
     {
      "name": "ILC Critical Minerals Ltd.",
      "symbol": "ILC"
+    }
+   ]
+  },
+  {
+   "symbol": "UVC",
+   "name": "Illumisoft Lighting Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UVC.V",
+   "instruments": [
+    {
+     "name": "Illumisoft Lighting Corp.",
+     "symbol": "UVC"
     }
    ]
   },
@@ -12062,18 +12086,6 @@
     {
      "name": "Parvis Invest Inc.",
      "symbol": "PVIS"
-    }
-   ]
-  },
-  {
-   "symbol": "VEIN",
-   "name": "Pasofino Gold Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VEIN.V",
-   "instruments": [
-    {
-     "name": "Pasofino Gold Limited",
-     "symbol": "VEIN"
     }
    ]
   },
@@ -32228,7 +32240,7 @@
    "yahoo_symbol": "HLIF.TO",
    "instruments": [
     {
-     "name": "Harvest CdnEq Incm A",
+     "name": "HVST Can Div Ldr Inc",
      "symbol": "HLIF"
     }
    ]
@@ -32432,11 +32444,11 @@
    "yahoo_symbol": "HPF.TO",
    "instruments": [
     {
-     "name": "HarvestEnergyLdr+ Un",
+     "name": "HVST Energy Ldr Inc",
      "symbol": "HPF"
     },
     {
-     "name": "HarvestEnergyLdr+ US",
+     "name": "HVST Energy Ldr USD",
      "symbol": "HPF.U"
     }
    ]
@@ -32868,7 +32880,7 @@
    "yahoo_symbol": "HTAE.TO",
    "instruments": [
     {
-     "name": "Harvest TechAchiev A",
+     "name": "HVST Tech Ldr Enh",
      "symbol": "HTAE"
     }
    ]
@@ -32880,15 +32892,15 @@
    "yahoo_symbol": "HTA.TO",
    "instruments": [
     {
-     "name": "HarvestTechAchvGrw A",
+     "name": "HVST Tech Ldr Inc ET",
      "symbol": "HTA"
     },
     {
-     "name": "HarvestTecAchGroB UH",
+     "name": "HVST TechLdr Inc UNH",
      "symbol": "HTA.B"
     },
     {
-     "name": "HarvestTechAchGrowUS",
+     "name": "HVST TechLdr Inc USD",
      "symbol": "HTA.U"
     }
    ]
@@ -32968,15 +32980,15 @@
    "yahoo_symbol": "HBF.TO",
    "instruments": [
     {
-     "name": "HarvestBrndLdr+ A Un",
+     "name": "HVST US Eq Ldr Inc ",
      "symbol": "HBF"
     },
     {
-     "name": "HarvestBrndLdr+B U-H",
+     "name": "HVST US EqL Inc UNH",
      "symbol": "HBF.B"
     },
     {
-     "name": "HarvestBrndLdr+US Un",
+     "name": "HVST US EqL Inc USD",
      "symbol": "HBF.U"
     }
    ]
@@ -32988,7 +33000,7 @@
    "yahoo_symbol": "HUTE.TO",
    "instruments": [
     {
-     "name": "Harvest EqlWG Util A",
+     "name": "HVST Util LdrEnh Inc",
      "symbol": "HUTE"
     }
    ]
@@ -33000,7 +33012,7 @@
    "yahoo_symbol": "HUTL.TO",
    "instruments": [
     {
-     "name": "Harvest Eq Wght Util",
+     "name": "HVST Util Ldr Inc",
      "symbol": "HUTL"
     }
    ]
@@ -39642,18 +39654,6 @@
     {
      "name": "Novo Resources J",
      "symbol": "NVO"
-    }
-   ]
-  },
-  {
-   "symbol": "NUMI",
-   "name": "Numinus Wellness Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NUMI.TO",
-   "instruments": [
-    {
-     "name": "Numinus Wellness J",
-     "symbol": "NUMI"
     }
    ]
   },
@@ -51722,10 +51722,10 @@
    "yahoo_symbol": "DHY"
   },
   {
-   "symbol": "DHY.V",
-   "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued",
+   "symbol": "DHY.R",
+   "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "DHY.V"
+   "yahoo_symbol": "DHY.R"
   },
   {
    "symbol": "DIN",
@@ -69236,6 +69236,12 @@
    "yahoo_symbol": "BENFW"
   },
   {
+   "symbol": "BESO",
+   "name": "GSR Crypto Core3 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BESO"
+  },
+  {
    "symbol": "BETR",
    "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -73556,6 +73562,12 @@
    "yahoo_symbol": "DERM"
   },
   {
+   "symbol": "DETX",
+   "name": "Liberty Defense Holdings, Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DETX"
+  },
+  {
    "symbol": "DEVS",
    "name": "DevvStream Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -73710,12 +73722,6 @@
    "name": "Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DHCNL"
-  },
-  {
-   "symbol": "DHIL",
-   "name": "Diamond Hill Investment Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DHIL"
   },
   {
    "symbol": "DIBS",
@@ -85616,6 +85622,12 @@
    "yahoo_symbol": "NHIVU"
   },
   {
+   "symbol": "NHP",
+   "name": "National Healthcare Properties, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHP"
+  },
+  {
    "symbol": "NHPAP",
    "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -91995,7 +92007,7 @@
   },
   {
    "symbol": "SKIN",
-   "name": "The Beauty Health Company - Class A Common Stock",
+   "name": "SkinHealth Systems Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SKIN"
   },
@@ -97950,6 +97962,12 @@
    "name": "GraniteShares YieldBOOST SPY ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "YSPY"
+  },
+  {
+   "symbol": "YSWY",
+   "name": "Yesway, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "YSWY"
   },
   {
    "symbol": "YSXT",
