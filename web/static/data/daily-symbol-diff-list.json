@@ -1,150 +1,132 @@
 {
  "added": [
   {
-   "symbol": "MACK",
-   "name": "Mackay Gold \u0026 Silver Corp.",
+   "symbol": "OSM",
+   "name": "Osiris One Metals Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "MACK.V",
+   "yahoo_symbol": "OSM.V",
    "instruments": [
     {
-     "name": "Mackay Gold \u0026 Silver Corp.",
-     "symbol": "MACK"
+     "name": "Osiris One Metals Ltd.",
+     "symbol": "OSM"
     }
    ]
   },
   {
-   "symbol": "MMET",
-   "name": "Miata Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MMET.V",
+   "symbol": "ATX",
+   "name": "ATEX Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATX.TO",
    "instruments": [
     {
-     "name": "Miata Metals Corp.",
-     "symbol": "MMET"
+     "name": "Atex Resources Inc",
+     "symbol": "ATX"
     }
    ]
   },
   {
-   "symbol": "BAYA",
-   "name": "Bayview Acquisition Corp - Ordinary Share",
+   "symbol": "FNRN",
+   "name": "First Northern Community Bancorp - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BAYA"
+   "yahoo_symbol": "FNRN"
   },
   {
-   "symbol": "BAYAR",
-   "name": "Bayview Acquisition Corp - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BAYAR"
+   "symbol": "XE",
+   "name": "X-Energy, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "XE"
   },
   {
-   "symbol": "BAYAU",
-   "name": "Bayview Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BAYAU"
-  },
-  {
-   "symbol": "ELMT",
-   "name": "The Elmet Group Co. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ELMT"
-  },
-  {
-   "symbol": "LABT",
-   "name": "Lakewood-Amedex Biotherapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LABT"
-  },
-  {
-   "symbol": "EFOR",
-   "name": "Everforth, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "EFOR"
-  },
-  {
-   "symbol": "KCA.U",
-   "name": "Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three-quarters of one Class 2 Redeemable Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KCA.U"
-  },
-  {
-   "symbol": "KCAC.W",
-   "name": "Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KCAC.W"
+   "symbol": "ZSQR",
+   "name": "Z Squared Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZSQR"
   }
  ],
  "removed": [
   {
-   "symbol": "DVX.P",
-   "name": "Drummond Ventures Corp.",
+   "symbol": "PL.W",
+   "name": "Planet Labs PBC Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PL.W"
+  },
+  {
+   "symbol": "NOM",
+   "name": "Nuveen Missouri Quality Municipal Income Fund ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NOM"
+  },
+  {
+   "symbol": "ION",
+   "name": "Lithium ION Energy Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DVX.P.V",
+   "yahoo_symbol": "ION.V",
    "instruments": [
     {
-     "name": "Drummond Ventures Corp.",
-     "symbol": "DVX.P"
+     "name": "Lithium ION Energy Ltd.",
+     "symbol": "ION"
     }
    ]
   },
   {
-   "symbol": "BAYAR",
-   "name": "Bayview Acquisition Corp - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BAYAR"
-  },
-  {
-   "symbol": "QVCGP",
-   "name": "QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
+   "symbol": "COEPW",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QVCGP"
+   "yahoo_symbol": "COEPW"
   },
   {
-   "symbol": "LAYS",
-   "name": "STKd 100% NVDA \u0026 100% AMD ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LAYS"
-  },
-  {
-   "symbol": "QVCGA",
-   "name": "QVC Group, Inc. - Series A Common Stock",
+   "symbol": "COEP",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QVCGA"
+   "yahoo_symbol": "COEP"
   },
   {
-   "symbol": "PRIF$J",
-   "name": "Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028",
+   "symbol": "NXJ",
+   "name": "Nuveen New Jersey Qualified Municipal Fund ",
    "exchange": "NYSE",
-   "yahoo_symbol": "PRIF$J"
+   "yahoo_symbol": "NXJ"
   },
   {
-   "symbol": "DBSC",
-   "name": "Deepwater Beachfront Small Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DBSC"
+   "symbol": "FKM",
+   "name": "Fokus Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FKM.V",
+   "instruments": [
+    {
+     "name": "Fokus Mining Corporation",
+     "symbol": "FKM"
+    }
+   ]
   },
   {
-   "symbol": "ASGN",
-   "name": "ASGN Incorporated Common Stock",
+   "symbol": "NQP",
+   "name": "Nuveen Pennsylvania Quality Municipal Income Fund Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ASGN"
+   "yahoo_symbol": "NQP"
   },
   {
-   "symbol": "DAWN",
-   "name": "Day One Biopharmaceuticals, Inc. - Common Stock",
+   "symbol": "ATX",
+   "name": "ATEX Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATX.V",
+   "instruments": [
+    {
+     "name": "ATEX Resources Inc.",
+     "symbol": "ATX"
+    }
+   ]
+  },
+  {
+   "symbol": "MAPSW",
+   "name": "WM Technology, Inc. - Warrants",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DAWN"
+   "yahoo_symbol": "MAPSW"
   },
   {
-   "symbol": "BAYAU",
-   "name": "Bayview Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BAYAU"
-  },
-  {
-   "symbol": "BAYA",
-   "name": "Bayview Acquisition Corp - Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BAYA"
+   "symbol": "MAPS",
+   "name": "WM Technology, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MAPS"
   }
  ]
 }
