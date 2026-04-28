@@ -1,132 +1,132 @@
 {
  "added": [
   {
-   "symbol": "OSM",
-   "name": "Osiris One Metals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "OSM.V",
-   "instruments": [
-    {
-     "name": "Osiris One Metals Ltd.",
-     "symbol": "OSM"
-    }
-   ]
-  },
-  {
-   "symbol": "ATX",
-   "name": "ATEX Resources Inc.",
+   "symbol": "MBAP",
+   "name": "Manulife Balanced ETF Portfolio",
    "exchange": "TSX",
-   "yahoo_symbol": "ATX.TO",
+   "yahoo_symbol": "MBAP.TO",
    "instruments": [
     {
-     "name": "Atex Resources Inc",
-     "symbol": "ATX"
+     "name": "Manulife Balnce Port",
+     "symbol": "MBAP"
     }
    ]
   },
   {
-   "symbol": "FNRN",
-   "name": "First Northern Community Bancorp - Common stock",
+   "symbol": "MCAP",
+   "name": "Manulife Conservative ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCAP.TO",
+   "instruments": [
+    {
+     "name": "Manulife Cons Portfo",
+     "symbol": "MCAP"
+    }
+   ]
+  },
+  {
+   "symbol": "MGAP",
+   "name": "Manulife Growth ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "MGAP.TO",
+   "instruments": [
+    {
+     "name": "Manulife Growth Port",
+     "symbol": "MGAP"
+    }
+   ]
+  },
+  {
+   "symbol": "VBIO",
+   "name": "Valion Bio, Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FNRN"
+   "yahoo_symbol": "VBIO"
   },
   {
-   "symbol": "XE",
-   "name": "X-Energy, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "XE"
+   "symbol": "VIVK",
+   "name": "Vivakor, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIVK"
   },
   {
-   "symbol": "ZSQR",
-   "name": "Z Squared Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZSQR"
+   "symbol": "PLUN.U",
+   "name": "Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PLUN.U"
+  },
+  {
+   "symbol": "SF",
+   "name": "Safi Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SF.V",
+   "instruments": [
+    {
+     "name": "Safi Silver Corp.",
+     "symbol": "SF"
+    }
+   ]
+  },
+  {
+   "symbol": "PAIN",
+   "name": "Vector Science and Therapeutics Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PAIN.V",
+   "instruments": [
+    {
+     "name": "Vector Science and Therapeutics Corp.",
+     "symbol": "PAIN"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "PL.W",
-   "name": "Planet Labs PBC Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share",
+   "symbol": "SEMR",
+   "name": "SEMrush Holdings, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "PL.W"
+   "yahoo_symbol": "SEMR"
   },
   {
-   "symbol": "NOM",
-   "name": "Nuveen Missouri Quality Municipal Income Fund ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NOM"
-  },
-  {
-   "symbol": "ION",
-   "name": "Lithium ION Energy Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ION.V",
-   "instruments": [
-    {
-     "name": "Lithium ION Energy Ltd.",
-     "symbol": "ION"
-    }
-   ]
-  },
-  {
-   "symbol": "COEPW",
-   "name": "Coeptis Therapeutics Holdings, Inc. - Warrants",
+   "symbol": "TIVC",
+   "name": "Tivic Health Systems, Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COEPW"
+   "yahoo_symbol": "TIVC"
   },
   {
-   "symbol": "COEP",
-   "name": "Coeptis Therapeutics Holdings, Inc. - Common Stock",
+   "symbol": "FOLD",
+   "name": "Amicus Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FOLD"
+  },
+  {
+   "symbol": "OPEN.P",
+   "name": "OpenSesame Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPEN.P.V",
+   "instruments": [
+    {
+     "name": "OpenSesame Acquisition Corp.",
+     "symbol": "OPEN.P"
+    }
+   ]
+  },
+  {
+   "symbol": "TM",
+   "name": "Trigon Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TM.V",
+   "instruments": [
+    {
+     "name": "Trigon Metals Inc.",
+     "symbol": "TM"
+    }
+   ]
+  },
+  {
+   "symbol": "ZSPC",
+   "name": "zSpace, Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "COEP"
-  },
-  {
-   "symbol": "NXJ",
-   "name": "Nuveen New Jersey Qualified Municipal Fund ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXJ"
-  },
-  {
-   "symbol": "FKM",
-   "name": "Fokus Mining Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FKM.V",
-   "instruments": [
-    {
-     "name": "Fokus Mining Corporation",
-     "symbol": "FKM"
-    }
-   ]
-  },
-  {
-   "symbol": "NQP",
-   "name": "Nuveen Pennsylvania Quality Municipal Income Fund Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NQP"
-  },
-  {
-   "symbol": "ATX",
-   "name": "ATEX Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ATX.V",
-   "instruments": [
-    {
-     "name": "ATEX Resources Inc.",
-     "symbol": "ATX"
-    }
-   ]
-  },
-  {
-   "symbol": "MAPSW",
-   "name": "WM Technology, Inc. - Warrants",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MAPSW"
-  },
-  {
-   "symbol": "MAPS",
-   "name": "WM Technology, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MAPS"
+   "yahoo_symbol": "ZSPC"
   }
  ]
 }
