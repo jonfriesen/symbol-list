@@ -1,5 +1,5 @@
 {
- "date": "2026-04-29",
+ "date": "2026-04-30",
  "data": [
   {
    "symbol": "ONE",
@@ -6126,6 +6126,10 @@
     {
      "name": "Frontier Lithium Inc.",
      "symbol": "FL"
+    },
+    {
+     "name": "Frontier Lithium Inc Wt 30Apr2028",
+     "symbol": "FL.WT"
     }
    ]
   },
@@ -9046,6 +9050,18 @@
    ]
   },
   {
+   "symbol": "LALI",
+   "name": "Latam Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LALI.V",
+   "instruments": [
+    {
+     "name": "Latam Lithium Corp.",
+     "symbol": "LALI"
+    }
+   ]
+  },
+  {
    "symbol": "LXE",
    "name": "Latin Explore Inc.",
    "exchange": "TSXV",
@@ -10974,26 +10990,6 @@
    ]
   },
   {
-   "symbol": "GASX",
-   "name": "NG Energy International Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GASX.V",
-   "instruments": [
-    {
-     "name": "NG Energy International Corp.",
-     "symbol": "GASX"
-    },
-    {
-     "name": "NG Energy International Corp. db 20May2027",
-     "symbol": "GASX.DB"
-    },
-    {
-     "name": "NG Energy International Corp. wt 20May2027",
-     "symbol": "GASX.WT.A"
-    }
-   ]
-  },
-  {
    "symbol": "NICN",
    "name": "NICAN Limited",
    "exchange": "TSXV",
@@ -12490,18 +12486,6 @@
     {
      "name": "Pool Safe Inc.",
      "symbol": "POOL"
-    }
-   ]
-  },
-  {
-   "symbol": "POR",
-   "name": "Portofino Resources Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "POR.V",
-   "instruments": [
-    {
-     "name": "Portofino Resources Inc.",
-     "symbol": "POR"
     }
    ]
   },
@@ -24223,7 +24207,7 @@
   },
   {
    "symbol": "CINV",
-   "name": "CI Global Alpha Innovation ETF",
+   "name": "CI Global Alpha Innovators ETF",
    "exchange": "TSX",
    "yahoo_symbol": "CINV.TO",
    "instruments": [
@@ -31074,6 +31058,22 @@
    ]
   },
   {
+   "symbol": "PAVE",
+   "name": "Global X U.S. Infrastructure Development Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAVE.TO",
+   "instruments": [
+    {
+     "name": "Glbl X US Infr Dev C",
+     "symbol": "PAVE"
+    },
+    {
+     "name": "Glbl X US Infr Dev U",
+     "symbol": "PAVE.U"
+    }
+   ]
+  },
+  {
    "symbol": "HURA",
    "name": "Global X Uranium Index ETF",
    "exchange": "TSX",
@@ -36626,6 +36626,18 @@
    ]
   },
   {
+   "symbol": "LMCU",
+   "name": "Lumina Metals Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LMCU.TO",
+   "instruments": [
+    {
+     "name": "Lumina Metals Corp",
+     "symbol": "LMCU"
+    }
+   ]
+  },
+  {
    "symbol": "LUG",
    "name": "Lundin Gold Inc.",
    "exchange": "TSX",
@@ -39170,6 +39182,26 @@
     {
      "name": "NFI Group Inc 5% Deb",
      "symbol": "NFI.DB"
+    }
+   ]
+  },
+  {
+   "symbol": "GASX",
+   "name": "NG Energy International Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GASX.TO",
+   "instruments": [
+    {
+     "name": "NG Energy Int Corp S",
+     "symbol": "GASX"
+    },
+    {
+     "name": "NG Energy Int Corp D",
+     "symbol": "GASX.DB"
+    },
+    {
+     "name": "NG Energy Int Corp W",
+     "symbol": "GASX.WT.A"
     }
    ]
   },
@@ -50274,6 +50306,12 @@
    "yahoo_symbol": "BGC"
   },
   {
+   "symbol": "BGDE",
+   "name": "Big Digital Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGDE"
+  },
+  {
    "symbol": "BGIN",
    "name": "Bgin Blockchain Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -51772,6 +51810,12 @@
    "name": "Caris Life Sciences, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CAI"
+  },
+  {
+   "symbol": "CAIIU",
+   "name": "Collective Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAIIU"
   },
   {
    "symbol": "CAIQ",
@@ -55840,12 +55884,6 @@
    "name": "Elauwit Connection, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ELWT"
-  },
-  {
-   "symbol": "EM",
-   "name": "Smart Share Global Limited - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EM"
   },
   {
    "symbol": "EMAT",
@@ -65046,12 +65084,6 @@
    "yahoo_symbol": "MIDD"
   },
   {
-   "symbol": "MIGI",
-   "name": "Big Digital Energy, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MIGI"
-  },
-  {
    "symbol": "MILN",
    "name": "Global X Millennial Consumer ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -66619,7 +66651,7 @@
   },
   {
    "symbol": "NHTC",
-   "name": "Natural Health Trends Corp. - Commn Stock",
+   "name": "Natural Health Trends Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NHTC"
   },
@@ -70675,7 +70707,7 @@
   },
   {
    "symbol": "QUCY",
-   "name": "Mainz Biomed N.V. - Ordinary Shares",
+   "name": "Quantum Cyber N.V. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QUCY"
   },
@@ -70714,6 +70746,12 @@
    "name": "Alpha Architect U.S. Quantitative Value ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QVAL"
+  },
+  {
+   "symbol": "QXL",
+   "name": "Quantum X Labs Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QXL"
   },
   {
    "symbol": "QXQ",
@@ -72928,12 +72966,6 @@
    "name": "SiTime Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SITM"
-  },
-  {
-   "symbol": "SIXG",
-   "name": "Defiance Connective Technologies ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SIXG"
   },
   {
    "symbol": "SJ",
@@ -76302,6 +76334,12 @@
    "yahoo_symbol": "UFO"
   },
   {
+   "symbol": "UFOX",
+   "name": "Defiance Connective Technologies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UFOX"
+  },
+  {
    "symbol": "UFPI",
    "name": "UFP Industries, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -76900,12 +76938,6 @@
    "name": "Valion Bio, Inc. - Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "VBIO"
-  },
-  {
-   "symbol": "VBIX",
-   "name": "Viewbix Inc. - Common Stock ",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VBIX"
   },
   {
    "symbol": "VBNK",
@@ -91788,12 +91820,6 @@
    "yahoo_symbol": "NXG"
   },
   {
-   "symbol": "NXG.R",
-   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXG.R"
-  },
-  {
    "symbol": "NXP",
    "name": "Nuveen Select Tax Free Income Portfolio Common Stock",
    "exchange": "NYSE",
@@ -94378,6 +94404,12 @@
    "name": "Western Asset Intermediate Muni Fund Inc Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SBI"
+  },
+  {
+   "symbol": "SBMT",
+   "name": "Silver Bow Mining Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SBMT"
   },
   {
    "symbol": "SBR",
@@ -97552,6 +97584,12 @@
    "name": "Welltower Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "WELL"
+  },
+  {
+   "symbol": "WENC.U",
+   "name": "West Enclave Merger Corp. Units, each consisting of one Ordinary Share and one Right to acquire one-tenth (1/10) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WENC.U"
   },
   {
    "symbol": "WES",

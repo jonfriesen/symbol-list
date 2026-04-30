@@ -1,150 +1,164 @@
 {
  "added": [
   {
-   "symbol": "ECN.DB.A",
-   "name": "ECN Capital Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ECN.DB.A.TO",
+   "symbol": "LALI",
+   "name": "Latam Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LALI.V",
    "instruments": [
     {
-     "name": "ECN Capital 6% Deb",
-     "symbol": "ECN.DB.A"
-    },
-    {
-     "name": "ECN Capital 6.25 Deb",
-     "symbol": "ECN.DB.B"
-    },
-    {
-     "name": "ECN Capital 6.5% Deb",
-     "symbol": "ECN.DB.C"
+     "name": "Latam Lithium Corp.",
+     "symbol": "LALI"
     }
    ]
   },
   {
-   "symbol": "ORBX",
-   "name": "Global X Space Tech Index ETF",
+   "symbol": "PAVE",
+   "name": "Global X U.S. Infrastructure Development Index ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "ORBX.TO",
+   "yahoo_symbol": "PAVE.TO",
    "instruments": [
     {
-     "name": "Global X Spc Tch Ind",
-     "symbol": "ORBX"
+     "name": "Glbl X US Infr Dev C",
+     "symbol": "PAVE"
+    },
+    {
+     "name": "Glbl X US Infr Dev U",
+     "symbol": "PAVE.U"
     }
    ]
   },
   {
-   "symbol": "AIFC",
-   "name": "AI Financial Corporation - Common Stock",
+   "symbol": "LMCU",
+   "name": "Lumina Metals Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LMCU.TO",
+   "instruments": [
+    {
+     "name": "Lumina Metals Corp",
+     "symbol": "LMCU"
+    }
+   ]
+  },
+  {
+   "symbol": "GASX",
+   "name": "NG Energy International Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GASX.TO",
+   "instruments": [
+    {
+     "name": "NG Energy Int Corp S",
+     "symbol": "GASX"
+    },
+    {
+     "name": "NG Energy Int Corp D",
+     "symbol": "GASX.DB"
+    },
+    {
+     "name": "NG Energy Int Corp W",
+     "symbol": "GASX.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "BGDE",
+   "name": "Big Digital Energy, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AIFC"
+   "yahoo_symbol": "BGDE"
   },
   {
-   "symbol": "CRY",
-   "name": "GraniteShares YieldBOOST CRCL ETF",
+   "symbol": "CAIIU",
+   "name": "Collective Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRY"
+   "yahoo_symbol": "CAIIU"
   },
   {
-   "symbol": "CXIIU",
-   "name": "Churchill Capital Corp XII - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CXIIU"
-  },
-  {
-   "symbol": "FABC",
-   "name": "Fabric.AI, Inc. - Common Stock",
+   "symbol": "QXL",
+   "name": "Quantum X Labs Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FABC"
+   "yahoo_symbol": "QXL"
   },
   {
-   "symbol": "GLNDW",
-   "name": "Greenland Energy Company - Warrant",
+   "symbol": "UFOX",
+   "name": "Defiance Connective Technologies ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GLNDW"
+   "yahoo_symbol": "UFOX"
   },
   {
-   "symbol": "IACQU",
-   "name": "Irenic Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IACQU"
+   "symbol": "SBMT",
+   "name": "Silver Bow Mining Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SBMT"
   },
   {
-   "symbol": "WRTH",
-   "name": "Worth Charting Options Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WRTH"
-  },
-  {
-   "symbol": "XEY",
-   "name": "GraniteShares YieldBOOST Ether ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XEY"
-  },
-  {
-   "symbol": "PS",
-   "name": "Pershing Square Inc. Common Stock",
+   "symbol": "WENC.U",
+   "name": "West Enclave Merger Corp. Units, each consisting of one Ordinary Share and one Right to acquire one-tenth (1/10) of one Ordinary Share",
    "exchange": "NYSE",
-   "yahoo_symbol": "PS"
-  },
-  {
-   "symbol": "PSUS",
-   "name": "Pershing Square USA, Ltd. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PSUS"
+   "yahoo_symbol": "WENC.U"
   }
  ],
  "removed": [
   {
-   "symbol": "ALTS",
-   "name": "ALT5 Sigma Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALTS"
+   "symbol": "SIXG",
+   "name": "Defiance Connective Technologies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SIXG"
   },
   {
-   "symbol": "ECN",
-   "name": "ECN Capital Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ECN.TO",
+   "symbol": "NXG.R",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.R"
+  },
+  {
+   "symbol": "EM",
+   "name": "Smart Share Global Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EM"
+  },
+  {
+   "symbol": "POR",
+   "name": "Portofino Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "POR.V",
    "instruments": [
     {
-     "name": "ECN Capital Corp.",
-     "symbol": "ECN"
-    },
-    {
-     "name": "ECN Capital 6% Deb",
-     "symbol": "ECN.DB.A"
-    },
-    {
-     "name": "ECN Capital 6.25 Deb",
-     "symbol": "ECN.DB.B"
-    },
-    {
-     "name": "ECN Capital 6.5% Deb",
-     "symbol": "ECN.DB.C"
-    },
-    {
-     "name": "ECN Capital 6.25% Pr",
-     "symbol": "ECN.PR.C"
+     "name": "Portofino Resources Inc.",
+     "symbol": "POR"
     }
    ]
   },
   {
-   "symbol": "SBLX",
-   "name": "StableX Technologies, Inc. - Common Stock",
+   "symbol": "VBIX",
+   "name": "Viewbix Inc. - Common Stock ",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SBLX"
+   "yahoo_symbol": "VBIX"
   },
   {
-   "symbol": "ACLX",
-   "name": "Arcellx, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ACLX"
+   "symbol": "GASX",
+   "name": "NG Energy International Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GASX.V",
+   "instruments": [
+    {
+     "name": "NG Energy International Corp.",
+     "symbol": "GASX"
+    },
+    {
+     "name": "NG Energy International Corp. db 20May2027",
+     "symbol": "GASX.DB"
+    },
+    {
+     "name": "NG Energy International Corp. wt 20May2027",
+     "symbol": "GASX.WT.A"
+    }
+   ]
   },
   {
-   "symbol": "OCCIO",
-   "name": "OFS Credit Company, Inc. - 6.125% Series C Term Preferred Stock",
+   "symbol": "MIGI",
+   "name": "Big Digital Energy, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OCCIO"
+   "yahoo_symbol": "MIGI"
   }
  ]
 }
