@@ -141,7 +141,7 @@ AVCR,Avricore Health Inc.,TSXV,AVCR.V,Avricore Health Inc.,AVCR
 AVU,Avrupa Minerals Ltd.,TSXV,AVU.V,Avrupa Minerals Ltd.,AVU
 ARIC,Awale Resources Limited,TSXV,ARIC.V,Awale Resources Limited,ARIC
 AXET.P,Axe2 Acquisitions Inc.,TSXV,AXET.P.V,Axe2 Acquisitions Inc.,AXET.P
-AXO,Axo Copper Corp.,TSXV,AXO.V,Axo Copper Corp.,AXO
+AXO,Axo Metals Corp.,TSXV,AXO.V,Axo Metals Corp.,AXO
 AZR,Azarga Metals Corp.,TSXV,AZR.V,Azarga Metals Corp.,AZR
 AZM,Azimut Exploration Inc.,TSXV,AZM.V,Azimut Exploration Inc.,AZM
 AAZ,Azincourt Energy Corp.,TSXV,AAZ.V,Azincourt Energy Corp.,AAZ
@@ -714,7 +714,6 @@ KDA,KDA Group Inc.,TSXV,KDA.V,KDA Group Inc.,KDA
 KEEK,KEEK Social Inc.,TSXV,KEEK.V,KEEK Social Inc.,KEEK
 KKL.P,Kelly Ventures Ltd.,TSXV,KKL.P.V,Kelly Ventures Ltd.,KKL.P
 KLD,Kenorland Minerals Ltd.,TSXV,KLD.V,Kenorland Minerals Ltd.,KLD
-KLM,Kermode Resources Ltd.,TSXV,KLM.V,Kermode Resources Ltd.,KLM
 KGC,Kestrel Gold Inc.,TSXV,KGC.V,Kestrel Gold Inc.,KGC
 KIB,Kiboko Gold Inc.,TSXV,KIB.V,Kiboko Gold Inc.,KIB
 KDOZ,Kidoz Inc.,TSXV,KDOZ.V,Kidoz Inc.,KDOZ
@@ -3992,6 +3991,7 @@ ARCC,Ares Capital Corporation - Closed End Fund,NASDAQ Global Select MarketSM,AR
 ARCI,Archimedes Tech SPAC Partners III Co. - Ordinary Share,NASDAQ Global MarketSM,ARCI
 ARCIU,Archimedes Tech SPAC Partners III Co. - Unit,NASDAQ Global MarketSM,ARCIU
 ARCIW,Archimedes Tech SPAC Partners III Co. - Warrant,NASDAQ Global MarketSM,ARCIW
+ARCLU,ARC Group Acquisition I Corp - Unit,NASDAQ Global MarketSM,ARCLU
 ARCT,Arcturus Therapeutics Holdings Inc. - Common Stock,NASDAQ Global MarketSM,ARCT
 ARDX,"Ardelyx, Inc. - Common Stock",NASDAQ Global MarketSM,ARDX
 AREB,"American Rebel Holdings, Inc. - Common Stock",NASDAQ Capital Market,AREB
@@ -4102,6 +4102,7 @@ AVGU,GraniteShares 2x Long AVGO Daily ETF,NASDAQ Global MarketSM,AVGU
 AVGX,Defiance Daily Target 2X Long AVGO ETF,NASDAQ Global MarketSM,AVGX
 AVIR,"Atea Pharmaceuticals, Inc. - common stock",NASDAQ Global Select MarketSM,AVIR
 AVL,Direxion Daily AVGO Bull 2X ETF,NASDAQ Global MarketSM,AVL
+AVLN,Avalyn Pharma Inc. - common stock,NASDAQ Global MarketSM,AVLN
 AVNW,"Aviat Networks, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVNW
 AVO,"Mission Produce, Inc. - Common Stock",NASDAQ Global Select MarketSM,AVO
 AVOS,Avos Global Equities ETF,NASDAQ Global MarketSM,AVOS
@@ -5087,6 +5088,9 @@ DYAI,"Dyadic International, Inc. - Common Stock",NASDAQ Capital Market,DYAI
 DYFI,IDX Dynamic Fixed Income ETF,NASDAQ Global MarketSM,DYFI
 DYN,"Dyne Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,DYN
 DYNB,Hartford Dynamic Bond ETF,NASDAQ Global MarketSM,DYNB
+DYNC,Dynamix Corporation - Class A Ordinary Share,NASDAQ Global MarketSM,DYNC
+DYNCU,Dynamix Corporation - Unit,NASDAQ Global MarketSM,DYNCU
+DYNCW,Dynamix Corporation - Warrant,NASDAQ Global MarketSM,DYNCW
 DYOR,Insight Digital Partners II - Class A Ordinary Shares,NASDAQ Global MarketSM,DYOR
 DYORU,Insight Digital Partners II - Units,NASDAQ Global MarketSM,DYORU
 DYORW,Insight Digital Partners II - Warrants,NASDAQ Global MarketSM,DYORW
@@ -5211,8 +5215,6 @@ ESEA,Euroseas Ltd. - Common Stock,NASDAQ Capital Market,ESEA
 ESGD,iShares ESG Aware MSCI EAFE ETF,NASDAQ Global MarketSM,ESGD
 ESGE,iShares ESG Aware MSCI EM ETF,NASDAQ Global MarketSM,ESGE
 ESGU,iShares ESG Aware MSCI USA ETF,NASDAQ Global MarketSM,ESGU
-ESHA,ESH Acquisition Corp. - Class A Common Stock,NASDAQ Capital Market,ESHA
-ESHAR,ESH Acquisition Corp. - Right,NASDAQ Capital Market,ESHAR
 ESLA,"Estrella Immunopharma, Inc. - Common Stock",NASDAQ Capital Market,ESLA
 ESLAW,"Estrella Immunopharma, Inc. - Warrant",NASDAQ Capital Market,ESLAW
 ESLT,Elbit Systems Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,ESLT
@@ -5226,9 +5228,6 @@ ESTA,Establishment Labs Holdings Inc. - Common Shares,NASDAQ Capital Market,ESTA
 ETEC,iShares Breakthrough Environmental Solutions ETF,NASDAQ Global MarketSM,ETEC
 ETHA,iShares Ethereum Trust ETF,NASDAQ Global MarketSM,ETHA
 ETHB,iShares Staked Ethereum Trust ETF,NASDAQ Global MarketSM,ETHB
-ETHM,Dynamix Corporation - Class A Ordinary Share,NASDAQ Global MarketSM,ETHM
-ETHMU,Dynamix Corporation - Unit,NASDAQ Global MarketSM,ETHMU
-ETHMW,Dynamix Corporation - Warrant,NASDAQ Global MarketSM,ETHMW
 ETON,"Eton Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,ETON
 ETOR,eToro Group Ltd. - Class A Common Shares,NASDAQ Global Select MarketSM,ETOR
 ETRL,GraniteShares 2x Long ETOR Daily ETF,NASDAQ Global MarketSM,ETRL
@@ -5358,7 +5357,7 @@ FEMY,Femasys Inc. - Common Stock,NASDAQ Capital Market,FEMY
 FENC,Fennec Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,FENC
 FEP,First Trust Europe AlphaDEX Fund,NASDAQ Global MarketSM,FEP
 FEPI,REX FANG & Innovation Equity Premium Income ETF,NASDAQ Global MarketSM,FEPI
-FER,Ferrovial SE - Ordinary Shares,NASDAQ Global Select MarketSM,FER
+FER,Ferrovial N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,FER
 FERA,Fifth Era Acquisition Corp I - Class A Ordinary Shares,NASDAQ Global MarketSM,FERA
 FERAR,Fifth Era Acquisition Corp I - Rights,NASDAQ Global MarketSM,FERAR
 FERAU,Fifth Era Acquisition Corp I - Units,NASDAQ Global MarketSM,FERAU
@@ -5515,6 +5514,7 @@ FTEK,"Fuel Tech, Inc. - Common Stock",NASDAQ Capital Market,FTEK
 FTFT,Future FinTech Group Inc. - Common Stock,NASDAQ Capital Market,FTFT
 FTGC,First Trust Global Tactical Commodity Strategy Fund,NASDAQ Global MarketSM,FTGC
 FTGS,First Trust Growth Strength ETF,NASDAQ Global MarketSM,FTGS
+FTHAU,Forefront Tech Holdings Acquisition Corp - Unit,NASDAQ Global MarketSM,FTHAU
 FTHI,First Trust BuyWrite Income ETF,NASDAQ Global MarketSM,FTHI
 FTHM,Fathom Holdings Inc. - Common Stock,NASDAQ Capital Market,FTHM
 FTLF,"FitLife Brands, Inc. - Common Stock",NASDAQ Capital Market,FTLF
@@ -5579,13 +5579,13 @@ GBFH,GBank Financial Holdings Inc. - Common Stock,NASDAQ Capital Market,GBFH
 GBLI,"Global Indemnity Group, LLC - Class A Common Shares",NASDAQ Global Select MarketSM,GBLI
 GBUG,Sprott Active Gold & Silver Miners ETF,NASDAQ Global MarketSM,GBUG
 GCBC,"Greene County Bancorp, Inc. - Common Stock",NASDAQ Capital Market,GCBC
+GCGRU,General Catalyst Global Resilience Merger Corp. - Units,NASDAQ Global MarketSM,GCGRU
 GCL,GCL Global Holdings Ltd - Ordinary Shares,NASDAQ Global Select MarketSM,GCL
 GCLWW,GCL Global Holdings Ltd - Warrants,NASDAQ Global Select MarketSM,GCLWW
 GCMG,GCM Grosvenor Inc. - Class A Common Stock,NASDAQ Global MarketSM,GCMG
 GCT,GigaCloud Technology Inc - Class A Ordinary Shares,NASDAQ Global MarketSM,GCT
 GCTK,"GlucoTrack, Inc. - Common Stock",NASDAQ Capital Market,GCTK
 GDC,GD Culture Group Limited - Common Stock,NASDAQ Capital Market,GDC
-GDEN,"Golden Entertainment, Inc. - Common Stock",NASDAQ Global MarketSM,GDEN
 GDEV,GDEV Inc. - Ordinary Shares,NASDAQ Global MarketSM,GDEV
 GDEVW,GDEV Inc. - Warrant,NASDAQ Global MarketSM,GDEVW
 GDHG,Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares,NASDAQ Capital Market,GDHG
@@ -6485,7 +6485,6 @@ LMNX,Defiance Daily Target 2x Long LMND ETF,NASDAQ Global MarketSM,LMNX
 LMRI,"Lumexa Imaging Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,LMRI
 LMTL,Direxion Daily LMT Bull 2X ETF,NASDAQ Global MarketSM,LMTL
 LNAI,Lunai Bioworks Inc. - Common Stock,NASDAQ Capital Market,LNAI
-LNKB,"LINKBANCORP, Inc. - Common Stock",NASDAQ Capital Market,LNKB
 LNKS,Linkers Industries Limited - Class A Ordinary Shares,NASDAQ Capital Market,LNKS
 LNSR,"LENSAR, Inc. - Common Stock",NASDAQ Capital Market,LNSR
 LNT,Alliant Energy Corporation - Common Stock,NASDAQ Global Select MarketSM,LNT
@@ -6589,7 +6588,6 @@ MATE,Man Active Trend Enhanced ETF,NASDAQ Global MarketSM,MATE
 MATH,Metalpha Technology Holding Limited - Ordinary Shares,NASDAQ Capital Market,MATH
 MATW,Matthews International Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,MATW
 MAXI,Simplify Bitcoin Strategy PLUS Income ETF,NASDAQ Global MarketSM,MAXI
-MAXN,"Maxeon Solar Technologies, Ltd. - Ordinary Shares",NASDAQ Global Select MarketSM,MAXN
 MAYS,"J. W. Mays, Inc. - Common Stock",NASDAQ Capital Market,MAYS
 MAZE,"Maze Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,MAZE
 MB,MasterBeef Group - Ordinary Shares,NASDAQ Capital Market,MB
@@ -6615,6 +6613,7 @@ MBVIU,M3-Brigade Acquisition VI Corp. - Units,NASDAQ Global MarketSM,MBVIU
 MBVIW,M3-Brigade Acquisition VI Corp. - Warrant,NASDAQ Global MarketSM,MBVIW
 MBWM,Mercantile Bank Corporation - Common Stock,NASDAQ Global Select MarketSM,MBWM
 MBX,"MBX Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,MBX
+MCAHU,Mountain Crest Acquisition 6 Corp. - Units,NASDAQ Global MarketSM,MCAHU
 MCBS,"MetroCity Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCBS
 MCDS,JPMorgan Fundamental Data Science Mid Core ETF,NASDAQ Global MarketSM,MCDS
 MCFT,"MasterCraft Boat Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,MCFT
@@ -6625,7 +6624,7 @@ MCHB,Mechanics Bancorp - Class A Common Stock,NASDAQ Global Select MarketSM,MCHB
 MCHI,iShares MSCI China ETF,NASDAQ Global MarketSM,MCHI
 MCHP,Microchip Technology Incorporated - Common Stock,NASDAQ Global Select MarketSM,MCHP
 MCHPP,Microchip Technology Incorporated - Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock,NASDAQ Global Select MarketSM,MCHPP
-MCHS,Matthews China Discovery Active ETF,NASDAQ Global MarketSM,MCHS
+MCHS,Matthews China Innovators Active ETF,NASDAQ Global MarketSM,MCHS
 MCHX,"Marchex, Inc. - Class B Common Stock",NASDAQ Global Select MarketSM,MCHX
 MCRB,"Seres Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCRB
 MCRI,"Monarch Casino & Resort, Inc. - Common Stock",NASDAQ Global Select MarketSM,MCRI
@@ -7814,6 +7813,7 @@ RPID,"Rapid Micro Biosystems, Inc. - Class A Common Stock",NASDAQ Capital Market
 RPRX,Royalty Pharma plc - Class A Ordinary Shares,NASDAQ Global Select MarketSM,RPRX
 RR,Richtech Robotics Inc. - Class B Common Stock,NASDAQ Capital Market,RR
 RRBI,"Red River Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,RRBI
+RREVU,RRE Ventures Acquisition Corp. - Units,NASDAQ Global MarketSM,RREVU
 RRGB,"Red Robin Gourmet Burgers, Inc. - Common Stock",NASDAQ Global Select MarketSM,RRGB
 RRR,"Red Rock Resorts, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RRR
 RSSS,"Research Solutions, Inc - Common Stock",NASDAQ Capital Market,RSSS
@@ -8075,7 +8075,7 @@ SNAL,"Snail, Inc. - Class A Common Stock",NASDAQ Capital Market,SNAL
 SNBR,Sleep Number Corporation - Common Stock,NASDAQ Global Select MarketSM,SNBR
 SNCY,"Sun Country Airlines Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SNCY
 SND,"Smart Sand, Inc. - Common Stock",NASDAQ Global Select MarketSM,SND
-SNDK,Sandisk Corporation - Common Stock,NASDAQ Global Select MarketSM,SNDK
+SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ Global Select MarketSM,SNDK
 SNDL,SNDL Inc. - Common Shares,NASDAQ Capital Market,SNDL
 SNDX,"Syndax Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,SNDX
 SNES,"SenesTech, Inc. - Common Stock",NASDAQ Capital Market,SNES
@@ -8494,7 +8494,7 @@ TSMG,Leverage Shares 2X Long TSM Daily ETF,NASDAQ Global MarketSM,TSMG
 TSMU,GraniteShares 2x Long TSM Daily ETF,NASDAQ Global MarketSM,TSMU
 TSMX,Direxion Daily TSM Bull 2X ETF,NASDAQ Global MarketSM,TSMX
 TSMZ,Direxion Daily TSM Bear 1X ETF,NASDAQ Global MarketSM,TSMZ
-TSPY,TappAlpha SPY Growth & Daily Income ETF,NASDAQ Global MarketSM,TSPY
+TSPY,TappAlpha S&P 500 Growth & Daily Income ETF,NASDAQ Global MarketSM,TSPY
 TSSI,"TSS, Inc. - Common Stock",NASDAQ Capital Market,TSSI
 TSUI,21Shares Sui ETF,NASDAQ Global MarketSM,TSUI
 TSYX,TSPY Lift ETF,NASDAQ Global MarketSM,TSYX
@@ -8541,6 +8541,7 @@ TXRH,"Texas Roadhouse, Inc. - Common Stock",NASDAQ Global Select MarketSM,TXRH
 TXUE,Thornburg International Equity ETF,NASDAQ Global MarketSM,TXUE
 TXUG,Thornburg International Growth Fund ETF,NASDAQ Global MarketSM,TXUG
 TXXD,21Shares 2x Long Dogecoin ETF,NASDAQ Global MarketSM,TXXD
+TXXH,21Shares 2x Long HYPE ETF,NASDAQ Global MarketSM,TXXH
 TXXS,21Shares 2x Long Sui ETF,NASDAQ Global MarketSM,TXXS
 TYGO,"Tigo Energy, Inc. - Common Stock",NASDAQ Capital Market,TYGO
 TYRA,"Tyra Biosciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,TYRA
@@ -9843,7 +9844,6 @@ CVX,Chevron Corporation Common Stock,NYSE,CVX
 CW,Curtiss-Wright Corporation Common Stock,NYSE,CW
 CWAN,"Clearwater Analytics Holdings, Inc. Class A Common Stock",NYSE,CWAN
 CWEN,"Clearway Energy, Inc. Class C Common Stock",NYSE,CWEN
-CWEN.A,"Clearway Energy, Inc. Class A Common Stock",NYSE,CWEN.A
 CWH,"Camping World Holdings, Inc. Class A Common Stock",NYSE,CWH
 CWK,Cushman & Wakefield Ltd. Common Shares,NYSE,CWK
 CWT,California Water Service Group Common Stock,NYSE,CWT
@@ -10168,7 +10168,6 @@ FGN,"F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",NYSE,FGN
 FGSN,"F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065",NYSE,FGSN
 FHI,"Federated Hermes, Inc. Common Stock",NYSE,FHI
 FHN,First Horizon Corporation Common Stock,NYSE,FHN
-FHN$C,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C",NYSE,FHN$C
 FHN$E,"First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E",NYSE,FHN$E
 FHN$F,"First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",NYSE,FHN$F
 FHN$H,"First Horizon Corporation Depositary Shares each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series H",NYSE,FHN$H
@@ -10965,6 +10964,7 @@ MTG,MGIC Investment Corporation Common Stock,NYSE,MTG
 MTH,Meritage Homes Corporation Common Stock,NYSE,MTH
 MTN,"Vail Resorts, Inc. Common Stock",NYSE,MTN
 MTNB,"Matinas Biopharma Holdings, Inc. Common Stock",NYSE MKT,MTNB
+MTNE.U,"CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one-half of one Warrant",NYSE,MTNE.U
 MTR,Mesa Royalty Trust Common Stock,NYSE,MTR
 MTRN,Materion Corporation,NYSE,MTRN
 MTUS,Metallus Inc. Common Shares,NYSE,MTUS
@@ -11422,6 +11422,7 @@ PZG,Paramount Gold Nevada Corp. Common Stock,NYSE MKT,PZG
 Q,"Qnity Electronics, Inc. Common Stock",NYSE,Q
 QBTS,D-Wave Quantum Inc. Common Shares,NYSE,QBTS
 QGEN,Qiagen N.V. Common Shares,NYSE,QGEN
+QLEP.U,"Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",NYSE,QLEP.U
 QNC,Quantum eMotion Corp. Common Shares,NYSE MKT,QNC
 QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",NYSE,QRED.U
 QSR,Restaurant Brands International Inc. Common Shares,NYSE,QSR

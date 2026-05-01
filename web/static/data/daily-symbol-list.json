@@ -1,5 +1,5 @@
 {
- "date": "2026-04-30",
+ "date": "2026-05-01",
  "data": [
   {
    "symbol": "ONE",
@@ -1719,12 +1719,12 @@
   },
   {
    "symbol": "AXO",
-   "name": "Axo Copper Corp.",
+   "name": "Axo Metals Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "AXO.V",
    "instruments": [
     {
-     "name": "Axo Copper Corp.",
+     "name": "Axo Metals Corp.",
      "symbol": "AXO"
     }
    ]
@@ -8646,18 +8646,6 @@
     {
      "name": "Kenorland Minerals Ltd.",
      "symbol": "KLD"
-    }
-   ]
-  },
-  {
-   "symbol": "KLM",
-   "name": "Kermode Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KLM.V",
-   "instruments": [
-    {
-     "name": "Kermode Resources Ltd.",
-     "symbol": "KLM"
     }
    ]
   },
@@ -48884,6 +48872,12 @@
    "yahoo_symbol": "ARCIW"
   },
   {
+   "symbol": "ARCLU",
+   "name": "ARC Group Acquisition I Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCLU"
+  },
+  {
    "symbol": "ARCT",
    "name": "Arcturus Therapeutics Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -49542,6 +49536,12 @@
    "name": "Direxion Daily AVGO Bull 2X ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AVL"
+  },
+  {
+   "symbol": "AVLN",
+   "name": "Avalyn Pharma Inc. - common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVLN"
   },
   {
    "symbol": "AVNW",
@@ -55454,6 +55454,24 @@
    "yahoo_symbol": "DYNB"
   },
   {
+   "symbol": "DYNC",
+   "name": "Dynamix Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNC"
+  },
+  {
+   "symbol": "DYNCU",
+   "name": "Dynamix Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNCU"
+  },
+  {
+   "symbol": "DYNCW",
+   "name": "Dynamix Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNCW"
+  },
+  {
    "symbol": "DYOR",
    "name": "Insight Digital Partners II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -56198,18 +56216,6 @@
    "yahoo_symbol": "ESGU"
   },
   {
-   "symbol": "ESHA",
-   "name": "ESH Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ESHA"
-  },
-  {
-   "symbol": "ESHAR",
-   "name": "ESH Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ESHAR"
-  },
-  {
    "symbol": "ESLA",
    "name": "Estrella Immunopharma, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -56286,24 +56292,6 @@
    "name": "iShares Staked Ethereum Trust ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ETHB"
-  },
-  {
-   "symbol": "ETHM",
-   "name": "Dynamix Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ETHM"
-  },
-  {
-   "symbol": "ETHMU",
-   "name": "Dynamix Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ETHMU"
-  },
-  {
-   "symbol": "ETHMW",
-   "name": "Dynamix Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ETHMW"
   },
   {
    "symbol": "ETON",
@@ -57081,7 +57069,7 @@
   },
   {
    "symbol": "FER",
-   "name": "Ferrovial SE - Ordinary Shares",
+   "name": "Ferrovial N.V. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FER"
   },
@@ -58022,6 +58010,12 @@
    "yahoo_symbol": "FTGS"
   },
   {
+   "symbol": "FTHAU",
+   "name": "Forefront Tech Holdings Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTHAU"
+  },
+  {
    "symbol": "FTHI",
    "name": "First Trust BuyWrite Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58406,6 +58400,12 @@
    "yahoo_symbol": "GCBC"
   },
   {
+   "symbol": "GCGRU",
+   "name": "General Catalyst Global Resilience Merger Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GCGRU"
+  },
+  {
    "symbol": "GCL",
    "name": "GCL Global Holdings Ltd - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58440,12 +58440,6 @@
    "name": "GD Culture Group Limited - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GDC"
-  },
-  {
-   "symbol": "GDEN",
-   "name": "Golden Entertainment, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GDEN"
   },
   {
    "symbol": "GDEV",
@@ -63842,12 +63836,6 @@
    "yahoo_symbol": "LNAI"
   },
   {
-   "symbol": "LNKB",
-   "name": "LINKBANCORP, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LNKB"
-  },
-  {
    "symbol": "LNKS",
    "name": "Linkers Industries Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -64466,12 +64454,6 @@
    "yahoo_symbol": "MAXI"
   },
   {
-   "symbol": "MAXN",
-   "name": "Maxeon Solar Technologies, Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MAXN"
-  },
-  {
    "symbol": "MAYS",
    "name": "J. W. Mays, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -64622,6 +64604,12 @@
    "yahoo_symbol": "MBX"
   },
   {
+   "symbol": "MCAHU",
+   "name": "Mountain Crest Acquisition 6 Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAHU"
+  },
+  {
    "symbol": "MCBS",
    "name": "MetroCity Bankshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -64683,7 +64671,7 @@
   },
   {
    "symbol": "MCHS",
-   "name": "Matthews China Discovery Active ETF",
+   "name": "Matthews China Innovators Active ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MCHS"
   },
@@ -71816,6 +71804,12 @@
    "yahoo_symbol": "RRBI"
   },
   {
+   "symbol": "RREVU",
+   "name": "RRE Ventures Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RREVU"
+  },
+  {
    "symbol": "RRGB",
    "name": "Red Robin Gourmet Burgers, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73383,7 +73377,7 @@
   },
   {
    "symbol": "SNDK",
-   "name": "Sandisk Corporation - Common Stock",
+   "name": "Sandisk Corporation - Common Stock When-Issued",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SNDK"
   },
@@ -75897,7 +75891,7 @@
   },
   {
    "symbol": "TSPY",
-   "name": "TappAlpha SPY Growth \u0026 Daily Income ETF",
+   "name": "TappAlpha S\u0026P 500 Growth \u0026 Daily Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TSPY"
   },
@@ -76176,6 +76170,12 @@
    "name": "21Shares 2x Long Dogecoin ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TXXD"
+  },
+  {
+   "symbol": "TXXH",
+   "name": "21Shares 2x Long HYPE ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXXH"
   },
   {
    "symbol": "TXXS",
@@ -83990,12 +83990,6 @@
    "yahoo_symbol": "CWEN"
   },
   {
-   "symbol": "CWEN.A",
-   "name": "Clearway Energy, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CWEN.A"
-  },
-  {
    "symbol": "CWH",
    "name": "Camping World Holdings, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -85938,12 +85932,6 @@
    "name": "First Horizon Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "FHN"
-  },
-  {
-   "symbol": "FHN$C",
-   "name": "First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FHN$C"
   },
   {
    "symbol": "FHN$E",
@@ -90722,6 +90710,12 @@
    "yahoo_symbol": "MTNB"
   },
   {
+   "symbol": "MTNE.U",
+   "name": "CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one-half of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTNE.U"
+  },
+  {
    "symbol": "MTR",
    "name": "Mesa Royalty Trust Common Stock",
    "exchange": "NYSE",
@@ -93462,6 +93456,12 @@
    "name": "Qiagen N.V. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "QGEN"
+  },
+  {
+   "symbol": "QLEP.U",
+   "name": "Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QLEP.U"
   },
   {
    "symbol": "QNC",
