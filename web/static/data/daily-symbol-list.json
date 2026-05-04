@@ -1,5 +1,5 @@
 {
- "date": "2026-05-01",
+ "date": "2026-05-04",
  "data": [
   {
    "symbol": "ONE",
@@ -16710,6 +16710,18 @@
     {
      "name": "Vision Lithium Inc.",
      "symbol": "VLI"
+    }
+   ]
+  },
+  {
+   "symbol": "VMAR",
+   "name": "Vision Marine Technologies Inc",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VMAR.V",
+   "instruments": [
+    {
+     "name": "Vision Marine Technologies Inc.",
+     "symbol": "VMAR"
     }
    ]
   },
@@ -36122,6 +36134,18 @@
    ]
   },
   {
+   "symbol": "JPQH",
+   "name": "JPMorgan Nasdaq Equity Premium Income Active ETF - CAD Hedged",
+   "exchange": "TSX",
+   "yahoo_symbol": "JPQH.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan NSDQ Eq C H",
+     "symbol": "JPQH"
+    }
+   ]
+  },
+  {
    "symbol": "JBND",
    "name": "JPMorgan US Bond Active ETF",
    "exchange": "TSX",
@@ -36154,6 +36178,18 @@
     {
      "name": "JPM USEq PInc ActETF",
      "symbol": "JEPI"
+    }
+   ]
+  },
+  {
+   "symbol": "JEPH",
+   "name": "JPMorgan US Equity Premium Income Active ETF - CAD Hedged",
+   "exchange": "TSX",
+   "yahoo_symbol": "JEPH.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan US Eq P C H",
+     "symbol": "JEPH"
     }
    ]
   },
@@ -48230,6 +48266,12 @@
    "yahoo_symbol": "ALZN"
   },
   {
+   "symbol": "AMA",
+   "name": "Defiance Daily Target 2X Long AMAT ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMA"
+  },
+  {
    "symbol": "AMAL",
    "name": "Amalgamated Financial Corp. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -53292,6 +53334,12 @@
    "name": "PC Connection, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CNXN"
+  },
+  {
+   "symbol": "COAG",
+   "name": "Hemab Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COAG"
   },
   {
    "symbol": "COCH",
@@ -62835,7 +62883,7 @@
   },
   {
    "symbol": "KOID",
-   "name": "KraneShares Global Humanoid and Embodied Intelligence Index ETF",
+   "name": "KraneShares Global Humanoid Robotics and Physical AI Index ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "KOID"
   },
@@ -73808,6 +73856,12 @@
    "yahoo_symbol": "SPT"
   },
   {
+   "symbol": "SPTX",
+   "name": "Seaport Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPTX"
+  },
+  {
    "symbol": "SPWH",
    "name": "Sportsman's Warehouse Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -74118,12 +74172,6 @@
    "name": "Steakholder Foods Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "STKH"
-  },
-  {
-   "symbol": "STKL",
-   "name": "SunOpta, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "STKL"
   },
   {
    "symbol": "STKS",
@@ -89948,12 +89996,6 @@
    "yahoo_symbol": "MED"
   },
   {
-   "symbol": "MEG",
-   "name": "Montrose Environmental Group, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MEG"
-  },
-  {
    "symbol": "MEGI",
    "name": "NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares",
    "exchange": "NYSE",
@@ -92034,6 +92076,12 @@
    "name": "On Holding AG Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "ONON"
+  },
+  {
+   "symbol": "ONT",
+   "name": "Onterris, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ONT"
   },
   {
    "symbol": "ONTO",
