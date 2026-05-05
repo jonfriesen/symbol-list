@@ -1228,7 +1228,6 @@ SSA,Spectra Products Inc.,TSXV,SSA.V,Spectra Products Inc.,SSA
 SOO.P,Spectre Capital Corp.,TSXV,SOO.P.V,Spectre Capital Corp.,SOO.P
 SRQ,SRQ Resources Inc.,TSXV,SRQ.V,SRQ Resources Inc.,SRQ
 SECU,SSC Security Services Corp.,TSXV,SECU.V,SSC Security Services Corp.,SECU
-SDCI.P,St. Davids Capital Inc.,TSXV,SDCI.P.V,St. Davids Capital Inc.,SDCI.P
 LORD,St. James Gold Corp.,TSXV,LORD.V,St. James Gold Corp.,LORD
 SRC,Stakeholder Gold Corp.,TSXV,SRC.V,Stakeholder Gold Corp.,SRC
 STUD,Stallion Uranium Corp.,TSXV,STUD.V,Stallion Uranium Corp.,STUD
@@ -1286,6 +1285,7 @@ TMG,Thermal Energy International Inc.,TSXV,TMG.V,Thermal Energy International In
 THY.P,Thermopylae Capital Inc.,TSXV,THY.P.V,Thermopylae Capital Inc.,THY.P
 TAU,Thesis Gold & Silver Inc.,TSXV,TAU.V,Thesis Gold & Silver Inc.,TAU
 TTI,"Thiogenesis Therapeutics, Corp.",TSXV,TTI.V,"Thiogenesis Therapeutics, Corp.",TTI
+TRCG,Thistle Resources Inc.,TSXV,TRCG.V,Thistle Resources Inc.,TRCG
 THX,Thor Explorations Ltd.,TSXV,THX.V,Thor Explorations Ltd,THX
 YAY,THS Maple Holdings Ltd.,TSXV,YAY.V,THS Maple Holdings Ltd.,YAY
 TGOL,Thunder Gold Corp.,TSXV,TGOL.V,Thunder Gold Corp.,TGOL
@@ -2166,7 +2166,6 @@ ERD,Erdene Resource Development Corporation,TSX,ERD.TO,Erdene Res Dev J,ERD
 ERO,Ero Copper Corp.,TSX,ERO.TO,Ero Copper Corp. J,ERO
 EPRX,Eupraxia Pharmaceuticals Inc.,TSX,EPRX.TO,Eupraxia Pharma J,EPRX
 ESM,Euro Sun Mining Inc.,TSX,ESM.TO,Euro Sun Mining J,ESM
-ERE.UN,European Residential Real Estate Investment Trust,TSX,ERE.UN.TO,European Res REIT Un,ERE.UN
 ET,Evertz Technologies Limited,TSX,ET.TO,Evertz Technologies,ET
 DIVS,Evolve Active Canadian Preferred Share Fund,TSX,DIVS.TO,Evolve CA Pref UnHeg,DIVS
 EARN,Evolve Active Global Fixed Income Fund,TSX,EARN.TO,EvolveActvGlbFxdIncm,EARN
@@ -3186,7 +3185,7 @@ PD,Precision Drilling Corporation,TSX,PD.TO,Precision Drill Corp,PD
 PDI,Predictive Discovery Limited,TSX,PDI.TO,Predictive Dscvr Ltd,PDI
 PBH,Premium Brands Holdings Corporation,TSX,PBH.TO,Premium Brands Hldgs,PBH,Premium Brand 4.2 Db,PBH.DB.H,Premium Brand 5.4 Db,PBH.DB.I,Premium Brand 5.5 Db,PBH.DB.J,Prem Brnd Hld Corp 5,PBH.DB.K
 MCAD,Premium Cash Management Fund,TSX,MCAD.TO,Premium CashMgt Unhg,MCAD
-PGIC,Premium Global Income Split Corp.,TSX,PGIC.TO,Prem GlInc SpC Cl A,PGIC,Prem GlInc SpC Pr Sh,PGIC.PR.A
+PGIC,Premium Global Income Split Fund,TSX,PGIC.TO,Prem GlInc SpC Cl A,PGIC,Prem GlInc SpC Pr Sh,PGIC.PR.A
 PIC.A,Premium Income Corporation,TSX,PIC.A.TO,Premium Income Cl A,PIC.A,Premium Income Pr,PIC.PR.A
 PMZ.UN,Primaris Real Estate Investment Trust,TSX,PMZ.UN.TO,Primaris REIT A Un,PMZ.UN
 PDV,Prime Dividend Corp.,TSX,PDV.TO,Prime Dividend Cl A ,PDV,Prime Dividend Pr,PDV.PR.A
@@ -4130,6 +4129,7 @@ AXON,"Axon Enterprise, Inc. - Common Stock",NASDAQ Global Select MarketSM,AXON
 AXPG,Leverage Shares 2x Long AXP Daily ETF,NASDAQ Global MarketSM,AXPG
 AXSM,"Axsome Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,AXSM
 AXTI,AXT Inc - Common Stock,NASDAQ Global Select MarketSM,AXTI
+AYA,Aya Gold & Silver Inc. - Common Shares,NASDAQ Global Select MarketSM,AYA
 AYTU,"Aytu BioPharma, Inc.  - Common Stock",NASDAQ Capital Market,AYTU
 AZ,A2Z Cust2Mate Solutions Corp. - Common Shares,NASDAQ Capital Market,AZ
 AZI,Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares,NASDAQ Global MarketSM,AZI
@@ -4646,6 +4646,7 @@ CHPX,Global X AI Semiconductor & Quantum ETF,NASDAQ Global MarketSM,CHPX
 CHR,"Cheer Holding, Inc.  - Class A Ordinary Share",NASDAQ Capital Market,CHR
 CHRD,Chord Energy Corporation - Common Stock,NASDAQ Global Select MarketSM,CHRD
 CHRI,Global X S&P 500 Christian Values ETF,NASDAQ Global MarketSM,CHRI
+CHRN,ChronoScale Corporation - Common Stock,NASDAQ Capital Market,CHRN
 CHRS,"Coherus Oncology, Inc. - Common Stock",NASDAQ Global MarketSM,CHRS
 CHRW,"C.H. Robinson Worldwide, Inc. - Common Stock",NASDAQ Global Select MarketSM,CHRW
 CHSCL,"CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4",NASDAQ Global Select MarketSM,CHSCL
@@ -5150,7 +5151,6 @@ EHTH,"eHealth, Inc. - Common Stock",NASDAQ Global Select MarketSM,EHTH
 EIKN,"Eikon Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,EIKN
 EJH,E-Home Household Service Holdings Limited - Ordinary shares,NASDAQ Capital Market,EJH
 EKG,First Trust Nasdaq Lux Digital Health Solutions ETF,NASDAQ Global MarketSM,EKG
-EKSO,"Ekso Bionics Holdings, Inc. - Common Stock",NASDAQ Capital Market,EKSO
 ELAB,PMGC Holdings Inc. - Common Stock,NASDAQ Capital Market,ELAB
 ELBM,Electra Battery Materials Corporation - Common Stock,NASDAQ Capital Market,ELBM
 ELDN,"Eledon Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,ELDN
@@ -5569,7 +5569,6 @@ GAIA,"Gaia, Inc. - Class A Common Stock",NASDAQ Global MarketSM,GAIA
 GAIN,Gladstone Investment Corporation - Business Development Company,NASDAQ Global Select MarketSM,GAIN
 GAING,Gladstone Investment Corporation - 7.125% Notes due 2031,NASDAQ Global Select MarketSM,GAING
 GAINI,Gladstone Investment Corporation - 7.875% Notes due 2030,NASDAQ Global Select MarketSM,GAINI
-GAINN,Gladstone Investment Corporation - 5.00% Notes Due 2026,NASDAQ Global Select MarketSM,GAINN
 GAINZ,Gladstone Investment Corporation - 4.875% Notes due 2028,NASDAQ Global Select MarketSM,GAINZ
 GALT,Galectin Therapeutics Inc. - Common Stock,NASDAQ Capital Market,GALT
 GAMB,Gambling.com Group Limited - Ordinary Shares,NASDAQ Global MarketSM,GAMB
@@ -7972,7 +7971,6 @@ SGC,"Superior Group of Companies, Inc. - Common Stock",NASDAQ Global MarketSM,SG
 SGHT,"Sight Sciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,SGHT
 SGLY,Singularity Future Technology Ltd. - Common Stock,NASDAQ Capital Market,SGLY
 SGML,Sigma Lithium Corporation - common shares,NASDAQ Capital Market,SGML
-SGMO,"Sangamo Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,SGMO
 SGMT,Sagimet Biosciences Inc. - Series A Common Stock,NASDAQ Global MarketSM,SGMT
 SGP,"SpyGlass Pharma, Inc. - Common Stock",NASDAQ Global Select MarketSM,SGP
 SGRP,"SPAR Group, Inc. - Common Stock",NASDAQ Capital Market,SGRP
@@ -8578,8 +8576,6 @@ UFPI,"UFP Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,UFPI
 UFPT,"UFP Technologies, Inc. - Common Stock",NASDAQ Capital Market,UFPT
 UG,"United-Guardian, Inc. - Common Stock",NASDAQ Global MarketSM,UG
 UGRO,"urban-gro, Inc. - Common Stock",NASDAQ Capital Market,UGRO
-UHG,"United Homes Group, Inc - Class A Common Stock",NASDAQ Global MarketSM,UHG
-UHGWW,"United Homes Group, Inc - Warrant",NASDAQ Capital Market,UHGWW
 UITB,VictoryShares Core Intermediate Bond ETF,NASDAQ Global MarketSM,UITB
 UIVM,VictoryShares International Value Momentum ETF,NASDAQ Global MarketSM,UIVM
 UK,Ucommune International Ltd  - Ordinary Shares,NASDAQ Capital Market,UK
