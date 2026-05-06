@@ -1,5 +1,5 @@
 {
- "date": "2026-05-05",
+ "date": "2026-05-06",
  "data": [
   {
    "symbol": "ONE",
@@ -13970,6 +13970,18 @@
     {
      "name": "Scandium International Mining Corp.",
      "symbol": "SCY"
+    }
+   ]
+  },
+  {
+   "symbol": "SMCD.P",
+   "name": "SCD Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMCD.P.V",
+   "instruments": [
+    {
+     "name": "SCD Capital Corp.",
+     "symbol": "SMCD.P"
     }
    ]
   },
@@ -40864,11 +40876,11 @@
    "yahoo_symbol": "PGIC.TO",
    "instruments": [
     {
-     "name": "Prem GlInc SpC Cl A",
+     "name": "Prem GlInc SpF Cl A",
      "symbol": "PGIC"
     },
     {
-     "name": "Prem GlInc SpC Pr Sh",
+     "name": "Prem GlInc SpF Pr Sh",
      "symbol": "PGIC.PR.A"
     }
    ]
@@ -43970,18 +43982,6 @@
     {
      "name": "Suncor Energy Inc.",
      "symbol": "SU"
-    }
-   ]
-  },
-  {
-   "symbol": "SOY",
-   "name": "SunOpta, Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "SOY.TO",
-   "instruments": [
-    {
-     "name": "SunOpta, Inc.",
-     "symbol": "SOY"
     }
    ]
   },
@@ -50522,6 +50522,12 @@
    "yahoo_symbol": "BIOX"
   },
   {
+   "symbol": "BIOY",
+   "name": "GraniteShares YieldBOOST Biotech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOY"
+  },
+  {
    "symbol": "BIRD",
    "name": "Allbirds, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -54794,6 +54800,12 @@
    "yahoo_symbol": "DIME"
   },
   {
+   "symbol": "DINE",
+   "name": "Simplify Tax Aware Diversified Income Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DINE"
+  },
+  {
    "symbol": "DIOD",
    "name": "Diodes Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -56726,12 +56738,6 @@
    "yahoo_symbol": "FANG"
   },
   {
-   "symbol": "FARM",
-   "name": "Farmer Brothers Company - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FARM"
-  },
-  {
    "symbol": "FAST",
    "name": "Fastenal Company - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -57356,6 +57362,12 @@
    "yahoo_symbol": "FINX"
   },
   {
+   "symbol": "FINY",
+   "name": "GraniteShares YieldBOOST Financials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FINY"
+  },
+  {
    "symbol": "FIP",
    "name": "FTAI Infrastructure Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -57426,6 +57438,12 @@
    "name": "First Trust Smith Opportunistic Fixed Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FIXD"
+  },
+  {
+   "symbol": "FIYY",
+   "name": "GraniteShares YieldBOOST 20Y Treasuries ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIYY"
   },
   {
    "symbol": "FIZZ",
@@ -64082,6 +64100,12 @@
    "yahoo_symbol": "LPTH"
   },
   {
+   "symbol": "LQ",
+   "name": "Simplify Tax Aware Alternatives ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LQ"
+  },
+  {
    "symbol": "LQDA",
    "name": "Liquidia Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -66088,13 +66112,13 @@
   {
    "symbol": "MYPS",
    "name": "PLAYSTUDIOS, Inc.  - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MYPS"
   },
   {
    "symbol": "MYPSW",
    "name": "PLAYSTUDIOS, Inc.  - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MYPSW"
   },
   {
@@ -69600,6 +69624,18 @@
    "name": "POMDOCTOR LIMITED - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "POM"
+  },
+  {
+   "symbol": "PONO",
+   "name": "Pono Capital Four, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PONO"
+  },
+  {
+   "symbol": "PONOR",
+   "name": "Pono Capital Four, Inc. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PONOR"
   },
   {
    "symbol": "PONOU",
@@ -75032,6 +75068,12 @@
    "yahoo_symbol": "TECX"
   },
   {
+   "symbol": "TECY",
+   "name": "GraniteShares YieldBOOST Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TECY"
+  },
+  {
    "symbol": "TEKX",
    "name": "State Street Galaxy Transformative Tech Accelerators ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -75084,12 +75126,6 @@
    "name": "Leverage Shares 2X Long TER Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TERG"
-  },
-  {
-   "symbol": "TERN",
-   "name": "Terns Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TERN"
   },
   {
    "symbol": "TEXN",
@@ -92864,12 +92900,6 @@
    "yahoo_symbol": "PKG"
   },
   {
-   "symbol": "PKST",
-   "name": "Peakstone Realty Trust Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PKST"
-  },
-  {
    "symbol": "PKX",
    "name": "POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock)",
    "exchange": "NYSE",
@@ -93672,6 +93702,12 @@
    "name": "Dr. Reddy's Laboratories Ltd Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RDY"
+  },
+  {
+   "symbol": "REA",
+   "name": "Rare Earths Americas, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "REA"
   },
   {
    "symbol": "REED",
@@ -97086,6 +97122,12 @@
    "name": "Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",
    "exchange": "NYSE",
    "yahoo_symbol": "VCX"
+  },
+  {
+   "symbol": "VECA.U",
+   "name": "Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VECA.U"
   },
   {
    "symbol": "VEEV",

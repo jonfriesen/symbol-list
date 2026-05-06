@@ -1,84 +1,132 @@
 {
  "added": [
   {
-   "symbol": "TRCG",
-   "name": "Thistle Resources Inc.",
+   "symbol": "SMCD.P",
+   "name": "SCD Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TRCG.V",
+   "yahoo_symbol": "SMCD.P.V",
    "instruments": [
     {
-     "name": "Thistle Resources Inc.",
-     "symbol": "TRCG"
+     "name": "SCD Capital Corp.",
+     "symbol": "SMCD.P"
     }
    ]
   },
   {
-   "symbol": "AYA",
-   "name": "Aya Gold \u0026 Silver Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AYA"
+   "symbol": "BIOY",
+   "name": "GraniteShares YieldBOOST Biotech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOY"
   },
   {
-   "symbol": "CHRN",
-   "name": "ChronoScale Corporation - Common Stock",
+   "symbol": "DINE",
+   "name": "Simplify Tax Aware Diversified Income Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DINE"
+  },
+  {
+   "symbol": "FINY",
+   "name": "GraniteShares YieldBOOST Financials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FINY"
+  },
+  {
+   "symbol": "FIYY",
+   "name": "GraniteShares YieldBOOST 20Y Treasuries ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIYY"
+  },
+  {
+   "symbol": "LQ",
+   "name": "Simplify Tax Aware Alternatives ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LQ"
+  },
+  {
+   "symbol": "MYPS",
+   "name": "PLAYSTUDIOS, Inc.  - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CHRN"
+   "yahoo_symbol": "MYPS"
+  },
+  {
+   "symbol": "MYPSW",
+   "name": "PLAYSTUDIOS, Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYPSW"
+  },
+  {
+   "symbol": "PONO",
+   "name": "Pono Capital Four, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PONO"
+  },
+  {
+   "symbol": "PONOR",
+   "name": "Pono Capital Four, Inc. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PONOR"
+  },
+  {
+   "symbol": "TECY",
+   "name": "GraniteShares YieldBOOST Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TECY"
+  },
+  {
+   "symbol": "REA",
+   "name": "Rare Earths Americas, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "REA"
+  },
+  {
+   "symbol": "VECA.U",
+   "name": "Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VECA.U"
   }
  ],
  "removed": [
   {
-   "symbol": "UHGWW",
-   "name": "United Homes Group, Inc - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UHGWW"
-  },
-  {
-   "symbol": "GAINN",
-   "name": "Gladstone Investment Corporation - 5.00% Notes Due 2026",
+   "symbol": "TERN",
+   "name": "Terns Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GAINN"
+   "yahoo_symbol": "TERN"
   },
   {
-   "symbol": "UHG",
-   "name": "United Homes Group, Inc - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UHG"
-  },
-  {
-   "symbol": "SGMO",
-   "name": "Sangamo Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SGMO"
-  },
-  {
-   "symbol": "ERE.UN",
-   "name": "European Residential Real Estate Investment Trust",
+   "symbol": "SOY",
+   "name": "SunOpta, Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "ERE.UN.TO",
+   "yahoo_symbol": "SOY.TO",
    "instruments": [
     {
-     "name": "European Res REIT Un",
-     "symbol": "ERE.UN"
+     "name": "SunOpta, Inc.",
+     "symbol": "SOY"
     }
    ]
   },
   {
-   "symbol": "EKSO",
-   "name": "Ekso Bionics Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EKSO"
+   "symbol": "MYPS",
+   "name": "PLAYSTUDIOS, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYPS"
   },
   {
-   "symbol": "SDCI.P",
-   "name": "St. Davids Capital Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SDCI.P.V",
-   "instruments": [
-    {
-     "name": "St. Davids Capital Inc.",
-     "symbol": "SDCI.P"
-    }
-   ]
+   "symbol": "FARM",
+   "name": "Farmer Brothers Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FARM"
+  },
+  {
+   "symbol": "MYPSW",
+   "name": "PLAYSTUDIOS, Inc.  - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYPSW"
+  },
+  {
+   "symbol": "PKST",
+   "name": "Peakstone Realty Trust Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PKST"
   }
  ]
 }
