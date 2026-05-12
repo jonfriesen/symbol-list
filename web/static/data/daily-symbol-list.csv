@@ -627,7 +627,6 @@ HI,Highland Copper Company Inc.,TSXV,HI.V,Highland Copper Company Inc.,HI
 HWY,Highway 50 Gold Corp.,TSXV,HWY.V,Highway 50 Gold Corp.,HWY
 HAM,Highwood Asset Management Ltd.,TSXV,HAM.V,Highwood Asset Management Ltd.,HAM,Highwood Asset Management Ltd wt 03Aug2026,HAM.WT
 ESPN,Hispania Resources Inc.,TSXV,ESPN.V,Hispania Resources Inc.,ESPN
-HIVE,HIVE Digital Technologies Ltd.,TSXV,HIVE.V,HIVE Digital Technologies Ltd.,HIVE
 SHL,Homeland Nickel Inc.,TSXV,SHL.V,Homeland Nickel Inc.,SHL
 HLU,Homeland Uranium Corp.,TSXV,HLU.V,Homeland Uranium Corp.,HLU
 HMR,Homerun Resources Inc.,TSXV,HMR.V,Homerun Resources Inc.,HMR
@@ -988,7 +987,6 @@ RV,Pathfinder Ventures Inc.,TSXV,RV.V,Pathfinder Ventures Inc.,RV
 PAT,Patterson Metals Corp.,TSXV,PAT.V,Patterson Metals Corp.,PAT
 PCAA.P,PC 1 Corp.,TSXV,PCAA.P.V,PC 1 Corp.,PCAA.P
 PCU,Pecoy Copper Corp.,TSXV,PCU.V,Pecoy Copper Corp.,PCU
-PEGA,Pegasus Resources Inc.,TSXV,PEGA.V,Pegasus Resources Inc.,PEGA
 PX,Pelangio Exploration Inc.,TSXV,PX.V,Pelangio Exploration Inc.,PX
 PTF,Pender Growth Fund Inc.,TSXV,PTF.V,Pender Growth Fund Inc.,PTF
 PCP.P,Pender Street Capital Corp.,TSXV,PCP.P.V,Pender Street Capital Corp.,PCP.P
@@ -2474,7 +2472,7 @@ HBA,Hamilton Australian Bank Equal-Weight Index ETF,TSX,HBA.TO,Hamilton AusBk=Wg
 HCA,Hamilton Canadian Bank Mean Reversion Index ETF,TSX,HCA.TO,Hamilton CadBkRev Un,HCA
 CMAX,Hamilton Canadian Equity YIELD MAXIMIZER TM ETF,TSX,CMAX.TO,Ham CDN Eq Yld Max E,CMAX
 HMAX,Hamilton Canadian Financials YIELD MAXIMIZER TM ETF,TSX,HMAX.TO,Ham CdnFinMax TM ETF,HMAX
-HEB,HAMILTON CHAMPIONS TM Canadian Bank Equal-Weight Index ETF,TSX,HEB.TO,Hamilton Cdn Bk=Wgt,HEB
+HEB,HAMILTON CHAMPIONS TM Canadian Bank Equal-Weight Index ETF,TSX,HEB.TO,Hamilton Chm Cd B EQ,HEB
 CMVP,HAMILTON CHAMPIONS TM Canadian Dividend Index ETF,TSX,CMVP.TO,HAMILTON CHAM CAD Di,CMVP
 HFN,HAMILTON CHAMPIONS TM Canadian Financials Index ETF,TSX,HFN.TO,Hamilton Chm Cd Fi E,HFN
 CWIN,HAMILTON CHAMPIONS TM Enhanced Canadian Dividend ETF,TSX,CWIN.TO,Ham ChmpEnh CdDv ETF,CWIN
@@ -2486,7 +2484,7 @@ EMAX,Hamilton Energy YIELD MAXIMIZER TM ETF,TSX,EMAX.TO,Ham EngyYldMaxTM ETF,EMA
 HCAL,Hamilton Enhanced Canadian Bank ETF,TSX,HCAL.TO,Hamilton EnhanCA Bk,HCAL
 HDIV,Hamilton Enhanced Canadian Covered Call ETF,TSX,HDIV.TO,HamiltonEnhnCadSecCl,HDIV
 HFIN,Hamilton Enhanced Canadian Financials ETF,TSX,HFIN.TO,Hamilton EnhanCA Fin,HFIN
-MIX,Hamilton Enhanced Mixed Asset Allocation ETF,TSX,MIX.TO,Hamilton Enh Mix Ase,MIX
+MIX,Hamilton Enhanced Mixed Asset Allocation ETF,TSX,MIX.TO,Hamilton Enh Mix A A,MIX
 HYLD,Hamilton Enhanced U.S. Covered Call ETF,TSX,HYLD.TO,Hamilton USCvClHG C$,HYLD,Hamilton USCvClUH US,HYLD.U
 HUTS,Hamilton Enhanced Utilities ETF,TSX,HUTS.TO,Hamilton EnhncUtil E,HUTS
 HFG,Hamilton Global Financials ETF,TSX,HFG.TO,Hamilton Glbl Fin E,HFG
@@ -2583,6 +2581,7 @@ HRMS,Hermès CDR (CAD Hedged),TSX,HRMS.TO,Hermes CDR CAD Hedg,HRMS
 HWO,High Arctic Energy Services Inc.,TSX,HWO.TO,High Arctic Engy Inc,HWO
 HLF,High Liner Foods Incorporated,TSX,HLF.TO,High Liner Foods Inc,HLF
 HSLV,Highlander Silver Corp.,TSX,HSLV.TO,Highlander Silver Co,HSLV
+HIVE,HIVE Digital Technologies Ltd.,TSX,HIVE.TO,HIVE Digital Tech L,HIVE
 HLS,HLS Therapeutics Inc.,TSX,HLS.TO,HLS Therapeutics J,HLS
 HD,Home Depot CDR (CAD Hedged),TSX,HD.TO,Home Depot CDR Hgd,HD
 HON,Honeywell CDR (CAD Hedged),TSX,HON.TO,Honeywell CDR Hgd,HON
@@ -2986,6 +2985,10 @@ SPAC.RT.U,Mercer Park Opportunities Corp.,TSX,SPAC.RT.U.TO,Mercer PrkOpp Corp R,
 MRK,Merck CDR (CAD Hedged),TSX,MRK.TO,Merck CDR Hgd,MRK
 MER,Meren Energy Inc.,TSX,MER.TO,Meren Energy Inc,MER
 MNO,Meridian Mining plc,TSX,MNO.TO,Meridian Mining PLC,MNO
+NMBL,Meritage Tactical ETF Balanced Portfolio,TSX,NMBL.TO,Meri Tactcl Bal Port,NMBL
+NMEQ,Meritage Tactical ETF Equity Portfolio,TSX,NMEQ.TO,Meri Tactcl Eqt Port,NMEQ
+NMGR,Meritage Tactical ETF Growth Portfolio,TSX,NMGR.TO,Meri Tactcl Grwth Po,NMGR
+NMMO,Meritage Tactical ETF Moderate Portfolio,TSX,NMMO.TO,Meri Tac Mod Port ET,NMMO
 META,Meta CDR (CAD Hedged),TSX,META.TO,Meta CDR CAD Hedged,META
 MTEK,Metatek-Group Ltd.,TSX,MTEK.TO,Metatek-Group Ltd,MTEK
 MX,Methanex Corporation,TSX,MX.TO,Methanex Corporation,MX
@@ -3024,8 +3027,12 @@ NA,National Bank of Canada,TSX,NA.TO,Nat'l Bank of Canada,NA,Nat'l Bank Ser 38 P
 NPRF,NBI Active Canadian Preferred Shares ETF,TSX,NPRF.TO,NBI ActvCdnPrShr Un ,NPRF
 NINT,NBI Active International Equity ETF,TSX,NINT.TO,NBI ActiveIntl Eq Un,NINT
 NUSA,NBI Active U.S. Equity ETF,TSX,NUSA.TO,NBI Active US Eq Un,NUSA,NBI Active US Eq Hdg,NUSA.F
+NBBX,NBI Canadian Bond Index Fund,TSX,NBBX.TO,NBI Cdn Bond Indx Fd,NBBX
 NCPB,NBI Canadian Core Plus Bond Fund,TSX,NCPB.TO,NBI Cdn CoPls Bd ETF,NCPB
 NDIV,NBI Canadian Dividend Income ETF,TSX,NDIV.TO,NBI Cdn Div Incom Un,NDIV
+NBCG,NBI Canadian Equity Growth Fund,TSX,NBCG.TO,NBI Can Eq Growth Fd,NBCG
+NBCX,NBI Canadian Equity Index Fund,TSX,NBCX.TO,NBI Can Equity IdxFd,NBCX
+NBEM,NBI Diversified Emerging Markets Equity Fund,TSX,NBEM.TO,NBI Div EmerMkr Eq,NBEM
 NBGE,NBI Global Equity Fund,TSX,NBGE.TO,NBI Glb Eqty Fnd ETF,NBGE,NBI Gl Eqty Fnd ETFH,NBGE.F
 NGPE,NBI Global Private Equity ETF,TSX,NGPE.TO,NBI GlblPrivateEq Un,NGPE
 NREA,NBI Global Real Assets Income Fund,TSX,NREA.TO,NBI GlblRl AssetIncm,NREA
@@ -3033,8 +3040,11 @@ NBSC,NBI Global Small Cap Fund,TSX,NBSC.TO,NBI Glb Sml CpFd ETF,NBSC,NBI Glb Sl 
 NHYB,NBI High Yield Bond ETF,TSX,NHYB.TO,NBI HighYld Bond Un,NHYB
 NINV,NBI Innovators Fund,TSX,NINV.TO,NBI Innovator Fd ETF,NINV,NBI Innvtors Fd ETFH,NINV.F
 NBIE,NBI International Equity Fund,TSX,NBIE.TO,NBI Intl Eqty Fd ETF,NBIE,NBI Intl EqtyFd ETFH,NBIE.F
+NBIX,NBI International Equity Index Fund,TSX,NBIX.TO,NBI Intl Eq Idx Fd,NBIX
+NBIV,NBI International Value Fund,TSX,NBIV.TO,NBI Intl Value Fd Et,NBIV
 NALT,NBI Liquid Alternatives ETF,TSX,NALT.TO,NBI Liquid Alternatv,NALT
 NBQC,NBI Quebec Growth Fund,TSX,NBQC.TO,NBI Quebec Grwth Fd,NBQC
+NSDG,NBI SmartData Global Equity Fund,TSX,NSDG.TO,NBI SmartDt Gbl EqFd,NSDG
 NSDI,NBI SmartData International Equity Fund,TSX,NSDI.TO,NBI SmtDta IntEq ETF,NSDI,NBI SmDta IntEq ETFH,NSDI.F
 NSDU,NBI SmartData U.S. Equity Fund,TSX,NSDU.TO,NBI SmaData USEq ETF,NSDU,NBI SmData USEq ETFH,NSDU.F
 NSCB,NBI Sustainable Canadian Bond ETF,TSX,NSCB.TO,NBI SustainCdnBnd Un,NSCB
@@ -3049,6 +3059,7 @@ NTGD,NBI Target 2029 Investment Grade Bond Fund,TSX,NTGD.TO,NBI T2029 Igb Fd ETF
 NTGE,NBI Target 2030 Investment Grade Bond Fund,TSX,NTGE.TO,NBI Trgt 2030 Inv Fd,NTGE
 NTGF,NBI Target 2031 Investment Grade Bond Fund,TSX,NTGF.TO,NBI Trgt 2031 Inv GB,NTGF
 NBUE,NBI U.S. Equity Fund,TSX,NBUE.TO,NBI US Equity Fd ETF,NBUE,NBI US Eqty Fd ETFH,NBUE.F
+NBUX,NBI U.S. Equity Index Fund,TSX,NBUX.TO,NBI US Eq Idx Fd,NBUX
 NUBF,NBI Unconstrained Fixed Income ETF,TSX,NUBF.TO,NBI Unconstr FxdIncm,NUBF
 NEO,Neo Performance Materials Inc.,TSX,NEO.TO,Neo Perform Material,NEO
 NSTL,Nestlé CDR (CAD Hedged),TSX,NSTL.TO,Nestle CDR CAD Hedg,NSTL
@@ -3443,9 +3454,11 @@ TUEX,TD Active U.S. Enhanced Dividend CAD Hedged ETF,TSX,TUEX.TO,TD ActvUS Enhnc
 TUED,TD Active U.S. Enhanced Dividend ETF,TSX,TUED.TO,TD ActvUS EnhanDivCA,TUED,TD ActvUS EnhanDivUS,TUED.U
 TUHY,TD Active U.S. High Yield Bond ETF,TSX,TUHY.TO,TD ActvUS HiYldBndUn,TUHY
 TEQT,TD All-Equity ETF Portfolio,TSX,TEQT.TO,TD All Eq ETF Portfo,TEQT
+TCOM,TD Alternative Commodities Pool,TSX,TCOM.TO,TD Alt Commod Pool E,TCOM
 TBAL,TD Balanced ETF Portfolio,TSX,TBAL.TO,TD Balanced Port Un,TBAL
 TDB,TD Canadian Aggregate Bond Index ETF,TSX,TDB.TO,TD Cdn Aggregate Bnd,TDB
 TBNK,TD Canadian Bank Dividend Index ETF,TSX,TBNK.TO,TD Cdn Bank Div Un,TBNK
+TCCB,TD Canadian Corporate Bond Fund,TSX,TCCB.TO,TD Can Corp Bond Fd,TCCB
 TTP,TD Canadian Equity Index ETF,TSX,TTP.TO,TD Cdn Equity Idx Un,TTP
 TCLB,TD Canadian Long Term Federal Bond ETF,TSX,TCLB.TO,TD Cdn LT FedBond Un,TCLB
 TCSH,TD Cash Management ETF,TSX,TCSH.TO,Td Cash Mgmt ETF,TCSH
@@ -3467,6 +3480,7 @@ TULV,TD Q U.S. Low Volatility ETF,TSX,TULV.TO,TD Q US LowVolty CAD,TULV
 TQSM,TD Q U.S. Small-Mid-Cap Equity ETF,TSX,TQSM.TO,TD Q US SmlMidCap Eq,TQSM,TD Q US SmMiCap EqUS,TQSM.U
 TCSB,TD Select Short Term Corporate Bond Ladder ETF,TSX,TCSB.TO,TD SlctST CorpBndLad,TCSB
 TUSB,TD Select U.S. Short Term Corporate Bond Ladder ETF,TSX,TUSB.TO,TD SlctUS CorpBndlad,TUSB,TD SlctUS CorpBndUSF,TUSB.U
+TSTB,TD Short Term Bond Fund,TSX,TSTB.TO,TD Short Term Bond F,TSTB
 TBCF,TD Target 2026 Investment Grade Bond ETF,TSX,TBCF.TO,TdTgt 26 InvGr B Etf,TBCF
 TBUF.U,TD Target 2026 U.S. Investment Grade Bond ETF,TSX,TBUF.U.TO,TdTgtUS26 InvGrB Etf,TBUF.U
 TBCG,TD Target 2027 Investment Grade Bond ETF,TSX,TBCG.TO,TdTgt 27 InvGr B Etf,TBCG
@@ -3478,6 +3492,7 @@ TUSD.U,TD U.S. Cash Management ETF,TSX,TUSD.U.TO,TD US Cash Mag ETF U,TUSD.U
 THU,TD U.S. Equity CAD Hedged Index ETF,TSX,THU.TO,TD US Eq CAD Heg Un,THU
 TPU,TD U.S. Equity Index ETF,TSX,TPU.TO,TD US Equity Indx Un,TPU,TD US Eqty Index US,TPU.U
 TULB,TD U.S. Long Term Treasury Bond ETF,TSX,TULB.TO,TD U.S. LT TreasBond,TULB
+TUST,TD Ultra Short Term Bond Fund,TSX,TUST.TO,TD Ultra Short Bond,TUST
 XTD,TDb Split Corp.,TSX,XTD.TO,TDb Split Cl A,XTD,TDb Split Prior Eqty,XTD.PR.A
 TECK.A,Teck Resources Limited,TSX,TECK.A.TO,Teck Res Cl A MV,TECK.A,Teck Res Cl B SV,TECK.B
 TCS,TECSYS Inc.,TSX,TCS.TO,Tecsys Inc. J,TCS
@@ -4747,7 +4762,6 @@ FHN$H,"First Horizon Corporation Depositary Shares each representing a 1/4,000th
 FICO,Fair Isaac Corporation Common Stock,NYSE,FICO
 FIG,"Figma, Inc. Class A Common Stock",NYSE,FIG
 FIGS,"FIGS, Inc. Class A Common Stock",NYSE,FIGS
-FIHL,Fidelis Insurance Holdings Limited Common Shares,NYSE,FIHL
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,NYSE,FINS
 FINV,FinVolution Group American Depositary Shares,NYSE,FINV
 FIS,"Fidelity National Information Services, Inc. Common Stock",NYSE,FIS
@@ -5899,6 +5913,7 @@ PL,Planet Labs PBC Class A Common Stock,NYSE,PL
 PLAG,Planet Green Holdings Corp. Common Stock,NYSE MKT,PLAG
 PLD,"Prologis, Inc. Common Stock",NYSE,PLD
 PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),NYSE MKT,PLG
+PLGO,Pelagos Insurance Capital Limited Common Shares,NYSE,PLGO
 PLNT,"Planet Fitness, Inc. Common Stock",NYSE,PLNT
 PLOW,"Douglas Dynamics, Inc. Common Stock",NYSE,PLOW
 PLUN.U,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",NYSE,PLUN.U
@@ -6616,6 +6631,7 @@ VGZ,Vista Gold Corp Common Stock,NYSE MKT,VGZ
 VHI,"Valhi, Inc. Common Stock",NYSE,VHI
 VIA,"Via Transportation, Inc. Class A Common Stock",NYSE,VIA
 VICI,VICI Properties Inc. Common Stock,NYSE,VICI
+VIDA,VIDA Global Inc. Class A Common Stock,NYSE MKT,VIDA
 VIK,Viking Holdings Ltd Ordinary Shares,NYSE,VIK
 VIPS,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",NYSE,VIPS
 VIRT,"Virtu Financial, Inc. Class A Common Stock",NYSE,VIRT
@@ -7529,6 +7545,7 @@ BOLT,"Bolt Biotherapeutics, Inc. - Common Stock",NASDAQ Capital Market,BOLT
 BON,Bon Natural Life Limited - Class A Ordinary Shares,NASDAQ Capital Market,BON
 BOOM,DMC Global Inc. - Common Stock,NASDAQ Global Select MarketSM,BOOM
 BOSC,B.O.S. Better Online Solutions - Ordinary Shares,NASDAQ Capital Market,BOSC
+BOT,"RoboStrategy, Inc. - Common Stock",NASDAQ Global MarketSM,BOT
 BOTJ,"Bank of the James Financial Group, Inc. - Common Stock",NASDAQ Capital Market,BOTJ
 BOTT,Themes Humanoid Robotics ETF,NASDAQ Global MarketSM,BOTT
 BOTZ,Global X Robotics & Artificial Intelligence ETF,NASDAQ Global MarketSM,BOTZ
@@ -7565,6 +7582,8 @@ BRRR,Coinshares Bitcoin ETF,NASDAQ Global MarketSM,BRRR
 BRRWW,"ProCap Financial, Inc. - Warrant.",NASDAQ Capital Market,BRRWW
 BRTR,iShares Total Return Active ETF,NASDAQ Global MarketSM,BRTR
 BRTX,"BioRestorative Therapies, Inc. - Common Stock",NASDAQ Capital Market,BRTX
+BRUN,Boost Run Inc. - Class A Common Stock,NASDAQ Global MarketSM,BRUN
+BRUNW,Boost Run Inc. - Warrant,NASDAQ Capital Market,BRUNW
 BRZE,"Braze, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,BRZE
 BSAA,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,NASDAQ Capital Market,BSAA
 BSAAR,BEST SPAC I Acquisition Corp. - Rights,NASDAQ Capital Market,BSAAR
@@ -9550,7 +9569,6 @@ KYMR,"Kymera Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,KYMR
 KYNB,"Kyntra Bio, Inc. - Common Stock",NASDAQ Global Select MarketSM,KYNB
 KYTX,"Kyverna Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,KYTX
 KZIA,Kazia Therapeutics Limited - American Depositary Shares,NASDAQ Capital Market,KZIA
-KZR,"Kezar Life Sciences, Inc. - Common Stock",NASDAQ Capital Market,KZR
 LAB,Standard BioTools Inc. - Common Stock,NASDAQ Global Select MarketSM,LAB
 LABT,Lakewood-Amedex Biotherapeutics Inc. - Common Stock,NASDAQ Capital Market,LABT
 LACG,Leverage Shares 2X Long LAC Daily ETF,NASDAQ Global MarketSM,LACG
@@ -11748,7 +11766,6 @@ UCL,uCloudlink Group Inc. - American Depositary Shares,NASDAQ Global MarketSM,UC
 UCRD,VictoryShares Corporate Bond ETF,NASDAQ Global MarketSM,UCRD
 UCTT,"Ultra Clean Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,UCTT
 UCYB,ProShares Ultra Nasdaq Cybersecurity,NASDAQ Global MarketSM,UCYB
-UDMY,"Udemy, Inc. - Common Stock",NASDAQ Global Select MarketSM,UDMY
 UECG,Leverage Shares 2x Long UEC Daily ETF,NASDAQ Global MarketSM,UECG
 UEIC,Universal Electronics Inc. - Common Stock,NASDAQ Global Select MarketSM,UEIC
 UEVM,VictoryShares Emerging Markets Value Momentum ETF,NASDAQ Global MarketSM,UEVM
@@ -12067,6 +12084,7 @@ WSBCO,"WesBanco, Inc. - Depositary Shares each representing 1/40th interest in a
 WSBF,"Waterstone Financial, Inc. - Common Stock",NASDAQ Global Select MarketSM,WSBF
 WSBK,"Winchester Bancorp, Inc. - Common Stock",NASDAQ Capital Market,WSBK
 WSC,WillScot Holdings Corporation - Class A Common Stock,NASDAQ Capital Market,WSC
+WSE,Wise Group plc - Class A Ordinary Shares,NASDAQ Global Select MarketSM,WSE
 WSFS,WSFS Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,WSFS
 WSGE,Warren Street Global Equity ETF,NASDAQ Global MarketSM,WSGE
 WSHP,WeShop Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,WSHP
