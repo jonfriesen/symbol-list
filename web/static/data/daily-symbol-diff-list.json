@@ -1,156 +1,162 @@
 {
  "added": [
   {
-   "symbol": "CMCC",
-   "name": "Global X All-In-One Commodity Producers Equity Covered Call ETF",
+   "symbol": "CMCL",
+   "name": "Global X Enhanced All-In-One Commodity Producers Equity Covered Call ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CMCC.TO",
+   "yahoo_symbol": "CMCL.TO",
    "instruments": [
     {
-     "name": "Glbl X Ain1 C P Eq C",
-     "symbol": "CMCC"
+     "name": "GX Ehn AIO Cmdty CC",
+     "symbol": "CMCL"
     }
    ]
   },
   {
-   "symbol": "COMX",
-   "name": "Global X All-In-One Commodity Producers Equity ETF",
+   "symbol": "SVCL",
+   "name": "Global X Enhanced Silver Miners Covered Call ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "COMX.TO",
+   "yahoo_symbol": "SVCL.TO",
    "instruments": [
     {
-     "name": "Glb x AlIn1 Com Pr E",
-     "symbol": "COMX"
+     "name": "GlblX Eh SilvMnrs CC",
+     "symbol": "SVCL"
     }
    ]
   },
   {
-   "symbol": "SVCC",
-   "name": "Global X Silver Miners Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SVCC.TO",
-   "instruments": [
-    {
-     "name": "Glbl X Silv Min CC E",
-     "symbol": "SVCC"
-    }
-   ]
-  },
-  {
-   "symbol": "SLVX",
-   "name": "Global X Silver Miners Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SLVX.TO",
-   "instruments": [
-    {
-     "name": "Glbl X Silv Min In E",
-     "symbol": "SLVX"
-    }
-   ]
-  },
-  {
-   "symbol": "URCC",
-   "name": "Global X Uranium Covered Call ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "URCC.TO",
-   "instruments": [
-    {
-     "name": "Glbl X Uranium CC E",
-     "symbol": "URCC"
-    }
-   ]
-  },
-  {
-   "symbol": "ATC",
-   "name": "GraniteShares Autocallable COIN ETF",
+   "symbol": "BREZU",
+   "name": "Breeze Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATC"
+   "yahoo_symbol": "BREZU"
   },
   {
-   "symbol": "MSR",
-   "name": "GraniteShares Autocallable MSTR ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MSR"
+   "symbol": "FRVO",
+   "name": "Fervo Energy Company - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FRVO"
   },
   {
-   "symbol": "PVLA",
-   "name": "Palvella Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PVLA"
-  },
-  {
-   "symbol": "QVOL",
-   "name": "Infrastructure Capital Nasdaq Option Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QVOL"
-  },
-  {
-   "symbol": "RTB",
-   "name": "RTB Digital, Inc. - Common Stock",
+   "symbol": "QETA",
+   "name": "Quetta Acquisition Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RTB"
+   "yahoo_symbol": "QETA"
   },
   {
-   "symbol": "THYP",
-   "name": "21shares Hyperliquid ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "THYP"
+   "symbol": "QETAR",
+   "name": "Quetta Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QETAR"
   },
   {
-   "symbol": "GMRS",
-   "name": "GMR Solutions Inc. Class A Common Stock",
+   "symbol": "QETAU",
+   "name": "Quetta Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QETAU"
+  },
+  {
+   "symbol": "BXDC",
+   "name": "Blackstone Digital Infrastructure Trust Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "GMRS"
+   "yahoo_symbol": "BXDC"
   },
   {
-   "symbol": "WENC",
-   "name": "West Enclave Merger Corp. Ordinary Shares",
+   "symbol": "EROK",
+   "name": "EagleRock Land, LLC Class A shares representing limited liability company interests",
    "exchange": "NYSE",
-   "yahoo_symbol": "WENC"
-  },
-  {
-   "symbol": "WENC.R",
-   "name": "West Enclave Merger Corp. Rights, each Right to acquire one-tenth (1/10) of one Ordinary Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WENC.R"
+   "yahoo_symbol": "EROK"
   }
  ],
  "removed": [
   {
-   "symbol": "AREBW",
-   "name": "American Rebel Holdings, Inc. - warrants",
+   "symbol": "RVPH",
+   "name": "Reviva Pharmaceuticals Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AREBW"
+   "yahoo_symbol": "RVPH"
   },
   {
-   "symbol": "RVYL",
-   "name": "Ryvyl Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RVYL"
+   "symbol": "VIDA",
+   "name": "VIDA Global Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VIDA"
   },
   {
-   "symbol": "AREB",
-   "name": "American Rebel Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AREB"
-  },
-  {
-   "symbol": "BKYI",
-   "name": "BIO-key International, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BKYI"
-  },
-  {
-   "symbol": "PVLA",
-   "name": "Palvella Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PVLA"
-  },
-  {
-   "symbol": "NZUS",
-   "name": "State Street SPDR MSCI USA Climate Paris Aligned ETF",
+   "symbol": "QETAU",
+   "name": "Quetta Acquisition Corporation - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NZUS"
+   "yahoo_symbol": "QETAU"
+  },
+  {
+   "symbol": "TPH",
+   "name": "Tri Pointe Homes, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TPH"
+  },
+  {
+   "symbol": "LIS",
+   "name": "Lithium South Development Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LIS.V",
+   "instruments": [
+    {
+     "name": "Lithium South Development Corporation",
+     "symbol": "LIS"
+    }
+   ]
+  },
+  {
+   "symbol": "ALCY",
+   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCY"
+  },
+  {
+   "symbol": "DHR",
+   "name": "Discovery Harbour Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DHR.V",
+   "instruments": [
+    {
+     "name": "Discovery Harbour Resources Corp.",
+     "symbol": "DHR"
+    }
+   ]
+  },
+  {
+   "symbol": "DHY.R",
+   "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DHY.R"
+  },
+  {
+   "symbol": "ALCYW",
+   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCYW"
+  },
+  {
+   "symbol": "SNCY",
+   "name": "Sun Country Airlines Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNCY"
+  },
+  {
+   "symbol": "QETA",
+   "name": "Quetta Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QETA"
+  },
+  {
+   "symbol": "ALCYU",
+   "name": "Alchemy Investments Acquisition Corp 1 - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCYU"
+  },
+  {
+   "symbol": "QETAR",
+   "name": "Quetta Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QETAR"
   }
  ]
 }

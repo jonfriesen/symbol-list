@@ -1,5 +1,5 @@
 {
- "date": "2026-05-13",
+ "date": "2026-05-14",
  "data": [
   {
    "symbol": "ONE",
@@ -4498,18 +4498,6 @@
     {
      "name": "Dios Exploration Inc",
      "symbol": "DOS"
-    }
-   ]
-  },
-  {
-   "symbol": "DHR",
-   "name": "Discovery Harbour Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "DHR.V",
-   "instruments": [
-    {
-     "name": "Discovery Harbour Resources Corp.",
-     "symbol": "DHR"
     }
    ]
   },
@@ -9222,18 +9210,6 @@
     {
      "name": "Lithium Ionic Corp.",
      "symbol": "LTH"
-    }
-   ]
-  },
-  {
-   "symbol": "LIS",
-   "name": "Lithium South Development Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LIS.V",
-   "instruments": [
-    {
-     "name": "Lithium South Development Corporation",
-     "symbol": "LIS"
     }
    ]
   },
@@ -30070,6 +30046,18 @@
    ]
   },
   {
+   "symbol": "CMCL",
+   "name": "Global X Enhanced All-In-One Commodity Producers Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMCL.TO",
+   "instruments": [
+    {
+     "name": "GX Ehn AIO Cmdty CC",
+     "symbol": "CMCL"
+    }
+   ]
+  },
+  {
    "symbol": "ENCL",
    "name": "Global X Enhanced Canadian Oil and Gas Equity Covered Call ETF",
    "exchange": "TSX",
@@ -30198,6 +30186,18 @@
     {
      "name": "GblX EnhnSP/TSX60Inx",
      "symbol": "CANL"
+    }
+   ]
+  },
+  {
+   "symbol": "SVCL",
+   "name": "Global X Enhanced Silver Miners Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SVCL.TO",
+   "instruments": [
+    {
+     "name": "GlblX Eh SilvMnrs CC",
+     "symbol": "SVCL"
     }
    ]
   },
@@ -33772,11 +33772,11 @@
    "yahoo_symbol": "IIMF.TO",
    "instruments": [
     {
-     "name": "InvescoIntlDevDynmMF",
+     "name": "InvescoIntlDevMF",
      "symbol": "IIMF"
     },
     {
-     "name": "InvescoIntlDevDynmHg",
+     "name": "InvescoIntlDevHg",
      "symbol": "IIMF.F"
     }
    ]
@@ -33948,11 +33948,11 @@
    "yahoo_symbol": "IUMF.TO",
    "instruments": [
     {
-     "name": "InvescoRus1000DynmMF",
+     "name": "InvescoRus1000MF",
      "symbol": "IUMF"
     },
     {
-     "name": "InvescoRus1000DyMFHg",
+     "name": "InvescoRus1000MFHg",
      "symbol": "IUMF.F"
     }
    ]
@@ -48250,24 +48250,6 @@
    "yahoo_symbol": "ALCO"
   },
   {
-   "symbol": "ALCY",
-   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALCY"
-  },
-  {
-   "symbol": "ALCYU",
-   "name": "Alchemy Investments Acquisition Corp 1 - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALCYU"
-  },
-  {
-   "symbol": "ALCYW",
-   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALCYW"
-  },
-  {
    "symbol": "ALDF",
    "name": "Aldel Financial II Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -51422,6 +51404,12 @@
    "name": "Burney U.S. Equity Select ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BRES"
+  },
+  {
+   "symbol": "BREZU",
+   "name": "Breeze Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BREZU"
   },
   {
    "symbol": "BRFH",
@@ -58154,6 +58142,12 @@
    "name": "Foresight Autonomous Holdings Ltd. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FRSX"
+  },
+  {
+   "symbol": "FRVO",
+   "name": "Fervo Energy Company - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FRVO"
   },
   {
    "symbol": "FRWD",
@@ -70662,19 +70656,19 @@
   {
    "symbol": "QETA",
    "name": "Quetta Acquisition Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QETA"
   },
   {
    "symbol": "QETAR",
    "name": "Quetta Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QETAR"
   },
   {
    "symbol": "QETAU",
    "name": "Quetta Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "QETAU"
   },
   {
@@ -72292,12 +72286,6 @@
    "yahoo_symbol": "RVNL"
   },
   {
-   "symbol": "RVPH",
-   "name": "Reviva Pharmaceuticals Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RVPH"
-  },
-  {
    "symbol": "RVSB",
    "name": "Riverview Bancorp Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -73700,12 +73688,6 @@
    "name": "Sleep Number Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SNBR"
-  },
-  {
-   "symbol": "SNCY",
-   "name": "Sun Country Airlines Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SNCY"
   },
   {
    "symbol": "SND",
@@ -82726,6 +82708,12 @@
    "yahoo_symbol": "BXC"
   },
   {
+   "symbol": "BXDC",
+   "name": "Blackstone Digital Infrastructure Trust Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BXDC"
+  },
+  {
    "symbol": "BXMT",
    "name": "Blackstone Mortgage Trust, Inc. Common Stock",
    "exchange": "NYSE",
@@ -84658,12 +84646,6 @@
    "yahoo_symbol": "DHY"
   },
   {
-   "symbol": "DHY.R",
-   "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "DHY.R"
-  },
-  {
    "symbol": "DIN",
    "name": "Dine Brands Global, Inc. Common Stock",
    "exchange": "NYSE",
@@ -85718,6 +85700,12 @@
    "name": "Ero Copper Corp. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "ERO"
+  },
+  {
+   "symbol": "EROK",
+   "name": "EagleRock Land, LLC Class A shares representing limited liability company interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EROK"
   },
   {
    "symbol": "ES",
@@ -96556,12 +96544,6 @@
    "yahoo_symbol": "TPET"
   },
   {
-   "symbol": "TPH",
-   "name": "Tri Pointe Homes, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TPH"
-  },
-  {
    "symbol": "TPL",
    "name": "Texas Pacific Land Corporation Common Stock",
    "exchange": "NYSE",
@@ -97496,12 +97478,6 @@
    "name": "VICI Properties Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VICI"
-  },
-  {
-   "symbol": "VIDA",
-   "name": "VIDA Global Inc. Class A Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VIDA"
   },
   {
    "symbol": "VIK",

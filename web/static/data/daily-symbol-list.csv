@@ -372,7 +372,6 @@ ADK,Diagnos Inc.,TSXV,ADK.V,Diagnos Inc.,ADK
 DWS,Diamond Estates Wines & Spirits Inc.,TSXV,DWS.V,Diamond Estates Wines & Spirits Inc.,DWS
 DNO,Dinero Ventures Ltd.,TSXV,DNO.V,Dinero Ventures Ltd.,DNO
 DOS,Dios Exploration Inc.,TSXV,DOS.V,Dios Exploration Inc,DOS
-DHR,Discovery Harbour Resources Corp.,TSXV,DHR.V,Discovery Harbour Resources Corp.,DHR
 DCY,Discovery-Corp Enterprises Inc.,TSXV,DCY.V,Discovery-Corp Enterprises Inc.,DCY
 DCOP,District Copper Corp.,TSXV,DCOP.V,District Copper Corp.,DCOP
 DMX,District Metals Corp.,TSXV,DMX.V,District Metals Corp.,DMX
@@ -761,7 +760,6 @@ LBI,Lions Bay Capital Inc.,TSXV,LBI.V,Lions Bay Capital Inc.,LBI
 LAF,Lithium Africa Corp.,TSXV,LAF.V,Lithium Africa Corp.,LAF
 LITH,Lithium Chile Inc.,TSXV,LITH.V,Lithium Chile Inc.,LITH
 LTH,Lithium Ionic Corp.,TSXV,LTH.V,Lithium Ionic Corp.,LTH
-LIS,Lithium South Development Corporation,TSXV,LIS.V,Lithium South Development Corporation,LIS
 LBNK,LithiumBank Resources Corp.,TSXV,LBNK.V,LithiumBank Resources Corp.,LBNK
 LILL.P,Little Fish Acquisition I Corp.,TSXV,LILL.P.V,Little Fish Acquisition I Corp.,LILL.P
 LOD,Lode Gold Resources Inc.,TSXV,LOD.V,Lode Gold Resources Inc.,LOD
@@ -2357,6 +2355,7 @@ SHLD,Global X Defence Tech Index ETF,TSX,SHLD.TO,Global X Def Tech Id,SHLD
 HXEM,Global X Emerging Markets Equity Index Corporate Class ETF,TSX,HXEM.TO,GblX EmergMkt EqIdx,HXEM
 EQCL,Global X Enhanced All-Equity Asset Allocation Covered Call ETF,TSX,EQCL.TO,GblX EhEqAstAlocCvCl,EQCL
 HEQL,Global X Enhanced All-Equity Asset Allocation ETF,TSX,HEQL.TO,GblX EhEq AsstAlloc,HEQL
+CMCL,Global X Enhanced All-In-One Commodity Producers Equity Covered Call ETF,TSX,CMCL.TO,GX Ehn AIO Cmdty CC,CMCL
 ENCL,Global X Enhanced Canadian Oil and Gas Equity Covered Call ETF,TSX,ENCL.TO,GblX EhCdn O&GEqCvCl,ENCL
 BNKL,Global X Enhanced Equal Weight Banks Index ETF,TSX,BNKL.TO,GblX EnEqWgtBnk Idx,BNKL
 BKCL,Global X Enhanced Equal Weight Canadian Banks Covered Call ETF,TSX,BKCL.TO,GblX EnEqWgtCdnBk Cv,BKCL
@@ -2368,6 +2367,7 @@ USCL,Global X Enhanced S&P 500 Covered Call ETF,TSX,USCL.TO,GblX EnhnSP500 CvCal
 USSL,Global X Enhanced S&P 500 Index ETF,TSX,USSL.TO,GblX EnhSP500 IdxETF,USSL
 CNCL,Global X Enhanced S&P/TSX 60 Covered Call ETF,TSX,CNCL.TO,GblX EnhnSP/TSX60 Cv,CNCL
 CANL,Global X Enhanced S&P/TSX 60 Index ETF,TSX,CANL.TO,GblX EnhnSP/TSX60Inx,CANL
+SVCL,Global X Enhanced Silver Miners Covered Call ETF,TSX,SVCL.TO,GlblX Eh SilvMnrs CC,SVCL
 BKCC,Global X Equal Weight Canadian Bank Covered Call ETF,TSX,BKCC.TO,GblX EqlWt Cn BnkCv,BKCC
 HEWB,Global X Equal Weight Canadian Banks Index Corporate Class ETF,TSX,HEWB.TO,GblX EqlWgtCaBnk Inx,HEWB
 HBNK,Global X Equal Weight Canadian Banks Index ETF,TSX,HBNK.TO,GblX EqWgtBanksIdx E,HBNK
@@ -2639,7 +2639,7 @@ BESG,Invesco ESG Canadian Core Plus Bond ETF,TSX,BESG.TO,InvescoESG CA CorBnd,BE
 IWBE,Invesco ESG Global Bond ETF,TSX,IWBE.TO,InvescoESG GlbBnd CA,IWBE
 QQCE,Invesco ESG NASDAQ 100 Index ETF,TSX,QQCE.TO,Invesco NSDQ100IDXCA,QQCE,InvescNSDQ100IdxCAHG,QQCE.F
 ICGB,Invesco Global Bond ETF,TSX,ICGB.TO,Inv Global Bond ETF,ICGB
-IIMF,Invesco International Developed Multifactor Index ETF,TSX,IIMF.TO,InvescoIntlDevDynmMF,IIMF,InvescoIntlDevDynmHg,IIMF.F
+IIMF,Invesco International Developed Multifactor Index ETF,TSX,IIMF.TO,InvescoIntlDevMF,IIMF,InvescoIntlDevHg,IIMF.F
 IGET,Invesco Morningstar Global Energy Transition Index ETF,TSX,IGET.TO,Invesco MS Glb Engy,IGET,Invesco MS Enrgy Heg,IGET.F
 INAI,Invesco Morningstar Global Next Gen AI Index ETF,TSX,INAI.TO,Invesco MrnNxtGenAI,INAI,Invesco MrnNxGenAIHg,INAI.F
 QQEQ,Invesco NASDAQ 100 Equal Weight Index ETF,TSX,QQEQ.TO,Invesco NASDQ100=Wgt,QQEQ,Invesco NASDQ100=Heg,QQEQ.F
@@ -2650,7 +2650,7 @@ PXC,Invesco RAFI Canadian Index ETF,TSX,PXC.TO,Invesco RAFICdn Id E,PXC
 PZW,Invesco RAFI Global Small-Mid ETF,TSX,PZW.TO,Invesc RAFI Gl SmM E,PZW,Invesco RAFI SM CAHD,PZW.F,Invesco RAFI SmM USF,PZW.U
 PXU.F,Invesco RAFI U.S. Index ETF,TSX,PXU.F.TO,Invesco RAFI US CaHg,PXU.F
 PXS,Invesco RAFI U.S. Index ETF II,TSX,PXS.TO,Invesco RAFI USI2 CA,PXS,Invesco RAFI ETF2 US,PXS.U
-IUMF,Invesco Russell 1000 Multifactor Index ETF,TSX,IUMF.TO,InvescoRus1000DynmMF,IUMF,InvescoRus1000DyMFHg,IUMF.F
+IUMF,Invesco Russell 1000 Multifactor Index ETF,TSX,IUMF.TO,InvescoRus1000MF,IUMF,InvescoRus1000MFHg,IUMF.F
 EQLI,Invesco S&P 500 Equal Weight Income Advantage ETF,TSX,EQLI.TO,IvSP500 EqWInc AdETF,EQLI,INV S&P500 Ew Ic CA,EQLI.F,INV S&P500 Ew Ic USD,EQLI.U
 EQL,Invesco S&P 500 Equal Weight Index ETF,TSX,EQL.TO,Invesco S&P500 EqWgt,EQL,Invesco S&P500EqCA-H,EQL.F,Invesco S&P500Eq USF,EQL.U
 ESG,Invesco S&P 500 ESG Index ETF,TSX,ESG.TO,Invesco S&P500ESG Un,ESG,InvescoS&P500ESG Heg,ESG.F
@@ -3861,9 +3861,6 @@ ALAR,Alarum Technologies Ltd. - American Depositary Shares,NASDAQ Capital Market
 ALBG,Leverage Shares 2X Long ALB Daily ETF,NASDAQ Global MarketSM,ALBG
 ALBT,Avalon GloboCare Corp. - Common Stock,NASDAQ Capital Market,ALBT
 ALCO,"Alico, Inc. - Common Stock",NASDAQ Global Select MarketSM,ALCO
-ALCY,Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares,NASDAQ Capital Market,ALCY
-ALCYU,Alchemy Investments Acquisition Corp 1 - Units,NASDAQ Capital Market,ALCYU
-ALCYW,Alchemy Investments Acquisition Corp 1 - Warrants,NASDAQ Capital Market,ALCYW
 ALDF,Aldel Financial II Inc. - Class A Ordinary Shares,NASDAQ Global MarketSM,ALDF
 ALDFU,Aldel Financial II Inc. - Units,NASDAQ Global MarketSM,ALDFU
 ALDFW,Aldel Financial II Inc. - Warrants,NASDAQ Global MarketSM,ALDFW
@@ -4390,6 +4387,7 @@ BRBI,BRBI BR Partners S.A. - ADSs,NASDAQ Capital Market,BRBI
 BRCB,"Black Rock Coffee Bar, Inc. - Class A Common Stock",NASDAQ Global MarketSM,BRCB
 BREM,iShares Emerging Markets Bond Active ETF,NASDAQ Global MarketSM,BREM
 BRES,Burney U.S. Equity Select ETF,NASDAQ Global MarketSM,BRES
+BREZU,Breeze Acquisition Corp. II - Units,NASDAQ Global MarketSM,BREZU
 BRFH,Barfresh Food Group Inc. - Common Stock,NASDAQ Capital Market,BRFH
 BRHY,iShares High Yield Active ETF,NASDAQ Global MarketSM,BRHY
 BRID,Bridgford Foods Corporation - Common Stock,NASDAQ Global MarketSM,BRID
@@ -5512,6 +5510,7 @@ FRPT,"Freshpet, Inc. - Common Stock",NASDAQ Global MarketSM,FRPT
 FRSH,Freshworks Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,FRSH
 FRST,Primis Financial Corp. - Common Stock,NASDAQ Global MarketSM,FRST
 FRSX,Foresight Autonomous Holdings Ltd. - American Depositary Shares,NASDAQ Capital Market,FRSX
+FRVO,Fervo Energy Company - Class A common stock,NASDAQ Global Select MarketSM,FRVO
 FRWD,Nomura Transformational Technologies ETF,NASDAQ Global MarketSM,FRWD
 FSBC,Five Star Bancorp - Common Stock,NASDAQ Global Select MarketSM,FSBC
 FSBW,"FS Bancorp, Inc. - Common Stock",NASDAQ Capital Market,FSBW
@@ -7596,9 +7595,9 @@ QCOM,QUALCOMM Incorporated - Common Stock,NASDAQ Global Select MarketSM,QCOM
 QCRH,"QCR Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,QCRH
 QDEL,QuidelOrtho Corporation - Common Stock,NASDAQ Global Select MarketSM,QDEL
 QDTY,YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF,NASDAQ Global MarketSM,QDTY
-QETA,Quetta Acquisition Corporation - Common Stock,NASDAQ Global MarketSM,QETA
-QETAR,Quetta Acquisition Corporation - Right,NASDAQ Global MarketSM,QETAR
-QETAU,Quetta Acquisition Corporation - Unit,NASDAQ Global MarketSM,QETAU
+QETA,Quetta Acquisition Corporation - Common Stock,NASDAQ Capital Market,QETA
+QETAR,Quetta Acquisition Corporation - Right,NASDAQ Capital Market,QETAR
+QETAU,Quetta Acquisition Corporation - Unit,NASDAQ Capital Market,QETAU
 QEW,Invesco QQQ Equal Weight ETF,NASDAQ Global MarketSM,QEW
 QFIN,"Qfin Holdings, Inc.  - American Depositary Shares",NASDAQ Global Select MarketSM,QFIN
 QGRD,Horizon Nasdaq-100 Defined Risk ETF,NASDAQ Global MarketSM,QGRD
@@ -7868,7 +7867,6 @@ RUSHB,"Rush Enterprises, Inc. - Class B Common Stock",NASDAQ Global Select Marke
 RVMD,"Revolution Medicines, Inc. - Common Stock",NASDAQ Global Select MarketSM,RVMD
 RVMDW,"Revolution Medicines, Inc. - Warrant",NASDAQ Global Select MarketSM,RVMDW
 RVNL,GraniteShares 2x Long RIVN Daily ETF,NASDAQ Global MarketSM,RVNL
-RVPH,"Reviva Pharmaceuticals Holdings, Inc. - Common Stock",NASDAQ Capital Market,RVPH
 RVSB,Riverview Bancorp Inc - Common Stock,NASDAQ Global Select MarketSM,RVSB
 RVSN,Rail Vision Ltd. - Ordinary Shares,NASDAQ Capital Market,RVSN
 RVSNW,Rail Vision Ltd. - Warrant,NASDAQ Capital Market,RVSNW
@@ -8103,7 +8101,6 @@ SMYY,GraniteShares YieldBOOST SMCI ETF,NASDAQ Global MarketSM,SMYY
 SNAG,Leverage Shares 2x Long SNAP Daily ETF,NASDAQ Global MarketSM,SNAG
 SNAL,"Snail, Inc. - Class A Common Stock",NASDAQ Capital Market,SNAL
 SNBR,Sleep Number Corporation - Common Stock,NASDAQ Global Select MarketSM,SNBR
-SNCY,"Sun Country Airlines Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SNCY
 SND,"Smart Sand, Inc. - Common Stock",NASDAQ Global Select MarketSM,SND
 SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ Global Select MarketSM,SNDK
 SNDL,SNDL Inc. - Common Shares,NASDAQ Capital Market,SNDL
@@ -9607,6 +9604,7 @@ BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",NYSE,BWNB
 BWXT,"BWX Technologies, Inc. Common Stock",NYSE,BWXT
 BX,Blackstone Inc. Common Stock,NYSE,BX
 BXC,Bluelinx Holdings Inc. Common Stock,NYSE,BXC
+BXDC,Blackstone Digital Infrastructure Trust Inc. Common Stock,NYSE,BXDC
 BXMT,"Blackstone Mortgage Trust, Inc. Common Stock",NYSE,BXMT
 BXP,"BXP, Inc. Common Stock",NYSE,BXP
 BXSL,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,NYSE,BXSL
@@ -9929,7 +9927,6 @@ DHR,Danaher Corporation Common Stock,NYSE,DHR
 DHT,"DHT Holdings, Inc.",NYSE,DHT
 DHX,"DHI Group, Inc. Common Stock",NYSE,DHX
 DHY,Credit Suisse High Yield Credit Fund Common Stock,NYSE MKT,DHY
-DHY.R,"Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",NYSE MKT,DHY.R
 DIN,"Dine Brands Global, Inc. Common Stock",NYSE,DIN
 DINO,HF Sinclair Corporation Common Stock,NYSE,DINO
 DIS,Walt Disney Company (The) Common Stock,NYSE,DIS
@@ -10106,6 +10103,7 @@ EQX,Equinox Gold Corp. Common Shares,NYSE MKT,EQX
 ERC,Allspring Multi-Sector Income Fund Common Stock,NYSE MKT,ERC
 ERH,Allspring Utilities and High Income Fund Common Shares,NYSE MKT,ERH
 ERO,Ero Copper Corp. Common Shares,NYSE,ERO
+EROK,"EagleRock Land, LLC Class A shares representing limited liability company interests",NYSE,EROK
 ES,Eversource Energy (D/B/A) Common Stock,NYSE,ES
 ESAB,ESAB Corporation Common Stock,NYSE,ESAB
 ESBA,"Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests",NYSE ARCA,ESBA
@@ -11912,7 +11910,6 @@ TOVX,"Theriva Biologics, Inc. Common Stock",NYSE MKT,TOVX
 TPB,"Turning Point Brands, Inc. Common Stock",NYSE,TPB
 TPC,Tutor Perini Corporation Common Stock,NYSE,TPC
 TPET,Trio Petroleum Corp. Common Stock,NYSE MKT,TPET
-TPH,"Tri Pointe Homes, Inc. Common Stock",NYSE,TPH
 TPL,Texas Pacific Land Corporation Common Stock,NYSE,TPL
 TPR,"Tapestry, Inc. Common Stock",NYSE,TPR
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026",NYSE,TPTA
@@ -12069,7 +12066,6 @@ VGZ,Vista Gold Corp Common Stock,NYSE MKT,VGZ
 VHI,"Valhi, Inc. Common Stock",NYSE,VHI
 VIA,"Via Transportation, Inc. Class A Common Stock",NYSE,VIA
 VICI,VICI Properties Inc. Common Stock,NYSE,VICI
-VIDA,VIDA Global Inc. Class A Common Stock,NYSE MKT,VIDA
 VIK,Viking Holdings Ltd Ordinary Shares,NYSE,VIK
 VIPS,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",NYSE,VIPS
 VIRT,"Virtu Financial, Inc. Class A Common Stock",NYSE,VIRT
