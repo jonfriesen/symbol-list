@@ -1,132 +1,120 @@
 {
  "added": [
   {
-   "symbol": "AUC",
-   "name": "ATIF Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AUC"
+   "symbol": "NPV",
+   "name": "Next Phase Ventures Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NPV.V",
+   "instruments": [
+    {
+     "name": "Next Phase Ventures Ltd.",
+     "symbol": "NPV"
+    }
+   ]
   },
   {
-   "symbol": "DUKR",
-   "name": "DUKE Robotics Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DUKR"
+   "symbol": "DUIG",
+   "name": "Desjardins US Investment Grade Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DUIG.TO",
+   "instruments": [
+    {
+     "name": "Dej US InvGr C B I E",
+     "symbol": "DUIG"
+    }
+   ]
   },
   {
-   "symbol": "DUKRW",
-   "name": "DUKE Robotics Corp. - Warrant",
+   "symbol": "AIIR",
+   "name": "Air Global PLC - Ordinary shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DUKRW"
+   "yahoo_symbol": "AIIR"
   },
   {
-   "symbol": "EXYN",
-   "name": "Exyn Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EXYN"
-  },
-  {
-   "symbol": "EXYNW",
-   "name": "Exyn Technologies, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EXYNW"
-  },
-  {
-   "symbol": "GUACU",
-   "name": "Berto Acquisition Corp. II - Units",
+   "symbol": "FMAC",
+   "name": "Future Money Acquisition Corporation - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GUACU"
+   "yahoo_symbol": "FMAC"
   },
   {
-   "symbol": "IDACU",
-   "name": "Iron Dome Acquisition I Corp. - Units",
+   "symbol": "FMACR",
+   "name": "Future Money Acquisition Corporation - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IDACU"
+   "yahoo_symbol": "FMACR"
   },
   {
-   "symbol": "MYX",
-   "name": "Maywood Acquisition Corp. 2 - Class A Ordinary Share",
+   "symbol": "IPFX",
+   "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYX"
+   "yahoo_symbol": "IPFX"
   },
   {
-   "symbol": "MYXXR",
-   "name": "Maywood Acquisition Corp. 2 - Rights",
+   "symbol": "IPFXW",
+   "name": "Inflection Point Acquisition Corp. VI - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYXXR"
+   "yahoo_symbol": "IPFXW"
   },
   {
-   "symbol": "MYXXW",
-   "name": "Maywood Acquisition Corp. 2 - Warrants",
+   "symbol": "LEND",
+   "name": "SEI High Yield Bond \u0026 Alternative Credit ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYXXW"
+   "yahoo_symbol": "LEND"
   },
   {
-   "symbol": "PTACU",
-   "name": "Patriot Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PTACU"
+   "symbol": "KWY",
+   "name": "Kingsway Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KWY"
   },
   {
-   "symbol": "PUSA",
-   "name": "Aureus Greenway Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PUSA"
+   "symbol": "TYG.V",
+   "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TYG.V"
   },
   {
-   "symbol": "UZX",
-   "name": "Linkage Global Inc - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UZX"
+   "symbol": "VECA",
+   "name": "Vernal Capital Acquisition Corp. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VECA"
   },
   {
-   "symbol": "XMAX",
-   "name": "XMAX, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XMAX"
+   "symbol": "VECA.R",
+   "name": "Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VECA.R"
   }
  ],
  "removed": [
   {
-   "symbol": "FCO",
-   "name": "abrdn Global Income Fund, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "FCO"
-  },
-  {
-   "symbol": "FORA",
-   "name": "Forian Inc. - Common Stock",
+   "symbol": "DTSTW",
+   "name": "Data Storage Corporation - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FORA"
+   "yahoo_symbol": "DTSTW"
   },
   {
-   "symbol": "XWIN",
-   "name": "XMAX, Inc. - Common Stock",
+   "symbol": "HEMP",
+   "name": "Hempalta Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HEMP.V",
+   "instruments": [
+    {
+     "name": "Hempalta Corp.",
+     "symbol": "HEMP"
+    }
+   ]
+  },
+  {
+   "symbol": "KFS",
+   "name": "Kingsway Financial Services, Inc. Common Stock (DE)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KFS"
+  },
+  {
+   "symbol": "SLNO",
+   "name": "Soleno Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XWIN"
-  },
-  {
-   "symbol": "CAEP",
-   "name": "Cantor Equity Partners III, Inc. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAEP"
-  },
-  {
-   "symbol": "AGH",
-   "name": "Aureus Greenway Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AGH"
-  },
-  {
-   "symbol": "LGCB",
-   "name": "Linkage Global Inc - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LGCB"
-  },
-  {
-   "symbol": "ZBAI",
-   "name": "ATIF Holdings Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZBAI"
+   "yahoo_symbol": "SLNO"
   }
  ]
 }
