@@ -1,120 +1,114 @@
 {
  "added": [
   {
-   "symbol": "NPV",
-   "name": "Next Phase Ventures Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NPV.V",
-   "instruments": [
-    {
-     "name": "Next Phase Ventures Ltd.",
-     "symbol": "NPV"
-    }
-   ]
-  },
-  {
-   "symbol": "DUIG",
-   "name": "Desjardins US Investment Grade Corporate Bond Index ETF",
+   "symbol": "FFAB",
+   "name": "Fidelity Alternative Bond Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "DUIG.TO",
+   "yahoo_symbol": "FFAB.TO",
    "instruments": [
     {
-     "name": "Dej US InvGr C B I E",
-     "symbol": "DUIG"
+     "name": "Fidelity Alt Bond F",
+     "symbol": "FFAB"
     }
    ]
   },
   {
-   "symbol": "AIIR",
-   "name": "Air Global PLC - Ordinary shares",
+   "symbol": "FEMO",
+   "name": "Fidelity Emerging Markets Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FEMO.TO",
+   "instruments": [
+    {
+     "name": "Fidelity EM Opp Fd",
+     "symbol": "FEMO"
+    }
+   ]
+  },
+  {
+   "symbol": "FGCV",
+   "name": "Fidelity Global Concentrated Value Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGCV.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Gbl Con Val",
+     "symbol": "FGCV"
+    }
+   ]
+  },
+  {
+   "symbol": "FMAB",
+   "name": "Fidelity Multi-Alt Balanced Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMAB.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Mlti-Alt BF",
+     "symbol": "FMAB"
+    }
+   ]
+  },
+  {
+   "symbol": "LCLN",
+   "name": "Lincoln International, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LCLN"
+  },
+  {
+   "symbol": "AHD",
+   "name": "GraniteShares Autocallable HOOD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AHD"
+  },
+  {
+   "symbol": "AMAN",
+   "name": "Amanat Acquisition Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AIIR"
+   "yahoo_symbol": "AMAN"
   },
   {
-   "symbol": "FMAC",
-   "name": "Future Money Acquisition Corporation - Ordinary Shares",
+   "symbol": "HIS",
+   "name": "Humilis US Focused Opportunities ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FMAC"
+   "yahoo_symbol": "HIS"
   },
   {
-   "symbol": "FMACR",
-   "name": "Future Money Acquisition Corporation - Rights",
+   "symbol": "PLA",
+   "name": "GraniteShares Autocallable PLTR ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FMACR"
+   "yahoo_symbol": "PLA"
   },
   {
-   "symbol": "IPFX",
-   "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPFX"
+   "symbol": "QTEX",
+   "name": "QTREX Quantum Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTEX"
   },
   {
-   "symbol": "IPFXW",
-   "name": "Inflection Point Acquisition Corp. VI - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPFXW"
-  },
-  {
-   "symbol": "LEND",
-   "name": "SEI High Yield Bond \u0026 Alternative Credit ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LEND"
-  },
-  {
-   "symbol": "KWY",
-   "name": "Kingsway Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KWY"
-  },
-  {
-   "symbol": "TYG.V",
-   "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TYG.V"
-  },
-  {
-   "symbol": "VECA",
-   "name": "Vernal Capital Acquisition Corp. Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VECA"
-  },
-  {
-   "symbol": "VECA.R",
-   "name": "Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VECA.R"
+   "symbol": "QTEXW",
+   "name": "QTREX Quantum Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTEXW"
   }
  ],
  "removed": [
   {
-   "symbol": "DTSTW",
-   "name": "Data Storage Corporation - Warrant",
+   "symbol": "IINN",
+   "name": "Inspira Technologies Oxy B.H.N. Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DTSTW"
+   "yahoo_symbol": "IINN"
   },
   {
-   "symbol": "HEMP",
-   "name": "Hempalta Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HEMP.V",
-   "instruments": [
-    {
-     "name": "Hempalta Corp.",
-     "symbol": "HEMP"
-    }
-   ]
-  },
-  {
-   "symbol": "KFS",
-   "name": "Kingsway Financial Services, Inc. Common Stock (DE)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KFS"
-  },
-  {
-   "symbol": "SLNO",
-   "name": "Soleno Therapeutics, Inc. - Common Stock",
+   "symbol": "IINNW",
+   "name": "Inspira Technologies Oxy B.H.N. Ltd. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLNO"
+   "yahoo_symbol": "IINNW"
+  },
+  {
+   "symbol": "MCW",
+   "name": "Mister Car Wash, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MCW"
   }
  ]
 }
