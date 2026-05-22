@@ -1,5 +1,5 @@
 {
- "date": "2026-05-21",
+ "date": "2026-05-22",
  "data": [
   {
    "symbol": "ONE",
@@ -47622,6 +47622,12 @@
    "yahoo_symbol": "AGM$H"
   },
   {
+   "symbol": "AGM$I",
+   "name": "Federal Agricultural Mortgage Corporation 6.875% Non-Cumulative Preferred Stock, Series I",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGM$I"
+  },
+  {
    "symbol": "AGM.A",
    "name": "Federal Agricultural Mortgage Corporation Common Stock",
    "exchange": "NYSE",
@@ -52669,31 +52675,31 @@
   },
   {
    "symbol": "ECC",
-   "name": "Eagle Point Credit Company Inc. Common Stock",
+   "name": "Eagle Point Credit Company Common Share of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "ECC"
   },
   {
    "symbol": "ECC$D",
-   "name": "Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock",
+   "name": "Eagle Point Credit Company 6.75% Series D Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ECC$D"
   },
   {
    "symbol": "ECCC",
-   "name": "Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031",
+   "name": "Eagle Point Credit Company 6.50% Series C Term Preferred Stock due 2031",
    "exchange": "NYSE",
    "yahoo_symbol": "ECCC"
   },
   {
    "symbol": "ECCU",
-   "name": "Eagle Point Credit Company Inc. 7.75% Notes due 2030",
+   "name": "Eagle Point Credit Company 7.75% Notes due 2030",
    "exchange": "NYSE",
    "yahoo_symbol": "ECCU"
   },
   {
    "symbol": "ECCV",
-   "name": "Eagle Point Credit Company Inc. 5.375% Notes due 2029",
+   "name": "Eagle Point Credit Company 5.375% Notes due 2029",
    "exchange": "NYSE",
    "yahoo_symbol": "ECCV"
   },
@@ -62214,10 +62220,28 @@
    "yahoo_symbol": "SAFE"
   },
   {
+   "symbol": "SAGU",
+   "name": "Shreya Acquisition Group Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAGU"
+  },
+  {
+   "symbol": "SAGU.R",
+   "name": "Shreya Acquisition Group Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAGU.R"
+  },
+  {
    "symbol": "SAGU.U",
    "name": "Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one-fourth of one Class A Ordinary Share",
    "exchange": "NYSE",
    "yahoo_symbol": "SAGU.U"
+  },
+  {
+   "symbol": "SAGU.W",
+   "name": "Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAGU.W"
   },
   {
    "symbol": "SAH",
@@ -68322,6 +68346,12 @@
    "yahoo_symbol": "APRE"
   },
   {
+   "symbol": "APURU",
+   "name": "Aperture AC - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APURU"
+  },
+  {
    "symbol": "APVO",
    "name": "Aptevo Therapeutics Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -72900,6 +72930,12 @@
    "yahoo_symbol": "CNXN"
   },
   {
+   "symbol": "CNXU",
+   "name": "Conexeu Sciences Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNXU"
+  },
+  {
    "symbol": "COAG",
    "name": "Hemab Therapeutics Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -74497,7 +74533,7 @@
   },
   {
    "symbol": "DMRC",
-   "name": "Digimarc Parent, Inc. - Common Stock",
+   "name": "Digimarc Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "DMRC"
   },
@@ -75588,6 +75624,12 @@
    "yahoo_symbol": "EMPG"
   },
   {
+   "symbol": "EMSC",
+   "name": "Sophus Capital Emerging Market Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMSC"
+  },
+  {
    "symbol": "EMXC",
    "name": "iShares MSCI Emerging Markets ex China ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -76384,6 +76426,12 @@
    "name": "Falcon's Beyond Global, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FBYD"
+  },
+  {
+   "symbol": "FBYDP",
+   "name": "Falcon's Beyond Global, Inc. - 11% Series B Cumulative Convertible Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBYDP"
   },
   {
    "symbol": "FBYDW",
@@ -78334,6 +78382,12 @@
    "name": "GIBO Holdings Limited - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GIBOW"
+  },
+  {
+   "symbol": "GIEQ",
+   "name": "Goldman Sachs Data Enhanced International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIEQ"
   },
   {
    "symbol": "GIFT",
@@ -87306,6 +87360,12 @@
    "yahoo_symbol": "OCSL"
   },
   {
+   "symbol": "OCTVV",
+   "name": "Octave Intelligence plc - Class B Ordinary Shares When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OCTVV"
+  },
+  {
    "symbol": "OCUL",
    "name": "Ocular Therapeutix, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -87400,6 +87460,12 @@
    "name": "Organigram Global Inc. - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OGI"
+  },
+  {
+   "symbol": "OHACU",
+   "name": "Oceanhawk Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OHACU"
   },
   {
    "symbol": "OIM",
