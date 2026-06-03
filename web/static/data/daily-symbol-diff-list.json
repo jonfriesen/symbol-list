@@ -1,96 +1,92 @@
 {
  "added": [
   {
-   "symbol": "FROG",
-   "name": "Bullfrog Gold Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FROG.V",
-   "instruments": [
-    {
-     "name": "Bullfrog Gold Corporation",
-     "symbol": "FROG"
-    }
-   ]
-  },
-  {
-   "symbol": "DGGB",
-   "name": "Desjardins Global Government Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DGGB.TO",
-   "instruments": [
-    {
-     "name": "Desj Glb Gov Bnd Ind",
-     "symbol": "DGGB"
-    }
-   ]
-  },
-  {
-   "symbol": "BGCG",
-   "name": "Baillie Gifford International Concentrated Growth ETF",
+   "symbol": "KEYYU",
+   "name": "Keystone Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BGCG"
+   "yahoo_symbol": "KEYYU"
   },
   {
-   "symbol": "BGGG",
-   "name": "Baillie Gifford Long Term Global Growth ETF",
+   "symbol": "PBK",
+   "name": "PowerBank Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BGGG"
+   "yahoo_symbol": "PBK"
   },
   {
-   "symbol": "NVRI",
-   "name": "Enviri Corporation Common Stock",
+   "symbol": "AADX",
+   "name": "Applied Aerospace \u0026 Defense, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "NVRI"
+   "yahoo_symbol": "AADX"
   },
   {
-   "symbol": "VSXY",
-   "name": "Victorias Secret \u0026 Co. Common Stock ",
+   "symbol": "LGL.V",
+   "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGL.V"
+  },
+  {
+   "symbol": "PFLA",
+   "name": "PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031",
    "exchange": "NYSE",
-   "yahoo_symbol": "VSXY"
+   "yahoo_symbol": "PFLA"
   }
  ],
  "removed": [
   {
-   "symbol": "ABVEW",
-   "name": "Above Food Ingredients Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ABVEW"
+   "symbol": "NXPLW",
+   "name": "NextPlat Corp - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXPLW"
   },
   {
-   "symbol": "NVRI.V",
-   "name": "Enviri Corporation Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NVRI.V"
-  },
-  {
-   "symbol": "FFIC",
-   "name": "Flushing Financial Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FFIC"
-  },
-  {
-   "symbol": "AGT",
-   "name": "Applied Graphite Technologies Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AGT.V",
+   "symbol": "RPR.DB.A",
+   "name": "Ravelin Properties REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPR.DB.A.TO",
    "instruments": [
     {
-     "name": "Applied Graphite Technologies Corporation",
-     "symbol": "AGT"
+     "name": "Ravelin ProREIT Db A",
+     "symbol": "RPR.DB.A"
+    },
+    {
+     "name": "Ravelin ProREIT Db B",
+     "symbol": "RPR.DB.B"
+    },
+    {
+     "name": "Ravelin Prop REIT Un",
+     "symbol": "RPR.UN"
     }
    ]
   },
   {
-   "symbol": "ABVE",
-   "name": "Above Food Ingredients Inc. - Common Stock",
+   "symbol": "SUUN",
+   "name": "PowerBank Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ABVE"
+   "yahoo_symbol": "SUUN"
   },
   {
-   "symbol": "VSCO",
-   "name": "Victorias Secret \u0026 Co. Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VSCO"
+   "symbol": "CBIT",
+   "name": "Cathedra Bitcoin Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CBIT.V",
+   "instruments": [
+    {
+     "name": "Cathedra Bitcoin Inc.",
+     "symbol": "CBIT"
+    }
+   ]
+  },
+  {
+   "symbol": "WNDR",
+   "name": "WonderFi Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "WNDR.TO",
+   "instruments": [
+    {
+     "name": "WonderFi Tech J",
+     "symbol": "WNDR"
+    }
+   ]
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-06-02",
+ "date": "2026-06-03",
  "data": [
   {
    "symbol": "ONE",
@@ -3218,18 +3218,6 @@
     {
      "name": "Castlecap Capital Inc.",
      "symbol": "CSTL.P"
-    }
-   ]
-  },
-  {
-   "symbol": "CBIT",
-   "name": "Cathedra Bitcoin Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CBIT.V",
-   "instruments": [
-    {
-     "name": "Cathedra Bitcoin Inc.",
-     "symbol": "CBIT"
     }
    ]
   },
@@ -42022,26 +42010,6 @@
    ]
   },
   {
-   "symbol": "RPR.DB.A",
-   "name": "Ravelin Properties REIT",
-   "exchange": "TSX",
-   "yahoo_symbol": "RPR.DB.A.TO",
-   "instruments": [
-    {
-     "name": "Ravelin ProREIT Db A",
-     "symbol": "RPR.DB.A"
-    },
-    {
-     "name": "Ravelin ProREIT Db B",
-     "symbol": "RPR.DB.B"
-    },
-    {
-     "name": "Ravelin Prop REIT Un",
-     "symbol": "RPR.UN"
-    }
-   ]
-  },
-  {
    "symbol": "RAV.UN",
    "name": "Ravensource Fund",
    "exchange": "TSX",
@@ -47166,18 +47134,6 @@
     {
      "name": "Winpak Limited",
      "symbol": "WPK"
-    }
-   ]
-  },
-  {
-   "symbol": "WNDR",
-   "name": "WonderFi Technologies Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "WNDR.TO",
-   "instruments": [
-    {
-     "name": "WonderFi Tech J",
-     "symbol": "WNDR"
     }
    ]
   },
@@ -63362,6 +63318,12 @@
    "yahoo_symbol": "KEQU"
   },
   {
+   "symbol": "KEYYU",
+   "name": "Keystone Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEYYU"
+  },
+  {
    "symbol": "KFFB",
    "name": "Kentucky First Federal Bancorp - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -63411,13 +63373,13 @@
   },
   {
    "symbol": "KIDZ",
-   "name": "Classover Holdings, Inc. - Class B Common Stock",
+   "name": "KIDZ AI Inc. - Class B Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KIDZ"
   },
   {
    "symbol": "KIDZW",
-   "name": "Classover Holdings, Inc. - Warrants",
+   "name": "KIDZ AI Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KIDZW"
   },
@@ -68186,12 +68148,6 @@
    "yahoo_symbol": "NXPL"
   },
   {
-   "symbol": "NXPLW",
-   "name": "NextPlat Corp - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NXPLW"
-  },
-  {
    "symbol": "NXST",
    "name": "Nexstar Media Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69474,6 +69430,12 @@
    "name": "Pathfinder Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PBHC"
+  },
+  {
+   "symbol": "PBK",
+   "name": "PowerBank Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBK"
   },
   {
    "symbol": "PBM",
@@ -75200,12 +75162,6 @@
    "yahoo_symbol": "SUSL"
   },
   {
-   "symbol": "SUUN",
-   "name": "PowerBank Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SUUN"
-  },
-  {
    "symbol": "SVA",
    "name": "Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -80124,6 +80080,12 @@
    "name": "Alcoa Corporation Common Stock ",
    "exchange": "NYSE",
    "yahoo_symbol": "AA"
+  },
+  {
+   "symbol": "AADX",
+   "name": "Applied Aerospace \u0026 Defense, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AADX"
   },
   {
    "symbol": "AAMI",
@@ -90290,6 +90252,12 @@
    "yahoo_symbol": "LGL"
   },
   {
+   "symbol": "LGL.V",
+   "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGL.V"
+  },
+  {
    "symbol": "LGPS",
    "name": "LogProstyle Inc. Common Shares",
    "exchange": "NYSE MKT",
@@ -93546,6 +93514,12 @@
    "name": "PIMCO Income Strategy Fund Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "PFL"
+  },
+  {
+   "symbol": "PFLA",
+   "name": "PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PFLA"
   },
   {
    "symbol": "PFLT",
