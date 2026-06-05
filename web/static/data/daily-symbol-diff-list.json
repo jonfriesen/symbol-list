@@ -1,96 +1,120 @@
 {
  "added": [
   {
-   "symbol": "AESPU",
-   "name": "Aeon Acquisition I Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AESPU"
+   "symbol": "JAY",
+   "name": "Blue Jay Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JAY.V",
+   "instruments": [
+    {
+     "name": "Blue Jay Gold Corp.",
+     "symbol": "JAY"
+    }
+   ]
   },
   {
-   "symbol": "APMCU",
-   "name": "AmperCap Acquisition Company - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "APMCU"
+   "symbol": "CSX",
+   "name": "Clean Seed Capital Group Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSX.V",
+   "instruments": [
+    {
+     "name": "Clean Seed Capital Group Ltd.",
+     "symbol": "CSX"
+    }
+   ]
   },
   {
-   "symbol": "BGEG",
-   "name": "Baillie Gifford Emerging Markets ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BGEG"
+   "symbol": "VGC",
+   "name": "Valor Gold Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VGC.TO",
+   "instruments": [
+    {
+     "name": "Valor Gold Corp",
+     "symbol": "VGC"
+    }
+   ]
   },
   {
-   "symbol": "BGIA",
-   "name": "Baillie Gifford International Alpha ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BGIA"
+   "symbol": "FTRA.U",
+   "name": "FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTRA.U"
   },
   {
-   "symbol": "HYPG",
-   "name": "Grayscale Hyperliquid Staking ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HYPG"
+   "symbol": "AZI",
+   "name": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZI"
   },
   {
-   "symbol": "PPLI",
-   "name": "People Incorporated - Common Stock",
+   "symbol": "INIO",
+   "name": "INNIO N.V. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PPLI"
+   "yahoo_symbol": "INIO"
   },
   {
-   "symbol": "TRUI",
-   "name": "VanEck Industrials TruSector ETF",
+   "symbol": "IPVVU",
+   "name": "InterPrivate Investment Partners V, Inc. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRUI"
+   "yahoo_symbol": "IPVVU"
   },
   {
-   "symbol": "TRUO",
-   "name": "VanEck Consumer Staples TruSector ETF",
+   "symbol": "LFTO",
+   "name": "Liftoff Mobile, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LFTO"
+  },
+  {
+   "symbol": "LTGRU",
+   "name": "Long Table Growth Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRUO"
+   "yahoo_symbol": "LTGRU"
   },
   {
-   "symbol": "ETSS",
-   "name": "Energy Transition Special Opportunities Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ETSS"
+   "symbol": "PECE",
+   "name": "Peace Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PECE"
   },
   {
-   "symbol": "ETSS.W",
-   "name": "Energy Transition Special Opportunities Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ETSS.W"
+   "symbol": "PECER",
+   "name": "Peace Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PECER"
   },
   {
-   "symbol": "SSMR",
-   "name": "Sunshine Silver Mining \u0026 Refining Company Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SSMR"
+   "symbol": "PECEW",
+   "name": "Peace Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PECEW"
+  },
+  {
+   "symbol": "QNT",
+   "name": "Quantinuum Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QNT"
   }
  ],
  "removed": [
   {
-   "symbol": "IAC",
-   "name": "IAC Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IAC"
+   "symbol": "CTX",
+   "name": "Crescita Therapeutics Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTX.TO",
+   "instruments": [
+    {
+     "name": "Crescita Therpeutc J",
+     "symbol": "CTX"
+    }
+   ]
   },
   {
-   "symbol": "NVA",
-   "name": "Nova Minerals Limited - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVA"
-  },
-  {
-   "symbol": "NVAWW",
-   "name": "Nova Minerals Limited - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVAWW"
-  },
-  {
-   "symbol": "FONR",
-   "name": "Fonar Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FONR"
+   "symbol": "AZI",
+   "name": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AZI"
   }
  ]
 }
