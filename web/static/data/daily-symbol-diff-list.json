@@ -1,120 +1,174 @@
 {
  "added": [
   {
-   "symbol": "JAY",
-   "name": "Blue Jay Gold Corp.",
+   "symbol": "LGL.R",
+   "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGL.R"
+  },
+  {
+   "symbol": "TALA",
+   "name": "Talamore Mining Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "JAY.V",
+   "yahoo_symbol": "TALA.V",
    "instruments": [
     {
-     "name": "Blue Jay Gold Corp.",
-     "symbol": "JAY"
+     "name": "Talamore Mining Corp.",
+     "symbol": "TALA"
     }
    ]
   },
   {
-   "symbol": "CSX",
-   "name": "Clean Seed Capital Group Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CSX.V",
-   "instruments": [
-    {
-     "name": "Clean Seed Capital Group Ltd.",
-     "symbol": "CSX"
-    }
-   ]
-  },
-  {
-   "symbol": "VGC",
-   "name": "Valor Gold Corp.",
+   "symbol": "LUNR",
+   "name": "LunR Royalties Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "VGC.TO",
+   "yahoo_symbol": "LUNR.TO",
    "instruments": [
     {
-     "name": "Valor Gold Corp",
-     "symbol": "VGC"
+     "name": "LunR Royalties Corp",
+     "symbol": "LUNR"
     }
    ]
   },
   {
-   "symbol": "FTRA.U",
-   "name": "FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FTRA.U"
+   "symbol": "AQLG",
+   "name": "HCM Large Cap Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AQLG"
   },
   {
-   "symbol": "AZI",
-   "name": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares",
+   "symbol": "BSIN",
+   "name": "Big Sky Industrial Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AZI"
+   "yahoo_symbol": "BSIN"
   },
   {
-   "symbol": "INIO",
-   "name": "INNIO N.V. - Ordinary Shares",
+   "symbol": "FAC",
+   "name": "Factorial Energy Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAC"
+  },
+  {
+   "symbol": "FACWW",
+   "name": "Factorial Energy Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FACWW"
+  },
+  {
+   "symbol": "GOOGM",
+   "name": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "INIO"
+   "yahoo_symbol": "GOOGM"
   },
   {
-   "symbol": "IPVVU",
-   "name": "InterPrivate Investment Partners V, Inc. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPVVU"
-  },
-  {
-   "symbol": "LFTO",
-   "name": "Liftoff Mobile, Inc. - Common Stock",
+   "symbol": "GOOGN",
+   "name": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LFTO"
+   "yahoo_symbol": "GOOGN"
   },
   {
-   "symbol": "LTGRU",
-   "name": "Long Table Growth Corp. - Units",
+   "symbol": "NHIV",
+   "name": "NewHold Investment Corp IV - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LTGRU"
+   "yahoo_symbol": "NHIV"
   },
   {
-   "symbol": "PECE",
-   "name": "Peace Acquisition Corp - Ordinary Shares",
+   "symbol": "OHAC",
+   "name": "Oceanhawk Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PECE"
+   "yahoo_symbol": "OHAC"
   },
   {
-   "symbol": "PECER",
-   "name": "Peace Acquisition Corp - Right",
+   "symbol": "OHACR",
+   "name": "Oceanhawk Acquisition Corp. - Rights",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PECER"
-  },
-  {
-   "symbol": "PECEW",
-   "name": "Peace Acquisition Corp - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PECEW"
-  },
-  {
-   "symbol": "QNT",
-   "name": "Quantinuum Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QNT"
+   "yahoo_symbol": "OHACR"
   }
  ],
  "removed": [
   {
-   "symbol": "CTX",
-   "name": "Crescita Therapeutics Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "CTX.TO",
+   "symbol": "CGCT",
+   "name": "Cartesian Growth Corporation III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGCT"
+  },
+  {
+   "symbol": "CXH",
+   "name": "MFS Investment Grade Municipal Trust Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXH"
+  },
+  {
+   "symbol": "CMU",
+   "name": "MFS Municipal Income Trust Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMU"
+  },
+  {
+   "symbol": "LGL.V",
+   "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGL.V"
+  },
+  {
+   "symbol": "SELX",
+   "name": "Semilux International Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SELX"
+  },
+  {
+   "symbol": "LUNR",
+   "name": "LunR Royalties Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LUNR.V",
    "instruments": [
     {
-     "name": "Crescita Therpeutc J",
-     "symbol": "CTX"
+     "name": "LunR Royalties Corp.",
+     "symbol": "LUNR"
     }
    ]
   },
   {
-   "symbol": "AZI",
-   "name": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares",
+   "symbol": "CGCTW",
+   "name": "Cartesian Growth Corporation III - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AZI"
+   "yahoo_symbol": "CGCTW"
+  },
+  {
+   "symbol": "AXIA$",
+   "name": "AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA$"
+  },
+  {
+   "symbol": "USEG",
+   "name": "U.S. Energy Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "USEG"
+  },
+  {
+   "symbol": "CXE",
+   "name": "MFS High Income Municipal Trust Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXE"
+  },
+  {
+   "symbol": "FMT",
+   "name": "Fuerte Metals Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FMT.V",
+   "instruments": [
+    {
+     "name": "Fuerte Metals Corporation",
+     "symbol": "FMT"
+    }
+   ]
+  },
+  {
+   "symbol": "CGCTU",
+   "name": "Cartesian Growth Corporation III - unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGCTU"
   }
  ]
 }
