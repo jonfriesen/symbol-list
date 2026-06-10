@@ -1,48 +1,114 @@
 {
  "added": [
   {
-   "symbol": "FRTT",
-   "name": "Fort Technology Inc. - Common Shares",
+   "symbol": "ALZI",
+   "name": "Alzai Health Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALZI.V",
+   "instruments": [
+    {
+     "name": "Alzai Health Corp.",
+     "symbol": "ALZI"
+    }
+   ]
+  },
+  {
+   "symbol": "APTX",
+   "name": "Apotex Health Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "APTX.TO",
+   "instruments": [
+    {
+     "name": "Apotex Health Corp",
+     "symbol": "APTX"
+    }
+   ]
+  },
+  {
+   "symbol": "EROC",
+   "name": "ERock, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EROC"
+  },
+  {
+   "symbol": "TRLV",
+   "name": "Trulieve Cannabis Corp. Subordinate Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRLV"
+  },
+  {
+   "symbol": "AIBZ",
+   "name": "Bitzero Holdings Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRTT"
+   "yahoo_symbol": "AIBZ"
   },
   {
-   "symbol": "NHIVW",
-   "name": "NewHold Investment Corp IV - Warrants",
+   "symbol": "ELOX",
+   "name": "Eloxx Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELOX"
+  },
+  {
+   "symbol": "GEQ",
+   "name": "Cambria Global EW 2 ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NHIVW"
+   "yahoo_symbol": "GEQ"
   },
   {
-   "symbol": "OCAC.U",
-   "name": "Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OCAC.U"
-  },
-  {
-   "symbol": "WHK",
-   "name": "WhiteHawk Minerals Corp Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WHK"
+   "symbol": "ISNRU",
+   "name": "Snow Rothschild Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISNRU"
   }
  ],
  "removed": [
   {
-   "symbol": "BU",
-   "name": "Defiance Daily Target 2X Long BU ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BU"
+   "symbol": "LEGT.W",
+   "name": "Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT.W"
   },
   {
-   "symbol": "KPLTW",
-   "name": "Katapult Holdings, Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KPLTW"
+   "symbol": "LEGT",
+   "name": "Legato Merger Corp. III Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT"
   },
   {
-   "symbol": "CVNX",
-   "name": "Defiance Daily Target 2X Long CVNA ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CVNX"
+   "symbol": "RV",
+   "name": "Pathfinder Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RV.V",
+   "instruments": [
+    {
+     "name": "Pathfinder Ventures Inc.",
+     "symbol": "RV"
+    }
+   ]
+  },
+  {
+   "symbol": "LEGT.U",
+   "name": "Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT.U"
+  },
+  {
+   "symbol": "APURU",
+   "name": "Aperture AC - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APURU"
+  },
+  {
+   "symbol": "VVC",
+   "name": "VVC Exploration Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VVC.V",
+   "instruments": [
+    {
+     "name": "VVC Exploration Corporation",
+     "symbol": "VVC"
+    }
+   ]
   }
  ]
 }
