@@ -344,7 +344,7 @@ CCMM,Coyote Copper Mines Inc.,TSXV,CCMM.V,Coyote Copper Mines Inc.,CCMM
 CEQ,Criterium Energy Ltd.,TSXV,CEQ.V,Criterium Energy Ltd.,CEQ
 CRE,Critical Elements Lithium Corporation,TSXV,CRE.V,Critical Elements Lithium Corporation,CRE
 CRG,Crossroads Gold Corp.,TSXV,CRG.V,Crossroads Gold Corp.,CRG
-CWV,Crown Point Energy Inc.,TSXV,CWV.V,Crown Point Energy Inc.,CWV
+CWV,Crown Point Energy Inc.,TSXV,CWV.V,Crown Point Energy Inc.,CWV,Crown Point Energy Inc. Rt 13Jul2026,CWV.RT
 CSTR,Cryptostar Corp.,TSXV,CSTR.V,Cryptostar Corp.,CSTR
 CLCO,Culico Metals Inc.,TSXV,CLCO.V,Culico Metals Inc.,CLCO
 CVW,CVW Sustainable Royalties Inc.,TSXV,CVW.V,CVW Sustainable Royalties Inc.,CVW
@@ -615,7 +615,6 @@ HSTR,Heliostar Metals Ltd.,TSXV,HSTR.V,Heliostar Metals Ltd.,HSTR
 HEVI,Helium Evolution Incorporated,TSXV,HEVI.V,Helium Evolution Incorporated,HEVI
 HHH,Helius Minerals Limited,TSXV,HHH.V,Helius Minerals Limited,HHH
 HME,Hemisphere Energy Corporation,TSXV,HME.V,Hemisphere Energy Corporation,HME
-HMMC,Hemlo Mining Corp.,TSXV,HMMC.V,Hemlo Mining Corp.,HMMC
 HEM,Hemostemix Inc.,TSXV,HEM.V,Hemostemix Inc.,HEM
 BIG,Hercules Metals Corp.,TSXV,BIG.V,Hercules Metals Corp.,BIG
 HOH,High Arctic Overseas Holdings Corp.,TSXV,HOH.V,High Arctic Overseas Holdings Corp.,HOH
@@ -2574,6 +2573,7 @@ HGR,Harvest REIT Leaders Income ETF,TSX,HGR.TO,HarvestGlblREITLdr A,HGR
 HODY,Harvest Robinhood Enhanced High Income Shares ETF,TSX,HODY.TO,Harv Rbnh EnH H In E,HODY
 SHPE,Harvest Shopify Enhanced High Income Shares ETF,TSX,SHPE.TO,Hrv Shp Enh HiSh ETF,SHPE
 SOFY,Harvest SoFi Enhanced High Income Shares ETF,TSX,SOFY.TO,Harv SoFi En H I S E,SOFY
+SPXE,Harvest SpaceX Enhanced High Income Shares ETF,TSX,SPXE.TO,Harv SpaceX Enh Hi I,SPXE
 MSTE,Harvest Strategy Inc. Enhanced High Income Shares ETF,TSX,MSTE.TO,Harv St In Enh H I S,MSTE
 MSTY,Harvest Strategy Inc. High Income Shares ETF,TSX,MSTY.TO,Harvest Srat HIS ETF,MSTY
 SUHE,Harvest Suncor Enhanced High Income Shares ETF,TSX,SUHE.TO,Hrv Sun Enh HiSh ETF,SUHE
@@ -2592,6 +2592,7 @@ MDS.UN,Healthcare Special Opportunities Fund,TSX,MDS.UN.TO,Healthcare SpecOp Un,
 AIDX,HealWELL AI Inc.,TSX,AIDX.TO,HealWELL AI J SV A,AIDX
 HFPC.U,Helios Fairfax Partners Corporation,TSX,HFPC.U.TO,Helios Fairfax SV US,HFPC.U
 HBP,Helix BioPharma Corp.,TSX,HBP.TO,Helix BioPharma,HBP
+HMMC,Hemlo Mining Corp.,TSX,HMMC.TO,Hemlo Mining Corp,HMMC
 HRMS,Hermès CDR (CAD Hedged),TSX,HRMS.TO,Hermes CDR CAD Hedg,HRMS
 HWO,High Arctic Energy Services Inc.,TSX,HWO.TO,High Arctic Engy Inc,HWO
 HLF,High Liner Foods Incorporated,TSX,HLF.TO,High Liner Foods Inc,HLF
@@ -4915,6 +4916,7 @@ CSBR,"Champions Oncology, Inc. - Common Stock",NASDAQ Capital Market,CSBR
 CSCL,Direxion Daily CSCO Bull 2X ETF,NASDAQ Global MarketSM,CSCL
 CSCO,"Cisco Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,CSCO
 CSCS,Direxion Daily CSCO Bear 1X ETF,NASDAQ Global MarketSM,CSCS
+CSEN,Cohen & Steers Future of Energy Active ETF,NASDAQ Global MarketSM,CSEN
 CSGP,"CoStar Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,CSGP
 CSHR,CoinShares PLC - Ordinary Shares,NASDAQ Global Select MarketSM,CSHR
 CSHRW,CoinShares PLC - Warrants,NASDAQ Capital Market,CSHRW
@@ -5588,7 +5590,6 @@ FTA,First Trust Large Cap Value AlphaDEX Fund,NASDAQ Global MarketSM,FTA
 FTAG,First Trust Indxx Global Agriculture ETF,NASDAQ Global MarketSM,FTAG
 FTAI,FTAI Aviation Ltd. - Common Stock,NASDAQ Global Select MarketSM,FTAI
 FTAIM,FTAI Aviation Ltd. - 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares,NASDAQ Global Select MarketSM,FTAIM
-FTAIN,FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares,NASDAQ Global Select MarketSM,FTAIN
 FTC,First Trust Large Cap Growth AlphaDEX Fund,NASDAQ Global MarketSM,FTC
 FTCI,"FTC Solar, Inc. - Common Stock",NASDAQ Capital Market,FTCI
 FTCS,First Trust Capital Strength ETF,NASDAQ Global MarketSM,FTCS
@@ -5962,6 +5963,8 @@ HOFT,Hooker Furnishings Corporation - Common Stock,NASDAQ Global Select MarketSM
 HOLO,MicroCloud Hologram Inc. - Ordinary Shares,NASDAQ Capital Market,HOLO
 HOLOW,MicroCloud Hologram Inc. - Warrant,NASDAQ Capital Market,HOLOW
 HON,Honeywell International Inc. - Common Stock,NASDAQ Global Select MarketSM,HON
+HONAV,Honeywell Aerospace Inc. - Common Stock,NASDAQ Global Select MarketSM,HONAV
+HONIV,Honeywell International Inc. - Common Stock Ex Distribution When Issued,NASDAQ Global Select MarketSM,HONIV
 HOOD,"Robinhood Markets, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,HOOD
 HOOG,Leverage Shares 2X Long HOOD Daily ETF,NASDAQ Global MarketSM,HOOG
 HOOX,Defiance Daily Target 2X Long HOOD ETF,NASDAQ Global MarketSM,HOOX
@@ -5990,9 +5993,6 @@ HSCS,HeartSciences Inc. - Common Stock,NASDAQ Capital Market,HSCS
 HSCSW,HeartSciences Inc. - Warrant,NASDAQ Capital Market,HSCSW
 HSDT,Solana Company - Class A Common Stock,NASDAQ Capital Market,HSDT
 HSIC,"Henry Schein, Inc. - Common Stock",NASDAQ Global Select MarketSM,HSIC
-HSPT,Horizon Space Acquisition II Corp. - Ordinary share,NASDAQ Global MarketSM,HSPT
-HSPTR,Horizon Space Acquisition II Corp. - Right,NASDAQ Global MarketSM,HSPTR
-HSPTU,Horizon Space Acquisition II Corp. - Units,NASDAQ Global MarketSM,HSPTU
 HST,"Host Hotels & Resorts, Inc. - Common Stock",NASDAQ Global Select MarketSM,HST
 HSTM,"HealthStream, Inc. - Common Stock",NASDAQ Global Select MarketSM,HSTM
 HTCO,High-Trend International Group - Class A Ordinary Shares,NASDAQ Capital Market,HTCO
@@ -8147,6 +8147,7 @@ SKYW,"SkyWest, Inc. - Common Stock",NASDAQ Global Select MarketSM,SKYW
 SKYX,SKYX Platforms Corp. - Common Stock,NASDAQ Capital Market,SKYX
 SKYY,First Trust Cloud Computing ETF,NASDAQ Global MarketSM,SKYY
 SLAB,"Silicon Laboratories, Inc. - Common Stock",NASDAQ Global Select MarketSM,SLAB
+SLBT,SL Science Holding Limited - Ordinary Shares,NASDAQ Global MarketSM,SLBT
 SLDB,Solid Biosciences Inc. - Common Stock,NASDAQ Global Select MarketSM,SLDB
 SLDE,"Slide Insurance Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,SLDE
 SLDP,"Solid Power, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SLDP
@@ -8497,8 +8498,10 @@ THYP,21shares Hyperliquid ETF,NASDAQ Global MarketSM,THYP
 TIGO,Millicom International Cellular S.A. - Common Stock,NASDAQ Global Select MarketSM,TIGO
 TIGR,UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares,NASDAQ Global Select MarketSM,TIGR
 TIL,"Instil Bio, Inc. - Common Stock",NASDAQ Capital Market,TIL
+TILC,Thrivent International Large Cap ETF,NASDAQ Global MarketSM,TILC
 TILE,"Interface, Inc. - Common Stock",NASDAQ Global Select MarketSM,TILE
 TIPT,Tiptree Inc. - Common Stock,NASDAQ Capital Market,TIPT
+TISC,Thrivent International Small Cap ETF,NASDAQ Global MarketSM,TISC
 TITN,Titan Machinery Inc. - Common Stock,NASDAQ Global Select MarketSM,TITN
 TJGC,TJGC Group Limited - ordinary shares,NASDAQ Capital Market,TJGC
 TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",NASDAQ Capital Market,TKLF
@@ -10738,7 +10741,6 @@ JILL,"J. Jill, Inc. Common Stock",NYSE,JILL
 JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),NYSE,JKS
 JLL,Jones Lang LaSalle Incorporated Common Stock,NYSE,JLL
 JLS,Nuveen Mortgage and Income Fund,NYSE,JLS
-JMG,JM Group Limited Ordinary Shares,NYSE MKT,JMG
 JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",NYSE,JMIA
 JMM,Nuveen Multi-Market Income Fund (MA),NYSE,JMM
 JNJ,Johnson & Johnson Common Stock,NYSE,JNJ
@@ -11682,7 +11684,6 @@ RYAN,"Ryan Specialty Holdings, Inc. Class A Common Stock",NYSE,RYAN
 RYDE,Ryde Group Ltd. Class A Ordinary Shares,NYSE MKT,RYDE
 RYN,Rayonier Inc. REIT Common Stock,NYSE,RYN
 RYZ,Ryerson Holding Corporation Common Stock,NYSE,RYZ
-RZB,"Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",NYSE,RZB
 RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",NYSE,RZC
 S,"SentinelOne, Inc. Class A Common Stock",NYSE,S
 SA,"Seabridge Gold, Inc. Common Shares New",NYSE,SA
@@ -11937,7 +11938,6 @@ TBBB,BBB Foods Inc. Class A Common Shares,NYSE,TBBB
 TBI,"TrueBlue, Inc. Common Stock",NYSE,TBI
 TBN,Tamboran Resources Corporation Common stock,NYSE,TBN
 TCBX,"Third Coast Bancshares, Inc. Common Stock",NYSE,TCBX
-TCGL,TechCreate Group Ltd. Class A Ordinary Shares,NYSE MKT,TCGL
 TCI,"Transcontinental Realty Investors, Inc. Common Stock",NYSE,TCI
 TCPA,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085,NYSE,TCPA
 TD,Toronto Dominion Bank (The) Common Stock,NYSE,TD

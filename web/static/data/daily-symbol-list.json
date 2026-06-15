@@ -1,5 +1,5 @@
 {
- "date": "2026-06-12",
+ "date": "2026-06-15",
  "data": [
   {
    "symbol": "ONE",
@@ -4170,6 +4170,10 @@
     {
      "name": "Crown Point Energy Inc.",
      "symbol": "CWV"
+    },
+    {
+     "name": "Crown Point Energy Inc. Rt 13Jul2026",
+     "symbol": "CWV.RT"
     }
    ]
   },
@@ -7450,18 +7454,6 @@
     {
      "name": "Hemisphere Energy Corporation",
      "symbol": "HME"
-    }
-   ]
-  },
-  {
-   "symbol": "HMMC",
-   "name": "Hemlo Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HMMC.V",
-   "instruments": [
-    {
-     "name": "Hemlo Mining Corp.",
-     "symbol": "HMMC"
     }
    ]
   },
@@ -32922,6 +32914,18 @@
    ]
   },
   {
+   "symbol": "SPXE",
+   "name": "Harvest SpaceX Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPXE.TO",
+   "instruments": [
+    {
+     "name": "Harv SpaceX Enh Hi I",
+     "symbol": "SPXE"
+    }
+   ]
+  },
+  {
    "symbol": "MSTE",
    "name": "Harvest Strategy Inc. Enhanced High Income Shares ETF",
    "exchange": "TSX",
@@ -33158,6 +33162,18 @@
     {
      "name": "Helix BioPharma",
      "symbol": "HBP"
+    }
+   ]
+  },
+  {
+   "symbol": "HMMC",
+   "name": "Hemlo Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HMMC.TO",
+   "instruments": [
+    {
+     "name": "Hemlo Mining Corp",
+     "symbol": "HMMC"
     }
    ]
   },
@@ -54704,6 +54720,12 @@
    "yahoo_symbol": "CSCS"
   },
   {
+   "symbol": "CSEN",
+   "name": "Cohen \u0026 Steers Future of Energy Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSEN"
+  },
+  {
    "symbol": "CSGP",
    "name": "CoStar Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58742,12 +58764,6 @@
    "yahoo_symbol": "FTAIM"
   },
   {
-   "symbol": "FTAIN",
-   "name": "FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FTAIN"
-  },
-  {
    "symbol": "FTC",
    "name": "First Trust Large Cap Growth AlphaDEX Fund",
    "exchange": "NASDAQ Global MarketSM",
@@ -60986,6 +61002,18 @@
    "yahoo_symbol": "HON"
   },
   {
+   "symbol": "HONAV",
+   "name": "Honeywell Aerospace Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONAV"
+  },
+  {
+   "symbol": "HONIV",
+   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONIV"
+  },
+  {
    "symbol": "HOOD",
    "name": "Robinhood Markets, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -61152,24 +61180,6 @@
    "name": "Henry Schein, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HSIC"
-  },
-  {
-   "symbol": "HSPT",
-   "name": "Horizon Space Acquisition II Corp. - Ordinary share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPT"
-  },
-  {
-   "symbol": "HSPTR",
-   "name": "Horizon Space Acquisition II Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPTR"
-  },
-  {
-   "symbol": "HSPTU",
-   "name": "Horizon Space Acquisition II Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPTU"
   },
   {
    "symbol": "HST",
@@ -74096,6 +74106,12 @@
    "yahoo_symbol": "SLAB"
   },
   {
+   "symbol": "SLBT",
+   "name": "SL Science Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLBT"
+  },
+  {
    "symbol": "SLDB",
    "name": "Solid Biosciences Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -76196,6 +76212,12 @@
    "yahoo_symbol": "TIL"
   },
   {
+   "symbol": "TILC",
+   "name": "Thrivent International Large Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TILC"
+  },
+  {
    "symbol": "TILE",
    "name": "Interface, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -76206,6 +76228,12 @@
    "name": "Tiptree Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TIPT"
+  },
+  {
+   "symbol": "TISC",
+   "name": "Thrivent International Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TISC"
   },
   {
    "symbol": "TITN",
@@ -89642,12 +89670,6 @@
    "yahoo_symbol": "JLS"
   },
   {
-   "symbol": "JMG",
-   "name": "JM Group Limited Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "JMG"
-  },
-  {
    "symbol": "JMIA",
    "name": "Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",
    "exchange": "NYSE",
@@ -95306,12 +95328,6 @@
    "yahoo_symbol": "RYZ"
   },
   {
-   "symbol": "RZB",
-   "name": "Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RZB"
-  },
-  {
    "symbol": "RZC",
    "name": "Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",
    "exchange": "NYSE",
@@ -96834,12 +96850,6 @@
    "name": "Third Coast Bancshares, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TCBX"
-  },
-  {
-   "symbol": "TCGL",
-   "name": "TechCreate Group Ltd. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "TCGL"
   },
   {
    "symbol": "TCI",
