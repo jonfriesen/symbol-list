@@ -1,120 +1,162 @@
 {
  "added": [
   {
-   "symbol": "SPXE",
-   "name": "Harvest SpaceX Enhanced High Income Shares ETF",
+   "symbol": "GICD",
+   "name": "Guardian i3 Canadian Dividend Growth Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "SPXE.TO",
+   "yahoo_symbol": "GICD.TO",
    "instruments": [
     {
-     "name": "Harv SpaceX Enh Hi I",
-     "symbol": "SPXE"
+     "name": "Guardian i3 Cd DivGr",
+     "symbol": "GICD"
     }
    ]
   },
   {
-   "symbol": "HMMC",
-   "name": "Hemlo Mining Corp.",
+   "symbol": "GIGD",
+   "name": "Guardian i3 Global Dividend Growth Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "HMMC.TO",
+   "yahoo_symbol": "GIGD.TO",
    "instruments": [
     {
-     "name": "Hemlo Mining Corp",
-     "symbol": "HMMC"
+     "name": "Guardian i3 Gl DivGF",
+     "symbol": "GIGD"
     }
    ]
   },
   {
-   "symbol": "CSEN",
-   "name": "Cohen \u0026 Steers Future of Energy Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CSEN"
+   "symbol": "SXHI",
+   "name": "Ninepoint SpaceX HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SXHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint SpacX HS E",
+     "symbol": "SXHI"
+    }
+   ]
   },
   {
-   "symbol": "HONAV",
-   "name": "Honeywell Aerospace Inc. - Common Stock",
+   "symbol": "BITA",
+   "name": "iShares Bitcoin Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BITA"
+  },
+  {
+   "symbol": "FLZH",
+   "name": "Flash Sports \u0026 Media Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLZH"
+  },
+  {
+   "symbol": "FTH",
+   "name": "Faeth Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTH"
+  },
+  {
+   "symbol": "SMCIP",
+   "name": "Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock ",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HONAV"
+   "yahoo_symbol": "SMCIP"
   },
   {
-   "symbol": "HONIV",
-   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HONIV"
-  },
-  {
-   "symbol": "SLBT",
-   "name": "SL Science Holding Limited - Ordinary Shares",
+   "symbol": "XSPC",
+   "name": "VegaShares SpaceX \u0026 Beyond Earth ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SLBT"
+   "yahoo_symbol": "XSPC"
   },
   {
-   "symbol": "TILC",
-   "name": "Thrivent International Large Cap ETF",
+   "symbol": "YICCU",
+   "name": "Yorkville International Capital Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TILC"
+   "yahoo_symbol": "YICCU"
   },
   {
-   "symbol": "TISC",
-   "name": "Thrivent International Small Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TISC"
+   "symbol": "BMNP",
+   "name": "BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BMNP"
   }
  ],
  "removed": [
   {
-   "symbol": "HMMC",
-   "name": "Hemlo Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HMMC.V",
+   "symbol": "KW",
+   "name": "Kennedy-Wilson Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KW"
+  },
+  {
+   "symbol": "GOCO",
+   "name": "GoHealth, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GOCO"
+  },
+  {
+   "symbol": "ZGRN",
+   "name": "BMO MSCI ACWI Paris Aligned Climate Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZGRN.TO",
    "instruments": [
     {
-     "name": "Hemlo Mining Corp.",
-     "symbol": "HMMC"
+     "name": "BMO ACWI ParisClmtEq",
+     "symbol": "ZGRN"
     }
    ]
   },
   {
-   "symbol": "FTAIN",
-   "name": "FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FTAIN"
+   "symbol": "UGRO",
+   "name": "urban-gro, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UGRO"
   },
   {
-   "symbol": "JMG",
-   "name": "JM Group Limited Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "JMG"
-  },
-  {
-   "symbol": "HSPT",
-   "name": "Horizon Space Acquisition II Corp. - Ordinary share",
+   "symbol": "FEAT",
+   "name": "YieldMax Dorsey Wright Featured 5 Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPT"
+   "yahoo_symbol": "FEAT"
   },
   {
-   "symbol": "HSPTU",
-   "name": "Horizon Space Acquisition II Corp. - Units",
+   "symbol": "MEHA",
+   "name": "Functional Brands, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEHA"
+  },
+  {
+   "symbol": "FIVY",
+   "name": "YieldMax Dorsey Wright Hybrid 5 Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPTU"
+   "yahoo_symbol": "FIVY"
   },
   {
-   "symbol": "TCGL",
-   "name": "TechCreate Group Ltd. Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "TCGL"
+   "symbol": "ZBBB",
+   "name": "BMO BBB Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZBBB.TO",
+   "instruments": [
+    {
+     "name": "BMO BBB CorpBnd ETF",
+     "symbol": "ZBBB"
+    }
+   ]
   },
   {
-   "symbol": "RZB",
-   "name": "Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RZB"
+   "symbol": "ZEAT",
+   "name": "BMO Global Agriculture ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZEAT.TO",
+   "instruments": [
+    {
+     "name": "BMO Glbl Agri ETF Un",
+     "symbol": "ZEAT"
+    }
+   ]
   },
   {
-   "symbol": "HSPTR",
-   "name": "Horizon Space Acquisition II Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HSPTR"
+   "symbol": "SNSE",
+   "name": "Sensei Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNSE"
   }
  ]
 }

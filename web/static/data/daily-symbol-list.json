@@ -1,5 +1,5 @@
 {
- "date": "2026-06-15",
+ "date": "2026-06-16",
  "data": [
   {
    "symbol": "ONE",
@@ -2619,12 +2619,12 @@
   },
   {
    "symbol": "BGD",
-   "name": "Bullion Gold Resources Corp.",
+   "name": "Bullion Gold Discoveries Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "BGD.V",
    "instruments": [
     {
-     "name": "Bullion Gold Resources Corp.",
+     "name": "Bullion Gold Discoveries Corp.",
      "symbol": "BGD"
     }
    ]
@@ -19846,18 +19846,6 @@
    ]
   },
   {
-   "symbol": "ZBBB",
-   "name": "BMO BBB Corporate Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZBBB.TO",
-   "instruments": [
-    {
-     "name": "BMO BBB CorpBnd ETF",
-     "symbol": "ZBBB"
-    }
-   ]
-  },
-  {
    "symbol": "ZBI",
    "name": "BMO Canadian Bank Income Index ETF",
    "exchange": "TSX",
@@ -20326,18 +20314,6 @@
    ]
   },
   {
-   "symbol": "ZEAT",
-   "name": "BMO Global Agriculture ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZEAT.TO",
-   "instruments": [
-    {
-     "name": "BMO Glbl Agri ETF Un",
-     "symbol": "ZEAT"
-    }
-   ]
-  },
-  {
    "symbol": "COMM",
    "name": "BMO Global Communications Index ETF",
    "exchange": "TSX",
@@ -20802,18 +20778,6 @@
     {
      "name": "BMO Monthly Inc ETFU",
      "symbol": "ZMI.U"
-    }
-   ]
-  },
-  {
-   "symbol": "ZGRN",
-   "name": "BMO MSCI ACWI Paris Aligned Climate Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZGRN.TO",
-   "instruments": [
-    {
-     "name": "BMO ACWI ParisClmtEq",
-     "symbol": "ZGRN"
     }
    ]
   },
@@ -31586,6 +31550,30 @@
    ]
   },
   {
+   "symbol": "GICD",
+   "name": "Guardian i3 Canadian Dividend Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GICD.TO",
+   "instruments": [
+    {
+     "name": "Guardian i3 Cd DivGr",
+     "symbol": "GICD"
+    }
+   ]
+  },
+  {
+   "symbol": "GIGD",
+   "name": "Guardian i3 Global Dividend Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIGD.TO",
+   "instruments": [
+    {
+     "name": "Guardian i3 Gl DivGF",
+     "symbol": "GIGD"
+    }
+   ]
+  },
+  {
    "symbol": "GIDY",
    "name": "Guardian i3 Global Dividend Premium Yield Fund",
    "exchange": "TSX",
@@ -39894,6 +39882,18 @@
     {
      "name": "Ninepoint Slvr Bulli",
      "symbol": "SBUL"
+    }
+   ]
+  },
+  {
+   "symbol": "SXHI",
+   "name": "Ninepoint SpaceX HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SXHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint SpacX HS E",
+     "symbol": "SXHI"
     }
    ]
   },
@@ -51216,6 +51216,12 @@
    "yahoo_symbol": "BIS"
   },
   {
+   "symbol": "BITA",
+   "name": "iShares Bitcoin Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BITA"
+  },
+  {
    "symbol": "BITS",
    "name": "Global X Blockchain \u0026 Bitcoin Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -57810,12 +57816,6 @@
    "yahoo_symbol": "FEAM"
   },
   {
-   "symbol": "FEAT",
-   "name": "YieldMax Dorsey Wright Featured 5 Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FEAT"
-  },
-  {
    "symbol": "FEBO",
    "name": "Fenbo Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -58158,12 +58158,6 @@
    "yahoo_symbol": "FIVN"
   },
   {
-   "symbol": "FIVY",
-   "name": "YieldMax Dorsey Wright Hybrid 5 Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIVY"
-  },
-  {
    "symbol": "FIXD",
    "name": "First Trust Smith Opportunistic Fixed Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -58300,6 +58294,12 @@
    "name": "Flywire Corporation - Voting Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "FLYW"
+  },
+  {
+   "symbol": "FLZH",
+   "name": "Flash Sports \u0026 Media Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLZH"
   },
   {
    "symbol": "FMAC",
@@ -58816,6 +58816,12 @@
    "name": "First Trust Growth Strength ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FTGS"
+  },
+  {
+   "symbol": "FTH",
+   "name": "Faeth Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTH"
   },
   {
    "symbol": "FTHAU",
@@ -59848,12 +59854,6 @@
    "name": "Eva Live Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GOAI"
-  },
-  {
-   "symbol": "GOCO",
-   "name": "GoHealth, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GOCO"
   },
   {
    "symbol": "GOGO",
@@ -65674,12 +65674,6 @@
    "name": "Magic Empire Global Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "MEGL"
-  },
-  {
-   "symbol": "MEHA",
-   "name": "Functional Brands, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MEHA"
   },
   {
    "symbol": "MELI",
@@ -74268,6 +74262,12 @@
    "yahoo_symbol": "SMCI"
   },
   {
+   "symbol": "SMCIP",
+   "name": "Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock ",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SMCIP"
+  },
+  {
    "symbol": "SMCL",
    "name": "GraniteShares 2x Long SMCI Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -74464,12 +74464,6 @@
    "name": "Synopsys, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SNPS"
-  },
-  {
-   "symbol": "SNSE",
-   "name": "Sensei Biotherapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SNSE"
   },
   {
    "symbol": "SNSR",
@@ -77406,12 +77400,6 @@
    "yahoo_symbol": "UG"
   },
   {
-   "symbol": "UGRO",
-   "name": "urban-gro, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UGRO"
-  },
-  {
    "symbol": "UITB",
    "name": "VictoryShares Core Intermediate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -79782,6 +79770,12 @@
    "yahoo_symbol": "XSLLW"
   },
   {
+   "symbol": "XSPC",
+   "name": "VegaShares SpaceX \u0026 Beyond Earth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XSPC"
+  },
+  {
    "symbol": "XSPI",
    "name": "NEOS Boosted S\u0026P 500 High Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -79924,6 +79918,12 @@
    "name": "Planet Image International Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "YIBO"
+  },
+  {
+   "symbol": "YICCU",
+   "name": "Yorkville International Capital Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YICCU"
   },
   {
    "symbol": "YJ",
@@ -82966,6 +82966,12 @@
    "name": "BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "BMN"
+  },
+  {
+   "symbol": "BMNP",
+   "name": "BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BMNP"
   },
   {
    "symbol": "BMNR",
@@ -90250,12 +90256,6 @@
    "name": "Klaviyo, Inc. Series A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "KVYO"
-  },
-  {
-   "symbol": "KW",
-   "name": "Kennedy-Wilson Holdings Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KW"
   },
   {
    "symbol": "KWR",
