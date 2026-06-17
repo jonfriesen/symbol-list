@@ -1,162 +1,150 @@
 {
  "added": [
   {
-   "symbol": "GICD",
-   "name": "Guardian i3 Canadian Dividend Growth Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GICD.TO",
+   "symbol": "VLLC",
+   "name": "Argentina Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VLLC.V",
    "instruments": [
     {
-     "name": "Guardian i3 Cd DivGr",
-     "symbol": "GICD"
+     "name": "Argentina Metals Corp.",
+     "symbol": "VLLC"
     }
    ]
   },
   {
-   "symbol": "GIGD",
-   "name": "Guardian i3 Global Dividend Growth Fund",
+   "symbol": "AMDU",
+   "name": "SavvyLong (2X) AMD ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "GIGD.TO",
+   "yahoo_symbol": "AMDU.TO",
    "instruments": [
     {
-     "name": "Guardian i3 Gl DivGF",
-     "symbol": "GIGD"
+     "name": "SavvyLong 2X AMD ETF",
+     "symbol": "AMDU"
     }
    ]
   },
   {
-   "symbol": "SXHI",
-   "name": "Ninepoint SpaceX HighShares ETF",
+   "symbol": "MUU",
+   "name": "SavvyLong (2X) Micron ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "SXHI.TO",
+   "yahoo_symbol": "MUU.TO",
    "instruments": [
     {
-     "name": "Ninepoint SpacX HS E",
-     "symbol": "SXHI"
+     "name": "SavvyLong2X Micro ET",
+     "symbol": "MUU"
     }
    ]
   },
   {
-   "symbol": "BITA",
-   "name": "iShares Bitcoin Premium Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BITA"
+   "symbol": "ORBU",
+   "name": "SavvyLong (2X) SpaceX ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ORBU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2x SpaceX",
+     "symbol": "ORBU"
+    }
+   ]
   },
   {
-   "symbol": "FLZH",
-   "name": "Flash Sports \u0026 Media Holdings, Inc. - Common Stock",
+   "symbol": "KAZR",
+   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLZH"
+   "yahoo_symbol": "KAZR"
   },
   {
-   "symbol": "FTH",
-   "name": "Faeth Therapeutics, Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FTH"
-  },
-  {
-   "symbol": "SMCIP",
-   "name": "Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock ",
+   "symbol": "LILAP",
+   "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SMCIP"
+   "yahoo_symbol": "LILAP"
   },
   {
-   "symbol": "XSPC",
-   "name": "VegaShares SpaceX \u0026 Beyond Earth ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XSPC"
-  },
-  {
-   "symbol": "YICCU",
-   "name": "Yorkville International Capital Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YICCU"
-  },
-  {
-   "symbol": "BMNP",
-   "name": "BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock",
+   "symbol": "CTGG",
+   "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
    "exchange": "NYSE",
-   "yahoo_symbol": "BMNP"
+   "yahoo_symbol": "CTGG"
+  },
+  {
+   "symbol": "CTHH",
+   "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTHH"
+  },
+  {
+   "symbol": "NVA",
+   "name": "Nova Minerals Corp Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NVA"
+  },
+  {
+   "symbol": "NVA.W",
+   "name": "Nova Minerals Corp Warrants to Purchase Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NVA.W"
+  },
+  {
+   "symbol": "RQI.V",
+   "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RQI.V"
   }
  ],
  "removed": [
   {
-   "symbol": "KW",
-   "name": "Kennedy-Wilson Holdings Inc. Common Stock",
+   "symbol": "TYG.R",
+   "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "KW"
+   "yahoo_symbol": "TYG.R"
   },
   {
-   "symbol": "GOCO",
-   "name": "GoHealth, Inc. - Class A Common Stock",
+   "symbol": "SKBL",
+   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GOCO"
+   "yahoo_symbol": "SKBL"
   },
   {
-   "symbol": "ZGRN",
-   "name": "BMO MSCI ACWI Paris Aligned Climate Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZGRN.TO",
+   "symbol": "AU",
+   "name": "Aurion Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AU.V",
    "instruments": [
     {
-     "name": "BMO ACWI ParisClmtEq",
-     "symbol": "ZGRN"
+     "name": "Aurion Resources Ltd",
+     "symbol": "AU"
     }
    ]
   },
   {
-   "symbol": "UGRO",
-   "name": "urban-gro, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "UGRO"
-  },
-  {
-   "symbol": "FEAT",
-   "name": "YieldMax Dorsey Wright Featured 5 Income ETF",
+   "symbol": "SCLS",
+   "name": "Stoneport Advisors Commodity Long Short ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FEAT"
+   "yahoo_symbol": "SCLS"
   },
   {
-   "symbol": "MEHA",
-   "name": "Functional Brands, Inc. - Common Stock",
+   "symbol": "LILAV",
+   "name": "Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LILAV"
+  },
+  {
+   "symbol": "LILPV",
+   "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LILPV"
+  },
+  {
+   "symbol": "ASRT",
+   "name": "Assertio Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MEHA"
+   "yahoo_symbol": "ASRT"
   },
   {
-   "symbol": "FIVY",
-   "name": "YieldMax Dorsey Wright Hybrid 5 Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIVY"
-  },
-  {
-   "symbol": "ZBBB",
-   "name": "BMO BBB Corporate Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZBBB.TO",
-   "instruments": [
-    {
-     "name": "BMO BBB CorpBnd ETF",
-     "symbol": "ZBBB"
-    }
-   ]
-  },
-  {
-   "symbol": "ZEAT",
-   "name": "BMO Global Agriculture ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZEAT.TO",
-   "instruments": [
-    {
-     "name": "BMO Glbl Agri ETF Un",
-     "symbol": "ZEAT"
-    }
-   ]
-  },
-  {
-   "symbol": "SNSE",
-   "name": "Sensei Biotherapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SNSE"
+   "symbol": "LILKV",
+   "name": "Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LILKV"
   }
  ]
 }

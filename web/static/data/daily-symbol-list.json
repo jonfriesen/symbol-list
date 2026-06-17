@@ -1,5 +1,5 @@
 {
- "date": "2026-06-16",
+ "date": "2026-06-17",
  "data": [
   {
    "symbol": "ONE",
@@ -1126,6 +1126,18 @@
    ]
   },
   {
+   "symbol": "VLLC",
+   "name": "Argentina Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VLLC.V",
+   "instruments": [
+    {
+     "name": "Argentina Metals Corp.",
+     "symbol": "VLLC"
+    }
+   ]
+  },
+  {
    "symbol": "ASL",
    "name": "Argentum Silver Corp.",
    "exchange": "TSXV",
@@ -1534,18 +1546,6 @@
     {
      "name": "Auriginal Mining Corp.",
      "symbol": "AUME"
-    }
-   ]
-  },
-  {
-   "symbol": "AU",
-   "name": "Aurion Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AU.V",
-   "instruments": [
-    {
-     "name": "Aurion Resources Ltd",
-     "symbol": "AU"
     }
    ]
   },
@@ -43282,6 +43282,18 @@
    ]
   },
   {
+   "symbol": "AMDU",
+   "name": "SavvyLong (2X) AMD ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMDU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2X AMD ETF",
+     "symbol": "AMDU"
+    }
+   ]
+  },
+  {
    "symbol": "AMZU",
    "name": "SavvyLong (2X) AMZN ETF",
    "exchange": "TSX",
@@ -43390,6 +43402,18 @@
    ]
   },
   {
+   "symbol": "MUU",
+   "name": "SavvyLong (2X) Micron ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MUU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong2X Micro ET",
+     "symbol": "MUU"
+    }
+   ]
+  },
+  {
    "symbol": "MSFU",
    "name": "SavvyLong (2X) MSFT ETF",
    "exchange": "TSX",
@@ -43446,6 +43470,18 @@
     {
      "name": "SavvyLg2X Shopi ETF ",
      "symbol": "SHPU"
+    }
+   ]
+  },
+  {
+   "symbol": "ORBU",
+   "name": "SavvyLong (2X) SpaceX ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ORBU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2x SpaceX",
+     "symbol": "ORBU"
     }
    ]
   },
@@ -49810,12 +49846,6 @@
    "name": "Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ASPSZ"
-  },
-  {
-   "symbol": "ASRT",
-   "name": "Assertio Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASRT"
   },
   {
    "symbol": "ASRV",
@@ -63348,6 +63378,12 @@
    "yahoo_symbol": "KAT"
   },
   {
+   "symbol": "KAZR",
+   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KAZR"
+  },
+  {
    "symbol": "KBAB",
    "name": "KraneShares 2x Long BABA Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -64488,22 +64524,10 @@
    "yahoo_symbol": "LILAK"
   },
   {
-   "symbol": "LILAV",
-   "name": "Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LILAV"
-  },
-  {
-   "symbol": "LILKV",
-   "name": "Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LILKV"
-  },
-  {
-   "symbol": "LILPV",
+   "symbol": "LILAP",
    "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LILPV"
+   "yahoo_symbol": "LILAP"
   },
   {
    "symbol": "LIMN",
@@ -73356,12 +73380,6 @@
    "yahoo_symbol": "SCKT"
   },
   {
-   "symbol": "SCLS",
-   "name": "Stoneport Advisors Commodity Long Short ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SCLS"
-  },
-  {
    "symbol": "SCLX",
    "name": "Scilex Holding Company - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -74004,12 +74022,6 @@
    "yahoo_symbol": "SJLD"
   },
   {
-   "symbol": "SKBL",
-   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SKBL"
-  },
-  {
    "symbol": "SKIN",
    "name": "SkinHealth Systems Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -74263,7 +74275,7 @@
   },
   {
    "symbol": "SMCIP",
-   "name": "Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock ",
+   "name": "Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SMCIP"
   },
@@ -84846,10 +84858,22 @@
    "yahoo_symbol": "CTEV"
   },
   {
+   "symbol": "CTGG",
+   "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTGG"
+  },
+  {
    "symbol": "CTGO",
    "name": "Contango Silver \u0026 Gold Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "CTGO"
+  },
+  {
+   "symbol": "CTHH",
+   "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTHH"
   },
   {
    "symbol": "CTM",
@@ -92748,6 +92772,18 @@
    "yahoo_symbol": "NUW"
   },
   {
+   "symbol": "NVA",
+   "name": "Nova Minerals Corp Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NVA"
+  },
+  {
+   "symbol": "NVA.W",
+   "name": "Nova Minerals Corp Warrants to Purchase Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NVA.W"
+  },
+  {
    "symbol": "NVG",
    "name": "Nuveen AMT-Free Municipal Credit Income Fund ",
    "exchange": "NYSE",
@@ -95158,6 +95194,12 @@
    "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "RQI"
+  },
+  {
+   "symbol": "RQI.V",
+   "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RQI.V"
   },
   {
    "symbol": "RRC",
@@ -97684,12 +97726,6 @@
    "name": "Tortoise Energy Infrastructure Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TYG"
-  },
-  {
-   "symbol": "TYG.R",
-   "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TYG.R"
   },
   {
    "symbol": "TYL",

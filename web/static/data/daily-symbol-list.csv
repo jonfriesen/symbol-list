@@ -92,6 +92,7 @@ ADG,Arcus Development Group Inc.,TSXV,ADG.V,Arcus Development Group Inc.,ADG
 AWX,Arcwest Exploration Inc.,TSXV,AWX.V,Arcwest Exploration Inc.,AWX
 AGAG,Argenta Silver Corp.,TSXV,AGAG.V,Argenta Silver Corp.,AGAG
 LIT,Argentina Lithium & Energy Corp.,TSXV,LIT.V,Argentina Lithium & Energy Corp.,LIT
+VLLC,Argentina Metals Corp.,TSXV,VLLC.V,Argentina Metals Corp.,VLLC
 ASL,Argentum Silver Corp.,TSXV,ASL.V,Argentum Silver Corp,ASL
 ARGH,Argo Corporation,TSXV,ARGH.V,Argo Corporation,ARGH
 AROC.P,Argo Opportunity Corp.,TSXV,AROC.P.V,Argo Opportunity Corp.,AROC.P
@@ -126,7 +127,6 @@ ARU,Aurania Resources Ltd.,TSXV,ARU.V,Aurania Resources Ltd.,ARU,Aurania Resourc
 AURA,Auranova Resources Inc.,TSXV,AURA.V,Auranova Resources Inc.,AURA
 RES,Auric Resources Corp.,TSXV,RES.V,Auric Resources Corp.,RES
 AUME,Auriginal Mining Corp.,TSXV,AUME.V,Auriginal Mining Corp.,AUME
-AU,Aurion Resources Ltd.,TSXV,AU.V,Aurion Resources Ltd,AU
 AURO,Auro Metals Inc.,TSXV,AURO.V,Auro Metals Inc.,AURO
 ACU,Aurora Solar Technologies Inc.,TSXV,ACU.V,Aurora Solar Technologies Inc.,ACU
 ASG,Aurora Spine Corporation,TSXV,ASG.V,Aurora Spine Corporation,ASG
@@ -3366,6 +3366,7 @@ MSCL,Satellos Bioscience Inc.,TSX,MSCL.TO,Satellos Bioscience ,MSCL
 SOIL,Saturn Oil & Gas Inc.,TSX,SOIL.TO,Saturn Oil & Gas Inc,SOIL
 SIS,Savaria Corporation,TSX,SIS.TO,Savaria Corp. J,SIS
 AAPU,SavvyLong (2X) AAPL ETF,TSX,AAPU.TO,SavvyLong (2X) AAPL,AAPU
+AMDU,SavvyLong (2X) AMD ETF,TSX,AMDU.TO,SavvyLong 2X AMD ETF,AMDU
 AMZU,SavvyLong (2X) AMZN ETF,TSX,AMZU.TO,SavvyLong (2X) AMZN,AMZU
 ABXU,SavvyLong (2X) Barrick ETF,TSX,ABXU.TO,SavvyLong2x BarriETF,ABXU
 CCOU,SavvyLong (2X) Cameco ETF,TSX,CCOU.TO,SavvyLng2X Camec ETF,CCOU
@@ -3375,11 +3376,13 @@ CSUU,SavvyLong (2X) Constellation Software ETF,TSX,CSUU.TO,SavvyLg2X CoSoft ETF,
 ALPU,SavvyLong (2X) GOOGL ETF,TSX,ALPU.TO,SavvyLong 2X GOOGL E,ALPU
 RBNU,SavvyLong (2X) HOOD ETF,TSX,RBNU.TO,SavvyLong 2X HOOD E,RBNU
 METU,SavvyLong (2X) META ETF,TSX,METU.TO,SavvyLong 2XMETA ETF,METU
+MUU,SavvyLong (2X) Micron ETF,TSX,MUU.TO,SavvyLong2X Micro ET,MUU
 MSFU,SavvyLong (2X) MSFT ETF,TSX,MSFU.TO,SavvyLong (2X) MSFT,MSFU
 MSTU,SavvyLong (2X) MSTR ETF,TSX,MSTU.TO,SavvyLong 2X MSTR E,MSTU
 NVDU,SavvyLong (2X) NVDA ETF,TSX,NVDU.TO,SavvyLong (2X) NVDA,NVDU
 PLTU,SavvyLong (2X) PLTR ETF,TSX,PLTU.TO,SavvyLong 2X PLTR E,PLTU
 SHPU,SavvyLong (2X) Shopify ETF,TSX,SHPU.TO,SavvyLg2X Shopi ETF ,SHPU
+ORBU,SavvyLong (2X) SpaceX ETF,TSX,ORBU.TO,SavvyLong 2x SpaceX,ORBU
 TSLU,SavvyLong (2X) TSLA ETF,TSX,TSLU.TO,SavvyLong (2X) TSLA,TSLU
 COMU,SavvyLong 2X CIBC (CM) Equity-Linked ETF,TSX,COMU.TO,SavvyLg2XCIBC EqtETF,COMU
 NBCU,SavvyLong 2X NBC (NA) Equity-Linked ETF,TSX,NBCU.TO,SavvyLng2xNB EQTETF ,NBCU
@@ -4098,7 +4101,6 @@ ASPI,ASP Isotopes Inc. - Common Stock,NASDAQ Capital Market,ASPI
 ASPS,Altisource Portfolio Solutions S.A. - Common Stock,NASDAQ Global Select MarketSM,ASPS
 ASPSW,Altisource Portfolio Solutions S.A. - Net Settle Stakeholder Warrants,NASDAQ Global Select MarketSM,ASPSW
 ASPSZ,Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants,NASDAQ Global Select MarketSM,ASPSZ
-ASRT,"Assertio Holdings, Inc. - Common Stock",NASDAQ Capital Market,ASRT
 ASRV,AmeriServ Financial Inc. - Common Stock,NASDAQ Global MarketSM,ASRV
 ASST,"Strive, Inc. - Class A Common Stock",NASDAQ Global MarketSM,ASST
 ASTC,Astrotech Corporation - Common Stock,NASDAQ Capital Market,ASTC
@@ -6354,6 +6356,7 @@ KALA,"KALA BIO, Inc. - Common Stock",NASDAQ Capital Market,KALA
 KALU,Kaiser Aluminum Corporation - Common Stock,NASDAQ Global Select MarketSM,KALU
 KARO,Karooooo Ltd. - Ordinary shares,NASDAQ Capital Market,KARO
 KAT,Scharf ETF,NASDAQ Global MarketSM,KAT
+KAZR,Skyline Builders Group Holding Limited - Class A Ordinary Shares,NASDAQ Capital Market,KAZR
 KBAB,KraneShares 2x Long BABA Daily ETF,NASDAQ Global MarketSM,KBAB
 KBDU,KraneShares 2x Long BIDU Daily ETF,NASDAQ Global MarketSM,KBDU
 KBON,Karbon Capital Partners Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,KBON
@@ -6544,9 +6547,7 @@ LIF,"Life360, Inc. - Common Stock",NASDAQ Global Select MarketSM,LIF
 LIFE,Ethos Technologies Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,LIFE
 LILA,Liberty Latin America Ltd. - Class A Common Stock,NASDAQ Global Select MarketSM,LILA
 LILAK,Liberty Latin America Ltd. - Class C Common Stock,NASDAQ Global Select MarketSM,LILAK
-LILAV,Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued,NASDAQ Global Select MarketSM,LILAV
-LILKV,Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued,NASDAQ Global Select MarketSM,LILKV
-LILPV,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,NASDAQ Global Select MarketSM,LILPV
+LILAP,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,NASDAQ Global Select MarketSM,LILAP
 LIMN,"Liminatus Pharma, Inc. - Class A Common Stock",NASDAQ Global MarketSM,LIMN
 LIMNW,"Liminatus Pharma, Inc. - Warrants",NASDAQ Capital Market,LIMNW
 LIN,Linde plc - Ordinary Shares,NASDAQ Global Select MarketSM,LIN
@@ -8022,7 +8023,6 @@ SCII,SC II Acquisition Corp. - Class A ordinary share,NASDAQ Global MarketSM,SCI
 SCIIR,SC II Acquisition Corp. - Rights,NASDAQ Global MarketSM,SCIIR
 SCIIU,SC II Acquisition Corp. - Units,NASDAQ Global MarketSM,SCIIU
 SCKT,"Socket Mobile, Inc. - Common Stock",NASDAQ Capital Market,SCKT
-SCLS,Stoneport Advisors Commodity Long Short ETF,NASDAQ Global MarketSM,SCLS
 SCLX,Scilex Holding Company - Common Stock,NASDAQ Capital Market,SCLX
 SCLXW,Scilex Holding Company - Warrant,NASDAQ Capital Market,SCLXW
 SCNI,Scinai Immunotherapeutics Ltd. - American Depositary Shares,NASDAQ Capital Market,SCNI
@@ -8130,7 +8130,6 @@ SITM,SiTime Corporation - Common Stock,NASDAQ Global MarketSM,SITM
 SJ,Scienjoy Holding Corporation - Class A Ordinary Shares,NASDAQ Capital Market,SJ
 SJCP,SanJac Alpha Core Plus Bond ETF,NASDAQ Global MarketSM,SJCP
 SJLD,SanJac Alpha Low Duration ETF,NASDAQ Global MarketSM,SJLD
-SKBL,Skyline Builders Group Holding Limited - Class A Ordinary Shares,NASDAQ Capital Market,SKBL
 SKIN,SkinHealth Systems Inc. - Class A Common Stock,NASDAQ Capital Market,SKIN
 SKK,SKK Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,SKK
 SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,NASDAQ Global MarketSM,SKOR
@@ -8173,7 +8172,7 @@ SLXNW,Silexion Therapeutics Corp - Warrant,NASDAQ Capital Market,SLXNW
 SMBC,"Southern Missouri Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,SMBC
 SMCF,Themes US Small Cap Cash Flow Champions ETF,NASDAQ Global MarketSM,SMCF
 SMCI,"Super Micro Computer, Inc. - Common Stock",NASDAQ Global Select MarketSM,SMCI
-SMCIP,"Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock ",NASDAQ Global Select MarketSM,SMCIP
+SMCIP,"Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",NASDAQ Global Select MarketSM,SMCIP
 SMCL,GraniteShares 2x Long SMCI Daily ETF,NASDAQ Global MarketSM,SMCL
 SMCO,Hilton Small-MidCap Opportunity ETF,NASDAQ Global MarketSM,SMCO
 SMCX,Defiance Daily Target 2X Long SMCI ETF,NASDAQ Global MarketSM,SMCX
@@ -9937,7 +9936,9 @@ CTEST.O,NYSE Test One Common Stock,NYSE,CTEST.O
 CTEST.S,NYSE Test Six Common Stock,NYSE,CTEST.S
 CTEST.V,NYSE Test One Common Stock,NYSE,CTEST.V
 CTEV,Claritev Corporation Class A Common Stock,NYSE,CTEV
+CTGG,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),NYSE,CTGG
 CTGO,Contango Silver & Gold Inc. Common Stock,NYSE MKT,CTGO
+CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),NYSE,CTHH
 CTM,"Castellum, Inc. Common Stock",NYSE MKT,CTM
 CTO,"CTO Realty Growth, Inc. Common Stock",NYSE,CTO
 CTO$A,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock",NYSE,CTO$A
@@ -11254,6 +11255,8 @@ NUS,"Nu Skin Enterprises, Inc. Common Stock",NYSE,NUS
 NUV,"Nuveen Municipal Value Fund, Inc. Common Stock",NYSE,NUV
 NUVB,Nuvation Bio Inc. Class A Common Stock,NYSE,NUVB
 NUW,Nuveen AMT-Free Municipal Value Fund,NYSE,NUW
+NVA,Nova Minerals Corp Common Stock,NYSE MKT,NVA
+NVA.W,Nova Minerals Corp Warrants to Purchase Common Stock,NYSE MKT,NVA.W
 NVG,Nuveen AMT-Free Municipal Credit Income Fund ,NYSE,NVG
 NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),NYSE,NVGS
 NVO,Novo Nordisk A/S Common Stock,NYSE,NVO
@@ -11656,6 +11659,7 @@ RPM,RPM International Inc. Common Stock,NYSE,RPM
 RPT,Rithm Property Trust Inc. Common stock,NYSE,RPT
 RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,RPT$C
 RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares,NYSE,RQI
+RQI.V,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",NYSE,RQI.V
 RRC,Range Resources Corporation Common Stock,NYSE,RRC
 RRX,Regal Rexnord Corporation Common Stock,NYSE,RRX
 RS,"Reliance, Inc. Common Stock",NYSE,RS
@@ -12077,7 +12081,6 @@ TXT,Textron Inc. Common Stock,NYSE,TXT
 TY,Tri Continental Corporation Common Stock,NYSE,TY
 TY$,Tri Continental Corporation Preferred Stock,NYSE,TY$
 TYG,Tortoise Energy Infrastructure Corporation Common Stock,NYSE,TYG
-TYG.R,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",NYSE,TYG.R
 TYL,"Tyler Technologies, Inc. Common Stock",NYSE,TYL
 U,Unity Software Inc. Common Stock,NYSE,U
 UA,"Under Armour, Inc. Class C Common Stock",NYSE,UA
