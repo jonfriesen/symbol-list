@@ -1,150 +1,66 @@
 {
  "added": [
   {
-   "symbol": "VLLC",
-   "name": "Argentina Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "VLLC.V",
-   "instruments": [
-    {
-     "name": "Argentina Metals Corp.",
-     "symbol": "VLLC"
-    }
-   ]
+   "symbol": "CAES",
+   "name": "Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAES"
   },
   {
-   "symbol": "AMDU",
-   "name": "SavvyLong (2X) AMD ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "AMDU.TO",
-   "instruments": [
-    {
-     "name": "SavvyLong 2X AMD ETF",
-     "symbol": "AMDU"
-    }
-   ]
+   "symbol": "CXII",
+   "name": "Churchill Capital Corp XII - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CXII"
   },
   {
-   "symbol": "MUU",
-   "name": "SavvyLong (2X) Micron ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MUU.TO",
-   "instruments": [
-    {
-     "name": "SavvyLong2X Micro ET",
-     "symbol": "MUU"
-    }
-   ]
+   "symbol": "CXIIW",
+   "name": "Churchill Capital Corp XII - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CXIIW"
   },
   {
-   "symbol": "ORBU",
-   "name": "SavvyLong (2X) SpaceX ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ORBU.TO",
-   "instruments": [
-    {
-     "name": "SavvyLong 2x SpaceX",
-     "symbol": "ORBU"
-    }
-   ]
-  },
-  {
-   "symbol": "KAZR",
-   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KAZR"
-  },
-  {
-   "symbol": "LILAP",
-   "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LILAP"
-  },
-  {
-   "symbol": "CTGG",
-   "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
+   "symbol": "FCBM",
+   "name": "First Carolina Financial Services, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "CTGG"
+   "yahoo_symbol": "FCBM"
   },
   {
-   "symbol": "CTHH",
-   "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
+   "symbol": "PLUN",
+   "name": "Plutonian Acquisition Corp II Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "CTHH"
+   "yahoo_symbol": "PLUN"
   },
   {
-   "symbol": "NVA",
-   "name": "Nova Minerals Corp Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NVA"
-  },
-  {
-   "symbol": "NVA.W",
-   "name": "Nova Minerals Corp Warrants to Purchase Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "NVA.W"
-  },
-  {
-   "symbol": "RQI.V",
-   "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",
+   "symbol": "PLUN.R",
+   "name": "Plutonian Acquisition Corp II Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",
    "exchange": "NYSE",
-   "yahoo_symbol": "RQI.V"
+   "yahoo_symbol": "PLUN.R"
   }
  ],
  "removed": [
   {
-   "symbol": "TYG.R",
-   "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TYG.R"
-  },
-  {
-   "symbol": "SKBL",
-   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
+   "symbol": "MYPSW",
+   "name": "PLAYSTUDIOS, Inc.  - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SKBL"
+   "yahoo_symbol": "MYPSW"
   },
   {
-   "symbol": "AU",
-   "name": "Aurion Resources Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AU.V",
+   "symbol": "PMNT",
+   "name": "Perfect Moment Ltd. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PMNT"
+  },
+  {
+   "symbol": "RUP",
+   "name": "Rupert Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUP.TO",
    "instruments": [
     {
-     "name": "Aurion Resources Ltd",
-     "symbol": "AU"
+     "name": "Rupert Res Ltd. J",
+     "symbol": "RUP"
     }
    ]
-  },
-  {
-   "symbol": "SCLS",
-   "name": "Stoneport Advisors Commodity Long Short ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SCLS"
-  },
-  {
-   "symbol": "LILAV",
-   "name": "Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LILAV"
-  },
-  {
-   "symbol": "LILPV",
-   "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LILPV"
-  },
-  {
-   "symbol": "ASRT",
-   "name": "Assertio Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ASRT"
-  },
-  {
-   "symbol": "LILKV",
-   "name": "Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LILKV"
   }
  ]
 }

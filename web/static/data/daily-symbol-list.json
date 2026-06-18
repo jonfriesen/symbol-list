@@ -1,5 +1,5 @@
 {
- "date": "2026-06-17",
+ "date": "2026-06-18",
  "data": [
   {
    "symbol": "ONE",
@@ -17934,6 +17934,10 @@
     {
      "name": "Agnico Eagle Mines",
      "symbol": "AEM"
+    },
+    {
+     "name": "Agnic Egl Mines CVR",
+     "symbol": "AEM.CV"
     }
    ]
   },
@@ -42970,18 +42974,6 @@
    ]
   },
   {
-   "symbol": "RUP",
-   "name": "Rupert Resources Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "RUP.TO",
-   "instruments": [
-    {
-     "name": "Rupert Res Ltd. J",
-     "symbol": "RUP"
-    }
-   ]
-  },
-  {
    "symbol": "RUS",
    "name": "Russel Metals Inc.",
    "exchange": "TSX",
@@ -52602,6 +52594,12 @@
    "yahoo_symbol": "CADL"
   },
   {
+   "symbol": "CAES",
+   "name": "Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAES"
+  },
+  {
    "symbol": "CAFG",
    "name": "Pacer US Small Cap Cash Cows Growth Leaders ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -55080,10 +55078,22 @@
    "yahoo_symbol": "CXDO"
   },
   {
+   "symbol": "CXII",
+   "name": "Churchill Capital Corp XII - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CXII"
+  },
+  {
    "symbol": "CXIIU",
    "name": "Churchill Capital Corp XII - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CXIIU"
+  },
+  {
+   "symbol": "CXIIW",
+   "name": "Churchill Capital Corp XII - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CXIIW"
   },
   {
    "symbol": "CXSE",
@@ -66942,12 +66952,6 @@
    "yahoo_symbol": "MYPS"
   },
   {
-   "symbol": "MYPSW",
-   "name": "PLAYSTUDIOS, Inc.  - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MYPSW"
-  },
-  {
    "symbol": "MYRG",
    "name": "MYR Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -70435,7 +70439,7 @@
   },
   {
    "symbol": "PN",
-   "name": "Skycorp Solar Group Limited - Class A Ordinary Shares",
+   "name": "PN Smart Energy Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PN"
   },
@@ -86838,6 +86842,12 @@
    "yahoo_symbol": "FC"
   },
   {
+   "symbol": "FCBM",
+   "name": "First Carolina Financial Services, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FCBM"
+  },
+  {
    "symbol": "FCF",
    "name": "First Commonwealth Financial Corporation Common Stock",
    "exchange": "NYSE",
@@ -94002,6 +94012,18 @@
    "yahoo_symbol": "PLOW"
   },
   {
+   "symbol": "PLUN",
+   "name": "Plutonian Acquisition Corp II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PLUN"
+  },
+  {
+   "symbol": "PLUN.R",
+   "name": "Plutonian Acquisition Corp II Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PLUN.R"
+  },
+  {
    "symbol": "PLUN.U",
    "name": "Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",
    "exchange": "NYSE",
@@ -94036,12 +94058,6 @@
    "name": "Putnam Managed Municipal Income Trust Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "PMM"
-  },
-  {
-   "symbol": "PMNT",
-   "name": "Perfect Moment Ltd. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PMNT"
   },
   {
    "symbol": "PMO",
