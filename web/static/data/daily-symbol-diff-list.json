@@ -1,66 +1,88 @@
 {
  "added": [
   {
-   "symbol": "CAES",
-   "name": "Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAES"
-  },
-  {
-   "symbol": "CXII",
-   "name": "Churchill Capital Corp XII - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CXII"
-  },
-  {
-   "symbol": "CXIIW",
-   "name": "Churchill Capital Corp XII - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CXIIW"
-  },
-  {
-   "symbol": "FCBM",
-   "name": "First Carolina Financial Services, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FCBM"
-  },
-  {
-   "symbol": "PLUN",
-   "name": "Plutonian Acquisition Corp II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PLUN"
-  },
-  {
-   "symbol": "PLUN.R",
-   "name": "Plutonian Acquisition Corp II Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PLUN.R"
-  }
- ],
- "removed": [
-  {
-   "symbol": "MYPSW",
-   "name": "PLAYSTUDIOS, Inc.  - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MYPSW"
-  },
-  {
-   "symbol": "PMNT",
-   "name": "Perfect Moment Ltd. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PMNT"
-  },
-  {
-   "symbol": "RUP",
-   "name": "Rupert Resources Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "RUP.TO",
+   "symbol": "NAP",
+   "name": "Napoleon Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NAP.V",
    "instruments": [
     {
-     "name": "Rupert Res Ltd. J",
-     "symbol": "RUP"
+     "name": "Napoleon Resources Inc.",
+     "symbol": "NAP"
     }
    ]
+  },
+  {
+   "symbol": "FIMU",
+   "name": "Fidelity Intermediate Municipal Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIMU"
+  },
+  {
+   "symbol": "FISN",
+   "name": "Deep Fission, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FISN"
+  },
+  {
+   "symbol": "FREI",
+   "name": "Fidelity Real Estate Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FREI"
+  },
+  {
+   "symbol": "FSTB",
+   "name": "Fidelity Short-Term Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSTB"
+  },
+  {
+   "symbol": "IACQ",
+   "name": "Irenic Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IACQ"
+  },
+  {
+   "symbol": "IACQW",
+   "name": "Irenic Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IACQW"
+  },
+  {
+   "symbol": "KARD",
+   "name": "Kardigan, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KARD"
+  },
+  {
+   "symbol": "NUIF",
+   "name": "Nuveen US Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUIF"
+  },
+  {
+   "symbol": "NVPS",
+   "name": "PurePlay Nvidia Ecosystem Picks \u0026 Shovels Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVPS"
+  },
+  {
+   "symbol": "OPI",
+   "name": "Office Properties Income Trust - Common shares of beneficial interest",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPI"
+  },
+  {
+   "symbol": "TVIVU",
+   "name": "Texas Ventures Acquisition IV Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVIVU"
+  },
+  {
+   "symbol": "WLCOU",
+   "name": "Wilco 63 Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLCOU"
   }
  ]
 }
