@@ -1,88 +1,168 @@
 {
  "added": [
   {
-   "symbol": "NAP",
-   "name": "Napoleon Resources Inc.",
+   "symbol": "CAII",
+   "name": "Collective Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAII"
+  },
+  {
+   "symbol": "CAIIW",
+   "name": "Collective Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAIIW"
+  },
+  {
+   "symbol": "FTHA",
+   "name": "Forefront Tech Holdings Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTHA"
+  },
+  {
+   "symbol": "FTHAW",
+   "name": "Forefront Tech Holdings Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTHAW"
+  },
+  {
+   "symbol": "GCGR",
+   "name": "General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GCGR"
+  },
+  {
+   "symbol": "GCGRW",
+   "name": "General Catalyst Global Resilience Merger Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GCGRW"
+  },
+  {
+   "symbol": "HAPN",
+   "name": "Happen, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HAPN"
+  },
+  {
+   "symbol": "KEYY",
+   "name": "Keystone Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEYY"
+  },
+  {
+   "symbol": "KEYYW",
+   "name": "Keystone Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEYYW"
+  },
+  {
+   "symbol": "MCAH",
+   "name": "Mountain Crest Acquisition 6 Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAH"
+  },
+  {
+   "symbol": "MCAHR",
+   "name": "Mountain Crest Acquisition 6 Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAHR"
+  },
+  {
+   "symbol": "ROB",
+   "name": "Robinson Energy Limited",
    "exchange": "TSXV",
-   "yahoo_symbol": "NAP.V",
+   "yahoo_symbol": "ROB.V",
    "instruments": [
     {
-     "name": "Napoleon Resources Inc.",
-     "symbol": "NAP"
+     "name": "Robinson Energy Limited",
+     "symbol": "ROB"
     }
    ]
   },
   {
-   "symbol": "FIMU",
-   "name": "Fidelity Intermediate Municipal Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FIMU"
+   "symbol": "FIRY",
+   "name": "Firy Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FIRY"
   },
   {
-   "symbol": "FISN",
-   "name": "Deep Fission, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FISN"
+   "symbol": "MTNE",
+   "name": "CH4 Natural Solutions Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTNE"
   },
   {
-   "symbol": "FREI",
-   "name": "Fidelity Real Estate Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FREI"
+   "symbol": "MTNE.W",
+   "name": "CH4 Natural Solutions Corporation Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTNE.W"
   },
   {
-   "symbol": "FSTB",
-   "name": "Fidelity Short-Term Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSTB"
+   "symbol": "RQI.R",
+   "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RQI.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CIF",
+   "name": "MFS Intermediate High Income Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIF"
   },
   {
-   "symbol": "IACQ",
-   "name": "Irenic Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IACQ"
+   "symbol": "LC",
+   "name": "LendingClub Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LC"
   },
   {
-   "symbol": "IACQW",
-   "name": "Irenic Acquisition Corp. - Warrants",
+   "symbol": "BULX",
+   "name": "GraniteShares 2x Long BULL Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IACQW"
+   "yahoo_symbol": "BULX"
   },
   {
-   "symbol": "KARD",
-   "name": "Kardigan, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KARD"
+   "symbol": "MCR",
+   "name": "MFS Charter Income Trust Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MCR"
   },
   {
-   "symbol": "NUIF",
-   "name": "Nuveen US Infrastructure ETF",
+   "symbol": "MSDD",
+   "name": "GraniteShares 2x Short MSTR Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NUIF"
+   "yahoo_symbol": "MSDD"
   },
   {
-   "symbol": "NVPS",
-   "name": "PurePlay Nvidia Ecosystem Picks \u0026 Shovels Index ETF",
+   "symbol": "ETRL",
+   "name": "GraniteShares 2x Long ETOR Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NVPS"
+   "yahoo_symbol": "ETRL"
   },
   {
-   "symbol": "OPI",
-   "name": "Office Properties Income Trust - Common shares of beneficial interest",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OPI"
+   "symbol": "SKLZ",
+   "name": "Skillz Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKLZ"
   },
   {
-   "symbol": "TVIVU",
-   "name": "Texas Ventures Acquisition IV Corp - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TVIVU"
+   "symbol": "RQI.V",
+   "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RQI.V"
   },
   {
-   "symbol": "WLCOU",
-   "name": "Wilco 63 Corporation - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WLCOU"
+   "symbol": "CBV",
+   "name": "Cobra Venture Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CBV.V",
+   "instruments": [
+    {
+     "name": "Cobra Venture Corporation",
+     "symbol": "CBV"
+    }
+   ]
   }
  ]
 }
