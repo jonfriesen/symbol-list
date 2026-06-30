@@ -1,132 +1,72 @@
 {
  "added": [
   {
-   "symbol": "DACU",
-   "name": "Desjardins Active Canadian Bond Universe ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DACU.TO",
-   "instruments": [
-    {
-     "name": "Desj Act Can Bd Univ",
-     "symbol": "DACU"
-    }
-   ]
-  },
-  {
-   "symbol": "DACL",
-   "name": "Desjardins Canadian Equity Leaders ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DACL.TO",
-   "instruments": [
-    {
-     "name": "Desj Cdn Equity Ldr",
-     "symbol": "DACL"
-    }
-   ]
-  },
-  {
-   "symbol": "DAGL",
-   "name": "Desjardins Global Opportunities ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DAGL.TO",
-   "instruments": [
-    {
-     "name": "Desj Glbl Opps ETF",
-     "symbol": "DAGL"
-    }
-   ]
-  },
-  {
    "symbol": "HONA",
-   "name": "Honeywell Aerospace Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HONA"
+   "name": "Honeywell Aerospace CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "HONA.TO",
+   "instruments": [
+    {
+     "name": "Honeywell Aerospce C",
+     "symbol": "HONA"
+    }
+   ]
   },
   {
-   "symbol": "MFPVV",
-   "name": "Midera Food Processing, Inc. - Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MFPVV"
-  },
-  {
-   "symbol": "MIDDV",
-   "name": "Middleby Corp. - Common Stock Ex-Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MIDDV"
-  },
-  {
-   "symbol": "USDE",
-   "name": "StablecoinX Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "USDE"
-  },
-  {
-   "symbol": "USDEW",
-   "name": "StablecoinX Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "USDEW"
-  },
-  {
-   "symbol": "DMC",
-   "name": "Del Monte Corporation Ordinary Shares",
+   "symbol": "AAC.U",
+   "name": "Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "DMC"
+   "yahoo_symbol": "AAC.U"
   },
   {
-   "symbol": "OTAI",
-   "name": "Starlink AI Acquisition Corporation Ordinary Shares",
+   "symbol": "GLAS",
+   "name": "Glass House Brands Inc. Subordinate Voting Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "OTAI"
+   "yahoo_symbol": "GLAS"
   },
   {
-   "symbol": "OTAI.R",
-   "name": "Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OTAI.R"
+   "symbol": "APMC",
+   "name": "AmperCap Acquisition Company - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APMC"
+  },
+  {
+   "symbol": "APMCR",
+   "name": "AmperCap Acquisition Company - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APMCR"
+  },
+  {
+   "symbol": "GOLI",
+   "name": "Defiance Gold Enhanced Options Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GOLI"
   }
  ],
  "removed": [
   {
-   "symbol": "HONIV",
-   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+   "symbol": "TBLAW",
+   "name": "Taboola.com Ltd. - Warrant",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HONIV"
+   "yahoo_symbol": "TBLAW"
   },
   {
-   "symbol": "GH",
-   "name": "Gamehost Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "GH.TO",
-   "instruments": [
-    {
-     "name": "Gamehost Inc.",
-     "symbol": "GH"
-    }
-   ]
+   "symbol": "GLDY",
+   "name": "Defiance Gold Enhanced Options Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLDY"
   },
   {
-   "symbol": "FDP",
-   "name": "Del Monte Corporation Ordinary Shares",
+   "symbol": "TPTA",
+   "name": "Terra Property Trust, Inc. 6.00% Notes due 2026",
    "exchange": "NYSE",
-   "yahoo_symbol": "FDP"
+   "yahoo_symbol": "TPTA"
   },
   {
-   "symbol": "HONAV",
-   "name": "Honeywell Aerospace Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HONAV"
-  },
-  {
-   "symbol": "LGL.R",
-   "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "LGL.R"
-  },
-  {
-   "symbol": "NNAVW",
-   "name": "NextNav Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NNAVW"
+   "symbol": "HNNAZ",
+   "name": "Hennessy Advisors, Inc. - 4.875% Notes due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HNNAZ"
   }
  ]
 }
