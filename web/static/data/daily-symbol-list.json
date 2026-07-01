@@ -1,5 +1,5 @@
 {
- "date": "2026-06-30",
+ "date": "2026-07-01",
  "data": [
   {
    "symbol": "ONE",
@@ -50090,12 +50090,6 @@
    "yahoo_symbol": "BLCO"
   },
   {
-   "symbol": "BLD",
-   "name": "TopBuild Corp. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BLD"
-  },
-  {
    "symbol": "BLDR",
    "name": "Builders FirstSource, Inc. Common Stock",
    "exchange": "NYSE",
@@ -56870,12 +56864,6 @@
    "yahoo_symbol": "JGH"
   },
   {
-   "symbol": "JHG",
-   "name": "Janus Henderson Group plc Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JHG"
-  },
-  {
    "symbol": "JHI",
    "name": "John Hancock Investors Trust Common Stock",
    "exchange": "NYSE",
@@ -58112,10 +58100,10 @@
    "yahoo_symbol": "MBC"
   },
   {
-   "symbol": "MBGL.V",
-   "name": "Mobility Global Inc. Common Stock When-Issued",
+   "symbol": "MBGL",
+   "name": "Mobility Global Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "MBGL.V"
+   "yahoo_symbol": "MBGL"
   },
   {
    "symbol": "MBI",
@@ -63014,12 +63002,6 @@
    "yahoo_symbol": "SEI"
   },
   {
-   "symbol": "SEM",
-   "name": "Select Medical Holdings Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEM"
-  },
-  {
    "symbol": "SER",
    "name": "Serina Therapeutics, Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -63174,12 +63156,6 @@
    "name": "Sprott Inc. Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "SII"
-  },
-  {
-   "symbol": "SILA",
-   "name": "Sila Realty Trust, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SILA"
   },
   {
    "symbol": "SIM",
@@ -63602,12 +63578,6 @@
    "yahoo_symbol": "SPGI"
   },
   {
-   "symbol": "SPGI.V",
-   "name": "S\u0026P Global Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SPGI.V"
-  },
-  {
    "symbol": "SPH",
    "name": "Suburban Propane Partners, L.P. Common Stock",
    "exchange": "NYSE",
@@ -63810,12 +63780,6 @@
    "name": "STERIS plc (Ireland) Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "STE"
-  },
-  {
-   "symbol": "STEL",
-   "name": "Stellar Bancorp, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "STEL"
   },
   {
    "symbol": "STEM",
@@ -72136,7 +72100,7 @@
   {
    "symbol": "CAN",
    "name": "Canaan Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CAN"
   },
   {
@@ -75864,6 +75828,12 @@
    "name": "EchoStar Corporation - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ECHO"
+  },
+  {
+   "symbol": "ECHX",
+   "name": "Leverage Shares 2X Long ECHO Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ECHX"
   },
   {
    "symbol": "ECOR",
@@ -80544,6 +80514,12 @@
    "name": "Hanover Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HNVR"
+  },
+  {
+   "symbol": "HODO",
+   "name": "House of Doge Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HODO"
   },
   {
    "symbol": "HODU",
@@ -87458,6 +87434,18 @@
    "yahoo_symbol": "NSIT"
   },
   {
+   "symbol": "NSLR",
+   "name": "Neostellar Capital Corp. - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NSLR"
+  },
+  {
+   "symbol": "NSLRL",
+   "name": "Neostellar Capital Corp. - 6.00% Notes due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NSLRL"
+  },
+  {
    "symbol": "NSPR",
    "name": "InspireMD Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -92798,12 +92786,6 @@
    "yahoo_symbol": "SATA"
   },
   {
-   "symbol": "SATG",
-   "name": "Leverage Shares 2X Long SATS Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SATG"
-  },
-  {
    "symbol": "SATL",
    "name": "Satellogic Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -94628,18 +94610,6 @@
    "yahoo_symbol": "SSS"
   },
   {
-   "symbol": "SSSS",
-   "name": "SuRo Capital Corp. - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SSSS"
-  },
-  {
-   "symbol": "SSSSL",
-   "name": "SuRo Capital Corp. - 6.00% Notes due 2026",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SSSSL"
-  },
-  {
    "symbol": "SSTI",
    "name": "SoundThinking, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -95352,12 +95322,6 @@
    "name": "Turtle Beach Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TBCH"
-  },
-  {
-   "symbol": "TBH",
-   "name": "Brag House Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TBH"
   },
   {
    "symbol": "TBIL",
@@ -97758,12 +97722,6 @@
    "name": "VenHub Global, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VHUB"
-  },
-  {
-   "symbol": "VIASP",
-   "name": "Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VIASP"
   },
   {
    "symbol": "VIAV",
