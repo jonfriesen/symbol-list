@@ -1,120 +1,192 @@
 {
  "added": [
   {
-   "symbol": "MBGL",
-   "name": "Mobility Global Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MBGL"
+   "symbol": "CHE.DB.I",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.I.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade LgstIc 7Db",
+     "symbol": "CHE.DB.I"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
   },
   {
-   "symbol": "CAN",
-   "name": "Canaan Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CAN"
-  },
-  {
-   "symbol": "ECHX",
-   "name": "Leverage Shares 2X Long ECHO Daily ETF",
+   "symbol": "AESP",
+   "name": "Aeon Acquisition I Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ECHX"
+   "yahoo_symbol": "AESP"
   },
   {
-   "symbol": "HODO",
-   "name": "House of Doge Inc. - Common Stock",
+   "symbol": "AESPR",
+   "name": "Aeon Acquisition I Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AESPR"
+  },
+  {
+   "symbol": "AESPW",
+   "name": "Aeon Acquisition I Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AESPW"
+  },
+  {
+   "symbol": "BRNS",
+   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HODO"
+   "yahoo_symbol": "BRNS"
   },
   {
-   "symbol": "NSLR",
-   "name": "Neostellar Capital Corp. - Closed End Fund",
+   "symbol": "BSP",
+   "name": "Bending Spoons S.p.A. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NSLR"
+   "yahoo_symbol": "BSP"
   },
   {
-   "symbol": "NSLRL",
-   "name": "Neostellar Capital Corp. - 6.00% Notes due 2026",
+   "symbol": "CIRC",
+   "name": "Circle8 Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NSLRL"
+   "yahoo_symbol": "CIRC"
+  },
+  {
+   "symbol": "FXHO",
+   "name": "UTime Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXHO"
+  },
+  {
+   "symbol": "ITG",
+   "name": "ITG, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ITG"
+  },
+  {
+   "symbol": "LIME",
+   "name": "Neutron Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LIME"
+  },
+  {
+   "symbol": "OSPRU",
+   "name": "Osprey Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSPRU"
+  },
+  {
+   "symbol": "COPR",
+   "name": "Idaho Copper Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "COPR"
+  },
+  {
+   "symbol": "COPR.W",
+   "name": "Idaho Copper Corporation Common Stock Purchase Warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "COPR.W"
+  },
+  {
+   "symbol": "SECZ",
+   "name": "Securitize Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SECZ"
+  },
+  {
+   "symbol": "VII.U",
+   "name": "Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VII.U"
   }
  ],
  "removed": [
   {
-   "symbol": "SEM",
-   "name": "Select Medical Holdings Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SEM"
-  },
-  {
-   "symbol": "BLD",
-   "name": "TopBuild Corp. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BLD"
-  },
-  {
-   "symbol": "VIASP",
-   "name": "Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VIASP"
-  },
-  {
-   "symbol": "SILA",
-   "name": "Sila Realty Trust, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SILA"
-  },
-  {
-   "symbol": "JHG",
-   "name": "Janus Henderson Group plc Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JHG"
-  },
-  {
-   "symbol": "SSSSL",
-   "name": "SuRo Capital Corp. - 6.00% Notes due 2026",
+   "symbol": "RAAQU",
+   "name": "Real Asset Acquisition Corp. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SSSSL"
+   "yahoo_symbol": "RAAQU"
   },
   {
-   "symbol": "STEL",
-   "name": "Stellar Bancorp, Inc. Common Stock",
+   "symbol": "RAAQW",
+   "name": "Real Asset Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAAQW"
+  },
+  {
+   "symbol": "EVGOW",
+   "name": "EVgo Inc. - Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EVGOW"
+  },
+  {
+   "symbol": "GWH.W",
+   "name": "ESS Tech, Inc. Warrant",
    "exchange": "NYSE",
-   "yahoo_symbol": "STEL"
+   "yahoo_symbol": "GWH.W"
   },
   {
-   "symbol": "TBH",
-   "name": "Brag House Holdings, Inc. - Common Stock",
+   "symbol": "WTO",
+   "name": "UTime Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TBH"
+   "yahoo_symbol": "WTO"
   },
   {
-   "symbol": "MBGL.V",
-   "name": "Mobility Global Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MBGL.V"
+   "symbol": "NIXXW",
+   "name": "Nixxy, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIXXW"
   },
   {
-   "symbol": "SATG",
-   "name": "Leverage Shares 2X Long SATS Daily ETF",
+   "symbol": "ATLN",
+   "name": "Atlantic International Corp. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SATG"
+   "yahoo_symbol": "ATLN"
   },
   {
-   "symbol": "CAN",
-   "name": "Canaan Inc. - American Depositary Shares",
+   "symbol": "BRNS",
+   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CAN"
+   "yahoo_symbol": "BRNS"
   },
   {
-   "symbol": "SSSS",
-   "name": "SuRo Capital Corp. - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SSSS"
+   "symbol": "CHE.DB.H",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.H.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade LgstIc 7Db",
+     "symbol": "CHE.DB.I"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
   },
   {
-   "symbol": "SPGI.V",
-   "name": "S\u0026P Global Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SPGI.V"
+   "symbol": "RAAQ",
+   "name": "Real Asset Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAAQ"
+  },
+  {
+   "symbol": "CEPT",
+   "name": "Cantor Equity Partners II, Inc. - Class A ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPT"
+  },
+  {
+   "symbol": "ORGN",
+   "name": "Origin Materials, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORGN"
   }
  ]
 }
