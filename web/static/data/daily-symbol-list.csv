@@ -67,7 +67,7 @@ LI,American Lithium Corp.,TSXV,LI.V,American Lithium Corp.,LI
 TUNG,American Tungsten Corp.,TSXV,TUNG.V,American Tungsten Corp,TUNG
 AMCO,Americore Resources Corp.,TSXV,AMCO.V,Americore Resources Corp.,AMCO
 AMT,AmeriTrust Financial Technologies Inc.,TSXV,AMT.V,AmeriTrust Financial Technologies Inc.,AMT
-AMX,Amex Exploration Inc.,TSXV,AMX.V,Amex Exploration Inc.,AMX
+AMX,Amex Gold Mining Inc.,TSXV,AMX.V,Amex Gold Mining Inc.,AMX
 AMG.P,AMG Acquisition Corp,TSXV,AMG.P.V,AMG Acquisition Corp.,AMG.P
 AMV.P,AMV II Capital Corporation,TSXV,AMV.P.V,AMV II Capital Corporation,AMV.P
 ANDC,Andina Copper Corporation,TSXV,ANDC.V,Andina Copper Corporation,ANDC
@@ -833,7 +833,6 @@ MGG,Minaurum Silver Inc.,TSXV,MGG.V,Minaurum Silver Inc.,MGG
 MMM,Minco Capital Corp.,TSXV,MMM.V,Minco Capital Corp.,MMM
 MHUB,Minehub Technologies Inc.,TSXV,MHUB.V,Minehub Technologies Inc.,MHUB
 MNLX,Miniluxe Holding Corp.,TSXV,MNLX.V,Miniluxe Holding Corp.,MNLX
-MAI,Mining Americas Inc.,TSXV,MAI.V,Mining Americas Inc.,MAI
 MINK,Mink Ventures Corporation,TSXV,MINK.V,Mink Ventures Corporation,MINK
 MCI,Minnova Corp.,TSXV,MCI.V,Minnova Corp.,MCI
 MSR,Minsud Resources Corp.,TSXV,MSR.V,Minsud Resources Corp.,MSR
@@ -988,7 +987,7 @@ PNTI.P,Pentagon I Capital Corp.,TSXV,PNTI.P.V,Pentagon I Capital Corp,PNTI.P
 PINK,"Perimeter Medical Imaging AI, Inc.",TSXV,PINK.V,"Perimeter Medical Imaging AI, Inc.",PINK
 PMI,Perseverance Metals Inc.,TSXV,PMI.V,Perseverance Metals Inc.,PMI
 PER,Peruvian Metals Corp.,TSXV,PER.V,Peruvian Metals Corp.,PER
-PESO,Pesorama Inc.,TSXV,PESO.V,Pesorama Inc.,PESO
+PESO,Pesorama Inc.,TSXV,PESO.V,Pesorama Inc.,PESO,Pesorama Inc db18June2029,PESO.DB
 VRY,Petro-Victory Energy Corp.,TSXV,VRY.V,Petro-Victory Energy Corp.,VRY
 PCQ,Petrolympic Ltd.,TSXV,PCQ.V,Petrolympic Ltd,PCQ
 PTC,Petrox Resources Corp.,TSXV,PTC.V,Petrox Resources Corp.,PTC
@@ -2075,7 +2074,7 @@ DUIG,Desjardins US Investment Grade Corporate Bond Index ETF,TSX,DUIG.TO,Dej US 
 DRFD,DesjardinsRIDeveloped ex-USAex-Canada Multifactor-Net-ZeroEmissionsPathwayETF,TSX,DRFD.TO,DesjardinsRI DevUSCA,DRFD
 DXT,Dexterra Group Inc.,TSX,DXT.TO,Dexterra Group Inc,DXT
 DRT,DIRTT Environmental Solutions Ltd.,TSX,DRT.TO,DIRTT Env Solution J,DRT,DIRTT EnvSolJ 6.25Db,DRT.DB.A
-DSV,Discovery Silver Corp.,TSX,DSV.TO,Discovery Slvr Crp J,DSV
+DSV,Discovery Mining Ltd.,TSX,DSV.TO,Discovery Slvr Crp J,DSV
 DIV,Diversified Royalty Corp.,TSX,DIV.TO,Divers Rylty Corp.,DIV,Divers Rylty 6% Deb,DIV.DB.A,Divers Rylty 5.75 De,DIV.DB.B
 DFN,Dividend 15 Split Corp.,TSX,DFN.TO,Dividend 15 Splt A,DFN,Dividend 15 Splt Pr,DFN.PR.A
 DF,Dividend 15 Split Corp. II,TSX,DF.TO,Dividend 15Split 2 A,DF,Dividend 15Splt 2 Pr,DF.PR.A
@@ -3027,6 +3026,7 @@ MSBP,Middlefield Short Duration Bond Plus ETF,TSX,MSBP.TO,Midfld Sh Du Bd Pl E,M
 MUSA,Middlefield U.S. Equity Dividend ETF,TSX,MUSA.TO,Middlefld US EqtyDiv,MUSA
 MSV,Minco Silver Corporation,TSX,MSV.TO,Minco Silver Corp J,MSV
 MSA,Mineros S.A.,TSX,MSA.TO,Mineros S.A.,MSA
+MAI,Mining Americas Inc.,TSX,MAI.TO,Mining Americas Inc,MAI
 MID.UN,MINT Income Fund,TSX,MID.UN.TO,MINT Incme Fnd Tr Un,MID.UN
 MI.UN,Minto Apartment Real Estate Investment Trust,TSX,MI.UN.TO,Minto Apart REIT Un,MI.UN
 MOAT,Moat Active Premium Yield ETF,TSX,MOAT.TO,Moat Act Pre Yld ETF,MOAT
@@ -5878,6 +5878,8 @@ GSM,Ferroglobe PLC - Ordinary Shares,NASDAQ Capital Market,GSM
 GSRF,GSR IV Acquisition Corp. - Class A ordinary share,NASDAQ Global MarketSM,GSRF
 GSRFR,GSR IV Acquisition Corp. - Rights,NASDAQ Global MarketSM,GSRFR
 GSRFU,GSR IV Acquisition Corp. - Units,NASDAQ Global MarketSM,GSRFU
+GSRV,GSR V Acquisition Corp. - Class A ordinary shares,NASDAQ Global MarketSM,GSRV
+GSRVR,GSR V Acquisition Corp. - Rights,NASDAQ Global MarketSM,GSRVR
 GSRVU,GSR V Acquisition Corp. - Units,NASDAQ Global MarketSM,GSRVU
 GSUN,Golden Sun Technology Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,GSUN
 GT,The Goodyear Tire & Rubber Company - Common Stock,NASDAQ Global Select MarketSM,GT
@@ -6285,6 +6287,8 @@ IPW,iPower Inc. - Common Stock,NASDAQ Capital Market,IPW
 IPWR,Ideal Power Inc. - Common Stock,NASDAQ Capital Market,IPWR
 IPX,IperionX Limited - American Depositary Share,NASDAQ Capital Market,IPX
 IQ,"iQIYI, Inc. - American Depositary Shares",NASDAQ Global Select MarketSM,IQ
+IQMX,IQM Quantum Computers Oyj - American Depositary Shares,NASDAQ Global Select MarketSM,IQMX
+IQMXW,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,NASDAQ Global Select MarketSM,IQMXW
 IQQQ,ProShares Nasdaq-100 High Income ETF,NASDAQ Global MarketSM,IQQQ
 IQST,iQSTEL Inc. - Common Stock,NASDAQ Capital Market,IQST
 IRD,"Opus Genetics, Inc. - Common Stock",NASDAQ Capital Market,IRD
@@ -6831,6 +6835,7 @@ MGRX,"Mangoceuticals, Inc. - Common Stock",NASDAQ Capital Market,MGRX
 MGTX,MeiraGTx Holdings plc - Ordinary Shares,NASDAQ Global Select MarketSM,MGTX
 MGX,"Metagenomi Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,MGX
 MGYR,"Magyar Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,MGYR
+MIACU,Meridian3 Industrials Acquisition Corp - Units,NASDAQ Global MarketSM,MIACU
 MIDD,The Middleby Corporation - Common Stock,NASDAQ Global Select MarketSM,MIDD
 MIDDV,Middleby Corp. - Common Stock Ex-Distribution When Issued,NASDAQ Global Select MarketSM,MIDDV
 MILN,Global X Millennial Consumer ETF,NASDAQ Global MarketSM,MILN
@@ -8836,6 +8841,7 @@ VCIG,VCI Global Limited - Ordinary Share,NASDAQ Capital Market,VCIG
 VCIT,Vanguard Intermediate-Term Corporate Bond ETF,NASDAQ Global MarketSM,VCIT
 VCLT,Vanguard Long-Term Corporate Bond ETF,NASDAQ Global MarketSM,VCLT
 VCRB,Vanguard Core Bond ETF,NASDAQ Global MarketSM,VCRB
+VCRE,Vicore Pharma Holding AB - American Depositary Shares,NASDAQ Capital Market,VCRE
 VCSH,Vanguard Short-Term Corporate Bond ETF,NASDAQ Global MarketSM,VCSH
 VCTR,"Victory Capital Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,VCTR
 VCYT,"Veracyte, Inc. - Common Stock",NASDAQ Global MarketSM,VCYT

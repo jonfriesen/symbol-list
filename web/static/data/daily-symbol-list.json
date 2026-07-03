@@ -1,5 +1,5 @@
 {
- "date": "2026-07-02",
+ "date": "2026-07-03",
  "data": [
   {
    "symbol": "ONE",
@@ -823,12 +823,12 @@
   },
   {
    "symbol": "AMX",
-   "name": "Amex Exploration Inc.",
+   "name": "Amex Gold Mining Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "AMX.V",
    "instruments": [
     {
-     "name": "Amex Exploration Inc.",
+     "name": "Amex Gold Mining Inc.",
      "symbol": "AMX"
     }
    ]
@@ -10094,18 +10094,6 @@
    ]
   },
   {
-   "symbol": "MAI",
-   "name": "Mining Americas Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MAI.V",
-   "instruments": [
-    {
-     "name": "Mining Americas Inc.",
-     "symbol": "MAI"
-    }
-   ]
-  },
-  {
    "symbol": "MINK",
    "name": "Mink Ventures Corporation",
    "exchange": "TSXV",
@@ -12006,6 +11994,10 @@
     {
      "name": "Pesorama Inc.",
      "symbol": "PESO"
+    },
+    {
+     "name": "Pesorama Inc db18June2029",
+     "symbol": "PESO.DB"
     }
    ]
   },
@@ -26183,7 +26175,7 @@
   },
   {
    "symbol": "DSV",
-   "name": "Discovery Silver Corp.",
+   "name": "Discovery Mining Ltd.",
    "exchange": "TSX",
    "yahoo_symbol": "DSV.TO",
    "instruments": [
@@ -38690,6 +38682,18 @@
     {
      "name": "Mineros S.A.",
      "symbol": "MSA"
+    }
+   ]
+  },
+  {
+   "symbol": "MAI",
+   "name": "Mining Americas Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAI.TO",
+   "instruments": [
+    {
+     "name": "Mining Americas Inc",
+     "symbol": "MAI"
     }
    ]
   },
@@ -60588,6 +60592,18 @@
    "yahoo_symbol": "GSRFU"
   },
   {
+   "symbol": "GSRV",
+   "name": "GSR V Acquisition Corp. - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRV"
+  },
+  {
+   "symbol": "GSRVR",
+   "name": "GSR V Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRVR"
+  },
+  {
    "symbol": "GSRVU",
    "name": "GSR V Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
@@ -63028,6 +63044,18 @@
    "name": "iQIYI, Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "IQ"
+  },
+  {
+   "symbol": "IQMX",
+   "name": "IQM Quantum Computers Oyj - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IQMX"
+  },
+  {
+   "symbol": "IQMXW",
+   "name": "IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IQMXW"
   },
   {
    "symbol": "IQQQ",
@@ -66304,6 +66332,12 @@
    "name": "Magyar Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MGYR"
+  },
+  {
+   "symbol": "MIACU",
+   "name": "Meridian3 Industrials Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MIACU"
   },
   {
    "symbol": "MIDD",
@@ -78334,6 +78368,12 @@
    "name": "Vanguard Core Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "VCRB"
+  },
+  {
+   "symbol": "VCRE",
+   "name": "Vicore Pharma Holding AB - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VCRE"
   },
   {
    "symbol": "VCSH",
