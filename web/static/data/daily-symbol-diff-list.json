@@ -1,172 +1,102 @@
 {
  "added": [
   {
-   "symbol": "AKT",
-   "name": "Akita Drilling Ltd.",
+   "symbol": "MLRG",
+   "name": "Madison US Large Cap ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "AKT.TO",
+   "yahoo_symbol": "MLRG.TO",
    "instruments": [
     {
-     "name": "Akita Drilling",
-     "symbol": "AKT"
+     "name": "Madison US Lrg Cap E",
+     "symbol": "MLRG"
     }
    ]
   },
   {
-   "symbol": "HPYG",
-   "name": "Harvest Premium Yield Gold ETF",
+   "symbol": "MMID",
+   "name": "Madison US Mid Cap ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "HPYG.TO",
+   "yahoo_symbol": "MMID.TO",
    "instruments": [
     {
-     "name": "Harvest PremYielGld ",
-     "symbol": "HPYG"
+     "name": "Madison US Mid Cap E",
+     "symbol": "MMID"
     }
    ]
   },
   {
-   "symbol": "ALPX",
-   "name": "Alpex Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALPX"
+   "symbol": "BKYI",
+   "name": "BIO-key International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BKYI"
   },
   {
-   "symbol": "ALPXR",
-   "name": "Alpex Acquisition Corporation - Rights",
+   "symbol": "CEPL",
+   "name": "Capstone Energy Plus, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALPXR"
+   "yahoo_symbol": "CEPL"
   },
   {
-   "symbol": "ALPXW",
-   "name": "Alpex Acquisition Corporation - Warrants",
+   "symbol": "PUR",
+   "name": "Defiance Daily Target 2X Long PURR ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALPXW"
+   "yahoo_symbol": "PUR"
   },
   {
-   "symbol": "BBUL",
-   "name": "GraniteShares 2x Long BB Daily ETF",
+   "symbol": "TRUM",
+   "name": "VanEck Materials TruSector ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BBUL"
+   "yahoo_symbol": "TRUM"
   },
   {
-   "symbol": "BCCQU",
-   "name": "Bleichroeder Acquisition Corp. III - Units",
+   "symbol": "TRUN",
+   "name": "VanEck Energy TruSector ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCCQU"
+   "yahoo_symbol": "TRUN"
   },
   {
-   "symbol": "FAC",
-   "name": "Factorial Energy Inc. - Class A Common Stock",
+   "symbol": "TRUR",
+   "name": "VanEck Real Estate TruSector ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FAC"
+   "yahoo_symbol": "TRUR"
   },
   {
-   "symbol": "FACWW",
-   "name": "Factorial Energy Inc. - Warrant",
+   "symbol": "TRUU",
+   "name": "VanEck Utilities TruSector ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FACWW"
-  },
-  {
-   "symbol": "FXAC",
-   "name": "FortuneX Acquisition Corporation - Ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FXAC"
-  },
-  {
-   "symbol": "FXACW",
-   "name": "FortuneX Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FXACW"
-  },
-  {
-   "symbol": "MFP",
-   "name": "Midera Food Processing, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MFP"
-  },
-  {
-   "symbol": "PUL",
-   "name": "GraniteShares 2x Long P Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PUL"
+   "yahoo_symbol": "TRUU"
   }
  ],
  "removed": [
   {
-   "symbol": "BABY",
-   "name": "Else Nutrition Holdings Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "BABY.TO",
+   "symbol": "STRR",
+   "name": "Star Royalties Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STRR.V",
    "instruments": [
     {
-     "name": "Else Nutrition J",
-     "symbol": "BABY"
-    },
-    {
-     "name": "Else NutritionJ 21Wt",
-     "symbol": "BABY.WT.A"
+     "name": "Star Royalties Ltd.",
+     "symbol": "STRR"
     }
    ]
   },
   {
-   "symbol": "BAYA",
-   "name": "Bayview Acquisition Corp - Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BAYA"
-  },
-  {
-   "symbol": "MIDDV",
-   "name": "The Middleby Corporation - Common Stock Ex-Distribution When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MIDDV"
-  },
-  {
-   "symbol": "BAYAR",
-   "name": "Bayview Acquisition Corp - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BAYAR"
-  },
-  {
-   "symbol": "AKT.B",
-   "name": "Akita Drilling Ltd.",
+   "symbol": "ISC",
+   "name": "Information Services Corporation",
    "exchange": "TSX",
-   "yahoo_symbol": "AKT.B.TO",
+   "yahoo_symbol": "ISC.TO",
    "instruments": [
     {
-     "name": "Akita Drilling Cl B",
-     "symbol": "AKT.B"
+     "name": "Info Serv Corp. A LV",
+     "symbol": "ISC"
     }
    ]
   },
   {
-   "symbol": "MFPVV",
-   "name": "Midera Food Processing, Inc. - Common Stock When Issued",
+   "symbol": "OLPX",
+   "name": "Olaplex Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MFPVV"
-  },
-  {
-   "symbol": "FACWW",
-   "name": "Factorial Energy Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FACWW"
-  },
-  {
-   "symbol": "BAYAU",
-   "name": "Bayview Acquisition Corp - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BAYAU"
-  },
-  {
-   "symbol": "FAC",
-   "name": "Factorial Energy Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FAC"
-  },
-  {
-   "symbol": "REE",
-   "name": "REE Automotive Ltd. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "REE"
+   "yahoo_symbol": "OLPX"
   }
  ]
 }
