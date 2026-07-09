@@ -1,102 +1,90 @@
 {
  "added": [
   {
-   "symbol": "MLRG",
-   "name": "Madison US Large Cap ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MLRG.TO",
-   "instruments": [
-    {
-     "name": "Madison US Lrg Cap E",
-     "symbol": "MLRG"
-    }
-   ]
+   "symbol": "CCCTU",
+   "name": "Columbus Circle Capital Corp III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCTU"
   },
   {
-   "symbol": "MMID",
-   "name": "Madison US Mid Cap ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMID.TO",
-   "instruments": [
-    {
-     "name": "Madison US Mid Cap E",
-     "symbol": "MMID"
-    }
-   ]
+   "symbol": "FDMMU",
+   "name": "Freedom Metals Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDMMU"
   },
   {
-   "symbol": "BKYI",
-   "name": "BIO-key International, Inc. - Common Stock",
+   "symbol": "IQQ",
+   "name": "iShares Nasdaq 100 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IQQ"
+  },
+  {
+   "symbol": "MRCOU",
+   "name": "Mercator Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRCOU"
+  },
+  {
+   "symbol": "PMA",
+   "name": "Ming Shing Group Holdings Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BKYI"
+   "yahoo_symbol": "PMA"
   },
   {
-   "symbol": "CEPL",
-   "name": "Capstone Energy Plus, Inc. - Common Stock",
+   "symbol": "WSPC",
+   "name": "WisdomTree Space Economy Fund",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CEPL"
+   "yahoo_symbol": "WSPC"
   },
   {
-   "symbol": "PUR",
-   "name": "Defiance Daily Target 2X Long PURR ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PUR"
+   "symbol": "ALCH",
+   "name": "Alchemy Labs Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALCH.V",
+   "instruments": [
+    {
+     "name": "Alchemy Labs Inc.",
+     "symbol": "ALCH"
+    }
+   ]
   },
   {
-   "symbol": "TRUM",
-   "name": "VanEck Materials TruSector ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRUM"
+   "symbol": "NSDC",
+   "name": "NBI SmartData Canadian Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSDC.TO",
+   "instruments": [
+    {
+     "name": "NBI SmrtDta Cdn Eq F",
+     "symbol": "NSDC"
+    }
+   ]
   },
   {
-   "symbol": "TRUN",
-   "name": "VanEck Energy TruSector ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRUN"
-  },
-  {
-   "symbol": "TRUR",
-   "name": "VanEck Real Estate TruSector ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRUR"
-  },
-  {
-   "symbol": "TRUU",
-   "name": "VanEck Utilities TruSector ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TRUU"
+   "symbol": "AZUL",
+   "name": "Azul S.A. American Depositary Shares, each representing two (2) Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AZUL"
   }
  ],
  "removed": [
   {
-   "symbol": "STRR",
-   "name": "Star Royalties Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "STRR.V",
-   "instruments": [
-    {
-     "name": "Star Royalties Ltd.",
-     "symbol": "STRR"
-    }
-   ]
+   "symbol": "AZUL",
+   "name": "Azul S.A. American Depositary Shares, each representing two (2) Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AZUL"
   },
   {
-   "symbol": "ISC",
-   "name": "Information Services Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "ISC.TO",
-   "instruments": [
-    {
-     "name": "Info Serv Corp. A LV",
-     "symbol": "ISC"
-    }
-   ]
+   "symbol": "TE.W",
+   "name": "T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TE.W"
   },
   {
-   "symbol": "OLPX",
-   "name": "Olaplex Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OLPX"
+   "symbol": "MSW",
+   "name": "Ming Shing Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSW"
   }
  ]
 }
