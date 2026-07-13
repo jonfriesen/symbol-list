@@ -1,5 +1,5 @@
 {
- "date": "2026-07-10",
+ "date": "2026-07-13",
  "data": [
   {
    "symbol": "ONE",
@@ -4146,10 +4146,6 @@
     {
      "name": "Crown Point Energy Inc.",
      "symbol": "CWV"
-    },
-    {
-     "name": "Crown Point Energy Inc. Rt 13Jul2026",
-     "symbol": "CWV.RT"
     }
    ]
   },
@@ -33734,18 +33730,6 @@
    ]
   },
   {
-   "symbol": "IIP.UN",
-   "name": "InterRent Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "IIP.UN.TO",
-   "instruments": [
-    {
-     "name": "InterRent REIT J Un",
-     "symbol": "IIP.UN"
-    }
-   ]
-  },
-  {
    "symbol": "INTU",
    "name": "Intuit CDR (CAD Hedged)",
    "exchange": "TSX",
@@ -50614,6 +50598,12 @@
    "yahoo_symbol": "AZI"
   },
   {
+   "symbol": "AZIO",
+   "name": "Azio AI Holdings, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZIO"
+  },
+  {
    "symbol": "AZTA",
    "name": "Azenta, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -57550,12 +57540,6 @@
    "yahoo_symbol": "EVSD"
   },
   {
-   "symbol": "EVTV",
-   "name": "Azio AI Holdings, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EVTV"
-  },
-  {
    "symbol": "EVYM",
    "name": "Eaton Vance High Income Municipal ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -59822,6 +59806,18 @@
    "name": "GlobalFoundries Inc. - Ordinary Share",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "GFS"
+  },
+  {
+   "symbol": "GFUZ",
+   "name": "General Fusion Group Ltd. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFUZ"
+  },
+  {
+   "symbol": "GFUZW",
+   "name": "General Fusion Group Ltd. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFUZW"
   },
   {
    "symbol": "GGAL",
@@ -64844,6 +64840,12 @@
    "name": "Lucas GC Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LGCL"
+  },
+  {
+   "symbol": "LGDS",
+   "name": "JPMorgan Fundamental Data Science Large Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGDS"
   },
   {
    "symbol": "LGHL",
@@ -71830,12 +71832,6 @@
    "yahoo_symbol": "QH"
   },
   {
-   "symbol": "QHDG",
-   "name": "Innovator Hedged Nasdaq-100 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QHDG"
-  },
-  {
    "symbol": "QLDY",
    "name": "Defiance Nasdaq 100 LightningSpread Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -72266,6 +72262,12 @@
    "name": "Research Alliance Corporation III - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RACC"
+  },
+  {
+   "symbol": "RACD",
+   "name": "Research Alliance Corporation IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACD"
   },
   {
    "symbol": "RADX",
@@ -74452,10 +74454,10 @@
    "yahoo_symbol": "SJLD"
   },
   {
-   "symbol": "SKHYV",
-   "name": "SK hynix Inc. - American Depository Shares",
+   "symbol": "SKHY",
+   "name": "SK hynix Inc. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SKHYV"
+   "yahoo_symbol": "SKHY"
   },
   {
    "symbol": "SKIN",
@@ -75800,24 +75802,6 @@
    "name": "Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SVA"
-  },
-  {
-   "symbol": "SVAC",
-   "name": "Spring Valley Acquisition Corp. III - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVAC"
-  },
-  {
-   "symbol": "SVACU",
-   "name": "Spring Valley Acquisition Corp. III - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVACU"
-  },
-  {
-   "symbol": "SVACW",
-   "name": "Spring Valley Acquisition Corp. III - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SVACW"
   },
   {
    "symbol": "SVAQ",
@@ -77560,10 +77544,22 @@
    "yahoo_symbol": "TVGNW"
   },
   {
+   "symbol": "TVIV",
+   "name": "Texas Ventures Acquisition IV Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVIV"
+  },
+  {
    "symbol": "TVIVU",
    "name": "Texas Ventures Acquisition IV Corp - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TVIVU"
+  },
+  {
+   "symbol": "TVIVW",
+   "name": "Texas Ventures Acquisition IV Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVIVW"
   },
   {
    "symbol": "TVRD",
@@ -80392,10 +80388,22 @@
    "yahoo_symbol": "YIBO"
   },
   {
+   "symbol": "YICC",
+   "name": "Yorkville International Capital Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YICC"
+  },
+  {
    "symbol": "YICCU",
    "name": "Yorkville International Capital Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "YICCU"
+  },
+  {
+   "symbol": "YICCW",
+   "name": "Yorkville International Capital Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YICCW"
   },
   {
    "symbol": "YJ",
@@ -98732,12 +98740,6 @@
    "name": "V.F. Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VFC"
-  },
-  {
-   "symbol": "VFL",
-   "name": "abrdn National Municipal Income Fund Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "VFL"
   },
   {
    "symbol": "VG",

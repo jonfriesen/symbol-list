@@ -342,7 +342,7 @@ CCMM,Coyote Copper Mines Inc.,TSXV,CCMM.V,Coyote Copper Mines Inc.,CCMM
 CEQ,Criterium Energy Ltd.,TSXV,CEQ.V,Criterium Energy Ltd.,CEQ
 CRE,Critical Elements Lithium Corporation,TSXV,CRE.V,Critical Elements Lithium Corporation,CRE
 CRG,Crossroads Gold Corp.,TSXV,CRG.V,Crossroads Gold Corp.,CRG
-CWV,Crown Point Energy Inc.,TSXV,CWV.V,Crown Point Energy Inc.,CWV,Crown Point Energy Inc. Rt 13Jul2026,CWV.RT
+CWV,Crown Point Energy Inc.,TSXV,CWV.V,Crown Point Energy Inc.,CWV
 CSTR,Cryptostar Corp.,TSXV,CSTR.V,Cryptostar Corp.,CSTR
 CLCO,Culico Metals Inc.,TSXV,CLCO.V,Culico Metals Inc.,CLCO
 CVW,CVW Sustainable Royalties Inc.,TSXV,CVW.V,CVW Sustainable Royalties Inc.,CVW
@@ -2637,7 +2637,6 @@ IFP,Interfor Corporation,TSX,IFP.TO,Interfor Corporation,IFP
 IMP,Intermap Technologies Corporation,TSX,IMP.TO,Intermap Technology,IMP
 IPCO,International Petroleum Corporation,TSX,IPCO.TO,Int'l Pete Corp.,IPCO
 ITH,International Tower Hill Mines Ltd.,TSX,ITH.TO,Int'l Tower Hill J,ITH
-IIP.UN,InterRent Real Estate Investment Trust,TSX,IIP.UN.TO,InterRent REIT J Un,IIP.UN
 INTU,Intuit CDR (CAD Hedged),TSX,INTU.TO,Intuit CDR CAD Hgd,INTU
 ISRG,Intuitive Surgical CDR (CAD Hedged),TSX,ISRG.TO,Intuitive CDR Hgd,ISRG
 PSB,Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF,TSX,PSB.TO,Invesco1-5CorpBnd Un,PSB
@@ -4219,6 +4218,7 @@ AYA,Aya Gold & Silver Inc. - Common Shares,NASDAQ Global Select MarketSM,AYA
 AYTU,"Aytu BioPharma, Inc.  - Common Stock",NASDAQ Capital Market,AYTU
 AZ,A2Z Cust2Mate Solutions Corp. - Common Shares,NASDAQ Capital Market,AZ
 AZI,Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,AZI
+AZIO,"Azio AI Holdings, Inc. - Common stock",NASDAQ Capital Market,AZIO
 AZTA,"Azenta, Inc. - Common Stock",NASDAQ Global Select MarketSM,AZTA
 AZYY,GraniteShares YieldBoost AMZN ETF,NASDAQ Global MarketSM,AZYY
 BABU,Direxion Daily BABA Bull 2X ETF,NASDAQ Global MarketSM,BABU
@@ -5375,7 +5375,6 @@ EVOXW,Evolution Global Acquisition Corp - Warrants,NASDAQ Global MarketSM,EVOXW
 EVPF,Eaton Vance Preferred Securities and Income ETF,NASDAQ Global MarketSM,EVPF
 EVRG,"Evergy, Inc. - Common Stock",NASDAQ Global Select MarketSM,EVRG
 EVSD,Eaton Vance Short Duration Income ETF,NASDAQ Global MarketSM,EVSD
-EVTV,"Azio AI Holdings, Inc. - Common stock",NASDAQ Capital Market,EVTV
 EVYM,Eaton Vance High Income Municipal ETF,NASDAQ Global MarketSM,EVYM
 EWBC,"East West Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,EWBC
 EWJV,iShares MSCI Japan Value ETF,NASDAQ Global MarketSM,EWJV
@@ -5754,6 +5753,8 @@ GFAIW,"Guardforce AI Co., Limited - Warrant",NASDAQ Capital Market,GFAIW
 GFGF,Guru Favorite Stocks ETF,NASDAQ Global MarketSM,GFGF
 GFLW,VictoryShares Free Cash Flow Growth ETF,NASDAQ Global MarketSM,GFLW
 GFS,GlobalFoundries Inc. - Ordinary Share,NASDAQ Global Select MarketSM,GFS
+GFUZ,General Fusion Group Ltd. - Common Shares,NASDAQ Global MarketSM,GFUZ
+GFUZW,General Fusion Group Ltd. - Warrant,NASDAQ Global MarketSM,GFUZW
 GGAL,"Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying",NASDAQ Capital Market,GGAL
 GGLL,Direxion Daily GOOGL Bull 2X ETF,NASDAQ Global MarketSM,GGLL
 GGLS,Direxion Daily GOOGL Bear 1X ETF,NASDAQ Global MarketSM,GGLS
@@ -6591,6 +6592,7 @@ LFVN,Lifevantage Corporation - Common Stock,NASDAQ Capital Market,LFVN
 LFWD,Lifeward Ltd. - Ordinary Shares,NASDAQ Capital Market,LFWD
 LGCF,Themes US Cash Flow Champions ETF,NASDAQ Global MarketSM,LGCF
 LGCL,Lucas GC Limited - Class A Ordinary Shares,NASDAQ Capital Market,LGCL
+LGDS,JPMorgan Fundamental Data Science Large Growth ETF,NASDAQ Global MarketSM,LGDS
 LGHL,Lion Group Holding Ltd. - American Depositary Share,NASDAQ Capital Market,LGHL
 LGIH,"LGI Homes, Inc. - Common Stock",NASDAQ Global Select MarketSM,LGIH
 LGN,Legence Corp. - Class A Common stock,NASDAQ Global Select MarketSM,LGN
@@ -7755,7 +7757,6 @@ QEW,Invesco QQQ Equal Weight ETF,NASDAQ Global MarketSM,QEW
 QFIN,"Qfin Holdings, Inc.  - American Depositary Shares",NASDAQ Global Select MarketSM,QFIN
 QGRD,Horizon Nasdaq-100 Defined Risk ETF,NASDAQ Global MarketSM,QGRD
 QH,Quhuo Limited - American Depository Shares,NASDAQ Capital Market,QH
-QHDG,Innovator Hedged Nasdaq-100 ETF,NASDAQ Global MarketSM,QHDG
 QLDY,Defiance Nasdaq 100 LightningSpread Income ETF,NASDAQ Global MarketSM,QLDY
 QLYS,"Qualys, Inc. - Common Stock",NASDAQ Global Select MarketSM,QLYS
 QMCO,Quantum Corporation - Common Stock,NASDAQ Global MarketSM,QMCO
@@ -7828,6 +7829,7 @@ QYLD,Global X NASDAQ 100 Covered Call ETF,NASDAQ Global MarketSM,QYLD
 QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,NASDAQ Global MarketSM,QYLG
 RAA,SMI 3Fourteen REAL Asset Allocation ETF,NASDAQ Global MarketSM,RAA
 RACC,Research Alliance Corporation III - Class A Ordinary Shares,NASDAQ Capital Market,RACC
+RACD,Research Alliance Corporation IV - Class A Ordinary Shares,NASDAQ Capital Market,RACD
 RADX,Radiopharm Theranostics Limited - American Depositary Shares,NASDAQ Capital Market,RADX
 RAIL,"Freightcar America, Inc. - Common Stock",NASDAQ Global Select MarketSM,RAIL
 RAIN,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",NASDAQ Capital Market,RAIN
@@ -8192,7 +8194,7 @@ SITM,SiTime Corporation - Common Stock,NASDAQ Global MarketSM,SITM
 SJ,Scienjoy Holding Corporation - Class A Ordinary Shares,NASDAQ Capital Market,SJ
 SJCP,SanJac Alpha Core Plus Bond ETF,NASDAQ Global MarketSM,SJCP
 SJLD,SanJac Alpha Low Duration ETF,NASDAQ Global MarketSM,SJLD
-SKHYV,SK hynix Inc. - American Depository Shares,NASDAQ Global Select MarketSM,SKHYV
+SKHY,SK hynix Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,SKHY
 SKIN,SkinHealth Systems Inc. - Class A Common Stock,NASDAQ Capital Market,SKIN
 SKK,SKK Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,SKK
 SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,NASDAQ Global MarketSM,SKOR
@@ -8417,9 +8419,6 @@ SUSB,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,NASDAQ Global MarketSM,SU
 SUSC,iShares ESG Aware USD Corporate Bond ETF,NASDAQ Global MarketSM,SUSC
 SUSL,iShares ESG MSCI USA Leaders ETF,NASDAQ Global MarketSM,SUSL
 SVA,"Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",NASDAQ Global Select MarketSM,SVA
-SVAC,Spring Valley Acquisition Corp. III - Class A Ordinary Shares,NASDAQ Global MarketSM,SVAC
-SVACU,Spring Valley Acquisition Corp. III - Unit,NASDAQ Global MarketSM,SVACU
-SVACW,Spring Valley Acquisition Corp. III - Warrant,NASDAQ Global MarketSM,SVACW
 SVAQ,Silicon Valley Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,SVAQ
 SVAQU,Silicon Valley Acquisition Corp. - Units,NASDAQ Global MarketSM,SVAQU
 SVAQW,Silicon Valley Acquisition Corp. - Warrants,NASDAQ Global MarketSM,SVAQW
@@ -8710,7 +8709,9 @@ TVAIR,Thayer Ventures Acquisition Corporation II - Rights,NASDAQ Global MarketSM
 TVAIU,Thayer Ventures Acquisition Corporation II - Unit,NASDAQ Global MarketSM,TVAIU
 TVGN,Tevogen Bio Holdings Inc. - Common Stock,NASDAQ Global MarketSM,TVGN
 TVGNW,Tevogen Bio Holdings Inc. - Warrant,NASDAQ Capital Market,TVGNW
+TVIV,Texas Ventures Acquisition IV Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,TVIV
 TVIVU,Texas Ventures Acquisition IV Corp - Units,NASDAQ Global MarketSM,TVIVU
+TVIVW,Texas Ventures Acquisition IV Corp - Warrant,NASDAQ Global MarketSM,TVIVW
 TVRD,"Tvardi Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,TVRD
 TVTX,"Travere Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,TVTX
 TW,Tradeweb Markets Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,TW
@@ -9182,7 +9183,9 @@ YHNAR,YHN Acquisition I Limited - Right,NASDAQ Global MarketSM,YHNAR
 YHNAU,YHN Acquisition I Limited - Unit,NASDAQ Global MarketSM,YHNAU
 YI,"111, Inc. - American Depositary Shares",NASDAQ Global MarketSM,YI
 YIBO,Planet Image International Limited - Class A Ordinary Shares,NASDAQ Capital Market,YIBO
+YICC,Yorkville International Capital Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,YICC
 YICCU,Yorkville International Capital Corp. - Units,NASDAQ Global MarketSM,YICCU
+YICCW,Yorkville International Capital Corp. - Warrants,NASDAQ Global MarketSM,YICCW
 YJ,Yunji Inc. - American Depository Shares,NASDAQ Capital Market,YJ
 YLDE,Franklin ClearBridge Enhanced Income ETF,NASDAQ Global MarketSM,YLDE
 YMAT,"J-Star Holding Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,YMAT
@@ -12239,7 +12242,6 @@ VEL,"Velocity Financial, Inc. Common Stock",NYSE,VEL
 VENU,Venu Holding Corporation Common Stock,NYSE MKT,VENU
 VET,Vermilion Energy Inc. Common (Canada),NYSE,VET
 VFC,V.F. Corporation Common Stock,NYSE,VFC
-VFL,abrdn National Municipal Income Fund Common Stock,NYSE MKT,VFL
 VG,"Venture Global, Inc. Class A common stock",NYSE,VG
 VGI,Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,NYSE,VGI
 VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),NYSE,VGM
