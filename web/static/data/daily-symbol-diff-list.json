@@ -1,102 +1,102 @@
 {
  "added": [
   {
-   "symbol": "BRKH",
-   "name": "Burtech Acquisition Corp II - Class A Ordinary Shares",
+   "symbol": "NICE",
+   "name": "Ni-Co Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NICE.V",
+   "instruments": [
+    {
+     "name": "Ni-Co Energy inc.",
+     "symbol": "NICE"
+    }
+   ]
+  },
+  {
+   "symbol": "DPU",
+   "name": "Top KingWin Ltd - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BRKH"
+   "yahoo_symbol": "DPU"
   },
   {
-   "symbol": "BRKHW",
-   "name": "Burtech Acquisition Corp II - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BRKHW"
-  },
-  {
-   "symbol": "BTDL",
-   "name": "GraniteShares 2x Long BTDR Daily ETF",
+   "symbol": "YSAG",
+   "name": "Y'all Street Physical Silver ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BTDL"
+   "yahoo_symbol": "YSAG"
   },
   {
-   "symbol": "JONEU",
-   "name": "Jones Ventures INTL Acquisition1 Corp - Units",
+   "symbol": "YSAU",
+   "name": "Y'all Street Physical Gold ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JONEU"
+   "yahoo_symbol": "YSAU"
   },
   {
-   "symbol": "NTAL",
-   "name": "GraniteShares 2x Long NTAP Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NTAL"
+   "symbol": "CSQR",
+   "name": "Csquare, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSQR"
   },
   {
-   "symbol": "QFF",
-   "name": "Qualivian Focus Fund ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QFF"
-  },
-  {
-   "symbol": "SEUS",
-   "name": "SEI QiM U.S. Equity Factor Allocation Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SEUS"
-  },
-  {
-   "symbol": "SKDD",
-   "name": "GraniteShares 2x Short SK Hynix Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SKDD"
-  },
-  {
-   "symbol": "SKUU",
-   "name": "GraniteShares 2x Long SK Hynix Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SKUU"
-  },
-  {
-   "symbol": "TDCL",
-   "name": "GraniteShares 2x Long TDC Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDCL"
+   "symbol": "STDN",
+   "name": "Standard Nuclear, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STDN"
   }
  ],
  "removed": [
   {
-   "symbol": "RQI.R",
-   "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",
+   "symbol": "LCDL",
+   "name": "GraniteShares 2x Long LCID Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCDL"
+  },
+  {
+   "symbol": "GTLS",
+   "name": "Chart Industries, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "RQI.R"
+   "yahoo_symbol": "GTLS"
   },
   {
-   "symbol": "XOMA",
-   "name": "XOMA Royalty Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XOMA"
+   "symbol": "NUVL",
+   "name": "Nuvalent, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NUVL"
   },
   {
-   "symbol": "BLCN",
-   "name": "Siren NexGen Economy ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLCN"
+   "symbol": "PTNM",
+   "name": "Pitanium Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTNM"
   },
   {
-   "symbol": "XOMAP",
-   "name": "XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XOMAP"
+   "symbol": "CPRX",
+   "name": "Catalyst Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CPRX"
   },
   {
-   "symbol": "XOMAO",
-   "name": "XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XOMAO"
+   "symbol": "WAI",
+   "name": "Top KingWin Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAI"
   },
   {
-   "symbol": "HLLY.W",
-   "name": "Holley Inc. Warrants",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HLLY.W"
+   "symbol": "QTEXW",
+   "name": "QTREX Quantum Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTEXW"
+  },
+  {
+   "symbol": "PHA",
+   "name": "Premier Health of America Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PHA.V",
+   "instruments": [
+    {
+     "name": "Premier Health of America Inc.",
+     "symbol": "PHA"
+    }
+   ]
   }
  ]
 }
