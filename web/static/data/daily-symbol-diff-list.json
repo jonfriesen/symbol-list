@@ -1,166 +1,142 @@
 {
  "added": [
   {
-   "symbol": "OCAL",
-   "name": "OCAL Financial Inc.",
+   "symbol": "GORO",
+   "name": "Goldgroup Mining Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "OCAL.V",
+   "yahoo_symbol": "GORO.V",
    "instruments": [
     {
-     "name": "OCAL Financial Inc.",
-     "symbol": "OCAL"
+     "name": "Goldgroup Mining Inc.",
+     "symbol": "GORO"
     }
    ]
   },
   {
-   "symbol": "BRTMU",
-   "name": "B\u0026R Technology Merger Corp. - Units",
+   "symbol": "INXS",
+   "name": "Goldinxs Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INXS.V",
+   "instruments": [
+    {
+     "name": "GoldInxs Mining Corp.",
+     "symbol": "INXS"
+    }
+   ]
+  },
+  {
+   "symbol": "CHGA",
+   "name": "Change Agents Corporation  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHGA"
+  },
+  {
+   "symbol": "CPTL",
+   "name": "Global X Morningstar Capital Allocation Leaders ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRTMU"
+   "yahoo_symbol": "CPTL"
   },
   {
-   "symbol": "CIGL",
-   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "symbol": "MEDS",
+   "name": "DataMeds AI, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CIGL"
+   "yahoo_symbol": "MEDS"
   },
   {
-   "symbol": "FRNM",
-   "name": "Freenome, Inc. - Common stock",
+   "symbol": "PWCM",
+   "name": "PowerCompute, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FRNM"
+   "yahoo_symbol": "PWCM"
   },
   {
-   "symbol": "HLTH",
-   "name": "Tema Healthcare AI ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HLTH"
+   "symbol": "PSA$T",
+   "name": "Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSA$T"
   },
   {
-   "symbol": "KWM",
-   "name": "K Wave Media, Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KWM"
-  },
-  {
-   "symbol": "NCOOU",
-   "name": "Southern Cross Acquisition I Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NCOOU"
-  },
-  {
-   "symbol": "SIMA",
-   "name": "SIM Acquisition Corp. I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SIMA"
-  },
-  {
-   "symbol": "SIMAU",
-   "name": "SIM Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SIMAU"
-  },
-  {
-   "symbol": "SIMAW",
-   "name": "SIM Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SIMAW"
+   "symbol": "PSA$U",
+   "name": "Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSA$U"
   }
  ],
  "removed": [
   {
-   "symbol": "KWM",
-   "name": "K Wave Media, Ltd. - Ordinary Shares",
+   "symbol": "NSA$A",
+   "name": "National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSA$A"
+  },
+  {
+   "symbol": "NSA",
+   "name": "National Storage Affiliates Trust Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSA"
+  },
+  {
+   "symbol": "KRMA",
+   "name": "Global X Conscious Companies ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KWM"
+   "yahoo_symbol": "KRMA"
   },
   {
-   "symbol": "YOOV",
-   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "symbol": "ALBT",
+   "name": "Avalon GloboCare Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YOOV"
+   "yahoo_symbol": "ALBT"
   },
   {
-   "symbol": "EOSER",
-   "name": "Eos Energy Enterprises, Inc. - Right",
+   "symbol": "LMFA",
+   "name": "LM Funding America, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EOSER"
+   "yahoo_symbol": "LMFA"
   },
   {
-   "symbol": "PCSC",
-   "name": "Perceptive Capital Solutions Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PCSC"
+   "symbol": "WGRX",
+   "name": "Wellgistics Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WGRX"
   },
   {
-   "symbol": "VAX",
-   "name": "Vantex Resources Ltd.",
+   "symbol": "CCRN",
+   "name": "Cross Country Healthcare, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CCRN"
+  },
+  {
+   "symbol": "NSA$B",
+   "name": "National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSA$B"
+  },
+  {
+   "symbol": "GGL",
+   "name": "GGL Resources Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "VAX.V",
+   "yahoo_symbol": "GGL.V",
    "instruments": [
     {
-     "name": "Vantex Resources Ltd.",
-     "symbol": "VAX"
+     "name": "GGL Resources Corp.",
+     "symbol": "GGL"
     }
    ]
   },
   {
-   "symbol": "CREG",
-   "name": "Smart Powerr Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CREG"
-  },
-  {
-   "symbol": "SIMAU",
-   "name": "SIM Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SIMAU"
-  },
-  {
-   "symbol": "SIMAW",
-   "name": "SIM Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SIMAW"
-  },
-  {
-   "symbol": "NFBK",
-   "name": "Northfield Bancorp, Inc. - Common Stock",
+   "symbol": "WGSWW",
+   "name": "GeneDx Holdings Corp. - Warrant",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NFBK"
+   "yahoo_symbol": "WGSWW"
   },
   {
-   "symbol": "AMPGR",
-   "name": "Amplitech Group, Inc. - Series A Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMPGR"
-  },
-  {
-   "symbol": "SIMA",
-   "name": "SIM Acquisition Corp. I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SIMA"
-  },
-  {
-   "symbol": "FFAIW",
-   "name": "Faraday Future Intelligent Electric Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FFAIW"
-  },
-  {
-   "symbol": "KORE",
-   "name": "KORE Group Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KORE"
-  },
-  {
-   "symbol": "RVC.P",
-   "name": "Ronin Ventures Corp.",
+   "symbol": "GGA",
+   "name": "Goldgroup Mining Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "RVC.P.V",
+   "yahoo_symbol": "GGA.V",
    "instruments": [
     {
-     "name": "Ronin Ventures Corp.",
-     "symbol": "RVC.P"
+     "name": "Goldgroup Mining Inc.",
+     "symbol": "GGA"
     }
    ]
   }
