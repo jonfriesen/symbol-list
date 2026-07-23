@@ -1,116 +1,6 @@
 {
  "added": [
   {
-   "symbol": "GORO",
-   "name": "Goldgroup Mining Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GORO.V",
-   "instruments": [
-    {
-     "name": "Goldgroup Mining Inc.",
-     "symbol": "GORO"
-    }
-   ]
-  },
-  {
-   "symbol": "INXS",
-   "name": "Goldinxs Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "INXS.V",
-   "instruments": [
-    {
-     "name": "GoldInxs Mining Corp.",
-     "symbol": "INXS"
-    }
-   ]
-  },
-  {
-   "symbol": "CHGA",
-   "name": "Change Agents Corporation  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CHGA"
-  },
-  {
-   "symbol": "CPTL",
-   "name": "Global X Morningstar Capital Allocation Leaders ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CPTL"
-  },
-  {
-   "symbol": "MEDS",
-   "name": "DataMeds AI, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MEDS"
-  },
-  {
-   "symbol": "PWCM",
-   "name": "PowerCompute, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PWCM"
-  },
-  {
-   "symbol": "PSA$T",
-   "name": "Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PSA$T"
-  },
-  {
-   "symbol": "PSA$U",
-   "name": "Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PSA$U"
-  }
- ],
- "removed": [
-  {
-   "symbol": "NSA$A",
-   "name": "National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NSA$A"
-  },
-  {
-   "symbol": "NSA",
-   "name": "National Storage Affiliates Trust Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NSA"
-  },
-  {
-   "symbol": "KRMA",
-   "name": "Global X Conscious Companies ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KRMA"
-  },
-  {
-   "symbol": "ALBT",
-   "name": "Avalon GloboCare Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALBT"
-  },
-  {
-   "symbol": "LMFA",
-   "name": "LM Funding America, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LMFA"
-  },
-  {
-   "symbol": "WGRX",
-   "name": "Wellgistics Health, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WGRX"
-  },
-  {
-   "symbol": "CCRN",
-   "name": "Cross Country Healthcare, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CCRN"
-  },
-  {
-   "symbol": "NSA$B",
-   "name": "National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NSA$B"
-  },
-  {
    "symbol": "GGL",
    "name": "GGL Resources Corp.",
    "exchange": "TSXV",
@@ -123,22 +13,138 @@
    ]
   },
   {
-   "symbol": "WGSWW",
-   "name": "GeneDx Holdings Corp. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WGSWW"
-  },
-  {
-   "symbol": "GGA",
-   "name": "Goldgroup Mining Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GGA.V",
+   "symbol": "CAPQ",
+   "name": "Capital Group Global Developed Equity Select ETF (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPQ.TO",
    "instruments": [
     {
-     "name": "Goldgroup Mining Inc.",
-     "symbol": "GGA"
+     "name": "CapGrp Gbl De Eq Sel",
+     "symbol": "CAPQ"
     }
    ]
+  },
+  {
+   "symbol": "CAPN",
+   "name": "Capital Group International Developed Equity Select ETF (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPN.TO",
+   "instruments": [
+    {
+     "name": "Cap Grp Intl Dev Eq",
+     "symbol": "CAPN"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPU",
+   "name": "Capital Group U.S. Equity Select ETF (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPU.TO",
+   "instruments": [
+    {
+     "name": "Captal Grp US Eq Sel",
+     "symbol": "CAPU"
+    }
+   ]
+  },
+  {
+   "symbol": "HHII",
+   "name": "Harvest International High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHII.TO",
+   "instruments": [
+    {
+     "name": "Harvest Intl HI Shrs",
+     "symbol": "HHII"
+    }
+   ]
+  },
+  {
+   "symbol": "GRSD",
+   "name": "Grandstand Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRSD"
+  },
+  {
+   "symbol": "HWIV",
+   "name": "Hotchkis \u0026 Wiley International Value Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWIV"
+  },
+  {
+   "symbol": "HWO",
+   "name": "Hotchkis \u0026 Wiley Opportunities Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWO"
+  },
+  {
+   "symbol": "VLOS",
+   "name": "Velos Acquisition I Corp. - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VLOS"
+  },
+  {
+   "symbol": "VLOSU",
+   "name": "Velos Acquisition I Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VLOSU"
+  },
+  {
+   "symbol": "VLOSW",
+   "name": "Velos Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VLOSW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MBAV",
+   "name": "M3-Brigade Acquisition V Corp. - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAV"
+  },
+  {
+   "symbol": "CAE",
+   "name": "CAE Inc. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CAE"
+  },
+  {
+   "symbol": "MVSTW",
+   "name": "Microvast Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MVSTW"
+  },
+  {
+   "symbol": "CELUW",
+   "name": "Celularity Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CELUW"
+  },
+  {
+   "symbol": "MBAVU",
+   "name": "M3-Brigade Acquisition V Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAVU"
+  },
+  {
+   "symbol": "SGRP",
+   "name": "SPAR Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGRP"
+  },
+  {
+   "symbol": "GAMB",
+   "name": "Gambling.com Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GAMB"
+  },
+  {
+   "symbol": "MBAVW",
+   "name": "M3-Brigade Acquisition V Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAVW"
   }
  ]
 }
