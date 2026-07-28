@@ -673,6 +673,7 @@ IVS,Inventus Mining Corp.,TSXV,IVS.V,Inventus Mining Corp.,IVS
 IZN,InZinc Mining Ltd.,TSXV,IZN.V,InZinc Mining Ltd.,IZN
 INIK,Ionik Corporation,TSXV,INIK.V,Ionik Corporation,INIK
 IMI,Ironman International Ltd.,TSXV,IMI.V,Ironman International Ltd.,IMI
+IRR,Irruptive Metals Corp.,TSXV,IRR.V,Irruptive Metals Corp.,IRR
 IFOS,Itafos Inc.,TSXV,IFOS.V,Itafos Inc.,IFOS
 JTWO,J2 Metals Inc.,TSXV,JTWO.V,J2 Metals Inc.,JTWO
 JJJJ,J4 Ventures Resources Corp.,TSXV,JJJJ.V,J4 Ventures Resources Corp.,JJJJ
@@ -1835,7 +1836,6 @@ ICE,Canlan Ice Sports Corp.,TSX,ICE.TO,Canlan Ice Sports,ICE
 LOVE,Cannara Biotech Inc.,TSX,LOVE.TO,Cannara Biotech Inc,LOVE
 EIT.PR.A,Canoe EIT Income Fund,TSX,EIT.PR.A.TO,Canoe EIT Ser 1 Pr,EIT.PR.A,Canoe EIT Ser 2 Pr,EIT.PR.B,Canoe EIT Income Un,EIT.UN
 WEED,Canopy Growth Corporation,TSX,WEED.TO,Canopy Grwth Corp J,WEED
-PBY.UN,Canso Credit Income Fund,TSX,PBY.UN.TO,Canso Credit A Un,PBY.UN
 CAPQ,Capital Group Global Developed Equity Select ETF (Canada),TSX,CAPQ.TO,CapGrp Gbl De Eq Sel,CAPQ
 CAPG,Capital Group Global Equity Select ETFTM (Canada),TSX,CAPG.TO,CapGr GlEqty Sel ETF,CAPG
 CAPN,Capital Group International Developed Equity Select ETF (Canada),TSX,CAPN.TO,Cap Grp Intl Dev Eq,CAPN
@@ -2471,6 +2471,7 @@ GCFE,Guardian Canadian Focused Equity Fund,TSX,GCFE.TO,Guardian CdnFocus Eq,GCFE
 GGEP,Guardian Directed Equity Path Portfolio,TSX,GGEP.TO,Guardian DirEq Pth P,GGEP,Guardian DirEqPth Hg,GGEP.F
 GGPY,Guardian Directed Premium Yield Portfolio,TSX,GGPY.TO,Guardian Dir PremYld,GGPY,Guardian PremYld Heg,GGPY.F
 GFGE,Guardian Fundamental Global Equity Fund,TSX,GFGE.TO,Grdn Fndmtl Gbl Eq,GFGE
+GIAI,Guardian i3 AI Technology and Innovation Fund,TSX,GIAI.TO,Guardian i3 AI TI Iv,GIAI
 GICD,Guardian i3 Canadian Dividend Growth Fund,TSX,GICD.TO,Guardian i3 Cd DivGr,GICD
 GIGD,Guardian i3 Global Dividend Growth Fund,TSX,GIGD.TO,Guardian i3 Gl DivGF,GIGD
 GIDY,Guardian i3 Global Dividend Premium Yield Fund,TSX,GIDY.TO,Guard I3 GlDv Py Fnd,GIDY
@@ -2884,6 +2885,7 @@ LUN,Lundin Mining Corporation,TSX,LUN.TO,Lundin Mining Corp,LUN
 LUNR,LunR Royalties Corp.,TSX,LUNR.TO,LunR Royalties Corp,LUNR
 LVMH,LVMH CDR (CAD Hedged),TSX,LVMH.TO,LVMH CDR CAD Hedged,LVMH
 LYCT,Lysander-Canso Corporate Treasury ActivETF,TSX,LYCT.TO,LysanderCan CrpTreas,LYCT
+PBY,Lysander-Canso Credit Income ActivETF,TSX,PBY.TO,Canso Credit A Un,PBY
 LYFR,Lysander-Canso Floating Rate ActivETF,TSX,LYFR.TO,LysanderCan FltgActv,LYFR
 LYUV.U,Lysander-Canso U.S. Corporate Value Bond Fund,TSX,LYUV.U.TO,Lysander USCorBF ETF,LYUV.U
 PR,Lysander-Slater Preferred Share ActivETF,TSX,PR.TO,Lysander-SlatrPrActv,PR
@@ -4338,6 +4340,7 @@ BGM,BGM Group Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,BGM
 BGMS,"Bio Green Med Solution, Inc. - Common Stock",NASDAQ Capital Market,BGMS
 BGRN,iShares USD Green Bond ETF,NASDAQ Global MarketSM,BGRN
 BGRO,iShares Large Cap Growth Active ETF,NASDAQ Global MarketSM,BGRO
+BGUS,Baillie Gifford U.S. Equity Growth ETF,NASDAQ Global MarketSM,BGUS
 BHAV,BHAV Acquisition Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,BHAV
 BHAVR,BHAV Acquisition Corp - Rights,NASDAQ Global MarketSM,BHAVR
 BHAVU,BHAV Acquisition Corp - Units,NASDAQ Global MarketSM,BHAVU
@@ -4634,6 +4637,7 @@ CASS,"Cass Information Systems, Inc - Common Stock",NASDAQ Global Select MarketS
 CAST,"FreeCast, Inc. - Class A common stock",NASDAQ Global MarketSM,CAST
 CASY,"Caseys General Stores, Inc. - Common Stock",NASDAQ Global Select MarketSM,CASY
 CATH,Global X S&P 500 Catholic Values ETF,NASDAQ Global MarketSM,CATH
+CATLU,Catalyst Acquisition Corp. - Units,NASDAQ Global MarketSM,CATLU
 CATY,Cathay General Bancorp - Common Stock,NASDAQ Global Select MarketSM,CATY
 CBAT,CBAK Energy Technology Limited - Ordinary Shares,NASDAQ Capital Market,CBAT
 CBC,"Central Bancompany, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,CBC
@@ -4665,9 +4669,6 @@ CCHH,CCH Holdings Ltd - Class A Ordinary Shares,NASDAQ Capital Market,CCHH
 CCII,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,CCII
 CCIIU,Cohen Circle Acquisition Corp. II - Unit,NASDAQ Global MarketSM,CCIIU
 CCIIW,Cohen Circle Acquisition Corp. II - Warrant,NASDAQ Global MarketSM,CCIIW
-CCIX,Churchill Capital Corp IX - Ordinary Shares,NASDAQ Global MarketSM,CCIX
-CCIXU,Churchill Capital Corp IX - Unit,NASDAQ Global MarketSM,CCIXU
-CCIXW,Churchill Capital Corp IX - Warrant,NASDAQ Global MarketSM,CCIXW
 CCLD,"CareCloud, Inc. - Common Stock",NASDAQ Global MarketSM,CCLD
 CCNE,CNB Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,CCNE
 CCNEP,"CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock",NASDAQ Global Select MarketSM,CCNEP
@@ -6277,6 +6278,7 @@ INV,"Innventure, Inc. - Common Stock",NASDAQ Global MarketSM,INV
 INVA,"Innoviva, Inc. - Common Stock",NASDAQ Global Select MarketSM,INVA
 INVE,"Identiv, Inc. - Common Stock",NASDAQ Capital Market,INVE
 INVZ,Innoviz Technologies Ltd. - Ordinary shares,NASDAQ Capital Market,INVZ
+IOND,Ionic Digital Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,IOND
 IONL,GraniteShares 2x Long IONQ Daily ETF,NASDAQ Global MarketSM,IONL
 IONR,ioneer Ltd - American Depositary Shares,NASDAQ Capital Market,IONR
 IONS,"Ionis Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,IONS
@@ -6703,6 +6705,7 @@ LSTA,"Lisata Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,LSTA
 LSTR,"Landstar System, Inc. - Common Stock",NASDAQ Global Select MarketSM,LSTR
 LTBR,Lightbridge Corporation - Common Stock,NASDAQ Capital Market,LTBR
 LTCC,Canary Litecoin ETF,NASDAQ Global MarketSM,LTCC
+LTGR,Long Table Growth Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,LTGR
 LTGRU,Long Table Growth Corp. - Units,NASDAQ Global MarketSM,LTGRU
 LTGRW,Long Table Growth Corp. - Warrants,NASDAQ Global MarketSM,LTGRW
 LTRN,Lantern Pharma Inc. - Common Stock,NASDAQ Capital Market,LTRN
@@ -8018,7 +8021,6 @@ RRGB,"Red Robin Gourmet Burgers, Inc. - Common Stock",NASDAQ Global Select Marke
 RRR,"Red Rock Resorts, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,RRR
 RSSS,"Research Solutions, Inc - Common Stock",NASDAQ Capital Market,RSSS
 RSVR,"Reservoir Media, Inc.. - Common Stock",NASDAQ Global MarketSM,RSVR
-RSVRW,"Reservoir Media, Inc.. - Warrant",NASDAQ Global MarketSM,RSVRW
 RTAC,Renatus Tactical Acquisition Corp I - Class A Ordinary Shares,NASDAQ Global MarketSM,RTAC
 RTACU,Renatus Tactical Acquisition Corp I - Unit,NASDAQ Global MarketSM,RTACU
 RTACW,Renatus Tactical Acquisition Corp I - Warrant,NASDAQ Global MarketSM,RTACW
@@ -8996,7 +8998,6 @@ VWOB,Vanguard Emerging Markets Government Bond ETF,NASDAQ Global MarketSM,VWOB
 VXUS,Vanguard Total International Stock ETF,NASDAQ Global MarketSM,VXUS
 VYGR,"Voyager Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,VYGR
 VYMI,Vanguard International High Dividend Yield ETF,NASDAQ Global MarketSM,VYMI
-VYNE,VYNE Therapeutics Inc. - Common Stock,NASDAQ Capital Market,VYNE
 WABC,Westamerica Bancorporation - Common Stock,NASDAQ Global Select MarketSM,WABC
 WABF,Western Asset Bond ETF,NASDAQ Global MarketSM,WABF
 WAFD,"WaFd, Inc. - Common Stock",NASDAQ Global Select MarketSM,WAFD
@@ -9178,6 +9179,7 @@ XXII,"22nd Century Group, Inc - Common Stock",NASDAQ Capital Market,XXII
 XXX,CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF,NASDAQ Global MarketSM,XXX
 XYZG,Leverage Shares 2X Long XYZ Daily ETF,NASDAQ Global MarketSM,XYZG
 YAAS,Youxin Technology Ltd - Class A Ordinary shares,NASDAQ Capital Market,YAAS
+YARW,"Yarrow Bioscience, Inc. - Common Stock",NASDAQ Capital Market,YARW
 YB,Yuanbao Inc. - American Depositary Shares,NASDAQ Global MarketSM,YB
 YBMN,Defiance BMNR Option Income ETF,NASDAQ Global MarketSM,YBMN
 YBST,GraniteShares YieldBoost Single Stock Universe ETF,NASDAQ Global MarketSM,YBST
@@ -11158,6 +11160,7 @@ MTB,M&T Bank Corporation Common Stock,NYSE,MTB
 MTB$H,"M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H",NYSE,MTB$H
 MTB$J,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J",NYSE,MTB$J
 MTB$K,"M&T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",NYSE,MTB$K
+MTB$L,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 6.625% Non-Cumulative Preferred Stock, Series L",NYSE,MTB$L
 MTD,"Mettler-Toledo International, Inc. Common Stock",NYSE,MTD
 MTDR,Matador Resources Company Common Stock,NYSE,MTDR
 MTEST,"NYSE Texas, Inc. TEST Common Stock",UNKNOWN,MTEST

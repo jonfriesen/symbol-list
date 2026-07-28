@@ -1,5 +1,5 @@
 {
- "date": "2026-07-27",
+ "date": "2026-07-28",
  "data": [
   {
    "symbol": "ONE",
@@ -8154,6 +8154,18 @@
     {
      "name": "Ironman International Ltd.",
      "symbol": "IMI"
+    }
+   ]
+  },
+  {
+   "symbol": "IRR",
+   "name": "Irruptive Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IRR.V",
+   "instruments": [
+    {
+     "name": "Irruptive Metals Corp.",
+     "symbol": "IRR"
     }
    ]
   },
@@ -23002,18 +23014,6 @@
    ]
   },
   {
-   "symbol": "PBY.UN",
-   "name": "Canso Credit Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "PBY.UN.TO",
-   "instruments": [
-    {
-     "name": "Canso Credit A Un",
-     "symbol": "PBY.UN"
-    }
-   ]
-  },
-  {
    "symbol": "CAPQ",
    "name": "Capital Group Global Developed Equity Select ETF (Canada)",
    "exchange": "TSX",
@@ -31578,6 +31578,18 @@
    ]
   },
   {
+   "symbol": "GIAI",
+   "name": "Guardian i3 AI Technology and Innovation Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIAI.TO",
+   "instruments": [
+    {
+     "name": "Guardian i3 AI TI Iv",
+     "symbol": "GIAI"
+    }
+   ]
+  },
+  {
    "symbol": "GICD",
    "name": "Guardian i3 Canadian Dividend Growth Fund",
    "exchange": "TSX",
@@ -36874,6 +36886,18 @@
     {
      "name": "LysanderCan CrpTreas",
      "symbol": "LYCT"
+    }
+   ]
+  },
+  {
+   "symbol": "PBY",
+   "name": "Lysander-Canso Credit Income ActivETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PBY.TO",
+   "instruments": [
+    {
+     "name": "Canso Credit A Un",
+     "symbol": "PBY"
     }
    ]
   },
@@ -51354,6 +51378,12 @@
    "yahoo_symbol": "BGRO"
   },
   {
+   "symbol": "BGUS",
+   "name": "Baillie Gifford U.S. Equity Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGUS"
+  },
+  {
    "symbol": "BHAV",
    "name": "BHAV Acquisition Corp - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -53130,6 +53160,12 @@
    "yahoo_symbol": "CATH"
   },
   {
+   "symbol": "CATLU",
+   "name": "Catalyst Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CATLU"
+  },
+  {
    "symbol": "CATY",
    "name": "Cathay General Bancorp - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53314,24 +53350,6 @@
    "name": "Cohen Circle Acquisition Corp. II - Warrant",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CCIIW"
-  },
-  {
-   "symbol": "CCIX",
-   "name": "Churchill Capital Corp IX - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCIX"
-  },
-  {
-   "symbol": "CCIXU",
-   "name": "Churchill Capital Corp IX - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCIXU"
-  },
-  {
-   "symbol": "CCIXW",
-   "name": "Churchill Capital Corp IX - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCIXW"
   },
   {
    "symbol": "CCLD",
@@ -62988,6 +63006,12 @@
    "yahoo_symbol": "INVZ"
   },
   {
+   "symbol": "IOND",
+   "name": "Ionic Digital Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IOND"
+  },
+  {
    "symbol": "IONL",
    "name": "GraniteShares 2x Long IONQ Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -65542,6 +65566,12 @@
    "name": "Canary Litecoin ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "LTCC"
+  },
+  {
+   "symbol": "LTGR",
+   "name": "Long Table Growth Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTGR"
   },
   {
    "symbol": "LTGRU",
@@ -73434,12 +73464,6 @@
    "yahoo_symbol": "RSVR"
   },
   {
-   "symbol": "RSVRW",
-   "name": "Reservoir Media, Inc.. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RSVRW"
-  },
-  {
    "symbol": "RTAC",
    "name": "Renatus Tactical Acquisition Corp I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -79302,12 +79326,6 @@
    "yahoo_symbol": "VYMI"
   },
   {
-   "symbol": "VYNE",
-   "name": "VYNE Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VYNE"
-  },
-  {
    "symbol": "WABC",
    "name": "Westamerica Bancorporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -80392,6 +80410,12 @@
    "name": "Youxin Technology Ltd - Class A Ordinary shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "YAAS"
+  },
+  {
+   "symbol": "YARW",
+   "name": "Yarrow Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YARW"
   },
   {
    "symbol": "YB",
@@ -92272,6 +92296,12 @@
    "name": "M\u0026T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",
    "exchange": "NYSE",
    "yahoo_symbol": "MTB$K"
+  },
+  {
+   "symbol": "MTB$L",
+   "name": "M\u0026T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 6.625% Non-Cumulative Preferred Stock, Series L",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTB$L"
   },
   {
    "symbol": "MTD",
