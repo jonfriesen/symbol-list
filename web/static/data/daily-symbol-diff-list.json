@@ -1,120 +1,150 @@
 {
  "added": [
   {
-   "symbol": "IRR",
-   "name": "Irruptive Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "IRR.V",
-   "instruments": [
-    {
-     "name": "Irruptive Metals Corp.",
-     "symbol": "IRR"
-    }
-   ]
-  },
-  {
-   "symbol": "GIAI",
-   "name": "Guardian i3 AI Technology and Innovation Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GIAI.TO",
-   "instruments": [
-    {
-     "name": "Guardian i3 AI TI Iv",
-     "symbol": "GIAI"
-    }
-   ]
-  },
-  {
-   "symbol": "PBY",
-   "name": "Lysander-Canso Credit Income ActivETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PBY.TO",
-   "instruments": [
-    {
-     "name": "Canso Credit A Un",
-     "symbol": "PBY"
-    }
-   ]
-  },
-  {
-   "symbol": "BGUS",
-   "name": "Baillie Gifford U.S. Equity Growth ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BGUS"
-  },
-  {
-   "symbol": "CATLU",
-   "name": "Catalyst Acquisition Corp. - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CATLU"
-  },
-  {
-   "symbol": "IOND",
-   "name": "Ionic Digital Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IOND"
-  },
-  {
-   "symbol": "LTGR",
-   "name": "Long Table Growth Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LTGR"
-  },
-  {
-   "symbol": "YARW",
-   "name": "Yarrow Bioscience, Inc. - Common Stock",
+   "symbol": "DTSQ",
+   "name": "DT Cloud Star Acquisition Corporation - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "YARW"
+   "yahoo_symbol": "DTSQ"
   },
   {
-   "symbol": "MTB$L",
-   "name": "M\u0026T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 6.625% Non-Cumulative Preferred Stock, Series L",
+   "symbol": "DTSQR",
+   "name": "DT Cloud Star Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTSQR"
+  },
+  {
+   "symbol": "DTSQU",
+   "name": "DT Cloud Star Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTSQU"
+  },
+  {
+   "symbol": "ADIG.V",
+   "name": "ADI Global Distribution Inc. Common Stock When-Issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "MTB$L"
+   "yahoo_symbol": "ADIG.V"
+  },
+  {
+   "symbol": "IMC",
+   "name": "IMC Rare Earths Ltd Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IMC"
+  },
+  {
+   "symbol": "REZI.V",
+   "name": "Resideo Technologies, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "REZI.V"
   }
  ],
  "removed": [
   {
-   "symbol": "PBY.UN",
-   "name": "Canso Credit Income Fund",
+   "symbol": "CNCG",
+   "name": "Leverage Shares 2X Long CNC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNCG"
+  },
+  {
+   "symbol": "UPSG",
+   "name": "Leverage Shares 2X Long UPS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UPSG"
+  },
+  {
+   "symbol": "LACG",
+   "name": "Leverage Shares 2X Long LAC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LACG"
+  },
+  {
+   "symbol": "ORLG",
+   "name": "Leverage Shares 2X Long ORLY Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORLG"
+  },
+  {
+   "symbol": "DTSQU",
+   "name": "DT Cloud Star Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQU"
+  },
+  {
+   "symbol": "AXPG",
+   "name": "Leverage Shares 2x Long AXP Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AXPG"
+  },
+  {
+   "symbol": "DTSQR",
+   "name": "DT Cloud Star Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQR"
+  },
+  {
+   "symbol": "ABNG",
+   "name": "Leverage Shares 2x Long ABNB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABNG"
+  },
+  {
+   "symbol": "DTSQ",
+   "name": "DT Cloud Star Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQ"
+  },
+  {
+   "symbol": "CMGG",
+   "name": "Leverage Shares 2X Long CMG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMGG"
+  },
+  {
+   "symbol": "HWAY",
+   "name": "Themes US Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWAY"
+  },
+  {
+   "symbol": "OSCG",
+   "name": "Leverage Shares 2X Long OSCR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSCG"
+  },
+  {
+   "symbol": "URC",
+   "name": "Uranium Royalty Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "PBY.UN.TO",
+   "yahoo_symbol": "URC.TO",
    "instruments": [
     {
-     "name": "Canso Credit A Un",
-     "symbol": "PBY.UN"
+     "name": "Uranium Rylty Corp J",
+     "symbol": "URC"
     }
    ]
   },
   {
-   "symbol": "RSVRW",
-   "name": "Reservoir Media, Inc.. - Warrant",
+   "symbol": "CZAR",
+   "name": "Themes Natural Monopoly ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RSVRW"
+   "yahoo_symbol": "CZAR"
   },
   {
-   "symbol": "VYNE",
-   "name": "VYNE Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VYNE"
+   "symbol": "DNNG",
+   "name": "Leverage Shares 2x Long DNN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DNNG"
   },
   {
-   "symbol": "CCIX",
-   "name": "Churchill Capital Corp IX - Ordinary Shares",
+   "symbol": "SBU",
+   "name": "Leverage Shares 2X Long SBUX Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCIX"
+   "yahoo_symbol": "SBU"
   },
   {
-   "symbol": "CCIXU",
-   "name": "Churchill Capital Corp IX - Unit",
+   "symbol": "USRD",
+   "name": "Themes US R\u0026D Champions ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCIXU"
-  },
-  {
-   "symbol": "CCIXW",
-   "name": "Churchill Capital Corp IX - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCIXW"
+   "yahoo_symbol": "USRD"
   }
  ]
 }

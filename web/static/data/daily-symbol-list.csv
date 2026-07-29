@@ -2885,7 +2885,7 @@ LUN,Lundin Mining Corporation,TSX,LUN.TO,Lundin Mining Corp,LUN
 LUNR,LunR Royalties Corp.,TSX,LUNR.TO,LunR Royalties Corp,LUNR
 LVMH,LVMH CDR (CAD Hedged),TSX,LVMH.TO,LVMH CDR CAD Hedged,LVMH
 LYCT,Lysander-Canso Corporate Treasury ActivETF,TSX,LYCT.TO,LysanderCan CrpTreas,LYCT
-PBY,Lysander-Canso Credit Income ActivETF,TSX,PBY.TO,Canso Credit A Un,PBY
+PBY,Lysander-Canso Credit Income ActivETF,TSX,PBY.TO,Lysander-Can Cr I AE,PBY
 LYFR,Lysander-Canso Floating Rate ActivETF,TSX,LYFR.TO,LysanderCan FltgActv,LYFR
 LYUV.U,Lysander-Canso U.S. Corporate Value Bond Fund,TSX,LYUV.U.TO,Lysander USCorBF ETF,LYUV.U
 PR,Lysander-Slater Preferred Share ActivETF,TSX,PR.TO,Lysander-SlatrPrActv,PR
@@ -3604,7 +3604,6 @@ UNC,United Corporations Limited,TSX,UNC.TO,United Corporations,UNC,United Corp 1
 UNH,UnitedHealth CDR (CAD Hedged),TSX,UNH.TO,UnitedHealth CDR Hgd,UNH
 UPS,UPS CDR (CAD Hedged),TSX,UPS.TO,UPS CDR CAN Hgd,UPS
 URE,Ur-Energy Inc.,TSX,URE.TO,Ur-Energy Inc. J,URE
-URC,Uranium Royalty Corp.,TSX,URC.TO,Uranium Rylty Corp J,URC
 URB,Urbana Corporation,TSX,URB.TO,Urbana Corporation,URB,Urbana Corp. Cl A NV,URB.A
 FTU,US Financial 15 Split Corp.,TSX,FTU.TO,US Financial 15 Cl A,FTU,US Financial15 Pr 12,FTU.PR.B
 HISU.U,US High Interest Savings Account Fund,TSX,HISU.U.TO,US HiIntrstSvgUNH US,HISU.U
@@ -3640,6 +3639,8 @@ VVO,Vanguard Global Minimum Volatility ETF,TSX,VVO.TO,Vanguard GlbMinVoltl,VVO
 VMO,Vanguard Global Momentum Factor ETF,TSX,VMO.TO,Vanguard GlbMomntFac,VMO
 VVL,Vanguard Global Value Factor ETF,TSX,VVL.TO,Vanguard GlbValFactr,VVL
 VGRO,Vanguard Growth ETF Portfolio,TSX,VGRO.TO,Vanguard GroETF Port,VGRO
+VUN,Vanguard Morningstar U.S. Total Market Index ETF,TSX,VUN.TO,Vanguard US MktIdxUn,VUN
+VUS,Vanguard Morningstar U.S. Total Market Index ETF (CAD-hedged),TSX,VUS.TO,Vanguard US TotMktUn,VUS
 VRIF,Vanguard Retirement Income ETF Portfolio,TSX,VRIF.TO,Vanguard Retire Incm,VRIF
 VFV,Vanguard S&P 500 Index ETF,TSX,VFV.TO,Vanguard S&P500 Indx,VFV
 VSP,Vanguard S&P 500 Index ETF (CAD-hedged),TSX,VSP.TO,Vanguard S&P500 C-Hg,VSP
@@ -3647,8 +3648,6 @@ VGG,Vanguard U.S. Dividend Appreciation Index ETF,TSX,VGG.TO,Vanguard US DivAppr
 VGH,Vanguard U.S. Dividend Appreciation Index ETF (CAD-hedged),TSX,VGH.TO,Vanguard USDivCad-hg,VGH
 VUDV,Vanguard U.S. High Dividend Yield Index ETF,TSX,VUDV.TO,Vngrd US Hi Div Yld,VUDV
 VUDH,Vanguard U.S. High Dividend Yield Index ETF (CAD-hedged),TSX,VUDH.TO,VangUS HiDiv Yld I E,VUDH
-VUN,Vanguard U.S. Total Market Index ETF,TSX,VUN.TO,Vanguard US MktIdxUn,VUN
-VUS,Vanguard U.S. Total Market Index ETF (CAD-hedged),TSX,VUS.TO,Vanguard US TotMktUn,VUS
 VCM,Vecima Networks Inc.,TSX,VCM.TO,Vecima Networks Inc.,VCM
 VLN,Velan Inc.,TSX,VLN.TO,Velan Inc. SV,VLN
 NPK,Verde Agritech Ltd.,TSX,NPK.TO,Verde Agritech J Ord,NPK
@@ -3741,7 +3740,6 @@ ABIG,Argent Large Cap ETF,NASDAQ Global MarketSM,ABIG
 ABLV,Able View Global Inc. - Class B Ordinary Shares,NASDAQ Capital Market,ABLV
 ABLVW,Able View Global Inc. - Warrant,NASDAQ Capital Market,ABLVW
 ABNB,"Airbnb, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,ABNB
-ABNG,Leverage Shares 2x Long ABNB Daily ETF,NASDAQ Global MarketSM,ABNG
 ABOS,"Acumen Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,ABOS
 ABSI,Absci Corporation - Common Stock,NASDAQ Global Select MarketSM,ABSI
 ABTC,American Bitcoin Corp. - Class A Common Stock,NASDAQ Capital Market,ABTC
@@ -4218,7 +4216,6 @@ AXIN,Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares,NASDAQ Glob
 AXINR,Axiom Intelligence Acquisition Corp 1 - Right,NASDAQ Global MarketSM,AXINR
 AXINU,Axiom Intelligence Acquisition Corp 1 - Units,NASDAQ Global MarketSM,AXINU
 AXON,"Axon Enterprise, Inc. - Common Stock",NASDAQ Global Select MarketSM,AXON
-AXPG,Leverage Shares 2x Long AXP Daily ETF,NASDAQ Global MarketSM,AXPG
 AXSM,"Axsome Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,AXSM
 AXTI,AXT Inc - Common Stock,NASDAQ Global Select MarketSM,AXTI
 AYA,Aya Gold & Silver Inc. - Common Shares,NASDAQ Global Select MarketSM,AYA
@@ -4825,7 +4822,6 @@ CMCO,Columbus McKinnon Corporation - Common Stock,NASDAQ Global Select MarketSM,
 CMCSA,Comcast Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,CMCSA
 CMCT,Creative Media  - Common Stock,NASDAQ Capital Market,CMCT
 CME,CME Group Inc. - Class A Common Stock,NASDAQ Global Select MarketSM,CME
-CMGG,Leverage Shares 2X Long CMG Daily ETF,NASDAQ Global MarketSM,CMGG
 CMII,Columbus Circle Capital Corp II - Class A Ordinary Shares,NASDAQ Global MarketSM,CMII
 CMIIU,Columbus Circle Capital Corp II - Unit,NASDAQ Global MarketSM,CMIIU
 CMIIW,Columbus Circle Capital Corp II - Warrant,NASDAQ Global MarketSM,CMIIW
@@ -4837,7 +4833,6 @@ CMPX,"Compass Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,CMPX
 CMRC,"Commerce.com, Inc. - Series 1 Common Stock",NASDAQ Global MarketSM,CMRC
 CMTL,Comtech Telecommunications Corp. - Common Stock,NASDAQ Global Select MarketSM,CMTL
 CMTV,Community Bancorp.  - Common stock,NASDAQ Capital Market,CMTV
-CNCG,Leverage Shares 2X Long CNC Daily ETF,NASDAQ Global MarketSM,CNCG
 CNCK,Coincheck Group N.V. - Ordinary Shares,NASDAQ Global MarketSM,CNCK
 CNCKW,Coincheck Group N.V. - Warrants,NASDAQ Capital Market,CNCKW
 CNDT,Conduent Incorporated - Common Stock,NASDAQ Global Select MarketSM,CNDT
@@ -4945,7 +4940,7 @@ CRON,Cronos Group Inc. - Common Share,NASDAQ Global MarketSM,CRON
 CROX,"Crocs, Inc. - Common Stock",NASDAQ Global Select MarketSM,CROX
 CRSP,CRISPR Therapeutics AG - Common Shares,NASDAQ Global MarketSM,CRSP
 CRSR,"Corsair Gaming, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRSR
-CRTO,Criteo S.A. - American Depositary Shares,NASDAQ Global Select MarketSM,CRTO
+CRTO,Criteo S.A. - Ordinary Shares,NASDAQ Global Select MarketSM,CRTO
 CRUS,"Cirrus Logic, Inc. - Common Stock",NASDAQ Global Select MarketSM,CRUS
 CRVL,CorVel Corp. - Common Stock,NASDAQ Global Select MarketSM,CRVL
 CRVO,CervoMed Inc. - Common Stock,NASDAQ Capital Market,CRVO
@@ -5028,7 +5023,6 @@ CYN,Cyngn Inc. - Common stock,NASDAQ Capital Market,CYN
 CYPH,Cypherpunk Technologies Inc. - Common Stock,NASDAQ Capital Market,CYPH
 CYRX,"CryoPort, Inc. - Common Stock",NASDAQ Capital Market,CYRX
 CYTK,"Cytokinetics, Incorporated - Common Stock",NASDAQ Global Select MarketSM,CYTK
-CZAR,Themes Natural Monopoly ETF,NASDAQ Global MarketSM,CZAR
 CZFS,"Citizens Financial Services, Inc. - Common Stock",NASDAQ Capital Market,CZFS
 CZNC,Citizens & Northern Corp - Common Stock,NASDAQ Capital Market,CZNC
 CZR,"Caesars Entertainment, Inc. - Common Stock",NASDAQ Global Select MarketSM,CZR
@@ -5126,7 +5120,6 @@ DNLI,Denali Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,DNLI
 DNMX,Dynamix Corporation III - Class A Ordinary Shares,NASDAQ Global MarketSM,DNMX
 DNMXU,Dynamix Corporation III - Unit,NASDAQ Global MarketSM,DNMXU
 DNMXW,Dynamix Corporation III - Warrants,NASDAQ Global MarketSM,DNMXW
-DNNG,Leverage Shares 2x Long DNN Daily ETF,NASDAQ Global MarketSM,DNNG
 DNTH,"Dianthus Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,DNTH
 DNUT,"Krispy Kreme, Inc. - Common Stock",NASDAQ Global Select MarketSM,DNUT
 DOCU,"DocuSign, Inc. - Common Stock",NASDAQ Global Select MarketSM,DOCU
@@ -5170,9 +5163,9 @@ DTCR,Global X Data Center & Digital Infrastructure ETF,NASDAQ Global MarketSM,DT
 DTCX,"Datacentrex, Inc. - Common Stock",NASDAQ Capital Market,DTCX
 DTI,Drilling Tools International Corporation  - Common Stock,NASDAQ Capital Market,DTI
 DTIL,"Precision BioSciences, Inc. - Common Stock",NASDAQ Capital Market,DTIL
-DTSQ,DT Cloud Star Acquisition Corporation - Ordinary Shares,NASDAQ Global MarketSM,DTSQ
-DTSQR,DT Cloud Star Acquisition Corporation - Right,NASDAQ Global MarketSM,DTSQR
-DTSQU,DT Cloud Star Acquisition Corporation - Units,NASDAQ Global MarketSM,DTSQU
+DTSQ,DT Cloud Star Acquisition Corporation - Ordinary Shares,NASDAQ Capital Market,DTSQ
+DTSQR,DT Cloud Star Acquisition Corporation - Right,NASDAQ Capital Market,DTSQR
+DTSQU,DT Cloud Star Acquisition Corporation - Units,NASDAQ Capital Market,DTSQU
 DTSS,Datasea Intelligent Technology Ltd. - Class A Ordinary Shares,NASDAQ Capital Market,DTSS
 DTST,Data Storage Corporation - Common Stock,NASDAQ Capital Market,DTST
 DUKH,Ocean Park High Income ETF,NASDAQ Global MarketSM,DUKH
@@ -6087,7 +6080,6 @@ HVIIU,Hennessy Capital Investment Corp. VII - Unit,NASDAQ Global MarketSM,HVIIU
 HVMC,Highview Merger Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,HVMC
 HVMCU,Highview Merger Corp. - Units,NASDAQ Global MarketSM,HVMCU
 HVMCW,Highview Merger Corp. - Warrants,NASDAQ Global MarketSM,HVMCW
-HWAY,Themes US Infrastructure ETF,NASDAQ Global MarketSM,HWAY
 HWBK,"Hawthorn Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,HWBK
 HWC,Hancock Whitney Corporation - Common Stock,NASDAQ Global Select MarketSM,HWC
 HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,NASDAQ Global Select MarketSM,HWCPZ
@@ -6539,7 +6531,6 @@ KYTX,"Kyverna Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,K
 KZIA,Kazia Therapeutics Limited - American Depositary Shares,NASDAQ Capital Market,KZIA
 LAB,Standard BioTools Inc. - Common Stock,NASDAQ Global Select MarketSM,LAB
 LABT,Lakewood-Amedex Biotherapeutics Inc. - Common Stock,NASDAQ Capital Market,LABT
-LACG,Leverage Shares 2X Long LAC Daily ETF,NASDAQ Global MarketSM,LACG
 LAES,SEALSQ Corp - Ordinary Shares,NASDAQ Global Select MarketSM,LAES
 LAFA,LaFayette Acquisition Corp. - Ordinary Share,NASDAQ Global MarketSM,LAFA
 LAFAR,LaFayette Acquisition Corp. - Rights,NASDAQ Global MarketSM,LAFAR
@@ -7383,13 +7374,11 @@ ORIQU,Origin Investment Corp I - Units,NASDAQ Global MarketSM,ORIQU
 ORIQW,Origin Investment Corp I - Redeemable Warrant,NASDAQ Global MarketSM,ORIQW
 ORKA,"Oruka Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,ORKA
 ORKT,Orangekloud Technology Inc. - Class A Ordinary Shares,NASDAQ Capital Market,ORKT
-ORLG,Leverage Shares 2X Long ORLY Daily ETF,NASDAQ Global MarketSM,ORLG
 ORLY,"O'Reilly Automotive, Inc. - Common Stock",NASDAQ Global Select MarketSM,ORLY
 ORMP,Oramed Pharmaceuticals Inc. - Common Stock,NASDAQ Capital Market,ORMP
 ORR,Militia Long/Short Equity ETF,NASDAQ Global MarketSM,ORR
 ORRF,"Orrstown Financial Services, Inc. - Common Stock",NASDAQ Capital Market,ORRF
 OSBC,"Old Second Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,OSBC
-OSCG,Leverage Shares 2X Long OSCR Daily ETF,NASDAQ Global MarketSM,OSCG
 OSCX,Defiance Daily Target 2x Long OSCR ETF,NASDAQ Global MarketSM,OSCX
 OSIS,"OSI Systems, Inc. - Common Stock",NASDAQ Global Select MarketSM,OSIS
 OSPN,OneSpan Inc. - Common Stock,NASDAQ Capital Market,OSPN
@@ -8090,7 +8079,6 @@ SBFMW,Sunshine Biopharma Inc. - Warrant,NASDAQ Capital Market,SBFMW
 SBGI,"Sinclair, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,SBGI
 SBLK,Star Bulk Carriers Corp. - Common Shares,NASDAQ Global Select MarketSM,SBLK
 SBRA,"Sabra Health Care REIT, Inc. - Common Stock",NASDAQ Global Select MarketSM,SBRA
-SBU,Leverage Shares 2X Long SBUX Daily ETF,NASDAQ Global MarketSM,SBU
 SBUX,Starbucks Corporation - Common Stock,NASDAQ Global Select MarketSM,SBUX
 SCA,GraniteShares Autocallable SMCI ETF,NASDAQ Global MarketSM,SCA
 SCAG,Scage Future - American Depositary Shares,NASDAQ Global MarketSM,SCAG
@@ -8800,7 +8788,6 @@ UPBD,"Upbound Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,UPBD
 UPC,Universe Pharmaceuticals Inc - Class A Ordinary Shares,NASDAQ Capital Market,UPC
 UPGR,Xtrackers US Green Infrastructure Select Equity ETF,NASDAQ Global MarketSM,UPGR
 UPLD,"Upland Software, Inc. - Common Stock",NASDAQ Global MarketSM,UPLD
-UPSG,Leverage Shares 2X Long UPS Daily ETF,NASDAQ Global MarketSM,UPSG
 UPST,"Upstart Holdings, Inc. - Common stock",NASDAQ Global Select MarketSM,UPST
 UPWK,Upwork Inc. - Common Stock,NASDAQ Global Select MarketSM,UPWK
 UPXI,"Upexi, Inc. - Common Stock",NASDAQ Capital Market,UPXI
@@ -8827,7 +8814,6 @@ USLM,"United States Lime & Minerals, Inc. - Common Stock",NASDAQ Global Select M
 USMC,Principal U.S. Mega-Cap ETF,NASDAQ Global MarketSM,USMC
 USOI,"ETRACS Crude Oil Shares Covered Call ETNs due April 24, 2037",NASDAQ Global MarketSM,USOI
 USOY,Defiance Oil Enhanced Options Income ETF,NASDAQ Global MarketSM,USOY
-USRD,Themes US R&D Champions ETF,NASDAQ Global MarketSM,USRD
 USSH,WisdomTree 1-3 Year Laddered Treasury Fund,NASDAQ Global MarketSM,USSH
 USTB,VictoryShares Short-Term Bond ETF,NASDAQ Global MarketSM,USTB
 USVM,VictoryShares US Small Mid Cap Value Momentum ETF,NASDAQ Global MarketSM,USVM
@@ -9303,6 +9289,7 @@ AD,"Array Digital Infrastructure, Inc. Common Shares",NYSE,AD
 ADC,Agree Realty Corporation Common Stock,NYSE,ADC
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",NYSE,ADC$A
 ADCT,ADC Therapeutics SA Common Shares,NYSE,ADCT
+ADIG.V,ADI Global Distribution Inc. Common Stock When-Issued,NYSE,ADIG.V
 ADM,Archer-Daniels-Midland Company Common Stock,NYSE,ADM
 ADNT,Adient plc Ordinary Shares ,NYSE,ADNT
 ADT,ADT Inc. Common Stock,NYSE,ADT
@@ -10747,6 +10734,7 @@ IIM,Invesco Value Municipal Income Trust Common Stock,NYSE,IIM
 IIPR,"Innovative Industrial Properties, Inc. Common Stock",NYSE,IIPR
 IIPR$A,"Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock",NYSE,IIPR$A
 IMAX,Imax Corporation Common Stock,NYSE,IMAX
+IMC,IMC Rare Earths Ltd Ordinary Shares,NYSE MKT,IMC
 IMO,Imperial Oil Limited Common Stock,NYSE MKT,IMO
 INDO,Indonesia Energy Corporation Limited Ordinary Shares,NYSE MKT,INDO
 INFQ,"Infleqtion, Inc. Common Stock",NYSE,INFQ
@@ -11680,6 +11668,7 @@ REXR,"Rexford Industrial Realty, Inc. Common Stock",NYSE,REXR
 REXR$B,"Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock",NYSE,REXR$B
 REXR$C,"Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share",NYSE,REXR$C
 REZI,"Resideo Technologies, Inc. Common Stock ",NYSE,REZI
+REZI.V,"Resideo Technologies, Inc. Common Stock When-Issued",NYSE,REZI.V
 RF,Regions Financial Corporation Common Stock,NYSE,RF
 RF$C,"Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a  Share of 5.700% Fixed-to-Floating Rate Non-Cumulative  Perpetual Preferred Stock, Series C",NYSE,RF$C
 RF$E,"Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",NYSE,RF$E

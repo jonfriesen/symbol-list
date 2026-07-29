@@ -1,5 +1,5 @@
 {
- "date": "2026-07-28",
+ "date": "2026-07-29",
  "data": [
   {
    "symbol": "ONE",
@@ -36896,7 +36896,7 @@
    "yahoo_symbol": "PBY.TO",
    "instruments": [
     {
-     "name": "Canso Credit A Un",
+     "name": "Lysander-Can Cr I AE",
      "symbol": "PBY"
     }
    ]
@@ -46358,18 +46358,6 @@
    ]
   },
   {
-   "symbol": "URC",
-   "name": "Uranium Royalty Corp.",
-   "exchange": "TSX",
-   "yahoo_symbol": "URC.TO",
-   "instruments": [
-    {
-     "name": "Uranium Rylty Corp J",
-     "symbol": "URC"
-    }
-   ]
-  },
-  {
    "symbol": "URB",
    "name": "Urbana Corporation",
    "exchange": "TSX",
@@ -46798,6 +46786,30 @@
    ]
   },
   {
+   "symbol": "VUN",
+   "name": "Vanguard Morningstar U.S. Total Market Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "VUN.TO",
+   "instruments": [
+    {
+     "name": "Vanguard US MktIdxUn",
+     "symbol": "VUN"
+    }
+   ]
+  },
+  {
+   "symbol": "VUS",
+   "name": "Vanguard Morningstar U.S. Total Market Index ETF (CAD-hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "VUS.TO",
+   "instruments": [
+    {
+     "name": "Vanguard US TotMktUn",
+     "symbol": "VUS"
+    }
+   ]
+  },
+  {
    "symbol": "VRIF",
    "name": "Vanguard Retirement Income ETF Portfolio",
    "exchange": "TSX",
@@ -46878,30 +46890,6 @@
     {
      "name": "VangUS HiDiv Yld I E",
      "symbol": "VUDH"
-    }
-   ]
-  },
-  {
-   "symbol": "VUN",
-   "name": "Vanguard U.S. Total Market Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "VUN.TO",
-   "instruments": [
-    {
-     "name": "Vanguard US MktIdxUn",
-     "symbol": "VUN"
-    }
-   ]
-  },
-  {
-   "symbol": "VUS",
-   "name": "Vanguard U.S. Total Market Index ETF (CAD-hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "VUS.TO",
-   "instruments": [
-    {
-     "name": "Vanguard US TotMktUn",
-     "symbol": "VUS"
     }
    ]
   },
@@ -47782,12 +47770,6 @@
    "name": "Airbnb, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ABNB"
-  },
-  {
-   "symbol": "ABNG",
-   "name": "Leverage Shares 2x Long ABNB Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ABNG"
   },
   {
    "symbol": "ABOS",
@@ -50644,12 +50626,6 @@
    "name": "Axon Enterprise, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "AXON"
-  },
-  {
-   "symbol": "AXPG",
-   "name": "Leverage Shares 2x Long AXP Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AXPG"
   },
   {
    "symbol": "AXSM",
@@ -54288,12 +54264,6 @@
    "yahoo_symbol": "CME"
   },
   {
-   "symbol": "CMGG",
-   "name": "Leverage Shares 2X Long CMG Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMGG"
-  },
-  {
    "symbol": "CMII",
    "name": "Columbus Circle Capital Corp II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -54358,12 +54328,6 @@
    "name": "Community Bancorp.  - Common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CMTV"
-  },
-  {
-   "symbol": "CNCG",
-   "name": "Leverage Shares 2X Long CNC Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNCG"
   },
   {
    "symbol": "CNCK",
@@ -55009,7 +54973,7 @@
   },
   {
    "symbol": "CRTO",
-   "name": "Criteo S.A. - American Depositary Shares",
+   "name": "Criteo S.A. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CRTO"
   },
@@ -55504,12 +55468,6 @@
    "name": "Cytokinetics, Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CYTK"
-  },
-  {
-   "symbol": "CZAR",
-   "name": "Themes Natural Monopoly ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CZAR"
   },
   {
    "symbol": "CZFS",
@@ -56094,12 +56052,6 @@
    "yahoo_symbol": "DNMXW"
   },
   {
-   "symbol": "DNNG",
-   "name": "Leverage Shares 2x Long DNN Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DNNG"
-  },
-  {
    "symbol": "DNTH",
    "name": "Dianthus Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -56360,19 +56312,19 @@
   {
    "symbol": "DTSQ",
    "name": "DT Cloud Star Acquisition Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DTSQ"
   },
   {
    "symbol": "DTSQR",
    "name": "DT Cloud Star Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DTSQR"
   },
   {
    "symbol": "DTSQU",
    "name": "DT Cloud Star Acquisition Corporation - Units",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DTSQU"
   },
   {
@@ -61860,12 +61812,6 @@
    "yahoo_symbol": "HVMCW"
   },
   {
-   "symbol": "HWAY",
-   "name": "Themes US Infrastructure ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HWAY"
-  },
-  {
    "symbol": "HWBK",
    "name": "Hawthorn Bancshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -64570,12 +64516,6 @@
    "name": "Lakewood-Amedex Biotherapeutics Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LABT"
-  },
-  {
-   "symbol": "LACG",
-   "name": "Leverage Shares 2X Long LAC Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LACG"
   },
   {
    "symbol": "LAES",
@@ -69636,12 +69576,6 @@
    "yahoo_symbol": "ORKT"
   },
   {
-   "symbol": "ORLG",
-   "name": "Leverage Shares 2X Long ORLY Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ORLG"
-  },
-  {
    "symbol": "ORLY",
    "name": "O'Reilly Automotive, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69670,12 +69604,6 @@
    "name": "Old Second Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "OSBC"
-  },
-  {
-   "symbol": "OSCG",
-   "name": "Leverage Shares 2X Long OSCR Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OSCG"
   },
   {
    "symbol": "OSCX",
@@ -73876,12 +73804,6 @@
    "name": "Sabra Health Care REIT, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SBRA"
-  },
-  {
-   "symbol": "SBU",
-   "name": "Leverage Shares 2X Long SBUX Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SBU"
   },
   {
    "symbol": "SBUX",
@@ -78138,12 +78060,6 @@
    "yahoo_symbol": "UPLD"
   },
   {
-   "symbol": "UPSG",
-   "name": "Leverage Shares 2X Long UPS Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UPSG"
-  },
-  {
    "symbol": "UPST",
    "name": "Upstart Holdings, Inc. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -78298,12 +78214,6 @@
    "name": "Defiance Oil Enhanced Options Income ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "USOY"
-  },
-  {
-   "symbol": "USRD",
-   "name": "Themes US R\u0026D Champions ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "USRD"
   },
   {
    "symbol": "USSH",
@@ -81154,6 +81064,12 @@
    "name": "ADC Therapeutics SA Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "ADCT"
+  },
+  {
+   "symbol": "ADIG.V",
+   "name": "ADI Global Distribution Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ADIG.V"
   },
   {
    "symbol": "ADM",
@@ -89820,6 +89736,12 @@
    "yahoo_symbol": "IMAX"
   },
   {
+   "symbol": "IMC",
+   "name": "IMC Rare Earths Ltd Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IMC"
+  },
+  {
    "symbol": "IMO",
    "name": "Imperial Oil Limited Common Stock",
    "exchange": "NYSE MKT",
@@ -95416,6 +95338,12 @@
    "name": "Resideo Technologies, Inc. Common Stock ",
    "exchange": "NYSE",
    "yahoo_symbol": "REZI"
+  },
+  {
+   "symbol": "REZI.V",
+   "name": "Resideo Technologies, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "REZI.V"
   },
   {
    "symbol": "RF",
