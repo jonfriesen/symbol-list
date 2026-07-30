@@ -1,5 +1,5 @@
 {
- "date": "2026-07-29",
+ "date": "2026-07-30",
  "data": [
   {
    "symbol": "ONE",
@@ -20026,6 +20026,22 @@
     {
      "name": "BMO Cov Call Util E",
      "symbol": "ZWU.T"
+    }
+   ]
+  },
+  {
+   "symbol": "ZCDX",
+   "name": "BMO Credit Stress Opportunities ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZCDX.TO",
+   "instruments": [
+    {
+     "name": "BMO Credit Str Opp E",
+     "symbol": "ZCDX"
+    },
+    {
+     "name": "BMO Credit St Op E U",
+     "symbol": "ZCDX.U"
     }
    ]
   },
@@ -46792,7 +46808,7 @@
    "yahoo_symbol": "VUN.TO",
    "instruments": [
     {
-     "name": "Vanguard US MktIdxUn",
+     "name": "Vanguard MrnSt US TM",
      "symbol": "VUN"
     }
    ]
@@ -46804,7 +46820,7 @@
    "yahoo_symbol": "VUS.TO",
    "instruments": [
     {
-     "name": "Vanguard US TotMktUn",
+     "name": "Vanguard MrnSt US CD",
      "symbol": "VUS"
     }
    ]
@@ -63276,10 +63292,22 @@
    "yahoo_symbol": "ISHP"
   },
   {
+   "symbol": "ISNR",
+   "name": "Snow Rothschild Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISNR"
+  },
+  {
    "symbol": "ISNRU",
    "name": "Snow Rothschild Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ISNRU"
+  },
+  {
+   "symbol": "ISNRW",
+   "name": "Snow Rothschild Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISNRW"
   },
   {
    "symbol": "ISPC",
@@ -70066,6 +70094,12 @@
    "name": "Paychex, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PAYX"
+  },
+  {
+   "symbol": "PBAM",
+   "name": "Private Bancorp of America, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PBAM"
   },
   {
    "symbol": "PBEU",
@@ -77599,13 +77633,13 @@
   },
   {
    "symbol": "TVGN",
-   "name": "Tevogen Bio Holdings Inc. - Common Stock",
+   "name": "Tevogen Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TVGN"
   },
   {
    "symbol": "TVGNW",
-   "name": "Tevogen Bio Holdings Inc. - Warrant",
+   "name": "Tevogen Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TVGNW"
   },
@@ -88464,12 +88498,6 @@
    "yahoo_symbol": "GLP"
   },
   {
-   "symbol": "GLP$B",
-   "name": "Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GLP$B"
-  },
-  {
    "symbol": "GLQ",
    "name": "Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE MKT",
@@ -90208,6 +90236,12 @@
    "name": "Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "JMIA"
+  },
+  {
+   "symbol": "JMKE",
+   "name": "Jersey Mike's Subs Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JMKE"
   },
   {
    "symbol": "JMM",
@@ -95278,6 +95312,12 @@
    "name": "Reed's, Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "REED"
+  },
+  {
+   "symbol": "REF",
+   "name": "Reformation Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "REF"
   },
   {
    "symbol": "REI",

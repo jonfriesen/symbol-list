@@ -1,150 +1,58 @@
 {
  "added": [
   {
-   "symbol": "DTSQ",
-   "name": "DT Cloud Star Acquisition Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DTSQ"
-  },
-  {
-   "symbol": "DTSQR",
-   "name": "DT Cloud Star Acquisition Corporation - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DTSQR"
-  },
-  {
-   "symbol": "DTSQU",
-   "name": "DT Cloud Star Acquisition Corporation - Units",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DTSQU"
-  },
-  {
-   "symbol": "ADIG.V",
-   "name": "ADI Global Distribution Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ADIG.V"
-  },
-  {
-   "symbol": "IMC",
-   "name": "IMC Rare Earths Ltd Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "IMC"
-  },
-  {
-   "symbol": "REZI.V",
-   "name": "Resideo Technologies, Inc. Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "REZI.V"
-  }
- ],
- "removed": [
-  {
-   "symbol": "CNCG",
-   "name": "Leverage Shares 2X Long CNC Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CNCG"
-  },
-  {
-   "symbol": "UPSG",
-   "name": "Leverage Shares 2X Long UPS Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UPSG"
-  },
-  {
-   "symbol": "LACG",
-   "name": "Leverage Shares 2X Long LAC Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LACG"
-  },
-  {
-   "symbol": "ORLG",
-   "name": "Leverage Shares 2X Long ORLY Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ORLG"
-  },
-  {
-   "symbol": "DTSQU",
-   "name": "DT Cloud Star Acquisition Corporation - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DTSQU"
-  },
-  {
-   "symbol": "AXPG",
-   "name": "Leverage Shares 2x Long AXP Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AXPG"
-  },
-  {
-   "symbol": "DTSQR",
-   "name": "DT Cloud Star Acquisition Corporation - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DTSQR"
-  },
-  {
-   "symbol": "ABNG",
-   "name": "Leverage Shares 2x Long ABNB Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ABNG"
-  },
-  {
-   "symbol": "DTSQ",
-   "name": "DT Cloud Star Acquisition Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DTSQ"
-  },
-  {
-   "symbol": "CMGG",
-   "name": "Leverage Shares 2X Long CMG Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CMGG"
-  },
-  {
-   "symbol": "HWAY",
-   "name": "Themes US Infrastructure ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HWAY"
-  },
-  {
-   "symbol": "OSCG",
-   "name": "Leverage Shares 2X Long OSCR Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OSCG"
-  },
-  {
-   "symbol": "URC",
-   "name": "Uranium Royalty Corp.",
+   "symbol": "ZCDX",
+   "name": "BMO Credit Stress Opportunities ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "URC.TO",
+   "yahoo_symbol": "ZCDX.TO",
    "instruments": [
     {
-     "name": "Uranium Rylty Corp J",
-     "symbol": "URC"
+     "name": "BMO Credit Str Opp E",
+     "symbol": "ZCDX"
+    },
+    {
+     "name": "BMO Credit St Op E U",
+     "symbol": "ZCDX.U"
     }
    ]
   },
   {
-   "symbol": "CZAR",
-   "name": "Themes Natural Monopoly ETF",
+   "symbol": "ISNR",
+   "name": "Snow Rothschild Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CZAR"
+   "yahoo_symbol": "ISNR"
   },
   {
-   "symbol": "DNNG",
-   "name": "Leverage Shares 2x Long DNN Daily ETF",
+   "symbol": "ISNRW",
+   "name": "Snow Rothschild Acquisition Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DNNG"
+   "yahoo_symbol": "ISNRW"
   },
   {
-   "symbol": "SBU",
-   "name": "Leverage Shares 2X Long SBUX Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SBU"
+   "symbol": "PBAM",
+   "name": "Private Bancorp of America, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PBAM"
   },
   {
-   "symbol": "USRD",
-   "name": "Themes US R\u0026D Champions ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "USRD"
+   "symbol": "JMKE",
+   "name": "Jersey Mike's Subs Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JMKE"
+  },
+  {
+   "symbol": "REF",
+   "name": "Reformation Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "REF"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GLP$B",
+   "name": "Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLP$B"
   }
  ]
 }

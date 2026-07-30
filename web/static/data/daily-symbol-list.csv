@@ -1630,6 +1630,7 @@ ZWGD,BMO Covered Call Spread Gold Bullion ETF,TSX,ZWGD.TO,BMO Cov Call SpGoBul,Z
 ZWT,BMO Covered Call Technology ETF,TSX,ZWT.TO,BMO CoverCallTechETF,ZWT,BMO Cov Call Tech E,ZWT.T
 ZWK,BMO Covered Call US Banks ETF,TSX,ZWK.TO,BMO CoverCalUSBkETF ,ZWK,BMO Cov Call US Bnks,ZWK.T
 ZWU,BMO Covered Call Utilities ETF,TSX,ZWU.TO,BMO CoverdUtilityETF,ZWU,BMO Cov Call Util E,ZWU.T
+ZCDX,BMO Credit Stress Opportunities ETF,TSX,ZCDX.TO,BMO Credit Str Opp E,ZCDX,BMO Credit St Op E U,ZCDX.U
 ZDB,BMO Discount Bond Index ETF,TSX,ZDB.TO,BMO Discount BndETF,ZDB
 ZDJ,BMO Dow Jones Industrial Average Hedged to CAD Index ETF,TSX,ZDJ.TO,BMO DJ IndAv Heg ETF,ZDJ
 ZEF,BMO Emerging Markets Bond Hedged to CAD Index ETF,TSX,ZEF.TO,BMO Em Mkt Bond HED,ZEF
@@ -3639,8 +3640,8 @@ VVO,Vanguard Global Minimum Volatility ETF,TSX,VVO.TO,Vanguard GlbMinVoltl,VVO
 VMO,Vanguard Global Momentum Factor ETF,TSX,VMO.TO,Vanguard GlbMomntFac,VMO
 VVL,Vanguard Global Value Factor ETF,TSX,VVL.TO,Vanguard GlbValFactr,VVL
 VGRO,Vanguard Growth ETF Portfolio,TSX,VGRO.TO,Vanguard GroETF Port,VGRO
-VUN,Vanguard Morningstar U.S. Total Market Index ETF,TSX,VUN.TO,Vanguard US MktIdxUn,VUN
-VUS,Vanguard Morningstar U.S. Total Market Index ETF (CAD-hedged),TSX,VUS.TO,Vanguard US TotMktUn,VUS
+VUN,Vanguard Morningstar U.S. Total Market Index ETF,TSX,VUN.TO,Vanguard MrnSt US TM,VUN
+VUS,Vanguard Morningstar U.S. Total Market Index ETF (CAD-hedged),TSX,VUS.TO,Vanguard MrnSt US CD,VUS
 VRIF,Vanguard Retirement Income ETF Portfolio,TSX,VRIF.TO,Vanguard Retire Incm,VRIF
 VFV,Vanguard S&P 500 Index ETF,TSX,VFV.TO,Vanguard S&P500 Indx,VFV
 VSP,Vanguard S&P 500 Index ETF (CAD-hedged),TSX,VSP.TO,Vanguard S&P500 C-Hg,VSP
@@ -6324,7 +6325,9 @@ IRWD,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",NASDAQ Global Selec
 ISBA,Isabella Bank Corporation - Common stock,NASDAQ Capital Market,ISBA
 ISHG,iShares 1-3 Year International Treasury Bond ETF,NASDAQ Global MarketSM,ISHG
 ISHP,First Trust S-Network E-Commerce ETF,NASDAQ Global MarketSM,ISHP
+ISNR,Snow Rothschild Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,ISNR
 ISNRU,Snow Rothschild Acquisition Corp. - Units,NASDAQ Global MarketSM,ISNRU
+ISNRW,Snow Rothschild Acquisition Corp. - Warrants,NASDAQ Global MarketSM,ISNRW
 ISPC,iSpecimen Inc. - Common Stock,NASDAQ Capital Market,ISPC
 ISPR,Ispire Technology Inc. - Common Stock,NASDAQ Capital Market,ISPR
 ISRG,"Intuitive Surgical, Inc. - Common Stock",NASDAQ Global Select MarketSM,ISRG
@@ -7456,6 +7459,7 @@ PAYO,Payoneer Global Inc. - Common Stock,NASDAQ Global MarketSM,PAYO
 PAYP,PayPay Corporation - American Depository Shares,NASDAQ Global Select MarketSM,PAYP
 PAYS,"Paysign, Inc. - Common Stock",NASDAQ Capital Market,PAYS
 PAYX,"Paychex, Inc. - Common Stock",NASDAQ Global Select MarketSM,PAYX
+PBAM,"Private Bancorp of America, Inc. - Common Stock",NASDAQ Global Select MarketSM,PBAM
 PBEU,Portfolio Building Block European Banks Index ETF,NASDAQ Global MarketSM,PBEU
 PBFS,"Pioneer Bancorp, Inc. - Common Stock",NASDAQ Capital Market,PBFS
 PBHC,"Pathfinder Bancorp, Inc. - Common Stock",NASDAQ Capital Market,PBHC
@@ -8711,8 +8715,8 @@ TVACW,Texas Ventures Acquisition III Corp - Warrants,NASDAQ Global MarketSM,TVAC
 TVAI,Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares,NASDAQ Global MarketSM,TVAI
 TVAIR,Thayer Ventures Acquisition Corporation II - Rights,NASDAQ Global MarketSM,TVAIR
 TVAIU,Thayer Ventures Acquisition Corporation II - Unit,NASDAQ Global MarketSM,TVAIU
-TVGN,Tevogen Bio Holdings Inc. - Common Stock,NASDAQ Global MarketSM,TVGN
-TVGNW,Tevogen Bio Holdings Inc. - Warrant,NASDAQ Capital Market,TVGNW
+TVGN,Tevogen Inc. - Common Stock,NASDAQ Global MarketSM,TVGN
+TVGNW,Tevogen Inc. - Warrant,NASDAQ Capital Market,TVGNW
 TVIV,Texas Ventures Acquisition IV Corp - Class A Ordinary Shares,NASDAQ Global MarketSM,TVIV
 TVIVU,Texas Ventures Acquisition IV Corp - Units,NASDAQ Global MarketSM,TVIVU
 TVIVW,Texas Ventures Acquisition IV Corp - Warrant,NASDAQ Global MarketSM,TVIVW
@@ -10522,7 +10526,6 @@ GLOP$A,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed 
 GLOP$B,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,GLOP$B
 GLOP$C,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,GLOP$C
 GLP,Global Partners LP Common Units representing Limited Partner Interests,NYSE,GLP
-GLP$B,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,NYSE,GLP$B
 GLQ,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,NYSE MKT,GLQ
 GLU,Gabelli Global Utility Common Shares of Beneficial Ownership,NYSE MKT,GLU
 GLU$A,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,NYSE MKT,GLU$A
@@ -10813,6 +10816,7 @@ JKS,JinkoSolar Holding Company Limited American Depositary Shares (each represen
 JLL,Jones Lang LaSalle Incorporated Common Stock,NYSE,JLL
 JLS,Nuveen Mortgage and Income Fund,NYSE,JLS
 JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",NYSE,JMIA
+JMKE,Jersey Mike's Subs Inc. Class A Common Stock,NYSE,JMKE
 JMM,Nuveen Multi-Market Income Fund (MA),NYSE,JMM
 JNJ,Johnson & Johnson Common Stock,NYSE,JNJ
 JOB,GEE Group Inc. Common Stock,NYSE MKT,JOB
@@ -11658,6 +11662,7 @@ RDW,Redwire Corporation Common Stock,NYSE,RDW
 RDY,Dr. Reddy's Laboratories Ltd Common Stock,NYSE,RDY
 REA,"Rare Earths Americas, Inc. Common Stock",NYSE MKT,REA
 REED,"Reed's, Inc. Common Stock",NYSE MKT,REED
+REF,Reformation Inc. Common Stock,NYSE,REF
 REI,"Ring Energy, Inc. Common Stock",NYSE MKT,REI
 RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),NYSE,RELX
 REPX,"Riley Exploration Permian, Inc. Common Stock",NYSE MKT,REPX
