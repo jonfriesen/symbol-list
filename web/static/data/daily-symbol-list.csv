@@ -165,7 +165,6 @@ BGF,Beauce Gold Fields Inc.,TSXV,BGF.V,Beauce Gold Fields Inc.,BGF
 BFM,Bedford Metals Corp.,TSXV,BFM.V,Bedford Metals Corp.,BFM
 BCU,Bell Copper Corporation,TSXV,BCU.V,Bell Copper Corporation,BCU
 BEA,Belmont Resources Inc.,TSXV,BEA.V,Belmont Resources Inc.,BEA
-BMET,Bemetals Corp.,TSXV,BMET.V,Bemetals Corp.,BMET
 BEX,Benton Resources Inc.,TSXV,BEX.V,Benton Resources Inc.,BEX
 BZ,Benz Mining Corp.,TSXV,BZ.V,Benz Mining Corp.,BZ
 BST,Bessor Minerals Inc.,TSXV,BST.V,Bessor Minerals Inc.,BST
@@ -219,6 +218,7 @@ BCF,Builders Capital Mortgage Corp.,TSXV,BCF.V,Builders Capital Mortgage Corp.,B
 ZLTO,BULGOLD Inc.,TSXV,ZLTO.V,BULGOLD Inc.,ZLTO
 FROG,Bullfrog Gold Corporation,TSXV,FROG.V,Bullfrog Gold Corporation,FROG
 BGD,Bullion Gold Discoveries Corp.,TSXV,BGD.V,Bullion Gold Discoveries Corp.,BGD
+BUSH.P,Bushido Capital Corp.,TSXV,BUSH.P.V,Bushido Capital Corp.,BUSH.P
 BUZH.P,Buzz Capital 2 Inc.,TSXV,BUZH.P.V,Buzz Capital 2 Inc.,BUZH.P
 BUZ.P,Buzz Capital Inc.,TSXV,BUZ.P.V,Buzz Capital Inc.,BUZ.P
 BWR,BWR Exploration Inc.,TSXV,BWR.V,BWR Exploration Inc.,BWR
@@ -750,6 +750,7 @@ LIFT,Li-FT Power Ltd.,TSXV,LIFT.V,Li-FT Power Ltd.,LIFT
 SCAN,"Liberty Defense Holdings, Ltd.",TSXV,SCAN.V,"Liberty Defense Holdings, Ltd.",SCAN,"Liberty Defense Holdings, Ltd wt 20Mar2027",SCAN.WT
 LIB,LibertyStream Infrastructure Partners Inc.,TSXV,LIB.V,LibertyStream Infrastructure Partners Inc.,LIB
 LFST,Lifeist Wellness Inc.,TSXV,LFST.V,Lifeist Wellness Inc.,LFST
+LTNG,Lightning Resource Corp.,TSXV,LTNG.V,Lightning Resource Corp.,LTNG
 LMG,Lincoln Gold Mining Inc.,TSXV,LMG.V,Lincoln Gold Mining Inc.,LMG
 LIO,Lion One Metals Limited,TSXV,LIO.V,Lion One Metals Limited,LIO,Lion One Metals Limited wt 14Feb2028,LIO.WT.A
 ROAR,Lion Rock Resources Inc.,TSXV,ROAR.V,Lion Rock Resources Inc.,ROAR
@@ -1060,7 +1061,7 @@ RTH,Rathdowney Resources Ltd.,TSXV,RTH.V,Rathdowney Resources Ltd.,RTH
 RE,RE Royalties Ltd.,TSXV,RE.V,RE Royalties Ltd.,RE
 XBOT,Realbotix Corp.,TSXV,XBOT.V,Realbotix Corp.,XBOT
 RGI,Reco International Group Inc.,TSXV,RGI.V,Reco International Group Inc.,RGI
-RECO,Reconnaissance Energy Africa Ltd.,TSXV,RECO.V,Reconnaissance Energy Africa Ltd.,RECO,Reconnaissance Energy Africa Ltd wt 31Jul2026,RECO.WT,Reconnaissance Energy Africa Ltd wt 17Jun2027,RECO.WT.A,Reconnaissance Energy Africa Ltd WtB 29Sep2027,RECO.WT.B,Reconnaissance Energy Africa Ltd WtC 19Jan2029,RECO.WT.C
+RECO,Reconnaissance Energy Africa Ltd.,TSXV,RECO.V,Reconnaissance Energy Africa Ltd.,RECO,Reconnaissance Energy Africa Ltd wt 17Jun2027,RECO.WT.A,Reconnaissance Energy Africa Ltd WtB 29Sep2027,RECO.WT.B,Reconnaissance Energy Africa Ltd WtC 19Jan2029,RECO.WT.C
 REC,Record Resources Inc.,TSXV,REC.V,Record Resources Inc.,REC
 AMY,RecycLiCo Battery Materials Inc.,TSXV,AMY.V,RecycLiCo Battery Materials Inc.,AMY
 RFX,Reeflex Solutions Inc.,TSXV,RFX.V,Reeflex Solutions Inc.,RFX
@@ -1876,6 +1877,7 @@ CMGS,Chipotle CDR (CAD Hedged),TSX,CMGS.TO,Chipotle CDR Hgd,CMGS
 CHP.UN,Choice Properties Real Estate Investment Trust,TSX,CHP.UN.TO,Choice Ppty REIT Un,CHP.UN
 CHR,Chorus Aviation Inc.,TSX,CHR.TO,Chorus Aviation V&VV,CHR,Chorus Aviatn5.75DbC,CHR.DB.C
 BXF,CI 1-5 Year Laddered Government Strip Bond Index ETF,TSX,BXF.TO,CI 1-5YrLddrGvtBndUn,BXF
+PSB,CI 1-5 Year Laddered Investment Grade Corporate Bond Index ETF,TSX,PSB.TO,Invesco1-5CorpBnd Un,PSB
 CMDO,CI Alternative Diversified Opportunities Fund,TSX,CMDO.TO,CI AltDiversOpportC$,CMDO,CI AltDiversOpportUS,CMDO.U
 CRED,CI Alternative Investment Grade Credit Fund,TSX,CRED.TO,CI AltInvest CredtC$,CRED,CI AltInvest CredtUS,CRED.U
 CNAO,CI Alternative North American Opportunities Fund,TSX,CNAO.TO,CI Alt NA OpporC$ Un,CNAO,CI Alt NA Oppor HgUS,CNAO.U
@@ -1888,6 +1890,8 @@ DGRC,CI Canada Quality Dividend Growth Index ETF,TSX,DGRC.TO,CICA QualDvGr ETFNH
 CAGG,CI Canadian Aggregate Bond Index ETF,TSX,CAGG.TO,CI CA Ag Bnd Idx Etf,CAGG
 CIC,CI Canadian Banks Covered Call Income Class ETF,TSX,CIC.TO,CI CdnBks CovCalIncm,CIC
 CXF,CI Canadian Convertible Bond ETF,TSX,CXF.TO,CI Cdn Conv Bond Un,CXF
+PDC,CI Canadian Dividend Index ETF,TSX,PDC.TO,Invesco Cdn Div Un,PDC
+PFL,CI Canadian Government Floating Rate Index ETF,TSX,PFL.TO,Invesco CdnGo Fl ETF,PFL
 RIT,CI Canadian REIT ETF,TSX,RIT.TO,CI Canadian REIT Un,RIT
 CAGS,CI Canadian Short-Term Aggregate Bond Index ETF,TSX,CAGS.TO,CI CA STerm Bnd NonH,CAGS
 CCNV,CI Conservative Asset Allocation ETF,TSX,CCNV.TO,CI Conserv AsstAlloc,CCNV
@@ -1900,6 +1904,7 @@ FGO,CI Enhanced Government Bond ETF,TSX,FGO.TO,CI EnhancGovtBnd Heg,FGO,CI Enhan
 FSB,CI Enhanced Short Duration Bond Fund,TSX,FSB.TO,CI Enhnc ShrtDur Bnd,FSB,CI EnhancShrtBnd US,FSB.U
 CEQT,CI Equity Asset Allocation ETF,TSX,CEQT.TO,CI Eqty Asset Alloc,CEQT
 CEQP,CI Equity+ Asset Allocation ETF Fund,TSX,CEQP.TO,CI EqyAssetAlloc ETF,CEQP
+QQCE,CI ESG NASDAQ 100 Index ETF,TSX,QQCE.TO,Invesco NSDQ100IDXCA,QQCE,InvescNSDQ100IdxCAHG,QQCE.F
 EHE,CI Europe Hedged Equity Index ETF,TSX,EHE.TO,CIEur HGEq IDXETF Hg,EHE,CIEur HEq IDXETF NHg,EHE.B
 CFRT,CI Floating Rate Income Fund,TSX,CFRT.TO,CI Fltg Rate Incm C$,CFRT
 BTCX,CI Galaxy Bitcoin ETF,TSX,BTCX.TO,CI Galaxy BTC ETF,BTCX,CI GalBitcnCA ETF UH,BTCX.B,CI GalBitcnETF UH US,BTCX.U
@@ -1933,6 +1938,15 @@ CSAV,CI High Interest Savings ETF,TSX,CSAV.TO,CI HiInterestSvgs Un,CSAV
 CGHY,CI High Yield Bond Private Pool,TSX,CGHY.TO,CI HiYldBondPriv C$,CGHY,CI HiYldBondPrvHegUS,CGHY.U
 CHNA.B,CI ICBCUBS S&P China 500 Index ETF,TSX,CHNA.B.TO,CI ICBCUBS SPCh500NH,CHNA.B
 IQD,CI International Quality Dividend Growth Index ETF,TSX,IQD.TO,CI IntlQ DivGr ETFHG,IQD,CI IntQ DivGr ETFNHG,IQD.B
+IIMF,CI Invesco International Developed Multifactor Index ETF,TSX,IIMF.TO,InvescoIntlDevMF,IIMF,InvescoIntlDevHg,IIMF.F
+QQC,CI Invesco NASDAQ 100 Index ETF,TSX,QQC.TO,Invesco NASDAQ100 C$,QQC,Invesco NASDQ100 Heg,QQC.F
+QQJR,CI Invesco NASDAQ Next Gen 100 Index ETF,TSX,QQJR.TO,Invesco NASDQNext100,QQJR,InvescoNASDQNxt100Hg,QQJR.F
+PZW,CI Invesco RAFI Global Small-Mid ETF,TSX,PZW.TO,Invesc RAFI Gl SmM E,PZW,Invesco RAFI SM CAHD,PZW.F,Invesco RAFI SmM USF,PZW.U
+PXU.F,CI Invesco RAFI U.S. Index ETF,TSX,PXU.F.TO,Invesco RAFI US CaHg,PXU.F
+PXS,CI Invesco RAFI U.S. Index ETF II,TSX,PXS.TO,Invesco RAFI USI2 CA,PXS,Invesco RAFI ETF2 US,PXS.U
+IUMF,CI Invesco Russell 1000 Multifactor Index ETF,TSX,IUMF.TO,InvescoRus1000MF,IUMF,InvescoRus1000MFHg,IUMF.F
+EQL,CI Invesco S&P 500 Equal Weight Index ETF,TSX,EQL.TO,Invesco S&P500 EqWgt,EQL,Invesco S&P500EqCA-H,EQL.F,Invesco S&P500Eq USF,EQL.U
+ULV.C,CI Invesco S&P 500 Low Volatility Index ETF,TSX,ULV.C.TO,Invesco 500LowVol CA,ULV.C,Invesco500LowVolCAHg,ULV.F,Invesco 500LowVol US,ULV.U
 FIG,CI Investment Grade Bond ETF,TSX,FIG.TO,CI Invest GrdBnd Heg,FIG,CI InvestGrdBndHG US,FIG.U
 JAPN,CI Japan Equity Index ETF,TSX,JAPN.TO,CI JpnEq IDX ETF Heg,JAPN,CI JpnEqIdx ETF NnHg,JAPN.B
 CMAR,CI Marret Alternative Absolute Return Bond Fund,TSX,CMAR.TO,CI Marret RetBondC$,CMAR,CI MarretAltRetBndUS,CMAR.U
@@ -1940,13 +1954,25 @@ CMEY,CI Marret Alternative Enhanced Yield Fund,TSX,CMEY.TO,CI MarretAltEnhYldC$,
 CMNY,CI Money Market ETF,TSX,CMNY.TO,CI Money Mkt ETF Un,CMNY
 WXM,CI Morningstar Canada Momentum Index ETF,TSX,WXM.TO,CI MornstrCA MomntUn,WXM
 FXM,CI Morningstar Canada Value Index ETF,TSX,FXM.TO,CI Mornstr CA Val Un,FXM
+IGET,CI Morningstar Global Energy Transition Index ETF,TSX,IGET.TO,Invesco MS Glb Engy,IGET,Invesco MS Enrgy Heg,IGET.F
+INAI,CI Morningstar Global Next Gen AI Index ETF,TSX,INAI.TO,Invesco MrnNxtGenAI,INAI,Invesco MrnNxGenAIHg,INAI.F
 ZXM,CI Morningstar International Momentum Index ETF,TSX,ZXM.TO,CI MornstrIntlMomnHG,ZXM,CI MornstIntlMomUnhg,ZXM.B
 VXM,CI Morningstar International Value Index ETF,TSX,VXM.TO,CI Mornstr IntlValHG,VXM,CI Morn IntlVal Unhg,VXM.B,CI Mornstr IntValUHG,VXM.U
 QXM,CI Morningstar National Bank Quebec Index ETF,TSX,QXM.TO,CI Mornstar NatBk QC,QXM
 CMAG,CI Munro Alternative Global Growth Fund,TSX,CMAG.TO,CI MunroAltGlbGrowC$,CMAG,CI MunroAlGlbGroUSHg,CMAG.U
 CMGG,CI Munro Global Growth Equity Fund,TSX,CMGG.TO,CI Munro GrowthEq C$,CMGG,CI MunroGrwthEqUS Hg,CMGG.U
+QQEQ,CI NASDAQ 100 Equal Weight Index ETF,TSX,QQEQ.TO,Invesco NASDQ100=Wgt,QQEQ,Invesco NASDQ100=Heg,QQEQ.F
 ONEB,CI North American Core Plus Bond ETF,TSX,ONEB.TO,CI NA Core+ Bond ETF,ONEB
 FPR,CI Preferred Share ETF,TSX,FPR.TO,CI Preferred Shr Un,FPR
+PXC,CI RAFI Canadian Index ETF,TSX,PXC.TO,Invesco RAFICdn Id E,PXC
+ESG,CI S&P 500 ESG Index ETF,TSX,ESG.TO,Invesco S&P500ESG Un,ESG,InvescoS&P500ESG Heg,ESG.F
+IIAE,CI S&P International Developed Dividend Aristocrats ESG Index ETF,TSX,IIAE.TO,InvescoS&P IntlDevDv,IIAE,InvescoS&PIntDevDvHg,IIAE.F
+IICE,CI S&P International Developed ESG Index ETF,TSX,IICE.TO,InvscoS&PIntlDvESGCa,IICE,InvscoS&PIntDvESGCaH,IICE.F
+IUAE,CI S&P US Dividend Aristocrats ESG Index ETF,TSX,IUAE.TO,InvescoS&P USDvArist,IUAE,InvescoS&P USDvArisH,IUAE.F
+EQLT,CI S&P/TSX 60 Equal Weight Index ETF,TSX,EQLT.TO,Invesco SP TSX60 EWI,EQLT
+ICAE,CI S&P/TSX Canadian Dividend Aristocrats ESG Index ETF,TSX,ICAE.TO,InvscoS&PTSXCdnDvESG,ICAE
+ESGC,CI S&P/TSX Composite ESG Index ETF,TSX,ESGC.TO,Invesco S&PTSXComESG,ESGC
+TLV,CI S&P/TSX Composite Low Volatility Index ETF,TSX,TLV.TO,InvescoCompVltlty Un,TLV
 CTMA,CI Target 2028 Investment Grade Bond Fund,TSX,CTMA.TO,CI Trg 2028 Inv Grd,CTMA
 CTMB,CI Target 2029 Investment Grade Bond Fund,TSX,CTMB.TO,CI Trg 2029 Inv Grd,CTMB
 CTMC,CI Target 2030 Investment Grade Bond Fund,TSX,CTMC.TO,CI Trg 2030 Inv Grd,CTMC
@@ -1961,6 +1987,7 @@ UMNY.U,CI U.S. Money Market ETF,TSX,UMNY.U.TO,CI US Money Mkt US,UMNY.U
 CUIG,CI U.S. Monthly Income Private Pool,TSX,CUIG.TO,CI US Mipp C$ SrETF ,CUIG,CIUS Mipp US$ HSrETF,CUIG.U
 DGR,CI U.S. Quality Dividend Growth Index ETF,TSX,DGR.TO,CI USDiv GrIdx ETFH ,DGR,CI USDivGrIdx ETFNHG,DGR.B,CI USQlyDiv GrIdxETF,DGR.U
 CSMD,CI U.S. Small/Mid Cap Equity Private Pool,TSX,CSMD.TO,CI US SmM CapEqPriPo,CSMD
+IUFR.U,CI US Treasury Floating Rate Note Index ETF (USD),TSX,IUFR.U.TO,Invesco USTreasNt US,IUFR.U
 CUTL,CI Utilities Giants Covered Call ETF,TSX,CUTL.TO,CI Util GianCall Heg,CUTL,CI Util GianCal Unhg,CUTL.B
 CACB,CIBC Active Investment Grade Corporate Bond ETF,TSX,CACB.TO,CIBC ActvInvCorpBond,CACB
 CFRN,CIBC Active Investment Grade Floating Rate Bond ETF,TSX,CFRN.TO,CIBC ActvInvFltgBond,CFRN
@@ -2313,7 +2340,6 @@ FEC,Frontera Energy Corporation,TSX,FEC.TO,Frontera Energy Corp,FEC
 FURY,Fury Gold Mines Limited,TSX,FURY.TO,Fury Gld Mines Ltd J,FURY
 FMR,Future Mineral Resources Inc.,TSX,FMR.TO,Future Mnrl Res Inc,FMR
 GMIN,G Mining Ventures Corp.,TSX,GMIN.TO,G Mining Ventures J,GMIN
-GTWO,G2 Goldfields Inc.,TSX,GTWO.TO,G2 Goldfields Inc.,GTWO
 GAU,Galiano Gold Inc.,TSX,GAU.TO,Galiano Gold Inc. J,GAU
 GE,GE Aerospace CDR (CAD Hedged),TSX,GE.TO,GE Aerospace CDR Hgd,GE
 GEV,GE Vernova CDR (CAD Hedged),TSX,GEV.TO,GE Vernova CDR Hgd,GEV
@@ -2649,37 +2675,11 @@ IPCO,International Petroleum Corporation,TSX,IPCO.TO,Int'l Pete Corp.,IPCO
 ITH,International Tower Hill Mines Ltd.,TSX,ITH.TO,Int'l Tower Hill J,ITH
 INTU,Intuit CDR (CAD Hedged),TSX,INTU.TO,Intuit CDR CAD Hgd,INTU
 ISRG,Intuitive Surgical CDR (CAD Hedged),TSX,ISRG.TO,Intuitive CDR Hgd,ISRG
-PSB,Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF,TSX,PSB.TO,Invesco1-5CorpBnd Un,PSB
 ICCB,Invesco Canadian Core Plus Bond ETF,TSX,ICCB.TO,InvCad CrePl BndETF ,ICCB
-PDC,Invesco Canadian Dividend Index ETF,TSX,PDC.TO,Invesco Cdn Div Un,PDC
-PFL,Invesco Canadian Government Floating Rate Index ETF,TSX,PFL.TO,Invesco CdnGo Fl ETF,PFL
 BESG,Invesco ESG Canadian Core Plus Bond ETF,TSX,BESG.TO,InvescoESG CA CorBnd,BESG
-QQCE,Invesco ESG NASDAQ 100 Index ETF,TSX,QQCE.TO,Invesco NSDQ100IDXCA,QQCE,InvescNSDQ100IdxCAHG,QQCE.F
 ICGB,Invesco Global Bond ETF,TSX,ICGB.TO,Inv Global Bond ETF,ICGB
-IIMF,Invesco International Developed Multifactor Index ETF,TSX,IIMF.TO,InvescoIntlDevMF,IIMF,InvescoIntlDevHg,IIMF.F
-IGET,Invesco Morningstar Global Energy Transition Index ETF,TSX,IGET.TO,Invesco MS Glb Engy,IGET,Invesco MS Enrgy Heg,IGET.F
-INAI,Invesco Morningstar Global Next Gen AI Index ETF,TSX,INAI.TO,Invesco MrnNxtGenAI,INAI,Invesco MrnNxGenAIHg,INAI.F
-QQEQ,Invesco NASDAQ 100 Equal Weight Index ETF,TSX,QQEQ.TO,Invesco NASDQ100=Wgt,QQEQ,Invesco NASDQ100=Heg,QQEQ.F
 QQCI,Invesco NASDAQ 100 Income Advantage ETF,TSX,QQCI.TO,INV NDQ100 IncAdvETF,QQCI,INV NASD100 IcA CAN,QQCI.F,INV NDQ100IncAdv USD,QQCI.U
-QQC,Invesco NASDAQ 100 Index ETF,TSX,QQC.TO,Invesco NASDAQ100 C$,QQC,Invesco NASDQ100 Heg,QQC.F
-QQJR,Invesco NASDAQ Next Gen 100 Index ETF,TSX,QQJR.TO,Invesco NASDQNext100,QQJR,InvescoNASDQNxt100Hg,QQJR.F
-PXC,Invesco RAFI Canadian Index ETF,TSX,PXC.TO,Invesco RAFICdn Id E,PXC
-PZW,Invesco RAFI Global Small-Mid ETF,TSX,PZW.TO,Invesc RAFI Gl SmM E,PZW,Invesco RAFI SM CAHD,PZW.F,Invesco RAFI SmM USF,PZW.U
-PXU.F,Invesco RAFI U.S. Index ETF,TSX,PXU.F.TO,Invesco RAFI US CaHg,PXU.F
-PXS,Invesco RAFI U.S. Index ETF II,TSX,PXS.TO,Invesco RAFI USI2 CA,PXS,Invesco RAFI ETF2 US,PXS.U
-IUMF,Invesco Russell 1000 Multifactor Index ETF,TSX,IUMF.TO,InvescoRus1000MF,IUMF,InvescoRus1000MFHg,IUMF.F
 EQLI,Invesco S&P 500 Equal Weight Income Advantage ETF,TSX,EQLI.TO,IvSP500 EqWInc AdETF,EQLI,INV S&P500 Ew Ic CA,EQLI.F,INV S&P500 Ew Ic USD,EQLI.U
-EQL,Invesco S&P 500 Equal Weight Index ETF,TSX,EQL.TO,Invesco S&P500 EqWgt,EQL,Invesco S&P500EqCA-H,EQL.F,Invesco S&P500Eq USF,EQL.U
-ESG,Invesco S&P 500 ESG Index ETF,TSX,ESG.TO,Invesco S&P500ESG Un,ESG,InvescoS&P500ESG Heg,ESG.F
-ULV.C,Invesco S&P 500 Low Volatility Index ETF,TSX,ULV.C.TO,Invesco 500LowVol CA,ULV.C,Invesco500LowVolCAHg,ULV.F,Invesco 500LowVol US,ULV.U
-IIAE,Invesco S&P International Developed Dividend Aristocrats ESG Index ETF,TSX,IIAE.TO,InvescoS&P IntlDevDv,IIAE,InvescoS&PIntDevDvHg,IIAE.F
-IICE,Invesco S&P International Developed ESG Index ETF,TSX,IICE.TO,InvscoS&PIntlDvESGCa,IICE,InvscoS&PIntDvESGCaH,IICE.F
-IUAE,Invesco S&P US Dividend Aristocrats ESG Index ETF,TSX,IUAE.TO,InvescoS&P USDvArist,IUAE,InvescoS&P USDvArisH,IUAE.F
-EQLT,Invesco S&P/TSX 60 Equal Weight Index ETF,TSX,EQLT.TO,Invesco SP TSX60 EWI,EQLT
-ICAE,Invesco S&P/TSX Canadian Dividend Aristocrats ESG Index ETF,TSX,ICAE.TO,InvscoS&PTSXCdnDvESG,ICAE
-ESGC,Invesco S&P/TSX Composite ESG Index ETF,TSX,ESGC.TO,Invesco S&PTSXComESG,ESGC
-TLV,Invesco S&P/TSX Composite Low Volatility Index ETF,TSX,TLV.TO,InvescoCompVltlty Un,TLV
-IUFR.U,Invesco US Treasury Floating Rate Note Index ETF (USD),TSX,IUFR.U.TO,Invesco USTreasNt US,IUFR.U
 IVQ,Invesque Inc.,TSX,IVQ.TO,Invesque Inc.,IVQ,Invesque Inc. USF,IVQ.U
 XSTP,iShares 0-5 Year TIPS Bond Index ETF,TSX,XSTP.TO,iShr 0-5YrTipsBndCAD,XSTP,iShr 0-5YrTipsBndUSD,XSTP.U
 XSTH,iShares 0-5 Year TIPS Bond Index ETF (CAD-Hedged),TSX,XSTH.TO,iShr0-5YrTipsBndCA-H,XSTH
@@ -4050,6 +4050,7 @@ APLMW,Apollomics Inc. - Warrant,NASDAQ Capital Market,APLMW
 APMC,AmperCap Acquisition Company - Ordinary Shares,NASDAQ Global MarketSM,APMC
 APMCR,AmperCap Acquisition Company - Right,NASDAQ Global MarketSM,APMCR
 APMCU,AmperCap Acquisition Company - Unit,NASDAQ Global MarketSM,APMCU
+APMD,"Apnimed, Inc. - Common Stock",NASDAQ Global Select MarketSM,APMD
 APOG,"Apogee Enterprises, Inc. - Common Stock",NASDAQ Global Select MarketSM,APOG
 APP,Applovin Corporation - Class A Common Stock,NASDAQ Global Select MarketSM,APP
 APPF,"AppFolio, Inc. - Class A Common Stock",NASDAQ Global MarketSM,APPF
@@ -4656,7 +4657,9 @@ CCB,Coastal Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,C
 CCBG,Capital City Bank Group - Common Stock,NASDAQ Global Select MarketSM,CCBG
 CCC,CCC Intelligent Solutions Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,CCC
 CCCC,"C4 Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,CCCC
+CCCT,Columbus Circle Capital Corp III - Class A Ordinary Shares,NASDAQ Global MarketSM,CCCT
 CCCTU,Columbus Circle Capital Corp III - Units,NASDAQ Global MarketSM,CCCTU
+CCCTW,Columbus Circle Capital Corp III - Warrants,NASDAQ Global MarketSM,CCCTW
 CCD,Calamos Dynamic Convertible & Income Fund - Closed End Fund,NASDAQ Global Select MarketSM,CCD
 CCEC,Capital Clean Energy Carriers Corp. - Common Share,NASDAQ Global Select MarketSM,CCEC
 CCEP,Coca-Cola Europacific Partners plc - Ordinary Shares,NASDAQ Global Select MarketSM,CCEP
@@ -5278,6 +5281,7 @@ ELFY,ALPS Electrification Infrastructure ETF,NASDAQ Global MarketSM,ELFY
 ELIL,Direxion Daily LLY Bull 2X ETF,NASDAQ Global MarketSM,ELIL
 ELMT,The Elmet Group Co. - Common Stock,NASDAQ Capital Market,ELMT
 ELOG,Eastern International Ltd. - Ordinary Shares,NASDAQ Capital Market,ELOG
+ELOL,Leverage Shares 100% TSLA AND 100% SPCX Daily ETF,NASDAQ Global MarketSM,ELOL
 ELOX,"Eloxx Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,ELOX
 ELPW,Elong Power Holding Limited - Class A Ordinary Shares,NASDAQ Capital Market,ELPW
 ELSE,"Electro-Sensors, Inc. - Common Stock",NASDAQ Capital Market,ELSE
@@ -5381,6 +5385,7 @@ EVPF,Eaton Vance Preferred Securities and Income ETF,NASDAQ Global MarketSM,EVPF
 EVRG,"Evergy, Inc. - Common Stock",NASDAQ Global Select MarketSM,EVRG
 EVSD,Eaton Vance Short Duration Income ETF,NASDAQ Global MarketSM,EVSD
 EVYM,Eaton Vance High Income Municipal ETF,NASDAQ Global MarketSM,EVYM
+EWAVU,East West Ave Acquisition Corp. - Units,NASDAQ Global MarketSM,EWAVU
 EWBC,"East West Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,EWBC
 EWJV,iShares MSCI Japan Value ETF,NASDAQ Global MarketSM,EWJV
 EWTX,"Edgewise Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,EWTX
@@ -5679,7 +5684,10 @@ FVCB,"FVCBankcorp, Inc. - Common Stock",NASDAQ Capital Market,FVCB
 FVN,Future Vision II Acquisition Corporation - Ordinary Shares,NASDAQ Capital Market,FVN
 FVNNR,Future Vision II Acquisition Corporation - Right,NASDAQ Capital Market,FVNNR
 FVNNU,Future Vision II Acquisition Corporation - Units,NASDAQ Capital Market,FVNNU
+FWAC,Futurewave Acquisition Corporation - Ordinary Shares,NASDAQ Capital Market,FWAC
+FWACR,Futurewave Acquisition Corporation - Rights,NASDAQ Capital Market,FWACR
 FWACU,Futurewave Acquisition Corporation - Units,NASDAQ Capital Market,FWACU
+FWACW,Futurewave Acquisition Corporation - Warrants,NASDAQ Capital Market,FWACW
 FWDI,"Forward Industries, Inc. - Common Stock",NASDAQ Capital Market,FWDI
 FWONA,Liberty Media Corporation - Series A Liberty Formula One Common Stock,NASDAQ Global Select MarketSM,FWONA
 FWONK,Liberty Media Corporation - Series C Liberty Formula One Common Stock,NASDAQ Global Select MarketSM,FWONK
@@ -5915,13 +5923,13 @@ GUACW,Berto Acquisition Corp. II - Warrants,NASDAQ Global MarketSM,GUACW
 GURE,"Gulf Resources, Inc. - Common Stock",NASDAQ Capital Market,GURE
 GUSE,Goldman Sachs Enhanced U.S. Equity ETF,NASDAQ Global MarketSM,GUSE
 GUTS,"Fractyl Health, Inc. - Common Stock",NASDAQ Global MarketSM,GUTS
-GV,Visionary Holdings Inc. - Common Shares,NASDAQ Capital Market,GV
 GVH,Globavend Holdings Limited - Ord Shares,NASDAQ Capital Market,GVH
 GVLE,Goldman Sachs Value Opportunities ETF,NASDAQ Global MarketSM,GVLE
 GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",NASDAQ Capital Market,GWAV
 GWRS,"Global Water Resources, Inc. - common stock",NASDAQ Global MarketSM,GWRS
 GXAI,Gaxos.ai Inc. - Common Stock,NASDAQ Capital Market,GXAI
 GXDW,Global X Dorsey Wright Thematic ETF,NASDAQ Global MarketSM,GXDW
+GYGY,"Game Your Game, Inc. - Common Stock",NASDAQ Capital Market,GYGY
 GYRE,"Gyre Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,GYRE
 GYRO,"Gyrodyne , LLC - Common Stock",NASDAQ Capital Market,GYRO
 HACQ,HCM IV Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,HACQ
@@ -6395,6 +6403,7 @@ JJSF,J & J Snack Foods Corp. - Common Stock,NASDAQ Global Select MarketSM,JJSF
 JKHY,"Jack Henry & Associates, Inc. - Common Stock",NASDAQ Global Select MarketSM,JKHY
 JL,J-Long Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,JL
 JLHL,Julong Holding Limited - Class A Ordinary Shares,NASDAQ Capital Market,JLHL
+JLVP,JPMorgan U.S. Large Cap Value Plus ETF,NASDAQ Global MarketSM,JLVP
 JMID,Janus Henderson Mid Cap Growth Alpha ETF,NASDAQ Global MarketSM,JMID
 JMSB,"John Marshall Bancorp, Inc. - Common Stock",NASDAQ Capital Market,JMSB
 JONEU,Jones Ventures INTL Acquisition1 Corp - Units,NASDAQ Global MarketSM,JONEU
@@ -6678,7 +6687,6 @@ LPCV,Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share,NASDAQ Global
 LPCVU,Launchpad Cadenza Acquisition Corp I - Unit,NASDAQ Global MarketSM,LPCVU
 LPCVW,Launchpad Cadenza Acquisition Corp I - Warrant,NASDAQ Global MarketSM,LPCVW
 LPLA,LPL Financial Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,LPLA
-LPRO,Open Lending Corporation - Common Stock,NASDAQ Global MarketSM,LPRO
 LPSN,"LivePerson, Inc. - Common Stock",NASDAQ Global Select MarketSM,LPSN
 LPTH,"LightPath Technologies, Inc. - Class A Common Stock",NASDAQ Capital Market,LPTH
 LQ,Simplify Tax Aware Alternatives ETF,NASDAQ Global MarketSM,LQ
@@ -7065,7 +7073,10 @@ NCIQ,Hashdex Nasdaq CME Crypto Index ETF,NASDAQ Global MarketSM,NCIQ
 NCMI,"National CineMedia, Inc. - Common Stock",NASDAQ Global Select MarketSM,NCMI
 NCNA,NuCana plc - American Depositary Shares,NASDAQ Capital Market,NCNA
 NCNO,"nCino, Inc. - Common Stock",NASDAQ Global Select MarketSM,NCNO
+NCO,Southern Cross Acquisition I Corp. - Ordinary Shares,NASDAQ Global MarketSM,NCO
+NCOOR,Southern Cross Acquisition I Corp. - Rights,NASDAQ Global MarketSM,NCOOR
 NCOOU,Southern Cross Acquisition I Corp. - Units,NASDAQ Global MarketSM,NCOOU
+NCOOW,Southern Cross Acquisition I Corp. - Warrants,NASDAQ Global MarketSM,NCOOW
 NCPB,Nuveen Core Plus Bond ETF,NASDAQ Global MarketSM,NCPB
 NCPL,Netcapital Inc. - Common Stock,NASDAQ Capital Market,NCPL
 NCPLW,Netcapital Inc. - warrants,NASDAQ Capital Market,NCPLW
@@ -8615,7 +8626,7 @@ TNON,"Tenon Medical, Inc. - Common Stock",NASDAQ Capital Market,TNON
 TNONW,"Tenon Medical, Inc. - Warrant",NASDAQ Capital Market,TNONW
 TNXP,Tonix Pharmaceuticals Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,TNXP
 TNXT,T. Rowe Price Innovation Leaders ETF,NASDAQ Global MarketSM,TNXT
-TNYA,"Tenaya Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,TNYA
+TNYA,"Tenaya Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,TNYA
 TOI,"The Oncology Institute, Inc. - Common Stock",NASDAQ Capital Market,TOI
 TOIIW,"The Oncology Institute, Inc. - Warrant",NASDAQ Capital Market,TOIIW
 TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",NASDAQ Capital Market,TOMZ
@@ -9130,6 +9141,7 @@ XFOR,"X4 Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,XFOR
 XGN,Exagen Inc. - Common Stock,NASDAQ Global MarketSM,XGN
 XHG,XChange TEC.INC - American Depositary Shares,NASDAQ Capital Market,XHG
 XHLD,"TEN Holdings, Inc. - Common Stock",NASDAQ Capital Market,XHLD
+XIIIU,Churchill Capital Corp XIII - Units,NASDAQ Global MarketSM,XIIIU
 XLO,"Xilio Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,XLO
 XMAG,Defiance Large Cap ex-Mag 7 ETF,NASDAQ Global MarketSM,XMAG
 XMAX,"XMAX, Inc. - Common Stock",NASDAQ Capital Market,XMAX
@@ -9440,7 +9452,6 @@ APG,APi Group Corporation Common Stock,NYSE,APG
 APH,Amphenol Corporation Common Stock,NYSE,APH
 APLE,"Apple Hospitality REIT, Inc. Common Shares",NYSE,APLE
 APO,"Apollo Global Management, Inc. (New) Common Stock",NYSE,APO
-APO$A,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",NYSE,APO$A
 APOS,"Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",NYSE,APOS
 APT,"Alpha Pro Tech, Ltd. Common Stock",NYSE MKT,APT
 APTV,Aptiv PLC Ordinary Shares,NYSE,APTV
@@ -11404,7 +11415,6 @@ ORC,"Orchid Island Capital, Inc. Common Stock",NYSE,ORC
 ORCL,Oracle Corporation Common Stock,NYSE,ORCL
 ORCL$D,"Oracle Corporation Depositary Shares, each representing a 1/2,000th interest in a sh of 6.50% Series D Mandatory Convertible Preferred Stock",NYSE,ORCL$D
 ORI,Old Republic International Corporation Common Stock,NYSE,ORI
-ORLA,Orla Mining Ltd. Common Shares,NYSE MKT,ORLA
 ORN,"Orion Group Holdings, Inc. Common",NYSE,ORN
 OSCR,"Oscar Health, Inc. Class A Common Stock",NYSE,OSCR
 OSG,"Octave Specialty Group, Inc. Common Stock",NYSE,OSG
@@ -12051,7 +12061,7 @@ TGB,Trekor Metals Limited Common Shares,NYSE MKT,TGB
 TGE,The Generation Essentials Group Class A Ordinary Shares,NYSE,TGE
 TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",NYSE MKT,TGE.W
 TGEN,Tecogen Inc. Common Stock,NYSE MKT,TGEN
-TGLS,Tecnoglass Inc. Common Stock,NYSE,TGLS
+TGLS,Tecnoglass Holdings Inc. Common Stock,NYSE,TGLS
 TGS,Transportadora de Gas del Sur SA TGS Common Stock,NYSE,TGS
 TGT,Target Corporation Common Stock,NYSE,TGT
 THC,Tenet Healthcare Corporation Common Stock,NYSE,THC

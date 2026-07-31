@@ -1,58 +1,174 @@
 {
  "added": [
   {
-   "symbol": "ZCDX",
-   "name": "BMO Credit Stress Opportunities ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ZCDX.TO",
+   "symbol": "BUSH.P",
+   "name": "Bushido Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BUSH.P.V",
    "instruments": [
     {
-     "name": "BMO Credit Str Opp E",
-     "symbol": "ZCDX"
-    },
-    {
-     "name": "BMO Credit St Op E U",
-     "symbol": "ZCDX.U"
+     "name": "Bushido Capital Corp.",
+     "symbol": "BUSH.P"
     }
    ]
   },
   {
-   "symbol": "ISNR",
-   "name": "Snow Rothschild Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ISNR"
+   "symbol": "LTNG",
+   "name": "Lightning Resource Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LTNG.V",
+   "instruments": [
+    {
+     "name": "Lightning Resource Corp.",
+     "symbol": "LTNG"
+    }
+   ]
   },
   {
-   "symbol": "ISNRW",
-   "name": "Snow Rothschild Acquisition Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ISNRW"
-  },
-  {
-   "symbol": "PBAM",
-   "name": "Private Bancorp of America, Inc. - Common Stock",
+   "symbol": "APMD",
+   "name": "Apnimed, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PBAM"
+   "yahoo_symbol": "APMD"
   },
   {
-   "symbol": "JMKE",
-   "name": "Jersey Mike's Subs Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "JMKE"
+   "symbol": "CCCT",
+   "name": "Columbus Circle Capital Corp III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCT"
   },
   {
-   "symbol": "REF",
-   "name": "Reformation Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "REF"
+   "symbol": "CCCTW",
+   "name": "Columbus Circle Capital Corp III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCTW"
+  },
+  {
+   "symbol": "ELOL",
+   "name": "Leverage Shares 100% TSLA AND 100% SPCX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELOL"
+  },
+  {
+   "symbol": "EWAVU",
+   "name": "East West Ave Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EWAVU"
+  },
+  {
+   "symbol": "FWAC",
+   "name": "Futurewave Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWAC"
+  },
+  {
+   "symbol": "FWACR",
+   "name": "Futurewave Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWACR"
+  },
+  {
+   "symbol": "FWACW",
+   "name": "Futurewave Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWACW"
+  },
+  {
+   "symbol": "GYGY",
+   "name": "Game Your Game, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GYGY"
+  },
+  {
+   "symbol": "JLVP",
+   "name": "JPMorgan U.S. Large Cap Value Plus ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JLVP"
+  },
+  {
+   "symbol": "NCO",
+   "name": "Southern Cross Acquisition I Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCO"
+  },
+  {
+   "symbol": "NCOOR",
+   "name": "Southern Cross Acquisition I Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCOOR"
+  },
+  {
+   "symbol": "NCOOW",
+   "name": "Southern Cross Acquisition I Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCOOW"
+  },
+  {
+   "symbol": "TNYA",
+   "name": "Tenaya Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TNYA"
+  },
+  {
+   "symbol": "XIIIU",
+   "name": "Churchill Capital Corp XIII - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XIIIU"
   }
  ],
  "removed": [
   {
-   "symbol": "GLP$B",
-   "name": "Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests",
+   "symbol": "BMET",
+   "name": "Bemetals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BMET.V",
+   "instruments": [
+    {
+     "name": "Bemetals Corp.",
+     "symbol": "BMET"
+    }
+   ]
+  },
+  {
+   "symbol": "ORLA",
+   "name": "Orla Mining Ltd. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ORLA"
+  },
+  {
+   "symbol": "GTWO",
+   "name": "G2 Goldfields Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GTWO.TO",
+   "instruments": [
+    {
+     "name": "G2 Goldfields Inc.",
+     "symbol": "GTWO"
+    }
+   ]
+  },
+  {
+   "symbol": "TNYA",
+   "name": "Tenaya Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TNYA"
+  },
+  {
+   "symbol": "APO$A",
+   "name": "Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "GLP$B"
+   "yahoo_symbol": "APO$A"
+  },
+  {
+   "symbol": "LPRO",
+   "name": "Open Lending Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPRO"
+  },
+  {
+   "symbol": "GV",
+   "name": "Visionary Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GV"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-07-30",
+ "date": "2026-07-31",
  "data": [
   {
    "symbol": "ONE",
@@ -2006,18 +2006,6 @@
    ]
   },
   {
-   "symbol": "BMET",
-   "name": "Bemetals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BMET.V",
-   "instruments": [
-    {
-     "name": "Bemetals Corp.",
-     "symbol": "BMET"
-    }
-   ]
-  },
-  {
    "symbol": "BEX",
    "name": "Benton Resources Inc.",
    "exchange": "TSXV",
@@ -2650,6 +2638,18 @@
     {
      "name": "Bullion Gold Discoveries Corp.",
      "symbol": "BGD"
+    }
+   ]
+  },
+  {
+   "symbol": "BUSH.P",
+   "name": "Bushido Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BUSH.P.V",
+   "instruments": [
+    {
+     "name": "Bushido Capital Corp.",
+     "symbol": "BUSH.P"
     }
    ]
   },
@@ -9086,6 +9086,18 @@
    ]
   },
   {
+   "symbol": "LTNG",
+   "name": "Lightning Resource Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LTNG.V",
+   "instruments": [
+    {
+     "name": "Lightning Resource Corp.",
+     "symbol": "LTNG"
+    }
+   ]
+  },
+  {
    "symbol": "LMG",
    "name": "Lincoln Gold Mining Inc.",
    "exchange": "TSXV",
@@ -12874,10 +12886,6 @@
     {
      "name": "Reconnaissance Energy Africa Ltd.",
      "symbol": "RECO"
-    },
-    {
-     "name": "Reconnaissance Energy Africa Ltd wt 31Jul2026",
-     "symbol": "RECO.WT"
     },
     {
      "name": "Reconnaissance Energy Africa Ltd wt 17Jun2027",
@@ -23534,6 +23542,18 @@
    ]
   },
   {
+   "symbol": "PSB",
+   "name": "CI 1-5 Year Laddered Investment Grade Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PSB.TO",
+   "instruments": [
+    {
+     "name": "Invesco1-5CorpBnd Un",
+     "symbol": "PSB"
+    }
+   ]
+  },
+  {
    "symbol": "CMDO",
    "name": "CI Alternative Diversified Opportunities Fund",
    "exchange": "TSX",
@@ -23686,6 +23706,30 @@
     {
      "name": "CI Cdn Conv Bond Un",
      "symbol": "CXF"
+    }
+   ]
+  },
+  {
+   "symbol": "PDC",
+   "name": "CI Canadian Dividend Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PDC.TO",
+   "instruments": [
+    {
+     "name": "Invesco Cdn Div Un",
+     "symbol": "PDC"
+    }
+   ]
+  },
+  {
+   "symbol": "PFL",
+   "name": "CI Canadian Government Floating Rate Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFL.TO",
+   "instruments": [
+    {
+     "name": "Invesco CdnGo Fl ETF",
+     "symbol": "PFL"
     }
    ]
   },
@@ -23858,6 +23902,22 @@
     {
      "name": "CI EqyAssetAlloc ETF",
      "symbol": "CEQP"
+    }
+   ]
+  },
+  {
+   "symbol": "QQCE",
+   "name": "CI ESG NASDAQ 100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQCE.TO",
+   "instruments": [
+    {
+     "name": "Invesco NSDQ100IDXCA",
+     "symbol": "QQCE"
+    },
+    {
+     "name": "InvescNSDQ100IdxCAHG",
+     "symbol": "QQCE.F"
     }
    ]
   },
@@ -24354,6 +24414,158 @@
    ]
   },
   {
+   "symbol": "IIMF",
+   "name": "CI Invesco International Developed Multifactor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIMF.TO",
+   "instruments": [
+    {
+     "name": "InvescoIntlDevMF",
+     "symbol": "IIMF"
+    },
+    {
+     "name": "InvescoIntlDevHg",
+     "symbol": "IIMF.F"
+    }
+   ]
+  },
+  {
+   "symbol": "QQC",
+   "name": "CI Invesco NASDAQ 100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQC.TO",
+   "instruments": [
+    {
+     "name": "Invesco NASDAQ100 C$",
+     "symbol": "QQC"
+    },
+    {
+     "name": "Invesco NASDQ100 Heg",
+     "symbol": "QQC.F"
+    }
+   ]
+  },
+  {
+   "symbol": "QQJR",
+   "name": "CI Invesco NASDAQ Next Gen 100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQJR.TO",
+   "instruments": [
+    {
+     "name": "Invesco NASDQNext100",
+     "symbol": "QQJR"
+    },
+    {
+     "name": "InvescoNASDQNxt100Hg",
+     "symbol": "QQJR.F"
+    }
+   ]
+  },
+  {
+   "symbol": "PZW",
+   "name": "CI Invesco RAFI Global Small-Mid ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PZW.TO",
+   "instruments": [
+    {
+     "name": "Invesc RAFI Gl SmM E",
+     "symbol": "PZW"
+    },
+    {
+     "name": "Invesco RAFI SM CAHD",
+     "symbol": "PZW.F"
+    },
+    {
+     "name": "Invesco RAFI SmM USF",
+     "symbol": "PZW.U"
+    }
+   ]
+  },
+  {
+   "symbol": "PXU.F",
+   "name": "CI Invesco RAFI U.S. Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PXU.F.TO",
+   "instruments": [
+    {
+     "name": "Invesco RAFI US CaHg",
+     "symbol": "PXU.F"
+    }
+   ]
+  },
+  {
+   "symbol": "PXS",
+   "name": "CI Invesco RAFI U.S. Index ETF II",
+   "exchange": "TSX",
+   "yahoo_symbol": "PXS.TO",
+   "instruments": [
+    {
+     "name": "Invesco RAFI USI2 CA",
+     "symbol": "PXS"
+    },
+    {
+     "name": "Invesco RAFI ETF2 US",
+     "symbol": "PXS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "IUMF",
+   "name": "CI Invesco Russell 1000 Multifactor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUMF.TO",
+   "instruments": [
+    {
+     "name": "InvescoRus1000MF",
+     "symbol": "IUMF"
+    },
+    {
+     "name": "InvescoRus1000MFHg",
+     "symbol": "IUMF.F"
+    }
+   ]
+  },
+  {
+   "symbol": "EQL",
+   "name": "CI Invesco S\u0026P 500 Equal Weight Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQL.TO",
+   "instruments": [
+    {
+     "name": "Invesco S\u0026P500 EqWgt",
+     "symbol": "EQL"
+    },
+    {
+     "name": "Invesco S\u0026P500EqCA-H",
+     "symbol": "EQL.F"
+    },
+    {
+     "name": "Invesco S\u0026P500Eq USF",
+     "symbol": "EQL.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ULV.C",
+   "name": "CI Invesco S\u0026P 500 Low Volatility Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ULV.C.TO",
+   "instruments": [
+    {
+     "name": "Invesco 500LowVol CA",
+     "symbol": "ULV.C"
+    },
+    {
+     "name": "Invesco500LowVolCAHg",
+     "symbol": "ULV.F"
+    },
+    {
+     "name": "Invesco 500LowVol US",
+     "symbol": "ULV.U"
+    }
+   ]
+  },
+  {
    "symbol": "FIG",
    "name": "CI Investment Grade Bond ETF",
    "exchange": "TSX",
@@ -24454,6 +24666,38 @@
    ]
   },
   {
+   "symbol": "IGET",
+   "name": "CI Morningstar Global Energy Transition Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGET.TO",
+   "instruments": [
+    {
+     "name": "Invesco MS Glb Engy",
+     "symbol": "IGET"
+    },
+    {
+     "name": "Invesco MS Enrgy Heg",
+     "symbol": "IGET.F"
+    }
+   ]
+  },
+  {
+   "symbol": "INAI",
+   "name": "CI Morningstar Global Next Gen AI Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "INAI.TO",
+   "instruments": [
+    {
+     "name": "Invesco MrnNxtGenAI",
+     "symbol": "INAI"
+    },
+    {
+     "name": "Invesco MrnNxGenAIHg",
+     "symbol": "INAI.F"
+    }
+   ]
+  },
+  {
    "symbol": "ZXM",
    "name": "CI Morningstar International Momentum Index ETF",
    "exchange": "TSX",
@@ -24534,6 +24778,22 @@
    ]
   },
   {
+   "symbol": "QQEQ",
+   "name": "CI NASDAQ 100 Equal Weight Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQEQ.TO",
+   "instruments": [
+    {
+     "name": "Invesco NASDQ100=Wgt",
+     "symbol": "QQEQ"
+    },
+    {
+     "name": "Invesco NASDQ100=Heg",
+     "symbol": "QQEQ.F"
+    }
+   ]
+  },
+  {
    "symbol": "ONEB",
    "name": "CI North American Core Plus Bond ETF",
    "exchange": "TSX",
@@ -24554,6 +24814,130 @@
     {
      "name": "CI Preferred Shr Un",
      "symbol": "FPR"
+    }
+   ]
+  },
+  {
+   "symbol": "PXC",
+   "name": "CI RAFI Canadian Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PXC.TO",
+   "instruments": [
+    {
+     "name": "Invesco RAFICdn Id E",
+     "symbol": "PXC"
+    }
+   ]
+  },
+  {
+   "symbol": "ESG",
+   "name": "CI S\u0026P 500 ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ESG.TO",
+   "instruments": [
+    {
+     "name": "Invesco S\u0026P500ESG Un",
+     "symbol": "ESG"
+    },
+    {
+     "name": "InvescoS\u0026P500ESG Heg",
+     "symbol": "ESG.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IIAE",
+   "name": "CI S\u0026P International Developed Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIAE.TO",
+   "instruments": [
+    {
+     "name": "InvescoS\u0026P IntlDevDv",
+     "symbol": "IIAE"
+    },
+    {
+     "name": "InvescoS\u0026PIntDevDvHg",
+     "symbol": "IIAE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IICE",
+   "name": "CI S\u0026P International Developed ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IICE.TO",
+   "instruments": [
+    {
+     "name": "InvscoS\u0026PIntlDvESGCa",
+     "symbol": "IICE"
+    },
+    {
+     "name": "InvscoS\u0026PIntDvESGCaH",
+     "symbol": "IICE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IUAE",
+   "name": "CI S\u0026P US Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUAE.TO",
+   "instruments": [
+    {
+     "name": "InvescoS\u0026P USDvArist",
+     "symbol": "IUAE"
+    },
+    {
+     "name": "InvescoS\u0026P USDvArisH",
+     "symbol": "IUAE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "EQLT",
+   "name": "CI S\u0026P/TSX 60 Equal Weight Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQLT.TO",
+   "instruments": [
+    {
+     "name": "Invesco SP TSX60 EWI",
+     "symbol": "EQLT"
+    }
+   ]
+  },
+  {
+   "symbol": "ICAE",
+   "name": "CI S\u0026P/TSX Canadian Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ICAE.TO",
+   "instruments": [
+    {
+     "name": "InvscoS\u0026PTSXCdnDvESG",
+     "symbol": "ICAE"
+    }
+   ]
+  },
+  {
+   "symbol": "ESGC",
+   "name": "CI S\u0026P/TSX Composite ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ESGC.TO",
+   "instruments": [
+    {
+     "name": "Invesco S\u0026PTSXComESG",
+     "symbol": "ESGC"
+    }
+   ]
+  },
+  {
+   "symbol": "TLV",
+   "name": "CI S\u0026P/TSX Composite Low Volatility Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLV.TO",
+   "instruments": [
+    {
+     "name": "InvescoCompVltlty Un",
+     "symbol": "TLV"
     }
    ]
   },
@@ -24758,6 +25142,18 @@
     {
      "name": "CI US SmM CapEqPriPo",
      "symbol": "CSMD"
+    }
+   ]
+  },
+  {
+   "symbol": "IUFR.U",
+   "name": "CI US Treasury Floating Rate Note Index ETF (USD)",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUFR.U.TO",
+   "instruments": [
+    {
+     "name": "Invesco USTreasNt US",
+     "symbol": "IUFR.U"
     }
    ]
   },
@@ -29474,18 +29870,6 @@
    ]
   },
   {
-   "symbol": "GTWO",
-   "name": "G2 Goldfields Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "GTWO.TO",
-   "instruments": [
-    {
-     "name": "G2 Goldfields Inc.",
-     "symbol": "GTWO"
-    }
-   ]
-  },
-  {
    "symbol": "GAU",
    "name": "Galiano Gold Inc.",
    "exchange": "TSX",
@@ -33878,18 +34262,6 @@
    ]
   },
   {
-   "symbol": "PSB",
-   "name": "Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PSB.TO",
-   "instruments": [
-    {
-     "name": "Invesco1-5CorpBnd Un",
-     "symbol": "PSB"
-    }
-   ]
-  },
-  {
    "symbol": "ICCB",
    "name": "Invesco Canadian Core Plus Bond ETF",
    "exchange": "TSX",
@@ -33898,30 +34270,6 @@
     {
      "name": "InvCad CrePl BndETF ",
      "symbol": "ICCB"
-    }
-   ]
-  },
-  {
-   "symbol": "PDC",
-   "name": "Invesco Canadian Dividend Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PDC.TO",
-   "instruments": [
-    {
-     "name": "Invesco Cdn Div Un",
-     "symbol": "PDC"
-    }
-   ]
-  },
-  {
-   "symbol": "PFL",
-   "name": "Invesco Canadian Government Floating Rate Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PFL.TO",
-   "instruments": [
-    {
-     "name": "Invesco CdnGo Fl ETF",
-     "symbol": "PFL"
     }
    ]
   },
@@ -33938,22 +34286,6 @@
    ]
   },
   {
-   "symbol": "QQCE",
-   "name": "Invesco ESG NASDAQ 100 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQCE.TO",
-   "instruments": [
-    {
-     "name": "Invesco NSDQ100IDXCA",
-     "symbol": "QQCE"
-    },
-    {
-     "name": "InvescNSDQ100IdxCAHG",
-     "symbol": "QQCE.F"
-    }
-   ]
-  },
-  {
    "symbol": "ICGB",
    "name": "Invesco Global Bond ETF",
    "exchange": "TSX",
@@ -33962,70 +34294,6 @@
     {
      "name": "Inv Global Bond ETF",
      "symbol": "ICGB"
-    }
-   ]
-  },
-  {
-   "symbol": "IIMF",
-   "name": "Invesco International Developed Multifactor Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IIMF.TO",
-   "instruments": [
-    {
-     "name": "InvescoIntlDevMF",
-     "symbol": "IIMF"
-    },
-    {
-     "name": "InvescoIntlDevHg",
-     "symbol": "IIMF.F"
-    }
-   ]
-  },
-  {
-   "symbol": "IGET",
-   "name": "Invesco Morningstar Global Energy Transition Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IGET.TO",
-   "instruments": [
-    {
-     "name": "Invesco MS Glb Engy",
-     "symbol": "IGET"
-    },
-    {
-     "name": "Invesco MS Enrgy Heg",
-     "symbol": "IGET.F"
-    }
-   ]
-  },
-  {
-   "symbol": "INAI",
-   "name": "Invesco Morningstar Global Next Gen AI Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "INAI.TO",
-   "instruments": [
-    {
-     "name": "Invesco MrnNxtGenAI",
-     "symbol": "INAI"
-    },
-    {
-     "name": "Invesco MrnNxGenAIHg",
-     "symbol": "INAI.F"
-    }
-   ]
-  },
-  {
-   "symbol": "QQEQ",
-   "name": "Invesco NASDAQ 100 Equal Weight Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQEQ.TO",
-   "instruments": [
-    {
-     "name": "Invesco NASDQ100=Wgt",
-     "symbol": "QQEQ"
-    },
-    {
-     "name": "Invesco NASDQ100=Heg",
-     "symbol": "QQEQ.F"
     }
    ]
   },
@@ -34050,114 +34318,6 @@
    ]
   },
   {
-   "symbol": "QQC",
-   "name": "Invesco NASDAQ 100 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQC.TO",
-   "instruments": [
-    {
-     "name": "Invesco NASDAQ100 C$",
-     "symbol": "QQC"
-    },
-    {
-     "name": "Invesco NASDQ100 Heg",
-     "symbol": "QQC.F"
-    }
-   ]
-  },
-  {
-   "symbol": "QQJR",
-   "name": "Invesco NASDAQ Next Gen 100 Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "QQJR.TO",
-   "instruments": [
-    {
-     "name": "Invesco NASDQNext100",
-     "symbol": "QQJR"
-    },
-    {
-     "name": "InvescoNASDQNxt100Hg",
-     "symbol": "QQJR.F"
-    }
-   ]
-  },
-  {
-   "symbol": "PXC",
-   "name": "Invesco RAFI Canadian Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PXC.TO",
-   "instruments": [
-    {
-     "name": "Invesco RAFICdn Id E",
-     "symbol": "PXC"
-    }
-   ]
-  },
-  {
-   "symbol": "PZW",
-   "name": "Invesco RAFI Global Small-Mid ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PZW.TO",
-   "instruments": [
-    {
-     "name": "Invesc RAFI Gl SmM E",
-     "symbol": "PZW"
-    },
-    {
-     "name": "Invesco RAFI SM CAHD",
-     "symbol": "PZW.F"
-    },
-    {
-     "name": "Invesco RAFI SmM USF",
-     "symbol": "PZW.U"
-    }
-   ]
-  },
-  {
-   "symbol": "PXU.F",
-   "name": "Invesco RAFI U.S. Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "PXU.F.TO",
-   "instruments": [
-    {
-     "name": "Invesco RAFI US CaHg",
-     "symbol": "PXU.F"
-    }
-   ]
-  },
-  {
-   "symbol": "PXS",
-   "name": "Invesco RAFI U.S. Index ETF II",
-   "exchange": "TSX",
-   "yahoo_symbol": "PXS.TO",
-   "instruments": [
-    {
-     "name": "Invesco RAFI USI2 CA",
-     "symbol": "PXS"
-    },
-    {
-     "name": "Invesco RAFI ETF2 US",
-     "symbol": "PXS.U"
-    }
-   ]
-  },
-  {
-   "symbol": "IUMF",
-   "name": "Invesco Russell 1000 Multifactor Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IUMF.TO",
-   "instruments": [
-    {
-     "name": "InvescoRus1000MF",
-     "symbol": "IUMF"
-    },
-    {
-     "name": "InvescoRus1000MFHg",
-     "symbol": "IUMF.F"
-    }
-   ]
-  },
-  {
    "symbol": "EQLI",
    "name": "Invesco S\u0026P 500 Equal Weight Income Advantage ETF",
    "exchange": "TSX",
@@ -34174,170 +34334,6 @@
     {
      "name": "INV S\u0026P500 Ew Ic USD",
      "symbol": "EQLI.U"
-    }
-   ]
-  },
-  {
-   "symbol": "EQL",
-   "name": "Invesco S\u0026P 500 Equal Weight Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "EQL.TO",
-   "instruments": [
-    {
-     "name": "Invesco S\u0026P500 EqWgt",
-     "symbol": "EQL"
-    },
-    {
-     "name": "Invesco S\u0026P500EqCA-H",
-     "symbol": "EQL.F"
-    },
-    {
-     "name": "Invesco S\u0026P500Eq USF",
-     "symbol": "EQL.U"
-    }
-   ]
-  },
-  {
-   "symbol": "ESG",
-   "name": "Invesco S\u0026P 500 ESG Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ESG.TO",
-   "instruments": [
-    {
-     "name": "Invesco S\u0026P500ESG Un",
-     "symbol": "ESG"
-    },
-    {
-     "name": "InvescoS\u0026P500ESG Heg",
-     "symbol": "ESG.F"
-    }
-   ]
-  },
-  {
-   "symbol": "ULV.C",
-   "name": "Invesco S\u0026P 500 Low Volatility Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ULV.C.TO",
-   "instruments": [
-    {
-     "name": "Invesco 500LowVol CA",
-     "symbol": "ULV.C"
-    },
-    {
-     "name": "Invesco500LowVolCAHg",
-     "symbol": "ULV.F"
-    },
-    {
-     "name": "Invesco 500LowVol US",
-     "symbol": "ULV.U"
-    }
-   ]
-  },
-  {
-   "symbol": "IIAE",
-   "name": "Invesco S\u0026P International Developed Dividend Aristocrats ESG Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IIAE.TO",
-   "instruments": [
-    {
-     "name": "InvescoS\u0026P IntlDevDv",
-     "symbol": "IIAE"
-    },
-    {
-     "name": "InvescoS\u0026PIntDevDvHg",
-     "symbol": "IIAE.F"
-    }
-   ]
-  },
-  {
-   "symbol": "IICE",
-   "name": "Invesco S\u0026P International Developed ESG Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IICE.TO",
-   "instruments": [
-    {
-     "name": "InvscoS\u0026PIntlDvESGCa",
-     "symbol": "IICE"
-    },
-    {
-     "name": "InvscoS\u0026PIntDvESGCaH",
-     "symbol": "IICE.F"
-    }
-   ]
-  },
-  {
-   "symbol": "IUAE",
-   "name": "Invesco S\u0026P US Dividend Aristocrats ESG Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "IUAE.TO",
-   "instruments": [
-    {
-     "name": "InvescoS\u0026P USDvArist",
-     "symbol": "IUAE"
-    },
-    {
-     "name": "InvescoS\u0026P USDvArisH",
-     "symbol": "IUAE.F"
-    }
-   ]
-  },
-  {
-   "symbol": "EQLT",
-   "name": "Invesco S\u0026P/TSX 60 Equal Weight Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "EQLT.TO",
-   "instruments": [
-    {
-     "name": "Invesco SP TSX60 EWI",
-     "symbol": "EQLT"
-    }
-   ]
-  },
-  {
-   "symbol": "ICAE",
-   "name": "Invesco S\u0026P/TSX Canadian Dividend Aristocrats ESG Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ICAE.TO",
-   "instruments": [
-    {
-     "name": "InvscoS\u0026PTSXCdnDvESG",
-     "symbol": "ICAE"
-    }
-   ]
-  },
-  {
-   "symbol": "ESGC",
-   "name": "Invesco S\u0026P/TSX Composite ESG Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ESGC.TO",
-   "instruments": [
-    {
-     "name": "Invesco S\u0026PTSXComESG",
-     "symbol": "ESGC"
-    }
-   ]
-  },
-  {
-   "symbol": "TLV",
-   "name": "Invesco S\u0026P/TSX Composite Low Volatility Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TLV.TO",
-   "instruments": [
-    {
-     "name": "InvescoCompVltlty Un",
-     "symbol": "TLV"
-    }
-   ]
-  },
-  {
-   "symbol": "IUFR.U",
-   "name": "Invesco US Treasury Floating Rate Note Index ETF (USD)",
-   "exchange": "TSX",
-   "yahoo_symbol": "IUFR.U.TO",
-   "instruments": [
-    {
-     "name": "Invesco USTreasNt US",
-     "symbol": "IUFR.U"
     }
    ]
   },
@@ -49642,6 +49638,12 @@
    "yahoo_symbol": "APMCU"
   },
   {
+   "symbol": "APMD",
+   "name": "Apnimed, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "APMD"
+  },
+  {
    "symbol": "APOG",
    "name": "Apogee Enterprises, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53278,10 +53280,22 @@
    "yahoo_symbol": "CCCC"
   },
   {
+   "symbol": "CCCT",
+   "name": "Columbus Circle Capital Corp III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCT"
+  },
+  {
    "symbol": "CCCTU",
    "name": "Columbus Circle Capital Corp III - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CCCTU"
+  },
+  {
+   "symbol": "CCCTW",
+   "name": "Columbus Circle Capital Corp III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCTW"
   },
   {
    "symbol": "CCD",
@@ -57010,6 +57024,12 @@
    "yahoo_symbol": "ELOG"
   },
   {
+   "symbol": "ELOL",
+   "name": "Leverage Shares 100% TSLA AND 100% SPCX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELOL"
+  },
+  {
    "symbol": "ELOX",
    "name": "Eloxx Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -57626,6 +57646,12 @@
    "name": "Eaton Vance High Income Municipal ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "EVYM"
+  },
+  {
+   "symbol": "EWAVU",
+   "name": "East West Ave Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EWAVU"
   },
   {
    "symbol": "EWBC",
@@ -59416,10 +59442,28 @@
    "yahoo_symbol": "FVNNU"
   },
   {
+   "symbol": "FWAC",
+   "name": "Futurewave Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWAC"
+  },
+  {
+   "symbol": "FWACR",
+   "name": "Futurewave Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWACR"
+  },
+  {
    "symbol": "FWACU",
    "name": "Futurewave Acquisition Corporation - Units",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FWACU"
+  },
+  {
+   "symbol": "FWACW",
+   "name": "Futurewave Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWACW"
   },
   {
    "symbol": "FWDI",
@@ -60832,12 +60876,6 @@
    "yahoo_symbol": "GUTS"
   },
   {
-   "symbol": "GV",
-   "name": "Visionary Holdings Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GV"
-  },
-  {
    "symbol": "GVH",
    "name": "Globavend Holdings Limited - Ord Shares",
    "exchange": "NASDAQ Capital Market",
@@ -60872,6 +60910,12 @@
    "name": "Global X Dorsey Wright Thematic ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "GXDW"
+  },
+  {
+   "symbol": "GYGY",
+   "name": "Game Your Game, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GYGY"
   },
   {
    "symbol": "GYRE",
@@ -63712,6 +63756,12 @@
    "yahoo_symbol": "JLHL"
   },
   {
+   "symbol": "JLVP",
+   "name": "JPMorgan U.S. Large Cap Value Plus ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JLVP"
+  },
+  {
    "symbol": "JMID",
    "name": "Janus Henderson Mid Cap Growth Alpha ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -65408,12 +65458,6 @@
    "name": "LPL Financial Holdings Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "LPLA"
-  },
-  {
-   "symbol": "LPRO",
-   "name": "Open Lending Corporation - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LPRO"
   },
   {
    "symbol": "LPSN",
@@ -67732,10 +67776,28 @@
    "yahoo_symbol": "NCNO"
   },
   {
+   "symbol": "NCO",
+   "name": "Southern Cross Acquisition I Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCO"
+  },
+  {
+   "symbol": "NCOOR",
+   "name": "Southern Cross Acquisition I Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCOOR"
+  },
+  {
    "symbol": "NCOOU",
    "name": "Southern Cross Acquisition I Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NCOOU"
+  },
+  {
+   "symbol": "NCOOW",
+   "name": "Southern Cross Acquisition I Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCOOW"
   },
   {
    "symbol": "NCPB",
@@ -77034,7 +77096,7 @@
   {
    "symbol": "TNYA",
    "name": "Tenaya Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TNYA"
   },
   {
@@ -80122,6 +80184,12 @@
    "yahoo_symbol": "XHLD"
   },
   {
+   "symbol": "XIIIU",
+   "name": "Churchill Capital Corp XIII - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XIIIU"
+  },
+  {
    "symbol": "XLO",
    "name": "Xilio Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -81980,12 +82048,6 @@
    "name": "Apollo Global Management, Inc. (New) Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "APO"
-  },
-  {
-   "symbol": "APO$A",
-   "name": "Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "APO$A"
   },
   {
    "symbol": "APOS",
@@ -93766,12 +93828,6 @@
    "yahoo_symbol": "ORI"
   },
   {
-   "symbol": "ORLA",
-   "name": "Orla Mining Ltd. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "ORLA"
-  },
-  {
    "symbol": "ORN",
    "name": "Orion Group Holdings, Inc. Common",
    "exchange": "NYSE",
@@ -97649,7 +97705,7 @@
   },
   {
    "symbol": "TGLS",
-   "name": "Tecnoglass Inc. Common Stock",
+   "name": "Tecnoglass Holdings Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "TGLS"
   },
