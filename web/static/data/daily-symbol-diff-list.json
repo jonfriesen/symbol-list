@@ -1,90 +1,186 @@
 {
  "added": [
   {
-   "symbol": "OCAC",
-   "name": "Ocean Capital Acquisition Corporation Ordinary Shares",
+   "symbol": "CVX",
+   "name": "Chevron CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CVX.TO",
+   "instruments": [
+    {
+     "name": "Chevron CDR Hgd",
+     "symbol": "CVX"
+    }
+   ]
+  },
+  {
+   "symbol": "EOSEW",
+   "name": "Eos Energy Enterprises, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EOSEW"
+  },
+  {
+   "symbol": "FDMM",
+   "name": "Freedom Metals Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDMM"
+  },
+  {
+   "symbol": "FDMMW",
+   "name": "Freedom Metals Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDMMW"
+  },
+  {
+   "symbol": "FJDIU",
+   "name": "ARC Group Securities Acquisition I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FJDIU"
+  },
+  {
+   "symbol": "LIMN",
+   "name": "Liminatus Pharma, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIMN"
+  },
+  {
+   "symbol": "QNME",
+   "name": "Quanome Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QNME"
+  },
+  {
+   "symbol": "STLN",
+   "name": "Starling Oncology Institute, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STLN"
+  },
+  {
+   "symbol": "STLNW",
+   "name": "Starling Oncology Institute, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STLNW"
+  },
+  {
+   "symbol": "ADIG",
+   "name": "ADI Global Distribution Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "OCAC"
+   "yahoo_symbol": "ADIG"
   },
   {
-   "symbol": "OCAC.R",
-   "name": "Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one ordinary share",
+   "symbol": "MUA.R",
+   "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "OCAC.R"
-  },
-  {
-   "symbol": "OCAC.W",
-   "name": "Ocean Capital Acquisition Corporation Warrants, each exercisable for one ordinary share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OCAC.W"
-  },
-  {
-   "symbol": "BCCQ",
-   "name": "Bleichroeder Acquisition Corp. III - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCCQ"
-  },
-  {
-   "symbol": "BCCQW",
-   "name": "Bleichroeder Acquisition Corp. III - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCCQW"
-  },
-  {
-   "symbol": "CNSY",
-   "name": "Cerenome, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CNSY"
-  }
- ],
- "removed": [
-  {
-   "symbol": "SKYT",
-   "name": "SkyWater Technology, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SKYT"
-  },
-  {
-   "symbol": "KVACW",
-   "name": "Keen Vision Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KVACW"
-  },
-  {
-   "symbol": "KVAC",
-   "name": "Keen Vision Acquisition Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KVAC"
-  },
-  {
-   "symbol": "ELSE",
-   "name": "Electro-Sensors, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ELSE"
-  },
-  {
-   "symbol": "KVACU",
-   "name": "Keen Vision Acquisition Corporation - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KVACU"
-  },
-  {
-   "symbol": "AFBI",
-   "name": "Affinity Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AFBI"
-  },
-  {
-   "symbol": "PSTV",
-   "name": "PLUS THERAPEUTICS, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PSTV"
+   "yahoo_symbol": "MUA.R"
   },
   {
    "symbol": "TWO",
    "name": "Two Harbors Investment Corp",
    "exchange": "NYSE",
    "yahoo_symbol": "TWO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TOIIW",
+   "name": "The Oncology Institute, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOIIW"
+  },
+  {
+   "symbol": "CHEV",
+   "name": "Chevron CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHEV.TO",
+   "instruments": [
+    {
+     "name": "Chevron CDR Hgd",
+     "symbol": "CHEV"
+    }
+   ]
+  },
+  {
+   "symbol": "LSH",
+   "name": "Lakeside Holding Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSH"
+  },
+  {
+   "symbol": "MCDS",
+   "name": "McDonald’s CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCDS.TO",
+   "instruments": [
+    {
+     "name": "McDonalds CDR Hgd",
+     "symbol": "MCDS"
+    }
+   ]
+  },
+  {
+   "symbol": "TOI",
+   "name": "The Oncology Institute, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOI"
+  },
+  {
+   "symbol": "MUA.V",
+   "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MUA.V"
+  },
+  {
+   "symbol": "LIMN",
+   "name": "Liminatus Pharma, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIMN"
+  },
+  {
+   "symbol": "REZI.V",
+   "name": "Resideo Technologies, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "REZI.V"
+  },
+  {
+   "symbol": "AII",
+   "name": "Almonty Industries Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AII.TO",
+   "instruments": [
+    {
+     "name": "Almonty Industries J",
+     "symbol": "AII"
+    }
+   ]
+  },
+  {
+   "symbol": "NZP",
+   "name": "Chatham Rock Phosphate Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NZP.V",
+   "instruments": [
+    {
+     "name": "Chatham Rock Phosphate Limited",
+     "symbol": "NZP"
+    }
+   ]
+  },
+  {
+   "symbol": "ADIG.V",
+   "name": "ADI Global Distribution Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ADIG.V"
+  },
+  {
+   "symbol": "NMI",
+   "name": "Namibia Critical Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NMI.V",
+   "instruments": [
+    {
+     "name": "Namibia Critical Metals Inc.",
+     "symbol": "NMI"
+    }
+   ]
   }
  ]
 }
