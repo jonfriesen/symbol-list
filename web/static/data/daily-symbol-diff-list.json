@@ -1,178 +1,146 @@
 {
  "added": [
   {
-   "symbol": "ERDA",
-   "name": "Erda Resource Opportunities Inc.",
+   "symbol": "EGLT",
+   "name": "EGL Technology Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ERDA.V",
+   "yahoo_symbol": "EGLT.V",
    "instruments": [
     {
-     "name": "Erda Resource Opportunities Inc.",
-     "symbol": "ERDA"
+     "name": "EGL Technology Inc.",
+     "symbol": "EGLT"
     }
    ]
   },
   {
-   "symbol": "NMI",
-   "name": "Namibia Critical Metals Inc.",
+   "symbol": "GERA",
+   "name": "Goldera Exploration Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "NMI.V",
+   "yahoo_symbol": "GERA.V",
    "instruments": [
     {
-     "name": "Namibia Critical Metals Inc.",
-     "symbol": "NMI"
+     "name": "Goldera Exploration Ltd.",
+     "symbol": "GERA"
     }
    ]
   },
   {
-   "symbol": "NZ",
-   "name": "New Zealand Energy Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "NZ.V",
-   "instruments": [
-    {
-     "name": "New Zealand Energy Corp.",
-     "symbol": "NZ"
-    }
-   ]
-  },
-  {
-   "symbol": "SPAR",
-   "name": "Spartacus Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SPAR.V",
-   "instruments": [
-    {
-     "name": "Spartacus Metals Inc.",
-     "symbol": "SPAR"
-    }
-   ]
-  },
-  {
-   "symbol": "EDCU",
-   "name": "Edge Copper Corporation",
+   "symbol": "PSY",
+   "name": "Purpose Structured Equity Yield Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "EDCU.TO",
+   "yahoo_symbol": "PSY.TO",
    "instruments": [
     {
-     "name": "Edge Copper Corp",
-     "symbol": "EDCU"
+     "name": "Purpose Struc Eq Y F",
+     "symbol": "PSY"
     }
    ]
   },
   {
-   "symbol": "MCD",
-   "name": "McDonald's CDR (CAD Hedged)",
-   "exchange": "TSX",
-   "yahoo_symbol": "MCD.TO",
-   "instruments": [
-    {
-     "name": "McDonalds CDR Hgd",
-     "symbol": "MCD"
-    }
-   ]
-  },
-  {
-   "symbol": "ATTO",
-   "name": "Attovia Therapeutics, Inc. - Common Stock",
+   "symbol": "ANGU",
+   "name": "SEI Ang Research Enhanced U.S. Large Cap ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATTO"
+   "yahoo_symbol": "ANGU"
   },
   {
-   "symbol": "DLCU",
-   "name": "U.S. Large Company Portfolio: ETF Class Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DLCU"
-  },
-  {
-   "symbol": "JAB",
-   "name": "JAB Acquisition Corp I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JAB"
-  },
-  {
-   "symbol": "JABRR",
-   "name": "JAB Acquisition Corp I - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JABRR"
-  },
-  {
-   "symbol": "JABRW",
-   "name": "JAB Acquisition Corp I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JABRW"
-  },
-  {
-   "symbol": "OBX",
-   "name": "Obsidian Therapeutics, Inc. - Common Stock",
+   "symbol": "ARAY",
+   "name": "Accuray Incorporated - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OBX"
+   "yahoo_symbol": "ARAY"
   },
   {
-   "symbol": "TCGX",
-   "name": "TCGX Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TCGX"
-  },
-  {
-   "symbol": "THEOU",
-   "name": "BOA Acquisition Corp. II - Units",
+   "symbol": "BRVE",
+   "name": "Braveheart Bio, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "THEOU"
+   "yahoo_symbol": "BRVE"
+  },
+  {
+   "symbol": "NCLD",
+   "name": "Roundhill Neocloud ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCLD"
+  },
+  {
+   "symbol": "RCBC",
+   "name": "River City Bank - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCBC"
+  },
+  {
+   "symbol": "TIH",
+   "name": "The Investment House ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TIH"
   }
  ],
  "removed": [
   {
-   "symbol": "EDCU",
-   "name": "Edge Copper Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EDCU.V",
-   "instruments": [
-    {
-     "name": "Edge Copper Corporation",
-     "symbol": "EDCU"
-    }
-   ]
+   "symbol": "VSEE",
+   "name": "VSee Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSEE"
   },
   {
-   "symbol": "OLA",
-   "name": "Orla Mining Ltd",
+   "symbol": "FOOD",
+   "name": "Goodfood Market Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "OLA.TO",
+   "yahoo_symbol": "FOOD.TO",
    "instruments": [
     {
-     "name": "Orla Mining Ltd. J",
-     "symbol": "OLA"
+     "name": "Goodfood Market J",
+     "symbol": "FOOD"
+    },
+    {
+     "name": "Goodfood MktJ 5.75Db",
+     "symbol": "FOOD.DB.A"
     }
    ]
   },
   {
-   "symbol": "DG",
-   "name": "Dixie Gold Inc.",
+   "symbol": "PDVN.P",
+   "name": "Pardus Ventures Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DG.V",
+   "yahoo_symbol": "PDVN.P.V",
    "instruments": [
     {
-     "name": "Dixie Gold Inc.",
-     "symbol": "DG"
+     "name": "Pardus Ventures Inc.",
+     "symbol": "PDVN.P"
     }
    ]
   },
   {
-   "symbol": "EA",
-   "name": "Electronic Arts Inc. - Common Stock",
+   "symbol": "ARAY",
+   "name": "Accuray Incorporated - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EA"
+   "yahoo_symbol": "ARAY"
   },
   {
-   "symbol": "FNC",
-   "name": "Fancamp Exploration Ltd.",
+   "symbol": "KSM",
+   "name": "Kirkstone Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "FNC.V",
+   "yahoo_symbol": "KSM.V",
    "instruments": [
     {
-     "name": "Fancamp Exploration Ltd.",
-     "symbol": "FNC"
+     "name": "Kirkstone Metals Corp.",
+     "symbol": "KSM"
+    }
+   ]
+  },
+  {
+   "symbol": "VSEEW",
+   "name": "VSee Health, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSEEW"
+  },
+  {
+   "symbol": "SECU",
+   "name": "SSC Security Services Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SECU.V",
+   "instruments": [
+    {
+     "name": "SSC Security Services Corp.",
+     "symbol": "SECU"
     }
    ]
   }
