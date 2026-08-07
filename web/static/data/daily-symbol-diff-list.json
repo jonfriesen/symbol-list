@@ -1,148 +1,90 @@
 {
  "added": [
   {
-   "symbol": "EGLT",
-   "name": "EGL Technology Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "EGLT.V",
-   "instruments": [
-    {
-     "name": "EGL Technology Inc.",
-     "symbol": "EGLT"
-    }
-   ]
+   "symbol": "PNAQ.U",
+   "name": "Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNAQ.U"
   },
   {
-   "symbol": "GERA",
-   "name": "Goldera Exploration Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GERA.V",
-   "instruments": [
-    {
-     "name": "Goldera Exploration Ltd.",
-     "symbol": "GERA"
-    }
-   ]
+   "symbol": "TP",
+   "name": "Ticketplus Ltd. Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TP"
   },
   {
-   "symbol": "PSY",
-   "name": "Purpose Structured Equity Yield Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "PSY.TO",
-   "instruments": [
-    {
-     "name": "Purpose Struc Eq Y F",
-     "symbol": "PSY"
-    }
-   ]
-  },
-  {
-   "symbol": "ANGU",
-   "name": "SEI Ang Research Enhanced U.S. Large Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANGU"
-  },
-  {
-   "symbol": "ARAY",
-   "name": "Accuray Incorporated - Common Stock",
+   "symbol": "DXLG",
+   "name": "Destination XL Group, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARAY"
+   "yahoo_symbol": "DXLG"
   },
   {
-   "symbol": "BRVE",
-   "name": "Braveheart Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRVE"
-  },
-  {
-   "symbol": "NCLD",
-   "name": "Roundhill Neocloud ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NCLD"
-  },
-  {
-   "symbol": "RCBC",
-   "name": "River City Bank - Common stock",
+   "symbol": "HOWL",
+   "name": "Werewolf Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RCBC"
+   "yahoo_symbol": "HOWL"
   },
   {
-   "symbol": "TIH",
-   "name": "The Investment House ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TIH"
+   "symbol": "PARA",
+   "name": "Banzai International, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PARA"
+  },
+  {
+   "symbol": "PARAW",
+   "name": "Banzai International, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PARAW"
   }
  ],
  "removed": [
   {
-   "symbol": "VSEE",
-   "name": "VSee Health, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSEE"
-  },
-  {
-   "symbol": "FOOD",
-   "name": "Goodfood Market Corp.",
+   "symbol": "MI.UN",
+   "name": "Minto Apartment Real Estate Investment Trust",
    "exchange": "TSX",
-   "yahoo_symbol": "FOOD.TO",
+   "yahoo_symbol": "MI.UN.TO",
    "instruments": [
     {
-     "name": "Goodfood Market J",
-     "symbol": "FOOD"
-    },
-    {
-     "name": "Goodfood MktJ 5.75Db",
-     "symbol": "FOOD.DB.A"
+     "name": "Minto Apart REIT Un",
+     "symbol": "MI.UN"
     }
    ]
   },
   {
-   "symbol": "PDVN.P",
-   "name": "Pardus Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PDVN.P.V",
-   "instruments": [
-    {
-     "name": "Pardus Ventures Inc.",
-     "symbol": "PDVN.P"
-    }
-   ]
+   "symbol": "AXIA",
+   "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA"
   },
   {
-   "symbol": "ARAY",
-   "name": "Accuray Incorporated - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ARAY"
+   "symbol": "DXLG",
+   "name": "Destination XL Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DXLG"
   },
   {
-   "symbol": "KSM",
-   "name": "Kirkstone Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "KSM.V",
-   "instruments": [
-    {
-     "name": "Kirkstone Metals Corp.",
-     "symbol": "KSM"
-    }
-   ]
+   "symbol": "AXIA$C",
+   "name": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA$C"
   },
   {
-   "symbol": "VSEEW",
-   "name": "VSee Health, Inc. - Warrant",
+   "symbol": "BNZI",
+   "name": "Banzai International, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSEEW"
+   "yahoo_symbol": "BNZI"
   },
   {
-   "symbol": "SECU",
-   "name": "SSC Security Services Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SECU.V",
-   "instruments": [
-    {
-     "name": "SSC Security Services Corp.",
-     "symbol": "SECU"
-    }
-   ]
+   "symbol": "BNZIW",
+   "name": "Banzai International, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNZIW"
+  },
+  {
+   "symbol": "HOWL",
+   "name": "Werewolf Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HOWL"
   }
  ]
 }
