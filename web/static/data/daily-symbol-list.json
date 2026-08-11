@@ -1,5 +1,5 @@
 {
- "date": "2026-08-10",
+ "date": "2026-08-11",
  "data": [
   {
    "symbol": "ONE",
@@ -6806,6 +6806,18 @@
     {
      "name": "GR Silver Mining Ltd.",
      "symbol": "GRSL"
+    }
+   ]
+  },
+  {
+   "symbol": "GFTA",
+   "name": "Grafta Nanotech Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GFTA.V",
+   "instruments": [
+    {
+     "name": "Grafta Nanotech Corp.",
+     "symbol": "GFTA"
     }
    ]
   },
@@ -15074,18 +15086,6 @@
    ]
   },
   {
-   "symbol": "TALA",
-   "name": "Talamore Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TALA.V",
-   "instruments": [
-    {
-     "name": "Talamore Mining Corp.",
-     "symbol": "TALA"
-    }
-   ]
-  },
-  {
    "symbol": "TRO",
    "name": "Taranis Resources Inc.",
    "exchange": "TSXV",
@@ -17006,18 +17006,6 @@
     {
      "name": "Wishpond Technologies Ltd.",
      "symbol": "WISH"
-    }
-   ]
-  },
-  {
-   "symbol": "WITT.P",
-   "name": "Wittering Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WITT.P.V",
-   "instruments": [
-    {
-     "name": "Wittering Capital Corp.",
-     "symbol": "WITT.P"
     }
    ]
   },
@@ -44766,6 +44754,18 @@
    ]
   },
   {
+   "symbol": "TALA",
+   "name": "Talamore Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TALA.TO",
+   "instruments": [
+    {
+     "name": "Talamore Mining Corp",
+     "symbol": "TALA"
+    }
+   ]
+  },
+  {
    "symbol": "TSK",
    "name": "Talisker Resources Ltd.",
    "exchange": "TSX",
@@ -70708,6 +70708,12 @@
    "yahoo_symbol": "PHOE"
   },
   {
+   "symbol": "PHOS",
+   "name": "First Phosphate Corp. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PHOS"
+  },
+  {
    "symbol": "PHUN",
    "name": "Phunware, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -79696,10 +79702,22 @@
    "yahoo_symbol": "WKSP"
   },
   {
+   "symbol": "WLCO",
+   "name": "Wilco 63 Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLCO"
+  },
+  {
    "symbol": "WLCOU",
    "name": "Wilco 63 Corporation - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "WLCOU"
+  },
+  {
+   "symbol": "WLCOW",
+   "name": "Wilco 63 Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLCOW"
   },
   {
    "symbol": "WLDN",
@@ -83464,12 +83482,6 @@
    "yahoo_symbol": "BKSY"
   },
   {
-   "symbol": "BKSY.W",
-   "name": "BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKSY.W"
-  },
-  {
    "symbol": "BKT",
    "name": "BlackRock Income Trust Inc. (The)",
    "exchange": "NYSE",
@@ -84968,12 +84980,6 @@
    "name": "Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "CNK"
-  },
-  {
-   "symbol": "CNL",
-   "name": "Collective Mining Ltd. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CNL"
   },
   {
    "symbol": "CNM",

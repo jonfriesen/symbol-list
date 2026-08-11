@@ -562,6 +562,7 @@ GFOR.P,Good2Go4 Corp.,TSXV,GFOR.P.V,Good2Go4 Corp.,GFOR.P
 GSS,Gossan Resources Limited,TSXV,GSS.V,Gossan Resources Limited,GSS
 GPM,GPM Metals Inc.,TSXV,GPM.V,GPM Metals Inc.,GPM
 GRSL,GR Silver Mining Ltd.,TSXV,GRSL.V,GR Silver Mining Ltd.,GRSL
+GFTA,Grafta Nanotech Corp.,TSXV,GFTA.V,Grafta Nanotech Corp.,GFTA
 GGM,Granada Gold Mine Inc.,TSXV,GGM.V,Granada Gold Mine Inc.,GGM
 GPG,Grande Portage Resources Ltd.,TSXV,GPG.V,Grande Portage Resources Ltd.,GPG
 GEL,Graphano Energy Ltd.,TSXV,GEL.V,Graphano Energy Ltd.,GEL
@@ -1242,7 +1243,6 @@ TWO,T2 Metals Corp.,TSXV,TWO.V,T2 Metals Corp.,TWO
 RARE,Tactical Resources Corp.,TSXV,RARE.V,Tactical Resources Corp.,RARE
 TAO,TAG Oil Ltd.,TSXV,TAO.V,TAG Oil Ltd.,TAO
 TAJ,Tajiri Resources Corp.,TSXV,TAJ.V,Tajiri Resources Corp.,TAJ
-TALA,Talamore Mining Corp.,TSXV,TALA.V,Talamore Mining Corp.,TALA
 TRO,Taranis Resources Inc.,TSXV,TRO.V,Taranis Resources Inc.,TRO
 TDG,TDG Gold Corp.,TSXV,TDG.V,TDG Gold Corp.,TDG
 TECT,Tectonic Metals Inc.,TSXV,TECT.V,Tectonic Metals Inc.,TECT
@@ -1401,7 +1401,6 @@ WIL,Wilton Resources Inc.,TSXV,WIL.V,Wilton Resources Inc,WIL
 WEC,Winchester Equity Corporation,TSXV,WEC.V,Winchester Equity Corporation,WEC
 WINS,Winshear Metals Corp.,TSXV,WINS.V,Winshear Metals Corp.,WINS
 WISH,Wishpond Technologies Ltd.,TSXV,WISH.V,Wishpond Technologies Ltd.,WISH
-WITT.P,Wittering Capital Corp.,TSXV,WITT.P.V,Wittering Capital Corp.,WITT.P
 WLF,Wolfden Resources Corporation,TSXV,WLF.V,Wolfden Resources Corporation,WLF
 WOOD.P,Woodbridge Ventures II Inc.,TSXV,WOOD.P.V,Woodbridge Ventures II Inc.,WOOD.P
 WCU,World Copper Ltd.,TSXV,WCU.V,World Copper Ltd.,WCU
@@ -3485,6 +3484,7 @@ SWP,Swiss Water Decaffeinated Coffee Inc.,TSX,SWP.TO,Swiss Water Coffee ,SWP
 SYZ,Sylogist Ltd.,TSX,SYZ.TO,Sylogist Ltd.,SYZ
 TMUS,T-Mobile CDR (CAD Hedged),TSX,TMUS.TO,T Mobile CDR CAD Hdg,TMUS
 TBL,Taiga Building Products Ltd.,TSX,TBL.TO,Taiga Building Prod,TBL
+TALA,Talamore Mining Corp.,TSX,TALA.TO,Talamore Mining Corp,TALA
 TSK,Talisker Resources Ltd.,TSX,TSK.TO,Talisker Res Ltd J,TSK,Talisker Res Ltd Wts,TSK.WT
 TLO,Talon Metals Corp.,TSX,TLO.TO,Talon Metals Corp. J,TLO
 TVE,Tamarack Valley Energy Ltd.,TSX,TVE.TO,Tamarack Valley Engy,TVE
@@ -7567,6 +7567,7 @@ PHAT,"Phathom Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketS
 PHIO,Phio Pharmaceuticals Corp. - Common Stock,NASDAQ Capital Market,PHIO
 PHO,Invesco Water Resources ETF,NASDAQ Global MarketSM,PHO
 PHOE,Phoenix Asia Holdings Limited - Ordinary Shares,NASDAQ Capital Market,PHOE
+PHOS,First Phosphate Corp. - American Depositary Shares,NASDAQ Global MarketSM,PHOS
 PHUN,"Phunware, Inc. - Common Stock",NASDAQ Capital Market,PHUN
 PHVS,Pharvaris N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,PHVS
 PI,"Impinj, Inc. - Common Stock",NASDAQ Global Select MarketSM,PI
@@ -9065,7 +9066,9 @@ WIX,Wix.com Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,WIX
 WKEY,WISeKey International Holding Ltd - American Depositary Shares,NASDAQ Global MarketSM,WKEY
 WKHS,"Workhorse Group, Inc. - Common Stock",NASDAQ Capital Market,WKHS
 WKSP,"Worksport, Ltd. - Common Stock",NASDAQ Capital Market,WKSP
+WLCO,Wilco 63 Corporation - Class A Ordinary Shares,NASDAQ Global MarketSM,WLCO
 WLCOU,Wilco 63 Corporation - Units,NASDAQ Global MarketSM,WLCOU
+WLCOW,Wilco 63 Corporation - Warrant,NASDAQ Global MarketSM,WLCOW
 WLDN,"Willdan Group, Inc. - Common Stock",NASDAQ Global MarketSM,WLDN
 WLDS,Wearable Devices Ltd. - Ordinary Share,NASDAQ Capital Market,WLDS
 WLDSW,Wearable Devices Ltd. - Warrant,NASDAQ Capital Market,WLDSW
@@ -9693,7 +9696,6 @@ BKH,Black Hills Corporation Common Stock,NYSE,BKH
 BKKT,"Bakkt, Inc. Class A Common Stock",NYSE,BKKT
 BKKT.W,"Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",NYSE,BKKT.W
 BKSY,BlackSky Technology Inc. Class A Common Stock,NYSE,BKSY
-BKSY.W,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",NYSE,BKSY.W
 BKT,BlackRock Income Trust Inc. (The),NYSE,BKT
 BKTI,BK Technologies Corporation Common Stock,NYSE MKT,BKTI
 BKU,"BankUnited, Inc. Common Stock",NYSE,BKU
@@ -9944,7 +9946,6 @@ CNF,"CNFinance Holdings Limited American Depositary Shares, each representing tw
 CNH,CNH Industrial N.V. Common Shares,NYSE,CNH
 CNI,Canadian National Railway Company Common Stock,NYSE,CNI
 CNK,"Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock",NYSE,CNK
-CNL,Collective Mining Ltd. Common Shares,NYSE MKT,CNL
 CNM,"Core & Main, Inc. Class A Common Stock",NYSE,CNM
 CNMD,CONMED Corporation Common Stock,NYSE,CNMD
 CNNE,"Cannae Holdings, Inc. Common Stock",NYSE,CNNE

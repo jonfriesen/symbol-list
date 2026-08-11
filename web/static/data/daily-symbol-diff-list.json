@@ -1,108 +1,84 @@
 {
  "added": [
   {
-   "symbol": "XINT",
-   "name": "iShares Core MSCI All-International Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "XINT.TO",
+   "symbol": "GFTA",
+   "name": "Grafta Nanotech Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GFTA.V",
    "instruments": [
     {
-     "name": "iShares Cr MSCI AI E",
-     "symbol": "XINT"
+     "name": "Grafta Nanotech Corp.",
+     "symbol": "GFTA"
     }
    ]
   },
   {
-   "symbol": "IBQT",
-   "name": "iShares Equity + Bitcoin ETF Portfolio",
+   "symbol": "TALA",
+   "name": "Talamore Mining Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "IBQT.TO",
+   "yahoo_symbol": "TALA.TO",
    "instruments": [
     {
-     "name": "iShares Eq BTC E Prt",
-     "symbol": "IBQT"
+     "name": "Talamore Mining Corp",
+     "symbol": "TALA"
     }
    ]
   },
   {
-   "symbol": "BLSM",
-   "name": "BlossomHill Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BLSM"
-  },
-  {
-   "symbol": "BSEM",
-   "name": "BioStem Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BSEM"
-  },
-  {
-   "symbol": "LTGO",
-   "name": "Latigo Biotherapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LTGO"
-  },
-  {
-   "symbol": "OCLTU",
-   "name": "OceanLight Acquisition Corporation - Units",
+   "symbol": "PHOS",
+   "name": "First Phosphate Corp. - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "OCLTU"
+   "yahoo_symbol": "PHOS"
   },
   {
-   "symbol": "QVCG",
-   "name": "QVC Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "QVCG"
+   "symbol": "WLCO",
+   "name": "Wilco 63 Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLCO"
+  },
+  {
+   "symbol": "WLCOW",
+   "name": "Wilco 63 Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLCOW"
   }
  ],
  "removed": [
   {
-   "symbol": "FCT",
-   "name": "First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "FCT"
-  },
-  {
-   "symbol": "GOFL",
-   "name": "Goldflare Exploration Inc.",
+   "symbol": "WITT.P",
+   "name": "Wittering Capital Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GOFL.V",
+   "yahoo_symbol": "WITT.P.V",
    "instruments": [
     {
-     "name": "Goldflare Exploration Inc.",
-     "symbol": "GOFL"
+     "name": "Wittering Capital Corp.",
+     "symbol": "WITT.P"
     }
    ]
   },
   {
-   "symbol": "ARC",
-   "name": "ARCpoint Inc.",
+   "symbol": "TALA",
+   "name": "Talamore Mining Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "ARC.V",
+   "yahoo_symbol": "TALA.V",
    "instruments": [
     {
-     "name": "ARCpoint Inc.",
-     "symbol": "ARC"
+     "name": "Talamore Mining Corp.",
+     "symbol": "TALA"
     }
    ]
   },
   {
-   "symbol": "STRS",
-   "name": "Stratus Properties Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "STRS"
+   "symbol": "CNL",
+   "name": "Collective Mining Ltd. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNL"
   },
   {
-   "symbol": "JOBY.W",
-   "name": "Joby Aviation, Inc. Warrants",
+   "symbol": "BKSY.W",
+   "name": "BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "JOBY.W"
-  },
-  {
-   "symbol": "SRZNW",
-   "name": "Surrozen, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SRZNW"
+   "yahoo_symbol": "BKSY.W"
   }
  ]
 }
