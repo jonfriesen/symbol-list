@@ -1,84 +1,108 @@
 {
  "added": [
   {
-   "symbol": "GFTA",
-   "name": "Grafta Nanotech Corp.",
+   "symbol": "GCV",
+   "name": "Golden Star Capital Ventures Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GFTA.V",
+   "yahoo_symbol": "GCV.V",
    "instruments": [
     {
-     "name": "Grafta Nanotech Corp.",
-     "symbol": "GFTA"
+     "name": "Golden Star Capital Ventures Inc.",
+     "symbol": "GCV"
     }
    ]
   },
   {
-   "symbol": "TALA",
-   "name": "Talamore Mining Corp.",
+   "symbol": "ARN",
+   "name": "Asarian Energy Limited",
    "exchange": "TSX",
-   "yahoo_symbol": "TALA.TO",
+   "yahoo_symbol": "ARN.TO",
    "instruments": [
     {
-     "name": "Talamore Mining Corp",
-     "symbol": "TALA"
+     "name": "Forsys Metals Corp J",
+     "symbol": "ARN"
     }
    ]
   },
   {
-   "symbol": "PHOS",
-   "name": "First Phosphate Corp. - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PHOS"
+   "symbol": "FOIL",
+   "name": "Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FOIL"
   },
   {
-   "symbol": "WLCO",
-   "name": "Wilco 63 Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WLCO"
+   "symbol": "SNSC",
+   "name": "SunScout Holding Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SNSC"
   },
   {
-   "symbol": "WLCOW",
-   "name": "Wilco 63 Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "WLCOW"
+   "symbol": "CNL",
+   "name": "Collective Mining Ltd. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CNL"
   }
  ],
  "removed": [
   {
-   "symbol": "WITT.P",
-   "name": "Wittering Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WITT.P.V",
+   "symbol": "FSY",
+   "name": "Forsys Metals Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FSY.TO",
    "instruments": [
     {
-     "name": "Wittering Capital Corp.",
-     "symbol": "WITT.P"
+     "name": "Forsys Metals Corp J",
+     "symbol": "FSY"
     }
    ]
   },
   {
-   "symbol": "TALA",
-   "name": "Talamore Mining Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "TALA.V",
-   "instruments": [
-    {
-     "name": "Talamore Mining Corp.",
-     "symbol": "TALA"
-    }
-   ]
-  },
-  {
-   "symbol": "CNL",
-   "name": "Collective Mining Ltd. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "CNL"
-  },
-  {
-   "symbol": "BKSY.W",
-   "name": "BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",
+   "symbol": "MDV$A",
+   "name": "Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "BKSY.W"
+   "yahoo_symbol": "MDV$A"
+  },
+  {
+   "symbol": "MDV",
+   "name": "Modiv Industrial, Inc. Class C Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MDV"
+  },
+  {
+   "symbol": "MNTSW",
+   "name": "Momentus Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MNTSW"
+  },
+  {
+   "symbol": "GCV.P",
+   "name": "Golden Star Capital Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GCV.P.V",
+   "instruments": [
+    {
+     "name": "Golden Star Capital Ventures Inc.",
+     "symbol": "GCV.P"
+    }
+   ]
+  },
+  {
+   "symbol": "NUTR",
+   "name": "Nusatrip Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUTR"
+  },
+  {
+   "symbol": "ICON",
+   "name": "International Iconic Gold Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICON.V",
+   "instruments": [
+    {
+     "name": "International Iconic Gold Exploration Corp.",
+     "symbol": "ICON"
+    }
+   ]
   }
  ]
 }
