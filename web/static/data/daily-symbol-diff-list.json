@@ -1,108 +1,102 @@
 {
  "added": [
   {
-   "symbol": "GCV",
-   "name": "Golden Star Capital Ventures Inc.",
+   "symbol": "FOBI",
+   "name": "Fobi AI Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "GCV.V",
+   "yahoo_symbol": "FOBI.V",
    "instruments": [
     {
-     "name": "Golden Star Capital Ventures Inc.",
-     "symbol": "GCV"
+     "name": "Fobi AI Inc.",
+     "symbol": "FOBI"
     }
    ]
   },
   {
-   "symbol": "ARN",
-   "name": "Asarian Energy Limited",
+   "symbol": "TECY",
+   "name": "Evolve NASDAQ Technology UltraYield ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "ARN.TO",
+   "yahoo_symbol": "TECY.TO",
    "instruments": [
     {
-     "name": "Forsys Metals Corp J",
-     "symbol": "ARN"
+     "name": "Evolve ND Tech Ult Y",
+     "symbol": "TECY"
     }
    ]
   },
   {
-   "symbol": "FOIL",
-   "name": "Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares",
+   "symbol": "RVII",
+   "name": "Robinhood Ventures Fund II Common Shares of Beneficial Interest",
    "exchange": "NYSE",
-   "yahoo_symbol": "FOIL"
+   "yahoo_symbol": "RVII"
   },
   {
-   "symbol": "SNSC",
-   "name": "SunScout Holding Limited Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "SNSC"
+   "symbol": "MPIA",
+   "name": "m+ Nasdaq-100 Accelerator Autocall ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MPIA"
   },
   {
-   "symbol": "CNL",
-   "name": "Collective Mining Ltd. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CNL"
+   "symbol": "PLCI",
+   "name": "Pelican Acquisition II Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLCI"
+  },
+  {
+   "symbol": "PLCIR",
+   "name": "Pelican Acquisition II Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLCIR"
+  },
+  {
+   "symbol": "VOGX",
+   "name": "Vogenx Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VOGX"
   }
  ],
  "removed": [
   {
-   "symbol": "FSY",
-   "name": "Forsys Metals Corp.",
+   "symbol": "KSI",
+   "name": "kneat.com, inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "FSY.TO",
+   "yahoo_symbol": "KSI.TO",
    "instruments": [
     {
-     "name": "Forsys Metals Corp J",
-     "symbol": "FSY"
+     "name": "kneat.com, inc. J",
+     "symbol": "KSI"
     }
    ]
   },
   {
-   "symbol": "MDV$A",
-   "name": "Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "symbol": "ANSC",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSC"
+  },
+  {
+   "symbol": "ANSCW",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSCW"
+  },
+  {
+   "symbol": "ANSCU",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSCU"
+  },
+  {
+   "symbol": "BWNB",
+   "name": "Babcock \u0026 Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",
    "exchange": "NYSE",
-   "yahoo_symbol": "MDV$A"
+   "yahoo_symbol": "BWNB"
   },
   {
-   "symbol": "MDV",
-   "name": "Modiv Industrial, Inc. Class C Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MDV"
-  },
-  {
-   "symbol": "MNTSW",
-   "name": "Momentus Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MNTSW"
-  },
-  {
-   "symbol": "GCV.P",
-   "name": "Golden Star Capital Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GCV.P.V",
-   "instruments": [
-    {
-     "name": "Golden Star Capital Ventures Inc.",
-     "symbol": "GCV.P"
-    }
-   ]
-  },
-  {
-   "symbol": "NUTR",
-   "name": "Nusatrip Incorporated - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NUTR"
-  },
-  {
-   "symbol": "ICON",
-   "name": "International Iconic Gold Exploration Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ICON.V",
-   "instruments": [
-    {
-     "name": "International Iconic Gold Exploration Corp.",
-     "symbol": "ICON"
-    }
-   ]
+   "symbol": "BELT",
+   "name": "iShares U.S. Select Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BELT"
   }
  ]
 }

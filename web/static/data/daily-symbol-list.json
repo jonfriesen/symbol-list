@@ -1,5 +1,5 @@
 {
- "date": "2026-08-12",
+ "date": "2026-08-13",
  "data": [
   {
    "symbol": "ONE",
@@ -5782,6 +5782,18 @@
    ]
   },
   {
+   "symbol": "FOBI",
+   "name": "Fobi AI Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FOBI.V",
+   "instruments": [
+    {
+     "name": "Fobi AI Inc.",
+     "symbol": "FOBI"
+    }
+   ]
+  },
+  {
    "symbol": "FMS",
    "name": "Focus Graphite Inc.",
    "exchange": "TSXV",
@@ -5800,7 +5812,7 @@
    "yahoo_symbol": "FTJ.V",
    "instruments": [
     {
-     "name": "Fort St. James Nickel Corp",
+     "name": "Fort St. James Nickel Corp.",
      "symbol": "FTJ"
     }
    ]
@@ -11912,7 +11924,7 @@
    "yahoo_symbol": "PNTI.P.V",
    "instruments": [
     {
-     "name": "Pentagon I Capital Corp",
+     "name": "Pentagon I Capital Corp.",
      "symbol": "PNTI.P"
     }
    ]
@@ -18472,7 +18484,7 @@
    "yahoo_symbol": "ARN.TO",
    "instruments": [
     {
-     "name": "Forsys Metals Corp J",
+     "name": "Asarian Energy Ltd",
      "symbol": "ARN"
     }
    ]
@@ -28222,6 +28234,18 @@
    ]
   },
   {
+   "symbol": "TECY",
+   "name": "Evolve NASDAQ Technology UltraYield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TECY.TO",
+   "instruments": [
+    {
+     "name": "Evolve ND Tech Ult Y",
+     "symbol": "TECY"
+    }
+   ]
+  },
+  {
    "symbol": "ESPX",
    "name": "Evolve S\u0026P 500® Enhanced Yield Fund",
    "exchange": "TSX",
@@ -36498,18 +36522,6 @@
     {
      "name": "KLA CDR CAD Hdg",
      "symbol": "KLAC"
-    }
-   ]
-  },
-  {
-   "symbol": "KSI",
-   "name": "kneat.com, inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "KSI.TO",
-   "instruments": [
-    {
-     "name": "kneat.com, inc. J",
-     "symbol": "KSI"
     }
    ]
   },
@@ -50572,12 +50584,6 @@
    "yahoo_symbol": "BWMX"
   },
   {
-   "symbol": "BWNB",
-   "name": "Babcock \u0026 Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BWNB"
-  },
-  {
    "symbol": "BWXT",
    "name": "BWX Technologies, Inc. Common Stock",
    "exchange": "NYSE",
@@ -54719,7 +54725,7 @@
   },
   {
    "symbol": "GCDT",
-   "name": "Green Circle Decarbonize Technology Limited Ordinary Shares",
+   "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "GCDT"
   },
@@ -62398,6 +62404,12 @@
    "yahoo_symbol": "RVI"
   },
   {
+   "symbol": "RVII",
+   "name": "Robinhood Ventures Fund II Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RVII"
+  },
+  {
    "symbol": "RVLV",
    "name": "Revolve Group, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -68620,24 +68632,6 @@
    "yahoo_symbol": "ANPA"
   },
   {
-   "symbol": "ANSC",
-   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANSC"
-  },
-  {
-   "symbol": "ANSCU",
-   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANSCU"
-  },
-  {
-   "symbol": "ANSCW",
-   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANSCW"
-  },
-  {
    "symbol": "ANTA",
    "name": "Antalpha Platform Holding Company - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -70358,12 +70352,6 @@
    "name": "Bel Fuse Inc. - Class B Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "BELFB"
-  },
-  {
-   "symbol": "BELT",
-   "name": "iShares U.S. Select Equity Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BELT"
   },
   {
    "symbol": "BENF",
@@ -86116,6 +86104,12 @@
    "yahoo_symbol": "MPG"
   },
   {
+   "symbol": "MPIA",
+   "name": "m+ Nasdaq-100 Accelerator Autocall ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MPIA"
+  },
+  {
    "symbol": "MPLT",
    "name": "MapLight Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -90014,6 +90008,18 @@
    "name": "Children's Place, Inc. (The) - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "PLCE"
+  },
+  {
+   "symbol": "PLCI",
+   "name": "Pelican Acquisition II Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLCI"
+  },
+  {
+   "symbol": "PLCIR",
+   "name": "Pelican Acquisition II Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLCIR"
   },
   {
    "symbol": "PLCIU",
@@ -98210,6 +98216,12 @@
    "name": "Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "VOD"
+  },
+  {
+   "symbol": "VOGX",
+   "name": "Vogenx Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VOGX"
   },
   {
    "symbol": "VOLT",
