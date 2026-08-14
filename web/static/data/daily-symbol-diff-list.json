@@ -1,102 +1,108 @@
 {
  "added": [
   {
-   "symbol": "FOBI",
-   "name": "Fobi AI Inc.",
+   "symbol": "PSVA",
+   "name": "Prospectiva Resources Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "FOBI.V",
+   "yahoo_symbol": "PSVA.V",
    "instruments": [
     {
-     "name": "Fobi AI Inc.",
-     "symbol": "FOBI"
+     "name": "Prospectiva Resources Ltd.",
+     "symbol": "PSVA"
     }
    ]
   },
   {
-   "symbol": "TECY",
-   "name": "Evolve NASDAQ Technology UltraYield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TECY.TO",
-   "instruments": [
-    {
-     "name": "Evolve ND Tech Ult Y",
-     "symbol": "TECY"
-    }
-   ]
+   "symbol": "BRNX",
+   "name": "BrenX Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRNX"
   },
   {
-   "symbol": "RVII",
-   "name": "Robinhood Ventures Fund II Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RVII"
-  },
-  {
-   "symbol": "MPIA",
-   "name": "m+ Nasdaq-100 Accelerator Autocall ETF",
+   "symbol": "CGPT",
+   "name": "VegaShares AI Inference ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MPIA"
+   "yahoo_symbol": "CGPT"
   },
   {
-   "symbol": "PLCI",
-   "name": "Pelican Acquisition II Corporation - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLCI"
+   "symbol": "COOL",
+   "name": "VegaShares AI Thermal, Cooling \u0026 Power Management ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COOL"
   },
   {
-   "symbol": "PLCIR",
-   "name": "Pelican Acquisition II Corporation - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLCIR"
+   "symbol": "GHXI",
+   "name": "Gores Holdings XI, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GHXI"
   },
   {
-   "symbol": "VOGX",
-   "name": "Vogenx Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VOGX"
+   "symbol": "GHXIW",
+   "name": "Gores Holdings XI, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GHXIW"
+  },
+  {
+   "symbol": "TBCVU",
+   "name": "Thunder Bridge Capital Partners V, Ltd. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBCVU"
+  },
+  {
+   "symbol": "GFR.V",
+   "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFR.V"
   }
  ],
  "removed": [
   {
-   "symbol": "KSI",
-   "name": "kneat.com, inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "KSI.TO",
+   "symbol": "QMMM",
+   "name": "QMMM Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QMMM"
+  },
+  {
+   "symbol": "PNTI.P",
+   "name": "Pentagon I Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PNTI.P.V",
    "instruments": [
     {
-     "name": "kneat.com, inc. J",
-     "symbol": "KSI"
+     "name": "Pentagon I Capital Corp.",
+     "symbol": "PNTI.P"
     }
    ]
   },
   {
-   "symbol": "ANSC",
-   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANSC"
+   "symbol": "LIDRW",
+   "name": "AEye, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIDRW"
   },
   {
-   "symbol": "ANSCW",
-   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANSCW"
+   "symbol": "BNRG",
+   "name": "Brenmiller Energy Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNRG"
   },
   {
-   "symbol": "ANSCU",
-   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANSCU"
-  },
-  {
-   "symbol": "BWNB",
-   "name": "Babcock \u0026 Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",
+   "symbol": "SES.W",
+   "name": "SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
    "exchange": "NYSE",
-   "yahoo_symbol": "BWNB"
+   "yahoo_symbol": "SES.W"
   },
   {
-   "symbol": "BELT",
-   "name": "iShares U.S. Select Equity Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BELT"
+   "symbol": "RARE",
+   "name": "Tactical Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RARE.V",
+   "instruments": [
+    {
+     "name": "Tactical Resources Corp.",
+     "symbol": "RARE"
+    }
+   ]
   }
  ]
 }
