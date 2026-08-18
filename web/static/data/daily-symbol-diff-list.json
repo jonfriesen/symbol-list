@@ -1,140 +1,154 @@
 {
  "added": [
   {
-   "symbol": "BPR",
-   "name": "Black Pine Resources Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BPR.V",
-   "instruments": [
-    {
-     "name": "Black Pine Resources Corp.",
-     "symbol": "BPR"
-    }
-   ]
-  },
-  {
-   "symbol": "GIGF",
-   "name": "Guardian i3 Global Core Equity Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "GIGF.TO",
-   "instruments": [
-    {
-     "name": "Guard i3 GlbGro Unhg",
-     "symbol": "GIGF"
-    },
-    {
-     "name": "Guard i3 GlbGrow Heg",
-     "symbol": "GIGF.F"
-    }
-   ]
-  },
-  {
-   "symbol": "DUKU",
-   "name": "Duke Energy Corporation Corporate Units",
+   "symbol": "VMRK",
+   "name": "Vivmark Residential Common Shares of Beneficial Interest",
    "exchange": "NYSE",
-   "yahoo_symbol": "DUKU"
+   "yahoo_symbol": "VMRK"
   },
   {
-   "symbol": "ACQQ",
-   "name": "ProShares Nasdaq-100 Autocallable Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACQQ"
+   "symbol": "ADAMK",
+   "name": "Adamas Trust, Inc. - 9.600% Senior Notes Due 2031",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAMK"
   },
   {
-   "symbol": "ACRT",
-   "name": "ProShares Russell 2000 Autocallable Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACRT"
+   "symbol": "BBBYW",
+   "name": "Neighborhood Intelligence, Inc.  - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BBBYW"
   },
   {
-   "symbol": "ACSP",
-   "name": "ProShares S\u0026P 500 Autocallable Income ETF",
+   "symbol": "CGCF",
+   "name": "Cartesian Growth Corporation IV - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACSP"
+   "yahoo_symbol": "CGCF"
   },
   {
-   "symbol": "EWAV",
-   "name": "East West Ave Acquisition Corp. - Common Stock",
+   "symbol": "CGCFW",
+   "name": "Cartesian Growth Corporation IV - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EWAV"
+   "yahoo_symbol": "CGCFW"
   },
   {
-   "symbol": "EWAVR",
-   "name": "East West Ave Acquisition Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EWAVR"
+   "symbol": "IA",
+   "name": "Innovative Solutions and Support, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IA"
   },
   {
-   "symbol": "THEO",
-   "name": "BOA Acquisition Corp. II - Class A Ordinary Shares",
+   "symbol": "MRCO",
+   "name": "Mercator Acquisition Corp. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "THEO"
+   "yahoo_symbol": "MRCO"
   },
   {
-   "symbol": "THEOR",
-   "name": "BOA Acquisition Corp. II - Rights",
+   "symbol": "MRCOW",
+   "name": "Mercator Acquisition Corp. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "THEOR"
+   "yahoo_symbol": "MRCOW"
+  },
+  {
+   "symbol": "NUR",
+   "name": "Nuran Wireless Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUR"
+  },
+  {
+   "symbol": "NXH",
+   "name": "Neighborhood Intelligence, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NXH"
+  },
+  {
+   "symbol": "WATR",
+   "name": "Air Water Ventures Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WATR"
+  },
+  {
+   "symbol": "TBCK",
+   "name": "TD Target 2031 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCK.TO",
+   "instruments": [
+    {
+     "name": "TD Target 2031 Inv G",
+     "symbol": "TBCK"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "IPCXU",
-   "name": "Inflection Point Acquisition Corp. III - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPCXU"
-  },
-  {
-   "symbol": "BBBY",
-   "name": "Bed Bath \u0026 Beyond, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BBBY"
-  },
-  {
-   "symbol": "GIQG",
-   "name": "Guardian i3 Global Quality Growth ETF",
+   "symbol": "BLX",
+   "name": "Boralex Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "GIQG.TO",
+   "yahoo_symbol": "BLX.TO",
    "instruments": [
     {
-     "name": "Guard i3 GlbGrow Heg",
-     "symbol": "GIQG"
-    },
-    {
-     "name": "Guard i3 GlbGro Unhg",
-     "symbol": "GIQG.B"
+     "name": "Boralex Inc. Cl A",
+     "symbol": "BLX"
     }
    ]
   },
   {
-   "symbol": "IPCXR",
-   "name": "Inflection Point Acquisition Corp. III - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPCXR"
-  },
-  {
-   "symbol": "BBBY.W",
-   "name": "Bed Bath \u0026 Beyond, Inc. Warrants to Purchase Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BBBY.W"
-  },
-  {
-   "symbol": "MYSEW",
-   "name": "Myseum.AI, Inc. - Series A Warrant",
+   "symbol": "FTRK",
+   "name": "FAST TRACK GROUP - Ordinary shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MYSEW"
+   "yahoo_symbol": "FTRK"
   },
   {
-   "symbol": "IPCX",
-   "name": "Inflection Point Acquisition Corp. III - Class A ordinary shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPCX"
+   "symbol": "ADW.A",
+   "name": "Andrew Peller Limited/Andrew Peller Limitee",
+   "exchange": "TSX",
+   "yahoo_symbol": "ADW.A.TO",
+   "instruments": [
+    {
+     "name": "Andrew Peller A NV",
+     "symbol": "ADW.A"
+    },
+    {
+     "name": "Andrew Peller Ltd. B",
+     "symbol": "ADW.B"
+    }
+   ]
   },
   {
-   "symbol": "AVB",
-   "name": "AvalonBay Communities, Inc. Common Stock",
+   "symbol": "EQR",
+   "name": "Equity Residential Common Shares of Beneficial Interest",
    "exchange": "NYSE",
-   "yahoo_symbol": "AVB"
+   "yahoo_symbol": "EQR"
+  },
+  {
+   "symbol": "DRMAW",
+   "name": "Dermata Therapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DRMAW"
+  },
+  {
+   "symbol": "UDA",
+   "name": "Caldwell U.S. Dividend Advantage Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "UDA.TO",
+   "instruments": [
+    {
+     "name": "Caldwell US DivAdvan",
+     "symbol": "UDA"
+    }
+   ]
+  },
+  {
+   "symbol": "ISSC",
+   "name": "Innovative Solutions and Support, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ISSC"
+  },
+  {
+   "symbol": "TALK",
+   "name": "Talkspace, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TALK"
   }
  ]
 }
