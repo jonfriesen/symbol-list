@@ -1,108 +1,138 @@
 {
  "added": [
   {
-   "symbol": "IPHXU",
-   "name": "Inflection Point Acquisition Corp. VIII - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IPHXU"
+   "symbol": "PAAI",
+   "name": "Paradium.AI, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PAAI"
   },
   {
-   "symbol": "PSQL",
-   "name": "Pasqal Holding SA - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PSQL"
-  },
-  {
-   "symbol": "PSQLW",
-   "name": "Pasqal Holding SA - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PSQLW"
-  },
-  {
-   "symbol": "XLAB",
-   "name": "Exascale Labs Holdings Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XLAB"
-  },
-  {
-   "symbol": "XLABW",
-   "name": "Exascale Labs Holdings Inc. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XLABW"
-  },
-  {
-   "symbol": "RIV.V",
-   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",
+   "symbol": "SAMO",
+   "name": "Samos Energy Acquisition Corporation Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "RIV.V"
+   "yahoo_symbol": "SAMO"
+  },
+  {
+   "symbol": "SAMO.W",
+   "name": "Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAMO.W"
+  },
+  {
+   "symbol": "ATLQ",
+   "name": "JAB Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATLQ"
+  },
+  {
+   "symbol": "ATLQR",
+   "name": "JAB Acquisition Corp I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATLQR"
+  },
+  {
+   "symbol": "ATLQU",
+   "name": "JAB Acquisition Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATLQU"
+  },
+  {
+   "symbol": "ATLQW",
+   "name": "JAB Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATLQW"
+  },
+  {
+   "symbol": "FSHP",
+   "name": "Flag Ship Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSHP"
+  },
+  {
+   "symbol": "FSHPR",
+   "name": "Flag Ship Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSHPR"
+  },
+  {
+   "symbol": "FSHPU",
+   "name": "Flag Ship Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSHPU"
+  },
+  {
+   "symbol": "OPAD",
+   "name": "Offerpad Solutions Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPAD"
+  },
+  {
+   "symbol": "TRBG",
+   "name": "TurboGen Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRBG"
   }
  ],
  "removed": [
   {
-   "symbol": "BCARU",
-   "name": "D. Boral ARC Acquisition I Corp. - Units",
+   "symbol": "JABRU",
+   "name": "JAB Acquisition Corp I - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCARU"
+   "yahoo_symbol": "JABRU"
   },
   {
-   "symbol": "FBRX",
-   "name": "Forte Biosciences, Inc.  - Common Stock",
+   "symbol": "OPAD",
+   "name": "Offerpad Solutions Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPAD"
+  },
+  {
+   "symbol": "FSHPR",
+   "name": "Flag Ship Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSHPR"
+  },
+  {
+   "symbol": "JABRW",
+   "name": "JAB Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JABRW"
+  },
+  {
+   "symbol": "JABRR",
+   "name": "JAB Acquisition Corp I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JABRR"
+  },
+  {
+   "symbol": "BCAB",
+   "name": "BioAtla, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FBRX"
+   "yahoo_symbol": "BCAB"
   },
   {
-   "symbol": "LMNX",
-   "name": "Defiance Daily Target 2x Long LMND ETF",
+   "symbol": "FSHP",
+   "name": "Flag Ship Acquisition Corp. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LMNX"
+   "yahoo_symbol": "FSHP"
   },
   {
-   "symbol": "BGI",
-   "name": "Birks Group Inc. Common Stock",
+   "symbol": "JAB",
+   "name": "JAB Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JAB"
+  },
+  {
+   "symbol": "FSHPU",
+   "name": "Flag Ship Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSHPU"
+  },
+  {
+   "symbol": "AREN",
+   "name": "The Arena Group Holdings, Inc. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "BGI"
-  },
-  {
-   "symbol": "BCAR",
-   "name": "D. Boral ARC Acquisition I Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCAR"
-  },
-  {
-   "symbol": "BBCQW",
-   "name": "Bleichroeder Acquisition Corp. II - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BBCQW"
-  },
-  {
-   "symbol": "DKNX",
-   "name": "Defiance Daily Target 2X Long DKNG ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DKNX"
-  },
-  {
-   "symbol": "BBCQ",
-   "name": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BBCQ"
-  },
-  {
-   "symbol": "BBCQU",
-   "name": "Bleichroeder Acquisition Corp. II - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BBCQU"
-  },
-  {
-   "symbol": "ALOT",
-   "name": "AstroNova, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALOT"
-  },
-  {
-   "symbol": "BCARW",
-   "name": "D. Boral ARC Acquisition I Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BCARW"
+   "yahoo_symbol": "AREN"
   }
  ]
 }
