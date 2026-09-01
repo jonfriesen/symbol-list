@@ -1,138 +1,78 @@
 {
  "added": [
   {
-   "symbol": "PAAI",
-   "name": "Paradium.AI, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PAAI"
+   "symbol": "MOGL",
+   "name": "Mogul Mountain Ventures Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MOGL.V",
+   "instruments": [
+    {
+     "name": "Mogul Mountain Ventures Corporation",
+     "symbol": "MOGL"
+    }
+   ]
   },
   {
-   "symbol": "SAMO",
-   "name": "Samos Energy Acquisition Corporation Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SAMO"
+   "symbol": "SGLD",
+   "name": "Scorpio Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGLD.V",
+   "instruments": [
+    {
+     "name": "Scorpio Gold Corporation",
+     "symbol": "SGLD"
+    }
+   ]
   },
   {
-   "symbol": "SAMO.W",
-   "name": "Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SAMO.W"
+   "symbol": "GIXI",
+   "name": "Gix Internet Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GIXI"
   },
   {
-   "symbol": "ATLQ",
-   "name": "JAB Acquisition Corp I - Class A Ordinary Shares",
+   "symbol": "ISRL",
+   "name": "Defiance KSM Israel 120 ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATLQ"
+   "yahoo_symbol": "ISRL"
   },
   {
-   "symbol": "ATLQR",
-   "name": "JAB Acquisition Corp I - Rights",
+   "symbol": "SGLD",
+   "name": "Scorpio Gold Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGLD"
+  },
+  {
+   "symbol": "TLACU",
+   "name": "Three Lions Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATLQR"
-  },
-  {
-   "symbol": "ATLQU",
-   "name": "JAB Acquisition Corp I - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATLQU"
-  },
-  {
-   "symbol": "ATLQW",
-   "name": "JAB Acquisition Corp I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ATLQW"
-  },
-  {
-   "symbol": "FSHP",
-   "name": "Flag Ship Acquisition Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FSHP"
-  },
-  {
-   "symbol": "FSHPR",
-   "name": "Flag Ship Acquisition Corp. - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FSHPR"
-  },
-  {
-   "symbol": "FSHPU",
-   "name": "Flag Ship Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FSHPU"
-  },
-  {
-   "symbol": "OPAD",
-   "name": "Offerpad Solutions Inc.  - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OPAD"
-  },
-  {
-   "symbol": "TRBG",
-   "name": "TurboGen Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TRBG"
+   "yahoo_symbol": "TLACU"
   }
  ],
  "removed": [
   {
-   "symbol": "JABRU",
-   "name": "JAB Acquisition Corp I - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JABRU"
+   "symbol": "SGN",
+   "name": "Scorpio Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGN.V",
+   "instruments": [
+    {
+     "name": "Scorpio Gold Corporation",
+     "symbol": "SGN"
+    }
+   ]
   },
   {
-   "symbol": "OPAD",
-   "name": "Offerpad Solutions Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OPAD"
-  },
-  {
-   "symbol": "FSHPR",
-   "name": "Flag Ship Acquisition Corp. - Right",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSHPR"
-  },
-  {
-   "symbol": "JABRW",
-   "name": "JAB Acquisition Corp I - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JABRW"
-  },
-  {
-   "symbol": "JABRR",
-   "name": "JAB Acquisition Corp I - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JABRR"
-  },
-  {
-   "symbol": "BCAB",
-   "name": "BioAtla, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BCAB"
-  },
-  {
-   "symbol": "FSHP",
-   "name": "Flag Ship Acquisition Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSHP"
-  },
-  {
-   "symbol": "JAB",
-   "name": "JAB Acquisition Corp I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JAB"
-  },
-  {
-   "symbol": "FSHPU",
-   "name": "Flag Ship Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSHPU"
-  },
-  {
-   "symbol": "AREN",
-   "name": "The Arena Group Holdings, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "AREN"
+   "symbol": "PANO.P",
+   "name": "Panorama Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PANO.P.V",
+   "instruments": [
+    {
+     "name": "Panorama Capital Corp.",
+     "symbol": "PANO.P"
+    }
+   ]
   }
  ]
 }

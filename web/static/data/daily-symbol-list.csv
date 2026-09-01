@@ -841,6 +841,7 @@ MSG,Mithril Silver and Gold Limited,TSXV,MSG.V,Mithril Silver and Gold Limited,M
 MKA,Mkango Resources Ltd.,TSXV,MKA.V,Mkango Resources Ltd.,MKA
 MBO,Mobio Technologies Inc.,TSXV,MBO.V,Mobio Technologies Inc.,MBO
 MOG,Mogotes Metals Inc.,TSXV,MOG.V,Mogotes Metals Inc.,MOG,Mogotes Metals Inc wt 31Jan2027,MOG.WT
+MOGL,Mogul Mountain Ventures Corporation,TSXV,MOGL.V,Mogul Mountain Ventures Corporation,MOGL
 EIRE.P,Monaghan Capital Fund Ltd.,TSXV,EIRE.P.V,Monaghan Capital Fund Ltd.,EIRE.P
 MONA.P,Monarch West Ventures Inc.,TSXV,MONA.P.V,Monarch West Ventures Inc.,MONA.P
 MRZL,Mont Royal Resources Limited.,TSXV,MRZL.V,Mont Royal Resources Limited.,MRZL
@@ -968,7 +969,6 @@ PEX,Pacific Ridge Exploration Ltd.,TSXV,PEX.V,Pacific Ridge Exploration Ltd.,PEX
 PA,Palamina Corp.,TSXV,PA.V,Palamina Corp.,PA
 PALI,Palisades Goldcorp Ltd.,TSXV,PALI.V,Palisades Goldcorp Ltd. ,PALI,Palisades Goldcorp Ltd wt 06Dec2026,PALI.WT
 PGZ,Pan Global Resources Inc.,TSXV,PGZ.V,Pan Global Resources Inc.,PGZ
-PANO.P,Panorama Capital Corp.,TSXV,PANO.P.V,Panorama Capital Corp.,PANO.P
 PML,Panoro Minerals Ltd.,TSXV,PML.V,Panoro Minerals Ltd.,PML
 PNTR,Pantera Silver Corp.,TSXV,PNTR.V,Pantera Silver Corp.,PNTR
 PDQ,Paradigm Gold Corporation,TSXV,PDQ.V,Paradigm Gold Corporation,PDQ
@@ -1130,7 +1130,7 @@ SAWC.P,Sayward Capital Corp.,TSXV,SAWC.P.V,Sayward Capital Corp.,SAWC.P
 SCD,Scandium Canada Ltd.,TSXV,SCD.V,Scandium Canada Ltd.,SCD
 SCY,Scandium International Mining Corp.,TSXV,SCY.V,Scandium International Mining Corp.,SCY
 SMCD.P,SCD Capital Corp.,TSXV,SMCD.P.V,SCD Capital Corp.,SMCD.P
-SGN,Scorpio Gold Corporation,TSXV,SGN.V,Scorpio Gold Corporation,SGN
+SGLD,Scorpio Gold Corporation,TSXV,SGLD.V,Scorpio Gold Corporation,SGLD
 SCOT,Scottie Resources Corp.,TSXV,SCOT.V,Scottie Resources Corp.,SCOT
 SMY,Search Minerals Inc.,TSXV,SMY.V,Search Minerals Inc.,SMY
 SLX.P,Searchlight Innovations Inc.,TSXV,SLX.P.V,Searchlight Innovations Inc.,SLX.P
@@ -6886,7 +6886,7 @@ ZIEXT,IEX Test Company Test Symbol One for IEX,IEXG,ZIEXT
 ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,NYSE,ZIM
 ZIP,"ZipRecruiter, Inc. Class A Common Stock",NYSE,ZIP
 ZKH,"ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",NYSE,ZKH
-ZONE,CleanCore Solutions Inc. Class B Common Stock,NYSE MKT,ZONE
+ZONE,Zone Frontier Inc. Class B Common Stock,NYSE MKT,ZONE
 ZTEST,BATS BZX Exchange Common Stock (test issue),BATS,ZTEST
 ZTO,"ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.",NYSE,ZTO
 ZTR,Virtus Total Return Fund Inc.,NYSE,ZTR
@@ -8980,6 +8980,7 @@ GIW,GigCapital8 Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,GIW
 GIWWR,GigCapital8 Corp. - Rights,NASDAQ Global MarketSM,GIWWR
 GIWWU,GigCapital8 Corp. - Units,NASDAQ Global MarketSM,GIWWU
 GIX,GigCapital9 Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,GIX
+GIXI,Gix Internet Ltd. - Ordinary Shares,NASDAQ Capital Market,GIXI
 GIXXR,GigCapital9 Corp. - Rights,NASDAQ Global MarketSM,GIXXR
 GIXXU,GigCapital9 Corp. - Units,NASDAQ Global MarketSM,GIXXU
 GKAT,Scharf Global Opportunity ETF,NASDAQ Global MarketSM,GKAT
@@ -9531,6 +9532,7 @@ ISNRW,Snow Rothschild Acquisition Corp. - Warrants,NASDAQ Global MarketSM,ISNRW
 ISPC,iSpecimen Inc. - Common Stock,NASDAQ Capital Market,ISPC
 ISPR,Ispire Technology Inc. - Common Stock,NASDAQ Capital Market,ISPR
 ISRG,"Intuitive Surgical, Inc. - Common Stock",NASDAQ Global Select MarketSM,ISRG
+ISRL,Defiance KSM Israel 120 ETF,NASDAQ Global MarketSM,ISRL
 ISTB,iShares Core 1-5 Year USD Bond ETF,NASDAQ Global MarketSM,ISTB
 ISTM,iShares Strategic Metals ETF,NASDAQ Global MarketSM,ISTM
 ISTR,Investar Holding Corporation - Common Stock,NASDAQ Global MarketSM,ISTR
@@ -11371,6 +11373,7 @@ SFWL,Shengfeng Development Limited - Class A Ordinary Shares,NASDAQ Capital Mark
 SGA,"Saga Communications, Inc. - Class A Common Stock",NASDAQ Global MarketSM,SGA
 SGC,"Superior Group of Companies, Inc. - Common Stock",NASDAQ Global MarketSM,SGC
 SGHT,"Sight Sciences, Inc. - Common Stock",NASDAQ Global Select MarketSM,SGHT
+SGLD,Scorpio Gold Corporation - Common Stock,NASDAQ Capital Market,SGLD
 SGLY,Singularity Future Technology Ltd. - Common Stock,NASDAQ Capital Market,SGLY
 SGML,Sigma Lithium Corporation - common shares,NASDAQ Capital Market,SGML
 SGMT,Sagimet Biosciences Inc. - Series A Common Stock,NASDAQ Global MarketSM,SGMT
@@ -11794,6 +11797,7 @@ TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",NASDAQ Capital Mar
 TKNO,"Alpha Teknova, Inc. - Common Stock",NASDAQ Global MarketSM,TKNO
 TKNS,21Shares Active Crypto ETF,NASDAQ Global MarketSM,TKNS
 TLA,GraniteShares Autocallable TSLA ETF,NASDAQ Global MarketSM,TLA
+TLACU,Three Lions Acquisition Corp. - Units,NASDAQ Global MarketSM,TLACU
 TLF,"Tandy Leather Factory, Inc. - common stock",NASDAQ Capital Market,TLF
 TLG,Touchstone Large Company Growth ETF,NASDAQ Global MarketSM,TLG
 TLIH,Ten-League International Holdings Limited - Ordinary Shares,NASDAQ Capital Market,TLIH

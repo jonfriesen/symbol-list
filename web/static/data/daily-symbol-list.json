@@ -1,5 +1,5 @@
 {
- "date": "2026-08-31",
+ "date": "2026-09-01",
  "data": [
   {
    "symbol": "ONE",
@@ -10182,6 +10182,18 @@
    ]
   },
   {
+   "symbol": "MOGL",
+   "name": "Mogul Mountain Ventures Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MOGL.V",
+   "instruments": [
+    {
+     "name": "Mogul Mountain Ventures Corporation",
+     "symbol": "MOGL"
+    }
+   ]
+  },
+  {
    "symbol": "EIRE.P",
    "name": "Monaghan Capital Fund Ltd.",
    "exchange": "TSXV",
@@ -11730,18 +11742,6 @@
     {
      "name": "Pan Global Resources Inc.",
      "symbol": "PGZ"
-    }
-   ]
-  },
-  {
-   "symbol": "PANO.P",
-   "name": "Panorama Capital Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "PANO.P.V",
-   "instruments": [
-    {
-     "name": "Panorama Capital Corp.",
-     "symbol": "PANO.P"
     }
    ]
   },
@@ -13718,14 +13718,14 @@
    ]
   },
   {
-   "symbol": "SGN",
+   "symbol": "SGLD",
    "name": "Scorpio Gold Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "SGN.V",
+   "yahoo_symbol": "SGLD.V",
    "instruments": [
     {
      "name": "Scorpio Gold Corporation",
-     "symbol": "SGN"
+     "symbol": "SGLD"
     }
    ]
   },
@@ -66653,7 +66653,7 @@
   },
   {
    "symbol": "ZONE",
-   "name": "CleanCore Solutions Inc. Class B Common Stock",
+   "name": "Zone Frontier Inc. Class B Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "ZONE"
   },
@@ -79216,6 +79216,12 @@
    "yahoo_symbol": "GIX"
   },
   {
+   "symbol": "GIXI",
+   "name": "Gix Internet Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GIXI"
+  },
+  {
    "symbol": "GIXXR",
    "name": "GigCapital9 Corp. - Rights",
    "exchange": "NASDAQ Global MarketSM",
@@ -82520,6 +82526,12 @@
    "name": "Intuitive Surgical, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ISRG"
+  },
+  {
+   "symbol": "ISRL",
+   "name": "Defiance KSM Israel 120 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISRL"
   },
   {
    "symbol": "ISTB",
@@ -93562,6 +93574,12 @@
    "yahoo_symbol": "SGHT"
   },
   {
+   "symbol": "SGLD",
+   "name": "Scorpio Gold Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGLD"
+  },
+  {
    "symbol": "SGLY",
    "name": "Singularity Future Technology Ltd. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -96098,6 +96116,12 @@
    "name": "GraniteShares Autocallable TSLA ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "TLA"
+  },
+  {
+   "symbol": "TLACU",
+   "name": "Three Lions Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLACU"
   },
   {
    "symbol": "TLF",
