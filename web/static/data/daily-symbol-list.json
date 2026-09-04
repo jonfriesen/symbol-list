@@ -1,5 +1,5 @@
 {
- "date": "2026-09-03",
+ "date": "2026-09-04",
  "data": [
   {
    "symbol": "ONE",
@@ -5542,6 +5542,18 @@
    ]
   },
   {
+   "symbol": "FCLX",
+   "name": "FCL-X Fire \u0026 Safety Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCLX.V",
+   "instruments": [
+    {
+     "name": "FCL-X Fire \u0026 Safety Inc.",
+     "symbol": "FCLX"
+    }
+   ]
+  },
+  {
    "symbol": "FHR",
    "name": "Fiddlehead Resources Corp.",
    "exchange": "TSXV",
@@ -6034,18 +6046,6 @@
     {
      "name": "FuelPositive Corporation",
      "symbol": "NHHH"
-    }
-   ]
-  },
-  {
-   "symbol": "FCLI",
-   "name": "Full Circle Lithium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FCLI.V",
-   "instruments": [
-    {
-     "name": "Full Circle Lithium Corp.",
-     "symbol": "FCLI"
     }
    ]
   },
@@ -14702,6 +14702,18 @@
     {
      "name": "Standard Uranium Ltd.",
      "symbol": "STND"
+    }
+   ]
+  },
+  {
+   "symbol": "ZIGY",
+   "name": "Stardust Metal Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZIGY.V",
+   "instruments": [
+    {
+     "name": "Stardust Metal Corp.",
+     "symbol": "ZIGY"
     }
    ]
   },
@@ -49534,12 +49546,6 @@
    "yahoo_symbol": "APEI"
   },
   {
-   "symbol": "APGE",
-   "name": "Apogee Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "APGE"
-  },
-  {
    "symbol": "API",
    "name": "Agora, Inc. - ADS",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -52610,12 +52616,6 @@
    "name": "Armlogi Holding Corp. - common stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BTOC"
-  },
-  {
-   "symbol": "BTOG",
-   "name": "Bit Origin Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BTOG"
   },
   {
    "symbol": "BTQ",
@@ -61516,6 +61516,12 @@
    "yahoo_symbol": "HQ"
   },
   {
+   "symbol": "HQDG",
+   "name": "Raub Brock Dividend Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HQDG"
+  },
+  {
    "symbol": "HQGO",
    "name": "Hartford US Quality Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -63614,12 +63620,6 @@
    "name": "J and Friends Holdings Limited - American Depositary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "JF"
-  },
-  {
-   "symbol": "JFB",
-   "name": "JFB Construction Holdings - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JFB"
   },
   {
    "symbol": "JFIN",
@@ -68042,12 +68042,6 @@
    "name": "National Healthcare Properties, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "NHP"
-  },
-  {
-   "symbol": "NHPAP",
-   "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NHPAP"
   },
   {
    "symbol": "NHPBP",
@@ -74396,6 +74390,12 @@
    "name": "SpyGlass Pharma, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SGP"
+  },
+  {
+   "symbol": "SGRX",
+   "name": "SANGRIX INC. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGRX"
   },
   {
    "symbol": "SGRY",
@@ -84683,7 +84683,7 @@
   },
   {
    "symbol": "CIK",
-   "name": "Credit Suisse Asset Management Income Fund, Inc. Common Stock",
+   "name": "UBS Asset Management Income Fund, Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "CIK"
   },
@@ -86051,7 +86051,7 @@
   },
   {
    "symbol": "DHY",
-   "name": "Credit Suisse High Yield Credit Fund Common Stock",
+   "name": "UBS Asset Management High Yield Credit Fund Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "DHY"
   },
@@ -93034,6 +93034,12 @@
    "yahoo_symbol": "NMCO"
   },
   {
+   "symbol": "NMCO.V",
+   "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMCO.V"
+  },
+  {
    "symbol": "NMG",
    "name": "Nouveau Monde Graphite Inc. Common Shares",
    "exchange": "NYSE",
@@ -95656,10 +95662,10 @@
    "yahoo_symbol": "RIV$A"
   },
   {
-   "symbol": "RIV.V",
-   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",
+   "symbol": "RIV.R",
+   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "RIV.V"
+   "yahoo_symbol": "RIV.R"
   },
   {
    "symbol": "RJF",
@@ -99926,6 +99932,12 @@
    "name": "Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",
    "exchange": "NYSE",
    "yahoo_symbol": "XRN$B"
+  },
+  {
+   "symbol": "XTND",
+   "name": "Xtend AI Robotics, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XTND"
   },
   {
    "symbol": "XTNT",
