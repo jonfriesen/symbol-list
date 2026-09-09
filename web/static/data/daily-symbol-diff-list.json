@@ -1,84 +1,100 @@
 {
  "added": [
   {
-   "symbol": "ARO",
-   "name": "Arc Mineral Royalties Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ARO.V",
+   "symbol": "ROSY",
+   "name": "Corton Rosenberg Global Macro Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ROSY.TO",
    "instruments": [
     {
-     "name": "Arc Mineral Royalties Ltd.",
-     "symbol": "ARO"
+     "name": "Corton Rosenberg GMF",
+     "symbol": "ROSY"
+    },
+    {
+     "name": "CortonRosenbrg GMF U",
+     "symbol": "ROSY.U"
     }
    ]
   },
   {
-   "symbol": "AMAC",
-   "name": "AMR Resources Acquisition Corp - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMAC"
+   "symbol": "TPUT",
+   "name": "Corton Theta TM Alpha Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TPUT.TO",
+   "instruments": [
+    {
+     "name": "Corton Theta Alpha F",
+     "symbol": "TPUT"
+    }
+   ]
   },
   {
-   "symbol": "AMACW",
-   "name": "AMR Resources Acquisition Corp - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AMACW"
+   "symbol": "VCOR",
+   "name": "Vanguard Global Core-Plus Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "VCOR.TO",
+   "instruments": [
+    {
+     "name": "Vang Glb CorePlus B",
+     "symbol": "VCOR"
+    }
+   ]
   },
   {
-   "symbol": "CHAD",
-   "name": "DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock",
+   "symbol": "CCML",
+   "name": "Roundhill MLCC \u0026 Electronic Components ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCML"
+  },
+  {
+   "symbol": "KRSA",
+   "name": "Korsana Biosciences, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CHAD"
+   "yahoo_symbol": "KRSA"
   },
   {
-   "symbol": "AUXX",
-   "name": "Gold X2 Mining Inc. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "AUXX"
+   "symbol": "NXAT",
+   "name": "Nexus Advanced Technologies Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXAT"
+  },
+  {
+   "symbol": "NXATW",
+   "name": "Nexus Advanced Technologies Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXATW"
+  },
+  {
+   "symbol": "RML",
+   "name": "Resolution Minerals Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RML"
   }
  ],
  "removed": [
   {
-   "symbol": "ARX",
-   "name": "ARC Resources Ltd.",
-   "exchange": "TSX",
-   "yahoo_symbol": "ARX.TO",
-   "instruments": [
-    {
-     "name": "ARC Resources Ltd.",
-     "symbol": "ARX"
-    }
-   ]
-  },
-  {
-   "symbol": "GIPRW",
-   "name": "Generation Income Properties Inc. - Warrant",
+   "symbol": "BRNS",
+   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GIPRW"
+   "yahoo_symbol": "BRNS"
   },
   {
-   "symbol": "SRA",
-   "name": "Stria Lithium Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SRA.V",
-   "instruments": [
-    {
-     "name": "Stria Lithium Inc.",
-     "symbol": "SRA"
-    }
-   ]
-  },
-  {
-   "symbol": "LPSN",
-   "name": "LivePerson, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LPSN"
-  },
-  {
-   "symbol": "BTAI",
-   "name": "BioXcel Therapeutics, Inc. - Common Stock",
+   "symbol": "CYCN",
+   "name": "Cyclerion Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BTAI"
+   "yahoo_symbol": "CYCN"
+  },
+  {
+   "symbol": "KWM",
+   "name": "K Wave Media, Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWM"
+  },
+  {
+   "symbol": "KWMWW",
+   "name": "K Wave Media, Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWMWW"
   }
  ]
 }

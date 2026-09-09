@@ -1,5 +1,5 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-09",
  "data": [
   {
    "symbol": "ONE",
@@ -25782,6 +25782,34 @@
    ]
   },
   {
+   "symbol": "ROSY",
+   "name": "Corton Rosenberg Global Macro Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ROSY.TO",
+   "instruments": [
+    {
+     "name": "Corton Rosenberg GMF",
+     "symbol": "ROSY"
+    },
+    {
+     "name": "CortonRosenbrg GMF U",
+     "symbol": "ROSY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TPUT",
+   "name": "Corton Theta TM Alpha Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TPUT.TO",
+   "instruments": [
+    {
+     "name": "Corton Theta Alpha F",
+     "symbol": "TPUT"
+    }
+   ]
+  },
+  {
    "symbol": "CJR.B",
    "name": "Corus Entertainment Inc.",
    "exchange": "TSX",
@@ -40642,6 +40670,18 @@
    ]
   },
   {
+   "symbol": "PDI",
+   "name": "PDI Gold Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "PDI.TO",
+   "instruments": [
+    {
+     "name": "Predictive Dscvr Ltd",
+     "symbol": "PDI"
+    }
+   ]
+  },
+  {
    "symbol": "PPL",
    "name": "Pembina Pipeline Corporation",
    "exchange": "TSX",
@@ -41342,18 +41382,6 @@
     {
      "name": "Precision Drill Corp",
      "symbol": "PD"
-    }
-   ]
-  },
-  {
-   "symbol": "PDI",
-   "name": "Predictive Discovery Limited",
-   "exchange": "TSX",
-   "yahoo_symbol": "PDI.TO",
-   "instruments": [
-    {
-     "name": "Predictive Dscvr Ltd",
-     "symbol": "PDI"
     }
    ]
   },
@@ -46722,6 +46750,18 @@
    ]
   },
   {
+   "symbol": "VCOR",
+   "name": "Vanguard Global Core-Plus Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "VCOR.TO",
+   "instruments": [
+    {
+     "name": "Vang Glb CorePlus B",
+     "symbol": "VCOR"
+    }
+   ]
+  },
+  {
    "symbol": "VVO",
    "name": "Vanguard Global Minimum Volatility ETF",
    "exchange": "TSX",
@@ -49967,13 +50007,13 @@
   },
   {
    "symbol": "ASBP",
-   "name": "Aspire Biopharma Holdings, Inc.  - Common Stock",
+   "name": "Aspire-Lakewood Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ASBP"
   },
   {
    "symbol": "ASBPW",
-   "name": "Aspire Biopharma Holdings, Inc.  - Warrant",
+   "name": "Aspire-Lakewood Holdings, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ASBPW"
   },
@@ -52186,12 +52226,6 @@
    "yahoo_symbol": "BRLT"
   },
   {
-   "symbol": "BRNS",
-   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BRNS"
-  },
-  {
    "symbol": "BRNX",
    "name": "BrenX Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -53300,6 +53334,12 @@
    "name": "CareCloud, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CCLD"
+  },
+  {
+   "symbol": "CCML",
+   "name": "Roundhill MLCC \u0026 Electronic Components ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCML"
   },
   {
    "symbol": "CCNE",
@@ -55424,12 +55464,6 @@
    "name": "Cyabra, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CYAB"
-  },
-  {
-   "symbol": "CYCN",
-   "name": "Cyclerion Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CYCN"
   },
   {
    "symbol": "CYCU",
@@ -64366,6 +64400,12 @@
    "yahoo_symbol": "KRRO"
   },
   {
+   "symbol": "KRSA",
+   "name": "Korsana Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KRSA"
+  },
+  {
    "symbol": "KRT",
    "name": "Karat Packaging Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -64460,18 +64500,6 @@
    "name": "KVH Industries, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "KVHI"
-  },
-  {
-   "symbol": "KWM",
-   "name": "K Wave Media, Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KWM"
-  },
-  {
-   "symbol": "KWMWW",
-   "name": "K Wave Media, Ltd. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KWMWW"
   },
   {
    "symbol": "KXIN",
@@ -68804,6 +68832,18 @@
    "name": "Newton Golf Company, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NWTG"
+  },
+  {
+   "symbol": "NXAT",
+   "name": "Nexus Advanced Technologies Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXAT"
+  },
+  {
+   "symbol": "NXATW",
+   "name": "Nexus Advanced Technologies Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXATW"
   },
   {
    "symbol": "NXGL",
@@ -73220,6 +73260,12 @@
    "name": "Suncrete, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RMIX"
+  },
+  {
+   "symbol": "RML",
+   "name": "Resolution Minerals Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RML"
   },
   {
    "symbol": "RMNI",
@@ -94481,7 +94527,7 @@
   },
   {
    "symbol": "PHGE",
-   "name": "BiomX Inc. COmmon Stock",
+   "name": "BiomX Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "PHGE"
   },
