@@ -1,192 +1,64 @@
 {
  "added": [
   {
-   "symbol": "WHYP",
-   "name": "Westcourt Hamilton Yield Portfolio ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "WHYP.TO",
-   "instruments": [
-    {
-     "name": "Westcourt Ham Yld P ",
-     "symbol": "WHYP"
-    },
-    {
-     "name": "Westcourt Ham YldP U",
-     "symbol": "WHYP.U"
-    }
-   ]
+   "symbol": "HLSQ",
+   "name": "Tessera Defense and Homeland Security Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HLSQ"
   },
   {
-   "symbol": "GCUC",
-   "name": "Green Canada Uranium Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GCUC.V",
-   "instruments": [
-    {
-     "name": "Green Canada Uranium Corp.",
-     "symbol": "GCUC"
-    }
-   ]
-  },
-  {
-   "symbol": "NMCO.R",
-   "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NMCO.R"
-  },
-  {
-   "symbol": "ACBE",
-   "name": "Pacer Metaurus Enhanced Core Income Autocallable ETF ",
+   "symbol": "GEMQ",
+   "name": "Goldman Sachs Data Enhanced Emerging Markets Equity ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACBE"
+   "yahoo_symbol": "GEMQ"
   },
   {
-   "symbol": "ACBH",
-   "name": "Pacer Metaurus High Income Autocallable ETF ",
+   "symbol": "OCLT",
+   "name": "OceanLight Acquisition Corporation - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACBH"
+   "yahoo_symbol": "OCLT"
   },
   {
-   "symbol": "AIFR",
-   "name": "Defiance Global Foundries ETF",
+   "symbol": "OCLTR",
+   "name": "OceanLight Acquisition Corporation - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIFR"
+   "yahoo_symbol": "OCLTR"
   },
   {
-   "symbol": "AIMG",
-   "name": "Defiance AI Magnificent 10 ETF",
+   "symbol": "OCLTW",
+   "name": "OceanLight Acquisition Corporation - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIMG"
-  },
-  {
-   "symbol": "ATTT",
-   "name": "Atlas Trinity Tech Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATTT"
-  },
-  {
-   "symbol": "BRTM",
-   "name": "B\u0026R Technology Merger Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRTM"
-  },
-  {
-   "symbol": "BRTMW",
-   "name": "B\u0026R Technology Merger Corp. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRTMW"
-  },
-  {
-   "symbol": "CRAM",
-   "name": "Defiance China Memory ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRAM"
-  },
-  {
-   "symbol": "EOCN",
-   "name": "Eocene Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EOCN"
-  },
-  {
-   "symbol": "SWRD",
-   "name": "Stewards Inc - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SWRD"
-  },
-  {
-   "symbol": "VEEM",
-   "name": "VanEck MSCI EM Analyst Sentiment ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VEEM"
+   "yahoo_symbol": "OCLTW"
   }
  ],
  "removed": [
   {
-   "symbol": "RUQO",
-   "name": "RBC Target 2026 U.S. Corporate Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RUQO.TO",
-   "instruments": [
-    {
-     "name": "RBC Tgt26USCrpCa Bnd",
-     "symbol": "RUQO"
-    },
-    {
-     "name": "RBC Tgt26USCrpUS Bnd",
-     "symbol": "RUQO.U"
-    }
-   ]
-  },
-  {
-   "symbol": "TMCWW",
-   "name": "TMC the metals company Inc. - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TMCWW"
-  },
-  {
-   "symbol": "RGQO",
-   "name": "RBC Target 2026 Canadian Government Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RGQO.TO",
-   "instruments": [
-    {
-     "name": "RBC Tgt26 CDN GovBnd",
-     "symbol": "RGQO"
-    }
-   ]
-  },
-  {
-   "symbol": "AIP.U",
-   "name": "AIP Realty Trust",
+   "symbol": "CWV",
+   "name": "Crown Point Energy Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "AIP.U.V",
+   "yahoo_symbol": "CWV.V",
    "instruments": [
     {
-     "name": "AIP Realty Trust",
-     "symbol": "AIP.U"
+     "name": "Crown Point Energy Inc.",
+     "symbol": "CWV"
     }
    ]
   },
   {
-   "symbol": "RAY",
-   "name": "Raytech Holding Limited - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RAY"
+   "symbol": "PHGE",
+   "name": "BiomX Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PHGE"
   },
   {
-   "symbol": "NMCO.V",
-   "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NMCO.V"
-  },
-  {
-   "symbol": "GLMD",
-   "name": "Galmed Pharmaceuticals Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLMD"
-  },
-  {
-   "symbol": "RQO",
-   "name": "RBC Target 2026 Canadian Corporate Bond Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "RQO.TO",
-   "instruments": [
-    {
-     "name": "RBC Tgt26CDNCorp Bnd",
-     "symbol": "RQO"
-    }
-   ]
-  },
-  {
-   "symbol": "SMWE",
-   "name": "Smartwell Technology Corp.",
+   "symbol": "SPZ",
+   "name": "SuperBuzz Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SMWE.V",
+   "yahoo_symbol": "SPZ.V",
    "instruments": [
     {
-     "name": "Smartwell Technology Corp.",
-     "symbol": "SMWE"
+     "name": "SuperBuzz Inc.",
+     "symbol": "SPZ"
     }
    ]
   }
