@@ -1,94 +1,164 @@
 {
  "added": [
   {
-   "symbol": "CRWN",
-   "name": "Crown Capital Partners Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CRWN.V",
+   "symbol": "ZACU",
+   "name": "BMO Strategic Autocallable Income US Large Cap ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZACU.TO",
    "instruments": [
     {
-     "name": "Crown Capital Partners Inc.",
-     "symbol": "CRWN"
+     "name": "BMO Str A Inc USLC C",
+     "symbol": "ZACU"
     },
     {
-     "name": "Crown Capital Partners Inc. db31Dec2027",
-     "symbol": "CRWN.NT"
+     "name": "BMO Str A Inc USLC H",
+     "symbol": "ZACU.F"
+    },
+    {
+     "name": "BMO Str A Inc USLC U",
+     "symbol": "ZACU.U"
     }
    ]
   },
   {
-   "symbol": "CHIP",
-   "name": "REX AI Chipmaking ETF",
+   "symbol": "FJDI",
+   "name": "ARC Group Securities Acquisition I - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHIP"
+   "yahoo_symbol": "FJDI"
   },
   {
-   "symbol": "LOVIU",
-   "name": "Live Oak Acquisition Corp. VI - Units",
+   "symbol": "FJDIR",
+   "name": "ARC Group Securities Acquisition I - Rights",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LOVIU"
+   "yahoo_symbol": "FJDIR"
   },
   {
-   "symbol": "MYCP",
-   "name": "State Street My2036 Corporate Bond ETF",
+   "symbol": "FJDIW",
+   "name": "ARC Group Securities Acquisition I - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYCP"
+   "yahoo_symbol": "FJDIW"
   },
   {
-   "symbol": "MYHF",
-   "name": "State Street My2032 High Yield Corporate Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYHF"
+   "symbol": "HAIN",
+   "name": "The Hain Celestial Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HAIN"
   },
   {
-   "symbol": "MYML",
-   "name": "State Street My2032 Municipal Bond ETF",
+   "symbol": "HUCK",
+   "name": "Huckleberry.ai, Inc. - Class B Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MYML"
+   "yahoo_symbol": "HUCK"
   },
   {
-   "symbol": "QQI",
-   "name": "Invesco Nasdaq International Innovators 100 ETF",
+   "symbol": "HWMV",
+   "name": "Hotchkis \u0026 Wiley Mid-Cap Value Fund",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QQI"
+   "yahoo_symbol": "HWMV"
   },
   {
-   "symbol": "TXCA",
-   "name": "Northern Trust California Intermediate Tax-Exempt Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TXCA"
+   "symbol": "LCCC",
+   "name": "Lakeshore Acquisition III Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCCC"
   },
   {
-   "symbol": "TXNY",
-   "name": "Northern Trust New York Intermediate Tax-Exempt Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TXNY"
+   "symbol": "LCCCR",
+   "name": "Lakeshore Acquisition III Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCCCR"
   },
   {
-   "symbol": "VMHY",
-   "name": "VictoryShares Municipal High Yield ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VMHY"
+   "symbol": "LCCCU",
+   "name": "Lakeshore Acquisition III Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCCCU"
   },
   {
-   "symbol": "VMSD",
-   "name": "VictoryShares Short-Duration Municipal ETF",
+   "symbol": "ONEN",
+   "name": "ONE Nuclear Energy Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VMSD"
+   "yahoo_symbol": "ONEN"
+  },
+  {
+   "symbol": "TORK",
+   "name": "KraneShares Actuator ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TORK"
+  },
+  {
+   "symbol": "ASGI.R",
+   "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASGI.R"
+  },
+  {
+   "symbol": "BCAT.V",
+   "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BCAT.V"
   }
  ],
  "removed": [
   {
-   "symbol": "RIV.R",
-   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RIV.R"
+   "symbol": "LCCCR",
+   "name": "Lakeshore Acquisition III Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCCR"
   },
   {
-   "symbol": "PLTS",
-   "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PLTS"
+   "symbol": "DOMO",
+   "name": "Domo, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DOMO"
+  },
+  {
+   "symbol": "HVIIR",
+   "name": "Hennessy Capital Investment Corp. VII - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVIIR"
+  },
+  {
+   "symbol": "HVII",
+   "name": "Hennessy Capital Investment Corp. VII - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVII"
+  },
+  {
+   "symbol": "HVIIU",
+   "name": "Hennessy Capital Investment Corp. VII - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVIIU"
+  },
+  {
+   "symbol": "LCCCU",
+   "name": "Lakeshore Acquisition III Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCCU"
+  },
+  {
+   "symbol": "LCCC",
+   "name": "Lakeshore Acquisition III Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCC"
+  },
+  {
+   "symbol": "TBPH",
+   "name": "Theravance Biopharma, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBPH"
+  },
+  {
+   "symbol": "ASGI.V",
+   "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASGI.V"
+  },
+  {
+   "symbol": "HAIN",
+   "name": "The Hain Celestial Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HAIN"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "data": [
   {
    "symbol": "ONE",
@@ -21366,6 +21366,26 @@
     {
      "name": "BMO SPDPR UtSI ETFHg",
      "symbol": "ZXLU.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZACU",
+   "name": "BMO Strategic Autocallable Income US Large Cap ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZACU.TO",
+   "instruments": [
+    {
+     "name": "BMO Str A Inc USLC C",
+     "symbol": "ZACU"
+    },
+    {
+     "name": "BMO Str A Inc USLC H",
+     "symbol": "ZACU.F"
+    },
+    {
+     "name": "BMO Str A Inc USLC U",
+     "symbol": "ZACU.U"
     }
    ]
   },
@@ -56272,12 +56292,6 @@
    "yahoo_symbol": "DOMH"
   },
   {
-   "symbol": "DOMO",
-   "name": "Domo, Inc. - Class B Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DOMO"
-  },
-  {
    "symbol": "DOO",
    "name": "BRP Inc. - Common Subordinate Voting Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58672,10 +58686,28 @@
    "yahoo_symbol": "FIZZ"
   },
   {
+   "symbol": "FJDI",
+   "name": "ARC Group Securities Acquisition I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FJDI"
+  },
+  {
+   "symbol": "FJDIR",
+   "name": "ARC Group Securities Acquisition I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FJDIR"
+  },
+  {
    "symbol": "FJDIU",
    "name": "ARC Group Securities Acquisition I - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FJDIU"
+  },
+  {
+   "symbol": "FJDIW",
+   "name": "ARC Group Securities Acquisition I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FJDIW"
   },
   {
    "symbol": "FJP",
@@ -61080,7 +61112,7 @@
   {
    "symbol": "HAIN",
    "name": "The Hain Celestial Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "HAIN"
   },
   {
@@ -61906,6 +61938,12 @@
    "yahoo_symbol": "HUBG"
   },
   {
+   "symbol": "HUCK",
+   "name": "Huckleberry.ai, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUCK"
+  },
+  {
    "symbol": "HUDI",
    "name": "Huadi International Group Co., Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -61960,24 +61998,6 @@
    "yahoo_symbol": "HUTG"
   },
   {
-   "symbol": "HVII",
-   "name": "Hennessy Capital Investment Corp. VII - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HVII"
-  },
-  {
-   "symbol": "HVIIR",
-   "name": "Hennessy Capital Investment Corp. VII - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HVIIR"
-  },
-  {
-   "symbol": "HVIIU",
-   "name": "Hennessy Capital Investment Corp. VII - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HVIIU"
-  },
-  {
    "symbol": "HVMC",
    "name": "Highview Merger Corp. - Class A Ordinary Share",
    "exchange": "NASDAQ Global MarketSM",
@@ -62030,6 +62050,12 @@
    "name": "Hawkins, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "HWKN"
+  },
+  {
+   "symbol": "HWMV",
+   "name": "Hotchkis \u0026 Wiley Mid-Cap Value Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWMV"
   },
   {
    "symbol": "HWO",
@@ -64860,19 +64886,19 @@
   {
    "symbol": "LCCC",
    "name": "Lakeshore Acquisition III Corp. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LCCC"
   },
   {
    "symbol": "LCCCR",
    "name": "Lakeshore Acquisition III Corp. - Rights",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LCCCR"
   },
   {
    "symbol": "LCCCU",
    "name": "Lakeshore Acquisition III Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LCCCU"
   },
   {
@@ -69662,6 +69688,12 @@
    "name": "OneConstruction Group Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "ONEG"
+  },
+  {
+   "symbol": "ONEN",
+   "name": "ONE Nuclear Energy Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ONEN"
   },
   {
    "symbol": "ONEQ",
@@ -76690,12 +76722,6 @@
    "yahoo_symbol": "TBLD"
   },
   {
-   "symbol": "TBPH",
-   "name": "Theravance Biopharma, Inc. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TBPH"
-  },
-  {
    "symbol": "TC",
    "name": "Token Cat Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -77474,6 +77500,12 @@
    "name": "TOP Financial Group Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TOP"
+  },
+  {
+   "symbol": "TORK",
+   "name": "KraneShares Actuator ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TORK"
   },
   {
    "symbol": "TORO",
@@ -82726,10 +82758,10 @@
    "yahoo_symbol": "ASGI"
   },
   {
-   "symbol": "ASGI.V",
-   "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",
+   "symbol": "ASGI.R",
+   "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "ASGI.V"
+   "yahoo_symbol": "ASGI.R"
   },
   {
    "symbol": "ASH",
@@ -83360,6 +83392,12 @@
    "name": "BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "BCAT"
+  },
+  {
+   "symbol": "BCAT.V",
+   "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BCAT.V"
   },
   {
    "symbol": "BCC",

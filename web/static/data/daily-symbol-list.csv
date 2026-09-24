@@ -1728,6 +1728,7 @@ ZXLB,BMO SPDR Materials Select Sector Index ETF,TSX,ZXLB.TO,BMO SPDR MaSelSe ETF
 ZXLR,BMO SPDR Real Estate Select Sector Index ETF,TSX,ZXLR.TO,BMO SPDR ReSSI ETF,ZXLR,BMO SPDR ReSSI ETFHg,ZXLR.F
 ZXLK,BMO SPDR Technology Select Sector Index ETF,TSX,ZXLK.TO,BMO SPDR TechSSI ETF,ZXLK,BMOSPDR TechSI ETFHg,ZXLK.F
 ZXLU,BMO SPDR Utilities Select Sector Index ETF,TSX,ZXLU.TO,BMO SPDPR UtSSI ETF,ZXLU,BMO SPDPR UtSI ETFHg,ZXLU.F
+ZACU,BMO Strategic Autocallable Income US Large Cap ETF,TSX,ZACU.TO,BMO Str A Inc USLC C,ZACU,BMO Str A Inc USLC H,ZACU.F,BMO Str A Inc USLC U,ZACU.U
 ZZZD,BMO Tactical Dividend ETF Fund,TSX,ZZZD.TO,BMO Tactical Div Un,ZZZD
 ZXCO,BMO Target 2027 Canadian Corporate Bond ETF,TSX,ZXCO.TO,BMO Tgt 2027 CCB ETF,ZXCO
 ZXCP,BMO Target 2028 Canadian Corporate Bond ETF,TSX,ZXCP.TO,BMO Tgt 2028 CCB ETF,ZXCP
@@ -5146,7 +5147,6 @@ DNUT,"Krispy Kreme, Inc. - Common Stock",NASDAQ Global Select MarketSM,DNUT
 DOCU,"DocuSign, Inc. - Common Stock",NASDAQ Global Select MarketSM,DOCU
 DOGZ,Dogness (International) Corporation - Class A Common Stock,NASDAQ Capital Market,DOGZ
 DOMH,Dominari Holdings Inc. - Common Stock,NASDAQ Capital Market,DOMH
-DOMO,"Domo, Inc. - Class B Common Stock",NASDAQ Global MarketSM,DOMO
 DOO,BRP Inc. - Common Subordinate Voting Shares,NASDAQ Global Select MarketSM,DOO
 DORM,"Dorman Products, Inc. - Common Stock",NASDAQ Global Select MarketSM,DORM
 DOX,Amdocs Limited - Ordinary Shares,NASDAQ Global Select MarketSM,DOX
@@ -5546,7 +5546,10 @@ FIVN,"Five9, Inc. - Common Stock",NASDAQ Global MarketSM,FIVN
 FIXD,First Trust Smith Opportunistic Fixed Income ETF,NASDAQ Global MarketSM,FIXD
 FIYY,GraniteShares YieldBOOST 20Y Treasuries ETF,NASDAQ Global MarketSM,FIYY
 FIZZ,National Beverage Corp. - Common Stock,NASDAQ Global Select MarketSM,FIZZ
+FJDI,ARC Group Securities Acquisition I - Class A Ordinary Shares,NASDAQ Global MarketSM,FJDI
+FJDIR,ARC Group Securities Acquisition I - Rights,NASDAQ Global MarketSM,FJDIR
 FJDIU,ARC Group Securities Acquisition I - Units,NASDAQ Global MarketSM,FJDIU
+FJDIW,ARC Group Securities Acquisition I - Warrants,NASDAQ Global MarketSM,FJDIW
 FJP,First Trust Japan AlphaDEX Fund,NASDAQ Global MarketSM,FJP
 FKU,First Trust United Kingdom AlphaDEX Fund,NASDAQ Global MarketSM,FKU
 FKWL,Franklin Wireless Corp. - common stock,NASDAQ Capital Market,FKWL
@@ -5947,7 +5950,7 @@ HACQ,HCM IV Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,HA
 HACQU,HCM IV Acquisition Corp. - Unit,NASDAQ Global MarketSM,HACQU
 HACQW,HCM IV Acquisition Corp. - Warrants,NASDAQ Global MarketSM,HACQW
 HAFC,Hanmi Financial Corporation - Common Stock,NASDAQ Global Select MarketSM,HAFC
-HAIN,"The Hain Celestial Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,HAIN
+HAIN,"The Hain Celestial Group, Inc. - Common Stock",NASDAQ Capital Market,HAIN
 HALO,"Halozyme Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,HALO
 HAO,Haoxi Health Technology Limited - Class A Ord Share,NASDAQ Capital Market,HAO
 HAPN,"Happen, Inc. - Common Stock",NASDAQ Global Select MarketSM,HAPN
@@ -6085,6 +6088,7 @@ HUBC,Hub Cyber Security Ltd. - Ordinary Shares,NASDAQ Capital Market,HUBC
 HUBCW,Hub Cyber Security Ltd. - Warrant expiring 2/27/28,NASDAQ Capital Market,HUBCW
 HUBCZ,Hub Cyber Security Ltd. - Warrant,NASDAQ Capital Market,HUBCZ
 HUBG,"Hub Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,HUBG
+HUCK,"Huckleberry.ai, Inc. - Class B Common Stock",NASDAQ Global MarketSM,HUCK
 HUDI,"Huadi International Group Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,HUDI
 HUHU,HUHUTECH International Group Inc. - Ordinary Shares,NASDAQ Capital Market,HUHU
 HUIZ,Huize Holding Limited - American Depositary Shares,NASDAQ Global MarketSM,HUIZ
@@ -6094,9 +6098,6 @@ HURC,"Hurco Companies, Inc. - Common Stock",NASDAQ Global Select MarketSM,HURC
 HURN,Huron Consulting Group Inc. - Common Stock,NASDAQ Global Select MarketSM,HURN
 HUT,Hut 8 Corp. - Common Stock,NASDAQ Global Select MarketSM,HUT
 HUTG,Leverage Shares 2X Long HUT Daily ETF,NASDAQ Global MarketSM,HUTG
-HVII,Hennessy Capital Investment Corp. VII - Ordinary Shares,NASDAQ Global MarketSM,HVII
-HVIIR,Hennessy Capital Investment Corp. VII - Rights,NASDAQ Global MarketSM,HVIIR
-HVIIU,Hennessy Capital Investment Corp. VII - Unit,NASDAQ Global MarketSM,HVIIU
 HVMC,Highview Merger Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,HVMC
 HVMCU,Highview Merger Corp. - Units,NASDAQ Global MarketSM,HVMCU
 HVMCW,Highview Merger Corp. - Warrants,NASDAQ Global MarketSM,HVMCW
@@ -6106,6 +6107,7 @@ HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,NASDAQ Glo
 HWGV,Hotchkis & Wiley Global Value Fund,NASDAQ Global MarketSM,HWGV
 HWIV,Hotchkis & Wiley International Value Fund,NASDAQ Global MarketSM,HWIV
 HWKN,"Hawkins, Inc. - Common Stock",NASDAQ Global Select MarketSM,HWKN
+HWMV,Hotchkis & Wiley Mid-Cap Value Fund,NASDAQ Global MarketSM,HWMV
 HWO,Hotchkis & Wiley Opportunities Fund,NASDAQ Global MarketSM,HWO
 HWSM,Hotchkis & Wiley SMID Cap Diversified Value Fund,NASDAQ Global MarketSM,HWSM
 HXHX,Haoxin Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,HXHX
@@ -6577,9 +6579,9 @@ LBRX,LB Pharmaceuticals Inc - Common Stock,NASDAQ Global MarketSM,LBRX
 LBTYA,Liberty Global Ltd. - Class A Common Shares,NASDAQ Global Select MarketSM,LBTYA
 LBTYB,Liberty Global Ltd. - Class B Common Shares,NASDAQ Global Select MarketSM,LBTYB
 LBTYK,Liberty Global Ltd. - Class C Common Shares,NASDAQ Global Select MarketSM,LBTYK
-LCCC,Lakeshore Acquisition III Corp. - Ordinary Shares,NASDAQ Global MarketSM,LCCC
-LCCCR,Lakeshore Acquisition III Corp. - Rights,NASDAQ Global MarketSM,LCCCR
-LCCCU,Lakeshore Acquisition III Corp. - Unit,NASDAQ Global MarketSM,LCCCU
+LCCC,Lakeshore Acquisition III Corp. - Ordinary Shares,NASDAQ Capital Market,LCCC
+LCCCR,Lakeshore Acquisition III Corp. - Rights,NASDAQ Capital Market,LCCCR
+LCCCU,Lakeshore Acquisition III Corp. - Unit,NASDAQ Capital Market,LCCCU
 LCDS,JPMorgan Fundamental Data Science Large Core ETF,NASDAQ Global MarketSM,LCDS
 LCFY,Locafy Limited - Ordinary Share,NASDAQ Capital Market,LCFY
 LCFYW,Locafy Limited - Warrant,NASDAQ Capital Market,LCFYW
@@ -7378,6 +7380,7 @@ ONCY,Oncolytics Biotech Inc. - Common Stock,NASDAQ Capital Market,ONCY
 ONDG,Leverage Shares 2X Long ONDS Daily ETF,NASDAQ Global MarketSM,ONDG
 ONDS,Ondas Inc - Common Stock,NASDAQ Capital Market,ONDS
 ONEG,OneConstruction Group Limited - Ordinary Shares,NASDAQ Capital Market,ONEG
+ONEN,ONE Nuclear Energy Inc. - Common Stock,NASDAQ Global MarketSM,ONEN
 ONEQ,Fidelity Nasdaq Composite Index ETF,NASDAQ Global MarketSM,ONEQ
 ONEW,OneWater Marine Inc. - Class A Common Stock,NASDAQ Global MarketSM,ONEW
 ONFO,Onfolio Holdings Inc. - Common Stock,NASDAQ Capital Market,ONFO
@@ -8549,7 +8552,6 @@ TBCVU,"Thunder Bridge Capital Partners V, Ltd. - Units",NASDAQ Global MarketSM,T
 TBIL,F/m US Treasury 3 Month Bill Fund,NASDAQ Global MarketSM,TBIL
 TBLA,Taboola.com Ltd. - Ordinary Shares,NASDAQ Global Select MarketSM,TBLA
 TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,NASDAQ Global Select MarketSM,TBLD
-TBPH,"Theravance Biopharma, Inc. - Ordinary Shares",NASDAQ Global MarketSM,TBPH
 TC,Token Cat Limited - American Depositary Shares,NASDAQ Capital Market,TC
 TCAN,21Shares Canton Network ETF,NASDAQ Global MarketSM,TCAN
 TCBI,"Texas Capital Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,TCBI
@@ -8680,6 +8682,7 @@ TNYA,"Tenaya Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,TNYA
 TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",NASDAQ Capital Market,TOMZ
 TONX,TON Strategy Company - Common Stock,NASDAQ Capital Market,TONX
 TOP,TOP Financial Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,TOP
+TORK,KraneShares Actuator ETF,NASDAQ Global MarketSM,TORK
 TORO,Toro Corp. - Common stock,NASDAQ Capital Market,TORO
 TOUR,Tuniu Corporation - American Depositary Shares,NASDAQ Capital Market,TOUR
 TOWN,Towne Bank - Common Stock,NASDAQ Global Select MarketSM,TOWN
@@ -9555,7 +9558,7 @@ ASBH,"American Savings Bank, N.A. Common Stock",NYSE,ASBH
 ASC,Ardmore Shipping Corporation Common Stock,NYSE,ASC
 ASG,"Liberty All-Star Growth Fund, Inc.",NYSE,ASG
 ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,NYSE,ASGI
-ASGI.V,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",NYSE,ASGI.V
+ASGI.R,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",NYSE,ASGI.R
 ASH,Ashland Inc. Common Stock,NYSE,ASH
 ASIC,Ategrity Specialty Insurance Company Holdings Common Stock,NYSE,ASIC
 ASIX,AdvanSix Inc. Common Stock ,NYSE,ASIX
@@ -9661,6 +9664,7 @@ BBY,"Best Buy Co., Inc. Common Stock",NYSE,BBY
 BC,Brunswick Corporation Common Stock,NYSE,BC
 BC$C,Brunswick Corporation 6.375% Notes due 2049,NYSE,BC$C
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,NYSE,BCAT
+BCAT.V,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",NYSE,BCAT.V
 BCC,"Boise Cascade, L.L.C. Common Stock",NYSE,BCC
 BCE,"BCE, Inc. Common Stock",NYSE,BCE
 BCH,Banco De Chile ADS,NYSE,BCH
