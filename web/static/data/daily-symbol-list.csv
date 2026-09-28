@@ -1305,7 +1305,7 @@ TRBC,Tribeca Resources Corporation,TSXV,TRBC.V,Tribeca Resources Corporation,TRB
 ROCK,Trident Resources Corp.,TSXV,ROCK.V,Trident Resources Corp.,ROCK
 TG,Trifecta Gold Ltd.,TSXV,TG.V,Trifecta Gold Ltd.,TG
 TCK.P,Trillium Acquisition Corp.,TSXV,TCK.P.V,Trillium Acquisition Corp.,TCK.P
-TOM,Trinity One Metals Ltd.,TSXV,TOM.V,Trinity One Metals Ltd.,TOM
+TOM,Trinity Silver Corp.,TSXV,TOM.V,Trinity Silver Corp.,TOM
 TSG,TriStar Gold Inc.,TSXV,TSG.V,TriStar Gold Inc.,TSG
 TIG,Triumph Gold Corp.,TSXV,TIG.V,Triumph Gold Corp.,TIG
 TR,Troubadour Resources Inc.,TSXV,TR.V,Troubadour Resources Inc.,TR
@@ -3079,8 +3079,11 @@ NBIV,NBI International Value Fund,TSX,NBIV.TO,NBI Intl Value Fd Et,NBIV
 NALT,NBI Liquid Alternatives ETF,TSX,NALT.TO,NBI Liquid Alternatv,NALT
 NBQC,NBI Quebec Growth Fund,TSX,NBQC.TO,NBI Quebec Grwth Fd,NBQC
 NSDC,NBI SmartData Canadian Equity Fund,TSX,NSDC.TO,NBI SmrtDta Cdn Eq F,NSDC
+NSUY,NBI SmartData Enhanced Yield U.S. Equity Fund,TSX,NSUY.TO,NBI SmtD EnhYdUS EqF,NSUY
 NSDG,NBI SmartData Global Equity Fund,TSX,NSDG.TO,NBI SmartDt Gbl EqFd,NSDG
+NICC,NBI SmartData International Equity Covered Call Fund,TSX,NICC.TO,NBI SmtDt Intl EqCcF,NICC
 NSDI,NBI SmartData International Equity Fund,TSX,NSDI.TO,NBI SmtDta IntEq ETF,NSDI,NBI SmDta IntEq ETFH,NSDI.F
+NUCC,NBI SmartData U.S. Equity Covered Call Fund,TSX,NUCC.TO,NBI SmtData US EqCC,NUCC
 NSDU,NBI SmartData U.S. Equity Fund,TSX,NSDU.TO,NBI SmaData USEq ETF,NSDU,NBI SmData USEq ETFH,NSDU.F
 NSCB,NBI Sustainable Canadian Bond ETF,TSX,NSCB.TO,NBI SustainCdnBnd Un,NSCB
 NSCC,NBI Sustainable Canadian Corporate Bond ETF,TSX,NSCC.TO,NBI SustainCA CrpBnd,NSCC
@@ -3093,9 +3096,11 @@ NTGC,NBI Target 2028 Investment Grade Bond Fund,TSX,NTGC.TO,NBI Ta2028 InGrBd Fd
 NTGD,NBI Target 2029 Investment Grade Bond Fund,TSX,NTGD.TO,NBI T2029 Igb Fd ETF,NTGD
 NTGE,NBI Target 2030 Investment Grade Bond Fund,TSX,NTGE.TO,NBI Trgt 2030 Inv Fd,NTGE
 NTGF,NBI Target 2031 Investment Grade Bond Fund,TSX,NTGF.TO,NBI Trgt 2031 Inv GB,NTGF
+NTGG,NBI Target 2032 Investment Grade Bond Fund,TSX,NTGG.TO,NBI Tgt 2032 Inv GBF,NTGG
 NTHM,NBI Thematic Rotation ETF,TSX,NTHM.TO,NBI Theme Rot Ptf,NTHM
 NBUE,NBI U.S. Equity Fund,TSX,NBUE.TO,NBI US Equity Fd ETF,NBUE,NBI US Eqty Fd ETFH,NBUE.F
 NBUX,NBI U.S. Equity Index Fund,TSX,NBUX.TO,NBI US Eq Idx Fd,NBUX
+NUST,NBI Ultra Short-Term Fixed Income Fund,TSX,NUST.TO,NBI Ult ShtTm FixIcF,NUST
 NUBF,NBI Unconstrained Fixed Income ETF,TSX,NUBF.TO,NBI Unconstr FxdIncm,NUBF
 NEO,Neo Performance Materials Inc.,TSX,NEO.TO,Neo Perform Material,NEO
 NSTL,Nestlé CDR (CAD Hedged),TSX,NSTL.TO,Nestle CDR CAD Hedg,NSTL
@@ -5514,6 +5519,8 @@ FFIV,"F5, Inc. - Common Stock",NASDAQ Global Select MarketSM,FFIV
 FFUT,Fidelity Managed Futures ETF,NASDAQ Global MarketSM,FFUT
 FGBI,"First Guaranty Bancshares, Inc. - Common Stock",NASDAQ Global MarketSM,FGBI
 FGBIP,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",NASDAQ Global MarketSM,FGBIP
+FGC,FG Communities Holdings Inc. - Common Stock,NASDAQ Global MarketSM,FGC
+FGCPP,FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock,NASDAQ Global MarketSM,FGCPP
 FGI,FGI Industries Ltd. - Ordinary Shares,NASDAQ Capital Market,FGI
 FGII,FG Imperii Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,FGII
 FGIIU,FG Imperii Acquisition Corp. - Units,NASDAQ Global MarketSM,FGIIU
@@ -5521,8 +5528,6 @@ FGIIW,FG Imperii Acquisition Corp. - Warrants,NASDAQ Global MarketSM,FGIIW
 FGIWW,FGI Industries Ltd. - warrant,NASDAQ Capital Market,FGIWW
 FGL,Founder Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,FGL
 FGM,First Trust Germany AlphaDEX Fund,NASDAQ Global MarketSM,FGM
-FGNX,FG Nexus Inc. - Common Stock,NASDAQ Global MarketSM,FGNX
-FGNXP,FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock,NASDAQ Global MarketSM,FGNXP
 FGSI,FT Vest Growth Strength & Target Income ETF,NASDAQ Global MarketSM,FGSI
 FHB,"First Hawaiian, Inc. - Common Stock",NASDAQ Global Select MarketSM,FHB
 FHTX,Foghorn Therapeutics Inc. - Common Stock,NASDAQ Global MarketSM,FHTX
@@ -5859,6 +5864,7 @@ GOSS,"Gossamer Bio, Inc. - Common Stock",NASDAQ Global Select MarketSM,GOSS
 GOU,GraniteShares 2x Long GOOGL Daily ETF,NASDAQ Global MarketSM,GOU
 GOVI,Invesco Equal Weight 0-30 Year Treasury ETF,NASDAQ Global MarketSM,GOVI
 GOVX,"GeoVax Labs, Inc. - Common Stock",NASDAQ Capital Market,GOVX
+GOW,GOWell Energy Technology - Ordinary shares,NASDAQ Global MarketSM,GOW
 GP,GreenPower Motor Company Inc. - Common Shares,NASDAQ Capital Market,GP
 GPAC,General Purpose Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,GPAC
 GPACU,General Purpose Acquisition Corp. - Units,NASDAQ Global MarketSM,GPACU
@@ -6307,9 +6313,6 @@ IOVA,"Iovance Biotherapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,IOVA
 IOYY,GraniteShares YieldBOOST IONQ ETF,NASDAQ Global MarketSM,IOYY
 IPAR,"Interparfums, Inc. - Common Stock",NASDAQ Global Select MarketSM,IPAR
 IPDN,"Professional Diversity Network, Inc. - Common Stock",NASDAQ Capital Market,IPDN
-IPEX,Inflection Point Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,IPEX
-IPEXR,Inflection Point Acquisition Corp. - Right,NASDAQ Global MarketSM,IPEXR
-IPEXU,Inflection Point Acquisition Corp. - Unit,NASDAQ Global MarketSM,IPEXU
 IPFX,Inflection Point Acquisition Corp. VI - Class A Ordinary Shares,NASDAQ Global MarketSM,IPFX
 IPFXU,Inflection Point Acquisition Corp. VI - Units,NASDAQ Global MarketSM,IPFXU
 IPFXW,Inflection Point Acquisition Corp. VI - Warrant,NASDAQ Global MarketSM,IPFXW
@@ -7549,7 +7552,6 @@ PDLB,"Ponce Financial Group, Inc. - Common Stock",NASDAQ Global MarketSM,PDLB
 PDP,Invesco Dorsey Wright Momentum ETF,NASDAQ Global MarketSM,PDP
 PDSB,PDS Biotechnology Corporation - Common Stock,NASDAQ Capital Market,PDSB
 PDYN,Palladyne AI Corp. - Common stock,NASDAQ Global MarketSM,PDYN
-PDYNW,Palladyne AI Corp. - Warrant,NASDAQ Global MarketSM,PDYNW
 PEBK,"Peoples Bancorp of North Carolina, Inc. - Common Stock",NASDAQ Global MarketSM,PEBK
 PEBO,Peoples Bancorp Inc. - Common Stock,NASDAQ Global Select MarketSM,PEBO
 PECE,Peace Acquisition Corp - Ordinary Shares,NASDAQ Capital Market,PECE
@@ -8618,6 +8620,7 @@ THFF,First Financial Corporation  - Common Stock,NASDAQ Global Select MarketSM,T
 THH,TryHard Holdings Limited - Ordinary Shares,NASDAQ Capital Market,THH
 THMZ,Lazard Equity Megatrends ETF,NASDAQ Global MarketSM,THMZ
 THRM,Gentherm Inc - Common Stock,NASDAQ Global Select MarketSM,THRM
+THRMV,Gentherm Inc - Gentherm Inc Common Stock When-Issued,NASDAQ Global Select MarketSM,THRMV
 THRV,Prospera Income ETF,NASDAQ Global MarketSM,THRV
 THRY,"Thryv Holdings, Inc. - Common Stock",NASDAQ Capital Market,THRY
 THYM,T. Rowe Price High Income Municipal ETF,NASDAQ Global MarketSM,THYM
@@ -11880,9 +11883,6 @@ SBR,Sabine Royalty Trust Common Stock,NYSE,SBR
 SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares),NYSE,SBS
 SBSI,"Southside Bancshares, Inc. Common Stock",NYSE,SBSI
 SBSW,D/B/A Sibanye-Stillwater Limited ADS,NYSE,SBSW
-SBXD,SilverBox Corp IV Class A Ordinary Shares,NYSE,SBXD
-SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,SBXD.U
-SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",NYSE,SBXD.W
 SBXE,SilverBox Corp V Class A Ordinary Shares,NYSE,SBXE
 SBXE.U,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",NYSE,SBXE.U
 SBXE.W,"SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",NYSE,SBXE.W
@@ -12229,9 +12229,6 @@ TVE,Tennessee Valley Authority,NYSE,TVE
 TWI,"Titan International, Inc. (DE) Common Stock",NYSE,TWI
 TWLO,Twilio Inc. Class A Common Stock,NYSE,TWLO
 TWN,"Taiwan Fund, Inc. (The) Common Stock",NYSE,TWN
-TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),NYSE,TWO$A
-TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,TWO$B
-TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,TWO$C
 TWOD,Two Harbors Investments Corp 9.375% Senior Notes due 2030,NYSE,TWOD
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",NYSE,TX
 TXNM,"TXNM Energy, Inc. Common Stock",NYSE,TXNM
