@@ -1,5 +1,5 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "data": [
   {
    "symbol": "ONE",
@@ -37802,6 +37802,30 @@
    ]
   },
   {
+   "symbol": "MEQP",
+   "name": "Manulife All-Equity ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "MEQP.TO",
+   "instruments": [
+    {
+     "name": "Manulife A Eq ETF P",
+     "symbol": "MEQP"
+    }
+   ]
+  },
+  {
+   "symbol": "MBND",
+   "name": "Manulife All-Fixed Income ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "MBND.TO",
+   "instruments": [
+    {
+     "name": "Manulife AF Inc ETF",
+     "symbol": "MBND"
+    }
+   ]
+  },
+  {
    "symbol": "MBAP",
    "name": "Manulife Balanced ETF Portfolio",
    "exchange": "TSX",
@@ -37846,6 +37870,18 @@
     {
      "name": "Manulife Cor Pl Bd F",
      "symbol": "MCOR"
+    }
+   ]
+  },
+  {
+   "symbol": "CORB",
+   "name": "Manulife Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CORB.TO",
+   "instruments": [
+    {
+     "name": "Manulife Corp Bond F",
+     "symbol": "CORB"
     }
    ]
   },
@@ -38118,6 +38154,18 @@
     {
      "name": "Manulife Intl Div UH",
      "symbol": "IDIV.B"
+    }
+   ]
+  },
+  {
+   "symbol": "IDUV.U",
+   "name": "Manulife Smart International Dividend ETF - USD",
+   "exchange": "TSX",
+   "yahoo_symbol": "IDUV.U.TO",
+   "instruments": [
+    {
+     "name": "Manulife Sm Int D U",
+     "symbol": "IDUV.U"
     }
    ]
   },
@@ -38690,6 +38738,18 @@
    ]
   },
   {
+   "symbol": "MAGF",
+   "name": "Middlefield Alternative Global Fixed Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAGF.TO",
+   "instruments": [
+    {
+     "name": "Midfld Alt Glb FI F",
+     "symbol": "MAGF"
+    }
+   ]
+  },
+  {
    "symbol": "MDIV",
    "name": "Middlefield Global Dividend Growers ETF",
    "exchange": "TSX",
@@ -38710,6 +38770,18 @@
     {
      "name": "Midfldf GlbInfrasDiv",
      "symbol": "MINF"
+    }
+   ]
+  },
+  {
+   "symbol": "MGFI",
+   "name": "Middlefield Global Multi-Sector Fixed Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MGFI.TO",
+   "instruments": [
+    {
+     "name": "Midfld Gbl MS Fi F",
+     "symbol": "MGFI"
     }
    ]
   },
@@ -62520,6 +62592,12 @@
    "yahoo_symbol": "ICMB"
   },
   {
+   "symbol": "ICMO",
+   "name": "Symmetry Panoramic International Country Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ICMO"
+  },
+  {
    "symbol": "ICON",
    "name": "Icon Energy Corp. - Common stock",
    "exchange": "NASDAQ Capital Market",
@@ -67492,6 +67570,12 @@
    "name": "Direxion Daily MU Bull 2X ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MUU"
+  },
+  {
+   "symbol": "MUY",
+   "name": "YieldMax MU Option Income Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUY"
   },
   {
    "symbol": "MUYY",
@@ -73422,12 +73506,6 @@
    "yahoo_symbol": "RILYL"
   },
   {
-   "symbol": "RILYN",
-   "name": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RILYN"
-  },
-  {
    "symbol": "RILYP",
    "name": "BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -74056,6 +74134,12 @@
    "name": "Rhythm Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RYTM"
+  },
+  {
+   "symbol": "RZAI",
+   "name": "Roze AI Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RZAI"
   },
   {
    "symbol": "RZLT",
@@ -77575,7 +77659,7 @@
   },
   {
    "symbol": "TORO",
-   "name": "Toro Corp. - Common stock",
+   "name": "Toro Corp. - Common Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "TORO"
   },
@@ -88698,12 +88782,6 @@
    "yahoo_symbol": "GBR"
   },
   {
-   "symbol": "GBTG",
-   "name": "Global Business Travel Group, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GBTG"
-  },
-  {
    "symbol": "GBX",
    "name": "Greenbrier Companies, Inc. (The) Common Stock",
    "exchange": "NYSE",
@@ -90502,12 +90580,6 @@
    "name": "IonQ, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "IONQ"
-  },
-  {
-   "symbol": "IONQ.W",
-   "name": "IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IONQ.W"
   },
   {
    "symbol": "IOR",
