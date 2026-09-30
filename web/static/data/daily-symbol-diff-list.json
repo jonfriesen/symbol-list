@@ -1,114 +1,54 @@
 {
  "added": [
   {
-   "symbol": "MEQP",
-   "name": "Manulife All-Equity ETF Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "MEQP.TO",
-   "instruments": [
-    {
-     "name": "Manulife A Eq ETF P",
-     "symbol": "MEQP"
-    }
-   ]
+   "symbol": "ACCV",
+   "name": "Accelevation Holdings Corp. - Class A ordinary shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACCV"
   },
   {
-   "symbol": "MBND",
-   "name": "Manulife All-Fixed Income ETF Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "MBND.TO",
-   "instruments": [
-    {
-     "name": "Manulife AF Inc ETF",
-     "symbol": "MBND"
-    }
-   ]
-  },
-  {
-   "symbol": "CORB",
-   "name": "Manulife Corporate Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "CORB.TO",
-   "instruments": [
-    {
-     "name": "Manulife Corp Bond F",
-     "symbol": "CORB"
-    }
-   ]
-  },
-  {
-   "symbol": "IDUV.U",
-   "name": "Manulife Smart International Dividend ETF - USD",
-   "exchange": "TSX",
-   "yahoo_symbol": "IDUV.U.TO",
-   "instruments": [
-    {
-     "name": "Manulife Sm Int D U",
-     "symbol": "IDUV.U"
-    }
-   ]
-  },
-  {
-   "symbol": "MAGF",
-   "name": "Middlefield Alternative Global Fixed Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "MAGF.TO",
-   "instruments": [
-    {
-     "name": "Midfld Alt Glb FI F",
-     "symbol": "MAGF"
-    }
-   ]
-  },
-  {
-   "symbol": "MGFI",
-   "name": "Middlefield Global Multi-Sector Fixed Income Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "MGFI.TO",
-   "instruments": [
-    {
-     "name": "Midfld Gbl MS Fi F",
-     "symbol": "MGFI"
-    }
-   ]
-  },
-  {
-   "symbol": "ICMO",
-   "name": "Symmetry Panoramic International Country Momentum ETF",
+   "symbol": "ENHE",
+   "name": "iShares Enhanced Emerging Markets Active ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ICMO"
+   "yahoo_symbol": "ENHE"
   },
   {
-   "symbol": "MUY",
-   "name": "YieldMax MU Option Income Strategy ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MUY"
-  },
-  {
-   "symbol": "RZAI",
-   "name": "Roze AI Inc. - Common Shares",
+   "symbol": "FFR",
+   "name": "FF EAI Robotics Ecosystem Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RZAI"
+   "yahoo_symbol": "FFR"
+  },
+  {
+   "symbol": "IVAI",
+   "name": "Ives Ultra AI Opportunities Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IVAI"
   }
  ],
  "removed": [
   {
-   "symbol": "GBTG",
-   "name": "Global Business Travel Group, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GBTG"
+   "symbol": "AIXC",
+   "name": "AIxCrypto Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIXC"
   },
   {
-   "symbol": "IONQ.W",
-   "name": "IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",
+   "symbol": "GETY",
+   "name": "Getty Images Holdings, Inc. Class A Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "IONQ.W"
+   "yahoo_symbol": "GETY"
   },
   {
-   "symbol": "RILYN",
-   "name": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RILYN"
+   "symbol": "DBRG",
+   "name": "DigitalBridge Group, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DBRG"
+  },
+  {
+   "symbol": "AMZE",
+   "name": "Amaze Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AMZE"
   }
  ]
 }
