@@ -127,7 +127,6 @@ AURA,Auranova Resources Inc.,TSXV,AURA.V,Auranova Resources Inc.,AURA
 RES,Auric Resources Corp.,TSXV,RES.V,Auric Resources Corp.,RES
 AUME,Auriginal Mining Corp.,TSXV,AUME.V,Auriginal Mining Corp.,AUME
 AURO,Auro Metals Inc.,TSXV,AURO.V,Auro Metals Inc.,AURO
-ACU,Aurora Solar Technologies Inc.,TSXV,ACU.V,Aurora Solar Technologies Inc.,ACU
 ASG,Aurora Spine Corporation,TSXV,ASG.V,Aurora Spine Corporation,ASG
 ARL,Aurum Lake Mining Corporation,TSXV,ARL.V,Aurum Lake Mining Corporation.,ARL
 ASTN.P,Auston Capital Corp.,TSXV,ASTN.P.V,Auston Capital Corp.,ASTN.P
@@ -293,7 +292,6 @@ CHII.P,Chicane Capital II Corp.,TSXV,CHII.P.V,Chicane Capital II Corp.,CHII.P
 CMCG,Chilean Metals Inc.,TSXV,CMCG.V,Chilean Metals Inc.,CMCG
 RTO.P,Chrysalis 12 Inc.,TSXV,RTO.P.V,Chrysalis 12 Inc.,RTO.P
 CRI,Churchill Resources Inc.,TSXV,CRI.V,Churchill Resources Inc.,CRI
-CMC,Cielo Waste Solutions Corp.,TSXV,CMC.V,Cielo Waste Solutions Corp.,CMC,Cielo Waste Solutions Corp. wt 08jul2027,CMC.WT
 CAC.P,Cinaport Acquisition Corp. III,TSXV,CAC.P.V,Cinaport Acquisition Corp. III,CAC.P
 AIR,Clean Air Metals Inc.,TSXV,AIR.V,Clean Air Metals Inc.,AIR
 TRAN,Clean Energy Transition Inc.,TSXV,TRAN.V,Clean Energy Transition Inc.,TRAN
@@ -385,7 +383,7 @@ DPF,Dr. Phone Fix Canada Corporation,TSXV,DPF.V,Dr. Phone Fix Canada Corporation
 DRAX.P,Draxos Capital Corp.,TSXV,DRAX.P.V,Draxos Capital Corp.,DRAX.P
 DRY,Dryden Gold Corp.,TSXV,DRY.V,Dryden Gold Corp.,DRY
 DYG,Dynasty Gold Corp.,TSXV,DYG.V,Dynasty Gold Corp.,DYG
-ETL,E3 Lithium Ltd.,TSXV,ETL.V,E3 Lithium Ltd.,ETL,E3 Lithium Ltd  Wt 14Oct2028,ETL.WT
+ETL,E3 Lithium Ltd.,TSXV,ETL.V,E3 Lithium Ltd.,ETL,E3 Lithium Ltd  Wt 14Oct2028,ETL.WT,E3 Lithium Ltd  Wt 24Sep2029,ETL.WT.A
 EPL,Eagle Plains Resources Ltd.,TSXV,EPL.V,Eagle Plains Resources Ltd.,EPL
 SPOT,EarthLabs Inc,TSXV,SPOT.V,EarthLabs Inc.,SPOT
 EWK,Earthworks Industries Inc.,TSXV,EWK.V,Earthworks Industries Inc.,EWK
@@ -434,6 +432,7 @@ ERDA,Erda Resource Opportunities Inc.,TSXV,ERDA.V,Erda Resource Opportunities In
 EM,Errington Metals Corp.,TSXV,EM.V,Errington Metals Corp.,EM
 ESBL,Eshbal Functional Food Inc.,TSXV,ESBL.V,Eshbal Functional Food Inc.,ESBL
 ESK,Eskay Mining Corp.,TSXV,ESK.V,Eskay Mining Corp,ESK
+ESKR,Esker Infrastructure Corp.,TSXV,ESKR.V,Esker Infrastructure Corp.,ESKR,Esker Infrastructure Corp wts 08jul2027,ESKR.WT
 ESXR,Essex Resources Corp.,TSXV,ESXR.V,Essex Resources Corp.,ESXR
 EBCD.P,Eureka Capital Corp.,TSXV,EBCD.P.V,Eureka Capital Corp.,EBCD.P
 EMN,Euro Manganese Inc.,TSXV,EMN.V,Euro Manganese Inc.,EMN
@@ -1372,6 +1371,7 @@ WRR,Walker River Resources Corp.,TSXV,WRR.V,Walker River Resources Corp.,WRR
 WWT,Water Ways Technologies Inc.,TSXV,WWT.V,Water Ways Technologies Inc.,WWT
 WAVE,Waverley Pharma Inc.,TSXV,WAVE.V,Waverley Pharma Inc.,WAVE
 WML,Wealth Minerals Ltd.,TSXV,WML.V,Wealth Minerals Ltd,WML
+WSTR,WELLSTAR Technologies Corp.,TSXV,WSTR.V,WELLSTAR Technologies Corp.,WSTR
 WCE,Wescan Energy Corp.,TSXV,WCE.V,Wescan Energy Corp.,WCE
 WGF,Wescan Goldfields Inc.,TSXV,WGF.V,Wescan Goldfields Inc.,WGF
 WHY,West High Yield (W.H.Y.) Resources Ltd.,TSXV,WHY.V,West High Yield (W.H.Y.) Resources Ltd,WHY
@@ -1810,7 +1810,7 @@ CWL,Caldwell Partners International Inc. (The),TSX,CWL.TO,Caldwell Partners,CWL
 CFW,Calfrac Well Services Ltd.,TSX,CFW.TO,Calfrac Well Serv,CFW
 CGY,Calian Group Ltd.,TSX,CGY.TO,Calian Group Ltd.,CGY
 CCO,Cameco Corporation,TSX,CCO.TO,Cameco Corporation,CCO
-CF,Canaccord Genuity Group Inc.,TSX,CF.TO,Canaccord Genuity,CF,Canaccord Gen A Pr,CF.PR.A,Canaccord Gen C Pr,CF.PR.C
+CF,Canaccord Genuity Group Inc.,TSX,CF.TO,Canaccord Genuity,CF,Canaccord Gen C Pr,CF.PR.C
 GOOS,Canada Goose Holdings Inc.,TSX,GOOS.TO,Cda Goose Hldgs SV,GOOS
 CPKR,Canada Packers Inc.,TSX,CPKR.TO,Canada Packers Inc,CPKR
 CAR.UN,Canadian Apartment Properties Real Estate Investment Trust,TSX,CAR.UN.TO,Cdn Apartment Tr Un,CAR.UN
@@ -2938,13 +2938,13 @@ QDX,Mackenzie International Equity Index ETF,TSX,QDX.TO,Mackenzie IntlEq Idx,QDX
 QDXH,Mackenzie International Equity Index ETF (CAD-Hedged),TSX,QDXH.TO,Mackenzie IntlEq C-H,QDXH
 MIVG,Mackenzie Ivy Global Equity ETF,TSX,MIVG.TO,Mackenzie IvyGlbEq E,MIVG
 MKZ.UN,Mackenzie Master Limited Partnership,TSX,MKZ.UN.TO,MacKenzie Master Un,MKZ.UN
-MMDC,Mackenzie Modus Canadian High Dividend Yield ETF,TSX,MMDC.TO,Mackenzi C H Div Y E,MMDC
-MMCY,Mackenzie Modus Cyclical Tilt ETF,TSX,MMCY.TO,Mackenzie Cyc Tlt E,MMCY
-MMDF,Mackenzie Modus Defensive Tilt ETF,TSX,MMDF.TO,Mackenzie Def Tlt E,MMDF
+MMDC,Mackenzie Modus Canadian High Dividend Yield ETF,TSX,MMDC.TO,Mackenzi M C HDivY E,MMDC
+MMCY,Mackenzie Modus Cyclical Tilt ETF,TSX,MMCY.TO,Mackenzie MCyc Tlt E,MMCY
+MMDF,Mackenzie Modus Defensive Tilt ETF,TSX,MMDF.TO,Mackenzie MDef Tlt E,MMDF
 MMGL,Mackenzie Modus Global Equity ETF,TSX,MMGL.TO,Mackenzie Mod Gl Eq,MMGL
 MMSD,Mackenzie Modus Global Small-Mid Cap Equity ETF,TSX,MMSD.TO,Mackenzie Md Gl SM C,MMSD
 MMEA,Mackenzie Modus International Equity ETF,TSX,MMEA.TO,Mackenzie Mod Int Eq,MMEA
-MMDU,Mackenzie Modus US High Dividend Yield ETF,TSX,MMDU.TO,Mackenzie US H D Y E,MMDU
+MMDU,Mackenzie Modus US High Dividend Yield ETF,TSX,MMDU.TO,Mackenzie MUS HD Y E,MMDU
 QQQQ,Mackenzie NASDAQ 100 Index ETF,TSX,QQQQ.TO,Mackenzie NASDAQ 100,QQQQ
 MTBA,Mackenzie Target 2027 North American IG Corporate Bond ETF,TSX,MTBA.TO,Macknzie Tg2027 NAIG,MTBA
 MTBB,Mackenzie Target 2029 North American IG Corporate Bond ETF,TSX,MTBB.TO,Macknzie Tg2029 NAIG,MTBB
@@ -4629,6 +4629,7 @@ DVA,DaVita Inc. Common Stock,NYSE,DVA
 DVN,Devon Energy Corporation Common Stock,NYSE,DVN
 DX,"Dynex Capital, Inc. Common Stock",NYSE,DX
 DX$C,"Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NYSE,DX$C
+DX$D,"Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",NYSE,DX$D
 DXC,DXC Technology Company Common Stock ,NYSE,DXC
 DXF,"Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",NYSE MKT,DXF
 DXYZ,Destiny Tech100 Inc. Common Stock,NYSE,DXYZ
@@ -5774,6 +5775,8 @@ NRXS,"Neuraxis, Inc. Common Stock",NYSE MKT,NRXS
 NSC,Norfolk Southern Corporation Common Stock,NYSE,NSC
 NSP,"Insperity, Inc. Common Stock",NYSE,NSP
 NSRX,Nasus Pharma Ltd. Ordinary Shares,NYSE MKT,NSRX
+NSTR,"NorthStar Earth & Space Enterprises, Inc. Common Shares",NYSE MKT,NSTR
+NSTR.W,"NorthStar Earth & Space Enterprises, Inc. Warrants",NYSE MKT,NSTR.W
 NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,NYSE,NTB
 NTEST,NYSE Tick Pilot Test Sym-Control,NYSE,NTEST
 NTEST.A,NYSE Tick Pilot Test Sym-G1,NYSE,NTEST.A
@@ -6693,9 +6696,6 @@ UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",NYSE,UZE
 UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",NYSE,UZF
 V,Visa Inc.,NYSE,V
 VAC,Marriott Vacations Worldwide Corporation Common Stock,NYSE,VAC
-VACI,Viking Acquisition Corp. I Class A Ordinary Shares,NYSE,VACI
-VACI.U,"Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",NYSE,VACI.U
-VACI.W,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,NYSE,VACI.W
 VAL,Valaris Limited Common Shares,NYSE,VAL
 VAL.W,Valaris Limited Warrants,NYSE,VAL.W
 VALE,VALE S.A.  American Depositary Shares Each Representing one common share,NYSE,VALE
@@ -8101,9 +8101,6 @@ COHU,"Cohu, Inc. - Common Stock",NASDAQ Global Select MarketSM,COHU
 COIG,Leverage Shares 2X Long COIN Daily ETF,NASDAQ Global MarketSM,COIG
 COIN,"Coinbase Global, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,COIN
 COKE,"Coca-Cola Consolidated, Inc. - Common Stock",NASDAQ Global Select MarketSM,COKE
-COLA,Columbus Acquisition Corp - Ordinary Shares,NASDAQ Global MarketSM,COLA
-COLAR,Columbus Acquisition Corp - Rights,NASDAQ Global MarketSM,COLAR
-COLAU,Columbus Acquisition Corp - Unit,NASDAQ Global MarketSM,COLAU
 COLB,"Columbia Banking System, Inc. - Common Stock",NASDAQ Global Select MarketSM,COLB
 COLL,"Collegium Pharmaceutical, Inc. - Common Stock",NASDAQ Global Select MarketSM,COLL
 COLM,Columbia Sportswear Company - Common Stock,NASDAQ Global Select MarketSM,COLM
@@ -8853,7 +8850,6 @@ FRWD,Nomura Transformational Technologies ETF,NASDAQ Global MarketSM,FRWD
 FSBC,Five Star Bancorp - Common Stock,NASDAQ Global Select MarketSM,FSBC
 FSBW,"FS Bancorp, Inc. - Common Stock",NASDAQ Capital Market,FSBW
 FSCS,First Trust SMID Capital Strength ETF,NASDAQ Global MarketSM,FSCS
-FSEA,"First Seacoast Bancorp, Inc. - Common Stock",NASDAQ Capital Market,FSEA
 FSGS,First Trust SMID Growth Strength ETF,NASDAQ Global MarketSM,FSGS
 FSHP,Flag Ship Acquisition Corp. - Ordinary Shares,NASDAQ Capital Market,FSHP
 FSHPR,Flag Ship Acquisition Corp. - Right,NASDAQ Capital Market,FSHPR
@@ -8991,7 +8987,6 @@ GEVG,Leverage Shares 2X Long GEV Daily ETF,NASDAQ Global MarketSM,GEVG
 GEVO,"Gevo, Inc. - Common Stock",NASDAQ Capital Market,GEVO
 GEW,Cambria Global EW ETF,NASDAQ Global MarketSM,GEW
 GFAI,"Guardforce AI Co., Limited - Ordinary Shares",NASDAQ Capital Market,GFAI
-GFAIW,"Guardforce AI Co., Limited - Warrant",NASDAQ Capital Market,GFAIW
 GFGF,Guru Favorite Stocks ETF,NASDAQ Global MarketSM,GFGF
 GFLW,VictoryShares Free Cash Flow Growth ETF,NASDAQ Global MarketSM,GFLW
 GFS,GlobalFoundries Inc. - Ordinary Share,NASDAQ Global Select MarketSM,GFS
@@ -10430,7 +10425,6 @@ NSLR,Neostellar Capital Corp. - Closed End Fund,NASDAQ Global Select MarketSM,NS
 NSLRL,Neostellar Capital Corp. - 6.00% Notes due 2026,NASDAQ Global MarketSM,NSLRL
 NSPR,InspireMD Inc. - Common Stock,NASDAQ Capital Market,NSPR
 NSSC,"NAPCO Security Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,NSSC
-NSTS,"NSTS Bancorp, Inc. - Common Stock",NASDAQ Capital Market,NSTS
 NSYS,Nortech Systems Incorporated - Common Stock,NASDAQ Capital Market,NSYS
 NTAL,GraniteShares 2x Long NTAP Daily ETF,NASDAQ Global MarketSM,NTAL
 NTAP,"NetApp, Inc. - Common Stock",NASDAQ Global Select MarketSM,NTAP
@@ -10986,7 +10980,7 @@ PUL,GraniteShares 2x Long P Daily ETF,NASDAQ Global MarketSM,PUL
 PULM,"Pulmatrix, Inc. - Common Stock",NASDAQ Capital Market,PULM
 PUR,Defiance Daily Target 2X Long PURR ETF,NASDAQ Global MarketSM,PUR
 PURR,Hyperliquid Strategies Inc - Common Stock,NASDAQ Capital Market,PURR
-PUSA,Aureus Greenway Holdings Inc. - Common Stock,NASDAQ Capital Market,PUSA
+PUSA,Powerus Corporation - Common Stock,NASDAQ Capital Market,PUSA
 PVLA,"Palvella Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,PVLA
 PWCM,"PowerCompute, Inc. - Common Stock",NASDAQ Capital Market,PWCM
 PWP,Perella Weinberg Partners - Class A Common Stock,NASDAQ Global Select MarketSM,PWP
@@ -11335,6 +11329,7 @@ SAIC,Science Applications International Corporation - Common Stock,NASDAQ Global
 SAIH,SAIHEAT Limited - Class A Ordinary Shares,NASDAQ Capital Market,SAIH
 SAIHW,SAIHEAT Limited - Warrant,NASDAQ Capital Market,SAIHW
 SAIL,"SailPoint, Inc. - Common Stock",NASDAQ Global Select MarketSM,SAIL
+SAIQ,WISeSat.Space Holdings Corp. - Ordinary Shares,NASDAQ Capital Market,SAIQ
 SAMG,Silvercrest Asset Management Group Inc. - Common Stock,NASDAQ Global MarketSM,SAMG
 SANA,"Sana Biotechnology, Inc. - Common Stock",NASDAQ Global Select MarketSM,SANA
 SANG,Sangoma Technologies Corporation - Common Shares,NASDAQ Global Select MarketSM,SANG
@@ -11836,7 +11831,6 @@ THFF,First Financial Corporation  - Common Stock,NASDAQ Global Select MarketSM,T
 THH,TryHard Holdings Limited - Ordinary Shares,NASDAQ Capital Market,THH
 THMZ,Lazard Equity Megatrends ETF,NASDAQ Global MarketSM,THMZ
 THRM,Gentherm Inc - Common Stock,NASDAQ Global Select MarketSM,THRM
-THRMV,Gentherm Inc - Gentherm Inc Common Stock When-Issued,NASDAQ Global Select MarketSM,THRMV
 THRV,Prospera Income ETF,NASDAQ Global MarketSM,THRV
 THRY,"Thryv Holdings, Inc. - Common Stock",NASDAQ Capital Market,THRY
 THYM,T. Rowe Price High Income Municipal ETF,NASDAQ Global MarketSM,THYM

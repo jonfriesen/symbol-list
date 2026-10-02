@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "data": [
   {
    "symbol": "ONE",
@@ -1546,18 +1546,6 @@
     {
      "name": "Auro Metals Inc.",
      "symbol": "AURO"
-    }
-   ]
-  },
-  {
-   "symbol": "ACU",
-   "name": "Aurora Solar Technologies Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ACU.V",
-   "instruments": [
-    {
-     "name": "Aurora Solar Technologies Inc.",
-     "symbol": "ACU"
     }
    ]
   },
@@ -3546,22 +3534,6 @@
    ]
   },
   {
-   "symbol": "CMC",
-   "name": "Cielo Waste Solutions Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CMC.V",
-   "instruments": [
-    {
-     "name": "Cielo Waste Solutions Corp.",
-     "symbol": "CMC"
-    },
-    {
-     "name": "Cielo Waste Solutions Corp. wt 08jul2027",
-     "symbol": "CMC.WT"
-    }
-   ]
-  },
-  {
    "symbol": "CAC.P",
    "name": "Cinaport Acquisition Corp. III",
    "exchange": "TSXV",
@@ -4678,6 +4650,10 @@
     {
      "name": "E3 Lithium Ltd  Wt 14Oct2028",
      "symbol": "ETL.WT"
+    },
+    {
+     "name": "E3 Lithium Ltd  Wt 24Sep2029",
+     "symbol": "ETL.WT.A"
     }
    ]
   },
@@ -5254,6 +5230,22 @@
     {
      "name": "Eskay Mining Corp",
      "symbol": "ESK"
+    }
+   ]
+  },
+  {
+   "symbol": "ESKR",
+   "name": "Esker Infrastructure Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESKR.V",
+   "instruments": [
+    {
+     "name": "Esker Infrastructure Corp.",
+     "symbol": "ESKR"
+    },
+    {
+     "name": "Esker Infrastructure Corp wts 08jul2027",
+     "symbol": "ESKR.WT"
     }
    ]
   },
@@ -16650,6 +16642,18 @@
    ]
   },
   {
+   "symbol": "WSTR",
+   "name": "WELLSTAR Technologies Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WSTR.V",
+   "instruments": [
+    {
+     "name": "WELLSTAR Technologies Corp.",
+     "symbol": "WSTR"
+    }
+   ]
+  },
+  {
    "symbol": "WCE",
    "name": "Wescan Energy Corp.",
    "exchange": "TSXV",
@@ -22658,10 +22662,6 @@
     {
      "name": "Canaccord Genuity",
      "symbol": "CF"
-    },
-    {
-     "name": "Canaccord Gen A Pr",
-     "symbol": "CF.PR.A"
     },
     {
      "name": "Canaccord Gen C Pr",
@@ -37568,7 +37568,7 @@
    "yahoo_symbol": "MMDC.TO",
    "instruments": [
     {
-     "name": "Mackenzi C H Div Y E",
+     "name": "Mackenzi M C HDivY E",
      "symbol": "MMDC"
     }
    ]
@@ -37580,7 +37580,7 @@
    "yahoo_symbol": "MMCY.TO",
    "instruments": [
     {
-     "name": "Mackenzie Cyc Tlt E",
+     "name": "Mackenzie MCyc Tlt E",
      "symbol": "MMCY"
     }
    ]
@@ -37592,7 +37592,7 @@
    "yahoo_symbol": "MMDF.TO",
    "instruments": [
     {
-     "name": "Mackenzie Def Tlt E",
+     "name": "Mackenzie MDef Tlt E",
      "symbol": "MMDF"
     }
    ]
@@ -37640,7 +37640,7 @@
    "yahoo_symbol": "MMDU.TO",
    "instruments": [
     {
-     "name": "Mackenzie US H D Y E",
+     "name": "Mackenzie MUS HD Y E",
      "symbol": "MMDU"
     }
    ]
@@ -53292,6 +53292,12 @@
    "yahoo_symbol": "DX$C"
   },
   {
+   "symbol": "DX$D",
+   "name": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DX$D"
+  },
+  {
    "symbol": "DXC",
    "name": "DXC Technology Company Common Stock ",
    "exchange": "NYSE",
@@ -60162,6 +60168,18 @@
    "yahoo_symbol": "NSRX"
   },
   {
+   "symbol": "NSTR",
+   "name": "NorthStar Earth \u0026 Space Enterprises, Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTR"
+  },
+  {
+   "symbol": "NSTR.W",
+   "name": "NorthStar Earth \u0026 Space Enterprises, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTR.W"
+  },
+  {
    "symbol": "NTB",
    "name": "Bank of N.T. Butterfield \u0026 Son Limited (The) Voting Ordinary Shares",
    "exchange": "NYSE",
@@ -65674,24 +65692,6 @@
    "name": "Marriott Vacations Worldwide Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "VAC"
-  },
-  {
-   "symbol": "VACI",
-   "name": "Viking Acquisition Corp. I Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VACI"
-  },
-  {
-   "symbol": "VACI.U",
-   "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VACI.U"
-  },
-  {
-   "symbol": "VACI.W",
-   "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VACI.W"
   },
   {
    "symbol": "VAL",
@@ -74124,24 +74124,6 @@
    "yahoo_symbol": "COKE"
   },
   {
-   "symbol": "COLA",
-   "name": "Columbus Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "COLA"
-  },
-  {
-   "symbol": "COLAR",
-   "name": "Columbus Acquisition Corp - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "COLAR"
-  },
-  {
-   "symbol": "COLAU",
-   "name": "Columbus Acquisition Corp - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "COLAU"
-  },
-  {
    "symbol": "COLB",
    "name": "Columbia Banking System, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -78636,12 +78618,6 @@
    "yahoo_symbol": "FSCS"
   },
   {
-   "symbol": "FSEA",
-   "name": "First Seacoast Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FSEA"
-  },
-  {
    "symbol": "FSGS",
    "name": "First Trust SMID Growth Strength ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -79462,12 +79438,6 @@
    "name": "Guardforce AI Co., Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GFAI"
-  },
-  {
-   "symbol": "GFAIW",
-   "name": "Guardforce AI Co., Limited - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GFAIW"
   },
   {
    "symbol": "GFGF",
@@ -88098,12 +88068,6 @@
    "yahoo_symbol": "NSSC"
   },
   {
-   "symbol": "NSTS",
-   "name": "NSTS Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NSTS"
-  },
-  {
    "symbol": "NSYS",
    "name": "Nortech Systems Incorporated - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -91435,7 +91399,7 @@
   },
   {
    "symbol": "PUSA",
-   "name": "Aureus Greenway Holdings Inc. - Common Stock",
+   "name": "Powerus Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "PUSA"
   },
@@ -93526,6 +93490,12 @@
    "name": "SailPoint, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SAIL"
+  },
+  {
+   "symbol": "SAIQ",
+   "name": "WISeSat.Space Holdings Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAIQ"
   },
   {
    "symbol": "SAMG",
@@ -96532,12 +96502,6 @@
    "name": "Gentherm Inc - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "THRM"
-  },
-  {
-   "symbol": "THRMV",
-   "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "THRMV"
   },
   {
    "symbol": "THRV",

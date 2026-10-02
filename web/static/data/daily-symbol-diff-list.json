@@ -1,312 +1,146 @@
 {
  "added": [
   {
-   "symbol": "FGQE",
-   "name": "Fidelity Global Quant Equity ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FGQE.TO",
+   "symbol": "ESKR",
+   "name": "Esker Infrastructure Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESKR.V",
    "instruments": [
     {
-     "name": "FIDELITY Glbl Qnt Et",
-     "symbol": "FGQE"
+     "name": "Esker Infrastructure Corp.",
+     "symbol": "ESKR"
+    },
+    {
+     "name": "Esker Infrastructure Corp wts 08jul2027",
+     "symbol": "ESKR.WT"
     }
    ]
   },
   {
-   "symbol": "HONE",
-   "name": "Harvest All-In-One High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "HONE.TO",
+   "symbol": "WSTR",
+   "name": "WELLSTAR Technologies Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WSTR.V",
    "instruments": [
     {
-     "name": "HVST AIn1 Hi Inc Shr",
-     "symbol": "HONE"
+     "name": "WELLSTAR Technologies Corp.",
+     "symbol": "WSTR"
     }
    ]
   },
   {
-   "symbol": "ASME",
-   "name": "Harvest ASML Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ASME.TO",
-   "instruments": [
-    {
-     "name": "HVST ASML Ehn HiIc S",
-     "symbol": "ASME"
-    }
-   ]
-  },
-  {
-   "symbol": "BRKE",
-   "name": "Harvest Berkshire Hathaway Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "BRKE.TO",
-   "instruments": [
-    {
-     "name": "HVST Brkshr Htwy EHI",
-     "symbol": "BRKE"
-    }
-   ]
-  },
-  {
-   "symbol": "INTE",
-   "name": "Harvest Intel Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "INTE.TO",
-   "instruments": [
-    {
-     "name": "HVST Intel EnhHi Ic ",
-     "symbol": "INTE"
-    }
-   ]
-  },
-  {
-   "symbol": "MUHE",
-   "name": "Harvest Micron Enhanced High Income Shares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MUHE.TO",
-   "instruments": [
-    {
-     "name": "HVST Micrn EnhIc Sh ",
-     "symbol": "MUHE"
-    }
-   ]
-  },
-  {
-   "symbol": "MGEG",
-   "name": "Mackenzie Global Equity \u0026 Gold Overlay ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MGEG.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie Glb EqGldO",
-     "symbol": "MGEG"
-    }
-   ]
-  },
-  {
-   "symbol": "MMDC",
-   "name": "Mackenzie Modus Canadian High Dividend Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMDC.TO",
-   "instruments": [
-    {
-     "name": "Mackenzi C H Div Y E",
-     "symbol": "MMDC"
-    }
-   ]
-  },
-  {
-   "symbol": "MMCY",
-   "name": "Mackenzie Modus Cyclical Tilt ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMCY.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie Cyc Tlt E",
-     "symbol": "MMCY"
-    }
-   ]
-  },
-  {
-   "symbol": "MMDF",
-   "name": "Mackenzie Modus Defensive Tilt ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMDF.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie Def Tlt E",
-     "symbol": "MMDF"
-    }
-   ]
-  },
-  {
-   "symbol": "MMGL",
-   "name": "Mackenzie Modus Global Equity ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMGL.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie Mod Gl Eq",
-     "symbol": "MMGL"
-    }
-   ]
-  },
-  {
-   "symbol": "MMSD",
-   "name": "Mackenzie Modus Global Small-Mid Cap Equity ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMSD.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie Md Gl SM C",
-     "symbol": "MMSD"
-    }
-   ]
-  },
-  {
-   "symbol": "MMEA",
-   "name": "Mackenzie Modus International Equity ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMEA.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie Mod Int Eq",
-     "symbol": "MMEA"
-    }
-   ]
-  },
-  {
-   "symbol": "MMDU",
-   "name": "Mackenzie Modus US High Dividend Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MMDU.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie US H D Y E",
-     "symbol": "MMDU"
-    }
-   ]
-  },
-  {
-   "symbol": "PORT.U",
-   "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "symbol": "DX$D",
+   "name": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "PORT.U"
+   "yahoo_symbol": "DX$D"
   },
   {
-   "symbol": "UWMC.V",
-   "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "UWMC.V"
+   "symbol": "NSTR",
+   "name": "NorthStar Earth \u0026 Space Enterprises, Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTR"
   },
   {
-   "symbol": "VYLR",
-   "name": "Vylor Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "VYLR"
+   "symbol": "NSTR.W",
+   "name": "NorthStar Earth \u0026 Space Enterprises, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTR.W"
   },
   {
-   "symbol": "CHWM",
-   "name": "Chilwa Minerals Limited - American Depository Shares",
+   "symbol": "SAIQ",
+   "name": "WISeSat.Space Holdings Corp. - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CHWM"
-  },
-  {
-   "symbol": "MMEDV",
-   "name": "MiniMed Group, Inc. - Common Stock When Issued",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MMEDV"
-  },
-  {
-   "symbol": "OPNW",
-   "name": "OpenWorld, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OPNW"
-  },
-  {
-   "symbol": "PBK",
-   "name": "PowerBank Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PBK"
-  },
-  {
-   "symbol": "TDEM",
-   "name": "T. Rowe Price Dynamic Emerging Markets Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TDEM"
+   "yahoo_symbol": "SAIQ"
   }
  ],
  "removed": [
   {
-   "symbol": "MCYC",
-   "name": "Mackenzie Cyclical Tilt ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MCYC.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie Cyc Tlt E",
-     "symbol": "MCYC"
-    }
-   ]
-  },
-  {
-   "symbol": "NTRBW",
-   "name": "Nutriband Inc. - Warrant",
+   "symbol": "GFAIW",
+   "name": "Guardforce AI Co., Limited - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NTRBW"
+   "yahoo_symbol": "GFAIW"
   },
   {
-   "symbol": "MDEF",
-   "name": "Mackenzie Defensive Tilt ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MDEF.TO",
-   "instruments": [
-    {
-     "name": "Mackenzie Def Tlt E",
-     "symbol": "MDEF"
-    }
-   ]
+   "symbol": "THRMV",
+   "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "THRMV"
   },
   {
-   "symbol": "MAA$I",
-   "name": "Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock",
+   "symbol": "VACI",
+   "name": "Viking Acquisition Corp. I Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "MAA$I"
+   "yahoo_symbol": "VACI"
   },
   {
-   "symbol": "SNI.PR.A",
-   "name": "Sonor Investments Limited",
+   "symbol": "VACI.U",
+   "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VACI.U"
+  },
+  {
+   "symbol": "CMC",
+   "name": "Cielo Waste Solutions Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "SNI.PR.A.V",
+   "yahoo_symbol": "CMC.V",
    "instruments": [
     {
-     "name": "Sonor Investments Limited 9% cum red 1st prf",
-     "symbol": "SNI.PR.A"
+     "name": "Cielo Waste Solutions Corp.",
+     "symbol": "CMC"
+    },
+    {
+     "name": "Cielo Waste Solutions Corp. wt 08jul2027",
+     "symbol": "CMC.WT"
     }
    ]
   },
   {
-   "symbol": "VRME",
-   "name": "VerifyMe, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VRME"
-  },
-  {
-   "symbol": "NLY$I",
-   "name": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NLY$I"
-  },
-  {
-   "symbol": "PBK",
-   "name": "PowerBank Corporation - Common Stock",
+   "symbol": "COLA",
+   "name": "Columbus Acquisition Corp - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PBK"
+   "yahoo_symbol": "COLA"
   },
   {
-   "symbol": "MHDU",
-   "name": "Mackenzie US High Dividend Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MHDU.TO",
+   "symbol": "NSTS",
+   "name": "NSTS Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NSTS"
+  },
+  {
+   "symbol": "COLAU",
+   "name": "Columbus Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COLAU"
+  },
+  {
+   "symbol": "FSEA",
+   "name": "First Seacoast Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSEA"
+  },
+  {
+   "symbol": "COLAR",
+   "name": "Columbus Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COLAR"
+  },
+  {
+   "symbol": "ACU",
+   "name": "Aurora Solar Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACU.V",
    "instruments": [
     {
-     "name": "Mackenzie US H D Y E",
-     "symbol": "MHDU"
+     "name": "Aurora Solar Technologies Inc.",
+     "symbol": "ACU"
     }
    ]
   },
   {
-   "symbol": "MHDC",
-   "name": "Mackenzie Canadian High Dividend Yield ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "MHDC.TO",
-   "instruments": [
-    {
-     "name": "Mackenzi C H Div Y E",
-     "symbol": "MHDC"
-    }
-   ]
+   "symbol": "VACI.W",
+   "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VACI.W"
   }
  ]
 }
