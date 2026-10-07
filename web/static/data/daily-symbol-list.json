@@ -1,5 +1,5 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "data": [
   {
    "symbol": "ONE",
@@ -2942,18 +2942,6 @@
    ]
   },
   {
-   "symbol": "WPR",
-   "name": "CANPR Technology LTD.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WPR.V",
-   "instruments": [
-    {
-     "name": "CANPR Technology Ltd.",
-     "symbol": "WPR"
-    }
-   ]
-  },
-  {
    "symbol": "CSOC.A",
    "name": "Canso Select Opportunities Corporation",
    "exchange": "TSXV",
@@ -3254,18 +3242,6 @@
     {
      "name": "Catalyst One Exploration Corp.",
      "symbol": "CATX"
-    }
-   ]
-  },
-  {
-   "symbol": "CBLT",
-   "name": "CBLT Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CBLT.V",
-   "instruments": [
-    {
-     "name": "CBLT Inc.",
-     "symbol": "CBLT"
     }
    ]
   },
@@ -7386,18 +7362,6 @@
    ]
   },
   {
-   "symbol": "HSTR",
-   "name": "Heliostar Metals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "HSTR.V",
-   "instruments": [
-    {
-     "name": "Heliostar Metals Ltd.",
-     "symbol": "HSTR"
-    }
-   ]
-  },
-  {
    "symbol": "HEVI",
    "name": "Helium Evolution Incorporated",
    "exchange": "TSXV",
@@ -10355,12 +10319,12 @@
   },
   {
    "symbol": "NAIA",
-   "name": "NAIA Relief Inc.",
+   "name": "naia Relief Inc.",
    "exchange": "TSXV",
    "yahoo_symbol": "NAIA.V",
    "instruments": [
     {
-     "name": "NAIA Relief Inc.",
+     "name": "naia Relief Inc.",
      "symbol": "NAIA"
     }
    ]
@@ -11704,7 +11668,7 @@
    "yahoo_symbol": "PPM.V",
    "instruments": [
     {
-     "name": "Pacific Imperial Mines Inc.",
+     "name": "Pacific Imperial Mines Inc",
      "symbol": "PPM"
     }
    ]
@@ -22226,14 +22190,6 @@
     {
      "name": "Brookfld Corp. Pr 48",
      "symbol": "BN.PF.J"
-    },
-    {
-     "name": "Brookfld Corp Pr 51",
-     "symbol": "BN.PF.K"
-    },
-    {
-     "name": "Brookfld Corp Pr 52",
-     "symbol": "BN.PF.L"
     },
     {
      "name": "Brookfield CoA PR54",
@@ -33702,6 +33658,18 @@
     {
      "name": "Helios Fairfax SV US",
      "symbol": "HFPC.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HSTR",
+   "name": "Heliostar Metals Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSTR.TO",
+   "instruments": [
+    {
+     "name": "Heliostar Metals Ltd",
+     "symbol": "HSTR"
     }
    ]
   },
@@ -50144,12 +50112,6 @@
    "yahoo_symbol": "ARBE"
   },
   {
-   "symbol": "ARBEW",
-   "name": "Arbe Robotics Ltd. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARBEW"
-  },
-  {
    "symbol": "ARBK",
    "name": "Argo Blockchain plc - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -51224,10 +51186,16 @@
    "yahoo_symbol": "BBB"
   },
   {
-   "symbol": "BBBYW",
-   "name": "Neighborhood Intelligence, Inc.  - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BBBYW"
+   "symbol": "BBCI",
+   "name": "Bradbury Capital Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCI"
+  },
+  {
+   "symbol": "BBCIW",
+   "name": "Bradbury Capital Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BBCIW"
   },
   {
    "symbol": "BBCP",
@@ -52038,12 +52006,6 @@
    "name": "Ballard Power Systems, Inc. - Common Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BLDP"
-  },
-  {
-   "symbol": "BLFS",
-   "name": "BioLife Solutions, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLFS"
   },
   {
    "symbol": "BLIN",
@@ -62928,18 +62890,6 @@
    "name": "iShares Lithium Miners and Producers ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "ILIT"
-  },
-  {
-   "symbol": "ILLR",
-   "name": "Triller Group Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ILLR"
-  },
-  {
-   "symbol": "ILLRW",
-   "name": "Triller Group Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ILLRW"
   },
   {
    "symbol": "ILLU",
@@ -75374,12 +75324,6 @@
    "yahoo_symbol": "SLNHP"
   },
   {
-   "symbol": "SLP",
-   "name": "Simulations Plus, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SLP"
-  },
-  {
    "symbol": "SLQD",
    "name": "iShares 0-5 Year Investment Grade Corporate Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -75924,24 +75868,6 @@
    "name": "F/m Emerald Special Situations ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SPIT"
-  },
-  {
-   "symbol": "SPKL",
-   "name": "Spark I Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPKL"
-  },
-  {
-   "symbol": "SPKLU",
-   "name": "Spark I Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPKLU"
-  },
-  {
-   "symbol": "SPKLW",
-   "name": "Spark I Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPKLW"
   },
   {
    "symbol": "SPOG",
@@ -80084,12 +80010,6 @@
    "yahoo_symbol": "WB"
   },
   {
-   "symbol": "WBD",
-   "name": "Warner Bros. Discovery, Inc. - Series A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WBD"
-  },
-  {
    "symbol": "WBTN",
    "name": "WEBTOON Entertainment Inc. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -80442,6 +80362,12 @@
    "name": "Petco Health and Wellness Company, Inc. - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "WOOF"
+  },
+  {
+   "symbol": "WORX",
+   "name": "SCWorx Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WORX"
   },
   {
    "symbol": "WPRT",
@@ -93606,12 +93532,6 @@
    "name": "Nuveen Municipal Credit Opportunities Fund Common Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "NMCO"
-  },
-  {
-   "symbol": "NMCO.R",
-   "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NMCO.R"
   },
   {
    "symbol": "NMG",
