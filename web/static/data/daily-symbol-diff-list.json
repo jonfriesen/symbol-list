@@ -1,138 +1,156 @@
 {
  "added": [
   {
-   "symbol": "HSTR",
-   "name": "Heliostar Metals Ltd.",
+   "symbol": "ZCRB",
+   "name": "BMO Core Bond",
    "exchange": "TSX",
-   "yahoo_symbol": "HSTR.TO",
+   "yahoo_symbol": "ZCRB.TO",
    "instruments": [
     {
-     "name": "Heliostar Metals Ltd",
-     "symbol": "HSTR"
+     "name": "BMO Core Bond",
+     "symbol": "ZCRB"
     }
    ]
   },
   {
-   "symbol": "BBCI",
-   "name": "Bradbury Capital Inc. - Ordinary Shares",
+   "symbol": "ZEMB",
+   "name": "BMO Emerging Markets Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZEMB.TO",
+   "instruments": [
+    {
+     "name": "BMO Emerging Mkt B F",
+     "symbol": "ZEMB"
+    }
+   ]
+  },
+  {
+   "symbol": "ZLAT",
+   "name": "BMO MSCI Latin America GDP Weighted Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZLAT.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI L A GDP W I",
+     "symbol": "ZLAT"
+    }
+   ]
+  },
+  {
+   "symbol": "SCAT",
+   "name": "Southern Cross Acquisition II Corp. - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BBCI"
+   "yahoo_symbol": "SCAT"
   },
   {
-   "symbol": "BBCIW",
-   "name": "Bradbury Capital Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BBCIW"
+   "symbol": "SCATR",
+   "name": "Southern Cross Acquisition II Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCATR"
   },
   {
-   "symbol": "WORX",
-   "name": "SCWorx Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WORX"
+   "symbol": "SCATW",
+   "name": "Southern Cross Acquisition II Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCATW"
+  },
+  {
+   "symbol": "TCBI",
+   "name": "Texas Capital Bancshares, Inc. Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "TCBI"
+  },
+  {
+   "symbol": "TCBI$B",
+   "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "TCBI$B"
   }
  ],
  "removed": [
   {
-   "symbol": "CBLT",
-   "name": "CBLT Inc.",
+   "symbol": "PNTR",
+   "name": "Pantera Silver Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "CBLT.V",
+   "yahoo_symbol": "PNTR.V",
    "instruments": [
     {
-     "name": "CBLT Inc.",
-     "symbol": "CBLT"
+     "name": "Pantera Silver Corp.",
+     "symbol": "PNTR"
     }
    ]
   },
   {
-   "symbol": "NMCO.R",
-   "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NMCO.R"
-  },
-  {
-   "symbol": "SPKLU",
-   "name": "Spark I Acquisition Corp. - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPKLU"
-  },
-  {
-   "symbol": "SPKL",
-   "name": "Spark I Acquisition Corp. - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPKL"
-  },
-  {
-   "symbol": "HSTR",
-   "name": "Heliostar Metals Ltd.",
+   "symbol": "LBI",
+   "name": "Lions Bay Capital Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "HSTR.V",
+   "yahoo_symbol": "LBI.V",
    "instruments": [
     {
-     "name": "Heliostar Metals Ltd.",
-     "symbol": "HSTR"
+     "name": "Lions Bay Capital Inc.",
+     "symbol": "LBI"
     }
    ]
   },
   {
-   "symbol": "SPKLW",
-   "name": "Spark I Acquisition Corp. - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPKLW"
-  },
-  {
-   "symbol": "ILLR",
-   "name": "Triller Group Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ILLR"
-  },
-  {
-   "symbol": "ARBEW",
-   "name": "Arbe Robotics Ltd. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ARBEW"
-  },
-  {
-   "symbol": "ILLRW",
-   "name": "Triller Group Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ILLRW"
-  },
-  {
-   "symbol": "BBBYW",
-   "name": "Neighborhood Intelligence, Inc.  - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BBBYW"
-  },
-  {
-   "symbol": "WPR",
-   "name": "CANPR Technology LTD.",
+   "symbol": "KS",
+   "name": "Klondike Silver Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "WPR.V",
+   "yahoo_symbol": "KS.V",
    "instruments": [
     {
-     "name": "CANPR Technology Ltd.",
-     "symbol": "WPR"
+     "name": "Klondike Silver Corp.",
+     "symbol": "KS"
     }
    ]
   },
   {
-   "symbol": "WBD",
-   "name": "Warner Bros. Discovery, Inc. - Series A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WBD"
+   "symbol": "LMR",
+   "name": "Lomiko Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LMR.V",
+   "instruments": [
+    {
+     "name": "Lomiko Metals Inc.",
+     "symbol": "LMR"
+    }
+   ]
   },
   {
-   "symbol": "BLFS",
-   "name": "BioLife Solutions, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BLFS"
+   "symbol": "ACL",
+   "name": "A.C.L. Construction Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACL.V",
+   "instruments": [
+    {
+     "name": "A.C.L. Construction Ltd.",
+     "symbol": "ACL"
+    }
+   ]
   },
   {
-   "symbol": "SLP",
-   "name": "Simulations Plus, Inc. - Common Stock",
+   "symbol": "HAWK",
+   "name": "Hawkeye Gold \u0026 Diamond Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HAWK.V",
+   "instruments": [
+    {
+     "name": "Hawkeye Gold \u0026 Diamond Inc.",
+     "symbol": "HAWK"
+    }
+   ]
+  },
+  {
+   "symbol": "TCBIO",
+   "name": "Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SLP"
+   "yahoo_symbol": "TCBIO"
+  },
+  {
+   "symbol": "TCBI",
+   "name": "Texas Capital Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TCBI"
   }
  ]
 }
