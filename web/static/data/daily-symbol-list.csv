@@ -1193,7 +1193,6 @@ SPC,SPC Nickel Corp.,TSXV,SPC.V,SPC Nickel Corp.,SPC
 SSA,Spectra Products Inc.,TSXV,SSA.V,Spectra Products Inc.,SSA
 SOO.P,Spectre Capital Corp.,TSXV,SOO.P.V,Spectre Capital Corp.,SOO.P
 SRQ,SRQ Resources Inc.,TSXV,SRQ.V,SRQ Resources Inc.,SRQ
-LORD,St. James Gold Corp.,TSXV,LORD.V,St. James Gold Corp.,LORD
 SRC,Stakeholder Gold Corp.,TSXV,SRC.V,Stakeholder Gold Corp.,SRC
 STUD,Stallion Uranium Corp.,TSXV,STUD.V,Stallion Uranium Corp.,STUD
 SDI,Stampede Drilling Inc.,TSXV,SDI.V,Stampede Drilling Inc.,SDI
@@ -1307,7 +1306,7 @@ MILE,Twenty Mile Metals Inc.,TSXV,MILE.V,Twenty Mile Metals Inc.,MILE
 UTWO,U92 Energy Corp.,TSXV,UTWO.V,U92 Energy Corp.,UTWO
 UCU,Ucore Rare Metals Inc.,TSXV,UCU.V,Ucore Rare Metals Inc.,UCU
 UGD,Unigold Inc.,TSXV,UGD.V,Unigold Inc.,UGD
-USS,Uniserve Communications Corporation,TSXV,USS.V,Uniserve Communications Corporation,USS
+COMP,Uniserve Communications Corporation,TSXV,COMP.V,Uniserve Communications Corporation,COMP
 UPT.P,Upstart Investments Inc.,TSXV,UPT.P.V,Upstart Investments Inc.,UPT.P
 UIG,Urban Infrastructure Group Inc.,TSXV,UIG.V,Urban Infrastructure Group Inc.,UIG
 UFC,Urbanfund Corp.,TSXV,UFC.V,Urbanfund Corp.,UFC
@@ -2030,7 +2029,7 @@ CRWV,CoreWeave CDR (CAD Hedged),TSX,CRWV.TO,CoreWeave CDR CAD Hd,CRWV
 RAAA,Corton Enhanced Income Fund,TSX,RAAA.TO,Corton EnhInc FndETF,RAAA
 ROSY,Corton Rosenberg Global Macro Fund,TSX,ROSY.TO,Corton Rosenberg GMF,ROSY,CortonRosenbrg GMF U,ROSY.U
 TPUT,Corton Theta TM Alpha Fund,TSX,TPUT.TO,Corton Theta Alpha F,TPUT
-CJR.B,Corus Entertainment Inc.,TSX,CJR.B.TO,Corus Entertnmnt B,CJR.B
+CORS,Corus Entertainment Holdings Inc.,TSX,CORS.TO,Corus Entrtnm Hl Inc,CORS
 CSCI,COSCIENS Biopharma Inc.,TSX,CSCI.TO,COSCIENS Biophrm Inc,CSCI
 COST,Costco CDR (CAD Hedged),TSX,COST.TO,Costco CDR CAD HD,COST
 CCGP,Counterpoint Global CIBC Global Permanence ETF,TSX,CCGP.TO,CP Gl CIBC Gl Perman,CCGP
@@ -2690,6 +2689,7 @@ XSHU,iShares 1-5 Year U.S. IG Corporate Bond Index ETF,TSX,XSHU.TO,iShr1-5YrUSIG
 XIGS,iShares 1-5 Year U.S. IG Corporate Bond Index ETF (CAD-Hedged),TSX,XIGS.TO,iShr1-5YrUS IGCorpCH,XIGS
 XTLT,iShares 20+ Year U.S. Treasury Bond Index ETF,TSX,XTLT.TO,iShr 20+Yr US Bnd Un,XTLT,iShr 20+Yr US Bnd US,XTLT.U
 XTLH,iShares 20+ Year U.S. Treasury Bond Index ETF (CAD-Hedged),TSX,XTLH.TO,iShr 20+YrUS BndHgUn,XTLH
+XBAI,iShares A.I. Innovation and Tech ETF,TSX,XBAI.TO,iShares AI Inno Tech,XBAI
 FIE,iShares Canadian Financial Monthly Income ETF,TSX,FIE.TO,iShares CdnFinMo Un,FIE
 XCG,iShares Canadian Growth Index ETF,TSX,XCG.TO,iShares Cdn Growth,XCG
 XHB,iShares Canadian HYBrid Corporate Bond Index ETF,TSX,XHB.TO,iShare Cdn HYBrd Bnd,XHB
@@ -4245,6 +4245,7 @@ AXGN,"Axogen, Inc. - Common Stock",NASDAQ Capital Market,AXGN
 AXIN,Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares,NASDAQ Global MarketSM,AXIN
 AXINR,Axiom Intelligence Acquisition Corp 1 - Right,NASDAQ Global MarketSM,AXINR
 AXINU,Axiom Intelligence Acquisition Corp 1 - Units,NASDAQ Global MarketSM,AXINU
+AXNX,Axonex AI Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,AXNX
 AXON,"Axon Enterprise, Inc. - Common Stock",NASDAQ Global Select MarketSM,AXON
 AXSM,"Axsome Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,AXSM
 AXTI,AXT Inc - Common Stock,NASDAQ Global Select MarketSM,AXTI
@@ -4286,7 +4287,6 @@ BBGI,"Beasley Broadcast Group, Inc. - Class A Common Stock",NASDAQ Capital Marke
 BBH,VanEck Biotech ETF,NASDAQ Global MarketSM,BBH
 BBIO,"BridgeBio Pharma, Inc. - Common Stock",NASDAQ Global Select MarketSM,BBIO
 BBLG,Bone Biologics Corp - Common Stock,NASDAQ Capital Market,BBLG
-BBLGW,Bone Biologics Corp - warrants,NASDAQ Capital Market,BBLGW
 BBNX,"Beta Bionics, Inc. - Common Stock",NASDAQ Global MarketSM,BBNX
 BBOT,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,BBOT
 BBSI,"Barrett Business Services, Inc. - Common Stock",NASDAQ Global Select MarketSM,BBSI
@@ -5894,7 +5894,6 @@ GRAL,"GRAIL, Inc. - Common Stock",NASDAQ Global Select MarketSM,GRAL
 GRAN,Grande Group Limited - Class A Ordinary Shares,NASDAQ Capital Market,GRAN
 GRCE,"Grace Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,GRCE
 GRDX,GridAI Technologies Corp.  - Common Stock,NASDAQ Capital Market,GRDX
-GREEL,Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026,NASDAQ Global Select MarketSM,GREEL
 GRFS,"Grifols, S.A. - American Depositary Shares",NASDAQ Global Select MarketSM,GRFS
 GRI,"GRI Bio, Inc. - Common Stock",NASDAQ Capital Market,GRI
 GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,NASDAQ Global MarketSM,GRID
@@ -6886,7 +6885,6 @@ MIACU,Meridian3 Industrials Acquisition Corp - Units,NASDAQ Global MarketSM,MIAC
 MIACW,Meridian3 Industrials Acquisition Corp - Warrant,NASDAQ Global MarketSM,MIACW
 MIDD,The Middleby Corporation - Common Stock,NASDAQ Global Select MarketSM,MIDD
 MILN,Global X Millennial Consumer ETF,NASDAQ Global MarketSM,MILN
-MIMI,Mint Incorporation Limited - Class A Ordinary Shares,NASDAQ Capital Market,MIMI
 MIND,"MIND Technology, Inc. - Common Stock",NASDAQ Capital Market,MIND
 MIRA,"MIRA Pharmaceuticals, Inc. - Common Stock",NASDAQ Capital Market,MIRA
 MIRM,"Mirum Pharmaceuticals, Inc. - common stock",NASDAQ Global MarketSM,MIRM
@@ -8043,6 +8041,7 @@ RNGTW,Range Capital Acquisition Corp II - Warrants,NASDAQ Global MarketSM,RNGTW
 RNIN,Bushido Capital US SMID Cap Equity ETF,NASDAQ Global MarketSM,RNIN
 RNRG,Global X Renewable Energy Producers ETF,NASDAQ Global MarketSM,RNRG
 RNTX,"Rein Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,RNTX
+RNTZ,Rantizo - Class A Ordinary Shares,NASDAQ Capital Market,RNTZ
 RNW,ReNew Energy Global plc - Class A Shares,NASDAQ Global Select MarketSM,RNW
 RNXT,"RenovoRx, Inc. - Common Stock",NASDAQ Capital Market,RNXT
 ROAD,"Construction Partners, Inc. - Common Stock",NASDAQ Global Select MarketSM,ROAD
@@ -8274,7 +8273,6 @@ SJLD,SanJac Alpha Low Duration ETF,NASDAQ Global MarketSM,SJLD
 SKDD,GraniteShares 2x Short SK Hynix Daily ETF,NASDAQ Global MarketSM,SKDD
 SKHY,SK hynix Inc. - American Depositary Shares,NASDAQ Global Select MarketSM,SKHY
 SKIN,SkinHealth Systems Inc. - Class A Common Stock,NASDAQ Capital Market,SKIN
-SKK,SKK Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,SKK
 SKOR,Northern Trust Credit-Scored US Corporate Bond ETF,NASDAQ Global MarketSM,SKOR
 SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF,NASDAQ Global MarketSM,SKRE
 SKUU,GraniteShares 2x Long SK Hynix Daily ETF,NASDAQ Global MarketSM,SKUU
@@ -8834,7 +8832,6 @@ UCFIW,CN Healthy Food Tech Group Corp. - Warrant,NASDAQ Capital Market,UCFIW
 UCL,uCloudlink Group Inc. - American Depositary Shares,NASDAQ Global MarketSM,UCL
 UCRD,VictoryShares Corporate Bond ETF,NASDAQ Global MarketSM,UCRD
 UCTT,"Ultra Clean Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,UCTT
-UCYB,ProShares Ultra Nasdaq Cybersecurity,NASDAQ Global MarketSM,UCYB
 UECG,Leverage Shares 2x Long UEC Daily ETF,NASDAQ Global MarketSM,UECG
 UEIC,Universal Electronics Inc. - Common Stock,NASDAQ Global Select MarketSM,UEIC
 UEVM,VictoryShares Emerging Markets Value Momentum ETF,NASDAQ Global MarketSM,UEVM
@@ -11428,7 +11425,7 @@ OAK$A,"Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units",NYSE,OA
 OAK$B,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",NYSE,OAK$B
 OBDC,Blue Owl Capital Corporation Common Stock,NYSE,OBDC
 OBE,Obsidian Energy Ltd. Common Shares,NYSE MKT,OBE
-OBK,"Origin Bancorp, Inc. Common Stock",NYSE,OBK
+OBK,"Origin Bancorp, Inc. Common Stock",UNKNOWN,OBK
 OC,Owens Corning Inc Common Stock New,NYSE,OC
 OCAC,Ocean Capital Acquisition Corporation Ordinary Shares,NYSE,OCAC
 OCAC.R,"Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one ordinary share",NYSE,OCAC.R
@@ -11943,6 +11940,7 @@ SKM,"SK Telecom Co., Ltd. Common Stock",NYSE,SKM
 SKT,Tanger Inc. Common Stock,NYSE,SKT
 SKY,"Champion Homes, Inc. Common Stock",NYSE,SKY
 SKYD,Skydance Corporation Class B Common Stock,NYSE,SKYD
+SKYD.V,Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued,NYSE,SKYD.V
 SKYH,Sky Harbour Group Corporation Class A Common Stock,NYSE,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",NYSE,SKYH.W
 SLB,SLB Limited Common Shares,NYSE,SLB

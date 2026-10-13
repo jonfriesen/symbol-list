@@ -1,5 +1,5 @@
 {
- "date": "2026-10-12",
+ "date": "2026-10-13",
  "data": [
   {
    "symbol": "ONE",
@@ -14486,18 +14486,6 @@
    ]
   },
   {
-   "symbol": "LORD",
-   "name": "St. James Gold Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "LORD.V",
-   "instruments": [
-    {
-     "name": "St. James Gold Corp.",
-     "symbol": "LORD"
-    }
-   ]
-  },
-  {
    "symbol": "SRC",
    "name": "Stakeholder Gold Corp.",
    "exchange": "TSXV",
@@ -15870,14 +15858,14 @@
    ]
   },
   {
-   "symbol": "USS",
+   "symbol": "COMP",
    "name": "Uniserve Communications Corporation",
    "exchange": "TSXV",
-   "yahoo_symbol": "USS.V",
+   "yahoo_symbol": "COMP.V",
    "instruments": [
     {
      "name": "Uniserve Communications Corporation",
-     "symbol": "USS"
+     "symbol": "COMP"
     }
    ]
   },
@@ -25710,14 +25698,14 @@
    ]
   },
   {
-   "symbol": "CJR.B",
-   "name": "Corus Entertainment Inc.",
+   "symbol": "CORS",
+   "name": "Corus Entertainment Holdings Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "CJR.B.TO",
+   "yahoo_symbol": "CORS.TO",
    "instruments": [
     {
-     "name": "Corus Entertnmnt B",
-     "symbol": "CJR.B"
+     "name": "Corus Entrtnm Hl Inc",
+     "symbol": "CORS"
     }
    ]
   },
@@ -34494,6 +34482,18 @@
     {
      "name": "iShr 20+YrUS BndHgUn",
      "symbol": "XTLH"
+    }
+   ]
+  },
+  {
+   "symbol": "XBAI",
+   "name": "iShares A.I. Innovation and Tech ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XBAI.TO",
+   "instruments": [
+    {
+     "name": "iShares AI Inno Tech",
+     "symbol": "XBAI"
     }
    ]
   },
@@ -50936,6 +50936,12 @@
    "yahoo_symbol": "AXINU"
   },
   {
+   "symbol": "AXNX",
+   "name": "Axonex AI Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AXNX"
+  },
+  {
    "symbol": "AXON",
    "name": "Axon Enterprise, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -51180,12 +51186,6 @@
    "name": "Bone Biologics Corp - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BBLG"
-  },
-  {
-   "symbol": "BBLGW",
-   "name": "Bone Biologics Corp - warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BBLGW"
   },
   {
    "symbol": "BBNX",
@@ -60830,12 +60830,6 @@
    "yahoo_symbol": "GRDX"
   },
   {
-   "symbol": "GREEL",
-   "name": "Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GREEL"
-  },
-  {
    "symbol": "GRFS",
    "name": "Grifols, S.A. - American Depositary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -66780,12 +66774,6 @@
    "name": "Global X Millennial Consumer ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MILN"
-  },
-  {
-   "symbol": "MIMI",
-   "name": "Mint Incorporation Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MIMI"
   },
   {
    "symbol": "MIND",
@@ -73724,6 +73712,12 @@
    "yahoo_symbol": "RNTX"
   },
   {
+   "symbol": "RNTZ",
+   "name": "Rantizo - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RNTZ"
+  },
+  {
    "symbol": "RNW",
    "name": "ReNew Energy Global plc - Class A Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -75108,12 +75102,6 @@
    "name": "SkinHealth Systems Inc. - Class A Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SKIN"
-  },
-  {
-   "symbol": "SKK",
-   "name": "SKK Holdings Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SKK"
   },
   {
    "symbol": "SKOR",
@@ -78468,12 +78456,6 @@
    "name": "Ultra Clean Holdings, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "UCTT"
-  },
-  {
-   "symbol": "UCYB",
-   "name": "ProShares Ultra Nasdaq Cybersecurity",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "UCYB"
   },
   {
    "symbol": "UECG",
@@ -94036,7 +94018,7 @@
   {
    "symbol": "OBK",
    "name": "Origin Bancorp, Inc. Common Stock",
-   "exchange": "NYSE",
+   "exchange": "UNKNOWN",
    "yahoo_symbol": "OBK"
   },
   {
@@ -97122,6 +97104,12 @@
    "name": "Skydance Corporation Class B Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "SKYD"
+  },
+  {
+   "symbol": "SKYD.V",
+   "name": "Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKYD.V"
   },
   {
    "symbol": "SKYH",
