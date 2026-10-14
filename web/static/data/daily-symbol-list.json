@@ -1,5 +1,5 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "data": [
   {
    "symbol": "ONE",
@@ -6546,18 +6546,6 @@
    ]
   },
   {
-   "symbol": "GRG",
-   "name": "Golden Arrow Resources Corporation",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GRG.V",
-   "instruments": [
-    {
-     "name": "Golden Arrow Resources Corporation",
-     "symbol": "GRG"
-    }
-   ]
-  },
-  {
    "symbol": "AUX",
    "name": "Golden Cross Resources Inc.",
    "exchange": "TSXV",
@@ -7010,6 +6998,18 @@
     {
      "name": "Grey Wolf Health Corp.",
      "symbol": "WOLF"
+    }
+   ]
+  },
+  {
+   "symbol": "GRG",
+   "name": "GRG Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GRG.V",
+   "instruments": [
+    {
+     "name": "GRG Resources Corp.",
+     "symbol": "GRG"
     }
    ]
   },
@@ -22402,18 +22402,14 @@
    ]
   },
   {
-   "symbol": "HOM.U",
+   "symbol": "BSRT.UN",
    "name": "BSR Real Estate Investment Trust",
    "exchange": "TSX",
-   "yahoo_symbol": "HOM.U.TO",
+   "yahoo_symbol": "BSRT.UN.TO",
    "instruments": [
     {
-     "name": "BSR REIT Invest USF",
-     "symbol": "HOM.U"
-    },
-    {
      "name": "BSR REIT Invest Un",
-     "symbol": "HOM.UN"
+     "symbol": "BSRT.UN"
     }
    ]
   },
@@ -25550,6 +25546,10 @@
     {
      "name": "Condor Energies J",
      "symbol": "CDR"
+    },
+    {
+     "name": "Condor Energies Inc",
+     "symbol": "CDR.DB"
     }
    ]
   },
@@ -30226,6 +30226,42 @@
    ]
   },
   {
+   "symbol": "GOOP",
+   "name": "Global X Alphabet PowerStock ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GOOP.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Alphabet PwSt",
+     "symbol": "GOOP"
+    }
+   ]
+  },
+  {
+   "symbol": "AMZP",
+   "name": "Global X Amazon PowerStock ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMZP.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Amazon PwrSt",
+     "symbol": "AMZP"
+    }
+   ]
+  },
+  {
+   "symbol": "AAPP",
+   "name": "Global X Apple PowerStock ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AAPP.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Apple PwrSto",
+     "symbol": "AAPP"
+    }
+   ]
+  },
+  {
    "symbol": "AIQ",
    "name": "Global X Artificial Intelligence \u0026 Technology Index ETF",
    "exchange": "TSX",
@@ -31146,6 +31182,18 @@
    ]
   },
   {
+   "symbol": "NVDP",
+   "name": "Global X NVIDIA PowerStock ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVDP.TO",
+   "instruments": [
+    {
+     "name": "Glbl X NVDA PwrStk",
+     "symbol": "NVDP"
+    }
+   ]
+  },
+  {
    "symbol": "NYSX",
    "name": "Global X NYSE 100 Index ETF",
    "exchange": "TSX",
@@ -31422,6 +31470,30 @@
     {
      "name": "Global X Spc Tch Ind",
      "symbol": "ORBX"
+    }
+   ]
+  },
+  {
+   "symbol": "SPCP",
+   "name": "Global X SpaceX PowerStock ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPCP.TO",
+   "instruments": [
+    {
+     "name": "Glbl X SpaceX PowStk",
+     "symbol": "SPCP"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLP",
+   "name": "Global X Tesla PowerStock ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLP.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Tesla PwrStok",
+     "symbol": "TSLP"
     }
    ]
   },
@@ -39842,6 +39914,18 @@
    ]
   },
   {
+   "symbol": "PCD.UN",
+   "name": "Next Edge CIA Disciplined Growth Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "PCD.UN.TO",
+   "instruments": [
+    {
+     "name": "NextEdge CIA Di Gr P",
+     "symbol": "PCD.UN"
+    }
+   ]
+  },
+  {
    "symbol": "NEE",
    "name": "NextEra Energy CDR (CAD Hedged)",
    "exchange": "TSX",
@@ -39958,6 +40042,18 @@
     {
      "name": "Ninept Alt Cr Opp Fd",
      "symbol": "NACO"
+    }
+   ]
+  },
+  {
+   "symbol": "NAGF",
+   "name": "Ninepoint American Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NAGF.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Amer Gr Fd",
+     "symbol": "NAGF"
     }
    ]
   },
@@ -48164,6 +48260,12 @@
    "yahoo_symbol": "ACHC"
   },
   {
+   "symbol": "ACHP",
+   "name": "Global X Asia Semiconductor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACHP"
+  },
+  {
    "symbol": "ACHV",
    "name": "Achieve Life Sciences, Inc.  - Common Shares",
    "exchange": "NASDAQ Capital Market",
@@ -56078,6 +56180,12 @@
    "yahoo_symbol": "DFGP"
   },
   {
+   "symbol": "DFGV",
+   "name": "DFA Intermediate Government Fixed Income Portfolio: ETF Class Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DFGV"
+  },
+  {
    "symbol": "DFGX",
    "name": "Dimensional International Core Fixed Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -57390,12 +57498,6 @@
    "name": "Empery Digital Inc. - Common stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "EMPD"
-  },
-  {
-   "symbol": "EMSC",
-   "name": "Sophus Capital Emerging Market Small Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMSC"
   },
   {
    "symbol": "EMXC",
@@ -58938,6 +59040,12 @@
    "name": "Fluent, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FLNT"
+  },
+  {
+   "symbol": "FLSC",
+   "name": "Frazier Life Sciences Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLSC"
   },
   {
    "symbol": "FLUX",
@@ -66704,6 +66812,12 @@
    "yahoo_symbol": "MGNX"
   },
   {
+   "symbol": "MGOL",
+   "name": "Leverage Shares MANGOS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MGOL"
+  },
+  {
    "symbol": "MGPI",
    "name": "MGP Ingredients, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -69170,6 +69284,12 @@
    "yahoo_symbol": "NXATW"
   },
   {
+   "symbol": "NXDR",
+   "name": "Nextdoor Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXDR"
+  },
+  {
    "symbol": "NXGL",
    "name": "NexGel, Inc - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -70880,6 +71000,12 @@
    "yahoo_symbol": "PEPS"
   },
   {
+   "symbol": "PEPT",
+   "name": "REX Peptide ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEPT"
+  },
+  {
    "symbol": "PERI",
    "name": "Perion Network Ltd - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -72336,24 +72462,6 @@
    "name": "YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QDTY"
-  },
-  {
-   "symbol": "QETA",
-   "name": "Quetta Acquisition Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QETA"
-  },
-  {
-   "symbol": "QETAR",
-   "name": "Quetta Acquisition Corporation - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QETAR"
-  },
-  {
-   "symbol": "QETAU",
-   "name": "Quetta Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QETAU"
   },
   {
    "symbol": "QEW",
@@ -73920,6 +74028,12 @@
    "name": "VanEck Retail ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "RTH"
+  },
+  {
+   "symbol": "RTHY",
+   "name": "F/m Long-Term Treasury Inflation-Protected Security (TIPS) ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTHY"
   },
   {
    "symbol": "RTSN",
@@ -84002,12 +84116,6 @@
    "yahoo_symbol": "BKKT"
   },
   {
-   "symbol": "BKKT.W",
-   "name": "Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKKT.W"
-  },
-  {
    "symbol": "BKSY",
    "name": "BlackSky Technology Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -84408,6 +84516,12 @@
    "name": "Black Stone Minerals, L.P. Common units representing limited partner interests",
    "exchange": "NYSE",
    "yahoo_symbol": "BSM"
+  },
+  {
+   "symbol": "BSRT",
+   "name": "BSR Real Estate Investment Trust Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSRT"
   },
   {
    "symbol": "BST",
@@ -84888,12 +85002,6 @@
    "name": "Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)",
    "exchange": "NYSE",
    "yahoo_symbol": "CCM"
-  },
-  {
-   "symbol": "CCO",
-   "name": "Clear Channel Outdoor Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CCO"
   },
   {
    "symbol": "CCS",
@@ -90104,12 +90212,6 @@
    "yahoo_symbol": "HZO"
   },
   {
-   "symbol": "IAE",
-   "name": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IAE"
-  },
-  {
    "symbol": "IAF",
    "name": "abrdn Australia Equity Fund, Inc. Common Stock",
    "exchange": "NYSE MKT",
@@ -90276,12 +90378,6 @@
    "name": "iHuman Inc. American depositary shares, each representing five Class A ordinary shares",
    "exchange": "NYSE",
    "yahoo_symbol": "IH"
-  },
-  {
-   "symbol": "IHD",
-   "name": "Voya Emerging Markets High Income Dividend Equity Fund Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IHD"
   },
   {
    "symbol": "IHG",
@@ -91455,7 +91551,7 @@
   },
   {
    "symbol": "LB",
-   "name": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests",
+   "name": "LandBridge Corporation Class A Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LB"
   },
@@ -93926,12 +94022,6 @@
    "yahoo_symbol": "NXB"
   },
   {
-   "symbol": "NXDR",
-   "name": "Nextdoor Holdings, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXDR"
-  },
-  {
    "symbol": "NXDT",
    "name": "NexPoint Diversified Real Estate Trust Common Stock",
    "exchange": "NYSE",
@@ -95322,12 +95412,6 @@
    "name": "Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "PRIF$K"
-  },
-  {
-   "symbol": "PRIF$L",
-   "name": "Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRIF$L"
   },
   {
    "symbol": "PRIM",
@@ -97106,10 +97190,10 @@
    "yahoo_symbol": "SKYD"
   },
   {
-   "symbol": "SKYD.V",
-   "name": "Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued",
+   "symbol": "SKYD.W",
+   "name": "Skydance Corporation Warrants to Purchase Class B Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "SKYD.V"
+   "yahoo_symbol": "SKYD.W"
   },
   {
    "symbol": "SKYH",
