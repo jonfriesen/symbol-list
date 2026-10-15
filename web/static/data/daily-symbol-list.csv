@@ -177,7 +177,6 @@ BMM,Black Mammoth Metals Corporation,TSXV,BMM.V,Black Mammoth Metals Corporation
 BPR,Black Pine Resources Corp.,TSXV,BPR.V,Black Pine Resources Corp.,BPR
 BARK,Black Spruce Exploration Inc.,TSXV,BARK.V,Black Spruce Exploration Inc.,BARK
 SWAN,Black Swan Graphene Inc.,TSXV,SWAN.V,Black Swan Graphene Inc.,SWAN
-BRC,Blackrock Silver Corp.,TSXV,BRC.V,Blackrock Silver Corp.,BRC
 BAG,Blende Silver Corp.,TSXV,BAG.V,Blende Silver Corp.,BAG
 BITK,Blockchaink2 Corp.,TSXV,BITK.V,Blockchaink2 Corp.,BITK
 MATE,Blockmate Ventures Inc.,TSXV,MATE.V,Blockmate Ventures Inc.,MATE
@@ -1584,6 +1583,7 @@ BDI,Black Diamond Group Limited,TSX,BDI.TO,Black Diamond Group,BDI
 BKI,Black Iron Inc.,TSX,BKI.TO,Black Iron Inc. J,BKI
 BB,BlackBerry Limited,TSX,BB.TO,BlackBerry Limited,BB
 BLK,BlackRock CDR (CAD Hedged),TSX,BLK.TO,BlackRock CDR Hgd,BLK
+BRC,Blackrock Silver Corp.,TSX,BRC.TO,Blackrock Silver Crp,BRC
 BX,Blackstone CDR (CAD Hedged),TSX,BX.TO,BlackStone CDR Hgd,BX
 HBLK,Blockchain Technologies ETF,TSX,HBLK.TO,Blockchain Tech A Un,HBLK
 BGAU,Blossom Gold Inc.,TSX,BGAU.TO,Blossom Gold Inc,BGAU
@@ -1889,6 +1889,8 @@ CEQP,CI Equity+ Asset Allocation ETF Fund,TSX,CEQP.TO,CI EqyAssetAlloc ETF,CEQP
 QQCE,CI ESG NASDAQ 100 Index ETF,TSX,QQCE.TO,CI ESG NAS100IDXCA,QQCE,CI ESG NAS100IdCAHG,QQCE.F
 EHE,CI Europe Hedged Equity Index ETF,TSX,EHE.TO,CIEur HGEq IDXETF Hg,EHE,CIEur HEq IDXETF NHg,EHE.B
 CFRT,CI Floating Rate Income Fund,TSX,CFRT.TO,CI Fltg Rate Incm C$,CFRT
+CCAF,CI Forge First Conservative Alternative Fund,TSX,CCAF.TO,CI Forge Fr ConAlt C,CCAF,CI Forge Fr ConAlt U,CCAF.U
+CLSF,CI Forge First Long Short Alternative Fund,TSX,CLSF.TO,CI Frg Fr LgShrAlt C,CLSF,CI Frg Fr LgShrAlt U,CLSF.U
 BTCX,CI Galaxy Bitcoin ETF,TSX,BTCX.TO,CI Galaxy BTC ETF,BTCX,CI GalBitcnCA ETF UH,BTCX.B,CI GalBitcnETF UH US,BTCX.U
 CBCX,CI Galaxy Blockchain Index ETF,TSX,CBCX.TO,CI Galaxy Blkchn Un,CBCX
 CCCX,CI Galaxy Core Multi-Crypto ETF,TSX,CCCX.TO,CI Gl C MltC ETF Ch,CCCX,CI Gl C MltC ETF CUh,CCCX.B,CI Gl C MltC ETF US$,CCCX.U
@@ -3206,7 +3208,7 @@ PANW,Palo Alto Networks CDR (CAD Hedged),TSX,PANW.TO,Palo Alto CDR Hgd,PANW
 PAAS,Pan American Silver Corp.,TSX,PAAS.TO,Pan American Silver,PAAS
 POU,Paramount Resources Ltd.,TSX,POU.TO,Paramount Res Cl A,POU
 PXT,Parex Resources Inc.,TSX,PXT.TO,Parex Resources,PXT
-PVS.PR.H,Partners Value Split Corp.,TSX,PVS.PR.H.TO,Partners ValAA Pr 10,PVS.PR.H,Partners ValAA Pr 12,PVS.PR.J,Partners ValAA Pr 13,PVS.PR.K,Partners Val AA Pr14,PVS.PR.L,Partners Val AA Pr15,PVS.PR.M,Partners ValAA Pr 16,PVS.PR.U,Prtnr Vlu Splt Sr 17,PVS.PR.V
+PVS.PR.H,Partners Value Split Corp.,TSX,PVS.PR.H.TO,Partners ValAA Pr 10,PVS.PR.H,Partners ValAA Pr 12,PVS.PR.J,Partners ValAA Pr 13,PVS.PR.K,Partners Val AA Pr14,PVS.PR.L,Partners Val AA Pr15,PVS.PR.M,Partners VSC Srs 18 ,PVS.PR.N,Partners ValAA Pr 16,PVS.PR.U,Prtnr Vlu Splt Sr 17,PVS.PR.V
 PSI,Pason Systems Inc.,TSX,PSI.TO,Pason Systems Inc.,PSI
 PYPL,PayPal CDR (CAD Hedged),TSX,PYPL.TO,PayPal CDR Hgd,PYPL
 PDI,PDI Gold Limited,TSX,PDI.TO,PDI Gold Limited,PDI
@@ -4452,6 +4454,7 @@ BMEA,"Biomea Fusion, Inc. - Common Stock",NASDAQ Global Select MarketSM,BMEA
 BMGL,Basel Medical Group Ltd - ordinary shares,NASDAQ Capital Market,BMGL
 BMHL,Bluemount Holdings Limited - Class B Ordinary Shares,NASDAQ Capital Market,BMHL
 BMM,Blue Moon Metals Inc. - Common Shares,NASDAQ Capital Market,BMM
+BMMX,Black Mammoth Metals Corporation - Common Shares,NASDAQ Capital Market,BMMX
 BMNG,Leverage Shares 2X Long BMNR Daily ETF,NASDAQ Global MarketSM,BMNG
 BMOP,BNY Mellon Municipal Opportunities ETF,NASDAQ Global MarketSM,BMOP
 BMR,Beamr Imaging Ltd. - Ordinary Share,NASDAQ Capital Market,BMR
@@ -6155,6 +6158,7 @@ IACQ,Irenic Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,I
 IACQU,Irenic Acquisition Corp. - Unit,NASDAQ Global MarketSM,IACQU
 IACQW,Irenic Acquisition Corp. - Warrants,NASDAQ Global MarketSM,IACQW
 IALT,iShares Systematic Alternatives Active ETF,NASDAQ Global MarketSM,IALT
+IAM,"Iambic Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,IAM
 IART,Integra LifeSciences Holdings Corporation - Common Stock,NASDAQ Global Select MarketSM,IART
 IBAC,IB Acquisition Corp. - Common Stock,NASDAQ Capital Market,IBAC
 IBACR,IB Acquisition Corp. - Right,NASDAQ Capital Market,IBACR
@@ -9573,7 +9577,6 @@ ASBH,"American Savings Bank, N.A. Common Stock",NYSE,ASBH
 ASC,Ardmore Shipping Corporation Common Stock,NYSE,ASC
 ASG,"Liberty All-Star Growth Fund, Inc.",NYSE,ASG
 ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,NYSE,ASGI
-ASGI.R,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",NYSE,ASGI.R
 ASH,Ashland Inc. Common Stock,NYSE,ASH
 ASIC,Ategrity Specialty Insurance Company Holdings Common Stock,NYSE,ASIC
 ASIX,AdvanSix Inc. Common Stock ,NYSE,ASIX
@@ -11982,7 +11985,6 @@ SNN,"Smith & Nephew SNATS, Inc. Common Stock",NYSE,SNN
 SNOW,Snowflake Inc. Common Stock,NYSE,SNOW
 SNSC,SunScout Holding Limited Class A Ordinary Shares,NYSE MKT,SNSC
 SNUS$H,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",NYSE,SNUS$H
-SNUS$I,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",NYSE,SNUS$I
 SNX,TD SYNNEX Corporation Common Stock,NYSE,SNX
 SO,Southern Company (The) Common Stock,NYSE,SO
 SOAR,"Volato Group, Inc. Class A Common Stock",NYSE MKT,SOAR

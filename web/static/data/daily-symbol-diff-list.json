@@ -1,250 +1,86 @@
 {
  "added": [
   {
-   "symbol": "BSRT.UN",
-   "name": "BSR Real Estate Investment Trust",
+   "symbol": "BRC",
+   "name": "Blackrock Silver Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "BSRT.UN.TO",
+   "yahoo_symbol": "BRC.TO",
    "instruments": [
     {
-     "name": "BSR REIT Invest Un",
-     "symbol": "BSRT.UN"
+     "name": "Blackrock Silver Crp",
+     "symbol": "BRC"
     }
    ]
   },
   {
-   "symbol": "GOOP",
-   "name": "Global X Alphabet PowerStock ETF",
+   "symbol": "CCAF",
+   "name": "CI Forge First Conservative Alternative Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "GOOP.TO",
+   "yahoo_symbol": "CCAF.TO",
    "instruments": [
     {
-     "name": "Glbl X Alphabet PwSt",
-     "symbol": "GOOP"
+     "name": "CI Forge Fr ConAlt C",
+     "symbol": "CCAF"
+    },
+    {
+     "name": "CI Forge Fr ConAlt U",
+     "symbol": "CCAF.U"
     }
    ]
   },
   {
-   "symbol": "AMZP",
-   "name": "Global X Amazon PowerStock ETF",
+   "symbol": "CLSF",
+   "name": "CI Forge First Long Short Alternative Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "AMZP.TO",
+   "yahoo_symbol": "CLSF.TO",
    "instruments": [
     {
-     "name": "Glbl X Amazon PwrSt",
-     "symbol": "AMZP"
+     "name": "CI Frg Fr LgShrAlt C",
+     "symbol": "CLSF"
+    },
+    {
+     "name": "CI Frg Fr LgShrAlt U",
+     "symbol": "CLSF.U"
     }
    ]
   },
   {
-   "symbol": "AAPP",
-   "name": "Global X Apple PowerStock ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "AAPP.TO",
-   "instruments": [
-    {
-     "name": "Glbl X Apple PwrSto",
-     "symbol": "AAPP"
-    }
-   ]
-  },
-  {
-   "symbol": "NVDP",
-   "name": "Global X NVIDIA PowerStock ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "NVDP.TO",
-   "instruments": [
-    {
-     "name": "Glbl X NVDA PwrStk",
-     "symbol": "NVDP"
-    }
-   ]
-  },
-  {
-   "symbol": "SPCP",
-   "name": "Global X SpaceX PowerStock ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SPCP.TO",
-   "instruments": [
-    {
-     "name": "Glbl X SpaceX PowStk",
-     "symbol": "SPCP"
-    }
-   ]
-  },
-  {
-   "symbol": "TSLP",
-   "name": "Global X Tesla PowerStock ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TSLP.TO",
-   "instruments": [
-    {
-     "name": "Glbl X Tesla PwrStok",
-     "symbol": "TSLP"
-    }
-   ]
-  },
-  {
-   "symbol": "PCD.UN",
-   "name": "Next Edge CIA Disciplined Growth Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "PCD.UN.TO",
-   "instruments": [
-    {
-     "name": "NextEdge CIA Di Gr P",
-     "symbol": "PCD.UN"
-    }
-   ]
-  },
-  {
-   "symbol": "NAGF",
-   "name": "Ninepoint American Growth Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "NAGF.TO",
-   "instruments": [
-    {
-     "name": "Ninepoint Amer Gr Fd",
-     "symbol": "NAGF"
-    }
-   ]
-  },
-  {
-   "symbol": "ACHP",
-   "name": "Global X Asia Semiconductor ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ACHP"
-  },
-  {
-   "symbol": "DFGV",
-   "name": "DFA Intermediate Government Fixed Income Portfolio: ETF Class Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DFGV"
-  },
-  {
-   "symbol": "FLSC",
-   "name": "Frazier Life Sciences Acquisition Corp. II - Class A Ordinary Shares",
+   "symbol": "BMMX",
+   "name": "Black Mammoth Metals Corporation - Common Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FLSC"
+   "yahoo_symbol": "BMMX"
   },
   {
-   "symbol": "MGOL",
-   "name": "Leverage Shares MANGOS ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MGOL"
-  },
-  {
-   "symbol": "NXDR",
-   "name": "Nextdoor Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NXDR"
-  },
-  {
-   "symbol": "PEPT",
-   "name": "REX Peptide ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PEPT"
-  },
-  {
-   "symbol": "RTHY",
-   "name": "F/m Long-Term Treasury Inflation-Protected Security (TIPS) ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RTHY"
-  },
-  {
-   "symbol": "BSRT",
-   "name": "BSR Real Estate Investment Trust Units",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BSRT"
-  },
-  {
-   "symbol": "SKYD.W",
-   "name": "Skydance Corporation Warrants to Purchase Class B Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SKYD.W"
+   "symbol": "IAM",
+   "name": "Iambic Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IAM"
   }
  ],
  "removed": [
   {
-   "symbol": "QETAR",
-   "name": "Quetta Acquisition Corporation - Right",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QETAR"
-  },
-  {
-   "symbol": "QETA",
-   "name": "Quetta Acquisition Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QETA"
-  },
-  {
-   "symbol": "CCO",
-   "name": "Clear Channel Outdoor Holdings, Inc. Common Stock",
+   "symbol": "SNUS$I",
+   "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",
    "exchange": "NYSE",
-   "yahoo_symbol": "CCO"
+   "yahoo_symbol": "SNUS$I"
   },
   {
-   "symbol": "HOM.U",
-   "name": "BSR Real Estate Investment Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "HOM.U.TO",
+   "symbol": "BRC",
+   "name": "Blackrock Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BRC.V",
    "instruments": [
     {
-     "name": "BSR REIT Invest USF",
-     "symbol": "HOM.U"
-    },
-    {
-     "name": "BSR REIT Invest Un",
-     "symbol": "HOM.UN"
+     "name": "Blackrock Silver Corp.",
+     "symbol": "BRC"
     }
    ]
   },
   {
-   "symbol": "IAE",
-   "name": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest",
+   "symbol": "ASGI.R",
+   "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "IAE"
-  },
-  {
-   "symbol": "IHD",
-   "name": "Voya Emerging Markets High Income Dividend Equity Fund Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IHD"
-  },
-  {
-   "symbol": "PRIF$L",
-   "name": "Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PRIF$L"
-  },
-  {
-   "symbol": "QETAU",
-   "name": "Quetta Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QETAU"
-  },
-  {
-   "symbol": "BKKT.W",
-   "name": "Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKKT.W"
-  },
-  {
-   "symbol": "EMSC",
-   "name": "Sophus Capital Emerging Market Small Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EMSC"
-  },
-  {
-   "symbol": "SKYD.V",
-   "name": "Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "SKYD.V"
-  },
-  {
-   "symbol": "NXDR",
-   "name": "Nextdoor Holdings, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NXDR"
+   "yahoo_symbol": "ASGI.R"
   }
  ]
 }
