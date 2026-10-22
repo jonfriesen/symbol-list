@@ -1,72 +1,132 @@
 {
  "added": [
   {
-   "symbol": "AHIC",
-   "name": "Allspring Short-Term High Income Fund ETF",
+   "symbol": "JUNO",
+   "name": "Juno Industries Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JUNO.V",
+   "instruments": [
+    {
+     "name": "Juno Industries Ltd.",
+     "symbol": "JUNO"
+    }
+   ]
+  },
+  {
+   "symbol": "NSKY",
+   "name": "North Sky Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NSKY.V",
+   "instruments": [
+    {
+     "name": "North Sky Metals Corp.",
+     "symbol": "NSKY"
+    }
+   ]
+  },
+  {
+   "symbol": "NEBP",
+   "name": "NEI Balanced ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NEBP.TO",
+   "instruments": [
+    {
+     "name": "NEI Balanced ETF Prt",
+     "symbol": "NEBP"
+    }
+   ]
+  },
+  {
+   "symbol": "NECP",
+   "name": "NEI Conservative Income ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NECP.TO",
+   "instruments": [
+    {
+     "name": "NEI Cons Inc ETF Prt",
+     "symbol": "NECP"
+    }
+   ]
+  },
+  {
+   "symbol": "NESB",
+   "name": "NEI Global Short-Term Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NESB.TO",
+   "instruments": [
+    {
+     "name": "NEI Glb Shrt Trm BdF",
+     "symbol": "NESB"
+    }
+   ]
+  },
+  {
+   "symbol": "NEGP",
+   "name": "NEI Growth ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NEGP.TO",
+   "instruments": [
+    {
+     "name": "NEI Growth ETF Prtfo",
+     "symbol": "NEGP"
+    }
+   ]
+  },
+  {
+   "symbol": "DAVI",
+   "name": "Davion Healthcare Plc - Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AHIC"
+   "yahoo_symbol": "DAVI"
   },
   {
-   "symbol": "AHYM",
-   "name": "Allspring High Yield Municipal Bond Fund ETF",
+   "symbol": "EMAG",
+   "name": "Emerging Markets AI Mag 3 ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AHYM"
+   "yahoo_symbol": "EMAG"
   },
   {
-   "symbol": "ASTM",
-   "name": "Allspring Strategic Municipal Bond Fund ETF",
+   "symbol": "NANO",
+   "name": "Forge Nano Holdings Inc. - Common stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASTM"
+   "yahoo_symbol": "NANO"
   },
   {
-   "symbol": "TLCE",
-   "name": "Thrivent Large Cap Stock ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLCE"
-  },
-  {
-   "symbol": "TSIE",
-   "name": "Thrivent Securitized Income ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSIE"
-  },
-  {
-   "symbol": "IIPR$B",
-   "name": "Innovative Industrial Properties, Inc. 9.25% Series B Cumulative Redeemable Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "IIPR$B"
-  },
-  {
-   "symbol": "MSGK.V",
-   "name": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MSGK.V"
-  },
-  {
-   "symbol": "MSGR.V",
-   "name": "MSG Rangers Corp. Class A Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MSGR.V"
+   "symbol": "NANOW",
+   "name": "Forge Nano Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NANOW"
   }
  ],
  "removed": [
   {
-   "symbol": "BTF",
-   "name": "CoinShares Bitcoin and Ether ETF",
+   "symbol": "ATIIW",
+   "name": "Archimedes Tech SPAC Partners II Co. - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BTF"
+   "yahoo_symbol": "ATIIW"
   },
   {
-   "symbol": "BCAT.R",
-   "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BCAT.R"
+   "symbol": "ATII",
+   "name": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATII"
   },
   {
-   "symbol": "DIME",
-   "name": "CoinShares Altcoins ETF",
+   "symbol": "TBLZ.P",
+   "name": "Trail Blazer Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TBLZ.P.V",
+   "instruments": [
+    {
+     "name": "Trail Blazer Capital Corp.",
+     "symbol": "TBLZ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ATIIU",
+   "name": "Archimedes Tech SPAC Partners II Co. - Unit",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DIME"
+   "yahoo_symbol": "ATIIU"
   }
  ]
 }
