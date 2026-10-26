@@ -1445,6 +1445,7 @@ AMD,Advanced Micro Devices CDR (CAD Hedged),TSX,AMD.TO,AMD CDR CAD Hedged,AMD
 AAV,Advantage Energy Ltd.,TSX,AAV.TO,Advantage Energy Ltd,AAV,Adv Engy5.0 USub Db ,AAV.DB
 ARE,Aecon Group Inc.,TSX,ARE.TO,Aecon Group Inc.,ARE
 AEG,Aegis Brands Inc.,TSX,AEG.TO,Aegis Brands Inc.,AEG
+AETR,Aetherion Technologies Inc.,TSX,AETR.TO,Westport Fuel Sys,AETR
 AFN,Ag Growth International Inc.,TSX,AFN.TO,Ag Growth Int'l Inc.,AFN,AG GrowthIntlDec26Db,AFN.DB.H,Ag Growth Intl 5% DB,AFN.DB.I,Ag Growth Intl 5.2Db,AFN.DB.J,Ag Growth Intl 7.5DB,AFN.DB.K
 AMGR,AGF American Growth Fund,TSX,AMGR.TO,AGF Amrcn Grwth Fd E,AMGR
 AENP,AGF Enhanced U.S. Income Plus Fund,TSX,AENP.TO,AGF Enh US Inc Plus,AENP
@@ -2150,6 +2151,9 @@ DXCO,Dynamic Credit Opportunities Fund,TSX,DXCO.TO,Dyn Cred Opps Fd ETF,DXCO
 DXBG,Dynamic Global Fixed Income Fund,TSX,DXBG.TO,Dyn GlFix IncFnd ETF,DXBG
 DXR,Dynamic Retirement Income Fund,TSX,DXR.TO,Dynamic Retir Inc Fd,DXR
 DXCP,Dynamic Short Term Credit PLUS Fund,TSX,DXCP.TO,Dyn STCr Pl Fnd ETF,DXCP
+DSCA,Dynamic Systematic Canadian Equity ETF,TSX,DSCA.TO,Dynamic Syst CAD EqE,DSCA
+DSIT,Dynamic Systematic International Equity ETF,TSX,DSIT.TO,Dynamic Syst Int Eq,DSIT
+DSAM,Dynamic Systematic U.S. Equity ETF,TSX,DSAM.TO,Dynamic Syst US Eq E,DSAM
 ENS,E Split Corp.,TSX,ENS.TO,E Split Corp. Cl A,ENS,E Split Corp. Pr,ENS.PR.A
 ELF,E-L Financial Corporation Limited,TSX,ELF.TO,E-L Financial Corp.,ELF,E-L Financial 1st Pr,ELF.PR.F,E-L Financl 4.75 Pr2,ELF.PR.G,E-L Financl 5.5 Pr 3,ELF.PR.H
 EAGR,East Side Games Group Inc.,TSX,EAGR.TO,East Side Games J,EAGR
@@ -2910,6 +2914,7 @@ PBY,Lysander-Canso Credit Income ActivETF,TSX,PBY.TO,Lysander-Can Cr I AE,PBY
 LYFR,Lysander-Canso Floating Rate ActivETF,TSX,LYFR.TO,LysanderCan FltgActv,LYFR
 LYUV.U,Lysander-Canso U.S. Corporate Value Bond Fund,TSX,LYUV.U.TO,Lysander USCorBF ETF,LYUV.U
 PR,Lysander-Slater Preferred Share ActivETF,TSX,PR.TO,Lysander-SlatrPrActv,PR
+LTCE,Lysander-Triasima Canadian Equity Fund,TSX,LTCE.TO,Lysander-Tria C Eq F,LTCE
 LORL,L’Oréal CDR (CAD Hedged),TSX,LORL.TO,LOreal CDR CAD Hed,LORL
 XMF.A,M Split Corp.,TSX,XMF.A.TO,M Split Corp. 14 Cap,XMF.A,M Split Corp Cl 1 Pr,XMF.PR.B,M Split Corp 14-2 Pr,XMF.PR.C
 MAAA,Mackenzie AAA CLO ETF,TSX,MAAA.TO,Macknzie AAA CLO ETF,MAAA
@@ -3733,7 +3738,6 @@ WDC,Western Digital CDR (CAD Hedged),TSX,WDC.TO,Western Dgtl CDR Hd,WDC
 WRG,Western Energy Services Corp.,TSX,WRG.TO,Western Energy Serv,WRG
 WEF,Western Forest Products Inc.,TSX,WEF.TO,Western Forest Prod,WEF
 WGX,Westgold Resources Limited,TSX,WGX.TO,Westgold Res Ltd,WGX
-WPRT,Westport Fuel Systems Inc.,TSX,WPRT.TO,Westport Fuel Sys,WPRT
 WTE,Westshore Terminals Investment Corporation,TSX,WTE.TO,Westshore Terminals,WTE
 WPM,Wheaton Precious Metals Corp.,TSX,WPM.TO,Wheaton Precious Mtl,WPM
 WCP,Whitecap Resources Inc.,TSX,WCP.TO,Whitecap Resources,WCP
@@ -3770,7 +3774,6 @@ ABR$F,"Arbor Realty Trust 6.25% Series F Fixed-to-Floating Rate Cumulative Redee
 ABT,Abbott Laboratories Common Stock,NYSE,ABT
 ABX,"Abacus Global Management, Inc. Class A Common Stock",NYSE,ABX
 ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",NYSE,ABXL
-ACA,"Arcosa, Inc. Common Stock ",NYSE,ACA
 ACCO,Acco Brands Corporation Common Stock,NYSE,ACCO
 ACCS,ACCESS Newswire Inc. Common Stock,NYSE MKT,ACCS
 ACEL,"Accel Entertainment, Inc. ",NYSE,ACEL
@@ -4706,7 +4709,6 @@ ELF,"e.l.f. Beauty, Inc. Common Stock",NYSE,ELF
 ELLA,Ellington Credit Company 8.50% Notes due 2031,NYSE,ELLA
 ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),NYSE MKT,ELLO
 ELMD,"Electromed, Inc. Common Stock",NYSE MKT,ELMD
-ELME,Elme Communities Common Stock,NYSE,ELME
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),NYSE,ELPC
 ELS,"Equity Lifestyle Properties, Inc. Common Stock",NYSE,ELS
 ELV,"Elevance Health, Inc. Common Stock",NYSE,ELV
@@ -5076,6 +5078,7 @@ GTN,"Gray Media, Inc. Common Stock",NYSE,GTN
 GTN.A,"Gray Media, Inc. Class A Common Stock",NYSE,GTN.A
 GTY,Getty Realty Corporation Common Stock,NYSE,GTY
 GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,NYSE,GUG
+GUNN,Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares),NYSE MKT,GUNN
 GUT,Gabelli Utility Trust (The) Common Stock,NYSE,GUT
 GUT$C,Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares,NYSE,GUT$C
 GVA,Granite Construction Incorporated Common Stock,NYSE,GVA
@@ -5913,7 +5916,6 @@ PAII,Pyrophyte Acquisition Corp. II Class A Ordinary Shares,NYSE,PAII
 PAII.U,"Pyrophyte Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",NYSE,PAII.U
 PAII.W,"Pyrophyte Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",NYSE,PAII.W
 PAM,Pampa Energia S.A.,NYSE,PAM
-PAPL,Pineapple Financial Inc. Common Stock,NYSE MKT,PAPL
 PAR,PAR Technology Corporation Common Stock,NYSE,PAR
 PARR,"Par Pacific Holdings, Inc.  Common Stock",NYSE,PARR
 PATH,"UiPath, Inc. Class A Common Stock",NYSE,PATH
@@ -6090,6 +6092,7 @@ PSUS,"Pershing Square USA, Ltd. Common Shares",NYSE,PSUS
 PSX,Phillips 66 Common Stock,NYSE,PSX
 PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest,NYSE,PTA
 PTHS,Pelthos Therapeutics Inc. Common Stock,NYSE MKT,PTHS
+PTIV,Pineapple Financial Inc. Common Stock,NYSE MKT,PTIV
 PTY,Pimco Corporate & Income Opportunity Fund,NYSE,PTY
 PUK,Prudential Public Limited Company Common Stock,NYSE,PUK
 PUMP,ProPetro Holding Corp. Common Stock,NYSE,PUMP
@@ -6796,7 +6799,6 @@ WDH,Waterdrop Inc. American Depositary Shares (each representing the right to re
 WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,NYSE,WDI
 WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",NYSE,WDS
 WEA,Western Asset Bond Fund Share of Beneficial Interest,NYSE,WEA
-WEAV,"Weave Communications, Inc. Common Stock",NYSE,WEAV
 WEC,"WEC Energy Group, Inc. Common Stock",NYSE,WEC
 WELL,Welltower Inc. Common Stock,NYSE,WELL
 WENC,West Enclave Merger Corp. Ordinary Shares,NYSE,WENC
@@ -7068,6 +7070,7 @@ AESP,Aeon Acquisition I Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,A
 AESPR,Aeon Acquisition I Corp. - Rights,NASDAQ Global MarketSM,AESPR
 AESPU,Aeon Acquisition I Corp. - Units,NASDAQ Global MarketSM,AESPU
 AESPW,Aeon Acquisition I Corp. - Warrants,NASDAQ Global MarketSM,AESPW
+AETR,Aetherion Technologies Inc. - Common Shares,NASDAQ Global Select MarketSM,AETR
 AEVA,"Aeva Technologies, Inc. - Common Stock",NASDAQ Global Select MarketSM,AEVA
 AEYE,"AudioEye, Inc. - Common Stock",NASDAQ Capital Market,AEYE
 AFCG,Advanced Flower Capital Inc. - Common Stock,NASDAQ Global MarketSM,AFCG
@@ -8680,6 +8683,7 @@ FCAL,First Trust California Municipal High income ETF,NASDAQ Global MarketSM,FCA
 FCAP,"First Capital, Inc. - Common Stock",NASDAQ Capital Market,FCAP
 FCBC,"First Community Bankshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,FCBC
 FCCO,First Community Corporation - Common Stock,NASDAQ Capital Market,FCCO
+FCDH,Forcendra Holding Limited - Class A Ordinary Shares,NASDAQ Capital Market,FCDH
 FCEF,First Trust Income Opportunities ETF,NASDAQ Global MarketSM,FCEF
 FCEL,"FuelCell Energy, Inc. - Common Stock",NASDAQ Global MarketSM,FCEL
 FCFS,"FirstCash Holdings, Inc. - Common Stock",NASDAQ Global Select MarketSM,FCFS
@@ -8995,7 +8999,6 @@ GEVG,Leverage Shares 2X Long GEV Daily ETF,NASDAQ Global MarketSM,GEVG
 GEVO,"Gevo, Inc. - Common Stock",NASDAQ Capital Market,GEVO
 GEW,Cambria Global EW ETF,NASDAQ Global MarketSM,GEW
 GFAI,"Guardforce AI Co., Limited - Ordinary Shares",NASDAQ Capital Market,GFAI
-GFGF,Guru Favorite Stocks ETF,NASDAQ Global MarketSM,GFGF
 GFLW,VictoryShares Free Cash Flow Growth ETF,NASDAQ Global MarketSM,GFLW
 GFS,GlobalFoundries Inc. - Ordinary Share,NASDAQ Global Select MarketSM,GFS
 GFUZ,General Fusion Group Ltd. - Common Shares,NASDAQ Global MarketSM,GFUZ
@@ -11102,6 +11105,7 @@ QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,NASDAQ Global MarketSM,QYLG
 RAA,SMI 3Fourteen REAL Asset Allocation ETF,NASDAQ Global MarketSM,RAA
 RACC,Research Alliance Corporation III - Class A Ordinary Shares,NASDAQ Capital Market,RACC
 RACD,Research Alliance Corporation IV - Class A Ordinary Shares,NASDAQ Capital Market,RACD
+RADD,AB US Research Advanced ETF,NASDAQ Global MarketSM,RADD
 RADX,Radiopharm Theranostics Limited - American Depositary Shares,NASDAQ Capital Market,RADX
 RAIL,"Freightcar America, Inc. - Common Stock",NASDAQ Global Select MarketSM,RAIL
 RAIN,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",NASDAQ Capital Market,RAIN
@@ -12250,7 +12254,6 @@ VSAT,"ViaSat, Inc. - Common Stock",NASDAQ Global Select MarketSM,VSAT
 VSDA,VictoryShares Dividend Accelerator ETF,NASDAQ Global MarketSM,VSDA
 VSEC,VSE Corporation - Common Stock,NASDAQ Global Select MarketSM,VSEC
 VSECU,VSE Corporation - Tangible Equity Units,NASDAQ Global Select MarketSM,VSECU
-VSME,VS Media Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,VSME
 VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ Global MarketSM,VSMV
 VSNT,"Versant Media Group, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,VSNT
 VSOL,VanEck Solana ETF,NASDAQ Global MarketSM,VSOL
@@ -12348,7 +12351,6 @@ WOK,WORK Medical Technology Group LTD - Class A Ordinary Shares,NASDAQ Capital M
 WOOD,iShares Global Timber & Forestry ETF,NASDAQ Global MarketSM,WOOD
 WOOF,"Petco Health and Wellness Company, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,WOOF
 WORX,SCWorx Corp. - Common Stock,NASDAQ Capital Market,WORX
-WPRT,Westport Fuel Systems Inc - Common Shares,NASDAQ Global Select MarketSM,WPRT
 WQEY,WISeQey Corp - Ordinary Shares,NASDAQ Global MarketSM,WQEY
 WRAP,"Wrap Technologies, Inc. - Common Stock",NASDAQ Capital Market,WRAP
 WRD,WeRide Inc. - American Depositary Shares,NASDAQ Global MarketSM,WRD

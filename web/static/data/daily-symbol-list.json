@@ -1,5 +1,5 @@
 {
- "date": "2026-10-23",
+ "date": "2026-10-26",
  "data": [
   {
    "symbol": "ONE",
@@ -17574,6 +17574,18 @@
    ]
   },
   {
+   "symbol": "AETR",
+   "name": "Aetherion Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AETR.TO",
+   "instruments": [
+    {
+     "name": "Westport Fuel Sys",
+     "symbol": "AETR"
+    }
+   ]
+  },
+  {
    "symbol": "AFN",
    "name": "Ag Growth International Inc.",
    "exchange": "TSX",
@@ -27218,6 +27230,42 @@
     {
      "name": "Dyn STCr Pl Fnd ETF",
      "symbol": "DXCP"
+    }
+   ]
+  },
+  {
+   "symbol": "DSCA",
+   "name": "Dynamic Systematic Canadian Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DSCA.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Syst CAD EqE",
+     "symbol": "DSCA"
+    }
+   ]
+  },
+  {
+   "symbol": "DSIT",
+   "name": "Dynamic Systematic International Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DSIT.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Syst Int Eq",
+     "symbol": "DSIT"
+    }
+   ]
+  },
+  {
+   "symbol": "DSAM",
+   "name": "Dynamic Systematic U.S. Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DSAM.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Syst US Eq E",
+     "symbol": "DSAM"
     }
    ]
   },
@@ -37214,6 +37262,18 @@
     {
      "name": "Lysander-SlatrPrActv",
      "symbol": "PR"
+    }
+   ]
+  },
+  {
+   "symbol": "LTCE",
+   "name": "Lysander-Triasima Canadian Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "LTCE.TO",
+   "instruments": [
+    {
+     "name": "Lysander-Tria C Eq F",
+     "symbol": "LTCE"
     }
    ]
   },
@@ -47954,18 +48014,6 @@
    ]
   },
   {
-   "symbol": "WPRT",
-   "name": "Westport Fuel Systems Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "WPRT.TO",
-   "instruments": [
-    {
-     "name": "Westport Fuel Sys",
-     "symbol": "WPRT"
-    }
-   ]
-  },
-  {
    "symbol": "WTE",
    "name": "Westshore Terminals Investment Corporation",
    "exchange": "TSX",
@@ -48266,12 +48314,6 @@
    "name": "Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",
    "exchange": "NYSE",
    "yahoo_symbol": "ABXL"
-  },
-  {
-   "symbol": "ACA",
-   "name": "Arcosa, Inc. Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ACA"
   },
   {
    "symbol": "ACCO",
@@ -53884,12 +53926,6 @@
    "yahoo_symbol": "ELMD"
   },
   {
-   "symbol": "ELME",
-   "name": "Elme Communities Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ELME"
-  },
-  {
    "symbol": "ELPC",
    "name": "Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)",
    "exchange": "NYSE",
@@ -56102,6 +56138,12 @@
    "name": "Guggenheim Active Allocation Fund Common Shares of Beneficial Interest",
    "exchange": "NYSE",
    "yahoo_symbol": "GUG"
+  },
+  {
+   "symbol": "GUNN",
+   "name": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GUNN"
   },
   {
    "symbol": "GUT",
@@ -61126,12 +61168,6 @@
    "yahoo_symbol": "PAM"
   },
   {
-   "symbol": "PAPL",
-   "name": "Pineapple Financial Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PAPL"
-  },
-  {
    "symbol": "PAR",
    "name": "PAR Technology Corporation Common Stock",
    "exchange": "NYSE",
@@ -62186,6 +62222,12 @@
    "name": "Pelthos Therapeutics Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "PTHS"
+  },
+  {
+   "symbol": "PTIV",
+   "name": "Pineapple Financial Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PTIV"
   },
   {
    "symbol": "PTY",
@@ -66424,12 +66466,6 @@
    "yahoo_symbol": "WEA"
   },
   {
-   "symbol": "WEAV",
-   "name": "Weave Communications, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "WEAV"
-  },
-  {
    "symbol": "WEC",
    "name": "WEC Energy Group, Inc. Common Stock",
    "exchange": "NYSE",
@@ -68054,6 +68090,12 @@
    "name": "Aeon Acquisition I Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AESPW"
+  },
+  {
+   "symbol": "AETR",
+   "name": "Aetherion Technologies Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AETR"
   },
   {
    "symbol": "AEVA",
@@ -77728,6 +77770,12 @@
    "yahoo_symbol": "FCCO"
   },
   {
+   "symbol": "FCDH",
+   "name": "Forcendra Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FCDH"
+  },
+  {
    "symbol": "FCEF",
    "name": "First Trust Income Opportunities ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -79616,12 +79664,6 @@
    "name": "Guardforce AI Co., Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GFAI"
-  },
-  {
-   "symbol": "GFGF",
-   "name": "Guru Favorite Stocks ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GFGF"
   },
   {
    "symbol": "GFLW",
@@ -92260,6 +92302,12 @@
    "yahoo_symbol": "RACD"
   },
   {
+   "symbol": "RADD",
+   "name": "AB US Research Advanced ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RADD"
+  },
+  {
    "symbol": "RADX",
    "name": "Radiopharm Theranostics Limited - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -99148,12 +99196,6 @@
    "yahoo_symbol": "VSECU"
   },
   {
-   "symbol": "VSME",
-   "name": "VS Media Holdings Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSME"
-  },
-  {
    "symbol": "VSMV",
    "name": "VictoryShares US Multi-Factor Minimum Volatility ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -99734,12 +99776,6 @@
    "name": "SCWorx Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "WORX"
-  },
-  {
-   "symbol": "WPRT",
-   "name": "Westport Fuel Systems Inc - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WPRT"
   },
   {
    "symbol": "WQEY",
