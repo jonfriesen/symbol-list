@@ -1,150 +1,168 @@
 {
  "added": [
   {
-   "symbol": "AETR",
-   "name": "Aetherion Technologies Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "AETR.TO",
+   "symbol": "TAG",
+   "name": "TruSilver Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TAG.V",
    "instruments": [
     {
-     "name": "Westport Fuel Sys",
-     "symbol": "AETR"
+     "name": "TruSilver Metals Corp.",
+     "symbol": "TAG"
     }
    ]
   },
   {
-   "symbol": "DSCA",
-   "name": "Dynamic Systematic Canadian Equity ETF",
+   "symbol": "CAML",
+   "name": "Central Asia Metals plc",
    "exchange": "TSX",
-   "yahoo_symbol": "DSCA.TO",
+   "yahoo_symbol": "CAML.TO",
    "instruments": [
     {
-     "name": "Dynamic Syst CAD EqE",
-     "symbol": "DSCA"
+     "name": "Central Asia Metals",
+     "symbol": "CAML"
     }
    ]
   },
   {
-   "symbol": "DSIT",
-   "name": "Dynamic Systematic International Equity ETF",
+   "symbol": "VITL.DB.I",
+   "name": "Vital Infrastructure Property Trust",
    "exchange": "TSX",
-   "yahoo_symbol": "DSIT.TO",
+   "yahoo_symbol": "VITL.DB.I.TO",
    "instruments": [
     {
-     "name": "Dynamic Syst Int Eq",
-     "symbol": "DSIT"
+     "name": "Vital Infrast 7.75Db",
+     "symbol": "VITL.DB.I"
+    },
+    {
+     "name": "Vital Infra Propt Un",
+     "symbol": "VITL.UN"
     }
    ]
   },
   {
-   "symbol": "DSAM",
-   "name": "Dynamic Systematic U.S. Equity ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "DSAM.TO",
-   "instruments": [
-    {
-     "name": "Dynamic Syst US Eq E",
-     "symbol": "DSAM"
-    }
-   ]
-  },
-  {
-   "symbol": "LTCE",
-   "name": "Lysander-Triasima Canadian Equity Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "LTCE.TO",
-   "instruments": [
-    {
-     "name": "Lysander-Tria C Eq F",
-     "symbol": "LTCE"
-    }
-   ]
-  },
-  {
-   "symbol": "GUNN",
-   "name": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GUNN"
-  },
-  {
-   "symbol": "PTIV",
-   "name": "Pineapple Financial Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PTIV"
-  },
-  {
-   "symbol": "AETR",
-   "name": "Aetherion Technologies Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AETR"
-  },
-  {
-   "symbol": "FCDH",
-   "name": "Forcendra Holding Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FCDH"
-  },
-  {
-   "symbol": "RADD",
-   "name": "AB US Research Advanced ETF",
+   "symbol": "SCQCU",
+   "name": "SPACCircle Acquisition Corp. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RADD"
+   "yahoo_symbol": "SCQCU"
+  },
+  {
+   "symbol": "YSKH",
+   "name": "YieldMax SKHY Option Income Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YSKH"
+  },
+  {
+   "symbol": "MSGK",
+   "name": "MSG Knickerbockers Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSGK"
+  },
+  {
+   "symbol": "MSGR",
+   "name": "MSG Rangers Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSGR"
   }
  ],
  "removed": [
   {
-   "symbol": "GFGF",
-   "name": "Guru Favorite Stocks ETF",
+   "symbol": "KPDD",
+   "name": "KraneShares 2x Long PDD Daily ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GFGF"
+   "yahoo_symbol": "KPDD"
   },
   {
-   "symbol": "WEAV",
-   "name": "Weave Communications, Inc. Common Stock",
+   "symbol": "MSGK.V",
+   "name": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued",
    "exchange": "NYSE",
-   "yahoo_symbol": "WEAV"
+   "yahoo_symbol": "MSGK.V"
   },
   {
-   "symbol": "PAPL",
-   "name": "Pineapple Financial Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "PAPL"
+   "symbol": "MSGS",
+   "name": "Madison Square Garden Sports Corp. Class A Common Stock (New)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSGS"
   },
   {
-   "symbol": "VSME",
-   "name": "VS Media Holdings Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VSME"
+   "symbol": "KBDU",
+   "name": "KraneShares 2x Long BIDU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBDU"
   },
   {
-   "symbol": "WPRT",
-   "name": "Westport Fuel Systems Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "WPRT.TO",
+   "symbol": "GXY.P",
+   "name": "Galaxy Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GXY.P.V",
    "instruments": [
     {
-     "name": "Westport Fuel Sys",
-     "symbol": "WPRT"
+     "name": "Galaxy Ventures Inc.",
+     "symbol": "GXY.P"
     }
    ]
   },
   {
-   "symbol": "ACA",
-   "name": "Arcosa, Inc. Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ACA"
+   "symbol": "VITL.DB.H",
+   "name": "Vital Infrastructure Property Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "VITL.DB.H.TO",
+   "instruments": [
+    {
+     "name": "Vital Infra 6.25Db",
+     "symbol": "VITL.DB.H"
+    },
+    {
+     "name": "Vital Infrast 7.75Db",
+     "symbol": "VITL.DB.I"
+    },
+    {
+     "name": "Vital Infra Propt Un",
+     "symbol": "VITL.UN"
+    }
+   ]
   },
   {
-   "symbol": "WPRT",
-   "name": "Westport Fuel Systems Inc - Common Shares",
+   "symbol": "KJD",
+   "name": "KraneShares 2x Long JD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KJD"
+  },
+  {
+   "symbol": "MSGR.V",
+   "name": "MSG Rangers Corp. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSGR.V"
+  },
+  {
+   "symbol": "KMLI",
+   "name": "KraneShares 2x Long MELI Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KMLI"
+  },
+  {
+   "symbol": "KBAB",
+   "name": "KraneShares 2x Long BABA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBAB"
+  },
+  {
+   "symbol": "NATH",
+   "name": "Nathan's Famous, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WPRT"
+   "yahoo_symbol": "NATH"
   },
   {
-   "symbol": "ELME",
-   "name": "Elme Communities Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ELME"
+   "symbol": "CYG",
+   "name": "Cygnus Metals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CYG.V",
+   "instruments": [
+    {
+     "name": "Cygnus Metals Limited",
+     "symbol": "CYG"
+    }
+   ]
   }
  ]
 }
