@@ -1,168 +1,150 @@
 {
  "added": [
   {
-   "symbol": "TAG",
-   "name": "TruSilver Metals Corp.",
+   "symbol": "NACM",
+   "name": "North Atlantic Critical Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "TAG.V",
+   "yahoo_symbol": "NACM.V",
    "instruments": [
     {
-     "name": "TruSilver Metals Corp.",
-     "symbol": "TAG"
+     "name": "North Atlantic Critical Metals Corp.",
+     "symbol": "NACM"
     }
    ]
   },
   {
-   "symbol": "CAML",
-   "name": "Central Asia Metals plc",
+   "symbol": "SMP",
+   "name": "Southern Empire Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMP.V",
+   "instruments": [
+    {
+     "name": "Southern Empire Resources Corp.",
+     "symbol": "SMP"
+    }
+   ]
+  },
+  {
+   "symbol": "SUNV",
+   "name": "Sun Valley Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUNV.V",
+   "instruments": [
+    {
+     "name": "Sun Valley Minerals Inc.",
+     "symbol": "SUNV"
+    }
+   ]
+  },
+  {
+   "symbol": "MMEM",
+   "name": "Mackenzie Modus Emerging Markets Equity ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "CAML.TO",
+   "yahoo_symbol": "MMEM.TO",
    "instruments": [
     {
-     "name": "Central Asia Metals",
-     "symbol": "CAML"
+     "name": "Mack Modus Emrg Mk E",
+     "symbol": "MMEM"
     }
    ]
   },
   {
-   "symbol": "VITL.DB.I",
-   "name": "Vital Infrastructure Property Trust",
-   "exchange": "TSX",
-   "yahoo_symbol": "VITL.DB.I.TO",
-   "instruments": [
-    {
-     "name": "Vital Infrast 7.75Db",
-     "symbol": "VITL.DB.I"
-    },
-    {
-     "name": "Vital Infra Propt Un",
-     "symbol": "VITL.UN"
-    }
-   ]
+   "symbol": "AZR",
+   "name": "Azora Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZR"
   },
   {
-   "symbol": "SCQCU",
-   "name": "SPACCircle Acquisition Corp. - Units",
+   "symbol": "BHAIU",
+   "name": "BHAV Acquisition Corp II - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SCQCU"
+   "yahoo_symbol": "BHAIU"
   },
   {
-   "symbol": "YSKH",
-   "name": "YieldMax SKHY Option Income Strategy ETF",
+   "symbol": "FBEQ",
+   "name": "Franklin US Equity Bitcoin Drip Index ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YSKH"
+   "yahoo_symbol": "FBEQ"
   },
   {
-   "symbol": "MSGK",
-   "name": "MSG Knickerbockers Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MSGK"
+   "symbol": "FFTT",
+   "name": "Masonglory Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFTT"
   },
   {
-   "symbol": "MSGR",
-   "name": "MSG Rangers Corp. Class A Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MSGR"
+   "symbol": "FIBT",
+   "name": "Franklin US Innovation Bitcoin DRIP Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIBT"
+  },
+  {
+   "symbol": "GBC",
+   "name": "Georgia Banking Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBC"
   }
  ],
  "removed": [
   {
-   "symbol": "KPDD",
-   "name": "KraneShares 2x Long PDD Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KPDD"
+   "symbol": "MSGY",
+   "name": "Masonglory Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSGY"
   },
   {
-   "symbol": "MSGK.V",
-   "name": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MSGK.V"
-  },
-  {
-   "symbol": "MSGS",
-   "name": "Madison Square Garden Sports Corp. Class A Common Stock (New)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MSGS"
-  },
-  {
-   "symbol": "KBDU",
-   "name": "KraneShares 2x Long BIDU Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KBDU"
-  },
-  {
-   "symbol": "GXY.P",
-   "name": "Galaxy Ventures Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GXY.P.V",
-   "instruments": [
-    {
-     "name": "Galaxy Ventures Inc.",
-     "symbol": "GXY.P"
-    }
-   ]
-  },
-  {
-   "symbol": "VITL.DB.H",
-   "name": "Vital Infrastructure Property Trust",
+   "symbol": "ROOT",
+   "name": "Roots Corporation",
    "exchange": "TSX",
-   "yahoo_symbol": "VITL.DB.H.TO",
+   "yahoo_symbol": "ROOT.TO",
    "instruments": [
     {
-     "name": "Vital Infra 6.25Db",
-     "symbol": "VITL.DB.H"
-    },
-    {
-     "name": "Vital Infrast 7.75Db",
-     "symbol": "VITL.DB.I"
-    },
-    {
-     "name": "Vital Infra Propt Un",
-     "symbol": "VITL.UN"
+     "name": "Roots Corporation",
+     "symbol": "ROOT"
     }
    ]
   },
   {
-   "symbol": "KJD",
-   "name": "KraneShares 2x Long JD Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KJD"
-  },
-  {
-   "symbol": "MSGR.V",
-   "name": "MSG Rangers Corp. Class A Common Stock When-Issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "MSGR.V"
-  },
-  {
-   "symbol": "KMLI",
-   "name": "KraneShares 2x Long MELI Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KMLI"
-  },
-  {
-   "symbol": "KBAB",
-   "name": "KraneShares 2x Long BABA Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KBAB"
-  },
-  {
-   "symbol": "NATH",
-   "name": "Nathan's Famous, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NATH"
-  },
-  {
-   "symbol": "CYG",
-   "name": "Cygnus Metals Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CYG.V",
+   "symbol": "PPR",
+   "name": "Prairie Provident Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PPR.TO",
    "instruments": [
     {
-     "name": "Cygnus Metals Limited",
-     "symbol": "CYG"
+     "name": "Prairie Provident J",
+     "symbol": "PPR"
     }
    ]
+  },
+  {
+   "symbol": "ADIL",
+   "name": "Adial Pharmaceuticals, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADIL"
+  },
+  {
+   "symbol": "EMEM",
+   "name": "Sophus Capital Emerging Market ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMEM"
+  },
+  {
+   "symbol": "USFI",
+   "name": "BrandywineGLOBAL - U.S. Fixed Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USFI"
+  },
+  {
+   "symbol": "MULT",
+   "name": "Franklin Multisector Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MULT"
+  },
+  {
+   "symbol": "DVAL",
+   "name": "BrandywineGLOBAL-Dynamic US Large Cap Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVAL"
   }
  ]
 }
