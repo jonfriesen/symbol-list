@@ -1,120 +1,128 @@
 {
  "added": [
   {
-   "symbol": "FORU",
-   "name": "ForAll Core \u0026 More U.S. Equity Index ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "FORU.TO",
+   "symbol": "LKY",
+   "name": "Lucky Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LKY.V",
    "instruments": [
     {
-     "name": "ForAll Cr\u0026Mr US Eq I",
-     "symbol": "FORU"
+     "name": "Lucky Minerals Inc.",
+     "symbol": "LKY"
     }
    ]
   },
   {
-   "symbol": "ASPE",
-   "name": "Aspen Neuroscience, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ASPE"
+   "symbol": "DPAY",
+   "name": "Dynamic Premium Yield PLUS Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DPAY.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Pr Yld PlusF",
+     "symbol": "DPAY"
+    },
+    {
+     "name": "DynamicPrYd PF Unh U",
+     "symbol": "DPAY.U"
+    },
+    {
+     "name": "Dynamic PrYd PF Hg U",
+     "symbol": "DPAY.V"
+    }
+   ]
   },
   {
-   "symbol": "BBTX",
-   "name": "Bambusa Therapeutics, Inc. - Common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BBTX"
+   "symbol": "CORP",
+   "name": "Mulvihill Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CORP.TO",
+   "instruments": [
+    {
+     "name": "Mulvihill Corp Bd Fd",
+     "symbol": "CORP"
+    }
+   ]
   },
   {
-   "symbol": "METAM",
-   "name": "Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
+   "symbol": "CASK",
+   "name": "Sempreon, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "METAM"
+   "yahoo_symbol": "CASK"
   },
   {
-   "symbol": "NORD",
-   "name": "Nordicus Partners Corporation - Common Stock",
+   "symbol": "NARA",
+   "name": "Narragansett Bancorp, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NORD"
+   "yahoo_symbol": "NARA"
+  },
+  {
+   "symbol": "NMZ.V",
+   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMZ.V"
+  },
+  {
+   "symbol": "OPAY",
+   "name": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPAY"
   }
  ],
  "removed": [
   {
-   "symbol": "DYNCW",
-   "name": "Dynamix Corporation - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DYNCW"
-  },
-  {
-   "symbol": "YHNAU",
-   "name": "YHN Acquisition I Limited - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YHNAU"
-  },
-  {
-   "symbol": "GME.W",
-   "name": "GameStop Corporation Warrants to Purchase Common Stock",
+   "symbol": "KVUE",
+   "name": "Kenvue Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "GME.W"
+   "yahoo_symbol": "KVUE"
   },
   {
-   "symbol": "DYNCU",
-   "name": "Dynamix Corporation - Unit",
+   "symbol": "LQ",
+   "name": "Simplify Tax Aware Alternatives ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DYNCU"
+   "yahoo_symbol": "LQ"
   },
   {
-   "symbol": "EICA",
-   "name": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026",
+   "symbol": "BFRIW",
+   "name": "Biofrontera Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BFRIW"
+  },
+  {
+   "symbol": "MGPI",
+   "name": "MGP Ingredients, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MGPI"
+  },
+  {
+   "symbol": "LXP$C",
+   "name": "LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "EICA"
+   "yahoo_symbol": "LXP$C"
   },
   {
-   "symbol": "YHNAR",
-   "name": "YHN Acquisition I Limited - Right",
+   "symbol": "DINE",
+   "name": "Simplify Tax Aware Diversified Income Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YHNAR"
+   "yahoo_symbol": "DINE"
   },
   {
-   "symbol": "LNAI",
-   "name": "Lunai Bioworks Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LNAI"
+   "symbol": "CBZ",
+   "name": "CBIZ, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CBZ"
   },
   {
-   "symbol": "LTRYW",
-   "name": "Sports Entertainment Gaming Global Corporation  - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LTRYW"
+   "symbol": "RAMP",
+   "name": "LiveRamp Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAMP"
   },
   {
-   "symbol": "DYNC",
-   "name": "Dynamix Corporation - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DYNC"
-  },
-  {
-   "symbol": "GCTK",
-   "name": "GlucoTrack, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GCTK"
-  },
-  {
-   "symbol": "VVO",
-   "name": "Vanguard Global Minimum Volatility ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "VVO.TO",
-   "instruments": [
-    {
-     "name": "Vanguard GlbMinVoltl",
-     "symbol": "VVO"
-    }
-   ]
-  },
-  {
-   "symbol": "YHNA",
-   "name": "YHN Acquisition I Limited - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "YHNA"
+   "symbol": "LXP",
+   "name": "LXP Industrial Trust Common Stock (Maryland REIT)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LXP"
   }
  ]
 }

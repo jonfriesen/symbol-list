@@ -1,5 +1,5 @@
 {
- "date": "2026-10-30",
+ "date": "2026-11-02",
  "data": [
   {
    "symbol": "ONE",
@@ -9178,6 +9178,18 @@
     {
      "name": "Luca Mining Corp.",
      "symbol": "LUCA"
+    }
+   ]
+  },
+  {
+   "symbol": "LKY",
+   "name": "Lucky Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LKY.V",
+   "instruments": [
+    {
+     "name": "Lucky Minerals Inc.",
+     "symbol": "LKY"
     }
    ]
   },
@@ -22220,14 +22232,6 @@
      "symbol": "BN.PF.J"
     },
     {
-     "name": "Brookfld Corp Pr 51",
-     "symbol": "BN.PF.K"
-    },
-    {
-     "name": "Brookfld Corp Pr 52",
-     "symbol": "BN.PF.L"
-    },
-    {
      "name": "Brookfield CoA PR54",
      "symbol": "BN.PF.M"
     },
@@ -26464,7 +26468,7 @@
    "yahoo_symbol": "DRMU.TO",
    "instruments": [
     {
-     "name": "DesjardnsRI US NZ Em",
+     "name": "DesjardnsRI AM Eq E",
      "symbol": "DRMU"
     }
    ]
@@ -26476,7 +26480,7 @@
    "yahoo_symbol": "DRMC.TO",
    "instruments": [
     {
-     "name": "DesjardinsRI CdaNZEm",
+     "name": "DesjardinsRI Cd Eq E",
      "symbol": "DRMC"
     }
    ]
@@ -26488,7 +26492,7 @@
    "yahoo_symbol": "DRME.TO",
    "instruments": [
     {
-     "name": "DesjardnRI EmgMktNZ",
+     "name": "DesjardnRI EmgMkt Eq",
      "symbol": "DRME"
     }
    ]
@@ -26512,7 +26516,7 @@
    "yahoo_symbol": "DRMD.TO",
    "instruments": [
     {
-     "name": "DesjardnRIDvUS-CA NZ",
+     "name": "DesjardnsRI Itnl Eq ",
      "symbol": "DRMD"
     }
    ]
@@ -26524,7 +26528,7 @@
    "yahoo_symbol": "DRFU.TO",
    "instruments": [
     {
-     "name": "DesjardnRI US MFN0Em",
+     "name": "DesjardnRI Mf AmEq E",
      "symbol": "DRFU"
     }
    ]
@@ -26536,7 +26540,7 @@
    "yahoo_symbol": "DRFC.TO",
    "instruments": [
     {
-     "name": "DesjardnsRI CA MF0Em",
+     "name": "DesjardnsRI MfCA Eq",
      "symbol": "DRFC"
     }
    ]
@@ -26548,7 +26552,7 @@
    "yahoo_symbol": "DRFE.TO",
    "instruments": [
     {
-     "name": "DesjardnRI EmergMkMF",
+     "name": "DesjrdnRI Mf EmgMkEq",
      "symbol": "DRFE"
     }
    ]
@@ -26560,7 +26564,7 @@
    "yahoo_symbol": "DRFD.TO",
    "instruments": [
     {
-     "name": "DesjardinsRI DevUSCA",
+     "name": "DesjardinsRI Mf Itnl",
      "symbol": "DRFD"
     }
    ]
@@ -27242,6 +27246,26 @@
     {
      "name": "Dyn GlFix IncFnd ETF",
      "symbol": "DXBG"
+    }
+   ]
+  },
+  {
+   "symbol": "DPAY",
+   "name": "Dynamic Premium Yield PLUS Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DPAY.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Pr Yld PlusF",
+     "symbol": "DPAY"
+    },
+    {
+     "name": "DynamicPrYd PF Unh U",
+     "symbol": "DPAY.U"
+    },
+    {
+     "name": "Dynamic PrYd PF Hg U",
+     "symbol": "DPAY.V"
     }
    ]
   },
@@ -39406,6 +39430,18 @@
    ]
   },
   {
+   "symbol": "CORP",
+   "name": "Mulvihill Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CORP.TO",
+   "instruments": [
+    {
+     "name": "Mulvihill Corp Bd Fd",
+     "symbol": "CORP"
+    }
+   ]
+  },
+  {
    "symbol": "SPFD",
    "name": "Mulvihill Enhanced Split Preferred Share ETF",
    "exchange": "TSX",
@@ -42894,10 +42930,6 @@
     {
      "name": "Quarterhill Inc.",
      "symbol": "QTRH"
-    },
-    {
-     "name": "Quarterhill Inc Deb",
-     "symbol": "QTRH.DB"
     }
    ]
   },
@@ -52002,12 +52034,6 @@
    "yahoo_symbol": "BFRI"
   },
   {
-   "symbol": "BFRIW",
-   "name": "Biofrontera Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BFRIW"
-  },
-  {
    "symbol": "BFST",
    "name": "Business First Bancshares, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -53848,6 +53874,12 @@
    "name": "Pathward Financial, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "CASH"
+  },
+  {
+   "symbol": "CASK",
+   "name": "Sempreon, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CASK"
   },
   {
    "symbol": "CASS",
@@ -56668,12 +56700,6 @@
    "name": "1stdibs.com, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "DIBS"
-  },
-  {
-   "symbol": "DINE",
-   "name": "Simplify Tax Aware Diversified Income Strategy ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DINE"
   },
   {
    "symbol": "DIOD",
@@ -64321,7 +64347,7 @@
   },
   {
    "symbol": "JBDI",
-   "name": "JBDI Holdings Limited - Ordinary Shares",
+   "name": "JBDI Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "JBDI"
   },
@@ -66108,12 +66134,6 @@
    "yahoo_symbol": "LPTH"
   },
   {
-   "symbol": "LQ",
-   "name": "Simplify Tax Aware Alternatives ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LQ"
-  },
-  {
    "symbol": "LQDA",
    "name": "Liquidia Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -67108,12 +67128,6 @@
    "name": "Leverage Shares MANGOS ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MGOL"
-  },
-  {
-   "symbol": "MGPI",
-   "name": "MGP Ingredients, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MGPI"
   },
   {
    "symbol": "MGRC",
@@ -68314,6 +68328,12 @@
    "name": "Forge Nano Holdings Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "NANOW"
+  },
+  {
+   "symbol": "NARA",
+   "name": "Narragansett Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NARA"
   },
   {
    "symbol": "NATO",
@@ -73063,7 +73083,7 @@
   },
   {
    "symbol": "QTEC",
-   "name": "First Trust NASDAQ-100-Technology Sector Index Fund",
+   "name": "First Trust NASDAQ-100- Technology Index Fund",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "QTEC"
   },
@@ -85158,12 +85178,6 @@
    "yahoo_symbol": "CBX"
   },
   {
-   "symbol": "CBZ",
-   "name": "CBIZ, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CBZ"
-  },
-  {
    "symbol": "CC",
    "name": "Chemours Company (The) Common Stock",
    "exchange": "NYSE",
@@ -91692,12 +91706,6 @@
    "yahoo_symbol": "KULR"
   },
   {
-   "symbol": "KVUE",
-   "name": "Kenvue Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KVUE"
-  },
-  {
    "symbol": "KVYO",
    "name": "Klaviyo, Inc. Series A Common Stock",
    "exchange": "NYSE",
@@ -92146,18 +92154,6 @@
    "name": "Luxfer Holdings PLC Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "LXFR"
-  },
-  {
-   "symbol": "LXP",
-   "name": "LXP Industrial Trust Common Stock (Maryland REIT)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LXP"
-  },
-  {
-   "symbol": "LXP$C",
-   "name": "LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LXP$C"
   },
   {
    "symbol": "LXU",
@@ -93834,6 +93830,12 @@
    "yahoo_symbol": "NMZ"
   },
   {
+   "symbol": "NMZ.V",
+   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMZ.V"
+  },
+  {
    "symbol": "NNI",
    "name": "Nelnet, Inc. Common Stock",
    "exchange": "NYSE",
@@ -94534,6 +94536,12 @@
    "name": "Ooma, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "OOMA"
+  },
+  {
+   "symbol": "OPAY",
+   "name": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPAY"
   },
   {
    "symbol": "OPFI",
@@ -96064,12 +96072,6 @@
    "name": "Ralliant Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "RAL"
-  },
-  {
-   "symbol": "RAMP",
-   "name": "LiveRamp Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RAMP"
   },
   {
    "symbol": "RBA",
