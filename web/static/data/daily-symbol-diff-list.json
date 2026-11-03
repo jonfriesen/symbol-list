@@ -1,128 +1,114 @@
 {
  "added": [
   {
-   "symbol": "LKY",
-   "name": "Lucky Minerals Inc.",
+   "symbol": "BASQ.P",
+   "name": "Bastion Square Partners II Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "LKY.V",
+   "yahoo_symbol": "BASQ.P.V",
    "instruments": [
     {
-     "name": "Lucky Minerals Inc.",
-     "symbol": "LKY"
+     "name": "Bastion Square Partners II Inc.",
+     "symbol": "BASQ.P"
     }
    ]
   },
   {
-   "symbol": "DPAY",
-   "name": "Dynamic Premium Yield PLUS Fund",
+   "symbol": "MTAU",
+   "name": "Monteoro Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MTAU.V",
+   "instruments": [
+    {
+     "name": "Monteoro Minerals Ltd.",
+     "symbol": "MTAU"
+    }
+   ]
+  },
+  {
+   "symbol": "MAXQ",
+   "name": "Maritime Launch Services Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "DPAY.TO",
+   "yahoo_symbol": "MAXQ.TO",
    "instruments": [
     {
-     "name": "Dynamic Pr Yld PlusF",
-     "symbol": "DPAY"
-    },
-    {
-     "name": "DynamicPrYd PF Unh U",
-     "symbol": "DPAY.U"
-    },
-    {
-     "name": "Dynamic PrYd PF Hg U",
-     "symbol": "DPAY.V"
+     "name": "Maritime Lnch Srv In",
+     "symbol": "MAXQ"
     }
    ]
   },
   {
-   "symbol": "CORP",
-   "name": "Mulvihill Corporate Bond Fund",
+   "symbol": "TXR",
+   "name": "Torex Resources Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "CORP.TO",
+   "yahoo_symbol": "TXR.TO",
    "instruments": [
     {
-     "name": "Mulvihill Corp Bd Fd",
-     "symbol": "CORP"
+     "name": "Torex Gold Res J",
+     "symbol": "TXR"
     }
    ]
   },
   {
-   "symbol": "CASK",
-   "name": "Sempreon, Inc. - Common Stock",
+   "symbol": "SUPN",
+   "name": "Supernus, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CASK"
-  },
-  {
-   "symbol": "NARA",
-   "name": "Narragansett Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NARA"
-  },
-  {
-   "symbol": "NMZ.V",
-   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NMZ.V"
-  },
-  {
-   "symbol": "OPAY",
-   "name": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "OPAY"
+   "yahoo_symbol": "SUPN"
   }
  ],
  "removed": [
   {
-   "symbol": "KVUE",
-   "name": "Kenvue Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KVUE"
-  },
-  {
-   "symbol": "LQ",
-   "name": "Simplify Tax Aware Alternatives ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LQ"
-  },
-  {
-   "symbol": "BFRIW",
-   "name": "Biofrontera Inc. - Warrants",
+   "symbol": "HODO",
+   "name": "House of Doge Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BFRIW"
+   "yahoo_symbol": "HODO"
   },
   {
-   "symbol": "MGPI",
-   "name": "MGP Ingredients, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MGPI"
-  },
-  {
-   "symbol": "LXP$C",
-   "name": "LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LXP$C"
-  },
-  {
-   "symbol": "DINE",
-   "name": "Simplify Tax Aware Diversified Income Strategy ETF",
+   "symbol": "SWKHL",
+   "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DINE"
+   "yahoo_symbol": "SWKHL"
   },
   {
-   "symbol": "CBZ",
-   "name": "CBIZ, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "CBZ"
+   "symbol": "AUROW",
+   "name": "Aurora Innovation, Inc.  - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AUROW"
   },
   {
-   "symbol": "RAMP",
-   "name": "LiveRamp Holdings, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "RAMP"
+   "symbol": "TXG",
+   "name": "Torex Gold Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TXG.TO",
+   "instruments": [
+    {
+     "name": "Torex Gold Res J",
+     "symbol": "TXG"
+    }
+   ]
   },
   {
-   "symbol": "LXP",
-   "name": "LXP Industrial Trust Common Stock (Maryland REIT)",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LXP"
+   "symbol": "MLEC",
+   "name": "Moolec Science SA - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MLEC"
+  },
+  {
+   "symbol": "INDV",
+   "name": "Indivior Pharmaceuticals, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INDV"
+  },
+  {
+   "symbol": "MLECW",
+   "name": "Moolec Science SA - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MLECW"
+  },
+  {
+   "symbol": "SUPN",
+   "name": "Supernus Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUPN"
   }
  ]
 }

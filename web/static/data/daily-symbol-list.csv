@@ -149,6 +149,7 @@ BLTC.P,Baltic I Acquisition Corp.,TSXV,BLTC.P.V,Baltic I Acquisition Corp.,BLTC.
 BYN,Banyan Gold Corp.,TSXV,BYN.V,Banyan Gold Corp.,BYN
 BRO,Barksdale Resources Corp.,TSXV,BRO.V,Barksdale Resources Corp.,BRO
 BARU,Baru Gold Corp.,TSXV,BARU.V,Baru Gold Corp.,BARU
+BASQ.P,Bastion Square Partners II Inc.,TSXV,BASQ.P.V,Bastion Square Partners II Inc.,BASQ.P
 BAT,Batero Gold Corp.,TSXV,BAT.V,Batero Gold Corp,BAT
 BMV,Bathurst Metals Corp.,TSXV,BMV.V,Bathurst Metals Corp.,BMV
 BMR,Battery Mineral Resources Corp.,TSXV,BMR.V,Battery Mineral Resources Corp.,BMR
@@ -838,6 +839,7 @@ MOGL,Mogul Mountain Ventures Corporation,TSXV,MOGL.V,Mogul Mountain Ventures Cor
 EIRE.P,Monaghan Capital Fund Ltd.,TSXV,EIRE.P.V,Monaghan Capital Fund Ltd.,EIRE.P
 MONA.P,Monarch West Ventures Inc.,TSXV,MONA.P.V,Monarch West Ventures Inc.,MONA.P
 MRZL,Mont Royal Resources Limited.,TSXV,MRZL.V,Mont Royal Resources Limited.,MRZL
+MTAU,Monteoro Minerals Ltd.,TSXV,MTAU.V,Monteoro Minerals Ltd.,MTAU
 MON,Montero Mining and Exploration Ltd.,TSXV,MON.V,Montero Mining and Exploration Ltd.,MON
 MMY,Monument Mining Limited,TSXV,MMY.V,Monument Mining Limited,MMY
 MNRG,Monumental Energy Corp.,TSXV,MNRG.V,Monumental Energy Corp.,MNRG
@@ -3021,6 +3023,7 @@ UDEF,Manulife Smart U.S. Defensive Equity ETF,TSX,UDEF.TO,Manulife USDefEqHeg,UD
 UDIV,Manulife Smart U.S. Dividend ETF,TSX,UDIV.TO,Manulife SmrtUSDivHG,UDIV,Manulife SmrtUSDivUH,UDIV.B,Manulife SmrtUSDivUS,UDIV.U
 MFI,Maple Leaf Foods Inc.,TSX,MFI.TO,Maple Leaf Foods Inc,MFI
 MARI,Marimaca Copper Corp.,TSX,MARI.TO,Marimaca Copper J,MARI
+MAXQ,Maritime Launch Services Inc.,TSX,MAXQ.TO,Maritime Lnch Srv In,MAXQ
 MRE,Martinrea International Inc.,TSX,MRE.TO,Martinrea Int'l Inc.,MRE
 MRV,Marvell Technology CDR (CAD Hedged),TSX,MRV.TO,Marvll Tech CDR Hdg,MRV
 MA,Mastercard CDR (CAD Hedged),TSX,MA.TO,Mastercard CDR Hgd,MA
@@ -3626,7 +3629,7 @@ TI,Titan Mining Corporation,TSX,TI.TO,Titan Mining Corp J,TI
 TJX,TJX CDR (CAD Hedged),TSX,TJX.TO,TJX CDR CAN Hgd,TJX
 X,TMX Group Limited,TSX,X.TO,TMX Group Limited,X
 TPZ,Topaz Energy Corp.,TSX,TPZ.TO,Topaz Energy Corp.,TPZ
-TXG,Torex Gold Resources Inc.,TSX,TXG.TO,Torex Gold Res J,TXG
+TXR,Torex Resources Inc.,TSX,TXR.TO,Torex Gold Res J,TXR
 TIH,Toromont Industries Ltd.,TSX,TIH.TO,Toromont Industries,TIH
 TD,Toronto-Dominion Bank (The),TSX,TD.TO,T.D. Bank,TD,T.D. Bank Ser 1 Pr,TD.PF.A,T.D. Bank Ser 16 Pr,TD.PF.I,T.D. Bank Ser 18 Pr,TD.PF.J
 TOT,Total Energy Services Inc.,TSX,TOT.TO,Total Engy Serv Inc.,TOT
@@ -4250,7 +4253,6 @@ AUPH,Aurinia Pharmaceuticals Inc - Common Shares,NASDAQ Global MarketSM,AUPH
 AUR,"Aurora Innovation, Inc.  - Class A Common Stock",NASDAQ Global Select MarketSM,AUR
 AURA,"Aura Biosciences, Inc. - Common Stock",NASDAQ Global MarketSM,AURA
 AURE,Aurelion Inc.  - Class A Ordinary Shares,NASDAQ Capital Market,AURE
-AUROW,"Aurora Innovation, Inc.  - Warrant",NASDAQ Global Select MarketSM,AUROW
 AUTL,Autolus Therapeutics plc - American Depositary Shares,NASDAQ Global Select MarketSM,AUTL
 AUUD,Auddia Inc. - Common Stock,NASDAQ Capital Market,AUUD
 AVAH,Aveanna Healthcare Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,AVAH
@@ -6087,7 +6089,6 @@ HNNA,"Hennessy Advisors, Inc. - Common Stock",NASDAQ Global MarketSM,HNNA
 HNRG,Hallador Energy Company - Common Stock,NASDAQ Capital Market,HNRG
 HNST,"The Honest Company, Inc. - Common Stock",NASDAQ Global Select MarketSM,HNST
 HNVR,"Hanover Bancorp, Inc. - Common Stock",NASDAQ Global Select MarketSM,HNVR
-HODO,House of Doge Inc. - Common Stock,NASDAQ Capital Market,HODO
 HODU,Direxion Daily HOOD Bull 2X ETF,NASDAQ Global MarketSM,HODU
 HOFT,Hooker Furnishings Corporation - Common Stock,NASDAQ Global Select MarketSM,HOFT
 HOLO,MicroCloud Hologram Inc. - Ordinary Shares,NASDAQ Capital Market,HOLO
@@ -6312,7 +6313,6 @@ INDH,WisdomTree India Hedged Equity Fund,NASDAQ Global MarketSM,INDH
 INDI,"indie Semiconductor, Inc. - Class A Common Stock",NASDAQ Capital Market,INDI
 INDP,"Indaptus Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,INDP
 INDQ,Pacer ActiveAlpha India Quality ETF,NASDAQ Global MarketSM,INDQ
-INDV,"Indivior Pharmaceuticals, Inc.  - Common Stock",NASDAQ Global Select MarketSM,INDV
 INDY,iShares India 50 ETF,NASDAQ Global MarketSM,INDY
 INEO,INNEOVA Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,INEO
 INGN,"Inogen, Inc - Common Stock",NASDAQ Global Select MarketSM,INGN
@@ -6939,8 +6939,6 @@ MLAB,"Mesa Laboratories, Inc. - Common Stock",NASDAQ Global Select MarketSM,MLAB
 MLCI,Mount Logan Capital Inc. - Common Stock,NASDAQ Global MarketSM,MLCI
 MLCIL,Mount Logan Capital Inc. - 8.00% Notes Due 2031,NASDAQ Global MarketSM,MLCIL
 MLCO,Melco Resorts & Entertainment Limited - American Depositary Shares ,NASDAQ Global Select MarketSM,MLCO
-MLEC,Moolec Science SA - Ordinary Shares,NASDAQ Capital Market,MLEC
-MLECW,Moolec Science SA - Warrant,NASDAQ Capital Market,MLECW
 MLGO,"MicroAlgo, Inc. - Ordinary Shares",NASDAQ Capital Market,MLGO
 MLKN,"MillerKnoll, Inc. - Common Stock",NASDAQ Global Select MarketSM,MLKN
 MLTX,MoonLake Immunotherapeutics - Class A Ordinary Shares,NASDAQ Capital Market,MLTX
@@ -8510,7 +8508,7 @@ SUMAR,SUMA Acquisition Corporation - Rights,NASDAQ Global MarketSM,SUMAR
 SUMAU,SUMA Acquisition Corporation - Units,NASDAQ Global MarketSM,SUMAU
 SUNE,"SUNation Energy, Inc. - Common Stock",NASDAQ Capital Market,SUNE
 SUNS,"Sunrise Realty Trust, Inc. - Common Stock",NASDAQ Capital Market,SUNS
-SUPN,"Supernus Pharmaceuticals, Inc. - Common Stock",NASDAQ Global MarketSM,SUPN
+SUPN,"Supernus, Inc. - Common Stock",NASDAQ Global Select MarketSM,SUPN
 SUPP,TCW Transform Supply Chain ETF,NASDAQ Global MarketSM,SUPP
 SUPX,SuperX AI Technology Limited - Ordinary Shares,NASDAQ Capital Market,SUPX
 SURG,"SurgePays, Inc. - Common Stock",NASDAQ Capital Market,SURG
@@ -8539,7 +8537,6 @@ SWAG,"Stran & Company, Inc. - Common Stock",NASDAQ Capital Market,SWAG
 SWAGW,"Stran & Company, Inc. - Warrant",NASDAQ Capital Market,SWAGW
 SWBI,"Smith & Wesson Brands, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWBI
 SWIM,"Latham Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWIM
-SWKHL,SWK Holdings Corporation - 9.00% Senior Notes due 2027,NASDAQ Global MarketSM,SWKHL
 SWKS,"Skyworks Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,SWKS
 SWMR,"Swarmer, Inc - common stock",NASDAQ Capital Market,SWMR
 SWP,SWP Growth & Income ETF,NASDAQ Global MarketSM,SWP

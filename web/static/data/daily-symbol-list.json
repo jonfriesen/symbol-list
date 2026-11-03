@@ -1,5 +1,5 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "data": [
   {
    "symbol": "ONE",
@@ -1806,6 +1806,18 @@
     {
      "name": "Baru Gold Corp.",
      "symbol": "BARU"
+    }
+   ]
+  },
+  {
+   "symbol": "BASQ.P",
+   "name": "Bastion Square Partners II Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BASQ.P.V",
+   "instruments": [
+    {
+     "name": "Bastion Square Partners II Inc.",
+     "symbol": "BASQ.P"
     }
    ]
   },
@@ -10142,6 +10154,18 @@
     {
      "name": "Mont Royal Resources Limited.",
      "symbol": "MRZL"
+    }
+   ]
+  },
+  {
+   "symbol": "MTAU",
+   "name": "Monteoro Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MTAU.V",
+   "instruments": [
+    {
+     "name": "Monteoro Minerals Ltd.",
+     "symbol": "MTAU"
     }
    ]
   },
@@ -38638,6 +38662,18 @@
    ]
   },
   {
+   "symbol": "MAXQ",
+   "name": "Maritime Launch Services Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAXQ.TO",
+   "instruments": [
+    {
+     "name": "Maritime Lnch Srv In",
+     "symbol": "MAXQ"
+    }
+   ]
+  },
+  {
    "symbol": "MRE",
    "name": "Martinrea International Inc.",
    "exchange": "TSX",
@@ -46586,14 +46622,14 @@
    ]
   },
   {
-   "symbol": "TXG",
-   "name": "Torex Gold Resources Inc.",
+   "symbol": "TXR",
+   "name": "Torex Resources Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "TXG.TO",
+   "yahoo_symbol": "TXR.TO",
    "instruments": [
     {
      "name": "Torex Gold Res J",
-     "symbol": "TXG"
+     "symbol": "TXR"
     }
    ]
   },
@@ -51192,12 +51228,6 @@
    "name": "Aurelion Inc.  - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "AURE"
-  },
-  {
-   "symbol": "AUROW",
-   "name": "Aurora Innovation, Inc.  - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AUROW"
   },
   {
    "symbol": "AUTL",
@@ -62216,12 +62246,6 @@
    "yahoo_symbol": "HNVR"
   },
   {
-   "symbol": "HODO",
-   "name": "House of Doge Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HODO"
-  },
-  {
    "symbol": "HODU",
    "name": "Direxion Daily HOOD Bull 2X ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -63564,12 +63588,6 @@
    "name": "Pacer ActiveAlpha India Quality ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "INDQ"
-  },
-  {
-   "symbol": "INDV",
-   "name": "Indivior Pharmaceuticals, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "INDV"
   },
   {
    "symbol": "INDY",
@@ -67326,18 +67344,6 @@
    "name": "Melco Resorts \u0026 Entertainment Limited - American Depositary Shares ",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "MLCO"
-  },
-  {
-   "symbol": "MLEC",
-   "name": "Moolec Science SA - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MLEC"
-  },
-  {
-   "symbol": "MLECW",
-   "name": "Moolec Science SA - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MLECW"
   },
   {
    "symbol": "MLGO",
@@ -76755,8 +76761,8 @@
   },
   {
    "symbol": "SUPN",
-   "name": "Supernus Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "name": "Supernus, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SUPN"
   },
   {
@@ -76926,12 +76932,6 @@
    "name": "Latham Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SWIM"
-  },
-  {
-   "symbol": "SWKHL",
-   "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SWKHL"
   },
   {
    "symbol": "SWKS",
