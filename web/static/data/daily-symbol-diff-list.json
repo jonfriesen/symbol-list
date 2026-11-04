@@ -1,114 +1,82 @@
 {
  "added": [
   {
-   "symbol": "BASQ.P",
-   "name": "Bastion Square Partners II Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "BASQ.P.V",
-   "instruments": [
-    {
-     "name": "Bastion Square Partners II Inc.",
-     "symbol": "BASQ.P"
-    }
-   ]
-  },
-  {
-   "symbol": "MTAU",
-   "name": "Monteoro Minerals Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MTAU.V",
-   "instruments": [
-    {
-     "name": "Monteoro Minerals Ltd.",
-     "symbol": "MTAU"
-    }
-   ]
-  },
-  {
-   "symbol": "MAXQ",
-   "name": "Maritime Launch Services Inc.",
+   "symbol": "LB.PR.H",
+   "name": "Laurentian Bank of Canada",
    "exchange": "TSX",
-   "yahoo_symbol": "MAXQ.TO",
+   "yahoo_symbol": "LB.PR.H.TO",
    "instruments": [
     {
-     "name": "Maritime Lnch Srv In",
-     "symbol": "MAXQ"
+     "name": "Laurentian Bk Pr 13",
+     "symbol": "LB.PR.H"
     }
    ]
   },
   {
-   "symbol": "TXR",
-   "name": "Torex Resources Inc.",
+   "symbol": "PAEF",
+   "name": "Purpose Active Equity Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "TXR.TO",
+   "yahoo_symbol": "PAEF.TO",
    "instruments": [
     {
-     "name": "Torex Gold Res J",
-     "symbol": "TXR"
+     "name": "Purpose Active Eq Fd",
+     "symbol": "PAEF"
     }
    ]
   },
   {
-   "symbol": "SUPN",
-   "name": "Supernus, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SUPN"
+   "symbol": "INK",
+   "name": "AB Equity Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INK"
+  },
+  {
+   "symbol": "SAEN",
+   "name": "Genenta Science S.p.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAEN"
+  },
+  {
+   "symbol": "NMZ.R",
+   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMZ.R"
   }
  ],
  "removed": [
   {
-   "symbol": "HODO",
-   "name": "House of Doge Inc. - Common Stock",
+   "symbol": "GNTA",
+   "name": "Genenta Science S.p.A. - American Depositary Shares",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HODO"
+   "yahoo_symbol": "GNTA"
   },
   {
-   "symbol": "SWKHL",
-   "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SWKHL"
+   "symbol": "NMZ.V",
+   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMZ.V"
   },
   {
-   "symbol": "AUROW",
-   "name": "Aurora Innovation, Inc.  - Warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AUROW"
-  },
-  {
-   "symbol": "TXG",
-   "name": "Torex Gold Resources Inc.",
+   "symbol": "LB",
+   "name": "Laurentian Bank of Canada",
    "exchange": "TSX",
-   "yahoo_symbol": "TXG.TO",
+   "yahoo_symbol": "LB.TO",
    "instruments": [
     {
-     "name": "Torex Gold Res J",
-     "symbol": "TXG"
+     "name": "Laurentian Bk of Can",
+     "symbol": "LB"
+    },
+    {
+     "name": "Laurentian Bk Pr 13",
+     "symbol": "LB.PR.H"
     }
    ]
   },
   {
-   "symbol": "MLEC",
-   "name": "Moolec Science SA - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MLEC"
-  },
-  {
-   "symbol": "INDV",
-   "name": "Indivior Pharmaceuticals, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "INDV"
-  },
-  {
-   "symbol": "MLECW",
-   "name": "Moolec Science SA - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MLECW"
-  },
-  {
-   "symbol": "SUPN",
-   "name": "Supernus Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SUPN"
+   "symbol": "GCDT",
+   "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GCDT"
   }
  ]
 }

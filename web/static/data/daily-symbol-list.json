@@ -1,5 +1,5 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "data": [
   {
    "symbol": "ONE",
@@ -17878,6 +17878,10 @@
     {
      "name": "Algoma Central Corp",
      "symbol": "ALC"
+    },
+    {
+     "name": "Algoma Cnt Crp 6.2DB",
+     "symbol": "ALC.DB.B"
     }
    ]
   },
@@ -37078,15 +37082,11 @@
    ]
   },
   {
-   "symbol": "LB",
+   "symbol": "LB.PR.H",
    "name": "Laurentian Bank of Canada",
    "exchange": "TSX",
-   "yahoo_symbol": "LB.TO",
+   "yahoo_symbol": "LB.PR.H.TO",
    "instruments": [
-    {
-     "name": "Laurentian Bk of Can",
-     "symbol": "LB"
-    },
     {
      "name": "Laurentian Bk Pr 13",
      "symbol": "LB.PR.H"
@@ -42322,6 +42322,18 @@
    ]
   },
   {
+   "symbol": "PAEF",
+   "name": "Purpose Active Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAEF.TO",
+   "instruments": [
+    {
+     "name": "Purpose Active Eq Fd",
+     "symbol": "PAEF"
+    }
+   ]
+  },
+  {
    "symbol": "PAGF",
    "name": "Purpose Active Growth Fund",
    "exchange": "TSX",
@@ -46628,7 +46640,7 @@
    "yahoo_symbol": "TXR.TO",
    "instruments": [
     {
-     "name": "Torex Gold Res J",
+     "name": "Torex Resources Inc.",
      "symbol": "TXR"
     }
    ]
@@ -61070,12 +61082,6 @@
    "yahoo_symbol": "GNSS"
   },
   {
-   "symbol": "GNTA",
-   "name": "Genenta Science S.p.A. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GNTA"
-  },
-  {
    "symbol": "GNTX",
    "name": "Gentex Corporation - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -63620,6 +63626,12 @@
    "yahoo_symbol": "INIO"
   },
   {
+   "symbol": "INK",
+   "name": "AB Equity Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INK"
+  },
+  {
    "symbol": "INKT",
    "name": "MiNK Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -65373,7 +65385,7 @@
   },
   {
    "symbol": "LASE",
-   "name": "Laser Photonics Corporation - Common Stock",
+   "name": "LASE Corp. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "LASE"
   },
@@ -74568,6 +74580,12 @@
    "name": "SAB Biotherapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "SABS"
+  },
+  {
+   "symbol": "SAEN",
+   "name": "Genenta Science S.p.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAEN"
   },
   {
    "symbol": "SAFT",
@@ -89018,12 +89036,6 @@
    "yahoo_symbol": "GBX"
   },
   {
-   "symbol": "GCDT",
-   "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GCDT"
-  },
-  {
    "symbol": "GCO",
    "name": "Genesco Inc. Common Stock",
    "exchange": "NYSE",
@@ -93830,10 +93842,10 @@
    "yahoo_symbol": "NMZ"
   },
   {
-   "symbol": "NMZ.V",
-   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
+   "symbol": "NMZ.R",
+   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights",
    "exchange": "NYSE",
-   "yahoo_symbol": "NMZ.V"
+   "yahoo_symbol": "NMZ.R"
   },
   {
    "symbol": "NNI",
@@ -95661,7 +95673,7 @@
   },
   {
    "symbol": "PRM",
-   "name": "Perimeter Solutions, SA Common Stock",
+   "name": "Perimeter Group Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "PRM"
   },

@@ -1466,7 +1466,7 @@ BOS,AirBoss of America Corp.,TSX,BOS.TO,Airboss of America J,BOS
 AKT,Akita Drilling Ltd.,TSX,AKT.TO,Akita Drilling,AKT
 AGI,Alamos Gold Inc.,TSX,AGI.TO,Alamos Gold Inc. J,AGI
 AD.DB.A,Alaris Equity Partners Income Trust,TSX,AD.DB.A.TO,Alaris EqPart 6.25Db,AD.DB.A,Alaris Eq PIT 6.5 Db,AD.DB.B,Alaris Eq Prt In T 6,AD.DB.C,Alaris Eq Part Tr Un,AD.UN
-ALC,Algoma Central Corporation,TSX,ALC.TO,Algoma Central Corp,ALC
+ALC,Algoma Central Corporation,TSX,ALC.TO,Algoma Central Corp,ALC,Algoma Cnt Crp 6.2DB,ALC.DB.B
 ASTL,Algoma Steel Group Inc.,TSX,ASTL.TO,Algoma Steel Grp Inc,ASTL
 AQN,Algonquin Power & Utilities Corp.,TSX,AQN.TO,Algonquin Pwr & Util,AQN,Algonquin Pwr A Pr,AQN.PR.A,Algonquin Pwr D Pr,AQN.PR.D
 ATD,Alimentation Couche-Tard Inc.,TSX,ATD.TO,Alimentation Couche,ATD
@@ -2899,7 +2899,7 @@ LRCX,Lam Research CDR (CAD Hedged),TSX,LRCX.TO,Lam Res CDR CAD Hdg,LRCX
 LAM,Laramide Resources Ltd.,TSX,LAM.TO,Laramide Resources J,LAM
 LGO,Largo Inc.,TSX,LGO.TO,Largo Inc. J,LGO
 LAS.A,Lassonde Industries Inc.,TSX,LAS.A.TO,Lassonde Ind Cl A SV,LAS.A
-LB,Laurentian Bank of Canada,TSX,LB.TO,Laurentian Bk of Can,LB,Laurentian Bk Pr 13,LB.PR.H
+LB.PR.H,Laurentian Bank of Canada,TSX,LB.PR.H.TO,Laurentian Bk Pr 13,LB.PR.H
 LNF,Leon's Furniture Limited,TSX,LNF.TO,Leon's Furniture Ltd,LNF
 LGD,Liberty Gold Corp.,TSX,LGD.TO,Liberty Gold Corp. J,LGD
 LBS,Life & Banc Split Corp.,TSX,LBS.TO,Life & Banc Split A,LBS,Life & Banc Split Pr,LBS.PR.A
@@ -3304,6 +3304,7 @@ PRL,Propel Holdings Inc.,TSX,PRL.TO,Propel Holdings J,PRL
 PSD,Pulse Seismic Inc.,TSX,PSD.TO,Pulse Seismic Inc.,PSD
 PABF,Purpose Active Balanced Fund,TSX,PABF.TO,Purpose Actv Bal Fnd,PABF
 PACF,Purpose Active Conservative Fund,TSX,PACF.TO,Purpose ActvConserv,PACF
+PAEF,Purpose Active Equity Fund,TSX,PAEF.TO,Purpose Active Eq Fd,PAEF
 PAGF,Purpose Active Growth Fund,TSX,PAGF.TO,Purpose Actv Growth,PAGF
 PBI,Purpose Best Ideas Fund,TSX,PBI.TO,Purpose Best Ideas,PBI,Purpose Best NnCurHg,PBI.B
 BTCC,Purpose Bitcoin ETF,TSX,BTCC.TO,Purpose BitcnCA CrHg,BTCC,Purpose BitcnCA NCHg,BTCC.B,PurposeBitcnCA CrbHg,BTCC.J,Purpose BitcnUS NCHg,BTCC.U
@@ -3629,7 +3630,7 @@ TI,Titan Mining Corporation,TSX,TI.TO,Titan Mining Corp J,TI
 TJX,TJX CDR (CAD Hedged),TSX,TJX.TO,TJX CDR CAN Hgd,TJX
 X,TMX Group Limited,TSX,X.TO,TMX Group Limited,X
 TPZ,Topaz Energy Corp.,TSX,TPZ.TO,Topaz Energy Corp.,TPZ
-TXR,Torex Resources Inc.,TSX,TXR.TO,Torex Gold Res J,TXR
+TXR,Torex Resources Inc.,TSX,TXR.TO,Torex Resources Inc.,TXR
 TIH,Toromont Industries Ltd.,TSX,TIH.TO,Toromont Industries,TIH
 TD,Toronto-Dominion Bank (The),TSX,TD.TO,T.D. Bank,TD,T.D. Bank Ser 1 Pr,TD.PF.A,T.D. Bank Ser 16 Pr,TD.PF.I,T.D. Bank Ser 18 Pr,TD.PF.J
 TOT,Total Energy Services Inc.,TSX,TOT.TO,Total Engy Serv Inc.,TOT
@@ -5893,7 +5894,6 @@ GNMA,iShares GNMA Bond ETF,NASDAQ Global MarketSM,GNMA
 GNOM,Global X Genomics & Biotechnology ETF,NASDAQ Global MarketSM,GNOM
 GNPX,"Genprex, Inc. - Common Stock",NASDAQ Capital Market,GNPX
 GNSS,Genasys Inc. - Common Stock,NASDAQ Capital Market,GNSS
-GNTA,Genenta Science S.p.A. - American Depositary Shares,NASDAQ Capital Market,GNTA
 GNTX,Gentex Corporation - Common Stock,NASDAQ Global Select MarketSM,GNTX
 GO,Grocery Outlet Holding Corp. - Common Stock,NASDAQ Global Select MarketSM,GO
 GOAI,Eva Live Inc. - Common Stock,NASDAQ Capital Market,GOAI
@@ -6318,6 +6318,7 @@ INEO,INNEOVA Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,IN
 INGN,"Inogen, Inc - Common Stock",NASDAQ Global Select MarketSM,INGN
 INHD,Inno Holdings Inc. - Common Stock,NASDAQ Capital Market,INHD
 INIO,INNIO N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,INIO
+INK,AB Equity Premium Income ETF,NASDAQ Global MarketSM,INK
 INKT,"MiNK Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,INKT
 INLF,INLIF LIMITED - Class A Ordinary shares,NASDAQ Capital Market,INLF
 INM,InMed Pharmaceuticals Inc. - Common Shares,NASDAQ Capital Market,INM
@@ -6610,7 +6611,7 @@ LAND,Gladstone Land Corporation - Common Stock,NASDAQ Global MarketSM,LAND
 LANDO,Gladstone Land Corporation - 6.00% Series B Cumulative Redeemable Preferred Stock,NASDAQ Global MarketSM,LANDO
 LANDP,Gladstone Land Corporation - 6.00% Series C Cumulative Redeemable Preferred Stock,NASDAQ Global MarketSM,LANDP
 LARK,Landmark Bancorp Inc. - Common Stock,NASDAQ Global MarketSM,LARK
-LASE,Laser Photonics Corporation - Common Stock,NASDAQ Capital Market,LASE
+LASE,LASE Corp. - Common Stock,NASDAQ Capital Market,LASE
 LASR,"nLIGHT, Inc. - Common Stock",NASDAQ Global Select MarketSM,LASR
 LATA,Galata Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,LATA
 LATAU,Galata Acquisition Corp. II - Units,NASDAQ Global MarketSM,LATAU
@@ -8143,6 +8144,7 @@ SAAQU,Space Asset Acquisition Corp. - Units,NASDAQ Global MarketSM,SAAQU
 SAAQW,Space Asset Acquisition Corp. - Warrants,NASDAQ Global MarketSM,SAAQW
 SABR,Sabre Corporation - Common Stock,NASDAQ Global Select MarketSM,SABR
 SABS,"SAB Biotherapeutics, Inc. - Common Stock",NASDAQ Capital Market,SABS
+SAEN,Genenta Science S.p.A. - American Depositary Shares,NASDAQ Capital Market,SAEN
 SAFT,"Safety Insurance Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,SAFT
 SAFX,"XCF Global, Inc. - Class A Common Stock",NASDAQ Capital Market,SAFX
 SAGT,SAGTEC GLOBAL LIMITED - Class A Ordinary shares,NASDAQ Capital Market,SAGT
@@ -10551,7 +10553,6 @@ GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shar
 GBCI,"Glacier Bancorp, Inc. Common Stock",NYSE,GBCI
 GBR,"New Concept Energy, Inc Common Stock",NYSE MKT,GBR
 GBX,"Greenbrier Companies, Inc. (The) Common Stock",NYSE,GBX
-GCDT,Green Circle Decarbonize Technology Limited Class A Ordinary Shares,NYSE MKT,GCDT
 GCO,Genesco Inc. Common Stock,NYSE,GCO
 GCTS,"GCT Semiconductor Holding, Inc. Common Stock",NYSE,GCTS
 GCTS.W,"GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",NYSE,GCTS.W
@@ -11353,7 +11354,7 @@ NMR,Nomura Holdings Inc ADR American Depositary Shares,NYSE,NMR
 NMS,Nuveen Minnesota Quality Municipal Income Fund ,NYSE,NMS
 NMT,Nuveen Massachusetts Quality Municipal Income Fund Common Stock,NYSE,NMT
 NMZ,"Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share",NYSE,NMZ
-NMZ.V,"Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",NYSE,NMZ.V
+NMZ.R,"Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights",NYSE,NMZ.R
 NNI,"Nelnet, Inc. Common Stock",NYSE,NNI
 NNN,"NNN REIT, Inc. Common Stock",NYSE,NNN
 NNVC,"NanoViricides, Inc. Common Stock",NYSE MKT,NNVC
@@ -11658,7 +11659,7 @@ PRIM,Primoris Services Corporation Common Stock,NYSE,PRIM
 PRK,Park National Corporation Common Stock,NYSE MKT,PRK
 PRKS,United Parks & Resorts Inc. Common Stock,NYSE,PRKS
 PRLB,"Proto Labs, Inc. Common stock",NYSE,PRLB
-PRM,"Perimeter Solutions, SA Common Stock",NYSE,PRM
+PRM,Perimeter Group Inc. Common Stock,NYSE,PRM
 PRMB,Primo Brands Corporation Class A Common Stock,NYSE,PRMB
 PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",NYSE,PRS
 PRSU,"Pursuit Attractions and Hospitality, Inc. Common Stock",NYSE,PRSU
