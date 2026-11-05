@@ -463,7 +463,6 @@ FINX,FinEx Metals Ltd.,TSXV,FINX.V,FinEx Metals Ltd.,FINX
 FYL,Finlay Minerals Ltd.,TSXV,FYL.V,Finlay Minerals Ltd,FYL
 FTEC,Fintech Select Ltd.,TSXV,FTEC.V,Fintech Select Ltd.,FTEC
 FFOX,Firefox Gold Corp.,TSXV,FFOX.V,Firefox Gold Corp.,FFOX
-FWZ,Fireweed Metals Corp.,TSXV,FWZ.V,Fireweed Metals Corp.,FWZ
 FCA.U,Firm Capital Apartment Real Estate Investment Trust,TSXV,FCA.U.V,Firm Capital Apartment Real Estate Investment Trust USD,FCA.U,Firm Capital Apartment Real Estate Investment Trust,FCA.UN
 FAS,First Andes Silver Ltd.,TSXV,FAS.V,First Andes Silver Ltd.,FAS
 FAN,First Atlantic Nickel & Cobalt Corp.,TSXV,FAN.V,First Atlantic Nickel & Cobalt Corp.,FAN
@@ -968,6 +967,7 @@ PA,Palamina Corp.,TSXV,PA.V,Palamina Corp.,PA
 PALI,Palisades Goldcorp Ltd.,TSXV,PALI.V,Palisades Goldcorp Ltd. ,PALI,Palisades Goldcorp Ltd wt 06Dec2026,PALI.WT
 PGZ,Pan Global Resources Inc.,TSXV,PGZ.V,Pan Global Resources Inc.,PGZ
 PML,Panoro Minerals Ltd.,TSXV,PML.V,Panoro Minerals Ltd.,PML
+PNTR,Pantera Silver Corp.,TSXV,PNTR.V,Pantera Silver Corp.,PNTR
 PDQ,Paradigm Gold Corporation,TSXV,PDQ.V,Paradigm Gold Corporation,PDQ
 PALS,Paragon Advanced Labs Inc.,TSXV,PALS.V,Paragon Advanced Labs Inc.,PALS
 PKT,Parkit Enterprise Inc.,TSXV,PKT.V,Parkit Enterprise Inc.,PKT
@@ -2284,6 +2284,7 @@ FTN,Financial 15 Split Corp.,TSX,FTN.TO,Financial 15 Splt A,FTN,Financial 15 Spl
 FTT,Finning International Inc.,TSX,FTT.TO,Finning Int'l Inc.,FTT
 FTG,Firan Technology Group Corporation,TSX,FTG.TO,Firan Tech Grp Corp.,FTG
 FFM,FireFly Metals Ltd.,TSX,FFM.TO,FireFly Metals Ltd,FFM
+FWZ,Fireweed Metals Corp.,TSX,FWZ.TO,Fireweed Metals Corp,FWZ
 FC,Firm Capital Mortgage Investment Corporation,TSX,FC.TO,Firm Cap Mtg Invest ,FC,Firm Cap Mtg 5% Deb ,FC.DB.K,Firm Cap Mtg 5% L Db,FC.DB.L,Firm Cap Mtg 5.5% DB,FC.DB.M
 FCD.UN,Firm Capital Property Trust,TSX,FCD.UN.TO,Firm Cap Ppty Tr Un,FCD.UN
 FCR.UN,First Capital Real Estate Investment Trust,TSX,FCR.UN.TO,First Cap REIT Un,FCR.UN
@@ -3815,6 +3816,7 @@ ACBH,Pacer Metaurus High Income Autocallable ETF,NASDAQ Global MarketSM,ACBH
 ACCL,Acco Group Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,ACCL
 ACCV,Accelevation Holdings Corp. - Class A ordinary shares,NASDAQ Global Select MarketSM,ACCV
 ACDC,ProFrac Holding Corp. - Class A Common Stock,NASDAQ Global Select MarketSM,ACDC
+ACEM,American Century Emerging Markets Insights ETF,NASDAQ Global MarketSM,ACEM
 ACEP,ARS Core Equity Portfolio ETF,NASDAQ Global MarketSM,ACEP
 ACET,"Adicet Bio, Inc. - Common Stock",NASDAQ Capital Market,ACET
 ACFN,"Acorn Energy, Inc. - Common Stock",NASDAQ Capital Market,ACFN
@@ -3921,6 +3923,8 @@ AGEN,Agenus Inc. - Common Stock,NASDAQ Capital Market,AGEN
 AGGA,EA Astoria Beacon Dynamic Core US Fixed Income ETF,NASDAQ Global MarketSM,AGGA
 AGIO,"Agios Pharmaceuticals, Inc. - Common Stock",NASDAQ Global Select MarketSM,AGIO
 AGIX,KraneShares Public-Private AI & Technology ETF,NASDAQ Global MarketSM,AGIX
+AGLT,"Agility Robotics, Inc. - Ordinary Shares",NASDAQ Global MarketSM,AGLT
+AGLTW,"Agility Robotics, Inc. - Warrants",NASDAQ Capital Market,AGLTW
 AGMB,AgomAb Therapeutics NV - ADRs representing one common share.,NASDAQ Global Select MarketSM,AGMB
 AGMH,AGM Group Holdings Inc. - Class A Ordinary Shares,NASDAQ Capital Market,AGMH
 AGMI,Themes Silver Miners ETF,NASDAQ Global MarketSM,AGMI
@@ -4751,9 +4755,6 @@ CCSB,Carbon Collective Short Duration Green Bond ETF,NASDAQ Global MarketSM,CCSB
 CCSI,"Consensus Cloud Solutions, Inc. - Common Stock",NASDAQ Global Select MarketSM,CCSI
 CCSO,Carbon Collective Climate Solutions U.S. Equity ETF,NASDAQ Global MarketSM,CCSO
 CCTG,CCSC Technology International Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,CCTG
-CCXI,Churchill Capital Corp XI - Class A Ordinary Shares,NASDAQ Global MarketSM,CCXI
-CCXIU,Churchill Capital Corp XI - Units,NASDAQ Global MarketSM,CCXIU
-CCXIW,Churchill Capital Corp XI - Warrants,NASDAQ Global MarketSM,CCXIW
 CD,Chaince Digital Holdings Inc. - American Ordinary Shares,NASDAQ Global MarketSM,CD
 CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,NASDAQ Global MarketSM,CDC
 CDIG,City Different Investments Global Equity ETF,NASDAQ Global MarketSM,CDIG
@@ -5112,8 +5113,8 @@ DAAQ,Digital Asset Acquisition Corp. - Class A Ordinary shares,NASDAQ Global Mar
 DAAQU,Digital Asset Acquisition Corp. - Units,NASDAQ Global MarketSM,DAAQU
 DAAQW,Digital Asset Acquisition Corp. - Warrant,NASDAQ Global MarketSM,DAAQW
 DADS,Digital Asset Debt Strategy ETF,NASDAQ Global MarketSM,DADS
-DAIC,"CID HoldCo, Inc. - Common Stock",NASDAQ Global MarketSM,DAIC
-DAICW,"CID HoldCo, Inc. - Warrants",NASDAQ Global MarketSM,DAICW
+DAIC,"CID HoldCo, Inc. - Common Stock",NASDAQ Capital Market,DAIC
+DAICW,"CID HoldCo, Inc. - Warrants",NASDAQ Capital Market,DAICW
 DAIO,Data I/O Corporation - Common Stock,NASDAQ Capital Market,DAIO
 DAK,Dakota Active Equity ETF,NASDAQ Global MarketSM,DAK
 DAKT,"Daktronics, Inc. - Common Stock",NASDAQ Global Select MarketSM,DAKT
@@ -5426,7 +5427,7 @@ ETOR,eToro Group Ltd. - Class A Common Shares,NASDAQ Global Select MarketSM,ETOR
 ETRA,"Electra Therapeutics, Inc. - Common stock",NASDAQ Global Select MarketSM,ETRA
 ETS,Elite Express Holding Inc. - Class A Common Stock,NASDAQ Capital Market,ETS
 EU,enCore Energy Corp. - Common Stock,NASDAQ Capital Market,EU
-EUDA,Euda Health Holdings Limited - Ordinary Shares,NASDAQ Capital Market,EUDA
+EUDA,Euda Health Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,EUDA
 EUDAW,Euda Health Holdings Limited - Warrant,NASDAQ Capital Market,EUDAW
 EUFN,iShares MSCI Europe Financials ETF,NASDAQ Global MarketSM,EUFN
 EURK,Eureka Acquisition Corp - Class A Ordinary Share,NASDAQ Capital Market,EURK
@@ -6079,6 +6080,7 @@ HLIT,Harmonic Inc. - Common Stock,NASDAQ Global Select MarketSM,HLIT
 HLMN,Hillman Solutions Corp. - Common Stock,NASDAQ Global MarketSM,HLMN
 HLNE,Hamilton Lane Incorporated - Class A Common Stock,NASDAQ Global Select MarketSM,HLNE
 HLP,Hongli Group Inc. - Class A Ordinary Shares,NASDAQ Capital Market,HLP
+HLT,Hilton Worldwide Holdings Inc. - Common Stock,NASDAQ Global Select MarketSM,HLT
 HLTH,Tema Healthcare AI ETF,NASDAQ Global MarketSM,HLTH
 HLXC,Helix Acquisition Corp. III - Class A Ordinary Shares,NASDAQ Global MarketSM,HLXC
 HMH,HMH Holding Inc. - Common Stock,NASDAQ Global Select MarketSM,HMH
@@ -6318,6 +6320,7 @@ INEO,INNEOVA Holdings Limited - Class A Ordinary Shares,NASDAQ Capital Market,IN
 INGN,"Inogen, Inc - Common Stock",NASDAQ Global Select MarketSM,INGN
 INHD,Inno Holdings Inc. - Common Stock,NASDAQ Capital Market,INHD
 INIO,INNIO N.V. - Ordinary Shares,NASDAQ Global Select MarketSM,INIO
+INJC,Canary Staked INJ ETF,NASDAQ Global MarketSM,INJC
 INK,AB Equity Premium Income ETF,NASDAQ Global MarketSM,INK
 INKT,"MiNK Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,INKT
 INLF,INLIF LIMITED - Class A Ordinary shares,NASDAQ Capital Market,INLF
@@ -9273,9 +9276,9 @@ XSLLW,Xsolla SPAC 1 - Warrants,NASDAQ Global MarketSM,XSLLW
 XSPC,VegaShares Space & AI ETF,NASDAQ Global MarketSM,XSPC
 XSPI,NEOS Boosted S&P 500 High Income ETF,NASDAQ Global MarketSM,XSPI
 XT,iShares Future Exponential Technologies ETF,NASDAQ Global MarketSM,XT
-XTER,Karman Line Acquisition Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,XTER
-XTERU,Karman Line Acquisition Corp. - Units,NASDAQ Global MarketSM,XTERU
-XTERW,Karman Line Acquisition Corp. - Warrants,NASDAQ Global MarketSM,XTERW
+XTER,Xterax Corporation II - Class A Ordinary Shares,NASDAQ Global MarketSM,XTER
+XTERU,Xterax Corporation II - Units,NASDAQ Global MarketSM,XTERU
+XTERW,Xterax Corporation II - Warrants,NASDAQ Global MarketSM,XTERW
 XTIA,"XTI Aerospace, Inc. Common Stock  - Common Stock",NASDAQ Capital Market,XTIA
 XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,NASDAQ Capital Market,XTLB
 XUSM,MarketDesk International Momentum ETF,NASDAQ Global MarketSM,XUSM
@@ -9729,6 +9732,7 @@ BFAM,Bright Horizons Family Solutions Inc. Common Stock,NYSE,BFAM
 BFH,"Bread Financial Holdings, Inc. Common Stock",NYSE,BFH
 BFH$A,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A",NYSE,BFH$A
 BFH$B,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",NYSE,BFH$B
+BFH$C,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",NYSE,BFH$C
 BFLY,"Butterfly Network, Inc. Class A Common Stock",NYSE,BFLY
 BFS,"Saul Centers, Inc. Common Stock",NYSE,BFS
 BFS$D,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock",NYSE,BFS$D
@@ -9926,7 +9930,7 @@ CCS,"Century Communities, Inc. Common Stock",NYSE,CCS
 CCU,"Compania Cervecerias Unidas, S.A. Common Stock",NYSE,CCU
 CCZ,Comcast Holdings ZONES,NYSE,CCZ
 CDE,"Coeur Mining, Inc. Common Stock",NYSE,CDE
-CDLR,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),NYSE,CDLR
+CDLR,Cadeler plc Ordinary Shares,NYSE,CDLR
 CDP,COPT Defense Properties Common Shares of Beneficial Interest,NYSE,CDP
 CDR$B,"Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred Stock",NYSE,CDR$B
 CDR$C,"Cedar Realty Trust, Inc. 6.50% Series C Cumulative Redeemable Preferred Stock",NYSE,CDR$C
@@ -10736,7 +10740,6 @@ HLIO,"Helios Technologies, Inc. Common Stock",NYSE,HLIO
 HLLY,Holley Inc. Common Stock,NYSE,HLLY
 HLN,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),NYSE,HLN
 HLSQ,Tessera Defense and Homeland Security Inc. Common Stock,NYSE MKT,HLSQ
-HLT,Hilton Worldwide Holdings Inc. Common Stock ,NYSE,HLT
 HMC,"Honda Motor Company, Ltd. Common Stock",NYSE,HMC
 HMN,Horace Mann Educators Corporation Common Stock,NYSE,HMN
 HMY,Harmony Gold Mining Company Limited,NYSE,HMY

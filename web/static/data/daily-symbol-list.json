@@ -1,5 +1,5 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "data": [
   {
    "symbol": "ONE",
@@ -5602,18 +5602,6 @@
     {
      "name": "Firefox Gold Corp.",
      "symbol": "FFOX"
-    }
-   ]
-  },
-  {
-   "symbol": "FWZ",
-   "name": "Fireweed Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "FWZ.V",
-   "instruments": [
-    {
-     "name": "Fireweed Metals Corp.",
-     "symbol": "FWZ"
     }
    ]
   },
@@ -11730,6 +11718,18 @@
     {
      "name": "Panoro Minerals Ltd.",
      "symbol": "PML"
+    }
+   ]
+  },
+  {
+   "symbol": "PNTR",
+   "name": "Pantera Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PNTR.V",
+   "instruments": [
+    {
+     "name": "Pantera Silver Corp.",
+     "symbol": "PNTR"
     }
    ]
   },
@@ -29162,6 +29162,18 @@
     {
      "name": "FireFly Metals Ltd",
      "symbol": "FFM"
+    }
+   ]
+  },
+  {
+   "symbol": "FWZ",
+   "name": "Fireweed Metals Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FWZ.TO",
+   "instruments": [
+    {
+     "name": "Fireweed Metals Corp",
+     "symbol": "FWZ"
     }
    ]
   },
@@ -48608,6 +48620,12 @@
    "yahoo_symbol": "ACDC"
   },
   {
+   "symbol": "ACEM",
+   "name": "American Century Emerging Markets Insights ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACEM"
+  },
+  {
    "symbol": "ACEP",
    "name": "ARS Core Equity Portfolio ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -49242,6 +49260,18 @@
    "name": "KraneShares Public-Private AI \u0026 Technology ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "AGIX"
+  },
+  {
+   "symbol": "AGLT",
+   "name": "Agility Robotics, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGLT"
+  },
+  {
+   "symbol": "AGLTW",
+   "name": "Agility Robotics, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGLTW"
   },
   {
    "symbol": "AGMB",
@@ -54224,24 +54254,6 @@
    "yahoo_symbol": "CCTG"
   },
   {
-   "symbol": "CCXI",
-   "name": "Churchill Capital Corp XI - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCXI"
-  },
-  {
-   "symbol": "CCXIU",
-   "name": "Churchill Capital Corp XI - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCXIU"
-  },
-  {
-   "symbol": "CCXIW",
-   "name": "Churchill Capital Corp XI - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCXIW"
-  },
-  {
    "symbol": "CD",
    "name": "Chaince Digital Holdings Inc. - American Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -56392,13 +56404,13 @@
   {
    "symbol": "DAIC",
    "name": "CID HoldCo, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DAIC"
   },
   {
    "symbol": "DAICW",
    "name": "CID HoldCo, Inc. - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
+   "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "DAICW"
   },
   {
@@ -58275,7 +58287,7 @@
   },
   {
    "symbol": "EUDA",
-   "name": "Euda Health Holdings Limited - Ordinary Shares",
+   "name": "Euda Health Holdings Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "EUDA"
   },
@@ -62192,6 +62204,12 @@
    "yahoo_symbol": "HLP"
   },
   {
+   "symbol": "HLT",
+   "name": "Hilton Worldwide Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HLT"
+  },
+  {
    "symbol": "HLTH",
    "name": "Tema Healthcare AI ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -63624,6 +63642,12 @@
    "name": "INNIO N.V. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "INIO"
+  },
+  {
+   "symbol": "INJC",
+   "name": "Canary Staked INJ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INJC"
   },
   {
    "symbol": "INK",
@@ -81357,19 +81381,19 @@
   },
   {
    "symbol": "XTER",
-   "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares",
+   "name": "Xterax Corporation II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "XTER"
   },
   {
    "symbol": "XTERU",
-   "name": "Karman Line Acquisition Corp. - Units",
+   "name": "Xterax Corporation II - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "XTERU"
   },
   {
    "symbol": "XTERW",
-   "name": "Karman Line Acquisition Corp. - Warrants",
+   "name": "Xterax Corporation II - Warrants",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "XTERW"
   },
@@ -84092,6 +84116,12 @@
    "yahoo_symbol": "BFH$B"
   },
   {
+   "symbol": "BFH$C",
+   "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFH$C"
+  },
+  {
    "symbol": "BFLY",
    "name": "Butterfly Network, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -85275,7 +85305,7 @@
   },
   {
    "symbol": "CDLR",
-   "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)",
+   "name": "Cadeler plc Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "CDLR"
   },
@@ -90132,12 +90162,6 @@
    "name": "Tessera Defense and Homeland Security Inc. Common Stock",
    "exchange": "NYSE MKT",
    "yahoo_symbol": "HLSQ"
-  },
-  {
-   "symbol": "HLT",
-   "name": "Hilton Worldwide Holdings Inc. Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HLT"
   },
   {
    "symbol": "HMC",

@@ -1,82 +1,126 @@
 {
  "added": [
   {
-   "symbol": "LB.PR.H",
-   "name": "Laurentian Bank of Canada",
-   "exchange": "TSX",
-   "yahoo_symbol": "LB.PR.H.TO",
+   "symbol": "PNTR",
+   "name": "Pantera Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PNTR.V",
    "instruments": [
     {
-     "name": "Laurentian Bk Pr 13",
-     "symbol": "LB.PR.H"
+     "name": "Pantera Silver Corp.",
+     "symbol": "PNTR"
     }
    ]
   },
   {
-   "symbol": "PAEF",
-   "name": "Purpose Active Equity Fund",
+   "symbol": "FWZ",
+   "name": "Fireweed Metals Corp.",
    "exchange": "TSX",
-   "yahoo_symbol": "PAEF.TO",
+   "yahoo_symbol": "FWZ.TO",
    "instruments": [
     {
-     "name": "Purpose Active Eq Fd",
-     "symbol": "PAEF"
+     "name": "Fireweed Metals Corp",
+     "symbol": "FWZ"
     }
    ]
   },
   {
-   "symbol": "INK",
-   "name": "AB Equity Premium Income ETF",
+   "symbol": "ACEM",
+   "name": "American Century Emerging Markets Insights ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "INK"
+   "yahoo_symbol": "ACEM"
   },
   {
-   "symbol": "SAEN",
-   "name": "Genenta Science S.p.A. - American Depositary Shares",
+   "symbol": "AGLT",
+   "name": "Agility Robotics, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGLT"
+  },
+  {
+   "symbol": "AGLTW",
+   "name": "Agility Robotics, Inc. - Warrants",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SAEN"
+   "yahoo_symbol": "AGLTW"
   },
   {
-   "symbol": "NMZ.R",
-   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights",
+   "symbol": "DAIC",
+   "name": "CID HoldCo, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DAIC"
+  },
+  {
+   "symbol": "DAICW",
+   "name": "CID HoldCo, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DAICW"
+  },
+  {
+   "symbol": "HLT",
+   "name": "Hilton Worldwide Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HLT"
+  },
+  {
+   "symbol": "INJC",
+   "name": "Canary Staked INJ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INJC"
+  },
+  {
+   "symbol": "BFH$C",
+   "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",
    "exchange": "NYSE",
-   "yahoo_symbol": "NMZ.R"
+   "yahoo_symbol": "BFH$C"
   }
  ],
  "removed": [
   {
-   "symbol": "GNTA",
-   "name": "Genenta Science S.p.A. - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GNTA"
+   "symbol": "DAIC",
+   "name": "CID HoldCo, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAIC"
   },
   {
-   "symbol": "NMZ.V",
-   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
-   "exchange": "NYSE",
-   "yahoo_symbol": "NMZ.V"
-  },
-  {
-   "symbol": "LB",
-   "name": "Laurentian Bank of Canada",
-   "exchange": "TSX",
-   "yahoo_symbol": "LB.TO",
+   "symbol": "FWZ",
+   "name": "Fireweed Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FWZ.V",
    "instruments": [
     {
-     "name": "Laurentian Bk of Can",
-     "symbol": "LB"
-    },
-    {
-     "name": "Laurentian Bk Pr 13",
-     "symbol": "LB.PR.H"
+     "name": "Fireweed Metals Corp.",
+     "symbol": "FWZ"
     }
    ]
   },
   {
-   "symbol": "GCDT",
-   "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "GCDT"
+   "symbol": "HLT",
+   "name": "Hilton Worldwide Holdings Inc. Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HLT"
+  },
+  {
+   "symbol": "CCXIW",
+   "name": "Churchill Capital Corp XI - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXIW"
+  },
+  {
+   "symbol": "DAICW",
+   "name": "CID HoldCo, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAICW"
+  },
+  {
+   "symbol": "CCXI",
+   "name": "Churchill Capital Corp XI - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXI"
+  },
+  {
+   "symbol": "CCXIU",
+   "name": "Churchill Capital Corp XI - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXIU"
   }
  ]
 }
