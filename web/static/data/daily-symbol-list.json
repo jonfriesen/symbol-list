@@ -1,5 +1,5 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-16",
  "data": [
   {
    "symbol": "ONE",
@@ -32622,6 +32622,18 @@
    ]
   },
   {
+   "symbol": "CGOV",
+   "name": "Hamilton Canadian T-Bill ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGOV.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Canadian Tb",
+     "symbol": "CGOV"
+    }
+   ]
+  },
+  {
    "symbol": "HEB",
    "name": "HAMILTON CHAMPIONS TM Canadian Bank Equal-Weight Index ETF",
    "exchange": "TSX",
@@ -32938,6 +32950,18 @@
     {
      "name": "Hamilton USMidFinEtf",
      "symbol": "HUM"
+    }
+   ]
+  },
+  {
+   "symbol": "UGOV.U",
+   "name": "Hamilton U.S. T-Bill ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UGOV.U.TO",
+   "instruments": [
+    {
+     "name": "Hamilton US TBill E",
+     "symbol": "UGOV.U"
     }
    ]
   },
@@ -44910,6 +44934,30 @@
    ]
   },
   {
+   "symbol": "SBGE",
+   "name": "SLGI MFS Blended Research Global Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBGE.TO",
+   "instruments": [
+    {
+     "name": "SLGI MFS Blnd Rs G E",
+     "symbol": "SBGE"
+    }
+   ]
+  },
+  {
+   "symbol": "SBIE",
+   "name": "SLGI MFS Blended Research International Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBIE.TO",
+   "instruments": [
+    {
+     "name": "SLGI MFS Blnd Rs I E",
+     "symbol": "SBIE"
+    }
+   ]
+  },
+  {
    "symbol": "SBLG",
    "name": "SLGI MFS Blended Research Low Vol Global Fund",
    "exchange": "TSX",
@@ -45410,6 +45458,30 @@
    ]
   },
   {
+   "symbol": "SBAL",
+   "name": "Sun Life Balanced ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBAL.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Blncd E P",
+     "symbol": "SBAL"
+    }
+   ]
+  },
+  {
+   "symbol": "SCNS",
+   "name": "Sun Life Conservative ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCNS.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Cons E P",
+     "symbol": "SCNS"
+    }
+   ]
+  },
+  {
    "symbol": "SLCA",
    "name": "Sun Life Core Advantage Credit Private Pool",
    "exchange": "TSX",
@@ -45430,6 +45502,18 @@
     {
      "name": "Sun Life Crs Spcl C",
      "symbol": "SLSC"
+    }
+   ]
+  },
+  {
+   "symbol": "SEQT",
+   "name": "Sun Life Equity ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SEQT.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Eq ETF P",
+     "symbol": "SEQT"
     }
    ]
   },
@@ -45466,6 +45550,30 @@
     {
      "name": "Sun Life Fin 9QR Pr",
      "symbol": "SLF.PR.J"
+    }
+   ]
+  },
+  {
+   "symbol": "SFIX",
+   "name": "Sun Life Fixed Income ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SFIX.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Fxd Inc E P",
+     "symbol": "SFIX"
+    }
+   ]
+  },
+  {
+   "symbol": "SGRW",
+   "name": "Sun Life Growth ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGRW.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Growth E P",
+     "symbol": "SGRW"
     }
    ]
   },
@@ -52040,12 +52148,6 @@
    "yahoo_symbol": "BEAT"
   },
   {
-   "symbol": "BEATW",
-   "name": "Heartbeam, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BEATW"
-  },
-  {
    "symbol": "BEDY",
    "name": "BNY Mellon Enhanced Dividend and Income ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -53126,10 +53228,22 @@
    "yahoo_symbol": "BRNY"
   },
   {
+   "symbol": "BRRK",
+   "name": "Bluerock Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRK"
+  },
+  {
    "symbol": "BRRKU",
    "name": "Bluerock Acquisition Corp. II - Units",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BRRKU"
+  },
+  {
+   "symbol": "BRRKW",
+   "name": "Bluerock Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRKW"
   },
   {
    "symbol": "BRRR",
@@ -53478,12 +53592,6 @@
    "name": "BT Brands, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "BTBD"
-  },
-  {
-   "symbol": "BTBDW",
-   "name": "BT Brands, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BTBDW"
   },
   {
    "symbol": "BTBT",
@@ -59679,7 +59787,7 @@
   },
   {
    "symbol": "FOFO",
-   "name": "Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares",
+   "name": "Hang Feng Technology Innovation Co., Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "FOFO"
   },
@@ -61962,6 +62070,12 @@
    "name": "HCM III Acquisition Corp. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "HCMAW"
+  },
+  {
+   "symbol": "HCOP",
+   "name": "Hartford Hybrid and Credit Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCOP"
   },
   {
    "symbol": "HCOW",
@@ -69584,12 +69698,6 @@
    "yahoo_symbol": "NWCLW"
   },
   {
-   "symbol": "NWE",
-   "name": "NorthWestern Energy Group, Inc.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NWE"
-  },
-  {
    "symbol": "NWFL",
    "name": "Norwood Financial Corp. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -71676,12 +71784,6 @@
    "name": "Playboy, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "PLBY"
-  },
-  {
-   "symbol": "PLCE",
-   "name": "Children's Place, Inc. (The) - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PLCE"
   },
   {
    "symbol": "PLCI",
@@ -76668,12 +76770,6 @@
    "name": "Starling Oncology, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "STLN"
-  },
-  {
-   "symbol": "STLNW",
-   "name": "Starling Oncology, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "STLNW"
   },
   {
    "symbol": "STNC",
@@ -84410,12 +84506,6 @@
    "yahoo_symbol": "BKE"
   },
   {
-   "symbol": "BKH",
-   "name": "Black Hills Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BKH"
-  },
-  {
    "symbol": "BKKT",
    "name": "Bakkt, Inc. Class A Common Stock",
    "exchange": "NYSE",
@@ -90488,6 +90578,12 @@
    "yahoo_symbol": "HYT"
   },
   {
+   "symbol": "HZN",
+   "name": "Bright Horizon Energy Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HZN"
+  },
+  {
    "symbol": "HZO",
    "name": "MarineMax, Inc.  (FL) Common Stock",
    "exchange": "NYSE",
@@ -90954,12 +91050,6 @@
    "name": "Gartner, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "IT"
-  },
-  {
-   "symbol": "ITGR",
-   "name": "Integer Holdings Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ITGR"
   },
   {
    "symbol": "ITP",
@@ -91736,12 +91826,6 @@
    "yahoo_symbol": "KTB"
   },
   {
-   "symbol": "KTF",
-   "name": "DWS Municipal Income Trust",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KTF"
-  },
-  {
    "symbol": "KTH",
    "name": "Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock",
    "exchange": "NYSE",
@@ -92196,12 +92280,6 @@
    "name": "LiveWire Group, Inc. Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "LVWR"
-  },
-  {
-   "symbol": "LVWR.W",
-   "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LVWR.W"
   },
   {
    "symbol": "LW",
@@ -95624,10 +95702,22 @@
    "yahoo_symbol": "POR"
   },
   {
+   "symbol": "PORT",
+   "name": "Southport Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PORT"
+  },
+  {
    "symbol": "PORT.U",
    "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
    "exchange": "NYSE",
    "yahoo_symbol": "PORT.U"
+  },
+  {
+   "symbol": "PORT.W",
+   "name": "Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PORT.W"
   },
   {
    "symbol": "POST",

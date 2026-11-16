@@ -1,166 +1,204 @@
 {
  "added": [
   {
-   "symbol": "ZESC",
-   "name": "BMO European Securitized Credit ETF",
+   "symbol": "CGOV",
+   "name": "Hamilton Canadian T-Bill ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "ZESC.TO",
+   "yahoo_symbol": "CGOV.TO",
    "instruments": [
     {
-     "name": "BMO Euro Sec Cr CAD",
-     "symbol": "ZESC"
-    },
-    {
-     "name": "BMO Euro Sec Cr Hgd",
-     "symbol": "ZESC.F"
+     "name": "Hamilton Canadian Tb",
+     "symbol": "CGOV"
     }
    ]
   },
   {
-   "symbol": "ZFIX",
-   "name": "BMO Fixed Income ETF",
+   "symbol": "UGOV.U",
+   "name": "Hamilton U.S. T-Bill ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "ZFIX.TO",
+   "yahoo_symbol": "UGOV.U.TO",
    "instruments": [
     {
-     "name": "BMO Fixed Income ETF",
-     "symbol": "ZFIX"
+     "name": "Hamilton US TBill E",
+     "symbol": "UGOV.U"
     }
    ]
   },
   {
-   "symbol": "ZGSC",
-   "name": "BMO Global Securitized Credit Hedged to CAD ETF",
+   "symbol": "SBGE",
+   "name": "SLGI MFS Blended Research Global Equity Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "ZGSC.TO",
+   "yahoo_symbol": "SBGE.TO",
    "instruments": [
     {
-     "name": "BMO Glb Sec Cr Hg Cd",
-     "symbol": "ZGSC"
+     "name": "SLGI MFS Blnd Rs G E",
+     "symbol": "SBGE"
     }
    ]
   },
   {
-   "symbol": "ZGDB",
-   "name": "BMO Global Short-Term Discount Bond Hedged to CAD ETF",
+   "symbol": "SBIE",
+   "name": "SLGI MFS Blended Research International Equity Fund",
    "exchange": "TSX",
-   "yahoo_symbol": "ZGDB.TO",
+   "yahoo_symbol": "SBIE.TO",
    "instruments": [
     {
-     "name": "BMO Glb ShrtT D B Hg",
-     "symbol": "ZGDB"
+     "name": "SLGI MFS Blnd Rs I E",
+     "symbol": "SBIE"
     }
    ]
   },
   {
-   "symbol": "ZINC",
-   "name": "BMO Income ETF",
+   "symbol": "SBAL",
+   "name": "Sun Life Balanced ETF+ Portfolio",
    "exchange": "TSX",
-   "yahoo_symbol": "ZINC.TO",
+   "yahoo_symbol": "SBAL.TO",
    "instruments": [
     {
-     "name": "BMO Income ETF",
-     "symbol": "ZINC"
+     "name": "Sun Life Blncd E P",
+     "symbol": "SBAL"
     }
    ]
   },
   {
-   "symbol": "ZALL",
-   "name": "BMO MSCI All Country World Index ETF",
+   "symbol": "SCNS",
+   "name": "Sun Life Conservative ETF+ Portfolio",
    "exchange": "TSX",
-   "yahoo_symbol": "ZALL.TO",
+   "yahoo_symbol": "SCNS.TO",
    "instruments": [
     {
-     "name": "BMO MSCI All Cnt WrI",
-     "symbol": "ZALL"
+     "name": "Sun Life Cons E P",
+     "symbol": "SCNS"
     }
    ]
   },
   {
-   "symbol": "LOVI",
-   "name": "Live Oak Acquisition Corp. VI - Class A Ordinary Shares",
+   "symbol": "SEQT",
+   "name": "Sun Life Equity ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SEQT.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Eq ETF P",
+     "symbol": "SEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "SFIX",
+   "name": "Sun Life Fixed Income ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SFIX.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Fxd Inc E P",
+     "symbol": "SFIX"
+    }
+   ]
+  },
+  {
+   "symbol": "SGRW",
+   "name": "Sun Life Growth ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGRW.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Growth E P",
+     "symbol": "SGRW"
+    }
+   ]
+  },
+  {
+   "symbol": "BRRK",
+   "name": "Bluerock Acquisition Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LOVI"
+   "yahoo_symbol": "BRRK"
   },
   {
-   "symbol": "LOVIW",
-   "name": "Live Oak Acquisition Corp. VI - Warrants",
+   "symbol": "BRRKW",
+   "name": "Bluerock Acquisition Corp. II - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LOVIW"
+   "yahoo_symbol": "BRRKW"
   },
   {
-   "symbol": "OPHI",
-   "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OPHI"
+   "symbol": "HCOP",
+   "name": "Hartford Hybrid and Credit Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCOP"
   },
   {
-   "symbol": "WWB",
-   "name": "Windward Bio Group AG - Common shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WWB"
-  },
-  {
-   "symbol": "ZYN",
-   "name": "PTL LTD - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ZYN"
-  },
-  {
-   "symbol": "LOB$B",
-   "name": "Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock",
+   "symbol": "HZN",
+   "name": "Bright Horizon Energy Corporation Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "LOB$B"
+   "yahoo_symbol": "HZN"
   },
   {
-   "symbol": "MDRN",
-   "name": "Modern Mining Technology Corp. Common Shares",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "MDRN"
-  },
-  {
-   "symbol": "VVVV",
-   "name": "vVARDIS Holding AG Class A Ordinary Shares",
+   "symbol": "PORT",
+   "name": "Southport Acquisition Corp. II Class A Ordinary Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "VVVV"
+   "yahoo_symbol": "PORT"
+  },
+  {
+   "symbol": "PORT.W",
+   "name": "Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PORT.W"
   }
  ],
  "removed": [
   {
-   "symbol": "FDFF",
-   "name": "Fidelity Disruptive Finance ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FDFF"
-  },
-  {
-   "symbol": "FDIF",
-   "name": "Fidelity Disruptors ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FDIF"
-  },
-  {
-   "symbol": "CLGN",
-   "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares",
+   "symbol": "BEATW",
+   "name": "Heartbeam, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CLGN"
+   "yahoo_symbol": "BEATW"
   },
   {
-   "symbol": "FMED",
-   "name": "Fidelity Disruptive Medicine ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FMED"
-  },
-  {
-   "symbol": "PTLE",
-   "name": "PTL LTD - Class A Ordinary Shares",
+   "symbol": "STLNW",
+   "name": "Starling Oncology, Inc. - Warrant",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTLE"
+   "yahoo_symbol": "STLNW"
   },
   {
-   "symbol": "FMET",
-   "name": "Fidelity Metaverse ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FMET"
+   "symbol": "BKH",
+   "name": "Black Hills Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKH"
+  },
+  {
+   "symbol": "BTBDW",
+   "name": "BT Brands, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTBDW"
+  },
+  {
+   "symbol": "KTF",
+   "name": "DWS Municipal Income Trust",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KTF"
+  },
+  {
+   "symbol": "LVWR.W",
+   "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LVWR.W"
+  },
+  {
+   "symbol": "NWE",
+   "name": "NorthWestern Energy Group, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NWE"
+  },
+  {
+   "symbol": "PLCE",
+   "name": "Children's Place, Inc. (The) - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PLCE"
+  },
+  {
+   "symbol": "ITGR",
+   "name": "Integer Holdings Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ITGR"
   }
  ]
 }

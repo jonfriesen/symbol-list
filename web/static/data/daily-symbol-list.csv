@@ -2548,6 +2548,7 @@ HBA,Hamilton Australian Bank Equal-Weight Index ETF,TSX,HBA.TO,Hamilton AusBk=Wg
 HCA,Hamilton Canadian Bank Mean Reversion Index ETF,TSX,HCA.TO,Hamilton CadBkRev Un,HCA
 CMAX,Hamilton Canadian Equity YIELD MAXIMIZER TM ETF,TSX,CMAX.TO,Ham CDN Eq Yld Max E,CMAX
 HMAX,Hamilton Canadian Financials YIELD MAXIMIZER TM ETF,TSX,HMAX.TO,Ham CdnFinMax TM ETF,HMAX
+CGOV,Hamilton Canadian T-Bill ETF,TSX,CGOV.TO,Hamilton Canadian Tb,CGOV
 HEB,HAMILTON CHAMPIONS TM Canadian Bank Equal-Weight Index ETF,TSX,HEB.TO,Hamilton Chm Cd B EQ,HEB
 CMVP,HAMILTON CHAMPIONS TM Canadian Dividend Index ETF,TSX,CMVP.TO,HAMILTON CHAM CAD Di,CMVP
 HFN,HAMILTON CHAMPIONS TM Canadian Financials Index ETF,TSX,HFN.TO,Hamilton Chm Cd Fi E,HFN
@@ -2573,6 +2574,7 @@ HBND,Hamilton U.S. Bond YIELD MAXIMIZER TM ETF,TSX,HBND.TO,Ham USBndYldMxTM ETF,
 SMAX,Hamilton U.S. Equity YIELD MAXIMIZER TM ETF,TSX,SMAX.TO,Ham USEqYldMaxTM ETF,SMAX,Ham US EqYldMax USD,SMAX.U
 FMAX,Hamilton U.S. Financials YIELD MAXIMIZER TM ETF,TSX,FMAX.TO,Ham USFYld MaxTM ETF,FMAX
 HUM,Hamilton U.S. Mid-Cap Financials ETF,TSX,HUM.TO,Hamilton USMidFinEtf,HUM
+UGOV.U,Hamilton U.S. T-Bill ETF,TSX,UGOV.U.TO,Hamilton US TBill E,UGOV.U
 HBIL,Hamilton U.S. T-Bill YIELD MAXIMIZER TM ETF,TSX,HBIL.TO,HamUS TBYld MaxETF C,HBIL,HamUS TBYld MaxETF U,HBIL.U
 UMAX,Hamilton Utilities YIELD MAXIMIZER TM ETF,TSX,UMAX.TO,Ham UtilYldMx TM ETF,UMAX
 HMM.A,Hammond Manufacturing Company Limited,TSX,HMM.A.TO,Hammond Mfg Cl A SV,HMM.A
@@ -3501,6 +3503,8 @@ SVM,Silvercorp Metals Inc.,TSX,SVM.TO,Silvercorp Metals J,SVM
 SRV.UN,SIR Royalty Income Fund,TSX,SRV.UN.TO,SIR Royalty Incm Un,SRV.UN
 SKE,Skeena Resources Limited,TSX,SKE.TO,Skeena Resources J,SKE
 SGR.U,Slate Grocery REIT,TSX,SGR.U.TO,Slate GroceryREIT US,SGR.U,Slate GroceryREIT Un,SGR.UN
+SBGE,SLGI MFS Blended Research Global Equity Fund,TSX,SBGE.TO,SLGI MFS Blnd Rs G E,SBGE
+SBIE,SLGI MFS Blended Research International Equity Fund,TSX,SBIE.TO,SLGI MFS Blnd Rs I E,SBIE
 SBLG,SLGI MFS Blended Research Low Vol Global Fund,TSX,SBLG.TO,SLGI MFS Bl Rs L V G,SBLG
 SBLI,SLGI MFS Blended Research Low Vol International Fund,TSX,SBLI.TO,SLGI MFS Bl Rs L V I,SBLI
 SRU.UN,SmartCentres Real Estate Investment Trust,TSX,SRU.UN.TO,SmartCtr REIT VV Un,SRU.UN
@@ -3539,9 +3543,14 @@ STG,STRACON Group Holding Inc.,TSX,STG.TO,STRACON Grp Hldg Inc,STG
 MSTR,Strategy CDR (CAD Hedged),TSX,MSTR.TO,Strategy CDR CAD HD,MSTR
 SCR,Strathcona Resources Ltd.,TSX,SCR.TO,Strathcona Res Ltd.,SCR
 SYK,Stryker CDR (CAD Hedged),TSX,SYK.TO,Stryker CDR CAD Hgd,SYK
+SBAL,Sun Life Balanced ETF+ Portfolio,TSX,SBAL.TO,Sun Life Blncd E P,SBAL
+SCNS,Sun Life Conservative ETF+ Portfolio,TSX,SCNS.TO,Sun Life Cons E P,SCNS
 SLCA,Sun Life Core Advantage Credit Private Pool,TSX,SLCA.TO,Sun Life Cacpp ETF,SLCA
 SLSC,Sun Life Crescent Specialty Credit Private Pool,TSX,SLSC.TO,Sun Life Crs Spcl C,SLSC
+SEQT,Sun Life Equity ETF+ Portfolio,TSX,SEQT.TO,Sun Life Eq ETF P,SEQT
 SLF,Sun Life Financial Inc.,TSX,SLF.TO,Sun Life Fin Inc.,SLF,Sun Life Fin Ser3 Pr,SLF.PR.C,Sun Life Fin Ser4 Pr,SLF.PR.D,Sun Life Fin Ser5 Pr,SLF.PR.E,Sun Life Fin Sr8R Pr,SLF.PR.G,Sun Life Fin 10R Pr,SLF.PR.H,Sun Life Fin 9QR Pr,SLF.PR.J
+SFIX,Sun Life Fixed Income ETF+ Portfolio,TSX,SFIX.TO,Sun Life Fxd Inc E P,SFIX
+SGRW,Sun Life Growth ETF+ Portfolio,TSX,SGRW.TO,Sun Life Growth E P,SGRW
 SLGC,Sun Life MFS Global Core Plus Bond Fund,TSX,SLGC.TO,Sun Lfe Glb C P B F,SLGC
 SU,Suncor Energy Inc.,TSX,SU.TO,Suncor Energy Inc.,SU
 SNDY,Sunday Lake Gold Corp.,TSX,SNDY.TO,Sunday Lake Gold Crp,SNDY
@@ -4380,7 +4389,6 @@ BEAGR,Bold Eagle Acquisition Corp. - Right,NASDAQ Global MarketSM,BEAGR
 BEAGU,Bold Eagle Acquisition Corp. - Units,NASDAQ Global MarketSM,BEAGU
 BEAM,Beam Therapeutics Inc. - Common Stock,NASDAQ Global Select MarketSM,BEAM
 BEAT,"Heartbeam, Inc. - Common Stock",NASDAQ Capital Market,BEAT
-BEATW,"Heartbeam, Inc. - Warrant",NASDAQ Capital Market,BEATW
 BEDY,BNY Mellon Enhanced Dividend and Income ETF,NASDAQ Global MarketSM,BEDY
 BEEM,Beam Global - Common Stock,NASDAQ Capital Market,BEEM
 BEEP,Mobile Infrastructure Corporation - Common Stock,NASDAQ Global MarketSM,BEEP
@@ -4561,7 +4569,9 @@ BRLSW,Borealis Foods Inc. - Warrant,NASDAQ Capital Market,BRLSW
 BRLT,"Brilliant Earth Group, Inc. - Class A Common Stock",NASDAQ Global MarketSM,BRLT
 BRNX,BrenX Ltd. - Ordinary Shares,NASDAQ Capital Market,BRNX
 BRNY,Burney U.S. Factor Rotation ETF,NASDAQ Global MarketSM,BRNY
+BRRK,Bluerock Acquisition Corp. II - Class A Ordinary Shares,NASDAQ Global MarketSM,BRRK
 BRRKU,Bluerock Acquisition Corp. II - Units,NASDAQ Global MarketSM,BRRKU
+BRRKW,Bluerock Acquisition Corp. II - Warrants,NASDAQ Global MarketSM,BRRKW
 BRRR,Coinshares Bitcoin ETF,NASDAQ Global MarketSM,BRRR
 BRTM,B&R Technology Merger Corp. - Class A Ordinary Shares,NASDAQ Global MarketSM,BRTM
 BRTMU,B&R Technology Merger Corp. - Units,NASDAQ Global MarketSM,BRTMU
@@ -4620,7 +4630,6 @@ BSVN,Bank7 Corp. - Common stock,NASDAQ Global Select MarketSM,BSVN
 BSVO,EA Bridgeway Omni Small-Cap Value ETF,NASDAQ Global MarketSM,BSVO
 BSY,"Bentley Systems, Incorporated - Class B Common Stock",NASDAQ Global Select MarketSM,BSY
 BTBD,"BT Brands, Inc. - Common Stock",NASDAQ Capital Market,BTBD
-BTBDW,"BT Brands, Inc. - Warrant",NASDAQ Capital Market,BTBDW
 BTBT,"Bit Digital, Inc. - Ordinary Share",NASDAQ Capital Market,BTBT
 BTCS,BTCS Inc. - Common Stock,NASDAQ Capital Market,BTCS
 BTCT,BTC Digital Ltd. - Ordinary Shares,NASDAQ Capital Market,BTCT
@@ -5653,7 +5662,7 @@ FNWD,Finward Bancorp - common stock,NASDAQ Capital Market,FNWD
 FNX,First Trust Mid Cap Core AlphaDEX Fund,NASDAQ Global MarketSM,FNX
 FNY,First Trust Mid Cap Growth AlphaDEX Fund,NASDAQ Global MarketSM,FNY
 FOCL,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",NASDAQ Global MarketSM,FOCL
-FOFO,"Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares",NASDAQ Capital Market,FOFO
+FOFO,"Hang Feng Technology Innovation Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,FOFO
 FORM,"FormFactor, Inc. - Common Stock",NASDAQ Global Select MarketSM,FORM
 FORR,"Forrester Research, Inc. - Common Stock",NASDAQ Global Select MarketSM,FORR
 FORTY,Formula Systems (1985) Ltd. - American Depositary Shares,NASDAQ Global Select MarketSM,FORTY
@@ -6034,6 +6043,7 @@ HCM,HUTCHMED (China) Limited - American Depositary Shares,NASDAQ Global Select M
 HCMA,HCM III Acquisition Corp. - Class A Ordinary Share,NASDAQ Global MarketSM,HCMA
 HCMAU,HCM III Acquisition Corp. - Units,NASDAQ Global MarketSM,HCMAU
 HCMAW,HCM III Acquisition Corp. - Warrants,NASDAQ Global MarketSM,HCMAW
+HCOP,Hartford Hybrid and Credit Opportunities ETF,NASDAQ Global MarketSM,HCOP
 HCOW,Amplify COWS Covered Call ETF,NASDAQ Global MarketSM,HCOW
 HCSG,"Healthcare Services Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,HCSG
 HCTI,"Healthcare Triangle, Inc. - Common Stock",NASDAQ Capital Market,HCTI
@@ -7304,7 +7314,6 @@ NVYY,GraniteShares YieldBOOST NVDA ETF,NASDAQ Global MarketSM,NVYY
 NWBI,"Northwest Bancshares, Inc. - Common Stock",NASDAQ Global Select MarketSM,NWBI
 NWCL,newcleo plc - Ordinary Shares,NASDAQ Global Select MarketSM,NWCL
 NWCLW,newcleo plc - Warrants,NASDAQ Global Select MarketSM,NWCLW
-NWE,"NorthWestern Energy Group, Inc.  - Common Stock",NASDAQ Global Select MarketSM,NWE
 NWFL,Norwood Financial Corp. - Common Stock,NASDAQ Global MarketSM,NWFL
 NWGL,CL Workshop Group Limited - American Depositary Shares,NASDAQ Capital Market,NWGL
 NWL,Newell Brands Inc. - Common Stock,NASDAQ Global Select MarketSM,NWL
@@ -7653,7 +7662,6 @@ PLAY,"Dave & Buster's Entertainment, Inc. - Common Stock",NASDAQ Global Select M
 PLBC,Plumas Bancorp - Common Stock,NASDAQ Capital Market,PLBC
 PLBL,Polibeli Group Ltd - Class A Ordinary Shares,NASDAQ Global MarketSM,PLBL
 PLBY,"Playboy, Inc. - Common Stock",NASDAQ Global MarketSM,PLBY
-PLCE,"Children's Place, Inc. (The) - Common Stock",NASDAQ Global Select MarketSM,PLCE
 PLCI,Pelican Acquisition II Corporation - Ordinary Shares,NASDAQ Capital Market,PLCI
 PLCIR,Pelican Acquisition II Corporation - Right,NASDAQ Capital Market,PLCIR
 PLCIU,Pelican Acquisition II Corporation - Unit,NASDAQ Capital Market,PLCIU
@@ -8485,7 +8493,6 @@ STKH,Steakholder Foods Ltd. - American Depositary Shares,NASDAQ Capital Market,S
 STKS,"The ONE Group Hospitality, Inc. - Common Stock",NASDAQ Capital Market,STKS
 STLD,"Steel Dynamics, Inc. - Common Stock",NASDAQ Global Select MarketSM,STLD
 STLN,"Starling Oncology, Inc. - Common Stock",NASDAQ Capital Market,STLN
-STLNW,"Starling Oncology, Inc. - Warrant",NASDAQ Capital Market,STLNW
 STNC,Hennessy Sustainable ETF,NASDAQ Global MarketSM,STNC
 STNE,StoneCo Ltd. - Class A Common Share,NASDAQ Global Select MarketSM,STNE
 STOK,"Stoke Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,STOK
@@ -9775,7 +9782,6 @@ BIT,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,NYS
 BJ,"BJ's Wholesale Club Holdings, Inc. Common Stock",NYSE,BJ
 BKD,Brookdale Senior Living Inc. Common Stock,NYSE,BKD
 BKE,"Buckle, Inc. (The) Common Stock",NYSE,BKE
-BKH,Black Hills Corporation Common Stock,NYSE,BKH
 BKKT,"Bakkt, Inc. Class A Common Stock",NYSE,BKKT
 BKSY,BlackSky Technology Inc. Class A Common Stock,NYSE,BKSY
 BKT,BlackRock Income Trust Inc. (The),NYSE,BKT
@@ -10788,6 +10794,7 @@ HYAC.W,"Haymaker Acquisition Corp V Redeemable warrants, each whole warrant exer
 HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock,NYSE,HYI
 HYLN,Hyliion Holdings Corp. Class A Common Stock,NYSE MKT,HYLN
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock",NYSE,HYT
+HZN,Bright Horizon Energy Corporation Common Stock,NYSE,HZN
 HZO,"MarineMax, Inc.  (FL) Common Stock",NYSE,HZO
 IAF,"abrdn Australia Equity Fund, Inc. Common Stock",NYSE MKT,IAF
 IAG,Iamgold Corporation Ordinary Shares,NYSE,IAG
@@ -10866,7 +10873,6 @@ IRT,"Independence Realty Trust, Inc. Common Stock",NYSE,IRT
 ISD,"PGIM High Yield Bond Fund, Inc.",NYSE,ISD
 ISOU,IsoEnergy Ltd. Common Shares,NYSE MKT,ISOU
 IT,"Gartner, Inc. Common Stock",NYSE,IT
-ITGR,Integer Holdings Corporation Common Stock,NYSE,ITGR
 ITP,"IT Tech Packaging, Inc. Common Stock",NYSE MKT,ITP
 ITRG,Integra Resources Corp. Common Shares,NYSE MKT,ITRG
 ITT,ITT Inc. Common Stock ,NYSE,ITT
@@ -10996,7 +11002,6 @@ KRSP.W,"Rice Acquisition Corporation 3 Redeemable warrants, each whole warrant e
 KSS,Kohl's Corporation Common Stock,NYSE,KSS
 KT,KT Corporation Common Stock,NYSE,KT
 KTB,"Kontoor Brands, Inc. Common Stock ",NYSE,KTB
-KTF,DWS Municipal Income Trust,NYSE,KTF
 KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,NYSE,KTH
 KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),NYSE,KTN
 KULR,"KULR Technology Group, Inc. Common Stock",NYSE MKT,KULR
@@ -11073,7 +11078,6 @@ LUV,Southwest Airlines Company Common Stock,NYSE,LUV
 LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",NYSE,LUXE
 LVS,Las Vegas Sands Corp. Common Stock,NYSE,LVS
 LVWR,"LiveWire Group, Inc. Common Stock",NYSE,LVWR
-LVWR.W,"LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",NYSE,LVWR.W
 LW,"Lamb Weston Holdings, Inc. Common Stock ",NYSE,LW
 LXFR,Luxfer Holdings PLC Ordinary Shares,NYSE,LXFR
 LXU,"LSB Industries, Inc. Common Stock",NYSE,LXU
@@ -11644,7 +11648,9 @@ PNR,Pentair plc. Ordinary Share,NYSE,PNR
 PNW,Pinnacle West Capital Corporation Common Stock,NYSE,PNW
 POAS,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,NYSE MKT,POAS
 POR,Portland General Electric Co Common Stock,NYSE,POR
+PORT,Southport Acquisition Corp. II Class A Ordinary Shares,NYSE,PORT
 PORT.U,"Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",NYSE,PORT.U
+PORT.W,"Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",NYSE,PORT.W
 POST,"Post Holdings, Inc. Common Stock",NYSE,POST
 PPG,"PPG Industries, Inc. Common Stock",NYSE,PPG
 PPL,PPL Corporation Common Stock,NYSE,PPL
