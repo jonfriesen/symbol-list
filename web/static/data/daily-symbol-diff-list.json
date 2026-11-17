@@ -1,204 +1,198 @@
 {
  "added": [
   {
-   "symbol": "CGOV",
-   "name": "Hamilton Canadian T-Bill ETF",
+   "symbol": "EEQT",
+   "name": "Evolve All-Equity Dividend ETF Portfolio",
    "exchange": "TSX",
-   "yahoo_symbol": "CGOV.TO",
+   "yahoo_symbol": "EEQT.TO",
    "instruments": [
     {
-     "name": "Hamilton Canadian Tb",
-     "symbol": "CGOV"
+     "name": "Evolve All Eq Div E",
+     "symbol": "EEQT"
     }
    ]
   },
   {
-   "symbol": "UGOV.U",
-   "name": "Hamilton U.S. T-Bill ETF",
+   "symbol": "EBAL",
+   "name": "Evolve Balanced Dividend ETF Portfolio",
    "exchange": "TSX",
-   "yahoo_symbol": "UGOV.U.TO",
+   "yahoo_symbol": "EBAL.TO",
    "instruments": [
     {
-     "name": "Hamilton US TBill E",
-     "symbol": "UGOV.U"
+     "name": "Evolve Balncd Div E",
+     "symbol": "EBAL"
     }
    ]
   },
   {
-   "symbol": "SBGE",
-   "name": "SLGI MFS Blended Research Global Equity Fund",
+   "symbol": "VRSA",
+   "name": "Versa Bancorp",
    "exchange": "TSX",
-   "yahoo_symbol": "SBGE.TO",
+   "yahoo_symbol": "VRSA.TO",
    "instruments": [
     {
-     "name": "SLGI MFS Blnd Rs G E",
-     "symbol": "SBGE"
+     "name": "VersaBank J",
+     "symbol": "VRSA"
     }
    ]
   },
   {
-   "symbol": "SBIE",
-   "name": "SLGI MFS Blended Research International Equity Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "SBIE.TO",
+   "symbol": "VALX",
+   "name": "Valiente Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VALX.V",
    "instruments": [
     {
-     "name": "SLGI MFS Blnd Rs I E",
-     "symbol": "SBIE"
+     "name": "Valiente Resources Inc.",
+     "symbol": "VALX"
     }
    ]
   },
   {
-   "symbol": "SBAL",
-   "name": "Sun Life Balanced ETF+ Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "SBAL.TO",
+   "symbol": "VIMY",
+   "name": "Vimy Pharmaceuticals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VIMY.V",
    "instruments": [
     {
-     "name": "Sun Life Blncd E P",
-     "symbol": "SBAL"
+     "name": "Vimy Pharmaceuticals Corp.",
+     "symbol": "VIMY"
     }
    ]
   },
   {
-   "symbol": "SCNS",
-   "name": "Sun Life Conservative ETF+ Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "SCNS.TO",
-   "instruments": [
-    {
-     "name": "Sun Life Cons E P",
-     "symbol": "SCNS"
-    }
-   ]
-  },
-  {
-   "symbol": "SEQT",
-   "name": "Sun Life Equity ETF+ Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "SEQT.TO",
-   "instruments": [
-    {
-     "name": "Sun Life Eq ETF P",
-     "symbol": "SEQT"
-    }
-   ]
-  },
-  {
-   "symbol": "SFIX",
-   "name": "Sun Life Fixed Income ETF+ Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "SFIX.TO",
-   "instruments": [
-    {
-     "name": "Sun Life Fxd Inc E P",
-     "symbol": "SFIX"
-    }
-   ]
-  },
-  {
-   "symbol": "SGRW",
-   "name": "Sun Life Growth ETF+ Portfolio",
-   "exchange": "TSX",
-   "yahoo_symbol": "SGRW.TO",
-   "instruments": [
-    {
-     "name": "Sun Life Growth E P",
-     "symbol": "SGRW"
-    }
-   ]
-  },
-  {
-   "symbol": "BRRK",
-   "name": "Bluerock Acquisition Corp. II - Class A Ordinary Shares",
+   "symbol": "CWPD",
+   "name": "CWP Premium Dividend ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRRK"
+   "yahoo_symbol": "CWPD"
   },
   {
-   "symbol": "BRRKW",
-   "name": "Bluerock Acquisition Corp. II - Warrants",
+   "symbol": "CWPG",
+   "name": "CWP Premium Growth ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BRRKW"
+   "yahoo_symbol": "CWPG"
   },
   {
-   "symbol": "HCOP",
-   "name": "Hartford Hybrid and Credit Opportunities ETF",
+   "symbol": "DAU",
+   "name": "GraniteShares Autocallable AMD ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HCOP"
+   "yahoo_symbol": "DAU"
   },
   {
-   "symbol": "HZN",
-   "name": "Bright Horizon Energy Corporation Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HZN"
+   "symbol": "DRAC",
+   "name": "GraniteShares Autocallable DRAM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DRAC"
   },
   {
-   "symbol": "PORT",
-   "name": "Southport Acquisition Corp. II Class A Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "PORT"
+   "symbol": "GM",
+   "name": "General Motors Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GM"
   },
   {
-   "symbol": "PORT.W",
-   "name": "Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "symbol": "MEA",
+   "name": "GraniteShares Autocallable META ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEA"
+  },
+  {
+   "symbol": "NTCR",
+   "name": "Nuveen Technology \u0026 Infrastructure Credit ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NTCR"
+  },
+  {
+   "symbol": "PCHX",
+   "name": "State Street SPDR Nasdaq MyPaycheck ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCHX"
+  },
+  {
+   "symbol": "PIVT",
+   "name": "VanEck Pivotal Trends ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PIVT"
+  },
+  {
+   "symbol": "VRSA",
+   "name": "Versa Bancorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VRSA"
+  },
+  {
+   "symbol": "TXR",
+   "name": "Torex Resources Inc. Common Shares",
    "exchange": "NYSE",
-   "yahoo_symbol": "PORT.W"
+   "yahoo_symbol": "TXR"
   }
  ],
  "removed": [
   {
-   "symbol": "BEATW",
-   "name": "Heartbeam, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BEATW"
-  },
-  {
-   "symbol": "STLNW",
-   "name": "Starling Oncology, Inc. - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "STLNW"
-  },
-  {
-   "symbol": "BKH",
-   "name": "Black Hills Corporation Common Stock",
+   "symbol": "ACH",
+   "name": "Accendra Health, Inc. Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "BKH"
+   "yahoo_symbol": "ACH"
   },
   {
-   "symbol": "BTBDW",
-   "name": "BT Brands, Inc. - Warrant",
+   "symbol": "RKLZ",
+   "name": "Defiance Daily Target 2x Short RKLB ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RKLZ"
+  },
+  {
+   "symbol": "MONY.P",
+   "name": "Harmony Acquisitions Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MONY.P.V",
+   "instruments": [
+    {
+     "name": "Harmony Acquisitions Corp.",
+     "symbol": "MONY.P"
+    }
+   ]
+  },
+  {
+   "symbol": "DVLT",
+   "name": "Datavault AI Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BTBDW"
+   "yahoo_symbol": "DVLT"
   },
   {
-   "symbol": "KTF",
-   "name": "DWS Municipal Income Trust",
-   "exchange": "NYSE",
-   "yahoo_symbol": "KTF"
+   "symbol": "VBNK",
+   "name": "VersaBank",
+   "exchange": "TSX",
+   "yahoo_symbol": "VBNK.TO",
+   "instruments": [
+    {
+     "name": "VersaBank J",
+     "symbol": "VBNK"
+    }
+   ]
   },
   {
-   "symbol": "LVWR.W",
-   "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LVWR.W"
-  },
-  {
-   "symbol": "NWE",
-   "name": "NorthWestern Energy Group, Inc.  - Common Stock",
+   "symbol": "VBNK",
+   "name": "VersaBank - Common Shares",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NWE"
+   "yahoo_symbol": "VBNK"
   },
   {
-   "symbol": "PLCE",
-   "name": "Children's Place, Inc. (The) - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PLCE"
+   "symbol": "EGLX",
+   "name": "Enthusiast Gaming Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EGLX.TO",
+   "instruments": [
+    {
+     "name": "Enthusiast GameHldgJ",
+     "symbol": "EGLX"
+    }
+   ]
   },
   {
-   "symbol": "ITGR",
-   "name": "Integer Holdings Corporation Common Stock",
+   "symbol": "GM",
+   "name": "General Motors Company Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "ITGR"
+   "yahoo_symbol": "GM"
   }
  ]
 }
