@@ -1,198 +1,132 @@
 {
  "added": [
   {
-   "symbol": "EEQT",
-   "name": "Evolve All-Equity Dividend ETF Portfolio",
+   "symbol": "NBIS",
+   "name": "Nebius Group CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "EEQT.TO",
+   "yahoo_symbol": "NBIS.TO",
    "instruments": [
     {
-     "name": "Evolve All Eq Div E",
-     "symbol": "EEQT"
+     "name": "Nebius Group CDR C H",
+     "symbol": "NBIS"
     }
    ]
   },
   {
-   "symbol": "EBAL",
-   "name": "Evolve Balanced Dividend ETF Portfolio",
+   "symbol": "EGHI",
+   "name": "Ninepoint Global All-in-One HighShares ETF",
    "exchange": "TSX",
-   "yahoo_symbol": "EBAL.TO",
+   "yahoo_symbol": "EGHI.TO",
    "instruments": [
     {
-     "name": "Evolve Balncd Div E",
-     "symbol": "EBAL"
+     "name": "Ninepoint Gl AIO HiS",
+     "symbol": "EGHI"
     }
    ]
   },
   {
-   "symbol": "VRSA",
-   "name": "Versa Bancorp",
+   "symbol": "NSTR",
+   "name": "NorthStar Earth \u0026 Space Enterprises, Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "VRSA.TO",
+   "yahoo_symbol": "NSTR.TO",
    "instruments": [
     {
-     "name": "VersaBank J",
-     "symbol": "VRSA"
+     "name": "Northstar Erth Spc E",
+     "symbol": "NSTR"
     }
    ]
   },
   {
-   "symbol": "VALX",
-   "name": "Valiente Resources Inc.",
+   "symbol": "ATHO",
+   "name": "Athos Metals Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "VALX.V",
+   "yahoo_symbol": "ATHO.V",
    "instruments": [
     {
-     "name": "Valiente Resources Inc.",
-     "symbol": "VALX"
+     "name": "Athos Metals Corp.",
+     "symbol": "ATHO"
     }
    ]
   },
   {
-   "symbol": "VIMY",
-   "name": "Vimy Pharmaceuticals Corp.",
+   "symbol": "SAY",
+   "name": "Sparta Capital Ltd.",
    "exchange": "TSXV",
-   "yahoo_symbol": "VIMY.V",
+   "yahoo_symbol": "SAY.V",
    "instruments": [
     {
-     "name": "Vimy Pharmaceuticals Corp.",
-     "symbol": "VIMY"
+     "name": "Sparta Capital Ltd.",
+     "symbol": "SAY"
     }
    ]
   },
   {
-   "symbol": "CWPD",
-   "name": "CWP Premium Dividend ETF",
+   "symbol": "CCHP",
+   "name": "Global X China Semiconductor ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CWPD"
+   "yahoo_symbol": "CCHP"
   },
   {
-   "symbol": "CWPG",
-   "name": "CWP Premium Growth ETF",
+   "symbol": "GUER",
+   "name": "Guerrilla RF, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GUER"
+  },
+  {
+   "symbol": "IQQI",
+   "name": "IncomeQ Nasdaq-100 Premium Income ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CWPG"
+   "yahoo_symbol": "IQQI"
   },
   {
-   "symbol": "DAU",
-   "name": "GraniteShares Autocallable AMD ETF",
+   "symbol": "SDC",
+   "name": "KICK Space Data Center \u0026 Infrastructure Index ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DAU"
+   "yahoo_symbol": "SDC"
   },
   {
-   "symbol": "DRAC",
-   "name": "GraniteShares Autocallable DRAM ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DRAC"
-  },
-  {
-   "symbol": "GM",
-   "name": "General Motors Company - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GM"
-  },
-  {
-   "symbol": "MEA",
-   "name": "GraniteShares Autocallable META ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MEA"
-  },
-  {
-   "symbol": "NTCR",
-   "name": "Nuveen Technology \u0026 Infrastructure Credit ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NTCR"
-  },
-  {
-   "symbol": "PCHX",
-   "name": "State Street SPDR Nasdaq MyPaycheck ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PCHX"
-  },
-  {
-   "symbol": "PIVT",
-   "name": "VanEck Pivotal Trends ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PIVT"
-  },
-  {
-   "symbol": "VRSA",
-   "name": "Versa Bancorp - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VRSA"
-  },
-  {
-   "symbol": "TXR",
-   "name": "Torex Resources Inc. Common Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "TXR"
+   "symbol": "ZOAR",
+   "name": "Zoar Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ZOAR"
   }
  ],
  "removed": [
   {
-   "symbol": "ACH",
-   "name": "Accendra Health, Inc. Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "ACH"
-  },
-  {
-   "symbol": "RKLZ",
-   "name": "Defiance Daily Target 2x Short RKLB ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RKLZ"
-  },
-  {
-   "symbol": "MONY.P",
-   "name": "Harmony Acquisitions Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MONY.P.V",
-   "instruments": [
-    {
-     "name": "Harmony Acquisitions Corp.",
-     "symbol": "MONY.P"
-    }
-   ]
-  },
-  {
-   "symbol": "DVLT",
-   "name": "Datavault AI Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DVLT"
-  },
-  {
-   "symbol": "VBNK",
-   "name": "VersaBank",
-   "exchange": "TSX",
-   "yahoo_symbol": "VBNK.TO",
-   "instruments": [
-    {
-     "name": "VersaBank J",
-     "symbol": "VBNK"
-    }
-   ]
-  },
-  {
-   "symbol": "VBNK",
-   "name": "VersaBank - Common Shares",
+   "symbol": "PCRX",
+   "name": "Pacira BioSciences, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VBNK"
+   "yahoo_symbol": "PCRX"
   },
   {
-   "symbol": "EGLX",
-   "name": "Enthusiast Gaming Holdings Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "EGLX.TO",
+   "symbol": "SHFSW",
+   "name": "SHF Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHFSW"
+  },
+  {
+   "symbol": "MEED.P",
+   "name": "Meed Growth Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MEED.P.V",
    "instruments": [
     {
-     "name": "Enthusiast GameHldgJ",
-     "symbol": "EGLX"
+     "name": "Meed Growth Corp.",
+     "symbol": "MEED.P"
     }
    ]
   },
   {
-   "symbol": "GM",
-   "name": "General Motors Company Common Stock",
-   "exchange": "NYSE",
-   "yahoo_symbol": "GM"
+   "symbol": "SHFS",
+   "name": "SHF Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHFS"
+  },
+  {
+   "symbol": "IBO",
+   "name": "Impact BioMedical, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IBO"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "data": [
   {
    "symbol": "IGBT.UN",
@@ -23106,6 +23106,18 @@
    ]
   },
   {
+   "symbol": "NBIS",
+   "name": "Nebius Group CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBIS.TO",
+   "instruments": [
+    {
+     "name": "Nebius Group CDR C H",
+     "symbol": "NBIS"
+    }
+   ]
+  },
+  {
    "symbol": "NEBP",
    "name": "NEI Balanced ETF Portfolio",
    "exchange": "TSX",
@@ -23606,6 +23618,18 @@
    ]
   },
   {
+   "symbol": "EGHI",
+   "name": "Ninepoint Global All-in-One HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EGHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Gl AIO HiS",
+     "symbol": "EGHI"
+    }
+   ]
+  },
+  {
    "symbol": "INFR",
    "name": "Ninepoint Global Infrastructure Fund",
    "exchange": "TSX",
@@ -23902,6 +23926,18 @@
     {
      "name": "Northrp Grmn CDR Hdg",
      "symbol": "NOC"
+    }
+   ]
+  },
+  {
+   "symbol": "NSTR",
+   "name": "NorthStar Earth \u0026 Space Enterprises, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSTR.TO",
+   "instruments": [
+    {
+     "name": "Northstar Erth Spc E",
+     "symbol": "NSTR"
     }
    ]
   },
@@ -30736,7 +30772,7 @@
    "yahoo_symbol": "VRSA.TO",
    "instruments": [
     {
-     "name": "VersaBank J",
+     "name": "Versa Bancorp",
      "symbol": "VRSA"
     }
    ]
@@ -32594,6 +32630,18 @@
     {
      "name": "Atha Energy Corp.",
      "symbol": "SASK"
+    }
+   ]
+  },
+  {
+   "symbol": "ATHO",
+   "name": "Athos Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATHO.V",
+   "instruments": [
+    {
+     "name": "Athos Metals Corp.",
+     "symbol": "ATHO"
     }
    ]
   },
@@ -40942,18 +40990,6 @@
    ]
   },
   {
-   "symbol": "MEED.P",
-   "name": "Meed Growth Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MEED.P.V",
-   "instruments": [
-    {
-     "name": "Meed Growth Corp.",
-     "symbol": "MEED.P"
-    }
-   ]
-  },
-  {
    "symbol": "MKR",
    "name": "Melkior Resources Inc.",
    "exchange": "TSXV",
@@ -45734,6 +45770,18 @@
     {
      "name": "Sparrowhawk Opportunity Corp.",
      "symbol": "SHK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SAY",
+   "name": "Sparta Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SAY.V",
+   "instruments": [
+    {
+     "name": "Sparta Capital Ltd.",
+     "symbol": "SAY"
     }
    ]
   },
@@ -54350,6 +54398,12 @@
    "yahoo_symbol": "CCHH"
   },
   {
+   "symbol": "CCHP",
+   "name": "Global X China Semiconductor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCHP"
+  },
+  {
    "symbol": "CCII",
    "name": "Cohen Circle Acquisition Corp. II - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -61820,6 +61874,12 @@
    "yahoo_symbol": "GUACW"
   },
   {
+   "symbol": "GUER",
+   "name": "Guerrilla RF, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GUER"
+  },
+  {
    "symbol": "GURE",
    "name": "Gulf Resources, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -64200,6 +64260,12 @@
    "name": "iShares Nasdaq 100 ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "IQQ"
+  },
+  {
+   "symbol": "IQQI",
+   "name": "IncomeQ Nasdaq-100 Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IQQI"
   },
   {
    "symbol": "IQQQ",
@@ -71342,12 +71408,6 @@
    "yahoo_symbol": "PCPI"
   },
   {
-   "symbol": "PCRX",
-   "name": "Pacira BioSciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PCRX"
-  },
-  {
    "symbol": "PCSA",
    "name": "Processa Pharmaceuticals, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -75164,6 +75224,12 @@
    "yahoo_symbol": "SDAWW"
   },
   {
+   "symbol": "SDC",
+   "name": "KICK Space Data Center \u0026 Infrastructure Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDC"
+  },
+  {
    "symbol": "SDG",
    "name": "iShares MSCI Global Sustainable Development Goals ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -75498,18 +75564,6 @@
    "name": "Shenandoah Telecommunications Co - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SHEN"
-  },
-  {
-   "symbol": "SHFS",
-   "name": "SHF Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHFS"
-  },
-  {
-   "symbol": "SHFSW",
-   "name": "SHF Holdings, Inc. - Warrants",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHFSW"
   },
   {
    "symbol": "SHIM",
@@ -90680,12 +90734,6 @@
    "yahoo_symbol": "IBN"
   },
   {
-   "symbol": "IBO",
-   "name": "Impact BioMedical, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "IBO"
-  },
-  {
    "symbol": "IBOC",
    "name": "International Bancshares Corporation Common Stock",
    "exchange": "UNKNOWN",
@@ -101046,6 +101094,12 @@
    "name": "ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "ZKH"
+  },
+  {
+   "symbol": "ZOAR",
+   "name": "Zoar Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ZOAR"
   },
   {
    "symbol": "ZONE",
