@@ -1,132 +1,90 @@
 {
  "added": [
   {
-   "symbol": "NBIS",
-   "name": "Nebius Group CDR (CAD Hedged)",
+   "symbol": "ANTH",
+   "name": "Anthropic CDR (CAD Hedged)",
    "exchange": "TSX",
-   "yahoo_symbol": "NBIS.TO",
+   "yahoo_symbol": "ANTH.TO",
    "instruments": [
     {
-     "name": "Nebius Group CDR C H",
-     "symbol": "NBIS"
+     "name": "Anthropic CDR CD HGD",
+     "symbol": "ANTH"
     }
    ]
   },
   {
-   "symbol": "EGHI",
-   "name": "Ninepoint Global All-in-One HighShares ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "EGHI.TO",
-   "instruments": [
-    {
-     "name": "Ninepoint Gl AIO HiS",
-     "symbol": "EGHI"
-    }
-   ]
+   "symbol": "ANT",
+   "name": "Anthropic, PBC - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANT"
   },
   {
-   "symbol": "NSTR",
-   "name": "NorthStar Earth \u0026 Space Enterprises, Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "NSTR.TO",
-   "instruments": [
-    {
-     "name": "Northstar Erth Spc E",
-     "symbol": "NSTR"
-    }
-   ]
+   "symbol": "ENVXW",
+   "name": "Enovix Corporation - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ENVXW"
   },
   {
-   "symbol": "ATHO",
-   "name": "Athos Metals Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "ATHO.V",
-   "instruments": [
-    {
-     "name": "Athos Metals Corp.",
-     "symbol": "ATHO"
-    }
-   ]
-  },
-  {
-   "symbol": "SAY",
-   "name": "Sparta Capital Ltd.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SAY.V",
-   "instruments": [
-    {
-     "name": "Sparta Capital Ltd.",
-     "symbol": "SAY"
-    }
-   ]
-  },
-  {
-   "symbol": "CCHP",
-   "name": "Global X China Semiconductor ETF",
+   "symbol": "FDGX",
+   "name": "First Digital Acquisition Corp Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CCHP"
+   "yahoo_symbol": "FDGX"
   },
   {
-   "symbol": "GUER",
-   "name": "Guerrilla RF, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GUER"
-  },
-  {
-   "symbol": "IQQI",
-   "name": "IncomeQ Nasdaq-100 Premium Income ETF",
+   "symbol": "FDGXU",
+   "name": "First Digital Acquisition Corp Ltd. - Units",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IQQI"
+   "yahoo_symbol": "FDGXU"
   },
   {
-   "symbol": "SDC",
-   "name": "KICK Space Data Center \u0026 Infrastructure Index ETF",
+   "symbol": "FDGXW",
+   "name": "First Digital Acquisition Corp Ltd. - Warrants",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SDC"
+   "yahoo_symbol": "FDGXW"
   },
   {
-   "symbol": "ZOAR",
-   "name": "Zoar Limited Ordinary Shares",
+   "symbol": "FMBM",
+   "name": "F\u0026M Bank Corp. Common Stock",
    "exchange": "NYSE MKT",
-   "yahoo_symbol": "ZOAR"
+   "yahoo_symbol": "FMBM"
   }
  ],
  "removed": [
   {
-   "symbol": "PCRX",
-   "name": "Pacira BioSciences, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PCRX"
+   "symbol": "KOYN",
+   "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYN"
   },
   {
-   "symbol": "SHFSW",
-   "name": "SHF Holdings, Inc. - Warrants",
+   "symbol": "KOYNW",
+   "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYNW"
+  },
+  {
+   "symbol": "SCKT",
+   "name": "Socket Mobile, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHFSW"
+   "yahoo_symbol": "SCKT"
   },
   {
-   "symbol": "MEED.P",
-   "name": "Meed Growth Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "MEED.P.V",
-   "instruments": [
-    {
-     "name": "Meed Growth Corp.",
-     "symbol": "MEED.P"
-    }
-   ]
+   "symbol": "KOYNU",
+   "name": "CSLM Digital Asset Acquisition Corp III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYNU"
   },
   {
-   "symbol": "SHFS",
-   "name": "SHF Holdings, Inc. - Class A Common Stock",
+   "symbol": "SSTI",
+   "name": "SoundThinking, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SHFS"
+   "yahoo_symbol": "SSTI"
   },
   {
-   "symbol": "IBO",
-   "name": "Impact BioMedical, Inc. Common Stock",
-   "exchange": "NYSE MKT",
-   "yahoo_symbol": "IBO"
+   "symbol": "LXFR",
+   "name": "Luxfer Holdings PLC Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LXFR"
   }
  ]
 }

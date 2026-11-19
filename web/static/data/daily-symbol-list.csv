@@ -71,6 +71,7 @@ AMGN,Amgen CDR (CAD Hedged),TSX,AMGN.TO,Amgen CDR CAN Hgd,AMGN
 APH,Amphenol CDR (CAD Hedged),TSX,APH.TO,Amphnl CDR CAD Hdg,APH
 ANRG,Anaergia Inc.,TSX,ANRG.TO,Anaergia Inc. ,ANRG
 APM,Andean Precious Metals Corp.,TSX,APM.TO,Andean Prec Meta Cor,APM
+ANTH,Anthropic CDR (CAD Hedged),TSX,ANTH.TO,Anthropic CDR CD HGD,ANTH
 APTX,Apotex Health Corp.,TSX,APTX.TO,Apotex Health Corp,APTX
 AAPL,Apple CDR (CAD Hedged),TSX,AAPL.TO,Apple CDR CAD HD,AAPL
 AMAT,Applied Materials CDR (CAD Hedged),TSX,AMAT.TO,ApplMatl CDR Hgd,AMAT
@@ -4121,6 +4122,7 @@ ANNA,"AleAnna, Inc. - Class A Common Stock",NASDAQ Capital Market,ANNA
 ANNAW,"AleAnna, Inc. - Warrant",NASDAQ Capital Market,ANNAW
 ANNX,"Annexon, Inc. - common stock",NASDAQ Global Select MarketSM,ANNX
 ANPA,Rich Sparkle Holdings Limited - Ordinary Shares,NASDAQ Capital Market,ANPA
+ANT,"Anthropic, PBC - Class A Common Stock",NASDAQ Global Select MarketSM,ANT
 ANTA,Antalpha Platform Holding Company - Class A Ordinary Shares,NASDAQ Global MarketSM,ANTA
 ANTX,"AN2 Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,ANTX
 ANV,GraniteShares Autocallable NVDA ETF,NASDAQ Global MarketSM,ANV
@@ -5403,6 +5405,7 @@ ENTG,"Entegris, Inc. - Common Stock",NASDAQ Global Select MarketSM,ENTG
 ENTX,Entera Bio Ltd. - Ordinary Shares,NASDAQ Capital Market,ENTX
 ENVB,"Enveric Biosciences, Inc.  - Common Stock",NASDAQ Capital Market,ENVB
 ENVX,Enovix Corporation - Common Stock,NASDAQ Global Select MarketSM,ENVX
+ENVXW,Enovix Corporation - Warrants,NASDAQ Global Select MarketSM,ENVXW
 ENZL,iShares MSCI New Zealand ETF,NASDAQ Global MarketSM,ENZL
 EOCN,Eocene Ltd. - Ordinary Shares,NASDAQ Capital Market,EOCN
 EOLS,"Evolus, Inc. - Common Stock",NASDAQ Global MarketSM,EOLS
@@ -5546,6 +5549,9 @@ FCUV,Focus Universal Inc. - Common Stock,NASDAQ Capital Market,FCUV
 FCVT,First Trust SSI Strategic Convertible Securities ETF,NASDAQ Global MarketSM,FCVT
 FDBC,"Fidelity D & D Bancorp, Inc. - Common Stock",NASDAQ Global MarketSM,FDBC
 FDCF,Fidelity Disruptive Communications ETF,NASDAQ Global MarketSM,FDCF
+FDGX,First Digital Acquisition Corp Ltd. - Class A Ordinary Shares,NASDAQ Global MarketSM,FDGX
+FDGXU,First Digital Acquisition Corp Ltd. - Units,NASDAQ Global MarketSM,FDGXU
+FDGXW,First Digital Acquisition Corp Ltd. - Warrants,NASDAQ Global MarketSM,FDGXW
 FDIG,Fidelity Crypto Industry and Digital Payments ETF,NASDAQ Global MarketSM,FDIG
 FDIQ,Invesco Bloomberg Financial Data Providers ETF,NASDAQ Global MarketSM,FDIQ
 FDIV,MarketDesk Focused U.S. Dividend ETF,NASDAQ Global MarketSM,FDIV
@@ -6579,9 +6585,6 @@ KOD,Kodiak Sciences Inc - Common Stock,NASDAQ Global MarketSM,KOD
 KOID,KraneShares Global Humanoid Robotics and Physical AI Index ETF,NASDAQ Global MarketSM,KOID
 KOPN,Kopin Corporation - Common Stock,NASDAQ Capital Market,KOPN
 KOSS,Koss Corporation - Common Stock,NASDAQ Capital Market,KOSS
-KOYN,CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares,NASDAQ Global MarketSM,KOYN
-KOYNU,CSLM Digital Asset Acquisition Corp III - Units,NASDAQ Global MarketSM,KOYNU
-KOYNW,CSLM Digital Asset Acquisition Corp III - Warrants,NASDAQ Global MarketSM,KOYNW
 KPLT,"Katapult Holdings, Inc. - Common Stock",NASDAQ Global MarketSM,KPLT
 KPRX,"Kiora Pharmaceuticals, Inc.  - Common Stock",NASDAQ Capital Market,KPRX
 KQQQ,Kurv Technology Titans Select ETF,NASDAQ Global MarketSM,KQQQ
@@ -8208,7 +8211,6 @@ SCHL,Scholastic Corporation - Common Stock,NASDAQ Global Select MarketSM,SCHL
 SCII,SC II Acquisition Corp. - Class A ordinary share,NASDAQ Global MarketSM,SCII
 SCIIR,SC II Acquisition Corp. - Rights,NASDAQ Global MarketSM,SCIIR
 SCIIU,SC II Acquisition Corp. - Units,NASDAQ Global MarketSM,SCIIU
-SCKT,"Socket Mobile, Inc. - Common Stock",NASDAQ Capital Market,SCKT
 SCLX,Scilex Holding Company - Common Stock,NASDAQ Capital Market,SCLX
 SCLXW,Scilex Holding Company - Warrant,NASDAQ Capital Market,SCLXW
 SCNI,Scinai Immunotherapeutics Ltd. - American Depositary Shares,NASDAQ Capital Market,SCNI
@@ -8490,7 +8492,6 @@ SSNC,"SS&C Technologies Holdings, Inc. - Common Stock",NASDAQ Global Select Mark
 SSP,E.W. Scripps Company (The) - Class A Common Stock,NASDAQ Global Select MarketSM,SSP
 SSRM,SSR Mining Inc. - Common Stock,NASDAQ Global Select MarketSM,SSRM
 SSS,CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF,NASDAQ Global MarketSM,SSS
-SSTI,"SoundThinking, Inc. - Common Stock",NASDAQ Capital Market,SSTI
 SSYS,"Stratasys, Ltd. - Common Stock",NASDAQ Global Select MarketSM,SSYS
 STAA,STAAR Surgical Company - Common Stock,NASDAQ Global MarketSM,STAA
 STAK,STAK Inc. - Class A Ordinary Shares,NASDAQ Capital Market,STAK
@@ -10507,6 +10508,7 @@ FLS,Flowserve Corporation Common Stock,NYSE,FLS
 FLUT,Flutter Entertainment plc Ordinary Shares,NYSE,FLUT
 FLYX,"flyExclusive, Inc. Class A Common Stock",NYSE MKT,FLYX
 FLYX.W,"flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",NYSE MKT,FLYX.W
+FMBM,F&M Bank Corp. Common Stock,NYSE MKT,FMBM
 FMC,FMC Corporation Common Stock,NYSE,FMC
 FMN,Federated Hermes Premier Municipal Income Fund,NYSE,FMN
 FMS,Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 of an Ordinary Share),NYSE,FMS
@@ -11090,7 +11092,6 @@ LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordin
 LVS,Las Vegas Sands Corp. Common Stock,NYSE,LVS
 LVWR,"LiveWire Group, Inc. Common Stock",NYSE,LVWR
 LW,"Lamb Weston Holdings, Inc. Common Stock ",NYSE,LW
-LXFR,Luxfer Holdings PLC Ordinary Shares,NYSE,LXFR
 LXU,"LSB Industries, Inc. Common Stock",NYSE,LXU
 LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),NYSE,LYB
 LYG,Lloyds Banking Group Plc American Depositary Shares,NYSE,LYG

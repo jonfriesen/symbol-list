@@ -1,5 +1,5 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "data": [
   {
    "symbol": "IGBT.UN",
@@ -970,6 +970,18 @@
     {
      "name": "Andean Prec Meta Cor",
      "symbol": "APM"
+    }
+   ]
+  },
+  {
+   "symbol": "ANTH",
+   "name": "Anthropic CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ANTH.TO",
+   "instruments": [
+    {
+     "name": "Anthropic CDR CD HGD",
+     "symbol": "ANTH"
     }
    ]
   },
@@ -50576,6 +50588,12 @@
    "yahoo_symbol": "ANPA"
   },
   {
+   "symbol": "ANT",
+   "name": "Anthropic, PBC - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANT"
+  },
+  {
    "symbol": "ANTA",
    "name": "Antalpha Platform Holding Company - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
@@ -58268,6 +58286,12 @@
    "yahoo_symbol": "ENVX"
   },
   {
+   "symbol": "ENVXW",
+   "name": "Enovix Corporation - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ENVXW"
+  },
+  {
    "symbol": "ENZL",
    "name": "iShares MSCI New Zealand ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -59124,6 +59148,24 @@
    "name": "Fidelity Disruptive Communications ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FDCF"
+  },
+  {
+   "symbol": "FDGX",
+   "name": "First Digital Acquisition Corp Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDGX"
+  },
+  {
+   "symbol": "FDGXU",
+   "name": "First Digital Acquisition Corp Ltd. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDGXU"
+  },
+  {
+   "symbol": "FDGXW",
+   "name": "First Digital Acquisition Corp Ltd. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDGXW"
   },
   {
    "symbol": "FDIG",
@@ -65322,24 +65364,6 @@
    "name": "Koss Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "KOSS"
-  },
-  {
-   "symbol": "KOYN",
-   "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KOYN"
-  },
-  {
-   "symbol": "KOYNU",
-   "name": "CSLM Digital Asset Acquisition Corp III - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KOYNU"
-  },
-  {
-   "symbol": "KOYNW",
-   "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "KOYNW"
   },
   {
    "symbol": "KPLT",
@@ -75098,12 +75122,6 @@
    "yahoo_symbol": "SCIIU"
   },
   {
-   "symbol": "SCKT",
-   "name": "Socket Mobile, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SCKT"
-  },
-  {
    "symbol": "SCLX",
    "name": "Scilex Holding Company - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -76788,12 +76806,6 @@
    "name": "CYBER HORNET S\u0026P 500 and Solana 75/25 Strategy ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "SSS"
-  },
-  {
-   "symbol": "SSTI",
-   "name": "SoundThinking, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SSTI"
   },
   {
    "symbol": "SSYS",
@@ -88892,6 +88904,12 @@
    "yahoo_symbol": "FLYX.W"
   },
   {
+   "symbol": "FMBM",
+   "name": "F\u0026M Bank Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FMBM"
+  },
+  {
    "symbol": "FMC",
    "name": "FMC Corporation Common Stock",
    "exchange": "NYSE",
@@ -92388,12 +92406,6 @@
    "name": "Lamb Weston Holdings, Inc. Common Stock ",
    "exchange": "NYSE",
    "yahoo_symbol": "LW"
-  },
-  {
-   "symbol": "LXFR",
-   "name": "Luxfer Holdings PLC Ordinary Shares",
-   "exchange": "NYSE",
-   "yahoo_symbol": "LXFR"
   },
   {
    "symbol": "LXU",
