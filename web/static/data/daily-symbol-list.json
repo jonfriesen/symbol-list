@@ -1,5 +1,5 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-23",
  "data": [
   {
    "symbol": "ONE",
@@ -11547,12 +11547,12 @@
   },
   {
    "symbol": "OSM",
-   "name": "Osiris One Metals Ltd.",
+   "name": "Osiris Copper Corp.",
    "exchange": "TSXV",
    "yahoo_symbol": "OSM.V",
    "instruments": [
     {
-     "name": "Osiris One Metals Ltd.",
+     "name": "Osiris Copper Corp.",
      "symbol": "OSM"
     }
    ]
@@ -14382,18 +14382,6 @@
    ]
   },
   {
-   "symbol": "SML",
-   "name": "Southstone Minerals Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SML.V",
-   "instruments": [
-    {
-     "name": "Southstone Minerals Limited",
-     "symbol": "SML"
-    }
-   ]
-  },
-  {
    "symbol": "SPSA.P",
    "name": "SP Strategic Acquisition Corp.",
    "exchange": "TSXV",
@@ -15854,10 +15842,6 @@
     {
      "name": "Tuktu Resources Ltd.",
      "symbol": "TUK"
-    },
-    {
-     "name": "TUKTU RESOURCES LTD wt23Nov2026",
-     "symbol": "TUK.WT"
     }
    ]
   },
@@ -22426,18 +22410,6 @@
    ]
   },
   {
-   "symbol": "BIPC",
-   "name": "Brookfield Infrastructure Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "BIPC.TO",
-   "instruments": [
-    {
-     "name": "Brookfld Infras A SV",
-     "symbol": "BIPC"
-    }
-   ]
-  },
-  {
    "symbol": "BILP.PR.A",
    "name": "Brookfield Infrastructure L.P.",
    "exchange": "TSX",
@@ -22451,7 +22423,7 @@
   },
   {
    "symbol": "BIP.PR.E",
-   "name": "Brookfield Infrastructure Partners L.P.",
+   "name": "Brookfield Infrastructure Partners Inc.",
    "exchange": "TSX",
    "yahoo_symbol": "BIP.PR.E.TO",
    "instruments": [
@@ -22466,6 +22438,22 @@
     {
      "name": "Brookfield Infras Un",
      "symbol": "BIP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "BIPF.PR.E",
+   "name": "Brookfield Infrastructure Partners L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIPF.PR.E.TO",
+   "instruments": [
+    {
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIPF.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIPF.PR.F"
     }
    ]
   },
@@ -34106,18 +34094,6 @@
     {
      "name": "HVST Util Ldr Inc",
      "symbol": "HUTL"
-    }
-   ]
-  },
-  {
-   "symbol": "HWX",
-   "name": "Headwater Exploration Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "HWX.TO",
-   "instruments": [
-    {
-     "name": "Headwater Expl Inc.",
-     "symbol": "HWX"
     }
    ]
   },
@@ -47178,6 +47154,22 @@
    ]
   },
   {
+   "symbol": "TBX",
+   "name": "Tributary Exploration Inc",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBX.TO",
+   "instruments": [
+    {
+     "name": "Tributary Expl Inc C",
+     "symbol": "TBX"
+    },
+    {
+     "name": "Tributary Expl Inc W",
+     "symbol": "TBX.WT"
+    }
+   ]
+  },
+  {
    "symbol": "TCW",
    "name": "Trican Well Service Ltd.",
    "exchange": "TSX",
@@ -49778,6 +49770,12 @@
    "yahoo_symbol": "AIIR"
   },
   {
+   "symbol": "AIL",
+   "name": "GraniteShares 2x Long Anthropic Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIL"
+  },
+  {
    "symbol": "AIMD",
    "name": "Ainos, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -50612,6 +50610,12 @@
    "yahoo_symbol": "ANPA"
   },
   {
+   "symbol": "ANS",
+   "name": "GraniteShares 2x Short Anthropic Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANS"
+  },
+  {
    "symbol": "ANT",
    "name": "Anthropic, PBC - Class A Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -50624,10 +50628,46 @@
    "yahoo_symbol": "ANTA"
   },
   {
+   "symbol": "ANTC",
+   "name": "Defiance 2X ANT Long Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTC"
+  },
+  {
+   "symbol": "ANTD",
+   "name": "Direxion Daily Anthropic Bear 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTD"
+  },
+  {
+   "symbol": "ANTO",
+   "name": "Direxion Daily Anthropic Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTO"
+  },
+  {
+   "symbol": "ANTQ",
+   "name": "Defiance 2X ANT Short Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTQ"
+  },
+  {
+   "symbol": "ANTU",
+   "name": "ProShares Ultra Anthropic",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTU"
+  },
+  {
    "symbol": "ANTX",
    "name": "AN2 Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "ANTX"
+  },
+  {
+   "symbol": "ANTY",
+   "name": "ProShares UltraShort Anthropic",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTY"
   },
   {
    "symbol": "ANV",
@@ -51710,6 +51750,12 @@
    "yahoo_symbol": "AVXX"
   },
   {
+   "symbol": "AVZO",
+   "name": "Avenzo Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AVZO"
+  },
+  {
    "symbol": "AWRE",
    "name": "Aware, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
@@ -52710,24 +52756,6 @@
    "name": "Global X Blockchain ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "BKCH"
-  },
-  {
-   "symbol": "BKHA",
-   "name": "Black Hawk Acquisition Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKHA"
-  },
-  {
-   "symbol": "BKHAR",
-   "name": "Black Hawk Acquisition Corporation - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKHAR"
-  },
-  {
-   "symbol": "BKHAU",
-   "name": "Black Hawk Acquisition Corporation - Units",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKHAU"
   },
   {
    "symbol": "BKMI",
@@ -55380,6 +55408,12 @@
    "name": "Euro Tech Holdings Company Limited - Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "CLWT"
+  },
+  {
+   "symbol": "CLYD",
+   "name": "Clywedog Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLYD"
   },
   {
    "symbol": "CLYM",
@@ -58244,6 +58278,12 @@
    "yahoo_symbol": "ENHU"
   },
   {
+   "symbol": "ENHV",
+   "name": "iShares Enhanced Large Cap Value Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENHV"
+  },
+  {
    "symbol": "ENLT",
    "name": "Enlight Renewable Energy Ltd. - Ordinary Shares",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -58698,6 +58738,18 @@
    "name": "Evergy, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "EVRG"
+  },
+  {
+   "symbol": "EVRL",
+   "name": "Everli Global Holdings - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVRL"
+  },
+  {
+   "symbol": "EVRLW",
+   "name": "Everli Global Holdings - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVRLW"
   },
   {
    "symbol": "EVSD",
@@ -60987,7 +61039,7 @@
   },
   {
    "symbol": "GFAI",
-   "name": "Guardforce AI Co., Limited - Ordinary Shares",
+   "name": "Guardforce AI Co., Limited - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "GFAI"
   },
@@ -66798,24 +66850,6 @@
    "name": "GraniteShares YieldBOOST MARA ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "MAAY"
-  },
-  {
-   "symbol": "MACI",
-   "name": "Melar Acquisition Corp. I - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACI"
-  },
-  {
-   "symbol": "MACIU",
-   "name": "Melar Acquisition Corp. I - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACIU"
-  },
-  {
-   "symbol": "MACIW",
-   "name": "Melar Acquisition Corp. I - Warrant",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACIW"
   },
   {
    "symbol": "MAGH",
@@ -74252,12 +74286,6 @@
    "yahoo_symbol": "RKLX"
   },
   {
-   "symbol": "RKNG",
-   "name": "Defiance Retail Kings ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RKNG"
-  },
-  {
    "symbol": "RKTO",
    "name": "Rocket One Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
@@ -74274,12 +74302,6 @@
    "name": "Relmada Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
    "yahoo_symbol": "RLMD"
-  },
-  {
-   "symbol": "RLYB",
-   "name": "Rallybio Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RLYB"
   },
   {
    "symbol": "RMBI",
@@ -79910,6 +79932,12 @@
    "yahoo_symbol": "VERX"
   },
   {
+   "symbol": "VESI",
+   "name": "Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VESI"
+  },
+  {
    "symbol": "VFF",
    "name": "Village Farms International, Inc. - Common Shares",
    "exchange": "NASDAQ Capital Market",
@@ -84573,27 +84601,21 @@
   },
   {
    "symbol": "BIP",
-   "name": "Brookfield Infrastructure Partners LP Limited Partnership Units",
+   "name": "Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares",
    "exchange": "NYSE",
    "yahoo_symbol": "BIP"
   },
   {
-   "symbol": "BIP$A",
+   "symbol": "BIPF$A",
    "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",
    "exchange": "NYSE",
-   "yahoo_symbol": "BIP$A"
+   "yahoo_symbol": "BIPF$A"
   },
   {
-   "symbol": "BIP$B",
+   "symbol": "BIPF$B",
    "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",
    "exchange": "NYSE",
-   "yahoo_symbol": "BIP$B"
-  },
-  {
-   "symbol": "BIPC",
-   "name": "Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIPC"
+   "yahoo_symbol": "BIPF$B"
   },
   {
    "symbol": "BIPH",

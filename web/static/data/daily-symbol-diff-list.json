@@ -1,144 +1,236 @@
 {
  "added": [
   {
-   "symbol": "ANTE",
-   "name": "Harvest Anthropic Enhanced High Income Shares ETF",
+   "symbol": "BIPF.PR.E",
+   "name": "Brookfield Infrastructure Partners L.P.",
    "exchange": "TSX",
-   "yahoo_symbol": "ANTE.TO",
+   "yahoo_symbol": "BIPF.PR.E.TO",
    "instruments": [
     {
-     "name": "Harv Anth Enh H In S",
-     "symbol": "ANTE"
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIPF.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIPF.PR.F"
     }
    ]
   },
   {
-   "symbol": "ANHI",
-   "name": "Ninepoint Anthropic HighShares ETF",
+   "symbol": "TBX",
+   "name": "Tributary Exploration Inc",
    "exchange": "TSX",
-   "yahoo_symbol": "ANHI.TO",
+   "yahoo_symbol": "TBX.TO",
    "instruments": [
     {
-     "name": "Ninepoint Anthr HS E",
-     "symbol": "ANHI"
+     "name": "Tributary Expl Inc C",
+     "symbol": "TBX"
+    },
+    {
+     "name": "Tributary Expl Inc W",
+     "symbol": "TBX.WT"
     }
    ]
+  },
+  {
+   "symbol": "AIL",
+   "name": "GraniteShares 2x Long Anthropic Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIL"
+  },
+  {
+   "symbol": "ANS",
+   "name": "GraniteShares 2x Short Anthropic Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANS"
+  },
+  {
+   "symbol": "ANTC",
+   "name": "Defiance 2X ANT Long Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTC"
+  },
+  {
+   "symbol": "ANTD",
+   "name": "Direxion Daily Anthropic Bear 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTD"
+  },
+  {
+   "symbol": "ANTO",
+   "name": "Direxion Daily Anthropic Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTO"
+  },
+  {
+   "symbol": "ANTQ",
+   "name": "Defiance 2X ANT Short Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTQ"
   },
   {
    "symbol": "ANTU",
-   "name": "SavvyLong (2X) Anthropic ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "ANTU.TO",
-   "instruments": [
-    {
-     "name": "SavvyLong 2X Anthr E",
-     "symbol": "ANTU"
-    }
-   ]
-  },
-  {
-   "symbol": "SNDU",
-   "name": "SavvyLong (2X) SanDisk ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "SNDU.TO",
-   "instruments": [
-    {
-     "name": "SavvyLong 2X SanDisk",
-     "symbol": "SNDU"
-    }
-   ]
-  },
-  {
-   "symbol": "AAUD",
-   "name": "Alpha Architect US Equity 5 ETF",
+   "name": "ProShares Ultra Anthropic",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AAUD"
+   "yahoo_symbol": "ANTU"
   },
   {
-   "symbol": "CZZL",
-   "name": "Cizzle Brands Corporation - Common Stock",
+   "symbol": "ANTY",
+   "name": "ProShares UltraShort Anthropic",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTY"
+  },
+  {
+   "symbol": "AVZO",
+   "name": "Avenzo Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CZZL"
+   "yahoo_symbol": "AVZO"
   },
   {
-   "symbol": "ISMH",
-   "name": "xETFs International Semiconductor ETF",
+   "symbol": "CLYD",
+   "name": "Clywedog Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLYD"
+  },
+  {
+   "symbol": "ENHV",
+   "name": "iShares Enhanced Large Cap Value Active ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ISMH"
+   "yahoo_symbol": "ENHV"
   },
   {
-   "symbol": "SONN",
-   "name": "Southern Company (The) 2026 Series A Corporate Units",
+   "symbol": "EVRL",
+   "name": "Everli Global Holdings - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVRL"
+  },
+  {
+   "symbol": "EVRLW",
+   "name": "Everli Global Holdings - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVRLW"
+  },
+  {
+   "symbol": "VESI",
+   "name": "Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VESI"
+  },
+  {
+   "symbol": "BIPF$A",
+   "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",
    "exchange": "NYSE",
-   "yahoo_symbol": "SONN"
+   "yahoo_symbol": "BIPF$A"
+  },
+  {
+   "symbol": "BIPF$B",
+   "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIPF$B"
   }
  ],
  "removed": [
   {
-   "symbol": "MERC",
-   "name": "Mercer International Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MERC"
+   "symbol": "MACIU",
+   "name": "Melar Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACIU"
   },
   {
-   "symbol": "OPENZ",
-   "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OPENZ"
-  },
-  {
-   "symbol": "OPAY",
-   "name": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares",
+   "symbol": "BIP$B",
+   "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",
    "exchange": "NYSE",
-   "yahoo_symbol": "OPAY"
+   "yahoo_symbol": "BIP$B"
   },
   {
-   "symbol": "OPENW",
-   "name": "Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OPENW"
-  },
-  {
-   "symbol": "TBCF",
-   "name": "TD Target 2026 Investment Grade Bond ETF",
+   "symbol": "HWX",
+   "name": "Headwater Exploration Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "TBCF.TO",
+   "yahoo_symbol": "HWX.TO",
    "instruments": [
     {
-     "name": "TdTgt 26 InvGr B Etf",
-     "symbol": "TBCF"
+     "name": "Headwater Expl Inc.",
+     "symbol": "HWX"
     }
    ]
   },
   {
-   "symbol": "UTZ",
-   "name": "Utz Brands Inc Class A Common Stock ",
-   "exchange": "NYSE",
-   "yahoo_symbol": "UTZ"
+   "symbol": "MACIW",
+   "name": "Melar Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACIW"
   },
   {
-   "symbol": "OPENL",
-   "name": "Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OPENL"
+   "symbol": "BKHAU",
+   "name": "Black Hawk Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHAU"
   },
   {
-   "symbol": "TBUF.U",
-   "name": "TD Target 2026 U.S. Investment Grade Bond ETF",
-   "exchange": "TSX",
-   "yahoo_symbol": "TBUF.U.TO",
-   "instruments": [
-    {
-     "name": "TdTgtUS26 InvGrB Etf",
-     "symbol": "TBUF.U"
-    }
-   ]
-  },
-  {
-   "symbol": "AMPGZ",
-   "name": "Amplitech Group, Inc. - Series B Right",
+   "symbol": "RLYB",
+   "name": "Rallybio Corporation - Common Stock",
    "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AMPGZ"
+   "yahoo_symbol": "RLYB"
+  },
+  {
+   "symbol": "SML",
+   "name": "Southstone Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SML.V",
+   "instruments": [
+    {
+     "name": "Southstone Minerals Limited",
+     "symbol": "SML"
+    }
+   ]
+  },
+  {
+   "symbol": "MACI",
+   "name": "Melar Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACI"
+  },
+  {
+   "symbol": "BKHA",
+   "name": "Black Hawk Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHA"
+  },
+  {
+   "symbol": "BIPC",
+   "name": "Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIPC"
+  },
+  {
+   "symbol": "RKNG",
+   "name": "Defiance Retail Kings ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RKNG"
+  },
+  {
+   "symbol": "BIPC",
+   "name": "Brookfield Infrastructure Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIPC.TO",
+   "instruments": [
+    {
+     "name": "Brookfld Infras A SV",
+     "symbol": "BIPC"
+    }
+   ]
+  },
+  {
+   "symbol": "BIP$A",
+   "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIP$A"
+  },
+  {
+   "symbol": "BKHAR",
+   "name": "Black Hawk Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHAR"
   }
  ]
 }
