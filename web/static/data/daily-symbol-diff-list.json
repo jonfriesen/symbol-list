@@ -1,236 +1,140 @@
 {
  "added": [
   {
-   "symbol": "BIPF.PR.E",
-   "name": "Brookfield Infrastructure Partners L.P.",
+   "symbol": "BIP",
+   "name": "Brookfield Infrastructure Partners Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "BIPF.PR.E.TO",
+   "yahoo_symbol": "BIP.TO",
    "instruments": [
     {
+     "name": "Brookfield Infa Par",
+     "symbol": "BIP"
+    },
+    {
      "name": "Brookfield InfrasPr9",
-     "symbol": "BIPF.PR.E"
+     "symbol": "BIP.PR.E"
     },
     {
      "name": "Brookfield InfraPr11",
-     "symbol": "BIPF.PR.F"
-    }
-   ]
-  },
-  {
-   "symbol": "TBX",
-   "name": "Tributary Exploration Inc",
-   "exchange": "TSX",
-   "yahoo_symbol": "TBX.TO",
-   "instruments": [
-    {
-     "name": "Tributary Expl Inc C",
-     "symbol": "TBX"
+     "symbol": "BIP.PR.F"
     },
     {
-     "name": "Tributary Expl Inc W",
-     "symbol": "TBX.WT"
+     "name": "Brookfield Infras Un",
+     "symbol": "BIP.UN"
     }
    ]
   },
   {
-   "symbol": "AIL",
-   "name": "GraniteShares 2x Long Anthropic Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "AIL"
+   "symbol": "MGLO",
+   "name": "Manulife Global Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MGLO.TO",
+   "instruments": [
+    {
+     "name": "Manulife Glb Gr Fd E",
+     "symbol": "MGLO"
+    }
+   ]
   },
   {
-   "symbol": "ANS",
-   "name": "GraniteShares 2x Short Anthropic Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANS"
+   "symbol": "TCB",
+   "name": "TD Canadian Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCB.TO",
+   "instruments": [
+    {
+     "name": "TD Cdn Corp Bd Ind E",
+     "symbol": "TCB"
+    }
+   ]
   },
   {
-   "symbol": "ANTC",
-   "name": "Defiance 2X ANT Long Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANTC"
+   "symbol": "TGB",
+   "name": "TD Canadian Government Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TGB.TO",
+   "instruments": [
+    {
+     "name": "TD Cdn Gov Bd Ind E",
+     "symbol": "TGB"
+    }
+   ]
   },
   {
-   "symbol": "ANTD",
-   "name": "Direxion Daily Anthropic Bear 2X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANTD"
-  },
-  {
-   "symbol": "ANTO",
-   "name": "Direxion Daily Anthropic Bull 2X ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANTO"
-  },
-  {
-   "symbol": "ANTQ",
-   "name": "Defiance 2X ANT Short Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANTQ"
-  },
-  {
-   "symbol": "ANTU",
-   "name": "ProShares Ultra Anthropic",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANTU"
-  },
-  {
-   "symbol": "ANTY",
-   "name": "ProShares UltraShort Anthropic",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ANTY"
-  },
-  {
-   "symbol": "AVZO",
-   "name": "Avenzo Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AVZO"
-  },
-  {
-   "symbol": "CLYD",
-   "name": "Clywedog Therapeutics Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CLYD"
-  },
-  {
-   "symbol": "ENHV",
-   "name": "iShares Enhanced Large Cap Value Active ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ENHV"
-  },
-  {
-   "symbol": "EVRL",
-   "name": "Everli Global Holdings - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVRL"
-  },
-  {
-   "symbol": "EVRLW",
-   "name": "Everli Global Holdings - Warrant",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EVRLW"
-  },
-  {
-   "symbol": "VESI",
-   "name": "Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VESI"
-  },
-  {
-   "symbol": "BIPF$A",
-   "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",
+   "symbol": "QSPC",
+   "name": "Quantum Space, Inc. Class A-1 Common Stock",
    "exchange": "NYSE",
-   "yahoo_symbol": "BIPF$A"
+   "yahoo_symbol": "QSPC"
   },
   {
-   "symbol": "BIPF$B",
-   "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIPF$B"
+   "symbol": "QSPC.W",
+   "name": "Quantum Space, Inc. Warrants, each whole warrant exercisable for one share of Class A-1 Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "QSPC.W"
+  },
+  {
+   "symbol": "OBMT",
+   "name": "Opportunity Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBMT"
   }
  ],
  "removed": [
   {
-   "symbol": "MACIU",
-   "name": "Melar Acquisition Corp. I - Unit",
+   "symbol": "IPFX",
+   "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACIU"
+   "yahoo_symbol": "IPFX"
   },
   {
-   "symbol": "BIP$B",
-   "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIP$B"
+   "symbol": "IPFXU",
+   "name": "Inflection Point Acquisition Corp. VI - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPFXU"
   },
   {
-   "symbol": "HWX",
-   "name": "Headwater Exploration Inc.",
+   "symbol": "BIP.PR.E",
+   "name": "Brookfield Infrastructure Partners Inc.",
    "exchange": "TSX",
-   "yahoo_symbol": "HWX.TO",
+   "yahoo_symbol": "BIP.PR.E.TO",
    "instruments": [
     {
-     "name": "Headwater Expl Inc.",
-     "symbol": "HWX"
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIP.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIP.PR.F"
+    },
+    {
+     "name": "Brookfield Infras Un",
+     "symbol": "BIP.UN"
     }
    ]
   },
   {
-   "symbol": "MACIW",
-   "name": "Melar Acquisition Corp. I - Warrant",
+   "symbol": "EBMT",
+   "name": "Eagle Bancorp Montana, Inc. - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACIW"
+   "yahoo_symbol": "EBMT"
   },
   {
-   "symbol": "BKHAU",
-   "name": "Black Hawk Acquisition Corporation - Units",
+   "symbol": "IPFXW",
+   "name": "Inflection Point Acquisition Corp. VI - Warrant",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKHAU"
+   "yahoo_symbol": "IPFXW"
   },
   {
-   "symbol": "RLYB",
-   "name": "Rallybio Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RLYB"
-  },
-  {
-   "symbol": "SML",
-   "name": "Southstone Minerals Limited",
-   "exchange": "TSXV",
-   "yahoo_symbol": "SML.V",
-   "instruments": [
-    {
-     "name": "Southstone Minerals Limited",
-     "symbol": "SML"
-    }
-   ]
-  },
-  {
-   "symbol": "MACI",
-   "name": "Melar Acquisition Corp. I - Class A Ordinary Shares",
+   "symbol": "RCAX",
+   "name": "Defiance Daily Target 2x Long RCAT ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MACI"
+   "yahoo_symbol": "RCAX"
   },
   {
-   "symbol": "BKHA",
-   "name": "Black Hawk Acquisition Corporation - Class A Ordinary Shares",
+   "symbol": "CPHY",
+   "name": "F/m Compoundr High Yield Bond ETF",
    "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKHA"
-  },
-  {
-   "symbol": "BIPC",
-   "name": "Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIPC"
-  },
-  {
-   "symbol": "RKNG",
-   "name": "Defiance Retail Kings ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RKNG"
-  },
-  {
-   "symbol": "BIPC",
-   "name": "Brookfield Infrastructure Corporation",
-   "exchange": "TSX",
-   "yahoo_symbol": "BIPC.TO",
-   "instruments": [
-    {
-     "name": "Brookfld Infras A SV",
-     "symbol": "BIPC"
-    }
-   ]
-  },
-  {
-   "symbol": "BIP$A",
-   "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",
-   "exchange": "NYSE",
-   "yahoo_symbol": "BIP$A"
-  },
-  {
-   "symbol": "BKHAR",
-   "name": "Black Hawk Acquisition Corporation - Rights",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BKHAR"
+   "yahoo_symbol": "CPHY"
   }
  ]
 }
