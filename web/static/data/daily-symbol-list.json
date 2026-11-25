@@ -1,5 +1,5 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "data": [
   {
    "symbol": "ONE",
@@ -3490,18 +3490,6 @@
    ]
   },
   {
-   "symbol": "AIR",
-   "name": "Clean Air Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AIR.V",
-   "instruments": [
-    {
-     "name": "Clean Air Metals Inc.",
-     "symbol": "AIR"
-    }
-   ]
-  },
-  {
    "symbol": "TRAN",
    "name": "Clean Energy Transition Inc.",
    "exchange": "TSXV",
@@ -4122,6 +4110,18 @@
     {
      "name": "D2 Lithium Corp.",
      "symbol": "DTWO"
+    }
+   ]
+  },
+  {
+   "symbol": "DNTE",
+   "name": "Dante Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DNTE.V",
+   "instruments": [
+    {
+     "name": "Dante Metals Corp.",
+     "symbol": "DNTE"
     }
    ]
   },
@@ -22438,10 +22438,6 @@
     {
      "name": "Brookfield InfraPr11",
      "symbol": "BIP.PR.F"
-    },
-    {
-     "name": "Brookfield Infras Un",
-     "symbol": "BIP.UN"
     }
    ]
   },
@@ -26766,6 +26762,10 @@
     {
      "name": "Divers Rylty 5.75 De",
      "symbol": "DIV.DB.B"
+    },
+    {
+     "name": "Divrsfed Ryl Cor DB ",
+     "symbol": "DIV.DB.C"
     }
    ]
   },
@@ -71446,6 +71446,12 @@
    "yahoo_symbol": "BFC"
   },
   {
+   "symbol": "BFLR",
+   "name": "BlueFlare, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BFLR"
+  },
+  {
    "symbol": "BFLX",
    "name": "iShares Flexible Equity Active ETF",
    "exchange": "NASDAQ Global MarketSM",
@@ -74918,6 +74924,12 @@
    "name": "Canterbury Park Holding Corporation - Common Stock",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "CPHC"
+  },
+  {
+   "symbol": "CPHY",
+   "name": "F/m Compoundr High Yield Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPHY"
   },
   {
    "symbol": "CPIX",
@@ -78980,12 +78992,6 @@
    "name": "Fidelity Systematic Municipal Bond Index ETF",
    "exchange": "NASDAQ Global MarketSM",
    "yahoo_symbol": "FMUN"
-  },
-  {
-   "symbol": "FNGR",
-   "name": "FingerMotion, Inc. - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FNGR"
   },
   {
    "symbol": "FNK",
@@ -90268,12 +90274,6 @@
    "yahoo_symbol": "PARK"
   },
   {
-   "symbol": "PASG",
-   "name": "Passage Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PASG"
-  },
-  {
    "symbol": "PASW",
    "name": "Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",
    "exchange": "NASDAQ Capital Market",
@@ -93400,6 +93400,12 @@
    "yahoo_symbol": "RMTI"
   },
   {
+   "symbol": "RMTX",
+   "name": "Remix Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMTX"
+  },
+  {
    "symbol": "RNA",
    "name": "Atrium Therapeutics, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
@@ -93932,12 +93938,6 @@
    "name": "Safety Insurance Group, Inc. - Common Stock",
    "exchange": "NASDAQ Global Select MarketSM",
    "yahoo_symbol": "SAFT"
-  },
-  {
-   "symbol": "SAFX",
-   "name": "XCF Global, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SAFX"
   },
   {
    "symbol": "SAGT",

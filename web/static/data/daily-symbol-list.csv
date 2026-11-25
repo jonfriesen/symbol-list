@@ -289,7 +289,6 @@ CMCG,Chilean Metals Inc.,TSXV,CMCG.V,Chilean Metals Inc.,CMCG
 RTO.P,Chrysalis 12 Inc.,TSXV,RTO.P.V,Chrysalis 12 Inc.,RTO.P
 CRI,Churchill Resources Inc.,TSXV,CRI.V,Churchill Resources Inc.,CRI
 CAC.P,Cinaport Acquisition Corp. III,TSXV,CAC.P.V,Cinaport Acquisition Corp. III,CAC.P
-AIR,Clean Air Metals Inc.,TSXV,AIR.V,Clean Air Metals Inc.,AIR
 TRAN,Clean Energy Transition Inc.,TSXV,TRAN.V,Clean Energy Transition Inc.,TRAN
 CSX,Clean Seed Capital Group Ltd.,TSXV,CSX.V,Clean Seed Capital Group Ltd.,CSX
 CTV,CleanTech Vanadium Mining Corp.,TSXV,CTV.V,CleanTech Vanadium Mining Corp.,CTV
@@ -342,6 +341,7 @@ CVW,CVW Sustainable Royalties Inc.,TSXV,CVW.V,CVW Sustainable Royalties Inc.,CVW
 CYBE,"CyberCatch Holdings, Inc.",TSXV,CYBE.V,"CyberCatch Holdings, Inc.",CYBE
 CYM,Cymat Technologies Ltd.,TSXV,CYM.V,Cymat Technologies Ltd.,CYM
 DTWO,D2 Lithium Corp.,TSXV,DTWO.V,D2 Lithium Corp.,DTWO
+DNTE,Dante Metals Corp.,TSXV,DNTE.V,Dante Metals Corp.,DNTE
 DAR,Darelle Online Solutions Inc.,TSXV,DAR.V,Darelle Online Solutions Inc.,DAR
 DGC,Daura Gold Corp.,TSXV,DGC.V,Daura Gold Corp.,DGC
 DTEA,DAVIDsTEA Inc.,TSXV,DTEA.V,DAVIDsTEA Inc.,DTEA
@@ -1800,7 +1800,7 @@ BBUC,Brookfield Business Corporation,TSX,BBUC.TO,Brookfld Bus Corp A,BBUC
 BN,Brookfield Corporation,TSX,BN.TO,Brookfield Corp A LV,BN,Brookfld Corp. Pr 32,BN.PF.A,Brookfld Corp. Pr 34,BN.PF.B,Brookfld Corp. Pr 36,BN.PF.C,Brookfld Corp. Pr 37,BN.PF.D,Brookfld Corp. Pr 38,BN.PF.E,Brookfld Corp Pr 40,BN.PF.F,Brookfld Corp. Pr 42,BN.PF.G,Brookfld Corp. Pr 46,BN.PF.I,Brookfld Corp. Pr 48,BN.PF.J,Brookfield CoA PR54,BN.PF.M,Brookfield Crp Sr 56,BN.PF.N,Brookfld Corp Pr 2,BN.PR.B,Brookfld Corp Pr 4,BN.PR.C,Brookfld Corp Pr 13,BN.PR.K,Brookfld Corp Pr 17,BN.PR.M,Brookfld Corp Pr 18,BN.PR.N,Brookfld Corp. Pr 24,BN.PR.R,Brookfld Corp. Pr 26,BN.PR.T,Brookfld Corp. Pr 28,BN.PR.X,Brookfld Corp. Pr 30,BN.PR.Z
 BGI.UN,Brookfield Global Infrastructure Securities Income Fund,TSX,BGI.UN.TO,Brkfld GlbInfras Sec,BGI.UN
 BILP.PR.A,Brookfield Infrastructure L.P.,TSX,BILP.PR.A.TO,Brookfld infra LP,BILP.PR.A
-BIP,Brookfield Infrastructure Partners Inc.,TSX,BIP.TO,Brookfield Infa Par,BIP,Brookfield InfrasPr9,BIP.PR.E,Brookfield InfraPr11,BIP.PR.F,Brookfield Infras Un,BIP.UN
+BIP,Brookfield Infrastructure Partners Inc.,TSX,BIP.TO,Brookfield Infa Par,BIP,Brookfield InfrasPr9,BIP.PR.E,Brookfield InfraPr11,BIP.PR.F
 BIPF.PR.E,Brookfield Infrastructure Partners L.P.,TSX,BIPF.PR.E.TO,Brookfield InfrasPr9,BIPF.PR.E,Brookfield InfraPr11,BIPF.PR.F
 BPO.PR.A,Brookfield Office Properties Inc.,TSX,BPO.PR.A.TO,Brookfld Office PrAA,BPO.PR.A,Brookfld Office PrEE,BPO.PR.E,Brookfld Office PrGG,BPO.PR.G,Brookfld Office PrII,BPO.PR.I,Brookfld Office Pr N,BPO.PR.N,Brookfld Office Pr P,BPO.PR.P,Brookfld Office Pr R,BPO.PR.R,Brookfld Office Pr T,BPO.PR.T,Brookfld Office Pr W,BPO.PR.W,Brookfld Office Pr V,BPO.PR.X,Brookfld Office Pr Y,BPO.PR.Y
 BPYP.PR.A,Brookfield Property Preferred L.P.,TSX,BPYP.PR.A.TO,Brookfld PptyPref Un,BPYP.PR.A
@@ -2115,7 +2115,7 @@ DUIG,Desjardins US Investment Grade Corporate Bond Index ETF,TSX,DUIG.TO,Dej US 
 DXT,Dexterra Group Inc.,TSX,DXT.TO,Dexterra Group Inc,DXT
 DRT,DIRTT Environmental Solutions Ltd.,TSX,DRT.TO,DIRTT Env Solution J,DRT,DIRTT EnvSolJ 6.25Db,DRT.DB.A
 DSV,Discovery Mining Ltd.,TSX,DSV.TO,Discovery Mining Ltd,DSV
-DIV,Diversified Royalty Corp.,TSX,DIV.TO,Divers Rylty Corp.,DIV,Divers Rylty 6% Deb,DIV.DB.A,Divers Rylty 5.75 De,DIV.DB.B
+DIV,Diversified Royalty Corp.,TSX,DIV.TO,Divers Rylty Corp.,DIV,Divers Rylty 6% Deb,DIV.DB.A,Divers Rylty 5.75 De,DIV.DB.B,Divrsfed Ryl Cor DB ,DIV.DB.C
 DFN,Dividend 15 Split Corp.,TSX,DFN.TO,Dividend 15 Splt A,DFN,Dividend 15 Splt Pr,DFN.PR.A
 DF,Dividend 15 Split Corp. II,TSX,DF.TO,Dividend 15Split 2 A,DF,Dividend 15Splt 2 Pr,DF.PR.A
 DGS,Dividend Growth Split Corp.,TSX,DGS.TO,Div Growth Splt Cl A,DGS,Div Growth Split Pr,DGS.PR.A
@@ -7593,6 +7593,7 @@ BESO,GSR Crypto Core3 ETF,NASDAQ Global MarketSM,BESO
 BETR,Better Home & Finance Holding Company - Class A Common Stock,NASDAQ Global MarketSM,BETR
 BETRW,Better Home & Finance Holding Company - Warrant,NASDAQ Global MarketSM,BETRW
 BFC,Bank First Corporation - Common Stock,NASDAQ Capital Market,BFC
+BFLR,"BlueFlare, Inc. - Common Stock",NASDAQ Capital Market,BFLR
 BFLX,iShares Flexible Equity Active ETF,NASDAQ Global MarketSM,BFLX
 BFRG,"Bullfrog AI Holdings, Inc. - Common Stock",NASDAQ Capital Market,BFRG
 BFRGW,"Bullfrog AI Holdings, Inc. - Warrants",NASDAQ Capital Market,BFRGW
@@ -8172,6 +8173,7 @@ CPAG,F/m Compoundr U.S. Aggregate Bond ETF,NASDAQ Global MarketSM,CPAG
 CPB,The Campbell's Company - Common Stock,NASDAQ Global Select MarketSM,CPB
 CPBI,"Central Plains Bancshares, Inc. - Common Stock",NASDAQ Capital Market,CPBI
 CPHC,Canterbury Park Holding Corporation - Common Stock,NASDAQ Global MarketSM,CPHC
+CPHY,F/m Compoundr High Yield Bond ETF,NASDAQ Global MarketSM,CPHY
 CPIX,Cumberland Pharmaceuticals Inc. - Common Stock,NASDAQ Global Select MarketSM,CPIX
 CPLS,AB Core Plus Bond ETF,NASDAQ Global MarketSM,CPLS
 CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",NASDAQ Capital Market,CPOP
@@ -8849,7 +8851,6 @@ FMSTW,Foremost Clean Energy Ltd. - Warrant,NASDAQ Capital Market,FMSTW
 FMTM,MarketDesk Focused U.S. Momentum ETF,NASDAQ Global MarketSM,FMTM
 FMUB,Fidelity Municipal Bond Opportunities ETF,NASDAQ Global MarketSM,FMUB
 FMUN,Fidelity Systematic Municipal Bond Index ETF,NASDAQ Global MarketSM,FMUN
-FNGR,"FingerMotion, Inc. - common stock",NASDAQ Capital Market,FNGR
 FNK,First Trust Mid Cap Value AlphaDEX Fund,NASDAQ Global MarketSM,FNK
 FNKO,"Funko, Inc. - Class A Common Stock",NASDAQ Global Select MarketSM,FNKO
 FNLC,"First Bancorp, Inc (ME) - Common Stock",NASDAQ Global Select MarketSM,FNLC
@@ -10730,7 +10731,6 @@ PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ Global Select MarketSM,PAN
 PARA,"Parabolic Technologies, Inc. - Class A Common Stock",NASDAQ Capital Market,PARA
 PARAW,"Parabolic Technologies, Inc. - Warrant",NASDAQ Capital Market,PARAW
 PARK,"Park Dental Partners, Inc. - Common Stock",NASDAQ Capital Market,PARK
-PASG,"Passage Bio, Inc. - Common Stock",NASDAQ Capital Market,PASG
 PASW,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",NASDAQ Capital Market,PASW
 PATK,"Patrick Industries, Inc. - Common Stock",NASDAQ Global Select MarketSM,PATK
 PATN,Pacer Nasdaq International Patent Leaders ETF,NASDAQ Global MarketSM,PATN
@@ -11252,6 +11252,7 @@ RMR,The RMR Group Inc. - Class A Common Stock,NASDAQ Capital Market,RMR
 RMSG,Real Messenger Corporation - Ordinary Shares,NASDAQ Capital Market,RMSG
 RMSGW,Real Messenger Corporation - Warrants,NASDAQ Capital Market,RMSGW
 RMTI,"Rockwell Medical, Inc. - Common Stock",NASDAQ Capital Market,RMTI
+RMTX,"Remix Therapeutics, Inc. - Common Stock",NASDAQ Capital Market,RMTX
 RNA,"Atrium Therapeutics, Inc. - Common Stock",NASDAQ Global Select MarketSM,RNA
 RNAC,"Cartesian Therapeutics, Inc. - Common Stock",NASDAQ Global MarketSM,RNAC
 RNAQ,Rainier Acquisition Corporation - Class A Ordinary Shares,NASDAQ Capital Market,RNAQ
@@ -11341,7 +11342,6 @@ SABR,Sabre Corporation - Common Stock,NASDAQ Global Select MarketSM,SABR
 SABS,"SAB Biotherapeutics, Inc. - Common Stock",NASDAQ Capital Market,SABS
 SAEN,Genenta Science S.p.A. - American Depositary Shares,NASDAQ Capital Market,SAEN
 SAFT,"Safety Insurance Group, Inc. - Common Stock",NASDAQ Global Select MarketSM,SAFT
-SAFX,"XCF Global, Inc. - Class A Common Stock",NASDAQ Capital Market,SAFX
 SAGT,SAGTEC GLOBAL LIMITED - Class A Ordinary shares,NASDAQ Capital Market,SAGT
 SAIA,"Saia, Inc. - Common Stock",NASDAQ Global Select MarketSM,SAIA
 SAIC,Science Applications International Corporation - Common Stock,NASDAQ Global Select MarketSM,SAIC
