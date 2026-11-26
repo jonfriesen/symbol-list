@@ -1,66 +1,82 @@
 {
  "added": [
   {
-   "symbol": "DNTE",
-   "name": "Dante Metals Corp.",
+   "symbol": "CCPC.P",
+   "name": "Coco Pool II Corp.",
    "exchange": "TSXV",
-   "yahoo_symbol": "DNTE.V",
+   "yahoo_symbol": "CCPC.P.V",
    "instruments": [
     {
-     "name": "Dante Metals Corp.",
-     "symbol": "DNTE"
+     "name": "Coco Pool II Corp.",
+     "symbol": "CCPC.P"
     }
    ]
   },
   {
-   "symbol": "BFLR",
-   "name": "BlueFlare, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BFLR"
-  },
-  {
-   "symbol": "CPHY",
-   "name": "F/m Compoundr High Yield Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CPHY"
-  },
-  {
-   "symbol": "RMTX",
-   "name": "Remix Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RMTX"
+   "symbol": "WATT",
+   "name": "EnerGen Canada Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WATT.V",
+   "instruments": [
+    {
+     "name": "EnerGen Canada Inc.",
+     "symbol": "WATT"
+    }
+   ]
   }
  ],
  "removed": [
   {
-   "symbol": "AIR",
-   "name": "Clean Air Metals Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "AIR.V",
+   "symbol": "NTGA",
+   "name": "NBI Target 2026 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGA.TO",
    "instruments": [
     {
-     "name": "Clean Air Metals Inc.",
-     "symbol": "AIR"
+     "name": "NBI Ta2026 InGrBd Fd",
+     "symbol": "NTGA"
     }
    ]
   },
   {
-   "symbol": "PASG",
-   "name": "Passage Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PASG"
+   "symbol": "IVQ",
+   "name": "Invesque Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IVQ.TO",
+   "instruments": [
+    {
+     "name": "Invesque Inc.",
+     "symbol": "IVQ"
+    },
+    {
+     "name": "Invesque Inc. USF",
+     "symbol": "IVQ.U"
+    }
+   ]
   },
   {
-   "symbol": "FNGR",
-   "name": "FingerMotion, Inc. - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FNGR"
+   "symbol": "PTFY",
+   "name": "Plantify Foods, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTFY.V",
+   "instruments": [
+    {
+     "name": "Plantify Foods, Inc.",
+     "symbol": "PTFY"
+    }
+   ]
   },
   {
-   "symbol": "SAFX",
-   "name": "XCF Global, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SAFX"
+   "symbol": "GRVA.P",
+   "name": "Grosvenor CPC I Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GRVA.P.V",
+   "instruments": [
+    {
+     "name": "Grosvenor CPC I Inc.",
+     "symbol": "GRVA.P"
+    }
+   ]
   }
  ]
 }
