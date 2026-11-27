@@ -1,82 +1,36 @@
 {
  "added": [
   {
-   "symbol": "CCPC.P",
-   "name": "Coco Pool II Corp.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "CCPC.P.V",
-   "instruments": [
-    {
-     "name": "Coco Pool II Corp.",
-     "symbol": "CCPC.P"
-    }
-   ]
-  },
-  {
-   "symbol": "WATT",
-   "name": "EnerGen Canada Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "WATT.V",
-   "instruments": [
-    {
-     "name": "EnerGen Canada Inc.",
-     "symbol": "WATT"
-    }
-   ]
+   "symbol": "HTOEU",
+   "name": "H2O America  - Equity Units",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTOEU"
   }
  ],
  "removed": [
   {
-   "symbol": "NTGA",
-   "name": "NBI Target 2026 Investment Grade Bond Fund",
-   "exchange": "TSX",
-   "yahoo_symbol": "NTGA.TO",
-   "instruments": [
-    {
-     "name": "NBI Ta2026 InGrBd Fd",
-     "symbol": "NTGA"
-    }
-   ]
+   "symbol": "VVOS",
+   "name": "Vivos Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VVOS"
   },
   {
-   "symbol": "IVQ",
-   "name": "Invesque Inc.",
-   "exchange": "TSX",
-   "yahoo_symbol": "IVQ.TO",
-   "instruments": [
-    {
-     "name": "Invesque Inc.",
-     "symbol": "IVQ"
-    },
-    {
-     "name": "Invesque Inc. USF",
-     "symbol": "IVQ.U"
-    }
-   ]
-  },
-  {
-   "symbol": "PTFY",
-   "name": "Plantify Foods, Inc.",
+   "symbol": "PLUR",
+   "name": "Plurilock Security Inc.",
    "exchange": "TSXV",
-   "yahoo_symbol": "PTFY.V",
+   "yahoo_symbol": "PLUR.V",
    "instruments": [
     {
-     "name": "Plantify Foods, Inc.",
-     "symbol": "PTFY"
+     "name": "Plurilock Security Inc.",
+     "symbol": "PLUR"
     }
    ]
   },
   {
-   "symbol": "GRVA.P",
-   "name": "Grosvenor CPC I Inc.",
-   "exchange": "TSXV",
-   "yahoo_symbol": "GRVA.P.V",
-   "instruments": [
-    {
-     "name": "Grosvenor CPC I Inc.",
-     "symbol": "GRVA.P"
-    }
-   ]
+   "symbol": "HCTI",
+   "name": "Healthcare Triangle, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCTI"
   }
  ]
 }
